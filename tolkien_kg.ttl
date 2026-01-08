@@ -1,0 +1,3239 @@
+@prefix ex: <http://example.org/tolkien/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+
+<http://example.org/tolkien/page/Adalbert_Bolger> schema1:about ex:Adalbert_Bolger .
+
+<http://example.org/tolkien/page/Adaldrida_Bolger> schema1:about ex:Adaldrida_Bolger .
+
+<http://example.org/tolkien/page/Adalgar_Bolger> schema1:about ex:Adalgar_Bolger .
+
+<http://example.org/tolkien/page/Adalgrim_Took> schema1:about ex:Adalgrim_Took .
+
+<http://example.org/tolkien/page/Adam_Hornblower> schema1:about ex:Adam_Hornblower .
+
+<http://example.org/tolkien/page/Adamanta_Chubb> schema1:about ex:Adamanta_Chubb .
+
+<http://example.org/tolkien/page/Adelard_Took> schema1:about ex:Adelard_Took .
+
+<http://example.org/tolkien/page/Adrahil> schema1:about ex:Adrahil .
+
+<http://example.org/tolkien/page/Adrahil_(Captain_of_the_Left_Wing)> schema1:about ex:Adrahil_\(Captain_of_the_Left_Wing\) .
+
+<http://example.org/tolkien/page/Aglahad> schema1:about ex:Aglahad .
+
+<http://example.org/tolkien/page/Aldamir> schema1:about ex:Aldamir .
+
+<http://example.org/tolkien/page/Aldor> schema1:about ex:Aldor .
+
+<http://example.org/tolkien/page/Alfrida_of_the_Yale> schema1:about ex:Alfrida_of_the_Yale .
+
+<http://example.org/tolkien/page/Alphros> schema1:about ex:Alphros .
+
+<http://example.org/tolkien/page/Amaranth_Brandybuck> schema1:about ex:Amaranth_Brandybuck .
+
+<http://example.org/tolkien/page/Amethyst_Hornblower> schema1:about ex:Amethyst_Hornblower .
+
+<http://example.org/tolkien/page/Amlaith> schema1:about ex:Amlaith .
+
+<http://example.org/tolkien/page/Amroth> schema1:about ex:Amroth .
+
+<http://example.org/tolkien/page/Amrothos> schema1:about ex:Amrothos .
+
+<http://example.org/tolkien/page/Anar_(dwarf)> schema1:about ex:Anar_\(dwarf\) .
+
+<http://example.org/tolkien/page/Anardil_(King_of_Gondor)> schema1:about ex:Anardil_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Anborn> schema1:about ex:Anborn .
+
+<http://example.org/tolkien/page/Andwise_Roper> schema1:about ex:Andwise_Roper .
+
+<http://example.org/tolkien/page/Angamaitë> schema1:about ex:Angamaitë .
+
+<http://example.org/tolkien/page/Angbor> schema1:about ex:Angbor .
+
+<http://example.org/tolkien/page/Angelica_Baggins> schema1:about ex:Angelica_Baggins .
+
+<http://example.org/tolkien/page/Angelimir> schema1:about ex:Angelimir .
+
+<http://example.org/tolkien/page/Anson_Roper> schema1:about ex:Anson_Roper .
+
+<http://example.org/tolkien/page/Arador> schema1:about ex:Arador .
+
+<http://example.org/tolkien/page/Araglas> schema1:about ex:Araglas .
+
+<http://example.org/tolkien/page/Aragorn> schema1:about ex:Aragorn .
+
+<http://example.org/tolkien/page/Aragorn_I> schema1:about ex:Aragorn_I .
+
+<http://example.org/tolkien/page/Aragost> schema1:about ex:Aragost .
+
+<http://example.org/tolkien/page/Arahad_I> schema1:about ex:Arahad_I .
+
+<http://example.org/tolkien/page/Arahad_II> schema1:about ex:Arahad_II .
+
+<http://example.org/tolkien/page/Arahael> schema1:about ex:Arahael .
+
+<http://example.org/tolkien/page/Aranarth> schema1:about ex:Aranarth .
+
+<http://example.org/tolkien/page/Arantar> schema1:about ex:Arantar .
+
+<http://example.org/tolkien/page/Aranuir> schema1:about ex:Aranuir .
+
+<http://example.org/tolkien/page/Araphant> schema1:about ex:Araphant .
+
+<http://example.org/tolkien/page/Araphor> schema1:about ex:Araphor .
+
+<http://example.org/tolkien/page/Arassuil> schema1:about ex:Arassuil .
+
+<http://example.org/tolkien/page/Aratan> schema1:about ex:Aratan .
+
+<http://example.org/tolkien/page/Arathorn_I> schema1:about ex:Arathorn_I .
+
+<http://example.org/tolkien/page/Arathorn_II> schema1:about ex:Arathorn_II .
+
+<http://example.org/tolkien/page/Araval> schema1:about ex:Araval .
+
+<http://example.org/tolkien/page/Aravir> schema1:about ex:Aravir .
+
+<http://example.org/tolkien/page/Aravorn> schema1:about ex:Aravorn .
+
+<http://example.org/tolkien/page/Arciryas> schema1:about ex:Arciryas .
+
+<http://example.org/tolkien/page/Argeleb_I> schema1:about ex:Argeleb_I .
+
+<http://example.org/tolkien/page/Argeleb_II> schema1:about ex:Argeleb_II .
+
+<http://example.org/tolkien/page/Argonui> schema1:about ex:Argonui .
+
+<http://example.org/tolkien/page/Artamir> schema1:about ex:Artamir .
+
+<http://example.org/tolkien/page/Arvedui> schema1:about ex:Arvedui .
+
+<http://example.org/tolkien/page/Arvegil> schema1:about ex:Arvegil .
+
+<http://example.org/tolkien/page/Arveleg_I> schema1:about ex:Arveleg_I .
+
+<http://example.org/tolkien/page/Arveleg_II> schema1:about ex:Arveleg_II .
+
+<http://example.org/tolkien/page/Arwen> schema1:about ex:Arwen .
+
+<http://example.org/tolkien/page/Asphodel_Brandybuck> schema1:about ex:Asphodel_Brandybuck .
+
+<http://example.org/tolkien/page/Atanatar_I> schema1:about ex:Atanatar_I .
+
+<http://example.org/tolkien/page/Atanatar_II> schema1:about ex:Atanatar_II .
+
+<http://example.org/tolkien/page/Azog> schema1:about ex:Azog .
+
+<http://example.org/tolkien/page/Bain> schema1:about ex:Bain .
+
+<http://example.org/tolkien/page/Balbo_Baggins> schema1:about ex:Balbo_Baggins .
+
+<http://example.org/tolkien/page/Baldor> schema1:about ex:Baldor .
+
+<http://example.org/tolkien/page/Balin> schema1:about ex:Balin .
+
+<http://example.org/tolkien/page/Bandobras_Took> schema1:about ex:Bandobras_Took .
+
+<http://example.org/tolkien/page/Barahir_(Steward_of_Gondor)> schema1:about ex:Barahir_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Baranor_(man_of_Gondor)> schema1:about ex:Baranor_\(man_of_Gondor\) .
+
+<http://example.org/tolkien/page/Bard> schema1:about ex:Bard .
+
+<http://example.org/tolkien/page/Bard_II> schema1:about ex:Bard_II .
+
+<http://example.org/tolkien/page/Barliman_Butterbur> schema1:about ex:Barliman_Butterbur .
+
+<http://example.org/tolkien/page/Basso_Boffin> schema1:about ex:Basso_Boffin .
+
+<http://example.org/tolkien/page/Beechbone> schema1:about ex:Beechbone .
+
+<http://example.org/tolkien/page/Belba_Baggins> schema1:about ex:Belba_Baggins .
+
+<http://example.org/tolkien/page/Belecthor_I> schema1:about ex:Belecthor_I .
+
+<http://example.org/tolkien/page/Belecthor_II> schema1:about ex:Belecthor_II .
+
+<http://example.org/tolkien/page/Beleg_(King_of_Arthedain)> schema1:about ex:Beleg_\(King_of_Arthedain\) .
+
+<http://example.org/tolkien/page/Belegorn> schema1:about ex:Belegorn .
+
+<http://example.org/tolkien/page/Bell_Goodchild> schema1:about ex:Bell_Goodchild .
+
+<http://example.org/tolkien/page/Belladonna_Took> schema1:about ex:Belladonna_Took .
+
+<http://example.org/tolkien/page/Benrodir> schema1:about ex:Benrodir .
+
+<http://example.org/tolkien/page/Beorn> schema1:about ex:Beorn .
+
+<http://example.org/tolkien/page/Beregond> schema1:about ex:Beregond .
+
+<http://example.org/tolkien/page/Beregond_(Steward_of_Gondor)> schema1:about ex:Beregond_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Beren_(Steward_of_Gondor)> schema1:about ex:Beren_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Bergil> schema1:about ex:Bergil .
+
+<http://example.org/tolkien/page/Berilac_Brandybuck> schema1:about ex:Berilac_Brandybuck .
+
+<http://example.org/tolkien/page/Berylla_Boffin> schema1:about ex:Berylla_Boffin .
+
+<http://example.org/tolkien/page/Berúthiel> schema1:about ex:Berúthiel .
+
+<http://example.org/tolkien/page/Bifur> schema1:about ex:Bifur .
+
+<http://example.org/tolkien/page/Bilbo_Baggins> schema1:about ex:Bilbo_Baggins .
+
+<http://example.org/tolkien/page/Bill_Butcher> schema1:about ex:Bill_Butcher .
+
+<http://example.org/tolkien/page/Bill_Ferny> schema1:about ex:Bill_Ferny .
+
+<http://example.org/tolkien/page/Bingo_Baggins> schema1:about ex:Bingo_Baggins .
+
+<http://example.org/tolkien/page/Bladorthin> schema1:about ex:Bladorthin .
+
+<http://example.org/tolkien/page/Blanco_Bracegirdle> schema1:about ex:Blanco_Bracegirdle .
+
+<http://example.org/tolkien/page/Blue_Wizards> schema1:about ex:Blue_Wizards .
+
+<http://example.org/tolkien/page/Bob> schema1:about ex:Bob .
+
+<http://example.org/tolkien/page/Bodo_Proudfoot> schema1:about ex:Bodo_Proudfoot .
+
+<http://example.org/tolkien/page/Bofur> schema1:about ex:Bofur .
+
+<http://example.org/tolkien/page/Bolg> schema1:about ex:Bolg .
+
+<http://example.org/tolkien/page/Bombur> schema1:about ex:Bombur .
+
+<http://example.org/tolkien/page/Borin> schema1:about ex:Borin .
+
+<http://example.org/tolkien/page/Boromir> schema1:about ex:Boromir .
+
+<http://example.org/tolkien/page/Boromir_(Steward_of_Gondor)> schema1:about ex:Boromir_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Borondir> schema1:about ex:Borondir .
+
+<http://example.org/tolkien/page/Bosco_Boffin> schema1:about ex:Bosco_Boffin .
+
+<http://example.org/tolkien/page/Bowman_Cotton> schema1:about ex:Bowman_Cotton .
+
+<http://example.org/tolkien/page/Brand> schema1:about ex:Brand .
+
+<http://example.org/tolkien/page/Brego> schema1:about ex:Brego .
+
+<http://example.org/tolkien/page/Briffo_Boffin> schema1:about ex:Briffo_Boffin .
+
+<http://example.org/tolkien/page/Bruno_Bracegirdle> schema1:about ex:Bruno_Bracegirdle .
+
+<http://example.org/tolkien/page/Brytta> schema1:about ex:Brytta .
+
+<http://example.org/tolkien/page/Bucca_of_the_Marish> schema1:about ex:Bucca_of_the_Marish .
+
+<http://example.org/tolkien/page/Buffo_Boffin> schema1:about ex:Buffo_Boffin .
+
+<http://example.org/tolkien/page/Bungo_Baggins> schema1:about ex:Bungo_Baggins .
+
+<http://example.org/tolkien/page/Burin> schema1:about ex:Burin .
+
+<http://example.org/tolkien/page/Calimehtar_(King_of_Gondor)> schema1:about ex:Calimehtar_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Calimehtar_(son_of_Calmacil)> schema1:about ex:Calimehtar_\(son_of_Calmacil\) .
+
+<http://example.org/tolkien/page/Calimmacil> schema1:about ex:Calimmacil .
+
+<http://example.org/tolkien/page/Calmacil_(King_of_Gondor)> schema1:about ex:Calmacil_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Camellia_Sackville> schema1:about ex:Camellia_Sackville .
+
+<http://example.org/tolkien/page/Captain_of_the_Haven> schema1:about ex:Captain_of_the_Haven .
+
+<http://example.org/tolkien/page/Captain_of_the_guard> schema1:about ex:Captain_of_the_guard .
+
+<http://example.org/tolkien/page/Caramella_Chubb> schema1:about ex:Caramella_Chubb .
+
+<http://example.org/tolkien/page/Carandrian> schema1:about ex:Carandrian .
+
+<http://example.org/tolkien/page/Carc> schema1:about ex:Carc .
+
+<http://example.org/tolkien/page/Carl_(son_of_Cottar)> schema1:about ex:Carl_\(son_of_Cottar\) .
+
+<http://example.org/tolkien/page/Carl_Cotton> schema1:about ex:Carl_Cotton .
+
+<http://example.org/tolkien/page/Castamir> schema1:about ex:Castamir .
+
+<http://example.org/tolkien/page/Cats_of_Queen_Berúthiel> schema1:about ex:Cats_of_Queen_Berúthiel .
+
+<http://example.org/tolkien/page/Celandine_Brandybuck> schema1:about ex:Celandine_Brandybuck .
+
+<http://example.org/tolkien/page/Celeborn> schema1:about ex:Celeborn .
+
+<http://example.org/tolkien/page/Celebrindor> schema1:about ex:Celebrindor .
+
+<http://example.org/tolkien/page/Celebrían> schema1:about ex:Celebrían .
+
+<http://example.org/tolkien/page/Celepharn> schema1:about ex:Celepharn .
+
+<http://example.org/tolkien/page/Cemendur_(King_of_Gondor)> schema1:about ex:Cemendur_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Ceorl> schema1:about ex:Ceorl .
+
+<http://example.org/tolkien/page/Chica_Chubb> schema1:about ex:Chica_Chubb .
+
+<http://example.org/tolkien/page/Chief_of_the_guards> schema1:about ex:Chief_of_the_guards .
+
+<http://example.org/tolkien/page/Cirion> schema1:about ex:Cirion .
+
+<http://example.org/tolkien/page/Ciryandil> schema1:about ex:Ciryandil .
+
+<http://example.org/tolkien/page/Ciryon> schema1:about ex:Ciryon .
+
+<http://example.org/tolkien/page/Colombo_Hornblower> schema1:about ex:Colombo_Hornblower .
+
+<http://example.org/tolkien/page/Cora_Goodbody> schema1:about ex:Cora_Goodbody .
+
+<http://example.org/tolkien/page/Cotman> schema1:about ex:Cotman .
+
+<http://example.org/tolkien/page/Cottar> schema1:about ex:Cottar .
+
+<http://example.org/tolkien/page/Councillors> schema1:about ex:Councillors .
+
+<http://example.org/tolkien/page/Círdan> schema1:about ex:Círdan .
+
+<http://example.org/tolkien/page/Daddy_Twofoot> schema1:about ex:Daddy_Twofoot .
+
+<http://example.org/tolkien/page/Daisy_Baggins> schema1:about ex:Daisy_Baggins .
+
+<http://example.org/tolkien/page/Daisy_Gamgee> schema1:about ex:Daisy_Gamgee .
+
+<http://example.org/tolkien/page/Damrod> schema1:about ex:Damrod .
+
+<http://example.org/tolkien/page/Denethor> schema1:about ex:Denethor .
+
+<http://example.org/tolkien/page/Denethor_I> schema1:about ex:Denethor_I .
+
+<http://example.org/tolkien/page/Derufin> schema1:about ex:Derufin .
+
+<http://example.org/tolkien/page/Dervorin> schema1:about ex:Dervorin .
+
+<http://example.org/tolkien/page/Diamond_of_Long_Cleeve> schema1:about ex:Diamond_of_Long_Cleeve .
+
+<http://example.org/tolkien/page/Dina_Diggle> schema1:about ex:Dina_Diggle .
+
+<http://example.org/tolkien/page/Dinodas_Brandybuck> schema1:about ex:Dinodas_Brandybuck .
+
+<http://example.org/tolkien/page/Dior_(Steward_of_Gondor)> schema1:about ex:Dior_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Doderic_Brandybuck> schema1:about ex:Doderic_Brandybuck .
+
+<http://example.org/tolkien/page/Dodinas_Brandybuck> schema1:about ex:Dodinas_Brandybuck .
+
+<http://example.org/tolkien/page/Donnamira_Took> schema1:about ex:Donnamira_Took .
+
+<http://example.org/tolkien/page/Dora_Baggins> schema1:about ex:Dora_Baggins .
+
+<http://example.org/tolkien/page/Dori> schema1:about ex:Dori .
+
+<http://example.org/tolkien/page/Drogo_Baggins> schema1:about ex:Drogo_Baggins .
+
+<http://example.org/tolkien/page/Druda_Burrows> schema1:about ex:Druda_Burrows .
+
+<http://example.org/tolkien/page/Dudo_Baggins> schema1:about ex:Dudo_Baggins .
+
+<http://example.org/tolkien/page/Duilin_(son_of_Duinhir)> schema1:about ex:Duilin_\(son_of_Duinhir\) .
+
+<http://example.org/tolkien/page/Duinhir> schema1:about ex:Duinhir .
+
+<http://example.org/tolkien/page/Durin's_Bane> schema1:about <http://example.org/tolkien/Durin's_Bane> .
+
+<http://example.org/tolkien/page/Durin_IV> schema1:about ex:Durin_IV .
+
+<http://example.org/tolkien/page/Durin_V> schema1:about ex:Durin_V .
+
+<http://example.org/tolkien/page/Durin_VI> schema1:about ex:Durin_VI .
+
+<http://example.org/tolkien/page/Dwalin> schema1:about ex:Dwalin .
+
+<http://example.org/tolkien/page/Dáin_I> schema1:about ex:Dáin_I .
+
+<http://example.org/tolkien/page/Dáin_Ironfoot> schema1:about ex:Dáin_Ironfoot .
+
+<http://example.org/tolkien/page/Déor> schema1:about ex:Déor .
+
+<http://example.org/tolkien/page/Déorwine> schema1:about ex:Déorwine .
+
+<http://example.org/tolkien/page/Dírhael> schema1:about ex:Dírhael .
+
+<http://example.org/tolkien/page/Dís> schema1:about ex:Dís .
+
+<http://example.org/tolkien/page/Dúnhere> schema1:about ex:Dúnhere .
+
+<http://example.org/tolkien/page/Ecthelion_I> schema1:about ex:Ecthelion_I .
+
+<http://example.org/tolkien/page/Ecthelion_II> schema1:about ex:Ecthelion_II .
+
+<http://example.org/tolkien/page/Egalmoth_(Steward_of_Gondor)> schema1:about ex:Egalmoth_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Eglantine_Banks> schema1:about ex:Eglantine_Banks .
+
+<http://example.org/tolkien/page/Elanor_Gardner> schema1:about ex:Elanor_Gardner .
+
+<http://example.org/tolkien/page/Eldacar_(King_of_Arnor)> schema1:about ex:Eldacar_\(King_of_Arnor\) .
+
+<http://example.org/tolkien/page/Eldacar_(King_of_Gondor)> schema1:about ex:Eldacar_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Elendur_(King_of_Arnor)> schema1:about ex:Elendur_\(King_of_Arnor\) .
+
+<http://example.org/tolkien/page/Elendur_(son_of_Isildur)> schema1:about ex:Elendur_\(son_of_Isildur\) .
+
+<http://example.org/tolkien/page/Elfhelm> schema1:about ex:Elfhelm .
+
+<http://example.org/tolkien/page/Elfhild> schema1:about ex:Elfhild .
+
+<http://example.org/tolkien/page/Elladan_and_Elrohir> schema1:about ex:Elladan_and_Elrohir .
+
+<http://example.org/tolkien/page/Elphir> schema1:about ex:Elphir .
+
+<http://example.org/tolkien/page/Elrond> schema1:about ex:Elrond .
+
+<http://example.org/tolkien/page/Eofor> schema1:about ex:Eofor .
+
+<http://example.org/tolkien/page/Eorl> schema1:about ex:Eorl .
+
+<http://example.org/tolkien/page/Eradan> schema1:about ex:Eradan .
+
+<http://example.org/tolkien/page/Erchirion> schema1:about ex:Erchirion .
+
+<http://example.org/tolkien/page/Erestor> schema1:about ex:Erestor .
+
+<http://example.org/tolkien/page/Erkenbrand> schema1:about ex:Erkenbrand .
+
+<http://example.org/tolkien/page/Erling> schema1:about ex:Erling .
+
+<http://example.org/tolkien/page/Esmeralda_Took> schema1:about ex:Esmeralda_Took .
+
+<http://example.org/tolkien/page/Estella_Bolger> schema1:about ex:Estella_Bolger .
+
+<http://example.org/tolkien/page/Estelmo> schema1:about ex:Estelmo .
+
+<http://example.org/tolkien/page/Everard_Took> schema1:about ex:Everard_Took .
+
+<http://example.org/tolkien/page/Eärendil_(King_of_Gondor)> schema1:about ex:Eärendil_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Eärendur_(King_of_Arnor)> schema1:about ex:Eärendur_\(King_of_Arnor\) .
+
+<http://example.org/tolkien/page/Eärnil_I> schema1:about ex:Eärnil_I .
+
+<http://example.org/tolkien/page/Eärnil_II> schema1:about ex:Eärnil_II .
+
+<http://example.org/tolkien/page/Eärnur> schema1:about ex:Eärnur .
+
+<http://example.org/tolkien/page/F> schema1:about ex:F .
+
+<http://example.org/tolkien/page/Falco_Chubb-Baggins> schema1:about ex:Falco_Chubb-Baggins .
+
+<http://example.org/tolkien/page/Fang_(dog)> schema1:about ex:Fang_\(dog\) .
+
+<http://example.org/tolkien/page/Faramir> schema1:about ex:Faramir .
+
+<http://example.org/tolkien/page/Faramir_(son_of_Ondoher)> schema1:about ex:Faramir_\(son_of_Ondoher\) .
+
+<http://example.org/tolkien/page/Farin> schema1:about ex:Farin .
+
+<http://example.org/tolkien/page/Farmer_Cotton> schema1:about ex:Farmer_Cotton .
+
+<http://example.org/tolkien/page/Farmer_Hogg> schema1:about ex:Farmer_Hogg .
+
+<http://example.org/tolkien/page/Farmer_Maggot> schema1:about ex:Farmer_Maggot .
+
+<http://example.org/tolkien/page/Fastolph_Bolger> schema1:about ex:Fastolph_Bolger .
+
+<http://example.org/tolkien/page/Fastred_(rider_of_Rohan)> schema1:about ex:Fastred_\(rider_of_Rohan\) .
+
+<http://example.org/tolkien/page/Fastred_of_Greenholm> schema1:about ex:Fastred_of_Greenholm .
+
+<http://example.org/tolkien/page/Fengel> schema1:about ex:Fengel .
+
+<http://example.org/tolkien/page/Ferdibrand_Took> schema1:about ex:Ferdibrand_Took .
+
+<http://example.org/tolkien/page/Ferdinand_Took> schema1:about ex:Ferdinand_Took .
+
+<http://example.org/tolkien/page/Ferumbras_Took_I> schema1:about ex:Ferumbras_Took_I .
+
+<http://example.org/tolkien/page/Ferumbras_Took_II> schema1:about ex:Ferumbras_Took_II .
+
+<http://example.org/tolkien/page/Ferumbras_Took_III> schema1:about ex:Ferumbras_Took_III .
+
+<http://example.org/tolkien/page/Filibert_Bolger> schema1:about ex:Filibert_Bolger .
+
+<http://example.org/tolkien/page/Finduilas_(wife_of_Denethor)> schema1:about ex:Finduilas_\(wife_of_Denethor\) .
+
+<http://example.org/tolkien/page/Flambard_Took> schema1:about ex:Flambard_Took .
+
+<http://example.org/tolkien/page/Flói> schema1:about ex:Flói .
+
+<http://example.org/tolkien/page/Folca> schema1:about ex:Folca .
+
+<http://example.org/tolkien/page/Folco_Boffin> schema1:about ex:Folco_Boffin .
+
+<http://example.org/tolkien/page/Folco_Burrowes> schema1:about ex:Folco_Burrowes .
+
+<http://example.org/tolkien/page/Folcred_and_Fastred> schema1:about ex:Folcred_and_Fastred .
+
+<http://example.org/tolkien/page/Folcwine> schema1:about ex:Folcwine .
+
+<http://example.org/tolkien/page/Forlong> schema1:about ex:Forlong .
+
+<http://example.org/tolkien/page/Forthwini> schema1:about ex:Forthwini .
+
+<http://example.org/tolkien/page/Fortinbras_Took_I> schema1:about ex:Fortinbras_Took_I .
+
+<http://example.org/tolkien/page/Fortinbras_Took_II> schema1:about ex:Fortinbras_Took_II .
+
+<http://example.org/tolkien/page/Fosco_Baggins> schema1:about ex:Fosco_Baggins .
+
+<http://example.org/tolkien/page/Fram> schema1:about ex:Fram .
+
+<http://example.org/tolkien/page/Freca> schema1:about ex:Freca .
+
+<http://example.org/tolkien/page/Fredegar_Bolger> schema1:about ex:Fredegar_Bolger .
+
+<http://example.org/tolkien/page/Frerin> schema1:about ex:Frerin .
+
+<http://example.org/tolkien/page/Frodo_Baggins> schema1:about ex:Frodo_Baggins .
+
+<http://example.org/tolkien/page/Frumgar> schema1:about ex:Frumgar .
+
+<http://example.org/tolkien/page/Frár> schema1:about ex:Frár .
+
+<http://example.org/tolkien/page/Fréa> schema1:about ex:Fréa .
+
+<http://example.org/tolkien/page/Fréaláf> schema1:about ex:Fréaláf .
+
+<http://example.org/tolkien/page/Fréawine> schema1:about ex:Fréawine .
+
+<http://example.org/tolkien/page/Frór> schema1:about ex:Frór .
+
+<http://example.org/tolkien/page/Fundin> schema1:about ex:Fundin .
+
+<http://example.org/tolkien/page/Fíli> schema1:about ex:Fíli .
+
+<http://example.org/tolkien/page/Fíriel> schema1:about ex:Fíriel .
+
+<http://example.org/tolkien/page/Gaffer_Gamgee> schema1:about ex:Gaffer_Gamgee .
+
+<http://example.org/tolkien/page/Galador> schema1:about ex:Galador .
+
+<http://example.org/tolkien/page/Galadriel> schema1:about ex:Galadriel .
+
+<http://example.org/tolkien/page/Galdor_(elf_of_the_Havens)> schema1:about ex:Galdor_\(elf_of_the_Havens\) .
+
+<http://example.org/tolkien/page/Galdor_(man_of_Rohan)> schema1:about ex:Galdor_\(man_of_Rohan\) .
+
+<http://example.org/tolkien/page/Galion> schema1:about ex:Galion .
+
+<http://example.org/tolkien/page/Gamling> schema1:about ex:Gamling .
+
+<http://example.org/tolkien/page/Gandalf> schema1:about ex:Gandalf .
+
+<http://example.org/tolkien/page/General_Targg> schema1:about ex:General_Targg .
+
+<http://example.org/tolkien/page/Gerda_Boffin> schema1:about ex:Gerda_Boffin .
+
+<http://example.org/tolkien/page/Gerontius_Took> schema1:about ex:Gerontius_Took .
+
+<http://example.org/tolkien/page/Ghân> schema1:about ex:Ghân .
+
+<http://example.org/tolkien/page/Ghân-buri-Ghân> schema1:about ex:Ghân-buri-Ghân .
+
+<http://example.org/tolkien/page/Gilbarad> schema1:about ex:Gilbarad .
+
+<http://example.org/tolkien/page/Gildor> schema1:about ex:Gildor .
+
+<http://example.org/tolkien/page/Gilly_Brownlock> schema1:about ex:Gilly_Brownlock .
+
+<http://example.org/tolkien/page/Gilmith> schema1:about ex:Gilmith .
+
+<http://example.org/tolkien/page/Gilraen> schema1:about ex:Gilraen .
+
+<http://example.org/tolkien/page/Gimli> schema1:about ex:Gimli .
+
+<http://example.org/tolkien/page/Girion> schema1:about ex:Girion .
+
+<http://example.org/tolkien/page/Glorfindel> schema1:about ex:Glorfindel .
+
+<http://example.org/tolkien/page/Gléowine> schema1:about ex:Gléowine .
+
+<http://example.org/tolkien/page/Glóin> schema1:about ex:Glóin .
+
+<http://example.org/tolkien/page/Glóin_(King_of_Durin's_Folk)> schema1:about <http://example.org/tolkien/Glóin_(King_of_Durin's_Folk)> .
+
+<http://example.org/tolkien/page/Golasgil> schema1:about ex:Golasgil .
+
+<http://example.org/tolkien/page/Goldberry> schema1:about ex:Goldberry .
+
+<http://example.org/tolkien/page/Goldwine> schema1:about ex:Goldwine .
+
+<http://example.org/tolkien/page/Golfimbul> schema1:about ex:Golfimbul .
+
+<http://example.org/tolkien/page/Gollum> schema1:about ex:Gollum .
+
+<http://example.org/tolkien/page/Gorbadoc_Brandybuck> schema1:about ex:Gorbadoc_Brandybuck .
+
+<http://example.org/tolkien/page/Gorbag> schema1:about ex:Gorbag .
+
+<http://example.org/tolkien/page/Gorbulas_Brandybuck> schema1:about ex:Gorbulas_Brandybuck .
+
+<http://example.org/tolkien/page/Gorhendad_Oldbuck> schema1:about ex:Gorhendad_Oldbuck .
+
+<http://example.org/tolkien/page/Gormadoc_Brandybuck> schema1:about ex:Gormadoc_Brandybuck .
+
+<http://example.org/tolkien/page/Gothmog_(Lieutenant_of_Morgul)> schema1:about ex:Gothmog_\(Lieutenant_of_Morgul\) .
+
+<http://example.org/tolkien/page/Gram> schema1:about ex:Gram .
+
+<http://example.org/tolkien/page/Great_Eagle> schema1:about ex:Great_Eagle .
+
+<http://example.org/tolkien/page/Great_Goblin> schema1:about ex:Great_Goblin .
+
+<http://example.org/tolkien/page/Great_boar_of_Everholt> schema1:about ex:Great_boar_of_Everholt .
+
+<http://example.org/tolkien/page/Griffo_Boffin> schema1:about ex:Griffo_Boffin .
+
+<http://example.org/tolkien/page/Grim> schema1:about ex:Grim .
+
+<http://example.org/tolkien/page/Grimbeorn> schema1:about ex:Grimbeorn .
+
+<http://example.org/tolkien/page/Grimbold> schema1:about ex:Grimbold .
+
+<http://example.org/tolkien/page/Grip> schema1:about ex:Grip .
+
+<http://example.org/tolkien/page/Grip_(Bill_Butcher's_dog)> schema1:about <http://example.org/tolkien/Grip_(Bill_Butcher's_dog)> .
+
+<http://example.org/tolkien/page/Grishnákh> schema1:about ex:Grishnákh .
+
+<http://example.org/tolkien/page/Gruffo_Boffin> schema1:about ex:Gruffo_Boffin .
+
+<http://example.org/tolkien/page/Gríma> schema1:about ex:Gríma .
+
+<http://example.org/tolkien/page/Gróin> schema1:about ex:Gróin .
+
+<http://example.org/tolkien/page/Grór> schema1:about ex:Grór .
+
+<http://example.org/tolkien/page/Gundabald_Bolger> schema1:about ex:Gundabald_Bolger .
+
+<http://example.org/tolkien/page/Gundahad_Bolger> schema1:about ex:Gundahad_Bolger .
+
+<http://example.org/tolkien/page/Gundahar_Bolger> schema1:about ex:Gundahar_Bolger .
+
+<http://example.org/tolkien/page/Gundolpho_Bolger> schema1:about ex:Gundolpho_Bolger .
+
+<http://example.org/tolkien/page/Guthláf> schema1:about ex:Guthláf .
+
+<http://example.org/tolkien/page/Gwaihir> schema1:about ex:Gwaihir .
+
+<http://example.org/tolkien/page/Gálmód> schema1:about ex:Gálmód .
+
+<http://example.org/tolkien/page/Gárulf> schema1:about ex:Gárulf .
+
+<http://example.org/tolkien/page/Hador_(Steward_of_Gondor)> schema1:about ex:Hador_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Halbarad> schema1:about ex:Halbarad .
+
+<http://example.org/tolkien/page/Haldir> schema1:about ex:Haldir .
+
+<http://example.org/tolkien/page/Haleth_(son_of_Helm)> schema1:about ex:Haleth_\(son_of_Helm\) .
+
+<http://example.org/tolkien/page/Halfast_Gamgee> schema1:about ex:Halfast_Gamgee .
+
+<http://example.org/tolkien/page/Halfred_Gamgee> schema1:about ex:Halfred_Gamgee .
+
+<http://example.org/tolkien/page/Halfred_Greenhand> schema1:about ex:Halfred_Greenhand .
+
+<http://example.org/tolkien/page/Halfred_of_Overhill> schema1:about ex:Halfred_of_Overhill .
+
+<http://example.org/tolkien/page/Hallas> schema1:about ex:Hallas .
+
+<http://example.org/tolkien/page/Hamfast_of_Gamwich> schema1:about ex:Hamfast_of_Gamwich .
+
+<http://example.org/tolkien/page/Hamson_Gamgee> schema1:about ex:Hamson_Gamgee .
+
+<http://example.org/tolkien/page/Hanna_Goldworthy> schema1:about ex:Hanna_Goldworthy .
+
+<http://example.org/tolkien/page/Hannar> schema1:about ex:Hannar .
+
+<http://example.org/tolkien/page/Harding_(rider_of_Rohan)> schema1:about ex:Harding_\(rider_of_Rohan\) .
+
+<http://example.org/tolkien/page/Harry_Goatleaf> schema1:about ex:Harry_Goatleaf .
+
+<http://example.org/tolkien/page/Helm> schema1:about ex:Helm .
+
+<http://example.org/tolkien/page/Helm's_daughter> schema1:about <http://example.org/tolkien/Helm's_daughter> .
+
+<http://example.org/tolkien/page/Hending> schema1:about ex:Hending .
+
+<http://example.org/tolkien/page/Herb-master> schema1:about ex:Herb-master .
+
+<http://example.org/tolkien/page/Herefara> schema1:about ex:Herefara .
+
+<http://example.org/tolkien/page/Heribald_Bolger> schema1:about ex:Heribald_Bolger .
+
+<http://example.org/tolkien/page/Herion> schema1:about ex:Herion .
+
+<http://example.org/tolkien/page/Herubrand> schema1:about ex:Herubrand .
+
+<http://example.org/tolkien/page/Herugar_Bolger> schema1:about ex:Herugar_Bolger .
+
+<http://example.org/tolkien/page/Hild> schema1:about ex:Hild .
+
+<http://example.org/tolkien/page/Hilda_Bracegirdle> schema1:about ex:Hilda_Bracegirdle .
+
+<http://example.org/tolkien/page/Hildibrand_Took> schema1:about ex:Hildibrand_Took .
+
+<http://example.org/tolkien/page/Hildifons_Took> schema1:about ex:Hildifons_Took .
+
+<http://example.org/tolkien/page/Hildigard_Took> schema1:about ex:Hildigard_Took .
+
+<http://example.org/tolkien/page/Hildigrim_Took> schema1:about ex:Hildigrim_Took .
+
+<http://example.org/tolkien/page/Hirgon> schema1:about ex:Hirgon .
+
+<http://example.org/tolkien/page/Hirluin> schema1:about ex:Hirluin .
+
+<http://example.org/tolkien/page/Hob_Gammidge> schema1:about ex:Hob_Gammidge .
+
+<http://example.org/tolkien/page/Hob_Hayward> schema1:about ex:Hob_Hayward .
+
+<http://example.org/tolkien/page/Hobson> schema1:about ex:Hobson .
+
+<http://example.org/tolkien/page/Holdwine> schema1:about ex:Holdwine .
+
+<http://example.org/tolkien/page/Holman_Cotton> schema1:about ex:Holman_Cotton .
+
+<http://example.org/tolkien/page/Holman_Greenhand> schema1:about ex:Holman_Greenhand .
+
+<http://example.org/tolkien/page/Holman_the_greenhanded> schema1:about ex:Holman_the_greenhanded .
+
+<http://example.org/tolkien/page/Horn_(rider_of_Rohan)> schema1:about ex:Horn_\(rider_of_Rohan\) .
+
+<http://example.org/tolkien/page/Hound_of_Sauron> schema1:about ex:Hound_of_Sauron .
+
+<http://example.org/tolkien/page/Hugo_Boffin> schema1:about ex:Hugo_Boffin .
+
+<http://example.org/tolkien/page/Hugo_Bracegirdle> schema1:about ex:Hugo_Bracegirdle .
+
+<http://example.org/tolkien/page/Hyarmendacil_I> schema1:about ex:Hyarmendacil_I .
+
+<http://example.org/tolkien/page/Hyarmendacil_II> schema1:about ex:Hyarmendacil_II .
+
+<http://example.org/tolkien/page/Háma> schema1:about ex:Háma .
+
+<http://example.org/tolkien/page/Háma_(son_of_Helm)> schema1:about ex:Háma_\(son_of_Helm\) .
+
+<http://example.org/tolkien/page/Húrin_(Warden_of_the_Keys)> schema1:about ex:Húrin_\(Warden_of_the_Keys\) .
+
+<http://example.org/tolkien/page/Húrin_I> schema1:about ex:Húrin_I .
+
+<http://example.org/tolkien/page/Húrin_II> schema1:about ex:Húrin_II .
+
+<http://example.org/tolkien/page/Húrin_of_Emyn_Arnen> schema1:about ex:Húrin_of_Emyn_Arnen .
+
+<http://example.org/tolkien/page/Iago_Grubb> schema1:about ex:Iago_Grubb .
+
+<http://example.org/tolkien/page/Idis> schema1:about ex:Idis .
+
+<http://example.org/tolkien/page/Ilberic_Brandybuck> schema1:about ex:Ilberic_Brandybuck .
+
+<http://example.org/tolkien/page/Imrahil> schema1:about ex:Imrahil .
+
+<http://example.org/tolkien/page/Imrazôr> schema1:about ex:Imrazôr .
+
+<http://example.org/tolkien/page/Ingold> schema1:about ex:Ingold .
+
+<http://example.org/tolkien/page/Ioreth> schema1:about ex:Ioreth .
+
+<http://example.org/tolkien/page/Iorlas> schema1:about ex:Iorlas .
+
+<http://example.org/tolkien/page/Isembard_Took> schema1:about ex:Isembard_Took .
+
+<http://example.org/tolkien/page/Isembold_Took> schema1:about ex:Isembold_Took .
+
+<http://example.org/tolkien/page/Isengar_Took> schema1:about ex:Isengar_Took .
+
+<http://example.org/tolkien/page/Isengrim_Took_I> schema1:about ex:Isengrim_Took_I .
+
+<http://example.org/tolkien/page/Isengrim_Took_II> schema1:about ex:Isengrim_Took_II .
+
+<http://example.org/tolkien/page/Isengrim_Took_III> schema1:about ex:Isengrim_Took_III .
+
+<http://example.org/tolkien/page/Isildur> schema1:about ex:Isildur .
+
+<http://example.org/tolkien/page/Isumbras_Took_I> schema1:about ex:Isumbras_Took_I .
+
+<http://example.org/tolkien/page/Isumbras_Took_II> schema1:about ex:Isumbras_Took_II .
+
+<http://example.org/tolkien/page/Isumbras_Took_III> schema1:about ex:Isumbras_Took_III .
+
+<http://example.org/tolkien/page/Isumbras_Took_IV> schema1:about ex:Isumbras_Took_IV .
+
+<http://example.org/tolkien/page/Ivorwen> schema1:about ex:Ivorwen .
+
+<http://example.org/tolkien/page/Ivriniel> schema1:about ex:Ivriniel .
+
+<http://example.org/tolkien/page/Ivy_Goodenough> schema1:about ex:Ivy_Goodenough .
+
+<http://example.org/tolkien/page/Jago_Boffin> schema1:about ex:Jago_Boffin .
+
+<http://example.org/tolkien/page/Jessamine_Boffin> schema1:about ex:Jessamine_Boffin .
+
+<http://example.org/tolkien/page/Khamûl> schema1:about ex:Khamûl .
+
+<http://example.org/tolkien/page/King_of_the_Dead> schema1:about ex:King_of_the_Dead .
+
+<http://example.org/tolkien/page/Kiryandil_(son_of_Siriondil)> schema1:about ex:Kiryandil_\(son_of_Siriondil\) .
+
+<http://example.org/tolkien/page/Kíli> schema1:about ex:Kíli .
+
+<http://example.org/tolkien/page/Lagduf> schema1:about ex:Lagduf .
+
+<http://example.org/tolkien/page/Lalia_Clayhanger> schema1:about ex:Lalia_Clayhanger .
+
+<http://example.org/tolkien/page/Landroval> schema1:about ex:Landroval .
+
+<http://example.org/tolkien/page/Largo_Baggins> schema1:about ex:Largo_Baggins .
+
+<http://example.org/tolkien/page/Last_prince_of_Cardolan> schema1:about ex:Last_prince_of_Cardolan .
+
+<http://example.org/tolkien/page/Laura_Grubb> schema1:about ex:Laura_Grubb .
+
+<http://example.org/tolkien/page/Lavender_Grubb> schema1:about ex:Lavender_Grubb .
+
+<http://example.org/tolkien/page/Leader_of_the_Éothéod> schema1:about ex:Leader_of_the_Éothéod .
+
+<http://example.org/tolkien/page/Leaflock> schema1:about ex:Leaflock .
+
+<http://example.org/tolkien/page/Legolas> schema1:about ex:Legolas .
+
+<http://example.org/tolkien/page/Lief> schema1:about ex:Lief .
+
+<http://example.org/tolkien/page/Lily_Baggins> schema1:about ex:Lily_Baggins .
+
+<http://example.org/tolkien/page/Lily_Brown> schema1:about ex:Lily_Brown .
+
+<http://example.org/tolkien/page/Linda_Baggins> schema1:about ex:Linda_Baggins .
+
+<http://example.org/tolkien/page/Lindir> schema1:about ex:Lindir .
+
+<http://example.org/tolkien/page/Lobelia_Sackville-Baggins> schema1:about ex:Lobelia_Sackville-Baggins .
+
+<http://example.org/tolkien/page/Lofar> schema1:about ex:Lofar .
+
+<http://example.org/tolkien/page/Lonely_Troll> schema1:about ex:Lonely_Troll .
+
+<http://example.org/tolkien/page/Longo_Baggins> schema1:about ex:Longo_Baggins .
+
+<http://example.org/tolkien/page/Lord_Thorne> schema1:about ex:Lord_Thorne .
+
+<http://example.org/tolkien/page/Lotho_Sackville-Baggins> schema1:about ex:Lotho_Sackville-Baggins .
+
+<http://example.org/tolkien/page/Lothíriel> schema1:about ex:Lothíriel .
+
+<http://example.org/tolkien/page/Lugdush> schema1:about ex:Lugdush .
+
+<http://example.org/tolkien/page/Léod> schema1:about ex:Léod .
+
+<http://example.org/tolkien/page/Lóni> schema1:about ex:Lóni .
+
+<http://example.org/tolkien/page/Mablung_(ranger_of_Ithilien)> schema1:about ex:Mablung_\(ranger_of_Ithilien\) .
+
+<http://example.org/tolkien/page/Madoc_Brandybuck> schema1:about ex:Madoc_Brandybuck .
+
+<http://example.org/tolkien/page/Malbeth> schema1:about ex:Malbeth .
+
+<http://example.org/tolkien/page/Mallor> schema1:about ex:Mallor .
+
+<http://example.org/tolkien/page/Malva_Headstrong> schema1:about ex:Malva_Headstrong .
+
+<http://example.org/tolkien/page/Malvegil> schema1:about ex:Malvegil .
+
+<http://example.org/tolkien/page/Manwë> schema1:about ex:Manwë .
+
+<http://example.org/tolkien/page/Marcho_and_Blanco> schema1:about ex:Marcho_and_Blanco .
+
+<http://example.org/tolkien/page/Mardil> schema1:about ex:Mardil .
+
+<http://example.org/tolkien/page/Marhari> schema1:about ex:Marhari .
+
+<http://example.org/tolkien/page/Marhath> schema1:about ex:Marhath .
+
+<http://example.org/tolkien/page/Marhwini> schema1:about ex:Marhwini .
+
+<http://example.org/tolkien/page/Marigold_Gamgee> schema1:about ex:Marigold_Gamgee .
+
+<http://example.org/tolkien/page/Marmadas_Brandybuck> schema1:about ex:Marmadas_Brandybuck .
+
+<http://example.org/tolkien/page/Marmadoc_Brandybuck> schema1:about ex:Marmadoc_Brandybuck .
+
+<http://example.org/tolkien/page/Marroc_Brandybuck> schema1:about ex:Marroc_Brandybuck .
+
+<http://example.org/tolkien/page/Master_of_Lake-town> schema1:about ex:Master_of_Lake-town .
+
+<http://example.org/tolkien/page/Mat_Heathertoes> schema1:about ex:Mat_Heathertoes .
+
+<http://example.org/tolkien/page/Mauhúr> schema1:about ex:Mauhúr .
+
+<http://example.org/tolkien/page/May_(hobbit)> schema1:about ex:May_\(hobbit\) .
+
+<http://example.org/tolkien/page/May_Gamgee> schema1:about ex:May_Gamgee .
+
+<http://example.org/tolkien/page/Melilot_Brandybuck> schema1:about ex:Melilot_Brandybuck .
+
+<http://example.org/tolkien/page/Menegilda_Goold> schema1:about ex:Menegilda_Goold .
+
+<http://example.org/tolkien/page/Meneldil> schema1:about ex:Meneldil .
+
+<http://example.org/tolkien/page/Meneldor> schema1:about ex:Meneldor .
+
+<http://example.org/tolkien/page/Mentha_Brandybuck> schema1:about ex:Mentha_Brandybuck .
+
+<http://example.org/tolkien/page/Meriadoc_Brandybuck> schema1:about ex:Meriadoc_Brandybuck .
+
+<http://example.org/tolkien/page/Merimac_Brandybuck> schema1:about ex:Merimac_Brandybuck .
+
+<http://example.org/tolkien/page/Merimas_Brandybuck> schema1:about ex:Merimas_Brandybuck .
+
+<http://example.org/tolkien/page/Milo_Burrows> schema1:about ex:Milo_Burrows .
+
+<http://example.org/tolkien/page/Mimosa_Bunce> schema1:about ex:Mimosa_Bunce .
+
+<http://example.org/tolkien/page/Minardil> schema1:about ex:Minardil .
+
+<http://example.org/tolkien/page/Minastan> schema1:about ex:Minastan .
+
+<http://example.org/tolkien/page/Minohtar> schema1:about ex:Minohtar .
+
+<http://example.org/tolkien/page/Minstrel_of_Gondor> schema1:about ex:Minstrel_of_Gondor .
+
+<http://example.org/tolkien/page/Minto_Burrows> schema1:about ex:Minto_Burrows .
+
+<http://example.org/tolkien/page/Mirabella_Took> schema1:about ex:Mirabella_Took .
+
+<http://example.org/tolkien/page/Mithrellas> schema1:about ex:Mithrellas .
+
+<http://example.org/tolkien/page/Moro_Burrows> schema1:about ex:Moro_Burrows .
+
+<http://example.org/tolkien/page/Morwen_(daughter_of_Belecthor)> schema1:about ex:Morwen_\(daughter_of_Belecthor\) .
+
+<http://example.org/tolkien/page/Morwen_(daughter_of_Húrin)> schema1:about ex:Morwen_\(daughter_of_Húrin\) .
+
+<http://example.org/tolkien/page/Morwen_Steelsheen> schema1:about ex:Morwen_Steelsheen .
+
+<http://example.org/tolkien/page/Mosco_Burrows> schema1:about ex:Mosco_Burrows .
+
+<http://example.org/tolkien/page/Mouth_of_Sauron> schema1:about ex:Mouth_of_Sauron .
+
+<http://example.org/tolkien/page/Mr._Mugwort> schema1:about ex:Mr._Mugwort .
+
+<http://example.org/tolkien/page/Mrs._Bunce> schema1:about ex:Mrs._Bunce .
+
+<http://example.org/tolkien/page/Mrs_Maggot> schema1:about ex:Mrs_Maggot .
+
+<http://example.org/tolkien/page/Mungo_Baggins> schema1:about ex:Mungo_Baggins .
+
+<http://example.org/tolkien/page/Muzgash> schema1:about ex:Muzgash .
+
+<http://example.org/tolkien/page/Myrtle_Burrows> schema1:about ex:Myrtle_Burrows .
+
+<http://example.org/tolkien/page/Naglur-Danlo> schema1:about ex:Naglur-Danlo .
+
+<http://example.org/tolkien/page/Nar_(companion_of_Bilbo)> schema1:about ex:Nar_\(companion_of_Bilbo\) .
+
+<http://example.org/tolkien/page/Narmacil_I> schema1:about ex:Narmacil_I .
+
+<http://example.org/tolkien/page/Narmacil_II> schema1:about ex:Narmacil_II .
+
+<http://example.org/tolkien/page/Nazgûl> schema1:about ex:Nazgûl .
+
+<http://example.org/tolkien/page/Nimrodel> schema1:about ex:Nimrodel .
+
+<http://example.org/tolkien/page/Nina_Lightfoot> schema1:about ex:Nina_Lightfoot .
+
+<http://example.org/tolkien/page/Nob> schema1:about ex:Nob .
+
+<http://example.org/tolkien/page/Nora_Bolger> schema1:about ex:Nora_Bolger .
+
+<http://example.org/tolkien/page/Nori> schema1:about ex:Nori .
+
+<http://example.org/tolkien/page/Northiligand> schema1:about ex:Northiligand .
+
+<http://example.org/tolkien/page/Náin_(son_of_Grór)> schema1:about ex:Náin_\(son_of_Grór\) .
+
+<http://example.org/tolkien/page/Náin_I> schema1:about ex:Náin_I .
+
+<http://example.org/tolkien/page/Náin_II> schema1:about ex:Náin_II .
+
+<http://example.org/tolkien/page/Náli> schema1:about ex:Náli .
+
+<http://example.org/tolkien/page/Nár> schema1:about ex:Nár .
+
+<http://example.org/tolkien/page/Odo_Proudfoot> schema1:about ex:Odo_Proudfoot .
+
+<http://example.org/tolkien/page/Odovacar_Bolger> schema1:about ex:Odovacar_Bolger .
+
+<http://example.org/tolkien/page/Ohtar> schema1:about ex:Ohtar .
+
+<http://example.org/tolkien/page/Old_Man_Willow> schema1:about ex:Old_Man_Willow .
+
+<http://example.org/tolkien/page/Old_Noakes> schema1:about ex:Old_Noakes .
+
+<http://example.org/tolkien/page/Old_Pennicruik> schema1:about ex:Old_Pennicruik .
+
+<http://example.org/tolkien/page/Olo_Proudfoot> schema1:about ex:Olo_Proudfoot .
+
+<http://example.org/tolkien/page/Olwyn> schema1:about ex:Olwyn .
+
+<http://example.org/tolkien/page/Ondoher> schema1:about ex:Ondoher .
+
+<http://example.org/tolkien/page/Orgulas_Brandybuck> schema1:about ex:Orgulas_Brandybuck .
+
+<http://example.org/tolkien/page/Ori> schema1:about ex:Ori .
+
+<http://example.org/tolkien/page/Ornendil> schema1:about ex:Ornendil .
+
+<http://example.org/tolkien/page/Orodreth_(Steward_of_Gondor)> schema1:about ex:Orodreth_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Oromë> schema1:about ex:Oromë .
+
+<http://example.org/tolkien/page/Orophin> schema1:about ex:Orophin .
+
+<http://example.org/tolkien/page/Ostoher> schema1:about ex:Ostoher .
+
+<http://example.org/tolkien/page/Otho_Sackville-Baggins> schema1:about ex:Otho_Sackville-Baggins .
+
+<http://example.org/tolkien/page/Otto_Boffin> schema1:about ex:Otto_Boffin .
+
+<http://example.org/tolkien/page/Paladin_Took_I> schema1:about ex:Paladin_Took_I .
+
+<http://example.org/tolkien/page/Paladin_Took_II> schema1:about ex:Paladin_Took_II .
+
+<http://example.org/tolkien/page/Pansy_Baggins> schema1:about ex:Pansy_Baggins .
+
+<http://example.org/tolkien/page/Pearl_Took> schema1:about ex:Pearl_Took .
+
+<http://example.org/tolkien/page/Peeping_Jack> schema1:about ex:Peeping_Jack .
+
+<http://example.org/tolkien/page/Pelendur> schema1:about ex:Pelendur .
+
+<http://example.org/tolkien/page/Peony_Baggins> schema1:about ex:Peony_Baggins .
+
+<http://example.org/tolkien/page/Peregrin_Took> schema1:about ex:Peregrin_Took .
+
+<http://example.org/tolkien/page/Perry-the-Winkle_(hobbit)> schema1:about ex:Perry-the-Winkle_\(hobbit\) .
+
+<http://example.org/tolkien/page/Pervinca_Took> schema1:about ex:Pervinca_Took .
+
+<http://example.org/tolkien/page/Pimpernel_Took> schema1:about ex:Pimpernel_Took .
+
+<http://example.org/tolkien/page/Polo_Baggins> schema1:about ex:Polo_Baggins .
+
+<http://example.org/tolkien/page/Ponto_Baggins_I> schema1:about ex:Ponto_Baggins_I .
+
+<http://example.org/tolkien/page/Ponto_Baggins_II> schema1:about ex:Ponto_Baggins_II .
+
+<http://example.org/tolkien/page/Poppy_Chubb-Baggins> schema1:about ex:Poppy_Chubb-Baggins .
+
+<http://example.org/tolkien/page/Porto_Baggins> schema1:about ex:Porto_Baggins .
+
+<http://example.org/tolkien/page/Posco_Baggins> schema1:about ex:Posco_Baggins .
+
+<http://example.org/tolkien/page/Pott_the_Mayor> schema1:about ex:Pott_the_Mayor .
+
+<http://example.org/tolkien/page/Primo_Grubb> schema1:about ex:Primo_Grubb .
+
+<http://example.org/tolkien/page/Primrose_Boffin> schema1:about ex:Primrose_Boffin .
+
+<http://example.org/tolkien/page/Primula_Brandybuck> schema1:about ex:Primula_Brandybuck .
+
+<http://example.org/tolkien/page/Prisca_Baggins> schema1:about ex:Prisca_Baggins .
+
+<http://example.org/tolkien/page/Quickbeam> schema1:about ex:Quickbeam .
+
+<http://example.org/tolkien/page/Radagast> schema1:about ex:Radagast .
+
+<http://example.org/tolkien/page/Radbug> schema1:about ex:Radbug .
+
+<http://example.org/tolkien/page/Reginard_Took> schema1:about ex:Reginard_Took .
+
+<http://example.org/tolkien/page/Robin_Smallburrow> schema1:about ex:Robin_Smallburrow .
+
+<http://example.org/tolkien/page/Rollo_Boffin> schema1:about ex:Rollo_Boffin .
+
+<http://example.org/tolkien/page/Rorimac_Brandybuck> schema1:about ex:Rorimac_Brandybuck .
+
+<http://example.org/tolkien/page/Rosa_Baggins> schema1:about ex:Rosa_Baggins .
+
+<http://example.org/tolkien/page/Rosamunda_Took> schema1:about ex:Rosamunda_Took .
+
+<http://example.org/tolkien/page/Rose_(daughter_of_Holman)> schema1:about ex:Rose_\(daughter_of_Holman\) .
+
+<http://example.org/tolkien/page/Rose_Cotton> schema1:about ex:Rose_Cotton .
+
+<http://example.org/tolkien/page/Rowan> schema1:about ex:Rowan .
+
+<http://example.org/tolkien/page/Rowlie_Appledore> schema1:about ex:Rowlie_Appledore .
+
+<http://example.org/tolkien/page/Roäc> schema1:about ex:Roäc .
+
+<http://example.org/tolkien/page/Ruby_Bolger> schema1:about ex:Ruby_Bolger .
+
+<http://example.org/tolkien/page/Rudibert_Bolger> schema1:about ex:Rudibert_Bolger .
+
+<http://example.org/tolkien/page/Rudigar_Bolger> schema1:about ex:Rudigar_Bolger .
+
+<http://example.org/tolkien/page/Rudolph_Bolger> schema1:about ex:Rudolph_Bolger .
+
+<http://example.org/tolkien/page/Rufus_Burrows> schema1:about ex:Rufus_Burrows .
+
+<http://example.org/tolkien/page/Rían_(daughter_of_Steward_Barahir)> schema1:about ex:Rían_\(daughter_of_Steward_Barahir\) .
+
+<http://example.org/tolkien/page/Rómendacil_I> schema1:about ex:Rómendacil_I .
+
+<http://example.org/tolkien/page/Rómendacil_II> schema1:about ex:Rómendacil_II .
+
+<http://example.org/tolkien/page/Rúmil_(elf_of_Lórien)> schema1:about ex:Rúmil_\(elf_of_Lórien\) .
+
+<http://example.org/tolkien/page/Salvia_Brandybuck> schema1:about ex:Salvia_Brandybuck .
+
+<http://example.org/tolkien/page/Samwise_Gamgee> schema1:about ex:Samwise_Gamgee .
+
+<http://example.org/tolkien/page/Sancho_Proudfoot> schema1:about ex:Sancho_Proudfoot .
+
+<http://example.org/tolkien/page/Sandyman> schema1:about ex:Sandyman .
+
+<http://example.org/tolkien/page/Sangahyando> schema1:about ex:Sangahyando .
+
+<http://example.org/tolkien/page/Sapphira_Brockhouse> schema1:about ex:Sapphira_Brockhouse .
+
+<http://example.org/tolkien/page/Saradas_Brandybuck> schema1:about ex:Saradas_Brandybuck .
+
+<http://example.org/tolkien/page/Saradoc_Brandybuck> schema1:about ex:Saradoc_Brandybuck .
+
+<http://example.org/tolkien/page/Saruman> schema1:about ex:Saruman .
+
+<http://example.org/tolkien/page/Sauron> schema1:about ex:Sauron .
+
+<http://example.org/tolkien/page/Scatha> schema1:about ex:Scatha .
+
+<http://example.org/tolkien/page/Seredic_Brandybuck> schema1:about ex:Seredic_Brandybuck .
+
+<http://example.org/tolkien/page/Shagram> schema1:about ex:Shagram .
+
+<http://example.org/tolkien/page/Shagrat> schema1:about ex:Shagrat .
+
+<http://example.org/tolkien/page/Shank> schema1:about ex:Shank .
+
+<http://example.org/tolkien/page/Shelob> schema1:about ex:Shelob .
+
+<http://example.org/tolkien/page/Sigismond_Took> schema1:about ex:Sigismond_Took .
+
+<http://example.org/tolkien/page/Siriondil_(King_of_Gondor)> schema1:about ex:Siriondil_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Siriondil_(son_of_Calimmacil)> schema1:about ex:Siriondil_\(son_of_Calimmacil\) .
+
+<http://example.org/tolkien/page/Skinbark> schema1:about ex:Skinbark .
+
+<http://example.org/tolkien/page/Smaug> schema1:about ex:Smaug .
+
+<http://example.org/tolkien/page/Snaga_(orc_of_Isengard)> schema1:about ex:Snaga_\(orc_of_Isengard\) .
+
+<http://example.org/tolkien/page/Snaga_(orc_of_Mordor)> schema1:about ex:Snaga_\(orc_of_Mordor\) .
+
+<http://example.org/tolkien/page/Squint-eyed_southerner> schema1:about ex:Squint-eyed_southerner .
+
+<http://example.org/tolkien/page/Talking_purse> schema1:about ex:Talking_purse .
+
+<http://example.org/tolkien/page/Tanta_Hornblower> schema1:about ex:Tanta_Hornblower .
+
+<http://example.org/tolkien/page/Tarannon_Falastur> schema1:about ex:Tarannon_Falastur .
+
+<http://example.org/tolkien/page/Tarcil> schema1:about ex:Tarcil .
+
+<http://example.org/tolkien/page/Tarciryan> schema1:about ex:Tarciryan .
+
+<http://example.org/tolkien/page/Targon> schema1:about ex:Targon .
+
+<http://example.org/tolkien/page/Tarondor_(King_of_Arnor)> schema1:about ex:Tarondor_\(King_of_Arnor\) .
+
+<http://example.org/tolkien/page/Tarondor_(King_of_Gondor)> schema1:about ex:Tarondor_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Ted_Sandyman> schema1:about ex:Ted_Sandyman .
+
+<http://example.org/tolkien/page/Telemnar> schema1:about ex:Telemnar .
+
+<http://example.org/tolkien/page/Telumehtar_Umbardacil> schema1:about ex:Telumehtar_Umbardacil .
+
+<http://example.org/tolkien/page/Thengel> schema1:about ex:Thengel .
+
+<http://example.org/tolkien/page/Theobald_Bolger> schema1:about ex:Theobald_Bolger .
+
+<http://example.org/tolkien/page/Thorin> schema1:about ex:Thorin .
+
+<http://example.org/tolkien/page/Thorin_I> schema1:about ex:Thorin_I .
+
+<http://example.org/tolkien/page/Thorin_Stonehelm> schema1:about ex:Thorin_Stonehelm .
+
+<http://example.org/tolkien/page/Thorondir> schema1:about ex:Thorondir .
+
+<http://example.org/tolkien/page/Thranduil> schema1:about ex:Thranduil .
+
+<http://example.org/tolkien/page/Thráin> schema1:about ex:Thráin .
+
+<http://example.org/tolkien/page/Thráin_I> schema1:about ex:Thráin_I .
+
+<http://example.org/tolkien/page/Thrór> schema1:about ex:Thrór .
+
+<http://example.org/tolkien/page/Théoden> schema1:about ex:Théoden .
+
+<http://example.org/tolkien/page/Théodred> schema1:about ex:Théodred .
+
+<http://example.org/tolkien/page/Théodwyn> schema1:about ex:Théodwyn .
+
+<http://example.org/tolkien/page/Tobold_Hornblower> schema1:about ex:Tobold_Hornblower .
+
+<http://example.org/tolkien/page/Togo_Goodbody> schema1:about ex:Togo_Goodbody .
+
+<http://example.org/tolkien/page/Tolman_Cotton_Junior> schema1:about ex:Tolman_Cotton_Junior .
+
+<http://example.org/tolkien/page/Tom_Bombadil> schema1:about ex:Tom_Bombadil .
+
+<http://example.org/tolkien/page/Tom_Pickthorn> schema1:about ex:Tom_Pickthorn .
+
+<http://example.org/tolkien/page/Tosto_Boffin> schema1:about ex:Tosto_Boffin .
+
+<http://example.org/tolkien/page/Treebeard> schema1:about ex:Treebeard .
+
+<http://example.org/tolkien/page/Turambar_(King_of_Gondor)> schema1:about ex:Turambar_\(King_of_Gondor\) .
+
+<http://example.org/tolkien/page/Turgon_(Steward_of_Gondor)> schema1:about ex:Turgon_\(Steward_of_Gondor\) .
+
+<http://example.org/tolkien/page/Túrin_I> schema1:about ex:Túrin_I .
+
+<http://example.org/tolkien/page/Túrin_II> schema1:about ex:Túrin_II .
+
+<http://example.org/tolkien/page/Uffo_Boffin> schema1:about ex:Uffo_Boffin .
+
+<http://example.org/tolkien/page/Ufthak> schema1:about ex:Ufthak .
+
+<http://example.org/tolkien/page/Uglúk> schema1:about ex:Uglúk .
+
+<http://example.org/tolkien/page/Valacar> schema1:about ex:Valacar .
+
+<http://example.org/tolkien/page/Valandil_(King_of_Arnor)> schema1:about ex:Valandil_\(King_of_Arnor\) .
+
+<http://example.org/tolkien/page/Valandur> schema1:about ex:Valandur .
+
+<http://example.org/tolkien/page/Varda> schema1:about ex:Varda .
+
+<http://example.org/tolkien/page/Vidugavia> schema1:about ex:Vidugavia .
+
+<http://example.org/tolkien/page/Vidumavi> schema1:about ex:Vidumavi .
+
+<http://example.org/tolkien/page/Vigo_Boffin> schema1:about ex:Vigo_Boffin .
+
+<http://example.org/tolkien/page/Vorondil> schema1:about ex:Vorondil .
+
+<http://example.org/tolkien/page/Walda> schema1:about ex:Walda .
+
+<http://example.org/tolkien/page/Warden_of_the_Houses_of_Healing> schema1:about ex:Warden_of_the_Houses_of_Healing .
+
+<http://example.org/tolkien/page/Watcher_in_the_Water> schema1:about ex:Watcher_in_the_Water .
+
+<http://example.org/tolkien/page/Wilcome_Cotton_I> schema1:about ex:Wilcome_Cotton_I .
+
+<http://example.org/tolkien/page/Wilcome_Cotton_II> schema1:about ex:Wilcome_Cotton_II .
+
+<http://example.org/tolkien/page/Wilibald_Bolger> schema1:about ex:Wilibald_Bolger .
+
+<http://example.org/tolkien/page/Wilimar_Bolger> schema1:about ex:Wilimar_Bolger .
+
+<http://example.org/tolkien/page/Will_Whitfoot> schema1:about ex:Will_Whitfoot .
+
+<http://example.org/tolkien/page/William,_Tom,_and_Bert> schema1:about <http://example.org/tolkien/William,_Tom,_and_Bert> .
+
+<http://example.org/tolkien/page/Willie_Banks> schema1:about ex:Willie_Banks .
+
+<http://example.org/tolkien/page/Wiseman_Gamwich> schema1:about ex:Wiseman_Gamwich .
+
+<http://example.org/tolkien/page/Witch-king> schema1:about ex:Witch-king .
+
+<http://example.org/tolkien/page/Wolf_(dog)> schema1:about ex:Wolf_\(dog\) .
+
+<http://example.org/tolkien/page/Wrot> schema1:about ex:Wrot .
+
+<http://example.org/tolkien/page/Wulf> schema1:about ex:Wulf .
+
+<http://example.org/tolkien/page/Wídfara> schema1:about ex:Wídfara .
+
+<http://example.org/tolkien/page/Yavanna> schema1:about ex:Yavanna .
+
+<http://example.org/tolkien/page/Éomer> schema1:about ex:Éomer .
+
+<http://example.org/tolkien/page/Éomund> schema1:about ex:Éomund .
+
+<http://example.org/tolkien/page/Éomund_(Captain_of_the_Éothéod)> schema1:about ex:Éomund_\(Captain_of_the_Éothéod\) .
+
+<http://example.org/tolkien/page/Éothain> schema1:about ex:Éothain .
+
+<http://example.org/tolkien/page/Éothéod> schema1:about ex:Éothéod .
+
+<http://example.org/tolkien/page/Éowin> schema1:about ex:Éowin .
+
+<http://example.org/tolkien/page/Éowyn> schema1:about ex:Éowyn .
+
+<http://example.org/tolkien/page/Óin> schema1:about ex:Óin .
+
+<http://example.org/tolkien/page/Óin_(King_of_Durin's_Folk)> schema1:about <http://example.org/tolkien/Óin_(King_of_Durin's_Folk)> .
+
+ex:Adalbert_Bolger a schema1:Person ;
+    rdfs:label "Adalbert Bolger"@en .
+
+ex:Adaldrida_Bolger a schema1:Person ;
+    rdfs:label "Adaldrida Bolger"@en .
+
+ex:Adalgar_Bolger a schema1:Person ;
+    rdfs:label "Adalgar Bolger"@en .
+
+ex:Adalgrim_Took a schema1:Person ;
+    rdfs:label "Adalgrim Took"@en .
+
+ex:Adam_Hornblower a schema1:Person ;
+    rdfs:label "Adam Hornblower"@en .
+
+ex:Adamanta_Chubb a schema1:Person ;
+    rdfs:label "Adamanta Chubb"@en .
+
+ex:Adelard_Took a schema1:Person ;
+    rdfs:label "Adelard Took"@en .
+
+ex:Adrahil a schema1:Person ;
+    rdfs:label "Adrahil"@en .
+
+ex:Adrahil_\(Captain_of_the_Left_Wing\) a schema1:Person ;
+    rdfs:label "Adrahil (Captain of the Left Wing)"@en .
+
+ex:Aglahad a schema1:Person ;
+    rdfs:label "Aglahad"@en .
+
+ex:Aldamir a schema1:Person ;
+    rdfs:label "Aldamir"@en .
+
+ex:Aldor a schema1:Person ;
+    rdfs:label "Aldor"@en .
+
+ex:Alfrida_of_the_Yale a schema1:Person ;
+    rdfs:label "Alfrida of the Yale"@en .
+
+ex:Alphros a schema1:Person ;
+    rdfs:label "Alphros"@en .
+
+ex:Amaranth_Brandybuck a schema1:Person ;
+    rdfs:label "Amaranth Brandybuck"@en .
+
+ex:Amethyst_Hornblower a schema1:Person ;
+    rdfs:label "Amethyst Hornblower"@en .
+
+ex:Amlaith a schema1:Person ;
+    rdfs:label "Amlaith"@en .
+
+ex:Amroth a schema1:Person ;
+    rdfs:label "Amroth"@en .
+
+ex:Amrothos a schema1:Person ;
+    rdfs:label "Amrothos"@en .
+
+ex:Anar_\(dwarf\) a schema1:Person ;
+    rdfs:label "Anar (dwarf)"@en .
+
+ex:Anardil_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Anardil (King of Gondor)"@en .
+
+ex:Anborn a schema1:Person ;
+    rdfs:label "Anborn"@en .
+
+ex:Andwise_Roper a schema1:Person ;
+    rdfs:label "Andwise Roper"@en .
+
+ex:Angamaitë a schema1:Person ;
+    rdfs:label "Angamaitë"@en .
+
+ex:Angbor a schema1:Person ;
+    rdfs:label "Angbor"@en .
+
+ex:Angelica_Baggins a schema1:Person ;
+    rdfs:label "Angelica Baggins"@en .
+
+ex:Angelimir a schema1:Person ;
+    rdfs:label "Angelimir"@en .
+
+ex:Anson_Roper a schema1:Person ;
+    rdfs:label "Anson Roper"@en .
+
+ex:Arador a schema1:Person ;
+    rdfs:label "Arador"@en .
+
+ex:Araglas a schema1:Person ;
+    rdfs:label "Araglas"@en .
+
+ex:Aragorn a schema1:Person ;
+    rdfs:label "Aragorn"@en .
+
+ex:Aragorn_I a schema1:Person ;
+    rdfs:label "Aragorn I"@en .
+
+ex:Aragost a schema1:Person ;
+    rdfs:label "Aragost"@en .
+
+ex:Arahad_I a schema1:Person ;
+    rdfs:label "Arahad I"@en .
+
+ex:Arahad_II a schema1:Person ;
+    rdfs:label "Arahad II"@en .
+
+ex:Arahael a schema1:Person ;
+    rdfs:label "Arahael"@en .
+
+ex:Aranarth a schema1:Person ;
+    rdfs:label "Aranarth"@en .
+
+ex:Arantar a schema1:Person ;
+    rdfs:label "Arantar"@en .
+
+ex:Aranuir a schema1:Person ;
+    rdfs:label "Aranuir"@en .
+
+ex:Araphant a schema1:Person ;
+    rdfs:label "Araphant"@en .
+
+ex:Araphor a schema1:Person ;
+    rdfs:label "Araphor"@en .
+
+ex:Arassuil a schema1:Person ;
+    rdfs:label "Arassuil"@en .
+
+ex:Aratan a schema1:Person ;
+    rdfs:label "Aratan"@en .
+
+ex:Arathorn_I a schema1:Person ;
+    rdfs:label "Arathorn I"@en .
+
+ex:Arathorn_II a schema1:Person ;
+    rdfs:label "Arathorn II"@en .
+
+ex:Araval a schema1:Person ;
+    rdfs:label "Araval"@en .
+
+ex:Aravir a schema1:Person ;
+    rdfs:label "Aravir"@en .
+
+ex:Aravorn a schema1:Person ;
+    rdfs:label "Aravorn"@en .
+
+ex:Arciryas a schema1:Person ;
+    rdfs:label "Arciryas"@en .
+
+ex:Argeleb_I a schema1:Person ;
+    rdfs:label "Argeleb I"@en .
+
+ex:Argeleb_II a schema1:Person ;
+    rdfs:label "Argeleb II"@en .
+
+ex:Argonui a schema1:Person ;
+    rdfs:label "Argonui"@en .
+
+ex:Artamir a schema1:Person ;
+    rdfs:label "Artamir"@en .
+
+ex:Arvedui a schema1:Person ;
+    rdfs:label "Arvedui"@en .
+
+ex:Arvegil a schema1:Person ;
+    rdfs:label "Arvegil"@en .
+
+ex:Arveleg_I a schema1:Person ;
+    rdfs:label "Arveleg I"@en .
+
+ex:Arveleg_II a schema1:Person ;
+    rdfs:label "Arveleg II"@en .
+
+ex:Arwen a schema1:Person ;
+    rdfs:label "Arwen"@en .
+
+ex:Asphodel_Brandybuck a schema1:Person ;
+    rdfs:label "Asphodel Brandybuck"@en .
+
+ex:Atanatar_I a schema1:Person ;
+    rdfs:label "Atanatar I"@en .
+
+ex:Atanatar_II a schema1:Person ;
+    rdfs:label "Atanatar II"@en .
+
+ex:Azog a schema1:Person ;
+    rdfs:label "Azog"@en .
+
+ex:Bain a schema1:Person ;
+    rdfs:label "Bain"@en .
+
+ex:Balbo_Baggins a schema1:Person ;
+    rdfs:label "Balbo Baggins"@en .
+
+ex:Baldor a schema1:Person ;
+    rdfs:label "Baldor"@en .
+
+ex:Balin a schema1:Person ;
+    rdfs:label "Balin"@en .
+
+ex:Bandobras_Took a schema1:Person ;
+    rdfs:label "Bandobras Took"@en .
+
+ex:Barahir_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Barahir (Steward of Gondor)"@en .
+
+ex:Baranor_\(man_of_Gondor\) a schema1:Person ;
+    rdfs:label "Baranor (man of Gondor)"@en .
+
+ex:Bard a schema1:Person ;
+    rdfs:label "Bard"@en .
+
+ex:Bard_II a schema1:Person ;
+    rdfs:label "Bard II"@en .
+
+ex:Barliman_Butterbur a schema1:Person ;
+    rdfs:label "Barliman Butterbur"@en .
+
+ex:Basso_Boffin a schema1:Person ;
+    rdfs:label "Basso Boffin"@en .
+
+ex:Beechbone a schema1:Person ;
+    rdfs:label "Beechbone"@en .
+
+ex:Belba_Baggins a schema1:Person ;
+    rdfs:label "Belba Baggins"@en .
+
+ex:Belecthor_I a schema1:Person ;
+    rdfs:label "Belecthor I"@en .
+
+ex:Belecthor_II a schema1:Person ;
+    rdfs:label "Belecthor II"@en .
+
+ex:Beleg_\(King_of_Arthedain\) a schema1:Person ;
+    rdfs:label "Beleg (King of Arthedain)"@en .
+
+ex:Belegorn a schema1:Person ;
+    rdfs:label "Belegorn"@en .
+
+ex:Bell_Goodchild a schema1:Person ;
+    rdfs:label "Bell Goodchild"@en .
+
+ex:Belladonna_Took a schema1:Person ;
+    rdfs:label "Belladonna Took"@en .
+
+ex:Benrodir a schema1:Person ;
+    rdfs:label "Benrodir"@en .
+
+ex:Beorn a schema1:Person ;
+    rdfs:label "Beorn"@en .
+
+ex:Beregond a schema1:Person ;
+    rdfs:label "Beregond"@en .
+
+ex:Beregond_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Beregond (Steward of Gondor)"@en .
+
+ex:Beren_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Beren (Steward of Gondor)"@en .
+
+ex:Bergil a schema1:Person ;
+    rdfs:label "Bergil"@en .
+
+ex:Berilac_Brandybuck a schema1:Person ;
+    rdfs:label "Berilac Brandybuck"@en .
+
+ex:Berylla_Boffin a schema1:Person ;
+    rdfs:label "Berylla Boffin"@en .
+
+ex:Berúthiel a schema1:Person ;
+    rdfs:label "Berúthiel"@en .
+
+ex:Bifur a schema1:Person ;
+    rdfs:label "Bifur"@en .
+
+ex:Bilbo_Baggins a schema1:Person ;
+    rdfs:label "Bilbo Baggins"@en .
+
+ex:Bill_Butcher a schema1:Person ;
+    rdfs:label "Bill Butcher"@en .
+
+ex:Bill_Ferny a schema1:Person ;
+    rdfs:label "Bill Ferny"@en .
+
+ex:Bingo_Baggins a schema1:Person ;
+    rdfs:label "Bingo Baggins"@en .
+
+ex:Bladorthin a schema1:Person ;
+    rdfs:label "Bladorthin"@en .
+
+ex:Blanco_Bracegirdle a schema1:Person ;
+    rdfs:label "Blanco Bracegirdle"@en .
+
+ex:Blue_Wizards a schema1:Person ;
+    rdfs:label "Blue Wizards"@en .
+
+ex:Bob a schema1:Person ;
+    rdfs:label "Bob"@en .
+
+ex:Bodo_Proudfoot a schema1:Person ;
+    rdfs:label "Bodo Proudfoot"@en .
+
+ex:Bofur a schema1:Person ;
+    rdfs:label "Bofur"@en .
+
+ex:Bolg a schema1:Person ;
+    rdfs:label "Bolg"@en .
+
+ex:Bombur a schema1:Person ;
+    rdfs:label "Bombur"@en .
+
+ex:Borin a schema1:Person ;
+    rdfs:label "Borin"@en .
+
+ex:Boromir a schema1:Person ;
+    rdfs:label "Boromir"@en .
+
+ex:Boromir_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Boromir (Steward of Gondor)"@en .
+
+ex:Borondir a schema1:Person ;
+    rdfs:label "Borondir"@en .
+
+ex:Bosco_Boffin a schema1:Person ;
+    rdfs:label "Bosco Boffin"@en .
+
+ex:Bowman_Cotton a schema1:Person ;
+    rdfs:label "Bowman Cotton"@en .
+
+ex:Brand a schema1:Person ;
+    rdfs:label "Brand"@en .
+
+ex:Brego a schema1:Person ;
+    rdfs:label "Brego"@en .
+
+ex:Briffo_Boffin a schema1:Person ;
+    rdfs:label "Briffo Boffin"@en .
+
+ex:Bruno_Bracegirdle a schema1:Person ;
+    rdfs:label "Bruno Bracegirdle"@en .
+
+ex:Brytta a schema1:Person ;
+    rdfs:label "Brytta"@en .
+
+ex:Bucca_of_the_Marish a schema1:Person ;
+    rdfs:label "Bucca of the Marish"@en .
+
+ex:Buffo_Boffin a schema1:Person ;
+    rdfs:label "Buffo Boffin"@en .
+
+ex:Bungo_Baggins a schema1:Person ;
+    rdfs:label "Bungo Baggins"@en .
+
+ex:Burin a schema1:Person ;
+    rdfs:label "Burin"@en .
+
+ex:Calimehtar_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Calimehtar (King of Gondor)"@en .
+
+ex:Calimehtar_\(son_of_Calmacil\) a schema1:Person ;
+    rdfs:label "Calimehtar (son of Calmacil)"@en .
+
+ex:Calimmacil a schema1:Person ;
+    rdfs:label "Calimmacil"@en .
+
+ex:Calmacil_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Calmacil (King of Gondor)"@en .
+
+ex:Camellia_Sackville a schema1:Person ;
+    rdfs:label "Camellia Sackville"@en .
+
+ex:Captain_of_the_Haven a schema1:Person ;
+    rdfs:label "Captain of the Haven"@en .
+
+ex:Captain_of_the_guard a schema1:Person ;
+    rdfs:label "Captain of the guard"@en .
+
+ex:Caramella_Chubb a schema1:Person ;
+    rdfs:label "Caramella Chubb"@en .
+
+ex:Carandrian a schema1:Person ;
+    rdfs:label "Carandrian"@en .
+
+ex:Carc a schema1:Person ;
+    rdfs:label "Carc"@en .
+
+ex:Carl_\(son_of_Cottar\) a schema1:Person ;
+    rdfs:label "Carl (son of Cottar)"@en .
+
+ex:Carl_Cotton a schema1:Person ;
+    rdfs:label "Carl Cotton"@en .
+
+ex:Castamir a schema1:Person ;
+    rdfs:label "Castamir"@en .
+
+ex:Cats_of_Queen_Berúthiel a schema1:Person ;
+    rdfs:label "Cats of Queen Berúthiel"@en .
+
+ex:Celandine_Brandybuck a schema1:Person ;
+    rdfs:label "Celandine Brandybuck"@en .
+
+ex:Celeborn a schema1:Person ;
+    rdfs:label "Celeborn"@en .
+
+ex:Celebrindor a schema1:Person ;
+    rdfs:label "Celebrindor"@en .
+
+ex:Celebrían a schema1:Person ;
+    rdfs:label "Celebrían"@en .
+
+ex:Celepharn a schema1:Person ;
+    rdfs:label "Celepharn"@en .
+
+ex:Cemendur_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Cemendur (King of Gondor)"@en .
+
+ex:Ceorl a schema1:Person ;
+    rdfs:label "Ceorl"@en .
+
+ex:Chica_Chubb a schema1:Person ;
+    rdfs:label "Chica Chubb"@en .
+
+ex:Chief_of_the_guards a schema1:Person ;
+    rdfs:label "Chief of the guards"@en .
+
+ex:Cirion a schema1:Person ;
+    rdfs:label "Cirion"@en .
+
+ex:Ciryandil a schema1:Person ;
+    rdfs:label "Ciryandil"@en .
+
+ex:Ciryon a schema1:Person ;
+    rdfs:label "Ciryon"@en .
+
+ex:Colombo_Hornblower a schema1:Person ;
+    rdfs:label "Colombo Hornblower"@en .
+
+ex:Cora_Goodbody a schema1:Person ;
+    rdfs:label "Cora Goodbody"@en .
+
+ex:Cotman a schema1:Person ;
+    rdfs:label "Cotman"@en .
+
+ex:Cottar a schema1:Person ;
+    rdfs:label "Cottar"@en .
+
+ex:Councillors a schema1:Person ;
+    rdfs:label "Councillors"@en .
+
+ex:Círdan a schema1:Person ;
+    rdfs:label "Círdan"@en .
+
+ex:Daddy_Twofoot a schema1:Person ;
+    rdfs:label "Daddy Twofoot"@en .
+
+ex:Daisy_Baggins a schema1:Person ;
+    rdfs:label "Daisy Baggins"@en .
+
+ex:Daisy_Gamgee a schema1:Person ;
+    rdfs:label "Daisy Gamgee"@en .
+
+ex:Damrod a schema1:Person ;
+    rdfs:label "Damrod"@en .
+
+ex:Denethor a schema1:Person ;
+    rdfs:label "Denethor"@en .
+
+ex:Denethor_I a schema1:Person ;
+    rdfs:label "Denethor I"@en .
+
+ex:Derufin a schema1:Person ;
+    rdfs:label "Derufin"@en .
+
+ex:Dervorin a schema1:Person ;
+    rdfs:label "Dervorin"@en .
+
+ex:Diamond_of_Long_Cleeve a schema1:Person ;
+    rdfs:label "Diamond of Long Cleeve"@en .
+
+ex:Dina_Diggle a schema1:Person ;
+    rdfs:label "Dina Diggle"@en .
+
+ex:Dinodas_Brandybuck a schema1:Person ;
+    rdfs:label "Dinodas Brandybuck"@en .
+
+ex:Dior_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Dior (Steward of Gondor)"@en .
+
+ex:Doderic_Brandybuck a schema1:Person ;
+    rdfs:label "Doderic Brandybuck"@en .
+
+ex:Dodinas_Brandybuck a schema1:Person ;
+    rdfs:label "Dodinas Brandybuck"@en .
+
+ex:Donnamira_Took a schema1:Person ;
+    rdfs:label "Donnamira Took"@en .
+
+ex:Dora_Baggins a schema1:Person ;
+    rdfs:label "Dora Baggins"@en .
+
+ex:Dori a schema1:Person ;
+    rdfs:label "Dori"@en .
+
+ex:Drogo_Baggins a schema1:Person ;
+    rdfs:label "Drogo Baggins"@en .
+
+ex:Druda_Burrows a schema1:Person ;
+    rdfs:label "Druda Burrows"@en .
+
+ex:Dudo_Baggins a schema1:Person ;
+    rdfs:label "Dudo Baggins"@en .
+
+ex:Duilin_\(son_of_Duinhir\) a schema1:Person ;
+    rdfs:label "Duilin (son of Duinhir)"@en .
+
+ex:Duinhir a schema1:Person ;
+    rdfs:label "Duinhir"@en .
+
+<http://example.org/tolkien/Durin's_Bane> a schema1:Person ;
+    rdfs:label "Durin's Bane"@en .
+
+ex:Durin_IV a schema1:Person ;
+    rdfs:label "Durin IV"@en .
+
+ex:Durin_V a schema1:Person ;
+    rdfs:label "Durin V"@en .
+
+ex:Durin_VI a schema1:Person ;
+    rdfs:label "Durin VI"@en .
+
+ex:Dwalin a schema1:Person ;
+    rdfs:label "Dwalin"@en .
+
+ex:Dáin_I a schema1:Person ;
+    rdfs:label "Dáin I"@en .
+
+ex:Dáin_Ironfoot a schema1:Person ;
+    rdfs:label "Dáin Ironfoot"@en .
+
+ex:Déor a schema1:Person ;
+    rdfs:label "Déor"@en .
+
+ex:Déorwine a schema1:Person ;
+    rdfs:label "Déorwine"@en .
+
+ex:Dírhael a schema1:Person ;
+    rdfs:label "Dírhael"@en .
+
+ex:Dís a schema1:Person ;
+    rdfs:label "Dís"@en .
+
+ex:Dúnhere a schema1:Person ;
+    rdfs:label "Dúnhere"@en .
+
+ex:Ecthelion_I a schema1:Person ;
+    rdfs:label "Ecthelion I"@en .
+
+ex:Ecthelion_II a schema1:Person ;
+    rdfs:label "Ecthelion II"@en .
+
+ex:Egalmoth_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Egalmoth (Steward of Gondor)"@en .
+
+ex:Eglantine_Banks a schema1:Person ;
+    rdfs:label "Eglantine Banks"@en .
+
+ex:Elanor_Gardner a schema1:Person ;
+    rdfs:label "Elanor Gardner"@en .
+
+ex:Eldacar_\(King_of_Arnor\) a schema1:Person ;
+    rdfs:label "Eldacar (King of Arnor)"@en .
+
+ex:Eldacar_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Eldacar (King of Gondor)"@en .
+
+ex:Elendur_\(King_of_Arnor\) a schema1:Person ;
+    rdfs:label "Elendur (King of Arnor)"@en .
+
+ex:Elendur_\(son_of_Isildur\) a schema1:Person ;
+    rdfs:label "Elendur (son of Isildur)"@en .
+
+ex:Elfhelm a schema1:Person ;
+    rdfs:label "Elfhelm"@en .
+
+ex:Elfhild a schema1:Person ;
+    rdfs:label "Elfhild"@en .
+
+ex:Elladan_and_Elrohir a schema1:Person ;
+    rdfs:label "Elladan and Elrohir"@en .
+
+ex:Elphir a schema1:Person ;
+    rdfs:label "Elphir"@en .
+
+ex:Elrond a schema1:Person ;
+    rdfs:label "Elrond"@en .
+
+ex:Eofor a schema1:Person ;
+    rdfs:label "Eofor"@en .
+
+ex:Eorl a schema1:Person ;
+    rdfs:label "Eorl"@en .
+
+ex:Eradan a schema1:Person ;
+    rdfs:label "Eradan"@en .
+
+ex:Erchirion a schema1:Person ;
+    rdfs:label "Erchirion"@en .
+
+ex:Erestor a schema1:Person ;
+    rdfs:label "Erestor"@en .
+
+ex:Erkenbrand a schema1:Person ;
+    rdfs:label "Erkenbrand"@en .
+
+ex:Erling a schema1:Person ;
+    rdfs:label "Erling"@en .
+
+ex:Esmeralda_Took a schema1:Person ;
+    rdfs:label "Esmeralda Took"@en .
+
+ex:Estella_Bolger a schema1:Person ;
+    rdfs:label "Estella Bolger"@en .
+
+ex:Estelmo a schema1:Person ;
+    rdfs:label "Estelmo"@en .
+
+ex:Everard_Took a schema1:Person ;
+    rdfs:label "Everard Took"@en .
+
+ex:Eärendil_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Eärendil (King of Gondor)"@en .
+
+ex:Eärendur_\(King_of_Arnor\) a schema1:Person ;
+    rdfs:label "Eärendur (King of Arnor)"@en .
+
+ex:Eärnil_I a schema1:Person ;
+    rdfs:label "Eärnil I"@en .
+
+ex:Eärnil_II a schema1:Person ;
+    rdfs:label "Eärnil II"@en .
+
+ex:Eärnur a schema1:Person ;
+    rdfs:label "Eärnur"@en .
+
+ex:F a schema1:Person ;
+    rdfs:label "F"@en .
+
+ex:Falco_Chubb-Baggins a schema1:Person ;
+    rdfs:label "Falco Chubb-Baggins"@en .
+
+ex:Fang_\(dog\) a schema1:Person ;
+    rdfs:label "Fang (dog)"@en .
+
+ex:Faramir a schema1:Person ;
+    rdfs:label "Faramir"@en .
+
+ex:Faramir_\(son_of_Ondoher\) a schema1:Person ;
+    rdfs:label "Faramir (son of Ondoher)"@en .
+
+ex:Farin a schema1:Person ;
+    rdfs:label "Farin"@en .
+
+ex:Farmer_Cotton a schema1:Person ;
+    rdfs:label "Farmer Cotton"@en .
+
+ex:Farmer_Hogg a schema1:Person ;
+    rdfs:label "Farmer Hogg"@en .
+
+ex:Farmer_Maggot a schema1:Person ;
+    rdfs:label "Farmer Maggot"@en .
+
+ex:Fastolph_Bolger a schema1:Person ;
+    rdfs:label "Fastolph Bolger"@en .
+
+ex:Fastred_\(rider_of_Rohan\) a schema1:Person ;
+    rdfs:label "Fastred (rider of Rohan)"@en .
+
+ex:Fastred_of_Greenholm a schema1:Person ;
+    rdfs:label "Fastred of Greenholm"@en .
+
+ex:Fengel a schema1:Person ;
+    rdfs:label "Fengel"@en .
+
+ex:Ferdibrand_Took a schema1:Person ;
+    rdfs:label "Ferdibrand Took"@en .
+
+ex:Ferdinand_Took a schema1:Person ;
+    rdfs:label "Ferdinand Took"@en .
+
+ex:Ferumbras_Took_I a schema1:Person ;
+    rdfs:label "Ferumbras Took I"@en .
+
+ex:Ferumbras_Took_II a schema1:Person ;
+    rdfs:label "Ferumbras Took II"@en .
+
+ex:Ferumbras_Took_III a schema1:Person ;
+    rdfs:label "Ferumbras Took III"@en .
+
+ex:Filibert_Bolger a schema1:Person ;
+    rdfs:label "Filibert Bolger"@en .
+
+ex:Finduilas_\(wife_of_Denethor\) a schema1:Person ;
+    rdfs:label "Finduilas (wife of Denethor)"@en .
+
+ex:Flambard_Took a schema1:Person ;
+    rdfs:label "Flambard Took"@en .
+
+ex:Flói a schema1:Person ;
+    rdfs:label "Flói"@en .
+
+ex:Folca a schema1:Person ;
+    rdfs:label "Folca"@en .
+
+ex:Folco_Boffin a schema1:Person ;
+    rdfs:label "Folco Boffin"@en .
+
+ex:Folco_Burrowes a schema1:Person ;
+    rdfs:label "Folco Burrowes"@en .
+
+ex:Folcred_and_Fastred a schema1:Person ;
+    rdfs:label "Folcred and Fastred"@en .
+
+ex:Folcwine a schema1:Person ;
+    rdfs:label "Folcwine"@en .
+
+ex:Forlong a schema1:Person ;
+    rdfs:label "Forlong"@en .
+
+ex:Forthwini a schema1:Person ;
+    rdfs:label "Forthwini"@en .
+
+ex:Fortinbras_Took_I a schema1:Person ;
+    rdfs:label "Fortinbras Took I"@en .
+
+ex:Fortinbras_Took_II a schema1:Person ;
+    rdfs:label "Fortinbras Took II"@en .
+
+ex:Fosco_Baggins a schema1:Person ;
+    rdfs:label "Fosco Baggins"@en .
+
+ex:Fram a schema1:Person ;
+    rdfs:label "Fram"@en .
+
+ex:Freca a schema1:Person ;
+    rdfs:label "Freca"@en .
+
+ex:Fredegar_Bolger a schema1:Person ;
+    rdfs:label "Fredegar Bolger"@en .
+
+ex:Frerin a schema1:Person ;
+    rdfs:label "Frerin"@en .
+
+ex:Frodo_Baggins a schema1:Person ;
+    rdfs:label "Frodo Baggins"@en .
+
+ex:Frumgar a schema1:Person ;
+    rdfs:label "Frumgar"@en .
+
+ex:Frár a schema1:Person ;
+    rdfs:label "Frár"@en .
+
+ex:Fréa a schema1:Person ;
+    rdfs:label "Fréa"@en .
+
+ex:Fréaláf a schema1:Person ;
+    rdfs:label "Fréaláf"@en .
+
+ex:Fréawine a schema1:Person ;
+    rdfs:label "Fréawine"@en .
+
+ex:Frór a schema1:Person ;
+    rdfs:label "Frór"@en .
+
+ex:Fundin a schema1:Person ;
+    rdfs:label "Fundin"@en .
+
+ex:Fíli a schema1:Person ;
+    rdfs:label "Fíli"@en .
+
+ex:Fíriel a schema1:Person ;
+    rdfs:label "Fíriel"@en .
+
+ex:Gaffer_Gamgee a schema1:Person ;
+    rdfs:label "Gaffer Gamgee"@en .
+
+ex:Galador a schema1:Person ;
+    rdfs:label "Galador"@en .
+
+ex:Galadriel a schema1:Person ;
+    rdfs:label "Galadriel"@en .
+
+ex:Galdor_\(elf_of_the_Havens\) a schema1:Person ;
+    rdfs:label "Galdor (elf of the Havens)"@en .
+
+ex:Galdor_\(man_of_Rohan\) a schema1:Person ;
+    rdfs:label "Galdor (man of Rohan)"@en .
+
+ex:Galion a schema1:Person ;
+    rdfs:label "Galion"@en .
+
+ex:Gamling a schema1:Person ;
+    rdfs:label "Gamling"@en .
+
+ex:Gandalf a schema1:Person ;
+    rdfs:label "Gandalf"@en .
+
+ex:General_Targg a schema1:Person ;
+    rdfs:label "General Targg"@en .
+
+ex:Gerda_Boffin a schema1:Person ;
+    rdfs:label "Gerda Boffin"@en .
+
+ex:Gerontius_Took a schema1:Person ;
+    rdfs:label "Gerontius Took"@en .
+
+ex:Ghân a schema1:Person ;
+    rdfs:label "Ghân"@en .
+
+ex:Ghân-buri-Ghân a schema1:Person ;
+    rdfs:label "Ghân-buri-Ghân"@en .
+
+ex:Gilbarad a schema1:Person ;
+    rdfs:label "Gilbarad"@en .
+
+ex:Gildor a schema1:Person ;
+    rdfs:label "Gildor"@en .
+
+ex:Gilly_Brownlock a schema1:Person ;
+    rdfs:label "Gilly Brownlock"@en .
+
+ex:Gilmith a schema1:Person ;
+    rdfs:label "Gilmith"@en .
+
+ex:Gilraen a schema1:Person ;
+    rdfs:label "Gilraen"@en .
+
+ex:Gimli a schema1:Person ;
+    rdfs:label "Gimli"@en .
+
+ex:Girion a schema1:Person ;
+    rdfs:label "Girion"@en .
+
+ex:Glorfindel a schema1:Person ;
+    rdfs:label "Glorfindel"@en .
+
+ex:Gléowine a schema1:Person ;
+    rdfs:label "Gléowine"@en .
+
+ex:Glóin a schema1:Person ;
+    rdfs:label "Glóin"@en .
+
+<http://example.org/tolkien/Glóin_(King_of_Durin's_Folk)> a schema1:Person ;
+    rdfs:label "Glóin (King of Durin's Folk)"@en .
+
+ex:Golasgil a schema1:Person ;
+    rdfs:label "Golasgil"@en .
+
+ex:Goldberry a schema1:Person ;
+    rdfs:label "Goldberry"@en .
+
+ex:Goldwine a schema1:Person ;
+    rdfs:label "Goldwine"@en .
+
+ex:Golfimbul a schema1:Person ;
+    rdfs:label "Golfimbul"@en .
+
+ex:Gollum a schema1:Person ;
+    rdfs:label "Gollum"@en .
+
+ex:Gorbadoc_Brandybuck a schema1:Person ;
+    rdfs:label "Gorbadoc Brandybuck"@en .
+
+ex:Gorbag a schema1:Person ;
+    rdfs:label "Gorbag"@en .
+
+ex:Gorbulas_Brandybuck a schema1:Person ;
+    rdfs:label "Gorbulas Brandybuck"@en .
+
+ex:Gorhendad_Oldbuck a schema1:Person ;
+    rdfs:label "Gorhendad Oldbuck"@en .
+
+ex:Gormadoc_Brandybuck a schema1:Person ;
+    rdfs:label "Gormadoc Brandybuck"@en .
+
+ex:Gothmog_\(Lieutenant_of_Morgul\) a schema1:Person ;
+    rdfs:label "Gothmog (Lieutenant of Morgul)"@en .
+
+ex:Gram a schema1:Person ;
+    rdfs:label "Gram"@en .
+
+ex:Great_Eagle a schema1:Person ;
+    rdfs:label "Great Eagle"@en .
+
+ex:Great_Goblin a schema1:Person ;
+    rdfs:label "Great Goblin"@en .
+
+ex:Great_boar_of_Everholt a schema1:Person ;
+    rdfs:label "Great boar of Everholt"@en .
+
+ex:Griffo_Boffin a schema1:Person ;
+    rdfs:label "Griffo Boffin"@en .
+
+ex:Grim a schema1:Person ;
+    rdfs:label "Grim"@en .
+
+ex:Grimbeorn a schema1:Person ;
+    rdfs:label "Grimbeorn"@en .
+
+ex:Grimbold a schema1:Person ;
+    rdfs:label "Grimbold"@en .
+
+ex:Grip a schema1:Person ;
+    rdfs:label "Grip"@en .
+
+<http://example.org/tolkien/Grip_(Bill_Butcher's_dog)> a schema1:Person ;
+    rdfs:label "Grip (Bill Butcher's dog)"@en .
+
+ex:Grishnákh a schema1:Person ;
+    rdfs:label "Grishnákh"@en .
+
+ex:Gruffo_Boffin a schema1:Person ;
+    rdfs:label "Gruffo Boffin"@en .
+
+ex:Gríma a schema1:Person ;
+    rdfs:label "Gríma"@en .
+
+ex:Gróin a schema1:Person ;
+    rdfs:label "Gróin"@en .
+
+ex:Grór a schema1:Person ;
+    rdfs:label "Grór"@en .
+
+ex:Gundabald_Bolger a schema1:Person ;
+    rdfs:label "Gundabald Bolger"@en .
+
+ex:Gundahad_Bolger a schema1:Person ;
+    rdfs:label "Gundahad Bolger"@en .
+
+ex:Gundahar_Bolger a schema1:Person ;
+    rdfs:label "Gundahar Bolger"@en .
+
+ex:Gundolpho_Bolger a schema1:Person ;
+    rdfs:label "Gundolpho Bolger"@en .
+
+ex:Guthláf a schema1:Person ;
+    rdfs:label "Guthláf"@en .
+
+ex:Gwaihir a schema1:Person ;
+    rdfs:label "Gwaihir"@en .
+
+ex:Gálmód a schema1:Person ;
+    rdfs:label "Gálmód"@en .
+
+ex:Gárulf a schema1:Person ;
+    rdfs:label "Gárulf"@en .
+
+ex:Hador_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Hador (Steward of Gondor)"@en .
+
+ex:Halbarad a schema1:Person ;
+    rdfs:label "Halbarad"@en .
+
+ex:Haldir a schema1:Person ;
+    rdfs:label "Haldir"@en .
+
+ex:Haleth_\(son_of_Helm\) a schema1:Person ;
+    rdfs:label "Haleth (son of Helm)"@en .
+
+ex:Halfast_Gamgee a schema1:Person ;
+    rdfs:label "Halfast Gamgee"@en .
+
+ex:Halfred_Gamgee a schema1:Person ;
+    rdfs:label "Halfred Gamgee"@en .
+
+ex:Halfred_Greenhand a schema1:Person ;
+    rdfs:label "Halfred Greenhand"@en .
+
+ex:Halfred_of_Overhill a schema1:Person ;
+    rdfs:label "Halfred of Overhill"@en .
+
+ex:Hallas a schema1:Person ;
+    rdfs:label "Hallas"@en .
+
+ex:Hamfast_of_Gamwich a schema1:Person ;
+    rdfs:label "Hamfast of Gamwich"@en .
+
+ex:Hamson_Gamgee a schema1:Person ;
+    rdfs:label "Hamson Gamgee"@en .
+
+ex:Hanna_Goldworthy a schema1:Person ;
+    rdfs:label "Hanna Goldworthy"@en .
+
+ex:Hannar a schema1:Person ;
+    rdfs:label "Hannar"@en .
+
+ex:Harding_\(rider_of_Rohan\) a schema1:Person ;
+    rdfs:label "Harding (rider of Rohan)"@en .
+
+ex:Harry_Goatleaf a schema1:Person ;
+    rdfs:label "Harry Goatleaf"@en .
+
+ex:Helm a schema1:Person ;
+    rdfs:label "Helm"@en .
+
+<http://example.org/tolkien/Helm's_daughter> a schema1:Person ;
+    rdfs:label "Helm's daughter"@en .
+
+ex:Hending a schema1:Person ;
+    rdfs:label "Hending"@en .
+
+ex:Herb-master a schema1:Person ;
+    rdfs:label "Herb-master"@en .
+
+ex:Herefara a schema1:Person ;
+    rdfs:label "Herefara"@en .
+
+ex:Heribald_Bolger a schema1:Person ;
+    rdfs:label "Heribald Bolger"@en .
+
+ex:Herion a schema1:Person ;
+    rdfs:label "Herion"@en .
+
+ex:Herubrand a schema1:Person ;
+    rdfs:label "Herubrand"@en .
+
+ex:Herugar_Bolger a schema1:Person ;
+    rdfs:label "Herugar Bolger"@en .
+
+ex:Hild a schema1:Person ;
+    rdfs:label "Hild"@en .
+
+ex:Hilda_Bracegirdle a schema1:Person ;
+    rdfs:label "Hilda Bracegirdle"@en .
+
+ex:Hildibrand_Took a schema1:Person ;
+    rdfs:label "Hildibrand Took"@en .
+
+ex:Hildifons_Took a schema1:Person ;
+    rdfs:label "Hildifons Took"@en .
+
+ex:Hildigard_Took a schema1:Person ;
+    rdfs:label "Hildigard Took"@en .
+
+ex:Hildigrim_Took a schema1:Person ;
+    rdfs:label "Hildigrim Took"@en .
+
+ex:Hirgon a schema1:Person ;
+    rdfs:label "Hirgon"@en .
+
+ex:Hirluin a schema1:Person ;
+    rdfs:label "Hirluin"@en .
+
+ex:Hob_Gammidge a schema1:Person ;
+    rdfs:label "Hob Gammidge"@en .
+
+ex:Hob_Hayward a schema1:Person ;
+    rdfs:label "Hob Hayward"@en .
+
+ex:Hobson a schema1:Person ;
+    rdfs:label "Hobson"@en .
+
+ex:Holdwine a schema1:Person ;
+    rdfs:label "Holdwine"@en .
+
+ex:Holman_Cotton a schema1:Person ;
+    rdfs:label "Holman Cotton"@en .
+
+ex:Holman_Greenhand a schema1:Person ;
+    rdfs:label "Holman Greenhand"@en .
+
+ex:Holman_the_greenhanded a schema1:Person ;
+    rdfs:label "Holman the greenhanded"@en .
+
+ex:Horn_\(rider_of_Rohan\) a schema1:Person ;
+    rdfs:label "Horn (rider of Rohan)"@en .
+
+ex:Hound_of_Sauron a schema1:Person ;
+    rdfs:label "Hound of Sauron"@en .
+
+ex:Hugo_Boffin a schema1:Person ;
+    rdfs:label "Hugo Boffin"@en .
+
+ex:Hugo_Bracegirdle a schema1:Person ;
+    rdfs:label "Hugo Bracegirdle"@en .
+
+ex:Hyarmendacil_I a schema1:Person ;
+    rdfs:label "Hyarmendacil I"@en .
+
+ex:Hyarmendacil_II a schema1:Person ;
+    rdfs:label "Hyarmendacil II"@en .
+
+ex:Háma a schema1:Person ;
+    rdfs:label "Háma"@en .
+
+ex:Háma_\(son_of_Helm\) a schema1:Person ;
+    rdfs:label "Háma (son of Helm)"@en .
+
+ex:Húrin_\(Warden_of_the_Keys\) a schema1:Person ;
+    rdfs:label "Húrin (Warden of the Keys)"@en .
+
+ex:Húrin_I a schema1:Person ;
+    rdfs:label "Húrin I"@en .
+
+ex:Húrin_II a schema1:Person ;
+    rdfs:label "Húrin II"@en .
+
+ex:Húrin_of_Emyn_Arnen a schema1:Person ;
+    rdfs:label "Húrin of Emyn Arnen"@en .
+
+ex:Iago_Grubb a schema1:Person ;
+    rdfs:label "Iago Grubb"@en .
+
+ex:Idis a schema1:Person ;
+    rdfs:label "Idis"@en .
+
+ex:Ilberic_Brandybuck a schema1:Person ;
+    rdfs:label "Ilberic Brandybuck"@en .
+
+ex:Imrahil a schema1:Person ;
+    rdfs:label "Imrahil"@en .
+
+ex:Imrazôr a schema1:Person ;
+    rdfs:label "Imrazôr"@en .
+
+ex:Ingold a schema1:Person ;
+    rdfs:label "Ingold"@en .
+
+ex:Ioreth a schema1:Person ;
+    rdfs:label "Ioreth"@en .
+
+ex:Iorlas a schema1:Person ;
+    rdfs:label "Iorlas"@en .
+
+ex:Isembard_Took a schema1:Person ;
+    rdfs:label "Isembard Took"@en .
+
+ex:Isembold_Took a schema1:Person ;
+    rdfs:label "Isembold Took"@en .
+
+ex:Isengar_Took a schema1:Person ;
+    rdfs:label "Isengar Took"@en .
+
+ex:Isengrim_Took_I a schema1:Person ;
+    rdfs:label "Isengrim Took I"@en .
+
+ex:Isengrim_Took_II a schema1:Person ;
+    rdfs:label "Isengrim Took II"@en .
+
+ex:Isengrim_Took_III a schema1:Person ;
+    rdfs:label "Isengrim Took III"@en .
+
+ex:Isildur a schema1:Person ;
+    rdfs:label "Isildur"@en .
+
+ex:Isumbras_Took_I a schema1:Person ;
+    rdfs:label "Isumbras Took I"@en .
+
+ex:Isumbras_Took_II a schema1:Person ;
+    rdfs:label "Isumbras Took II"@en .
+
+ex:Isumbras_Took_III a schema1:Person ;
+    rdfs:label "Isumbras Took III"@en .
+
+ex:Isumbras_Took_IV a schema1:Person ;
+    rdfs:label "Isumbras Took IV"@en .
+
+ex:Ivorwen a schema1:Person ;
+    rdfs:label "Ivorwen"@en .
+
+ex:Ivriniel a schema1:Person ;
+    rdfs:label "Ivriniel"@en .
+
+ex:Ivy_Goodenough a schema1:Person ;
+    rdfs:label "Ivy Goodenough"@en .
+
+ex:Jago_Boffin a schema1:Person ;
+    rdfs:label "Jago Boffin"@en .
+
+ex:Jessamine_Boffin a schema1:Person ;
+    rdfs:label "Jessamine Boffin"@en .
+
+ex:Khamûl a schema1:Person ;
+    rdfs:label "Khamûl"@en .
+
+ex:King_of_the_Dead a schema1:Person ;
+    rdfs:label "King of the Dead"@en .
+
+ex:Kiryandil_\(son_of_Siriondil\) a schema1:Person ;
+    rdfs:label "Kiryandil (son of Siriondil)"@en .
+
+ex:Kíli a schema1:Person ;
+    rdfs:label "Kíli"@en .
+
+ex:Lagduf a schema1:Person ;
+    rdfs:label "Lagduf"@en .
+
+ex:Lalia_Clayhanger a schema1:Person ;
+    rdfs:label "Lalia Clayhanger"@en .
+
+ex:Landroval a schema1:Person ;
+    rdfs:label "Landroval"@en .
+
+ex:Largo_Baggins a schema1:Person ;
+    rdfs:label "Largo Baggins"@en .
+
+ex:Last_prince_of_Cardolan a schema1:Person ;
+    rdfs:label "Last prince of Cardolan"@en .
+
+ex:Laura_Grubb a schema1:Person ;
+    rdfs:label "Laura Grubb"@en .
+
+ex:Lavender_Grubb a schema1:Person ;
+    rdfs:label "Lavender Grubb"@en .
+
+ex:Leader_of_the_Éothéod a schema1:Person ;
+    rdfs:label "Leader of the Éothéod"@en .
+
+ex:Leaflock a schema1:Person ;
+    rdfs:label "Leaflock"@en .
+
+ex:Legolas a schema1:Person ;
+    rdfs:label "Legolas"@en .
+
+ex:Lief a schema1:Person ;
+    rdfs:label "Lief"@en .
+
+ex:Lily_Baggins a schema1:Person ;
+    rdfs:label "Lily Baggins"@en .
+
+ex:Lily_Brown a schema1:Person ;
+    rdfs:label "Lily Brown"@en .
+
+ex:Linda_Baggins a schema1:Person ;
+    rdfs:label "Linda Baggins"@en .
+
+ex:Lindir a schema1:Person ;
+    rdfs:label "Lindir"@en .
+
+ex:Lobelia_Sackville-Baggins a schema1:Person ;
+    rdfs:label "Lobelia Sackville-Baggins"@en .
+
+ex:Lofar a schema1:Person ;
+    rdfs:label "Lofar"@en .
+
+ex:Lonely_Troll a schema1:Person ;
+    rdfs:label "Lonely Troll"@en .
+
+ex:Longo_Baggins a schema1:Person ;
+    rdfs:label "Longo Baggins"@en .
+
+ex:Lord_Thorne a schema1:Person ;
+    rdfs:label "Lord Thorne"@en .
+
+ex:Lotho_Sackville-Baggins a schema1:Person ;
+    rdfs:label "Lotho Sackville-Baggins"@en .
+
+ex:Lothíriel a schema1:Person ;
+    rdfs:label "Lothíriel"@en .
+
+ex:Lugdush a schema1:Person ;
+    rdfs:label "Lugdush"@en .
+
+ex:Léod a schema1:Person ;
+    rdfs:label "Léod"@en .
+
+ex:Lóni a schema1:Person ;
+    rdfs:label "Lóni"@en .
+
+ex:Mablung_\(ranger_of_Ithilien\) a schema1:Person ;
+    rdfs:label "Mablung (ranger of Ithilien)"@en .
+
+ex:Madoc_Brandybuck a schema1:Person ;
+    rdfs:label "Madoc Brandybuck"@en .
+
+ex:Malbeth a schema1:Person ;
+    rdfs:label "Malbeth"@en .
+
+ex:Mallor a schema1:Person ;
+    rdfs:label "Mallor"@en .
+
+ex:Malva_Headstrong a schema1:Person ;
+    rdfs:label "Malva Headstrong"@en .
+
+ex:Malvegil a schema1:Person ;
+    rdfs:label "Malvegil"@en .
+
+ex:Manwë a schema1:Person ;
+    rdfs:label "Manwë"@en .
+
+ex:Marcho_and_Blanco a schema1:Person ;
+    rdfs:label "Marcho and Blanco"@en .
+
+ex:Mardil a schema1:Person ;
+    rdfs:label "Mardil"@en .
+
+ex:Marhari a schema1:Person ;
+    rdfs:label "Marhari"@en .
+
+ex:Marhath a schema1:Person ;
+    rdfs:label "Marhath"@en .
+
+ex:Marhwini a schema1:Person ;
+    rdfs:label "Marhwini"@en .
+
+ex:Marigold_Gamgee a schema1:Person ;
+    rdfs:label "Marigold Gamgee"@en .
+
+ex:Marmadas_Brandybuck a schema1:Person ;
+    rdfs:label "Marmadas Brandybuck"@en .
+
+ex:Marmadoc_Brandybuck a schema1:Person ;
+    rdfs:label "Marmadoc Brandybuck"@en .
+
+ex:Marroc_Brandybuck a schema1:Person ;
+    rdfs:label "Marroc Brandybuck"@en .
+
+ex:Master_of_Lake-town a schema1:Person ;
+    rdfs:label "Master of Lake-town"@en .
+
+ex:Mat_Heathertoes a schema1:Person ;
+    rdfs:label "Mat Heathertoes"@en .
+
+ex:Mauhúr a schema1:Person ;
+    rdfs:label "Mauhúr"@en .
+
+ex:May_\(hobbit\) a schema1:Person ;
+    rdfs:label "May (hobbit)"@en .
+
+ex:May_Gamgee a schema1:Person ;
+    rdfs:label "May Gamgee"@en .
+
+ex:Melilot_Brandybuck a schema1:Person ;
+    rdfs:label "Melilot Brandybuck"@en .
+
+ex:Menegilda_Goold a schema1:Person ;
+    rdfs:label "Menegilda Goold"@en .
+
+ex:Meneldil a schema1:Person ;
+    rdfs:label "Meneldil"@en .
+
+ex:Meneldor a schema1:Person ;
+    rdfs:label "Meneldor"@en .
+
+ex:Mentha_Brandybuck a schema1:Person ;
+    rdfs:label "Mentha Brandybuck"@en .
+
+ex:Meriadoc_Brandybuck a schema1:Person ;
+    rdfs:label "Meriadoc Brandybuck"@en .
+
+ex:Merimac_Brandybuck a schema1:Person ;
+    rdfs:label "Merimac Brandybuck"@en .
+
+ex:Merimas_Brandybuck a schema1:Person ;
+    rdfs:label "Merimas Brandybuck"@en .
+
+ex:Milo_Burrows a schema1:Person ;
+    rdfs:label "Milo Burrows"@en .
+
+ex:Mimosa_Bunce a schema1:Person ;
+    rdfs:label "Mimosa Bunce"@en .
+
+ex:Minardil a schema1:Person ;
+    rdfs:label "Minardil"@en .
+
+ex:Minastan a schema1:Person ;
+    rdfs:label "Minastan"@en .
+
+ex:Minohtar a schema1:Person ;
+    rdfs:label "Minohtar"@en .
+
+ex:Minstrel_of_Gondor a schema1:Person ;
+    rdfs:label "Minstrel of Gondor"@en .
+
+ex:Minto_Burrows a schema1:Person ;
+    rdfs:label "Minto Burrows"@en .
+
+ex:Mirabella_Took a schema1:Person ;
+    rdfs:label "Mirabella Took"@en .
+
+ex:Mithrellas a schema1:Person ;
+    rdfs:label "Mithrellas"@en .
+
+ex:Moro_Burrows a schema1:Person ;
+    rdfs:label "Moro Burrows"@en .
+
+ex:Morwen_\(daughter_of_Belecthor\) a schema1:Person ;
+    rdfs:label "Morwen (daughter of Belecthor)"@en .
+
+ex:Morwen_\(daughter_of_Húrin\) a schema1:Person ;
+    rdfs:label "Morwen (daughter of Húrin)"@en .
+
+ex:Morwen_Steelsheen a schema1:Person ;
+    rdfs:label "Morwen Steelsheen"@en .
+
+ex:Mosco_Burrows a schema1:Person ;
+    rdfs:label "Mosco Burrows"@en .
+
+ex:Mouth_of_Sauron a schema1:Person ;
+    rdfs:label "Mouth of Sauron"@en .
+
+ex:Mr._Mugwort a schema1:Person ;
+    rdfs:label "Mr. Mugwort"@en .
+
+ex:Mrs._Bunce a schema1:Person ;
+    rdfs:label "Mrs. Bunce"@en .
+
+ex:Mrs_Maggot a schema1:Person ;
+    rdfs:label "Mrs Maggot"@en .
+
+ex:Mungo_Baggins a schema1:Person ;
+    rdfs:label "Mungo Baggins"@en .
+
+ex:Muzgash a schema1:Person ;
+    rdfs:label "Muzgash"@en .
+
+ex:Myrtle_Burrows a schema1:Person ;
+    rdfs:label "Myrtle Burrows"@en .
+
+ex:Naglur-Danlo a schema1:Person ;
+    rdfs:label "Naglur-Danlo"@en .
+
+ex:Nar_\(companion_of_Bilbo\) a schema1:Person ;
+    rdfs:label "Nar (companion of Bilbo)"@en .
+
+ex:Narmacil_I a schema1:Person ;
+    rdfs:label "Narmacil I"@en .
+
+ex:Narmacil_II a schema1:Person ;
+    rdfs:label "Narmacil II"@en .
+
+ex:Nazgûl a schema1:Person ;
+    rdfs:label "Nazgûl"@en .
+
+ex:Nimrodel a schema1:Person ;
+    rdfs:label "Nimrodel"@en .
+
+ex:Nina_Lightfoot a schema1:Person ;
+    rdfs:label "Nina Lightfoot"@en .
+
+ex:Nob a schema1:Person ;
+    rdfs:label "Nob"@en .
+
+ex:Nora_Bolger a schema1:Person ;
+    rdfs:label "Nora Bolger"@en .
+
+ex:Nori a schema1:Person ;
+    rdfs:label "Nori"@en .
+
+ex:Northiligand a schema1:Person ;
+    rdfs:label "Northiligand"@en .
+
+ex:Náin_\(son_of_Grór\) a schema1:Person ;
+    rdfs:label "Náin (son of Grór)"@en .
+
+ex:Náin_I a schema1:Person ;
+    rdfs:label "Náin I"@en .
+
+ex:Náin_II a schema1:Person ;
+    rdfs:label "Náin II"@en .
+
+ex:Náli a schema1:Person ;
+    rdfs:label "Náli"@en .
+
+ex:Nár a schema1:Person ;
+    rdfs:label "Nár"@en .
+
+ex:Odo_Proudfoot a schema1:Person ;
+    rdfs:label "Odo Proudfoot"@en .
+
+ex:Odovacar_Bolger a schema1:Person ;
+    rdfs:label "Odovacar Bolger"@en .
+
+ex:Ohtar a schema1:Person ;
+    rdfs:label "Ohtar"@en .
+
+ex:Old_Man_Willow a schema1:Person ;
+    rdfs:label "Old Man Willow"@en .
+
+ex:Old_Noakes a schema1:Person ;
+    rdfs:label "Old Noakes"@en .
+
+ex:Old_Pennicruik a schema1:Person ;
+    rdfs:label "Old Pennicruik"@en .
+
+ex:Olo_Proudfoot a schema1:Person ;
+    rdfs:label "Olo Proudfoot"@en .
+
+ex:Olwyn a schema1:Person ;
+    rdfs:label "Olwyn"@en .
+
+ex:Ondoher a schema1:Person ;
+    rdfs:label "Ondoher"@en .
+
+ex:Orgulas_Brandybuck a schema1:Person ;
+    rdfs:label "Orgulas Brandybuck"@en .
+
+ex:Ori a schema1:Person ;
+    rdfs:label "Ori"@en .
+
+ex:Ornendil a schema1:Person ;
+    rdfs:label "Ornendil"@en .
+
+ex:Orodreth_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Orodreth (Steward of Gondor)"@en .
+
+ex:Oromë a schema1:Person ;
+    rdfs:label "Oromë"@en .
+
+ex:Orophin a schema1:Person ;
+    rdfs:label "Orophin"@en .
+
+ex:Ostoher a schema1:Person ;
+    rdfs:label "Ostoher"@en .
+
+ex:Otho_Sackville-Baggins a schema1:Person ;
+    rdfs:label "Otho Sackville-Baggins"@en .
+
+ex:Otto_Boffin a schema1:Person ;
+    rdfs:label "Otto Boffin"@en .
+
+ex:Paladin_Took_I a schema1:Person ;
+    rdfs:label "Paladin Took I"@en .
+
+ex:Paladin_Took_II a schema1:Person ;
+    rdfs:label "Paladin Took II"@en .
+
+ex:Pansy_Baggins a schema1:Person ;
+    rdfs:label "Pansy Baggins"@en .
+
+ex:Pearl_Took a schema1:Person ;
+    rdfs:label "Pearl Took"@en .
+
+ex:Peeping_Jack a schema1:Person ;
+    rdfs:label "Peeping Jack"@en .
+
+ex:Pelendur a schema1:Person ;
+    rdfs:label "Pelendur"@en .
+
+ex:Peony_Baggins a schema1:Person ;
+    rdfs:label "Peony Baggins"@en .
+
+ex:Peregrin_Took a schema1:Person ;
+    rdfs:label "Peregrin Took"@en .
+
+ex:Perry-the-Winkle_\(hobbit\) a schema1:Person ;
+    rdfs:label "Perry-the-Winkle (hobbit)"@en .
+
+ex:Pervinca_Took a schema1:Person ;
+    rdfs:label "Pervinca Took"@en .
+
+ex:Pimpernel_Took a schema1:Person ;
+    rdfs:label "Pimpernel Took"@en .
+
+ex:Polo_Baggins a schema1:Person ;
+    rdfs:label "Polo Baggins"@en .
+
+ex:Ponto_Baggins_I a schema1:Person ;
+    rdfs:label "Ponto Baggins I"@en .
+
+ex:Ponto_Baggins_II a schema1:Person ;
+    rdfs:label "Ponto Baggins II"@en .
+
+ex:Poppy_Chubb-Baggins a schema1:Person ;
+    rdfs:label "Poppy Chubb-Baggins"@en .
+
+ex:Porto_Baggins a schema1:Person ;
+    rdfs:label "Porto Baggins"@en .
+
+ex:Posco_Baggins a schema1:Person ;
+    rdfs:label "Posco Baggins"@en .
+
+ex:Pott_the_Mayor a schema1:Person ;
+    rdfs:label "Pott the Mayor"@en .
+
+ex:Primo_Grubb a schema1:Person ;
+    rdfs:label "Primo Grubb"@en .
+
+ex:Primrose_Boffin a schema1:Person ;
+    rdfs:label "Primrose Boffin"@en .
+
+ex:Primula_Brandybuck a schema1:Person ;
+    rdfs:label "Primula Brandybuck"@en .
+
+ex:Prisca_Baggins a schema1:Person ;
+    rdfs:label "Prisca Baggins"@en .
+
+ex:Quickbeam a schema1:Person ;
+    rdfs:label "Quickbeam"@en .
+
+ex:Radagast a schema1:Person ;
+    rdfs:label "Radagast"@en .
+
+ex:Radbug a schema1:Person ;
+    rdfs:label "Radbug"@en .
+
+ex:Reginard_Took a schema1:Person ;
+    rdfs:label "Reginard Took"@en .
+
+ex:Robin_Smallburrow a schema1:Person ;
+    rdfs:label "Robin Smallburrow"@en .
+
+ex:Rollo_Boffin a schema1:Person ;
+    rdfs:label "Rollo Boffin"@en .
+
+ex:Rorimac_Brandybuck a schema1:Person ;
+    rdfs:label "Rorimac Brandybuck"@en .
+
+ex:Rosa_Baggins a schema1:Person ;
+    rdfs:label "Rosa Baggins"@en .
+
+ex:Rosamunda_Took a schema1:Person ;
+    rdfs:label "Rosamunda Took"@en .
+
+ex:Rose_\(daughter_of_Holman\) a schema1:Person ;
+    rdfs:label "Rose (daughter of Holman)"@en .
+
+ex:Rose_Cotton a schema1:Person ;
+    rdfs:label "Rose Cotton"@en .
+
+ex:Rowan a schema1:Person ;
+    rdfs:label "Rowan"@en .
+
+ex:Rowlie_Appledore a schema1:Person ;
+    rdfs:label "Rowlie Appledore"@en .
+
+ex:Roäc a schema1:Person ;
+    rdfs:label "Roäc"@en .
+
+ex:Ruby_Bolger a schema1:Person ;
+    rdfs:label "Ruby Bolger"@en .
+
+ex:Rudibert_Bolger a schema1:Person ;
+    rdfs:label "Rudibert Bolger"@en .
+
+ex:Rudigar_Bolger a schema1:Person ;
+    rdfs:label "Rudigar Bolger"@en .
+
+ex:Rudolph_Bolger a schema1:Person ;
+    rdfs:label "Rudolph Bolger"@en .
+
+ex:Rufus_Burrows a schema1:Person ;
+    rdfs:label "Rufus Burrows"@en .
+
+ex:Rían_\(daughter_of_Steward_Barahir\) a schema1:Person ;
+    rdfs:label "Rían (daughter of Steward Barahir)"@en .
+
+ex:Rómendacil_I a schema1:Person ;
+    rdfs:label "Rómendacil I"@en .
+
+ex:Rómendacil_II a schema1:Person ;
+    rdfs:label "Rómendacil II"@en .
+
+ex:Rúmil_\(elf_of_Lórien\) a schema1:Person ;
+    rdfs:label "Rúmil (elf of Lórien)"@en .
+
+ex:Salvia_Brandybuck a schema1:Person ;
+    rdfs:label "Salvia Brandybuck"@en .
+
+ex:Samwise_Gamgee a schema1:Person ;
+    rdfs:label "Samwise Gamgee"@en .
+
+ex:Sancho_Proudfoot a schema1:Person ;
+    rdfs:label "Sancho Proudfoot"@en .
+
+ex:Sandyman a schema1:Person ;
+    rdfs:label "Sandyman"@en .
+
+ex:Sangahyando a schema1:Person ;
+    rdfs:label "Sangahyando"@en .
+
+ex:Sapphira_Brockhouse a schema1:Person ;
+    rdfs:label "Sapphira Brockhouse"@en .
+
+ex:Saradas_Brandybuck a schema1:Person ;
+    rdfs:label "Saradas Brandybuck"@en .
+
+ex:Saradoc_Brandybuck a schema1:Person ;
+    rdfs:label "Saradoc Brandybuck"@en .
+
+ex:Saruman a schema1:Person ;
+    rdfs:label "Saruman"@en .
+
+ex:Sauron a schema1:Person ;
+    rdfs:label "Sauron"@en .
+
+ex:Scatha a schema1:Person ;
+    rdfs:label "Scatha"@en .
+
+ex:Seredic_Brandybuck a schema1:Person ;
+    rdfs:label "Seredic Brandybuck"@en .
+
+ex:Shagram a schema1:Person ;
+    rdfs:label "Shagram"@en .
+
+ex:Shagrat a schema1:Person ;
+    rdfs:label "Shagrat"@en .
+
+ex:Shank a schema1:Person ;
+    rdfs:label "Shank"@en .
+
+ex:Shelob a schema1:Person ;
+    rdfs:label "Shelob"@en .
+
+ex:Sigismond_Took a schema1:Person ;
+    rdfs:label "Sigismond Took"@en .
+
+ex:Siriondil_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Siriondil (King of Gondor)"@en .
+
+ex:Siriondil_\(son_of_Calimmacil\) a schema1:Person ;
+    rdfs:label "Siriondil (son of Calimmacil)"@en .
+
+ex:Skinbark a schema1:Person ;
+    rdfs:label "Skinbark"@en .
+
+ex:Smaug a schema1:Person ;
+    rdfs:label "Smaug"@en .
+
+ex:Snaga_\(orc_of_Isengard\) a schema1:Person ;
+    rdfs:label "Snaga (orc of Isengard)"@en .
+
+ex:Snaga_\(orc_of_Mordor\) a schema1:Person ;
+    rdfs:label "Snaga (orc of Mordor)"@en .
+
+ex:Squint-eyed_southerner a schema1:Person ;
+    rdfs:label "Squint-eyed southerner"@en .
+
+ex:Talking_purse a schema1:Person ;
+    rdfs:label "Talking purse"@en .
+
+ex:Tanta_Hornblower a schema1:Person ;
+    rdfs:label "Tanta Hornblower"@en .
+
+ex:Tarannon_Falastur a schema1:Person ;
+    rdfs:label "Tarannon Falastur"@en .
+
+ex:Tarcil a schema1:Person ;
+    rdfs:label "Tarcil"@en .
+
+ex:Tarciryan a schema1:Person ;
+    rdfs:label "Tarciryan"@en .
+
+ex:Targon a schema1:Person ;
+    rdfs:label "Targon"@en .
+
+ex:Tarondor_\(King_of_Arnor\) a schema1:Person ;
+    rdfs:label "Tarondor (King of Arnor)"@en .
+
+ex:Tarondor_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Tarondor (King of Gondor)"@en .
+
+ex:Ted_Sandyman a schema1:Person ;
+    rdfs:label "Ted Sandyman"@en .
+
+ex:Telemnar a schema1:Person ;
+    rdfs:label "Telemnar"@en .
+
+ex:Telumehtar_Umbardacil a schema1:Person ;
+    rdfs:label "Telumehtar Umbardacil"@en .
+
+ex:Thengel a schema1:Person ;
+    rdfs:label "Thengel"@en .
+
+ex:Theobald_Bolger a schema1:Person ;
+    rdfs:label "Theobald Bolger"@en .
+
+ex:Thorin a schema1:Person ;
+    rdfs:label "Thorin"@en .
+
+ex:Thorin_I a schema1:Person ;
+    rdfs:label "Thorin I"@en .
+
+ex:Thorin_Stonehelm a schema1:Person ;
+    rdfs:label "Thorin Stonehelm"@en .
+
+ex:Thorondir a schema1:Person ;
+    rdfs:label "Thorondir"@en .
+
+ex:Thranduil a schema1:Person ;
+    rdfs:label "Thranduil"@en .
+
+ex:Thráin a schema1:Person ;
+    rdfs:label "Thráin"@en .
+
+ex:Thráin_I a schema1:Person ;
+    rdfs:label "Thráin I"@en .
+
+ex:Thrór a schema1:Person ;
+    rdfs:label "Thrór"@en .
+
+ex:Théoden a schema1:Person ;
+    rdfs:label "Théoden"@en .
+
+ex:Théodred a schema1:Person ;
+    rdfs:label "Théodred"@en .
+
+ex:Théodwyn a schema1:Person ;
+    rdfs:label "Théodwyn"@en .
+
+ex:Tobold_Hornblower a schema1:Person ;
+    rdfs:label "Tobold Hornblower"@en .
+
+ex:Togo_Goodbody a schema1:Person ;
+    rdfs:label "Togo Goodbody"@en .
+
+ex:Tolman_Cotton_Junior a schema1:Person ;
+    rdfs:label "Tolman Cotton Junior"@en .
+
+ex:Tom_Bombadil a schema1:Person ;
+    rdfs:label "Tom Bombadil"@en .
+
+ex:Tom_Pickthorn a schema1:Person ;
+    rdfs:label "Tom Pickthorn"@en .
+
+ex:Tosto_Boffin a schema1:Person ;
+    rdfs:label "Tosto Boffin"@en .
+
+ex:Treebeard a schema1:Person ;
+    rdfs:label "Treebeard"@en .
+
+ex:Turambar_\(King_of_Gondor\) a schema1:Person ;
+    rdfs:label "Turambar (King of Gondor)"@en .
+
+ex:Turgon_\(Steward_of_Gondor\) a schema1:Person ;
+    rdfs:label "Turgon (Steward of Gondor)"@en .
+
+ex:Túrin_I a schema1:Person ;
+    rdfs:label "Túrin I"@en .
+
+ex:Túrin_II a schema1:Person ;
+    rdfs:label "Túrin II"@en .
+
+ex:Uffo_Boffin a schema1:Person ;
+    rdfs:label "Uffo Boffin"@en .
+
+ex:Ufthak a schema1:Person ;
+    rdfs:label "Ufthak"@en .
+
+ex:Uglúk a schema1:Person ;
+    rdfs:label "Uglúk"@en .
+
+ex:Valacar a schema1:Person ;
+    rdfs:label "Valacar"@en .
+
+ex:Valandil_\(King_of_Arnor\) a schema1:Person ;
+    rdfs:label "Valandil (King of Arnor)"@en .
+
+ex:Valandur a schema1:Person ;
+    rdfs:label "Valandur"@en .
+
+ex:Varda a schema1:Person ;
+    rdfs:label "Varda"@en .
+
+ex:Vidugavia a schema1:Person ;
+    rdfs:label "Vidugavia"@en .
+
+ex:Vidumavi a schema1:Person ;
+    rdfs:label "Vidumavi"@en .
+
+ex:Vigo_Boffin a schema1:Person ;
+    rdfs:label "Vigo Boffin"@en .
+
+ex:Vorondil a schema1:Person ;
+    rdfs:label "Vorondil"@en .
+
+ex:Walda a schema1:Person ;
+    rdfs:label "Walda"@en .
+
+ex:Warden_of_the_Houses_of_Healing a schema1:Person ;
+    rdfs:label "Warden of the Houses of Healing"@en .
+
+ex:Watcher_in_the_Water a schema1:Person ;
+    rdfs:label "Watcher in the Water"@en .
+
+ex:Wilcome_Cotton_I a schema1:Person ;
+    rdfs:label "Wilcome Cotton I"@en .
+
+ex:Wilcome_Cotton_II a schema1:Person ;
+    rdfs:label "Wilcome Cotton II"@en .
+
+ex:Wilibald_Bolger a schema1:Person ;
+    rdfs:label "Wilibald Bolger"@en .
+
+ex:Wilimar_Bolger a schema1:Person ;
+    rdfs:label "Wilimar Bolger"@en .
+
+ex:Will_Whitfoot a schema1:Person ;
+    rdfs:label "Will Whitfoot"@en .
+
+<http://example.org/tolkien/William,_Tom,_and_Bert> a schema1:Person ;
+    rdfs:label "William, Tom, and Bert"@en .
+
+ex:Willie_Banks a schema1:Person ;
+    rdfs:label "Willie Banks"@en .
+
+ex:Wiseman_Gamwich a schema1:Person ;
+    rdfs:label "Wiseman Gamwich"@en .
+
+ex:Witch-king a schema1:Person ;
+    rdfs:label "Witch-king"@en .
+
+ex:Wolf_\(dog\) a schema1:Person ;
+    rdfs:label "Wolf (dog)"@en .
+
+ex:Wrot a schema1:Person ;
+    rdfs:label "Wrot"@en .
+
+ex:Wulf a schema1:Person ;
+    rdfs:label "Wulf"@en .
+
+ex:Wídfara a schema1:Person ;
+    rdfs:label "Wídfara"@en .
+
+ex:Yavanna a schema1:Person ;
+    rdfs:label "Yavanna"@en .
+
+ex:Éomer a schema1:Person ;
+    rdfs:label "Éomer"@en .
+
+ex:Éomund a schema1:Person ;
+    rdfs:label "Éomund"@en .
+
+ex:Éomund_\(Captain_of_the_Éothéod\) a schema1:Person ;
+    rdfs:label "Éomund (Captain of the Éothéod)"@en .
+
+ex:Éothain a schema1:Person ;
+    rdfs:label "Éothain"@en .
+
+ex:Éothéod a schema1:Person ;
+    rdfs:label "Éothéod"@en .
+
+ex:Éowin a schema1:Person ;
+    rdfs:label "Éowin"@en .
+
+ex:Éowyn a schema1:Person ;
+    rdfs:label "Éowyn"@en .
+
+ex:Óin a schema1:Person ;
+    rdfs:label "Óin"@en .
+
+<http://example.org/tolkien/Óin_(King_of_Durin's_Folk)> a schema1:Person ;
+    rdfs:label "Óin (King of Durin's Folk)"@en .
+
