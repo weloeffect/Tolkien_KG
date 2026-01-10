@@ -1,0 +1,81 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Elrond> a schema:WebPage ;
+    rdfs:label "Elrond"@en ;
+    schema:about <http://localhost:8000/resource/Elrond> .
+
+<http://localhost:8000/resource/Elrond> a schema:Person ;
+    rdfs:label "Elrond"@en ;
+    tg:affiliation <http://localhost:8000/resource/White_Council> ;
+    tg:affiliation_raw "[[White Council]]"@en ;
+    tg:age "6520"@en ;
+    tg:birth "{{FA|532}}<ref>{{WJ|Years}}, version C of the manuscript, year changed to [>532], p. 348</ref>"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Havens_of_Sirion> ;
+    tg:birthlocation_raw "[[Havens of Sirion]]"@en ;
+    tg:caption <http://localhost:8000/resource/:Category:Images_by_Tatyafinwe> ;
+    tg:caption_raw "\"Portrait of Elrond\" by [[:Category:Images by Tatyafinwe|Tatyafinwe]]"@en ;
+    tg:children <http://localhost:8000/resource/Aragorn>,
+        <http://localhost:8000/resource/Arwen>,
+        <http://localhost:8000/resource/Elladan>,
+        <http://localhost:8000/resource/Elrohir>,
+        <http://localhost:8000/resource/twins> ;
+    tg:children_raw "[[Elladan]] & [[Elrohir]] ([[twins]])<br/>[[Arwen]]<br/>[[Aragorn]] (foster son)"@en ;
+    tg:clothing "Grey mantle<ref name=\"Havens\">{{RK|Havens}}</ref><br/>Silver circlet<ref name=\"meetings\">{{FR|Meetings}}</ref>"@en ;
+    tg:eyes "Grey<ref name=\"meetings\"/>"@en ;
+    tg:gender "Male"@en ;
+    tg:hair "Dark<ref name=\"meetings\"/>"@en ;
+    tg:height ""@en ;
+    tg:heritage <http://localhost:8000/resource/Half-elven> ;
+    tg:heritage_raw "[[Half-elven]] father and mother"@en ;
+    tg:house <http://localhost:8000/resource/Doom_of_Mandos>,
+        <http://localhost:8000/resource/Edain>,
+        <http://localhost:8000/resource/Elves>,
+        <http://localhost:8000/resource/Elw%C3%AB>,
+        <http://localhost:8000/resource/House_of_B%C3%ABor>,
+        <http://localhost:8000/resource/House_of_Fingolfin>,
+        <http://localhost:8000/resource/House_of_Hador>,
+        <http://localhost:8000/resource/House_of_Haleth> ;
+    tg:house_raw "[[House of Hador]],<ref group=note>Though Elrond and his brother Elros belonged to the House of Hador, they descended from [[House of Bëor|all]] [[House of Haleth|three]] [[House of Hador|Houses]] of the [[Edain]] as well as the [[Elves|Elven]] Houses of [[House of Fingolfin|Fingolfin]] and [[Elwë]] (Thingol).</ref><ref>{{NM|P3xi}}, ''Author's notes'', Note 1, p. 323</ref> but preferred the [[Elwë|House of Elwë]]<ref group=note>Elrond chose the fate of the Eldar to carry on the lineages of Elwë and Turgon, but he preferred the lineage of Elwë because Elwë had not been subject to the [[Doom of Mandos]].</ref><ref>{{PM|Ros}}, p. 371; and associated Note 19 on p. 376</ref>"@en ;
+    tg:image "Tatyafinwe - Portrait of Elrond.jpg"@en ;
+    tg:language <http://localhost:8000/resource/Quenya>,
+        <http://localhost:8000/resource/Sindarin>,
+        <http://localhost:8000/resource/Westron> ;
+    tg:language_raw "[[Sindarin]], [[Quenya]], [[Westron]]"@en ;
+    tg:location <http://localhost:8000/resource/Aman>,
+        <http://localhost:8000/resource/Lindon>,
+        <http://localhost:8000/resource/Mouths_of_Sirion>,
+        <http://localhost:8000/resource/Rivendell> ;
+    tg:location_raw "[[Mouths of Sirion]] (before {{FA|590}})<br/>[[Lindon]]<br/>[[Rivendell]]<br/>[[Aman]] (after {{TA|3021}})"@en ;
+    tg:name "Elrond"@en ;
+    tg:notablefor ""@en ;
+    tg:othernames <http://localhost:8000/resource/Half-elven>,
+        <http://localhost:8000/resource/Quenya>,
+        <http://localhost:8000/resource/Sindarin> ;
+    tg:othernames_raw "''Elerondo'' ([[Quenya|Q]])<br />''Peredhel'' ([[Sindarin|S]], \"[[Half-elven]]\")<br/>Master Elrond"@en ;
+    tg:parentage <http://localhost:8000/resource/E%C3%A4rendil>,
+        <http://localhost:8000/resource/Elwing>,
+        <http://localhost:8000/resource/Maglor> ;
+    tg:parentage_raw "[[Eärendil]] (father)<br/>[[Elwing]] (mother)<br/>[[Maglor]] (foster father)"@en ;
+    tg:people <http://localhost:8000/resource/Half-elven> ;
+    tg:people_raw "[[Half-elven|Half-elf]]"@en ;
+    tg:position <http://localhost:8000/resource/Gil-galad>,
+        <http://localhost:8000/resource/Vilya> ;
+    tg:position_raw "Ring-bearer of [[Vilya]]<br/> Vice-regent of Eriador<br>Herald to [[Gil-galad]]<ref name=\"Celeborn\">{{UT|Galadriel}}</ref>"@en ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:pronun_raw "[[Sindarin|S]], {{IPA|['ɛlʲrond]}}"@en ;
+    tg:rule "{{SA|1697}} - {{TA|3021}} (ruled 4765 years)"@en ;
+    tg:sailedfrom <http://localhost:8000/resource/Grey_Havens> ;
+    tg:sailedfrom_raw "[[Grey Havens]]"@en ;
+    tg:sailedwest <http://localhost:8000/resource/29_September> ;
+    tg:sailedwest_raw "[[29 September]], {{TA|3021}}"@en ;
+    tg:siblings <http://localhost:8000/resource/Elros> ;
+    tg:siblings_raw "[[Elros]] (twin brother)"@en ;
+    tg:spouse <http://localhost:8000/resource/Celebr%C3%ADan> ;
+    tg:spouse_raw "[[Celebrían]]"@en ;
+    tg:steed ""@en ;
+    tg:titles <http://localhost:8000/resource/Rivendell> ;
+    tg:titles_raw "Lord of [[Rivendell]]"@en ;
+    tg:weapons ""@en .
+

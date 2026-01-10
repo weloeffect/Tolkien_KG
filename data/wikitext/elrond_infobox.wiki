@@ -1,0 +1,33 @@
+{{infobox character
+| name=Elrond
+| people=[[Half-elven|Half-elf]]
+| image=Tatyafinwe - Portrait of Elrond.jpg
+| caption="Portrait of Elrond" by [[:Category:Images by Tatyafinwe|Tatyafinwe]]
+| pronun=[[Sindarin|S]], {{IPA|['ɛlʲrond]}}
+| othernames=''Elerondo'' ([[Quenya|Q]])<br />''Peredhel'' ([[Sindarin|S]], "[[Half-elven]]")<br/>Master Elrond
+| titles=Lord of [[Rivendell]]
+| position=Ring-bearer of [[Vilya]]<br/> Vice-regent of Eriador<br>Herald to [[Gil-galad]]<ref name="Celeborn">{{UT|Galadriel}}</ref>
+| location=[[Mouths of Sirion]] (before {{FA|590}})<br/>[[Lindon]]<br/>[[Rivendell]]<br/>[[Aman]] (after {{TA|3021}})
+| affiliation=[[White Council]]
+| language=[[Sindarin]], [[Quenya]], [[Westron]]
+| birth={{FA|532}}<ref>{{WJ|Years}}, version C of the manuscript, year changed to [>532], p. 348</ref>
+| birthlocation=[[Havens of Sirion]]
+| rule={{SA|1697}} - {{TA|3021}} (ruled 4765 years)
+| sailedwest=[[29 September]], {{TA|3021}}
+| sailedfrom=[[Grey Havens]]
+| age=6520
+| notablefor=
+| house=[[House of Hador]],<ref group=note>Though Elrond and his brother Elros belonged to the House of Hador, they descended from [[House of Bëor|all]] [[House of Haleth|three]] [[House of Hador|Houses]] of the [[Edain]] as well as the [[Elves|Elven]] Houses of [[House of Fingolfin|Fingolfin]] and [[Elwë]] (Thingol).</ref><ref>{{NM|P3xi}}, ''Author's notes'', Note 1, p. 323</ref> but preferred the [[Elwë|House of Elwë]]<ref group=note>Elrond chose the fate of the Eldar to carry on the lineages of Elwë and Turgon, but he preferred the lineage of Elwë because Elwë had not been subject to the [[Doom of Mandos]].</ref><ref>{{PM|Ros}}, p. 371; and associated Note 19 on p. 376</ref>
+| heritage=[[Half-elven]] father and mother
+| parentage=[[Eärendil]] (father)<br/>[[Elwing]] (mother)<br/>[[Maglor]] (foster father)
+| siblings=[[Elros]] (twin brother)
+| spouse=[[Celebrían]]
+| children=[[Elladan]] & [[Elrohir]] ([[twins]])<br/>[[Arwen]]<br/>[[Aragorn]] (foster son)
+| gender=Male
+| height=
+| hair=Dark<ref name="meetings"/>
+| eyes=Grey<ref name="meetings"/>
+| clothing=Grey mantle<ref name="Havens">{{RK|Havens}}</ref><br/>Silver circlet<ref name="meetings">{{FR|Meetings}}</ref>
+| weapons=
+| steed=
+}}
