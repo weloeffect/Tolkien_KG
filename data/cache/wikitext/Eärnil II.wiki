@@ -1,0 +1,107 @@
+{{disambig-two|the penultimate [[Kings of Gondor|King]] of [[Gondor]]|earlier [[Ship-king]]|[[Eärnil I]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Eärnil II
+| image=Oznerol-1516 - Earnur and Mardil.jpg
+| caption="Earnur and Mardil" by [[:Category:Images by Oznerol-1516|Oznerol-1516]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1883}}
+| birthlocation=
+| rule={{TA|1945}} - {{TA|2043|n}} (98 years)
+| death={{TA|2043}}
+| deathlocation=
+| age=160
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Siriondil (son of Calimmacil)|Siriondil]]
+| siblings=
+| spouse=
+| children=[[Eärnur]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eärnil II''' ({{TA|1883}}<ref>{{PM|Elendil}}, Eärnil II</ref> – {{TA|2043|n}},<ref name="South">{{App|South}}</ref> aged 160 years) was selected as the thirty-second King of [[Gondor]] after his predecessor, King [[Ondoher]], was slain in battle. 
+
+==History==
+===Military exploits===
+By the year {{TA|1944}}, King Ondoher had been warned by [[Forthwini]] of [[Éothéod]] that the [[Wainriders]] of [[Rhovanion]] were becoming strong again and planned an attack upon [[Gondor]]. The king was also aware that his enemies to the South were preparing for war and so he knew that the realm faced a double threat. Ondoher split Gondor's army in two and assigned the smaller southern force to Eärnil, who made his base at [[Pelargir]].
+
+On the ninth of [[Cermië]] in 1944 Eärnil received word that the southern enemies were on the move. He crossed the [[Anduin]] with half of his force and encamped forty miles north of the Fords of the [[Poros]].<ref name="Cirion">{{UT|Northmen}}</ref> Here he defeated and destroyed the army of [[Harad]] that came over the river,<ref name="Gondor">{{App|Gondor}}</ref> but received word of the disaster in the north from [[Adrahil (Captain of the Left Wing)|Adrahil]] of [[Dol Amroth]].<ref name="Cirion"/> King Ondoher, his two sons, and his Right Wing commander had all died and Adrahil was left with few effective forces. Hastening north, Eärnil added what he could of the retreating northern army to his own forces and stormed the main camp of the Wainriders. After winning what they thought was an easy and complete victory the enemy forces were feasting and revelling. Eärnil torched their wains and drove the enemy out of [[Ithilien]]. Fleeing from the [[Battle of the Camp]], most of the Wainriders perished in the [[Dead Marshes]].<ref name="Gondor"/>
+
+===Ascension to the Crown===
+The loss of Ondoher, his sons [[Artamir]] and [[Faramir (son of Ondoher)|Faramir]], and the King's sister-son [[Minohtar]] left Gondor with the question of who should succeed to the throne. In {{TA|1940}} [[Arvedui]] of [[Arthedain]] had wedded [[Fíriel]], Ondoher's third child and daughter. Based on this relationship and his direct descent from [[Isildur]], the elder brother of [[Anárion]] and thus the heir of [[Elendil]], the ancient High King of all of the [[Dúnedain]], Arvedui made a claim for the throne of Gondor.<ref name="Gondor"/>
+
+However, to the men of Gondor the realm of Arthedain seemed small. Led by the [[Steward of Gondor|Steward]] [[Pelendur]] the [[Council of Gondor]] awarded the Kingship to Eärnil, who ascended to the throne as Eärnil II in {{TA|1945|n}}.<ref name="TA">{{App|TA}}</ref> Yet Eärnil was a wise man and not arrogant, and he sent a message to Arvedui stating, "I do not forget the loyalty of [[Arnor]], nor deny our kinship, nor wish that the realms of Elendil should be estranged. I will send you aid when you have need, so far as I am able."<ref name="Gondor"/>
+
+===Aid for the North===
+It was many years before Eärnil felt secure enough to send aid to Arthedain. At last in the autumn of {{TA|1973|n}} word arrived that Arthedain was about to be attacked by the [[Witch-king]] of [[Angmar]]. Eärnil sent his son [[Eärnur]] north with a fleet and as much strength as he could spare. However, by the time that they arrived Arthedain had been conquered and Arvedui had perished. The strength of Gondor, combined with the forces of [[Círdan]], met the host of Angmar and destroyed it. Yet the Witch-king himself did not perish, and riding upon Eärnur he humiliated the prince when his horse carried him away from the confrontation.<ref name="Gondor"/>
+
+===Loss of Minas Ithil===
+Unbeknownst to Eärnil or his son, the Witch-king was the Lord of the [[Nazgûl]]. In {{TA|1980}} he entered [[Mordor]] and gathered the other Nazgûl to him. In {{TA|2000|n}} the Nazgûl led an army from Mordor that [[Second Fall of Minas Ithil|besieged]] [[Minas Ithil]].  Eärnil and the army of Gondor could not lift the siege, and in {{TA|2002|n}} the Nazgûl took the city,<ref name="TA"/> which was called [[Minas Morgul]], the "Tower of Sorcery", thereafter (and Minas Anor was renamed [[Minas Tirith]], the "Tower of the Guard").<ref name="Gondor"/>
+
+Eärnil died in {{TA|2043}} and was succeeded by his son Eärnur, who would be the last king of the line of Anárion.<ref name="South"/> Likewise with all kings before him, Eärnil was buried in the [[Houses of the Dead]]. His son, before accepting the challenge of the [[Witch-king]], put the [[Crown of Gondor]] in the lap of dead Eärnil.<ref name="Gondor"/> The crown remained there for the following centuries until the [[War of the Ring]] when [[Faramir]] brought it to the coronation of [[Aragorn|Elessar]].<ref>{{RK|Steward}}</ref>
+
+==Etymology==
+:''See: [[Earnil I#Etymology]]''
+
+==Other names==
+Eärnil was named '''Captain of the Southern Army''', after having been assigned the southern force of Gondor's army.<ref name="Gondor"/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | TEL | | | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|-|-|^|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | ARN | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|ARN=[[Kings of Arnor|''Kings of<br/>Arnor'']]|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |:| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR |y| ARV | | MIN | | EAR |ART=[[Artamir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|ARV=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''†</small>|MIN=[[Minohtar]]<br/><small>''d. {{TA|1944|n}}''†</small>|EAR='''EÄRNIL II'''<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | EAR |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>|EAR=[[Eärnur]]<br/><small>''{{TA|1928|n}} - {{TA|2050|n}}''†</small>}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | COD | | | | | | | | | | |COD=[[Chieftains of the Dúnedain|''Chieftains of<br/>the Dúnedain'']]}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | | | |ARA=[[Aragorn]]<br/><small>''{{TA|2931|n}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1883}}
+| died={{TA|2043}}
+}}
+{{seq
+| pvac=Vacant
+| prev=Last held by:<br/>'''[[Ondoher]]''', 1 year earlier
+| list=32nd [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1945}} - {{TA|2043|n}}
+| next=[[Eärnur]]
+}}
+{{seq-end}}
+{{southernline}}
+{{DEFAULTSORT:Earnil II}}
+[[Category:Characters in The Silmarillion]]
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+
+[[de:Earnil II.]]
+[[fi:Eärnil II]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:earnil ii]]

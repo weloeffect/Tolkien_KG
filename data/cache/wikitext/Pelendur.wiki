@@ -1,0 +1,101 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Pelendur
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Steward of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1879}}
+| birthlocation=
+| rule=
+| death={{TA|1998}}
+| deathlocation=
+| age=119
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=
+| siblings=
+| spouse=
+| children=[[Vorondil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Pelendur''' ([[Third Age]] {{TA|1879|n}}<ref>{{PM|Elendil}}, p. 204</ref> – {{TA|1998|n}},<ref name="South">{{App|South}}</ref> aged 119 years) was a Steward of [[Gondor]], serving the Kings [[Ondoher]] and [[Eärnil II]].
+==History==
+Pelendur was a descendant of [[Húrin of Emyn Arnen]], an earlier Steward.  All Stewards since Húrin had been chosen from among his descendants; after Pelendur the Stewardship became hereditary within the [[House of Húrin]].<ref>{{App|Stewards}}</ref> 
+
+In {{TA|1944}} King Ondoher and his two sons, [[Artamir]] and [[Faramir (son of Ondoher)|Faramir]] fell in battle north of the [[Morannon]].  With the king and all of his male heirs dead, Pelendur ruled Gondor until a new king could be selected.  There were two claimants for the throne:  Prince [[Arvedui]] of [[Arthedain]] and general [[Eärnil II|Eärnil]] who had defeated both the army of [[Harad]] near the River [[Poros]] and the [[Wainriders]] in the [[Battle of the Camp]].
+
+Arvedui’s claim was based upon his descent from [[Isildur]] and upon his marriage to [[Fíriel]], Ondoher’s only remaining child.  Pelendur played the chief part in rejecting Arvedui's claim.  He contended that the crown belonged to the heirs of [[Meneldil]], son of [[Anárion]], since Isildur had relinquished the realm of Gondor.  Also, he stated that the heritage of royalty was reckoned only through the sons.   Although Arvedui countered Pelendur with strong arguments, in the end the [[Council of Gondor]] chose Eärnil, by virtue of his outstanding victories and because he was of the royal house (to the [[Dúnedain]] of Gondor the realm in [[Arthedain]] seemed a small thing and all of them gave their support to Eärnil).<ref>{{App|Gondor}}</ref>
+
+Eärnil was crowned as Eärnil II in {{TA|1945}} and Pelendur continued to serve as his Steward until his death in {{TA|1998|n}}.<ref name="South"/> Upon his death the title of the Steward became hereditary, and the office was assumed by his son, [[Vorondil]].
+
+==Etymology==
+''Pelendur'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "Servant of the Border" and is a compound of some derivative of the root ''[[PEL]]'' ("border") and the suffix ''[[-ndur|-(n)dur]]'' ("servant", "to serve").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3831848299.html|articlename=Q. ''Pelendur'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | HUR |HUR=[[Húrin of Emyn Arnen|Húrin of<br/>Emyn Arnen]]<br/><small>''fl. {{TA|1634|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | PEL |PEL='''PELENDUR'''<br/><small>''{{TA|1879|n}} - {{TA|1998|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | VOR |VOR=[[Vorondil]]<br/><small>''{{TA|1919|n}} - {{TA|2029|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAR |MAR=[[Mardil|Mardil Voronwë]]<br/><small>''{{TA|1960|n}} - {{TA|2080|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|1879}}
+| died={{TA|1998}}
+}}
+{{seq
+| pvac=Unknown
+| prev=Last known: [[Húrin of Emyn Arnen]]
+| list=[[Steward of Gondor|Steward to the King of Gondor]]
+| dates=unknown – {{TA|1944}}
+| nvac=Himself
+| next=As Ruling Steward
+}}
+{{seq
+| pvac=None
+| prev=Position created
+| list=[[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|1944}} – {{TA|1945|n}}
+| nvac=Himself
+| next=As Steward
+}}
+{{seq
+| pvac=Himself
+| prev=As Ruling Steward
+| list=[[Steward of Gondor|Steward to the King of Gondor]]
+| dates={{TA|1945}} – {{TA|1998|n}}
+| next=[[Vorondil]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Quenya names]]
+[[Category:Stewards]]
+[[Category:Third Age characters]]
+
+[[de:Pelendur]]
+[[fi:Pelendur]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/pelendur]]

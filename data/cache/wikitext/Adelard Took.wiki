@@ -1,0 +1,54 @@
+{{infobox character
+| name=Adelard Took
+| people=[[Hobbits|Hobbit]]
+| image=The Lord of the Rings Online - Adelard Took.jpg
+| caption=Adelard Took from ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth={{SR|1328}}
+| birthlocation=
+| rule=
+| death={{SR|1423}}
+| deathlocation=
+| age=95
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Flambard Took]]
+| siblings=
+| spouse=
+| children=[[Reginard Took]], [[Everard Took]], 2 daughters
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adelard Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Adelard was the son of [[Flambard Took]], and had several children; [[Reginard Took|Reginard]], [[Everard Took|Everard]] and two daughters. They were all present at [[Bilbo's Farewell Party]] in {{SR|1401}}.<ref>{{App|Took}}</ref> The next morning, he joined a crowd who went to [[Bag End]] to ask [[Frodo Baggins]] about [[Bilbo]]'s disapparance. Bilbo had left for him an umbrella as a parting gift, although Adelard left taking some others.<ref>{{FR|Party}}</ref>
+==Etymology==
+Adelard is a combination of the Germanic elements ''adel'' ("noble") and ''hard'' ("strong").<ref>{{HM|IE}}, Giving of Names, p. 191</ref>
+
+==Other versions of the legendarium==
+In older editions of ''[[The Lord of the Rings]]'', the Took family tree in [[Appendix C]] showed that Adelard had '''three''' daughters. The number was changed to '''two''' in later editions.
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Adelard Took is a librarian in [[Tuckborough]].
+{{references}}
+
+[[Category:Fourth Age characters]]
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Adelard Tuk]]
+[[fi:Adelard Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/adelard touque]]

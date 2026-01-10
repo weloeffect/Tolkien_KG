@@ -1,0 +1,42 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Pott the Mayor
+| image=Mayor Pott Whitfoot.png
+| caption=Mayor Pott Whitfoot - ''[[The Lord of the Rings Roleplaying]]''
+| pronun=
+| othernames=
+| titles=
+| position=[[Mayor of Michel Delving]]
+| location=[[Michel Delving]]<ref name="Perry"/>
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+Old '''Pott''' was, according to [[Samwise Gamgee]]'s poem "[[Perry-the-Winkle]]", a [[Mayor of Michel Delving]]. He witnessed the meeting of [[Mrs. Bunce]] with the [[Lonely Troll]] and he was in turn frightened. When he learned that the Troll was kind and generous, he and other [[Hobbits]] tried to visit him. But the Troll refused those who had refused his friendship.<ref name="Perry"/>
+
+It is unknown if this character was based on an actual person, or just an invention by the poet.<ref name="Perry">{{AB|Perry}}</ref>
+ 
+{{references}}
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Hobbits]]
+[[Category:Mayors of Michel Delving]]
+[[Category:Third Age characters]]
+[[fi:Potti]]

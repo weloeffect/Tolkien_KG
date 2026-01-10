@@ -1,0 +1,63 @@
+{{disambig-more|Kiryandil|[[Ciryandil (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Kiryandil
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=
+| birth=late {{TA}}
+| birthlocation=
+| rule=
+| death=''Possibly'' before {{TA|1960}}<ref group=note>In the ''Manuscript A'' of the Southern Line, it is said that Eärnil, Kiryandil's son, became the [[King of Gondor]] in {{TA|1960}}. Therefore, it is possible that Kiryandil was dead by that time, since otherwise he might have become the new king instead.</ref><ref name=Man/>
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Siriondil (son of Calimmacil)|Siriondil]]
+| siblings=
+| spouse=
+| children=[[Eärnil II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Kiryandil''' was the father of [[Eärnil II]], according to a draft version of the ''[[Appendices]]''.<ref name=Man/>
+
+In an early [[Manuscript A (The Southern Line)|manuscript]] of what would become the ''[[Appendix A]]'' of ''[[The Lord of the Rings]]'', Eärnil II was presented as the son of a man called Kiryandil, who was in turn the son of [[Siriondil (son of Calimmacil)|Siriondil]], son of [[Calimmacil|Kalimmakil]],<ref group=note>The forms ''Kalimmakil'' and ''Narmakil'' are earlier spellings of ''Calimmacil'' and ''Narmacil'', respectively.</ref> son of king [[Narmacil II|Narmakil II]].<ref name=Man>{{PM|Elendil}}, Commentary, ''The Southern Line of Gondor'', entry '''Eärnil II''', pp. 216-7</ref>
+
+However, soon after, the character of Kiryandil disappeared completely, and Eärnil instead became the son of Siriondil, son of Kalimmakil, son of Narmakil II.<ref>{{PM|Elendil}}, ''The Southern Line of Gondor: the Anárioni'', entry 32 '''Eärnil II''', p. 201</ref>
+
+Ultimately, however, in the published version of the ''Appendix A'', the genealogy of Eärnil changed once again - there he is described as the son of Siriondil, son of Calimmacil, son of [[Arciryas]], a newly created character envisioned as the brother of king Narmacil II.<ref>{{App|Gondor}}, p. 1050</ref>
+
+== Etymology ==
+For the meaning of the name ''Kiryandil'', see [[Ciryandil#Etymology]].
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | NAR |NAR=[[Narmacil II|Narmakil II]]<br/><small>''fl. late {{TA}}''</small>}}
+{{familytree | |!| }}
+{{familytree | KAL |KAL=[[Calimmacil|Kalimmakil]]<br/><small>''fl. late {{TA}}''</small>}}
+{{familytree | |!| }}
+{{familytree | SIR |SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''fl. late {{TA}}''</small>}}
+{{familytree | |!| }}
+{{familytree | KIR |KIR='''KIRYANDIL'''<br/><small>''fl. late {{TA}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | EAR |EAR=[[Eärnil II]]<br/><small>''fl. late {{TA}}''</small>}}
+{{familytree/end}}
+
+{{references|notes}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]

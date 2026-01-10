@@ -1,0 +1,64 @@
+{{unnamed}}
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Captain of the guard
+| image=David T. Wenzel - Captain of the guard.png 
+| caption=The Captain of the Guard by [[David T. Wenzel]]
+| pronun=
+| othernames=Captain
+| titles=
+| position=Captain of the guard
+| location=[[Lake-town]], [[Long Lake]]
+| affiliation=[[Lake-men]]
+| language=[[Westron]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=Possibly {{TA|2941}}
+| deathlocation=
+| age=
+| notablefor= 
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+| gallery=Braga|Captain of the guard
+}}
+
+The '''captain of the guard''', or just the '''captain ''', was a [[Lake-men|Man]] of [[Lake-town]] who served as the captain of the guard for the [[Master of Lake-town]] during the late [[Third Age]].<ref name="H14">{{H|14}}</ref>
+
+== History ==
+The captain of the guard served the [[Master of Lake-town]]. One day in {{TA|2941}}, the guards under his command were surprised by the appearance of [[Thorin and Company|Dwarves]] in their hut without any prior warning. After [[Thorin]] announced himself and his intention to see the Master of Lake-town, the captain of the guard asked to know who [[Fíli]], [[Kíli]], and [[Bilbo Baggins]] were. After Thorin answered, the captain demanded that they all needed to lay down any weapons they had if they came in peace, though Thorin revealed that they had none and would not be able to fight them even if they did. When the captain revealed that the Master was in a feast, Fíli grew impatient and demanded to be taken for them to make haste, threatening the captain that the Master may not like waiting long.<ref name="H14"/>
+
+The captain obliged him and led the company with six men through the market-place and into the [[Great House]], where Thorin announced his identity to the Master before the captain could get a word in.<ref name="H14"/> It is unknown if the captain of the guard survived the attack by [[Smaug]] and the later [[Battle of Five Armies]].
+
+==Portrayal in adaptations==
+===The Captain of the Guard in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Hobbit - The Desolation of Smaug - Braga Promo.jpg|"Braga" in ''[[The Hobbit: The Desolation of Smaug]]''
+</gallery>
+'''1968: [[The Hobbit (1968 radio series)|''The Hobbit'' (1968 radio series)]]:'''
+:Ian Thompson provided the voice of the captain of the guard, who is credited as the '''Herald of Esgaroth'''.
+
+'''1980: [[Der Hobbit (1980 German radio series)|''Der Hobbit'' (1980 German radio series)]]:'''
+:The captain of the guard is referred to as a '''Man''' and is portrayed by Heinz Theo Branding.
+
+'''2013: ''[[The Hobbit: The Desolation of Smaug]]'':'''
+:The captain of the guard was given the name '''Braga''' and is portrayed by [[Mark Mitchinson]]. He has light brown hair, green eyes, and wields a spear. Unlike in the book, he was given a slightly expanded role. Braga and his guards track [[Bard]] when he first arrives with [[Bilbo Baggins]] and [[Thorin and Company]], though Bard manages to keep them hidden, with help from the Dwarves themselves. Later, he is ordered by the [[Master of Lake-town]] to arrest Bard and lock him up, though not without a struggle from Bard himself.<ref>''[[The Hobbit: The Desolation of Smaug]]''</ref>
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:During [[Smaug|Smaug's]] attack on Lake-town, Braga and a few other soldiers assist the Master in emptying the town's treasury into a boat in which they then attempt to flee the wreckage. Braga presumably perishes along with the Master and everyone else in the boat when the slain [[Dragons|Dragon's]] lifeless body falls on top of them while plummeting to its final resting place at the bottom of the [[Long Lake]].<ref>''[[The Hobbit: The Battle of the Five Armies]]''</ref>
+
+{{References}}
+[[Category:Characters in The Hobbit]]
+[[Category:Lake-men]]
+[[Category:Positions and occupations]]
+[[Category:Third Age characters]]

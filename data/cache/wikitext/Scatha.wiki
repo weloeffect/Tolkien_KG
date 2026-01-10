@@ -1,0 +1,55 @@
+{{disambig-two|the [[Long-worms|long-worm]]|poem|''[[Scatha the Worm]]''}}
+{{Dragon infobox
+| name=Scatha
+| image=Wouter Florusse - The Slaying of Scatha.png
+| caption="The Slaying of Scatha" by [[:Category:Images by Wouter Florusse|Wouter Florusse]]
+| othernames=
+| titles=The Worm
+| location=[[Grey Mountains]]<ref name=appendix>{{App|Eorl}}</ref>
+| affiliation=[[Long-worms]]<ref name=appendix/>
+| hoard=[[Dwarves|Dwarf]]-hands, Human skulls, and "sharp bright stones"<ref name=collectedpoems>{{CP|177}}, third version</ref>
+| birth=
+| birthlocation=
+| death=20th or 21st century of the [[Third Age]]
+| deathlocation=
+| slainby=[[Fram]]<ref name=appendix/>
+| type=[[Cold-drakes|Cold]]<ref name=collectedpoems/>
+| legs=
+| wings=No<ref name=collectedpoems/>
+| colour=Grey<ref name=collectedpoems1>{{CP|177}}, first version</ref> with a white belly<ref name=collectedpoems/>
+}}
+
+{{quote|He crawled<br>like a slow creeping death, too<br>horrible to flee from, froze Men with<br>fear and his icy breath, and then<br>crushed them, ground them, under<br>his long white belly.|{{CP|177}}}}
+
+'''Scatha''', known as the '''Worm''', was a blind<ref name="collectedpoems" /> and silent<ref name="collectedpoems1" /> [[Long-worms|Long-worm]] of the [[Grey Mountains]] and one of the greatest [[Dragons]] to infest that range of the north.<ref name="appendix" />
+
+==History==
+Little is known of Scatha's life, except that he had a vast<ref name="collectedpoems2">{{CP|177}}, second version</ref> den in the Grey Mountains<ref name="appendix" /> that "stank like a dark tomb" and contained a hoard of treasure which included "sharp bright stones" and a horn<ref name="partings">{{RK|Partings}}</ref> made by the [[Dwarves]]<ref name="partings" />. He also collected bones as "toys", particularly "hands of dwarves and skulls of men" which he "piled in his den" as a "bed"<ref name="collectedpoems2" /> and licked them clean.<ref name="collectedpoems" />
+
+After Scatha was slain by [[Fram]] son of [[Frumgar]] in the early days of the [[Éothéod]], peace came to the land, though his recovered hoard was the subject of great dispute between the Men of Éothéod and the [[Dwarves]] of that region, The Dwarves claimed it as their own, but Fram rebuked their claim, refusing to even "yield them a penny" and instead sent them a necklace made from "the teeth of Scatha" along with an insulting message. It was rumoured that the Dwarves killed him for this insult.<ref name="appendix" />
+
+It is likely that the Men of Éothéod had retained at least some of the hoard since the horn taken<ref name="collectedpoemsnote">{{CP|177}}, marginal note</ref> by Fram from the hoard was brought south by [[Eorl]] when they settled in [[Rohan]]. Many hundreds of years later, the [[Horn of the Mark]]<ref name="appendixd">{{App|D2}}, final paragraph</ref> was given to [[Meriadoc Brandybuck]] by [[Éowyn]] in the final months of the [[War of the Ring]].<ref name="partings" />
+
+==Etymology==
+''Scatha'', which represents a name in the language of the Éothéod, is a modernization of [[Old English]] ''sceaða'', meaning "injurer, enemy, robber".<ref>{{HM|N}}, p. 762 (entry "Scatha")</ref>
+
+The name ''scatha'' may be related to [[Modern English]] "[http://en.wiktionary.org/wiki/scathe to scathe]".<ref>{{webcite|author=|articleurl=http://www.etymonline.com/index.php?term=scathe|articlename=scathe (v.)|dated=|website=[http://www.etymonline.com/index.php Online Etymology Dictionary]|accessed=17 February 2009}}</ref> According to [[Mark Fisher]] on the [[Encyclopedia of Arda]], the name ''scatha'' may be derived "from [[Old Norse]] ''skaða'', meaning 'harm' or 'injure'".<ref>{{webcite|author=[[Mark Fisher]]|articleurl=https://www.glyphweb.com/arda/s/scatha.html|articlename=Scatha|dated=31 October 1998|website=EoA|accessed=5 November 2025}}</ref>
+
+==Other versions of the legendarium==
+In an early draft of the chapter "[[Many Partings]]", Éowyn claimed that the Horn of the Mark<ref name="appendixd"/> was made "in the deeps of time…by the [[Dwarves of Erebor|dwarves]] of [[Dale]]" for the forefathers of the Rohirrim. Tolkien subsequently struck out "of Dale" and wrote "on the galley proof" that the horn "came from the hoard of Scatha the Worm".<ref>{{SD|VII}}, p. 68</ref>
+
+==Speculation==
+[[Robert Foster]] speculated in ''[[The Complete Guide to Middle-earth]]'' that Scatha's hoard was "a large Dwarf-hoard" and he was slain around {{TA|2000}},<ref>{{HM|Guide}}, p. 346 (entry "Scatha")</ref> but there is no writing by Tolkien which backs this up. [[Mark Fisher]] stated in a note on the [[Encyclopedia of Arda]] that{{blockquote|There is no annal or record of Scatha's death, so identifying the correct date is problematic. The only known date that's remotely related is that of Frumgar's foundation of the Éothéod in III 1977. Frumgar was the father of Fram, who slew Scatha, but these bare facts leave considerable leeway for speculation.<br/>The earliest possible date for Scatha's death, then, would be III 1977, the year of the Éothéod's founding (though we might expect the event to be specially remarked if this were the case). At the other end of the scale, we might assume that Frumgar was a young man when he led his people northwards, that Fram was born late in his father's life, and that he didn't slay Scatha until advanced in years himself. Under those conditions, the date might extend as far as - at a real stretch - III 2100. As a compromise, we've assumed a date here of roughly III 2000, a few decades after the establishment of the Éothéod.<ref>{{webcite|author=[[Mark Fisher]]|articleurl=https://www.glyphweb.com/arda/s/scatha.html|articlename=Scatha|dated=31 October 1998|website=EoA|accessed=5 November 2025}}, note 1</ref>}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Scatha.jpg|thumb|left|Scatha in ''[[The Lord of the Rings Online]]'']]
+'''2020: ''[[The Lord of the Rings Online]]'':'''
+:[https://lotro-wiki.com/wiki/Scatha Scatha] appears as a [[fire-drake]] in a flashback narrating the history of [[Fram]] and the [[Éothéod]]. He attacked [[Framsburg]] and mauled [[Frumgar]]'s sword-arm, after which Fram swore revenge and hunted Scatha for two years before ultimately killing him with the aid of one of Sauron's servants. In the present day, the player locates the remainder of Scatha's hoard, which Fram was unable to bring with him.
+
+{{references}}
+
+{{dragons}}
+
+[[Category:Dragons]]
+[[Category:Old English names]]
+[[Category:Third Age characters]]

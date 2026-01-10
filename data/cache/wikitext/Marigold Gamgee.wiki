@@ -1,0 +1,61 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Marigold Gamgee
+| image=Miriam Ellis - Tom and Marigold.png
+| caption=[[Tolman Cotton Junior|Tom]] and Marigold - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=Marigold Cotton
+| titles=
+| position=
+| location=[[Hobbiton]]<br/>[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1383}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Gaffer Gamgee]] and [[Bell Goodchild]]
+| siblings=[[Hamson Gamgee|Hamson]], [[Halfred Gamgee|Halfred]], [[Daisy Gamgee|Daisy]], [[May Gamgee|May]] and [[Samwise Gamgee|Samwise]]
+| spouse=[[Tolman Cotton Junior|Tom Cotton]]
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Marigold Cotton (née Gamgee)''' was the youngest child of [[Gaffer Gamgee|Hamfast Gamgee]].
+
+==History==
+Like all Gamgees, Marigold was close to the [[Cotton Family]]. She married [[Tolman Cotton Junior|Young Tom Cotton]], the eldest son of [[Tolman Cotton Senior|Farmer Cotton]]. Marigold's brother, [[Samwise Gamgee|Sam]], married Tom's sister [[Rose Cotton|Rose]].<ref>{{App|Gamgee}}</ref>
+
+Sam apparently had a close relationship with her, lamenting the prospect of not seeing her again during his time in [[Mordor]].<ref>{{RK|Doom}}</ref>
+
+==Etymology==
+"Marigold" (from ''Mary'' + ''gold'') refers to the ''[[wikipedia:Tagetes|Tagetes]]'' annual plants of the daisy family.
+
+[[J.R.R. Tolkien|Tolkien]] picked the name since it contains "gold" and referring to a golden flower, suggesting the [[Fallohides|Fallohide]] strain in Sam's family — which, increased by the favour of [[Galadriel]], became notable in his children.<ref name="Nomen">{{HM|N}}, p. 760</ref>
+
+==Portrayal in adaptations==
+===Marigold Gamgee in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Lord of the Rings Online - Marigold Gamgee.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Marigold is not a regular NPC present in the game, but rather appears during a single quest available only when the game's annual Yule-festival is active. She appears in front of [[Bag-End]] to sign a petition to remove [[Lobelia Sackville-Baggins]] from her position as the Yule-planner.
+
+{{References}}
+[[Category:Cotton]]
+[[Category:Gamgee]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Goldblume Hüttinger]]
+[[fi:Kaunokki Gamgi]]
+[[fr:encyclo/personnages/hobbits/gamegie/marguerite gamegie]]

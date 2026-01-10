@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gerda Boffin
+| image=Gerda Boffin - The Lord of the Rings Roleplaying.jpg
+| caption=Gerda Boffin - ''[[The Lord of the Rings Roleplaying]]''
+| pronun=
+| othernames=Gerda Bolger
+| titles=
+| position=
+| location=[[The Yale]]<br/>[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1304}}
+| birthlocation=
+| rule=
+| death={{SR|1404}}
+| deathlocation=
+| age=100
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Uffo Boffin]] and [[Sapphira Brockhouse]]
+| siblings=[[Gruffo Boffin|Gruffo]]
+| spouse=[[Adalbert Bolger]]
+| children=[[Filibert Bolger|Filibert]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gerda Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Gerda was the second child of [[Uffo Boffin]] and [[Sapphira Brockhouse]].<ref>{{App|Boffin}}</ref> She married [[Adalbert Bolger]] and had one son, [[Filibert Bolger|Filibert]].<ref>{{App|Bolger}}</ref>
+==Etymology==
+Gerda is a name of the goddess [[Wikipedia:Gerðr|Gerðr]], an [[Old Norse]] name meaning "fenced-in".<ref>Orchard, Andy (1997). ''Dictionary of Norse Myth and Legend'' p. 54</ref>
+{{references}}
+[[Category:Germanic names]]
+[[Category:Boffin]]
+[[Category:Bolger]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Gerda Bolger]]
+[[fi:Gerda Boffin]]

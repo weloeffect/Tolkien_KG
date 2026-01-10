@@ -1,0 +1,81 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Forthwini
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Lord of the Éothéod]]
+| position=
+| location=[[Rhovanion]]
+| affiliation=
+| language=language of the [[Éothéod]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Marhwini]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Forthwini''' was the second [[Lord of the Éothéod]] while they lived in the [[Vales of Anduin]]. He was the son of [[Marhwini]].<ref name="Cirion">{{UT|Northmen}}</ref> 
+
+==History==
+During Forthwini's rule his spies learned that the [[Wainriders]], a tribe of [[Easterlings]] who had invaded decades earlier, had recovered and were allying themselves with other forces in the [[East]]. He alerted King [[Ondoher]] of [[Gondor]] of the growing threat, and later the [[Éothéod]] joined the armies of Gondor in battle against the invaders. Though Ondoher and both his sons were slain, his successor [[Eärnil II]] eventually destroyed the Wainriders in {{TA|1944}}.<ref name="Cirion"/><ref>{{App|Gondor}}, entry for king Ondoher</ref><ref>{{App|TA}}, entry for the year 1944 of the Third Age</ref> There is no record of Forthwini's fate.
+
+==Legacy==
+The [[leader of the Éothéod]] whose name stared with ''Marh'', who rode to battle in the campaign against the Wainriders, may have been Forthwini's successor<ref>{{webcite|author=Michael Martinez|articleurl=https://middle-earth.xenite.org/how-many-lords-of-eotheod-were-there/|articlename=How Many Lords of Éothéod Were There?|dated=10 October 2013|website=middle-earth.xenite.org|accessed=20 February 2022}}</ref> and/or son, but this is not stated.<ref>{{UT|Northmen}}, eighteenth paragraph</ref> The next definitively known chieftain of the Éothéod is [[Frumgar]], who was chieftain<ref>{{App|Eorl}}, p. 1064</ref> in {{TA|1977}}.<ref>{{App|TA}}, entry for the year 1977</ref> The specific relationship between Forthwini and Frumgar is unknown.
+
+==Etymology==
+[[Christopher Tolkien]] suggests that the name ''Forthwini'' is [[Gothic]] in form and that the second element ''wini'' ("friend") is an archaic form of [[Old English]] ''wine'' seen in the [[Rohanese]] names of several Kings of Rohan ( [[Fréawine]], [[Goldwine]] and [[Folcwine]]).<ref>{{UT|8e}}, Note 6</ref>
+
+[[David Salo]] and [[Arden R. Smith]] suggest that the name is early [[Old English]] in form.<ref>[[David Salo]], Re: Digest: Radagast etc., e-mail to the Tolkien Language List (19.22), 10 July 1996, http://tolklang.quettar.org/messages/Vol19/19.22; Re: Digest: More Radagast etc., e-mail to the Tolkien Language List (19.36), 16 July 1996, http://tolklang.quettar.org/messages/Vol19/19.36; and Re: Gothic/Old English and pseudo-Latinized forms of same, e-mail to the Tolkien Language List (19.46), 18 July 1996, http://tolklang.quettar.org/messages/Vol19/19.46</ref><ref>[[Arden R. Smith]], Tolkienian Gothic, in [[Wayne G. Hammond]] & [[Christina Scull]], [[The Lord of the Rings 1954-2004]]: Scholarship in Honor of Richard E. Blackwelder, p. 269</ref>
+
+It is also possible that it is a hybrid [[Old English]] and Old High German (OHG) name. The first element is Old English (Anglo-Saxon [AS]) ''forth''<ref>{{webcite|author=Friedrich Kluge|articleurl=https://archive.org/details/etymologicaldict00kluguoft/page/94/mode/2up?q=forth|articlename=Etymological Dictionary of the German language, entry fort, p. 95|website=archive.org|accessed=16 January 2023}}</ref> and the second element is Old High German (OHG) ''wini'' ("friend"), which corresponds to Anglo-Saxon (AS) ''wine''.<ref>{{webcite|author=Friedrich Kluge|articleurl=https://archive.org/details/etymologicaldict00kluguoft/page/118/mode/2up?q=wini|articlename=Etymological Dictionary of the German language, entry gewinnen, p. 118|website=archive.org|accessed=16 January 2023}}</ref>
+
+David Salo suggests that it means "friend of the front" or "friend, who is at the front", so a companion-in-arms who is at the front line of the tribal army. [[Tom Shippey]] suggests that it is Old Mercian English and means "forefriend". Since forth correspons to ''faran'' ("go", "go away") it could mean "travel friend".<ref>Didier Salamon & David Giraudeau, Le Livre de la Marche, 2006, p. 159</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | MAR |MAR=[[Marhari]]<br/><small>''d. {{TA|1856|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | MAN |MAN=[[Marhwini]]<br/><small>''fl. {{TA|1856|n}} - {{TA|1899|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | FOR |FOR='''FORTHWINI'''<br/><small>''fl. {{TA|1944|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | FRU |FRU=[[Frumgar]]<br/><small>''fl. {{TA|1977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | FRA |FRA=[[Fram]]<br/><small>''fl. c. {{TA|2000}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+|race=northmen}}
+{{seq
+| prev=[[Marhwini]]
+| list=2nd [[Lord of the Éothéod]]
+| nvac=Unknown
+| next=Eventually [[Frumgar]]
+}}
+{{seq-end}}
+
+[[Category:Éothéod]]
+[[Category:Gothic names]]
+[[Category:Lords of the Éothéod]]
+[[Category:Third Age characters]]
+[[de:Forthwini]]
+[[fi:Forthwini]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/forthwini]]

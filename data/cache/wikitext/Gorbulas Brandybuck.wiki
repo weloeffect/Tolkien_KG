@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gorbulas Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1308}}
+| birthlocation=
+| rule=
+| death=before {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Orgulas Brandybuck]]
+| siblings=
+| spouse=
+| children=[[Marmadas Brandybuck]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gorbulas Brandybuck''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Gorbulas was the son of [[Orgulas Brandybuck]], the younger son of the [[Master of Buckland]]. He had one son himself, [[Marmadas Brandybuck]]. He died some time before [[Bilbo's Farewell Party]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Gorbulas'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref>{{App|Translation}}, p. 1135</ref> [[Jim Allan]] suggests that the name ''Gorbulas'' combines the first part of ''Gorbadoc'' with the second part of ''Orgulas''.<ref>{{HM|IE}}, "Giving of Names", p. 202</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]
+
+[[de:Gorbulas Brandybock]]
+[[fi:Gorbulas Rankkibuk]]

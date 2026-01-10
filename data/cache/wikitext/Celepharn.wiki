@@ -1,0 +1,92 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Celepharn
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|979}}
+| birthlocation=
+| rule={{TA|1110}} - {{TA|1191|n}}
+| death={{TA|1191}}
+| deathlocation=
+| age=212
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Mallor]]
+| siblings=
+| spouse=
+| children=[[Celebrindor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Celepharn''' ({{TA|979}}<ref>{{PM|Elendil}}, p. 193</ref> - {{TA|1191|n}},<ref name="North">{{App|North}}</ref> died aged 212) was the fourth [[King of Arthedain]].
+
+==History==
+Celepharn was the son of [[Mallor]] and the father of [[Celebrindor]]; he came to the throne of [[Arthedain]] upon the death of his father in {{TA|1110|n}}.<ref name="North"/>
+
+During his rule, circa {{TA|1150|n}}, more ''[[Periannath]]'' (mostly [[Fallohides]] and [[Stoors]]) passed over the [[Misty Mountains]] and entered [[Eriador]] and the lands of [[Arnor]]. The Stoors settled mainly in [[Dunland]] or the [[Angle of Eriador|Angle]].<ref>{{App|TA}}</ref>
+
+Celepharn's rule coincided with that of [[Hyarmendacil I]] of [[Gondor]], under whom the Southern Kingdom reached the height of its power.<ref>{{App|South}}</ref>
+
+Celepharn ruled Arthedain for eighty-one years, and was succeeded by his son, Celebrindor, upon his death in {{TA|1191|n}}.<ref name="North"/>
+
+==Etymology==
+The etymology of Celepharn's name is unknown. [[Robert Foster]] categorizes the name as [[Sindarin]].<ref>{{HM|Guide}}, (entry for ''Celepharn'')</ref> [[David Salo]] proposes that it might be composed of ''[[celeb]]'' ("silver") + [[lenition|lenited]]) ''[[sarn]]'' ("stone");<ref>{{HM|GS}}, p. 346</ref> in this case, ''ph'' should not represent ''f'', but two sounds pronounced separately as "celep-harn".
+
+Earlier, Anthony Bryant speculated that the second element is a derivative of the [[Sundocarme|root]] PHAR ("reach, go all the way, suffice"), thus meaning something like "enough silver" or  "sufficient silver".<ref>{{webcite|author= Anthony J. Bryant|articleurl=https://tolkienlistsearch.herokuapp.com/message/5e9c35d062cbcf800f43aad0|articlename=Re: ''Orofarne, Lassemista'' (130.50)|dated=2 April 2002|website=[[Elfling]]|accessed=22 April 2013}}</ref><ref>{{webcite|author= Mark Fisher|articleurl=http://www.glyphweb.com/arda/c/celepharn.html|articlename=Celepharn|dated=15 March 2011|website=EoA|accessed=22 April 2013}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | BEL |BEL=[[Beleg (King of Arthedain)|Beleg]]<br/><small>''{{TA|811|n}} - {{TA|1029|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAL |MAL=[[Mallor]]<br/><small>''{{TA|895|n}} - {{TA|1110|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL='''CELEPHARN'''<br/><small>''{{TA|979|n}} - {{TA|1191|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL=[[Celebrindor]]<br/><small>''{{TA|1062|n}} - {{TA|1272|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAL |MAL=[[Malvegil]]<br/><small>''{{TA|1144|n}} - {{TA|1349|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|979}}
+| died={{TA|1191}}
+}}
+{{seq
+| prow=2
+| prev=[[Mallor]]
+| list=12th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1110}} - {{TA|1191|n}}
+| next=[[Celebrindor]]
+| nrow=2
+}}
+{{seq
+| list=4th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1110}} - {{TA|1191|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Celepharn]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:dunedain du nord:celepharn]]
+[[fi:Celepharn]]

@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Seredic Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1348}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Saradas Brandybuck]]
+| siblings=
+| spouse=[[Hilda Bracegirdle]]
+| children=[[Doderic Brandybuck|Doderic]], [[Ilberic Brandybuck|Ilberic]] and [[Celandine Brandybuck|Celandine]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Seredic Brandybuck''' was a [[Hobbits|Hobbit]] of [[Buckland]].
+
+==History==
+Seredic was the son of [[Saradas Brandybuck]]. He married [[Hilda Bracegirdle]] and had three children: [[Doderic Brandybuck|Doderic]], [[Ilberic Brandybuck|Ilberic]] and [[Celandine Brandybuck|Celandine]]. They all attended [[Bilbo's Farewell Party]].<ref>{{app|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Seredic'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+In an earlier version of the family tree for the [[Brandybucks]], the name of Seredic was '''''Ceredic'''''.<ref>{{PM|Trees}}, Brandybuck of Buckland, BR 5</ref>
+
+''Ceredic'' is a real [[Welsh]] name and a variant of the name ''Caradoc''. ''[[Wikipedia:Ceredig|Ceredic Guletic]]'' was the son of ''Cunedag Guletic'', a chief from the fifth century who drove the Goidels/Gaels from North Wales. ''Ceredic Guletic'' ruled a region that was named ''Ceredigion'' after him in Welsh and Cardiganshire in English.<ref name="Allan">{{HM|IE}}, "Giving of Names", p. 205</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]

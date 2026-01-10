@@ -1,0 +1,62 @@
+{{infobox character
+| people=[[Ents|Ent]]
+| name=Leaflock
+| image=Gail McIntosh - Leaflock.jpg
+| caption="Leaflock" by [[:Category:Images by Gail McIntosh|Gail McIntosh]]
+| pronun=
+| othernames=Finglas
+| titles=
+| position=
+| location=[[Fangorn Forest]]
+| affiliation=
+| language=[[Entish]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=Leafy
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Leaflock''', called '''Finglas''' in [[Sindarin]], was one of the [[Ents]] of [[Fangorn Forest]]. 
+
+== History ==
+Finglas, [[Skinbark|Fladrif]], and [[Treebeard|Fangorn]] were the oldest of the [[Ents]] of Fangorn Forest still alive in the later [[Third Age]].
+
+According to [[Treebeard]], Leaflock had become tired, sometimes sleeping through entire seasons (although formerly he used to rouse up in winter), and tree-like with a covering of leafy hair.<ref name=iii4>{{TT|III4}}</ref>
+
+== Etymology ==
+The name ''Finglas'' is apparently composed by the two elements ''[[fing]]/[[find]]'' "lock of hair" and ''[[las]]'' "leaf".<ref>{{HM|Guide}}, entry "Finglas"</ref>
+
+The element ''lock'' in ''Leaflock'' here has the meaning of "hair" since it is a translation of his [[Sindarin]] name.<ref name="Nomen">{{HM|N}}, p. 760</ref>
+
+The name obviously refers to his being "Covered with leafy hair".<ref name=iii4/>
+
+==Portrayal in adaptations==
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Two Towers - Leaflock, Finglas.jpg|Leaflock from ''[[The Lord of the Rings: The Two Towers]]''
+File:The Lord of the Rings Online - Leaflock.jpg|Leaflock from ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:[http://lotrtcgwiki.com/wiki/lotr15030 A card] in [[Decipher]]'s [[The Lord of the Rings Trading Card Game]] identifies one of the Ents at [[Isengard]] as Leaflock.
+
+'''2012: ''[[The Lord of the Rings Online: Riders of Rohan]]'':'''
+:Leaflock is found in the North-Western part of the Fangorn Forest, near the borders of Rohan.
+
+{{References}}
+{{ents}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Ents]]
+[[Category:Third Age characters]]

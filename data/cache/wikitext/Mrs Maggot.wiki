@@ -1,0 +1,42 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Mrs. Maggot
+| image=Henning Janssen - Harvesting Maggots.jpg
+| caption="Harvesting Maggots" by [[Henning Janssen]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bamfurlong]], [[Marish]], [[Eastfarthing]], [[The Shire]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=[[Farmer Maggot]]
+| children=Five children (at least)
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=}}
+'''Mrs. Maggot''' was the wife of the [[Farmer Maggot]]. Their home was the farm [[Bamfurlong]] and they had at least two sons and three daughters.
+
+Mrs. Maggot served [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]] and [[Peregrin Took|Pippin]] when her husband hosted them. When the Farmer took the [[Hobbits]] to the Ferry, Mrs. Maggot sent with him a basket of [[mushrooms]] for Frodo, knowing how much he liked them.<ref name="mushroom">{{FR|I4}}</ref>
+
+{{References}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Hobbits]]
+[[Category:Maggot]]
+[[Category:Third Age characters]]

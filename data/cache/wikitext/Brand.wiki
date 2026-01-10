@@ -1,0 +1,97 @@
+{{disambig-two|the character in ''[[The Lord of the Rings]]''|[[Elvish]] word|[[brand (word)]]}}
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Brand
+| image=Donato Giancola - Brand - son of Bard.jpg
+| caption="Brand" by [[Donato Giancola]]<!--Do not change, the file name is wrong-->
+| pronun=
+| othernames=
+| titles=[[King of Dale]]
+| position=
+| location=[[Dale]]
+| affiliation=
+| language=[[language of Dale]], [[Westron]]
+| birth=
+| birthlocation=
+| rule={{TA|3007}} - {{TA|3019|n}}
+| death=[[17 March]], {{TA|3019}}
+| deathlocation=[[Battle of Dale]]
+| age=
+| notablefor=
+| house=
+| parentage=[[Bain]]
+| siblings=
+| spouse=
+| children=[[Bard II|Bard]]
+| race=[[Men]]
+|gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Brand''' was a [[King of Dale]] during the [[War of the Ring]].
+
+==History==
+Brand was the son of King [[Bain]] and grandson of [[Bard|Bard the Bowman]]<ref name="Meetings">{{FR|II1}}</ref> who had killed the dragon [[Smaug]].<ref>{{H|Fire}}</ref> 
+
+He became the king of [[Dale]] and by {{TA|3018}} he had extended the realm of Dale far south and east of [[Esgaroth]].<ref name="Meetings"/>
+
+At the [[Council of Elrond]] the dwarf [[Glóin]] reported that a year earlier (in {{TA|3017}}) a messenger from [[Mordor]] had come to speak to [[Dáin Ironfoot|Dáin]].  He also said that messengers had spoken to King Brand and that he was afraid, for war appeared to be gathering on his eastern borders.<ref>{{FR|II2}}</ref>
+
+King Brand remained steadfast though.  In {{TA|3019|}} when a host of [[Sauron]]'s allies crossed the River [[Carnen]] he retreated into [[Dale]].  There the [[Men of Dale]] and the [[Dwarves of Erebor]] fought for three days.  Brand was slain at the side of [[Dáin Ironfoot|Dáin II Ironfoot]] during the [[Battle of Dale]], at the end of which the victorious [[Easterlings]] drove the allies (including his son, Bard) into [[Erebor]] where they were besieged. 
+
+However, when news of Sauron's defeat came his northern army was dismayed with his son (and Dáin's son, [[Thorin III|Thorin]]) breaking the siege.  King Brand was succeeded by his son, [[Bard II]].<ref>{{App|Great}}</ref>
+
+==Etymology==
+[[J.R.R. Tolkien]] possibly derived the name ''Brand'' from [[Old English]] ''[[Wiktionary:brand#Old English|brand]]'' ("fire-brand, torch; sword").<ref>{{HM|RC}}, p. 413 (discussion on name ''[[Erkenbrand]]'')</ref> [[Jim Allan]] suggests that it is derived from the Germanic element ''brand'', which means "brand".<ref>{{HM|IE}}, "Giving of Names", p. 226</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | GIR |GIR=[[Girion]]<br/><small>''d. {{TA|2770|n}}''</small>}}
+{{familytree | |:| }}
+{{familytree | |:| }}
+{{familytree | BAR |BAR=[[Bard|Bard I]]<br/><small>''d. {{TA|2977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BAI |BAI=[[Bain]]<br/><small>''d. {{TA|3007|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BRA |BRA='''BRAND'''<br/><small>''d. {{TA|3019|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BA2 |BA2=[[Bard II]]<br/><small>''fl. [[Fourth Age]]''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Brand in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Trading Card Game - Brand, King of Dale.jpg|Brand in ''[[The Lord of the Rings Trading Card Game]]''
+File:The Lord of the Rings Online - Brand.jpg|Brand in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+: Despite not featuring in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]], Decipher produced a card depicting the character.
+
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+
+:Brand makes two minor appearances during the [[Battle of Dale]] and before the [[Siege of Erebor]] in two adventure "instances" designed for groups of six or twelve players. Unlike in the books, Brand is depicted being slain by arrows in the crossing of the [[River Running]] while guarding his people's retreat to the Mountain. This inconsistency is referenced in a later quest in which a notorious dwarf tale-spinner describes events unfolding this way, and the player has the option to agree with the veracity of his tale or to disagree in favour of the canonical version of Brand's death.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=northmen
+| died=[[17 March]] {{TA|3019}}}}
+{{seq
+| prev=[[Bain]]
+| list=3rd [[King of Dale]]
+| dates={{TA|3007}} – [[17 March]] {{TA|3019|n}}
+| next=[[Bard II]]
+}}
+{{seq-end}}
+
+[[Category:Bardings]]
+[[Category:Germanic names]]
+[[Category:Kings of Dale]]
+[[Category:Third Age characters]]
+[[de:Brand]]
+[[fi:Brand]]
+[[fr:encyclo:personnages:hommes:3a:hommes du nord:daliens:brand]]

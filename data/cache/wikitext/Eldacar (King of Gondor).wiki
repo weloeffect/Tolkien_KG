@@ -1,0 +1,106 @@
+{{disambig-more|Eldacar|[[Eldacar (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Eldacar
+| image=Matěj Čadil - Eldacar of Gondor.jpg
+| caption="Eldacar of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=''Vinitharya''
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1255}}
+| birthlocation= [[Rhovanion]]
+| rule={{TA|1432}} - {{TA|1437|n}}<br/>{{TA|1447}} - {{TA|1490|n}}
+| death={{TA|1490}}
+| deathlocation=
+| age=235
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Valacar]] and [[Vidumavi]]
+| siblings=
+| spouse=
+| children=[[Ornendil]] and [[Aldamir]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|To the lineage of Gondor he added the fearless spirit of the Northmen. He was handsome and valiant, and showed no sign of ageing more swiftly than his father.|[[Appendix A]]}}
+
+'''Eldacar''' ({{TA|1255}}<ref name="Elendil">{{PM|Elendil}}</ref> – {{TA|1490|n}},<ref>{{App|South}}</ref> aged 235 years) was the twenty-first King of [[Gondor]].  He was born with the name '''Vinitharya''' as the royal son of [[Valacar]] of Gondor and [[Vidumavi]], daughter of the [[King of Rhovanion]].
+
+==History==
+Eldacar's father Valacar had gone to live among the [[Northmen]] of King [[Vidugavia]]'s realm in {{TA|1250}}.  While there Valacar fell in love with and married the King's daughter, princess Vidumavi.  Their son was named Vinitharya, would later be called Eldacar.<ref>{{App|Gondor}}, entry for king Minalcar who took the name Rómendacil (II) and entry for king Valacar</ref> In {{TA|1260|n}}, when Valacar returned to Gondor, he gave to Vinitharya the name of Eldacar, which Vinitharya retained when he inherited Gondor's throne. Valacar had also brought his family and a household of noble Northmen back to Gondor.<ref>{{PM|Ai}}</ref>
+
+The high men of [[Gondor]] frowned upon Valacar's marriage to a woman of alien and [[Middle Men|"lesser" race]] for they feared that Vidumavi's descendants would prove short-lived.  As Valacar grew old rebellion smouldered in the southern fiefs of Gondor since many refused to accept Eldacar as their upcoming lord.  When Eldacar succeeded his father in {{TA|1432}} full civil war erupted, called the [[Kin-strife]].<ref name="Gondor">{{App|TA}}</ref>
+
+Eldacar showed no sign of more rapid aging than any of the [[Dúnedain]] and displayed fearlessness in opposing those who sought to depose him.  However, the rebels came against him in great strength and lay a siege that laid waste  to [[Osgiliath]] (and caused the loss of the ''[[Osgiliath-stone|palantír]]'' kept in the Tower of the Stone). As Eldacar fled the city to [[Rhovanion]] a distant relative named [[Castamir]] claimed his throne and had Eldacar's son [[Ornendil]] put to death.
+
+Eldacar gathered together his kinsfold in Rhovanion, those Northmen who had served Gondor, and many of the Dúnedain from the northern parts of Gondor.  After ten years of exile Eldacar led a great army to reclaim his Kingship.  His forces were augmented by the people of [[Calenardhon]], [[Anórien]], and [[Ithilien]]. In this he was aided by the cruelty and lack of generosity of Castamir, and by Castamir's disdain for the land with his plan to remove the seat of the King to [[Pelargir]]. The [[Battle of the Crossings of Erui|greatest clash]] during Eldacar's return took place at the [[Crossings of Erui]].
+
+Although Eldacar himself avenged his son Ornendil by slaying Castamir, the sons of the Usurper escaped from the battle and held out at Pelargir.  Gathering the remainder of their forces these sons then sailed to [[Umbar]] which then became a refuge for all enemies of the King.  The independent lordship of Umbar would remain at war with Gondor for generations, a constant threat to its coastlines and sea traffic.
+
+Eldacar lived for 235 years, which showed that his mother's lineage had not diminished his lifespan as feared.  Eventually he was succeeded by his younger son [[Aldamir]].<ref name="Elendil"/>
+
+== Etymology ==
+''Eldacar'' is a [[Quenya]] name. It means "Elfhelm".<ref>{{TI|River}}, note 18, p. 366</ref> It is a compound of ''[[elda]]'' ("elf") and the suffixal form ''-car'' of ''[[karma|carma]]'' ("helm") also seen in [[Valacar]].<ref>{{PE|17}}, p. 114 entry Q ''Eldacar; Valacar''</ref><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2436216133.html|articlename=Q. ''Eldacar'' m.|website=Eldamo|accessed=27 January 2022}}</ref>
+
+''Vinitharya'' is a name in the language of the [[Northmen]] that was spoken by his mother Vidumavi.<ref>{{App|Gondor}}, entry for King Valacar, pp. 1046</ref> It is said that the name had much the same meaning as Rómendacil,<ref>{{PM|Ai}}, Note on the expansion of the tale of the Kin-strife in the Second Edition, entry 19 Romendakil II, p. 260</ref> which means "East-victor".<ref>{{App|Gondor}}, entry for King Tarostar, p. 1044</ref> [[Arden R. Smith]] suggests that it is a modified form of the original reconstructed [[Gothic]] name ''*Winiþa-harjis'', which means "one who battles the Wends". The [[Wikipedia:Wends|Wends]] or ''Winedas'' (in [[Old English]]) were a Slavic people who dwelt inside Germanic territories. He further suggests that the original name that was fictitiously translated by Tolkien as ''Vinitharya'' referred to [[Easterlings]] instead of Wends. The historical bearer of this name was a king of the Ostrogoths of the fourth century and was the great-grandfather of Theodoric the Great, who was called ''Vinitharius'' or ''Venetharius'' by [[Wikipedia:Jordanes|Jordanes]],<ref>{{webcite|website=The Latin Library|author=Jordanes|articlename=Iordanis De Origine Actibusque Getarum|articleurl=http://www.thelatinlibrary.com/iordanes1.html}}, XIV.79 and XLVIII.246 and XLVII.248</ref> an Eastern Roman writer from the sixth century who is believed to be of Gothic descent.<ref>[[Arden R. Smith]], Tolkienian Gothic, in [[Wayne G. Hammond]] & [[Christina Scull]], [[The Lord of the Rings 1954-2004]]: Scholarship in Honor of Richard E. Blackwelder, p. 269</ref> [[Jim Allan]] suggests that the name consists of ''vinid'' (a reference to the ''Vinidi'', the Wends) and ''harya'' derived from ''hari'' ("army"), which could be rendered "army-man" and points out that Jordanes mentioned ''Vinitharius'' as the name of an ancient king of the Ostrogoths.<ref>{{HM|IE}}, p. 190</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | VID | | ROM | | CAL |VID=[[Vidugavia]]<br/><small>''unknown''</small>|ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |:| |}}
+{{familytree | VID |y| VAL | | |:| |VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | | | |!| | | | | |:| |}}
+{{familytree | | | ELD | | | | CAS |ELD='''ELDACAR'''<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>|CAS=[[Castamir]]<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | |!| |}}
+{{familytree | ORN | | ALD | | SON |ORN=[[Ornendil]]<br/><small>''d. {{TA|1437|n}}''†</small>|ALD=[[Aldamir]]<br/><small>''{{TA|1330|n}} - {{TA|1540|n}}''†</small>|SON=''sons''<br/><small>''unknown''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | HYA | | | | |HYA=[[Hyarmendacil II]]<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In the entry for king Telemnar in Appendix A I (iv) of The Lord of the Rings it is stated that "Mindardil, son of Eldacar," was slain at Pelargir. In Appendix A I (ii) The Southern Line Heirs of Anárion Hyarmendacil II (Vinyarion) is the King of Gondor before Mindardil. In the entry for the 25th king Minardil in manuscript C of The Heirs of Elendil in The Peoples of Middle-earth it is mentioned that Minardil was at Pelargir suspecting no peril since the crushing of Harad and Umbar by his father. In the entry for the 24th king Vinyarion in manuscript C of The Heirs of Elendil in The Peoples of Middle-earth it is mentioned that Vinyarion took the name Hyarmendakil II in 1551 after a great victory over Harad. These two statements in The Heirs of Elendil seem to imply that Minardil was the son of Vinyarion and thus the great-grandson of Eldacar. It is noteworthy that Appendix A I (iv) does not mention king Aldamir and king Hyarmendacil II (Vinyarion), although both are included in the list of Kings of Gondor in Appendix A I (ii) and in the Tale of Years of The Third Age in Appendix B. It is possible that this is the reason why Aldamir and Vinyarion were overlooked in Appendix A I (iv) in the short sentence mentioning king Minardil. In the opinion of Wayne G. Hammond & Christina Scull "Minardil, son of Eldacar" was an error and should be changed to "Minardil, great-grandson of Eldacar".<ref>{{webcite|author=Wayne G. Hammond & Christina Scull|articleurl=https://www.hammondandscull.com/addenda/rings.html|articlename=Addenda and Corrigenda to the 50th anniversary edition of The Lord of the Rings (2004-5)|website=wayne & christina|accessed=31 October 2021}}</ref> Mark Fisher has the same opinion.<ref>{{webcite|author=Mark Fisher|articleurl=https://www.glyphweb.com/arda/m/minardil.php|articlename=Minardil|website=The Encyclopedia of Arda|accessed=31 October 2021}}</ref>
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1255}}
+| died={{TA|1490}}
+}}
+{{seq
+| prev=[[Valacar]]
+| list=21st [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1432}} – {{TA|1437|n}}
+| next=[[Castamir]]
+}}
+{{seq
+| prev=[[Castamir|Castamir "The Usurper"]]
+| list=21st [[Kings of Gondor|King of Gondor]] (restored)
+| dates={{TA|1447}} - {{TA|1490|n}}
+| next=[[Aldamir]]
+}}
+{{seq-end}}
+{{southernline}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Northmen]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Eldacar (König von Gondor)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:eldacar]]
+[[fi:Eldacar (Gondorin kuningas)]]
+[[fi:Vinitharya]]

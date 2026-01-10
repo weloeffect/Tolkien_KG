@@ -1,0 +1,72 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Duinhir
+| image=Decipher - Duinhir.jpg
+| caption="Duinhir" from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=Lord of Blackroot Vale
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=[[Duilin (son of Duinhir)|Duilin]] and [[Derufin]]
+| gender=Male
+| height=Tall<ref name="Minas Tirith">{{RK|V1}}</ref>
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Duinhir''' was lord of the [[Blackroot Vale]] at the time of the [[War of the Ring]].
+
+==History==
+On [[10 March]], {{TA|3019}},<ref name="Great">{{App|Great}}</ref> Duinhir led a contingent of five hundred bowmen as well as his two sons, [[Duilin (son of Duinhir)|Duilin]] and [[Derufin]], into [[Minas Tirith]] to fight in the upcoming battle.<ref name="Minas Tirith"/>  Sadly, Lord Duinhir lost both of his sons in the fray (on [[15 March]]<ref name="Great"/>) when they were trampled by ''[[mûmakil]]'' while attempting to shoot out the monsters' eyes.<ref>{{RK|V6}}</ref>
+
+==Etymology==
+''Duinhir'' means "River-lord" in [[Sindarin]].
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | DNH | | | |DNH='''DUINHIR'''<br /><small>''fl. {{TA|3019}}''</small>}}
+{{familytree| |,|-|^|-|.| | |}}
+{{familytree| DER | | DUI | |DER=[[Derufin]]<br /><small>''d. {{TA|3019}}''</small>|DUI=[[Duilin (son of Duinhir)|Duilin]]<br /><small>''d. {{TA|3019}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In early drafts of ''[[The Lord of the Rings]]'', the predecessor to Duinhir was named '''Inram the Tall''', who was a [[Gondorian]] from the [[Blackroot Vale|vale of Morthond]]. He was mentioned in a sketch as one of the leaders of [[Gondor]] that came to the aid of [[Minas Tirith]] during the [[War of the Ring]].<ref>{{WR|3|II}}, ''Sketches for Book Five'', pp. 252, 254</ref> Inram had at least [[Duilin|two]] [[Derufin|sons]] who had dark hair and grey eyes.<ref>{{WR|3|II}}, ''Sketches for Book Five'', Note 23</ref>
+
+==Portrayal in adaptations==
+===Duinhir in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Duinhir.jpg|Duinhir from [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Duinhir.jpg|Duinhir in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+: Despite not featuring in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]], Decipher produced a card depicting the character.
+
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Duinhir is the Lord of the [[Blackroot Vale]] with the seat in the town of Morlad. Duinhir is absolutely broken when both of his sons die during the [[Battle of the Pelennor Fields]] but nevertheless joins the march of the Host of the West towards the [[Black Gate]]. Upon entering the [[Dagorlad]], his will fails completely and he becomes one of the faint-hearted, men who leave the main host with [[Aragorn]]'s permission. Duinhir then leads those men towards [[Cair Andros]], where they liberate the island from the forces of [[Mordor]].
+
+{{references}}
+[[Category:Gondorians]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]
+
+[[de:Duinhir]]
+[[fi:Duinhir]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:duinhir]]

@@ -1,0 +1,62 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Hild
+| image=Lída Holubová - The House of Eorl - Hild.jpg
+| caption="The House of Eorl - Hild" by [[Lída Holubová]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=Fl. [[Third Age|T.A.]] early 28th century
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Gram]]
+| siblings=
+| spouse=
+| children=[[Fréaláf]] 
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Hild''' was a noble woman of [[Rohan]].
+
+==History==
+Hild was the daughter of [[Gram|King Gram]], and sister of [[Helm|Helm Hammerhand]]. Her son [[Fréaláf]] took the crown after the death of Helm and his two sons.<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+''Hild'' is a poetic word in [[Old English]] for "battle".
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | DEO | | |DEO=[[Déor]]<br/><small>''{{TA|2644|n}} - {{TA|2718|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | | | | | GRA | | |GRA=[[Gram]]<br/><small>''{{TA|2668|n}} - {{TA|2741|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | HEL | | HIL |HEL=[[Helm|Helm Hammerhand]]<br/><small>''{{TA|2691|n}} - {{TA|2759|n}}''†</small>|HIL='''HILD'''<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | HAL | | HAM | | DAU | | FRE |HAL=[[Haleth (son of Helm)|Haleth]]<br/><small>''d. {{TA|2758|n}}''†</small>|HAM=[[Háma (son of Helm)|Háma]]<br/><small>''d. {{TA|2759|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FRE=[[Fréaláf|Fréaláf Hildeson]]<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | BRY |BRY=[[Brytta|Brytta Léofa]]<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Rohirrim]]
+[[Category:Old English names]]
+[[Category:Third Age characters]]
+
+[[de:Hild]]
+[[fi:Hild]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/hild]]

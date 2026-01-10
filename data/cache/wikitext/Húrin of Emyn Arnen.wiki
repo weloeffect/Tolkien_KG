@@ -1,0 +1,83 @@
+{{short description|Steward of Gondor}}
+{{disambig-more|Húrin|[[Húrin (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Húrin of Emyn Arnen
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=[[Steward of Gondor]]
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth=
+| birthlocation=
+| rule=c. 1630s<ref>{{HM|Guide}}, p. 208</ref>
+| death=Mid-[[Third Age]]
+| deathlocation=
+| age=
+| notablefor=
+| house=founded the [[House of Húrin]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Húrin of [[Emyn Arnen]]''' was the first recorded [[Steward of Gondor]].
+
+== History ==
+Being a noble of high trust and wisdom (and of ultimately [[House of Anárion|royal descent]], being a kinsman of King [[Minardil]]<ref name=Hurin>{{NM|P2v}}, p. 188</ref>), he was chosen to serve under the King as Steward of Gondor.<ref name="Stewards">{{App|Stewards}}</ref>
+
+However, unlike any previous stewards, whose chief task was the supervision of the King's estates and properties, Húrin acted as the chief counsellor to the King, as well as being granted the right to assume the duties of the King in his absence, and having a say in choosing a successor to the throne, in the case the King died without an apparent heir.<ref name=Hurin />
+
+During his service, Húrin laboured greatly on the ordering of Gondor in the days of the [[Great Plague]].<ref>{{PM|Elendil}}</ref> 
+
+Afterwards, Minardil's heirs opted to select their own Stewards not from any noble [[Gondorians]], but from Húrin's sons and descendants; thus Stewardship was connected to the [[House of Húrin]], and [[Pelendur|after some generations]] it became hereditary.<ref name="Stewards"/>
+
+== Etymology ==
+''Húrin'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tollkiendil suggests it means "Strong Heart".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is probably a combination of ''[[hûr]]'' ("vigour", "fiery spirit", readiness for action) and ''ind'' ("heart").<ref name=Tolkiendil/><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-808866973.html|articlename=S. ''Húrin'' m.|website=Eldamo|accessed=05 February 2022}}</ref> Húrin of Emyn Arnen was named after the hero of the [[First Age]] [[Húrin|Húrin Thalion]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | ANA | | | |ANA=''[[House of Anárion]]''}}
+{{familytree | | | | |:| | | | |}}
+{{familytree | |F|~|~|^|~|~|7| |}}
+{{familytree | MIN | | | | HUR |HUR='''HÚRIN'''<br/><small>''fl. {{TA|1634|n}}''</small>|MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†}}
+{{familytree | |:| | | | | |:| |}}
+{{familytree | |:| | | | | |:| |}}
+{{familytree | OND | | | | PEL |PEL=[[Pelendur]]<br/><small>''{{TA|1879|n}} - {{TA|1998|n}}''</small>|OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=Founder of [[House of Húrin]]
+| born=Mid-Third Age
+| died=Mid-Third Age
+}}
+{{seq
+| pvac=Unknown
+| list=1st [[Steward of Gondor|Steward to the King of Gondor]]
+| dates=Mid-[[Third Age]]
+| nvac=Unknown
+| next=Next known: [[Pelendur]]
+}}
+{{seq-end}}
+
+{{southernline}}
+{{DEFAULTSORT:Hurin of Emyn Arnen}}
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Stewards]]
+[[Category:Third Age characters]]

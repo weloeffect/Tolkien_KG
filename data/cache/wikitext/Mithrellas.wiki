@@ -1,0 +1,57 @@
+{{infobox character
+| name=Mithrellas
+| people=[[Silvan Elves|Silvan Elf]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Lothlórien]], [[Dor-en-Ernil]], [[Belfalas]]
+| affiliation=
+| language=[[Silvan Elvish]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=[[Imrazôr]]
+| children=[[Galador]] and [[Gilmith]] 
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mithrellas''' was a [[Silvan Elves|Silvan Elf]] who, according the tradition of the House of [[Angelimir]], accompanied [[Nimrodel]] from [[Lothlórien]] on her journey to the southern havens. Mithrellas, it is said, became lost in the woods of [[Dor-en-Ernil]], where she was found by [[Imrazôr]] the [[Númenóreans|Númenórean]], who married her. So [[Elvish]] blood entered the line of the [[Prince of Dol Amroth|Princes of Dol Amroth]], it was claimed, and her son [[Galador]] became the first of the long line of Princes. Mithrellas also bore Imrazôr a daughter, [[Gilmith]].<ref>{{UT|Galadriel}}</ref><ref>{{PM|Elendil}}, pp. 220-2</ref> After the birth, she ran away at night and was never seen again.<ref>{{UT|Amroth}}</ref>
+
+==Etymology==
+''Mithrellas'' is of unclear meaning, but as suggested by [[David Salo]], it is likely to be [[Sindarin]], a combination of ''[[mith]]'' ("grey") + ''[[lass]]'' ("leaf").<ref>{{HM|GS}}, p. 355</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | IMR |y| MIT |IMR=[[Imrazôr]]<br/><small>''{{TA|1950}} - {{TA|2076|n}}''</small>|MIT='''MITHRELLAS'''<br/><small>''unknown''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | GAL | | GIL |GAL=[[Galador]]<br/><small>''{{TA|2004|n}} - {{TA|2129|n}}''</small>|GIL=[[Gilmith]]<br/><small>''unknown''</small>}}
+{{familytree | |:| | | | | |}}
+{{familytree | DOL | | | | |DOL=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]}}
+{{familytree/end}}
+
+==External links==
+* {{webcite|author=[[Michael Martinez]]|articleurl=https://middle-earth.xenite.org/lonely-wanderers-and-the-tales-that-almost-were/|articlename=Lonely Wanderers and the Tales That Almost Were|dated=April 14 2001|website=Middle-earth & J.R.R. Tolkien Blog|accessed=}}
+
+{{references}}
+
+[[Category:Silvan Elves]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Mithrellas]]
+[[fi:Mithrellas]]

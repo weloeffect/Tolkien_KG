@@ -1,0 +1,80 @@
+{{disambig-more|Isengrim|[[Isengrim (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isengrim Took III
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1232}}
+| birthlocation=
+| rule={{SR|1320}} - {{SR|1330|n}} (10 years)
+| death={{SR|1330}}
+| deathlocation=
+| age=98
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Gerontius Took]] and [[Adamanta Chubb]]
+| siblings=[[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras]], [[Hildigrim Took|Hildigrim]], [[Isembold Took|Isembold]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Hildibrand Took|Hildibrand]], [[Belladonna Took|Belladonna]], [[Donnamira Took|Donnamira]], [[Mirabella Took|Mirabella]] and [[Isengar Took|Isengar]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Isengrim Took III''' was the twenty-seventh [[Thain|Thain of the Shire]].
+==History==
+The eldest son of the [[Gerontius Took|Old Took]], Isengrim's rule was noticeably short. Due to his father's longevity, he was already near his nineties when he became [[Thain]], and ruled for ten years before his death. As he had no children of his own, his brother [[Isumbras Took IV|Isumbras]] became the new Thain.<ref>{{App|Took}}</ref>
+
+==Etymology==
+"Isengrim" is of [[Old English|Anglo-Saxon]] origin and comes from ''isen'' meaning "iron" and ''grim'' meaning "fierce".
+
+It is likely Isengrim is named after an earlier [[Isengrim (disambiguation)|Isengrim]], but it is notable that "Isengrim" is the name of a wolf who appears in many medieval epics, including the story of [[Wikipedia:Reynard the Fox|Reynard the Fox]] which originated in French folklore.<ref name="Nomen">{{HM|N}}, p. 760</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | FOO | | | | | | | | | FOO=[[Fortinbras Took I|Fortinbras I]]<br/><small>''1145 - 1248''</small>}}
+{{familytree | | | | | |!| | | | | | | | | |}}
+{{familytree | | | | | OLD |y| ADA | | | | | OLD=[[Gerontius Took|The Old Took]]<br/><small>''1190 - 1320''</small>|ADA=[[Adamanta Chubb]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| |}}
+{{familytree | ISE | | HIL | |ISU | | NIN | ISE='''ISENGRIM III'''<br/><small>''1232 - 1330''</small>|HIL=[[Hildigard Took|Hildigard]]<br/><small>''(died young)''</small>|ISU=[[Isumbras Took IV|Isumbras IV]]<br><small>''1238 - 1339''</small>|NIN=''9 children''}}
+{{familytree | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | LAL |y| FOR | | | | | LAL=[[Lalia Clayhanger]]<br/><small>''1283 - 1402''</small>|FOR =[[Fortinbras Took II|Fortinbras II]]<br/><small>''1278 - 1380''</small>}}
+{{familytree | | | | | | | |!| | | | | | | |}}
+{{familytree | | | | | | | FER | | | | | | | FER=[[Ferumbras Took III|Ferumbras III]]<br/><small>''1316 - 1415''</small>
+}}
+{{familytree/end}}
+
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1232}}
+| died={{SR|1330}}
+}}
+{{Seq
+| prev=[[Gerontius Took]]
+| list=27th [[Thain]] of [[The Shire]]
+| dates={{SR|1320}} - {{SR|1330|n}}
+| next=[[Isumbras Took IV]]
+}}
+{{seq-end}}
+{{references}}
+{{thains}}
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Isegrim Tuk III.]]
+[[fi:Isengrim III Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/isengrim iii]]

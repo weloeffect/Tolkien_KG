@@ -1,0 +1,90 @@
+{{disambig-more|Haldir|[[Haldir (disambiguation)]]}}
+{{infobox character
+| name=Haldir
+| people=[[Silvan Elves|Silvan Elf]]
+| image=Anke Eißmann - Atop Cerin Amroth.jpeg
+| caption="Atop Cerin Amroth" by [[Anke Eißmann]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Lothlórien]]
+| affiliation=
+| language=[[Silvan Elvish|Silvan]], [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=[[Rúmil (elf of Lórien)|Rúmil]] and [[Orophin]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+<center>{{quote|But there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.|Haldir in ''[[The Fellowship of the Ring]]'', "[[Lothlórien (chapter)|Lothlórien]]"}}</center>
+
+'''Haldir''' was an [[Elves|Elf]] of [[Lothlórien]], probably a [[Silvan Elves|Silvan Elf]], and a marchwarden who guarded the forest's northern borders. 
+
+==History==
+Haldir was one of the [[Galadhrim]]; unlike his brothers, [[Rúmil (elf of Lórien)|Rúmil]] and [[Orophin]], Haldir had traveled outside Lórien and knew [[Westron]]. He and his companions are described as wearing grey hooded cloaks and living on ''[[Telain|flets]]'' in the trees. 
+
+Haldir was accompanied by his brothers between [[15 January|15]] and [[16 January]], {{TA|3019}}<ref>{{App|Great}}</ref> when they encountered the [[Fellowship of the Ring]] who arrived in Lórien. His brothers interacted little with the Fellowship because they spoke little of the Common Speech. He treated [[Gimli]] rather poorly due to bad relations between Elves and Dwarves. He made him go blindfolded through the wood until [[Galadriel]] said he did not have to. 
+
+He had heard of [[Aragorn]], but there is no indication that they had met before.<ref name="LL">{{FR|II6}}</ref> Haldir became their guide to the city of [[Caras Galadhon]]. 
+
+After [[Celeborn]] and [[Galadriel]] had nourished their guests, and they were set to depart, Haldir led them to their Elven boats.<ref>{{FR|Farewell}}</ref>
+
+==Etymology==
+{{Pronounce|Haldir.mp3|Ardamir}}
+''Haldir'' is clearly [[Sindarin]], but it is never glossed. In the earlier [[legendarium]], [[Tolkien]] glossed [[Noldorin]] ''Haldir'' as "Hidden Hero", though this [[Haldir (son of Orodreth)|Haldir]] refers to the (later omitted) son of [[Orodreth]].<ref>{{LR|Etymologies}}, entry "SKAL¹"</ref>
+
+== Genealogy ==
+{{familytree/start}}{{familytree| |,|-|-|-|v|-|-|-|.| | |}}{{familytree| HAL | | RÚM | | ORO | |HAL='''HALDIR'''<br /><small>''unknown''</small>|RÚM=[[Rúmil (elf of Lórien)|Rúmil]]<br /><small>''unknown''</small>|ORO=[[Orophin]]<br /><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Haldir in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Motion Picture Trilogy - Haldir.jpg|Haldir in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]].
+File:The Lord of the Rings Online - Haldir.jpg|Haldir in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:Haldir was omitted. Aragorn and Boromir briefly discuss the possibility of entering Lothlórien, and in the next shot, they are welcomed by Galadriel.
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:[[Haydn Wood]] provided the voice of Haldir. 
+
+'''1992: [[Der Herr der Ringe (1992 German radio series)|''Der Herr der Ringe'' (1992 German radio series)]]:'''
+:Haldir is played by Gunther Cremer.
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Haldir was played by [[Craig Parker]].
+
+'''2001: [[Pán prsteňov (2001-2003 Slovak radio series)|''Pán prsteňov'' (2001-2003 Slovak radio series)]]:'''
+:The voice of Haldir is provided by Milan Bahúl.
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Haldir leads a regiment of Elven archers from Lórien to the [[Battle of the Hornburg|Battle of Helm's Deep]], where he is eventually slain, along with most of his archers.
+
+'''2008: ''[[The Lord of the Rings Online]]'':'''
+:Haldir is first met on a talan on the western border of [[Lothlórien]]. He  frequently serves as the intermediary between the player and [[Galadriel]] during the epic story.
+
+{{references}}
+{{lordoftheringsfilms}}
+{{title}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Silvan Elves]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Haldir aus Lórien]]
+[[fi:Haldir (haltia)]]

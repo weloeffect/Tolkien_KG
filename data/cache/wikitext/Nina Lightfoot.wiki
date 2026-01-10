@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Nina Lightfoot
+| image=
+| caption=
+| pronun=
+| othernames=Nina Bolger
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth=c. {{SR|1261}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Lightfoot Family|Lightfoot]]
+| parentage=
+| siblings=
+| spouse=[[Theobald Bolger]]
+| children=[[Wilibald Bolger|Wilibald]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Nina Lightfoot''' was a Hobbit of [[the Shire]].
+==History==
+Nina was the wife of [[Theobald Bolger]] and the mother of [[Wilibald Bolger|Wilibald]].<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+The name ''Nina'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Nino'' or ''Nine''.<ref>{{App|Translation}}</ref>
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Bolger]]
+[[Category:Lightfoot]]
+[[Category:Third Age characters]]
+[[de:Nina Bolger]]
+[[fr:encyclo/personnages/hobbits/piedleger/nina piedleger]]
+[[fi:Nina Nopsajalka]]

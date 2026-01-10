@@ -1,0 +1,76 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Gilraen
+| image=Anna Kulisz - Gilraen and sleeping Estel.jpg
+| caption="Gilraen and sleeping Estel" by [[:Category:Images by Anna Kulisz|Anna Kulisz]]
+| pronun=
+| othernames=''the Fair''
+| titles=
+| position=
+| location=[[Eriador]], [[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2907}}
+| birthlocation=
+| rule=
+| death={{TA|3007}}
+| deathlocation=
+| age=100
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Dírhael]] and [[Ivorwen]]
+| siblings=
+| spouse=[[Arathorn II]]
+| children=[[Aragorn]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gilraen the Fair''' ({{TA|2907}}-{{TA|3007|n}}) was a [[Dúnadan of the North]], the daughter of [[Dírhael]] and [[Ivorwen]], and a descendant of the first chieftain, [[Aranarth]].
+
+==History==
+She was born in the year {{TA|2907|n}} of the [[Third Age]].<ref name="TA">{{App|TA}}</ref> She wanted to marry [[Arathorn II]], the [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]], but her father at first did not want her to partly because she was at the time younger than customary for marriage, and he also foresaw that Arathorn would have a short life. However, Ivorwen persuaded him in the end, saying that Arathorn's short life was a further incentive to have a quick marriage, so that an heir could be born to be their people's leader. They were married in {{TA|2929}}.<ref name="Tale">{{App|Tale}}</ref> Gilraen's son [[Aragorn]] was born in {{TA|2931}}, but her husband was killed [[Third Age 2933|two years later]],<ref name="TA" /> as her father predicted.
+
+She then brought her son to live in [[Rivendell|Imladris]] to protect him from harm (from Isildur's enemies) as was customary with the [[Heir of Isildur]]. She opposed Aragorn's love for [[Arwen]], believing that Arwen's lineage was more noble than his and that [[Elves]] and [[mortality|mortals]] should not intermarry. About {{TA|2984}} Gilraen returned to her people in [[Eriador]] where she died in {{TA|3007|n}},<ref name="TA" /> aged one-hundred years. 
+
+Her final words to Aragorn were the [[linnod]] ''Ónen i-Estel Edain, ú-chebin estel anim'', meaning "I gave [[Estel|Hope]] (an obvious reference to her son's nickname) to the Dúnedain, I have kept no hope for myself."<ref name="Tale" />
+
+==Etymology==
+''Gilraen'' is a [[Sindarin]] name. It means "one adorned with a tressure set with small gems in its network" and is a combination of ''[[gil]]'' ("star") and ''raen'' ("netted", "enlaced").<ref name="VT42">{{VT|42}}, pp. 11-13</ref> More loosely translated, it means "Netted Star".<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-4039699279.html|articlename=S. ''Gilraen'' f.|website=Eldamo|accessed=05 February 2022}}</ref> It was a common name given to women of high rank among the [[Rangers of the North]], because they used to wear such tressures.<ref name="VT42" />
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | ARA | | DIR |y| IVO | | | | | | | | |ARA=[[Arador]]<br/><small>''{{TA|2820|n}} - {{TA|2930|n}}''†</small>|DIR=[[Dírhael]]<br/><small>''b. {{TA}}''</small>|IVO=[[Ivorwen]]<br/><small>''b. {{TA}}''</small>}}
+{{familytree | |!| | | | | |!| | | | | | | | | | | |}}
+{{familytree | ATH |~|y|~| GIR | | | | | | |ATH=[[Arathorn II]]<br/><small>''{{TA|2873|n}} - {{TA|2933|n}}''†</small>|GIR='''GILRAEN'''<br/><small>''{{TA|2907|n}} - {{TA|3007|n}}''</small>}}
+{{familytree | | | | |!| | | | | | | | | | | | |}}
+{{familytree | | | | ELE |~|~|ARW| | | | | | | | |ELE=[[Aragorn II]]<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>|ARW=[[Arwen]]<br/><small>''{{TA|241}} - {{FoA|121}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+<gallery mode="traditional" widths="180px" heights="180px">
+File:The Lord of the Rings (film series) - Gilraen's grave.jpg|Gilraen's grave in [[The Lord of the Rings: The Fellowship of the Ring|''The Lord of the Rings'' (film series)]]
+</gallery>
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Aragorn and [[Elrond]] have a conversation at a memorial to Gilraen in [[Rivendell]]. Elrond suggests that she brought Aragorn to [[Rivendell|Imladris]] for safety from pursuit by the forces of evil. Elrond also thinks that Gilraen believed Aragorn would not escape his fate. Her memorial features a statue along with her name and an inscription of her final words written in [[Tengwar]].
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Elrond and Aragorn recite Gilraen's final words when Elrond brings the re-forged sword [[Andúril]] to Aragorn, with the words possibly taking on a different connotation from their meaning in the book.
+
+==External links==
+
+*[http://mathom.hubpages.com/hub/mother-of-aragorn-gilraen The Tragedy of Gilraen, Aragorn's Mother]
+
+{{References}}
+
+[[Category:House of Isildur]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Gilraen]]
+[[fi:Gilraen]]

@@ -1,0 +1,56 @@
+{{short_description|A Hobbit of the Shire}}
+{{disambig-more|Carl|[[Carl (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Carl Cotton
+| image=Francesco Amadio - Nibs Cotton.jpg
+| caption="Nibs Cotton" by [[:Category:Images by Francesco Amadio|Francesco Amadio]]
+| pronun=
+| othernames="Nibs"
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1389}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Farmer Cotton]] and [[Lily Brown]]
+| siblings=[[Tolman Cotton Junior|Tom]], [[Rose Cotton|Rosie]], [[Wilcome Cotton II|Jolly]] and [[Bowman Cotton|Nick]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Carl "Nibs" Cotton''' was a [[Hobbits|Hobbit]] of [[the Shire]] and the youngest child of [[Tolman Cotton Senior|Tolman (Farmer) Cotton]].
+
+==History==
+Born in {{SR|1389}},<ref>{{App|Gamgee}}</ref> Carl and his siblings spent much time in [[Bywater]], and would often swim in the [[Bywater Pool]] with the Gamgee children.<ref>{{RK|Doom}}</ref> He had not yet come of age when [[Sharkey]]'s [[Ruffians]] entered the Shire, so his father ordered him to guard the house with a pitch fork while his father and brothers fought in the [[Battle of Bywater]].<ref>{{RK|Scouring}}</ref>
+
+==Etymology==
+Carl was probably named after his ancestor, [[Carl (son of Cottar)|Carl, son of Cottar]]. The nickname "Nibs" has been a term of mock respect in historical English.<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref> 
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Carl Cotton.jpg|thumb|left|120px|Nibs Cotton in ''[[The Lord of the Rings Online]]'']]
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Nibs Cotton appears at his family farm only during the annual Spring Festival, during which he is involved in a festival quest. He has a pet cat named Waldy.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Cotton]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Carl Hüttinger]]
+[[fi:Carl Tölli]]
+[[fr:encyclo/personnages/hobbits/chaumine/carl chaumine nibs]]

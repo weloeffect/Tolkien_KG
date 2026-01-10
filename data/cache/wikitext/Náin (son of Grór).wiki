@@ -1,0 +1,75 @@
+{{disambig-more|Náin|[[Náin (disambiguation)]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Náin
+| image=Jacek Kopalski - Náin at Azanulbizar.jpg
+| caption="Náin at Azanulbizar" by [[:Category:Images by Jacek Kopalski|Jacek Kopalski]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Iron Hills]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2665}}
+| birthlocation=[[Iron Hills]]
+| rule=
+| death={{TA|2799}}
+| deathlocation=[[Azanulbizar]]
+| age=134
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Grór]]
+| siblings=
+| spouse=
+| children=[[Dáin Ironfoot]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Mattock<ref name="Durin's Folk"/>
+| steed=
+}}
+{{quote|Azog! If you are in come out! Or is the play in the valley too rough?|Náin<ref name="Durin's Folk">{{App|Durin}}</ref>}}
+
+'''Náin''' ([[Third Age]] {{TA|2665|n}} - {{TA|2799|n}}, lived 134 years) was the son of [[Grór]], the [[Lord of the Iron Hills]].
+
+== History ==
+Considering its length, Náin more than likely fought in much of the [[War of the Dwarves and Orcs]], however his only deeds are recorded at the [[Battle of Azanulbizar]]. 
+
+In the battle, Náin led fresh reinforcements to the [[Dimrill Dale]] where he fought his way all the way up to the steps of the [[East-gate]] of [[Moria]], where he dueled with [[Azog]]. But Náin was half blind with rage and fatigued from battle, so he swung with all his might at the Orc. Azog darted aside and kicked Náin's leg so that he missed and shattered his mattock on the steps. Náin stumbled and Azog tried to hew his neck, but the Dwarf's mail withstood the edge. Yet, the blow was so powerful that Náin's neck was broken and he fell.  
+
+After the battle his body was burned, along with the rest of the [[Burned Dwarves|dead]] on wooden pyres. After his death the lines of Grór's two elder brothers failed, and Náin's son [[Dáin Ironfoot|Dáin II Ironfoot]] became King.<ref name="Durin's Folk"/>
+
+== Etymology ==
+''Náinn'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. It means "Corpselike".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | DAI | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | | | | | THR | | FRO | | GRO |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO=[[Frór]]<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO=[[Grór]]<br/><small>''{{TA|2563|n}} - {{TA|2803|n}}''</small>}}
+{{familytree | | | | | |!| | | | | | | |!| |}}
+{{familytree | | | | | THN | | | | | | NAI |THN=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI='''NÁIN'''<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |!| |}}
+{{familytree | THO | | FRE | | DIS | | DII |THO=[[Thorin|Thorin II]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|FRE=[[Frerin]]<br/><small>''{{TA|2751|n}} - {{TA|2799|n}}''†</small>|DIS=[[Dís]]<br/><small>''b. {{TA|2760|n}}''</small>|DII=[[Dáin Ironfoot|Dáin II]]<br/><small>''{{TA|2767|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree | | | | | |,|-|-|-|(| | | |!| |}}
+{{familytree | | | | | FIL | | KIL | | TH3 |FIL=[[Fíli]]<br/><small>''{{TA|2859|n}} - {{TA|2941|n}}''†</small>|KIL=[[Kíli]]<br/><small>''{{TA|2864|n}} - {{TA|2941|n}}''†</small>|TH3=[[Thorin Stonehelm|Thorin III]]<br/><small>''b. {{TA|2866|n}}''</small>}}
+{{familytree/end}}
+
+== Portrayal in adaptations ==
+[[File:The Lord of the Rings Online - Náin (son of Grór).jpg|thumb|Náin Orcsfoe in ''[[The Lord of the Rings Online]]'']]
+'''2021: ''[[The Lord of the Rings Online]]'':'''
+:Náin, called '''Náin Orcsfoe''', appears in an extended flashback depicting the [[Battle of Azanulbizar]] and his eventual demise.
+
+{{references}}
+{{title}}
+{{DEFAULTSORT:Nain (son of Gror)}}
+[[Category:Dwarves]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Náin (Sohn von Grór)]]
+[[fi:Náin (Grórin poika)]]
+[[fr:encyclo/personnages/nains/3a/nain 3]]

@@ -1,0 +1,104 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Lotho Sackville-Baggins
+| image=Andrea Piparo - Lotho Sackville-Baggins.jpg
+| caption="Lotho Sackville-Baggins" by [[:Category:Images by Andrea Piparo|Andrea Piparo]]
+| pronun=
+| othernames=Pimple
+| titles=The Chief
+| position=Chief Shirriff
+| location=[[Bag End]], [[Hobbiton]]
+| affiliation=[[Shirriffs]], [[Sharkey's Men|Chief's Men]]
+| language=[[Hobbitish]] and [[Westron]]
+| birth={{SR|1364}}
+| birthlocation=[[Shire]]
+| rule=End of {{SR|1418}} - [[September]] {{SR|1419}}
+| death={{SR|1419}}
+| deathlocation=[[Bag End]], [[Hobbiton]]
+| age=55
+| notablefor=Establishing a totalitarian regime within the Shire
+| family=[[Sackville-Baggins Family|Sackville-Baggins]]
+| parentage=[[Otho Sackville-Baggins]] and [[Lobelia Sackville-Baggins|Lobelia Bracegirdle]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=Sandy<ref name=Three>{{FR|I3}}</ref>
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Lotho Sackville-Baggins''' ({{TA|2964}} - {{TA|3019|n}}, died aged 55) was the only child of [[Otho Sackville-Baggins|Otho]] and [[Lobelia Sackville-Baggins|Lobelia]] [[Sackville-Baggins Family|Sackville-Baggins]].<ref>{{App|Baggins}}</ref>  During the [[War of the Ring]] at the end of the [[Third Age]], he established a totalitarian regime within [[the Shire]].
+
+== History ==
+After Lotho's father, Otho, died in {{TA|3012}}, Lotho inherited his [[pipe-weed]] plantations in the [[Southfarthing]], ensuring his status as a wealthy Hobbit.<ref name=Scouring>{{RK|VI8}}</ref>
+
+According to [[Tolman Cotton Senior|Tolman Cotton]], Lotho had been quietly selling the best [[Pipe-weed]] for one or two years before the [[War of the Ring]] and he seemingly bought the [[Old Mill]] before [[Frodo Baggins]] sold [[Bag End]] to his family.<ref name=Scouring/>
+
+On [[23 September]] {{TA|3018|n}}<ref name=Great>{{App|Great}}</ref> Lotho and Lobelia arrived at Bag End after lunch to take stock of the property and to obtain the keys.<ref name=Three/> Soon thereafter they moved into the residence, Lotho demolished the Old Mill and recruited outsiders to build a bigger mill and others like it in order to efficiently grind corn faster. By the end of that year, Lotho began buying an excessive amount of property as well as selling goods beyond Pipe-weed to many [[Men]] who came up from the south, mostly [[Ruffians]]. When folk began to complain about shortages that winter, Lotho had some Ruffians stay to assert his dominance over the Shire. At first, Lotho paid for all the stolen goods and damages that the Ruffians were responsible for. However, Lotho eventually stopped doing this. When [[Will Whitfoot]], the [[Mayor of the Shire]], set out to protest against Lotho's activities, he had his [[Sharkey's Men|Men]] incarcerate him in the [[Lockholes]].<ref name=Scouring/>
+
+Soon after [[New Year]], with no Mayor of the Shire, Lotho began calling himself [[Shirriffs|Chief Shirriff]], and demanded to be acknowledged as the Chief, and did whatever he wanted with no one to stop one. He closed all of the inns and made his own version of ''[[The Rules]]'', turning the Shire into a totalitarian regime. When [[Thain]] [[Paladin II]] refused to acknowledge Lotho as the Chief, Lotho sent his Men to [[Tookland]], though the [[Took Family|Tooks]] did not give in and resisted.<ref name=Scouring/>
+
+Lotho's regime within the Shire ended in [[September]] {{TA|3019|n}} when [[Sharkey]] arrived at Bag End<ref>{{App|Chief}}</ref> and took over the Shire from there. Soon Lotho was no longer seen in public and his mother, Lobelia, was taken to the Lockholes.<ref name=Scouring/>
+
+It was later revealed that Lotho was stabbed (and possibly also eaten) by [[Gríma]] in his sleep at the order of [[Saruman]].<ref name=Scouring/>
+
+== Legacy ==
+After Sharkey usurped the rule of the Shire from Lotho, he had the Ruffians industrialize the new mill in order to pollute [[the Water]] and the [[Brandywine]], and life in the Shire became worse. Eventually however, when the [[Travellers]] returned, the Shire was retaken in the [[Battle of Bywater]].<ref name=Scouring/>
+
+== Etymology ==
+The name ''Lotho'' represents an original [[Hobbitish]] [[Westron]] name '''Lotha''' which was meaningless in contemporary speech.<ref>{{App|Translation}}</ref>
+
+== Other versions of the legendarium ==
+Lotho was called '''Cosimo''' within two variants of an early draft of ''[[The Fellowship of the Ring]]'', where he fought [[Sancho Proudfoot]] at [[Bag End]] being supported by his mother, Lobelia, whose umbrella broke upon Sancho's head.<ref name=Early>{{RS|Delays}}, pp. 276, 283 (Note 5)</ref> In a note to the draft, [[Christopher Tolkien]] stated that this was Lotho's first appearance, and that in both of these variants, he had an overshadowed wife named [[Cora Goodbody|Miranda]],<ref name=Early/> though she was removed within the next draft of the text.<ref>{{RS|Journey}}, p. 324</ref> In another early draft, Cosimo's epithet was '''sandy-haired''' rather than Pimple.<ref>{{TI|Hobbiton}}, p. 32</ref>
+
+In an isolated outline foreseeing the scouring, it is only Cosimo rather than Saruman, who industrialized the Shire with factories and smoke.<ref>{{TI|Story}}, p. 216 (Note 7)</ref> In a draft of [[The Mirror of Galadriel]] chapter, Frodo sees a very wealthy Cosimo buying a lot of land.<ref>{{TI|Galadriel}}, p. 249</ref> In another outline of plot notes, Tolkien wrote that the Sackville-Bagginses are kicked out of the Shire to become pot-boys in [[Bree]],<ref>{{TI|Farewell}}, p. 286</ref> presumably including Cosimo.
+
+In an early version of [[The Land of Shadow]] chapter, Sam speculated that Cosimo may have made a mess in the Shire and that there would be trouble if they ever got back.<ref>{{SD|Shadow}}, pp. 32, 34</ref> In an outline of plot points, Tolkien wrote that when the Hobbits returned to the Shire, they drove out Cosimo.<ref>{{SD|Vs}}, p. 52</ref>
+
+In an early version of the [[Many Partings]] chapter, Saruman genuinely warned the Travellers about the Shire, directly mentioning Cosimo by name.<ref>{{SD|Partings}}, pp. 65-6</ref>
+
+In an early draft where Tolkien mapped out a conversation, Cosimo was originally going to be the '''New Mayor''' before Tolkien immediately changed his mind and made him the Chief Shirriff. In another draft, Merry mentions that none of the [[Bucklanders]] would allow Cosimo to dictate them.<ref>{{SD|Shire}}, pp. 77-9, 82-5, 88</ref>
+
+== Portrayal in adaptations ==
+===Lotho Sackville-Baggins in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Lotho Sackville-Baggins.JPG|Lotho Sackville-Baggins from [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+File:The Lord of the Rings Online - Lotho Sackville-Baggins.jpg|Lotho Sackville-Baggins in ''[[The Lord of the Rings Online]]''
+File:Ilker Yildiz - Lotho, Corrupt Shirriff.jpg|Lotho, Corrupt Shirrif in ''[[The Lord of the Rings: Tales of Middle-earth]]''
+File:Andrea Piparo - Lotho Sackville-Baggins.jpg|Lotho Sackville Baggins in '[[War of the Ring: The Card Game]]'' - ''Fire and Swords'' expansion
+</gallery>
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Lotho walks around in Bywater.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Lotho can be found ouside [[Bag End]]. His role in the game is minor and he only has a few lines during the main storyline.
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=Hobbit
+}}
+{{seq
+| prev=''Position established''
+| list='''[[Chief Shirriff]]'''
+| dates=End of {{SR|1418}} - [[September]] {{SR|1419}}
+| next=''Position abolished''
+}}
+{{seq-end}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Hobbits]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Sackville-Baggins]]
+[[Category:Servants of Saruman]]
+[[Category:Third Age characters]]
+
+[[de:Lotho Sackheim-Beutlin]]
+[[fi:Lotho Säkinheimo-Reppuli]]
+[[fr:encyclo/personnages/hobbits/bessac-descarcelle/lotho bessac-descarcelle]]

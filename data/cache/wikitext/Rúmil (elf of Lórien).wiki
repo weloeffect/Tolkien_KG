@@ -1,0 +1,73 @@
+{{disambig-more|Rúmil|[[Rúmil (disambiguation)]]}}
+{{infobox character
+| name=Rúmil
+| people=[[Silvan Elves|Silvan Elf]]
+| image=Ebe Kastein - Rumil.jpg
+| caption="Rumil" by [[:Category:Images by Ebe Kastein|Ebe Kastein]]
+| pronun=
+| othernames=
+| titles=
+| position=Marchwarden
+| location=[[Lothlórien]]
+| affiliation=[[Lothlórien]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=[[Haldir]] and [[Orophin]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Rúmil''' was a [[Silvan Elves|Silvan Elf]] of [[Lothlórien]].
+
+==History==
+Rúmil was the brother of [[Haldir]] and [[Orophin]]. He was one of three wardens met by the [[Fellowship of the Ring|Fellowship]] as they entered the [[Lothlórien|Golden Wood]].<ref name=lorien>{{FR|II6}}</ref>
+
+That night, after a strong company of [[Orc]]s entered Lothlórien, in pursuit of the Fellowship, the brothers led the Orcs into the woods with feigned voices in preparation for an ambush by their folk. The following day, Rúmil and Haldir led the Fellowship onward and made a rope bridge to cross the [[Celebrant]]. Rúmil remained behind after the others crossed, returning to [[Nimrodel (river)|Nimrodel]] to keep watch.<ref name=lorien />
+
+==Etymology==
+"Rúmil" was a "learned" [[Quenya]]-name.<ref>{{PE|17}}</ref>{{rp|54}} As the name was identical in form to Quenya name of the [[Rúmil (elf of Tirion)|learned sage of Valinor]], and unknown to the Silvan or [[Sindar]] Elves, [[Tolkien]] decided it must have been given by [[Galadriel]] herself, but he questioned why such a name would be given to "one of the plain guards and soldiers" of the kingdom.<ref>{{PE|17}}</ref>{{rp|51}}
+
+==Genealogy==
+{{familytree/start}}{{familytree| |,|-|-|-|v|-|-|-|.| | |}}{{familytree| HAL | | RÚM | | ORO | |HAL=[[Haldir]]<br /><small>''unknown''</small>|RÚM='''RÚMIL'''<br /><small>''unknown''</small>|ORO=[[Orophin]]<br /><small>''unknown''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In drafts, this character was known as ''Rhimbron'', ''Rhomrin'', and ''Romrin'', before being named ''Rúmil''.<ref>{{TI|I}}, Entry for ''Rhimbron''</ref>
+
+==Portrayal in adaptations==
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Rúmil.jpg|Rúmil in ''[[The Lord of the Rings Trading Card Game]]''
+File:The Lord of the Rings Online - Rúmil (elf of Lórien).jpg|Rúmil in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Rúmil is portrayed by [[Jørn Benzon]]. His image is used in the tie-in Trading Card Game.
+'''2001-7: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:An elf of Lórien is identified as being Rúmil in three cards, [http://lotrtcgdb.com/pages/LOTR12022.html Rumil, Brother of Haldir (12C22)], [http://lotrtcgdb.com/pages/LOTR17012.html Rumil, Silvan Elf (17S12)] and [http://lotrtcgdb.com/pages/LOTR01057.html Rumil, Elven Protector (1U57)]. At least some of his images are from the film.
+'''2001-2020: ''[[Lord of the Rings Strategy Battle Game]]'':'''
+:Rumil is one of the named heroes in the Lothlorien army in the Middle-Earth Strategy Battle Game. The lore given with his rules say he is renowned for his skill with the blade, and he has a unique ability that forces enemies to reroll duel rolls.
+'''2009: ''[[The Lord of the Rings Online]]'':'''
+:Rúmil can be found on the western outskirts of [[Lothlorien]], defending the borders against the [[orc]] attacks.
+
+{{references}}
+{{title}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Silvan Elves]]
+[[Category:Third Age characters]]
+[[de:Rúmil (Lothlórien)]]
+[[fi:Rúmil (salohaltia)]]

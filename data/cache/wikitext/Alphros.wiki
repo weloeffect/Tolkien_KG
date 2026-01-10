@@ -1,0 +1,72 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Alphros
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Princes of Dol Amroth|Prince of Dol Amroth]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|3017}}
+| birthlocation=
+| rule={{FoA|67}} - {{FoA|95|n}} (28 years)
+| death={{FoA|95}}
+| deathlocation=
+| age=99
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Elphir]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Alphros''' ({{TA|3017}} - {{FoA|95}}) was the  twenty-fourth [[Prince of Dol Amroth]].<ref name=DolAmroth>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 223</ref>
+
+==History==
+Alphros was born near the end of the [[Third Age]], and was only a toddler when the [[War of the Ring]] raged in Gondor. Growing up in the [[Fourth Age]], he became Prince after his father [[Elphir]]'s death, and served under [[Aragorn|King Elessar]]. He died in {{FoA|95}}.<ref name=DolAmroth/>
+
+==Etymology==
+''Alphros'' seems to be a [[Sindarin]] name. Its meaning is not glossed, but it seems to mean "Swan Foam" and to be a combination of  ''[[alph]]'' "swan" and ''[[ros]]'' ("foam").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1638885195.html|articlename=S. ''Alphros'' pn.|website=Eldamo|accessed=12 July 2024}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | IMR | | | | | | | | ROH |IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>|ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | |:| |}}
+{{familytree | ELP | | ERC | | AMR | | LOT |y| EOM |ELP=[[Elphir]]<br/><small>''{{TA|2987|n}} - {{FoA|67}}''</small>|ERC=[[Erchirion]]<br/><small>''b. {{TA|2990|n}}''</small>|AMR=[[Amrothos]]<br/><small>''b. {{TA|2994|n}}''</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>}}
+{{familytree | |!| | | | | | | | | | | | | |!| | | |}}
+{{familytree | ALP | | | | | | | | | | | | ELF | | |ALP='''ALPHROS'''<br/><small>''{{TA|3017|n}} - {{FoA|95}}''</small>|ELF=[[Elfwine]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Dol Amroth]]
+| born={{TA|3017}}
+| died={{FoA|95}}
+}}
+{{seq
+| prev=[[Elphir]]
+| list=24th [[Princes of Dol Amroth|Prince of Dol Amroth]]
+| dates={{FoA|67}} - {{FoA|95|n}}
+| next=Unknown
+}}
+{{seq-end}}
+[[Category:Fourth Age characters]]
+[[Category:Gondorians]]
+[[Category:Princes of Dol Amroth]]
+[[Category:Third Age characters]]
+
+[[de:Alphros]]
+[[fi:Alphros]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/alphros]]

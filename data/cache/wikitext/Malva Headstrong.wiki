@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Malva Headstrong
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth=c. {{SR|1134}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Headstrong Family|Headstrong]]
+| parentage=
+| siblings=
+| spouse=[[Gormadoc Brandybuck]]
+| children=[[Madoc Brandybuck|Madoc]], [[Sadoc Brandybuck|Sadoc]] and [[Marroc Brandybuck|Marroc]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Malva Headstrong''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Malva married [[Gormadoc Brandybuck]]. They had three children: [[Madoc Brandybuck|Madoc]], [[Sadoc Brandybuck|Sadoc]] and [[Marroc Brandybuck|Marroc]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+[http://en.wiktionary.org/wiki/malva#Latin Malva] is Latin for "mallow" and is a genus of plants with pink or yellow flowers.
+
+{{references}}
+[[Category:Brandybuck]]
+[[Category:Headstrong]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Malva Brandybock]]
+[[fi:Malva Voimapää]]

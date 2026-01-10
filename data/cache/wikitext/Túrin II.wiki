@@ -1,0 +1,83 @@
+{{short description|23rd Steward of Gondor}}
+{{disambig-more|Túrin|[[Túrin (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Túrin II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2815}}
+| birthlocation=
+| rule={{TA|2882}} - {{TA|2914|n}} (32 years)
+| death={{TA|2914}}
+| deathlocation=
+| age=99
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Thorondir]]
+| siblings=
+| spouse=
+| children=[[Turgon (Steward of Gondor)|Turgon]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Túrin II''' ([[Third Age]] {{TA|2815|n}}<ref name="Elendil">{{PM|Elendil}}</ref> – {{TA|2914|n}},<ref name="South">{{App|South}}</ref> aged 99 years) was the twenty-third [[Ruling Steward]] of [[Gondor]]. 
+
+==History==
+Túrin succeeded his father [[Thorondir]] at his death in {{TA|2882}}.<ref name="South"/> [[Ithilien]] was further deserted because of infestation by [[Orcs of Mordor]]. It was Túrin who built secret refuges for his soldiers in Ithilien, of which [[Henneth Annûn]] was the longest guarded and manned. He also fortified the isle of [[Cair Andros]] to defend [[Anórien]].<ref name="Elendil"/><ref name=stew>{{App|Stewards}}</ref>
+
+During his time also the fief [[South Gondor]] was occupied by the [[Haradrim]] and there was fighting along the river [[Poros]], until in {{TA|2885|n}} they invaded Ithilien was invaded in great strength. His ally King [[Folcwine]] of [[Rohan]] fulfilled the [[Oath of Eorl]] and sent many men to Gondor. With their aid Túrin won a victory at the crossing of the river, though the princes [[Fastred (son of Folcwine)|Fastred]] and [[Folcred]] were slain.<ref name=stew/><ref>{{App|TA}}</ref>
+
+Túrin was followed by his son [[Turgon (Steward of Gondor)|Turgon]] at his death in {{TA|2914|n}}.<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Túrin#Etymology|Túrin - Etymology]]. Túrin II was probably named after [[Túrin|Túrin Turambar]], a tragic hero of the [[Edain]] of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref><ref>{{PM|Elendil}}, p. 203</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | BEL |BEL=[[Belecthor II]]<br/><small>''{{TA|2752|n}} - {{TA|2872|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | THO |THO=[[Thorondir]]<br/><small>''{{TA|2782|n}} - {{TA|2882|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TUR |TUR='''TÚRIN II'''<br/><small>''{{TA|2815|n}} - {{TA|2914|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TUR |TUR=[[Turgon (Steward of Gondor)|Turgon]]<br/><small>''{{TA|2855|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ECT |ECT=[[Ecthelion II]]<br/><small>''{{TA|2886|n}} - {{TA|2984|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2815}}
+| died={{TA|2914}}
+}}
+{{seq
+| prev=[[Thorondir]]
+| list=23rd [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2882}} - {{TA|2914|n}}
+| next=[[Turgon (Steward of Gondor)|Turgon]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{DEFAULTSORT:Turin II}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Túrin II.]]
+[[fi:Túrin II]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/turin ii]]

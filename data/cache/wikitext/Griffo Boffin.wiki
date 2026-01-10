@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Griffo Boffin
+| image=The Lord of the Rings Online - Griffo Boffin.jpg
+| caption=Griffo Boffin in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1344}}<ref>{{PM|III}}</ref><ref>{{webcite|author=[[Wayne G. Hammond]], [[Christina Scull]]|articleurl=http://wayneandchristina.wordpress.com/2012/12/02/tolkien-notes-2/|articlename=Tolkien Notes 2|dated=2 December 2012|website=[http://wayneandchristina.wordpress.com/ Too Many Books and Never Enough]|accessed=3 December 2012}}</ref>
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Gruffo Boffin]]
+| siblings=
+| spouse=[[Daisy Baggins]]
+| children=[[Tosto Boffin|Tosto]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Griffo Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Griffo was the son of [[Gruffo Boffin]]. He married [[Daisy Baggins]], and was present at [[Bilbo's Farewell Party]].<ref>{{App|Boffin}}</ref>
+
+==Portrayal in adaptations==
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Griffo Boffin is the youngest of the eight children of Prisca Boffin and is met at several family gatherings attended by their first cousin Bingo Boffin. He is also of the assistants to Mayor [[Will Whitfoot]].
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+
+[[de:Griffo Boffin]]
+[[fi:Griffo Boffin]]

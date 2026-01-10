@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Linda Baggins
+| image=Linda Proudfoot.png
+| caption=Linda Proudfoot from [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1262}}
+| birthlocation=
+| rule=
+| death={{SR|1363}}
+| deathlocation=
+| age=101
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Mungo Baggins]] and [[Laura Grubb]]
+| siblings=[[Bungo Baggins|Bungo]], [[Belba Baggins|Belba]], [[Longo Baggins|Longo]] and [[Bingo Baggins|Bingo]]
+| spouse=[[Bodo Proudfoot]]
+| children=[[Odo Proudfoot|Odo]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Linda Proudfoot, née Baggins''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Linda was the fourth child of [[Mungo Baggins]] and [[Laura Grubb]]. She married [[Bodo Proudfoot]] and was the mother of [[Odo Proudfoot|Odo]].<ref>{{App|Baggins}}</ref>
+
+==Portrayal in adaptations==
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Five portraits are clustered on a wall in [[Bag End]]. One of them is Linda, and one of Bilbo's lines when looking at the portraits is "That's my aunt Linda when she was a child".
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Proudfoot]]
+[[Category:Third Age characters]]

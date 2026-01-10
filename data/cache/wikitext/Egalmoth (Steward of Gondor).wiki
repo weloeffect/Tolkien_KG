@@ -1,0 +1,87 @@
+{{disambig-two|the [[Ruling Steward]] of [[Gondor]]|[[Noldor]]in [[Elves|Elf]] of the [[First Age]]|[[Egalmoth]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Egalmoth
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2626}}
+| birthlocation=
+| rule={{TA|2698}} - {{TA|2743|n}} (45 years)
+| death={{TA|2743}}
+| deathlocation=
+| age=117
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=''unknown'', grandson of [[Morwen (daughter of Belecthor)|Morwen]]
+| siblings=
+| spouse=
+| children=[[Beren (Steward of Gondor)|Beren]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Egalmoth''' ([[Third Age]] 2626<ref name="Elendil">{{PM|Elendil}}, p. 205</ref> - 2743,<ref name="South">{{App|South}}</ref> aged 117 years) was the eighteenth Ruling Steward of [[Gondor]].
+
+==History==
+Egalmoth was probably named after the [[Noldor]]in [[Elves|Elf]] of the [[First Age]].
+
+He succeeded his cousin [[Ecthelion I]] upon his death in {{TA|2698}}. Egalmoth was the grandson of [[Morwen (daughter of Belecthor)|Morwen]], daughter of [[Belecthor I]].  During his rule there was renewed war with the [[Orcs]].<ref name="Elendil"/><ref group=note>It is not clear if the "Orc-wars" concerned the [[Uruks]] [[Orcs of Mordor|of Mordor]], and/or they were related to the [[Orcs of the Misty Mountains|Orc]] invasions in [[Eriador]] (cf. {{TA|2740}}).</ref>
+
+In {{TA|2710}} King [[Déor]] asked his help to drive off the [[Dunlendings]] from the occupied [[Ring of Isengard]], but the Steward was unable to send help.<ref>{{UT|Isen}}</ref>
+
+Egalmoth was followed by his son [[Beren (Steward of Gondor)|Beren]] at his death in {{TA|2743}}.<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Egalmoth#Etymology|Egalmoth - Etymology]]. It is possible that Egalmoth was named after [[Egalmoth]], an elvish lord of [[Gondolin]] in the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BEL | | |BEL=[[Belecthor I]]<br/><small>''{{TA|2545|n}} - {{TA|2655|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ORO | | MOR |ORO=[[Orodreth (Steward of Gondor)|Orodreth]]<br/><small>''{{TA|2576|n}} - {{TA|2685|n}}''</small>|MOR=[[Morwen (daughter of Belecthor)|Morwen]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | ECT | | UNK |ECT=[[Ecthelion I]]<br/><small>''{{TA|2600|n}} - {{TA|2698|n}}''</small>|UNK=''Unknown''<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | EGA |EGA='''EGALMOTH'''<br/><small>''{{TA|2626|n}} - {{TA|2743|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | BER |BER=[[Beren (Steward of Gondor)|Beren]]<br/><small>''{{TA|2655|n}} - {{TA|2763|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | BER |BER=[[Beregond (Steward of Gondor)|Beregond]]<br/><small>''{{TA|2700|n}} - {{TA|2811|n}}''</small>}}
+{{familytree/end}}
+
+{{references|n}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2626}}
+| died={{TA|2743}}
+}}
+{{seq
+| prev=[[Ecthelion I]]
+| list=18th [[Ruling Steward]] of [[Gondor]]
+| dates={{TA|2698}} - {{TA|2743|n}}
+| next=[[Beren (Steward of Gondor)|Beren]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Egalmoth (Truchsess von Gondor)]]
+[[fi:Egalmoth]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:egalmoth]]

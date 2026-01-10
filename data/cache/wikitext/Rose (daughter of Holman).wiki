@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rose
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]<br/>[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1262}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Greenhand Family|Greenhand]]
+| parentage=[[Holman the greenhanded]]
+| siblings=[[Rowan]], [[Halfred Greenhand|Halfred]], [[Erling]] and [[Hending]]
+| spouse=[[Cotman]]
+| children=[[Holman Cotton]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rose''' was the youngest child of [[Holman the greenhanded]].
+
+==History==
+Rose married [[Cotman]] of [[Bywater]], and they had one child, [[Holman Cotton]], named after her father, [[Holman the greenhanded]].<ref>{{App|Gamgee}}</ref>
+
+{{references}}
+{{title}}
+[[Category:Greenhand]]
+[[Category:Cotton]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+[[de:Rose]]
+[[fr:encyclo/personnages/hobbits/la mainverte/rose]]
+[[fi:Roosa (Hobittilan Kolon tytär)]]

@@ -1,0 +1,38 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Iago Grubb
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Lawyer<ref name="Shadow"/>
+| location=[[Hobbiton]]<ref name="Shadow"/>
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Grubb]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Iago Grubb''' was one of [[Frodo]]'s lawyers in ''[[The Return of the Shadow]]'' (at that stage of the writing Frodo was called Bingo). Iago, along with Bingo's other lawyer [[Folco Burrowes]], eject [[Sancho Proudfoot]] as he tries to excavate the pantry at [[Bilbo's Farewell Party]].<ref name="Shadow">{{RS|1Iiii}}</ref>
+
+{{references}}
+[[Category:Grubb]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]

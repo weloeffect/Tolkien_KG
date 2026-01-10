@@ -1,0 +1,56 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Pervinca Took
+| image=Gregor Roffalski - Paladin's Daughters.jpg
+| caption="Paladin's Daughters" by [[:Category:Images by Gregor Roffalski|Gregor Roffalski]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1385}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Paladin Took II]] and [[Eglantine Banks]]
+| siblings=[[Pearl Took|Pearl]], [[Pimpernel Took|Pimpernel]] and [[Peregrin Took|Peregrin]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Pervinca Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Pervinca was the third child and youngest daughter of [[Thain]] [[Paladin Took II]] and [[Eglantine Banks]], and elder sister to [[Peregrin Took]].
+
+In {{TA|3001}} she was a guest at [[Bilbo's Farewell Party]].<ref>{{App|Took}}</ref>
+
+==Etymology==
+[http://en.wiktionary.org/wiki/pervinca Pervinca] refers to periwinkle, trailing or erect evergreen plants such as the European creeper.<ref>{{HM|IE}}, "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Pervinca Took.jpg|thumb|left|150px|Pervinca Took in ''[[The Lord of the Rings Online]]'']]
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Pervinca is found at the [[Great Smials]] in [[Tuckborough]]. She is tired of her relative [[Adelard Took]]'s lessons on family history, and helps her cousins Isembard and Imbert to play tricks on him.
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Petunia Tuk]]
+[[fi:Pervinca Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/pervenche touque]]

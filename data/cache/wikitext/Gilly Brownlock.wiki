@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gilly Brownlock
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=Before {{SR|1346}}<!-- Birthdate of her eldest son -->
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}<!-- Date of Bilbo's Party -->
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brownlock Family|Brownlock]]
+| parentage=
+| siblings=
+| spouse=[[Posco Baggins]]
+| children=[[Ponto Baggins II|Ponto]], [[Porto Baggins|Porto]] and [[Peony Baggins|Peony]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Gilly Brownlock''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Gilly married [[Posco Baggins]], and they had several children: [[Ponto Baggins II|Ponto]], [[Porto Baggins|Porto]] and [[Peony Baggins|Peony]].
+
+Gilly with her children and grandchildren, was present at [[Bilbo Baggins]]' [[Birthday Party]].<ref>{{App|Baggins}}</ref>
+
+==Etymology==
+Gilly is perhaps a reference to the [[wikipedia:gilliflower|gilliflower]].<ref>{{HM|IE}}, "Giving of Names"</ref>
+{{references}}
+[[Category:Baggins]]
+[[Category:Brownlock]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Nelke Beutlin]]
+[[fi:Gili Ruskokutri]]

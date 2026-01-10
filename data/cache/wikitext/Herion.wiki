@@ -1,0 +1,77 @@
+{{short description|3rd Steward of Gondor}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Herion
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2037}}
+| birthlocation=
+| rule={{TA|2116}} - {{TA|2148|n}} (32 years)
+| death={{TA|2148}}
+| deathlocation=
+| age=111
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Eradan]]
+| siblings=
+| spouse=
+| children=[[Belegorn]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Herion''' ([[Third Age]] {{TA|2037|n}}<ref>{{PM|Elendil}}, p. 204</ref> – {{TA|2148|n}},<ref>{{App|South}}</ref> aged 111 years) was the third [[Ruling Steward]] of [[Gondor]].
+
+==History==
+He ruled for thirty-two years during the time known as the [[Watchful Peace]],<ref>{{App|TA}}</ref> and was succeeded by his son [[Belegorn]].
+
+==Etymology==
+''Herion'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack and David Salo suggest it is a compound of ''[[hîr]]'' ("lord") and ''-ion'' ("son").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-701509255.html|articlename=S. ''Herion'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | MAR |MAR=[[Mardil|Mardil Voronwë]]<br/><small>''{{TA|1960|n}} - {{TA|2080|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ERA |ERA=[[Eradan]]<br/><small>''{{TA|1999|n}} - {{TA|2116|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | HER |HER='''HERION'''<br/><small>''{{TA|2037|n}} - {{TA|2148|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BEL |BEL=[[Belegorn]]<br/><small>''{{TA|2074|n}} - {{TA|2204|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | HUR |HUR=[[Húrin I]]<br/><small>''{{TA|2124|n}} - {{TA|2244|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2037}}
+| died={{TA|2148}}}}
+{{seq
+| prev=[[Eradan]]
+| list=3rd [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2116}} - {{TA|2148|n}}
+| next=[[Belegorn]]
+}}{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Herion]]
+[[fi:Herion]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/herion]]

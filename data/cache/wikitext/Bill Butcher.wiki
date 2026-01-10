@@ -1,0 +1,57 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bill Butcher
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=[[Butcher]]
+| location=[[Delving]]<ref name="Perry"/>
+| affiliation=[[The Shire]]<ref name="Perry"/>
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Throwing a knife.
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Men]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Bill Butcher''' was a [[Hobbits|Hobbit]] inhabitant of the town of [[Delving]] who appeared in ''[[Perry-the-Winkle]]'', a nursery rhyme<ref name=collectedpoems>{{CP|105}}</ref> by [[Samwise Gamgee]]<ref name=preface>{{AB|Preface}}</ref>.<ref name="Perry">{{AB|Perry}}, pp. 41-4</ref>
+
+In the poem, Bill Butcher was accompanied by his dog [[Grip (Bill Butcher's dog)|Grip]] when he threw a knife upon seeing the [[Lonely Troll]] peeping over the stalls of the market-place.<ref name="Perry" />
+
+It is possible that Bill Butcher may have been one of the [[Shire-hobbits]] who travelled to [[Faraway]] in order to demand food from the Lonely Troll.<ref name="Perry" />
+
+==Background==
+In the first version of the poem in early [[1928]],<ref name=commentary>{{AB|Comm}}, ''Perry-the-Winkle''</ref> which was entitled ''The Bumpus'', the butcher was unnamed, "threw his knives", and had no dog.<ref name=collectedpoems>{{CP|105}}</ref> No changes to the character occurred in the second version on [[29 March]],<ref name=collectedpoems/> in which Tolkien revised the poem as part<ref name=collectedpoems/> of his ''[[Tales and Songs of Bimble Bay]]'' series. The third version also retained the same details in relation to the butcher.<ref name=commentary/>
+
+In early [[1961]],<ref name=collectedpoems/> when Tolkien revised the poem for inclusion within ''[[The Adventures of Tom Bombadil]]'', the unnamed butcher was accompanied by his dog (instead of "Harry and his father"), threw a single knife, and was given the name '''Bill butcher'''. In a later revision, Tolkien capitalized the word butcher in Bill's name<ref name="Perry" />.<ref name=collectedpoems/>
+ 
+{{references}}
+
+{{Legend}}
+
+{{DEFAULTSORT:Butcher, Bill}}
+
+[[Category:Butcher]]
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[fi:Lihakauppias (Järin Möyremän)]]

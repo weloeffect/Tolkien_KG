@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Posco Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1302}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Polo Baggins]]
+| siblings=[[Prisca Baggins|Prisca]]
+| spouse=[[Gilly Brownlock]]
+| children=[[Ponto Baggins II|Ponto]], [[Porto Baggins|Porto]] and [[Peony Baggins|Peony]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Posco Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Posco was the son of [[Polo Baggins]] and a cousin of [[Bilbo Baggins]]. He married [[Gilly Brownlock]], and together they had several children: [[Ponto Baggins II|Ponto]], [[Porto Baggins|Porto]], [[Peony Baggins|Peony]]. While his family and descendants attended his cousin's [[Bilbo's Farewell Party]] in {{SR|1401}}, he did not.<ref>{{App|Baggins}}</ref><ref group=note>In the [[Appendix C]] Posco is the only of his family who isn't marked as an attendee of Bilbo's Party, which might suggest that he had died before that. On the other hand the lack of marking can be a typographical slip: cf. for example his sister [[Prisca Baggins#Other versions of the legendarium|Prisca]].</ref>
+{{references|n}}
+
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Posco Beutlin]]
+[[fi:Posco Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/posco sacquet]]

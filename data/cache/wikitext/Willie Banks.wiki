@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Willie Banks
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bree]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=early {{TA|3019}}
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Willie Banks''' was a [[Bree-hobbits|Hobbit]] of [[Bree]].
+
+==History==
+Willie was called to arms when the [[ruffians]] tore through [[Bree]]. [[Saruman|Sharkey]]'s men were repelled, but Willie and a few others did not survive.<ref>{{RK|Homeward}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Banks]]
+[[Category:Third Age characters]]
+
+[[de:Willi Hang]]
+[[fi:Vili Törmä]]

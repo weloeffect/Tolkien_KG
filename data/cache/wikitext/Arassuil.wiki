@@ -1,0 +1,101 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arassuil
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2628}}
+| birthlocation=
+| rule={{TA|2719}} - {{TA|2784|n}}
+| death={{TA|2784}}
+| deathlocation=
+| age=156
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arahad II]]
+| siblings=
+| spouse=
+| children=[[Arathorn I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arassuil''' ({{TA|2719}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2784|n}},<ref name="North">{{App|North}}</ref> died aged 156) was the eleventh [[Chieftain of the Dúnedain]], succeeding his father, [[Arahad II]], when he died in 2719.
+
+==History==
+During his chieftainship the [[Orcs]] of the [[Misty Mountains]] became more bold, daring to invade [[Eriador]]. The [[Rangers of the North|Rangers]] fought many battles trying to hold them back,<ref>{{App|Eriador}}</ref> but one party of [[Orcs]] managed to reach [[the Shire]], where they were fought off by a party of brave [[Hobbits]] under [[Bandobras Took|Bandobras "Bullroarer" Took]] in {{TA|2747|n}} at the [[Battle of Greenfields]].<ref name="TA">{{App|TA}}</ref>
+
+Also during this time, in {{TA|2758|n}}, the [[Long Winter]] arrived. Many lives were lost, and [[Gandalf]] and the [[Rangers of the North|Rangers]] had to help the [[Hobbits]] of [[the Shire]] survive.<ref name="TA"/>
+
+After having been chieftain for 65 years, Arassuil died in 2784. He was succeeded by his son, [[Arathorn I]].<ref name="North"/>
+
+==Etymology==
+''Arassuil'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack suggests that the initial element of the name is the prefix ''[[ara|ar(a)-]]'' ("noble", "royal", "high"). The meaning of the second element is unclear.<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-461119701.html|articlename=S. ''Arassuil'' m.|website=Eldamo|accessed=05 February 2022}}</ref> It could be ''suil'' ("greeting") from ''suila'' ("to greet").
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | HOS | | | | | | |HOS=''[[House of Isildur]]''}}
+{{familytree | | | |:| | | | | | | |}}
+{{familytree | | | |:| | | | | | | |}}
+{{familytree | | | ARA | | | | | | |ARA=[[Aravorn]]<br/><small>''{{TA|2497|n}} - {{TA|2654|n}}''</small>}}
+{{familytree | | | |!| | | | | | | |}}
+{{familytree | | | ARA | | | | | | |ARA=[[Arahad II]]<br/><small>''{{TA|2563|n}} - {{TA|2719|n}}''</small>}}
+{{familytree | | | |!| | | | | | | |}}
+{{familytree | | | ARA | | | | | | |ARA='''ARASSUIL'''<br/><small>''{{TA|2628|n}} - {{TA|2784|n}}''</small>}}
+{{familytree | | | |!| | | | | | | |}}
+{{familytree | | | ARA | | | | HOU |ARA=[[Arathorn I]]<br/><small>''{{TA|2693|n}} - {{TA|2848|n}}''†</small>|HOU=''[[House of Isildur]]''}}
+{{familytree | |,|-|^|-|.| | | |:| |}}
+{{familytree | ARG | | UNK | | GIL |ARG=[[Argonui]]<br/><small>''{{TA|2757|n}} - {{TA|2912|n}}''</small>|GIL=[[Gilbarad]]<br/><small>''b. {{TA}}''</small>|UNK=''unknown<br />child''<sup>[[Arathorn I#Other versions of the legendarium|NB]]</sup>}}
+{{familytree | |!| | | |:| | | |!| |}}
+{{familytree | ARA | | DIR |y| IVO |ARA=[[Arador]]<br/><small>''{{TA|2820|n}} - {{TA|2930|n}}''†</small>|DIR=[[Dírhael]]<br/><small>''b. {{TA}}''</small>|IVO=[[Ivorwen]]<br/><small>''b. {{TA}}''</small>}}
+{{familytree | |!| | | | | |!| | | |}}
+{{familytree | ATH |~|y|~| GIR | | |ATH=[[Arathorn II]]<br/><small>''{{TA|2873|n}} - {{TA|2933|n}}''†</small>|GIR=[[Gilraen]]<br/><small>''{{TA|2907|n}} - {{TA|3007|n}}''</small>}}
+{{familytree | | | | |!| | | | | | |}}
+{{familytree | | | | ELE | | | | | |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an early manuscript Arassuil's name was "Arasuil".<ref>{{PM|Elendil}}, Commentaries, p. 211</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2628}}
+| died={{TA|2784}}
+}}
+{{seq
+| prow=2
+| prev=[[Arahad II]]
+| list=34th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2719}} - {{TA|2784}}
+| next=[[Arathorn I]]
+| nrow=2
+}}
+{{seq
+| list=11th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2719}} - {{TA|2784}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Chieftains of the Dúnedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Arassuil]]
+[[fi:Arassuil]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/arassuil]]

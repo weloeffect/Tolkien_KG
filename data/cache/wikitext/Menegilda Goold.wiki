@@ -1,0 +1,51 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Menegilda Goold
+| image=
+| caption=
+| pronun=
+| othernames=Menegilda Brandybuck
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=c. {{SR|1400}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Goold Family|Goold]]
+| parentage=
+| siblings=
+| spouse=[[Rorimac Brandybuck]]
+| children=[[Saradoc Brandybuck|Saradoc]] and [[Merimac Brandybuck|Merimac]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Menegilda Brandybuck, née Goold''', was a Hobbit of [[the Shire]].
+
+==History==
+Menegilda married [[Rorimac Brandybuck]], and with him produced two children, [[Saradoc Brandybuck|Saradoc]] and [[Merimac Brandybuck|Merimac]]. 
+
+Unlike her husband and sons, she was not present at [[Bilbo Baggins]]' [[Bilbo's Farewell Party|Birthday Party]] in {{SR|1401}}.<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The name contains ''meneg'' "much" and ''hild'' "battle".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{references}}
+[[Category:Germanic names]]
+[[Category:Goold]]
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]
+
+[[de:Menegilda Brandybock]]
+[[fr:encyclo/personnages/hobbits/leriche/menegilda leriche]]
+[[fi:Menegilda Guld]]

@@ -1,0 +1,125 @@
+{{sources}}
+{{disambig-more|Thorin|[[Thorin (disambiguation)]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Thorin Stonehelm
+| image=Decipher - Thorin III.jpg
+| caption="Thorin III" from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=Thorin III, [[Stonehelm]]
+| titles=[[Kings of Durin's Folk|King of Durin's Folk]]<br/>[[King under the Mountain]]
+| position=
+| location=[[Iron Hills]]<br>[[Lonely Mountain]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2866}}
+| birthlocation=[[Iron Hills]]
+| rule={{TA|3019}} - Unknown
+| death=unknown (aged 153+)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Dáin Ironfoot]]
+| siblings=
+| spouse=
+| children=Eventually [[Durin VII]]<ref group="note">An alternative version of the genealogical tree of [[Appendix A]] suggested Durin VII was the son of Thorin III.</ref><ref name="Making" />
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Thorin III Stonehelm''' ([[Third Age]] 2866 – [[Fourth Age]]) was the son and heir of [[Dáin Ironfoot|Dáin II Ironfoot]] of [[Durin's folk]], who was king of the [[Dwarves of Erebor]] and the [[Iron Hills]] in  [[Rhovanion|Wilderland]].
+
+==History==
+During the [[Lord of the Iron Hills|Lordship]] of his father, Thorin was more than likely born in the [[Iron Hills]] to Dáin II Ironfoot. During his younger years he saw his people able to finally return to the Lonely Mountain after many years of further exile, and wandering. He himself became a prince with the rise of his father as [[King under the Mountain]], and over all the [[Longbeards]].
+
+During the [[War of the Ring]] at the age of one hundred fifty-three, Thorin fought the [[Easterlings]] in the [[Battle of Dale]], and took refuge in Erebor after his father was killed at its gates, along with [[Brand]] [[King of Dale|king]] of [[Dale]]. Thorin then became [[King under the Mountain]].
+
+When the news of Sauron's [[Battle of the Morannon|defeat in the South]] came to the ears of the enemy, they became dismayed and the Dwarves and Men came forth from the mountain and routed them driving them back of the river [[Carnen]], never troubling them again.<ref name="Chief">{{App|Chief}}</ref>  
+
+Under Thorin's leadership Erebor and Dale were rebuilt along with Dale's new king [[Bard II]], son of Brand, and once again both their people prospered, and their realms became close allies with the [[Reunited Kingdom]] of [[Arnor]] and [[Gondor]] of King [[Aragorn|Aragorn II]].
+
+During his rule [[Gimli]], son of [[Glóin]], led a number of Dwarves South to [[Aglarond]], where a new colony was settled. Also during his rule mining for ''[[mithril]]'' in [[Moria]] slowly began again, although Moria was not yet permanently settled.
+
+Thorin III had a descendant who was held to be the reincarnation of [[Durin|Durin the Deathless]], and would rule as [[Durin VII]] the Last.<ref name="Making">{{PM|Aiv}}, p. 278-9</ref> 
+
+==Etymology==
+Thorin's name is one from the ''[[Völuspá|Dvergatal]]''. It means "Bold".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+The origins of the epithet "[[Stonehelm]]" are mysterious: [[J.R.R. Tolkien|Tolkien]] doesn't provide us with any account that would shed light on its meaning.
+
+== Genealogy ==
+<div style="overflow-x: scroll; overflow-y: hidden; border: 1px solid #AAAAAA; padding: 3px; background: #EEEEEE;">{{familytree/start}}
+{{familytree| | | | | | | | | | | | | | | | | NAI | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| | | | | | | | | | |,|-|-|-|-|-|-|^|-|-|-|-|-|-|.| | | | | | | |}}
+{{familytree| | | | | | | | | | DAI | | | | | | | | | | | | BOR | | | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>| BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| | | | | | |,|-|-|-|+|-|-|-|.| | | | | | | | | |!| | | | | | | |}}
+{{familytree| | | | | | THR | | FRO | | GRO | | | | | | | | FAR | | | | | | |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO=[[Frór]]<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO=[[Grór]]<br/>''<small>{{TA|2563|n}} - {{TA|2805|n}}</small>''|FAR=[[Farin]]<br/>''<small>{{TA|2560|n}} - {{TA|2803|n}}</small>''}}
+{{familytree| | | | | | |!| | | | | | | |!| | | | | |,|-|-|-|^|-|-|-|.| | | |}}
+{{familytree| | | | | | THR | | | | | | NAI | | | | FUN | | | | | | GRO | | |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI=[[Náin (son of Grór)|Náin]]<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO=[[Gróin]]<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | |!| | | |,|-|^|-|.| | | |,|-|^|-|.| |}}
+{{familytree| | THO | | FRE | | DIS | | DAI | | BAL | | DWA | | OIN | | GLO |THO=[[Thorin|Thorin II Oakenshield]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|FRE=[[Frerin]]<br/><small>''{{TA|2751|n}} - {{TA|2799|n}}''†</small>|DIS=[[Dís]]<br/><small>''b. {{TA|2760|n}}''</small>|BAL=[[Balin]]<br/><small>''{{TA|2763|n}} - {{TA|2994|n}}''†</small>|DWA=[[Dwalin]]<br/><small>''{{TA|2772|n}} - {{FoA|91}}''</small>|OIN=[[Óin]]<br/><small>''{{TA|2774|n}} - {{TA|2994|n}}''</small>|GLO=[[Glóin]]<br/><small>''{{TA|2783|n}} - {{FoA|15}}''</small>|DAI=[[Dáin Ironfoot|Dáin II Ironfoot]]<br/><small>''{{TA|2767|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree| | | | | | |,|-|-|-|(| | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree| | | | | | FIL | | KIL | | THO | | | | | | | | | | | | | | GIM |FIL=[[Fíli]]<br/><small>''{{TA|2859|n}} - {{TA|2941|n}}''†</small>|KIL=[[Kíli]]<br/><small>''{{TA|2864|n}} - {{TA|2941|n}}''†</small>|THO='''THORIN III STONEHELM'''<br/><small>''b. {{TA|2866|n}}''</small>|GIM=[[Gimli]]<br/><small>''{{TA|2879|n}} - {{FoA|120}}''+</small>}}
+{{familytree| | | | | | | | | | | | | | |:| | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | | | | | | | | | | | |:| | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | | | | | | | | | | | DUR | | | | | | | | | | | | | | | | |DUR=[[Durin VII]]}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Thorin in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Thorin III.jpg|[[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Thorin Stonehelm.jpg|''[[The Lord of the Rings Online]]''
+File:Thorin Stonehelm - The Lord of the Rings Return to Moria.png|''[[The Lord of the Rings: Return to Moria]]''
+</gallery>
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:A Decipher card identifies one of the Dwarves at the Council of Elrond in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' as Thorin III.
+
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:Thorin III Stonehelm rules [[Erebor]] after the passing of his father [[Dáin Ironfoot]], and is central to various questlines and stories taking place in [[Mordor]], [[Eryn Lasgalen]] and the [[Dale]] lands, the [[Iron Hills]] and [[Ered Mithrin]]. "Stonehelm" was originally a derisive nickname used by those who disagreed with his decision to retreat and seal the gates of Erebor, but after proving his worthiness he adopts it as a symbol of steadfastness and strength.
+
+:His son is named Durin, but it remains to be seen if this Durin will become King [[Durin VII]]. His younger brother is "Náin the Slakeless", Lord of the Iron Hills.
+
+'''2023: ''[[The Lord of the Rings: Return to Moria]]'':'''
+:Thorin is first mentioned by an Emissary from [[Erebor]], stating that Thorin objected Gimli's call to return to [[Moria]]. Thorin later appears congratulating Gimli and the player character, proclaiming the player character the new Lord of Moria.
+{{references|n}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| name=Thorin III
+| house=[[Durin's Folk|House of Durin]]
+| born={{TA|2866}}
+| died=
+}}
+{{seq
+| prev=[[Dáin Ironfoot|Dáin II Ironfoot]]
+| prow=2
+| list=[[Kings of Durin's Folk|King of Durin's Folk]]
+| dates={{TA|3019}} - Unknown
+| nvac=Unknown
+| next=Eventually [[Durin VII]]
+}}
+{{seq
+| list=[[King under the Mountain]]
+| dates={{TA|3019}} - Unknown
+| next=Unknown
+}}
+{{seq-end}}
+
+{{durinskings}}
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Fourth Age characters]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Kings under the Mountain]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Thorin III.]]
+[[fi:Thorin III Kivikypäri]]
+[[fr:encyclo/personnages/nains/3a/thorin iii]]

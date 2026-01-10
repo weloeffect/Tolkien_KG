@@ -1,0 +1,86 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Tarannon
+| image=Matěj Čadil - Tarannon Falastur of Gondor.jpg
+| caption="Tarannon Falastur of Gondor" by [[:Category:Images by Matěj Čadil|Matěj Čadil]]
+| pronun=
+| othernames=''Falastur'' ([[Quenya|Q]], "Lord of the Coasts")
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=[[Captain of the Hosts]]
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|654}}
+| birthlocation=
+| rule={{TA|830}} - {{TA|913|n}} (83 years)
+| death={{TA|913}}
+| deathlocation=
+| age=259
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Siriondil (King of Gondor)|Siriondil]]
+| siblings=[[Tarciryan]]
+| spouse=[[Berúthiel]]
+| children=None
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tarannon Falastur''' ({{TA|654}}<ref name="Elendil">{{PM|Elendil}}, manuscript C, The Southern Line of Gondor: the Anarioni, 12. Falastur</ref> – {{TA|913|n}},<ref name="South">{{App|South}}, ''Kings of Gondor'', Tarannon Falastur, p. 1038</ref> aged 259 years) was the twelfth [[Kings of Gondor|King of Gondor]]<ref>{{App|South}}, ''Kings of Gondor'', p. 1038</ref>.
+
+==History==
+Tarannon was [[Captain of the Hosts]] and the first of the [[Ship-kings]] of Gondor, who extended the realm along the shores west and south of the [[Ethir Anduin]]. Commemorating his victories, Tarannon assumed the name "Falastur" when he took the crown.<ref name="Gondor">{{App|Gondor}}, entry for King Tarannon, p. 1044</ref>
+
+Tarannon was also famous for his Queen, the "nefarious, solitary, and loveless" [[Berúthiel]]. Tarannon had built a house downstream of [[Pelargir]] that rested upon arches sunk into the waters of the [[Ethir Anduin]], but the queen refused to live within the sound and smell of the sea. She lived in the King's House in [[Osgiliath]] where she owned cats said to be able to spy upon men. Eventually Tarannon placed her upon a boat cast adrift at sea.<ref>{{UT|Istari}}, Note 7</ref> He was then the first king to die without an heir, and was succeeded by his nephew, the second of the Ship-kings, [[Eärnil I]].<ref name="South"/>
+
+==Etymology==
+''Tarannon'' is [[Quenya]]. Its meaning is not glossed, but Helge Fauskanger suggests that it means "High-gift" or "Lord or the Gate" and is a compound of ''[[tar]]'' ("high", "king") and a masculinized form of ''[[anna]]'' ("gift") or a Sindarin-influenced form of [[annon]] ("great gate").<ref>{{webcite|author=Helge Fauskanger Strack|articleurl=https://folk.uib.no/hnohf/quen-eng.htm|articlename=Quettaparma Quenyallo|website=folk.uib.no|accessed=27 September 2024}}</ref>
+
+The epithet ''Falastur'' is [[Quenya]]. It means "Lord of the Coasts".<ref name="Gondor" /> As Paul Strack explains, it is a compound of ''falassë'' ("coast") and  ''-tur'' ("lord").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1487252109.html|articlename=Q. ''Falastur'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | ATA | | |ATA=[[Atanatar I]]<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | SIR | | |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER=[[Berúthiel]]<br/><small>''unknown''</small>|TAR='''TARANNON FALASTUR'''<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC=[[Tarciryan]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EAR |EAR=[[Eärnil I]]<br/><small>''{{TA|736|n}} - {{TA|936|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | CIR |CIR=[[Ciryandil]]<br/><small>''{{TA|820|n}} - {{TA|1015|n}}''†</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+An earlier version of what would later become Appendix A stated that his victories had "extended the sway of Gondor far along the shore-lands on either side of the Mouths of Anduin".<ref name="Elendil" />
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|654}}
+| died={{TA|913}}
+}}
+{{seq
+| prev=[[Siriondil (King of Gondor)|Siriondil]]
+| list=12th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|830}} - {{TA|913|n}}
+| next=[[Eärnil I]]
+}}
+{{seq-end}}
+
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Tarannon Falastur]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/tarannon falastur]]
+[[fi:Tarannon]]
+[[fi:Falastur]]

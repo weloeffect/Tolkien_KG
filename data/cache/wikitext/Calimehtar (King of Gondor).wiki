@@ -1,0 +1,84 @@
+{{disambig-two|the [[Kings of Gondor|King]] of [[Gondor]]|grandfather of [[Castamir|Castamir the Usurper]]|[[Calimehtar (son of Calmacil)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Calimehtar
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1736}}
+| birthlocation=
+| rule={{TA|1856}} - {{TA|1936|n}} (80 years)
+| death={{TA|1936}}
+| deathlocation=
+| age=200
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Narmacil II]]
+| siblings=
+| spouse=
+| children=[[Ondoher]], Unnamed daughter
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Calimehtar''' ({{TA|1736}}<ref>{{PM|Elendil}}</ref> - {{TA|1936|n}},<ref>{{App|South}}</ref> aged 200 years) was the thirtieth [[King of Gondor]].
+
+==History==
+Calimehtar's father, [[Narmacil II]], had died in {{TA|1856}} in the [[Battle of the Plains]].<ref name=ta>{{App|TA}}</ref> Determined to avenge this defeat, Calimehtar was preparing for war when messengers came to him from [[Marhwini]] (of the [[Northmen]]) warning him of plans by the [[Wainriders]] to raid [[Calenardhon]] across the [[Undeeps]].  However, the messengers also informed Calimehtar that a revolt of those enslaved after the Battle of the Plains was being prepared and would erupt should the Wainriders become involved in war.
+
+As quickly as he could in {{TA|1899}} Calimehtar led an army north from [[Ithilien]], making sure that the enemy knew of his movements.  Gathering all of their available strength, the Wainriders came down to meet him and the King gave way before them, drawing them away from their homes.  A battle developed upon the [[Dagorlad]] which seemed in doubt until upon the flank and rear of the Wainriders fell Calimehtar's horsemen joined with a great ''[[éored]]'' let by Marhwini.  Calimehtar's and Marhwini's victory was overwhelming and Gondor enjoyed a respite from war for 45 years.<ref name="Cirion">{{UT|Northmen}}</ref>
+
+In {{TA|1900}} he built the [[Tower of Ecthelion|White Tower]] in [[Minas Anor]].<ref name=ta/>
+
+==Etymology==
+'''Calimehtar''' is [[Quenya]] for ''Bright Warrior''. It might be a compound of [[cala]] ("light") and [[ohtar|mehtar]] ("warrior") (a possible late variant of ''mahtar''), but it could also be a compound of [[kalima|calima]] ("bright") and [[ohtar]] ("warrior"), although it is unclear why a+o became e.<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2099306413.html|articlename=Q. ''Calimehtar'' m.|website=Eldamo|accessed=19 July 2021}}</ref><ref>{{PE|17}}, p. 57</ref><ref>{{WJ|Author}}, Note 15, p. 411</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | TEL | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|^|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | CAM |CAL='''CALIMEHTAR'''<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR | | MIN | | EAR |ART=[[Artamir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|MIN=[[Minohtar]]<br/><small>''d. {{TA|1944|n}}''†</small>|EAR=[[Eärnil II]]<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1736}}
+| died={{TA|1936}}
+}}
+{{seq
+| prev=[[Narmacil II]]
+| list=30th [[King of Gondor]]
+| dates={{TA|1856}} - {{TA|1936|n}}
+| next=[[Ondoher]]
+}}
+{{seq-end}}
+{{southernline}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+
+[[de:Calimehtar (Sohn von Narmacil II.)]]
+[[fi:Calimehtar (Narmacil II:n poika)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:calimehtar roi du gondor]]

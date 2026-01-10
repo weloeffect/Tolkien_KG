@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ferdinand Took
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Tookland]]
+| affiliation=
+| language=
+| birth={{SR|1340}}
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Sigismond Took]]
+| siblings=[[Rosamunda Took|Rosamunda]]
+| spouse=
+| children=[[Ferdibrand Took|Ferdibrand]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ferdinand Took''' was a [[Hobbits|Hobbit]] of [[the Shire]]. 
+
+==History==
+Ferdinand was the son of [[Sigismond Took]]. He was the father of [[Ferdibrand Took|Ferdibrand]]. They both attended [[Bilbo Baggins|Bilbo Baggins']] [[Bilbo's Farewell Party|Farewell Party]] in {{SR|1401}}.<ref>{{App|Took}}</ref>
+==Etymology==
+The name is composed of ''ferdi'' "peace" + ''nand'' "daring, brave".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+Wikipedia gives the etymology ''frith'' "protection"/ ''farð'' "journey" and ''nanth''
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Ferdinand Tuk]]
+[[fi:Ferdinand Tuk]]

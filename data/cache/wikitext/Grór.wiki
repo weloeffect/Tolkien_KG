@@ -1,0 +1,95 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Grór
+| image=The Lord of the Rings Online - Grór.jpg
+| caption=Grór in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=[[Lord of the Iron Hills]]
+| position=
+| location=[[Grey Mountains]]<br/>[[Iron Hills]]
+| affiliation=
+| language=[[Khuzdul]] and [[Westron]]
+| birth={{TA|2563}}
+| birthlocation=[[Grey Mountains]]
+| rule={{TA|2590}} - {{TA|2805|n}}
+| death={{TA|2805}} (aged 242)
+| deathlocation=[[Iron Hills]]
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Dáin I]]
+| siblings=[[Thrór]], [[Frór]]
+| spouse=
+| children=[[Náin (son of Grór)|Náin]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Grór''' was a [[Dwarves|Dwarf]] and a significant leader among the [[Durin's Folk|people of Durin]].
+
+==Life==
+===Birth and early Life===
+He was born into the [[House of Durin]] in {{TA|2563}} during its last years in the [[Grey Mountains]]. He was the youngest of the three sons of King [[Dáin I]], who ruled [[Durin's folk]].<ref name="Line">{{App|Durin}}, The Line of the Dwarves of Erebor</ref>
+
+When Grór was seven years old, in {{TA|2570|n}} dragons began [[War of the Dwarves and Dragons|afflicting the dwarves in the north]]. Nineteen years later, in {{TA|2589|n}} his father King [[Dáin I]] was slain by a [[Cold-drakes|cold-drake]] outside [[Dáin's Halls|his hall]] in the Grey Mountains.<ref>{{App|TA}}, entry for the year 2589, p. 1087</ref> A short time afterwards most of Durin's Folk left the Grey Mountains.<ref name="Grór">{{App|Durin}}, entry for Grór, p. 1072</ref> In {{TA|2590|n}}<ref name="TA2590">{{App|TA}}, entry for the year 2590, p. 1087</ref> Grór left the Grey Mountains with many followers and established a colony in the Iron Hills<ref name="Grór" /> becoming the Lord of the Iron Hills. In the same year,<ref name="TA2590" /> his brother [[Thrór]], the oldest son<ref name="Line" /> and heir of Dáin, and the rest of the Dwarves of the Grey Mountains moved back to the Lonely Mountain<ref name="Thrór">{{App|Durin}}, entry for Thrór, p. 1072</ref>.
+
+===Lord of the Iron Hills, and later life===
+Over the next few centuries a large quantity of ore was traded between the Dwarves of the Lonely Mountain and the Dwarves of the Iron Hills,<ref name="Thrór" /> until the Dragon [[Smaug]] [[Sack of Erebor|destroyed]] the Kingdom under the Mountain and scattered the Longbeards who dwelt there<ref name="Thrór" /> in {{TA|2770|n}}<ref>{{App|TA}}, entry for the year 2770, p. 1088</ref>. Most of the survivors subsequently went to their kinsmen in the Iron Hills.<ref>{{App|Durin}}, entry for Thrór, footnote after "They went away south with their family.", p. 1072</ref>
+
+In {{TA|2799|n}}<ref>{{App|TA}}, entry for the year 2799, p. 1088</ref> the final battle of the [[War of the Dwarves and Orcs]] [[Battle of Azanulbizar|occurred in the Dimrill Dale]]. Grór's son [[Náin (son of Grór)|Náin]], accompanied by his son [[Dáin Ironfoot|Dáin]] led reinforcements from the Iron Hills to the battle, but was killed by the master of the [[Orcs]] of [[Moria]], [[Azog]], before the [[Great Gates|East Gate]] of Moria. The then still quite young Dáin killed Azog and the dwarves won the battle. With the war over, Dáin led his people home to the Iron Hills.<ref>{{App|Durin}}, entry for Dáin II Ironfoot, p. 1075</ref>
+
+Six years later, in {{TA|2805}}, Grór died at 241 years of age and his grandson Dáin became Lord of the Iron Hills.
+
+Many years later, in {{TA|2941|n}} when Thrór's last descendant, [[Thorin]], was killed in the [[Battle of Five Armies]], Dáin II Ironfoot became the new [[King under the Mountain]] and [[Kings of Durin's Folk|King of the Longbeards]],<ref>{{App|Durin}}, p. 1078</ref> a title that remained with the descendants of Grór<ref name="Line" />.
+
+==Etymology==
+[[Jim Allan]] has suggested that ''Grór'' (like ''[[Gróin#Etymology|Gróin]]'') is derived from [[Old Norse]] ''gróa'' ("to grow"), thus meaning "Growing-one".<ref>[[Jim Allan]], "Giving of Names", in ''[[An Introduction to Elvish]]'', p. 225</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | | | | | | NAI | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| | | | | | | | | | |!| | | | | |}}
+{{familytree| | | | | | | | | | DAI | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>}}
+{{familytree| | | | | | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree| | | | | | THR | | FRO | | GRO |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO=[[Frór]]<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO='''GRÓR'''<br/>''<small>{{TA|2563|n}} - {{TA|2805|n}}</small>''}}
+{{familytree| | | | | | |!| | | | | | | |!| |}}
+{{familytree| | | | | | THR | | | | | | NAI |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI=[[Náin (son of Grór)|Náin]]<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | |!| |}}
+{{familytree| | THO | | FRE | | DIS | | DAI |THO=[[Thorin|Thorin II]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|FRE=[[Frerin]]<br/><small>''{{TA|2751|n}} - {{TA|2799|n}}''†</small>|DIS=[[Dís]]<br/><small>''b. {{TA|2760|n}}''</small>|DAI=[[Dáin Ironfoot|Dáin II]]<br/><small>''{{TA|2767|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2021: ''[[The Lord of the Rings Online]]'':'''
+:Grór appears in an extended flashback depicting the [[Battle of Azanulbizar]], in which he fights alongside his son and grandson.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[House of Durin]]
+| born={{TA|2563}}
+| died={{TA|2805}}
+}}
+{{seq
+| pvac=None
+| prev=Position created
+| list=1st [[Lord of the Iron Hills]]
+| dates={{TA|2590}} – {{TA|2805|n}}
+| next=[[Dáin Ironfoot|Dáin II Ironfoot]]
+}}
+{{seq-end}}
+
+{{DEFAULTSORT:Gror}}
+[[Category:Dwarves]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Third Age characters]]
+[[de:Grór]]
+[[fi:Grór]]

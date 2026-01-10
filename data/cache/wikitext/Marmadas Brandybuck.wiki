@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Marmadas Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1343}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gorbulas Brandybuck]]
+| siblings=
+| spouse=
+| children=[[Merimas Brandybuck|Merimas]], [[Mentha Brandybuck|Mentha]] and [[Melilot Brandybuck|Melilot]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Marmadas Brandybuck''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Marmadas was the son of [[Gorbulas Brandybuck]]. His three children were [[Merimas Brandybuck|Merimas]], [[Mentha Brandybuck|Mentha]] and [[Melilot Brandybuck|Melilot]]. He and his children attended [[Bilbo's Farewell Party]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Marmadas'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+[[Jim Allan]] suggests that the name ''Marmadas'' is a varation of the name ''[[Marmadoc Brandybuck|Marmadoc]]'' with the ending ''-as'' like in in the names ''[[Merimas Brandybuck|Merimas]]'' and ''[[Saradas Brandybuck|Saradas]]''.<ref>{{HM|IE}}, "Giving of Names", p. 203</ref>
+
+{{References}}
+[[Category:Hobbits]][[Category:Brandybuck]]
+[[Category:Third Age characters]]

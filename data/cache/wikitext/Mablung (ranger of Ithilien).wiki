@@ -1,0 +1,76 @@
+{{disambig-two|the [[Rangers of Ithilien|ranger]] of [[Ithilien]]|[[Elves|Elf]] of [[Doriath]]|[[Mablung|Mablung of the Heavy Hand]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Mablung
+| image=NimwenHabareth - Mablung and Damrod.png
+| caption="Mablung and Damrod" by [[:Category:Images by NimwenHabareth|NimwenHabareth]]
+| pronun=
+| othernames=
+| titles=
+| position=Soldier of Gondor, [[Rangers of Ithilien|Ranger of Ithilien]]
+| location=[[Ithilien]], [[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]<ref>{{TT|IV4}}</ref>
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=Dark
+| eyes=Grey
+| clothing=Green gauntlets, clad in green and brown of varied hews
+| weapons=Sword
+| steed=
+}}
+{{quote|We come to ambush the Men of Harad. Curse them!|Mablung in ''[[The Two Towers]]'', "[[Of Herbs and Stewed Rabbit]]"}} 
+
+'''Mablung''' was a [[Rangers of Ithilien|ranger of Ithilien]] during the [[War of the Ring]].
+
+==History==
+Mablung's family had lived in [[Ithilien]] before it was overrun by the forces of [[Sauron]]. As such, he was given a place among the Rangers of Ithilien, [[Denethor]]'s most trusted forayers.<ref name="Herbs">{{HM|TT}}, "[[Of Herbs and Stewed Rabbit]]"</ref>
+ 
+Together with [[Damrod]], [[Anborn]] and several others, Mablung served under the [[Captain of Gondor]] [[Faramir]], the [[Steward]]'s second son. They were sent to intercept a troop of [[Southrons]] in March {{TA|3019}}, and there, they came across [[Frodo Baggins]] and [[Samwise Gamgee]]. While standing guard over the [[hobbits]] with Damrod, he briefly conversed with them. Faramir, in the meantime, went on to ambush the Haradrim.<ref name="Herbs"/>
+
+Mablung and Damrod remained the guards of the Ring-bearer during their short stay at [[Henneth Annûn]].<ref name="Window">{{TT|Window}}</ref>
+
+With his Lord injured, Mablung was given command of the Rangers after the [[Battle of the Pelennor Fields]]. When the [[Army of the West]] marched on the [[Morannon]], Mablung and his troops scouted the road and discovered an ambush by [[Orcs]] and [[Easterlings]] that lay hid in Ithilien. The ambush was quickly turned.<ref name="Gate">{{RK|V10}}</ref>
+
+==Etymology==
+Mablung was named after [[Mablung|Mablung of the Heavy Hand]], a great Hunter of [[Doriath]].<ref name="Faramir">{{HM|WR}}, "[[Faramir (chapter)|Faramir]]"</ref> The name is from [[Doriathrin]] ''[[mab]]'' ("hand") + ''[[lung]]'' ("heavy").<ref>{{LR|Etymologies}}</ref> His epithet was a translation of his name<ref>{{HM|S}}, "Index"</ref>
+
+==Portrayal in adaptations==
+===Mablung in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Mablung.jpg|Mablung from [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Mablung (ranger of Ithilien).jpg|Mablung in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''1956: [[The Lord of the Rings (1955 radio series)|''The Lord of the Rings'' (1955 radio series)]]:'''
+:[[Godfrey Kenton]] provided the voice of Mablung.<ref name="RT1725">Radio Times, Volume 133, No. 1725, [[30 November|November 30]], [[1956]]</ref>
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:While not named in the film, a [[Decipher Card]] identifies one of the Rangers as Mablung.<ref>[[Decipher|Decipher Inc.]], ''[[The Lord of the Rings Trading Card Game]]'', [http://www.asgardtradingcards.com/ProductImages/lotr-ccg-thetwotowers/TTT127%20Mablung%20Soldier%20of%20Gondor.jpg 4U127, Mablung - Soldier of Gondor]</ref>
+
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Mablung and [[Damrod]] are first met in [[Osgiliath]] culverts, hiding from the enemy forces above. After the Battle of the Pelennor Fields they are finally able to come out and join the Host of the West on the march towards the [[Black Gate]]. After tasking the player with searching for the few foes still in hiding within Osgiliath, Mablung and Damrod journey to [[Henneth Annûn]] and rejoin yet more Rangers who have been in hiding since the host of [[Minas Morgul]] ventured out. Mablung tasks the player with scouting approaches to the Camp of the Host in the wastes. After King [[Aragorn|Elessar]] charges Steward [[Faramir]] with cleansing the evil of Minas Morgul and the [[Morgul Vale]], Mablung with some other Rangers establishes a camp in the pass of [[Cirith Ungol]], where they eventually discover the presence of [[Shelob]].
+
+{{references}}
+{{title}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Rangers]]
+[[Category:Third Age characters]]
+
+[[de:Mablung (Mensch)]]
+[[fi:Mablung (ihminen)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/mablung]]

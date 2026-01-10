@@ -1,0 +1,70 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Nob
+| image=Francesco Amadio - Nob.jpg
+| caption="Nob" by [[:Category:Images by Francesco Amadio|Francesco Amadio]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bree]]
+| affiliation=
+| language=
+| birth=Late [[Third Age]] 
+| birthlocation=
+| rule=
+| death=Early [[Fourth Age]]
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|Hi! Nob! ... Where are you, you wolly-footed slow-coach?|[[Barliman Butterbur]]<ref name="Sign">{{FR|Sign}}</ref>}}
+'''Nob''' was a [[Hobbits|hobbit]] of [[Bree]].
+
+==History==
+Nob lived at the end of the [[Third Age]] and probably the beginning of the [[Fourth Age|Fourth]]. He worked for [[Barliman Butterbur]] at ''[[The Prancing Pony]]'' with [[Bob]], where he served food and tended to any other needs guests might have. 
+
+On [[29 September|September 29]], {{TA|3018}},<ref>{{App|Great}}</ref> [[Travellers|four Shire-hobbits]] came to ''The Prancing Pony''.<ref name="Sign" /> When one of them, [[Meriadoc Brandybuck]], went missing after a night stroll, Nob found him near the house of [[Bill Ferny]].<ref name="Strider">{{FR|Strider}}</ref> Realizing the [[Nazgûl|danger]], Nob helped the Hobbits to disguise their beds, and kept watch at night. Nonetheless, the Inn was attacked.<ref name="Knife">{{FR|Knife}}</ref> 
+
+When those four hobbits returned on [[28 October|October 28]] [[Third Age 3019|the following year]],<ref>{{App|Chief}}</ref> Nob still worked at ''The Prancing Pony''.<ref>{{RK|Homeward}}</ref>
+
+==Etymology==
+In historical English ''nob'' is slang to denote disrespect for a high society person, cf. ''knob'' "head".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', Giving of names</ref>
+
+[[Wayne G. Hammond|Hammond]] and [[Christina Scull|Scull]] think that ''Nob'' was perhaps chosen rhyme with ''Bob'', and that it does not appear to be recognized diminutive or nickname.<ref>[[Wayne G. Hammond]], [[Christina Scull]], ''[[The Lord of the Rings: A Reader's Companion]]'', page 151</ref> It is also possible that ''Nob'' was a nickname of a person named Robert; Tolkien's review of M. Förster's ''Die Französierung des englischen Personennamenschatzes'' mentions the name ''Nob'' in one line with better known names as ''[[Hob Hayward|Hob]]'' and ''Rob''.<ref>[[J.R.R. Tolkien]], "Philology: General works", published in ''[[The Year's Work in English Studies]]'', vol. 6 (edited by Boas and Hereford), pages 32-66, esp 39</ref>
+
+==Portrayal in adaptations==
+===Nob in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Nob.JPG|Nob in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Fellowship of the Ring'' video game]]
+File:The Lord of the Rings Online - Nob.jpg|Nob in [[The Lord of the Rings Online]]''<nowiki/>''
+</gallery>
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:[[Haydn Wood]] provided the voice for Nob.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:''' 
+:No voice actor is specified for this small part. His role in searching for Merry was taken over by [[Aragorn|Strider]].
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Nob is running errands outside the [[Prancing Pony]] but plays no role in the storyline.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Kunz]]
+[[fi:Nob]]
+[[fr:encyclo/personnages/hobbits/nob]]

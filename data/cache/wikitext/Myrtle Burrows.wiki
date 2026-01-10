@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Myrtle Burrows
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1393}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Burrows Family|Burrows]]
+| parentage=[[Milo Burrows]] and [[Peony Baggins]]
+| siblings=[[Mosco Burrows|Mosco]], [[Moro Burrows|Moro]] and [[Minto Burrows|Minto]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Myrtle Burrows''' was a Hobbit of [[the Shire]].
+
+==History==
+She was the third child and only daughter of [[Milo Burrows|Milo]] and [[Peony Baggins|Peony Burrows]]. When she was eight years old, with her family, she was present at Bilbo's famous [[Bilbo's Farewell Party|Birthday Party]], in {{SR|1401}}.<ref>{{App|Baggins}}</ref>
+
+==Etymology==
+The name ''Myrtle'' refers to the [[wikipedia:Myrtus|genus of plants]] with evergreen leaves, white-pink flowers and fragrant berries. The name derives from ancient Greek ''μύρτος'' through Latin.<ref>[http://en.wiktionary.org/wiki/myrtus#Etymology Wiktionary entry]''</ref>
+
+{{references}}
+[[Category:Burrows]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Myrte Lochner]]
+[[fi:Myrtti Onkaloinen]]
+[[fr:encyclo/personnages/hobbits/fouine/myrtille fouine]]

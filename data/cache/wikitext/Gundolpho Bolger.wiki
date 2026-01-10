@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gundolpho Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1131}}
+| birthlocation=
+| rule=
+| death={{SR|1230}}
+| deathlocation=
+| age=99
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=
+| siblings=
+| spouse=[[Alfrida of the Yale]]
+| children=[[Gundahar Bolger|Gundahar]], [[Rudolph Bolger|Rudolph]] and [[Gundahad Bolger|Gundahad]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gundolpho Bolger''' was the patriarch of the [[Bolger Family]].
+
+==History==
+Gundolpho married [[Alfrida of the Yale]] and had three children: [[Gundahar Bolger|Gundahar]], [[Rudolph Bolger|Rudolph]] and [[Gundahad Bolger|Gundahad]].<ref>{{App|Bolger}}</ref>
+
+== Etymology ==
+''Gundolpho'' may be an Old German name, derived from the elements ''gunda'' "war" and ''olpho'' (classicized spelling "-olf") from "wolf".
+
+== Other versions of the legendarium ==
+In drafts of the [[Appendix C]], Tolkien at one time had '''[[Cellar door|Celador Bolger]]''' within the Hobbit family trees,<ref>{{PM|Trees}}</ref> though he was ultimately replaced by Gundolpho Bolger.
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Bolger]]
+[[Category:Third Age characters]]
+
+[[de:Gundolpho Bolger]]
+[[fi:Gundolfo Bolger]]
+[[fr:encyclo:personnages:hobbits:bolger:gundolpho bolger]]

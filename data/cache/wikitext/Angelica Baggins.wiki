@@ -1,0 +1,57 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Angelica Baggins
+| image=Gregor Roffalski - Angelica Baggins.jpg
+| caption="Angelica Baggins" by [[:Category:Images by Gregor Roffalski|Gregor Roffalski]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1381}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Ponto Baggins II|Ponto Baggins]]
+| siblings=
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Angelica Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Angelica was the daughter of [[Ponto Baggins II|Ponto II]], the grand-niece three times removed of [[Bilbo Baggins]].<ref>{{App|Baggins}}</ref> Though her relationship with Bilbo was more distant, she would call him "Uncle Bilbo". She was invited to [[Bilbo's Farewell Party]] in {{TA|3001}} and received a round convex mirror as a gift because she obviously admired her appearance.<ref>{{FR|Party}}</ref>
+
+==Etymology==
+As many female Hobbit names refer to flowers,<ref>{{App|Translation}}</ref> ''[[wikipedia:Angelica|Angelica]]'' is a genus of plants with medicinal, flavoring, fragrant and medicinal properties.
+
+==Portrayal in adaptations==
+===Angelica in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Angelica Baggins.png|''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring]]''
+</gallery>
+'''[[2002]]: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Angelica walks around in [[Bywater]]. She is sad to see Frodo leave and complains that he is going "practically to the other end of the world" (meaning [[Crickhollow]]) unaware how right she is.
+
+{{References}}
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Angelica Beutlin]]
+[[fi:Angelica Reppuli]]
+[[fr:encyclo:personnages:hobbits:sacquet:angelica sacquet]]

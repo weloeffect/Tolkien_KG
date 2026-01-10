@@ -1,0 +1,53 @@
+{{unnamed}}
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Marh-?
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Leader of the [[Éothéod]]
+| location=[[North Ithilien|North]] [[Ithilien]], [[Gondor]]
+| affiliation=[[Éothéod]]
+| language=
+| birth=[[Third Age]]
+| birthlocation=
+| rule=
+| death=[[Third Age]]
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Marh-'''<ref group=note>[[Christopher Tolkien]] had stated in his summarization of the text that while the first part of the name was "''Marh-''", the rest of the name was indecipherable.</ref> was a military leader of the [[Éothéod]] who served under [[Lord of the Éothéod|Lord]] [[Forthwini]].<ref name="Leader">{{UT|Cirion}}, pp. 380-381</ref>
+
+== History ==
+He aided King [[Ondoher]] of [[Gondor]] against the [[Wainriders]] in the summer of {{TA|1944}}.<ref name="Leader"/>
+
+During the battle, he rode to the rescue of a party of Éothéod as they retreated to­wards the [[Dead Marshes]]. When a soldier died in his arms, he searched the body and found some tokens which identified the dead soldier as [[Faramir (son of Ondoher)|Faramir]], the Prince of Gondor.<ref name="Leader"/>
+
+The leader went to join [[Minohtar]] at the head of the [[North Road]] in [[North Ithilien]]. When Minohtar ordered for a message to be carried to the prince whom he believed to be at [[Minas Tirith]], the leader of the Éothéod revealed to him that the prince had joined the battle in disguise and was killed.<ref name="Leader"/>
+
+== Etymology ==
+Marh- is a [[Gothic]] name element meaning "horse" (see also [[Marhari]], [[Marhwini]]).<ref>{{UT|Cirion}}, Note 6</ref>
+
+{{references|notes}}
+
+[[Category:Éothéod]]
+[[Category:Germanic names]]
+[[Category:Third Age characters]]
+
+[[fi:Marh-]]

@@ -1,0 +1,71 @@
+{{infobox character
+| people=[[Orcs|Orc]]
+| name=Shagrat
+| image=Andrea Piparo - Gorbag and Shagrat.jpg
+| caption="Gorbag and Shagrat" by [[:Category:Images by Andrea Piparo|Andrea Piparo]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Uruk-hai|Uruk]]-chieftain
+| location=[[Tower of Cirith Ungol]]
+| affiliation=[[Sauron]]
+| language=
+| death=[[17 March]] {{TA|3019}}
+| deathlocation=[[Barad-dûr]]
+| birth=
+| birthlocation=
+| rule=
+| age=
+| notablefor=Capturing [[Frodo Baggins|Frodo]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=Orc
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Shagrat''' was an [[Uruk-hai|Uruk]] commanding the garrison of the [[Tower of Cirith Ungol]] during the [[War of the Ring]].
+
+== History ==
+During a patrol to [[Shelob's Lair]], Shagrat's company encountered a troop of Orcs from [[Minas Morgul]] led by [[Gorbag]]. The two did not get along, but before things escalated, they noted something out of place: a [[Frodo Baggins|strange small creature]], all wound up in [[Shelob]]'s webs. The discovery of what appeared to be an undersized [[Elves|Elf]] led the two commanders to compare their notes; they concluded that there must have been another nearby. But they could not find this "great Elf warrior". 
+
+Turmoil rose again amongst the group when Gorbag and Shagrat disagreed with what they had to do with the prisoner. Shagrat's orders from [[Sauron|above]] were simple: all personal effects were to be sent to [[Barad-dûr]]. Shagrat did not trust many of his own troops, and none of Gorbag's, so he locked up the prisoner in the top chamber of the [[Tower of Cirith Ungol]].<ref>{{TT|IV10}}, pp. 735-42</ref>
+
+Gorbag coveted the [[Mithril-coat]] Frodo wore and attempted to usurp Shagrat's rule, but lost to Shagrat's superior numbers. Soon, Gorbag's faction was pressed back. Shagrat eventually killed [[Gorbag]] and ran off to Sauron with the prisoner's belongings.<ref>{{RK|Tower}}, pp. 905-7</ref> He reached [[Barad-dûr]] three days later, on [[17 March]].<ref>{{App|Great}}, p. 1094</ref> After Shagrat brought him the news and items, Sauron slew him.<ref>{{HM|Scheme}}, "The Land of Shadow", p. 608</ref>
+
+== Portrayal in adaptations ==
+===Shagrat in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Return of the King - Shagrat.jpg|Shagrat in ''[[The Lord of the Rings: The Return of the King]]''
+File:The Lord of the Rings Online - Shagrat.jpg|Shagrat in ''[[The Lord of the Rings Online]]''
+File:The Lord of the Rings - Rise to War - Shagrat.jpg|Shagrat in ''[[The Lord of the Rings: Rise to War]]''
+</gallery>
+
+'''[[1981]]: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:[[Chris Fairbank]] played Shagrat.  He is overheard by Sam discussing [[Shelob]] with [[Gorbag]], and then Sam encounters him again on the stairs in the [[Tower of Cirith Ungol]].
+
+'''[[1989]]: [[Crack of Doom Software Adventure|''Crack of Doom'' Software Adventure''']]
+:Shagrat is simply referred to in-game as a "large angry Orc". He is carrying a long red knife and a black bundle. He can be killed by Sam.
+
+'''[[2003]]: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:[[Peter Tait]] played Shagrat. In this adaptation, it is Shagrat and not Gorbag who covets the ''[[Mithril#The Mithril Coat|mithril]]'' shirt and starts the fight. In the [[The Lord of the Rings: The Return of the King (extended edition)|Extended Edition]], he is shown escaping with the ''mithril'' shirt, which is then presented later by the [[Mouth of Sauron]] to the Captains of the West. It is unclear if this means Shagrat had changed his mind and brought the shirt to [[Barad-dûr]], or if he was waylaid by Orcs loyal to Sauron during his escape, and the shirt was confiscated.
+
+'''[[2008]]: ''[[Lego The Lord of the Rings]]'':'''
+:In this adaptation, Shagrat first appears on a ledge cackling overlooking [[Frodo Baggins]] and [[Samwise Gamgee]] after Gollum's initial betrayal. During the very next cutscene, he strikes, pinning Sam to the ground to prevent him from warning Frodo about [[Shelob]]. Despite this, he is a playable character during the [[Shelob]] boss fight solely for the purposes of making a solo moment in the films multiplayer. Similar to the films, it is Shagrat and not Gorbag who covets the ''[[Mithril#The Mithril Coat|mithril]]'' shirt and starts the fight in the [[Tower of Cirith Ungol]].
+
+'''2020: ''[[The Lord of the Rings Online]]'':'''
+:Abscent from the main storyline, Shagrat only makes a brief cameo appearance in a scene depicting how [[Gollum]] was released from [[Barad-dûr]].
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Servants of Sauron]]
+[[Category:Third Age characters]]
+[[Category:Uruk-hai]]
+[[de:Schagrat]]
+[[fi:Shagrat]]

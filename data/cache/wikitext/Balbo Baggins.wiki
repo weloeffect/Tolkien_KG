@@ -1,0 +1,58 @@
+{{short description|Great-grandfather of Bilbo Baggins}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Balbo Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1167}}
+| birthlocation=
+| rule=
+| death={{SR|1258}}
+| deathlocation=
+| age=91
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=
+| siblings=
+| spouse=[[Berylla Boffin]]
+| children=[[Mungo Baggins|Mungo]], [[Pansy Baggins|Pansy]], [[Ponto Baggins I|Ponto]], [[Largo Baggins|Largo]], [[Lily Baggins|Lily]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Balbo Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]], and the first known member of the [[Baggins Family]]. 
+
+==History==
+Balbo was born when the Shire was recovering from both the [[Days of Dearth]] where [[Gandalf]] came to the aid of the Hobbits.<ref>{{App|B2|50}}, p. 1088</ref>
+
+Balbo was the original patriarch of the [[Baggins Family]], being the first recorded member of the respected family of [[Hobbits]]. He married [[Berylla Boffin]] and their children were [[Mungo Baggins|Mungo]], [[Pansy Baggins|Pansy]], [[Ponto Baggins I|Ponto]], [[Largo Baggins|Largo]] and [[Lily Baggins|Lily]].<ref>{{App|Baggins|50}}, p. 1100</ref> Balbo was the great-grandfather of [[Bilbo Baggins]], the great-great-grandfather of [[Frodo Baggins]], and the great-great-great-grandfather of both [[Meriadoc Brandybuck]] and [[Peregrin Took]].<ref>{{App|Took|50}}, p. 1103</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BAL |y| BER | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |BAL='''BALBO BAGGINS'''{{ftd|noa=SR|b=1167|d=1258}}|BER=[[Berylla Boffin]]{{ftd|noa=SR|b=1172}}}}
+{{familytree | |,|-|-|-|^|-|-|-|v|-|-|-|-|-|-|-|-|-|v|-|-|-|-|-|-|-|v|-|-|-|-|-|-|-|.| | | | | |}}
+{{familytree | MUN |y| LAU | | PAN |~| FAS | | | | PON |y| MIM | | LAR |y| TAN | | LIL |V| TOG |MUN=[[Mungo Baggins|Mungo]]{{ftd|noa=SR|b=1207|d=1300}}|LAU=[[Laura Grubb]]{{ftd|noa=SR|b=1214|d=1316}}|PAN=[[Pansy Baggins|Pansy]]{{ftd|noa=SR|b=1212}}|FAS=[[Fastolph Bolger]]{{ftd|noa=SR|b=1210}}|PON=[[Ponto Baggins I|Ponto]]{{ftd|noa=SR|b=1216|d=1311}}|MIM=[[Mimosa Bunce]]{{ftd|1=unknown}}|LAR=[[Largo Baggins|Largo]]{{ftd|noa=SR|b=1220|d=1312}}|TAN=[[Tanta Hornblower]]{{ftd|1=unknown}}|LIL=[[Lily Baggins|Lily]]{{ftd|noa=SR|b=1222|d=1312}}|TOG=[[Togo Goodbody]]{{ftd|1=unknown}}}}
+{{familytree | |,|-|^|-|v|-|-|-|v|-|-|-|v|-|-|-|.| | | |)|-|-|-|.| | | |!| | | | | | | |:| | | |}}
+{{familytree | BUN | | BEL | | LON | | LIN | | BIN | | ROS | | POL | | FOS | | | | | | |:| | | |BUN=[[Bungo Baggins|Bungo]]{{ftd|noa=SR|b=1246|d=1326}}|BEL=[[Belba Baggins|Belba]]{{ftd|noa=SR|b=1256|d=1356}}|LON=[[Longo Baggins|Longo]]{{ftd|noa=SR|b=1260|d=1350}}|LIN=[[Linda Baggins|Linda]]{{ftd|noa=SR|b=1262|d=1363}}|BIN=[[Bingo Baggins|Bingo]]{{ftd|noa=SR|b=1264|d=1360}}|ROS=[[Rosa Baggins|Rosa]]{{ftd|noa=SR|b=1256}}|POL=[[Polo Baggins|Polo]]{{ftd|1=unknown}}|FOS=[[Fosco Baggins|Fosco]]{{ftd|noa=SR|b=1264|d=1360}}}}
+{{familytree | |!| | | | | | | | | | | | | | | | | |F|~|A|~|7| | | | | |:| | | | | | | |:| | | |}}
+{{familytree | BIL | | | | | | | | | | | | | | | | MER | | PIP | | | | FRO | | | | | | GOO | | |BIL=[[Bilbo Baggins|Bilbo]]{{ftd|noa=SR|b=1290}}|PIP=[[Peregrin Took]]{{ftd|noa=SR|b=1390}}|MER=[[Meriadoc Brandybuck]]{{ftd|noa=SR|b=1382}}|FRO=[[Frodo Baggins|Frodo]]{{ftd|noa=SR|b=1368}}|GOO=(Various<br/>[[Goodbody Family|Goodbodies]])}}
+{{familytree/end}}
+{{references}}
+
+[[Category:Hobbits]][[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Balbo Beutlin]]
+[[fi:Balbo Reppuli]]
+[[fr:encyclo:personnages:hobbits:sacquet:balbo sacquet]]

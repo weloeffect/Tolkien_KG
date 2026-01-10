@@ -1,0 +1,72 @@
+{{infobox character
+| people=[[Eagles|Eagle]]
+| name=Landroval
+| image=Pamela Shanteau - Landroval.jpg
+| caption="Landroval" by [[:Category:Images by Pamela Shanteau|Pamela Shanteau]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=[[Manwë]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=helping rescue [[Beren]] and [[Lúthien]]
+| house=
+| parentage=Unknown; descendant of [[Thorondor]]
+| siblings=[[Gwaihir]]
+| spouse=
+| children=
+| gender=Male
+| wingspan=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Landroval''' was one of the [[Eagles]].
+
+==History==
+A descendant of [[Thorondor]], it is said that Landroval was his vassal in the [[First Age]] and with his brother [[Gwaihir]] helped him rescue [[Beren]] and [[Lúthien]] from [[Angband]].<ref name=P1>{{WJ|P1}} p. 68</ref>
+
+During the [[War of the Ring]] he stayed out of the war for most of the conflict, but he followed his brother to the [[Battle of the Morannon]], where he and his vassals helped turn the tide.
+
+After the Ring was destroyed, Landroval, Gwaihir and [[Meneldor]], flew into [[Mordor]] to retrieve [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] from the ruins of [[Mount Doom]].<ref>{{RK|Cormallen}}, pp. 948, 950</ref>
+
+==Etymology==
+''Landroval'' is [[Sindarin]] for "Broad Winged", containing the element ''[[rov-|roval]]'' ("wing").<ref>{{PE|17}}, pp. 63, 101</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | |THO| | | |THO=[[Thorondor]]}}
+{{familytree| | | |:| | | |}}
+{{familytree| | |FAT| | |FAT=Father of Landroval}}
+{{familytree| |,|-|^|-|.| | | |}}
+{{familytree|GWA| |LAN| | |GWA=[[Gwaihir]]|LAN='''LANDROVAL'''}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Landroval.jpg|left|thumb|Landroval in ''The Lord of the Rings Online'']]
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Landroval and his brothers appear at several points throughout the game. The player first meet him and [[Meneldor]] in the Wailing Hills south of [[Lothlorien]] where they help the Eagles deal with an infestastion of spiders. After their participation in the [[Battle of the Morannon]], the player meets the Eagles once again then they reach the [[Carrock]]. The player later encounters Landroval once again the Wells of [[Anduin]].
+
+{{References}} 
+
+{{Eagles}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Eagles]]
+[[Category:First Age characters]]
+[[Category:Second Age characters]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Landroval]]
+[[fr:encyclo/personnages/animaux/aigles/landroval]]
+[[fi:Landroval]]

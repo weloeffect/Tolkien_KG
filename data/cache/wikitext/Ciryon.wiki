@@ -1,0 +1,71 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Ciryon
+| image=The Lord of the Rings Online - Ciryon.jpg
+| caption=Ciryon in ''[[The Lord of the Rings Online]]''
+| pronun=[[Quenya|Q]], {{IPA|[ˈkirʲon]}}
+| othernames=
+| titles=
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{SA|3379}}<ref name="Elendil">{{PM|Elendil}}</ref>
+| birthlocation=
+| rule=
+| death={{TA|2}}
+| deathlocation=[[Disaster of the Gladden Fields]]
+| age=64
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Isildur]]
+| siblings=[[Elendur (son of Isildur)|Elendur]], [[Aratan]] and [[Valandil (King of Arnor)|Valandil]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ciryon''' was the third son of [[Isildur]].
+
+==History==
+In the War of the [[Last Alliance of Elves and Men]], Ciryon and his brother [[Aratan]] did not participate in the [[Siege of Barad-dûr]].  Isildur had sent these two brothers to man [[Minas Ithil]] so as to guard [[Cirith Dúath]] and prevent a possible breakout of [[Sauron]] should he escape the siege.<ref>{{UT|11b}}</ref>
+
+In the [[Disaster of the Gladden Fields]], Ciryon was the first brother to die; Aratan was mortally wounded while trying to save him.  After the fall of these two brothers, [[Elendur (son of Isildur)|Elendur]] advised his father to put on [[the One Ring]] and escape.<ref>{{UT|Gladden}}</ref>
+
+==Etymology==
+''Ciryon'' is a [[Quenya]] name. Its meaning is not glossed and is unclear. Paul Strack suggests it contains the element ''[[cirya]]'' ("ship").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3767533331.html|articlename=Q. ''Ciryon'' m.|website=Eldamo|accessed=27 January 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | ELE | | | | | |ELE=[[Elendil]]<br/><small>''{{SA|3119}} - {{SA|3441|n}}''†</small>}}
+{{familytree | | | | | | | |,|-|-|-|-|^|-|-|-|-|.| |}}
+{{familytree | | | | | | | ISI | | | | | | | | ANA |ISI=[[Isildur]]<br/><small>''{{SA|3209}} - {{TA|2}}''†</small>|ANA=[[Anárion]]<br/><small>''{{SA|3219}} - {{SA|3440|n}}''†</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | |:| |}}
+{{familytree | ELE | | ARA | | CIR | | VAL | | GON |ELE=[[Elendur (son of Isildur)|Elendur]]<br/><small>''{{SA|3299}} - {{TA|2}}''†</small>|ARA=[[Aratan]]<br/><small>''{{SA|3339}} - {{TA|2}}''†</small>|CIR='''CIRYON'''<br/><small>''{{SA|3379}} - {{TA|2}}''†</small>|VAL=[[Valandil (King of Arnor)|Valandil]]<br/><small>''{{SA|3430}} - {{TA|249}}''</small>|GON=[[Kings of Gondor|''Kings of<br/>Gondor'']]}}
+{{familytree | | | | | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | ELD | | | | |ELD=[[Eldacar (King of Arnor)|Eldacar]]<br/><small>''{{TA|87}} - {{TA|339|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | ARA | | | | |ARA=[[Arantar]]<br/><small>''{{TA|185}} - {{TA|435|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In early manuscripts, Ciryon was named ''Vëandur''.<ref name="Elendil"/>{{rp|191}}
+
+==Portrayal in adaptations==
+'''2019: ''[[The Lord of the Rings Online]]'':'''
+:The three elder sons of Isildur appear during an extended flashback set during the [[Siege of Barad-dûr]] in the year [[Second Age 3440|S.A. 3440]]. However, because the game's license does not cover the works in which they are named, they are referred to only by their war-time aliases, meant to hide their kinship with the King. Ciryon uses the name "Vëamacil" as his alias.
+
+{{references}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Isildur]]
+[[Category:Quenya names]]
+[[Category:Second Age characters]]
+[[Category:Third Age characters]]
+[[de:Ciryon]]
+[[fr:encyclo:personnages:hommes:2a:numenoreens:ciryon]]
+[[fi:Ciryon]]

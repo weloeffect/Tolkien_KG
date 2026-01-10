@@ -1,0 +1,83 @@
+{{short description|8th Steward of Gondor}}
+{{disambig-more|Barahir|[[Barahir (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Barahir
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=
+| birth={{TA|2290}}
+| birthlocation=
+| rule={{TA|2395}} - {{TA|2412|n}} (17 years)
+| death={{TA|2412}}
+| deathlocation=
+| age=122
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Hador (Steward of Gondor)|Hador]]
+| siblings=
+| spouse=
+| children=[[Dior (Steward of Gondor)|Dior]] and [[Rían (daughter of Steward Barahir)|Rían]]<ref name="Elendil">{{PM|Elendil}}, p. 204</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Pronounce|Barahir.mp3|Ardamir}}
+'''Barahir''' ([[Third Age]] 2290<ref name="Elendil"/> – 2412,<ref name="South">{{App|South}}</ref> aged 122 years) was eighth [[Ruling Steward]] of [[Gondor]].
+
+The [[Watchful Peace]] continued during his rule.<ref>{{App|TA}}</ref>
+
+Barahir ruled as Steward for seventeen years, and was succeeded by his son [[Dior (Steward of Gondor)|Dior]].<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Barahir#Etymology|Barahir - Etymology]]. Barahir was probably named after the hero of the [[First Age]] who was the father of [[Beren]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | TUR | | | | |TUR=[[Túrin I]]<br/><small>''{{TA|2165|n}} - {{TA|2278|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DAU | | HAD | | |DAU=''several daughters''<br/><small>''unknown''</small>|HAD=[[Hador (Steward of Gondor)|Hador]]<br/><small>''{{TA|2245|n}} - {{TA|2395|n}}''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | BAR | | |BAR='''BARAHIR'''<br/><small>''{{TA|2290|n}} - {{TA|2412|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DIO | | RIA |DIO=[[Dior (Steward of Gondor)|Dior]]<br/><small>''{{TA|2328|n}} - {{TA|2435|n}}''</small>|RIA=[[Rían (daughter of Steward Barahir)|Rían]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | |!| |}}
+{{familytree | | | | | | | DEN |DEN=[[Denethor I]]<br/><small>''{{TA|2375|n}} - {{TA|2477|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2290}}
+| died={{TA|2412}}
+}}
+{{seq
+| prev=[[Hador (Steward of Gondor)|Hador]]
+| list=8th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2395}} – {{TA|2412|n}}
+| next=[[Dior (Steward of Gondor)|Dior]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Barahir (Truchsess von Gondor)]]
+[[fi:Barahir (Hadorin poika)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:barahir i]]

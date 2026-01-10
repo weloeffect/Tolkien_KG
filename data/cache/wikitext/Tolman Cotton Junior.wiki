@@ -1,0 +1,61 @@
+{{disambig-more|Tom|[[Tom (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Tolman Cotton, Jr
+| image=Miriam Ellis - Tom and Marigold.png
+| caption=Tom and [[Marigold Gamgee|Marigold]] - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=Tom, Young Tom
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1380}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Farmer Cotton]] and [[Lily Brown]]
+| siblings=[[Rose Cotton|Rose]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]]
+| spouse=[[Marigold Gamgee|Marigold]]
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tolman "Tom" Cotton, Jr''' was the eldest son of [[Tolman Cotton Senior|Farmer Cotton]].
+
+==History==
+When Tom was young, he was known as "Young Tom" to distinguish him from his father with whom they had the same name. Father and son fought in the [[Battle of Bywater]].<ref>{{RK|Scouring}}</ref> After the [[War of the Ring]], he married [[Samwise Gamgee|Sam Gamgee]]'s youngest sister, [[Marigold Gamgee|Marigold]].<ref>{{App|Gamgee}}</ref>
+
+He briefly served as [[Mayor of Michel Delving|Deputy-Mayor]] in {{SR|1442}}, when Sam traveled to [[Gondor]].<ref>{{App|Later}}</ref>
+
+==Etymology==
+''Tolman'' comes from [[Old English]] ''tōl'' + ''mann'' meaning "tool person".<ref>{{HM|IE}}, "Giving of Names" p. 194</ref> In early phases of writing [[Appendix F]], his father's original [[Westron]] name was given as ''Tomacca Lothran''<ref>{{PM|Languages}}</ref> or (earlier) ''Tomakli Lothron''.<ref>{{PM|Languages}}, note 37.</ref>
+
+==Portrayal in adaptations==
+===Tolman Cotton Junior in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Aragorn's Quest - Tolman Cotton Junior.jpg|''[[The Lord of the Rings: Aragorn's Quest]]''
+File:Tales of the Shire - Young Tom Cotton.png|''[[Tales of the Shire: A "The Lord of the Rings" Game]]''
+</gallery>
+'''2010: ''[[The Lord of the Rings: Aragorn's Quest]]'':'''
+:Tom is the deputy-mayor.
+
+'''2025: ''[[Tales of the Shire: A "The Lord of the Rings" Game]]'':'''
+:Young Tom Cotton is an interactive character. He can be invited to meals.
+{{References}}
+[[Category:Cotton]]
+[[Category:Fourth Age characters]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/chaumine/tolman chaumine 2]]

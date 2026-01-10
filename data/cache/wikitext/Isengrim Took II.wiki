@@ -1,0 +1,75 @@
+{{disambig-more|Isengrim|[[Isengrim (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isengrim Took II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1020}}
+| birthlocation=
+| rule={{SR|1083}} - {{SR|1122|n}} (39 years)
+| death={{SR|1122}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=
+| siblings=
+| spouse=
+| children=[[Isumbras Took III]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Isengrim Took II''' was the twenty-second [[Thain|Thain of the Shire]].
+
+==History==
+Isengrim II became Thain in {{TA|2683}} and begun to excavate the [[Great Smials]] in [[Green Hill Country]], which would be the Thain's seat for generations to come.<ref>{{App|TA}}</ref>  
+
+During his service the Shire-reform was established in the [[Shire-reckoning]], after which every year of the [[Shire Calendar]] would always begin in [[Sterday]].<ref>{{App|Calendars}}</ref>
+
+During this period also [[Meriadoc Brandybuck]] reckoned that [[pipe-weed]] was first cultivated in the [[Southfarthing]] by [[Tobold Hornblower]] <ref>{{FR|Prologue}}</ref>
+
+Thainship passed on to his son, [[Isumbras Took III|Isumbras III]].<ref>{{App|Took}}</ref>
+
+==Etymology==
+"Isengrim" is of [[Old English|Anglo-Saxon]] origin and comes from ''isen'' meaning "iron" and ''grim'' meaning "fierce".
+
+"Isengrim" is the name of a wolf who appears in many medieval epics, including the story of [[Wikipedia:Reynard the Fox|Reynard the Fox]] which originated in French folklore.<ref name="Nomen">{{HM|N}}, p. 760</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1020}}
+| died={{SR|1122}}
+}}
+{{seq
+| pvac=Unknown
+| prev=Last known:<br/>[[Isumbras Took I]]
+| list=22nd [[Thain]] of [[The Shire]]
+| dates={{SR|1083}} - {{SR|1122|n}}
+| next=[[Isumbras Took III]]
+}}
+{{seq-end}}
+
+{{thains}}
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Isegrim Tuk II.]]
+[[fi:Isengrim II Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/isengrim ii]]

@@ -1,0 +1,69 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bucca of the Marish
+| image=Liz Danforth - Bucca.jpg
+| caption="Bucca" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| titles=[[Thain]]
+| position=
+| location=The [[Marish]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=from {{SR|379}}
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bucca of the Marish''' was the first [[Thain]] of the [[Hobbits]] in [[Eriador]]. 
+
+==History==
+Around {{SR|379}}, some four years after the fall of the [[Arnor|North-kingdom]], the Hobbits of [[the Shire]] elected from their midst one Bucca of the [[Marish]] as the first Thain. He was to rule the land in the [[King of Arthedain|King]]'s stead. Little else is known about him, other than that he brought peace and prosperity to the Hobbits.<ref>{{App|TA}}</ref> 
+
+His family became the [[Oldbucks]] and eventually the [[Brandybuck Family|Brandybucks]]. 
+
+==Etymology==
+The word '''Bucca''' is [[Old English]] for "buck", "male deer" or "he-goat" which is a translation of the original [[Westron]] name '''[[Gamba]]'''.<ref>{{HM|N}}</ref> 
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Oldbuck Family]]
+| born=Before {{SR|379}}
+| died=After {{SR|379}}
+}}
+{{Seq
+| pvac = None
+| prev=New title
+| list=1st [[Thain]] of [[The Shire]]
+| dates={{SR|379}} - unknown
+| nvac=Unknown
+| next=Next known:<br/>[[Gorhendad Oldbuck]]
+}}
+{{seq-end}}
+{{thains}}
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Oldbuck]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+
+[[de:Bucca]]
+[[fi:Bucca Nevalainen]]
+[[fr:encyclo:personnages:hobbits:bucca du maresque]]

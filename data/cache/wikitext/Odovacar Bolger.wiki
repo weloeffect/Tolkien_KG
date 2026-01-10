@@ -1,0 +1,51 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Odovacar Bolger
+| image=The Lord of the Rings Online - Odovacar Bolger.jpg
+| caption=Odovacar Bolger from ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1336}}
+| birthlocation=
+| rule=
+| death={{SR|1431}}
+| deathlocation=
+| age=96
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Herugar Bolger]] and [[Jessamine Boffin]]
+| siblings=
+| spouse=[[Rosamunda Took]]
+| children=[[Fredegar Bolger|Fredegar]] and [[Estella Bolger|Estella]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Odovacar Bolger''' ({{SR|1336}}—{{SR|1431}}) was a [[hobbits|hobbit]] of [[the Shire]]. 
+==History==
+Odovacar was the son of [[Herugar Bolger]] and [[Jessamine Boffin]]. He became head of the family after his father's death. Odovacar married [[Rosamunda Took]], and had two children: [[Fredegar Bolger|Fredegar]] and [[Estella Bolger|Estella]]. They were all present at [[Bilbo's Farewell Party]].<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+[[Wikipedia:Odoacer|Odovacar]] contains ''aud'' "wealth" and ''vacar'' "watchful".<ref>{{HM|IE}}, "Giving of Names"</ref> It was the name of [[wikipedia:Odoacer|a legendary germanic king of Rome]].
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Odovacar Bolger is a pig farmer living in [[Budgeford]]. He asks the player to investigate the rumour of a Black Rider seen at his farm at night, but it turns out to be simply another hobbit playing pranks.
+
+{{references}}
+[[Category:Bolger]]
+[[Category:Fourth Age characters]]
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/bolger/odovacar bolger]]

@@ -1,0 +1,43 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Holman Cotton
+| image=
+| caption=
+| pronun=
+| othernames="Long Hom"
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1302}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Cotman]] and [[Rose (daughter of Holman)|Rose]]
+| siblings=
+| spouse=
+| children=[[Farmer Cotton|Tom]] and [[Wilcome Cotton I|Will]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Holman "Long Hom" Cotton''' was a Hobbit of [[Bywater]].
+
+==History==
+Holman was the son of [[Cotman]]. He moved to [[Bywater]], and took up the family name "[[Cotton Family|Cotton]]".  He became a farmer, which passed to his son, [[Tolman Cotton Senior|Tom]]. He also had another son, [[Wilcome Cotton I|Will]].<ref>{{App|Gamgee}}</ref> 
+
+==Etymology==
+Holman means "hole-man", and is distinct from the real-life English surname<ref name="Nomen">{{HM|N}}, p. 760</ref> which contains ''holm'' "river island" rather than ''hol'' "hole".<ref>{{HM|IE}}, "Giving of Names"</ref>
+
+{{references}}
+[[Category:Hobbits]][[Category:Cotton]]
+[[Category:Third Age characters]]

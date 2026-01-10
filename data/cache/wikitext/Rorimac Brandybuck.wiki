@@ -1,0 +1,73 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rorimac Brandybuck
+| image=Rorimac Brandybuck - The Lord of the Rings Roleplaying.jpg
+| caption=Rorimac Brandybuck - ''[[The Lord of the Rings Roleplaying]]''
+| pronun=
+| othernames="Goldfather"
+| titles=[[Master of Buckland]]
+| position=
+| location=[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1302}}
+| birthlocation=
+| rule={{SR|1363}} - {{SR|1408|n}}
+| death={{SR|1408}}
+| deathlocation=
+| age=106
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gorbadoc Brandybuck]] and [[Mirabella Took]]
+| siblings=[[Amaranth Brandybuck|Amaranth]], [[Saradas Brandybuck|Saradas]], [[Dodinas Brandybuck|Dodinas]], [[Asphodel Brandybuck|Asphodel]], [[Dinodas Brandybuck|Dinodas]] and [[Primula Brandybuck|Primula]]
+| spouse=[[Menegilda Goold]]
+| children=[[Saradoc Brandybuck|Saradoc]] and [[Merimac Brandybuck|Merimac]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rorimac Brandybuck''', also known as '''Old Rory''' and '''Goldfather''', was a [[Hobbits|Hobbit]] and [[Master of Buckland]].
+
+==History==
+Rorimac was the oldest son of [[Gorbadoc Brandybuck]]. He married [[Menegilda Goold]] and had two sons, [[Saradoc Brandybuck|Saradoc]] and [[Merimac Brandybuck|Merimac]]. He became [[Master of Buckland]] after his father's death in {{SR|1363}}.<ref name="Brandybuck">{{App|Brandybuck}}</ref>
+
+After the deaths of his sister, [[Primula Brandybuck]] and her husband [[Drogo Baggins]] in {{SR|1380}}, Rorimac took their son, [[Frodo Baggins]] under his guardianship in [[Brandy Hall]] for nine years. [[Bilbo Baggins]], a kinsman of Drogo, often enjoyed Old Rory's hospitality, and eventually he proposed that Frodo could come with him to [[Hobbiton]].<ref name=party>{{FR|Party}}</ref>
+
+Rorimac was present at [[Bilbo's Farewell Party]]. After Bilbo's [[Unseen|disappearance]], Rory was one of the first, if not the only, to suspect "Mad Baggins" was off on an adventure again, and told so to his [[Esmeralda Took|daughter-in-law]] to quiet her shock; he expressed satisfaction that there was more food to feast with and promptly asked his nephew Frodo for more wine. As part of his departure, Bilbo left him a dozen of bottles of [[Old Winyards]], and as soon as he tasted the first one, Rory voted Bilbo a capital fellow.<ref name=party/>
+
+Rory died six years later, passing on the title of Master of Buckland to his eldest son [[Saradoc Brandybuck|Saradoc]].<ref name="Brandybuck"/>
+
+==Etymology==
+[[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+''Rory'' is a northern Irish form of the [[Celtic]] name ''Rhuadri'' or ''Rhuaidri'', which means "red" or "ruddy". An ancient Irish hero wasd called Rory O'More. Rory or as a full name ''madadh ruadh'' ("red dog") is the common name for the fox in many Higland tales where the fox is portrayed as shrewd. This is a fitting name for Rory Brandybuck, because we are told about him that "neither age nor an enormous dinner had clouded his wits".<ref>{{HM|IE}}, "Giving of Names", p. 204</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Brandybuck Family]]
+| born={{SR|1302}}
+| died={{SR|1408}}
+}}
+{{seq
+| prev=[[Gorbadoc Brandybuck]]
+| list=[[Master of Buckland|Master]] of [[Buckland]]
+| dates={{SR|1363}} - {{SR|1408|n}}
+| next=[[Saradoc Brandybuck]]
+}}
+{{seq-end}}
+
+{{masters}}
+[[Category:Brandybuck]]
+[[Category:Celtic names]]
+[[Category:Hobbits]]
+[[Category:Masters of Buckland]]
+[[Category:Third Age characters]]
+[[de:Rorimac Brandybock]]
+[[fi:Rorimac Rankkibuk]]
+[[fr:encyclo/personnages/hobbits/brandebouc/rorimac brandebouc]]

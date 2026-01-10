@@ -1,0 +1,42 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Hilda Bracegirdle
+| image=
+| caption=
+| pronun=
+| othernames=Hilda Brandybuck
+| titles=
+| position=
+| location=[[Hardbottle]]<br/>[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1354}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bracegirdle Family|Bracegirdle]]
+| parentage=[[Bruno Bracegirdle]]
+| siblings=[[Hugo Bracegirdle]]
+| spouse=[[Seredic Brandybuck]]
+| children=[[Doderic Brandybuck|Doderic]], [[Ilberic Brandybuck|Ilberic]] and [[Celandine Brandybuck|Celandine]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hilda Brandybuck, née Bracegirdle''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Hilda married [[Seredic Brandybuck]], and together they had three children: [[Doderic Brandybuck|Doderic]], [[Ilberic Brandybuck|Ilberic]] and [[Celandine Brandybuck|Celandine]]. She was a guest at [[Bilbo's Farewell Party]].<ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Bracegirdle]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]

@@ -1,0 +1,89 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Marhwini
+| image=Liz Danforth - Marhwini.jpg
+| caption="Marhwini" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| titles=[[Lord of the Éothéod]]
+| position=
+| location=[[Rhovanion]]
+| affiliation=
+| language=language of the [[Éothéod]]
+| birth=
+| birthlocation=
+| rule=from {{TA|1856}}
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Marhari]]
+| siblings=
+| spouse=
+| children=[[Forthwini]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Marhwini''' was a [[Northmen|Northman]] and a member of the noble family of the [[Rhovanion|Kingdom of Rhovanion]]. His father [[Marhari]] was a descendant of King [[Vidugavia]] of Rhovanion.<ref>{{UT|8e}}, Note 5</ref>
+
+==History==
+In {{TA|1851}},<ref>{{App|TA}}, entry for the year 1851 of the Third Age</ref> Rhovanion was invaded by a tribe of [[Easterlings]] known as the [[Wainriders]]. The soldiers of the Kingdom of Rhovanion, together with the armies of [[Gondor]], met the Wainriders at the [[Battle of the Plains]] in {{TA|1856|n}},<ref>{{App|TA}}, entry for the year 1856 of the Third Age</ref> which was a disaster. The [[King of Gondor]], [[Narmacil II]], was killed and Marhwini's father Marhari died leading the rearguard. Much of the Kingdom of Rhovanion was lost and its people were enslaved. Some Northmen escaped, and Marhwini led one band of refugees to the west.<ref name="Cirion">{{UT|Northmen}}</ref> 
+
+The refugees wandered until they reached the untamed land between the eastern bank of the [[Anduin|River Anduin]] and the western edge of [[Mirkwood|Mirkwood Forest]]. Settling there in the [[Vales of Anduin]], the refugees would become the [[Éothéod]], the ancestors of the mighty [[Riders of Rohan]].<ref name="Cirion"/>
+
+In {{TA|1899}},<ref>{{App|TA}}, entry for the year 1899 of the Third Age</ref> Marhwini warned [[Calimehtar (King of Gondor)|Calimehtar]] that the Wainriders were plotting to raid [[Calenardhon]] over the [[Undeeps]] but the enslaved Northmen also prepared a revolt against the Wainriders. Calimehtar  provoked the Wainriders out of [[Ithilien]]; the Wainriders came down with all the strength that they could spare, and Calimehtar gave way before them, drawing them away from their homes.  At the peak of the battle, horsemen that Calimehtar had sent over the [[Undeeps]] (left unguarded by the enemy) joined with a great [[éored]] led by Marhwini and he drove the Wainriders back to the [[East]].<ref name="Cirion"/>
+
+==Etymology==
+According to [[Christopher Tolkien]] ''Marhwini'' is "[[Gothic]] in form". The first element of the name is the Gothic word ''marh'' ("horse"), which corresponds to [[Old English]] ''mearh'' whose plural ''[[mearas]]'' is used in ''The Lord of the Rings''. The second element ''wini'' ("friend") corresponds to Old English ''wine'', which is used in the names of some of the [[King of Rohan|Kings of the Mark]].<ref>{{UT|8e}}, Note 6</ref>
+
+[[David Salo]] and [[Arden R. Smith]] suggest that ''Marhwini'' is early [[Old English]] in form.<ref>[[David Salo]], Re: Digest: Radagast etc., e-mail to the Tolkien Language List (19.22), 10 July 1996, http://tolklang.quettar.org/messages/Vol19/19.22; Re: Digest: More Radagast etc., e-mail to the Tolkien Language List (19.36), 16 July 1996, http://tolklang.quettar.org/messages/Vol19/19.36; and Re: Gothic/Old English and pseudo-Latinized forms of same, e-mail to the Tolkien Language List (19.46), 18 July 1996, http://tolklang.quettar.org/messages/Vol19/19.46</ref><ref>[[Arden R. Smith]], Tolkienian Gothic, in [[Wayne G. Hammond]] & [[Christina Scull]], [[The Lord of the Rings 1954-2004]]: Scholarship in Honor of Richard E. Blackwelder, p. 269</ref>
+
+David Salo suggests that ''Marhwini'' means "friend of horses", but could also mean "friend with a horse", in other words a companion-in-arms versed in the equestrian arts.<ref>Didier Salamon & David Giraudeau, Le Livre de la Marche, 2006, p. 161</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | VID |VID=[[Vidugavia]]<br/><small>''fl. {{TA|1250|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | MAR |MAR=[[Marhari]]<br/><small>''d. {{TA|1856|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | MAN |MAN='''MARHWINI'''<br/><small>''fl. {{TA|1856|n}} - {{TA|1899|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | FOR |FOR=[[Forthwini]]<br/><small>''fl. {{TA|1944|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | FRU |FRU=[[Frumgar]]<br/><small>''fl. {{TA|1977|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Marhwini.jpg|thumb|150px|left|Marhwini in ''[[The Lord of the Rings Online]]'']]
+'''2020: ''[[The Lord of the Rings Online]]'':'''
+:Marhwini appears in a flashback narrating the history of the [[Éothéod]]. His son is named Forthwini and grandson Forthári, both of whom die in battle to the [[orcs]], leaving Forthári's son [[Frumgar]] as Marhwini's only heir.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+|race=northmen
+}}
+{{seq
+|pvac=None
+|prev=position established
+|list=1st [[Lord of the Éothéod]]
+|dates={{TA|1856}} – unknown
+|next=[[Forthwini]]
+}}
+{{seq-end}}
+
+[[Category:Éothéod]]
+[[Category:Gothic names]]
+[[Category:Lords of the Éothéod]]
+[[Category:Northmen]]
+[[Category:Third Age characters]]
+[[de:Marhwini]]
+[[fi:Marhwini]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/marhwini]]

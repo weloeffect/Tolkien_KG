@@ -1,0 +1,69 @@
+{{disambig-more|Haleth|[[Haleth (disambiguation)]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Haleth
+| image=Lída Holubová - The House of Eorl - Children of Helm Hammerhand.jpg
+| caption="The House of Eorl - Children of Helm Hammerhand" by [[Lída Holubová]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|2758}}
+| deathlocation=[[Meduseld]], [[Edoras]]
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Helm|Helm Hammerhand]]
+| siblings=[[Háma (son of Helm)|Háma]] and [[Helm's daughter|unnamed sister]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Haleth''' was the oldest child of [[Helm|Helm Hammerhand]] and brother of [[Háma (son of Helm)|Háma]].
+==History==
+Haleth tried to defend [[Edoras]] from the [[Dunlendings]] who had invaded in {{TA|2758}}, but he was killed at the doors of [[Meduseld]], the last of its defenders. [[Wulf]] son of [[Freca]] usurped the throne while Helm and Háma fled to [[Helm's Deep]].<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+''Haleth'' means "man", "warrior" or "hero" in poetry in [[Old English]].<ref>{{HM|RC}}, p. 704</ref><ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/17892|articlename=hæleþ|accessed=24 July 2025}}</ref> Not to be confused with [[Mannish]] [[Haleth]].
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | GRA | | |GRA=[[Gram]]<br/><small>''{{TA|2668|n}} - {{TA|2741|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | HEL | | HIL |HEL=[[Helm|Helm Hammerhand]]<br/><small>''{{TA|2691|n}} - {{TA|2759|n}}''†</small>|HIL=[[Hild]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | HAL | | HAM | | DAU | | FRE |HAL='''HALETH'''<br/><small>''d. {{TA|2758|n}}''†</small>|HAM=[[Háma (son of Helm)|Háma]]<br/><small>''d. {{TA|2759|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FRE=[[Fréaláf|Fréaláf Hildeson]]<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | BRY |BRY=[[Brytta|Brytta Léofa]]<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | WAL |WAL=[[Walda]]<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Haleth in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The War of the Rohirrim - Haleth.png|Haleth in ''[[The Lord of the Rings: The War of the Rohirrim]]''
+</gallery>
+
+'''2024: ''[[War of the Rohirrim]]'':'''
+
+{{references}}
+{{title}}
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Haleth (Sohn von Helm)]]
+[[fi:Haleth (Helmin poika)]]
+[[fr:encyclo:personnages:hommes:3a:hommes du nord:rohirrim:haleth]]

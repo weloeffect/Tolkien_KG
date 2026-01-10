@@ -1,0 +1,62 @@
+{{disambig-two|the grandfather of [[Castamir]]|[[Kings of Gondor|King]] of [[Gondor]]|[[Calimehtar (King of Gondor)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Calimehtar
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=After {{TA|1126}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Calmacil (King of Gondor)|Calmacil]]
+| siblings=[[Rómendacil II|Minalcar]]
+| spouse=
+| children=''unknown'', grandson [[Castamir|Castamir the Usurper]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Calimehtar''' was a nobleman of the Royal House of [[Gondor]], the younger son of King [[Calmacil (King of Gondor)|Calmacil]].
+
+==History==
+Calimehtar was the younger brother of the famous [[Rómendacil II]]. His direct impact on history was negligible, and indeed he is not mentioned in the annals of his own time at all. He had a lasting legacy, though, in the shape of his grandson [[Castamir]], who used the fact of his descent from Calimehtar as a pretext for usurping the throne of Gondor during the bloody times known as the [[Kin-strife]].<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+''Calimehtar'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains it may mean "Bright Warrior" and may be a compound of ''[[cala]]'' ("light") and ''mehtar'' ("warrior"), but it could also be a compound of ''calima'' ("bright")<ref>{{L|211}}, answer to Question 1</ref> and ''[[ohtar]]'' ("warrior").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2099306413.html|articlename=Q. ''Calimehtar'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | ATA | | | | |ATA=[[Atanatar II]]<br/><small>''{{TA|977|n}} - {{TA|1226|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| | | |}}
+{{familytree | | | NAR | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | VID | | ROM | | CAL |VID=[[Vidugavia]]<br/><small>''unknown''</small>|ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL='''CALIMEHTAR'''<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |:| |}}
+{{familytree | VID |y| VAL | | |:| |VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | | | |!| | | | | |:| |}}
+{{familytree | | | ELD | | | | CAS |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>|CAS=[[Castamir]]<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''</small>†}}
+{{familytree/end}}
+
+{{references}}
+{{title}}
+[[Category:House of Anárion]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+[[de:Calimehtar (Sohn von Calmacil)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/calimehtar_fils_de_calmacil]]
+[[fi:Calimehtar (Calmacilin poika)]]

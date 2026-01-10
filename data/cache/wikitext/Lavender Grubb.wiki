@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Lavender Grubb
+| image=
+| caption=
+| pronun=
+| othernames=Lavender Boffin
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=c. {{SR|1212}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Grubb Family|Grubb]]
+| parentage=
+| siblings=[[Laura Grubb|Laura]]
+| spouse=[[Otto Boffin]]
+| children=[[Hugo Boffin|Hugo]], [[Uffo Boffin|Uffo]], [[Rollo Boffin|Rollo]] and [[Primrose Boffin|Primrose]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Lavender Grubb''' was a Hobbit of [[the Shire]].
+==History==
+Lavender was the sister of [[Laura Grubb]] and married [[Otto Boffin]]. They had four children: [[Hugo Boffin|Hugo]], [[Uffo Boffin|Uffo]], [[Rollo Boffin|Rollo]] and [[Primrose Boffin|Primrose]].<ref>{{App|Boffin}}</ref>
+
+==Etymology==
+''[[wikipedia:Lavender|Lavender]]'' is a fair-scented purple flower.
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Grubb]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+
+[[de:Lavender Boffin]]
+[[fi:Laventeli Tonkeli]]
+[[fr:encyclo/personnages/hobbits/fouille/lavande fouille]]

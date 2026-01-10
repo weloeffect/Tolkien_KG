@@ -1,0 +1,83 @@
+{{disambig-two|the [[Kings of Gondor|King]] of [[Gondor]]|[[King of Númenor|King]] of [[Númenor]]|[[Tar-Calmacil]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Calmacil
+| image=Matěj Čadil - Calmacil.jpg
+| caption="Calmacil" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1058}}
+| birthlocation=
+| rule={{TA|1294}} - {{TA|1304|n}} (10 years)
+| death={{TA|1304}}
+| deathlocation=
+| age=246
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Atanatar II]]
+| siblings=
+| spouse=
+| children=[[Rómendacil II|Minalcar]] and [[Calimehtar (son of Calmacil)|Calimehtar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Calmacil''' ({{TA|1058}}<ref>{{PM|Elendil}}</ref> – {{TA|1304|n}},<ref name="South">{{App|South}}</ref> aged 246 years) was the eighteenth King of [[Gondor]].
+
+==History==
+Calmacil was the son of King [[Atanatar II]] Alcarin and younger brother of the later King [[Narmacil I|Narmacil]]. The two brothers had inherited their father's love for ease and neglect of political matters. 
+
+His older brother Narmacil succeeded their father to the throne, but was indolent and had no children. Calmacil had a son, [[Minalcar]], who was unlike them, a man of great vigour, was bestowed by Narmacil to be a [[Regent of Gondor|Regent]].
+
+When Narmacil died without heirs in {{TA|1294}}, his brother Calmacil succeeded him, but was too old to rule<ref name="South"/> so he continued to have his son Minalcar function as Regent<ref>{{App|Gondor}}</ref> until he was properly succeeded after his death.
+
+==Etymology==
+''Calmacil'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains it seems to mean "Sword of Light" or "Shining Sword" seems to be a compound of ''[[cala]]'' ("light") and ''[[macil]]'' ("sword").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-141190487.html|articlename=Q. ''Calmacil'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HYA | | | | |HYA=[[Hyarmendacil I]]<br/><small>''{{TA|899|n}} - {{TA|1149|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | ATA | | | | |ATA=[[Atanatar II]]<br/><small>''{{TA|977|n}} - {{TA|1226|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | NAR | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL='''CALMACIL'''<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | ROM | | CAL |ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | VAL | | | | |VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1058}}
+| died={{TA|1304}}
+}}
+{{seq
+| prev=[[Narmacil I]]
+| list=18th [[Kings of Gondor|King of Gondor]]
+| dates= {{TA|1294}} - {{TA|1304|n}}
+| next=[[Rómendacil II]]
+}}
+{{seq-end}}
+{{southernline}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Calmacil]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:calmacil]]
+[[fi:Calmacil]]

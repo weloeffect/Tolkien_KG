@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Mirabella Took
+| image=Miriam Ellis - Mirabella.png
+| caption=Mirabella Took - Detail by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]], [[Tuckborough]]<br/>[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1260}}
+| birthlocation=
+| rule=
+| death={{SR|1360}}
+| deathlocation=
+| age=100
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Gerontius Took]] and [[Adamanta Chubb]]
+| siblings=[[Isengrim Took III|Isengrim]], [[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras]], [[Hildigrim Took|Hildigrim]], [[Isembold Took|Isembold]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Hildibrand Took|Hildibrand]], [[Belladonna Took|Belladonna]], [[Donnamira Took|Donnamira]] and [[Isengar Took|Isengar]]
+| spouse=[[Gorbadoc Brandybuck]]
+| children=[[Rorimac Brandybuck|Rorimac]], [[Amaranth Brandybuck|Amaranth]], [[Saradas Brandybuck|Saradas]], [[Dodinas Brandybuck|Dodinas]], [[Asphodel Brandybuck|Asphodel]], [[Dinodas Brandybuck|Dinodas]] and [[Primula Brandybuck|Primula]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mirabella Brandybuck, née Took''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Mirabella was one of the [[Gerontius Took|Old Took]]'s many children, and his youngest daughter.<ref>{{App|Took}}</ref> She married [[Gorbadoc Brandybuck]], and had seven children: [[Rorimac Brandybuck|Rorimac]], [[Amaranth Brandybuck|Amaranth]], [[Saradas Brandybuck|Saradas]], [[Dodinas Brandybuck|Dodinas]], [[Asphodel Brandybuck|Asphodel]], [[Dinodas Brandybuck|Dinodas]] and [[Primula Brandybuck|Primula]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The name is French and refers to the palm tree fruit.<ref>{{HM|IE}}, "Giving of Names"</ref>
+
+The name participates in a circular wordplay with the names of her sisters, [[Donnamira Took|Donna'''mira''']] and [[Belladonna Took|'''Bella'''donna]], all Italian names.
+
+{{references}}
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Mirabella Brandybock]]
+[[fi:Mirabella Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/mirabella touque]]

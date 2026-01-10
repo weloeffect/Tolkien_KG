@@ -1,0 +1,58 @@
+{{short description|Hobbit in ''Perry-the-Winkle''}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Peeping Jack
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Delving]]<ref name="Perry"/>
+| affiliation=[[The Shire]]<ref name="Perry"/>
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Spying on [[Perry-the-Winkle (hobbit)|Perry-the-Winkle]]
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Men]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Peeping Jack''' was a [[Hobbits|Hobbit]] inhabitant of the town of [[Delving]] who appeared in ''[[Perry-the-Winkle]]'', a nursery rhyme<ref name=collectedpoems>{{CP|105}}</ref> by [[Samwise Gamgee]]<ref name=preface>{{AB|Preface}}</ref>.<ref name="Perry">{{AB|Perry}}, pp. 41-4</ref>
+
+In the poem, Peeping Jack espied [[Perry-the-Winkle (hobbit)|Perry-the-Winkle]] riding to [[Faraway]] on the [[Lonely Troll]]'s back. Later, upon Perry's return, Peeping Jack revealed his spying to the rest of the People.<ref name="Perry" />
+
+Peeping Jack was one of the [[Shire-hobbits]] who travelled to Faraway in order to demand food from the Lonely Troll. Peeping Jack was among four Hobbits who the Troll never wanted to see again.<ref name="Perry" />
+
+== Etymology ==
+The name "Peeping Jack" alludes to the character's role as a spy and is a reference to [[Wikipedia:Peeping Tom|Peeping Tom]].<ref name="IE">{{HM|IE}}, "Giving of Names"</ref>
+
+== Background ==
+In the first version of the poem in early [[1928]],<ref name=commentary>{{AB|Comm}}, ''Perry-the-Winkle''</ref> which was entitled ''The Bumpus'', Peeping Jack didn’t exist and William Winkle himself told the People where he had been.<ref name=collectedpoems>{{CP|105}}</ref> Peeping Jack was also absent in the second version on [[29 March]],<ref name=collectedpoems/> in which Tolkien revised the poem as part<ref name=collectedpoems/> of his ''[[Tales and Songs of Bimble Bay]]'' series. He was absent in the third version as well.<ref name=commentary/>
+
+In early [[1961]],<ref name=collectedpoems/> when Tolkien revised the poem for inclusion within ''[[The Adventures of Tom Bombadil]]'', Peeping Jack first appeared with no difference in details to the published version<ref name="Perry" />.<ref name=collectedpoems/>
+
+{{references}}
+
+{{Legend}}
+
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[fi:Kurkkija-Kalle]]

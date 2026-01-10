@@ -1,0 +1,43 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Mungo Baggins
+| image=Peter Xavier Price - Mungo Baggins.jpg
+| caption="Mungo Baggins" by [[Peter Xavier Price]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1207}}
+| birthlocation=
+| rule=
+| death={{SR|1300}}
+| deathlocation=
+| age=93
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Balbo Baggins]] and [[Berylla Boffin]]
+| siblings=[[Pansy Baggins|Pansy]], [[Ponto Baggins I|Ponto]], [[Largo Baggins|Largo]], [[Lily Baggins|Lily]]
+| spouse=[[Laura Grubb]]
+| children=[[Bungo Baggins|Bungo]], [[Belba Baggins|Belba]], [[Longo Baggins|Longo]], [[Linda Baggins|Linda]] and [[Bingo Baggins|Bingo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Mungo Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Mungo was the eldest child of [[Balbo Baggins]] and [[Berylla Boffin]]. He married [[Laura Grubb]], and they had five children together: [[Bungo Baggins|Bungo]], [[Belba Baggins|Belba]], [[Longo Baggins|Longo]], [[Linda Baggins|Linda]] and [[Bingo Baggins|Bingo]].<ref>{{App|Baggins}}</ref>
+
+{{references}}
+[[Category:Baggins]][[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Mungo Beutlin]]
+[[fi:Mungo Reppuli]]
+[[fr:encyclo/personnages/hobbits/bessac/mungo bessac]]

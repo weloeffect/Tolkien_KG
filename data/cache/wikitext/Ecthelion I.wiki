@@ -1,0 +1,80 @@
+{{disambig-more|Ecthelion|[[Ecthelion (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Ecthelion I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2600}}
+| birthlocation=
+| rule={{TA|2685}} - {{TA|2698|n}} (13 years)
+| death={{TA|2698}}
+| deathlocation=
+| age=98
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Orodreth (Steward of Gondor)|Orodreth]]
+| siblings=
+| spouse=
+| children=None
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}{{Pronounce|Ecthelion.mp3|Ardamir}} 
+'''Ecthelion I''' ([[Third Age]] {{TA|2600|n}}<ref name="Elendil">{{PM|Elendil}}, p. 205</ref> – {{TA|2698|n}},<ref>{{App|South}}</ref> aged 98 years) was the seventeenth Ruling Steward of [[Gondor]]. 
+
+==History==
+He succeeded his father [[Orodreth (Steward of Gondor)|Orodreth]] at his death in {{TA|2685}}. He rebuilt the [[Tower of Ecthelion|White Tower]] in [[Minas Tirith]], which afterwards carried his name.
+
+Ecthelion had no children. He was followed by [[Egalmoth (Steward of Gondor)|Egalmoth]], the grandson of Orodreth's sister [[Morwen (daughter of Belecthor)|Morwen]], at his death in {{TA|2698|n}}.<ref name="Elendil"/>
+
+==Etymology==
+For the meaning of his name refer to [[Ecthelion#Etymology|Ecthelion - Etymology]]. It is possible that Ecthelion I was named after the [[Noldor|Noldo]] hero of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BEL | | |BEL=[[Belecthor I]]<br/><small>''{{TA|2545|n}} - {{TA|2655|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ORO | | MOR |ORO=[[Orodreth (Steward of Gondor)|Orodreth]]<br/><small>''{{TA|2576|n}} - {{TA|2685|n}}''</small>|MOR=[[Morwen (daughter of Belecthor)|Morwen]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | ECT | | UNK |ECT='''ECTHELION I'''<br/><small>''{{TA|2600|n}} - {{TA|2698|n}}''</small>|UNK=''Unknown''<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | EGA |EGA=[[Egalmoth (Steward of Gondor)|Egalmoth]]<br/><small>''{{TA|2626|n}} - {{TA|2743|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | BER |BER=[[Beren (Steward of Gondor)|Beren]]<br/><small>''{{TA|2655|n}} - {{TA|2763|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2600}}
+| died={{TA|2698}}
+}}
+{{seq
+| prev=[[Orodreth (Steward of Gondor)|Orodreth]]
+| list=17th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2685}} - {{TA|2698|n}}
+| next=[[Egalmoth (Steward of Gondor)|Egalmoth]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Ecthelion I.]]
+[[fi:Ecthelion I]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:ecthelion ier]]

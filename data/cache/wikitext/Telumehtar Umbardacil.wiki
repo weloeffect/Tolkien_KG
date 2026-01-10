@@ -1,0 +1,89 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Telumehtar
+| image=Telumehtar Umbardacil.jpg
+| caption="Telumehtar Umbardacil" from [[Middle-earth Role Playing]]
+| pronun=
+| othernames=''Umbardacil'' (from {{TA|1810}}: [[Quenya|Q]], "Umbar-victor")
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1632}}
+| birthlocation=
+| rule={{TA|1798}} - {{TA|1850|n}} (52 years)
+| death={{TA|1850}}
+| deathlocation=
+| age=218
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Tarondor (King of Gondor)|Tarondor]]
+| siblings=
+| spouse=
+| children=[[Narmacil II]] and [[Arciryas]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Telumehtar''' ({{TA|1632}}<ref name=TelumehtarC>{{PM|Elendil}}, manuscript C with corrections and expansions, The Southern Line of Gondor: the Anarioni, 28. Telumehtar</ref> - {{TA|1850|n}},<ref>{{App|South}}, year following the name of king Telumehtar Umbardacil</ref> aged 218 years) was the twenty-eighth [[King of Gondor]]. He succeeded his father [[Tarondor (King of Gondor)|Tarondor]] in {{TA|1798}}.<ref>{{App|South}}, year following the name of king Tarondor</ref>
+
+==History==
+In the early years of [[Telumehtar]]'s reign over [[Gondor]], the [[Corsairs of Umbar]] raided the [[Outlands|coasts]] of Gondor as far as the [[Anfalas]].<ref name=Telumehtar>{{App|Gondor}}, entry for king Tarondor</ref>
+
+Recalling the death of [[Minardil]] and rankled by the insolence of the Corsairs, Telumehtar resolved to put an end to these attacks and gathered his forces.  In {{TA|1810}} he retook [[Umbar]] by storm<ref name=Telumehtar/> and drove out the Corsairs.<ref>{{App|TA}}, entry for the year 1810</ref> In that war the last descendants of [[Castamir]] were killed.<ref name=Telumehtar/>
+
+Telumehtar added the epithet ''Umbardacil'' to his name to commemorate his victory. Umbar was held by Gondor throughout Telumehtar's reign.<ref name=Telumehtar/>
+
+==Etymology==
+''[[Telumehtar]]'' is the [[Quenya]] name for the constellation Orion, meaning ("Warrior of the Sky").<ref>{{WJ|Author}}, Note 15, p. 411</ref> Paul Strack explains that the initial element is [[telumë]] ("roof, canopy; heaven, sky") and that the second element might be ''mehtar'' or [[ohtar]] ("warrior").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2575898013.html|articlename=Q. ''Telumehtar'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+His epithet ''Umbardacil'' means "Conqueror of Umbar",<ref>{{UT|Index}}, entry "Telumehtar"</ref> being a compound of ''Umbar'' + ''[[-ndacil]]'' ("victor, slayer").<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-187615837.html|articlename=Q. ''Umbardacil'' m.|website=Eldamo|accessed=19 July 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | MIN | | | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | TEL | | MIN | | |TEL=[[Telemnar]]<br/><small>''{{TA|1516|n}} - {{TA|1636|n}}''†</small>|MIN=[[Minastan]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |}}
+{{familytree | CHI | | TAR | | |CHI=''children''<br/><small>''unknown''†</small>|TAR=[[Tarondor (King of Gondor)|Tarondor]]<br/><small>''{{TA|1577|n}} - {{TA|1798|n}}''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | TEL | | |TEL='''TELUMEHTAR<br/>UMBARDACIL'''<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | NAR | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | |!| | | |!| |}}
+{{familytree | | | CAL | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In contrast to the published version where Umbar is retaken by storm and then again held for a while by the kings, the haven and stronghold of the Corsairs of Umbar are stormed and destroyed and Umbar was later reoccupied and rebuilt in the troublous times that later befell Gondor in manuscript C with corrections and expansions of the Heir of Elendil.<ref name=TelumehtarC/>
+
+{{References}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]
+| born={{TA|1632}}
+| died={{TA|1850}}
+}}
+{{seq
+| prev=[[Tarondor (King of Gondor)|Tarondor]]
+| list=28th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1798}} - {{TA|1850|n}}
+| next=[[Narmacil II]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Mariners]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Telumehtar Umbardacil]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/telumehtar]]
+[[fi:Umbardacil]]

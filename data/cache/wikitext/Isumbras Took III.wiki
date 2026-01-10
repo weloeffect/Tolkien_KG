@@ -1,0 +1,70 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isumbras Took III
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1066}}
+| birthlocation=
+| rule={{SR|1122}} - {{SR|1159|n}}
+| death={{SR|1159}}
+| deathlocation=
+| age=93
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Isengrim Took II]]
+| siblings=
+| spouse=
+| children=[[Ferumbras Took II|Ferumbras]] and [[Bandobras Took|Bandobras]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Isumbras Took III''' was the twenty-third [[Thain]] of [[the Shire]], the eleventh of the [[Took Family]].
+
+==History==
+Isumbras was the son of [[Isengrim Took II|Thain Isengrim II]], and inherited the title at his father's death in {{SR|1122}}. He had two sons, [[Ferumbras Took II|Ferumbras II]] and [[Bandobras Took|Bandobras]], who moved North to [[Long Cleeve]].<ref name=took>{{App|Took}}</ref>
+
+Isumbras died in {{SR|1159|n}}, the year when the [[Long Winter]] was followed by the [[Days of Dearth]].<ref name=took/><ref>{{App|TA}}</ref><ref>{{FR|Hobbits}}</ref> His son Ferumbras succeeded him to the Thainship.
+
+==Etymology==
+"Isumbras" is of French and [[Old English|Anglo-Saxon]] origin and means "iron-arm". It comes from the French ''bras'' meaning "arm", and the Anglo-Saxon and Middle High German word ''[[isen]]'' which means "iron".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+==Inspiration==
+The name appears in ''[[wikipedia:Sir Isumbras|Sir Isumbras]]'', an English medieval romance about a man who suffers a lifetime of hardship but who finds happiness in his latter years.
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1066}}
+| died={{SR|1159}}
+}}
+{{Seq
+| prev=[[Isengrim Took II]]
+| list=23rd [[Thain]] of [[the Shire]]
+| dates={{SR|1122}} - {{SR|1159|n}}
+| next=[[Ferumbras Took II|Ferumbras&nbsp;Took&nbsp;II]]
+}}
+{{seq-end}}
+{{thains}}
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Old English names]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Isumbras Tuk III.]]
+[[fi:Isumbras III Tuk]]

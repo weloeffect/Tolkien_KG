@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Cora Goodbody
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth=c. {{SR|1178}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Goodbody Family|Goodbody]]
+| parentage=
+| siblings=
+| spouse=[[Rudolph Bolger]]
+| children=[[Fastolph Bolger|Fastolph]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Cora Bolger, née Goodbody''', was a Hobbit of [[the Shire]].
+
+==History==
+Cora married [[Rudolph Bolger]]. They had one son, [[Fastolph Bolger|Fastolph]], born {{SR|1210}}.<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+The name ''Cora'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Coro'' or ''Core''.<ref>{{App|Translation}}</ref>
+{{references}}
+[[Category:Bolger]]
+[[Category:Goodbody]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Cora Bolger]]
+[[fi:Cora Hyväkäs]]
+[[fr:encyclo/personnages/hobbits/bravet/cora bravet]]

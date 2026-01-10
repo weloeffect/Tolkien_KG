@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rufus Burrows
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=after {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Burrows Family|Burrows]]
+| parentage=
+| siblings=
+| spouse=[[Asphodel Brandybuck]]
+| children=[[Milo Burrows|Milo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rufus Burrows''' was a Hobbit of [[the Shire]].
+
+==History==
+Rufus married [[Asphodel Brandybuck]], and had one child, [[Milo Burrows|Milo]]. They attended [[Bilbo's Farewell Party|Bilbo's Birthday Party]] along with Milo's children.<ref>{{App|Baggins}}</ref>
+
+==Etymology==
+[[Wikipedia:Rufus|Rufus]] is a Latin name meaning "red-haired".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{references}}
+[[Category:Hobbits]]
+[[Category:Burrows]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/fouine/rufus fouine]]

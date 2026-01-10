@@ -1,0 +1,94 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Aragost
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2431}}
+| birthlocation=
+| rule={{TA|2523}} - {{TA|2588|n}}
+| death={{TA|2588}}
+| deathlocation=
+| age=157
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arahad I]]
+| siblings=
+| spouse=
+| children=[[Aravorn]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aragost''' ({{TA|2431}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2588|n}},<ref name="North">{{App|North}}</ref> age 157) was the eighth [[Chieftain of the Dúnedain]], succeeding his father, [[Arahad I]], when he died in {{TA|2523|n}}.
+
+==History==
+Aragost's rule was uneventful due to the enemy's forces being concentrated against [[Gondor]] and  [[Rhovanion]]. Aragost died in 2588 - after having ruled for 65 years - and was followed by his son, [[Aravorn]].<ref name="North"/>
+
+==Etymology==
+''Aragost'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests it means "Royal Dread".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is probably a compound of the prefix ''[[ara|ar(a)-]]'' ("noble", "royal", "high") and ''gost'' ("dread", "terror").<ref name=Tolkiendil/><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-4071677551.html|articlename=S. ''Aragost'' m.|website=Eldamo|accessed=05 February 2022}}</ref><ref>{{HM|GS}}, p. 341</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Araglas]]<br/><small>''{{TA|2296|n}} - {{TA|2455|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arahad I]]<br/><small>''{{TA|2365|n}} - {{TA|2523|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARAGOST'''<br/><small>''{{TA|2431|n}} - {{TA|2588|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aravorn]]<br/><small>''{{TA|2497|n}} - {{TA|2654|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arahad II]]<br/><small>''{{TA|2563|n}} - {{TA|2719|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an early manuscript Aragost's name was "Arandost".<ref>{{PM|Elendil}}, Commentary, p. 211</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2431}}
+| died={{TA|2588}}
+}}
+{{seq
+| prow=2
+| prev=[[Arahad I]]
+| list=31st [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2523}} - {{TA|2588|n}}
+| next=[[Aravorn]]
+| nrow=2
+}}
+{{seq
+| list=8th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2523}} - {{TA|2588|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Aragost]]
+[[fi:Aragost]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/aragost]]

@@ -1,0 +1,76 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Minohtar
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Captain of Gondor
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=[[13 July|July 13]], {{TA|1944}}
+| deathlocation=[[Disaster of the Morannon]]
+| age=
+| notablefor=
+| house=Descended from the [[House of Anárion]]
+| parentage=Unknown (sister-son of [[Ondoher]])
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Minohtar''' was King [[Ondoher]]'s sister-son and Captain of the Right Wing of the northern army of [[Gondor]]. 
+
+==History==
+In {{TA|1944}} when King Ondoher and Prince [[Artamir]] led the [[Northern Army]] of Gondor out to meet the expected assault of the [[Wainriders]], Minohtar was assigned the position of Captain of the Right Wing. His section of the army followed the main force that included the King's Guards as they approached the area in front of the [[Morannon]].
+
+Ondoher had intended to deploy his full army upon the [[Dagorlad]] to meet the foe.  However, the Wainriders sent forth a swift vanguard of horsemen and charioteers that struck the head of the moving army. Ondoher had just enough time to send a message to Minohtar to cover his left flank before he and his son, with most of the King's Guard, were annihilated. Minohtar then took command of the army, rallying the remaining men of the Centre and deploying his own command. He sent word to [[Adrahil (Captain of the Left Wing)|Adrahil]] of [[Dol Amroth]], who was the Captain of the Left Wing, to withdraw to a defensive position between [[Cair Andros]] and the [[Ephel Dúath]]. It was Minohtar's intention to use his forces as a rearguard to attempt to halt the Wainriders, whose main host was now approaching.
+
+Minohtar checked the advance of the enemy for awhile. At this time the [[leader of the Éothéod]] arrived with the news that the younger son of the King, [[Faramir (son of Ondoher)|Faramir]], had been slain. The prince should have stayed in [[Minas Anor]] but had disguised himself to join in the battle. He had been riding with the [[Northmen]] when his party had been caught near the [[Dead Marshes]]. Minohtar had been in the process of sending a message to Faramir when this crushing news arrived.
+
+Soon the Wainriders broke through Minohtar's position. Late on the thirteenth day of [[Cermië]], Minohtar was overwhelmed and slain by an arrow. His body was carried away with the rearguard as they fled to find Adrahil.
+
+That same year, [[Eärnil II|Eärnil]], Captain of the Southern Army, avenged Minohtar, the King, and the others who died in the [[disaster of the Morannon]] by routing the Wainriders in the [[Battle of the Camp]]. The victorious Eärnil was thereafter [[Law of Succession in Númenor#Realms in Exile|granted]] the crown of Gondor.<ref>{{UT|Cirion}}, pp. 292-4</ref>
+
+==Etymology==
+''Minohtar'' is clearly [[Quenya]], but it is not glossed. As Paul Strack explains, it could mean "First Warrior", from ''[[minyar]]'' ("first") + ''[[ohtar]]'' ("warrior").<ref>{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-274834865.html|articlename=Q. ''Minohtar'' m.|website=Eldamo|accessed=1 February 2023}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | TEL | | | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|-|-|^|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | ARN | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|ARN=[[Kings of Arnor|''Kings of<br/>Arnor'']]|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |:| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR |y| ARV | | MIN | | EAR |ART=[[Artamir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|ARV=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''†</small>|MIN='''MINOHTAR'''<br/><small>''d. {{TA|1944|n}}''†</small>|EAR=[[Eärnil II]]<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | EAR |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>|EAR=[[Eärnur]]<br/><small>''{{TA|1928|n}} - {{TA|2050|n}}''†</small>}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | COD | | | | | | | | | | |COD=[[Chieftains of the Dúnedain|''Chieftains of<br/>the Dúnedain'']]}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | | | |ARA=[[Aragorn]]<br/><small>''{{TA|2931|n}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+
+[[de:Minohtar]]
+[[fi:Minohtar]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/minohtar]]

@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Lothíriel
+| image=Rebecca M. Beit-Aharon - Lothíriel of Rohan.jpg
+| caption="Lothíriel of Rohan" by [[:Category:Images by Rebecca M. Beit-Aharon|Rebecca M. Beit-Aharon]]
+| pronun=
+| othernames=
+| titles=Queen Consort of [[Rohan]]
+| position=
+| location=[[Dol Amroth]]; [[Rohan]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2999}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation= [[Fourth Age]]<ref name=Third>{{PM|Third}}, manuscript T 4, p. 244</ref>
+| age=
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Imrahil]]
+| siblings=[[Elphir]], [[Erchirion]] and [[Amrothos]]
+| spouse=[[Éomer]]
+| children=[[Elfwine]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Lothíriel''' was the daughter of [[Imrahil|Prince Imrahil]] of [[Dol Amroth]], and later the wife of King [[Éomer]] of [[Rohan]]. 
+
+==History==
+Lothíriel was born in {{TA|2999}}. She had three older brothers: [[Elphir]], [[Erchirion]], and [[Amrothos]].<ref>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221</ref>
+
+Lothíriel married [[Éomer]], King of [[Rohan]], in {{TA|3021}}. They had at least one son, [[Elfwine|Elfwine the Fair]], who became the 19th King of Rohan upon the death of his father in {{FoA|63}}.<ref>{{App|Mark}}, ''Third Line'', entry ''Éomer Éadig'', p. 1070</ref> Whether Lothíriel still lived by that date, or died after, is unknown.
+
+==Etymology==
+Lothíriel is probably a [[Sindarin]] name. Its meaning is not glossed, but David Salo suggests that it means "lady of flowers" and contains the elements ''[[loth]]'' ("flower", blossom"), ''[[hîr]]'' ("lord", "master") and the suffix ''[[-iel]]'' ("daugher", feminine suffix).<ref>{{HM|GS}}, entry '''Lothíriel''', p. 354</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | ADR | | | | | | | | | | | | | | | | | | | | |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|-|-|-|-|.| | | | | | | | | | | | | | | |}}
+{{familytree | IVR | | FIN |y| DEN | | IMR | | | | | | | | | | | | ROH |IVR=[[Ivriniel]]<br/><small>''b. {{TA|2947|n}}''</small>|FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>|ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree | | | |,|-|-|-|(| | | |,|-|^|-|v|-|-|-|v|-|-|-|.| | | |:| |}}
+{{familytree | | | BOR | | FAR | | ELP | | ERC | | AMR | | LOT |y| EOM |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>|ELP=[[Elphir]]<br/><small>''{{TA|2987|n}} - {{FoA|67}}''</small>|ERC=[[Erchirion]]<br/><small>''b. {{TA|2990|n}}''</small>|AMR=[[Amrothos]]<br/><small>''b. {{TA|2994|n}}''</small>|LOT='''LOTHÍRIEL'''<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>}}
+{{familytree | | | | | | | |!| | | |!| | | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | ELB | | ALP | | | | | | | | | | | | ELF | | |ELB=[[Elboron]]<br/><small>''unknown''</small>|ALP=[[Alphros]]<br/><small>''{{TA|3017|n}} - {{FoA|95}}''</small>|ELF=[[Elfwine]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In the published version of ''[[The Return of the King]]'', Lothíriel and Éomer were wedded in "the last year of the [[Third Age]]". In [[Appendix B]], "The Tale of Years" states that 3021 was the last of the Third Age,<ref>{{App|Chief}}, p. 1096</ref> and thus the wedding took place in that year.  However, in a late manuscript of what would later become Appendix B the wedding of Lothíriel and Éomer was set in "3022 (or [[Fourth Age]] 1)".<ref name=Third/>
+
+==Portrayal in adaptations==
+<center>===Lothíriel in Adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Online - Lothíriel.jpg|Lothíriel in ''[[The Lord of the Rings Online]]''
+</gallery></center>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+
+:Lothíriel first appeared in "The Road to Gondor", the first book of Volume 4 of ''[[The Lord of the Rings Online]]'', and can be found in the Great Hall of the Prince in Dol Amroth. 
+
+:Denethor II proposed to Imrahil a betrothal between Boromir and Lothíriel. Because the betrothal was between close kin, it was disapproved by both Imrahil and Boromir - as well as a part of the population - but neither dared to refuse his request. Both Lothíriel and Boromir reluctantly consented as obedient children, though both were unhappy with the betrothal.<ref name="SOS 1.10">[[The Lord of the Rings Online]], Volume IV: "The Strength of Sauron", Book I: [[The Road to Gondor]], ''Chapter 10: Keepers of History''</ref> The marriage was to be in the summer of {{TA|3018}}, but was postponed after Boromir suddenly had to travel to [[Rivendell]].<ref>[[The Lord of the Rings Online]], Volume IV: "The Strength of Sauron", Book I: [[The Road to Gondor]], ''Chapter 12: The Shadow in Morthond''</ref> After the betrothal she often left Dol Amroth and had dealings with the Elves.<ref name="SOS 1.10"/> She met Dorthaneth, leader of the Avorrim, who became one of her closest friends. Dorthaneth counseled her concerning her betrothal to Boromir and - during the [[War of the Ring]] - weapons, armies and war.<ref>[[The Lord of the Rings Online]], Volume IV: "The Strength of Sauron", Book I: [[The Road to Gondor]], ''Chapter 9: A Message for Lothíriel''</ref> She mourned the death of Boromir, though she was relieved that she would not have to marry him.<ref name="SOS 1.10"/>
+
+:When her father answered the summon of Denethor II and marched to Minas Tirith with a large part of the army, Lothíriel was left in charge of Dol Amroth. She sent detachments of [[Swan-knights]] to [[Lamedon]] and the [[Blackroot Vale]] against her father's wishes.<ref>[[The Lord of the Rings Online]], Volume IV: "The Strength of Sauron", Book I: [[The Road to Gondor]], ''Chapter 5: A Difficult Road''</ref>  She had two purposes in mind, firstly, to protect the local peoples against evil, and secondly, to rebel against her father. When she learned of the threat of the [[Corsairs of Umbar]] to Dol Amroth, she recalled the Swan-knights back to protect Dol Amroth.<ref>[[The Lord of the Rings Online]], Volume IV: "The Strength of Sauron", Book I: [[The Road to Gondor]], ''Chapter 11: The Swan-knights''</ref>
+
+{{references}}
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+[[Category:Fourth Age characters]]
+
+
+[[de:Lothíriel]]
+[[fi:Lothíriel]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/lothiriel]]

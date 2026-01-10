@@ -1,0 +1,104 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Paladin Took II
+| image=Paladin Took II - The Lord of the Rings Roleplaying.jpg|
+| caption=Paladin Took - ''[[The Lord of the Rings Roleplaying]]''
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1333}}
+| birthlocation=
+| rule={{SR|1415}} - {{SR|1434|n}}
+| death={{SR|1434}}
+| deathlocation=
+| age=101
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Adalgrim Took]]
+| siblings=[[Esmeralda Took|Esmeralda]]
+| spouse=[[Eglantine Banks]]
+| children=[[Pearl Took|Pearl]], [[Pimpernel Took|Pimpernel]], [[Pervinca Took|Pervinca]] and [[Peregrin Took|Peregrin]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Paladin Took II''' was the thirty-first [[Thain]] of [[the Shire]]. He was the father of [[Peregrin Took]].
+
+==History==
+===Family===
+Paladin was born in {{SR|1333}} being the son and heir of [[Adalgrim Took]], and a great-grandchild of the [[Gerontius Took|Old Took]]. He married [[Eglantine Banks]], and they had several children together: [[Pearl Took|Pearl]] (born {{SR|1375|n}}) followed by [[Pimpernel Took|Pimpernel]] ({{SR|1379|n}}) and [[Pervinca Took|Pervinca]] ({{SR|1385|n}}). [[Peregrin Took|Peregrin]] ({{SR|1390|n}}) was younger, but would be Paladin's heir.<ref name="Took">{{App|Took}}</ref>
+
+===Becoming Thain===
+Paladin was a direct descendant of the [[Gerontius Took|Old Took]], one of his great grandsons. He was member of a junior branch of the Took family, where [[Hildigrim Took|Hildigrim]] was head of that branch.<ref name="Took"/> He became a farmer, farming the lands around [[Whitwell]] near [[Tuckborough]].<ref>{{RK|MT}}</ref> Never did he expect to become Thain as at the time of his birth the Thainship was in the hands of, [[Isumbras Took IV|Isumbras IV]], his great uncle. Isumbras IV's succession appeared secure since he had both a son and grandson, [[Fortinbras Took II|Fortinbras II]] and [[Ferumbras Took III|Ferumbras III]]. However, Ferumbras III died without an heir in {{SR|1415}} and Fortinbras II had had no other sons, so the Thainship passed to Paladin, the most senior male-line relative.<ref name="L214">{{L|214}}</ref> 
+
+In {{SR|1401}} he attended [[Bilbo's Farewell Party]] with his children.<ref name="Took"/>
+
+===War of the Ring===
+Paladin never agreed with [[Lotho Sackville-Baggins]]' attempt to take over [[the Shire]] as he believed that if anyone were going to the "Chief" it should be the legitimate [[Thain of the Shire]], therefore Paladin and the other Tooks stood up to Lotho and his [[Ruffians]]. The [[Took Family|Took]]s hid in their deep dwellings of [[Great Smials]], and the ruffians could not get them, and if any ruffians were found in the [[Tookland]] they were shot and killed, an act which led the ruffians to become harsher.<ref name="Scouring">{{RK|Scouring}}</ref>
+
+At this time, Paladin's son [[Peregrin Took|Peregrin]] and [[Travellers|three other hobbits]], were lost in the [[Old Forest]] by all accounts. Their return was unexpected, but Paladin fully embraced their suggestion to drive out the Ruffians. He sent a hundred Tooks with his son to the [[Battle of Bywater]], and commanded the remainder of his troops cleaning up the area south of the village.<ref name="Scouring"/>
+
+===Death===
+Paladin died in {{SR|1434}} at the age of 101, and after having been Thain for nineteen years, he was succeeded by his son who became Thain Peregrin I.<ref name="Took"/>
+
+==Etymology==
+The name ''Paladin'' is derived from Latin ''palatinus'', which means "palace officer".<ref name="IE">{{HM|IE}}, The Giving of Names, p. 192</ref> It was used for the twelve peers of [[wikipedia:Charlemagne|Charlemagne]],<ref name="IE"/> the emperor of the [[wikipedia:Carolingian Empire|Carolingian Empire]], an empire in Western and Central Europe that was dominated by the [[wikipedia:Franks|Franks]].
+
+A "[[wikipedia:Paladin|paladin]]" is a high office which existed in medieval Europe - which entered into many tales - and was a noble office held by an honourable and valiant knight.
+
+==Genealogy==
+{{familytree/start|style=white-space: nowrap;}}
+{{familytree | | | | | OLD | | | | | | | | | | | | | | | | |OLD=[[Gerontius Took|The Old Took]]<br/><small>''{{SR|1190|n}} - {{SR|1320|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|-|-|.| | | | | | | | | | | |}}
+{{familytree | ISE | | ISU | | | | HIL |y|ROS  | | | | | | |ISE=[[Isengrim Took III|Isengrim III]]<br/><small>''{{SR|1232|n}} - {{SR|1330|n}}''</small>|ISU=[[Isumbras Took IV|Isumbras IV]]<br/><small>''{{SR|1238|n}} - {{SR|1339|n}}''</small>|HIL=[[Hildigrim Took|Hildigrim]]<br/><small>''{{SR|1240|n}} - {{SR|1341|n}}''</small>|ROS=[[Rosa Baggins]]<br/><small>''{{SR|1256|n}} - unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | |!| | | | | | | | | |}}
+{{familytree | | | | | FOR | | | | | | ADA | | | | | | | | |FOR=[[Fortinbras Took II|Fortinbras II]]<br/><small>''{{SR|1278|n}} - {{SR|1380|n}}''</small>|ADA=[[Adalgrim Took|Adalgrim]]<br/><small>''{{SR|1280|n}} - {{SR|1382|n}}''</small>}}
+{{familytree | | | | | |!| | | |,|-|-|-|+|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | | | FER | | DAU | | PAL |y| EGL | | ESM | FER=[[Ferumbras Took III|Ferumbras III]]<br/><small>''{{SR|1316|n}} - {{SR|1415|n}}''</small>|DAU=''3 daughters''|PAL='''PALADIN II'''<br/><small>''{{SR|1333|n}} - {{SR|1434|n}}''</small>|ESM=[[Esmeralda Took|Esmeralda]]<br/><small>''{{SR|1336|n}} - unknown''</small>|EGL=[[Eglantine Banks]]<br/><small>''unknown''</small>}}
+{{familytree | | | |,|-|-|-|v|-|-|-|v|-|-|-|(| | | | | |!| |}}
+{{familytree | | | PEA | | PIM | | PER | | PIP | | | | MER | PEA=[[Pearl Took|Pearl]]<br/><small>''{{SR|1375|n}} - unknown''</small>|PIM=[[Pimpernel Took|Pimpernel]]<br/><small>''{{SR|1379|n}} - unknown''</small>|PER=[[Pervinca Took|Pervinca]]<br/><small>''{{SR|1385|n}} - unknown''</small>|PIP=[[Peregrin Took|Peregrin I]]<br/><small>''{{SR|1390|n}} - {{SR|1484|n}}+''</small>|MER=[[Meriadoc Brandybuck|Meriadoc]]<br/><small>''{{SR|1382|n}} - {{SR|1484|n}}+''</small>|DA2=''3 daughters''}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Paladin Took II in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:PaladinTook.jpg|''[[The Lord of the Rings Online]]''
+File:Paladin Took II - The Lord of the Rings Roleplaying.jpg|''[[The Lord of the Rings Roleplaying]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Thain Paladin Took II is found at the [[Great Smials]] in [[Tuckborough]]. He asks the player to assist with a couple of local matters.
+
+{{References}}
+{{Seq-start}}
+{{Seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1333}}
+| died={{SR|1434}}
+}}
+{{Seq
+| prev=[[Ferumbras Took III]]
+| list=31st [[Thain]] of [[The Shire]]
+| dates={{SR|1415}} - {{SR|1434|n}}
+| next=[[Peregrin Took|Peregrin Took I]]
+}}
+{{Seq-end}}
+{{Thains}}
+[[Category:Fourth Age characters]]
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Paladin Tuk II.]]
+[[fi:Paladin II Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/paladin ii]]

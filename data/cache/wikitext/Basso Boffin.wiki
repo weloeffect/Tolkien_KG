@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Basso Boffin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Yale]]
+| affiliation=
+| language=
+| birth={{SR|1169}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Buffo Boffin]] and [[Ivy Goodenough]]
+| siblings=[[Bosco Boffin|Bosco]], [[Briffo Boffin|Briffo]], and [[Berylla Baggins|Berylla]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Basso Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Basso was the second child of [[Buffo Boffin]] and [[Ivy Goodenough]]. He was said to have gone to sea in {{SR|1195}}, and was not heard from again.<ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+
+[[Category:Boffin]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Basso Boffin]]
+[[fi:Basso Boffin]]
+[[fr:encyclo:personnages:hobbits:bophin:basso bophin]]

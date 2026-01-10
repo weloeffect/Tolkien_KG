@@ -1,0 +1,75 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Artamir
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Before {{TA|1893}}<ref group="note">{{TA|1896}} is listed as the year of birth for [[Fíriel]], Artamir's youngest sibling, in {{PM|Elendil}}, 'Ondohir', p. 201. In {{UT|Cirion}} [[Faramir (son of Ondoher)]], Artamir's middle sibling is noted to be three years younger than his brother Artamir, meaning Artamir must have been born at least 3 years before [[Fíriel]].</ref>
+| birthlocation=
+| rule=
+| death=[[12 July]] {{TA|1944}}
+| deathlocation=[[Disaster of the Morannon]]
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Ondoher]]
+| siblings=[[Fíriel]] and [[Faramir (son of Ondoher)|Faramir]]
+| spouse=
+| children=None
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Artamir''' ([[Quenya|Q]]: "noble jewel", pron. {{IPA|[ˈartamir]}}, stem ''Artamír-''; died {{TA|1944}}) was the elder son and heir of King [[Ondoher]] of [[Gondor]].<ref name="Gondor">{{App|Gondor}}</ref>
+
+==History==
+Prince Artamir was the son of the [[King of Gondor]], and elder brother of [[Faramir (son of Ondoher)|Faramir]] and [[Fíriel]]. They were born during perilous years for Gondor. King Ondoher had been warned by [[Forthwini]] of [[Éothéod]] that the [[Wainriders]] were on the move. Indeed the realm was assaulted simultaneously from the East and the South.
+
+In {{TA|1944}} Artamir and his father Ondoher were the two top leaders of the northern army of [[Gondor]] and led their forces into [[Ithilien]] in order to deploy upon the [[Dagorlad]], expecting the enemy from the north or north-east. Unfortunately the enemy not only came quicker than expected, but also directly from the east along the outskirts of the [[Ered Lithui]]. The army of Gondor was strung out when the vanguard was struck by a powerful force of mixed cavalry and chariot-borne warriors. The King, Artamir, and most of the King's Guard were annihilated in the attack.<ref>{{UT|Cirion}}</ref>
+
+==Aftermath==
+Artamir was the eldest son and heir of Ondoher, and with his death, the line of succession should move to close male relatives of the [[House of Anárion]]. However his younger brother Faramir was also slain (he secretly disguised himself to participate in the battle) as well as the King's sister-son, [[Minohtar]] and the throne of Gondor remained vacant.
+
+His sister Fíriel was married to [[Arvedui]], son and heir of the northern King of [[Arthedain]], and partly based on his marriage, he asked to be granted the throne.  However, the  Steward [[Pelendur]] and the [[Council of Gondor]] selected general [[Eärnil II|Eärnil]], who had crushed the enemies in the [[Battle of the Camp]] and saved the realm, to be the next king.<ref name="Gondor" />
+
+==Etymology==
+''Artamir'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it means "Noble Jewel" and is a compound of the prefixal form [[arta]] of ''arata'' ("noble") and [[mir|mírë]] ("jewel").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-856718477.html|articlename=Q. ''Artamir'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | TEL | | | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|-|-|^|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | ARN | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|ARN=[[Kings of Arnor|''Kings of<br/>Arnor'']]|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |:| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR |y| ARV | | MIN | | EAR |ART='''ARTAMIR'''<br/><small>''d. {{TA|1944|n}}''†</small>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|ARV=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''†</small>|MIN=[[Minohtar]]<br/><small>''d. {{TA|1944|n}}''†</small>|EAR=[[Eärnil II]]<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | EAR |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>|EAR=[[Eärnur]]<br/><small>''{{TA|1928|n}} - {{TA|2050|n}}''†</small>}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | COD | | | | | | | | | | |COD=[[Chieftains of the Dúnedain|''Chieftains of<br/>the Dúnedain'']]}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | | | |ARA=[[Aragorn]]<br/><small>''{{TA|2931|n}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references|notes}}
+
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+
+[[de:Artamir]]
+[[fi:Artamir]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/artamir]]

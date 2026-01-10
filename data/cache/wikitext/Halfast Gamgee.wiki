@@ -1,0 +1,61 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Halfast Gamgee
+| image=Miriam Ellis - What Hal saw beyond the North Moors.jpg
+| caption="What Hal saw beyond [[North Moors|the North Moors]]" by [[Miriam Ellis]]
+| pronun=
+| othernames=Hal
+| titles=
+| position=
+| location=[[Overhill]]
+| affiliation=
+| language=
+| birth={{SR|1372}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Halfred of Overhill]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Halfast "Hal" Gamgee''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Halfast was the son of [[Halfred of Overhill|Halfred]], an uncle of [[Samwise Gamgee]].<ref>{{App|Gamgee}}</ref> He worked for [[Boffin Family|Mr. Boffin]] in [[Overhill]], and often went up in the [[Northfarthing]] to hunt. 
+
+He had the reputation for his wild stories of things he saw. He reportedly encountered a "[[Tree-men|Tree-man]]" while hunting beyond the [[North Moors]].
+
+Sam mentioned this gossip to [[Ted Sandyman]] while discussing the queer news heard in [[the Shire]] around {{TA|3018}}.<ref>{{FR|Shadow}}</ref>
+
+==Etymology==
+The name likely comes from [[Old English]] ''hālfæst'' meaning "hale and firm".<ref>{{HM|IE}}, "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+===Halfast Gamgee in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Online - Halfast Gamgee.jpg|''[[The Lord of the Rings Online]]''
+File:Stanislav Dikolenko - Halfast Gamgee.jpg|''[[The Lord of the Rings: The Card Game]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Hal Gamgee lives in the town of Oatbarton in the [[Northfarthing]] of [[The Shire]], which in-game is located within [[Evendim]] region.
+
+{{References}}
+[[Category:Gamgee]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Halfast von Oberbühl]]
+[[fi:Halfast Gamgi]]
+[[fr:encyclo/personnages/hobbits/gamegie/halfast gamegie]]

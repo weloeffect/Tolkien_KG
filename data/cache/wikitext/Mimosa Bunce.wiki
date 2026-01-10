@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Mimosa Bunce
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bunce Family|Bunce]]
+| parentage=
+| siblings=
+| spouse=[[Ponto Baggins I|Ponto Baggins]]
+| children=[[Rosa Baggins|Rosa]] and [[Polo Baggins]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mimosa Bunce''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Mimosa married [[Ponto Baggins I|Ponto Baggins]]. They had two children; [[Rosa Baggins|Rosa]] was born in {{SR|1256}}, and [[Polo Baggins]] shortly thereafter.<ref>{{App|Baggins}}</ref>
+
+==Etymology==
+[[wikipedia:Mimosa|Mimosa]] is a genus of plants (trees, shrubs and herbs) of the legume family.
+
+{{references}}
+[[Category:Baggins]]
+[[Category:Bunce]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Mimosa Beutlin]]
+[[fi:Mimoosa Bans]]

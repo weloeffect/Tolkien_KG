@@ -1,0 +1,42 @@
+{{infobox character
+| people-duplicated=[[Men|Man]]
+| name=Tom Pickthorn
+| image=
+| people=[[Men of Bree|Man of Bree]]
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bree]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|3019}}
+| deathlocation=[[Bree]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=Short
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tom Pickthorn''' was a [[Men of Bree|man of Bree]].  He was killed in early January, {{TA|3019}}, fighting [[Bill Ferny]] and [[Sharkey]]'s [[ruffians]].  [[Barliman Butterbur]] referred to him as "Little Tom Pickthorn" so he must have been shorter than [[Mat Heathertoes]] and [[Rowlie Appledore]], two other men of Bree who were killed.<ref>{{RK|Homeward}}</ref>
+
+{{references}}
+[[Category:Bree-men]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]
+[[de:Tom Stechdorn]]
+[[fr:encyclo/personnages/hommes/3a/hommes de bree/tom cueillepine]]
+[[fi:Tom Piikkiäinen]]

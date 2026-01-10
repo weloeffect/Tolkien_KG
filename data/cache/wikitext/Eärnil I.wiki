@@ -1,0 +1,82 @@
+{{disambig-two|the second [[Ship-kings|Ship-king]] of [[Gondor]]|penultimate [[Kings of Gondor|King of Gondor]]|[[Eärnil II]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Eärnil I
+| image=Matěj Čadil - Earnil I of Gondor.jpg
+| caption="Earnil I of Gondor" by [[Matěj Čadil]]
+| pronun=[[Quenya|Q]], {{IPA|[eˈarnil]}}
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|736}}
+| birthlocation=
+| rule={{TA|913}} - {{TA|936|n}} (23 years)
+| death={{TA|936}}
+| deathlocation=In the [[Belegaer|sea]] off [[Umbar]]
+| age=200
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Tarciryan]]
+| siblings=
+| spouse=
+| children=[[Ciryandil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eärnil I''' ({{TA|736}}<ref name=Elendil>{{PM|Elendil}}, manuscript C with corrections and expansions, The Southern Line of Gondor: the Anarioni, 13. Earnil I</ref> – {{TA|936|n}},<ref>{{App|South}}, ''Kings of Gondor'', Eärnil I</ref> aged 200 years) was the thirteenth [[King of Gondor]] and the second [[Ship-king]].<ref>{{App|South}}, ''Kings of Gondor''</ref>
+
+==History==
+Eärnil was the son of [[Tarciryan]], the brother of King [[Tarannon Falastur]]. He succeeded his uncle [[Tarannon Falastur]], who died childless in {{TA|913}}.<ref>{{App|South}}, ''Kings of Gondor'', Tarannon Falastur</ref> He continued with the expansionist maritime policy of his predecessor by repairing the haven of [[Pelargir]] and building a great fleet. Eärnil besieged [[Umbar]] by land and by sea and conquered Umbar<ref name=Earnil>{{App|Gondor}}, entry for Eärnil</ref> in {{TA|933}}.<ref>{{App|TA}}, entry for the year 933</ref> Umbar became a great haven and fortress of Gondor. Eärnil died together with many men in a great storm off Umbar, in which many ships sank.<ref name=Earnil/> He was succeeded by his son<ref>{{App|Gondor}}, entry for Ciryandil</ref> [[Ciryandil]].<ref>{{App|South}}, ''Kings of Gondor'', Ciryandil</ref>
+
+==Etymology==
+''Eärnil'' is a [[Quenya]] name. It is a shortened form of ''[[Eärendil]]''.<ref>{{PE|17}}, p. 152</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | SIR | | |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER=[[Berúthiel]]<br/><small>''unknown''</small>|TAR=[[Tarannon Falastur]]<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC=[[Tarciryan]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EAR |EAR='''EÄRNIL I'''<br/><small>''{{TA|736|n}} - {{TA|936|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | CIR |CIR=[[Ciryandil]]<br/><small>''{{TA|820|n}} - {{TA|1015|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | HYA |HYA=[[Hyarmendacil I]]<br/><small>''{{TA|899|n}} - {{TA|1149|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In a late manuscript of what would later become Appendix A it is also mentioned that he fortified Umbar after he took it.<ref name=Elendil/>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|736}}
+| died={{TA|936}}
+}}
+{{seq
+| prev=[[Tarannon Falastur]]
+| list=13th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|913}} - {{TA|936|n}}
+| next=[[Ciryandil]]
+}}
+{{seq-end}}
+{{southernline}}
+{{DEFAULTSORT:Earnil I}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Mariners]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Earnil I.]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:earnil ier]]
+[[fi:Eärnil I]]

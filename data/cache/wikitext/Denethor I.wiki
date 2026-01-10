@@ -1,0 +1,87 @@
+{{disambig-more|Denethor|[[Denethor (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Denethor I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2375}}
+| birthlocation=
+| rule={{TA|2435}} - {{TA|2477|n}} (42 years)
+| death={{TA|2477}}
+| deathlocation=
+| age=102
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Rían (daughter of Steward Barahir)|Rían]]
+| siblings=
+| spouse=
+| children=2 older children,<ref>{{PM|Elendil}}, manuscript C, The Ruling Stewards, entry 11. Boromir, p. 205</ref> [[Boromir (Steward of Gondor)|Boromir]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Pronounce|Denethor.mp3|Ardamir}}
+'''Denethor I''' ([[Third Age]] 2375<ref>{{PM|Elendil}}, manuscript C, The Ruling Stewards of Gondor, entry 10. Denethor I, p. 204</ref> – 2477,<ref name=Denethor>{{App|South}}, ''Ruling Stewards'', entry for Denethor I, p. 1039</ref> aged 102 years) was the tenth [[Ruling Steward]] of [[Gondor]] and ruled from from {{TA|2435}}<ref name=Dior>{{App|South}}, ''Ruling Stewards'', entry for Dior, p. 1039</ref> until his death in {{TA|2477|n}}.
+
+==History==
+Denethor was probably named after [[Denethor (Nando)|the leader]] of the [[Laiquendi]] in the [[First Age]], as it was customary in the [[House of Húrin]] to name sons after figures from the legends of the [[Noldor]] and their interactions with the [[Edain]].<ref>{{PM|Elendil}}, manuscript C, The Ruling Stewards of Gondor, p. 203</ref>
+
+During the time of Denethor’s rule the [[Watchful Peace]] came to an end (in {{TA|2460}}) when [[Sauron]] returned with increased strength to [[Dol Guldur]].<ref>{{App|TA}}, entry for the year 2460, p. 1087</ref> In the last years of his rule the ''Uruks'', black Orcs with great strength, came from [[Mordor]] for the first time and assailed and overran [[Ithilien]] and captured [[Osgiliath]] in {{TA|2475}}. Denethor’s son, [[Boromir (Steward of Gondor)|Boromir]], defeated the invaders and reconquered Ithilien, but Osigiliath was left in ruins and its great stone-bridge over the river [[Anduin]] was broken and Osgiliath was abandoned by its population.<ref name=AppADenethor>{{App|Stewards}}, entry for Steward Denethor I, p. 1053</ref>
+
+The [[Rammas Echor]] was built with a great amount of labour after the province of [[Ithilien]] fell under the shadow of the Enemy<ref>{{RK|MT}}, p. 750</ref> during the rule of Steward Denethor,<ref name=UI>{{HM|UI}}, entry ''Rammas Echor,'' p. 512</ref> but it is not specified if it was during the rule of Steward Denethor I or Steward [[Denethor|Denethor II]]. It is possible that Denethor I had the [[Rammas Echor]] constructed after the capture of Osgiliath, to protect the [[Pelennor Fields]] which fed [[Minas Tirith]], because the borders of Gondor were under constant threat from his rule on.<ref name=AppADenethor/>
+
+Denethor I ruled as Steward for forty-two years,<ref name=Denethor/><ref name=Dior/> and was succeeded by his son Boromir.<ref name=AppADenethor/>
+
+==Etymology==
+{{Pronounce|Denethor.mp3|Ardamir}}
+For the meaning of his name refer to [[Denethor (king of the Laiquendi)#Etymology|Denethor - Etymology]]. It is possible that Denethor I was named after the [[Nandor|Nando]] chieftain of the [[Green-elves|Laiquendi]] of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BAR | | | | |BAR=[[Barahir (Steward of Gondor)|Barahir]]<br/><small>''{{TA|2290|n}} - {{TA|2412|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DIO | | RIA | | |DIO=[[Dior (Steward of Gondor)|Dior]]<br/><small>''{{TA|2328|n}} - {{TA|2435|n}}''</small>|RIA=[[Rían (daughter of Steward Barahir)|Rían]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | DEN | | |DEN='''DENETHOR I'''<br/><small>''{{TA|2375|n}} - {{TA|2477|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DAU | | BOR |DAU=''two older children''<br/><small>''unknown''</small>|BOR=[[Boromir (Steward of Gondor)|Boromir]]<br/><small>''{{TA|2410|n}} - {{TA|2489|n}}''</small>}}
+{{familytree | | | | | | | |!| |}}
+{{familytree | | | | | | | CIR |CIR=[[Cirion]]<br/><small>''{{TA|2449|n}} - {{TA|2567|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2375}}
+| died={{TA|2477}}
+}}
+{{seq
+| prev=[[Dior (Steward of Gondor)|Dior]]
+| list=10th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2435}} - {{TA|2477|n}}
+| next=[[Boromir (Steward of Gondor)|Boromir]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Denethor I.]]
+[[fi:Denethor I]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:denethor ier]]

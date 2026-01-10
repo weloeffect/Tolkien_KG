@@ -1,0 +1,39 @@
+{{disambig-more|Morwen|[[Morwen (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Morwen
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Húrin (Warden of the Keys)]]
+| siblings=
+| spouse=[[Éomer]]
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Morwen''' was the daughter of [[Húrin (Warden of the Keys)]], in the drafts of the [[Appendices]]. She was to be wed to [[Éomer]], but her character was ultimately abandoned and replaced with that of [[Lothíriel]].<ref>{{PM|Aiii}}, p. 271</ref>
+
+{{references}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:Third Age characters]]

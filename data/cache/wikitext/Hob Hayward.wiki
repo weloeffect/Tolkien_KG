@@ -1,0 +1,53 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Hob Hayward
+| image=The Lord of the Rings Online - Shirriff Hob Hayward.jpg
+| caption="Shirriff Hob Hayward" from ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=[[Shirriff]]
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Hayward Family|Hayward]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hob Hayward''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Hob was a two-feathered [[Shirriff]]. Before the War of the Ring, he had watched [[Buckland]]'s [[Buckland Gate|Hay Gate]]. He was well acquainted with the [[Brandybuck Family]].
+
+During [[Lotho Sackville-Baggins]]'s reign over the Shire, the Shirriffs were reorganized. Hob was old, and one of several shirriffs who were to guard the new fence at the [[Brandywine Bridge]] under the command of [[Bill Ferny]].
+
+When [[Frodo Baggins]] and his [[Travellers|companions]] returned from their adventure, they found Hob at the gate who forbade them to enter the fence gate. After they chased off Ferny, Hob informed them of the changes in their homeland.<ref>{{RK|Scouring}}</ref>
+
+==Etymology==
+A ''hayward'' is a local official with the duty of inspecting fences and keeping cattle from straying.<ref name="Nomen">{{HM|N}}, p. 759</ref>
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Found at the [[Buckland Gate|Gate of Buckland]], Shirriff  Hob Hayward asks the player to invetigate a disturbance within the [[Old Forest]].
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Hayward]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]

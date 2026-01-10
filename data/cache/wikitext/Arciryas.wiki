@@ -1,0 +1,58 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Arciryas
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=After {{TA|1684}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Telumehtar Umbardacil|Telumehtar]]
+| siblings=[[Narmacil II|Narmacil]]
+| spouse=
+| children=[[Calimmacil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arciryas''' ([[Quenya|Q]], pron. {{IPA|[ˈarkirʲas]}}) was the younger brother of King [[Narmacil II]].  His great-grandson [[Eärnil II|Eärnil]] would become [[King of Gondor]] after King [[Ondoher]] and both of his sons perished in battle in {{TA|1944}}.<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+''Arciryas'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it seems to mean "Noble Ship" and to be a compound of [[ara|(a)ra]] ("noble") and [[cirya]] ("ship").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2363379119.html|articlename=Q. ''Arciryas'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | TAR | | | | |TAR=[[Tarondor (King of Gondor)|Tarondor]]<br/><small>''{{TA|1577|n}} - {{TA|1798|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | TEL | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | |,|-|-|-|^|-|-|-|.| |}}
+{{familytree | NAR | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC='''ARCIRYAS'''<br/><small>''unknown''</small>}}
+{{familytree | |!| | | | | | | |!| |}}
+{{familytree | CAL | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | |)|-|-|-|.| | | |!| |}}
+{{familytree | OND | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Arciryas]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/arciryas]]
+[[fi:Arciryas]]

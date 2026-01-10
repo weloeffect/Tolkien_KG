@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Otto Boffin
+| image=
+| caption=
+| pronun=
+| othernames=Otto the Fat
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1212}}
+| birthlocation=
+| rule=
+| death={{SR|1300}}
+| deathlocation=
+| age=88
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Bosco Boffin]]
+| siblings=
+| spouse=[[Lavender Grubb]]
+| children=[[Hugo Boffin|Hugo]], [[Uffo Boffin|Uffo]], [[Rollo Boffin|Rollo]], and [[Primrose Boffin|Primrose]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Otto Boffin''', colloquially known as '''Otto the Fat''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Otto was the only child of [[Bosco Boffin]]. He married [[Lavender Grubb]] and had four children: [[Hugo Boffin|Hugo]], [[Uffo Boffin|Uffo]], [[Rollo Boffin|Rollo]], and [[Primrose Bracegirdle|Primrose]].<ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+
+[[de:Otto Boffin]]
+[[fi:Otto Boffin]]
+[[fr:encyclo/personnages/hobbits/bophin/otto bophin]]

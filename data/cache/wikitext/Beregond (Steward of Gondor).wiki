@@ -1,0 +1,83 @@
+{{disambig-more|Beregond|[[Beregond (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Beregond
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=
+| affiliation=
+| language=
+| birth={{TA|2700}}
+| birthlocation=
+| rule={{TA|2763}} - {{TA|2811|n}} (48 years)
+| death={{TA|2811}}
+| deathlocation=
+| age=111
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Beren (Steward of Gondor)|Beren]]
+| siblings=
+| spouse=
+| children=[[Belecthor II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Beregond''' ([[Third Age]] 2700<ref name=":0">{{PM|Elendil}}, p. 205</ref> – 2811,<ref name="South">{{App|South}}</ref> aged 111 years) was the twentieth Ruling Steward of [[Gondor]].  
+
+==History==
+Beregond was born the third child of his father [[Beren (Steward of Gondor)|Beren]].<ref name=":0" />
+
+Beregond was the greatest captain since the time of [[Boromir (Steward of Gondor)|Boromir]]. Before the spring of {{TA|2759}} Beregond defeated the [[Corsairs of Umbar]], who had invaded the [[Outlands|southern coasts]] of Gondor. Then he was able to send help to the [[Rohirrim]], who had been attacked by a combined force of [[Dunlendings]] and [[Corsairs of Umbar|Corsairs]] that had sailed up the [[Isen]].
+
+He succeeded his father [[Beren (Steward of Gondor)|Beren]] at his death in {{TA|2763|n}}. By this time Gondor started recovering its strength.
+
+During Beregond's rule, the [[War of the Dwarves and Orcs]] was fought ({{TA|2793}} - {{TA|2799|n}}).  Only rumours of the fighting came south until Orcs fleeing from the [[Battle of Nanduhirion]] crossed [[Rohan]] and established themselves in the [[White Mountains]].  Fighting occurred in many dales before they were eradicated.<ref>{{App|Stewards}}</ref>
+
+Beregond was followed by his son [[Belecthor II]] at his death in 2811.<ref name="South" />
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | EGA |EGA=[[Egalmoth (Steward of Gondor)|Egalmoth]]<br/><small>''{{TA|2626|n}} - {{TA|2743|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BER |BER=[[Beren (Steward of Gondor)|Beren]]<br/><small>''{{TA|2655|n}} - {{TA|2763|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BER |BER='''BEREGOND'''<br/><small>''{{TA|2700|n}} - {{TA|2811|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BEL |BEL=[[Belecthor II]]<br/><small>''{{TA|2752|n}} - {{TA|2872|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | THO |THO=[[Thorondir]]<br/><small>''{{TA|2782|n}} - {{TA|2882|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2700}}
+| died={{TA|2811}}
+}}
+{{seq
+| prev=[[Beren (Steward of Gondor)|Beren]]
+| list=20th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2763}} – {{TA|2811|n}}
+| next=[[Belecthor II]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Beregond (Truchsess von Gondor)]]
+[[fi:Beregond (käskynhaltija)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:beregond i]]

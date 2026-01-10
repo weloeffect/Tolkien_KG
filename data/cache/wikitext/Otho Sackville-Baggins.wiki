@@ -1,0 +1,65 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Otho Sackville-Baggins
+| image=The Lord of the Rings - The Fellowship of the Ring - Otho Sackville-Baggins.png
+| caption=Otho Sackville-Baggins from ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1310}}
+| birthlocation=
+| rule=
+| death={{SR|1412}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Sackville-Baggins Family|Sackville-Baggins]]
+| parentage=[[Longo Baggins]] and [[Camellia Sackville]]
+| siblings=
+| spouse=[[Lobelia Sackville-Baggins|Lobelia Bracegirdle]]
+| children=[[Lotho Sackville-Baggins|Lotho]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Otho Sackville-Baggins''' ({{TA|2910}} - {{TA|3012|n}}, died aged 102) was the husband of [[Lobelia Sackville-Baggins]] and the founder of the short-lived [[Sackville-Baggins Family]]. He was representative of the greedy and ill-mannered traits of his family.
+==History==
+Otho was the only known child of [[Longo Baggins]] and [[Camellia Sackville]].<ref name="Baggins">{{App|Baggins}}</ref> Through his mother, he was the head of the [[Sackville Family]], so he adopted the double surname out of custom.<ref name = "Letter214">{{LE|214}}</ref> Otho had [[pipe-weed]] plantations in the [[Southfarthing]].<ref>{{RK|Scouring}}</ref> He married [[Lobelia Sackville-Baggins|Lobelia Bracegirdle]] with whom he had a son named [[Lotho Sackville-Baggins|Lotho]].
+
+He was also second in line to patriarchy of the [[Baggins Family]], and would have been [[Bilbo Baggins]]' heir were it not for his adoption of his cousin [[Frodo Baggins|Frodo]]. Despite laws dictating that adoption of a member of a different family would not affect headship, Bilbo was of the opinion that Frodo was still deserving of the heirship, as he was a close relative of the same name. Otho objected, though it was ultimately decided that Frodo would become the family's official heir.<ref name = "Letter214"></ref> This did not sit well with Otho and his wife, as they both dearly wanted to live in [[Bag End]].<ref name="Party">{{FR|Party}}</ref>
+
+Nevertheless, Otho was a guest at [[Bilbo's Farewell Party]]. After Bilbo had vanished in front of the crowd during the celebration, Otho and his wife departed in wrath. The [[23 September|next day]] he and Lobelia visited Bag End and demanded from [[Merry Brandybuck]] to see Frodo and insisted on seeing Bilbo's will, which, unfortunately for him, was valid and clear that Frodo was his legal heir.<ref name="Party"/> 
+
+He did not live long enough to see Bag End as he died in {{SR|1412}}; it was six years later when Lobelia eventually did come into possession of Bag End, and moved in with her son.<ref>{{FR|Three}}</ref>
+
+==Etymology==
+The name ''Otho'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Otha''.<ref>{{App|Translation}}</ref>
+
+==Portrayal in adaptations==
+[[File:The Hobbit - An Unexpected Journey - Otho Sackville-Baggins.jpg|left|thumb|100px|Otho in [[The Hobbit (film series)|''The Hobbit'' (film series)]]]]
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Although he is not named as such until the programme credits, [[John Livesey]] plays Otho at Bilbo's 111th Birthday party.  He and Lobelia are given a brief exchange complaining about being part of one gross, and questioning what Frodo coming into his inheritance means. 
+
+'''2001: {{fotree}}:'''
+:[[Peter Corrigan]] plays Otho, though he does not have any lines.
+
+'''2012-14: [[The Hobbit (film series)|''The Hobbit'' (film series)]]:'''
+:Otho, played by Brian Hotter, appears briefly in both the [[The Hobbit: An Unexpected Journey (extended edition)|Extended Edition]] of ''[[The Hobbit: An Unexpected Journey]]'' where he and [[Lobelia Sackville-Baggins|Lobelia]] are seen in the [[Hobbiton]] marketplace, as well as ''[[The Hobbit: The Battle of the Five Armies]]'' where he and Lobelia again appear at the end when [[Bilbo Baggins|Bilbo]]'s possessions are being auctioned off. He once again does not have any lines in these films.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Hobbits]]
+[[Category:Sackville-Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Otho Sackheim-Beutlin]]
+[[fi:Otho Säkinheimo-Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet de besace/otho sacquet de besace]]

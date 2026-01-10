@@ -1,0 +1,58 @@
+{{disambig-more|Rían|[[Rían (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Rían
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=c. {{TA|2328}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Barahir (Steward of Gondor)|Barahir]]
+| siblings=[[Dior (Steward of Gondor)|Dior]]
+| spouse=
+| children=[[Denethor I]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rían''' was, according to "[[The Heirs of Elendil]]", the daughter of the Steward [[Barahir (Steward of Gondor)|Barahir]] of [[Gondor]]. After her brother [[Dior (Steward of Gondor)|Dior]] died childless, her son [[Denethor I]] became the tenth [[Ruling Steward]].<ref>{{PM|Elendil}}, p. 204</ref> In "[[The Tale of Years of the Third Age]]" Denethor I is told to be Dior's son.<ref>[[PM|Years]], p. 235, 249.</ref>
+
+Rían was probably named after the daughter of [[Belegund]] of the [[House of Bëor]] of the [[First Age]].
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HAD | | | | |HAD=[[Hador (Steward of Gondor)|Hador]]<br/><small>''{{TA|2245|n}} - {{TA|2395|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | BAR | | | | |BAR=[[Barahir (Steward of Gondor)|Barahir]]<br/><small>''{{TA|2290|n}} - {{TA|2412|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DIO | | RIA | | |DIO=[[Dior (Steward of Gondor)|Dior]]<br/><small>''{{TA|2328|n}} - {{TA|2435|n}}''</small>|RIA='''RÍAN'''<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | DEN | | |DEN=[[Denethor I]]<br/><small>''{{TA|2375|n}} - {{TA|2477|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DAU | | BOR |DAU=''two daughters''<br/><small>''unknown''</small>|BOR=[[Boromir (Steward of Gondor)|Boromir]]<br/><small>''{{TA|2410|n}} - {{TA|2489|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+{{title}}
+{{DEFAULTSORT:Rian}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Third Age characters]]
+[[de:Rían (Mutter von Denethor I.)]]
+[[fi:Rían (Gondor)]]

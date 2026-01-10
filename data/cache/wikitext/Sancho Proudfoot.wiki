@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Sancho Proudfoot
+| image=The Lord of the Rings - The Fellowship of the Ring (video game) - Sancho Proudfoot.png
+| caption=Sancho Proudfoot in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{TA|2990}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Proudfoot Family|Proudfoot]]
+| parentage=[[Olo Proudfoot]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Sancho Proudfoot''' (b. {{TA|2990}}<ref name="AppC">{{App|Baggins}}</ref>) was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+The son of [[Olo Proudfoot]], at the age of eleven, Sancho was present at the [[Bilbo's Farewell Party|Farewell Party]] of his uncle [[Bilbo Baggins|Bilbo]], along with his father and grandfather [[Odo Proudfoot|Odo]].<ref name="AppC"/> 
+
+The day after, on [[23 September]], {{TA|3001}}, he went to [[Bag End]] to seek for a treasure he heard rumours about. [[Frodo Baggins|Frodo]] could just stop him, but not after Sancho had already started excavating the pantry, where he thought he heard an echo.<ref name="Party">{{FR|Party}}</ref>
+==Other versions of the legendarium==
+In early drafts of ''[[The Lord of the Rings]]'', Sancho is thrown out by Frodo's (at that stage referred to as Bingo) lawyers, [[Iago Grubb]] and [[Folco Burrowes]] eject him when he tries to loot the pantry.<ref>{{RS|1Iiii}}</ref>
+==Etymology==
+Jim Allan recognizes the name as one of the short meaningless [[Hobbitish]] names<ref>{{HM|IE}}, Giving of Names, p. 192</ref> in which case it probably represents genuine Hobbitish ''Sancha''.<ref>{{App|Translation}}</ref>
+
+[http://en.wiktionary.org/wiki/Sancho Sancho] is a real Spanish name which derives from Latin ''sanctius'' "holy". This makes Sancho one of the very few Spanish names appearing in the [[legendarium]].
+
+==Portrayal in adaptations==
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:A young Hobbit named Sancho Proudfoot - or, the "dread highwayman Sancho Proudfoot ", as he prefers to call himself - causes quite some mischief in Hobbiton and [[Bywater]]. Several of the early missions the player - as Frodo - has to do involve solving problems caused by Sancho, such as retrieving a metal pin of the [[Old Mill|Hobbiton Mill]] and [[Old Noakes]]' medicinal herbs.<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], levels "Hobbiton" and "Bywater"</ref>
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Proudfoot]]
+[[Category:Third Age characters]]

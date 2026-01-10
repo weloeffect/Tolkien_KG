@@ -1,0 +1,90 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Aravir
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2156}}
+| birthlocation=
+| rule={{TA|2247}} - {{TA|2319|n}}
+| death={{TA|2319}}
+| deathlocation=
+| age=163
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Aranuir]]
+| siblings=
+| spouse=
+| children=[[Aragorn I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aravir''' ({{TA|2156}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2319|n}},<ref name="North">{{App|North}}</ref> died aged 163) was the fourth [[Chieftain of the Dúnedain]], following his father, [[Aranuir]], upon his death in 2247. 
+
+==History==
+Aravir's rule was uneventful, except for the usual skirmishes with [[orcs]]. Aravir died in {{TA|2319|n}}, after having been Chieftain for seventy-two years, and was followed by his son [[Aragorn I]].<ref name="North"/>
+
+==Etymology==
+''Aravir'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests it means "Royal Jewel".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is probably a compound of the prefix ''[[ara|ar(a)-]]'' ("noble", "royal", "high") and the [[lenition|lenited]] form ''vir'' of ''mîr'' ("jewel", "treasure", precious thing).<ref name=Tolkiendil/><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2500979369.html|articlename=S. ''Aravir'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Arahael]]<br/><small>''{{TA|2012|n}} - {{TA|2177|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aranuir]]<br/><small>''{{TA|2084|n}} - {{TA|2247|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARAVIR'''<br/><small>''{{TA|2156|n}} - {{TA|2319|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aragorn I]]<br/><small>''{{TA|2227|n}} - {{TA|2327|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Araglas]]<br/><small>''{{TA|2296|n}} - {{TA|2455|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2156}}
+| died={{TA|2319}}
+}}
+{{seq
+| prow=2
+| prev=[[Aranuir]]
+| list=27th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2247}} - {{TA|2319|n}}
+| next=[[Aragorn I]]
+| nrow=2
+}}
+{{seq
+| list=4th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2247}} - {{TA|2319|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Aravir]]
+[[fi:Aravir]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/aravir]]

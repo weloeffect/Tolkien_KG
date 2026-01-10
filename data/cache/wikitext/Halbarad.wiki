@@ -1,0 +1,84 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Halbarad
+| image=Andrea Piparo - Halbarad.jpg
+| caption="Halbarad" by [[:Category:Images by Andrea Piparo|Andrea Piparo]]
+| pronun=
+| othernames=[[Dúnedain|Dúnadan]]
+| titles=
+| position=[[Rangers of the North|Ranger]]
+| location=[[Eriador]]
+| affiliation=[[Grey Company]]
+| language=[[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=[[15 March]], {{TA|3019}}
+| deathlocation=[[Battle of the Pelennor Fields]]
+| age=
+| notablefor=
+| house=
+| parentage=Unknown (a kinsman of [[Aragorn]])<ref>{{RK|Company}}, pp. 775-6</ref>
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Quote|Halbarad Dúnadan, Ranger of the North I am. We seek one Aragorn, son of Arathorn, and we heard he was in Rohan.|Halbarad in "[[The Passing of the Grey Company]]"}}
+
+'''Halbarad''' was a [[Rangers of the North|Ranger]] of [[Eriador]]. 
+
+==History==
+Halbarad spent his early life watching the borders of [[the Shire]]. 
+
+During the [[War of the Ring]], Halbarad was sent to the aid of his [[Chieftains of the Dúnedain|Chieftain]] [[Aragorn]]. From [[Eriador]], he led a thirty-man strong group of Rangers, calling themselves the [[Grey Company]]. With them rode [[Elladan]] and [[Elrohir]], the sons of [[Elrond]]. In the night between the [[5 March|5th]] and the [[6 March|6th of March]], the Company met Aragorn at [[Dol Baran]]. Halbarad gave his kinsman a standard, which was a gift from [[Arwen]], and a message, summoning him to take the [[Paths of the Dead]].<ref>{{RK|Company}}</ref>
+
+The Grey Company, now with [[Gimli]] and [[Legolas]] part of [[Aragorn]]'s comitatus, passed through the Paths of the Dead, to the [[Stone of Erech]], over [[Tarlang's Neck]], and on to [[Pelargir]]. He captained a [[Corsair]] ship and they sailed toward [[Harlond in Gondor|Harlond]].<ref name="Debate">{{RK|Debate}}</ref>
+
+On [[15 March|March 15]] they arrived on the [[Pelennor Fields]] and fought in the [[Battle of the Pelennor Fields|battle]]. Halbarad unfurled the standard, and it showed the [[White Tree of Gondor|White Tree]] of [[Gondor]] and the signs of [[Elendil]]. He was killed in this battle, and would never return to the North.<ref name="Battle">{{RK|Battle}}</ref>
+
+==Etymology==
+Though ''Halbarad'' is not glossed, it is suggested by [[David Salo]] to possibly be a [[Sindarin]] name comprised of the element ''[[barad]]'' ("tower, great towering building") and the [[Noldorin]] ''[[hall]]'' ("exalted, high").<ref>{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-3563380475.html|articlename=S. ''Halbarad'' m.|website=[[Eldamo]]|accessed=18 October 2022}}</ref>
+
+==Portrayal in adaptations==
+===Halbarad in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Quinton Hoover - Halbarad.jpg|''[[Middle-earth Collectible Card Game]]''
+File:The Lord of the Rings Trading Card Game - Halbarad, Ranger of the North.jpg|''[[The Lord of the Rings Trading Card Game]]''
+File:The Lord of the Rings Online - Halbarad.jpg|''[[The Lord of the Rings Online]]''
+File:SBG - Halbarad.gif|''[[Middle-earth Strategy Battle Game]]''
+File:The Lord of the Rings - War in the North - Halbarad.jpg|''[[The Lord of the Rings: War in the North]]''
+Andrea Piparo - Halbarad.jpg|''[[War of the Ring: The Card Game]]''
+</gallery>
+'''1979: [[The Lord of the Rings (1979 radio series)|''The Lord of the Rings'' (1979 radio series)]]:'''
+:Halbarad is played by an uncredited actor.
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Halbarad had a role similar to his role in the book. He was voiced by [[Martyn Read]].
+
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:Halbarad, a sage/diplomat hero character, is illustrated by [[Quinton Hoover]].
+'''2001-7: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:Halbarad is portrayed by [[Warren Mahy]].
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+
+:Halbarad is in command of [[Esteldín]], a hidden [[Dúnedain]] city in the [[North Downs]]. After receiving orders from Elrond to seek out Aragorn in Rohan, Halbarad gathered a large company of Rangers to head south. After suffering short delays in Enedwaith, Halbarad managed to form an alliance of sorts with the Falcon Clan in Dunland. However, Halbarad and his company were soon betrayed and imprisoned by the Falcon Clan. Some of the Rangers with Halbarad managed to escape and soon the Grey Company was free, at the cost of many lives. By the time they reached the borders of Rohan, only 30 of their number remained. At the [[Battle of the Pelennor Fields]], Halbarad sacrifices himself to protect Aragorn from being killed by [[Gothmog]].
+
+'''2011: ''[[The Lord of the Rings: War in the North]]:'''
+:Halbarad appears at the beginning of the game at the [[Sarn Ford]]. Shortly after the [[Nazgûl]] attacked the [[Dúnedain of Arnor|Dúnedain]] who guarded [[the Shire]], he sends [[Eradan (video game character)|Eradan]], [[Andriel]] and [[Farin (video game character)|Farin]] to [[Bree]] to warn [[Aragorn]].<ref>[http://www.oxmonline.com/ Official Xbox Magazine Online], [http://www.oxmonline.com/article/previews/g-l/lord-rings-war-north The Lord of the Rings: War in the North], dated [[28 April]], [[2011]] (accessed at [[7 July]], [[2011]])</ref>
+
+{{References}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Dúnedain of the North]]
+[[Category:Rangers]]
+[[Category:Third Age characters]]
+[[de:Halbarad]]
+[[fi:Halbarad]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:dunedain du nord:halbarad]]

@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Cottar
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1220}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=
+| siblings=
+| spouse=
+| children=[[Cotman]] and [[Carl (son of Cottar)|Carl]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Cottar''' was the progenitor of the [[Cotton Family]].
+
+==History==
+Cottar was born in {{SR|1220}}, and had two sons: [[Cotman]] and [[Carl (son of Cottar)|Carl]]. Cotman married [[Rose (daughter of Holman)|Rose]], the daughter of [[Holman the greenhanded]].<ref>{{App|Gamgee}}</ref>
+==Etymology==
+In Middle English ''cottar'' means "cotter, cottager" ([[Old English]] ''cot'' "cottage").<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{references}}
+[[Category:Cotton]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Hütter]]
+[[fi:Tölliläinen]]
+[[fr:encyclo/personnages/hobbits/chaumine/cottar]]

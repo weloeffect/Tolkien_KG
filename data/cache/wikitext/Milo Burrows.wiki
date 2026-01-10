@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Milo Burrows
+| image=The Lord of the Rings - The Fellowship of the Ring (video game) - Milo Burrows.png
+| caption=Milo Burrows from [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Burrows Family|Burrows]]
+| parentage=[[Rufus Burrows]] and [[Asphodel Brandybuck]]
+| siblings=
+| spouse=[[Peony Baggins]]
+| children=[[Mosco Burrows|Mosco]], [[Moro Burrows|Moro]], [[Myrtle Burrows|Myrtle]] and [[Minto Burrows|Minto]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Milo Burrows''' was a hobbit of [[the Shire]]. 
+
+==History==
+Milo was a grandson of [[Gorbadoc Brandybuck]] of [[Buckland]], who married into the [[Baggins Family]] when he wedded [[Peony Baggins|Peony]], and a nephew of both Bilbo and [[Frodo Baggins]]. They had four children - [[Mosco Burrows|Mosco]], [[Moro Burrows|Moro]], [[Myrtle Burrows|Myrtle]] and [[Minto Burrows|Minto]] - and all of the family was present at Bilbo's famous [[Bilbo's Farewell Party|Birthday Party]].<ref>{{App|Baggins}}</ref> 
+
+Milo was known for his habit of failing to reply to letters, and because of this he was one of those that found a specially selected gift waiting for him in [[Bag End]], after Bilbo's departure: a golden inkpot and pen.<ref>{{FR|I1}}</ref>
+
+==Portrayal in adaptations==
+'''1990: ''[[The Lord of the Rings: Volume 1]]'':'''
+:A Hobbit named Milo warns [[Frodo Baggins|Frodo]] of wolves that are about in the Shire.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Milo Burrows, voiced by an uncredited [[Michael Reisz]], lives at Number 4, [[Bagshot Row]]. He expresses pleasure that Frodo is no longer associating with "Elves and Wizards", causing Frodo to politely make his excuses and leave.
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Burrows]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/fouine/milo fouine]]

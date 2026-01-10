@@ -1,0 +1,81 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Ostoher
+| image=Matěj Čadil - Ostoher of Gondor.jpg
+| caption="Ostoher of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|222}}
+| birthlocation=
+| rule={{TA|411}} - {{TA|492|n}} (81 years)
+| death={{TA|492}}
+| deathlocation=
+| age=270
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Anardil (King of Gondor)|Anardil]]
+| siblings=
+| spouse=
+| children=[[Rómendacil I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Ostoher''' ({{TA|222}}<ref name="Elendil">{{PM|Elendil}}</ref> – {{TA|492|n}},<ref>{{App|South}}</ref> aged 270) was the seventh [[King of Gondor]].
+
+==History==
+In {{TA|420}}, Ostoher rebuilt and enlarged [[Minas Anor]].<ref name="TA">{{App|TA}}</ref> Upon completion, he made Minas Anor his summer residence, which became the tradition of his successors.<ref>{{App|Gondor}}</ref>
+
+Later, in {{TA|490}}, [[Gondor]] was invaded for the first time by [[Easterlings]].  Since Ostoher had become an old man his son [[Tarostar]] worked to defeat this threat.  Tarostar succeeded, but not until {{TA|500}}, years after Ostoher's death.<ref name="TA"/>
+
+==Etymology==
+''Ostoher'' is [[Quenya]]. Its meaning is not glossed, but Paul Strack explains that it seems to mean "City Lord" and seems to be a compound of [[osto]] ("city", "fortress") and [[heru]] ("lord").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2433255139.html|articlename=Q. ''Ostoher'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | EAR |EAR=[[Eärendil (King of Gondor)|Eärendil]]<br/><small>''{{TA|48|n}} - {{TA|324|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ANA |ANA=[[Anardil (King of Gondor)|Anardil]]<br/><small>''{{TA|136|n}} - {{TA|411|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | OST |OST='''OSTOHER'''<br/><small>''{{TA|222|n}} - {{TA|492|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ROM |ROM=[[Rómendacil I]]<br/><small>''{{TA|310|n}} - {{TA|541|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | TUR |TUR=[[Turambar (King of Gondor)|Turambar]]<br/><small>''{{TA|397|n}} - {{TA|667|n}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+Ostoher's name was originally "Ostohir", which was changed to "Ostonir", and then finally "Ostoher" in the Second Edition of ''The Lord of the Rings''.<ref name="Elendil"/>
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of the [[House of Elendil]]</small>
+| born={{TA|222}}
+| died={{TA|492}}
+}}
+{{seq
+| prev=[[Anardil (King of Gondor)|Anardil]]
+| list=7th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|411}} - {{TA|492|n}}
+| next=[[Rómendacil I]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Ostoher]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/ostoher]]
+[[fi:Ostoher]]

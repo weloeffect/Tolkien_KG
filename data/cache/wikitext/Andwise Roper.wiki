@@ -1,0 +1,51 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Andwise Roper
+| image=
+| caption=
+| pronun=
+| othernames=Andy
+| titles=
+| position=
+| location=[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1323}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Hobson|Hobson "Roper" Gamgee]]
+| siblings=[[Gaffer Gamgee|Hamfast]], [[May (hobbit)|May]] and [[Halfred of Overhill|Halfred]]
+| spouse=
+| children=[[Anson Roper]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Andwise "Andy" Roper''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Andwise was the son of [[Hobson|Hobson "Roper" Gamgee]], an older brother of [[Gaffer Gamgee|Hamfast Gamgee]]. Whereas his brother became a gardener, Andwise inherited the family [[Wikipedia:ropewalk|rope-walk]] in [[Tighfield]], and continued the family trade.<ref name=taming>{{TT|Taming}}</ref> He left his ropewalk to his son [[Anson Roper|Anson]] after his death, founding the [[Roper family]].<ref name="Gamgee">{{App|Gamgee}}</ref> 
+
+[[Sam Gamgee]], seeing how the [[Elves]] used ropes to cross the [[Silverlode]] in [[Lothlórien]], said that not even his "Uncle Andy" did those tricks.<ref>{{FR|Lorien}}</ref> Later he mentioned him and Hobson as an example that to know about ropes and knots is "in the family".<ref name=taming/>
+
+==Etymology==
+The name comes from [[Old English]] ''andwīs'' which means "expert, skilful".<ref>{{HM|IE}}, "Giving of Names"</ref>
+{{References}}
+
+[[Category:Gamgee]]
+[[Category:Hobbits]]
+[[Category:Roper]]
+[[Category:Third Age characters]]
+
+[[de:Andweis Seiler]]
+[[fi:Andvais Gamgi]]
+[[fr:encyclo/personnages/hobbits/cordier/andwise cordier]]

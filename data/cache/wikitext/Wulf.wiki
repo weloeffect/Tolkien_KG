@@ -1,0 +1,67 @@
+{{infobox character
+| people-duplicated=[[Men|Man]]
+| name=Wulf
+| image=Turner Mohan - Wulf.jpg
+| caption="Wulf" by [[:Category:Images by Turner Mohan|Turner Mohan]]
+| people=[[Dunlendings|Dunlending]]
+| pronun=
+| othernames=
+| titles=self-proclaimed "King of Rohan"
+| position=
+| location=[[Dunland]]<br/>[[Rohan]]
+| affiliation=[[Dunlendings]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|2759}}
+| deathlocation=[[Edoras]]; killed by [[Fréaláf]]
+| age=
+| notablefor=
+| house=Descended from the [[House of Eorl]]
+| parentage=[[Freca]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=Dark
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Wulf''' (fl. {{TA|2754}}—{{TA|2759}}) was a young nobleman who dwelt in the [[West-march]]. He was the son of [[Freca]] and it was said that their family had a measure of [[Dunlendings|dunlendish]] blood.
+==History==
+Freca attempted to force a marriage between Wulf and the daughter of King [[Helm|Helm Hammerhand]]. When Freca's plan failed, he was slain, and Wulf found himself declared the King's enemy. He fled across the borders into [[Dunland]], where he seems to have been warmly received. For four years, Wulf built up his power in Dunland, and allied himself with Rohan's and [[Gondor]]'s enemies. 
+
+In the year {{TA|2758}}, with Rohan's armies drawn into the east to repel an attack there, Wulf and his allies invaded from the west. They devastated Helm's forces at the [[Fords of Isen]] and overran the country and took [[Edoras]], where Wulf killed Prince [[Haleth (son of Helm)|Haleth]]; he sat in the [[Golden Hall]] and claimed the Kingship of Rohan. 
+
+The exiled King, Helm, was driven into hiding in the mountains. During the [[Long Winter]] Wulf's armies besieged him at [[Hornburg]], and Helm's nephew, [[Fréaláf]] at [[Dunharrow]]. Helm and his second son died of the cold. In the spring, Helm was avenged by Fréaláf, who led a small party into Edoras and killed 'King' Wulf in {{TA|2759}}. With help from [[Gondor]], Fréaláf cleared Wulf's followers from Rohan, and succeeded his uncle Helm to become its tenth rightful King.<ref>{{App|Eorl}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| FRE | |FRE=[[Freca]]<br /><small>''d. {{TA|2754}}''</small>}}
+{{familytree| |!| | |}}
+{{familytree| WUL | |WUL='''WULF'''<br /><small>''d. {{TA|2759}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Frealaf defeats Wulf Frecason in Meduseld.jpg|thumb|left|''[[The Lord of the Rings Online]]'' tapestry: Frealaf defeats Wulf Frecason in Meduseld]]
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+: A tapestry depicting Fréaláf killing Wulf is found in [[Meduseld]] and can be acquired for use in player's houses.
+
+[[File:The War of the Rohirrim - Wulf.jpg|thumb|Wulf as seen in [[The Lord of the Rings: The War of the Rohirrim|The War of the Rohirrim]]]]
+'''2024: ''[[The Lord of the Rings: The War of the Rohirrim]]'':'''
+: Luke Pasqualino is the voice for Wulf in the anime film.<ref>{{webcite|author=|articleurl=https://www.imdb.com/title/tt14824600/fullcredits|articlename=|dated=|website=[https://www.imdb.com IMDB]|accessed=June 11th, 2024}}</ref>
+
+
+
+
+{{references}}
+[[Category:Dunlendings]]
+[[Category:Old English names]]
+[[Category:Third Age characters]]
+[[de:Wulf]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/wulf]]
+[[fi:Wulf]]

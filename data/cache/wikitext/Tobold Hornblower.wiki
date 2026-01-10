@@ -1,0 +1,56 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Tobold Hornblower
+| image=Mithril Miniatures - Tobold Hornblower.jpg
+| caption="Tobold Hornblower" - ''[[Mithril Miniatures|Mithril Miniature]]''
+| pronun=
+| othernames=Old Toby
+| titles=
+| position=Cultivator of [[pipe-weed]]
+| location=[[Longbottom]]
+| affiliation=
+| language=
+| birth=[[Third Age]]
+| birthlocation=
+| rule=
+| death=[[Third Age]]
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Hornblower]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tobold "Old Toby" Hornblower''' was a [[Hobbits|Hobbit]] famous for introducing pipe-weed to the Shire.<ref name=Pipeweed>{{FR|Pipeweed}}, p. 8</ref><ref name=Road>{{TT|Road}}, p. 558</ref>
+
+==History==
+Tobold Hornblower came from [[Longbottom]] in the [[Southfarthing]] of [[the Shire]]. Around {{SR|1070}} ({{TA|2670}})<ref>{{App|TA}}, p. 1870</ref> he started to grow true pipe-weed in his gardens, the first recorded Hobbit to do so.<ref name=Pipeweed/><ref name=Road/> He was not much of a traveller, but in his youth he often visited [[Bree]]. He already had a keen interest in herbs and it is speculated that in one of these visits he learned of [[pipe-weed]] and of [[smoking]] from the [[Bree-hobbits]] (who claim to be the first smokers of that herb).<ref name=Pipeweed/> Toby however never revealed how he came by the weed. 
+
+His name, "[[Old Toby]]", was given to a variety of weed that was still popular in the late Third Age.<ref name=Pipeweed/>
+
+==Etymology==
+Tobold is a form of ''[[Wikipedia:Theudebald|Theobald]]'' which contains ''theud'' "people" and ''bald'' "bold".<ref>{{HM|RC}}, p. 31</ref> 
+
+==Other versions of the legendarium==
+In a draft version of the chapter "[[The Road to Isengard]]", the name of this hobbit was Elias Tobiasson of [[Mugworth]].<ref>{{WR|1|III}}, p. 36</ref> ''Elias Tobiasson'' is a common name in modern Swedish.<ref>{{WP|Elisa}} and {{WP|Tobiasson}}</ref>
+
+In another early version of the [[legendarium]], Toby was named ''Tobias Hornblower'', and his [[Westron]] name was ''Zāra-tōbi''<ref name=Languages§50>{{PM|Languages}}, Personal names, §50</ref> ''Raspūta''.<ref>{{PM|Languages}}, On Translation, §42</ref>
+
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Hornblower]]
+[[Category:Third Age characters]]
+
+[[de:Tobold Hornbläser]]
+[[fi:Tobold Piipari]]
+__NOTOC__

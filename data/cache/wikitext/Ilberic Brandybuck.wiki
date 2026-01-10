@@ -1,0 +1,54 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ilberic Brandybuck
+| image=Kent Burles - Ilberic Brandybuck.jpg
+| caption="Ilberic Brandybuck" by [[:Category:Images by Kent Burles|Kent Burles]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1391}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Seredic Brandybuck]] and [[Hilda Bracegirdle]]
+| siblings=[[Doderic Brandybuck|Doderic]] and [[Celandine Brandybuck|Celandine]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ilberic Brandybuck''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Ilberic was the second son of [[Seredic Brandybuck]] and [[Hilda Bracegirdle]], born in {{SR|1391}}. In {{SR|1401}} little Ilberic attended [[Bilbo's Farewell Party]] with his family.<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Ilberic'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+[[Jim Allan]] suggests that the name ''Ilberic'' seems to be Germanic. It is a variaton of the name ''Alberic'' and contains the elements ''alb'' ("[[Elves|Elf]]") and ''ric'' ("reign", "rule"). [[Wikipedia:Alberic|Alberic]] is a dwarf king in medieval German heroic literature who appears in [[Richard Wagner]]'s [[Der Ring des Nibelungen|Ring cycle]].<ref>{{HM|IE}}, "Giving of Names", p. 191</ref>
+
+==Other versions of the legendarium==
+In an earlier version of the family tree for the [[Brandybucks]], the name of Ilberic was '''''Alberic'''''.<ref>{{PM|Trees}}, Brandybuck of Buckland, BR 5</ref>
+
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]
+
+[[de:Ilberic Brandybock]]
+[[fi:Ilberic Rankkibuk]]
+[[fr:encyclo/personnages/hobbits/brandebouc/ilberic brandebouc]]

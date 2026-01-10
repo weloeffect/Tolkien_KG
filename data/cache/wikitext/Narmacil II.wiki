@@ -1,0 +1,87 @@
+{{disambig-two|twenty-ninth King of Gondor|seventeenth King|[[Narmacil I]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Narmacil II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1684}}
+| birthlocation=
+| rule={{TA|1850}} - {{TA|1856|n}} (6 years)
+| death={{TA|1856}}
+| deathlocation=[[Battle of the Plains]]
+| age=172
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Telumehtar Umbardacil|Telumehtar]]
+| siblings=[[Arciryas]]
+| spouse=
+| children=[[Calimehtar (King of Gondor)|Calimehtar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Narmacil II''' ({{TA|1684}}<ref name=PM>{{PM|Elendil}}, manuscript C, The Southern Line of Gondor: the Anarioni, 29. Narmakil II, p. 200</ref> - {{TA|1856|n}},<ref>{{App|South}}, entry for Narmacil II, p. 1038</ref> aged 172 years) was the twenty-ninth [[Kings of Gondor|King of Gondor]].<ref>{{App|South}}, ''Kings of Gondor'', p. 1038</ref> Narmacil was the son of King [[Telumehtar Umbardacil]]<ref name=Telumehtar>{{App|South}}, entry for Telumehtar Umbardacil, p. 1038</ref> and the brother of [[Arciryas]].<ref>{{App|Gondor}}, entry for King Eärnil II, p. 1050</ref>
+
+==History==
+Narmacil II became King of Gondor when his father Telumehtar died in {{TA|1850}}.<ref name=Telumehtar/> A year later in {{TA|1851}}, incited by emissaries from [[Sauron]] the [[Wainriders]], a people or a confederacy of many peoples that came from the East, had been stirred up by emissaries from [[Sauron]] and began to attack Gondor.<ref>{{App|TA}}, entry for the year 1851, p. 1086</ref> The [[Northmen]], a confederation of peoples that lived in the wide plains between [[Mirkwood]] and the [[River Running]],<ref>{{UT|Northmen}}, second paragraph</ref> bore the main impact of the first attack of the Wainriders.<ref name=Northmen>{{UT|Northmen}}, fourth pagraph</ref>
+
+In {{TA|1856}}<ref>{{App|TA}}, entry for the year 1856, p. 1086</ref> Narmacil II came with a great army to the plains south of Mirkwood and assembled as many of the dispersed remnants of the Northmen as was possible<ref name=Northmen/> and fought with the aid of horsemen of the Northmen under [[Marhari]], a descendant of [[Vidugavia]]<ref name=Note5>{{UT|8e}}, note 5</ref> against the Wainriders in the [[Battle of the Plains]].<ref name=Northmen/> In that battle the army of Gondor and the Northmen were defeated and Narmacil II was killed.<ref name=Northmen/> The remnant of the army of Gondor<ref name=Northmen/> with a reardguard of the horsemen of the Northmen<ref name=Note5/> retreated over the [[Dagorlad]] to [[Ithilien]], but Marhari was killed during the retreat.<ref name=Northmen/> However, the army of Gondor had inflicted such losses on the Wainriders that they did not enough forces left to continue with their invasion of Gondor without further reinforcements from the East and instead completed their conquest of [[Rhovanion]].<ref name=Note5/>
+
+Gondor withdrew its borders for that time to the Anduin and the [[Emyn Muil]]<ref name=NarmacilII>{{App|Gondor}}, entry for King Narmacil II, pp. 1048-49</ref> and abandoned all its eastern lands except Ithilien.<ref name=Northmen/> A few of the Northmen fled over the River Running and joined the folk of [[Dale]] with whom they were related, some Northmen searched refuge in Gondor and other Northmen were assembled by [[Marhwini]], the son of Marhari and migrated north between the Anduin and Mirkwood and settled in the [[Vales of Anduin]]. Many Northmen fled through Mirkwood and joined Marhari's group. The rest of the Northmen were enslaved by the Wainriders who had occupied all their former lands.<ref>{{UT|Northmen}}, fifth paragraph</ref> It is believed that the [[Ringwraiths]] reentered [[Mordor]] at this time.<ref name=NarmacilII/>
+
+Narmacil was succeeded by his son [[Calimehtar (King of Gondor)|Calimehtar]].<ref>{{App|Gondor}}, entry for King Calimehtar, p. 1049</ref>
+
+==Etymology==
+:''See: [[Narmacil I#Etymology]]''
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | TAR | | | | |TAR=[[Tarondor (King of Gondor)|Tarondor]]<br/><small>''{{TA|1577|n}} - {{TA|1798|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | TEL | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | |,|-|-|-|^|-|-|-|.| |}}
+{{familytree | NAR | | | | | | ARC |NAR='''NARMACIL II'''<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | | | | | |!| |}}
+{{familytree | CAL | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | |)|-|-|-|.| | | |!| |}}
+{{familytree | OND | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+The earliest version of what would later become Appendix A mentioned that there was a battle with the Ringwraiths in his time, that the Ringwraiths seized Mordor and that Osgiliath ended to be the seat of the Kings of Gondor.<ref>{{PM|Elendil}}, Commentary, Narmakil II, manuscript A</ref> In the next version the Ringwraiths had seized Mordor long ago, attacked Ithilien and the Witch-king killed Narmakil. This was changed to that the Ringwraiths reentered Mordor, that Men out of the East riding in great wains attacked Gondor and that Narmakil was killed in battle.<ref>{{PM|Elendil}}, Commentary, Narmakil II, manuscript B</ref> In the latest version the ceasing of the vigilance is added as the reason for the Ringwraiths reentering Mordor. It is added that Narmakil II died in a battle northeast of the Morannon with Men out of the East, but those men still remain unnamed.<ref name=PM/>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1684}}
+| died={{TA|1856}}
+}}
+{{seq
+| prev=[[Telumehtar Umbardacil]]
+| list=29th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1850}} - {{TA|1856|n}}
+| next=[[Calimehtar (King of Gondor)|Calimehtar]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+
+[[de:Narmacil II.]]
+[[fi:Narmacil II]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/narmacil_ii]]

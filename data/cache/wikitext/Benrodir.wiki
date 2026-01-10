@@ -1,0 +1,9 @@
+'''Benrodir''' was the "prince of [[Anórien|Anárion]]" whose name appears in the early drafts of ''[[The Lord of the Rings]]''. He is mentioned in a sketch alongside [[Northiligand|Nosdiligand]] and [[Inram]] as one of the leaders of [[Gondor]] that came to the aid of [[Minas Tirith]] during the [[War of the Ring]].<ref>{{WR|3|II}}, ''Sketches for Book Five'', p. 252</ref> Nothing else is known about him, as he appears nowhere else in the [[legendarium]].
+
+== Etymology ==
+According to ''[[Eldamo]]'' the name '''''Benrodir''''' is in [[Noldorin]]. [[Roman Rausch]] suggests that the second element of the name could be ''rodir'' ("nobleman"), composed of ''[[raud]]'' ("noble, eminent; lofty, high, tall; excellent") and ''[[dîr]]'' ("man").<ref>{{webcite|author=[[Paul Strack]]|articleurl=https://eldamo.org/content/words/word-1042770293.html|articlename=N. ''Benrodir'' loc.|website=Eldamo|accessed=25 March 2022}}</ref>
+
+{{references}}
+[[Category:Gondorians]]
+[[Category:Noldorin names]]
+[[Category:Third Age characters]]

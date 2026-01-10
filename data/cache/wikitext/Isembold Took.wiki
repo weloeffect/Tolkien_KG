@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isembold Took
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1242}}
+| birthlocation=
+| rule=
+| death={{SR|1346}} 
+| deathlocation=
+| age=104
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Gerontius Took]] and [[Adamanta Chubb]]
+| siblings=[[Isengrim Took III|Isengrim]], [[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras]], [[Hildigrim Took|Hildigrim]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Hildibrand Took|Hildibrand]], [[Belladonna Took|Belladonna]], [[Donnamira Took|Donnamira]], [[Mirabella Took|Mirabella]] and [[Isengar Took|Isengar]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Isembold Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Isembold was the fifth child of [[Gerontius Took]] and [[Adamanta Chubb]]. He had many descendants, and died in {{SR|1346}}.<ref>{{App|Took}}</ref>
+==Etymology==
+The name contains ''isen'' "iron" and ''bold'' "bold".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+{{references}}
+[[Category:Germanic names]][[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Isembold Tuk]]
+[[fi:Isembold Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/isembold touque]]

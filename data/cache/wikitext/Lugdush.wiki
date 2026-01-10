@@ -1,0 +1,20 @@
+{{infobox character
+| people=[[Orcs|Orc]]
+| name=Lugdush
+| image=Steve Otis - Lugdush.jpg
+| caption=''Lugdush'' by Steve Otis
+| affiliation=[[Uruk-Hai|Uruks]] of [[Isengard]]
+| death=[[28 February]], [[Third Age 3019|T.A. 3019]]
+| deathlocation=Edge of [[Fangorn Forest]]
+| race=Orc
+| gender=Male
+}}
+
+'''Lugdush''' was an [[Orcs|Orc]], and apparently an [[Uruk-hai|Uruk]], in the service of [[Saruman]]. He was a member of [[Uglúk]]'s raiding band that captured [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] beneath [[Amon Hen]], and drove them westwards to the eaves of [[Fangorn Forest]]. It was there that Lugdush met his end, at the hands of [[Éomer]]'s [[Rohirrim]].<ref>{{TT|III3}}</ref>
+
+==Etymology==
+It's possible that his name contains the [[Orcish]] element ''lug-'' ("fortress, lock-up, prison"<ref>{{PE|17}}, p. 79</ref>) seen in the name for the [[Dark Tower]], ''Lugburz''.<ref>{{HM|Guide}}, p. 241</ref>{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Servants of Saruman]]
+[[Category:Third Age characters]]
+[[Category:Uruk-hai]]

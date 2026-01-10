@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Pansy Baggins
+| image=
+| caption=
+| pronun=
+| othernames=Pansy Bolger
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1212}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Balbo Baggins]] and [[Berylla Boffin]]
+| siblings=[[Mungo Baggins|Mungo]], [[Ponto Baggins I|Ponto]], [[Largo Baggins|Largo]], [[Lily Baggins|Lily]]
+| spouse=[[Fastolph Bolger]]
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Pansy Bolger, née Baggins''', was a Hobbit of [[the Shire]].
+
+==History==
+Pansy was the daughter of [[Balbo Baggins]] and [[Berylla Boffin]].<ref>{{App|Baggins}}</ref> She married [[Fastolph Bolger]], and had various descendants.<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+[[wikipedia:Pansy|Pansy]] is a small garden plant of the violet family. The word derives from French ''pensée'' "she who is thought".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{references}}
+
+[[Category:Baggins]]
+[[Category:Bolger]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Viola Bolger]]
+[[fi:Orvokki Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/pansy sacquet]]

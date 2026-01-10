@@ -1,0 +1,68 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Ornendil
+| image=Kent Burles - The Capture of Ornendil.png
+| caption="The Capture of Ornendil" by [[:Category:Images by Kent Burles|Kent Burles]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Before {{TA|1330}}<ref name=Elendil>{{PM|Elendil}}, The Southern Line of Gondor: the Anarioni, 23. Aldamir</ref>
+| birthlocation=
+| rule=
+| death={{TA|1437}}
+| deathlocation=
+| age=107+
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Eldacar (King of Gondor)|Eldacar]]
+| siblings=[[Aldamir]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ornendil''' was the older<ref>{{App|South}}, ''Kings of Gondor'', Aldamir</ref> son of King [[Eldacar (King of Gondor)|Eldacar]] of [[Gondor]].<ref name=Ornendil>{{App|Gondor}}, entry for king Eldacar</ref> 
+
+==History==
+In {{TA|1432}} Ornendil's grandfather, King [[Valacar]] died and the civil war of the [[Kin-strife]] began,<ref>{{App|TA}}, entry for the year 1432</ref> because some of the [[Dúnedain]], especially in the southern provinces refused to accept Eldacar as their new king, who had been born in an alien country and whose mother [[Vidumavi]] was perceived by them to be of a lesser race and alien race. [[Castamir|Castamir the Usurper]], one of the leaders of the rebels against his father Eldacar, besieged [[Osgiliath]], which Eldacar held for a long time.<ref name=Ornendil/> In {{TA|1437}}<ref>{{App|TA}}, entry for the year 1437</ref> the forces of Castamir took and burnt Osgiliath. Though [[Eldacar (King of Gondor)|Eldacar]] managed to escape to his kinfolk in [[Rhovanion]], Ornendil was captured, and put to death by Castamir.<ref name=Ornendil/> Ten years later, in {{TA|1447}},<ref>{{App|TA}}, entry for the year 1447</ref> Eldacar managed to avenge his son's death by killing Castamir in the [[Battle of the Crossings of Erui]].<ref name=Ornendil/>
+
+==Etymology==
+Ornendil is a [[Quenya]] name. It means "Lover of Trees".<ref>{{NM|P1iii}}, footnote 1</ref> It is a compound of [[orne]] ("tree") and [[-ndil|-(n)dil]] ("lover", "friend").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3384274191.html|articlename=Q. ''Ornendil'' m.|website=Eldamo|accessed=29 April 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | VID | | ROM | | CAL |VID=[[Vidugavia]]<br/><small>''unknown''</small>|ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |:| |}}
+{{familytree | VID |y| VAL | | |:| |VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | | | |!| | | | | |:| |}}
+{{familytree | | | ELD | | | | CAS |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>|CAS=[[Castamir]]<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | |!| |}}
+{{familytree | ORN | | ALD | | SON |ORN='''ORNENDIL'''<br/><small>''d. {{TA|1437|n}}''†</small>|ALD=[[Aldamir]]<br/><small>''{{TA|1330|n}} - {{TA|1540|n}}''†</small>|SON=''sons''<br/><small>''unknown''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | HYA | | | | |HYA=[[Hyarmendacil II]]<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree | | | | | |!| | | | | | |}}
+{{familytree | | | | | MIN | | | | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree/end}}
+
+==Other verions of the legendarium==
+A late manuscript of what would later become Appendix A mentions that Ornendil was killed in {{TA|1446}} and that his brother Aldamir was the third child of Eldacar, which implies that Ornendil also had a sister.<ref name=Elendil/>
+
+{{references}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Ornendil]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/ornendil]]
+[[fi:Ornendil]]

@@ -1,0 +1,102 @@
+{{disambig-two|the twelfth [[Chieftain of the Dúnedain]]|father of [[Aragorn]]|[[Arathorn II]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arathorn I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Eriador]] (incl. [[Rivendell]]<ref>{{App|Eriador}}, ''The North-kingdom and the Dúnedain'', paragraph after the entry for King Arvedui, p. 1043</ref>))
+| affiliation=
+| language=''Presumably'' [[Sindarin]] & [[Westron]]
+| birth={{TA|2693}}<sup>[[Arathorn I#Other versions of the legendarium|NB]]</sup>
+| birthlocation=
+| rule={{TA|2784}}<ref name=Arassuil>{{App|North}}, ''Chieftains'', Arassuil, p. 1038</ref> - {{TA|2848|n}}
+| death={{TA|2848}}<ref name=Arathorn>{{App|North}}, ''Chieftains'', Arathorn I, p. 1038</ref>
+| deathlocation=
+| age=155
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arassuil]]
+| siblings=
+| spouse=
+| children=[[Argonui]]<br />''Probably'' at least one other child<sup>[[Arathorn I#Other versions of the legendarium|NB]]</sup>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arathorn I''' was the twelfth [[Chieftain of the Dúnedain]].<ref name=Arathorn/>
+
+== History ==
+In the days of his father, [[Arassuil]], the [[Orcs of the Misty Mountains]] emerged again.<ref>{{App|Eriador}}, ''The North-kingdom and the Dúnedain'', p. 1043</ref> Arathorn succeeded Arassuil, on his death in {{TA|2784|n}}.<ref name=Arassuil/>
+
+Arathorn died prematurely<ref group=note>This is deduced from the dagger symbol (†) next to his year of death and the explanation of the meaning of this symbol in the introduction to ''[[Appendix A]]''.</ref> in {{TA|2848|n}}.<ref name=Arathorn/> He was succeeded by his son [[Argonui]].<ref>{{App|North}}, ''Chieftains'', Argonui, p. 1038</ref>
+
+== Etymology ==
+{{Pronounce|Arathorn.mp3|Ardamir}}
+The etymology of the name ''Arathorn'' is uncertain. See [[Arathorn II#Etymology|Arathorn II - Etymology]] for discussion.
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | HOS | | | | | | |HOS=''[[House of Isildur]]''}}
+{{familytree | | | |:| | | | | | | |}}
+{{familytree | | | |:| | | | | | | |}}
+{{familytree | | | ARA | | | | | | |ARA=[[Arahad II]]<br/><small>''{{TA|2563|n}} - {{TA|2719|n}}''</small>}}
+{{familytree | | | |!| | | | | | | |}}
+{{familytree | | | ARA | | | | | | |ARA=[[Arassuil]]<br/><small>''{{TA|2628|n}} - {{TA|2784|n}}''</small>}}
+{{familytree | | | |!| | | | | | | |}}
+{{familytree | | | ARA | | | | HOU |ARA='''ARATHORN I'''<br/><small>''{{TA|2693|n}} - {{TA|2848|n}}''†</small>|HOU=''[[House of Isildur]]''}}
+{{familytree | |,|-|^|-|.| | | |:| |}}
+{{familytree | ARG | | UNK | | GIL |ARG=[[Argonui]]<br/><small>''{{TA|2757|n}} - {{TA|2912|n}}''</small>|GIL=[[Gilbarad]]<br/><small>''b. {{TA}}''</small>|UNK=''unknown<br />child''<sup>[[Arathorn I#Other versions of the legendarium|NB]]</sup>}}
+{{familytree | |!| | | |:| | | |!| |}}
+{{familytree | ARA | | DIR |y| IVO |ARA=[[Arador]]<br/><small>''{{TA|2820|n}} - {{TA|2930|n}}''†</small>|DIR=[[Dírhael]]<br/><small>''b. {{TA}}''</small>|IVO=[[Ivorwen]]<br/><small>''b. {{TA}}''</small>}}
+{{familytree | |!| | | | | |!| | | |}}
+{{familytree | ATH |~|y|~| GIR | | |ATH=[[Arathorn II]]<br/><small>''{{TA|2873|n}} - {{TA|2933|n}}''†</small>|GIR=[[Gilraen]]<br/><small>''{{TA|2907|n}} - {{TA|3007|n}}''</small>}}
+{{familytree | | | | |!| | | | | | |}}
+{{familytree | | | | ELE | | | | | |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+Arathorn I's year of birth is only mentioned in earlier manuscript versions of what would later become Appendix A. In general, J.R.R. Tolkien did not include the year of birth of kings and rulers in Appendix A or Appendix B.
+
+In the later manuscript C Arathorn's years of birth and death were {{TA|2693}} and {{TA|2848|n}}, respectively.<ref name=ManuscriptC>{{PM|Elendil}}, ''End of the North Kingdom'', 37. 12. Arathorn I, p. 196</ref> In the same manuscript it is also mentioned that [[Dírhael]], the maternal grandfather of [[Aragorn]], was descended from Arathorn I "by a younger branch".<ref>{{PM|Elendil}}, ''End of the North Kingdom'', 40. 15. Arathorn II, p. 196</ref>
+
+In the earlier manuscript B, the years of Arathorn I's birth and death were {{TA|2683}} and {{TA|2838|n}}, respectively.<ref>{{PM|Elendil}}, ''Commentary'', Arathorn I, pp. 210-11</ref>
+
+{{references|notes}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2693}}
+| died={{TA|2848}}
+}}
+{{seq
+| prow=2
+| prev=[[Arassuil]]
+| list=35th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2784}} - {{TA|2848}}
+| next=[[Argonui]]
+| nrow=2
+}}
+{{seq
+| list=12th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2784}} - {{TA|2848}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Pronounced articles]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Arathorn I.]]
+[[fi:Arathorn I]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/arathorn ier]]

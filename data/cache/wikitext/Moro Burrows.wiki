@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Moro Burrows
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1391}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Burrows Family|Burrows]]
+| parentage=[[Milo Burrows]] and [[Peony Baggins]]
+| siblings=[[Mosco Burrows|Mosco]], [[Myrtle Burrows|Myrtle]] and [[Minto Burrows|Minto]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Moro Burrows''' was a Hobbit of [[the Shire]].
+
+==History==
+Moro was the second of four children of [[Milo Burrows|Milo]] and [[Peony Baggins|Peony Burrows]]. When he was ten years old, he attended Bilbo's famous [[Bilbo's Farewell Party|Birthday Party]] with his family, on [[22 September|September 22]], {{SR|1401}}.<ref>{{App|Baggins}}</ref>
+
+{{references}}
+[[Category:Burrows]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[de:Moro Lochner]]
+[[fr:encyclo/personnages/hobbits/terrier/moro terrier]]
+[[fi:Moro Onkaloinen]]

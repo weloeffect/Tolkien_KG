@@ -1,0 +1,82 @@
+{{disambig-two|the seventeenth King of Gondor|twenty-ninth King, and descendant of Narmacil I|[[Narmacil II]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Narmacil I
+| image=Matěj Čadil - Narmacil I of Gondor.jpg
+| caption="Narmacil I of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1049}}
+| birthlocation=
+| rule={{TA|1226}} - {{TA|1294|n}} (68 years)
+| death={{TA|1294}}
+| deathlocation=
+| age=245
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Atanatar II]]
+| siblings=[[Calmacil (King of Gondor)|Calmacil]]
+| spouse=
+| children=None
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Narmacil I''' {{TA|1049}}<ref>{{PM|Elendil}}</ref> – {{TA|1294|n}},<ref name="South">{{App|South}}</ref> aged 245 years) was the seventeenth [[King of Gondor]].
+
+==History==
+Narmacil inherited the Kingship from his father [[Atanatar II|Atanatar II Alcarin]] in {{TA|1226}}.<ref name="South"/>  He also seems to have inherited his father's indolent disposition for in {{TA|1240|n}} he declared [[Minalcar]], the son of his younger brother [[Calmacil (King of Gondor)|Calmacil]], to be the [[Regent of Gondor|Regent of the realm]].  During the remainder of Narmacil's reign Minalcar ruled in his name.<ref name="Gondor">{{App|Gondor}}</ref>
+
+The Easterlings renewed their attacks with a small force, but Minalcar proved to be a vigorous Regent. While Narmacil stayed behind, Minalcar sallied forth in {{TA|1248}} and defeated a large army between [[Rhovanion]] and the [[Sea of Rhûn]].  He then took the name of "Rómendacil" (and later would ascend the throne as Rómendacil II). Because he had learned that the [[Northmen]] were not always loyal to [[Gondor]], [[Third Age 1250|soon after]] this victory, Rómendacil sent his son, [[Valacar]], as an ambassador to secure their allegiance.<ref name="Gondor"/>
+
+Narmacil ultimately became the second childless King of [[Gondor]] and was succeeded by his younger brother [[Calmacil (King of Gondor)|Calmacil]].<ref name="South"/>
+
+==Etymology==
+''Narmacil'' is [[Quenya]]. It is not glossed, but as Paul Strack explains, it probably means "Fire-sword", from ''[[nar]]'' ("fire") and ''[[macil]]'' ("sword").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-564696561.html|articlename=Q. ''Narmacil'' m.|website=Eldamo|accessed=19 July 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HYA | | | | |HYA=[[Hyarmendacil I]]<br/><small>''{{TA|899|n}} - {{TA|1149|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | ATA | | | | |ATA=[[Atanatar II]]<br/><small>''{{TA|977|n}} - {{TA|1226|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | NAR | | CAL | | |NAR='''NARMACIL I'''<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | ROM | | CAL |ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | VAL | | | | |VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1049}}
+| died={{TA|1294}}
+}}
+{{seq
+| prev=[[Atanatar II|Atanatar II Alcarin]]
+| list=17th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1226}} - {{TA|1294|n}}
+| next=[[Calmacil (King of Gondor)|Calmacil]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Narmacil I.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/narmacil_ier]]
+[[fi:Narmacil I]]

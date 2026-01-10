@@ -1,0 +1,81 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Thengel
+| image=Warren Mahy - Thengel.png
+| caption="Thengel" by [[Warren Mahy]]
+| pronun=
+| othernames=Thengel The Thrice-renowned
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]], [[Westron]] and possibly [[Sindarin]]
+| birth={{TA|2905}}
+| birthlocation=
+| rule={{TA|2953}} - {{TA|2980|n}}
+| death={{TA|2980}}
+| deathlocation=
+| age=75
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Fengel]]
+| siblings=Two older sisters<ref name=Fengel/>
+| spouse=[[Morwen Steelsheen]]
+| children=[[Théoden]], [[Théodwyn]], three unnamed daughters
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Thengel the Thrice-renowned''' ([[Third Age]] {{TA|2905|n}} – {{TA|2980|n}}, aged 75 years) was the sixteenth [[King of Rohan]].<ref name="Thengel">{{App|Mark}}, ''Second Line'', 16. ''Thengel'', p. 1069</ref> Thengel was the only son of [[Fengel]], and became king after the death of his father in {{TA|2953}}.<ref name="Fengel">{{App|Mark}}, ''Second Line'', 15. ''Fengel'', p. 1069</ref>
+
+==History==
+His father king Fengel was a greedy man who quarreled with his marshals and children. When he reached his manhood Thengel left Rohan and went to [[Gondor]], where he won great renown in the service of Steward [[Turgon (Steward of Gondor)|Turgon]].<ref name="Fengel" /> Eventually he met and married [[Morwen Steelsheen]] of [[Lossarnach]] in {{TA|2943|n}}, and he lived with her there for a while. Morwen bore him three children during their time in Gondor - his only son (his second child) [[Théoden]] in {{TA|2948|n}} and two daughters.<ref name="Thengel" />
+
+After Fengel died in {{TA|2953}},<ref name="Fengel" /> Thengel was called to come back to Rohan and reluctantly returned with his wife and three children from Gondor. After his return [[Westron]],<ref>{{PM|XIntro}}, citing from the essay Of Dwarves and Men</ref> the speech of Gondor, was used in his house, which some men disapproved.<ref name="Thengel" /> Soon afterwards the [[Wizards|wizard]] [[Saruman]] declared himself as Lord of [[Isengard]] and began to support the enemies of Rohan.<ref name="Thengel" /> Around {{TA|2957|n}} or later, a mysterious Northerner calling himself [[Thorongil]] came to Rohan and served Thengel for some time.<ref>{{App|TA}}, entry for the years 2957-80, p. 1090</ref> Later Thorongil went to Gondor where he entered the service of Steward [[Ecthelion II]] and became a great captain and great leader of men by land or by sea.<ref>{{App|Stewards}}, entry for Steward Ecthelion II, p. 1055</ref> In Rohan Morwen bore Thengel two more daugthers, including [[Théodwyn]] in {{TA|2963}},<ref name="Thengel" /> who would be the mother of [[Éomer]] and [[Éowyn]].<ref>{{App|Mark}}, ''Third Line'', p. 1070</ref>
+
+After Thengel the kings of Rohan and their descendants also spoke [[Gondor Sindarin|Sindarin]], the language of nobles in Gondor.<ref>{{PM|XNotes}}, note 2</ref>
+
+==Etymology==
+''Thengel'' is a modernized spelling of the [[Old English]] word ''Þengel'', which means "prince".<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/31660|articlename=Þengel|accessed=15 June 2024}}</ref><ref>{{HM|RC}}, p. 368</ref><ref>{{WR|3|VII}}, note 9, p. 355</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | FOL | | | | | | | | | | |FOL=[[Folcwine]]<br/><small>''{{TA|2830|n}} - {{TA|2903|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | | | |}}
+{{familytree | FOL | | FAS | | FEN | | DAU | | | | |FOL=[[Folcred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|FAS=[[Fastred (son of Folcwine)|Fastred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FEN=[[Fengel]]<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|(| | | | | | | | | |}}
+{{familytree | | | | | DAU | | THE |y| MOR | | | | |DAU=''two daughters''<br/><small>''unknown''</small>|THE='''THENGEL'''<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>|MOR=[[Morwen Steelsheen]]<br/><small>''b. {{TA|2922|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|v|-|^|-|.| | | | | |}}
+{{familytree | ELF |y| THE | | DAU | | THW |y| EOM |ELF=[[Elfhild]]<br/><small>''d. {{TA|2978|n}}''</small>|THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>|DAU=''three daughters''<br/><small>''unknown''</small>|THW=[[Théodwyn]]<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''</small>|EOM=[[Éomund]]<br/><small>''d. {{TA|3002|n}}''†</small>}}
+{{familytree | | | |!| | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | THE | | | | | | | | EOM | | EOW |THE=[[Théodred]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>|EOW=[[Éowyn]]<br/><small>''b. {{TA|2995|n}}''</small>}}
+{{familytree/end}}
+
+{{references|Notes}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2905}}
+| died={{TA|2980}}
+}}
+{{seq
+| prev=[[Fengel]]
+| list=16th [[King of Rohan]]
+| dates={{TA|2953}} – {{TA|2980|n}}
+| next=[[Théoden]]
+}}
+{{seq-end}}
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Thengel]]
+[[fi:Thengel]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/thengel]]

@@ -1,0 +1,46 @@
+{{disambig-two|the son of [[Holman Cotton]]|son of [[Tolman Cotton Senior|Tolman Cotton]]|[[Wilcome Cotton II]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Wilcome Cotton
+| image=Miriam Ellis - Wilcome Cotton I.png
+| caption=Will - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames="Will"
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1346}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Holman Cotton]]
+| siblings=[[Farmer Cotton|Tolman]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Wilcome "Will" Cotton''' was a Hobbit of [[the Shire]].
+
+==History==
+Will was the youngest son of [[Holman Cotton]]. His brother [[Tolman Cotton Senior|Tom]] named his third child, [[Wilcome Cotton II|Wilcome]], after him.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+From [[Old English]] ''willa'' "pleasure" + ''cuma'' "guest"; ''Wilcuma'' is a welcome guest.<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{references}}
+[[Category:Cotton]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/chaumine/wilcome chaumine will]]

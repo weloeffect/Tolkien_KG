@@ -1,0 +1,78 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Folcwine
+| image=Steamey - King Folcwine Says Goodbye to His Sons.jpg
+| caption="King Folcwine Says Goodbye to His Sons" by [[:Category:Images by Steamey|Steamey]]
+| pronun=
+| othernames=
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2830}}
+| birthlocation=
+| rule={{TA|2864}} – {{TA|2903|n}}
+| death={{TA|2903}}
+| deathlocation=
+| age=73
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Folca]]
+| siblings=
+| spouse=
+| children=[[Folcred]], [[Fastred (son of Folcwine)|Fastred]], unnamed daughter, [[Fengel]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Folcwine''' ([[Third Age]] {{TA|2830|n}} – {{TA|2903|n}}, aged 73 years) was the fourteenth [[King of Rohan]].
+
+==History==
+Folcwine was the son of [[Folca]] "The Hunter", and great-grandfather of [[Théoden]]. Aided by [[Gondor]], he drove out [[Dunlendings]] who occupied the area between [[Adorn]] and [[Isen]] and recovered that area.
+
+In {{TA|2885}} he also fulfilled the [[Oath of Eorl]] and sent many Rohirrim to the aid of Gondor against the [[Haradrim]]. However his twin sons [[Folcred]] and [[Fastred (son of Folcwine)|Fastred]] were both killed in that war, and Folcwine was succeeded by his youngest child, [[Fengel]].<ref>{{App|Stewards}}</ref><ref>{{App|Eorl}}</ref>
+
+==Etymology==
+''Folcwine'' is an [[Old English]] name. It means "friend of the people" and is composed of ''folc'' ("folk" or "people") and ''wine'' ("friend").<ref>{{HM|RC}}, p. 644</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | WAL | | | | | | |WAL=[[Walda]]<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | | | | | |}}
+{{familytree | | | | | | | FOL | | | | | | |FOL=[[Folca]]<br/><small>''{{TA|2804|n}} - {{TA|2864|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | | | | | |}}
+{{familytree | | | | | | | FOL | | | | | | |FOL='''FOLCWINE'''<br/><small>''{{TA|2830|n}} - {{TA|2903|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| |}}
+{{familytree | FOL | | FAS | | DAU | | FEN |FOL=[[Folcred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|FAS=[[Fastred (son of Folcwine)|Fastred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FEN=[[Fengel]]<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|-|-|(| |}}
+{{familytree | | | | | | | | | DAU | | THE |DAU=''two daughters''<br/><small>''unknown''</small>|THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2830}}
+| died={{TA|2903}}
+}}
+{{seq
+| prev=[[Folca]]
+| list=14th [[King of Rohan]]
+| dates={{TA|2864}} – {{TA|2903|n}}
+| next=[[Fengel]]
+}}
+{{seq-end}}
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Folcwine]]
+[[fi:Folcwine]]

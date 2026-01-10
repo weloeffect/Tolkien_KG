@@ -1,0 +1,65 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Vidugavia
+| image=Liz Danforth - Vidugavia.jpg
+| caption="Vidugavia" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| titles=[[King of Rhovanion]]
+| position=
+| location= [[Rhovanion]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=13th century, [[Third Age]]
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=[[Vidumavi]]; apparently other children too (considering [[Marhari]] is the descendant of Vidugavia)<ref name=Children>{{UT|8e}}, Note 5, p. 311</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Vidugavia''' was a prince of the [[Northmen]] who called himself "[[King of Rhovanion]]" and ruled a realm that was located between [[Mirkwood]] and the [[River Running]].<ref name=Gondor>{{App|Gondor}}, entry for King Minalcar who took the name Rómendacil (II), p. 1046</ref>
+
+==History==
+Vidugaiva was an ally of [[Gondor]]'s King [[Rómendacil II]] and had helped him in the war against the [[Easterlings]]. In {{TA|1250}} Prince [[Valacar]] was sent by his father, King Rómendacil II, to the court of Vidugavia as an ambassador to learn the language, manners and policies of the Northmen. Valacar eventually loved the Northern lands and people and married Vidugavia's daughter [[Vidumavi]].<ref name=Gondor/>
+
+Vidugavia was apparently the father of other children, since he was also an ancestor of [[Marhari]].<ref name=Children/>
+
+==Etymology==
+[[Christopher Tolkien]] suggests that ''Vidugavia'' is the latinized spelling of the [[Gothic]] name ''Widugauja'', which means "wood-dweller".<ref>{{UT|8e}}, Note 6, p. 311</ref>
+
+[[Jim Allan]] proposes that the name is a combination of the elements ''vidu'' ("forest") and ''gavia'' ("someone from a disctrict"). The element ''gavi'' means district, so ''gavia'' could mean "lord" (in the sense of lord of a disctrict) or simply "man" (in the sense of a man from the country). So the name could be translated as "Wood-lord" or "Wood-man". The name appears in the forms ''Witugouwo'', ''Witicho'', ''Witege'' or ''Wittich'' in german literature as the name of a son of Weland Smith.<ref>{{HM|IE}}, pp. 189-190</ref>
+
+The Gothic name ''Widugauja'' does not appear in historical records, but ''Vidigabius'' was the name of a king of the Alamanni from the fourth century and according to [[Wikipedia:Jordanes|Jordanes]], an Eastern Roman writer from the sixth century who is believed to be of Gothic descent, ''Vidigoia'' was the name of an old hero of the Goths.<ref>[[Arden R. Smith]], Tolkienian Gothic, in [[Wayne G. Hammond]] & [[Christina Scull]], [[The Lord of the Rings 1954-2004]]: Scholarship in Honor of Richard E. Blackwelder, p. 268</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | VID | | | | ROM |VID='''VIDUGAVIA'''<br/><small>''unknown''</small>|ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |!| |}}
+{{familytree | OTH | | VID |y| VAL |OTH=''children''<br/><small>''unknown''</small>|VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | |:| | | | | |!| | | |}}
+{{familytree | |:| | | | | ELD | | |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>}}
+{{familytree | MAR | | | | | | | | |MAR=[[Marhari]]<br/><small>''d. {{TA|1856|n}}''†</small>}}
+{{familytree | |:| | | | | | | | | |}}
+{{familytree | ROH | | | | | | | | |ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Gothic names]]
+[[Category:Northmen]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Third Age characters]]
+[[de:Vidugavia]]
+[[fi:Vidugavia]]

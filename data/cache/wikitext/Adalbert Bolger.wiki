@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Adalbert Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1301}}
+| birthlocation=
+| rule=
+| death={{SR|1397}}
+| deathlocation=
+| age=96
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Rudibert Bolger]] and [[Amethyst Hornblower]]
+| siblings=
+| spouse=[[Gerda Boffin]]
+| children=[[Filibert Bolger|Filibert]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adalbert Bolger''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Adalbert was the son of [[Rudibert Bolger]] and [[Amethyst Hornblower]]. He married [[Gerda Boffin]]; their son [[Filibert Bolger|Filibert]], was born in {{SR|1342|n}}.<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+''Adalbert'' is a Germanic name composed of the elements ''adal'' "noble" and ''beraht'' "bright".
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Bolger]]
+[[Category:Third Age characters]]
+
+[[de:Adalbert Bolger]]
+[[fi:Adalbert Bolger]]
+[[fr:encyclo/personnages/hobbits/bolger/adalbert bolger]]

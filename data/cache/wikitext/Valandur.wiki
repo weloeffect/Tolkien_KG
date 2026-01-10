@@ -1,0 +1,84 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Valandur
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=[[King of Arnor]]
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|462}}
+| birthlocation=
+| rule={{TA|602}} - {{TA|652|n}}
+| death={{TA|652}}
+| deathlocation=
+| age=190
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Tarondor (King of Arnor)|Tarondor]]
+| siblings=
+| spouse=
+| children=[[Elendur (King of Arnor)|Elendur]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Valandur''' ({{TA|462}}<ref name=elendil>{{PM|Elendil}}, p. 193</ref>-{{TA|652|n}},<ref name="North">{{App|North}}</ref> age 190 years) was the eighth [[King of Arnor]].
+
+==History==
+In {{TA|552|n}} he had a son, Elendur.<ref name=elendil/> He succeeded his father, [[Tarondor (King of Arnor)|Tarondor]], to the throne in {{TA|602|n}}. 
+
+Little record remained of his reign of fifty years, except that it was cut short in {{TA|652}} when he died prematurely. He was the first and only King of [[Arnor]] after [[Isildur]] who died violently.<ref group=note>This is deduced from the dagger symbol (†) next to his death date in the [[Appendix A]], although the narrative doesn't mention anything about his life.</ref>
+
+He was succeeded by his son, [[Elendur (King of Arnor)|Elendur]], upon his death.<ref name="North"/>
+==Etymology==
+''Valandur'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "Servant of the Vala" and is a compound of ''[[Valar|vala]]'' ("Vala") and ''[[-ndur|-(n)dur]]'' ("servant").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2323510719.html|articlename=Q. ''Valandur'' m.|website=Eldamo|accessed=27 January 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | TAR |TAR=[[Tarcil]]<br/><small>''{{TA|280|n}} - {{TA|515|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR=[[Tarondor (King of Arnor)|Tarondor]]<br/><small>''{{TA|372|n}} - {{TA|602|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR='''VALANDUR'''<br/><small>''{{TA|462|n}} - {{TA|652|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ELE |ELE=[[Elendur (King of Arnor)|Elendur]]<br/><small>''{{TA|552|n}} - {{TA|777|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | EAR |EAR=[[Eärendur (King of Arnor)|Eärendur]]<br/><small>''{{TA|640|n}} - {{TA|861|n}}''</small>}}
+{{familytree/end}}
+
+{{references|note}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|462}}
+| died={{TA|652}}
+}}
+{{seq
+| prow=2
+| prev=[[Tarondor (King of Arnor)|Tarondor]]
+| list=6th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|602}} - {{TA|652|n}}
+| next=[[Elendur (King of Arnor)|Elendur]]
+| nrow=2
+}}
+{{seq
+| list=8th [[Kings of Arnor|King of Arnor]]
+| dates={{TA|602}} - {{TA|652|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arnor]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]

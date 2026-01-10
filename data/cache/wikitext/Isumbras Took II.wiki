@@ -1,0 +1,51 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isumbras Took II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=Sometime between {{SR|740}} and {{SR|1083}}
+| birthlocation=
+| rule=Sometime between {{SR|740}} and {{SR|1083}}
+| death=Sometime between {{SR|740}} and {{SR|1083}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Isumbras Took II''' was a [[Hobbits|Hobbit]] of [[the Shire]] who held the position of [[Thain]] some time between {{SR|740}} and {{SR|1083}}.
+
+==History==
+There are no direct records of Isumbras II, but he evidently existed between his namesake [[Isumbras Took I|Isumbras I]], who founded the Took line of Thains in {{SR|740}}, and the later [[Isumbras Took III|Isumbras III]].<ref name="App|Took">{{App|Took}}</ref> Isumbras II's reign could have occurred no later than {{SR|1083}}, when [[Isengrim Took II|Isengrim II]] became Thain, since there were no subsequent gaps in the Took family's genealogy.<ref name="App|B2">{{App|B2}}</ref>
+
+==Etymology==
+"Isumbras" is of French and [[Old English|Anglo-Saxon]] origin and means "iron-arm". It comes from the French ''bras'' meaning "arm", and the Anglo-Saxon and Middle High German word ''[[isen]]'' which means "iron".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+[[J.R.R. Tolkien|Tolkien]] possibly got the name from ''[[wikipedia:Sir Isumbras|Sir Isumbras]]'', an English medieval romance about a man who suffers a lifetime of hardship but who finds happiness in his latter years.<ref>Harriet Hudson (ed.), ''Four Middle English Romances'', Medieval Institute Publications; 2 edition (November 1, 2006)</ref>
+
+{{References|n}}
+{{thains}}
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Old English names]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]

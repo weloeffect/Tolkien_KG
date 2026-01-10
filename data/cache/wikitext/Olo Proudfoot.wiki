@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Olo Proudfoot
+| image=The Lord of the Rings Online - Olo Proudfoot.jpg
+| caption=Olo Proudfoot from ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1346}}
+| birthlocation=
+| rule=
+| death={{SR|1435}}
+| deathlocation=
+| age=89
+| notablefor=
+| family=[[Proudfoot Family|Proudfoot]]
+| parentage=[[Odo Proudfoot]]
+| siblings=
+| spouse=
+| children=[[Sancho Proudfoot|Sancho]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Olo Proudfoot''' ({{SR|1346}}—{{SR|1435}}) was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Olo was the son of [[Odo Proudfoot]], and father of [[Sancho Proudfoot|Sancho]]. Together, they attended [[Bilbo Baggins]]'s [[Bilbo's Farewell Party|Farewell Party]].<ref>{{App|Baggins}}</ref>
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Olo Proudfoot owns a farm between [[Hobbiton]] and [[Bywater]]. He occupies the role of a crafting vendor in the game and plays no role in the storyline.
+
+{{references}}
+[[Category:Fourth Age characters]]
+[[Category:Hobbits]]
+[[Category:Proudfoot]]
+[[Category:Third Age characters]]
+
+[[de:Olo Stolzfuß]]
+[[fi:Olo Jalojalka]]
+[[fr:encyclo/personnages/hobbits/fierpied/olo fierpied]]

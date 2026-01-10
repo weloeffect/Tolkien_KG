@@ -1,0 +1,82 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Bard II
+| image=Antonio José Manzanedo - Bard son of Brand.jpg
+| caption="Bard son of Brand" by [[:Category:Images by Antonio José Manzanedo|Antonio José Manzanedo]]
+| pronun=
+| othernames=
+| titles=[[King of Dale]]
+| position=
+| location=[[Dale]]
+| affiliation=
+| language=[[language of Dale]], [[Westron]]
+| birth=
+| birthlocation=
+| rule=from {{TA|3019}}
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Brand]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+|race=[[Man]]
+}}
+'''Bard II''' was the son of [[Brand]] and heir to the [[Kingdom of Dale]].
+
+==History==
+During the [[War of the Ring]] his father was slain in the [[Battle of Dale]], and Bard with many [[Men of Dale]] and [[Dwarves of Erebor]] were forced back to [[Lonely Mountain|Erebor]] by [[Easterlings]]. There he was besieged with his ally [[Thorin Stonehelm|Thorin III Stonehelm]] for several days. 
+
+When news came from the south of the destruction of [[Sauron]], Bard and Thorin emerged from the Lonely Mountain and broke the siege.  Later he sent an ambassador to the crowning of King [[Aragorn|Elessar]] and thereafter his kingdom enjoyed the protection of the [[King of the West]].<ref>{{App|Great}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | GIR |GIR=[[Girion]]<br/><small>''d. {{TA|2770|n}}''</small>}}
+{{familytree | |:| }}
+{{familytree | |:| }}
+{{familytree | BAR |BAR=[[Bard|Bard I]]<br/><small>''d. {{TA|2977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BAI |BAI=[[Bain]]<br/><small>''d. {{TA|3007|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BRA |BRA=[[Brand]]<br/><small>''d. {{TA|3019|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BA2 |BA2='''BARD II'''<br/><small>''fl. [[Fourth Age]]''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Bard II in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Online - Bard II.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:King Bard II can be found in the Great-keep of [[Dale]]. He is still a young boy, and rules with the help of his mother, Queen Regent Erna. He has a younger brother, Prince Bryn.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=northmen
+}}
+{{seq
+| prev=[[Brand]]
+| list=4th [[King of Dale]]
+| dates=[[17 March]] {{TA|3019}} – unknown
+| next=unknown
+}}
+{{seq-end}}
+
+[[Category:Bardings]]
+[[Category:Fourth Age characters]]
+[[Category:Germanic names]]
+[[Category:Kings of Dale]]
+[[Category:Third Age characters]]
+[[de:Bard II.]]
+[[fi:Bard II]]

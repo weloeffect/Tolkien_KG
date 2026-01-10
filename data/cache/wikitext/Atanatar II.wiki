@@ -1,0 +1,82 @@
+{{disambig-more|Atanatar|[[Atanatar (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Atanatar II
+| image=Matěj Čadil - Atanatar II Alcarin.jpg
+| caption="Atanatar II Alcarin" by [[Matěj Čadil]]
+| pronun=
+| othernames=''[[Alcarin]]'' ([[Quenya|Q]], "Glorious")
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]] and [[Sindarin]]
+| birth={{TA|977}}
+| birthlocation=
+| rule={{TA|1149}} - {{TA|1226|n}} (77 years)
+| death={{TA|1226}}
+| deathlocation=
+| age=249
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Hyarmendacil I]]
+| siblings=
+| spouse=
+| children=[[Narmacil I]] and [[Calmacil (King of Gondor)|Calmacil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Atanatar II''' ([[Quenya|Q]], pron. {{IPA|[aˈtanatar]}}; {{TA|977}}<ref>{{PM|Elendil}}</ref> – {{TA|1226|n}}, aged 249 years) was the sixteenth King of [[Gondor]]. He was known as '''Atanatar II [[Alcarin]]''' ("Glorious"; pron. {{IPA|[ˈalkarin]}}).<ref>{{App|South}}</ref>
+
+==History==
+He succeeded his father [[Hyarmendacil I]] in {{TA|1149}} when [[Gondor]] had reached its greatest power and largest extent.  Atanatar lived in ease and splendour, such that people said "precious stones are pebbles in Gondor for children to play with." The King loved luxury and it was during his reign that the original [[Crown of Gondor]] was replaced by a jewelled helm.<ref>{{App|Eriador}}</ref>  However, due to the King's indolence nothing was done to maintain the power that his ancestors had built and the watch upon [[Mordor]] was neglected.<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+''Atanatar'' is [[Quenya]]. It means "Father of Men".<ref>{{PE|17}}, p. 114 entry Q ''Atanatar''</ref> It is a compound of ''[[Atani|Atan]]'' ("Man") and ''[[atar]]'' ("father").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-4233171257.html|articlename=Q. ''Atanatar'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+The sobriquet ''Alcarin'' is [[Quenya]]. It means "the Glorious".<ref>{{App|Gondor}}, p. 1043</ref><ref>{{PE|17}}, entry S '''aglar''', p. 24</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | CIR | | | | |CIR=[[Ciryandil]]<br/><small>''{{TA|820|n}} - {{TA|1015|n}}''†</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | HYA | | | | |HYA=[[Hyarmendacil I]]<br/><small>''{{TA|899|n}} - {{TA|1149|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | ATA | | | | |ATA='''ATANATAR II'''<br/><small>''{{TA|977|n}} - {{TA|1226|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | NAR | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | ROM | | CAL |ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|977}}
+| died={{TA|1226}}
+}}
+{{seq
+| prev=[[Hyarmendacil I]]
+| list=16th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1149}} - {{TA|1226|n}}
+| next=[[Narmacil I]]
+}}
+{{seq-end}}
+
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Atanatar II. Alcarin]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/atanatar ii]]
+[[fi:Atanatar II]]

@@ -1,0 +1,48 @@
+{{disambig-more|Wolf|[[Wolf (disambiguation)]]}}
+{{infobox character
+| people=[[Dogs|Dog]]
+| image=Miriam Ellis - Wolf.png
+| caption=Wolf - Illustration by [[Miriam Ellis]]
+| name=Wolf
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bamfurlong]]
+| affiliation=[[Farmer Maggot]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Dogs|Dog]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Wolf''' was one of the three [[Dogs|dogs]] kept by [[Farmer Maggot]], a [[Hobbits|Hobbit]] of [[the Shire]]. The folk of the [[Marish]] near the Shire's eastern borders were untrusting of strangers and cautious of intruders. Farmer Maggot was one of these, and to protect himself from unwanted visitors he kept three large dogs: [[Grip]], [[Fang (dog)|Fang]] and Wolf. All three dogs were wolf-like in appearance, which is doubtless the source of Wolf's name. Of the three, circumstantial evidence suggests that Wolf was the largest, and the one who threatened [[Frodo Baggins|Frodo]] when he encountered Maggot while travelling to [[Buckland]].<ref>{{FR|I4}}</ref>
+
+==Portrayal in adaptations==
+===Wolf in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Online - Wolf (dog).jpg|''[[The Lord of the Rings Online]]''
+File:Andrea Piparo - Farmer Maggot (WotR TCG).jpg|''[[War of the Ring: The Card Game]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Wolf, along with [[Fang (dog)|Fang]] and [[Grip]], is found next to [[Farmer Maggot]] in [[Bamfurlong]]. The dogs can be interacted with during the "Chicken Play" and are also part of a festival "Maggot's Mushroom Hunt" mini-game.
+
+{{References}}
+[[Category:Dogs]]
+[[Category:Third Age characters]]
+[[fr:encyclo/personnages/animaux/chiens/loup]]

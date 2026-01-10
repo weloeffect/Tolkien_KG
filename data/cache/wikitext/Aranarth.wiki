@@ -1,0 +1,111 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Aranarth
+| image=Elena Kukanova - Aranarth.jpeg
+| caption="Aranarth" by [[Elena Kukanova]]
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1938}}
+| birthlocation=
+| rule={{TA|1976}} - {{TA|2106|n}}
+| death={{TA|2106}}
+| deathlocation=
+| age=168
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arvedui]] and [[Fíriel]]
+| siblings= At least one younger brother <ref group=note>In [[Appendix A]] in the list of rulers of ''The Northern Line'', Aranarth is indicated as the ''elder son'' of Arvedui, meaning that he had at least one younger brother. Furthermore, in Appendix A in the entry for King Arvedui in '''ERIADOR, ARNOR AND THE HEIRS OF ISILDUR''' it is mentioned that "the sons of the king" (i.e. Arvedui) were driven over the Lune.</ref> 
+| spouse=
+| children=[[Arahael]], at least one other <ref group=note>In [[Appendix A]], Dírhael is said to be a descendant of a younger branch of Aranarth, meaning he had at least one other child</ref> 
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aranarth''' ({{TA|1938}}<ref name=Elendil>{{PM|Elendil}}, manuscript C, The Chieftains of the Dunedain, 1. Aranarth, p. 196</ref><ref group=note>This date is given in an early draft of [[Appendix A]]. This conflicts with the pubished sources where Aranarth's parents were married in [[Third Age 1940|two years later]].</ref> - {{TA|2106|n}},<ref name=NorthArvedui>{{App|North}}, ''Chieftains.'' Aranarth, p. 1038</ref> died aged 168) was the first of the [[Chieftains of the Dúnedain]], and would have been the sixteenth [[King of Arthedain]] had [[Angmar]] not destroyed the realm.
+
+==History==
+Aranarth was the son of [[Arvedui]], the son of King [[Araphant]] of Arthedain,<ref name=NorthArvedui/> and [[Fíriel]], the daughter of King [[Ondoher]] of [[Gondor]],<ref name=Ondoher>{{App|Gondor}}, entry for King Ondoher, p. 1049</ref><ref name=TA1940>{{App|TA}}, entry for the year 1940, p. 1086</ref> and as such, he was descended from both [[Isildur]] and [[Anárion]].<ref>{{App|North}}, p. 1038</ref><ref>{{App|South}}, p. 1038</ref>
+
+In {{TA|1974}} when Aranarth was a young man, the [[Witch-king]] of [[Angmar]] overran Arthedain and conquered [[Fornost Erain|Fornost]].<ref>{{App|TA}}, entry for the year 1974, p. 1086</ref> Most of the remnants of the [[Dúnedain]] fled over the [[Lhûn|Lune]] into [[Lindon]]. However, Aranarth's father held out upon the [[North Downs]] until he escaped to the north. After hiding in abandoned dwarf-mines in the [[Blue Mountains]] the King and his men sought the help of the [[Lossoth]], who aided out of pity and fear.<ref name=Arvedui>{{App|Eriador}}, entry for King Arvedui, pp. 1041-43</ref>
+
+Aranarth reported to [[Círdan]] of the King's flight to the north. Círdan sent a ship to the [[Icebay of Forochel]] to seek and rescue him.<ref name=Arvedui/> However, in {{TA|1975}}<ref>{{App|TA}}, entry for the year 1975, p. 1086</ref> a short time after Arvedui and his men had boarded the ship, a storm drove the ship against the ice and its hull was broken. Arvedui drowned and the two ''[[palantíri]]'' the King had taken with him during the fall of Fornost were lost in the sea.<ref name=Arvedui/> As a result, Aranarth nominally became the King of Arthedain in exile in Lindon.
+
+In the same year, the remnants of the Dúnedain, forces from Lindon and a large expeditionary force from Gondor, led by [[Eärnur]], the son of King [[Eärnil]] of Gondor, destroyed the kingdom of Angmar.<ref name=Gondor>{{App|Gondor}}, entry for King Ondoher, pp. 1050-51</ref> However, the Kingdom of the Dúnedain of the north was discontinued, because there were now only few Dúnedain in the north and the population of Eriador was reduced.<ref name=Aranarth>{{App|Eriador}}, entry for Chieftain Aranarth, p. 1043</ref> Aranarth took the title of [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]].<ref>{{App|TA}}, entry for the year 1976, p. 1086</ref>
+
+Aranarth's son [[Arahael]] was born and raised in [[Rivendell]], as were all the sons of chieftains after him; and [[Elrond]] was entrusted with the safekeeping of the heirlooms of the North-kingdom: the [[Ring of Barahir]], the shards of [[Narsil]], the [[Star of Elendil]], and the [[Sceptre of Annúminas]].<ref name=Aranarth/>
+
+Aranarth died in 2106, after ruling for 130 years - longer than any other chieftain.
+
+==Etymology==
+''Aranarth'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests it means "Noble King".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is suggested to be a compound of ''[[aran]]'' ("king", "lord", "chief", [lit.] high or noble person) and ''arth'' ("noble"),<ref name=Tolkiendil/> which may be related to the initial element of ''[[Arthedain|'''Arth'''edain]]''.<ref>{{webcite|author=Paul Strack|articleurl=http://www.eldamo.org/content/words/word-792237425.html|articlename=S. ''Aranarth'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+[[David Salo]] suggested that the final element could be ''*arth'' ("noble"), which would be cognate to [[Quenya]] ''[[arta]]''.<ref>{{HM|GS}}, pp. 240, 341</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS | | | | HOA |HOS=''[[House of Isildur]]''|HOA=''[[House of Anárion]]''}}
+{{familytree | |:| | | | | |:| |}}
+{{familytree | |:| | | | | |:| |}}
+{{familytree | ARA | | | | OND |ARA=[[Araphant]]<br/><small>''{{TA|1789|n}} - {{TA|1964|n}}''</small>|OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>}}
+{{familytree | |!| | | | | |!| |}}
+{{familytree | ARA |-|y|-| FIR |ARA=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''</small>†|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}</small>}}
+{{familytree | |,|-|-|^|-|-|.| |}}
+{{familytree | ARA | | | | SON |ARA='''ARANARTH'''<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>|SON=''unknown<br />sons''}}
+{{familytree | |!| | | | | | | |}}
+{{familytree | ARA | | | | | | |ARA=[[Arahael]]<br/><small>''{{TA|2012|n}} - {{TA|2177|n}}''</small>}}
+{{familytree | |!| | | | | | | |}}
+{{familytree | ARA | | | | | | |ARA=[[Aranuir]]<br/><small>''{{TA|2084|n}} - {{TA|2247|n}}''</small>}}
+{{familytree | |:| | | | | | | |}}
+{{familytree | |:| | | | | | | |}}
+{{familytree | ELE | | | | | | |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+A late manuscript of what would later become [[Appendix A]] lists Aranarth's date of birth as {{TA|1938}},<ref name=Elendil/> but in the same manuscript,<ref>{{PM|Elendil}}, manuscript C, The Northern Line of Arnor: the Isildurioni, 24. Araphant</ref> as well as in [[Appendix A]], "Gondor and the Heirs of Anárion"<ref name=Ondoher/> and in the [[Appendix B|Tale of Years]],<ref name=TA1940/> his parents' wedding year is given as {{TA|1940}}. It is possible that the year of birth being two years before the year of marriage of his parents, who were of royal descent, was an oversight.
+
+==Portrayal in adaptations==
+'''1982-97: ''[[Middle-earth Role Playing]]'':'''
+:Aranarth is a Dúnadan based in Fornost, famous for his tracking abilities and described as a man "who leaves no footprints".<ref>{{ICE|2005}}</ref>
+
+{{references|note}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1938}}
+| died={{TA|2106}}
+}}
+{{seq
+| prev=[[Arvedui]]
+| list=24th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1974}} – {{TA|2106|n}}
+| next=[[Arahael]]
+| nrow=2
+}}
+{{seq
+| pvac=None
+| prev=''[[Arvedui]], as [[Kings of Arthedain|King of Arthedain]]''
+| list=1st [[Chieftain of the Dúnedain]]
+| dates={{TA|1976}} – {{TA|2106|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Aranarth]]
+[[fi:Aranarth]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/aranarth]]

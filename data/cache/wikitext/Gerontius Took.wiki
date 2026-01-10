@@ -1,0 +1,82 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gerontius Took
+| image=Liz Danforth - Gerontius took.jpg
+| caption="Gerontius Took" by [[Liz Danforth]]
+| pronun=
+| othernames=The Old Took
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1190}}
+| birthlocation=
+| rule={{SR|1248}} - {{SR|1320|n}} (72 years)
+| death={{SR|1320}}
+| deathlocation=
+| age=130
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Fortinbras Took I]]
+| siblings=
+| spouse=[[Adamanta Chubb]]
+| children=[[Isengrim Took III|Isengrim]], [[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras]], [[Hildigrim Took|Hildigrim]], [[Isembold Took|Isembold]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Hildibrand Took|Hildibrand]], [[Belladonna Took|Belladonna]], [[Donnamira Took|Donnamira]], [[Mirabella Took|Mirabella]] and [[Isengar Took|Isengar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gerontius Took''' ({{SR|1190}} - {{SR|1320|n}}, died aged 130), also known as '''The Old Took''', was a renowned [[Hobbits|Hobbit]] and twenty-sixth [[Thain]] of [[the Shire]].
+
+==History==
+Gerontius was the only son of [[Fortinbras Took I|Fortinbras I]]. He married [[Adamanta Chubb]], who gave birth to twelve children: [[Isengrim Took III|Isengrim III]], [[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras IV]], [[Hildigrim Took|Hildigrim]], [[Isembold Took|Isembold]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Hildibrand Took|Hildibrand]], [[Belladonna Took|Belladonna]], [[Donnamira Took|Donnamira]], [[Mirabella Took|Mirabella]] and [[Isengar Took|Isengar]].
+
+After the death of his father in {{SR|1248|n}}, Gerontius became the twenty-sixth [[Thain]] of [[the Shire]].<ref>{{App|Took}}</ref> He was a friend of [[Gandalf]], who gave him a pair of magic diamond studs<ref>{{H|Party}}</ref> and performed firework tricks during Gerontius' [[Mid-year's Day|midsummer]]-eve parties.<ref>{{H|6}}</ref><ref group="note">Midsummer-eve obviously refers to 1 [[Lithe]].</ref>
+
+Gerontius Took reached the impressive age of 130, which made him the oldest [[Hobbits|Hobbit]] until his grandson [[Bilbo Baggins]] celebrated his 131st Birthday.<ref>{{RK|Havens}}</ref> He also held the record of most offspring, until [[Samwise Gamgee]] bested him with [[Tolman Gardner|Tom]]'s birth in {{SR|1442}}.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+He was called ''The Old Took'' not because of his age, but because of his numerous younger relatives.<ref name="RC">{{HM|RC}}, p. 54</ref>
+
+''[[Wikipedia:Gerontius|Gerontius]]'' is a Latin name, which means "Old-man". It is derived from Greek ''Geróntios''. The element ''géron'' is Greek for "old". ''Gerontius'' was a popular name in the Late Roman Empire and is rendered as ''[[Wikipedia:Geraint|Geraint]]'' in [[Welsh]].<ref>{{HM|IE}}, The Giving of Names, p. 191</ref> ''Geraint'' is found as a royal name in ''The [[Wikipedia:Mabinogion|Mabinogion]]'' and in Tennyson's ''[[Wikipedia:Geraint and Enid#Geraint and Enid|Geraint and Enid]]''.<ref>[[Mark T. Hooker]], [[Tolkien and Welsh]], p. 133</ref>
+
+''Gerontius'' is one of the very few Greco-Latin names appearing in Hobbit lore.
+
+==Inspiration==
+In [[Letter to Mr and Mrs Kloos|a letter to Mr. and Mrs. Kloos]], Tolkien stated that when he wrote ''[[The Hobbit]]'', he had imagined Bilbo's grandfather to be old, because both of his grandparents were around a hundred years old when they died.<ref name="RC"/>
+
+== Portrayal in adaptations ==
+[[File:The Hobbit - An Unexpected Journey - The Old Took.jpg|The Old Took in ''[[The Hobbit: An Unexpected Journey]]''|right|thumb|150px]]
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:The Old Took appears in a scene in the Extended Edition, played by [[Dan Hennah]].
+{{references|notes}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1190}}
+| died={{SR|1320}}
+}}
+{{Seq
+| prev=[[Fortinbras Took I]]
+| list=26th [[Thain]] of [[The Shire]]
+| dates={{SR|1248}} - {{SR|1320|n}}
+| next=[[Isengrim Took III]]
+}}
+{{seq-end}}
+{{thains}}
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+[[Category:Characters in The Hobbit]]
+[[Category:Characters in The Lord of the Rings]]
+
+[[de:Alter Tuk]]
+[[fi:Gerontius Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/gerontius touque]]

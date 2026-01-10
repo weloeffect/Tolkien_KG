@@ -1,0 +1,63 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Théodwyn
+| image=Rebecca M. Beit-Aharon - Théodwyn.jpg
+| caption="Théodwyn" by [[:Category:Images by Rebecca M. Beit-Aharon|Rebecca M. Beit-Aharon]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=
+| birth={{TA|2963}}
+| birthlocation=
+| rule=
+| death={{TA|3002}} (aged 39)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Thengel]] and [[Morwen Steelsheen|Morwen]]
+| siblings=[[Théoden]], three unnamed sisters
+| spouse=[[Éomund]]
+| children=[[Éomer]] and [[Éowyn]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Théodwyn''' ({{TA|2963}}-{{TA|3002|n}}) was the mother of [[Éomer]] and [[Éowyn]].
+
+==History==
+Théodwyn was a noble woman of [[Rohan]], the sister of [[Théoden]], and the daughter of [[Thengel]] and [[Morwen Steelsheen]]. She was married to [[Éomund]] of [[Eastfold]] in {{TA|2989}}. Her son Éomer was born in {{TA|2991|n}}, and her daughter Éowyn in {{TA|2995|n}}.
+
+Éomund was slain in {{TA|3002|n}}. Not long after that Théodwyn died of illness. Théoden raised her two children after her death.<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+''Théodwyn'' is [[Old English]] for "joy of the people".
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | FEN | | | | | | | | EOF | | |FEN=[[Fengel]]<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>|EOF=[[Eofor]]<br/><small>''unknown''</small>}}
+{{familytree | | | |,|-|-|-|(| | | | | | | | | |:| | | |}}
+{{familytree | | | DAU | | THE |y| MOR | | | | |:| | | |DAU=''two daughters''<br/><small>''unknown''</small>|THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>|MOR=[[Morwen Steelsheen]]<br/><small>''b. {{TA|2922|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|.| | | |:| | | |}}
+{{familytree | ELF |y| THE | | DAU | | THW |y| EOM | | |ELF=[[Elfhild]]<br/><small>''d. {{TA|2978|n}}''</small>|THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>|DAU=''three daughters''<br/><small>''unknown''</small>|THW='''THÉODWYN'''<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''</small>|EOM=[[Éomund]]<br/><small>''d. {{TA|3002|n}}''†</small>}}
+{{familytree | | | |!| | | | | | | |,|-|-|-|(| | | | | |}}
+{{familytree | | | THE | | LOT |y| EOM | | EOW |y| FAR |THE=[[Théodred]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>|EOW=[[Éowyn]]<br/><small>''b. {{TA|2995|n}}''</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>}}
+{{familytree | | | | | | | | | |!| | | | | | | |!| | | |}}
+{{familytree | | | | | | | | | ELF | | | | | | ELB | | |ELF=[[Elfwine]]<br/><small>''unknown''</small>|ELB=[[Elboron]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{DEFAULTSORT:Theodwyn}}
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+[[Category:Old English names]]
+[[de:Théodwyn]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/theodwyn]]
+[[fi:Théodwyn]]

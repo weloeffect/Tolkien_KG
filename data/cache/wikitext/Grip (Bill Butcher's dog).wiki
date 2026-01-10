@@ -1,0 +1,55 @@
+{{disambig-two|Bill Butcher's dog|Farmer Maggot's dog|[[Grip]]}}
+{{infobox character
+| people=[[Dogs|Dog]]
+| name=Grip
+| image=Pauline Baynes - Farmer Hogg and Grip.jpeg
+| caption=Grip and [[Farmer Hogg]] - Illustration by [[Pauline Baynes]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Delving]]<ref name="Perry"/>
+| affiliation=[[The Shire]]<ref name="Perry"/>
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Dogs|Dog]]
+| gender=Male<ref name="Perry"/>
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Grip''' was a [[Dogs|dog]] inhabitant of the town of [[Delving]] who appeared in ''[[Perry-the-Winkle]]'', a nursery rhyme<ref name=collectedpoems>{{CP|105}}</ref> by [[Samwise Gamgee]]<ref name=preface>{{AB|Preface}}</ref>.<ref name="Perry">{{AB|Perry}}, pp. 41-4</ref>
+
+In the poem, Grip was the companion of the knife-throwing [[Bill Butcher]], but he "turned his tail and ran to save his life" upon seeing the [[Lonely Troll]] peeping over the stalls of the market-place.<ref name="Perry" />
+
+It is possible that Grip may have accompanied Bill Butcher later in the poem as the butcher may have been one of the [[Shire-hobbits]] who travelled to [[Faraway]] in order to demand food from the Lonely Troll.<ref name="Perry" />
+
+==Background==
+In the first version of the poem in early [[1928]],<ref name=commentary>{{AB|Comm}}, ''Perry-the-Winkle''</ref> which was entitled ''The Bumpus'', Grip didn't exist, but his role was given to "'''[[Harry]] and his father'''", both of whom fled for "their lives" after howling in fear.<ref name=collectedpoems>{{CP|105}}</ref> No changes to the characters occurred in the second version on [[29 March]],<ref name=collectedpoems/> in which Tolkien revised the poem as part<ref name=collectedpoems/> of his ''[[Tales and Songs of Bimble Bay]]'' series. The third version also retained the same details in relation to "Harry and his father".<ref name=commentary/>
+
+In early [[1961]],<ref name=collectedpoems/> when Tolkien revised the poem for inclusion within ''[[The Adventures of Tom Bombadil]]'', the characters of "Harry and his father" were merged into Grip, Bill Butcher's dog.<ref name=commentary/>
+
+{{references}}
+
+{{Legend}}
+
+{{DEFAULTSORT:Grip (Bill Butcher's dog)}}
+
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Dogs]]
+[[Category:Third Age characters]]

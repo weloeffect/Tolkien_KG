@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Tarciryan
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=After {{TA|654}}
+| birthlocation=
+| rule=
+| death=Before {{TA|913}}
+| deathlocation=
+| age=<259
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Siriondil (King of Gondor)|Siriondil]]
+| siblings=[[Tarannon Falastur]]
+| spouse=
+| children=[[Eärnil I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tarciryan''' was the younger son of King [[Siriondil (King of Gondor)|Siriondil]] of [[Gondor]].  When his elder brother, [[Tarannon Falastur]], died without an heir, Tarciryan's son [[Eärnil I]] ascended the throne.<ref>{{App|South}}</ref>
+
+==Etymology==
+''Tarciryan'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it seems to be a compound of [[tar]] ("high") and [[cirya]] ("ship"), although the significance of the final ''n'' is unclear.<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-4103353033.html|articlename=Q. ''Tarciryan'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | ATA | | |ATA=[[Atanatar I]]<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | SIR | | |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER=[[Berúthiel]]<br/><small>''unknown''</small>|TAR=[[Tarannon Falastur]]<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC='''TARCIRYAN'''<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EAR |EAR=[[Eärnil I]]<br/><small>''{{TA|736|n}} - {{TA|936|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | CIR |CIR=[[Ciryandil]]<br/><small>''{{TA|820|n}} - {{TA|1015|n}}''†</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Tarciryan]]

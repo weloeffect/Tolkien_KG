@@ -1,0 +1,93 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Araphant
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1789}}
+| birthlocation=
+| rule={{TA|1891}} - {{TA|1964|n}}
+| death={{TA|1964}}
+| deathlocation=
+| age=175
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Araval]]
+| siblings=
+| spouse=
+| children=[[Arvedui]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Araphant''' ({{TA|1789}}<ref name="Elendil">{{PM|Elendil}}, p. 195</ref> - {{TA|1964|n}},<ref name="North">{{App|North}}</ref> died aged 175) was the fourteenth king of [[Arthedain]], and came to the throne upon the death of his father, [[Araval]], in 1891.
+
+==History==
+Despite his father's successes, [[Angmar]] rebuilt its strength and continued its attacks on Arthedain which Araphant struggled to hold off with dwindling strength.<ref name="Elendil"/>  Arthedain had been at war with Angmar for 500 years, and this was taking its toll on the [[Dúnedain]] as their resistance was starting to fail.
+
+It was during Araphant's reign that the long silence and estrangement between the southern kingdom of [[Gondor]] and the northern kingdom ended when Araphant took counsel with the [[King of Gondor]], [[Ondoher]]. They realised that a single force was co-ordinating the attacks on both of their kingdoms and that they should work together to combat this evil.  In {{TA|1940|n}}, Araphant's son, [[Arvedui]], married the daughter of [[Ondoher]], [[Fíriel]], in token of the new alliance between Gondor and Arthedain.<ref name="Gondor">{{App|Gondor}}</ref>
+
+However, the alliance proved fruitless because neither kingdom could spare help for the other.  Arthedain was soon attacked by the forces of the [[Witch-king]], whilst Gondor was under attack by the [[Wainriders]].
+
+When Ondoher died four years later, [[Gondor]] was left kingless, so [[Arvedui]] claimed the kingship of Gondor on behalf of his wife, but the Steward [[Pelendur]] persuaded the [[Council of Gondor]] to select [[Eärnil II|Eärnil]], a distant relative of Ondoher, instead. However, the heirs of Arvedui did not forget this and claimed to be the heirs of both [[Isildur]] and [[Anárion]].<ref name="Gondor"/>
+
+Araphant ruled Arthedain for seventy-three years and was succeeded by his son, Arvedui,<ref name="North"/> who was the last king until [[Aragorn|Aragorn Elessar]].
+
+== Etymology ==
+''Araphant'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests that it means "Full King" and is a compound of ''[[aran]]'' ("king", "lord", "chief", [lit.] high or noble person) and the nasal mutation ''phant'' of ''pant'' ("full") (as suggested by David Salo).<ref>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=04 February 2022}}</ref><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-753042967.html|articlename=S. ''Araphant'' m.|website=Eldamo|accessed=04 February 2022}}</ref> His name could be a reference to Araphant asserting himself as the [[Kings of Arnor|king]] of all [[Arnor]].
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | ARV | | | | |ARV=[[Arveleg II]]<br/><small>''{{TA|1633|n}} - {{TA|1813|n}}''</small>}}
+{{familytree | |!| | | | | |}}
+{{familytree | ARA | | GON |ARA=[[Araval]]<br/><small>''{{TA|1711|n}} - {{TA|1891|n}}''</small>|GON=[[Kings of Gondor|''Kings of<br/>Gondor'']]}}
+{{familytree | |!| | | |:| |}}
+{{familytree | ARA | | OND |ARA='''ARAPHANT'''<br/><small>''{{TA|1789|n}} - {{TA|1964|n}}''</small>|OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | ARV |y| FIR |ARV=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1974|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b {{TA|1896|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ARA | | |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1789}}
+| died={{TA|1964}}
+}}
+{{seq
+| prow=2
+| prev=[[Araval]]
+| list=22nd [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1891}} - {{TA|1964|n}}
+| next=[[Arvedui]]
+| nrow=2
+}}
+{{seq
+| list=14th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1891}} - {{TA|1964|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Araphant]]
+[[fi:Araphant]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/araphant]]

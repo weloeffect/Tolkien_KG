@@ -1,0 +1,52 @@
+{{disambig-more|Lily|[[Lily (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Lily Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1222}}
+| birthlocation=
+| rule=
+| death={{SR|1312}}
+| deathlocation=
+| age=90
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Balbo Baggins]] and [[Berylla Boffin]]
+| siblings=[[Mungo Baggins|Mungo]], [[Pansy Baggins|Pansy]], [[Ponto Baggins I|Ponto]] and [[Largo Baggins|Largo]]
+| spouse=[[Togo Goodbody]]
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Lily Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Lily was a daughter of [[Balbo Baggins]] and [[Berylla Baggins|Berylla Boffin]]. She married [[Togo Goodbody]] and had many descendants.<ref name=tree>{{App|Baggins}}</ref>
+
+During the last years of her life, the Shire suffered from the [[Fell Winter (Third Age)|Fell Winter]],<ref>{{App|TA}}</ref> and around that time she lost her elder brother [[Ponto Baggins I|Ponto]]. Lily died the next year, as did her other brother, [[Largo Baggins|Largo]].<ref name=tree/>
+
+==Etymology==
+A ''lily'' is a plant of the ''[[wikipedia:Lilium|lilium]]'' genus, or to visually similar plants. It derives from Greek ''λείριον'' through Latin, ultimately of ancient Egyptian origin.<ref>[http://en.wiktionary.org/wiki/lily Wiktionary entry]</ref>
+{{references}}
+[[Category:Baggins]]
+[[Category:Goodbody]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Lily Gutleib]]
+[[fi:Lilja Reppuli]]
+[[fr:/encyclo/personnages/hobbits/sacquet/lily_sacquet]]

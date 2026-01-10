@@ -1,0 +1,88 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Tarcil
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=[[King of Arnor]]
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|280}}<ref name=PM>{{PM|VII}}, p. 192</ref>
+| birthlocation=
+| rule={{TA|435}} - {{TA|515|n}}
+| death={{TA|515}}<ref name=App>{{App|A1iiN}}</ref>
+| deathlocation=
+| age=235
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arantar]]
+| siblings=
+| spouse=
+| children=[[Tarondor (King of Arnor)|Tarondor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tarcil''' ({{TA|280}}<ref name=PM/> – {{TA|515|n}},<ref name=App/> aged 235 years) was the sixth [[King of Arnor]].
+
+==History==
+Tarcil succeeded his father, [[Arantar]], when he died in [[Third Age 435]]. Tarcil was great-great-grandson of [[Isildur]].
+
+Tarcil ruled uneventfully for eighty years, and was succeeded by his son, [[Tarondor (King of Arnor)|Tarondor]], upon his death in [[Third Age 515]].<ref name=App/>
+
+== Etymology ==
+''Tarcil'' is a [[Quenya]] name. Its meaning is not glossed, but the spelling variant [[Tarkil]] also appears in early drafts of ''[[The Lord of the Rings]]'' as the name of the sixth king of Arnor.<ref>{{PM|Elendil}}, manuscript C with corrections and expansions, The Northern Line of Arnor: the Isildurioni, 6. Tarkil, p. 192.</ref> 
+
+Based on its etymology, it means "[[High Man]]" or "Númenorean" and is a compound of ''[[tar|tar-]]'' ("high") and a shortened from of ''[[Hildo]]'' ("Man").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-788910631.html|articlename=Q. ''Tarcil'' m.|website=Eldamo|accessed=27 January 2022}}</ref> See ''[[tarkil]]'' for more.
+
+In early drafts "the Tarkil" was a nickname for [[Aragorn]] before replaced by "the Dúnadan".<ref>{{TI|Gandalf}}, p. 8</ref><ref>{{HM|RC}}, p. 603</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | ELD |ELD=[[Eldacar (King of Arnor)|Eldacar]]<br/><small>''{{TA|87|n}} - {{TA|339|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arantar]]<br/><small>''{{TA|185|n}} - {{TA|435|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR='''TARCIL'''<br/><small>''{{TA|280|n}} - {{TA|515|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR=[[Tarondor (King of Arnor)|Tarondor]]<br/><small>''{{TA|372|n}} - {{TA|602|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR=[[Valandur]]<br/><small>''{{TA|462|n}} - {{TA|652|n}}''†</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|280}}
+| died={{TA|515}}
+}}
+{{seq
+| prow=2
+| prev=[[Arantar]]
+| list=4th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|435}} - {{TA|515|n}}
+| next=[[Tarondor (King of Arnor)|Tarondor]]
+| nrow=2
+}}
+{{seq
+| list=6th [[Kings of Arnor|King of Arnor]]
+| dates={{TA|435}} - {{TA|515|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arnor]]
+[[Category:Quenya nouns]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]

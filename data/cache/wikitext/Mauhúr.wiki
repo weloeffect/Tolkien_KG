@@ -1,0 +1,59 @@
+{{infobox character
+| people=[[Orcs|Orc]]
+| name=Mauhúr
+| image=Javier Charro - Mauhur, Uruk-hai Captain.webp
+| caption=''Mauhur, Uruk-hai Captain'' by [https://www.charroart.com/ Javier Charrofor]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Isengard]] and [[Fangorn Forest]]
+| affiliation=[[Orcs of Isengard]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=Possibly [[29 February]], {{TA|3019}}
+| deathlocation=Possibly at the edge of [[Fangorn Forest]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Uruk-hai]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Mauhúr''' was an [[Orcs|Orc]] in the service of [[Saruman]].
+
+== History ==
+Mauhúr was sent to reinforce [[Uglúk]]'s troop as they returned to [[Isengard]] with [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]]. He found them surrounded by [[Éomer]]'s [[Rohirrim]] at the edge of [[Fangorn Forest]], from which he led his Orcs in an attack. This attack was a failure: the Rohirrim were able to defeat the Orcs, even with Mauhúr's reinforcements. It is unknown whether Mauhúr and his soldiers were "''killed or driven off''" by the Rohirrim.<ref>{{TT|III3}}</ref>
+
+== Portrayal in adaptations ==
+===Mauhúr in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Two Towers - Mauhúr.jpg|Mauhúr in ''[[The Lord of the Rings: The Two Towers]]''
+File:The Lord of the Rings Online - Mauhúr.jpg|Mauhúr in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:Mauhúr can be played as Unique Leader, and his home site is Dol Guldur.
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Mauhúr is portrayed as an [[Uruk-hai]] instead of an Orc, and is played by [[Robbie Magasiva]] and voiced by [[Andy Serkis]]. His remarks on the lack of food enticed [[Snaga (orc of Isengard)|Snaga]], who proposed eating the captives. Mauhúr was among the Uruks who devoured Snaga's corpse after the latter was beheaded for his limited discipline.
+
+'''[[2012]]: ''[[The Lord of the Rings Online]]'':'''
+:Mauhúr leads a group of Uruks that split off from [[Uglúk]]'s band and establish a camp called Kufuzg in the Norcrofts of [[Rohan]], where he is found and defeated by the player.
+
+{{references}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Servants of Saruman]]
+[[Category:Third Age characters]]
+[[Category:Uruk-hai]]

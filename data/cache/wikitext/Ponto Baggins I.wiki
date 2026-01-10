@@ -1,0 +1,49 @@
+{{disambig-two|the son of [[Balbo Baggins]]|son of [[Posco Baggins]]|[[Ponto Baggins II]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ponto Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1216}}
+| birthlocation=
+| rule=
+| death={{SR|1311}}
+| deathlocation=
+| age=95
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Balbo Baggins]] and [[Berylla Boffin]]
+| siblings=[[Mungo Baggins|Mungo]], [[Pansy Baggins|Pansy]], [[Largo Baggins|Largo]] and [[Lily Baggins|Lily]]
+| spouse=[[Mimosa Bunce]]
+| children=[[Rosa Baggins|Rosa]] and [[Polo Baggins|Polo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ponto Baggins''' was a Hobbit of [[The Shire]].
+
+==History==
+Ponto was the middle child of [[Balbo Baggins|Balbo]] and [[Berylla Boffin|Berylla Baggins]]. He married [[Mimosa Bunce]], with whom he had two children: [[Rosa Baggins|Rosa]] and [[Polo Baggins|Polo]].<ref>{{App|Baggins}}</ref>
+
+Ponto died in {{SR|1311}}, the year when the Shire suffered from the [[Fell Winter]].<ref>{{App|TA}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Ponto Beutlin (Sohn von Balbo)]]
+[[fi:Ponto Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/ponto sacquet 1]]

@@ -1,0 +1,79 @@
+{{disambig-two|the mother of [[Bilbo Baggins|Bilbo]]|founder of [[The Tolkien Society]]|[[Vera Chapman]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Belladonna Took
+| image=Peter Pracownik - The Lovers.jpg
+| caption="The Lovers" by [[Peter Pracownik]]
+| pronun=
+| othernames=Mrs Bungo Baggins<ref name="Party"/>
+| titles=
+| position=
+| location=[[Bag End]], [[Hobbiton]]
+| affiliation=
+| language=
+| birth={{TA|2852}}
+| birthlocation=
+| rule=
+| death={{TA|2934}}
+| deathlocation=
+| age=82
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Gerontius Took]] and [[Adamanta Chubb]]
+| siblings=[[Isengrim Took III|Isengrim]], [[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras]], [[Hildigrim Took|Hildigrim]], [[Isembold Took|Isembold]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Hildibrand Took|Hildibrand]], [[Donnamira Took|Donnamira]], [[Mirabella Took|Mirabella]] and [[Isengar Took|Isengar]]
+| spouse=[[Bungo Baggins]]
+| children=[[Bilbo Baggins|Bilbo]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Belladonna Baggins''' (née '''Took''') ([[Third Age]] {{TA|2852|n}} - {{TA|2934|n}}, died aged 82) was the mother of [[Bilbo Baggins]].
+
+==History==
+Belladonna was one of the three remarkable daughters of the [[Gerontius Took|Old Took]].<ref name="Party">{{H|Party}}</ref> She had eight older brothers (and one younger), and was the eldest of the three daughters.<ref name="Took">{{App|Took}}</ref> Belladonna married [[Bungo Baggins]], who built a spacious hole for her (partly with her money).<ref name="Party"/> It became the residence of the [[Baggins Family]], and in {{TA|2890|n}}, her son and only child [[Bilbo Baggins|Bilbo]] was born. She died in {{TA|2934|n}},<ref name="Took"/> eight years after her husband.<ref>{{App|Baggins}}</ref> 
+
+==Etymology==
+''[[wikipedia:Atropa belladonna|belladonna]]'' is the name of a poisonous plant,<ref>[[J.R.R. Tolkien]], [[Douglas A. Anderson]], ''[[The Annotated Hobbit]]'', "[[An Unexpected Party]]", note 8</ref> fitting in with the Hobbit-habit of naming girls after flowers.<ref>{{App|F2}}</ref>
+
+The word is understood as an Italian name, a rarity among Hobbits, and translates as "beautiful lady" although it derives from Latin ''bladone'' "nightshade".
+
+The name participates in a circular wordplay with the names of her sisters, [[Mirabella Took|Mira'''bella''']] and [[Donnamira Took|'''Donna'''mira]], also Italian names.
+
+==Inspiration==
+In her first appearance in the fiction, Belladonna - which has stayed unchanged from the earliest survived sketch of the story<ref>{{HM|MB}}, "[[The Bladorthin Typescript]]"</ref> -  is described as "one of three remarkable daughters of the Old Took". [[Humphrey Carpenter]], in his attempt to draw an analogy between Bilbo and Tolkien, noted that Tolkien's mother, [[Mabel Suffield]], was one of three remarkable daughters of [[John Suffield]], who lived to be nearly a hundred.<ref>{{B|IV}}, "Enter Mr. Baggins", page 175</ref>
+
+==Portrayal in adaptations==
+===Belladonna Took in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Peter Pracownik - Belladonna Took.jpg|Belladona and [[Bilbo Baggins|Bilbo]] in ''[[The Lord of the Rings Tarot]]''
+File:The Lord of the Rings - The Fellowship of the Ring - Belladonna Took.png|Belladonna Took's portait in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Hobbit (2003) - Belladonna, Bilbo & Bungo.png|Portrait of Belladonna, [[Bilbo Baggins|Bilbo]] and [[Bungo Baggins|Bungo]] in [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+The Hobbit - An Unexpected Journey - Belladonna Took.png|Belladonna Took in ''[[The Hobbit: An Unexpected Journey]]''
+</gallery>
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:A portrait of Belladonna Baggins hangs in Bag End. It is based on [[Fran Walsh]]'s appearance. A portrait of Bungo next to it is based on a beardless [[Peter Jackson]].<ref>[[Peter Jackson]], [[Fran Walsh]], [[Philippa Boyens]], {{fotree}}, "[[Farewell Dear Bilbo]]", Director's commentary</ref> 
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:A portrait of Belladonna, Bungo and a young Bilbo hangs at Bag End. As he looks at it, Bilbo exclaims "A Hobbit couldn't ask for finer parents".<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Hobitton"</ref>
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:Belladonna appears briefly in the prologue of the film's Extended Edition, collecting a young Bilbo as he goes up to [[Gandalf]] as the [[Wizards|Wizard]] is setting off fireworks during a Midsummer's eve celebration. She is played by [[Sonia Forbes-Adam]].
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:The same portrait from ''The Lord of the Rings: The Fellowship of the Ring'' appears at the end of the film, also based on [[Fran Walsh]]'s appearance.<ref>Peter Jackson and Fran Walsh note this in the audio commentary of the [[The Hobbit: The Battle of the Five Armies|''The Hobbit: The Battle of the Five Armies'' Extended Edition]].</ref>
+
+{{References}}
+[[Category:Baggins]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+[[Category:Characters in The Hobbit]]
+
+[[de:Belladonna Beutlin]]
+[[fi:Belladonna Tuk]]
+[[fr:encyclo:personnages:hobbits:touque:belladonna touque]]

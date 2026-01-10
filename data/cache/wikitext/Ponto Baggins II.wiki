@@ -1,0 +1,53 @@
+{{disambig-two|the son of [[Posco Baggins]]|son of [[Balbo Baggins]]|[[Ponto Baggins]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ponto Baggins II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth={{SR|1346}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=After {{SR|1422}}
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Posco Baggins]] and [[Gilly Brownlock]]
+| siblings=[[Porto Baggins|Porto]] and [[Peony Baggins|Peony]]
+| spouse=
+| children=[[Angelica Baggins|Angelica]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ponto Baggins II'''<ref name=letter>{{L|214}}</ref> was a [[Hobbits|Hobbit]] of [[the Shire]].<ref name=baggins>{{App|Baggins}}</ref>
+
+== History ==
+Ponto was the eldest son of [[Posco Baggins]] and [[Gilly Brownlock]] and was named after his great-grandfather, [[Ponto Baggins|Ponto]]. He was the father of [[Angelica Baggins|Angelica]] and they attended the [[Bilbo's Farewell Party|Birthday Party]] together.<ref name=baggins/>
+
+After [[Frodo Baggins]] left [[the Shire]] in {{SR|1422}}, Ponto "presumably" became the head of the [[Baggins Family]], though in title only, as [[Bag End]] had passed to [[Samwise Gamgee]].<ref name=letter/>
+
+== Portrayal in adaptations ==
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Ponto Baggins lives on Number 2, [[Bywater Road]], the first house in [[Bywater]].
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Ponto Beutlin (Sohn von Posco)]]
+[[fi:Ponto Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/ponto sacquet 2]]

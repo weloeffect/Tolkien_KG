@@ -1,0 +1,52 @@
+{{short description|Raven of Ravenhill}}
+{{infobox character
+| people = [[Ravens|Raven]]
+| image= Donato Giancola - Carc and Thror.jpeg
+| caption="Carc and Thror" by [[Donato Giancola]]
+| name=Carc
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Ravenhill]], [[Erebor]]
+| affiliation=
+| language=[[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=between {{TA|2788}} and {{TA|2941|n}}
+| deathlocation=
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=[[Roäc]]
+| race=[[Ravens|Raven]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Carc''' was one of the [[ravens]] who lived on [[Ravenhill]], one of the foothills of [[Lonely Mountain|Erebor]], the Lonely Mountain. Carc seems to have been the chief of those birds, and dwelt with his wife above the [[Dwarves]]' guard-chamber on the hill. [[Thorin]] recalled him as being wise and famous at the time the Dwarves were driven out of [[Lonely Mountain|Erebor]] by [[Smaug]]. When Thorin returned to the Lonely Mountain 171 years later, Carc was dead, but the ravens remained, led by his son [[Roäc]].<ref>{{H|Gathering}}</ref>
+
+==Etymology==
+''Carc'' is likely an [[Wikipedia:Onomatopoeia|onomatopoeic]] name.<ref>{{HM|AH}}, p. 316</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| CAR | |CAR='''CARC'''<br /><small>''unknown''</small>}}
+{{familytree| |!| | |}}
+{{familytree| ROA | |ROA=[[Roäc]]<br /><small>''b. {{TA|2788}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Ravens]]
+[[Category:Characters in The Hobbit]]
+[[Category:Third Age characters]]
+[[de:Carc]]
+[[fr:encyclo/personnages/animaux/corbeaux/carc]]
+[[fi:Carc]]

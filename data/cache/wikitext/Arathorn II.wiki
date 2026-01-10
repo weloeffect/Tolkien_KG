@@ -1,0 +1,110 @@
+{{disambig-two|the father of [[Aragorn]]|earlier [[Chieftains of the Dúnedain|Chieftain]]|[[Arathorn I]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arathorn II
+| image=Guardians of Middle-earth - Arathorn Icon.jpg
+| caption=Arathorn from ''[[Guardians of Middle-earth]]''
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2873}}
+| birthlocation=
+| rule={{TA|2930}} - {{TA|2933|n}}
+| death={{TA|2933}}
+| deathlocation=
+| age=60
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arador]]
+| siblings=
+| spouse=[[Gilraen]]
+| children=[[Aragorn]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Pronounce|Arathorn.mp3|Ardamir}}
+{{quote|Arathorn is a stern man [...] and will be chieftain sooner than men looked for; yet my heart forbodes that he will be short-lived.|[[Dírhael]]<ref name="Av">{{App|Tale}}</ref>}}
+
+'''Arathorn II''' ({{TA|2873}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2933|n}},<ref name="North">{{App|North}}</ref> died aged 60) was the fifteenth [[Chieftain of the Dúnedain]] and succeeded his father, [[Arador]], when he was killed in {{TA|2930|n}}. He was the father of [[Aragorn|Aragorn II]], King of the [[Reunited Kingdom]].
+
+==History==
+In the last year of his father's reign as Chieftain, in {{TA|2929}}, Arathorn sought [[Gilraen]] as his wife. She was only twenty-two, so her father, [[Dírhael]], opposed the marriage. He also warned that Arathorn would not live long. Yet [[Ivorwen]], Gilraen's mother, was gifted with [[foresight]] and perceived that [[Estel|hope]] would be born from their marriage for the people of the [[Dúnedain]].<ref name="Av"/> Thus, Gilraen and Arathorn were married in {{TA|2929|n}}.<ref>{{App|TA}}</ref>
+
+Indeed, [[Third Age 2930|the next year]], [[Arador]], Arathorn's father, was slain by [[hill-trolls]], and Arathorn became Chieftain. A year later, Gilraen bore him a son, whom they named [[Aragorn]]. Young Aragorn would never know his father; in {{TA|2933|n}}, Arathorn went hunting [[orcs]] with [[Elladan]] and [[Elrohir]], but was shot through the eye and killed. Gilraen took their son to [[Rivendell]] to be fostered by [[Elrond]].
+
+Arathorn II served as [[Chieftain of the Dúnedain]] for just three years. He was succeeded by his only son, who would become [[Aragorn|Chieftain Aragorn II]], and in time King Elessar of the [[Reunited Kingdom of the Dúnedain]].<ref name="Av"/>
+
+==Etymology==
+Arathorn was likely named after his ancestor, [[Arathorn I]]. There have been two explanations for the name: 
+
+In a [[Letter 347|letter]] dated [[1972]], [[J.R.R. Tolkien|Tolkien]] gave the name the meaning "Eagle King" (from ''[[aran]]'' "king" and ''[[thoron]]'' "eagle").<ref>{{L|347}}</ref> 
+
+However, in work written in the late 50's, Tolkien gave "Steadfast King" (from ''[[aran]]'' "king" and ''[[thorn]]'' "steadfast") instead.<ref>[[J.R.R. Tolkien]], "Words, Phrases & Passages in 'The Lord of the Rings'", ''[[Parma Eldalamberon 17]]'', page 113 entry S '''Turgond-'''</ref>
+
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | HOS | | | | | | | | | | | | | | |HOS=''[[House of Isildur]]''}}
+{{familytree | | | |:| | | | | | | | | | | | | | | |}}
+{{familytree | | | |:| | | | | | | | | | | | | | | |}}
+{{familytree | | | ARA | | | | HOU | | | | | | | | |ARA=[[Arathorn I]]<br/><small>''{{TA|2693|n}} - {{TA|2848|n}}''†</small>|HOU=''[[House of Isildur]]''}}
+{{familytree | |,|-|^|-|.| | | |:| | | | | | | | | |}}
+{{familytree | ARG | | UNK | | GIL | | | | | | | | |ARG=[[Argonui]]<br/><small>''{{TA|2757|n}} - {{TA|2912|n}}''</small>|GIL=[[Gilbarad]]<br/><small>''b. {{TA}}''</small>|UNK=''unknown<br />child''<sup>[[Arathorn I#Other versions of the legendarium|NB]]</sup>}}
+{{familytree | |!| | | |:| | | |!| | | | | | | | | |}}
+{{familytree | ARA | | DIR |y| IVO | | | | | | | | |ARA=[[Arador]]<br/><small>''{{TA|2820|n}} - {{TA|2930|n}}''†</small>|DIR=[[Dírhael]]<br/><small>''b. {{TA}}''</small>|IVO=[[Ivorwen]]<br/><small>''b. {{TA}}''</small>}}
+{{familytree | |!| | | | | |!| | | | | | | | | | | |}}
+{{familytree | ATH |~|y|~| GIR | | | | ELR |y| CEL |ATH='''ARATHORN II'''<br/><small>''{{TA|2873|n}} - {{TA|2933|n}}''†</small>|GIR=[[Gilraen]]<br/><small>''{{TA|2907|n}} - {{TA|3007|n}}''</small>|CEL=[[Celebrían]]<br/><small>''b. around {{SA|300}}''</small>|ELR=[[Elrond]]<br/><small>''b. {{FA|532}}''</small>}}
+{{familytree | | | | |!| | | | | | | | | | |!| | | |}}
+{{familytree | | | | ELE |-|-|-|y|-|-|-|-| ARW | | |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>|ARW=[[Arwen]]<br/><small>''{{TA|241}} - {{FoA|121}}''</small>}}
+{{familytree | | | | |,|-|-|-|-|^|-|-|-|-|.| | | | |}}
+{{familytree | | | | ELD | | | | | | | | DAU | | | |ELD=[[Eldarion]]<br/><small>''{{FoA|1}} - around {{FoA|220|n}}''</small>|DAU=''unknown<br />daughters''}}
+{{familytree/end}}
+
+
+==Portrayal in adaptations== 
+===Arathorn II in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Guardians of Middle-earth - Arathorn.png|''[[Guardians of Middle-earth]]''
+</gallery>
+'''2012: ''[[Guardians of Middle-earth]]'':'''
+:Arathorn II is a playable Warrior in ''[[Guardians of Middle-earth]]''. He tracked down the Troll who killed his father and single-handedly slew it on a cliff above the [[Ettenmoors]]. Heroic deeds of the like earned Arathorn the respect of his people and of [[Elladan and Elrohir]]. His abilities combine ranged and melee attacks. His 'Staggering Shot' stuns enemies with his bow. 'Rangers Strike' stabs the enemy, slowing them and reducing movement speed, before sending Arathorn into stealth mode. With '[[Dúnedain]] Blade', Arathorn swings his blade in an arc, damaging and slowing his opponent. 'Chieftain's Focus' lands a powerful blow on his opponent and increases his attack speed. His passive ability, 'Heir of [[Isildur]]', means every 10th successful attack of his will deal critical damage and his movement speed is faster to other ranked characters in the base game.
+{{References}}
+{{Seq-start}}
+{{Seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2873}}
+| died={{TA|2933}}
+}}
+{{seq
+| prow=2
+| prev=[[Arador]]
+| list=38th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2930}} - {{TA|2933}}
+| next=[[Aragorn|Aragorn II]]
+| nrow=2
+}}
+{{seq
+| list=15th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2930}} - {{TA|2933}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Isildur]]
+[[Category:Chieftains of the Dúnedain]]
+[[Category:Third Age characters]]
+
+[[de:Arathorn II.]]
+[[fi:Arathorn II]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/arathorn ii]]

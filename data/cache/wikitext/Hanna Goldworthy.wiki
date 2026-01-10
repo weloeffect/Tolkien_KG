@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Hanna Goldworthy
+| image=
+| caption=
+| pronun=
+| othernames=Hanna Brandybuck
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth=c. {{SR|1175}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Goldworthy Family|Goldworthy]]
+| parentage=
+| siblings=
+| spouse=[[Madoc Brandybuck|Madoc "Proudneck" Brandybuck]]
+| children=[[Marmadoc Brandybuck|Marmadoc]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hanna Brandybuck, née Goldworthy''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Hanna married [[Madoc Brandybuck]] and was the mother of [[Marmadoc Brandybuck|Marmadoc]].<ref>{{App|Brandybuck}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Goldworthy]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]
+
+[[de:Hanna Brandybock]]
+[[fi:Hanna Kullanväärtti]]

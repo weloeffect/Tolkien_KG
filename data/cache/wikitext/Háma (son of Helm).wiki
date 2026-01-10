@@ -1,0 +1,72 @@
+{{disambig-two|the son of Helm|guard of [[Meduseld]]|[[Háma]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Háma
+| image=Lída Holubová - The House of Eorl - Children of Helm Hammerhand.jpg
+| caption="The House of Eorl - Children of Helm Hammerhand" by [[Lída Holubová]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|2759}}
+| deathlocation=Near the [[Hornburg]]
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Helm|Helm Hammerhand]]
+| siblings=[[Haleth (son of Helm)|Haleth]] and [[Helm's daughter|unnamed sister]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Háma''' was the second son of [[Helm|Helm Hammerhand]]. 
+
+==History==
+When the [[Dunlendings]] invaded [[Rohan]] in {{TA|2758}}, Háma took refuge in [[Helm's Deep]] with his father.  During the [[Long Winter]] Helm was besieged, the Rohirrim's food ran low, and the people began to starve.  After [[Yule]], Háma led a group out of the fortress on a sortie to find food, but they got lost in a snow storm and never returned.<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+Háma in [[Old English]] means "of home".
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | GRA | | |GRA=[[Gram]]<br/><small>''{{TA|2668|n}} - {{TA|2741|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | HEL | | HIL |HEL=[[Helm|Helm Hammerhand]]<br/><small>''{{TA|2691|n}} - {{TA|2759|n}}''†</small>|HIL=[[Hild]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | HAL | | HAM | | DAU | | FRE |HAL=[[Haleth (son of Helm)|Haleth]]<br/><small>''d. {{TA|2758|n}}''†</small>|HAM='''HÁMA'''<br/><small>''d. {{TA|2759|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FRE=[[Fréaláf|Fréaláf Hildeson]]<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | BRY |BRY=[[Brytta|Brytta Léofa]]<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | WAL |WAL=[[Walda]]<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Háma in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+The War of the Rohirrim - Háma.png|Háma in ''[[The Lord of the Rings: The War of the Rohirrim]]''
+</gallery>
+
+'''2024: ''[[War of the Rohirrim]]'':'''
+
+
+{{references}}
+{{title}}
+{{DEFAULTSORT:Hama (son of Helm)}}
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Háma (Sohn von Helm)]]
+[[fi:Háma (Helmin poika)]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/hama fils de helm]]

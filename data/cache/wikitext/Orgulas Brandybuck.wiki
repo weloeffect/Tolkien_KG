@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Orgulas Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1268}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Marmadoc Brandybuck]] and [[Adaldrida Bolger]]
+| siblings=[[Gorbadoc Brandybuck|Gorbadoc]]
+| spouse=
+| children=[[Gorbulas Brandybuck|Gorbulas]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Orgulas Brandybuck''' was a [[Hobbits|Hobbit]] of [[Buckland]].
+
+==History==
+Orgulas was the youngest son of [[Marmadoc Brandybuck]] and [[Adaldrida Bolger]]. He had one son, [[Gorbulas Brandybuck|Gorbulas]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Orgulas'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+[[Jim Allan]] noted that the adjective ''orgulous'' ("proud", "haughty"), an anglisized form of a French word corresponding to ''orgeilleux in Modern French, is used by Malory in ''Le Morte Darthur''. There it is used as a title of a Knight of the Round Table named Bellyance ''le Orgulus''.<ref>{{HM|IE}}, "Giving of Names", p. 204</ref>
+
+{{references}}
+[[Category:Hobbits]][[Category:Brandybuck]]
+[[Category:Third Age characters]]
+
+[[de:Orgulas Brandybock]]
+[[fi:Orgulas Rankkibuk]]
+[[fr:encyclo/personnages/hobbits/brandebouc/orgulas brandebouc]]

@@ -1,0 +1,12 @@
+'''Burin''' was a [[Dwarves|Dwarf]] that [[J.R.R. Tolkien|Tolkien]] abandoned while in the process of creating ''[[The Lord of the Rings]]''.
+
+== History ==
+This character was first mentioned as Frár, who attended the [[Council of Elrond]] with [[Glóin]]. He was changed to Burin the son of [[Balin]], that later would join the [[Fellowship of the Ring|Fellowship]] on their quest.<ref>{{RS|Elrond}}</ref> When that idea was abandoned and [[Gimli]] was created in his stead, the name was used for the father of Balin, but that was scrapped in favour of [[Fundin]].<ref>{{RS|Moria}}</ref>
+
+== Etymology ==
+''Burin'', or ''Burinn'', is a dwarf name from the ''[[Völuspá|Dvergatal]]'', meaning "son-like".<ref name=Dwarf>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4</ref>{{rp|943}} Frár means "swift".<ref name=Dwarf/>{{rp|947}}
+
+{{references}}
+[[Category:Dwarves]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]

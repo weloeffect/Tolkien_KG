@@ -1,0 +1,93 @@
+{{disambig-more|Ecthelion|[[Ecthelion (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Ecthelion II
+| image=Catherine Chmiel - Ecthelion,Thorongil and Boromir study.jpg
+| caption="Ecthelion, Thorongil and Boromir study" by [[Catherine Karina Chmiel]]
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2886}}
+| birthlocation=
+| rule={{TA|2953}} - {{TA|2984}} (31 years)
+| death={{TA|2984}}
+| deathlocation=
+| age=98
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Turgon (Steward of Gondor)|Turgon]]
+| siblings=
+| spouse=
+| children=[[Denethor|Denethor II]]; 2 unnamed daughters<ref name="Elendil">{{PM|Elendil}}, p. 206</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Pronounce|Ecthelion.mp3|Ardamir}}
+'''Ecthelion II''' ([[Third Age]] 2886<ref name="Elendil">{{PM|Elendil}}, p. 206</ref> – 2984,<ref name="South">{{App|South}}</ref> aged 98 years) was the twenty-fifth [[Ruling Steward]] of [[Gondor]]. He succeeded his father [[Turgon (Steward of Gondor)|Turgon]] at his death in Third Age 2953. 
+
+==History==
+Ecthelion was the son of Steward [[Turgon (Steward of Gondor)|Turgon]]. Two years before his reign, [[Sauron]] had declared himself openly.<ref name=ta>{{App|TA}}</ref><ref name=stew/>
+
+Ecthelion was known as a man of wisdom, and used all his power to strengthen Gondor against the new threat. He encouraged worthy men from Gondor or outside to enter into his service, giving ranks and rewarding the best of them. One was the stranger [[Thorongil]] who came from King [[Thengel]] of [[Rohan]]. Ecthelion loved him above all, and appreciated him more than his own son, Denethor; the Gondorians even believed that there was rivalry between the two. The stranger also advised him not to trust [[Saruman]] in [[Isengard]], but to welcome [[Gandalf]] (whom Denethor didn't trust).<ref name=stew/> 
+
+[[Gandalf]] was also a welcome guest in [[Minas Tirith]] at the time. Ecthelion also strengthened [[Pelargir]] and refortified [[Cair Andros]].<ref name="Elendil"/>
+
+Thorongil warned Ecthelion that if Sauron started open war, the [[Corsairs of Umbar]] would be a great threat for the [[Southern Fiefs]]. Ecthelion gave his leave to Thorongil to go to [[Umbar]] and in {{TA|2980}} he severely damaged the [[Corsairs]]' fleet in a [[Surprise Attack on Umbar|surprise attack]]. Great honor awaited Thorongil in [[Minas Tirith]] but he never returned; he sent a farewell message to Ecthelion saying that other tasks call him and didn't know if fate would bring him again to Gondor. It later transpired that Thorongil was [[Aragorn|Aragorn Elessar]].<ref name=ta/><ref name=stew>{{App|Stewards}}</ref>
+
+Ecthelion was followed by his son [[Denethor]] at his death in 2984.<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Ecthelion#Etymology|Ecthelion - Etymology]]. It is possible that Ecthelion II was named after the [[Noldor|Noldo]] hero of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | TUR | | |TUR=[[Túrin II]]<br/><small>''{{TA|2815|n}} - {{TA|2914|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | DOL | | | | TUR | | |DOL=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]|TUR=[[Turgon (Steward of Gondor)|Turgon]]<br/><small>''{{TA|2855|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | |:| | | | | |!| | | |}}
+{{familytree | ADR | | | | ECT | | |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>|ECT='''ECTHELION II'''<br/><small>''{{TA|2886|n}} - {{TA|2984|n}}''</small>}}
+{{familytree | |!| | | |,|-|^|-|.| |}}
+{{familytree | FIN |y| DEN | | DAU |FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|DAU=''two daughters''<br/><small>''unknown''</small>}}
+{{familytree | |,|-|^|-|.| | | | | |}}
+{{familytree | BOR | | FAR | | | | |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:Although he does not appear in the film, in the [[The Hobbit: The Battle of the Five Armies (extended edition)|Extended Edition]], [[Thranduil]] mentions "Ecthelion of Gondor" to [[Bard]] as someone who could sell the [[Arkenstone]] to. At the [[Third Age 2941|time of the book]], [[Turgon (Steward of Gondor)|Turgon]] was still Steward of Gondor.
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2886}}
+| died={{TA|2984}}
+}}
+{{seq
+| prev=[[Turgon (Steward of Gondor)|Turgon]]
+| list=25th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2953}} - {{TA|2984|n}}
+| next=[[Denethor|Denethor II]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Ecthelion II.]]
+[[fi:Ecthelion II]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:ecthelion ii]]

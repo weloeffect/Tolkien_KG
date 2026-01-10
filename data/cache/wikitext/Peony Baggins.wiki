@@ -1,0 +1,51 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Peony Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1350}}
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Posco Baggins]] and [[Gilly Brownlock]]
+| siblings=[[Ponto Baggins II|Ponto]] and [[Porto Baggins|Porto]]
+| spouse=[[Milo Burrows]]
+| children=[[Mosco Burrows|Mosco]], [[Moro Burrows|Moro]], [[Myrtle Burrows|Myrtle]] and [[Minto Burrows|Minto]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Peony Baggins''' (born {{SR|1350}}) was a Hobbit of the Shire.
+
+==History==
+Peony was a daughter of [[Posco Baggins]] and [[Gilly Brownlock]], the younger sister of [[Ponto Baggins II|Ponto]] and [[Porto Baggins|Porto]]. She married [[Milo Burrows]] and they had several children: [[Mosco Burrows|Mosco]], [[Moro Burrows|Moro]], [[Myrtle Burrows|Myrtle]] and [[Minto Burrows|Minto]]. With her family she attended [[Bilbo's Farewell Party]].<ref>{{App|Baggins}}</ref>
+==Etymology==
+[[wikipedia:Peony|Peony]] is a genus of the buttercup family of perennial plants with flowers. 
+
+{{references}}
+
+
+
+[[Category:Baggins]]
+[[Category:Burrows]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Päonie Lochner]]
+[[fi:Pioni Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/pivoine sacquet]]

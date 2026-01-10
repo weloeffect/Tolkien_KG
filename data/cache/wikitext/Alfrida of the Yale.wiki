@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Alfrida
+| image=
+| caption=
+| pronun=
+| othernames=Alfrida Bolger
+| titles=
+| position=
+| location=[[The Yale]]<br/>[[Budgeford]]
+| affiliation=
+| language=
+| birth=c. {{SR|1131}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=[[Gundolpho Bolger]]
+| children=[[Gundahar Bolger|Gundahar]], [[Rudolph Bolger|Rudolph]] and [[Gundahad Bolger|Gundahad]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Alfrida of [[the Yale]]''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Alfrida was the wife of [[Gundolpho Bolger]]. They had three children: [[Gundahar Bolger|Gundahar]], [[Rudolph Bolger|Rudolph]] and [[Gundahad Bolger|Gundahad]].<ref>{{App|Bolger}}</ref>
+
+== Etymology ==
+A name of germanic origin.
+
+{{references}}
+[[Category:Bolger]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Alfrida Bolger]]
+[[fi:Alfrida Jeililäinen]]
+[[fr:encyclo/personnages/hobbits/du val/alfrida du val]]

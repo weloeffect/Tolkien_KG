@@ -1,0 +1,68 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Odo Proudfoot
+| image=Torbjörn Källström - Odo Proudfoot.jpeg
+| caption="Odo Proudfoot" by [[:Category:Images by Torbjörn Källström|Torbjörn Källström]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth={{SR|1304}}
+| birthlocation=
+| rule=
+| death={{SR|1405}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Proudfoot Family|Proudfoot]]
+| parentage=[[Bodo Proudfoot]] and [[Linda Baggins]]
+| siblings=
+| spouse=
+| children=[[Olo Proudfoot|Olo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Quote|'Proudfeet!' shouted an elderly hobbit from the back of the pavilion. His name, of course, was Proudfoot, and well merited; his feet were large, exceptionally furry, and both were on the table.|[[A Long-expected Party]]}}
+
+'''Odo Proudfoot''' ({{SR|1304}} - {{SR|1405}}<ref name="Baggins">{{App|Baggins}}</ref>) was a Hobbit of the Shire.
+
+==History==
+Odo was the son of [[Bodo Proudfoot|Bodo]] and [[Bilbo Baggins]]' aunt, [[Linda Proudfoot|Linda]]<ref name="Baggins">{{App|Baggins}}</ref> and gave rise to a line of [[Proudfoot Family|Proudfoots]] (or, as Odo himself preferred, "Proudfeet").<ref name="Party"/> 
+
+Odo was among the guests at the famous [[Bilbo's Farewell Party]] during which he rested his prominently big feet on the table, until Bilbo Baggins suddenly and inexplicably disappeared, and in his surprise he took his feet of the table.<ref name="Party"/> At that time, he was an elderly hobbit indeed, being ninety-seven years old. He only lived for a few more years after the Party,<ref name="Baggins"/> but from him had come at least two generations of descendants, including his mischievous grandson [[Sancho Proudfoot|Sancho]], who attempted to excavate for treasure in [[Bag End]].<ref name="Party">{{FR|Party}} {{refsearch|Odo Proudfoot}}</ref>
+
+==Etymology==
+The name ''Odo'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Oda''.<ref>{{App|Translation}}</ref>
+
+==Portrayal in adaptations==
+===Odo Proudfoot in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Lord of the Rings (1978 film) - Odo Proudfoot.png|Odo Proudfoot in [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+Torbjörn Källström - Odo Proudfoot.jpeg|Odo Proudfoot in ''[[The Lord of the Rings: The Card Game]]''
+Odo Proudfoot - The Lord of the Rings Roleplaying.jpg|Odo Proudfoot in ''[[The Lord of the Rings Roleplaying]]''
+</gallery>
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:Odo angrily wiggles his toes as he corrects Bilbo.
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Odo is portrayed by [[Sean Arnold]].
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:The character [[Everard Proudfoot]], played by [[Noel Appleby]], filled Odo's role.
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Hobbits]]
+[[Category:Proudfoot]]
+[[Category:Third Age characters]]
+
+[[de:Odo Stolzfuß]]
+[[fi:Odo Jalojalka]]
+[[fr:encyclo/personnages/hobbits/fierpied/odo fierpied]]

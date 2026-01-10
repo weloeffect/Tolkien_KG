@@ -1,0 +1,91 @@
+{{disambig-two|the tenth [[Kings of Arthedain|King]] of [[Arthedain]]|seventh King|[[Argeleb I]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Argeleb
+| image=Argeleb II.jpg
+| caption=Argeleb from ''[[Middle-earth Role Playing]]''
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1473}}
+| birthlocation=
+| rule={{TA|1589}} - {{TA|1670|n}}
+| death={{TA|1670}}
+| deathlocation=
+| age=197
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Araphor]]
+| siblings=
+| spouse=
+| children=[[Arvegil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Argeleb II''' ({{TA|1473}}<ref>{{PM|Elendil}}, p. 194</ref> - {{TA|1670|n}},<ref name="North">{{App|North}}</ref> died aged 197) was the tenth king of [[Arthedain]].
+==History==
+He succeeded his father, [[Araphor]], upon his death in 1589, at the age of 116. 
+
+According to the records of [[Gondor]], Argeleb was the [[High King]] in {{TA|1601}} when many [[hobbits]] migrated from [[Bree]]; the King granted them permission to cross the [[Bridge of Stonebows]] and to settle the land beyond the [[Baranduin]] to dwell in. He demanded in return to acknowledge his lordship, keep all bridges and roads, and speed the royal messengers.<ref>{{FR|Hobbits}}</ref> These hobbits were joined in [[The Shire]] by [[Stoors]] from [[Dunland]] around  {{TA|1630|n}}.<ref name="TA">{{App|TA}}</ref> Prior to this, the area of the Shire had been unpopulated and regarded as the king's hunting ground.
+
+In {{TA|1636}} the [[Great Plague]] devastated [[Gondor]] (the [[Kings of Gondor|King]] [[Telemnar]], his children and the [[White Tree of Gondor|White Tree]] perished) and moved north to the lands of Argeleb's rule.<ref name="TA"/>  Although the Great Plague decreased in severity as it moved north, there was still much suffering throughout [[Eriador]]. A remnant of the [[Dúnedain]] in Cardolan survived until the Great Plague of 1636; most of them perished, especially in [[Minhiriath]]. The [[last prince of Cardolan]] was buried in the [[Barrow-downs]]; in {{TA|1636}} evil spirits out of [[Angmar]] and [[Rhudaur]] entered into the deserted mounds and dwelt there.<ref>{{App|Eriador}}</ref><ref>{{HM|RC}}, "Fog on the Barrow-downs", pp. 144-5; Index, 'Cardolan, [[Last prince of Cardolan|last prince of]]'</ref>
+
+After having ruled for eighty-one years, he was succeeded by his son, [[Arvegil]], upon his death in 1670.<ref name="North"/>
+
+==Etymology==
+See [[Argeleb I#Etymology|Argeleb I - Etymology]].
+
+It is possible that Argeleb II was named after his great-grandfarther, [[Argeleb I]]
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | ARV |ARV=[[Arveleg I]]<br/><small>''{{TA|1309|n}} - {{TA|1409|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Araphor]]<br/><small>''{{TA|1391|n}} - {{TA|1589|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARG |ARG='''ARGELEB II'''<br/><small>''{{TA|1473|n}} - {{TA|1670|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARV |ARV=[[Arvegil]]<br/><small>''{{TA|1553|n}} - {{TA|1743|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARV |ARV=[[Arveleg II]]<br/><small>''{{TA|1633|n}} - {{TA|1813|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1473}}
+| died={{TA|1670}}
+}}
+{{seq
+| prow=2
+| prev=[[Araphor]]
+| list=18th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1589}} - {{TA|1670}}
+| next=[[Arvegil]]
+| nrow=2
+}}
+{{seq
+| list=10th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1589}} - {{TA|1670}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Third Age characters]]
+[[de:Argeleb II.]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/argeleb ii]]
+[[fi:Argeleb II]]

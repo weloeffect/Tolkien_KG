@@ -1,0 +1,49 @@
+{{disambig-more|Ruby|[[Ruby (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ruby Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1264}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Adalgar Bolger]]
+| siblings=[[Rudigar Bolger|Rudigar]] and [[Rudibert Bolger|Rudibert]]
+| spouse=[[Fosco Baggins]]
+| children=[[Dora Baggins|Dora]], [[Drogo Baggins|Drogo]] and [[Dudo Baggins|Dudo]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ruby Baggins, née Bolger''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+The daughter of [[Adalgar Bolger]], Ruby married [[Fosco Baggins]].<ref>{{App|Bolger}}</ref> They had three children: [[Dora Baggins|Dora]], [[Drogo Baggins|Drogo]] and [[Dudo Baggins|Dudo]].<ref>{{App|Baggins}}</ref> 
+==Etymology==
+Perhaps it's not unintentional that a Hobbit woman with a jewel-name married into the Baggins family, recently made rich by Bilbo's travels. Both Ruby's marriage and name are consistent with the Bolgers' being of a higher class.<ref>{{HM|IE}}, p.198</ref>
+
+The name of the ruby derives from Latin ''[http://en.wiktionary.org/wiki/rubeus rubeus]'' meaning "red".<ref>[http://en.wiktionary.org/wiki/ruby#Etymology_1 Wiktionary entry]</ref>
+{{References}}
+[[Category:Bolger]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Rubinia Beutlin]]
+[[fi:Rubiini Bolger]]

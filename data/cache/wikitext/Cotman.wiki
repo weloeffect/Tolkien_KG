@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Cotman
+| image=Liz Danforth - Cotman.jpg
+| caption="Cotman" by [[Liz Danforth]]
+| pronun=
+| othernames=[[Hlothram]]
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1260}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Cottar]]
+| siblings=[[Carl (son of Cottar)|Carl]]
+| spouse=[[Rose (daughter of Holman)|Rose]]
+| children=[[Holman Cotton]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Cotman''' was a [[Hobbits|Hobbit]].
+==History==
+Cotman was born in {{SR|1260}}, the son of Cottar. He had one brother named [[Carl (son of Cottar)|Carl]]. They were ancestors of the [[Cotton Family|Cottons]] of [[Bywater]].
+
+He married [[Rose (daughter of Holman)|Rose]], the daughter of [[Holman the greenhanded]], and their son (also called [[Holman Cotton|Holman]]) was the first Hobbit to use the family-name of Cotton.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+The name ''Cotman'' is a translation of [[Westron]] '''''Hlothram''''', derived from ''[[hlothram(a)]]''.<ref>{{App|Translation}}, note on "Gamgee"</ref> 
+
+''Cotman'' is also a real-life surname, of similar meaning.<ref name="Nomen">{{HM|N}}, p. 755</ref>
+{{references}}
+[[Category:Cotton]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Hüttner]]
+[[fi:Töllilä]]
+[[fr:encyclo/personnages/hobbits/chaumine/cotman]]

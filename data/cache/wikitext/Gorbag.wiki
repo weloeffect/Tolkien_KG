@@ -1,0 +1,70 @@
+{{infobox character
+| people=[[Orcs|Orc]]
+| name=Gorbag
+| image=John Howe - Gorbag.jpg
+| caption="Gorbag" by [[John Howe]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Uruk-hai|Uruk]] Captain
+| location=[[Minas Morgul]]
+| affiliation=[[Nazgûl]], [[Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[14 March]] {{TA|3019}}
+| deathlocation=[[Cirith Ungol]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Orcs|Orc]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Knife
+| steed=
+}}
+'''Gorbag''' was the captain of the [[Uruk-hai|Uruks]] of [[Minas Morgul]]. He served the [[Nazgûl]] who dwelt in the Dead City.  
+
+== History ==
+During the peak of the [[War of the Ring]], the [[Silent Watchers]] exhibited unease because a [[Hobbits|Hobbit]], [[Frodo Baggins]], had passed by them. Gorbag and a patrol then, left Minas Morgul and were sent to [[Cirith Ungol]] where [[Shagrat]] was in command.<ref name="Choices">{{TT|IV10}}</ref>
+
+On [[13 March]] {{TA|3019}} Gorbag and Shagrat came across Frodo,<ref name="Great">{{App|Great}}</ref> now paralyzed by [[Shelob]]. They ordered Frodo carried back into the [[Tower of Cirith Ungol]] as their prisoner.  
+
+During their return to the tower [[Samwise Gamgee|Sam]], who was wearing the [[The One Ring|One Ring]], overheard them talking. It quickly became apparent that Gorbag was the more observant of the two, and noticed that the paralyzed halfling's cords were cut, meaning that he had a companion: Shagrat said that the Nazgûl were uneasy and that something nearly slipped, and Gorbag corrected him saying that something ''had'' slipped; Shagrat pointed out that Shelob got the halfling, but Gorbag pointed out that he was not alone, as someone else cut the cords from Frodo. Shagrat dismissed Gorbag's reasoning by claiming that he always took a gloomy view.  Shagrat, who had been in the tower longer, was able to tell Gorbag that Frodo was not dead.<ref name="Choices"/>
+
+On [[14 March]]<ref name="Great"/> the two Orc leaders stripped Frodo of his possessions.  Upon discovering Frodo's [[Mithril#The Mithril Coat|''mithril'' coat]] Gorbag tried to keep it, which provoked a fight between the underlings of the two leaders.  Gorbag knifed Shagrat, who in return attempted to throttle him. Later he attempted to stab Shagrat with a broken spear but Shagrat, hearing him, then stabbed him in the throat and trampled on his body.<ref>{{RK|VI1}}</ref>
+
+==Portrayal in adaptations==
+===Gorbag in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Jon Foster - Gorbag.jpg|Gorbag in ''[[Middle-earth Collectible Card Game]]''
+File:The Lord of the Rings - The Return of the King - Gorbag.jpg|Gorbag in ''[[The Lord of the Rings: The Return of the King]]''
+File:The Lord of the Rings - The Return of the King (video game) - Gorbag.png|Gorbag in [[The Lord of the Rings: The Return of the King (video game)|''The Lord of the Rings: The Return of the King'' (video game)]]
+File:The Lord of the Rings - Rise to War - Gorbag.webp|Gorbag in ''[[The Lord of the Rings: Rise to War]]''
+File:Andrea Piparo - Gorbag and Shagrat.jpg|Gorbag and [[Shagrat]] in ''[[War of the Ring: The Card Game]]''
+File:Alex Brock - Gorbag of Minas Morgul.jpg|Gorbag of [[Minas Morgul]] in ''[[The Lord of the Rings: Tales of Middle-earth]]''
+</gallery>
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]:'''''
+:Portrayed by [[Stephen Ure]], Gorbag is portrayed as a smaller, regular [[Orcs|Orc]] while [[Shagrat]] is an [[Uruk-hai|Uruk]]. Instead of coming up from Minas Morgul, he comes down with Shagrat from the Tower of Cirith Ungol and is the one that explains to the Orcs about Shelob and her choice to leave victims alive. Later, he is killed by [[Samwise Gamgee]].
+
+'''2003: ''[[The Lord of the Rings: The Return of the King (video game)]]:'''''
+:Gorbag appears as a boss at the end of the "Cirith Ungol" level. In the game, Gorbag knocks down Shagrat and then Sam must defeat him by stunning him with pikes.
+
+'''2021: ''[[The Lord of the Rings: Rise to War]]:'''''
+:Gorbag is a fine rarity commander, he is the first commander to join you in the Mordor faction.
+
+{{References}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Servants of Sauron]]
+[[Category:Third Age characters]]
+[[Category:Uruk-hai]]
+[[de:Gorbag]]
+[[fi:Gorbag]]

@@ -1,0 +1,56 @@
+{{short description|Uncle of Bilbo Baggins}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bingo Baggins
+| image=Bingo Baggins.png
+| caption=Bingo Baggins from [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1264}}
+| birthlocation=
+| rule=
+| death={{SR|1360}}
+| deathlocation=
+| age=96
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Mungo Baggins]] and [[Laura Grubb]]
+| siblings=[[Bungo Baggins|Bungo]], [[Belba Baggins|Belba]], [[Longo Baggins|Longo]] and [[Linda Baggins|Linda]]
+| spouse=[[Chica Chubb]]
+| children=[[Falco Chubb-Baggins]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bingo Baggins''' ({{SR|1264}}-{{SR|1360|n}}) was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Bingo was the youngest of the five children of [[Mungo Baggins]] and [[Laura Grubb]], and an uncle of [[Bilbo Baggins]]. He married [[Chica Chubb]], and their son [[Falco Chubb-Baggins]] was born in {{SR|1303}}.<ref>{{App|Baggins}}</ref>
+
+==Other versions of the legendarium==
+In early manuscripts of ''[[The Lord of the Rings]]'', the name ''Bingo'' was used of the character that would later be named ''[[Frodo Baggins|Frodo]]''; first he was Bilbo's son, then "Bingo Bolger-Baggins" his adopted cousin.<ref>{{RS|1Iiii}}, pp. 28, 34 (note 1)</ref><ref name=rc/>
+
+In earlier editions, [[Appendix C]] gives his death as {{SR|1360}}, but in some of the later editions the year is mistakenly given as {{SR|1363|n}}.<ref>Wayne G. Hammond and Christina Scull, [http://www.hammondandscull.com/addenda/rings.html Addenda and Corrigenda to the 50th anniversary edition of The Lord of the Rings (2004–5)].</ref>
+==Inspiration==
+It is believed that the original use of the name (for the character that would become ''Frodo'') was inspired by a family of toy koala bears of the Tolkien children, called "the Bingos".<ref name=rc>{{HM|RC}}, p. xix</ref>
+
+==Portrayal in adaptations==
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Five portraits are clustered on a wall in [[Bag End]]. One of them is Bingo, and one of Bilbo's lines when looking at the portraits is "Good old Uncle Bingo".
+{{references}}
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Bingo Beutlin]]
+[[fi:Bingo Reppuli]]
+[[fr:encyclo:personnages:hobbits:bessac:bingo bessac]]

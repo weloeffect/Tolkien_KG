@@ -1,0 +1,91 @@
+{{disambig-more|Valandil|[[Valandil (disambiguation)]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Valandil
+| image=Edward Johnson - Valandil.jpg
+| caption="Valandil" by [[:Category:Images by Edward Johnson|Edward Johnson]]
+| pronun=
+| othernames=
+| titles=[[King of Arnor]]
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{SA|3430}}
+| birthlocation=[[Rivendell]]<ref name="north"/>{{rp|footnote 1}}
+| rule={{TA|10}} - {{TA|249|n}}
+| death={{TA|249}}
+| deathlocation=
+| age=260
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Isildur]]
+| siblings=[[Elendur (son of Isildur)|Elendur]], [[Aratan]] and [[Ciryon]]
+| spouse=
+| children=[[Eldacar (King of Arnor)|Eldacar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Valandil''' ({{SA|3430}}<ref name="Elendil">{{PM|Elendil}}, p. 192</ref> – {{TA|249}}<ref name="north">{{App|North}}</ref>) was the third [[Kings of Arnor|King of Arnor]], succeeding his father, [[High King of the Dúnedain|High King]] [[Isildur]], after he and Valandil's older brothers were killed in the [[Disaster of the Gladden Fields]] in {{TA|2}}. 
+
+==History==
+Valandil was the youngest of the four sons of Isildur. When his mother was still pregnant, the [[War of the Last Alliance]] was to begin, and Isildur sent her to [[Rivendell]] for safety.<ref>{{S|Rings}}</ref> Valandil was born there,<ref>{{App|North}}, note 1</ref> in the same year that the [[Last Alliance of Elves and Men]] was formed.  He was only one year old, remaining with his mother in Rivendell, when the host of [[Gil-galad]] and [[Elendil]] marched forth.<ref name="Elendil"/>
+
+Before he was slain, Isildur became briefly king of [[Arnor]] and [[Gondor]]. While he had been High King of both realms, he committed the rule of Gondor to his nephew [[Meneldil]]<ref>{{UT|Gladden}}</ref> who would become [[Kings of Gondor|King of Gondor]]. With the death of his father and brothers in the [[Disaster of the Gladden Fields]], Valandil became heir to the throne of Arnor. However, since Valandil was only 13 years old, he would wait until he was 21 to become the king (in {{TA|10}}<ref>{{App|TA}}</ref>).<ref name="Elendil"/>
+
+He ruled longer than any other king in the North or South kingdoms - 239 years. When he died in {{TA|249|n}}, he was succeeded by his son, [[Eldacar (King of Arnor)|Eldacar]].<ref name="north"/>
+
+==Etymology==
+''Valandil'' is a [[Quenya]] name. It means "Lover of the Valar".<ref>{{NM|P1iv}}, footnote 2</ref> It is a compound of [[Valar|vala]] ("Vala") and [[-ndil|-(n)dil]] ("lover", "friend").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-772048115.html|articlename=Q. ''Valandil'' m.|website=Eldamo|accessed=29 October 2021}}</ref> It is likely that he was named after his ancestor [[Valandil (Lord of Andúnië)|Valandil]], the first [[Lords of Andúnië|Lord of Andúnië]].
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | ELE | | | | | |ELE=[[Elendil]]<br/><small>''{{SA|3119}} - {{SA|3441|n}}''†</small>}}
+{{familytree | | | | | | | |,|-|-|-|-|^|-|-|-|-|.| |}}
+{{familytree | | | | | | | ISI | | | | | | | | ANA |ISI=[[Isildur]]<br/><small>''{{SA|3209}} - {{TA|2}}''†</small>|ANA=[[Anárion]]<br/><small>''{{SA|3219}} - {{SA|3440|n}}''†</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | |:| |}}
+{{familytree | ELE | | ARA | | CIR | | VAL | | GON |ELE=[[Elendur (son of Isildur)|Elendur]]<br/><small>''{{SA|3299}} - {{TA|2}}''†</small>|ARA=[[Aratan]]<br/><small>''{{SA|3339}} - {{TA|2}}''†</small>|CIR=[[Ciryon]]<br/><small>''{{SA|3379}} - {{TA|2}}''†</small>|VAL='''VALANDIL'''<br/><small>''{{SA|3430}} - {{TA|249}}''</small>|GON=[[Kings of Gondor|''Kings of<br/>Gondor'']]}}
+{{familytree | | | | | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | ELD | | | | |ELD=[[Eldacar (King of Arnor)|Eldacar]]<br/><small>''{{TA|87}} - {{TA|339|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | ARA | | | | |ARA=[[Arantar]]<br/><small>''{{TA|185}} - {{TA|435|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{SA|3430}}
+| died={{TA|249}}
+}}
+{{seq
+| pvac=None
+| prev=New position
+| list=1st [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2}} - {{TA|249|n}}
+| next=[[Eldacar (King of Arnor)|Eldacar]]
+| nrow=2
+}}
+{{seq
+| prev=[[Isildur]]
+| list=3rd [[Kings of Arnor|King of Arnor]]
+| dates={{TA|10}} - {{TA|249|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+{{title}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Isildur]]
+[[Category:Rulers of Arnor]]
+[[Category:Second Age characters]]
+[[Category:Third Age characters]]
+[[de:Valandil (Sohn von Isildur)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/dunedain_du_nord/valandil]]
+[[fi:Valandil (Arnorin kuningas)]]

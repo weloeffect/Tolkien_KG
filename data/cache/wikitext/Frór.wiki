@@ -1,0 +1,77 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Frór
+| image=The Lord of the Rings Trading Card Game - Frór, Gimli's Kinsman.jpg
+| caption="Frór, Gimli's Kinsman" from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Grey Mountains]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2552}}
+| birthlocation=
+| rule=
+| death={{TA|2589}} (aged 37)
+| deathlocation=[[Dáin's Halls|Dáin's hall]], [[Grey Mountains]]
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Dáin I]]
+| siblings=[[Thrór]], [[Grór]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Frór''' ({{TA|2552}} - {{TA|2589|n}}, aged 37 years) was a [[Dwarves|dwarf]] of [[Durin's folk]] and the second son of King [[Dáin I]].
+
+==History==
+During his short life his people lived in the [[Grey Mountains]], where they were threatened by and at [[War of the Dwarves and Dragons|war]] with [[Dragons]]. In 2589 both Frór and his father were killed by a great [[Cold-drakes|Cold-drake]] outside their [[Dáin's Halls|hall]].
+
+Frór's older brother [[Thrór]] then became [[Kings of Durin's Folk|King of Durin's Folk]] and led part of his house back to [[Lonely Mountain]]. The rest of those who left traveled East to the [[Iron Hills]] with the youngest brother [[Grór]], who founded his own [[Dwarves of the Iron Hills|realm]].<ref>{{App|Durin}}</ref>
+
+==Etymology==
+''Frór'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. His name most likely means "swift".<ref>[[Jim Allan]], "Giving of Names", in ''[[An Introduction to Elvish]]'', p. 225</ref><ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | | | | | | NAI | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| | | | | | | | | | |!| | | | | |}}
+{{familytree| | | | | | | | | | DAI | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>}}
+{{familytree| | | | | | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree| | | | | | THR | | FRO | | GRO |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO='''FRÓR'''<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO=[[Grór]]<br/>''<small>{{TA|2563|n}} - {{TA|2805|n}}</small>''}}
+{{familytree| | | | | | |!| | | | | | | |!| |}}
+{{familytree| | | | | | THR | | | | | | NAI |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI=[[Náin (son of Grór)|Náin]]<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | |!| |}}
+{{familytree| | THO | | FRE | | DIS | | DAI |THO=[[Thorin|Thorin II]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|FRE=[[Frerin]]<br/><small>''{{TA|2751|n}} - {{TA|2799|n}}''†</small>|DIS=[[Dís]]<br/><small>''b. {{TA|2760|n}}''</small>|DAI=[[Dáin Ironfoot|Dáin II]]<br/><small>''{{TA|2767|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Frór in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Trading Card Game - Frór, Gimli's Kinsman.jpg|"Frór, Gimli's Kinsman" from [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Frór.jpg|Frór in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+: Despite his non-appearance in the book, a Decipher card names a Dwarf at the [[Council of Elrond]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' as Frór.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:In [[Dáin's Halls|Thikil-gundu]], "The Steel Keep", it is revealed that Frór, along with a number of other deceased dwarves, were brought back to life as dwarf-wights, and now stalk the halls of the Steel Keep. He is encountered by [[Dori]]'s Company inside Afhân-binnîn, "The Lore Trove".
+
+{{references}}
+{{DEFAULTSORT:Fror}}
+[[Category:Dwarves]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Frór]]
+[[fi:Frór]]

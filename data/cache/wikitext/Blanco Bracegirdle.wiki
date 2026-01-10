@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Blanco Bracegirdle
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hardbottle]]
+| affiliation=
+| language=
+| birth=c. {{SR|1265}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bracegirdle Family|Bracegirdle]]
+| parentage=
+| siblings=
+| spouse=[[Primrose Boffin]]
+| children=[[Bruno Bracegirdle|Bruno]] and [[Lobelia Sackville-Baggins|Lobelia]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Blanco Bracegirdle''' was a [[Hobbits|hobbit]] of [[the Shire]].
+
+==History==
+Blanco married [[Primrose Bracegirdle|Primrose Boffin]], and they had two children. [[Bruno Bracegirdle|Bruno]] was born in {{SR|1313}} and [[Lobelia Sackville-Baggins|Lobelia]] in {{SR|1318}}.<ref>{{App|Baggins}}</ref><ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Bracegirdle]]
+[[Category:Third Age characters]]
+
+[[de:Blanco Straffgürtel]]
+[[fi:Blanco Piukkapaula]]
+[[fr:encyclo:personnages:hobbits:sanglebuc:blanco sanglebuc]]

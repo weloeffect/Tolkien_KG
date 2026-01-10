@@ -1,0 +1,79 @@
+{{short description|4th Steward of Gondor}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Belegorn
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2074}}
+| birthlocation=
+| rule={{TA|2148}} - {{TA|2204|n}} (56 years)
+| death={{TA|2204}}
+| deathlocation=
+| age=130
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Herion]]
+| siblings=
+| spouse=
+| children=[[Húrin I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Belegorn''' ([[Third Age]] 2074<ref>{{PM|Elendil}}, p. 204</ref> – 2204,<ref>{{App|South}}</ref> aged 130 years) was the fourth [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Belegorn ruled during the period known as the [[Watchful Peace]].<ref>{{App|TA}}</ref>
+
+==Etymology==
+''Belegorn'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack suggests it means "Great-tree" and is a compound of [[beleg]] ("great", "mighty", "large", "big") and [[orn]] ([tall] "tree").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1457805237.html|articlename=S. ''Belegorn'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | ERA | | |ERA=[[Eradan]]<br/><small>''{{TA|1999|n}} - {{TA|2116|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | HER | | |HER=[[Herion]]<br/><small>''{{TA|2037|n}} - {{TA|2148|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | BEL | | |BEL='''BELEGORN'''<br/><small>''{{TA|2074|n}} - {{TA|2204|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | HUR | | |HUR=[[Húrin I]]<br/><small>''{{TA|2124|n}} - {{TA|2244|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | DAU | | TUR |DAU=''two daughters''<br/><small>''unknown''</small>|TUR=[[Túrin I]]<br/><small>''{{TA|2165|n}} - {{TA|2278|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2074}}
+| died={{TA|2204}}}}
+{{seq
+| prev=[[Herion]]
+| list=4th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2148}} – {{TA|2204|n}}
+| next=[[Húrin I]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Belegorn]]
+[[fi:Belegorn]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:belegorn]]

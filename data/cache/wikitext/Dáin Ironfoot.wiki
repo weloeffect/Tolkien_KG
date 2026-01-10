@@ -1,0 +1,186 @@
+{{disambig-two|the successor of [[Thorin|Thorin II Oakenshield]]|earlier King of Durin's Folk|[[Dáin I]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Dáin Ironfoot
+| image=U-yasuk - Dáin Ironfoot.png
+| caption="Dáin Ironfoot" by [[:Category:Images by U-yasuk|U-yasuk]]
+| pronun=
+| othernames=Dáin II, [[Ironfoot]]
+| titles=[[Lord of the Iron Hills]]<br/>[[Kings of Durin's Folk|King of Durin's Folk]]<br/>[[King under the Mountain]]
+| position=
+| location=[[Iron Hills]]<br/>[[Lonely Mountain]]
+| affiliation=
+| language=[[Khuzdul]] and [[Westron]]
+| birth={{TA|2767}}
+| birthlocation=[[Iron Hills]]
+| rule={{TA|2805}}-{{TA|2941|n}} ([[Lord of the Iron Hills|Lord]])<br/>{{TA|2941}}-{{TA|3019|n}} ([[King of Durin's Folk|King]])
+| death=[[17 March]] {{TA|3019}}
+| deathlocation=[[Battle of Dale]]
+| age=252
+| notablefor=Killing [[Azog]]
+| house=[[House of Durin]]
+| parentage=[[Náin (son of Grór)|Náin]]
+| siblings=
+| spouse=
+| children=[[Thorin Stonehelm]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Red axe<ref name="Durin">{{App|Durin}}</ref> 
+| steed=
+}}
+'''Dáin II''' or '''Dáin Ironfoot''' ([[Third Age]] 2767 – 3019, aged 252 years) was the [[Lord of the Iron Hills]] and [[King under the Mountain]]. In his life, he fought in the [[Battle of Azanulbizar]], the [[Battle of Five Armies]] and the [[Battle of Dale]]. He was renowned as a warrior across Middle-earth.<ref name="Erebor">{{UT|Erebor}}</ref>
+
+==History==
+===Early life===
+Dáin was born in {{TA|2767}} in the [[Iron Hills]], the son of [[Náin (son of Grór)|Náin]], during the reign of his grandfather [[Grór]].<ref name="Durin">{{App|Durin}}</ref> 
+
+===War of the Dwarves and Orcs===
+[[File:Liz Danforth - Dain and Azog.png|thumb|left|200px|Liz Danforth - ''Dáin and Azog'']]
+After the murder of [[Thrór]] by [[Azog]] in {{TA|2790}}, his son [[Thráin|Thráin II]] swore revenge. He summoned all available Dwarves, and sacked every Orc stronghold in the [[Misty Mountains]], battling his way to [[Moria]]. There, the [[Battle of Azanulbizar]] raged before the gate of the ancient Dwarf stronghold. 
+
+[[Náin (son of Grór)|Náin]] and his son Dáin arrived late in the battle, but proved pivotal. Fresh and well equipped, they drove through the Orc forces, until at last Náin confronted Azog. But Náin was weary and filled with anger, and Azog strong and agile. He darted from the dwarf's blows, and when the warrior stumbled, Azog hewed and broke his neck. However, all across the valley, his troops were in retreat. He tried to escape back inside, but he was followed by Dáin who with his red axe, hewed off his head before the doors of the East-Gate. He was a very young Dwarf at thirty-two at the time, and it was heralded as a magnificent feat.
+
+After the battle King [[Thráin|Thráin II]] wanted to enter Moria as his own. But Dáin dissuaded him, because he alone looked past the gate into Moria, and had the wisdom to know that it was impossible for Durin's folk to return at that time because of [[Durin's Bane]].<ref name="Durin" />
+
+===Lord of the Iron Hills===
+Dáin returned to the Halls of Grór with his people, and with his father dead, became [[Lord of the Iron Hills]] at his grandfather's death in {{TA|2805}}. He had one son, [[Thorin Stonehelm|Thorin]], born in {{TA|2866}}.<ref name="Durin" /> 
+
+During his reign his people became the strongest in  [[Rhovanion|Wilderland]], being the only realm capable to resist [[Sauron]] if he dared come North and retake the realm of [[Angmar]] and the northern passes of the [[Misty Mountains]].<ref name="Erebor" />
+
+===The Battle of Five Armies===
+[[File:Angus McBride - Dain II.jpg|thumb|right|[[Angus McBride]] - ''Dáin'']]
+Nearly a hundred years later, King [[Thorin]], the son of [[Thráin|Thráin II]], set out on a journey to reclaim [[Lonely Mountain|Erebor, the Lonely Mountain]], which had been usurped by the [[Dragons|Dragon]] [[Smaug]].<ref>{{H|Party}}</ref> 
+
+The dragon was slain, though by [[Bard]] of [[Lake-town]] and not by Thorin's company. Thorin claimed the entire hoard and proclaimed himself [[King under the Mountain]], but both Bard and the Elven king [[Thranduil]] longed for compensation of their suffering caused by the Dragon. Because his company of thirteen could not hold the mountain, Thorin sent for Dáin.<ref>{{H|Gathering}}</ref> 
+
+Dáin responded to Thorin's call and set out with more than five hundred dwarves, well armed and experienced. They were originally intent on driving off the Elves and Men, but [[Gandalf]] arrived to inform them of the approaching Orcs and [[Wargs]]. They all united against the common enemy, and so was fought the [[Battle of Five Armies]] in the valley of [[Dale]].<ref>{{H|Burst}}</ref>
+
+Thorin was killed in the battle, as were his sister-sons [[Kíli]] and [[Fíli]]. As his "rightful heir," Dáin succeeded Thorin as [[King under the Mountain]], and King of all of Durin's folk.<ref name="Durin" /><ref>{{H|Return}}</ref>
+
+===King under the Mountain===
+During his reign as king, he became exceedingly rich and his people were very prosperous. The town of [[Dale]] was rebuilt and its border stretched far to the South and East and the friendship between the [[Elves of Mirkwood]], [[Men of Dale]], and [[Dwarves of Erebor]] was close, especially between the Men and Dwarves. For the [[Dwarves of Erebor]] now exceeded all their ancestors in the art of masonry and mining, and created many beautiful things in Dale.<ref>{{FR|Meetings}}</ref>
+
+But not all were content. [[Balin]] set out with several others to reclaim Moria in {{TA|2989}}. Dáin did not give the expedition his blessing, and could not dissuade them.<ref name="Council">{{FR|Council}}</ref> It was only later learned the colony was destroyed after five years.<ref>{{FR|Bridge}}</ref>
+
+===War of the Ring===
+[[File:Ralph Damiani - The Messenger.jpg|thumb|''Ralph Damiani'' - "The Messenger"]]
+In {{TA|3018}}, a messenger came from Mordor, enquiring about a creature named "[[Bilbo Baggins|Baggins]]" from "[[the Shire|Shire]]". In return for information Dáin would be given the last three [[Dwarf-rings]]. Dáin told him to give him time to think and for many weeks he pondered until he sent [[Glóin]] and his son [[Gimli]] to [[Elrond]] for counsel, and to warn Bilbo of the enemy looking for him.<ref name="Council" />
+
+[[File:Steamey - King Brand and King Dáin Ironfoot.jpg|thumb|left|Steamey - ''King Brand and King Dáin Ironfoot'']]
+After many months war came to Erebor in the [[Battle of Dale]]. King [[Brand]] of Dale was at war with [[Easterlings]] along the River [[Carnen]], but they defeated him and he retreated back to Dale where he was given aid by Dáin and an army of Dwarves.  After three days of fighting the Dwarves and Men were driven back, and Brand was slain. But defending his body stood Dáin, who at over 250 years old was not feeble, and still could wield his axe with great skill. But his skill was not enough and he was slain as well before the gates of Erebor.<ref name="Erebor" /> 
+
+Several days later the Easterlings learned that the [[Battle of the Pelennor Fields]] was lost and they were afraid. When the new King [[Thorin Stonehelm|Thorin III Stonehelm]], son of Dáin, and Brand's son [[Bard II]] saw this they came out of the mountain and routed their enemies.<ref name="Great">{{App|Great}}</ref>
+
+==Etymology and names==
+{{Pronounce|Dain.mp3|Ardamir}}
+''Dáinn'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. His name most likely means "Deadlike".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+The epithet ''[[Ironfoot]]'' remains unexplained in the published writings of [[J.R.R. Tolkien]]. However, [[John D. Rateliff]] has pointed out that an explanation for the epithet is likely found in the original manuscript of ''[[The Hobbit]]'', where it is stated that the shoes of the Dwarves of the Iron Hills were of iron.<ref>{{HM|RB}}, p. 674 (note 12)</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | | | | | | | | | | | | | | | NAI | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| | | | | | | | | | |,|-|-|-|-|-|-|^|-|-|-|-|-|-|.| | | | | | | |}}
+{{familytree| | | | | | | | | | DAI | | | | | | | | | | | | BOR | | | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>| BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| | | | | | |,|-|-|-|+|-|-|-|.| | | | | | | | | |!| | | | | | | |}}
+{{familytree| | | | | | THR | | FRO | | GRO | | | | | | | | FAR | | | | | | |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO=[[Frór]]<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO=[[Grór]]<br/>''<small>{{TA|2563|n}} - {{TA|2805|n}}</small>''|FAR=[[Farin]]<br/>''<small>{{TA|2560|n}} - {{TA|2803|n}}</small>''}}
+{{familytree| | | | | | |!| | | | | | | |!| | | | | |,|-|-|-|^|-|-|-|.| | | |}}
+{{familytree| | | | | | THR | | | | | | NAI | | | | FUN | | | | | | GRO | | |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI=[[Náin (son of Grór)|Náin]]<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO=[[Gróin]]<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | |!| | | |,|-|^|-|.| | | |,|-|^|-|.| |}}
+{{familytree| | THO | | FRE | | DIS | | DAI | | BAL | | DWA | | OIN | | GLO |THO=[[Thorin|Thorin II Oakenshield]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|FRE=[[Frerin]]<br/><small>''{{TA|2751|n}} - {{TA|2799|n}}''†</small>|DIS=[[Dís]]<br/><small>''b. {{TA|2760|n}}''</small>|BAL=[[Balin]]<br/><small>''{{TA|2763|n}} - {{TA|2994|n}}''†</small>|DWA=[[Dwalin]]<br/><small>''{{TA|2772|n}} - {{FoA|91}}''</small>|OIN=[[Óin]]<br/><small>''{{TA|2774|n}} - {{TA|2994|n}}''</small>|GLO=[[Glóin]]<br/><small>''{{TA|2783|n}} - {{FoA|15}}''</small>|DAI=DAIN II IRONFOOT<br/><small>''{{TA|2767|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree| | | | | | |,|-|-|-|(| | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree| | | | | | FIL | | KIL | | THO | | | | | | | | | | | | | | GIM |FIL=[[Fíli]]<br/><small>''{{TA|2859|n}} - {{TA|2941|n}}''†</small>|KIL=[[Kíli]]<br/><small>''{{TA|2864|n}} - {{TA|2941|n}}''†</small>|THO=[[Thorin Stonehelm|Thorin III Stonehelm]]<br/><small>''b. {{TA|2866|n}}''</small>|GIM=[[Gimli]]<br/><small>''{{TA|2879|n}} - {{FoA|120}}''+</small>}}
+{{familytree| | | | | | | | | | | | | | |:| | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | | | | | | | | | | | |:| | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | | | | | | | | | | | DUR | | | | | | | | | | | | | | | | |DUR=[[Durin VII]]}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In drafts of Lord of the Rings, Dáin was said to possess one of the [[Seven Rings|Seven Dwarf-rings]], "and on that his fortune is founded: his age, his wealth, and (.......?) future".<ref>{{RS|Elrond}}</ref>{{rp|399}}
+
+==Portrayal in adaptations==
+===Dáin in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Decipher - Dáin Ironfoot.jpg|Dáin in ''[[The Lord of the Rings Trading Card Game]]''
+File:Dain BFMEII.png|Dáin in ''[[The Lord of the Rings: The Battle for Middle-earth II|The Battle for Middle-earth II]]''
+File:The Lord of the Rings Online - Dáin Ironfoot.jpg|Dáin from ''[[The Lord of the Rings Online]]''
+File:The Hobbit - The Battle of the Five Armies - Dáin.jpg|Dáin in ''[[The Hobbit: The Battle of the Five Armies]]''
+</gallery>
+===Films===
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:Dáin is said to come to Thorin's aid, but he is never individually identified. It's possible that he's the Dwarf who lays [[Orcrist]] on Thorin's body after he dies, as that Dwarf does not resemble any of the other 12 members of Thorin's company.
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:Dáin Ironfoot is played by [[Billy Connolly]].<ref name="BBCCasting1">{{webcite|articleurl=http://www.bbc.co.uk/news/entertainment-arts-16960081|articlename=Billy Connolly lands dwarf role in The Hobbit|dated=9-Feb-2012|website=BBC|accessed=9-Feb-2012}}</ref> After the [[Elves]] of Mirkwood occupy [[Dale]], [[Thorin]] secretly sends out a raven to Dáin. The next day, just as Thranduil is about to start his attack, Dáin arrives unexpectedly at [[Lonely Mountain|Erebor]] mounted on a large, armoured boar and leading an army of [[Dwarves]]. He also wields a red war hammer instead of a red axe. He tells the Elves and [[Men]] to withdraw or face his attack. After trading insults with Thranduil, the Dwarves and Elves begin attacking each other, but the [[Orcs|Orc]] Army suddenly arrives, and Dáin leads his Dwarves to attack the Orcs instead. Following their example, the Elves join the Dwarves, fighting side by side with them. When [[Thorin and Company]] charge out of the mountain, Dáin and his army rally behind them and drive back the Orcs from the mountain. Later he and Thorin embrace in the midst of the battle. His coronation as the new [[King under the Mountain]] is only shown in the [[The Hobbit: The Battle of the Five Armies (extended edition)|Extended Edition]] of the film.
+
+===Radio series===
+'''1968: [[The Hobbit (1968 radio series)|''The Hobbit'' (1968 radio series)]]:'''
+:Dáin's voice is provided by [[Brian Haines]].<ref>Radio Times, Volume 181, No. 2349, [[14 November|November 14]], [[1968]]</ref>
+
+'''1979: [[The Hobbit (1979 radio series)|''The Hobbit'' (1979 radio series)]]:'''
+:No actor is credited for the role of Dáin.
+
+===Games===
+'''2001-07: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:[[Weta Workshop|Weta]] made a special card for Dáin.
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Dáin has no speaking part; he only appears on parchment sections.
+
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Dáin is a hero in the Dwarves faction. In the campaigns, he appears in the Battle of Dale in the Good Campaign, where he has to survive the onslaught of enemy forces to succeed the level.
+
+'''2013: ''[[The Lord of the Rings Online]]'':'''
+:Dáin, along with King [[Brand]] of Dale, makes a brief appearance in the raid "Flight to the Lonely Mountain", where they brief the player before the assault of the [[Easterlings]] begin. After the conclusion of the [[Siege of Erebor]], his tomb can be found in "Mazal Akrâz", the "Chamber of Glory", nearby those of [[Fíli]], [[Kíli]], and his cousin [[Thorin Oakenshield]].
+
+:A young Dáin is encountered in a flashback story of the Battle of Azanulbizar along with his father and grandfather. He is a close friend of "Hermáth Stormhammer", the hero from whose point of view the player experiences the battle. After slaying Azog, Dáin briefly ventures beyond the East-gate into Moria and, after recovering from the fright of seeing Durin's Bane, tells Hermáth and the player the story of the fall of Khazad-dûm.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| name=Dáin II
+| house=[[House of Durin]]
+| born={{TA|2767}}
+| died={{TA|3019}}
+}}
+{{seq
+| prev=[[Grór]]
+| list=[[Lord of the Iron Hills]]
+| dates={{TA|2805}} – {{TA|2941|n}}
+| nvac=Himself
+| next=as King
+}}
+{{seq
+| prow=2
+| prev=[[Thorin|Thorin II Oakenshield]]
+| list=[[Kings of Durin's Folk|King]] of [[Durin's Folk]]
+| dates={{TA|2941}} – {{TA|3019|n}}
+| next=[[Thorin Stonehelm|Thorin III Stonehelm]]
+| nrow=2
+}}
+{{seq
+| list=5th [[King under the Mountain]]
+| dates={{TA|2941}} – {{TA|3019|n}}
+}}
+{{seq-end}}
+
+{{durinskings}}
+{{hobbitfilms}}
+{{DEFAULTSORT:Dain Ironfoot}}
+
+[[Category:Characters in The Hobbit]]
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Kings under the Mountain]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+
+[[de:Dáin II.]]
+[[fi:Dáin II]]
+[[fr:encyclo:personnages:nains:3a:dain ii]]

@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Druda Burrows
+| image=
+| caption=
+| pronun=
+| othernames=Druda Boffin
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=c. {{SR|1260}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Burrows Family|Burrows]]
+| parentage=
+| siblings=
+| spouse=[[Rollo Boffin]]
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Druda Boffin, née Burrows''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Druda married [[Rollo Boffin]]. They had various descendants.<ref>{{App|Boffin}}</ref>
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Burrows]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+[[de:Druda Boffin]]
+[[fr:encyclo/personnages/hobbits/fouine/druda fouine]]
+[[fi:Druda Onkaloinen]]

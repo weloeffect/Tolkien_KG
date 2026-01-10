@@ -1,0 +1,52 @@
+{{infobox character
+| people-duplicated=[[Men|Man]]
+| name=Rowlie Appledore
+| image=
+| people=[[Men of Bree|Man of Bree]]
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bree]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|3019}}
+| deathlocation=[[Bree]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Rowlie Appledore''' was a [[Men of Bree|man]] of [[Bree]] and member of the [[Appledore Family]].
+
+==History==
+Rowlie was killed in early January, {{TA|3019}}, fighting [[Bill Ferny]] and [[Sharkey]]'s [[ruffians]].<ref>{{RK|Homeward}}</ref>
+
+==Etymology==
+''Rowlie'' is diminutive of Rowland, from ''hrod'' "fame" + land.<ref>[[Jim Allen]], ''[[An Introduction to Elvish]]'', Giving of Names</ref> ''Appledore'' is an old word for "apple tree".
+
+==Portrayal in adaptations==
+'''2011: ''[[The Lord of the Rings: War in the North]]'' '''
+:Rowlie Appledore appears as a local in [[Bree]], as a non-player character at the [[Prancing Pony Inn]]. The player character can converse with Rowlie and help him in his efforts to confess his feelings to an old love of his, a local woman named Idona. If the player character revisits Bree during the later parts of the game's storyline, the player learns that Rowlie and several other townsmen were killed by the ruffians in January (as in the source material). <ref>[https://witn.fandom.com/wiki/Bree#Rowlie_Appledore Rowlie at the Prancing Pony Inn], ''[[The Lord of the Rings: War in the North]]'', 2011</ref>
+
+{{references}}
+[[Category:Appledore]]
+[[Category:Bree-men]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]
+[[de:Roland Affalter]]
+[[fr:encyclo/personnages/hommes/3a/hommes de brie/rowlie pommerel]]
+[[fi:Rouli Omppu]]

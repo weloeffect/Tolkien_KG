@@ -1,0 +1,92 @@
+{{disambig-two|the father of [[Imrahil]]|Captain of the Left Wing in {{TA|1944}}|[[Adrahil (Captain of the Left Wing)|Adrahil]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Adrahil
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Princes of Dol Amroth|Prince of Dol Amroth]]
+| position=
+| location=
+| affiliation=
+| language=
+| birth={{TA|2917}}
+| birthlocation=
+| rule={{TA|2977}} - {{TA|3010|n}} (33 years)
+| death={{TA|3010}}
+| deathlocation=
+| age=93
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Angelimir]]
+| siblings=
+| spouse=
+| children=[[Ivriniel]], [[Finduilas (wife of Denethor)|Finduilas]] and [[Imrahil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adrahil''' was the twenty-first [[Princes of Dol Amroth|Prince of Dol Amroth]].<ref name=DolAmroth>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 223</ref>
+
+==History==
+Adrahil was the son of [[Angelimir]]. He became the twenty-first Prince of Dol Amroth after his father's death in {{TA|2977}}.<ref name=DolAmroth/>
+
+Adrahil had three children. His oldest daughter, [[Ivriniel]], his second daughter, [[Finduilas (wife of Denethor)|Finduilas]] and his youngest child and only son, [[Imrahil]].<ref>{{PM|Elendil}}, genealogical table, p. 221</ref>
+
+In {{TA|2976}}<ref>{{App|TA}}, entry for the year 2976, p. 1089</ref> Adrahil's daughter Finduilas married [[Denethor]], the son of [[Steward of Gondor|Steward]] [[Ecthelion II]] of [[Gondor]].<ref>{{App|Stewards}}, entries for Steward Ecthelion II and Steward Denethor II, pp. 1055-56</ref>
+
+Two years later in {{TA|2978}} Finduilas' older son [[Boromir]] was born and five years after that in {{TA|2983}} her younger son [[Faramir]] was born.<ref>{{App|TA}}, entries for the years 2978 and 2983, p. 1089</ref>
+
+Five years after the birth of her second son Faramir, Finduilas died young at the age of 38 in {{TA|2988}}.<ref>{{App|TA}}, entry for the year 2988, p. 1089</ref>
+
+Adrahil died in {{TA|3010}} and was succeeded by his only son Imrahil.<ref name=DolAmroth/>
+
+==Etymology==
+Adrahil presumably is an [[Adûnaic]] name<ref>, manuscript F2, §9 footnote concerning names in Quenya</ref> of unknown meaning. 
+
+The second element ''-hil'' (also seen in the name ''[[Imrahil]]'') perhaps is related to the [[Westron]] ending ''-kil'' (cf. ''[[banakil]], [[Tarkil]]'') meaning "man", ultimately related to [[Elvish]] "follower".<ref>[[Carl F. Hostetter]], [[Patrick Wynne]], "An Adunaic Dictionary", published in ''[[Vinyar Tengwar 25]]'' (September [[1992]]), pp. 16-17</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | AGL | | | | | | | | | | | | | | | | |AGL=[[Aglahad]]<br/><small>''{{TA|2827|n}} - {{TA|2932|n}}''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | | |}}
+{{familytree | | | | | | | ANG | | | | | | | | | | | | | | | | |ANG=[[Angelimir]]<br/><small>''{{TA|2866|n}} - {{TA|2977|n}}''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | | |}}
+{{familytree | | | | | | | ADR | | | | | | | | | | | | | | | | |ADR='''ADRAHIL'''<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|-|-|-|-|.| | | | | | | | | | | |}}
+{{familytree | IVR | | FIN |y| DEN | | IMR | | | | | | | | | | |IVR=[[Ivriniel]]<br/><small>''b. {{TA|2947|n}}''</small>|FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>}}
+{{familytree | | | |,|-|-|-|(| | | |,|-|^|-|v|-|-|-|v|-|-|-|.| |}}
+{{familytree | | | BOR | | FAR | | ELP | | ERC | | AMR | | LOT |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>|ELP=[[Elphir]]<br/><small>''{{TA|2987|n}} - {{FoA|67}}''</small>|ERC=[[Erchirion]]<br/><small>''b. {{TA|2990|n}}''</small>|AMR=[[Amrothos]]<br/><small>''b. {{TA|2994|n}}''</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{DEFAULTSORT:Adrahil}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Dol Amroth]]
+| born={{TA|2917}}
+| died={{TA|3010}}
+}}
+{{seq
+| prev=[[Angelimir]]
+| list=21st [[Princes of Dol Amroth|Prince of Dol Amroth]]
+| dates={{TA|2977}} - {{TA|3010|n}}
+| next=[[Imrahil]]
+}}
+{{seq-end}}
+
+[[Category:Adûnaic names]]
+[[Category:Gondorians]]
+[[Category:Princes of Dol Amroth]]
+[[Category:Third Age characters]]
+
+[[de:Adrahil II.]]
+[[fi:Adrahil (suuriruhtinas)]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/adrahil]]

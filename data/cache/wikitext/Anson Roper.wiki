@@ -1,0 +1,56 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Anson Roper
+| image=Miriam Ellis - Anson.png
+| caption=Anson - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1361}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Roper family]]
+| parentage=[[Andwise Roper]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Anson Roper''' was a Hobbit of [[the Shire]].
+
+==History==
+Anson was the son of [[Andwise Roper]], and cousin of [[Samwise Gamgee]]. He lived in [[Tighfield]] and probably followed his father's trade of ropery.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+The name likely means "Andy's son".<ref>[[Jim Allan]] (ed.) ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+===Anson Roper in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Lord of the Rings Online - Anson Roper.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+'''2022: ''[[The Lord of the Rings Online]]'':'''
+:Anson Roper lives in [[Tighfield]] and is indeed in the rope-making business.
+
+{{References}}
+[[Category:Hobbits]]
+[[Category:Roper]]
+[[Category:Third Age characters]]
+
+[[de:Ansen Seiler]]
+[[fi:Andinpoika Gamgi]]
+[[fr:encyclo/personnages/hobbits/cordier/anson cordier]]

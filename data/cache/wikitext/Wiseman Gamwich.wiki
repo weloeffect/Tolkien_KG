@@ -1,0 +1,43 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Wiseman Gamwich
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gamwich]]<br/>[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1200}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Hamfast of Gamwich]]
+| siblings=
+| spouse=
+| children=[[Hob Gammidge]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Wiseman Gamwich''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Wiseman was the son of [[Hamfast of Gamwich]]. He moved to [[Tighfield]], where his descendants became the [[Gamgee Family|Gamgees]].<ref>{{App|Gamgee}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Gamwich]]
+[[Category:Gammidge]]
+[[Category:Gamgee]]
+[[Category:Third Age characters]]

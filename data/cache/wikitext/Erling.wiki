@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Erling
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1254}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Greenhand Family|Greenhand]]
+| parentage=[[Holman the greenhanded]]
+| siblings=[[Rowan]], [[Halfred Greenhand|Halfred]], [[Hending]] and [[Rose (daughter of Holman)|Rose]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Erling''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Erling was the middle child of [[Holman the greenhanded]], born in {{SR|1254}}.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+[[Old English]] ''eorling'' means "descendant of an earl (noble)".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref> It is the same word as ''[[Eorlingas]]'' but it doesn't refer to [[Eorl the Young]].
+{{references}}
+[[Category:Greenhand]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Erling]]
+[[fi:Erling]]
+[[fr:encyclo/personnages/hobbits/la mainverte/erling]]

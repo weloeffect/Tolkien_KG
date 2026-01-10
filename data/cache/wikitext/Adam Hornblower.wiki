@@ -1,0 +1,40 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Adam Hornblower
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Smith<ref name="Shadow"/>
+| location=[[Hobbiton]]<ref>{{RS|Ancient}}</ref>
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Hornblower]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adam Hornblower''' was a smith in [[Hobbiton]] in the precursor of the chapter ''[[The Shadow of the Past]]'' of ''[[The Fellowship of the Ring]]'', which, at the time of the writing was called ''[[Of Gollum and the Ring]]''.<ref name="Shadow">{{RS|Gollum}}</ref>
+
+He was mentioned by [[Gandalf]] in conversation with [[Frodo]], about how nothing could melt [[The One Ring]].<ref name="Shadow"/>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Hornblower]]
+[[Category:Third Age characters]]

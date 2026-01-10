@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gruffo Boffin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Yale]]
+| affiliation=
+| language=
+| birth={{SR|1300}}
+| birthlocation=
+| rule=
+| death={{SR|1399}}
+| deathlocation=
+| age=99
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Uffo Boffin]] and [[Sapphira Brockhouse]]
+| siblings=[[Gerda Boffin|Gerda]]
+| spouse=
+| children=[[Griffo Boffin|Griffo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gruffo Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Gruffo was the son of [[Uffo Boffin]] and [[Sapphira Brockhouse]]. He had one son, [[Griffo Boffin|Griffo]], born in {{SR|1346}}.<ref>{{App|Boffin}}</ref>
+
+{{references}}
+[[Category:Boffin]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Gruffo Boffin]]
+[[fi:Gruffo Boffin]]

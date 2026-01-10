@@ -1,0 +1,83 @@
+{{disambig-two|the [[Kings of Gondor|King]] of [[Gondor]]|[[King of Númenor|King]] of [[Númenor]]|[[Anardil of Númenor]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Anardil
+| image=Matěj Čadil - Anardil of Gondor.jpg
+| caption="Anardil of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]] and [[Sindarin]]
+| birth={{TA|136}}
+| birthlocation=
+| rule={{TA|324}} - {{TA|411}} (87 years)
+| death={{TA|411}}
+| deathlocation=
+| age=275
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Eärendil (King of Gondor)|Eärendil]]
+| siblings=
+| spouse=
+| children=[[Ostoher]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Anardil''' ({{TA|136}}<ref name="Elendil">{{PM|Elendil}}</ref> – {{TA|411|n}},<ref>{{App|South}}</ref> aged 275 years) was the sixth [[King of Gondor]], ruling for 87 years, from {{TA|324|n}} until his death. He was succeeded by his son, [[Ostoher]].
+
+==History==
+Anardil's reign over [[Gondor]] was uneventful. He is remembered as the last of [[Gondor|Gondor's]] kings to dwell exclusively in the capital of [[Osgiliath]]. Anardil's son, Ostoher, was to set the precedent of the kings spending the summer at [[Minas Anor]], the citadel later known as [[Minas Tirith]].<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+''Anardil'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it seems to mean "Lover of the Sun" and to be a compound of [[Anar]] ("sun") and [[-ndil|-(n)dil]] ("friend, lover").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-411053215.html|articlename=Q. ''Anardil'' m.|website=Eldamo|accessed=29 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | CEM |CEM=[[Cemendur (King of Gondor)|Cemendur]]<br/><small>''{{SA|3399}} - {{TA|238}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | EAR |EAR=[[Eärendil (King of Gondor)|Eärendil]]<br/><small>''{{TA|48}} - {{TA|324|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ANA |ANA='''ANARDIL'''<br/><small>''{{TA|136}} - {{TA|411|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | OST |OST=[[Ostoher]]<br/><small>''{{TA|222}} - {{TA|492|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ROM |ROM=[[Rómendacil I]]<br/><small>''{{TA|310}} - {{TA|541|n}}''†</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In ''[[The Peoples of Middle-earth]]'', Section VII "[[The Heirs of Elendil]]", it was explained that three manuscripts existed in the textual history of this section.  Manuscript A contained the Southern Line of Gondor, and appeared to be the first stage of composition.  Manuscript B added the Northern Line, and began as a fair copy of A for the Southern line but became heavily emended.  Manuscript B led to Manuscript C, a fine copy (but with later emendations), which led to a final typescript D.  In the earlier Manuscripts A and B, Anardil lived from {{TA}} 132 to 407 instead of {{TA|136}} to {{TA|411|n}}.<ref name="Elendil"/>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of the [[House of Elendil]]</small>
+| born={{TA|136}}
+| died={{TA|411}}
+}}
+{{seq
+| prev=[[Eärendil (King of Gondor)|Eärendil]]
+| list=6th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|324}} - {{TA|411|n}}
+| next=[[Ostoher]]
+}}
+{{seq-end}}
+
+{{southernline}}
+
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Anardil (König von Gondor)]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/anardil]]
+[[fi:Anardil (Gondor)]]

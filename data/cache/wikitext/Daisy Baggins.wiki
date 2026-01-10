@@ -1,0 +1,54 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Daisy Baggins
+| image=The Lord of the Rings Online - Daisy Boffin.jpg
+| caption=Daisy Boffin in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=Daisy Boffin
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1350}}
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Dudo Baggins]]
+| siblings=
+| spouse=[[Griffo Boffin]]
+| children=[[Tosto Boffin|Tosto]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Daisy Boffin, née Baggins''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Daisy was the daughter of [[Dudo Baggins]], born in {{SR|1350}}.<ref>{{App|Baggins}}</ref> She married [[Griffo Boffin]] and had a child, [[Tosto Boffin]] in {{SR|1388}}. They were all guests at [[Bilbo's Farewell Party]].<ref>{{App|Boffin}}</ref>
+
+==Etymology==
+[[Daisy]], a flower name, derives from [[Old English]] ''dæges eage'' "day's eye".<ref>{{HM|IE}}, "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+'''2007 ''[[The Lord of the Rings Online]]'':'''
+: Daisy Boffin normally appears in [[Bywater]] as a vendor with no unique lines. During the annual Yule Festival, she is found at the [[Party Tree]] where she asks the player for assistance with celebration preparations.
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+
+[[de:Margerite Boffin]]
+[[fi:Tuhatkauno Reppuli]]
+[[fr:encyclo:personnages:hobbits:sacquet:daisy sacquet]]

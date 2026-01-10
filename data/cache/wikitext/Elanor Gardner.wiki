@@ -1,0 +1,75 @@
+{{disambig-more|Elanor|[[Elanor (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Elanor Gardner
+| image=Jenny Dolfen - Elanor the Fair.jpg
+| caption="Elanor the Fair" by [[:Category:Images by Jenny Dolfen|Jenny Dolfen]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bag End]], [[Hobbiton]]<br/>[[Undertowers]]
+| affiliation=
+| language=
+| birth=[[25 March]] {{TA|3021}}
+| birthlocation=
+| rule=
+| death=After {{FoA|61}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gardner Family|Gardner]]
+| parentage=[[Samwise Gamgee]] and [[Rose Cotton]]
+| siblings=[[Frodo Gardner|Frodo]], [[Rose Gardner|Rose]], [[Merry Gardner|Merry]], [[Pippin Gardner|Pippin]], [[Goldilocks Gardner|Goldilocks]],  [[Hamfast Gardner|Hamfast]], [[Daisy Gardner|Daisy]], [[Primrose Gardner|Primrose]], [[Bilbo Gardner|Bilbo]], [[Ruby Gardner|Ruby]], [[Robin Gardner|Robin]] and  [[Tolman Gardner|Tom]]
+| spouse=[[Fastred of Greenholm]]
+| children=[[Elfstan Fairbairn|Elfstan]] and [[Fíriel Fairbairn|Fíriel]]
+| gender=Female
+| height=
+| hair=Blonde (red-gold<ref name="Epilogue"/>{{rp|122}})
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|You were born at the end of a great age, Elanorellë|[[Samwise Gamgee]]<ref name="Epilogue">{{SD|Epilogue}}</ref>}}
+'''Elanor Fairbairn (née Gamgee or Gardner)''' was the first child of Master [[Samwise Gamgee]] and his wife [[Rose Cotton]]. 
+==Life==
+Called "The Fair" for her golden hair, she was born 25 March {{SR|1421|n}} by [[Shire Calendar|Shire Reckoning]] (which was {{TA|3021}}), which was at the same time the first day of the [[Fourth Age]] in Gondor.<ref>{{App|Chief}}</ref> Elanor was also the only one of Samwise's children known to the Ringbearer, [[Frodo Baggins]], and her name was a suggestion by him.<ref name="Havens"/>
+
+In {{SR|1436}} Elanor became a maid of honour to Queen [[Arwen|Arwen Evenstar]], and in {{SR|1442}} she rode to [[Gondor]] with her parents and stayed there for a year. In {{SR|1451|n}} she married [[Fastred of Greenholm]]. [[Fourth Age 34|Four years later]], Fastred was named [[Warden of Westmarch]] by the [[Thain]] at the request of Samwise, and the couple moved to the [[Undertowers]] on the [[Tower Hills]].<ref name=later>{{App|Later}}</ref>
+
+She last saw her father in {{SR|1482|n}} when he came to the [[Tower Hills]], passing to her the [[Red Book]]. so Elanor and her line became the keepers of the [[Red Book of Westmarch]], and handed down the tradition that Sam passed to the [[Undying Lands]].<ref name=later/> 
+
+Her two children were [[Elfstan Fairbairn|Elfstan]], born in {{SR|1454|n}},<ref name=later/> and [[Fíriel Fairbairn|Fíriel]].<ref>{{AB|Preface}}, note 2</ref> Her descendants (becoming known as the [[Fairbairn Family|Fairbairns of the Towers]]) would live for many generations.<ref name=later/>
+
+==Etymology==
+The name is a reference to the ''[[Elanor (flower)|sun-star]]'', a little golden flower blooming in the land of [[Lothlórien]] — this perfectly satisfied Sam's desire for a name that was both [[Elvish]] and yet at the same time a simple flower-name as many hobbit-lasses had.<ref name="Havens">{{RK|Havens}}</ref>
+
+==Other versions of the legendarium==
+Besides her presence as an infant in the last chapter of the published ''[[The Lord of the Rings]]'', and the details noted in the appendices of that book, Elanor's most significant role was in the two versions of the written but unpublished [[The Epilogue|epilogue]] of ''The Lord of the Rings''. In that epilogue Elanor talks with her father about the importance of the events that transpired in the story and also about the coming of King [[Aragorn|Elessar]] and Queen Arwen for a visit. Elanor's affectionate name for her father is "Sam-dad", while Sam calls her "''Elanorellë''".<ref name="Epilogue"/>
+
+==Portrayal in adaptations==
+===Elanor Gardner in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Return of the King - Elanor and Samwise.png|Elanor in ''[[The Lord of the Rings (film series)]]''
+File:Elanor Gardner - The Lord of the Rings Aragorn's Quest.png|Elanor in ''[[The Lord of the Rings: Aragorn's Quest]]''
+</gallery>
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Elanor can be heard crying as Frodo ([[Ian Holm]]) tells Sam ([[Bill Nighy]]) that he must go on with his life. The crying is actually by Holm's son, [[Harry Holm|Harry]]. 
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Elanor was played by [[Alexandra Astin]], the daughter of [[Sean Astin]].
+
+'''2010: ''[[The Lord of the Rings: Aragorn's Quest]]'':'''
+:Elanor is available as a second player, playing Gandalf to [[Frodo Gardner|Frodo]]'s Aragorn. She wears a wizard's hat and a stick to serve as a staff.
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Gamgee]]
+[[Category:Gardner]]
+[[Category:Fairbairn]]
+[[Category:Third Age characters]]
+
+[[de:Elanor Gamdschie]]
+[[fi:Elanor Gamgi]]
+[[fr:encyclo:personnages:hobbits:gamegie:elanor gamegie]]

@@ -1,0 +1,74 @@
+{{short description|Mother of Boromir and Faramir}}
+{{disambig-two|the wife of [[Denethor]]|Elf of the First Age|[[Finduilas]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Finduilas
+| image=Catherine Chmiel - Denethor and Finduilas.jpg
+| caption="Denethor and Finduilas" by [[Catherine Karina Chmiel]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2950}}
+| birthlocation=[[Dol Amroth]]
+| rule=
+| death={{TA|2988}}
+| deathlocation=[[Minas Tirith]]
+| age=38
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Adrahil]]
+| siblings=[[Ivriniel]] and [[Imrahil]]
+| spouse=[[Denethor]]
+| children=[[Boromir]] and [[Faramir]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Finduilas''' ({{TA|2950}} - {{TA|2988|n}})<ref name="Dol">{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221</ref> was the daughter of [[Adrahil]] the [[Prince of Dol Amroth]]. She was the sister of [[Ivriniel]] and Prince [[Imrahil]] of [[Dol Amroth]].<ref name="Dol"/> She became the wife of [[Denethor|Denethor II]] and the mother of [[Boromir]] and [[Faramir]]. 
+
+Named after [[Finduilas]], an [[Elves|Elf]]-maiden of the [[First Age]], she was of great beauty and gentle heart.<ref name="A">{{App|Stewards}}</ref>
+{{Pronounce|Finduilas.mp3|Ardamir}}
+
+==History==
+In {{TA|2976}} she was wed to the much older [[Denethor]], son of [[Ecthelion II]] the [[Steward of Gondor]].<ref name="B">{{App|TA}}</ref>
+
+In {{TA|2978}} she gave birth to [[Boromir]],<ref name="B"/> most loved by his father. In {{TA|2983|n}} she gave birth to her second son, [[Faramir]],<ref name="B"/> and afterwards grew weak. Faramir was ignored by his father, and she did her best to raise him on her own.
+
+In {{TA|2984}} Ecthelion died, and Denethor became Steward of Gondor.<ref name="B"/> Nevertheless the health of the Lady Finduilas dwindled in the city. The [[shadow]] of [[Mordor]] filled her with horror while she never stopped missing the sea,<ref name="A"/> and four years later she died at the very young age of thirty-eight (considering her heritage as a [[Dúnedain|Dúnadan]]). 
+
+==Legacy==
+Denethor never remarried, and became more grim and silent than before. It was not long after her death that he would sit long alone in his tower deep in thought, foreseeing that the assault from Mordor would come in his time.<ref name="A"/> Thus he began using the ''[[palantíri|palantír]]'' of [[Minas Tirith]], and the despair fed to his mind led to his ultimate insanity and suicide some thirty-one years later.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | ANG | | | | | | | | | | | | | | | | | | |ANG=[[Angelimir]]<br/><small>''{{TA|2866|n}} - {{TA|2977|n}}''</small>}}
+{{familytree | | | | | | | | | |!| | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | STE | | | | | | ADR | | | | | | | | | | | | | | | | | | | | |STE=[[Stewards of Gondor|''Ruling Stewards<br/>of Gondor'']]|ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree | |:| | | |,|-|-|-|+|-|-|-|.| | | | | | | | | | | | | | | | | |}}
+{{familytree | DEN |y| FIN | | IVR | | IMR | | | | | | | | | | | | | | ROH |IVR=[[Ivriniel]]<br/><small>''b. {{TA|2947|n}}''</small>|FIN='''FINDUILAS'''<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>|ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree | |,|-|^|-|.| | | | | | | |)|-|-|-|v|-|-|-|v|-|-|-|.| | | |:| |}}
+{{familytree | BOR | | FAR |y| EOW | | ELP | | ERC | | AMR | | LOT |y| EOM |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>|EOW=[[Éowyn]]<br/><small>''b. {{TA|2995|n}}''</small>|ELP=[[Elphir]]<br/><small>''{{TA|2987|n}} - {{FoA|67}}''</small>|ERC=[[Erchirion]]<br/><small>''b. {{TA|2990|n}}''</small>|AMR=[[Amrothos]]<br/><small>''b. {{TA|2994|n}}''</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>}}
+{{familytree | | | | | | | |!| | | | | |!| | | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | ELB | | | | ALP | | | | | | | | | | | | ELF | | |ELB=[[Elboron]]<br/><small>''unknown''</small>|ALP=[[Alphros]]<br/><small>''{{TA|3017|n}} - {{FoA|95}}''</small>|ELF=[[Elfwine]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+Originally, the name of the wife of Denethor was '''''Emmeril''''', which in the act of writing was changed by Tolkien to '''''Rothinel'''''.<ref>{{SD|King}}, pp. 54-5</ref>
+
+{{references}}
+{{title}}
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+
+[[de:Finduilas aus Dol Amroth]]
+[[fi:Finduilas (ihminen)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/finduilas]]

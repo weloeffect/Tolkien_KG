@@ -1,0 +1,53 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Estella Bolger
+| image=Miriam Ellis - Estella.png
+| caption=Estella - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1385}}
+| birthlocation=
+| rule=
+| death=After {{SR|1419}}<ref group=note>According to the [[Appendix B]] Meriadoc left the Shire for [[Rohan]] in {{SR|1484}}. Presumably Estella had died by then.</ref>
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Odovacar Bolger]] and [[Rosamunda Took]]
+| siblings=[[Fredegar Bolger|Fredegar]]
+| spouse=[[Meriadoc Brandybuck]]
+| children=At least one son<ref name=later>{{App|Later}}</ref>
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Estella Brandybuck, née Bolger''', was a [[Hobbits|Hobbit]] of [[the Shire]]. 
+==History==
+Estella was the second child of [[Odovacar Bolger]] and [[Rosamunda Took]]. She was present at [[Bilbo's Farewell Party]]. 
+
+Her older brother, [[Fredegar Bolger|Fredegar]], was well acquainted with [[Meriadoc Brandybuck]],<ref>{{FR|Shadow}}</ref><ref>{{FR|Conspiracy}}</ref> and Estella eventually married him after the [[War of the Ring]].<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+[[Jim Allan]] has suggested that ''Estella'' is related to the Spanish ''Estrella'', derived from the Latin ''stella'', both meaning "star".<ref>{{HM|IE}}, "Giving of Names", p. 197</ref>
+
+==Other versions of the legendarium==
+Tolkien added Estella to the family trees in Appendix C in the mid-1960s during the revisions that led to the second edition of ''The Lord of the Rings''. For unclear reasons<ref>{{PM|Trees}}</ref> she did not initially appear in the hardcover edition, but only in the mass-market paperback edition published by [[Ballantine Books]]. Estella was finally added to the hardcover edition after an update to the text in 1987.<ref>{{HM|LR}}, "Note on the Text" (by [[Douglas A. Anderson]])</ref>
+
+{{references|n}}
+[[Category:Bolger]]
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Estella Brandybock]]
+[[fi:Estella Bolger]]

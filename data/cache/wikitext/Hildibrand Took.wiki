@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Hildibrand Took
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1249}}
+| birthlocation=
+| rule=
+| death={{SR|1334}} 
+| deathlocation=
+| age=85
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Gerontius Took]] and [[Adamanta Chubb]]
+| siblings=[[Isengrim Took III|Isengrim]], [[Hildigard Took|Hildigard]], [[Isumbras Took IV|Isumbras]], [[Hildigrim Took|Hildigrim]], [[Isembold Took|Isembold]], [[Hildifons Took|Hildifons]], [[Isembard Took|Isembard]], [[Belladonna Took|Belladonna]], [[Donnamira Took|Donnamira]], [[Mirabella Took|Mirabella]] and [[Isengar Took|Isengar]]
+| spouse=
+| children=[[Sigismond Took|Sigismond]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hildibrand Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Hildibrand was a son of [[Gerontius Took|the Old Took]]. He also had a son, [[Sigismond Took|Sigismond]], born in {{SR|1290}}.<ref>{{App|Took}}</ref>
+==Etymology==
+The name contains ''hild'' "battle" and ''brand'' "sword".<ref>{{HM|IE}}, "Giving of Names"</ref> [[wikipedia:Hildebrand|Hildebrand]] is a figure from German legends.
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Hildibrand Tuk]]
+[[fi:Hildibrand Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/hildibrand touque]]

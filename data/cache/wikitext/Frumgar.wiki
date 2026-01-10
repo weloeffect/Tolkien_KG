@@ -1,0 +1,83 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Frumgar
+| image=The Lord of the Rings Online - Frumgar.jpg
+| caption=Frumgar in ''The Lord of the Rings Online''
+| pronun=
+| othernames=
+| titles=chieftain of the Éothéod
+| position=
+| location=North-west [[Rhovanion]]
+| affiliation=
+| language=language of the [[Éothéod]]
+| birth=before {{TA|1977}}
+| birthlocation=
+| rule=c. {{TA|1977}} 
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=[[Fram]]<ref name=Frumgar>{{App|Eorl}}, entry for chieftain Frumgar, p. 1064</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Frumgar''' was a chieftain of the [[Éothéod]] who led his people from the middle to the northern [[Vales of Anduin]].<ref name=Frumgar/> It is possible that Frumgar was the fourth [[Lord of the Éothéod]] and the grandson of [[Forthwini]].<ref>{{webcite|author=Michael Martinez|articleurl=https://middle-earth.xenite.org/how-many-lords-of-eotheod-were-there/|articlename=How Many Lords of Éothéod Were There?|dated=10 October 2013|website=middle-earth.xenite.org|accessed=20 February 2022}}</ref>
+
+== History ==
+Before {{TA|1977}} the [[Éothéod]] lived in the middle vales of Anduin between the [[Carrock]] and the [[Gladden Fields]] with most of them living on the west side of the river [[Anduin]].<ref>{{UT|Northmen}}, second paragraph</ref> At that time many men lived in the middle vales of Anduin and the shadow of [[Dol Guldur]] was lengthening.<ref name=Eorl>{{App|Eorl}}, first paragraph, p. 1064</ref>
+
+In {{TA|1975}}<ref name="ReferenceA">{{App|TA}}, entry for the year 1975, p. 1086</ref> the evil [[Angmar|Kingdom of Angmar]] was [[Battle of Fornost|destroyed]]. The Éothéod heard of the destruction of Angmar,<ref name=Eorl/> probably because some of them had fought with their horses with the expeditionary force from [[Gondor]] in [[Arthedain]] against the troops from Angmar<ref>{{App|Gondor}}, entry for king Eärnil II, p. 1050</ref> in {{TA|1975}}<ref name="ReferenceA"/>. As a consequence, Frumgar, then the chieftain of the Éothéod, led the Éothéod,<ref name=Frumgar/> who sought more room, to the North and drove away the remnants of the people of Angmar on the east side of the [[Misty Mountains]]<ref name=Eorl/> in {{TA|1977}}<ref>{{App|TA}}, entry for the year 1977, p. 1087</ref>.
+
+The Éothéod settled in the land between the [[Misty Mountains]] on the west, the [[Forest River]] in the east and the confluence of the rivers [[Greylin]] and [[Langwell]] in the south.<ref>{{UT|Ride}}, second paragraph</ref> The only fortified ''burg'' of the Éothéod was located at the confluence of the Greylin and the Langwell.<ref>{{UT|Ride}}, third paragraph</ref> It is possible that this ''burg'' was the settlement known as [[Framsburg]]<ref>{{webcite|author=Daniel Helen|articleurl=https://www.tolkiensociety.org/2015/11/tolkiens-annotated-map-of-middle-earth-transcribed/|articlename=Tolkien's annotated map of Middle-earth transcribed|dated=10 November 2015|website=tolkiensociety.org|accessed=20 February 2022}}</ref><ref>{{webcite|author=Michael Martinez|articleurl=https://middle-earth.xenite.org/what-was-eotheod-like/|articlename=What Was Éothéod Like?|dated=7 December 2011|website=middle-earth.xenite.org|accessed=20 February 2022}}</ref> and that it was named after Frumgar's son, [[Fram]].<ref>{{HM|RC}}, entry ''Framsburg'', p. Ixv</ref> Frumgar was remembered in the songs of the [[Rohirrim]].<ref name=Frumgar/>
+
+== Etymology ==
+''Frumgar'' means "chieftain", "leader", "prince" or "patriarch", literally "first spear" in [[Old English]].<ref>{{HM|RC}}, p. 703</ref><ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/12535|articlename=frum-gár|accessed=1 November 2024}}</ref>
+
+It its a compound of ''frum'' ("first")<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/12525|articlename=frum|accessed=1 November 2024}}</ref> and ''gár'' ("spear")<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/13290|articlename=gár|accessed=1 November 2024}}</ref>.
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | MAN |MAN=[[Marhwini]]<br/><small>''fl. {{TA|1856|n}} - {{TA|1899|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | FOR |FOR=[[Forthwini]]<br/><small>''fl. {{TA|1944|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | FRU |FRU='''FRUMGAR'''<br/><small>''fl. {{TA|1977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | FRA |FRA=[[Fram]]<br/><small>''fl. c. {{TA|2000}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | LEO |LEO=[[Léod]]<br/><small>''{{TA|2459|n}} - {{TA|2501|n}}''†</small>}}
+{{familytree/end}}
+
+== Portrayal in adaptations ==
+'''2020: ''[[The Lord of the Rings Online]]'':'''
+:Frumgar appears in a flashback narrating the history of the [[Éothéod]]. He is shown befriending [[dwarves]] and [[Wizards]] at a young age, and his decision to move his people to the Wells of [[Langflood]] is partially motivated by his wife being killed in an [[Orcs|Orc]] raid. It was he who gave [[Gandalf]] his northern name by calling him Wandalb, "the Elf of the Wand".
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=northmen}}
+{{seq
+| pvac=Unknown
+| prev=eventually [[Forthwini]]
+| list=[[Lord of the Éothéod]]
+| next=[[Fram]]
+}}
+{{seq-end}}
+
+[[Category:Éothéod]]
+[[Category:Lords of the Éothéod]]
+[[Category:Old English names]]
+[[Category:Third Age characters]]
+[[de:Frumgar]]
+[[fi:Frumgar]]
+[[fr:/encyclo/personnages/hommes/3a/hommes_du_nord/eotheod/frumgar]]

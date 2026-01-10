@@ -1,0 +1,372 @@
+{{short description|Heir of Isildur}}
+{{Disambig-more|Elessar|[[Elessar (disambiguation)]]}}{{infobox character
+| people=[[Arnor]]ian
+| name=Aragorn
+| image=Yulia Alekseeva - Aragorn in Rivendell.jpg
+| caption="Aragorn in Rivendell" by [[:Category:Images by Yulia Alekseeva|Yulia Alekseeva]]
+| pronun=[[Sindarin|S]], {{IPA|[ˈaraɡorn]}}
+| othernames=''See [[Aragorn#Other names|below]]''
+| titles=[[Chieftain of the Dúnedain]]<br/>[[High King (Dúnedain)|High King of the Dúnedain]]<br/>King of Gondor and Arnor<ref>{{S|Rings}}</ref><br/>King of the West<ref>{{App|Great}}</ref><br/>Lord of the [[Westlands]]
+| position=[[Rangers of the North|Ranger]]<br/>Leader of the [[Fellowship of the Ring]] (after [[Gandalf]]'s death)<br/>King of the [[Reunited Kingdom]]
+| location=[[Rivendell]]<br/>[[Gondor]]<br/>[[Arnor]]<br/>[[Rohan]]<br/>[[Rhûn]] and [[Harad]]<ref>{{FR|Council}}, p. 248</ref>
+| affiliation=[[Fellowship of the Ring]]
+| language=[[Westron]]<br/>[[Sindarin]]<br/>[[Quenya]]
+| birth=[[1 March]], {{TA|2931}}
+| birthlocation=[[Eriador]]
+| rule={{TA|2933}} - {{TA|3019|n}} (Chieftain)<br/>{{TA|3019}} - {{FoA|120}} (King)
+| death=[[1 March]], {{FoA|120}}<ref>{{App|B5}}, entry '''1541''', p. 1098</ref>
+| deathlocation=[[Gondor]]
+| age=210
+| notablefor=Reuniting the [[Reunited Kingdom|Kingdoms of Arnor and Gondor]]
+| house=[[House of Isildur]]<br/>Founder of the [[House of Telcontar]]
+| parentage=[[Arathorn II]] (father)<br/>[[Gilraen]] (mother)<br/>[[Elrond]] (foster father)
+| siblings=
+| spouse=[[Arwen]]
+| children=[[Eldarion]]<br/>At least two daughters<ref name="Tale">{{App|Tale}}</ref>
+| gender=Male
+| height=At least 6'6<nowiki>''</nowiki> (1.98 m)<ref name="RC">{{HM|RC}}, p. 272 citing from a note written by J.R.R. Tolkien approximately in 1969</ref><ref>{{NM|P2vi}}, p. 194</ref>
+| hair=Dark, flecked with grey<ref name="Sign">{{FR|Sign}}</ref> 
+| eyes=Grey<ref name="Sign"/>
+| clothing=High leather boots, dark-green cloak (as a [[Rangers of the North|Ranger]])<ref name="Sign"/><br>Pure white mantle, black mail girt with silver (as a King)<ref>{{RK|Steward}}, p. 966</ref>
+| weapons=[[Andúril]]
+| steed=[[Roheryn]]<br/>[[Hasufel]]
+| timeline={{Timeline
+|section1=[[Years of the Trees|Y.T.]]
+|section1short=Y.T.
+|section1length=1500
+
+|section2=[[First Age|I]]
+|section2short=I
+|section2length=590
+
+|section3=[[Second Age|II]]
+|section3short=II
+|section3length=3441
+
+|section4=[[Third Age|III]]
+|section4short=III
+|section4length=3021
+
+|section4period1=Lifespan
+|section4period1start=2931
+|section4period1end=3141
+|section4period1color=brown
+
+|section5=[[Fourth Age|IV]]
+|section5short=IV
+|section5length=1000
+}}
+}}
+<center>{{quote|Tall as the sea-kings of old, he stood above all that were near; ancient of days he seemed and yet in the flower of manhood; and wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him.|''[[The Return of the King]]'', "[[The Steward and the King]]"}}</center>
+
+'''Aragorn II''' was the son of [[Arathorn II]] and [[Gilraen]]. He was the last [[Chieftain of the Dúnedain]] and a direct descendant through many<ref group="note">Aragorn II is of the 39th generation descended from Isildur, through 23 generations of the Kings of Arnor and Arthedain (beginning with [[Valandil (King of Arnor)|Valandil]] and ending with [[Arvedui]]) and 15 generations of the Chieftains of the Dúnedain (beginning with [[Aranarth]] and ending with Arathorn II).</ref> generations of [[Isildur]], the last [[High King (Dúnedain)|High King]] of both [[Arnor]] and [[Gondor]]. Aragorn would become the greatest [[Men|Man]] of his time, leading the [[Dúnedain|Men of the West]] against [[Sauron]]'s forces, helping to destroy [[the One Ring]], and reuniting the [[Reunited Kingdom|Kingdoms of Arnor and Gondor]].
+
+==History==
+===Early life===
+Aragorn was born in {{TA|2931}} to the Chieftain Arathorn II and received the name Aragorn. His grandmother, [[Ivorwen]], noted with [[foresight]] that Aragorn would one day wear on his breast a green stone.<ref>{{PM|Foreword}}</ref>
+
+A legend says that the [[Wizards|Wizard]] [[Gandalf]] had brought such a stone, called the [[Elfstone|Elessar]], from [[Valinor]]. He gave the Elessar to the [[Elves|Elven]] Lady [[Galadriel]] and remarked prophetically that she would pass it to another, who will also be called Elessar.<ref>{{UT|6}}</ref> From this would come Aragorn's royal name ''Elessar'' ([[Quenya]] for "Elfstone").
+[[File:Anna Kulisz - Elrond and Estel.jpg|thumb|left|''Elrond and Estel'' by [[:Category:Images by Anna Kulisz|Anna Kulisz]]]]
+When Aragorn was two years old, his father was slain when an [[Orcs|Orc]] arrow pierced his eye. As was the tradition of his people, Aragorn was fostered in [[Rivendell]] by [[Elrond]] as if he were his own son. The [[Wise]] decided that his identity was to be kept secret, as the last [[Heir of Isildur]] would be vulnerable to [[Sauron|the Enemy]]. Aragorn was called '''''[[Estel]]''''' ([[Sindarin]] for "Hope") instead. During his youth in Rivendell he accompanied the twin sons of Elrond, [[Elrohir]] and [[Elladan]], on their journeys.<ref name="Tale" />
+
+"Estel" grew to be fair and noble, and was seemingly more mature than his age. When Aragorn was twenty-one years old, after returning from a journey with the [[Elladan and Elrohir|twins]] in {{TA|2952}}, Elrond decided to reveal his true name and ancestry. As part of this revelation, Elrond delivered to him the heirlooms of [[House of Isildur|his House]]: the shards of [[Narsil]] and the [[Ring of Barahir]]. Elrond also said that he should earn the [[Sceptre of Annúminas]]. The next day, full of hope, Aragorn was sitting in the forest singing a part of the ''[[Lay of Leithian|Lay of Lúthien]]''; as he sang of the meeting [[Beren]] and [[Lúthien]], [[Arwen]], daughter of Elrond, who had newly returned from [[Lothlórien]], appeared to him. Aragorn thought that Lúthien herself had appeared and fell in love.<ref name="Tale" />
+
+===Life as a Ranger===
+Estel took up his proper name as Aragorn, sixteenth of the Chieftains of the Dúnedain, and after he took leave of his mother and Elrond he went into [[The Wild]].<ref name="Tale" /> In {{TA|2953}} he was not present in Rivendell for the last meeting of the [[White Council]]. Aragorn met [[Gandalf|Gandalf the Grey]] in {{TA|2956}}, and they became great friends.<ref name="TA">{{App|TA}}</ref> At Gandalf's advice he started to become interested in [[the Shire]] and became known as '''''Strider''''' in this region.
+[[File:Catherine Chmiel - Ecthelion,Thorongil and Boromir study.jpg|thumb|left|''"Thorongil" with Ecthelion II'' by [[Catherine Karina Chmiel]]]]
+From {{TA|2957}} to {{TA|2980}} Aragorn took great journeys aiding the [[West]] against [[Sauron]] and his allies. After serving King [[Thengel]] of [[Rohan]], he went to [[Ruling Steward|Steward]] [[Ecthelion II]] of [[Gondor]],<ref name="TA" /> who was in dire need of able men to guard his realm from [[Mordor]]. Aragorn kept his identity secret but as he wore a silver star upon his cloak, and was swift and keen-eyed, the [[Gondorians]] called him '''''Thorongil''''' (Sindarin for "Eagle of the Star"). He was a great leader by land and sea and Ecthelion trusted and loved him most. Some believed that there was rivalry between him and the Steward's son, [[Denethor]], who probably knew his identity as [[Heir of Isildur]], and suspected that he and Gandalf worked to supplant him. Thorongil, however, saw himself only as the servant of the [[Steward of Gondor|Steward]], whom he advised to not trust [[Saruman]] and instead to welcome Gandalf (whom Denethor didn't trust or love).<ref name=appstewards>{{App|Stewards}}</ref>
+
+Ecthelion was anticipating an attack from Sauron, who had just returned, and Thorongil warned him that in that event the [[Southern Fiefs]] would be vulnerable to the [[Corsairs of Umbar]]. He was allowed by Ecthelion to take a few ships and lead an [[Surprise attack on Umbar|attack against Umbar]]; at night he burned many ships, and in a fight, slew the [[Captain of the Haven]] with only few casualties. Great honour awaited him in [[Minas Tirith]] but he did not return; while in [[Pelargir]], he sent a farewell message to Ecthelion, speaking of other tasks calling him, and saying that fate would not bring him again to Gondor soon. To the grief and wonder of his companions he crossed the [[Anduin]] and was last seen staring at the [[Ephel Dúath]].<ref name=appstewards/> He left Gondor to travel into the far East and South "exploring the hearts of men good and evil" and learning about the "plots and devices" of the servants of the Dark Lord.<ref name=Tale/> His exploits ensured the survival of the [[West]] much later during the [[War of the Ring]].
+
+[[File:Stephen Hickman - Aragorn and Arwen.jpg|thumb|left|''Aragorn and Arwen'' by [[Stephen Hickman]]]]
+Later in {{TA|2980}} on his return to Rivendell he entered [[Lothlórien]], and there once again met Arwen in [[Caras Galadhon]]. For one season they wandered together in Lothlórien. At midsummer, he gave her the heirloom of his House, the [[Ring of Barahir]], and Arwen pledged her hand to him in marriage.<ref name="Tale" />
+
+Elrond gave his foster son permission to marry his daughter, on the condition that he must first become king of both Gondor and Arnor, for only a king would be worthy of Arwen's hand.<ref name="Tale" /> This harsh condition had a precedent: King [[Thingol]]'s request that [[Beren]] obtain a [[Silmarils|Silmaril]] from [[Morgoth]] before marrying his daughter [[Lúthien]].<ref>{{S|Beren}}</ref>
+
+===Hunt for Gollum===
+In the year {{TA|3001}}, as a now revealed [[Sauron]] continued to regain power in [[Mordor]], Aragorn began assisting [[Gandalf]] in his search for news of [[Gollum]]. Gandalf suspected that the ring [[Bilbo Baggins]] found near Gollum's lake was in fact [[the One Ring]].<ref name=TA/> In {{TA|3007}}, he briefly returned to [[Eriador]], where he visited his mother for the last time. She died before that year's spring.<ref name=Tale/>
+
+In {{TA|3009}} Gandalf and Aragorn renewed their hunt for Gollum, searching intermittently in the [[vales of Anduin]], [[Mirkwood]], and [[Rhovanion]], even to the confines of [[Mordor]], without knowing that around that time Gollum ventured into Mordor, and was captured by Sauron.<ref name="TA" /> [[Third Age 3017|After eight years]] Gollum was released and Aragorn finally overtook him in the [[Dead Marshes]]<ref name="TA" /> on [[1 February]]. With Gollum, he travelled through the northern [[Emyn Muil]], to prevent being found by Sauron's spies, and crossed the Anduin at the [[Sarn Gebir]]. He travelled further north along the edges of [[Fangorn Forest]] and through Lothlórien,<ref name="UT">{{UT|Hunt}}</ref> where the Elves sent a message to Gandalf.<ref>{{UT|Hunt}}, Note 5</ref> He travelled alongside the Anduin to the north until he arrived at the [[Carrock]]. With the aid of the [[Beornings]] he crossed the Anduin with Gollum and entered [[Mirkwood]]. He took Gollum to [[Thranduil]] to be held captive.<ref name="TA" /><ref name="UT" /> He then returned west where he met with Gandalf at [[Sarn Ford]] and learned of [[Frodo Baggins]]' plan to leave the Shire with the Ring in late September. Aragorn then continued his own journey.<ref name="Strider">{{FR|Strider}}</ref>
+
+===The War of the Ring===
+When Aragorn returned to his area, the [[Wandering Companies|Wandering Company]] of [[Elves]] who followed [[Gildor|Gildor Inglorion]] told Aragorn the [[Nazgûl|Black Riders]] had been seen, Gandalf had been missing and there were no messages from him. Aragorn and his [[Rangers of the North|Rangers]] kept watch over the border of [[the Shire]] and the [[East Road]] waiting for sight of Frodo but there was no news of them leaving [[Buckland]].<ref name="Strider" />
+
+While staying in [[Bree]], Aragorn crossed the paths of four [[Shire-hobbits]] in [[The Prancing Pony]]. Aragorn watched as the hobbits clumsily hid their names and intentions, and as [[Frodo Baggins]], the leader of the party, fell from a table and disappeared as he put the ring on. Aragorn, whose name was given as Strider, seemed to show no surprise, only annoyance at Frodo’s foolish vanishing act.<ref name=Sign/> He arranged for an interview that night, where he warned them of the Black Riders and [[Bill Ferny]], then bluntly requested that they use him as a guide. After some consideration, and a note given to them by the forgetful [[Barliman Butterbur]] from Gandalf condoning him, Frodo agreed.<ref name=Strider/>
+[[File:Jef Murray - Amon Sûl.jpg|thumb|left|[[Jef Murray]] - ''Amon Sûl'']]
+Aragorn’s plan to reach Rivendell was to first head toward [[Archet]] and bear right to [[Weathertop]].<ref>{{FR|Knife}}</ref> After the ambush at Weathertop and the wounding of Frodo, [[Meriadoc Brandybuck|Merry]] took over the position as leader of the Hobbits. After a while they met [[Glorfindel]], a friend of Aragorn’s,<ref name=Flight>{{FR|Flight}}</ref> and it was not much later that they arrived in Rivendell.<ref>{{FR|Meetings}}</ref>
+[[File:Darrell Sweet - The Reforging of the Sword.jpg|thumb|[[Darrell Sweet]] - ''The Reforging of the Sword'']]
+After the Council of Elrond, Aragorn became a member of the [[Fellowship of the Ring]]. As a preparation for his travel, the ancient shards of [[Narsil]], the heirloom of his House, were reforged after 3 millennia. Aragorn carried the Sword Reforged, and renamed it [[Andúril]].<ref name=South>{{FR|South}}</ref>
+
+Aragorn's intentions were to travel with the [[Fellowship of the Ring|company]] for a while before returning to [[Gondor]] with [[Boromir]].<ref name=Farewell>{{FR|Farewell}}</ref> Aragorn encouraged the taking of the [[Caradhras|Redhorn Pass]], which ended in disaster. He conceded to Gandalf’s choice to pass through [[Moria]], but warned Gandalf to be cautious if he entered Moria, because he had a very evil memory from his previous visit to Moria.<ref name=South/> Indeed, after Gandalf fell into the abyss with [[Durin's Bane]], Aragorn was naturally elected leader of the company, despite some resentment by Boromir.<ref>{{FR|Lorien}}</ref>
+
+====Leading the Fellowship of the Ring====
+Aragorn again amazed the rest of the Fellowship by his apparent closeness to the people of [[Lothlórien]], and his friendship with [[Celeborn]] and [[Galadriel]]. At their departure, Galadriel offered him the [[Elfstone]] as a wedding gift from the family of the Elven bride to the groom, foretelling his marriage to Arwen.<ref>{{MR|P3II3}}</ref> It was worn by Aragorn ever after,{{fact}}<!--I've seen this claim made in various places and while it's probably true I can't find a source explicitly stating this (at least in LotR or the Silmarillion--> and from that he later took the name '''Elessar'''.<ref name=Farewell/><ref>{{RK|Houses}}, p. 871</ref>
+
+Even at the [[Rauros|Falls of Rauros]] he was undecided, leaving it to Frodo for the final decision. For though it was obvious he wished to go to [[Minas Tirith]] with Boromir, he yet felt that it was his duty to go where the [[Ring-bearers|Ring-bearer]] chose.<ref>{{FR|Breaking}}</ref>
+
+[[File:Inger Edelfeldt - Death of Boromir.jpg|thumb|200px|right|''Death of Boromir'' by [[Inger Edelfeldt]]]]
+After Frodo escaped him and Boromir perished, he with the remaining members of the Fellowship, namely [[Legolas]] and [[Gimli]], chose to try and save [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] from the [[Uruk-hai]] that had ambushed them, forming the group that would later be known as the [[Three Hunters]].<ref>{{TT|Departure}}</ref>
+
+He met [[Éomer]] in the fields of [[Rohan]], and an instant friendship formed, both feeling the honesty and lordliness of the other. Éomer took a risk for his sake, giving him horses, with the promise that one day Aragorn would return to [[Edoras]].<ref name=riders/> Aragorn, tracking the Hobbits, followed into [[Fangorn Forest]], where he met the resurrected [[Gandalf|Gandalf the White]].<ref>{{TT|White}}</ref> After the restoration of [[Théoden]],<ref>{{TT|King}}</ref> he rode to [[Helm's Deep]] to fight in the [[Battle of the Hornburg]]. There he, alongside his new-found “brother” Éomer, and King Théoden, marshalled the defence against [[Saruman]]’s army. His revealed majesty upon the battlements of the Hornburg as he waited for the dawn caused some of the [[Dunlendings|Wild men]] to pause and shudder, and he heralded the return of Gandalf with [[Erkenbrand]].<ref>{{TT|Deep}}</ref>
+
+After Pippin’s terrifying experience with the [[Orthanc-stone]], Gandalf presented it in a formal manner to Aragorn, its rightful master, who hinted that it would be used by him eventually.<ref>{{TT|Palantir}}, pp. 594-5</ref> After the departure of Gandalf and Pippin to Minas Tirith, he rode for a while longer with Théoden, meeting up with his friend [[Halbarad]] of the North, [[Elladan]] and [[Elrohir]], and a company of staunch and fearless Rangers. Elladan and Elrohir gave him a message from Elrond: "''The days are short. If thou art in haste, remember the [[Paths of the Dead]]''". Halbarad bore a gift from the Lady Arwen – the [[Livery of the heirs of Elendil|standard of Elendil]]. Aragorn knew the path set before him.<ref name=Company/>
+
+====The Return of the King====
+A little while later, Aragorn took his companions and his rangers and set out for [[Dunharrow]], departing from the King’s company. His course was clear: to take the Paths of the Dead, to summon the [[Oathbreakers|Dead Men]]. In Dunharrow, he met the lady [[Éowyn]], who had fallen in love with him. After making it clear that he could not accept her love, he turned towards the evil road with the dawn.<ref name=Company/>
+
+[[File:Ted Nasmith - Thus Came Aragorn.jpg|thumb|right|''Thus Came Aragorn'' by [[Ted Nasmith]]]]
+The [[Grey Company]] passed through the [[Dark Door]] and the [[Dwimorberg]], the Dead following, and coming at last to the [[Stone of Erech]],<ref name=Company/> Aragorn summoned them to his aid. They drew their swords and blew their horns in answer, and swept down upon the [[Corsairs of Umbar|Corsairs]] at [[Pelargir]] and drove the mariners away. Aragorn released them, and took their ships north to Minas Tirith, where the [[Battle of the Pelennor Fields]] raged. The Standard of Elendil broke forth, and his Dúnedain swept down, giving the final blow to the army of [[Gothmog (Lieutenant of Morgul)|Gothmog]]. The counter-attacked army of [[Sauron]] crumbled utterly, but Aragorn did not enter the city.<ref>{{RK|Battle}}</ref><ref name=Debate/>
+
+Aragorn, furling his banner, appointed [[Imrahil]] the temporary lord of the City, as the law demanded. Eventually, however, Aragorn did come to the [[Houses of Healing]], where he tended and restored Merry, Éowyn, and [[Faramir]], in accordance with the prophecy “''The hands of the king are the hands of a healer, and so shall the rightful king be known''”. Many of the people of Minas Tirith came to Aragorn and followed him, asking that he heal those they knew. Aragorn worked late into the night, before finally leaving the city, hooded and cloaked. When in the morning the people saw the banner of [[Dol Amroth]], they wondered if the Return of the King had been but a dream.<ref name="Houses">{{RK|Houses}}</ref>
+
+[[File:Inger Edelfeldt - The Crowning of Aragorn.jpg|thumb|left|''The Crowning of Aragorn'' by [[Inger Edelfeldt]]]]
+Aragorn held [[Last Debate|council]] with his trusted companions, namely Gandalf, Éomer, Imrahil, and Elrond’s sons – Halbarad had fallen in battle. He agreed to draw forth the forces of [[Mordor]] for the benefit of the [[Quest of the Ring]], and so arranged matters for the [[Battle of the Morannon]].<ref name=Debate/> After the destruction of the Ring in [[Mount Doom|Orodruin]] and victory at the [[Black Gate|Morannon]], Aragorn returned at last in the triumphant manner that befitted his position. He was crowned at the gates of Minas Tirith, winning the hearts of the people of [[Gondor]].<ref name="RK|Steward">{{RK|Steward}}</ref>
+
+===Reign as Elessar===
+Aragorn ruled the [[Reunited Kingdom]] of Gondor and Arnor until year {{FoA|120|120}} of the [[Fourth Age]].<ref name=North/>
+
+He pardoned the [[Easterlings]] that had surrendered and made peace with the [[Haradrim]]. He freed the slaves of Mordor and gave them the [[Sea of Núrnen]].<ref>{{RK|Steward}}, p. 968</ref>
+
+Some days after his coronation, Gandalf took Elessar up the slopes of Mount [[Mindolluin]], and there he found the scion of [[Nimloth (tree)|Nimloth]], the symbol of his mastery of the [[Reunited Kingdom]]. Elrond and Arwen came to Gondor and Elrond gave Elessar the [[Sceptre of Annúminas]] signifying the Kingship of Arnor. He wedded Arwen on Midsummer's day of 3019,<ref name=appstewards/> and then was forced to bid his old friends farewell. He turned back to his new kingdom as the Fourth Age dawned and the Ringbearers left the shores of Middle-earth forever.<ref name=Partings/>
+
+One of his first tasks in the re-ordering of his realm was the restoration of [[Orthanc]] and ordered the [[Orthanc-stone]] to be returned there. With this opportunity, many secrets and hoarded treasures were revealed including the [[Star of Elendil|Elendilmir]] which Saruman took from Isildur's body. Elessar received the Elendilmir with reverence and took it with him as he established his full kingship of [[Arnor]].<ref>{{UT|Isen}}</ref>
+
+Elessar gave his [[Steward of Gondor|Steward]] Faramir the title [[Lord of Emyn Arnen]] and created him as [[Prince of Ithilien]].<ref name="RK|Steward">{{RK|Steward}}</ref> He declared the [[Drúadan Forest]] to belong to the [[Drúedain]] and a protected enclave of his Kingdom.<ref name=Partings>{{RK|Partings}}</ref> He also re-established the Great [[Council of Gondor]] whose chief councillor was the Steward.<ref>{{L|244}}</ref> He also renewed the [[Oath of Eorl]] with Éomer.<ref>{{App|Mark}}</ref>
+
+As for [[the Shire]], he declared it a Free Land under the protection of the Northern Sceptre and forbade Men from entering it. He appointed the [[Thain]], the [[Master of Buckland]], and the [[Mayor of Michel Delving]] Counsellors of the North-kingdom. Also he offered to the Shire the [[Westmarch|lands]] up to the [[Tower Hills|Emyn Beraid]].<ref name="later">{{App|Later}}</ref>
+
+He founded the royal [[House of Telcontar]], he had a son, [[Eldarion]], and a number of daughters.<ref name=Tale/>
+[[File:Mithril Miniatures - The Passing of Elessar.jpg|thumb|200px|right|"The Passing of Elessar" - ''[[Mithril Miniatures|Mithril Miniature]]'']]
+King Elessar died after 210 years of life and 122 years of rule and was succeeded by his son Eldarion. His wife Arwen, now mortal, gave up her life shortly afterwards in the year 121, aged 2,901.<ref name=Tale/>
+
+==Characteristics==
+
+===Physical Appearance===
+Aragorn is described as "lean, dark, and tall," with "a shaggy head of dark hair flecked with grey, and in a pale stern face a pair of keen grey eyes."<ref>{{FR|Sign}}, p. 156</ref> [[J.R.R. Tolkien|Tolkien]] later wrote that he was at least 6'6".<ref>{{HM|RC}}, p. 229 (citing a "late, unpublished note").</ref>
+
+===Personality===
+Aragorn held his heritage in high esteem and was willing to commit to a single path in life in the name of love.<ref name="Tale" /> He possessed a nigh indomitable will, as he psychically challenged [[Sauron]] for control of the ''[[Palantíri| palantír]]'' of [[Orthanc]] and proved to be victorious.<ref name="Company">{{RK|Company}}</ref> Yet this will did not prevent him from honoring his own word and the words of his forebears.<ref name="Debate">{{RK|Debate}}</ref> Aragorn was also described as '[[Elves|Elven]]-wise' due to spending his youth in Rivendell with [[Elrond]] as well as learning from [[Gandalf]].<ref name="Tale" />
+
+===Weapons and skills===
+Aragorn wielded [[Andúril]], the sword re-forged from the shards of [[Narsil]] as his weapon of choice throughout the [[War of the Ring]].<ref>{{FR|South}} "Aragorn had Andúril but no other weapon."</ref> He was an extremely capable swordsman, as he was able to survive the [[Battle of the Pelennor Fields]] unscathed along with [[Éomer]] and [[Imrahil]].<ref>{{RK|Battle}}</ref> He was also a capable military tactician, as during that same battle, he was able to reinforce the [[Rohirrim]] and hit the weakest point of the army of [[Mordor]], along with taking time to rearrange his army's positions during the [[Battle of the Morannon]].<ref>{{RK|Gate}}</ref> He was also a skilled healer, most notably with the herb [[Athelas]], as he was able to heal [[Faramir]] and [[Éowyn]] of their wounds,<ref name="Houses" /> as well as slow down the effects of the [[Morgul-knife]] used to stab [[Frodo Baggins|Frodo]] on [[Weathertop]].<ref name=Flight/> 
+
+==Etymology==
+{{Pronounce|Aragorn Elessar.mp3|Ardamir}}
+'''''Aragorn''''' is a [[Sindarin]] name, which means "revered king".<ref>{{PE|17}}, p. 31 entry S ''Ara(n)gorn''</ref><ref name="PE17Turgond">{{PE|17}}, p. 113 entry S '''Turgond-'''</ref> It contains the phonetic reduction ''ara'' of ''[[aran]]'' ("king") and the adjective ''[[gorn|(n)gorn]]'' ("dreaded, revered").<ref name="PE17Turgond" />
+
+The [[Quenya]] form of ''Aragorn'' was '''''Arakorno'''''.<ref name="WP">{{PE|17}}, p. 70 f. entry Q '''ar''' in the translation of the sentence into Quenya ''Sanome tarne Olórin, Arakorno, [...]''</ref>
+
+==Other names==
+*'''Aragorn II''' - Aragorn's name as [[Chieftain of the Dúnedain]]. He was possibly named after [[Aragorn I]].
+*[[Thorongil]] - [[Sindarin|S]] "Eagle of the Star", a pseudonym used in [[Gondor]] and [[Rohan]].<ref name=appstewards/> Pronounced {{IPA|[θoˈroŋɡil]}}.
+*'''Elessar''' - [[Quenya|Q]] "Elfstone", Aragorn's name as a king. Despite popular use as such, Aragorn was never known as "Aragorn Elessar", "Aragorn II Elessar" or "King Aragorn". Pronounced {{IPA|[eˈlesːar]}}.
+*'''Edhelharn''' - The [[Sindarin]] equivalent of Elessar, used in the King's Letter.<ref>{{SD|XI2}}, p. 128ff</ref> '''Edhelharn''' is the [[Sindarin]] word for [[Elfstone]] ([[Quenya|Q]]. ''[[Elessar]]''). Derived from the words ''[[edhel]]'' "elf" and ([[Lenition|lenited]]) ''[[sarn]].'' Pronounced {{IPA|[eˈðel.harn]}}.
+*[[Elfstone]] - The [[Westron|Common Speech]] version of the previous two.
+*''Envinyatar'' - [[Quenya|Q]] "the Renewer". This title was claimed by Aragorn after the Battle of the Pelennor Fields.<ref>{{RK|Houses}}, p. 803</ref> It referred to the prophecy that he would renew the hope of the Dúnedain by reuniting the Two Kingdoms.<ref group="note">It is unknown whether he continued to use this name, or if it was ever used in any official capacity as there are no further references to this name after the Battle of Pelennor Fields.</ref>
+*[[Estel]] - [[Quenya|Q]]. Usually glossed as "Hope", the concept ''estel'' more widely means "hope, trust, a temper of mind, steady fixed in purpose, and difficult to dissuade and unlikely to fall into despair or abandon its purpose". Pronounced {{IPA|[ˈestel]}}.
+*Strider - A sobriquet given by the men of [[Bree]].<ref>{{FR|Sign}}, p. 205</ref> The Hobbits frequently referred to him as initially "Mr. Strider",<ref>{{FR|Strider}}, p. 214</ref><ref>{{FR|Knife}}, p. 247</ref> and later just "Strider".<ref>{{FR|Lorien}}, p. 448</ref><ref>{{RK|Muster}}, p. 797</ref>
+*'''Wingfoot''' - An honorary name given by [[Éomer]] after the pursuit of the [[Uruk-hai]] through the [[Eastemnet]].<ref name=riders>{{TT|III2}}</ref>
+Telcontar - A [[Quenya]] form of "Strider", this was the name of [[House of Telcontar|Elessar's Royal House]]. It was not used independently.  Pronounced {{IPA|[telˈkontar]}}.
+*[[Heir of Isildur|Isildur's Heir]] - A poetic address, as he was the heir of [[Isildur]].
+*'''The Dúnadan''' - "[[Dúnedain|Man of the West]]", a name used in Rivendell,<ref>{{FR|Meetings}}, p. 303</ref> and frequently used by [[Bilbo Baggins]].<ref>{{FR|Meetings}}, pp. 301, 303, 308</ref>
+*'''Longshanks''' - another, though less frequently used, sobriquet in Bree, ascribed to [[Bill Ferny]].<ref>{{FR|Knife}}, p. 236</ref> The legs of the [[Bree-landers|Bree-men]] were shorter than the legs of the [[Dúnedain]].
+*'''Arakorno''' - A rare Quenya form of Aragorn, which only appeared in a discussion about the words for Quenya.<ref name="WP" /> Pronounced {{IPA|[ˌaraˈkorno]}}.
+
+==Genealogy==
+This is an abbreviated family tree; see '''''[[Ancestry of Aragorn II]]''''' for Aragorn's full line of descent.
+{{familytree/start}}
+{{familytree | | | COD | | | | | | | | | | |COD=<small>''[[Chieftain of the Dúnedain|Chieftains of the Dúnedain]]''</small>}}
+{{familytree | | | |:| | | | | | | | | | | |}}
+{{familytree | | | ART |y| GIL | | | | | | |ART=[[Arathorn II]]<br/><small>''2873-2933'' †</small>|GIL=[[Gilraen]]<br/><small>''2907-3007''</small>}}
+{{familytree | | | | | |!| | | | | | | | | |}}
+{{familytree | | | | | ARA |y| ARW | | | | |ARA='''ARAGORN '''<br/><small>''2931-FoA 120''</small>|ARW=[[Arwen]]<br/><small>''TA 241-FoA 121''</small>}}
+{{familytree | | | | | |,|-|^|-|.| | | | | |}}
+{{familytree | | | | | ELD | | SDS | | | | |ELD=[[Eldarion]]<br/><small>''FoA 1-220''</small>|SDS=''several daughters''<ref name="Tale"/>}}
+{{familytree/end}}
+===Relation to Arwen===
+Arwen was a very distant cousin of Aragorn. By their marriage, the long-sundered lines of the [[Half-elven]] were joined.<ref name="Numenor">{{App|A1i}}</ref> Their union also served to unite and preserve the bloodlines of the kings of the three kindreds of the High Elves ([[Ingwë]], [[Finwë]], and brothers [[Thingol|Elwë]], [[Olwë]], and [[Elmo]]) as well as the only line with [[Maiar]]in blood through Arwen's great-great-grandmother, [[Melian]]. There were at least two marriages between descendants of Elendil in Aragorn's ancestry, so Aragorn was related to Arwen by blood along at least three lines.
+
+Through his father, Arathorn II, Aragorn was Arwen's first cousin sixty-two times removed through his ancestor Arvedui and sixty-seven times removed through his ancestor Fíriel. Both of these lines descend through four generations of the Kings of Númenor,<ref name="Numenor" /> Silmariën, eighteen generations of the Lords of Andúnië,<ref>{{UT|Kings}}</ref> and Elendil, as well as Aranarth and fifteen succeeding generations of the Chieftains of the Dúnedain,<ref name="North">{{App|North}}</ref> including Aragorn himself. Aragorn's mother Gilraen was also descended from Aranarth,<ref name="North" /> but the number of generations between them is unknown.
+
+==Other versions of the legendarium==
+In the earliest unpublished versions of ''[[The Lord of the Rings]]'' (see ''[[The History of The Lord of the Rings]]''), the character that later became Aragorn was called '''''[[Trotter]]''''' instead of Strider, and was a [[Hobbits|Hobbit]] instead of a [[Men|Man]]. He had wooden feet, because he had once travelled to Mordor and been tortured there with the character envisioned as a relative of Bilbo and Frodo. This name would carry over when the character was revised into a man and would remain in use for much of the book's composition. During the writing of the latter portions of Book II, Tolkien would temporarily rename the character, ''[[Elfstone]]'' on the proposition that a man should not have an Elvish name. Another name considered was ''[[Ingold]].''<ref name="comp">{{HM|RC}}, p. XXII and p. XXIV</ref>
+
+In the first edition of ''The Lord of the Rings'', Aragorn's year of death was S.R. 1521. The month and day of his death and the year in the reckoning of Gondor were not stated.<ref>{{HM|RC}}, p. 722</ref>
+
+==Portrayal in adaptations==
+===Aragorn in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Sagan om Ringen - Aragorn.png|Aragorn in ''[[Sagan om Ringen (1971 film)|Sagan om Ringen]]''
+File:War in Middle Earth - Aragorn and Frodo against a Nazgul.png|Aragorn with [[Frodo Baggins|Frodo]] in ''[[J.R.R. Tolkien's War in Middle Earth]]''
+File:The Lord of the Rings (1978 film) - Strider.jpg|Strider in [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+File:The Return of the King (1980 film) - Aragorn.jpg|Aragorn in [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]
+File:The Lord of the Rings (film series) - Aragorn.jpg|Aragorn in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Aragorn.JPG|Aragorn in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+File:The Lord of the Rings Online - Aragorn.jpg|Aragorn in ''[[The Lord of the Rings Online]]''
+File:2011-12-23 00061.jpg|Aragorn in ''[[The Lord of the Rings: War in the North]]''
+File:LEGO Aragorn poster.png|Aragorn as a ''[[Lego]] mini figure''
+File:The Lord of the Rings Heroes of Middle earth-Aragorn.png|Aragorn in ''[[The Lord of the Rings: Heroes of Middle-earth]]'''
+</gallery>
+
+===Films===
+'''1971: [[Sagan om Ringen (1971 film)|''Sagan om Ringen'' (1971 film)]]:'''
+:Aragorn meets the Hobbits at the ''[[Prancing Pony]] Inn'' and joins them after a letter from Gandalf confirmes he is trustworthy. On the way to [[Bree]], they meet with [[Glorfindel]] who heals [[Frodo Baggins|Frodo]] and gifts him [[Asfaloth]]. Aragorn arrives at [[Rivendell]] and participates in the [[Council of Elrond]]. He was chosen as the representative for the race of [[Men]] in the [[Fellowship of the Ring]]. He departed from Rivendell second, after [[Gandalf]].
+'''1978: ''[[The Lord of the Rings (1978 film)]]'':'''
+:The voice of Aragorn is provided by [[John Hurt]]. Some critics have commented that he looks Native American.<ref>{{webcite|author=Conrad Brunstrom|articleurl=https://conradbrunstrom.wordpress.com/2023/12/21/tolkien-and-diverse-casting-the-1978-animated-lord-of-the-rings/|articlename=Tolkien and Diverse Casting. The 1978 animated Lord of the Rings|dated=21 December 2023|website=[https://conradbrunstrom.wordpress.com/ Conradbrunstrom.wordpress.com]|accessed=11 March 2024}}</ref>
+
+'''1980: ''[[The Return of the King (1980 film)]]'':'''
+:Aragorn was voiced by [[Theodore Bikel]] in the 1980 [[Rankin/Bass]] animated film. His role is dramatically reduced to a handful of scenes and there is no mention of any previous involvement with the [[Fellowship of the Ring]].
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Aragorn is played by [[Viggo Mortensen]], though [[Stuart Townsend]] was originally cast in the role. Townsend was deemed too young and parted ways with the production over creative differences. Mortensen had just two weeks to train for his first scene, the standoff with the [[Nazgûl]] at [[Weathertop]]. In a notable departure from the source material, Aragorn, due to his lineage including those who fell to the temptation of evil (namely [[Isildur]]), is riddled with anxiety and self-doubt regarding his place as king of Gondor. He is also portrayed as wary of Men's strength and potential, likely owing to being raised among Elves. Nonetheless, he promises a dying [[Boromir]] that he will not let [[Minas Tirith]] fall. He also claims Boromir's bracers (which have emblems of the [[White Tree of Gondor|White Tree]]), which symbolise a gradual acceptance of his heritage.
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Aragorn's part in this film is largely similar to the events in the book. The most significant difference is that, in the book, there was no [[Wargs|Warg]] attack on the party travelling to Helm's Deep and Aragorn did not fall down a cliff.
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Aragorn finally steps into his role as king after having a lot of self-doubt beforehand.
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:Although he is not physically present, he is mentioned by [[Thranduil]] to his son, [[Legolas]]. Thranduil tells Legolas to seek a young ranger known as "Strider" and that Legolas would have to discover Strider's true name for himself. In the continuity of the films, Aragorn would have been 27 rather than a ten-year-old child.
+
+===Television===
+'''1993: ''[[Hobitit]]'':'''
+:Aragorn is portrayed by [[Kari Väänänen]], the same actor who played [[Gollum]] in the series.
+
+===Radio series===
+'''1955: [[The Lord of the Rings (1955 radio series)|''The Lord of the Rings'' (1955 radio series)]]:'''
+:The voice of Aragorn is provided by [[Godfrey Kenton]].
+
+'''1979: [[The Lord of the Rings (1979 radio series)|''The Lord of the Rings'' (1979 radio series)]]:'''
+:The voice of Aragorn is provided by [[Tom Luce]].
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Aragorn was voiced by [[Robert Stephens]].  For his early scenes, according to [[John McAndrew]] (Pippin), Stephens adopted an accurate Bristol accent to help suggest the disguise Strider adopted in Bree.
+
+'''2001-2003: ''[[Pán prsteňov]]'':'''
+:The voice of Aragorn is provided by Boris Farkaš.
+
+===Games===
+'''1988: ''[[J.R.R. Tolkien's War in Middle Earth]]'':'''
+:Aragorn is a playable character. He has brown hair and is bearded, he bears a golden sword.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:[[Daran Norris]] provided the voice of Aragorn, who is one of the three playable characters.
+
+'''2002: [[The Lord of the Rings: The Two Towers (video game)|''The Lord of the Rings: The Two Towers'' (video game)]]:'''
+:Aragorn is one of the three playable characters, as well as narrator for most of the game. He is versatile in both melee and ranged attacks. Viggo Mortensen reprises his role from the film trilogy.
+
+'''2003: [[The Lord of the Rings: The Return of the King (video game)|''The Lord of the Rings: The Return of the King'' (video game)]]:'''
+:Aragorn is a playable character. His storyline is dubbed "Path of a King". He journeys through Paths of the Dead with Legolas and Gimli, later they fight on Pelennor fields and at the Black Gate. Chris Edgerly takes over for Mortensen as Aragorn's voice actor.
+
+'''2003: ''[[The Lord of the Rings: War of the Ring|Sierra's War of the Ring]]'':'''
+:Aragorn is a Hero Unit for the Free People side. He is present in Lothlorien, the Battle of Hornburg and the Siege of Minas Morgul.
+
+'''2004: ''[[The Lord of the Rings: The Battle for Middle-earth]]'':'''
+:Aragorn is a Hero Unit for the Rohan faction in skirmishes. He also accompanies the Fellowship in the storyline mode.
+
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Aragorn is now the Hero for the Men of the West faction.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:In the Prologue, Aragorn saves Men/Hobbit characters from brigands, but is forced to leave soon, as he has to intercept Frodo in Bree. Later arriving at the Prancing Pony, the characters meet him again and help him look in the surrounding area for Hobbits, who did not arrive in time. When the player returns, Aragorn and the Hobbits have already departed, and their next meeting is in Rivendell, where Aragorn entrusts the player with defence of the North while the Fellowship is gone. Later, in [[Lothlórien]], Aragorn is seen residing in [[Caras Galadhon]].
+
+'''2009: ''[[The Lord of the Rings: Conquest]]'':'''
+:Aragorn is a playable hero available in several missions in the War of the Ring campaign.
+
+'''2011: ''[[The Lord of the Rings: War in the North]]'':'''
+:Aragorn is an important character of the game, and is mentioned as one of the much honoured heroes of the [[War of the Ring]] in the introduction of the game.<ref name="Prologue">[[The Lord of the Rings: War in the North]], ''Prologue''</ref>
+:He is a friend of two of the game's main characters, [[Eradan (video game character)|Eradan]] and [[Andriel]]. Aragorn had met [[Andriel]] during his visits at [[Rivendell]],<ref name="Backstory Andriel">{{webcite|author=|articleurl=http://www.warinthenorth.com/the-game/heroes/backstory#elfAnchor|articlename=Elven Character: Andriel's History|dated=|website=War in the North|accessed=25 December 2011}}</ref> while he had met Eradan, when he served as Ranger at Sarn Ford. Aragorn was impressed by his skills and bravery, and taught him much about tracking. Eradan was a companion of Aragorn on many of his journeys. Aragorn trusted Eradan much, though he never told him what the reason was behind the protection of [[the Shire]].<ref>{{webcite|author=|articleurl=http://www.warinthenorth.com/the-game/heroes/backstory#dunedainAnchor|articlename=Human Character: Eradan's History|dated=|website=War in the North|accessed=24 December 2011}}</ref>
+
+:Eradan, Andriel and [[Farin (video game character)|Farin]] meet Aragorn in the Prancing Pony to warn him, on Halbarad's request, after the Nazgûl attacked and defeated the [[Rangers of the North|Rangers]] at [[Sarn Ford]], and entered the Shire. They also tell him about a conversation between the Witch-king and [[Agandaûr]], which the three heroes overheard shortly after the attack. Agandaûr summoned the [[Orcs of the Misty Mountains]] and assembled an army in [[Fornost]], which planned to aid the Nazgûl in their search for [[the One Ring]]. Aragorn sends Eradan, Andriel and Farin to Fornost, to stop Agandaûr and his army.<ref name="Prologue" /> While Eradan, Andriel, Farin, [[Elladan]] and [[Elrohir]] stopped Agandaûr's army,<ref>[[The Lord of the Rings: War in the North]], ''Chapter 1: Fornost''</ref> Aragorn met with [[Frodo Baggins]] and left Bree.<ref>[[The Lord of the Rings: War in the North]], ''Chapter 2: The Barrow Downs'', Bree</ref>
+
+'''2012: ''[[Lego|Lego The Lord of the Rings]]'':'''
+:A mini figure of Aragorn is included in the [[Lego#Sets|sets]] "Attack at Weathertop", "The Battle of Helm's Deep", "The Battle at the Black Gate", and "The Pirate ship Ambush".<ref name="2012 sets">{{webcite|author=Calisuri|articleurl=http://www.theonering.net/torwp/2012/02/12/53563-more-lord-of-the-rings-lego-details-from-toy-fare-2012/|articlename=More Lord of the Rings LEGO Details from Toy Fare 2012|dated=12 February 2012|website=TORN|accessed=18 February 2012}}</ref>  In [[2012]]'s ''[[Lego The Lord of the Rings: The Video Game]]'', Aragorn joins the rest of the [[Fellowship of the Ring|Fellowship]] in traveling to the [[Grey Havens]] to bid Frodo and Gandalf farewell.
+'''2023: ''[[The Lord of the Rings: Heroes of Middle-earth]]'':'''
+:Aragorn is included as a playable character in the specific video game.
+
+==See also==
+*'''[[Timeline of Aragorn]]'''
+*[http://dare.ubvu.vu.nl/bitstream/1871/10975/1/Aragorn_Final.pdf "Aragorn Seen Through Different Media"] by [[Connie Veugen]] compares the introduction of Strider in Ralph Bakshi's film, the 1981 BBC radio play, Peter Jackson's film, and [[Vivendi]]'s ''The Fellowship of the Ring'' [[The Lord of the Rings: The Fellowship of the Ring (video game)|video game]]''.''
+
+{{references|notes}}
+{{DEFAULTSORT:Aragorn}}
+
+==Titles==
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=Founder of the [[House of Telcontar]]<small><br/>Continuation of the [[House of Isildur]]</small>
+| born=[[1 March]], {{TA|2931}}
+| died=[[1 March]], {{FoA|120}}
+}}
+{{seq
+| prow=2
+| prev=[[Arathorn II]]
+| list=16th [[Chieftain of the Dúnedain]]
+| dates={{TA|2933}} – [[1 May]], {{TA|3019|n}}
+| next=Position abolished
+| nvac=None
+}}
+{{seq
+| list=39th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2933}} - [[1 March]], {{FoA|120}}
+| next=[[Eldarion]]
+}}
+{{seq
+| prev=[[Gandalf]]
+| list=Leader of the [[Fellowship of the Ring]]
+| dates=[[15 January]] - [[22 August]], {{TA|3019}}
+| next=Position abolished
+| nvac=None
+}}
+{{seq
+| pvac=Vacant
+| prev=Last held by:<br/>'''[[Eärnur]]''', 969 years earlier
+| list=34th [[King of Gondor]]
+| dates=[[1 May]], {{TA|3019}} – [[1 March]], {{FoA|120}}
+| next=[[Eldarion]]
+| nrow=4
+}}
+{{seq
+| pvac=Vacant
+| prev=Last held by:<br/>'''[[Eärendur (King of Arnor)|Eärendur]]''', 2,158 years earlier
+| list=11th [[King of Arnor]]
+| dates=[[1 May]], {{TA|3019}} – [[1 March]], {{FoA|120}}
+}}
+{{seq
+| pvac=Vacant
+| prev=Last held by:<br/>'''[[Isildur]]''', 3,017 years earlier
+| list=1st [[High King (Dúnedain)|High King]] of the [[Reunited Kingdom]]
+| dates=[[1 May]], {{TA|3019}} – [[1 March]], {{FoA|120}}
+}}
+{{seq
+| pvac=None
+| prev=New title
+| list=Head of the [[House of Telcontar]]
+| dates=[[1 May]], {{TA|3019}} – [[1 March]], {{FoA|120}}
+}}
+{{seq-end}}
+
+{{councilofelrond}}
+{{fellowship}}
+{{FellowshipRoute}}
+{{northernline}}
+{{southernline}}
+{{lordoftheringsfilms}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Characters in The Silmarillion]]
+[[Category:Chieftains of the Dúnedain]]
+[[Category:Fourth Age characters]]
+[[Category:House of Isildur]]
+[[Category:House of Telcontar]]
+[[Category:Mariners]]
+[[Category:Rulers of Arnor]]
+[[Category:Rulers of Gondor]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Aragorn II.]]
+[[fi:Aragorn II]]
+[[fr:/encyclo/personnages/hommes/3adunedain/dunedain_du_nord/aragorn_ii]]

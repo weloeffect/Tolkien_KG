@@ -1,0 +1,47 @@
+{{Merge|Warden of the Houses of Healing}}
+{{Unnamed}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Herb-master
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Minas Tirith]] ([[Houses of Healing]])
+| affiliation=
+| language=[[Westron]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+<center>{{quote|If your pack has not been found, then you must send for the herb-master of this House. And he will tell you that he did not know that the herb you desire had any virtues, but that it is called ''westmansweed'' by the vulgar, and ''galenas'' by the noble ... and after adding a few half-forgotten rhymes that he does not understand, he will regretfully inform you that there is none in the House, and he will leave you to reflect on the history of tongues.|[[Aragorn]] to [[Merry]] in ''[[The Return of the King]]'', "[[The Houses of Healing]]"}}</center>
+
+The '''herb-master''' was a title given to an unnamed character who served in the [[Houses of Healing]] in [[Minas Tirith]]. He was well-versed in herb-lore, particularly the many names given to different plants, as well as their uses. He disapproved of the [[When the black breath blows|old rhymes]] still repeated by the older women such as [[Ioreth]], referring to such verses as garbled and doggerel. When [[Aragorn]] sent Ioreth to acquire ''[[athelas]]'' for use in healing those suffering from the [[Black Shadow]], she apparently notified the herb-master, who arrived and proceeded to irritate both Aragorn and [[Gandalf]] by listing off various names of the plant they sought, before eventually declaring that there was none kept in the Houses of Healing, on account of its not having any virtues known to the [[Gondorians]], save for its mention in the [[When the black breath blows|black breath verse]], which he thought likely to be meaningless. Gandalf, in his irritation, sent him to find "some old man of less lore and more wisdom" who still kept ''athelas''. Aragorn, also annoyed, later made a joking remark about the herb-master's unhelpful tendencies to [[Merry]], who had misplaced the pack containing his [[pipeweed]].<ref name="RK">{{RK|V8}}, pp. 863-870</ref>
+
+The character of the herb-master appears much the same in the earlier drafts of [[The Houses of Healing]], aside from the fact that some of the herb-names which he mentions were later altered by [[Tolkien]] (e.g., ''asea aranaite'' to ''[[asëa aranion]]'').<ref name="chapter">{{WR|3|XI}}, pp. 394, 396</ref>
+
+{{references}}
+{{DEFAULTSORT:Herb-master}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Gondorians]]
+[[Category:Mannish titles]]
+[[Category:Positions and occupations]]
+[[Category:Third Age characters]]

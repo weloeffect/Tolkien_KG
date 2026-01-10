@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Estelmo
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Esquire to [[Elendur (son of Isildur)|Elendur]]
+| location=
+| affiliation=
+| language=
+| birth=Late [[Second Age]]
+| birthlocation=
+| rule=
+| death=Early [[Third Age]]
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Estelmo''' was the squire to [[Isildur]]'s eldest son [[Elendur (son of Isildur)|Elendur]].
+
+==History==
+In {{TA|2}}, Estelmo accompanied Elendur and Isildur north along the eastern slopes of the [[Misty Mountains]]. They were [[Disaster of the Gladden Fields|ambushed]] by [[Orcs]], and after a blow to the head Estelmo was believed dead. Stunned, the young man survived and was found under Elendur's body.  Estelmo recuperated, and was one of only three [[Men]] to survive the Disaster in which Isildur and [[the One Ring]] were lost. He was able to report the words of Isildur and Elendur when they parted.<ref>{{UT|Gladden}}, p. 276</ref>
+
+==Etymology==
+''Estelmo'' is clearly [[Quenya]]. Although it is not glossed, [[Paul Strack]] explains it could mean "Hope-person", from ''[[estel]]'' ("hope") + ''[[-mo]]'' (agental suffix).<ref>{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-3364990369.html|articlename=Q. ''Estelmo'' m.|website=Eldamo|accessed=27 January 2023}}</ref>
+
+{{references}}
+[[Category:Dúnedain]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Estelmo]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/estelmo]]
+[[fi:Estelmo]]

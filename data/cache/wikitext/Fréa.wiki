@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Fréa
+| image=Lída Holubová - The House of Eorl - Frea.jpg
+| caption="The House of Eorl - Frea" by [[:Category:Images by Lída Holubová|Lída Holubová]]
+| pronun=
+| othernames=
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2570}}
+| birthlocation=
+| rule={{TA|2645}} - {{TA|2659|n}}
+| death={{TA|2659}} (89)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Aldor]]
+| siblings=Three unnamed older sisters<ref name="Mark"/><br/>At least one younger brother<ref name="Mark"/>
+| spouse=
+| children=[[Fréawine]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Fréa''' ([[Third Age]] 2570 – 2659, aged 89 years) was the fourth of the Kings of [[Rohan]]. 
+
+==History==
+Fréa was the great-grandson of [[Eorl the Young]], and succeeded the long-lived [[Aldor]]. He was already seventy-five years old when he came to the throne. His fourteen-year reign is recorded as one of peace and prosperity.<ref name="Mark">{{App|Mark}}</ref>
+
+==Etymology==
+''Fréa'' means "lord" or "master" in [[Old English]].<ref name="RC">{{HM|RC}}, p. 643</ref><ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/12198|articlename=FREÁ|accessed=24 July 2025}}</ref> The element ''Fréa'' appears also in the names [[Fréaláf]] and [[Fréawine]].<ref name="RC"/>
+
+Fréan is also the name that [[Ælfwine|Eriol]] gave to the Valar in his Old English "translation" of the ''[[Quenta Silmarillion]]''.<ref>{{SM|QA1}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | BRE | | | | |BRE=[[Brego]]<br/><small>''{{TA|2512|n}} - {{TA|2570|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | BAL | | ALD | | EOF |BAL=[[Baldor]]<br/><small>''d. {{TA|2570|n}}''†</small>|ALD=[[Aldor]]<br/><small>''{{TA|2544|n}} - {{TA|2645|n}}''</small>|EOF=[[Eofor]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|(| | | | | |}}
+{{familytree | DAU | | FRE | | | | |DAU=''three daughters''<br/><small>''unknown''</small>|FRE='''FRÉA'''<br/><small>''{{TA|2570|n}} - {{TA|2659|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | FRE | | | | |FRE=[[Fréawine]]<br/><small>''{{TA|2594|n}} - {{TA|2680|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | GOL | | | | |GOL=[[Goldwine]]<br/><small>''{{TA|2619|n}} - {{TA|2699|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2570}}
+| died={{TA|2659}}
+}}
+{{seq
+| prev=[[Aldor]]
+| list=4th [[Kings of Rohan|King of Rohan]]
+| dates={{TA|2645}} - {{TA|2659|n}}
+| next=[[Fréawine]]
+}}
+{{seq-end}}
+{{rohankings}}
+{{DEFAULTSORT:Frea}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Fréa]]
+[[fi:Fréa]]

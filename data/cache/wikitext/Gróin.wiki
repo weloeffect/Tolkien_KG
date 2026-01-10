@@ -1,0 +1,70 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Gróin
+| image=The Lord of the Rings Online - Gróin.jpg
+| caption=Gróin in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Lonely Mountain]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2671}}
+| birthlocation=[[Lonely Mountain]]
+| rule=
+| death={{TA|2923}}
+| deathlocation=
+| age=252
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Farin]]
+| siblings=[[Fundin]]
+| spouse=
+| children=[[Óin]], [[Glóin]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gróin''' ([[Third Age]] {{TA|2671|n}} - {{TA|2923|n}}, 252 years old) was a Dwarf of the [[Longbeards]].
+
+==History==
+Gróin was an important figure in the royal genealogies of the [[Dwarves]], Gróin was the grandson of [[Borin]], the younger son of King [[Náin II]], and so could claim direct descent from [[Durin|Durin the Deathless]] himself. In his turn, Gróin was the younger brother of [[Fundin]], father to [[Óin]] and [[Glóin]], and uncle to [[Balin]] and [[Dwalin]], all four of whom travelled on the [[Quest of Erebor]].<ref>{{App|Durin}}</ref>
+
+Through his son Glóin, he was also grandfather to [[Gimli|Gimli Elf-friend]] of the [[Fellowship of the Ring|Company of the Ring]]. For all his genealogical importance, though, we know almost nothing of his life. His dates of birth and death, though, show us that he was alive at the time of [[Smaug]]'s [[Sack of Erebor]], and the [[War of the Dwarves and Orcs]] twenty-nine years later. It is likely that he was present at both these events.
+
+==Etymology==
+[[Jim Allan]] has suggested that ''Gróin'' (like ''[[Grór#Etymology|Grór]]'') is derived from [[Old Norse]] ''gróa'' ("to grow"), thus meaning "Growing-one".<ref>[[Jim Allan]], "Giving of Names", in ''[[An Introduction to Elvish]]'', p. 225</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | | NAI | | | | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| |,|-|-|-|-|^|-|-|-|-|.| | | | | | | |}}
+{{familytree| DAI | | | | | | | | BOR | | | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>| BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| |!| | | | | | | | | |!| | | | | | | |}}
+{{familytree| THR | | | | | | | | FAR | | | | | | |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FAR=[[Farin]]<br/><small>''{{TA|2560|n}} - {{TA|2803|n}}''</small>}}
+{{familytree| |!| | | | | |,|-|-|-|^|-|-|-|.| | | |}}
+{{familytree| THR | | | | FUN | | | | | | GRO | | |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO='''GRÓIN'''<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree| |!| | | |,|-|^|-|.| | | |,|-|^|-|.| |}}
+{{familytree| THO | | BAL | | DWA | | OIN | | GLO |THO=[[Thorin]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|BAL=[[Balin]]<br/><small>''{{TA|2763|n}} - {{TA|2994|n}}''†</small>|DWA=[[Dwalin]]<br/><small>''{{TA|2772|n}} - {{FoA|91}}''</small>|OIN=[[Óin]]<br/><small>''{{TA|2774|n}} - {{TA|2994|n}}''†</small>|GLO=[[Glóin]]<br/><small>''{{TA|2783|n}} - {{FoA|15}}''</small>}}
+{{familytree| | | | | | | | | | | | | | | | | |!| |}}
+{{familytree| | | | | | | | | | | | | | | | | GIM |GIM=[[Gimli]]<br/><small>''{{TA|2879|n}} - {{FoA|120}}+''}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2021: ''[[The Lord of the Rings Online]]'':'''
+:Gróin appears in an extended flashback depicting the [[Battle of Azanulbizar]], in which he fights alongside his sons [[Óin]] and [[Glóin]] and the rest of [[Farin]]'s kin.
+
+{{references}}
+{{DEFAULTSORT:Groin}}
+[[Category:Dwarves]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Gróin]]
+[[fi:Gróin]]
+[[fr:encyclo/personnages/nains/3a/groin]]

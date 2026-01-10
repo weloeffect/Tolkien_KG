@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Dodinas Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth=between {{SR|1308}} and {{SR|1313}}
+| birthlocation=
+| rule=
+| death=c. {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gorbadoc Brandybuck]] and [[Mirabella Took]]
+| siblings=[[Rorimac Brandybuck|Rorimac]], [[Amaranth Brandybuck|Amaranth]], [[Saradas Brandybuck|Saradas]], [[Asphodel Brandybuck|Asphodel]], [[Dinodas Brandybuck|Dinodas]] and [[Primula Brandybuck|Primula]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Dodinas Brandybuck''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Dodinas was the fourth child of [[Gorbadoc Brandybuck]] and [[Mirabella Took]], born between {{SR|1308}} and {{SR|1313}}. He seems to have died before {{SR|1401}} as he was not present at [[Bilbo Baggins|Bilbo's]] [[Bilbo's Farewell Party|Farewell Party]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Dodinas'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+In Malory's ''Le Morte Darthur'' a Knight of the Round Table is called ''Dodynas le Saveage''. In editions with modernized spelling he is called ''Dodinas''. He is called ''Doddinaual de Sauage'' in ''[[Sir Gawain and the Green Knight (poem)|Sir Gawain and the Green Knight]]''.<ref>{{HM|IE}}, "Giving of Names", "The Celtic-sounding Names", p. 202</ref>
+
+{{references}}
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Dodinas Brandybock]]
+[[fi:Dodinas Rankkibuk]]
+[[fr:encyclo:personnages:hobbits:brandebouc:dodinas brandebouc]]

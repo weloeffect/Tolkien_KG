@@ -1,0 +1,96 @@
+{{disambig-two|the tenth [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]|seventh Chieftain|[[Arahad I]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arahad II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2563}}
+| birthlocation=
+| rule={{TA|2654}} - {{TA|2719|n}}
+| death={{TA|2719}}
+| deathlocation=
+| age=156
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Aravorn]]
+| siblings=
+| spouse=
+| children=[[Arassuil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arahad II''' ({{TA|2563}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2719|n}},<ref name="North">{{App|North}}</ref> died aged 156) was the tenth [[Chieftain of the Dúnedain]], following his father, [[Aravorn]], when he died in {{TA|2654|n}}.
+
+==History==
+During his chieftainship, the [[hobbits]] of [[the Shire]] flourished under the protection of the [[Rangers of the North|Rangers]], with [[Tobold Hornblower]] planting the first [[pipe-weed]] in the [[Southfarthing]], and the tenth Thain, [[Isengrim Took II]], started digging the [[Great Smials]].<ref>{{App|TA}}</ref>
+
+Arahad died in {{TA|2719|n}}, after having ruled for 65 years, and was followed by his son, [[Arassuil]].<ref name="North"/>
+
+==Etymology==
+The etymology of Arahad's name is uncertain, but it is likely that he was named after his great-grandfather, [[Arahad I]]. For a discussion on the meaning of the name, see [[Arahad I#Etymology|Arahad I - Etymology]].
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Aragost]]<br/><small>''{{TA|2431|n}} - {{TA|2588|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aravorn]]<br/><small>''{{TA|2497|n}} - {{TA|2654|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARAHAD II'''<br/><small>''{{TA|2563|n}} - {{TA|2719|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arassuil]]<br/><small>''{{TA|2628|n}} - {{TA|2784|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arathorn I]]<br/><small>''{{TA|2693|n}} - {{TA|2848|n}}''†</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an early manuscript Arahad's name was "Arangar".<ref>{{PM|Elendil}}, Commentary, p. 211</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2563}}
+| died={{TA|2719}}
+}}
+{{seq
+| prow=2
+| prev=[[Aravorn]]
+| list=33rd [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2654}} - {{TA|2719}}
+| next=[[Arassuil]]
+| nrow=2
+}}
+{{seq
+| list=10th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2654}} - {{TA|2719}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Chieftains of the Dúnedain]]
+[[Category:Third Age characters]]
+
+[[de:Arahad II.]]
+[[fi:Arahad II]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/arahad ii]]

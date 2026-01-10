@@ -1,0 +1,66 @@
+{{disambig-more|Rose|[[Rose (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rosa Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]]
+| affiliation=
+| language=
+| birth={{SR|1256}}<ref>{{App|Baggins}}</ref>
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family]]
+| parentage=[[Ponto Baggins I|Ponto Baggins]] and [[Mimosa Bunce]]
+| siblings=[[Polo Baggins|Polo]]
+| spouse=[[Hildigrim Took]]
+| children=[[Adalgrim Took|Adalgrim]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rosa Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Rosa was the daughter of [[Ponto Baggins I|Ponto Baggins]] and [[Mimosa Bunce]]. She married [[Hildigrim Took]], son of [[Gerontius Took|the Old Took]]. They had only one child, [[Adalgrim Took|Adalgrim]], born in {{SR|1280|n}}.<ref>{{App|Took}}</ref>
+
+==Etymology==
+[http://en.wiktionary.org/wiki/rosa#Latin Rosa] is the Latin name for the [[Rose (disambiguation)|rose]].
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BAL |y| BER | | |BAL=[[Balbo Baggins]]<br/>''<small>{{SR|1167|n}} - {{SR|1258|n}}</small>''|BER=[[Berylla Boffin]]<br/>''<small>{{SR|1172|n}} - unknown</small>''}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | OLD | | PON |y| MIM |OLD=[[Gerontius Took|The Old Took]]<br/>''<small>{{SR|1190|n}} - {{SR|1320|n}}</small>''|PON=[[Ponto Baggins I|Ponto Baggins]]<br/>''<small>{{SR|1216|n}} - {{SR|1311|n}}</small>''|MIM=[[Mimosa Bunce]]<br/>''<small>unknown</small>''}}
+{{familytree | |!| | | |,|-|^|-|.| |}}
+{{familytree | HIL |y| ROS | | POL |HIL=[[Hildigrim Took]]<br/>''<small>{{SR|1240|n}} - {{SR|1341|n}}</small>''|ROS='''ROSA BAGGINS'''<br/>''<small>{{SR|1256|n}} - unknown</small>''|POL=[[Polo Baggins]]<br/>''<small>unknown</small>''}}
+{{familytree | | | |!| | | | | | | |}}
+{{familytree | | | ADA | | | | | | |ADA=[[Adalgrim Took]]<br/>''<small>{{SR|1280|n}} - {{SR|1382|n}}</small>''}}
+{{familytree | |,|-|^|-|v|-|-|-|.| |}}
+{{familytree | DAU | | PAL | | ESM |DAU=''3 daughters''|PAL=[[Paladin Took II|Paladin II]]<br/>''<small>{{SR|1333|n}} - {{SR|1434|n}}</small>''|ESM=[[Esmeralda Took]]<br/>''<small>{{SR|1336|n}} - unknown</small>''}} 
+{{familytree | |,|-|-|-|(| | | |!| |}}
+{{familytree | DAU | | PIP | | MER |DAU=''3 daughters''|PIP=[[Peregrin Took|Peregrin I]]<br/>''<small>{{SR|1390|n}} - {{SR|1484|n}}+</small>''|MER=[[Meriadoc Brandybuck]]<br/>''<small>{{SR|1382|n}} - {{SR|1484|n}}+</small>''}}
+{{familytree/end}}
+
+{{references}}
+
+[[Category:Baggins]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Rosa Tuk]]
+[[fi:Roosa Reppuli]]
+[[fr:/encyclo/personnages/hobbits/sacquet/rosa_sacquet]]

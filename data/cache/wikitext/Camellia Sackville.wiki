@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Camellia Sackville
+| image=
+| caption=
+| pronun=
+| othernames=Camellia Baggins
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=circa {{SR|1260}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Sackville Family|Sackville]]
+| parentage=
+| siblings=
+| spouse=[[Longo Baggins]]
+| children=[[Otho Sackville-Baggins|Otho]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Camellia Sackville''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Camellia was daughter of the head of the [[Sackville Family]]. She married [[Longo Baggins]], and had one son, [[Otho Sackville-Baggins|Otho]].<ref>{{App|Baggins}}</ref> The double surname [[Sackville-Baggins]] was bestowed on her son, after the death of Camellia's father, as he was the eldest grandson, and became the new head.<ref>{{L|214}}</ref>
+
+==Etymology==
+[[wikipedia:Camellia|Camellia]] is a group of Asian plants.
+
+==Other versions of the legendarium==
+In early sketches of the Family Trees, Camellia was said to be from [[Michel Delving]].<ref>{{PM|Trees}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Sackville]]
+[[Category:Third Age characters]]
+
+[[de:Camellia Beutlin]]
+[[fi:Camelia Säkinheimo]]

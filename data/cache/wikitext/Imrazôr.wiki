@@ -1,0 +1,64 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Imrazôr
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=The Númenórean
+| position=
+| location=[[Belfalas]]
+| affiliation=
+| language=
+| birth={{TA|1950}}
+| birthlocation=
+| rule=
+| death={{TA|2076}}
+| deathlocation=
+| age=126
+| notablefor=
+| house= 
+| parentage=Descendant of [[Adrahil (Captain of the Left Wing)|Adrahil]]<ref group="note">[[Adrahil (Captain of the Left Wing)|Adrahil]]'s family associations and his dates both imply that he was Imrazôr's father, but Tolkien never explicitly makes the connection. The dating is consistent with Adrahil being the father of Imrazôr, and hence [[Galador]]'s grandfather, but the evidence on this point is slim.</ref><ref name="Cirion">{{UT|8e}}, note 39</ref>
+| siblings=
+| spouse=[[Mithrellas]]
+| children=[[Galador]] and [[Gilmith]] 
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Imrazôr''', known as the '''Númenórean''', was a [[Gondorians|Gondorian]] nobleman of [[Belfalas]] at the end of the second millennium of the [[Third Age]]. He was said to have wedded an [[Elves|Elf-maid]] named [[Mithrellas]], a wandering companion of [[Nimrodel]]. His son [[Galador]] was the first [[Prince of Dol Amroth]].<ref>{{UT|Galadriel}}, ''Amroth and Nimrodel''</ref>
+
+==Etymology==
+The meaning of the name is not known, however it includes [[Adûnaic]] ''zôr'' which means "flame" or "foam".
+
+The first element ''imra'' (perhaps from *''imar'') is not translated but it also appears in the name of his descendant, [[Imrahil]] and perhaps [[Imâr]].
+
+Imrazôr, who seems to have retained the usage of Adûnaic in his House, was also known as the '''Númenórean'''. Why a Gondorian noble of the Third Age would be called the "Númenórean" is not made clear from the context.<ref>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 220-222</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | |ADR| |ADR=[[Adrahil (Captain of the Left Wing)|Adrahil]]<br/><small>''c. 1944''</small>}}
+{{familytree | | | | |:| |}}
+{{familytree | | | |IMR|y|MIT|IMR='''IMRAZȎR'''<br/><small>''1950-2076''</small>|MIT=''[[Mithrellas]]''}}
+{{familytree | | | | |,|-|^|-|.| |}}
+{{familytree | | | |GAL| |GIL| |GAL= [[Galador]]<br/><small>''2004-2129''</small>|GIL=''[[Gilmith]]''}}
+{{familytree | | | | |:| |}}
+{{familytree | | | |SEC| |SEC=''[[Princes of Dol Amroth]]''}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an early manuscript Imrazôr and not his son was numbered as the first Prince of Dol Amroth.<ref>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221-222</ref>
+
+{{notes}}
+{{references}}
+{{DEFAULTSORT:Imrazor}}
+[[Category:Dúnedain]]
+[[Category:Adûnaic names]]
+[[Category:Third Age characters]]
+[[de:Imrazôr]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/imrazor]]
+[[fi:Imrazôr]]

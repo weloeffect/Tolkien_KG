@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Porto Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1348}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Posco Baggins]] and [[Gilly Brownlock]]
+| siblings=[[Ponto Baggins II|Ponto]] and [[Peony Baggins|Peony]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Porto Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Porto was the second child, and youngest son, of [[Posco Baggins]] and [[Gilly Brownlock]]. He was present at [[Bilbo's Farewell Party]].<ref>{{App|Baggins}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Porto Beutlin]]
+[[fi:Porto Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/porto sacquet]]

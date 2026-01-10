@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Hamson Gamgee
+| image=Miriam Ellis - Hamson.png
+| caption=Hamson - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| titles=
+| position=Roper
+| location=[[Hobbiton]]<br/>[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1365}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Gaffer Gamgee]] and [[Bell Goodchild]]
+| siblings=[[Halfred Gamgee|Halfred]], [[Daisy Gamgee|Daisy]], [[May Gamgee|May]], [[Samwise Gamgee|Samwise]] and [[Marigold Gamgee|Marigold]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hamson Gamgee''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Hamson was the eldest son of [[Gaffer Gamgee|Hamfast Gamgee]] and [[Bell Goodchild]]. He moved to [[Tighfield]] to work with his uncle [[Andwise Roper|Andwise]] as a roper.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+The name means "Son of Ham", referring to his father, [[Gaffer Gamgee|Hamfast]].<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+{{References}}
+[[Category:Hobbits]] [[Category:Gamgee]]
+[[Category:Third Age characters]]
+
+[[de:Hamsen Gamdschie]]
+[[fi:Haminpoika Gamgi]]

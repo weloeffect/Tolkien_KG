@@ -1,0 +1,53 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Esmeralda Took
+| image=Esmeralda Took - The Lord of the Rings Roleplaying.jpg
+| caption=Esmeralda Took - ''[[The Lord of the Rings Roleplaying]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1336}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Adalgrim Took]]
+| siblings=[[Paladin Took II|Paladin]]
+| spouse=[[Saradoc Brandybuck]]
+| children=[[Meriadoc Brandybuck|Meriadoc]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Esmeralda Brandybuck''', née '''Took''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Esmeralda was the youngest of the four daughters of [[Adalgrim Took]]. She married [[Saradoc Brandybuck]], making the [[Master of Buckland]] [[Rorimac Brandybuck]], her father-in-law. She and Saradoc had a son, [[Meriadoc Brandybuck]]
+
+She attended the [[Bilbo's Farewell Party|Farewell Party]] of [[Bilbo Baggins]] in {{SR|1401}} with her family.<ref>{{App|Brandybuck}}</ref><ref name=took>{{App|Took}}</ref> When Bilbo disappeared, Master Rorimac attempted to calm her, saying that the "Mad Baggins" just left for another adventure.<ref>{{FR|Party}}</ref>
+
+Later Esmeralda herself became mistress of Buckland and of [[Brandy Hall]]. Her older brother [[Paladin Took II]] also became the [[Thain]]. Her son Meriadoc was cousin with the Thain's children,<ref name=took/> and especially close friends with his cousin [[Peregrin Took]].<ref>{{FR|Shadow}}</ref>
+
+==Etymology==
+''[[Wiktionary:Esmeralda|Esmeralda]]'' is the Spanish word for "[[Wikipedia:Emerald|emerald]]".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{References}}
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Brandybuck]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Esmeralda Brandybock]]
+[[fi:Esmeralda Tuk]]
+[[fr:/encyclo/personnages/hobbits/touque/esmeralda_touque]]

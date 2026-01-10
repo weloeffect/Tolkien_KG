@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Salvia Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=Salvia Bolger
+| titles=
+| position=
+| location=[[Buckland]]<br/>[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1226}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Sadoc Brandybuck]]
+| siblings=two brothers
+| spouse=[[Gundabald Bolger]]
+| children=[[Theobald Bolger]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Salvia Bolger, née Brandybuck''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Salvia was the third child and first daughter of [[Sadoc Brandybuck]].<ref>{{App|Brandybuck}}</ref> She married [[Gundabald Bolger]] and had one son, [[Theobald Bolger]].<ref>{{App|Bolger}}</ref>
+==Etymology==
+[http://en.wiktionary.org/wiki/salvia#Latin Salvia] is the latin name for [[wikipedia:Salvia|Sage]].
+
+{{References}}
+[[Category:Bolger]]
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Salvia Bolger]]
+[[fi:Salvia Rankkibuk]]
+[[fr:/encyclo/personnages/hobbits/brandebouc/salvia_brandebouc]]

@@ -1,0 +1,68 @@
+{{disambig-two|the Rider of Rohan|boy|[[Éothain (film character)]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Éothain
+| image=Decipher - Éothain.jpg
+| caption=Éothain from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=
+| position=Rider in [[Éomer]]'s [[Éoreds|éored]]
+| location=
+| affiliation=
+| language=[[Rohanese]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Éothain''' was a rider of [[Rohan]].
+
+==History==
+Éothain was a member of [[Éomer]]'s [[éored]] that overran the [[orcs]] who had captured [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] at the fringe of [[Fangorn Forest]], and encountered [[Aragorn]], [[Legolas]] and [[Gimli]] on [[30 February]], {{TA|3019}}. Éothain scoffed at the idea that [[Hobbits]] even existed, believing them to be nothing but [[Holbytla|a child's tale]], and argued against the gift of horses to [[Three Hunters|the three companions]].<ref>{{TT|III2}}</ref>
+
+==Other versions of the legendarium==
+In one of the last drafts of [[The Riders of Rohan]], Éothain was Éomer's squire,<ref>{{TI|XX}}, p. 401</ref> whereas in a later draft of [[The Ride of the Rohirrim]], he was the captain of Éomer's household éored.<ref>{{WR|3|VII}}, p. 352</ref> No reference to Éothain's rank in Éomer's éored is made in ''[[The Lord of the Rings]]''.
+
+==Etymology==
+''Éothain'' contains the [[Old English]] elements ''Éoh'' ("warhorse") and ''[[Thain|thegn]]'' ("warrior, chieftain"). It was a rendition of a [[Rohanese]] name that was never recorded, though the first element is likely translated from ''lô''/''loh'', "war-horse".
+
+==Portrayal in adaptations==
+===Éothain in Adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Éothain.jpg|Éothain from [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Éothain.jpg|Éothain in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''[[1981]]: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:[[John Livesey]] plays the part of Éothain.  Almost the whole of Éothain's dialogue from the book is retained in this production.  
+
+'''[[2002]]: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:The name Éothain was given to [[Éothain (film character)|another character]], but a [[Decipher Card]] identifies one of Éomer's riders as Éothain.
+
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+:Éothain is Éomer's cousin. He is first met in the [[Entwash Vale]] town of Eaworth as part of Éomer's [[éored]]. He later returns to his home town of [[Aldburg]] where he tasks the player with preparations for its defence.
+
+{{references}}
+{{DEFAULTSORT:Eothain}}
+[[Category:Rohirrim]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]
+
+[[de:Éothain]]
+[[fi:Éothain]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/eothain]]

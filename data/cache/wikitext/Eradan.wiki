@@ -1,0 +1,80 @@
+{{short description|2nd Steward of Gondor}}
+{{disambig-two|the [[Stewards of Gondor|steward]] of [[Gondor]]|main character of [[The Lord of the Rings: War in the North]]|[[Eradan (video game character)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Eradan
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|1999}}
+| birthlocation=
+| rule={{TA|2080}} - {{TA|2116|n}} (36 years)
+| death={{TA|2116}}
+| deathlocation=
+| age=117
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Mardil|Mardil Voronwë]]
+| siblings=
+| spouse=
+| children=[[Herion]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eradan''' ([[Third Age]] {{TA|1999|n}}<ref>{{PM|Elendil}}, p. 204</ref> – {{TA|2116|n}},<ref name="South">{{App|South}}</ref> aged 117 years) was the second [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Eradan was the heir to [[Mardil|Mardil Voronwë]], the first Steward to rule in Gondor. Unlike his ancestors, he and his descendants took a [[Sindarin]] name. He ruled for thirty-six years and was succeeded by his son [[Herion]].<ref name="South"/>
+
+==Etymology==
+''Eradan'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack and David Salo suggest it means "single man" and is a compound of ''[[er]]'' ("one", "alone") and ''[[adan]]'' ("man" [as a race]).<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3436731679.html|articlename=S. ''Eradan'' m.|website=Eldamo|accessed=05 February 2022}}</ref><ref>{{HM|GS}}, p. 348</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | VOR |VOR=[[Vorondil]]<br/><small>''{{TA|1919|n}} - {{TA|2029|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAR |MAR=[[Mardil|Mardil Voronwë]]<br/><small>''{{TA|1960|n}} - {{TA|2080|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ERA |ERA='''ERADAN'''<br/><small>''{{TA|1999|n}} - {{TA|2116|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | HER |HER=[[Herion]]<br/><small>''{{TA|2037|n}} - {{TA|2148|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BEL |BEL=[[Belegorn]]<br/><small>''{{TA|2074|n}} - {{TA|2204|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|1999}}
+| died={{TA|2116}}
+}}
+{{seq
+| prev=[[Mardil|Mardil Voronwë]]
+| list=2nd [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2080}} - {{TA|2116|n}}
+| next=[[Herion]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Eradan]]
+[[fi:Eradan]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/eradan]]

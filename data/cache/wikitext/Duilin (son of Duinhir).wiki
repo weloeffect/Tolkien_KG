@@ -1,0 +1,70 @@
+{{disambig-more|Duilin|[[Duilin (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Duilin
+| image=Decipher - Duilin.jpg
+| caption="Duilin" by [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=[[15 March]], {{TA|3019}}
+| deathlocation=[[Battle of the Pelennor Fields]]
+| age=
+| notablefor=
+| house=
+| parentage=[[Duinhir]]
+| siblings=[[Derufin]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Bow
+| steed=
+}}
+'''Duilin''' was one of the two sons of [[Duinhir]], the lord of [[Blackroot Vale]].
+
+==History==
+With his brother [[Derufin]], Duilin followed his father to [[Minas Tirith]] in the [[War of the Ring]],<ref>{{RK|MT}}</ref> and there they fought in the [[Battle of the Pelennor Fields]]. The Men of the distant valley of [[Morthond]] had great skill as bowmen, and so Duilin and Derufin led their archers against the [[mûmakil]], attempting to shoot out the beasts' eyes. Brave as they were, both the brothers were lost in that battle, trampled by their gigantic foes.<ref>{{RK|Battle}}</ref>
+
+==Etymology==
+The meaning of ''Duilin'' is unclear. Both in [[Gnomish]] and in the later [[Noldorin]] the name meant "swallow",<ref>{{LT2|Appendix}}, entry "Duilin"</ref><ref>{{PE|13}}, pp. 120, 142</ref> but in [[Sindarin]] it could be "Singer by the River" or "Spring-Singer", containing the same element ''[[duin]]'' "river" as in the name of his father.<ref>[[David Salo]], ''[[A Gateway to Sindarin]]'', p. 347</ref>
+
+==Genealogy==
+
+{{familytree/start}}
+{{familytree| | | DNH | | | |DNH=[[Duinhir]]<br /><small>''fl. {{TA|3019}}''</small>}}
+{{familytree| |,|-|^|-|.| | |}}
+{{familytree| DER | | DUI | |DER=[[Derufin]]<br /><small>''d. {{TA|3019}}''</small>|DUI='''DUILIN'''<br /><small>''d. {{TA|3019}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Duilin in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Duilin.jpg|Duilin by [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Duilin (son of Duinhir).jpg|Duilin in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:A Decipher card identifies one of the [[Rangers of Ithilien|Rangers]] of [[Ithilien]] in ''[[The Lord of the Rings: The Two Towers]]'' as Duilin.
+
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Duilin and [[Derufin|his brother]] were hunting enthusiasts. The brothers accompanied the player into [[Osgiliath]], and the group succeeded in damaging [[Grond (battering ram)|Grond]] before encountering [[Gothmog (Lieutenant of Morgul)|Gothmog]] and being forced to retreat. Both brothers die during the [[Battle of the Pelennor Fields]] while leading the mûmakil away from the player.
+
+{{references}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]
+
+[[de:Duilin von Morthond]]
+[[fi:Duilin (ihminen)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:duilin]]

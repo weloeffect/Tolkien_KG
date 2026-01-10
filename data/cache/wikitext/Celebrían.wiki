@@ -1,0 +1,85 @@
+{{infobox character
+| people=[[Sindar|Sinda]]
+| image=Konstantin Grigorjev - Celebrian.jpg
+| caption="Celebrian" by [[:Category:Images by Konstantin Grigorjev|Konstantin Grigorjev]]
+| name=Celebrían
+| pronun=[[Sindarin|S]], {{IPA|[kɛlɛˈbriː.an]}}
+| othernames=
+| titles=Lady of [[Rivendell]]
+| position=
+| location=[[Eregion]], [[Rivendell|Imladris]], [[Lothlórien]]
+| affiliation=
+| language=
+| birth={{SA|300}}
+| birthlocation=
+| rule=
+| sailedwest={{TA|2510}} (aged 5650)
+| sailedfrom=[[Grey Havens]]
+| age=
+| notablefor=
+| house=
+| parentage=[[Celeborn]] and [[Galadriel]]
+| siblings=
+| spouse=[[Elrond]]
+| children=[[Elladan]], [[Elrohir]], [[Arwen]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Celebrían''' was an [[Elves|Elf]]-lady, the daughter of [[Celeborn]]<ref name=TA109>{{App|TA}}, entry for the year 109, p. 1085</ref> and [[Galadriel]]<ref>{{FR|Farewell}}, p. 227</ref> and the wife of [[Elrond]]<ref name=TA109/>. She was the mother of [[Arwen]] and the twins [[Elrohir]] and [[Elladan]].<ref name="Children">{{App|TA}}, entries for the years 130 and 241, p. 1085</ref> Her daughter would later marry [[Aragorn|Aragorn Elessar]], hero of the [[War of the Ring]],<ref>{{App|Chief}}, entry for the year 3019, ''Mid-year's Day''</ref> and become the Queen of the [[Reunited Kingdom]]<ref>{{RK|Partings}}, p. 974</ref>.
+
+==History==
+Celebrían was born early in the Second Age, likely in {{SA|300}}, when Galadriel refused to return to [[Eressëa]], and passed over the [[Blue Mountains|Mountains]].<ref name="Scales">{{NM|P1ix}}, p. 65</ref> Celebrían lived in [[Eregion]], and later moved to [[Lothlórien|Lórien]] with her mother in {{SA|1350}}. In {{SA|1701}}, she went to [[Rivendell]] with Galadriel searching for Celeborn, where she first met Lord Elrond, who loved her in secret.<ref name="Concerning">{{UT|Concerning}}, pp. 234, 240</ref> Their marriage was delayed by the wars against [[Sauron]],<ref>{{NM|Ages}}</ref>{{rp|135}} though they would eventually wed in {{TA|109}}.<ref name=TA109/> Their first children, the twins [[Elladan]] and [[Elrohir]], were born in {{TA|130|n}}, and their daughter [[Arwen]] in {{TA|241|n}}.<ref name="Children"/> She had inherited the [[Elfstone]] from her mother, which was later given to Arwen, her daughter.<ref>{{UT|Elessar}}, p. 251</ref>
+
+[[File:Elena Kukanova - Elrond and Celebrían.jpg|left|200px|thumb|''Elrond and Celebrían'' by [[Elena Kukanova]]]]
+In {{TA|2509}}, on a trip to [[Lothlórien|Lórien]] to visit her parents, she was waylaid by [[Orcs of the Misty Mountains]] in the [[Redhorn Pass]]. She was captured and tormented, receiving a poisoned wound. Her sons rescued her and she was physically healed by Elrond, but never fully recovered in mind or spirit, and no longer wished to stay in Middle-earth. She left for the [[Grey Havens]] and passed over the [[Belegaer|Great Sea]] the following year.<ref>{{App|Eriador}}, entry about Chieftain Arahad I, p. 1043</ref>
+
+She was followed by Elrond and her mother Galadriel, who eventually took the [[White Ship]] in the end of the [[Third Age]] and also passed the [[Great Sea]] to the [[Undying Lands]],<ref>{{RK|Havens}}, p. 1029</ref> where they presumably reunited with her. Later Celeborn and possibly her sons, Elladan and Elrohir, also went to the Grey Havens to sail to the Undying Lands,<ref>{{FR|Records}}, p. 15</ref> and presumably reunited with Celebrían.
+
+==Etymology==
+{{pronounce|Sindarin - Celebrían.mp3|Gilgamesh}}
+''Celebrían'' is a [[Sindarin]] name<ref name=Eldamo>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2160008161.html|articlename=S. ''Celebrían'' f.|website=Eldamo|accessed=12 September 2024}}</ref><ref>{{HM|RC}}, p. 338</ref>, which means "Silver queen"<ref>{{L|345}}, p. 423</ref>. It is probably a compound of  ''[[celeb]]'' ("silver") and ''rían'' ("queen").<ref name=Eldamo/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | | | FRF |~|~|y|~|~| EAW | | | | | | | | GLN | | | | |FRF=[[Finarfin]]<br /><small>''b. {{YT|1230}}''</small>|EAW=[[Eärwen]]<br /><small>''b. {{YT}}''</small>|GLN=[[Galadhon]]<br /><small>''b. {{FA}}''</small>}}
+{{familytree| |,|-|-|-|v|-|-|-|^|-|-|-|v|-|-|.| | | | |,|-|^|-|.| | | |}}
+{{familytree| FRD | | ANG |y| ELD | | AEG | | GAL |y| CEL | | GLL | | |FRD=[[Finrod]]<br /><small>''{{YT|1300}} - {{FA|465}}''</small>|ANG=[[Angrod]]<br /><small>''d. {{FA|455}}''</small>|AEG=[[Aegnor]]<br /><small>''d. {{FA|455}}''</small>|GAL=[[Galadriel]]<br /><small>''b. {{YT|1362}}''</small>|ELD=[[Eldalótë]]<br /><small>''b. {{YT}}''</small>|CEL=[[Celeborn]]<br /><small>''b. {{FA}}''</small>|GLL=[[Galathil]]<br /><small>''b. {{FA}}''</small>}}
+{{familytree| | | | | | | |!| | | | | | | | | | | |!| | | | | | | | | |}}
+{{familytree| | | | | | | ORO | | | | | | ELR |y| CLB | | ART |y| GRN |ORO=[[Orodreth]]<br /><small>''d. {{FA|495}}''</small>|CLB='''CELEBRÍAN'''<br /><small>''b. {{SA|300}}''</small>|ELR=[[Elrond]]<br /><small>''b. {{FA|532}}''</small>|ART=[[Arathorn II]]<br /><small>''{{TA|2873}} - {{TA|2933|n}}''</small>|GRN=[[Gilraen]]<br /><small>''{{TA|2907}} - {{TA|3007|n}}''</small>}}
+{{familytree| | | | | |,|-|^|-|.| | | |,|-|-|-|+|-|-|-|.| | | |!| | | |}}
+{{familytree| | | | | FIL | | GIL | | ELL | | ELO | | ARW |y| ARA | | |GIL=[[Gil-galad]]<br /><small>''d. {{SA|3441}}''</small>|FIL=[[Finduilas]]<sup>[[Finduilas#Notes|NB]]</sup><br /><small>''{{FA|272}} - {{FA|495|n}}''</small>|ELL=[[Elladan]]<br /><small>''b. {{TA|130}}''</small>|ELO=[[Elrohir]]<br /><small>''b. {{TA|130}}''</small>|ARW=[[Arwen]]<br /><small>''{{TA|241}} - {{FoA|121}}''</small>|ARA=[[Aragorn|Aragorn II]]<br /><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree| | | | | | | | | | | | | | | | | | | | | |,|-|^|-|.| | | |}}
+{{familytree| | | | | | | | | | | | | | | | | | | | | EDN | | DAU | | |EDN=[[Eldarion]]<br /><small>''{{FoA|1}} - {{FoA|220|n}}''</small>|DAU=''unknown daughters''}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+J.R.R. Tolkien tried to define the birth-year of Celebrían in different manuscripts, specially those dealing with chronology and Elven growth. Here are the dates of the [[Second Age]], presented in chronological order as Tolkien considered them: {{SA|300|n}} (circa),<ref>{{NM|P3xvi}}, p. 346</ref> 300 ("probably"),<ref name="Scales" /> 260 or {{SA|350|n}},<ref>{{NM|P1x}}, p. 73</ref> {{SA|850|n}} (a proposal while calculating her age),<ref>{{NM|P1xi}}, pp. 77, 79</ref> 9 (circa) or 45.<ref>{{NM|P1xviii}}, p. 149</ref>
+
+In "[[Concerning Galadriel and Celeborn]]" (the only narrative dealing with a complete history of Middle-earth during the [[Second Age]]), both Celebrían and [[Amroth]] are children of Galadriel and Celeborn,<ref name="Concerning" /> but in later texts J.R.R. Tolkien gave Amroth a [[Sindar]]in origin.<ref>{{UT|Amroth}}, p. 244</ref>
+
+In the drafts of ''[[The Tale of Years]]'' of the Third Age, Elrond married Celebrían c. [[Third Age|T.A.]] 2500 and their children were born in the same century. In {{TA|2600}}, she was slain by Orcs instead of captured.<ref name="Tale">{{PM|VIII}}</ref>{{rp|226}} The marriage was later changed to 2300, and her capture and departure to 2509.<ref name="Tale" />{{rp|234–6}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Celebrían.jpg|thumb|right|Celebrían in ''The Lord of the Rings Online'']]
+'''2019: ''[[The Lord of the Rings Online]]'':'''
+:Celebrían was held captive at Shathur-munzu, an abandoned dwarven outpost of the fallen [[Khazad-dûm]].
+
+:During the journey to [[Minas Tirith]] for her wedding, Lady [[Arwen]] wishes to visit the place where her mother was being held. She comes to Shathur-munzu in the company of Lady [[Galadriel]] and they speak of Celebrían and her fate together.
+
+{{references}}
+{{DEFAULTSORT:Celebrian}} 
+
+[[Category:House of Finarfin]]
+[[Category:Moriquendi]]
+[[Category:Second Age characters]]
+[[Category:Sindar]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Celebrían]]
+[[fr:encyclo:personnages:elfes:teleri:sindar:celebrian]]
+[[fi:Celebrían]]

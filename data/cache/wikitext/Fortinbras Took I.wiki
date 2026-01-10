@@ -1,0 +1,65 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Fortinbras Took I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1145}}
+| birthlocation=
+| rule={{SR|1201}} - {{SR|1248|n}}
+| death={{SR|1248}}
+| deathlocation=
+| age=103
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Ferumbras Took II]]
+| siblings=
+| spouse=
+| children=[[Gerontius Took|Gerontius]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Fortinbras Took I''' was the twenty-fifth [[Thain]] of [[the Shire]].
+
+==History==
+Fortinbras was the son of [[Ferumbras Took II|Ferumbras II]]. He inherited the Thainship upon his father's death in {{SR|1201}}, and passed it on to his son [[Gerontius Took|Gerontius]] after his death.<ref>{{App|Took}}</ref>
+
+==Etymology==
+[[wikipedia:Fortinbras|Fortinbras]] is the name of two characters in Shakespeare's ''[[wikipedia:Hamlet|Hamlet]]''. It is French for "strong in arms".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1145}}
+| died={{SR|1248}}
+}}
+{{Seq
+| prev=[[Ferumbras Took II]]
+| list=25th [[Thain]] of [[The Shire]]
+| dates={{SR|1201}} - {{SR|1248|n}}
+| next=[[Gerontius Took]]
+}}
+{{seq-end}}
+{{thains}}
+[[Category:Germanic names]]
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Fortinbras Tuk I.]]
+[[fi:Fortinbras I Tuk]]

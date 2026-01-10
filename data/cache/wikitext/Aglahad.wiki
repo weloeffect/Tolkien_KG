@@ -1,0 +1,82 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Aglahad
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Princes of Dol Amroth|Prince of Dol Amroth]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2827}}
+| birthlocation=
+| rule={{TA|2899}} - {{TA|2932|n}} (33 years)
+| death={{TA|2932}}
+| deathlocation=
+| age=105
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=
+| siblings=
+| spouse=
+| children=[[Angelimir]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aglahad''' ([[Third Age]] 2827 – 2932, aged 105 years) was the nineteenth [[Prince of Dol Amroth]].<ref name="Dol">{{PM|Elendil}}, ''The House of Dol Amroth'', p. 223</ref>
+
+==History==
+Aglahad was a descendant of [[Galador]], the first Prince of Dol Amroth; through Galador's mother [[Mithrellas]], Aglahad had some [[Half-elven|Elven blood]].<ref name="GalCel">{{UT|Galadriel}}</ref>
+
+Aglahad ruled Dol Amroth around the time of [[Ruling Steward|Steward]] [[Turgon (Steward of Gondor)|Turgon]]. During Aglahad's reign as Prince, [[Gondor]] had to abandon much of [[Ithilien]].<ref>{{App|TA}}</ref>
+
+After his death, his son [[Angelimir]] became the twentieth Prince.<ref name="Dol"/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | IMR |y| MIT |IMR=[[Imrazôr]]<br/><small>''{{TA|1950|n}} - {{TA|2076|n}}''</small>|MIT=[[Mithrellas]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | GAL | | GIL |GAL=[[Galador]]<br/><small>''{{TA|2004|n}} - {{TA|2129|n}}''</small>|GIL=[[Gilmith]]<br/><small>''unknown''</small>}}
+{{familytree | |:| | | | | |}}
+{{familytree | DOL | | | | |DOL=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]}}
+{{familytree | |:| | | | | |}}
+{{familytree | AGL | | | | |AGL='''AGLAHAD'''<br/><small>''{{TA|2827|n}} - {{TA|2932|n}}''</small>}}
+{{familytree | |!| | | | | |}}
+{{familytree | ANG | | | | |ANG=[[Angelimir]]<br/><small>''{{TA|2866|n}} - {{TA|2977|n}}''</small>}}
+{{familytree | |!| | | | | |}}
+{{familytree | ADR | | | | |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Dol Amroth]]
+| born={{TA|2827}}
+| died={{TA|2932}}
+}}
+{{seq
+| pvac=Unknown
+| prev=eventually [[Galador]]
+| list=19th [[Princes of Dol Amroth|Prince of Dol Amroth]]
+| dates={{TA|2899}} - {{TA|2932|n}}
+| next=[[Angelimir]]
+}}
+{{seq-end}}
+
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Princes of Dol Amroth]]
+[[Category:Third Age characters]]
+
+[[de:Aglahad]]
+[[fi:Aglahad]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/aglahad]]

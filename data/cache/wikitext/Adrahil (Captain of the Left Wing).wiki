@@ -1,0 +1,70 @@
+{{rewrite}}<!--Stolen from EOA-->
+{{disambig-two|the Captain of the Left Wing in {{TA|1944}}|father of [[Imrahil]]|[[Adrahil]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Adrahil
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=Captain of the Left Wing<ref name="Cirion">{{UT|Cirion}}</ref>
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Before {{TA|1944}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=Probably an ancestor of [[Imrazôr]]<ref group="note">His family associations and his dates both imply that he was [[Imrazôr]]'s father, but Tolkien never explicitly makes the connection. The dating is consistent with Adrahil being the father of Imrazôr, and hence [[Galador]]'s grandfather, but the evidence on this point is slim.</ref><ref name="Cirion"/>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adrahil''' was a [[Gondorian]] nobleman<ref name="Cirion" /> who was a captain in [[King of Gondor|King]] [[Ondoher]]'s army in {{TA|1944}}.
+
+==History==
+As a descendant of the noble [[Númenóreans|Númenórean]] family that settled in [[Belfalas]] in the [[Second Age]], he was an ancestor of the line of the [[Princes of Dol Amroth]].<ref name="CirionNote" />
+
+When King [[Ondoher]] led his army to face the [[Wainriders]] who threatened [[Gondor]], Adrahil commanded the army's left wing. The soldiers of the right wing were under the command of the King's nephew [[Minohtar]], while the centre was commanded by the king himself and his heir [[Artamir]].<ref name="Cirion" /> 
+
+Ondoher's enterprise came to a devastating end: he was surprised by the [[Wainriders]], and his forces were overwhelmed. Adrahil's soldiers, however, were shielded from the attack and survived it. Ondoher and Artamir had both been killed, and Minohtar took charge, sending Adrahil along with both his own command of the Left Wing and those at the rear of the Right Wing who had not yet been engaged.<ref name="Cirion" />
+
+Adrahil withdrew south into [[Ithilien]] to form a defensive line from [[Cair Andros]] to the [[Ephel Dúath]]. With these forces he was to cover the approaches of [[Minas Tirith]] and allow Minohtar to form a rearguard and attempt to stem the advance of the Wainriders. Adrahil should at once message [[Eärnil II|Eärnil]], and inform him of the disaster of the Morannon and of the position of the retreating Northern Army.<ref name="Cirion" />
+
+Adrahil's fate is uncertain; the [[Wainriders]] eventually broke through [[Minohtar]]'s more northerly defence, but whether they penetrated to Adrahil's position is unknown. Nothing more is said of him.<ref group="note">If he survived the initial assault, it seems likely that Adrahil would have joined with [[Eärnil II|Eärnil]] in his counter-attack, seeing the ultimate defeat of the Wainriders at the [[Battle of the Camp]] though nothing can be said for certain of this matter.</ref>  
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | |ADR| | | | | | | | | | | | | | | |ADR='''ADRAHIL'''<br/><small>''c. 1944''</small>}}
+{{familytree | | | | | | | |:| | | | | | | | | | | | | | | | |}}
+{{familytree | | | | | | |IMR|y|MIT|IMR=[[Imrazôr|Imrazȏr]]<br/><small>''1950-2076''</small>|MIT=''[[Mithrellas]]''}}
+{{familytree | | | | | | | |,|-|^|-|.| | | | | | | | | | | | |}}
+{{familytree | | | | | | |GAL| |GIL| | | | | | | | | |GAL= [[Galador]]<br/><small>''2004-2129''</small>|GIL=''[[Gilmith]]''}}
+{{familytree | | | | | | | |:| | | | | | | | | | | | | | | | |}}
+{{familytree | | | | | | |SEC| | | | | | | | | | | | | | | |SEC=''[[Princes of Dol Amroth]]''}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In the chapter "[[Cirion and Eorl and the Friendship of Gondor and Rohan|Cirion and Eorl]]" of ''[[Unfinished Tales]]'', Adrahil is referred to as ''"Adrahil of Dol Amroth"''. However, since [[Dol Amroth]] would not be named as such until after the drowning of [[Amroth]] in {{TA|1981}} this must be an anachronistic error on the part of the chronicler.<ref name="CirionNote">{{UT|Cirion}}, Note 39.</ref>
+{{title}}
+{{references|notes}}
+{{DEFAULTSORT:Adrahil (Captain of the Left Wing)}}
+
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+
+[[de:Adrahil]]
+[[fi:Adrahil (sotapäällikkö)]]

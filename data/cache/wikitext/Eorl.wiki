@@ -1,0 +1,112 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Eorl
+| image=Jan Pospisil - Eorl the Young at Celebrant.jpg
+| caption="Eorl the Young at Celebrant" by [[:Category:Images by Jan Pospíšil|Jan Pospíšil]]
+| pronun=
+| othernames=''the Young''
+| titles=[[Lord of the Éothéod]]<br/>[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=[[Oath of Eorl]]
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2485}}
+| birthlocation=
+| rule={{TA|2501}} - {{TA|2510}} (Lord)<br/>{{TA|2510}} - {{TA|2545}} (King)
+| death={{TA|2545}} (aged 60)
+| deathlocation=[[The Wold]]
+| age=
+| notablefor=
+| house=founded the [[House of Eorl]]
+| parentage=[[Leod]]
+| siblings=
+| spouse=
+| children=[[Brego]]
+| gender=Male
+| height=
+| hair=Yellow<ref name="Eorl"/>
+| eyes=
+| clothing=
+| weapons=
+| steed=[[Felaróf]]
+}}
+'''Eorl the Young''' ([[Third Age]] 2485 – 2545, aged 60 years) was the son of [[Léod]] of the [[Éothéod]], and founder of [[Rohan]].<ref name="Eorl">{{App|Eorl}}</ref>
+
+==Life==
+When Eorl was only 16 years old, his father was killed while trying to tame the horse [[Felaróf]], making Eorl [[Lord of the Éothéod]] at that young age. Young Eorl swore to avenge his father and managed to tame the horse. He "doomed" the horse to carry him for the rest of their lives, and the horse seemingly accepted this burden.<ref name="Eorl"/>
+
+In {{TA|2510}}, [[Borondir|Borondir Udalraph]] came to the north seeking aid, as the [[South-kingdom]] was attacked by the [[Orcs]] and the [[Balchoth]]. On April 15, Eorl came to the [[Field of Celebrant]], and joined the [[Battle of the Field of Celebrant|battle]]. For his service to [[Gondor]], he was granted [[Calenardhon]] to dwell in. As a return, Eorl and his descendants would have to come to the aid of Gondor when they requested; this was known as the [[Oath of Eorl]].<ref>{{UT|Cirion}}</ref> 
+
+Eorl ruled from a green hill under the [[White Mountains]].<ref name="Eorl"/>
+
+Even in his older years Eorl never lost his yellow hair. He died in battle against the [[Easterlings]] in {{TA|2545}}. He was buried in the first royal mound, and Felaróf was buried with him.<ref name="Mark"/>
+
+==Legacy==
+Eorl was the founder of Rohan, its first King, the ancestor of the [[House of Eorl]] and all the [[Kings of Rohan]]. His horse Felaróf was the first of the [[Mearas]].
+
+Eorl was known as "the Young" because he became [[Lord of the Éothéod]] at the age of 16 and because he never lost his yellow hair.
+
+His Oath would be answered at least thrice: once by [[Folcred]] and [[Fastred (son of Folcwine)|Fastred]], once by [[Théoden|Théoden Ednew]] and by [[Éomer]].<ref name="Mark">{{App|Mark}}</ref>
+
+==Etymology==
+The word ''Eorl'' is an [[Old English]] translation of genuine [[Rohanese]] '''''þuron''''', which has perhaps influence from [[Elvish]] [[sundocarme|root]] [[TUR]].<ref>{{PE|22}}, p. 159, where Tolkien gives ''þorunahim'' as the genuine form of [[Eorlingas]]</ref>
+
+'''Eorl''' is an Old English word referring to a person of noble rank. It is the ancestor of modern "earl". It was the highest rank of nobility in North Germanic culture, not introduced to Britain until the late 9th century, when it replaced the equivalent Old English title ''ealdorman''. The Old Norse equivalent is ''jarl.''<ref>[[Wikipedia:Jarl in Sweden|Jarl in Sweden]] at [[wikipedia:Main Page|Wikipedia]]</ref> [[Þórsteinn Thorarensen]] used ''Jarl'' as the name for the character throughout his Icelandic translation of ''The Lord of the Rings'', along with [[Helm|Hjálmur]], for Helm, [[Thengel|Þengill]] for Thengel, [[Théoden|Þjódan]] for Théoden, and [[Éomer|Jómar]] for Éomer.<ref>{{VT|42}}, [[Arden R. Smith]], ''Transitions in Translations: Upphaflega íslensk heiti'', pages 35-37</ref> Compare ''[[Ceorl]]'', the second rank.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | FRA | | | | |FRA=[[Fram]]<br/><small>''fl. c. {{TA|2000}}''</small>}}
+{{familytree | | | | | |:| | | | | |}}
+{{familytree | | | | | |:| | | | | |}}
+{{familytree | | | | | LEO | | | | |LEO=[[Léod]]<br/><small>''{{TA|2459|n}} - {{TA|2501|n}}''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | EOR | | | | |EOR='''EORL'''<br/><small>''{{TA|2485|n}} - {{TA|2545|n}}''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | BRE | | | | |BRE=[[Brego]]<br/><small>''{{TA|2512|n}} - {{TA|2570|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | BAL | | ALD | | EOF |BAL=[[Baldor]]<br/><small>''d. {{TA|2570|n}}''†</small>|ALD=[[Aldor]]<br/><small>''{{TA|2544|n}} - {{TA|2645|n}}''</small>|EOF=[[Eofor]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Eorl in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Online - Eorl.jpg|Eorl in ''The Lord of the Rings Online''
+File:The Lord of the Rings Online - Eorl crosses the Anduin at the Fields of Celebrant.jpg|''[[The Lord of the Rings Online]]'' tapestry: Eorl crosses the Anduin at the Fields of Celebrant
+File:The Lord of the Rings Online - The Oath of Eorl.jpg|''[[The Lord of the Rings Online]]'' tapestry: The Oath of Eorl
+</gallery>
+
+'''2020: ''[[The Lord of the Rings Online]]'':'''
+:Eorl appears in a series of flashbacks narrating the history of the [[Éothéod]]. Additionally, he is depicted on tapestries found throughout Rohan. A statue of Eorl and Cirion is erected near the site of their first meeting.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2485}}
+| died={{TA|2545}}
+}}
+{{seq
+| prev=[[Léod]]
+| list=[[Lord of the Éothéod]]
+| dates={{TA|2501}} – {{TA|2510|n}}
+| nvac=None
+| next=Himself as [[King of Rohan|King]]
+}}
+{{seq
+| pvac=None
+| next=Himself as [[Lord of the Éothéod]], [[Brego]]
+| list=1st [[Kings of Rohan|King of Rohan]]
+| dates={{TA|2510}} – {{TA|2545|n}}
+}}
+{{seq-end}}
+{{rohankings}}
+[[Category:Éothéod]]
+[[Category:Kings of Rohan]]
+[[Category:Lords of the Éothéod]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Eorl]]
+[[fi:Eorl]]

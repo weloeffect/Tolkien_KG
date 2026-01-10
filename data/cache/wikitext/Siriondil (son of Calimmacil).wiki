@@ -1,0 +1,66 @@
+{{disambig-two|the father of [[Eärnil II]]|[[Kings of Gondor|King]] of [[Gondor]]|[[Siriondil (King of Gondor)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Siriondil
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Before {{TA|1883}}
+| birthlocation=
+| rule=
+| death=Before or around {{TA|1944}}<ref group=note>Based on the dates of Earnil's life, Siriondil must have flourished around the 19th century of the Third Age. The fact that his son became King instead of him in 1944, suggests that Siriondil was unavailable, or dead, by that date.</ref>
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Calimmacil]]
+| siblings=
+| spouse=
+| children=[[Eärnil II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Siriondil''' was a [[Gondorians|Gondorian]] nobleman.
+
+==History==
+Siriondil was the son of [[Calimmacil]], and a nephew of King [[Narmacil II]] (d. {{TA|1856}}) and as such, a distant cousin of King [[Ondoher]] of Gondor. He was probably named after his ancestor [[Siriondil (King of Gondor)|Siriondil]], a former King of [[Gondor]]. In {{TA|1883}} he had a son, [[Eärnil II|Earnil]].<ref>{{PM|Elendil}}, Eärnil II</ref>
+
+After [[Ondoher]] and his sons were slain in a battle against the [[Wainriders]] in {{TA|1944}}, the [[Third Age 1945|next year]] Eärnil was elected the thirty-second King of Gondor.<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+:''See: [[Siriondil (King of Gondor)#Etymology]]''
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | TEL | | | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|-|-|^|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | ARN | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|ARN=[[Kings of Arnor|''Kings of<br/>Arnor'']]|DAU=''daughter''<br/><small>''unknown''</small>|SIR='''SIRIONDIL'''<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |:| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR |y| ARV | | MIN | | EAR |ART=[[Artamir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|ARV=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''†</small>|MIN=[[Minohtar]]<br/><small>''d. {{TA|1944|n}}''†</small>|EAR=[[Eärnil II]]<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | EAR |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>|EAR=[[Eärnur]]<br/><small>''{{TA|1928|n}} - {{TA|2050|n}}''†</small>}}
+{{familytree/end}}
+
+{{references|notes}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Third Age characters]]
+[[de:Siriondil (Vater von Earnil II.)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/siriondil_pere_d_earnil]]
+[[fi:Siriondil (Eärnil II:n isä)]]

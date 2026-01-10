@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Vigo Boffin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1337}}
+| birthlocation=
+| rule=
+| death={{SR|1430}}
+| deathlocation=
+| age=93
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Jago Boffin]] 
+| siblings=
+| spouse=
+| children=[[Folco Boffin|Folco]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Vigo Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Vigo was the son of [[Jago Boffin]], and had a son [[Folco Boffin|Folco]]. They were both present at [[Bilbo's Farewell Party]].<ref>{{App|Boffin}}</ref>
+
+{{references}}
+[[Category:Boffin]]
+[[Category:Fourth Age characters]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Vigo Boffin]]
+[[fi:Vigo Boffin]]
+[[fr:encyclo/personnages/hobbits/bophin/vigo bophin]]

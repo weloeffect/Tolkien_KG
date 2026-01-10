@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bosco Boffin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1167}}
+| birthlocation=
+| rule=
+| death={{SR|1258}}
+| deathlocation=
+| age=91
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Buffo Boffin]] and [[Ivy Goodenough]]
+| siblings=[[Basso Boffin|Basso]], [[Briffo Boffin|Briffo]] and [[Berylla Boffin|Berylla]]
+| spouse=
+| children=[[Otto Boffin|Otto]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bosco Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Bosco was born in {{SR|1167}}, the son of [[Buffo Boffin]] and [[Ivy Goodenough]]. He had one son, [[Otto Boffin|Otto]], who was born in {{SR|1212}}. Bosco died in {{SR|1258}}.<ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+
+[[de:Bosco Boffin]]
+[[fi:Bosco Boffin]]
+[[fr:encyclo:personnages:hobbits:bophin:bosco bophin]]

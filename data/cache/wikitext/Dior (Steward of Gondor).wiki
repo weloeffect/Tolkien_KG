@@ -1,0 +1,83 @@
+{{disambig-two|the [[Stewards of Gondor|Steward of Gondor]]|the son of [[Beren]] and [[Lúthien]]|[[Dior|Dior Eluchíl]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Dior
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2328}}
+| birthlocation=
+| rule={{TA|2412}} - {{TA|2435|n}} (23 years)
+| death={{TA|2435}}
+| deathlocation=
+| age=107
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Barahir (Steward of Gondor)|Barahir]]
+| siblings=[[Rían (daughter of Steward Barahir)|Rían]]
+| spouse=
+| children=None
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Pronounce|Dior.mp3|Ardamir}}
+'''Dior''' ([[Third Age]] {{TA|2328|n}}<ref name="Elendil">{{PM|Elendil}}, p. 204</ref> – {{TA|2435|n}},<ref>{{App|South}}</ref> aged 107 years) was the ninth [[Ruling Steward]] of [[Gondor]]. 
+
+==History==
+Dior was the last Ruling Steward during the period of the [[Watchful Peace]].<ref>{{App|TA}}</ref>
+
+Dior, having had no children, was succeeded by his sister [[Rían (daughter of Steward Barahir)|Rían]]'s son [[Denethor I]].<ref name="Elendil"/>
+
+==Etymology==
+For the meaning of his name refer to [[Dior#Etymology|Dior - Etymology]]. Dior was probably named after the son of [[Beren]] and [[Lúthien]] of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HAD | | | | |HAD=[[Hador (Steward of Gondor)|Hador]]<br/><small>''{{TA|2245|n}} - {{TA|2395|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | BAR | | | | |BAR=[[Barahir (Steward of Gondor)|Barahir]]<br/><small>''{{TA|2290|n}} - {{TA|2412|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DIO | | RIA | | |DIO='''DIOR'''<br/><small>''{{TA|2328|n}} - {{TA|2435|n}}''</small>|RIA=[[Rían (daughter of Steward Barahir)|Rían]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | DEN | | |DEN=[[Denethor I]]<br/><small>''{{TA|2375|n}} - {{TA|2477|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DAU | | BOR |DAU=''two daughters''<br/><small>''unknown''</small>|BOR=[[Boromir (Steward of Gondor)|Boromir]]<br/><small>''{{TA|2410|n}} - {{TA|2489|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2328}}
+| died={{TA|2435}}
+}}
+{{seq
+| prev=[[Barahir (Steward of Gondor)|Barahir]]
+| list=9th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2412}} - {{TA|2435|n}}
+| next=[[Denethor I]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Dior (Truchsess von Gondor)]]
+[[fi:Dior (Gondorin käskynhaltija)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:dior]]

@@ -1,0 +1,106 @@
+{{Disambig-more|Elbereth|[[Elbereth (disambiguation)]]}}
+{{infobox character
+| people=[[Valar|Vala]]
+| name=Varda
+| image=NOLANOS - La Dama de las Estrellas.jpg
+| caption="La Dama de las Estrellas" by [[:Category:Images by NOLANOS|NOLANOS]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈvarda ˌelenˈtaːri]}}
+[[Sindarin|S]], {{IPA|[’ɛlʲbɛrɛθ gilʲ'θoniɛlʲ]}}
+| othernames=''Elbereth Gilthoniel'' ([[Sindarin|S]])<br />''Avradî'' ([[Adûnaic|A]])
+| titles=Queen of the [[Valar]], Queen of the Stars, Lady of the Stars
+| position=
+| location=[[Ilmarin]], [[Taniquetil]]
+| affiliation=[[Ilmarë]]
+| language=
+| notablefor=
+| siblings=
+| spouse=[[Manwë]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|There Bredhil the Blessed&nbsp;&nbsp;the bluemantled,<br>the Lady of the heights&nbsp;&nbsp;as lovely as the snow<br>in lights gleaming,&nbsp;&nbsp;of the legions of the stars,<br>the cold immortal&nbsp;&nbsp;Queen of mountains,<br>too fair and terrible&nbsp;&nbsp;too far and high<br>for mortal eyes,&nbsp;&nbsp;in Manwë's court...|[[The Flight of the Noldoli from Valinor]], vv. 45-50}}
+
+'''Varda Elentári''', known in [[Sindarin]] as '''Elbereth Gilthoniel''', was a [[Valar|Valië]], one of the [[Aratar]], the wife of [[Manwë]] and Queen of the Valar. 
+
+==Attributes==
+Varda knew all the regions of [[Eä]] and rejoiced in light. She was said to be too beautiful for words, as within her face radiated the light of [[Ilúvatar]]. [[Elves]] loved and revered her most of all the Valar because she created the stars, which the Elves beheld when they first awoke. They called upon her in their hours of deepest darkness.<ref name="vala" /> She appeared in shining white ''[[fana]]'' in visions to the Elves of [[Middle-earth]], and thus was called [[Fanuilos]] (Snow-white).<ref name="AElbereth">{{RGEO|7}}, p. 66</ref> 
+
+Her handmaiden was [[Ilmarë]], a Chief of the [[Maiar]].<ref>{{S|IIc}}</ref>
+
+==History==
+Before the [[Music of the Ainur]], Varda saw [[Melkor]]'s mind, and rejected him. Melkor feared and hated Varda the most out of all the Valar. In the beginning, Melkor had been unable to control light, which Varda was most associated with. When Manwë [[First War|contested]] with him for [[Arda]], Varda came from the deeps of Eä to his side.<ref name="vala">{{S|IIb}}</ref>
+[[File:Jerrel Salvatierra - Varda, Lady of the Stars.jpg|left|thumb|''Varda, Lady of the Stars'' by [[:Category:Images by Jerrel Salvatierra|Jerrel Salvatierra]]]]
+During the [[Spring of Arda]], she filled the [[Two Lamps]] with light. After their destruction at the hands of Melkor, Varda and the rest of the Ainur forsook the outer lands and removed to Aman.<ref>{{S|1}}</ref>
+
+She resided with Manwë in [[Ilmarin]] and aided him in the rule of Arda. With her, Manwë saw beyond all eyes, through mist and darkness, and with him, Varda heard all voices from every corner of the world.<ref name="vala" /> In [[Valinor]], she kept the dews of the [[Two Trees]] in [[Wells of Varda|her Wells]]. When the Valar felt that the [[Awakening of the Elves]] was near, [[Mandos]] foretold that the Elves would see the stars first and how they would always look to Varda in reverence. Then Varda gazed the darkness in Middle-earth from Taniquetil and began the greatest work made by the Valar since their coming into Arda: taking the dew from the vats of [[Telperion]], she created new and brighter stars. She set many individual [[stars]], but also [[constellations]], the [[Sickle of the Valar]] among them. A long time took this labours, and once they were finished, the Elves awoke in Middle-earth and they beheld first the stars which Varda had made. For this, Varda was the Vala most loved and revered by the Elves.<ref name="Captivity">{{S|Captivity}}</ref>
+[[File:Šárka Škorpíková - Vessels.jpg|thumb|''Vessels'' by [[:Category:Images by Šárka Škorpíková|Šárka Škorpíková]]]]
+She also hallowed the [[Silmarils]] of [[Fëanor]] when he created them, so that any being or creature of evil could never handle them without being burned.<ref>{{S|7}}</ref> 
+
+After the [[Darkening of Valinor]], Varda was tasked once again with filling the world with a new light. Therefore she took the remaining flower of [[Telperion]] and the fruit of [[Laurelin]] and placed them in vessels made by [[Aulë]]. Varda bequeathed to them such light and power that they outshone the ancient stars. In doing so, she established the courses of the [[Sun]] and [[Moon]]. Initially she purposed the Sun and the Moon to be in the sky together, but [[Irmo]] and [[Estë]] pointed out that she had deprived the world of night-time and the stars, which was still necessary for rest and sleep. Therefore Varda changed her counsel and altered the courses of the Sun so that it should spend a certain time hidden, allowing for the stars to be seen again.<ref>{{S|Sun}}</ref>
+
+At the decree of Manwë that [[Hiding of Valinor|Valinor was to be hidden]], Varda lifted her hands, palms eastward in a gesture of rejection, and summoned the vast mists and shadows that made it impossible for any living thing to find again the way westward to the shores of Valinor.<ref name="PE17">{{PE|17}}</ref>{{rp| 175}}
+
+At the end of the [[First Age]], she placed [[Eärendil]] as a [[Star of Eärendil|star]] in the sky.<ref>{{S|Earendil}}</ref>
+
+In [[Middle-earth]], she was revered by the Elves who called her name and sung hymns to her (such as the [[Elven Hymn to Elbereth]]) and perhaps answered to prayers, even to [[Samwise Gamgee]].<ref>{{TT|Lair}}</ref> The very mention of her name was said to be deadly to evil spirits, such as when Frodo uttered the name in the presence of the Morgul Lord.
+
+==Etymology==
+''Varda'' is a [[Quenya]] name of [[Valarin]] origin meaning "Sublime",<ref>{{WJ|AD1}}, p. 402</ref> "Exalted"<ref name="Namarie">{{RGEO|5}}, p. 61</ref> or "Lofty".<ref>{{L|211}}, p. 282</ref> It comes from [[Primitive Quendian]] ''baradâ'', from the [[root]] [[BARAT|BARAD]], being actually a honorific title used as a name.<ref>{{PE|Eldarin}}, pp. 22, 65</ref>
+
+In the early [[Qenya]], ''Varda'' comes from the same root as ''vard-'' ("rule, govern") or ''varni'' ("queen").<ref name="Varda">{{LT1|Appendix}}, entry "Varda"</ref>
+
+==Other names==
+*'''''Elbereth''''' her usual [[Sindarin]] name, being more or less equivalent to '''''Elentári''''' ("Star-Queen") in Quenya.<ref name="AElbereth">{{RGEO|7}}, p. 66</ref> ''Elbereth'' derives from Primitive Quendian *''[[elen]]-barathî'', being notable that ''[[bereth]]'' means "spouse", used for one who is "queen" of a king.<ref name="Elbereth">{{PE|Eldarin}}, pp. 22-23</ref>
+*'''''Tintallë''''', given to her after she kindled new brighter stars with the dew of Telperion, meaning "Star-kindler"<ref name="Captivity" /> or "she that causes sparkling, kindles lights".<ref name="Namarie" /> Its cognates were '''''Gilthoniel''''' in Sindarin<ref name="Elbereth" /> and '''''Gimilnitîr''''' in [[Adûnaic]].<ref name="Adunaic">{{SD|3vi5}}, p. 428</ref>
+*'''''Fanuilos''''', another Sindarin title, which is inadequately rendered as "Snow-white"<ref name="AElbereth">{{RGEO|7}}, p. 66</ref> or "Everwhite".<ref>{{L|211}}, p. 278</ref> Being a combination of ''[[fan]]'' ("white cloud, shape, vision") + ''Uilos'' (the Sindarin name for [[Oiolossë]]) would more precisely mean "Figure (bright and majestic) upon Uilos".<ref>{{PE|Eldarin}}, p. 26</ref>
+*'''''Avradî''''', her name in [[Adûnaic]].<ref name="Adunaic" />
+*'''''Airë Tári''''', Quenya title for "Holy Queen".<ref name="Shibb">{{PM|Shibboleth}}, pp. 363-364, note 45</ref>
+*'''''Hîr Annûn''''',<ref>{{LB|4}}, p. 354</ref> another Sindarin title, which is unglossed, but it clearly means "Lady of the West".<ref>{{HM|GS}}, p. 211</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| |,|-|-|-|.| | | | | | |}}
+{{familytree| MEL | | MAN |~| VAR | |MEL=[[Melkor]]|MAN=[[Manwë]]|VAR='''VARDA'''}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+===The Book of Lost Tales===
+In the earliest version of the [[legendarium]] in ''[[The Book of Lost Tales]]'', she is called ''Varda'' in [[Qenya]], and '''''Bridhil''''' in [[Gnomish]].<ref name="Varda" /> Her main title "Queen of Stars" is rendered in Qenya as '''''Tinwetári''''', while its [[Gnomish]] cognates were '''''Tinturwin''''', '''''Timbridhil''''', '''''Gailbridh(n)ir'''''.<ref>{{LT1|Appendix}}, entry "Tinwetári"</ref> She is also called '''''Súlimi''''' as the wife of Manwë Súlimo, while both together are called '''''[[Wanwavoisi]]'''''.<ref>{{LT1|Appendix}}, entry "Súlimo"</ref>
+
+In narrative she is referred as Varda '''the Beautiful'''. She became the wife of Manwë, the Lord of the [[Gods]], and they had two [[Valarindi|children]]: [[Úrion]] and [[Erinti]].<ref>{{LT1|II}}, pp. 58-59</ref> During the [[Music of the Ainur]], she was the one who thought most on white and silver [[light]], and on stars. When she and Manwë entered the new world, they arose with wings of power that they gathered to travel through [[Vaitya]], [[Ilwë]] and [[Vilna]], the three airs. With them came many [[spirits]] of the airs that loved them, the [[Mánir]] and the [[Súruli]]. In those first days there were dispersed lights flowing through all the airs, and while she was playing in the sky, Varda set a few stars. When [[Aulë]] and [[Melko]] began making [[Two Lamps|two lamps]] to illuminate all the regions of the world, Manwë and Varda gathered a vast amount of the light, and kindled the lamps with it. After the lamps were destroyed and the Valar built their realm, Varda proposed to gather all the light that remained in the airs and spilled in the earth to make a beacon upon [[Taniquetil]], but instead the light was gathered in two cauldrons: [[Kulullin and Silindrin]]. To help [[Palúrien]] to make the [[Two Trees of Valinor]], two holes were opened next to the cauldrons and there were buried many magical things brought by the Valar, Varda contributing with a small star in the silver pit.<ref>{{LT1|III}}, pp. 65-66, 69-71</ref>
+
+Years later, when Manwë informed her that the [[Awakening of the Elves|Elves had awoken]], Varda rose joyfully and went to [[Valmar]], where Aulë was working with a basin full of light from the silver cauldron. Hearing the news, the Vala struck his hammer, creating silver sparks. Then Varda took the sparks and mixed them with the light of the basin and molten silver. With this, she flew to the sky and set a lot of new stars of great glory and slumbering power, like [[Morwinyon]]. Later, during the council of the Valar, she supported the idea of the [[Eldar]] coming to Valinor, as she always had the greatest love for them.<ref>{{LT1|V}}, pp. 113-114, 117</ref>
+[[File:Lída Holubová - Varda.jpg|thumb|''Varda'' by [[:Category:Images by Lída Holubová|Lída Holubová]]]]
+
+===Later versions===
+In his last conceptions for his legendarium, [[Tolkien]] considered that the solar system was already created when the Valar entered into Eä. Their power would be limited to [[Arda]] and therefore the Stars would not be of their concern. In this version Varda did not create the Stars, at least not in general, but her concern acquires a new dimension, as she is the keeper of the [[Light of Valinor|Primeval Light]].<ref name="Light">{{MR|P5II}}, pp. 375-377, 380-381</ref>
+
+{{blockquote|Therefore Ilúvatar, at the entering of the Valar into Eä, added a theme to the [[Music of the Ainur|Great Song]] which was not in it at the first Singing, and he called one of the Ainur to him. Now this was that Spirit which afterwards became Varda (and taking female form became the spouse of Manwë). To Varda Ilúvatar said: 'I will give unto thee a parting gift. Thou shalt take into Eä a light that is holy, coming new from Me, unsullied by the thought and lust of Melkor, and with thee it shall enter into Eä, and be in Eä, but not of Eä.' Wherefore Varda is the most holy and revered of all the Valar, and those that name the light of Varda name the love of Eä that Eru has, and they are afraid, less only to the name of the One.}}
+
+Later, after the [[First War]], Varda gave Ari ([[Arien]]) a portion of the blessed light to inhabit the Sun, but the Maia is ravished by Melkor and the blessed light was lost.<ref name="Light" /> However, the original light of the Sun and Moon had been used to kindle the Two Trees.<ref>{{MR|P5V}}, p. 390</ref>
+
+Although Varda did not create the Stars, it is said that she designed the patterns of the main constellations as prophetic signs for the [[Children of Ilúvatar]]. However, she is still called "Star-kindler", for she made a great dome above Valinor to protect the airs from the spirits of Melkor. This dome was a ''[[Nur-menel]]'' (lesser firmament), a simulacrum of the true firmament (''[[Tarmenel]]''), and had very bright stars.<ref>{{MR|P5}}, "[Text] III" and "[Text] IV", pp. 385-388</ref>
+
+==Inspiration==
+The Valar, being divine beings below the ultimate Creator, [[Ilúvatar]], are thought of as being the [[Middle-earth]] equivalent of angels;<ref>{{L|131}}</ref> it has therefore been suggested that Varda, in her role as the most loved and prayed-to Vala, may be an equivalent of the Virgin Mary in Tolkien's own Catholic faith.<ref>{{webcite|author=Lawrence Yuen|articleurl=https://themythpilgrim.com/2020/12/16/mary-in-lotr/|articlename=15: Mary in Tolkien’s The Lord of the Rings|dated=16 December 2020|website=The Myth Pilgrim|accessed=18 March 2024}}</ref><ref>{{webcite|author=Joseph Tuttle|articleurl=https://voyagecomics.com/2021/11/12/is-tolkiens-varda-the-best-representation-of-mary-in-middle-earth/#:~:text=In%20Tolkien%27s%20legendarium%2C%20she%20is,the%20text%20of%20The%20Silmarillion.|articlename=Is Tolkien’s “Varda” the best representation of Mary in Middle-Earth?|dated=12 November 2021|website=Voyage Comics (Blog)|accessed=18 March 2024}}</ref> Another suggestion is the goddess of wisdom, [[Wikipedia:Sophia (wisdom)|Sophia]], also associated with the stars.<ref>Rose Thomas, "Is Varda the Wisdom of Eru?", in ''[[Amon Hen 245|''Amon Hen'' 245]]'', pp. 15-16</ref>
+
+{{References}}
+{{Ainur}}
+[[Category:Aratar]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Characters in The Silmarillion]]
+[[Category:First Age characters]]
+[[Category:Qenya names]]
+[[Category:Quenya names]]
+[[Category:Rulers in Aman]]
+[[Category:Third Age characters]]
+[[Category:Valar]]
+
+[[de:Varda]]
+[[fr:encyclo/personnages/ainur/valar/aratar/varda]]
+[[fi:Varda]]

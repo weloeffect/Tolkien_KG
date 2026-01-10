@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Poppy Chubb-Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1344}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Chubb-Baggins Family|Chubb-Baggins]]
+| parentage=[[Falco Chubb-Baggins]]
+| siblings=
+| spouse=[[Filibert Bolger]]
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Poppy Chubb-Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Poppy was the daughter of [[Falco Chubb-Baggins]]. She married [[Filibert Bolger]]. She was a guest at [[Bilbo's Farewell Party]].<ref>{{App|Baggins}}</ref> 
+==Etymology==
+''[[wikipedia:Poppy|Poppy]]'' is a common family of annual and perennial plants. The name derives from [[Old English]] ''popæg'', ultimately from [[Latin]] ''papaver''. 
+{{references}}
+[[Category:Bolger]]
+[[Category:Chubb-Baggins]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Magsame Bolger]]
+[[fi:Unikko Pönkeli-Reppuli]]

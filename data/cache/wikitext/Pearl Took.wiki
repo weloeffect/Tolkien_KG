@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Pearl Took
+| image=Gregor Roffalski - Paladin's Daughters.jpg
+| caption="Paladin's Daughters" by [[:Category:Images by Gregor Roffalski|Gregor Roffalski]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1375}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Accidental death of [[Lalia Clayhanger]]
+| family=[[Took Family|Took]]
+| parentage=[[Paladin Took II]] and [[Eglantine Banks]]
+| siblings=[[Pimpernel Took|Pimpernel]], [[Pervinca Took|Pervinca]] and [[Peregrin Took|Peregrin]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Pearl Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Pearl was the eldest child of [[Thain]] [[Paladin Took II]] and [[Eglantine Banks]].<ref name="Took">{{App|Took}}</ref> She was the caretaker of [[Lalia Clayhanger|Lalia the Fat]], the rotund, aged, and immensely annoying (to the Tooks) matriarch of the family. Each morning, Pearl was to push her wheelchair outside so Lalia could experience fresh air.<ref name="L214">{{L|214}}</ref>
+
+In {{SR|1401}} she was a guest at [[Bilbo's Farewell Party]].<ref name="Took"/>
+
+One morning in {{SR|1402}}, Lalia's attendant was a little bit careless in her custom of tending the old Hobbit, and the matriarch flew across the steps to her death. It was widely rumuored that Pearl was the attendant in question. As a formal expression of displeasure, Pearl was excluded from the accession ceremony of [[Ferumbras Took III|Ferumbras]], who had been waiting to become head of the clan for quite a while (he had already been Thain since the death of his father). She was, however, afterwards spotted with a necklace of pearls believed to be a Took family heirloom.<ref name="L214"/>
+
+==Etymology==
+Pearl's name follows the Hobbit custom of high-class women being named after jewels.<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+{{References}}
+
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+[[de:Perle Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/perle touque]]
+[[fi:Helmi Tuk]]

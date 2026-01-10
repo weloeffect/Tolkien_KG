@@ -1,0 +1,94 @@
+{{disambig-two|the eighth [[Kings of Arthedain|King]] of [[Arthedain]]|twelfth King|[[Arveleg II]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arveleg I
+| image=Arveleg rotwk.jpg
+| caption=Arveleg from ''[[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king|The Rise of the Witch-king]]''
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1309}}
+| birthlocation=
+| rule={{TA|1356}} - {{TA|1409|n}}
+| death={{TA|1409}}
+| deathlocation=[[Fall of Amon Sûl]]
+| age=100
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Argeleb I]]
+| siblings=
+| spouse=
+| children=[[Araphor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arveleg I''' ({{TA|1309}}<ref>{{PM|Elendil}}, p. 194</ref> - {{TA|1409}}<ref>{{App|North}}</ref>) was the eighth king of [[Arthedain]], succeeding his father, [[Argeleb I]].
+
+==History==
+During his lifetime, the father of Arveleg, Argeleb son of [[Malvegil]], was the only King in Arnor that still had [[Isildur]]'s heritage. As such, he claimed lordship over [[Rhudaur]] and [[Cardolan]]. The men of Rhudaur resisted this claim, and a captain of the [[Hill-men]] of that land formed a secret alliance with Argeleb's enemy, the [[Witch-king]] of [[Angmar]]. Thus Arveleg grew up in an era of War. The armies of [[Angmar]] and Rhudaur laid siege to the [[Weather Hills]], and Argeleb fell. And so, in {{TA|1356}}, Arveleg became the eighth King of Arthedain.
+
+With the help of the Dúnedain of Cardolan and the [[Elves of Lindon]], Arveleg managed to drive out the enemies from the Weather Hills. Arthedain and Cardolan kept a guarded border along the Weather Hills, the [[East Road]] and the lower [[Hoarwell]]. This defence was apparently effective, as Angmar shifted its attention to [[Rivendell]] instead. 
+
+In {{TA|1409}}, the armies of Angmar and Rhudaur crossed the Hoarwell, occupied Cardolan, and closed in on Weathertop. In a bloody [[Fall of Amon Sûl|battle]], both Arveleg and the [[last prince of Cardolan]] were slain.<ref>{{HM|RC}}, "Fog on the Barrow-downs", pp. 144-5; Index, 'Cardolan, [[Last prince of Cardolan|last prince of]]'</ref> The [[Amon Sûl-stone|palantír]] of Amon Sûl could be saved, however, and was brought to the capital of Arthedain, [[Fornost Erain|Fornost]].
+
+After his death, Arveleg was succeeded by his 18-year old son, [[Araphor]]. Though this was a young age for one of [[Númenóreans|Númenórean]] blood, he was valiant. With the help of the [[Círdan]] of Lindon, he repelled attacks on Fornost and the [[North Downs]].<ref>{{App|Eriador}}</ref>
+
+== Etymology ==
+''Arveleg'' is a [[Sindarin]] name.<ref name=GS>{{HM|GS}}, p. 342</ref><ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=03 February 2022}}</ref><ref name=Eldamo>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2530447817.html|articlename=S. ''Arveleg'' m.|website=Eldamo|accessed=08 March 2023}}</ref><ref>{{App|Elves}}, footnote after "''Eldarin'' form"</ref><ref>{{App|North}}, footnote after "Amlaith of Fornost"</ref><ref>{{PM|Elendil}}, manuscript C, The Heirs of Elendil, The Northern Line of Arnor: the Isildurioni, 10. Earendur, "used Elvish names of Noldorin form"</ref> Its meaning its not glossed, but [[David Salo]] and the Association Tolkiendil suggest that ''Arveleg'' means "Mighty King".<ref name=GS/><ref name=Tolkiendil/> David Salo, the Association Tolkiendil and Paul Strack suggests that it is a combination of ''[[ara|ar(a)-]]''<ref>{{App|North}}, footnote after "Malvegil 1349,"</ref> ("royal", "noble", "high") and a [[lenition|lenited]] form ''veleg'' of ''[[beleg]]'' ("mighty", "great").<ref name=GS/><ref name=Tolkiendil/><ref name=Eldamo/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | MAL |MAL=[[Malvegil]]<br/><small>''{{TA|1144|n}} - {{TA|1349|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARG |ARG=[[Argeleb I]]<br/><small>''{{TA|1226|n}} - {{TA|1356|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARV |ARV='''ARVELEG I'''<br/><small>''{{TA|1309|n}} - {{TA|1409|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Araphor]]<br/><small>''{{TA|1391|n}} - {{TA|1589|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARG |ARG=[[Argeleb II]]<br/><small>''{{TA|1473|n}} - {{TA|1670|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:The events surrounding Arveleg play a major role in the expansion pack, ''[[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king|The Rise of the Witch-king]]''. Arveleg, voiced by [[Cam Clarke]], is portrayed as using the [[Amon Sûl-stone|palantír of Amon Sûl]] to anticipate the Witch-king's plans. He survives the Fall of Amon Sûl and takes the palantír with him, but destroys it (and himself in the process) to prevent it from falling in the Witch-king's hands.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1309}}
+| died={{TA|1409}}
+}}
+{{seq
+| prow=2
+| prev=[[Argeleb I]]
+| list=16th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1356}} - {{TA|1409|n}}
+| next=[[Araphor]]
+| nrow=2
+}}
+{{seq
+| list=8th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1356}} - {{TA|1409|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Third Age characters]]
+[[de:Arveleg I.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/dunedain_du_nord/arveleg_ier]]
+[[fi:Arveleg I]]

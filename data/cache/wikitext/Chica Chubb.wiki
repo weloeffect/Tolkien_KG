@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Chica Chubb
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=c. {{SR|1264}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Chubb Family|Chubb]]
+| parentage=
+| siblings=
+| spouse=[[Bingo Baggins]]
+| children=[[Falco Chubb-Baggins]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Chica Baggins, née Chubb''', was a [[Hobbit]] of [[the Shire]].
+
+==History==
+Chica was the daughter of the head of the Chubb family. As her family name would have become lost after her marriage to [[Bingo Baggins]], her offspring received a double surname,<ref>{{L|214}}</ref> [[Chubb-Baggins]]. Their son [[Falco Chubb-Baggins|Falco]] was the first to bear that name.<ref>{{App|Baggins}}</ref>
+
+{{references}}
+[[Category:Hobbits]][[Category:Chubb]][[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Chica Pausbacken-Beutlin]]
+[[fr:/encyclo/personnages/hobbits/fouineur/chica_fouineur]]
+[[fi:Siikka Pönkeli]]

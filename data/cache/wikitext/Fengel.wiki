@@ -1,0 +1,88 @@
+{{disambig-two|the fifteenth king of [[Rohan]]|great-grandfather of [[Tuor]] in ''[[The Book of Lost Tales]]''|[[Fengel (father of Indor)|Fengel]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Fengel
+| image=The Lord of the Rings Online - Fengel.jpg
+| caption=Fengel in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2870}}
+| birthlocation=
+| rule={{TA|2903}} - {{TA|2953|n}}
+| death={{TA|2953}} (aged 83)
+| deathlocation=
+| age=
+| notablefor=fifteenth king of [[Rohan]]
+| house=[[House of Eorl]]
+| parentage=[[Folcwine]]
+| siblings=[[Folcred]], [[Fastred (son of Folcwine)|Fastred]], unnamed sister
+| spouse=
+| children=Two unnamed daughters,<ref>{{App|Mark}}</ref><ref group="note">Under Fengel in [[Appendix A]] it states: "Thengel, his third child and only son, left Rohan when he came to manhood and lived long in Gondor, and won honour in the service of Turgon."</ref> [[Thengel]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Fengel''' ({{TA|2870}} - {{TA|2953|n}}) was the fifteenth [[King of Rohan]].
+
+==History==
+Fengel was the third and only surviving son of [[Folcwine]], and became king after the death of his father in {{TA|2903}}.
+
+Fengel's two older brothers, [[Folcred]] and [[Fastred (son of Folcwine)|Fastred]], were killed in the fief [[South Gondor]] while fighting for [[Gondor]], and as a result Fengel grew up rather spoiled. As a grown man he became known for his greed and love of gold.
+
+His son [[Thengel]] left Rohan because of disagreements with his father, living with [[Morwen Steelsheen|his wife]]'s family in [[Gondor]] instead.
+
+After a rule of over 50 years Fengel died in {{TA|2953}}, and Thengel reluctantly returned to Rohan.<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+''Fengel'' means "prince" in [[Old English]].<ref>{{HM|RC}}, p. 644</ref> The word appears in three places in ''Beowulf.'' The word is from a Germanic root meaning "to grasp".
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | FOL | | | | | | | | | | |FOL=[[Folca]]<br/><small>''{{TA|2804|n}} - {{TA|2864|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | |}}
+{{familytree | | | | | | | FOL | | | | | | | | | | |FOL=[[Folcwine]]<br/><small>''{{TA|2830|n}} - {{TA|2903|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | | | |}}
+{{familytree | FOL | | FAS | | DAU | | FEN | | | | |FOL=[[Folcred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|FAS=[[Fastred (son of Folcwine)|Fastred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FEN='''FENGEL'''<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|-|-|(| | | | | |}}
+{{familytree | | | | | | | | | DAU | | THE |y| MOR |DAU=''two daughters''<br/><small>''unknown''</small>|THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>|MOR=[[Morwen Steelsheen]]<br/><small>''b. {{TA|2922|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|-|-|v|-|^|-|.| |}}
+{{familytree | | | | | | | | | THE | | DAU | | THW |THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>|DAU=''three daughters''<br/><small>''unknown''</small>|THW=[[Théodwyn]]<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+:In the last winter of his reign, King Fengel was hunting north of the [[Entwade]] when an elderly woman named Wyrgende stumbled into his camp. Fengel sent her away into the dark night and the next day she was found frozen to death at the foot of a tall boulder, in which she had carved a curse against him. King Fengel was furious and ordered Wyrgende's body burned and the stone destroyed, but no man of his company could more her, and every hammer and mattock they set to the stone shattered on contact. Fengel himself assailed the stone with his sword until the blade shattered, and a shard pierced his thigh. The wound festered, and King Fengel died of poisoned blood on the first day of Spring.
+
+{{references|Notes}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2870}}
+| died={{TA|2953}}
+}}
+{{seq
+| prev=[[Folcwine]]
+| list=15th [[Kings of Rohan|King of Rohan]]
+| dates={{TA|2903}} - {{TA|2953|n}}
+| next=[[Thengel]]
+}}
+{{seq-end}}
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Fengel]]
+[[fi:Fengel]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/fengel]]

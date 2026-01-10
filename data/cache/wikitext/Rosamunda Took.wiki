@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rosamunda Took
+| image=
+| caption=
+| pronun=
+| othernames=Rosamunda Bolger
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1338}}
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Sigismond Took]]
+| siblings=[[Ferdinand Took|Ferdinand]]
+| spouse=[[Odovacar Bolger]]
+| children=[[Fredegar Bolger|Fredegar]] and [[Estella Bolger|Estella]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rosamunda Bolger, née Took''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Rosamunda was the daughter of [[Sigismond Took]].<ref>{{App|Took}}</ref> She married [[Odovacar Bolger|Odovacar]] of the [[Bolger Family]], and had two children: [[Fredegar Bolger|Fredegar]] and [[Estella Brandybuck|Estella]]. The couple and their children attended [[Bilbo's Farewell Party]] in {{SR|1401}}.<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+In the middle ages, the name was believed to mean ''rosa munda'', Latin for "pure rose", but it derived from ''hros'' "horse" and ''mund'' "hand, protection".<ref>{{HM|IE}}, "Giving of Names"</ref>
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Bolger]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Rosamunde Bolger]]
+[[fi:Rosamunda Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/rosamunda touque]]

@@ -1,0 +1,65 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isumbras Took I
+| image=Gregor Roffalski - Isumbras Took I.jpg
+| caption="Isumbras Took I" by [[:Category:Images by Gregor Roffalski|Gregor Roffalski]]
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=before {{SR|740}}
+| birthlocation=
+| rule=from {{SR|740}}
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Isumbras Took''' was a the thirteenth [[Thain]] of [[the Shire]].
+
+==History==
+Isumbras was elected Thain in {{SR|740}},<ref>{{App|TA}}</ref> after [[Gorhendad Oldbuck]] relocated to [[Buckland]].<ref>{{FR|I5}}</ref> From then on, the Thain was a title held by the [[Took Family]].<ref>{{App|Took}}</ref>
+
+==Etymology==
+"Isumbras" is of French and [[Old English|Anglo-Saxon]] origin and means "iron-arm". It comes from the French ''bras'' meaning "arm", and the Anglo-Saxon and Middle High German word ''[[isen]]'' which means "iron".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+[[J.R.R. Tolkien|Tolkien]] likely got the name from ''[[wikipedia:Sir Isumbras|Sir Isumbras]]'', an English medieval romance about a man who suffers a lifetime of hardship but who finds happiness in his latter years.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born=Before {{SR|740}}
+| died=After {{SR|740}}
+}}
+{{Seq
+| prev=[[Gorhendad Oldbuck]]
+| list=13th [[Thain]] of [[The Shire]]
+| dates={{SR|740}} - unknown
+| nvac=[[Isumbras Took II|Unknown]]
+| next=Next known:<br/>[[Isengrim Took II]]
+}}
+{{seq-end}}
+{{seq-end}}
+{{thains}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]

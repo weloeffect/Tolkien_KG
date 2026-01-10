@@ -1,0 +1,66 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ferumbras Took II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1101}}
+| birthlocation=
+| rule={{SR|1159}} - {{SR|1201|n}}
+| death={{SR|1201}}
+| deathlocation=
+| age=100
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Isumbras Took III]]
+| siblings=[[Bandobras Took|Bandobras]]
+| spouse=
+| children=[[Fortinbras Took I|Fortinbras]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ferumbras Took II''' was a [[Thain]] of [[the Shire]].
+
+==History==
+Ferumbras was the oldest son of [[Thain]] [[Isumbras Took III|Isumbras III]], though in fame he was outshone by his younger brother, [[Bandobras Took|Bandobras]], who moved to the [[Northfarthing]] and won the [[Battle of Greenfields]]. Ferumbras instead became Thain, and was succeeded in turn by his son [[Fortinbras Took I|Fortinbras]].<ref>{{App|Took}}</ref>
+
+==Etymology==
+[[Wikipedia:Ferumbras|Ferumbras]] is a name from the [[wikipedia:Roland|legends of Roland]], a corruption of Frankish ''fier à bras'', "brave arm".
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1101}}
+| died={{SR|1201}}
+}}
+{{Seq
+| prev=[[Isumbras Took III|Isumbras III]]
+| list=24th [[Thain]] of [[The Shire]]
+| dates={{SR|1159}} - {{SR|1201|n}}
+| next=[[Fortinbras Took I|Fortinbras I]]
+}}
+{{seq-end}}
+{{thains}}
+[[Category:Germanic names]]
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+
+[[de:Ferumbras Tuk II.]]
+[[fi:Ferumbras II Tuk]]

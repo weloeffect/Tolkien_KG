@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Marroc Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1182}}<ref>{{PM|Trees}}, p. 105, "Table BR 4"</ref>
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gormadoc Brandybuck]] and [[Malva Headstrong]]
+| siblings=[[Madoc Brandybuck|Madoc]] and [[Sadoc Brandybuck|Sadoc]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Marroc Brandybuck''' was a Hobbit of [[Buckland]].
+
+==History==
+Marroc was the youngest son of [[Gormadoc Brandybuck]] and [[Malva Headstrong]].  He had many descendants.<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Marroc'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+A Kngiht of the Round Table named ''Marrok'' is mentioned in Malory's ''Le Morte Darthure''.<ref>{{HM|IE}}, "Giving of Names", p. 203</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]
+[[de:Marroc Brandybock]]
+[[fr:encyclo/personnages/hobbits/brandebouc/marroc brandebouc]]
+[[fi:Marroc Rankkibuk]]

@@ -1,0 +1,54 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Folco Boffin
+| image=Quinton Hoover - Folco Boffin.jpg
+| caption="Folco Boffin" by [[Quinton Hoover]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1378}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Vigo Boffin]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Folco Boffin''' (born {{SR|1378}}) was a [[Hobbits|Hobbit]] of [[the Shire]].<ref name="Boffin">{{App|Boffin}}</ref>
+
+==History==
+Folco was the son of [[Vigo Boffin]] and one of the guests at [[Bilbo's Farewell Party]].<ref name="Boffin"/>
+
+He was a friend of [[Frodo Baggins]],<ref>{{FR|Shadow}}, p. 42</ref> and in [[September]] {{TA|3018}} he stayed in [[Bag End]] assisting in Frodo's move to [[Buckland]] by packing and loading carts. He stayed to celebrate [[22 September|Frodo's birthday]] with [[Merry]], [[Pippin]] and [[Fatty Bolger]]. [[23 September|The next day]]<ref>{{App|Great}}, entry for the year 3018, September 23, p. 1091</ref> they loaded the last of the luggage leaving for [[Crickhollow]], and after lunch he left for his home.<ref>{{FR|Three}}, pp. 67-68</ref>
+
+==Portrayal in adaptations==
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:Folco Boffin is a Scout, playable as a Character.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Folco lives at Number Seven, Water Road, in [[Hobbiton]].
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Hobbits]]
+[[Category:Boffin]]
+[[Category:Third Age characters]]
+
+[[de:Folko Boffin]]
+[[fi:Folco Boffin]]

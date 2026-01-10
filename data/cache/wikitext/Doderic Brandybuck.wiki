@@ -1,0 +1,57 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Doderic Brandybuck
+| image=The Lord of the Rings Online - Doderic Brandybuck.jpg
+| caption=Doderic Brandybuck from ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1389}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Seredic Brandybuck]] and [[Hilda Bracegirdle]]
+| siblings=[[Ilberic Brandybuck|Ilberic]] and [[Celandine Brandybuck|Celandine]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Doderic Brandybuck''' was a Hobbit of [[the Shire]].
+
+==History==
+Doderic was a son of [[Seredic Brandybuck]] and [[Hilda Bracegirdle]]. He attended [[Bilbo's Farewell Party]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Doderic'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+[[Jim Allan]] suggests that the name ''Doderic'' is a Germanic form of [[Wikipedia:Theuderic|Theuderic]] with the variatons [[Wikipedia:Theodoric the Great|Theodoric]] and [[Wikipedia:Dietrich von Bern|Dietrich]] and is a combination of the elements ''theud'' ("people") and ''ric'' ("rule", "reign").<ref>{{HM|IE}}, Giving of Names, p. 191</ref>
+
+==Other versions of the legendarium==
+In an earlier version of the family tree of the Brandybuck family he had the name [[Wikipedia:Roderic|Roderic]],<ref>{{PM|Trees}}, manuscript BR 4</ref> the name of a [[Wikipedia:Visigoths|Visigothic]] king of Spain between A.D. 710 and 711.
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Doderic Brandybuck had ventured into the [[Old Forest]] along with his friend Rollo, son of [[Farmer Maggot]]. [[Saradoc Brandybuck]] asks the player to find them and send them back.
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Third Age characters]]
+
+[[de:Doderic Brandybock]]
+[[fi:Doderic Rankkibuk]]
+[[fr:encyclo:personnages:hobbits:brandebouc:doderic brandebouc]]

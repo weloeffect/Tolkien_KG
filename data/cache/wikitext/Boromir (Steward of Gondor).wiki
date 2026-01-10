@@ -1,0 +1,91 @@
+{{disambig-more|Boromir|[[Boromir (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Boromir
+| image=Ralph Damiani - The Wounded Captain.png
+| caption=''The Wounded Captain'' by [[Ralph Damiani]]
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2410}}
+| birthlocation=
+| rule={{TA|2477}} - {{TA|2489|n}} (12 years)
+| death={{TA|2489}}
+| deathlocation=
+| age=79
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Denethor I]]
+| siblings=2 older siblings
+| spouse=
+| children=[[Cirion]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{Pronounce|Boromir.mp3|Ardamir}} 
+'''Boromir''' ([[Third Age]] 2410<ref name="Elendil">{{PM|Elendil}}, p. 205</ref> – 2489,<ref name="South">{{App|South}}</ref> aged 79 years) was the eleventh [[Ruling Steward]] of [[Gondor]].
+
+Boromir was noble and fair of face, strong in body and will; during his prime he was a great captain that even the [[Witch-king]] feared.<ref name=stew>{{App|Stewards}}</ref>
+
+==History==
+Boromir was the third child of [[Denethor I]]<ref name="Elendil"/> during whose time the realm was under siege and [[Ithilien]] had been lost to fierce [[Uruk-hai]]. He succeeded his father upon his death in {{TA|2477}} and fought several extensive campaigns to win back the land. Despite his victory, Ithilien remained depopulated, [[Osgiliath]] was finally ruined with its stone-bridge broken.<ref name=stew/>
+
+During that war he received a [[Morgul-wounds|Morgul-wound]] and despite all his might and strength, he became shrunken with pain and ruled only twelve years.<ref name=stew/>
+
+He was followed by his son [[Cirion]] at his death in 2489.<ref name="South"/>
+
+Centuries later, Steward [[Denethor II]] named his heir [[Boromir]], after him.<ref name=stew/>
+
+==Etymology==
+:''See [[Boromir#Etymology|Boromir: Etymology]]''
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BAR | | | | |BAR=[[Barahir (Steward of Gondor)|Barahir]]<br/><small>''{{TA|2290|n}} - {{TA|2412|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DIO | | RIA | | |DIO=[[Dior (Steward of Gondor)|Dior]]<br/><small>''{{TA|2328|n}} - {{TA|2435|n}}''</small>|RIA=[[Rían (daughter of Steward Barahir)|Rían]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | DEN | | |DEN=[[Denethor I]]<br/><small>''{{TA|2375|n}} - {{TA|2477|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DAU | | BOR |DAU=''two daughters''<br/><small>''unknown''</small>|BOR='''BOROMIR'''<br/><small>''{{TA|2410|n}} - {{TA|2489|n}}''</small>}}
+{{familytree | | | | | | | |!| |}}
+{{familytree | | | | | | | CIR |CIR=[[Cirion]]<br/><small>''{{TA|2449|n}} - {{TA|2567|n}}''</small>}}
+{{familytree | | | | | | | |!| |}}
+{{familytree | | | | | | | HAL |HAL=[[Hallas]]<br/><small>''{{TA|2480|n}} - {{TA|2605|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2410}}
+| died={{TA|2489}}
+}}
+{{seq
+| prev=[[Denethor I]]
+| list=11th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2477}} – {{TA|2489|n}}
+| next=[[Cirion]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Boromir (Sohn von Denethor I)]]
+[[fi:Boromir (Denethor I:n poika)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:boromir ier]]

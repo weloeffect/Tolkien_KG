@@ -1,0 +1,132 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Thrór
+| image=Donato Giancola - Carc and Thror.jpeg
+| caption="Carc and Thror" by [[Donato Giancola]]
+| pronun=
+| othernames=
+| titles=[[Kings of Durin's Folk|King of Durin's Folk]]<br/>[[King under the Mountain]]
+| position=
+| location=[[Grey Mountains]]<br/>[[Lonely Mountain]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2542}}
+| birthlocation=[[Grey Mountains]]
+| rule={{TA|2589}} - {{TA|2790|n}}
+| death={{TA|2790|n}} (aged 248)
+| deathlocation=[[Moria]]
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Dáin I]]
+| siblings=[[Frór]], [[Grór]]
+| spouse=
+| children=[[Thráin|Thráin II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Thrór''' ({{TA|2542}} – {{TA|2790|n}}, lived 248 years) was King of [[Durin's Folk]] for 201 years, from {{TA|2589|n}} to 2790. He was the eldest son of [[Dáin I]] and brother of [[Grór]] and [[Frór]].<ref name="Durin">{{App|Durin}}</ref>
+
+==History==
+After a great [[Cold-drakes|Cold-drake]] killed both his father and brother [[Frór]], the remaining brothers Thrór  and [[Grór]] led their people away from the [[Grey Mountains]].  As Dáin's heir Thrór led many [[Dwarves]] back to [[Lonely Mountain]] in {{TA|2590}},<ref name="TA">{{App|TA}}</ref> where he became [[King under the Mountain]], a title held earlier by his ancestor, [[Thorin I]].  Grór continued east with a great following of Durin's folk to the [[Iron Hills]], where he founded his own [[Dwarves of the Iron Hills|realm]].<ref name="Durin"/>
+
+=== King under the Mountain ===
+At Erebor, Thrór and his people re-established the [[Kingdom under the Mountain]] and became very prosperous.  Thrór brought the [[Arkenstone]] back to [[Lonely Mountain|Erebor]]<ref name="Durin"/> and the hall of feasting and council, the [[Great Chamber of Thrór]],<ref>{{H|Home}}</ref>   was named after him.
+
+Thrór and his people gained the friendship of the [[Northmen]] who lived along the river [[River Running|Celduin]].  These people later founded the town of [[Dale]] and had much trade of goods, beautiful trinkets, and weapons with the Dwarves.  The [[Dwarves of Erebor]] also had much traffic of ores with their kinsman in the Iron Hills and the region had peace and prosperity for many years.
+  
+But in {{TA|2770|n}}<ref name="TA"/> their prosperity ended.  The Dragon [[Smaug]] heard of the wealth of Thrór and his people.  He flew south from the [[Grey Mountains|Ered Mithrin]] and sacked the Lonely Mountain, killing many Dwarves.  From the destruction many escaped, the last of them being Thrór and his son [[Thráin]] from  the hidden [[Back Door]].  With a small company of kin and faithful followers they made a great wandering southward, until they reached the hills of [[Dunland]].<ref name="Durin"/>
+
+On a [[Mid-year's Day]] under a broad crescent moon, Thrór created his [[Thrór's Map|map]] of the Lonely Mountain and the [[Desolation of the Dragon]].  In addition to the readily visible features on the map, Thrór added the details about the hidden [[Back Door]] into the Mountain, written in [[Moon-letters]] for secrecy.<ref>{{H|Rest}}</ref>
+
+===Dunland, and the journey to Moria===
+In [[Dunland]], his people tried to make a living, but twenty years<ref name="TA"/> after the [[Sack of Erebor]], despondent and homeless, Thrór left his people and went north with a single companion, [[Nár]].  Before leaving, Thrór gave his son [[Thráin|Thráin II]] his [[Ring of Thrór|Ring of Power]], along with the map and key to the Lonely Mountain.  Thrór wished to see the fabled city of his ancestors, [[Moria|Khazad-dûm]].  
+
+Eventually they made it over the [[Redhorn Pass]] down into [[Azanulbizar]], the Dimrill Dale.  Coming to the [[Great Gates|East-gate]] of Moria Thrór found it open.  Nár begged him to beware, but ignoring his companion Thrór walked through the gates as the heir who had returned.  But he did not come back.<ref name="Durin"/>
+
+[[File:Steamey - Azog and Nár.jpg|thumb|left|''Azog and Nár'' by [[:Category:Images by Steamey|Steamey]]]]
+===Death===
+Nár hid nearby for many days until he saw Thrór's body flung down the steps; his severed head lay face downward on the ground.  As he knelt there, Nar saw branded across his forehead in [[Angerthas Moria|Dwarvish runes]] the name [[Azog|AZOG]].   This [[Orcs|Orc]] then threw a small purse of coins at him, calling him a beggar.  Nár fled weeping down the [[Celebrant|Silverlode]], while Orcs emerged and hacked Thrór's body into pieces and fed them to the crows.<ref name="Durin"/>
+
+When Nár told Thráin what had happened, he declared war on the Orcs and called all the Seven Houses of the Dwarves together for vengeance. Nine years later in {{TA|2799}}<ref name="TA"/> at the [[Battle of Azanulbizar]], the climax of the [[War of the Dwarves and Orcs]], the death of Thrór was avenged when Azog was beheaded by [[Dáin Ironfoot]]. Thráin took Azog's severed head, shoved the purse of coins into his mouth and then set it on a stake.<ref name="Durin"/>
+
+==Etymology==
+[[Jim Allan]] has suggested that the name ''Thrór'' derives from ''Þrór'', a dwarf from the ''[[Völuspá|Dvergatal]]''. According to Allan, ''Þrór'' means "boar", deriving from a root meaning "to expand" (linking the meaning to Thrór's expanding of the "''diggings and wealth of the Lonely Mountain''").<ref>[[Jim Allan]], "Giving of Names", in ''[[An Introduction to Elvish]]'', p. 223</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | | | | | | | | | | | | NAI | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| | | | | | | | | | |,|-|-|-|^|-|-|-|.| | | | | |}}
+{{familytree| | | | | | | | | | DAI | | | | | | BOR | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>| BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| | | | | | |,|-|-|-|+|-|-|-|.| | | |!| | | | | |}}
+{{familytree| | | | | | THR | | FRO | | GRO | | FAR | | | | |THR='''THRÓR'''<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO=[[Frór]]<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO=[[Grór]]<br/>''<small>{{TA|2563|n}} - {{TA|2805|n}}</small>''|FAR=[[Farin]]<br/>''<small>{{TA|2560|n}} - {{TA|2803|n}}</small>''}}
+{{familytree| | | | | | |!| | | | | | | |!| | | |)|-|-|-|.| |}}
+{{familytree| | | | | | THR | | | | | | NAI | | FUN | | GRO |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI=[[Náin (son of Grór)|Náin]]<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO=[[Gróin]]<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | |!| | | |!| | | |!| |}}
+{{familytree| | THO | | FRE | | DIS | | DAI | | BAL | | GLO |THO=[[Thorin|Thorin II]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|FRE=[[Frerin]]<br/><small>''{{TA|2751|n}} - {{TA|2799|n}}''†</small>|DIS=[[Dís]]<br/><small>''b. {{TA|2760|n}}''</small>|BAL=[[Balin]]<br/><small>''{{TA|2763|n}} - {{TA|2994|n}}''†</small>|GLO=[[Glóin]]<br/><small>''{{TA|2783|n}} - {{FoA|15}}''</small>|DAI=[[Dáin Ironfoot|Dáin II]]<br/><small>''{{TA|2767|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===The Chief of the Guards in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:David T. Wenzel - Thrór.jpg|Thrór in [[The Hobbit (comic book)|''The Hobbit'' (comic book)]]
+The Hobbit - An Unexpected Journey - Thrór.jpg|Thrór in ''[[The Hobbit: An Unexpected Journey]]''
+The Lord of the Rings Online - Thrór.jpg|Thrór in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:A statue of Thrór stands in the great hall of [[Lonely Mountain|Erebor]].
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:Thrór is played by [[Jeffrey Thomas]].<ref name="PJCasting">{{webcite|author=[[Peter Jackson]]|articleurl=http://www.facebook.com/note.php?note_id=10150168211921558|articlename=Production begins in New Zealand on The Hobbit|dated=20-March-2011|website=[http://www.facebook.com/ Facebook]|accessed=23-Dec-2011}}</ref> Contrary to [[J.R.R. Tolkien|Tolkien]]'s writings, Thrór is shown as the ruling king at the time of the discovery of the [[Arkenstone]] instead of his ancestor [[Thráin I]]. With this, the film portrays him as believing its discovery as a sign of his divine right to the throne.
+
+:The film also condenses the events after the [[Sack of Erebor]] to show Thrór choosing to try to retake [[Moria]] as the home of his people, but in the process being beheaded in the [[Battle of Azanulbizar]] by [[Azog]].
+
+'''2021: ''[[The Lord of the Rings Online]]'':'''
+:Thrór's tragic fate is depicted in a flashback called "[[Nár]]'s Tale", being the first of many hardships endured by the King's companion.
+
+==See also==
+*[[:Category:Images of Thrór|Images of Thrór]]
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[Durin's Folk|House of Durin]]
+| born={{TA|2542}}
+| died={{TA|2790}}
+}}
+{{seq
+| prev=[[Dáin I]]
+| list=[[Kings of Durin's Folk|King of Durin's Folk]]
+| dates={{TA|2589}} – {{TA|2790|n}}
+| next=[[Thráin|Thráin II]]
+}}
+{{seq
+| pvac=Vacant
+| prev=''[[Thorin I]], 350 years earlier''
+| list=3rd [[King under the Mountain]]
+| dates={{TA|2590}} – {{TA|2770|n}}
+| nvac=Abandoned
+| next=''[[Thorin|Thorin Oakenshield]],<br/>171 years later''
+}}
+{{seq-end}}
+
+{{durinskings}}
+{{hobbitfilms}}
+{{DEFAULTSORT:Thror}}
+[[Category:Characters in The Hobbit]]
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Kings under the Mountain]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Thrór]]
+[[fi:Thrór]]
+[[fr:encyclo/personnages/nains/3a/thror]]

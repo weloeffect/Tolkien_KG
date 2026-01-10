@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Jago Boffin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1294}}
+| birthlocation=
+| rule=
+| death={{SR|1386}}
+| deathlocation=
+| age=92
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Hugo Boffin]] and [[Donnamira Took]]
+| siblings=[[Jessamine Boffin|Jessamine]]
+| spouse=
+| children=[[Vigo Boffin|Vigo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Jago Boffin''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Jago was the eldest child of [[Hugo Boffin]] and [[Donnamira Took]]. He had one son, [[Vigo Boffin]].<ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+[[Category:Boffin]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Jago Boffin]]
+[[fi:Jago Boffin]]
+[[fr:encyclo/personnages/hobbits/bophin/jago bophin]]

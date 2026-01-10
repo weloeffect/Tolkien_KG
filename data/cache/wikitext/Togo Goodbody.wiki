@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Togo Goodbody
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=c. {{SR|1222}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Goodbody Family|Goodbody]]
+| parentage=
+| siblings=
+| spouse=[[Lily Baggins]]
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Togo Goodbody''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Togo married [[Lily Baggins]]. They had several descendants.<ref>{{App|Baggins}}</ref>
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Goodbody]]
+[[Category:Third Age characters]]
+
+[[de:Togo Gutleib]]
+[[fi:Togo Hyväkäs]]

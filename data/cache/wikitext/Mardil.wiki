@@ -1,0 +1,107 @@
+{{short description|1st Steward of Gondor}}
+{{disambig-more|Voronwë|[[Voronwë (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Mardil
+| image=Oznerol-1516 - Earnur and Mardil.jpg
+| caption="Earnur and Mardil" by [[:Category:Images by Oznerol-1516|Oznerol-1516]]
+| pronun=
+| othernames=''Voronwë'' ([[Quenya|Q]], "Steadfast")
+| titles=[[Steward of Gondor]], [[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|1960}}
+| birthlocation=
+| rule={{TA|2050}} - {{TA|2080|n}} (30 years)
+| death={{TA|2080}}
+| deathlocation=
+| age=120
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Vorondil]]
+| siblings=
+| spouse=
+| children=[[Eradan]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mardil Voronwë''' ([[Third Age]] {{TA|1960|n}}<ref>{{PM|Elendil}}, p. 204</ref> – {{TA|2080|n}},<ref>{{App|South}}</ref>) was Steward under the kings [[Eärnil II]] and [[Eärnur]], and then became the first Ruling [[Steward of Gondor]].
+
+==History==
+In {{TA|2029}}, Mardil succeeded his father [[Vorondil]] as the second hereditary Steward of Gondor (a tradition begun with his grandfather [[Pelendur]]).<ref>{{App|Stewards}}</ref>
+
+When Eärnil II died in {{TA|2043}} and Eärnur ascended to the throne, the King of [[Minas Morgul]] (the [[Witch-king]] of [[Angmar]]) challenged him to single combat.  Mardil was able to restrain Eärnur's wrath at that time, but in {{TA|2050}} the King of Morgul renewed his challenge, adding taunts that Eärnur could not ignore.  Mardil was powerless to prevent Eärnur from riding to Minas Morgul; he and his small escort were never heard from again.
+
+Eärnur had died unmarried with no heirs.  Royal descendants had become few and no claimant for the throne could be found of pure [[Númenórean]] blood, or whose claim all would accept, and people were afraid of a new [[Kin-strife]] that would devastate the kingdom.  Thus, by default, Mardil began the line of Ruling Stewards of Gondor.<ref>{{App|Gondor}}</ref>
+
+Because the fate of the King was unknown, Mardil made an oath to rule in the King's name until "the King returns". This oath would be sworn by all of the Ruling Stewards.
+
+Mardil ruled Gondor with a steady hand and earned the epithet ''Voronwë'', which means "the Steadfast" in [[Quenya]].<ref name=MardilVoronwe>{{App|South}}, Stewards of Gondor, entry for Steward Mardil Voronwë</ref><ref>{{PE|17}}, p. 115 entry Q ''Voronwe'' 'steadfastness'</ref> One of his works was to introduce and establish the [[Stewards' Reckoning]] in Gondor. He inserted two leap-days in the year {{TA|2050}}.<ref>{{App|Calendars}}</ref> After Mardil the [[Stewards of Gondor]] no longer took names in [[Quenya]] (High-elven<ref>{{App|Elves}}, first paragraph</ref>), but took names in [[Sindarin]] instead.<ref name=MardilVoronwe/>
+
+==Etymology==
+''Mardil'' is [[Quenya]] for "Devoted to the House" (of the Kings),<ref>{{L|297|118}}</ref> being a combination of ''[[már|mar(da)]]'' ("house") + suffix ''[[-ndil|-(n)dil]]'' ("friend", "lover", "devoted to").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1333397625.html|articlename=Q. ''Mardil'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | PEL |PEL=[[Pelendur]]<br/><small>''{{TA|1879|n}} - {{TA|1998|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | VOR |VOR=[[Vorondil]]<br/><small>''{{TA|1919|n}} - {{TA|2029|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAR |MAR='''MARDIL'''<br/><small>''{{TA|1960|n}} - {{TA|2080|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ERA |ERA=[[Eradan]]<br/><small>''{{TA|1999|n}} - {{TA|2116|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | HER |HER=[[Herion]]<br/><small>''{{TA|2037|n}} - {{TA|2148|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Mardil in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Online - Mardil.jpg|Mardil in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2019: ''[[The Lord of the Rings Online]]'':'''
+:Mardil appears in a flashback depicting the fate of King Eärnur. In the flashback, the messenger of Minas Morgul succeeds in delivering the Witch-king's second challenge by revealing the [[wights|wight]] of Egalmoth the Lord of [[Minas Ithil]], Mardil's cousin, causing the Steward to turn away in grief and disgust long enough for Eärnur to accept the challenge.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|1960}}
+| died={{TA|2080}}
+}}
+{{seq
+| prev=[[Vorondil]]
+| list=[[Steward of Gondor|Steward to the King of Gondor]]
+| dates={{TA|2029}} – {{TA|2050|n}}
+| nvac=Vacant
+| next=Next held by:<br/>[[Faramir]], 969 years later
+}}
+{{seq
+| pvac=None
+| prev=Position established
+| list=1st [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2050}} - {{TA|2080|n}}
+| next=[[Eradan]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Characters in The Silmarillion]]
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Quenya names]]
+[[Category:Ruling stewards]]
+[[Category:Stewards]]
+[[Category:Third Age characters]]
+
+[[de:Mardil]]
+[[fi:Mardil]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/mardil_voronwe]]

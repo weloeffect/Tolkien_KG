@@ -1,0 +1,122 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arvedui
+| image=Elena Kukanova - Arvedui and Firiel.jpeg
+| caption="Arvedui and Firiel" by [[Elena Kukanova]]
+| pronun=
+| othernames=Last King
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1864}}
+| birthlocation=
+| rule={{TA|1964}} - {{TA|1974|n}}
+| death=[[March]] {{TA|1974}}
+| deathlocation=[[Icebay of Forochel]]
+| age=110
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Araphant]]
+| siblings=
+| spouse=[[Fíriel]]
+| children=[[Aranarth]], at least one other son <ref group=note>In [[Appendix A]], Aranarth is indicated as the ''elder son'' of Arvedui, meaning that Arvedui had at least one other son.</ref> 
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arvedui''' ({{TA|1864}}<ref>{{PM|Elendil}}, p. 195</ref> – {{TA|1974|n}},<ref name="North">{{App|North}}</ref> died aged 110) was the fifteenth and last king of [[Arthedain]], succeeding his father, [[Araphant]], upon his death in 1964.
+
+==History==
+===Birth and early life===
+Arvedui's name meant "Last King" in [[Sindarin]], and he was named so due to a prophecy by [[Malbeth|Malbeth the Seer]] spoken to his father at Arvedui's birth: {{blockquote|Arvedui you shall call him, for he will be the last in Arthedain. Though a choice will come to the Dúnedain, and if they take the one that seems less hopeful, then your son will change his name and become king of a great realm. If not, then much sorrow and many lives of men shall pass, until the Dúnedain arise and are united again.<ref name="Gondor">{{App|Gondor}}</ref>}}
+
+Arvedui married [[Fíriel]], the daughter of King [[Ondoher]] of [[Gondor]], in {{TA|1940|n}}, repairing the link between the two [[Realms in Exile]] after years of estrangement. In {{TA|1944|n}}, Ondoher, and his sons [[Artamir]] & [[Faramir (son of Ondoher)|Faramir]] were slain in a battle against the [[Wainriders]]. Arvedui sent messages to Gondor claiming the kingship , both as a descendant of [[Isildur]] and as the husband of [[Fíriel]], who, under [[Law of Succession in Númenor|old Númenórean law]], should have become the first ruling queen. In {{TA|1945|n}} the [[Council of Gondor]], persuaded by the Steward [[Pelendur]], voted against Arvedui's claim in favour of [[Eärnil II|Eärnil]] - a distant relative of the King and the victorious general in the war on the Wainriders.<ref name="Gondor"/>
+
+===Life as king===
+<!--"See also" in Eriador#Destruction of Arnor links here-->
+[[File:Steamey - Arvedui.jpg|thumb|''Arvedui'' by [[:Category:Images by Steamey|Steamey]]]]
+When Arvedui became king in {{TA|1964|n}}, his kingdom had already begun to fall apart, and was struggling desperately to hold back the forces of [[Angmar]]. In {{TA|1974|n}} the [[Witch-king]] descended from the north, capturing [[Fornost]] and pushing most of the [[Dúnedain]] over the [[Lhûn|Lune]]. Arvedui and his followers rescued several heirlooms of Arnor such as the [[Ring of Barahir]] and the ''[[palantíri]]'' of [[Weathertop|Amon Sûl]] and [[Annúminas]]. They held out on the [[North Downs]] for a short time before being forced to hide in old [[Dwarf|dwarven]] mines in the [[Blue Mountains]]. In the end,  due to hunger and desperation, they sought the aid of the [[Lossoth]] in the Ice-bay of [[Forochel]].<ref name="Eriador">{{App|Eriador}}</ref>
+
+The snowmen were unmoved by the Arnorians' jewels but helped the gaunt king and his men out of pity and out of fear of their weapons, giving them food and building them snow-huts. Arvedui and his men had to stay there as their horses had perished, and kept a fire constantly alight waiting for help. That winter was especially long and rough. In {{TA|1974|n}}, when [[Círdan]] heard from Arvedui's son, [[Aranarth]], of his plight, he sent a ship to Forochel to find him. When the ship arrived in March of that year, the ice-men were frightened for no ship had ever been seen in those waters in living memory, and the chief of the snow-men counselled Arvedui:
+
+{{blockquote|Do not mount on this sea-monster! If they have them, let the seamen bring us food and other things that we need, and you may stay here till the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long.<ref name="Eriador"/>}}
+
+However, the King did not heed their advice and gave them his [[Ring of Barahir|ring]] as a token of his thanks. When the ship set sail a great wind came from the north and the hull of the ship was broken on the ice. Thus the last king of Arthedain died, and with him the two ''palantíri'' were lost.<ref name="Eriador"/>
+
+===Aftermath===
+In {{TA|1973|n}}, Gondor received word from Arthedain of their difficulties, and not forgetting their ancient kinship, King [[Eärnil II]] sent as great a fleet as he could spare captained by his son [[Eärnur]]. By the time the fleet arrived, Arthedain had already fallen, and Arvedui had already perished. 
+
+In order to vanquish the evils of Angmar, Eärnur, Círdan and [[Glorfindel]] captained a combined host from Gondor, [[Lindon]] and [[Rivendell]] and marched across Eriador in such a great force that not a single Orc was left to the west of the [[Misty Mountains]].<ref name="Gondor"/>
+
+Despite the eventual victory over the Witch-king, Arnor was utterly defeated, and the Dúnedain of the North became a scattered and [[Rangers of the North|wandering people]]. The line of kings endured, however, in Aranarth who took the title of [[Chieftain of the Dúnedain|Chieftain]], all the way down to [[Aragorn|Aragorn Elessar]]; and when Aragorn claimed the throne of Gondor he did so as both the heir of Isildur and Anárion due to the fact he was descended from Fíriel - a claim none of the heirs of Arvedui forgot.
+
+As such, Malbeth's prophecy proved true, for Arvedui was indeed the last King of Arthedain; likewise, the last king of Gondor was Eärnur who was killed by the Witch-king. There would not be another king in the north until Aragorn II Elessar reunited the thrones of Gondor and Arnor in the [[Reunited Kingdom]].
+
+== Etymology ==
+{{Pronounce|Arvedui.mp3|Ardamir}}
+''Arvedui'' is [[Sindarin]] for "Last King",<ref>{{App|Gondor}}, paragraphs about the time after the death of king Ondoher, "Arvedui was indeed the last king, as his name signifies."</ref> being a compound of the prefix ''[[ar|ar(a)-]]'' ("noble", "royal", "high") and the [[lenition|lenited]] form of ''[[medui]]'' ("last").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2463615789.html|articlename=S. ''Arvedui'' m.|website=Eldamo|accessed=04 February 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | ARN | | GON |ARN=[[Kings of Arnor|''Kings of<br/>Arnor</small>'']]|GON=[[Kings of Gondor|''Kings of<br/>Gondor'']]}}
+{{familytree | |:| | | |:| |}}
+{{familytree | ARA | | |:| |ARA=[[Araval]]<br/><small>''{{TA|1711|n}} - {{TA|1891|n}}''</small>}}
+{{familytree | |!| | | |:| |}}
+{{familytree | ARA | | OND |ARA=[[Araphant]]<br/><small>''{{TA|1789|n}} - {{TA|1964|n}}''</small>|OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | ARV |y| FIR |ARV='''ARVEDUI'''<br/><small>''{{TA|1864|n}} - {{TA|1974|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b {{TA|1896|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ARA | | |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ARH | | |ARH=[[Arahael]]<br/><small>''{{TA|2012|n}} - {{TA|2177|n}}''</small>}}
+{{familytree | | | |:| | | |}}
+{{familytree | | | COD | | |COD=[[Chieftains of the Dúnedain|''Chieftains of<br/>the Dúnedain'']]}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:Arvedui ROTWK.png|thumb|right|''[[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king|The Rise of the Witch-king]]'']]
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':''' 
+:Arvedui appears in the expansion pack, ''[[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king|The Rise of the Witch-king]]'', during the Siege of Fornost in the Angmar-campaign. After Angmar's forces reach the second wall, he leads a sortie, but is killed.
+
+[[File:The Lord of the Rings Online - Arvedui.jpg|thumb|left|Shade of Arvedui in ''[[The Lord of the Rings Online]]'']]
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:In his last moments, Arvedui despaired and cursed himself for his pride in ignoring the warning of the [[Lossoth]]. Because of this, his shade remained lingering at the wreck of the ship ''Thoroval'' in the ice near the western coast of the [[Icebay of Forochel|Icebay]]. During the [[War of the Ring]], the shade of Arvedui is discovered by the player in search for the artifact carried by one of the Elves aboard the vessel. At Arvedui's request, the player recovers a book of heraldry that had been left in the [[Dwarf]]-mines he Last King had hidden in, and delivers the book to the [[Rangers of the North|Ranger]] Lothrandir.<ref>{{VGC|SAXIII}}</ref> [[Elrond]] urges the player to look for a way to help Arvedui to move on, and together with Arvedui's help Lothrandir and the player uncover and stop a plan of [[Angmar]]im in Forochel. In the process, Arvedui learns that an heir of his line still lives and is working towards reclaiming the throne of [[Gondor]] and reuniting the two Kingdoms. This knowledge brings Arvedui peace and he feels that he will be able to finally depart [[Middle-earth]] upon [[Aragorn]]'s coronation.
+
+{{references|note}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1864}}
+| died={{TA|1974}}
+}}
+{{seq
+| prow=2
+| prev=[[Araphant]]
+| list=23rd [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1964}} - {{TA|1974|n}}
+| next=[[Aranarth]]
+}}
+{{seq
+| list=15th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1964}} - {{TA|1974|n}}
+| next=''[[Aranarth]], as [[Chieftain of the Dúnedain|Chieftain]]''
+| nvac=None
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Arvedui]]
+[[fi:Arvedui]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/arvedui]]

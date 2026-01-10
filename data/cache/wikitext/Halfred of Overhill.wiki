@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Halfred Gamgee
+| image=
+| caption=
+| pronun=
+| othernames=Halfred of Overhill
+| titles=
+| position=
+| location=[[Overhill]]
+| affiliation=
+| language=
+| birth={{SR|1332}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Hobson|Roper Gamgee]]
+| siblings=[[Andwise Roper|Andwise]], [[Gaffer Gamgee|Hamfast]] and [[May (hobbit)|May]]
+| spouse=
+| children=[[Halfast Gamgee]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Halfred Gamgee''' was a Hobbit of [[the Shire]].
+
+==History==
+Halfred was the youngest son of [[Hobson|Roper Gamgee]]. He settled in [[Overhill]],<ref>{{App|Gamgee}}</ref> and had one son, [[Halfast Gamgee|Halfast]], who worked for the local [[Boffin Family|Boffins]].<ref>{{FR|Shadow}}</ref>
+
+==Etymology==
+The name comes from [[Old English]] ''healfrēad'' "half-red, reddish" or from ''healfrǣd'' "half counsel".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', Giving of names</ref>
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Gamgee]]
+[[Category:Third Age characters]]
+
+[[de:Halfred von Oberbühl]]
+[[fi:Ylismäen Halfred]]
+[[fr:encyclo:personnages:hobbits:gamegie:halfred gamegie 1]]

@@ -1,0 +1,87 @@
+{{infobox character
+| people=Unknown (possibly a [[Huorns|Huorn]])
+| image=J.R.R. Tolkien - Old Man Willow.jpg
+| caption="Old Man Willow" by [[J.R.R. Tolkien]]
+| name=Old Man Willow
+| pronun=
+| othernames=The Great Willow; "Old grey Willow-man"
+| titles=
+| position=
+| location=[[Old Forest|The Old Forest]]
+| affiliation=[[Forest-folk]]<ref>{{AB|2}}</ref>
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=almost crushing [[Merry]] and [[Pippin]] to death
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=Unknown (possibly a [[Huorn]])
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Spells
+| steed=
+}}
+'''Old Man Willow''', also known as the '''Great Willow''', was a [[willows|willow tree]] in the [[Old Forest]] that stood near the [[Withywindle]].
+
+==History==
+The origins of Old Man Willow are vague. He might have been an [[Ents|Ent]] who had become tree-like, or possibly a [[Huorns|Huorn]], as the Old Forest was originally part of the same primordial forest as [[Fangorn Forest|Fangorn]].
+
+The Great Willow was evil-hearted and from it much of the Forest's hatred of walking things came.<ref name="OMW">{{FR|I6}}</ref> Despite his power, [[Tom Bombadil]], who called him '''Old grey Willow-man''', had power over him, and checked the evil as much as he could, or was willing.
+
+On [[26 September]] {{TA|3018}}<ref>{{App|Great}}</ref> Old Man Willow cast a spell on the [[Hobbits]], [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]], causing them to feel sleepy. Merry and Pippin leaned against the trunk and fell asleep, while Frodo sat on a root to dangle his feet in the water, before also falling asleep. The tree trapped Merry and Pippin in cracks in the trunk, and tipped Frodo into the stream.
+
+Sam managed to fight off the spell and rescued Frodo from the stream. Together they attempted to save Merry and Pippin by lighting a fire at the tree's base, but this only served to infuriate Old Man Willow, who threatened to kill the trapped hobbits. They were saved by the timely arrival of Tom Bombadil who knew "the tune for him".<ref name="OMW" />
+
+===Legacy===
+In a fictitious [[The Adventures of Tom Bombadil|poem]] originating from [[Buckland]],<ref>{{AB|Preface}}</ref> Old Man Willow sings Tom Bombadil to sleep and traps him in a crack. He then speaks to Tom, chastising him for spying on him and tickling him with his feather. Tom orders Old Man Willow to release him, which he does immediately.<ref>{{AB|1}}</ref>
+
+==Other versions of the legendarium==
+In ''[[The Return of the Shadow]]'', in the early text for ''[[The Lord of the Rings]]'', the incident with Old Man Willow has [[Frodo Baggins|Bingo Bolger-Baggins]] and [[Peregrin Took|Odo]] lying against the tree. [[Samwise Gamgee|Frodo]] is the one pushed into the river while [[Meriadoc Brandybuck|Marmaduke Brandybuck]] is the one who resists the spell.<ref>{{RS|Forest}}</ref>
+
+Later, in Tom Bombadil's house, Tom relates the lore concerning Old Man Willow. He is described as a "grey thirsty earth-bound spirit" that had "become imprisoned in the greatest Willow of the Forest".<ref>{{RS|Tom}}</ref>
+
+==Inspiration==
+Tolkien said that his inspiration perhaps was sparked by the specifically gnarled trees in the illustrations of famed British fantasy artist [[wikipedia:Arthur Rackham|Arthur Rackham]].<ref>{{AB|Comm}}</ref>
+
+==Portrayals in adaptations==
+===Old Man Willow in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Sagan om Ringen - Old Man Willow.png|[[Sagan om Ringen (1971 film)|''Sagan om Ringen'']]
+File:The Lord of the Rings, Vol. I (SNES) - Old Man Willow.png|[[J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)|''J.R.R. Tolkien's The Lord of the Rings, Vol. I'']]
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Old Man Willow.png|[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+File:The Lord of the Rings Online - Old Man Willow.png|''[[The Lord of the Rings Online]]''
+</gallery>
+'''1955: [[The Lord of the Rings (1955 radio series)|''The Lord of the Rings'' (1955 radio series)]]:'''
+:Old Man Willow is portrayed as in league with Mordor. This upset [[J.R.R. Tolkien|Tolkien]], who wrote "Cannot people imagine things hostile to men and hobbits who prey on them without being in league with the Devil!" in a [[Letter 175|letter to Molly Waldron]].<ref>{{L|175}}</ref>
+'''1994: [[The Lord of the Rings: Volume 1]]:'''
+:In this game, Old Man Willow is shown to be capable of speech, as shown when he swallows not only Merry and Pippin, but also Sam. He gloats to Frodo about how tasty Hobbits are, and also threatens to crush his friends if he tries attacking him. Strangely, he also has some skill in penmanship, as he wrote and left a note on the ground, inviting the Hobbits to sleep near him before he traps them in his jaws.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:In the console and PC versions, Old Man Willow appears as a boss in the Withywindle Valley region of the Old Forest, who Frodo must defeat by crippling his arm-like branches, while dodging roots that rise up from the ground. Attempting to strike Old Man Willow's trunk will only injure Merry and Pippin, who are trapped inside. Attacking the trunk too many times will kill them, resulting in a Game Over.
+
+'''2002: [[The Lord of the Rings: The Two Towers]]:'''
+:Although he did not appear in the 2001 [[The Lord of the Rings: The Fellowship of the Ring|movie adaptation]], a very similar episode with [[Hobbits]] being swallowed by a tree was included in the [[The Lord of the Rings: The Two Towers (extended edition)|extended edition]], where Merry and Pippin are swallowed by a Huorn in [[Fangorn Forest]], to be saved by [[Treebeard]].
+
+'''2007: [[The Lord of the Rings Online]]:'''
+:Old Man Willow rests on his small island in the middle of the [[Withywindle]], where he slowly drains nearby players of energy and power.
+
+{{References}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Enigmas]]
+[[Category:Forest-folk]]
+[[Category:Third Age characters]]
+[[Category:Trees]]
+[[de:Alter Weidenmann]]
+[[fr:encyclo/personnages/vieil homme-saule]]
+[[fi:Vanha Halavaukko]]

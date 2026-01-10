@@ -1,0 +1,72 @@
+{{disambig-two|the grandfather of [[Balin]] and [[Glóin]]|the main character of [[The Lord of the Rings: War in the North]]|[[Farin (video game character)]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Farin
+| image=The Lord of the Rings Online - Farin.jpg
+| caption=Farin in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Grey Mountains]]<br/>[[Lonely Mountain]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2560}}
+| birthlocation=[[Grey Mountains]]
+| rule=
+| death={{TA|2803}} (aged 243)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Borin]]
+| siblings=possibly an older sister<ref group="note">It is said in ''[[The Peoples of Middle-earth]]'' that dwarven women were seldom named in genealogies but if a son is seen to be 110 years younger than his father, this usually indicates an elder daughter.</ref><ref>{{PM|Aiv}}, p. 285</ref>
+| spouse=
+| children=[[Fundin]]<br />[[Gróin]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Farin''' was a [[Dwarves|dwarf]] of [[Durin's folk]].
+
+== History ==
+Farin was one of the [[Dwarves of the Grey Mountains]]. When his uncle King [[Dáin I]] and cousin [[Frór]] had been slain by a [[Cold-drakes|Cold-drake]], his people were forced to flee the [[Dragons|dragon]]-plagued [[Grey Mountains]] while he was just 29 years old. Farin's father, [[Borin]], joined [[Thrór]] when he rebuilt the [[Lonely Mountain|Kingdom under the Mountain]] in {{TA|2590|n}}.<ref name=Durin/>
+
+Farin was the father of [[Fundin]] and [[Gróin]], and therefore an ancestor to both [[Balin]] of [[Thorin and Company]] and [[Gimli|Gimli Elf-friend]], one of the [[Fellowship of the Ring]].<ref name="Durin">{{App|Durin}}</ref>
+
+In {{TA|2770|n}} the dragon [[Smaug]] [[Sack of Erebor|sacked the Lonely Mountain]], driving its people into exile.
+
+== Etymology ==
+[[Jim Allan]] has suggested that ''Farin'' is derived from [[Old Norse]] ''farinn'' ("travelled-one").<ref>{{HM|IE}}, "Giving of Names", p. 224</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | | NAI | | | | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| |,|-|-|-|-|^|-|-|-|-|.| | | | | | | |}}
+{{familytree| DAI | | | | | | | | BOR | | | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>|BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| |!| | | | | | | | | |!| | | | | | | |}}
+{{familytree| THR | | | | | | | | FAR | | | | | | |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FAR='''FARIN'''<br/><small>''{{TA|2560|n}} - {{TA|2803|n}}''</small>}}
+{{familytree| |!| | | | | |,|-|-|-|^|-|-|-|.| | | |}}
+{{familytree| THR | | | | FUN | | | | | | GRO | | |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO=[[Gróin]]<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree| |!| | | |,|-|^|-|.| | | |,|-|^|-|.| |}}
+{{familytree| THO | | BAL | | DWA | | OIN | | GLO |THO=[[Thorin]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|BAL=[[Balin]]<br/><small>''{{TA|2763|n}} - {{TA|2994|n}}''†</small>|DWA=[[Dwalin]]<br/><small>''{{TA|2772|n}} - {{FoA|91}}''</small>|OIN=[[Óin]]<br/><small>''{{TA|2774|n}} - {{TA|2994|n}}''†</small>|GLO=[[Glóin]]<br/><small>''{{TA|2783|n}} - {{FoA|15}}''</small>}}
+{{familytree| | | | | | | | | | | | | | | | | |!| |}}
+{{familytree| | | | | | | | | | | | | | | | | GIM |GIM=[[Gimli]]<br/><small>''{{TA|2879|n}} - {{FoA|120}}+''}}
+{{familytree/end}}
+
+== Portrayal in adaptations ==
+'''2021: ''[[The Lord of the Rings Online]]'':'''
+:Farin appears in an extended flashback depicting the [[Battle of Azanulbizar]], in which he fights alongside his sons and grandsons.
+
+{{references|notes}}
+[[Category:Dwarves]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Farin]]
+[[fi:Farin]]
+[[fr:encyclo/personnages/nains/3a/farin]]

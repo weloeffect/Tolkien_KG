@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Amethyst Hornblower
+| image=
+| caption=
+| pronun=
+| othernames=Amethyst Bolger
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth=c. {{SR|1260}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Hornblower Family|Hornblower]]
+| parentage=
+| siblings=
+| spouse=[[Rudibert Bolger]]
+| children=[[Adalbert Bolger|Adalbert]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Amethyst Hornblower''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Amethyst married [[Rudibert Bolger]] (born {{SR|1260}}) and was the mother of [[Adalbert Bolger]] ({{SR|1301}}-{{SR|1397|n}}).<ref>{{App|Bolger}}</ref>
+==Etymology==
+[[wikipedia:Amethyst|Amethyst]] is named after the gemstone.
+
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Hornblower]]
+[[Category:Bolger]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Amethyst Bolger]]
+[[fi:Ametisti Piipari]]

@@ -1,0 +1,81 @@
+{{disambig-two|the [[Kings of Gondor|King]] of [[Gondor]]|father of [[Eärnil II]]|[[Siriondil (son of Calimmacil)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Siriondil
+| image=Matěj Čadil - Siriondil of Gondor.jpg
+| caption="Siriondil of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|570}}
+| birthlocation=
+| rule={{TA|748}} – {{TA|830|n}} (82 years)
+| death={{TA|830}}
+| deathlocation=
+| age=260
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Atanatar I]]
+| siblings=
+| spouse=
+| children=[[Tarannon]] and [[Tarciryan]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Siriondil''' ({{TA|570}}<ref>{{PM|Elendil}}</ref> – {{TA|830|n}},<ref name="South">{{App|South}}</ref> aged 260) was the eleventh [[Kings of Gondor|King of Gondor]].
+
+==History==
+Siriondil's rule was apparently uneventful. He had two children, [[Tarannon]] and [[Tarciryan]].<ref name="South"/>
+
+He was succeeded by his illustrious son [[Tarannon Falastur]], the first of the four [[Ship-king|Ship-kings of Gondor]].
+
+==Etymology==
+''Siriondil'' is [[Quenya]]. It is not glossed, but as Paul Strack explains, it probably means "Sirion-lover", from the river name ''[[Sirion]]'' and the suffix ''[[-ndil|-(n)dil]]'' ("lover, friend").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-904302847.html|articlename=Q. ''Siriondil'' m.|website=Eldamo|accessed=19 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | TUR | | |TUR=[[Turambar (King of Gondor)|Turambar]]<br/><small>''{{TA|397|n}} - {{TA|667|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | ATA | | |ATA=[[Atanatar I]]<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | SIR | | |SIR='''SIRIONDIL'''<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER=[[Berúthiel]]<br/><small>''unknown''</small>|TAR=[[Tarannon Falastur|Tarannon]]<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC=[[Tarciryan]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EAR |EAR=[[Eärnil I]]<br/><small>''{{TA|736|n}} - {{TA|936|n}}''†</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|570}}
+| died={{TA|830}}
+}}
+{{seq
+| prev=[[Atanatar I]]
+| list=11th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|748}} – {{TA|830|n}}
+| next=[[Tarannon Falastur|Tarannon&nbsp;Falastur]]
+}}
+{{seq-end}}
+{{southernline}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Siriondil (König von Gondor)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/siriondil_i]]
+[[fi:Siriondil (kuningas)]]

@@ -1,0 +1,77 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Telemnar
+| image=Matěj Čadil - Telemnar of Gondor.jpg
+| caption="Telemnar of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Kings of Gondor|King of Gondor]]
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1516}}
+| birthlocation=
+| rule={{TA|1634}} - {{TA|1636|n}} (2 years)
+| death={{TA|1636}}
+| deathlocation=During [[Great Plague]]
+| age=120
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Minardil]]
+| siblings=[[Minastan]]
+| spouse=
+| children=Unnamed children
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Telemnar''', {{TA|1516}}<ref name="Elendil">{{PM|Elendil}}</ref> - {{TA|1636}},<ref name="South">{{App|South}}</ref> was the twenty-sixth [[King of Gondor]].
+
+==History==
+Telemnar came to the throne unexpectedly when his father [[Minardil]] was killed in a surprise raid by [[Corsairs of Umbar]].  In response, he began outfitting a fleet to reduce the [[Umbar|Haven of Umbar]], but this work was halted when the [[Great Plague]] struck his realm.<ref name="Elendil" />  The King and all his children died in {{TA|1636}},<ref>{{App|TA}}</ref> as did a large number of the people of [[Gondor]].  The [[White Tree of Gondor#Second White Tree|White Tree]] withered and died, [[Osgiliath]] was partially deserted and began to fall into ruin, and the watch on [[Mordor]] ceased.<ref>{{App|Gondor}}</ref>
+
+With Telemnar and all his heirs deceased, the Kingship passed on to his nephew [[Tarondor (King of Gondor)|Tarondor]], the son of Telemnar's younger brother [[Minastan]].<ref name="South" />
+
+==Etymology==
+''Telemnar'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it seems to mean "Silver Fire" and be a compound of an assimilated form [[telep]] of [[telpë]] ("silver") and the element [[nár (Quenya)|nár]] ("fire").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-185503219.html|articlename=Q. ''Telemnar'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HYA | | |HYA=[[Hyarmendacil II]]<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | MIN | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | TEL | | MIN |TEL='''TELEMNAR'''<br/><small>''{{TA|1516|n}} - {{TA|1636|n}}''†</small>|MIN=[[Minastan]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | CHI | | TAR |CHI=''children''<br/><small>''unknown''†</small>|TAR=[[Tarondor (King of Gondor)|Tarondor]]<br/><small>''{{TA|1577|n}} - {{TA|1798|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | TEL |TEL=[[Telumehtar Umbardacil|Telumehtar<br/>Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1516}}
+| died={{TA|1636}}
+}}
+{{seq
+| prev=[[Minardil]]
+| list=26th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1634}} - {{TA|1636|n}}
+| next=[[Tarondor (King of Gondor)|Tarondor]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Characters in The Silmarillion]]
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]

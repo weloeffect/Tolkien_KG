@@ -1,0 +1,105 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Berúthiel
+| image=Paula DiSante - Reporting to Beruthiel.jpg
+| caption="Reporting to Beruthiel" by [[Paula DiSante]]
+| pronun=
+| othernames=
+| titles=[[Queen of Gondor]]
+| position=
+| location=[[Harad|Inland city]], [[Pelargir]], [[King's House]]
+| affiliation=[[Black Númenóreans]]
+| language=Possibly [[Westron]]
+| birth=Early [[Third Age]]
+| birthlocation=
+| rule=Sometime between {{TA|830}} and {{TA|913}}
+| death=
+| deathlocation=
+| age=
+| notablefor=Using [[Cats of Queen Berúthiel|cats]] to spy on the [[Gondorians|people]] of [[Gondor]]
+| house=
+| parentage=
+| siblings=
+| spouse=[[Tarannon Falastur]]
+| children=None
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=Plain black and silver garments<ref name="Istari">{{UT|13a}}, note 7, pp. 401-2</ref>
+| weapons=
+| steed=
+}}
+
+'''Berúthiel''' was a [[Queen of Gondor]], the wife of King [[Tarannon Falastur]], who ruled from {{TA|830}} until {{TA|913}}. She was noted as being "nefarious, solitary, and loveless".<ref name="Istari" /> It is therefore of no surprise that she and Tarannon did not have any children.<ref name="TarannonFalastur">{{App|South}}, ''Kings of Gondor'', entry for King Tarannon Falastur, p. 1038</ref>
+
+==History==
+Berúthiel was a [[Black Númenóreans|Black Númenórean]], who was possibly from an [[Harad|inland city]]<ref name="Interview">{{webcite|author=[[Daphne Castell]]|articleurl=https://fantasticmetropolis.com/i/tolkien|articlename=The Realms of Tolkien|dated=|website=[https://fantasticmetropolis.com/i/tolkien ''The Realms of Tolkien'']|accessed=15 January 2021}}</ref> that was located to the south of [[Umbar]]<ref name="Istari" />.<ref group="note">J.R.R. Tolkien compared Berúthiel to the giantess Skadi who was from Jotunheim and who married the sea-god Njord and got fed up with the seaside life and finally went back to live in Jotunheim. Since King Tarannon had Berúthiel set on a ship and set adrift on the sea before a north wind and the ship was last seen flying past Umbar and since the went back to live in the inland city, it is possible that she went back to the inland city with this ship and that this inland city was to the south of Umbar. Being the descendents of the [[King's Men]] most of the Black Númenóreans lived in [[Umbar]] and in other former Númenórean colonies in the south of Middle-earth.</ref>
+
+Tarannon's reason for marrying Berúthiel is not known. It is possible that the marriage was in connection with his extensions of the realm of Gondor along the coasts south of the mouths of the [[Anduin]] and his victories as the [[Captain of the Hosts]].<ref name="Tarannon">{{App|Gondor}}, entry for King Tarannon, p. 1044</ref> As a consequence, it is possible that it was a diplomatic marriage to form an alliance with or to maintain peaceful relations with the realm that Berúthiel came from.
+
+Berúthiel loathed the sounds and the smells of the [[Belegaer|sea]], [[Fish]], and the [[Gulls]].<ref name="Interview" /> She also hated "the house that Tarannon had built below [[Pelargir]]" on arches in the water of the [[Ethir Anduin|mouths of Anduin]]. As a consequence, she lived in the [[King's House]] in [[Osgiliath]] instead. Berúthiel hated all colours and elaborate adornments and wore only black and silver clothing. She lived in bare chambers in the house in Osgiliath, but decorated its gardens "with tormented sculptures beneath [[cypresses]] and [[yews]]".<ref name="Istari" />
+
+Berúthiel loathed cats, but they became attracted to her for precisely that reason. They followed her around, and eventually she took advantage of their company by enslaving and torturing them for her amusement.<ref name="Interview" /> Of the [[Cats of Queen Berúthiel|cats]] that she kept<ref name="Interview" /> as her slaves: there were ten of them: nine black and one white.<ref name="Istari" /> Berúthiel trained the cats to go on evil errands throughout the night to spy on her enemies or to terrify them,<ref name="Interview" /> in order to discover the dark secrets of [[Gondor]], so that she knew the things that men wished the most to keep hidden.<ref name="Istari" /> She sent the white cat to spy on the black ones to torment them. Berúthiel was able to converse with them or read their memories. Her cats were infamous among the [[Gondorians]]. All were afraid of them, did not dare to touch them, and cursed whenever they saw them.<ref name="Istari" />
+
+[[File:Steamey - Ten Cats of Queen Berúthiel.jpg|thumb|''Ten Cats of Queen Berúthiel'' by [[:Category:Images by Steamey|Steamey]]]]
+
+Eventually, Tarannon exiled Berúthiel from Gondor<ref group="note">The part of the manuscript before her being exiled is almost wholly illegible.</ref> and her name was erased from the [[Book of the Kings]]. He had her set adrift at sea before a north wind on a ship alone that "was last seen flying past Umbar under a sickle moon, with a cat at the masthead and another as a figure-head on the prow"<ref name="Istari" /> and Berúthiel went back to live in the inland city<ref name="Interview" />.
+
+==Legacy==
+No wars with Umbar or Harad are mentioned during the reign of King Tarannon.<ref name="Tarannon" /> It is possible that the setting of Berúthiel on a ship that was last seen flying past Umbar offended the realm that Berúthiel was from. The conquest of Umbar took place during the reign of King [[Eärnil]] twenty-three years after the death of King Tarannon.<ref>{{App|Gondor}}, entry for King Eärnil, p. 1044</ref>
+
+Despite the erasure of her name from the Book of the Kings, Berúthiel and her cats were so notorious that they were held in the memory of [[Gondorians]] for centuries; [[Aragorn]] alluded to them more than 2,000 years after her exile.<ref>{{FR|Journey}}, p. 311</ref>
+
+==Etymology==
+{{Pronounce|Beruthiel.mp3|Ardamir}}
+The name ''Berúthiel'' is [[Sindarin]]. Its meaning is not glossed, but as Paul Strack explains it might mean "Angry Queen" and might be a combination of ''[[bereth|ber(eth)]]'' ("queen", "spouse"; "supreme", "sublime") + ''[[rúth]]'' ("wrath", "anger") + ''[[-iel]]'' ("daughter"; "feminine suffix").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-445516141.html|articlename=S. ''Berúthiel'' f.|website=Eldamo|accessed=29 October 2021}}</ref> Since the Black Númenóreans did not use the [[Elvish|Elven tongues]], this title was probably given to her by the Gondorians and is not her real name.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | ATA | | |ATA=[[Atanatar I]]<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | SIR | | |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER='''BERÚTHIEL'''<br/><small>''unknown''</small>|TAR=[[Tarannon Falastur]]<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC=[[Tarciryan]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EAR |EAR=[[Eärnil I]]<br/><small>''{{TA|736|n}} - {{TA|936|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | CIR |CIR=[[Ciryandil]]<br/><small>''{{TA|820|n}} - {{TA|1015|n}}''†</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an earlier version of what would later become the chapter [[A Journey in the Dark]], it was the narrator rather than Aragorn II who mentioned the cats of Queen Berúthiel. This first version of the sentence referred simply to cats in general with no reference to Berúthiel. The second version of the sentence referred to "the cat of '''Benish Armon'''", before the reference was changed to "the cats of Queen '''Tamar'''", with a slight revision from ''Tamar'' ("Smith")<ref>{{SD|Nouns}}, p. 436</ref> to '''Margoliantë Berúthiel''', before dropping ''Margoliantë'' and keeping ''Berúthiel''.<ref>{{RS|4XXVN}}, p. 454 and p. 464 note 26</ref>
+
+[[Christopher Tolkien]] did not indicate when the manuscript with the story of queen Berúthiel was written, but [[J.R.R. Tolkien]] wrote in a letter to [[W.H. Auden]] on [[7 June]] [[1955]],<ref>{{L|163}}</ref> in a letter to [[Wikipedia:Tony Giffard, 3rd Earl of Halsbury|Lord Halsbury]] on [[10 November]] [[1955]]<ref>{{L|174}}</ref> and in a letter to Mr. Thompson on [[14 January]] [[1956]]<ref>{{L|180|1}}</ref> that he had not yet written the story about the cats of Queen Berúthiel.
+
+==Inspiration==
+In an interview from [[1966]], Tolkien likened Berúthiel to the giantess [[Wikipedia:Skaði|Skadi]] of [[Wikipedia:Norse mythology|Norse mythology]], since they both shared a dislike for "seaside life". Skadi was from [[Wikipedia:Þrymheimr|Thrymheim]] in [[Wikipedia:Jötunheimr|Jötunheim]] and ended up being married to the sea-god  [[Wikipedia:Njörðr|Njord]]. After her marriage, Skadi got fed up with the seaside life and went back to live in Jotunheim.<ref name="Interview" /><ref>[[Humphrey Carpenter]], ''[[The Inklings (book)|The Inklings]]'', "Thursday evenings", pp. 137-8</ref>
+
+==Portrayal in adaptations==
+''': ''[[Middle-earth Strategy Battle Game]]'':'''
+:Berúthiel makes an appearance in this game as a "wizard" character.
+
+''': ''[[Middle-earth Role Playing]]'':'''
+:Berúthiel is mentioned along with her abandoned name, Margoliantë Berúthiel, within the MERP supplement: The Realm of Bellakar from the [[Other Hands 29/30]] double issue.
+
+:One of Berúthiel's abandoned names appears as the name of a [[Benish Armon|location and cult]] within "The Cult of Benish Armon" MERP supplement of [[Other Hands 6/7]].
+
+''': ''[[The Lord of the Rings Online]]'':'''
+:While Berúthiel does not make a direct appearance, some of [[Tarannon Falastur|Tarannon Falastur's]] combat lines during the Silent Street instance mention how Berúthiel used to torment him when he lived.
+
+==See also==
+*[[Cats of Queen Berúthiel]]
+
+{{References|Notes}}
+
+{{DEFAULTSORT:Beruthiel}}
+
+[[Category:Black Númenóreans]]
+[[Category:Gondorians]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Berúthiel]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:beruthiel]]
+[[fi:Berúthiel]]

@@ -1,0 +1,82 @@
+{{short description|6th Steward of Gondor}}
+{{disambig-more|Túrin|[[Túrin (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Túrin I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2165}}
+| birthlocation=
+| rule={{TA|2244}} - {{TA|2278|n}} (34 years)
+| death={{TA|2278}}
+| deathlocation=
+| age=113
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Húrin I]]
+| siblings=Two older sisters<ref name="Elendil">{{PM|Elendil}}, p. 204</ref>
+| spouse=Two wives<ref name="Elendil"/>
+| children=Several daughters, [[Hador (Steward of Gondor)|Hador]]<ref name="Elendil"/>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Túrin I''' ([[Third Age]] {{TA|2165|n}}<ref name="Elendil"/> – {{TA|2278|n}},<ref name="South">{{App|South}}</ref> aged 113 years) was the sixth [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Túrin's stewardship occurred during the period of the [[Watchful Peace]] ({{TA|2063}}-{{TA|2460|n}}).<ref>{{App|TA}}</ref>
+
+Túrin ruled as Steward for thirty-four years. Very unusually for a noble of Gondor, he married twice and had several daughters. Only his last child, born in his old age, was a son,<ref name="Elendil"/> [[Hador (Steward of Gondor)|Hador]] by whom he was succeeded.<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Túrin#Etymology|Túrin - Etymology]]. Túrin I was probably named after [[Túrin|Túrin Turambar]], a tragic hero of the [[Edain]] of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref><ref>{{PM|Elendil}}, p. 203</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BEL | | | | |BEL=[[Belegorn]]<br/><small>''{{TA|2074|n}} - {{TA|2204|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | HUR | | | | |HUR=[[Húrin I]]<br/><small>''{{TA|2124|n}} - {{TA|2244|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DAU | | TUR | | |DAU=''two daughters''<br/><small>''unknown''</small>|TUR='''TÚRIN I'''<br/><small>''{{TA|2165|n}} - {{TA|2278|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DAU | | HAD |DAU=''several daughters''<br/><small>''unknown''</small>|HAD=[[Hador (Steward of Gondor)|Hador]]<br/><small>''{{TA|2245|n}} - {{TA|2395|n}}''</small>}}
+{{familytree | | | | | | | |!| |}}
+{{familytree | | | | | | | BAR |BAR=[[Barahir (Steward of Gondor)|Barahir]]<br/><small>''{{TA|2290|n}} - {{TA|2412|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2165}}
+| died={{TA|2278}}}}
+{{seq
+| prev=[[Húrin I]]
+| list=6th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2244}} - {{TA|2278|n}}
+| next=[[Hador (Steward of Gondor)|Hador]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+{{DEFAULTSORT:Turin I}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Túrin I.]]
+[[fi:Túrin I]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/turin ier]]

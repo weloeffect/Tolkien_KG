@@ -1,0 +1,87 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Aldamir
+| image=Matěj_Čadil_-_Aldamir_of_Gondor.jpg
+| caption="Aldamir of Gondor" by [[:Category:Images by Matěj Čadil|Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=
+| birth={{TA|1330}}
+| birthlocation=
+| rule={{TA|1490}} - {{TA|1540|n}} (50 years)
+| death={{TA|1540}}
+| deathlocation=
+| age=210
+| notablefor=
+| house=
+| parentage=[[Eldacar (King of Gondor)|Eldacar]]
+| siblings=[[Ornendil]]
+| spouse=
+| children=[[Hyarmendacil II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aldamir''' ([[Quenya|Q]]: "Tree-jewel", pron. {{IPA|[ˈaldamir]}}; {{TA|1330}}<ref name="Elendil">{{PM|Elendil}}, The Southern Line of Gondor: the Anarioni, 23. Aldamir</ref> - {{TA|1540}}<ref name="Aldamir">{{App|South}}, ''Kings of Gondor'', Aldamir</ref>) was the twenty-third King of [[Gondor]] ([[Castamir]] being counted the twenty-second).<ref>{{App|South}}, ''Kings of Gondor''</ref>
+
+==History==
+Aldamir was the younger son of [[Eldacar (King of Gondor)|Eldacar]],<ref name="Aldamir" /> but succeeded his father after the death of his father, because his brother [[Ornendil]] had been killed by an order from [[Castamir|Castamir the Usurper]] during the [[Kin-strife]],<ref name="Eldacar">{{App|Gondor}}, entry for king Eldacar</ref> in {{TA|1437}}.<ref>{{App|TA}}, entry for the year 1437</ref> Castamir later paid with his life for the killing of Ornendil, but the sons of the Usurper escaped and established an independent and hostile lordship in [[Umbar]].<ref name="Eldacar" />
+
+Aladamir was killed during a war with the Harad and the Corsairs of Umbar.<ref>{{App|TA}}, entry for the year 1540</ref> He was succeeded by his son [[Vinyarion]]<ref name="Vinyarion">{{App|South}}, ''Kings of Gondor'', Hyarmendacil II (Vinyarion)</ref> in {{TA|1540}},<ref name="Aldamir" /> who defeated the Men of Harad in {{TA|1551}}<ref>{{App|TA}}, entry for the year 1551</ref> and took the name Hyarmendacil II.<ref name="Vinyarion" />
+
+==Etymology==
+''Aldamir'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests that it means "Tree Jewel", from ''[[alda]]'' ("tree") and ''[[mírë]]'' ("jewel").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1126937443.html|articlename=Q. ''Aldamir'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | VID | | ROM | | CAL |VID=[[Vidugavia]]<br/><small>''unknown''</small>|ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |:| |}}
+{{familytree | VID |y| VAL | | |:| |VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | | | |!| | | | | |:| |}}
+{{familytree | | | ELD | | | | CAS |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>|CAS=[[Castamir]]<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | |!| |}}
+{{familytree | ORN | | ALD | | SON |ORN=[[Ornendil]]<br/><small>''d. {{TA|1437|n}}''†</small>|ALD='''ALDAMIR'''<br/><small>''{{TA|1330|n}} - {{TA|1540|n}}''†</small>|SON=''sons''<br/><small>''unknown''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | HYA | | | | |HYA=[[Hyarmendacil II]]<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | MIN | | | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree/end}}
+
+==Other verions of the legendarium==
+A late manuscript of what would later become Appendix A also mentions that Aldamir was the third child of Eldacar, which implies that he also had a sister, that his brother Ornendil was killed in {{TA|1446}} and that Aldamir was killed in a war with rebelling kings of Harad that were allied with the rebels of Umbar.<ref name="Elendil" /> 
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1330}}
+| died={{TA|1540}}
+}}
+{{seq
+| prev=[[Eldacar (King of Gondor)|Eldacar]]
+| list=23rd [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1490}} - {{TA|1540|n}}
+| next=[[Hyarmendacil II|Hyarmendacil&nbsp;II]]
+}}
+{{seq-end}}
+
+{{southernline}}
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Quenya names]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+[[de:Aldamir]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/aldamir]]
+[[fi:Aldamir]]

@@ -1,0 +1,48 @@
+{{disambig-more|May|[[May (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=May
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1328}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Hobson|Roper Gamgee]]
+| siblings=[[Andwise Roper|Andy]], [[Gaffer Gamgee|Hamfast]] and [[Halfred of Overhill|Halfred]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''May''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+May was a daughter of [[Hobson|Roper Gamgee]].<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+''[http://en.wiktionary.org/wiki/may#Etymology_2 May]'' could refer to the hawthorn blossoms, so called because they blossom in the month May. It was a [[May (disambiguation)|common girl's name]] in [[the Shire]].
+
+{{References}}
+{{title}}
+[[Category:Hobbits]]
+[[Category:Gamgee]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/gamegie/may gamegie 1]]

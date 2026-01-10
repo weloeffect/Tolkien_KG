@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Hobson
+| image=
+| caption=
+| pronun=
+| othernames=Roper Gamgee
+| titles=
+| position=Roper
+| location=[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1285}}
+| birthlocation=
+| rule=
+| death={{SR|1384}}
+| deathlocation=
+| age=99
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Hob Gammidge]] and [[Rowan]]
+| siblings=
+| spouse=
+| children=[[Andwise Roper|Andy]], [[Gaffer Gamgee|Hamfast]], [[May (hobbit)|May]] and [[Halfred of Overhill|Halfred]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hobson''' was the son of [[Hob Gammidge]]. He was the first to adopt the family's birth place as a family name, with his byname '''Roper Gamgee'''.
+
+==History==
+Hobson was the son of Hob Gammidge, and had four children: [[Andwise Roper|Andy]], [[Gaffer Gamgee|Ham]], [[May (hobbit)|May]] and [[Halfred of Overhill|Halfred]].<ref>{{App|Gamgee}}</ref>
+
+Hobson owned a ropewalk in [[Tighfield]]. After his death, Andy took over business, and took the surname "Roper".<ref>{{TT|Taming}}</ref>
+
+==Etymology==
+Hobson was fittingly named the "Son of [[Hob Gammidge|Hob]]. His byname "Roper Gamgee" he earned from his profession and the birthplace of his ancestors, Gamwich. His two eldest sons would each use part of the byname as a surname: [[Andwise Roper]] and [[Gaffer Gamgee|Hamfast Gamgee]]. 
+
+{{References}}
+
+[[Category:Hobbits]]
+[[Category:Gamgee]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/gamegie/hobson gamegie]]

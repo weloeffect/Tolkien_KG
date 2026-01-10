@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Ents|Ent]]
+| name=Skinbark
+| image=Gail McIntosh - Skinbark.jpg
+| caption="Skinbark" by [[:Category:Images by Gail McIntosh|Gail McIntosh]]
+| pronun=
+| othernames=Fladrif
+| titles=
+| position=
+| location=[[Fangorn Forest]]
+| affiliation=
+| language=[[Entish]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Skinbark''' (also known as '''Fladrif''') was, with [[Treebeard]] and [[Leaflock]], one of the three oldest [[Ents]] of [[Fangorn Forest]]. 
+
+== History ==
+He lived on the slopes above and to the west of [[Isengard]], and so he and his people suffered the most at the hands of [[Saruman]]'s despoiling [[Orcs]].  After many of his folk and tree-herds had been destroyed and he had been wounded, Skinbark moved high up the slopes to be with the [[birches]] he most loved and would not come down.<ref>{{TT|III4}}</ref>
+
+== Etymology ==
+''Skinbark'' is the [[Westron|Common Speech]] (or English) translation of ''Fladrif''.<ref>{{HM|N}}, p. 763</ref> It appears like ''Fladrif'' is intended to be [[Sindarin]];<ref name=DW/> the name is mentioned together with the Sindarin name ''[[Nindalf]]'' as acquiring the /v/ sound by the final ''-f''.<ref>{{App|E1i }}</ref> [[Didier Willis]] has suggested that ''Fladrif'' is composed of the otherwise unattested words *''flâd'' ("skin") and *''rîf'' ("bark").<ref name=DW>{{webcite|author=[[Didier Willis]]|articleurl=http://www.jrrvf.com/hisweloke/sindar/online/english.html|articlename=Hiswelókë's Sindarin Dictionary|dated=|website=[http://www.jrrvf.com/haut.shtml Jrrvf.com]|accessed=19 March 2012}}</ref>
+
+== Portrayal in adaptations ==
+[[File:The Lord of the Rings - The Two Towers - Skinbark, Elder Ent.jpg|thumb|left|Skinbark in ''[[The Lord of the Rings Trading Card Game]]]]''
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:[http://lotrtcgwiki.com/wiki/lotr15037 A card] in [[Decipher]]'s [[The Lord of the Rings Trading Card Game]] identifies one of the Ents at the Entmoot as Skinbark.
+
+{{References}}
+{{Ents}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Ents]]
+[[Category:Third Age characters]]

@@ -1,0 +1,96 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arahael
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2012}}
+| birthlocation=
+| rule={{TA|2106}} - {{TA|2177|n}}
+| death={{TA|2177}}
+| deathlocation=
+| age=165
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Aranarth]]
+| siblings= At least one sibling <ref group=note>In [[Appendix A]], Dírhael is said to be a descendant of a younger branch of Aranarth, meaning Araheal had at least one sibling</ref> 
+| spouse=
+| children=[[Aranuir]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arahael''' ({{TA|2012}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2177|n}},<ref name="North">{{App|North}}</ref> died aged 165) was the second [[Chieftain of the Dúnedain]], succeeding his father, [[Aranarth]], when he died in 2106.
+
+==History==
+Arahael was raised by [[Elrond]] in [[Rivendell]] (as were all his descendants) while his father protected [[Eriador]] from the evils of the wild with the help of other [[Rangers of the North|Rangers]].
+
+Arahael's reign was uneventful (as far as we know), due to the secretive (and therefore now little-known) nature of the [[Dúnedain]], and the [[Watchful Peace]] which there was at that time. It is likely that the Rangers fought minor battles and skirmishes against [[orcs]] in order to keep the region safe.<ref>{{App|Eriador}}</ref>
+
+Arahael died in 2177, having been Chieftain for 65 years, and was followed by his son, [[Aranuir]].<ref name="North"/>
+
+==Etymology==
+''Arahael'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests it means "Wise King".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is probably a compound of the prefix ''[[ar|ar(a)-]]'' ("noble", "royal", "high"), a phonetic reduction of ''[[aran]]'' ("king"), and the [[lenition|lenited]] from ''hael'' of ''sael'' ("wise").<ref name=Tolkiendil/><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2881029861.html|articlename=S. ''Arahael'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS | | | | HOA |HOS=''[[House of Isildur]]''|HOA=''[[House of Anárion]]''}}
+{{familytree | |:| | | | | |:| |}}
+{{familytree | |:| | | | | |:| |}}
+{{familytree | ARA |-|y|-| FIR |ARA=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''</small>†|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}</small>}}
+{{familytree | |,|-|-|^|-|-|.| |}}
+{{familytree | ARA | | | | SON |ARA=[[Aranarth]]<br/><small>''c. {{TA|1940|n}} - {{TA|2106|n}}''</small>|SON=''unknown<br />sons''}}
+{{familytree | |!| | | | | | | |}}
+{{familytree | ARA | | | | | | |ARA='''ARAHAEL'''<br/><small>''{{TA|2012|n}} - {{TA|2177|n}}''</small>}}
+{{familytree | |!| | | | | | | |}}
+{{familytree | ARA | | | | | | |ARA=[[Aranuir]]<br/><small>''{{TA|2084|n}} - {{TA|2247|n}}''</small>}}
+{{familytree | |!| | | | | | | |}}
+{{familytree | ARA | | | | | | |ARA=[[Aravir]]<br/><small>''{{TA|2156|n}} - {{TA|2319|n}}''</small>}}
+{{familytree | |:| | | | | | | |}}
+{{familytree | |:| | | | | | | |}}
+{{familytree | ELE | | | | | | |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an early manuscript Arahael name was "Arahantil".<ref>{{PM|Elendil}}, Commentary, p. 211</ref>
+
+{{references|note}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2012}}
+| died={{TA|2177}}
+}}
+{{seq
+| prow=2
+| prev=[[Aranarth]]
+| list=25th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2106}} - {{TA|2177|n}}
+| next=[[Aranuir]]
+| nrow=2
+}}
+{{seq
+| list=2nd [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2106}} - {{TA|2177|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Third Age characters]]
+
+[[de:Arahael]]
+[[fi:Arahael]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/arahael]]

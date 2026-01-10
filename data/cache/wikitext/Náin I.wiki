@@ -1,0 +1,96 @@
+{{disambig-more|Náin|[[Náin (disambiguation)]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Náin I
+| image=The Lord of the Rings Online - Náin I.jpg
+| caption=Náin I in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=[[Kings of Durin's Folk|King of Durin's Folk]]<br/>[[Kings of Khazad-dûm|King of Khazad-dûm]]
+| position=
+| location=[[Moria|Khazad-dûm]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|1832}}
+| birthlocation=[[Moria|Khazad-dûm]]
+| rule={{TA|1980}} - {{TA|1981|n}}
+| death={{TA|1981}} (aged 149)
+| deathlocation=by [[Durin's Bane]], [[Moria|Khazad-dûm]]
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Durin VI]]
+| siblings=
+| spouse=
+| children=[[Thráin I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Náin I''' ([[Third Age]] {{TA|1832|n}} – {{TA|1981|n}}, lived 149 years) was the son of [[Durin VI]] and [[King of Durin's folk]].<ref name="Durin">{{App|Durin}}</ref>
+
+==History==
+During his time the [[Dwarves]] of [[Durin's folk]] lived in [[Moria|Khazad-dûm]], but had awoken a [[Balrog]]. The Balrog slew Náin's father and was thereafter known as [[Durin's Bane]]. Náin ruled for only one year, attempting to hold out against the Balrog but shortly thereafter he also found his death by in {{TA|1981|n}}, being the last true King of [[Moria|Khazad-dûm]] until [[Durin VII]] in the [[Fourth Age]].
+
+Under his son [[Thráin I|Thráin's]] direction, [[Durin's folk]] fled their ancestral home for safety in [[Lonely Mountain]] and the [[Grey Mountains]].<ref name="Durin"/>
+
+==Etymology==
+''Náinn'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. It means "Corpselike".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | DUR |DUR=[[Durin V]]}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | DUR |DUR=[[Durin VI]]<br/><small>''{{TA|1731|n}} - {{TA|1980|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | NAI |NAI='''NÁIN I'''<br/><small>''{{TA|1832|n}} - {{TA|1981|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | THR |THR=[[Thráin I]]<br/><small>''{{TA|1934|n}} - {{TA|2190|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | THO |THO=[[Thorin I]]<br/><small>''{{TA|2035|n}} - {{TA|2289|n}}''</small>}}
+{{familytree/end}}
+
+== Portrayals in adaptations ==
+'''2008: ''[[The Lord of the Rings Online]]'':'''
+: Prince Náin appears during the fall of [[Moria]] to [[Durin's Bane]], in which he becomes the King after his father [[Durin VI]] is slain. Inside [[Khazad-dûm]], remnants of the Palace of Nain, built during his short one-year reign, can be found.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[House of Durin]]
+| born={{TA|1832}}
+| died={{TA|1981}}
+}}
+{{seq
+| prev=[[Durin VI]]
+| prow=2
+| list=[[Kings of Durin's Folk|King of Durin's Folk]]
+| dates={{TA|1980}} - {{TA|1981|n}}
+| next=[[Thráin I]]
+}}
+{{seq
+| list=[[Kings of Khazad-dûm|King of Khazad-dûm]]
+| dates={{TA|1980}} - {{TA|1981|n}}
+| nvac=Vacant
+| next=Next held by:<br/>[[Balin]],&nbsp;1008&nbsp;years&nbsp;later
+}}
+{{seq-end}}
+
+{{durinskings}}
+{{DEFAULTSORT:Nain I}}
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Kings of Khazad-dûm]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Náin I.]]
+[[fi:Náin I]]
+[[fr:encyclo/personnages/nains/3a/nain ier]]

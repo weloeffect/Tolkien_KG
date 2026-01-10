@@ -1,0 +1,52 @@
+{{infobox character
+| people-duplicated=[[Men|Man]]
+| name=Mat Heathertoes
+| image=The Lord of the Rings Online - Mat Heathertoes.jpg
+| people=[[Men of Bree|Man of Bree]]
+| caption=Mat Heathertoes from ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bree]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|3019}}
+| deathlocation=[[Bree]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|All good fellows, and they're missed|[[Barliman Butterbur]]<ref name="Bound"/>}}
+'''Mat Heathertoes''' (died [[Third Age]] {{TA|3019|n}}) was a [[Bree-men|Man of Bree]].
+==History==
+With the [[War of the Ring]] raging in the South-east, many refugees came up the [[Greenway]] to [[Bree]]. Not all these refugees came with the same intentions: a group of [[ruffians]] was ousted from the town near the end of {{TA|3018}}. With the help of [[Bill Ferny]] and [[Harry Goatleaf]], they returned soon after New Year, and a fight ensued. The number of casualties on the side of the ruffians was not recorded, but five of the Bree-folk, three Men and two Hobbits, were killed. Mat Heathertoes was one of them.<ref name="Bound">[[J.R.R. Tolkien]], ''[[The Lord of the Rings]]'', ''[[The Return of the King]]'', "[[Homeward Bound]]"</ref> 
+
+==Etymology==
+''Mat'' was a name employed by [[J.R.R. Tolkien|Tolkien]] to translate the common (but untranslated) Hobbit name '''Matta'''.<ref name="AppF">[[J.R.R. Tolkien]], ''[[The Lord of the Rings]]'', ''[[Appendix F]]'', "II: On Translation"</ref> The name '''Heathertoes''' was, like all surnames of the Men of Bree, a plant name,<ref name="Pony">[[J.R.R. Tolkien]], ''[[The Lord of the Rings]]'', ''[[The Fellowship of the Ring]]'', "[[At the Sign of the Prancing Pony]]"</ref> though this seems to have escaped Tolkien when he wrote [[Guide to the Names in The Lord of the Rings|a list for translators]]. In it he said ''Heathertoes'' was a Hobbit name, and was given in joke to the unshod Hobbits. While walking, they would gather twigs and moss between their toes.<ref name="nomen">{{HM|N}}, page 759</ref> However, Mat was most certainly a Man: given that two of the five were Hobbits,<ref name="Bound"/> and the last two named victims - [[Willie Banks]] and an [[Underhill Family|Underhill]] were both positively identified as Hobbits as well.<ref name="Pony"/><ref name="nomen"/>
+
+==Portrayal in adaptations==
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Though the "set-to" with the ruffians is mentioned by Butterbur, he does not give the names of the casualties.<ref>[[Brian Sibley]], [[Michael Bakewell]], ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]'', "[[Homeward Bound (episode)|Homeward Bound]]"</ref>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Mat Heathertoes is an impoverished man of Bree living in Beggar's Alley with a half-starved pony. In the Skirmish instance Thievery and Mischief, the [[half-orcs|half-orc]] Bálak kills an unlabeled man who appears to be Mat before engaging the player in combat.
+
+{{References}}
+
+[[Category:Bree-men]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]

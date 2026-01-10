@@ -1,0 +1,61 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Gilbarad
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=[[Ivorwen]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Gilbarad''' was the father of [[Ivorwen]], and [[Aragorn]]'s maternal great-grandfather.<ref>{{PM|Aii}}, p. 263</ref>
+
+== Etymology ==
+''Gilbarad'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack suggests that it contains the elements ''[[gil]]'' ("star; (bright) spark, silver glint, twinkle of light") and ''[[barad]]'' ("tower, great towering building").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2564320429.html|articlename=S. ''Gilbarad'' m.|website=Eldamo|accessed=19 August 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | HOS | | | | | | |HOS=''[[House of Isildur]]''}}
+{{familytree | | | |:| | | | | | | |}}
+{{familytree | | | |:| | | | | | | |}}
+{{familytree | | | ARA | | | | HOU |ARA=[[Arathorn I]]<br/><small>''{{TA|2693|n}} - {{TA|2848|n}}''†</small>|HOU=''[[House of Isildur]]''}}
+{{familytree | |,|-|^|-|.| | | |:| |}}
+{{familytree | ARG | | UNK | | GIL |ARG=[[Argonui]]<br/><small>''{{TA|2757|n}} - {{TA|2912|n}}''</small>|GIL='''GILBARAD'''<br/><small>''b. {{TA}}''</small>|UNK=''unknown<br />child''<sup>[[Arathorn I#Other versions of the legendarium|NB]]</sup>}}
+{{familytree | |!| | | |:| | | |!| |}}
+{{familytree | ARA | | DIR |y| IVO |ARA=[[Arador]]<br/><small>''{{TA|2820|n}} - {{TA|2930|n}}''†</small>|DIR=[[Dírhael]]<br/><small>''b. {{TA}}''</small>|IVO=[[Ivorwen]]<br/><small>''b. {{TA}}''</small>}}
+{{familytree | |!| | | | | |!| | | |}}
+{{familytree | ATH |~|y|~| GIR | | |ATH=[[Arathorn II]]<br/><small>''{{TA|2873|n}} - {{TA|2933|n}}''†</small>|GIR=[[Gilraen]]<br/><small>''{{TA|2907|n}} - {{TA|3007|n}}''</small>}}
+{{familytree | | | | |!| | | | | | |}}
+{{familytree | | | | ELE | | | | | |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Dúnedain of the North]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Gilbarad]]
+[[fi:Gilbarad]]

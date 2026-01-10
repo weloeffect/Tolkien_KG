@@ -1,0 +1,66 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Calimmacil
+| image=
+| caption=
+| pronun=[[Quenya|Q]], {{IPA|[kaˈlimːakil]}}
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=[[Westron]]
+| birth=Mid-18th C. [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Arciryas]]
+| siblings=
+| spouse=
+| children=[[Siriondil (son of Calimmacil)|Siriondil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Calimmacil''' was a [[Gondorians|Gondorian]] nobleman.
+
+==History==
+Calimmacil was the son of [[Arciryas]], and therefore a nephew of [[Narmacil II]] ({{TA|1684}}-{{TA|1856|n}}), the 29th [[Kings of Gondor|King of Gondor]]. 
+
+Calimmacil had a son, [[Siriondil (son of Calimmacil)|Siriondil]], and a grandson, [[Eärnil II|Eärnil]].
+
+Nothing is known about the life of Calimmacil, who enters history because after King [[Ondoher]] and his sons were slain in battle, his grandson Eärnil was chosen to succeed Ondoher to the throne.<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+''Calimmacil'' is [[Quenya]]. It is not glossed, but as Paul Strack explains, it probably means "Bright Sword", from ''[[kalima|calima]]'' ("bright") and ''[[macil]]'' ("sword").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1529288863.html|articlename=Q. ''Calimmacil'' m.|website=Eldamo|accessed=19 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | TEL | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|^|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM='''CALIMMACIL'''<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR | | MIN | | EAR |ART=[[Artamir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|MIN=[[Minohtar]]<br/><small>''d. {{TA|1944|n}}''†</small>|EAR=[[Eärnil II]]<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Calimmacil]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:calimmacil]]
+[[fi:Calimmacil]]

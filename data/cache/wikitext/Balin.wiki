@@ -1,0 +1,202 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Balin
+| image=Daniel Govar - The Hobbit - Balin.jpg
+| caption="The Hobbit - Balin" by [[Daniel Govar]]
+| pronun=
+| othernames=
+| titles=[[Lord of Moria]]
+| position=
+| location=[[Thorin's Halls]]<br/>[[Lonely Mountain]]<br/>[[Moria|Khazad-dûm]]
+| affiliation=[[Thorin and Company]]<br/>[[Balin's folk]]
+| language=[[Khuzdul]] and [[Westron]]
+| birth={{TA|2763}}
+| birthlocation=
+| rule={{TA|2989}} - {{TA|2994}}
+| death=[[10 November]], {{TA|2994}} (aged 231)
+| deathlocation=[[Dimrill Dale]]
+| age=
+| notablefor=[[Quest of Erebor]]<br>[[Balin's folk|Balin's expedition]]
+| house=[[House of Durin]]
+| parentage=[[Fundin]]
+| siblings=[[Dwalin]]
+| spouse=
+| children= 
+| gender=Male<ref name="H|Party">{{H|Party}}</ref>
+| height=
+| hair= White beard<ref name="H|Party"></ref>
+| eyes=
+| clothing=Scarlet hood,<ref name="H|Party"></ref> jewelled belt<ref name = "The Last Stage">{{H|Stage}}</ref>
+| weapons=
+| steed=
+}}
+{{quote|Instead there was a very old-looking dwarf on the step with a white beard and a scarlet hood; and he too hopped inside as soon as the door was open, just as if he had been invited. "I see they have begun to arrive already," he said when he caught sight of Dwalin's green hood hanging up. He hung his red one next to it, and "Balin at your service!" he said with his hand on his breast.|''[[The Hobbit]]'', [[An Unexpected Party]]}}
+
+'''Balin''' was a [[Dwarves|Dwarven]] leader, the son of [[Fundin]] and elder brother of [[Dwalin]] and a member of [[Durin's Folk]]. He was [[Thorin and Company|one of the Dwarves]] that travelled with [[Bilbo Baggins]] and [[Gandalf]] to reclaim [[Erebor]]. When Bilbo first met Balin, the Dwarf was very old looking with a white beard and a red hood and would later become close friends with the hobbit.<ref name="H|Party"></ref>
+
+==History==
+===Early life===
+Balin was born in {{TA|2763}}, the son of [[Fundin]]. When he was seven years old, [[Smaug]] invaded [[Lonely Mountain|the Lonely Mountain]]. After the Dwarves were driven out at great loss in {{TA|2770|n}}, Balin and his father [[Fundin]] lived with their king [[Thrór]] in [[Dunland]]. His brother [[Dwalin]] was born [[Third Age 2772|two years later]].<ref name="Durin">{{App|A3}}</ref>
+
+Fundin fought in the [[War of the Dwarves and Orcs]], and was slain in the [[Battle of Azanulbizar]] in {{TA|2799|n}}. Balin was present at this battle but his role remains unknown.<ref group="note">In a note considered for inclusion in [[Appendix A]] published in ''[[The Peoples of Middle-earth]]'', Tolkien stated that Dwarves reached fighting age around thirty. Balin was 30 at the start and 36 at the end of the war, so conceivably he did participate as a warrior.</ref> The [[Durin's Folk|Longbeards]] under [[Thráin|Thráin II]], including Balin, at first returned to their forges in Dunland, but they moved into [[Eriador]] shortly after, and colonized the [[Blue Mountains]].<ref name="Durin"/>
+
+===Thráin's expedition===
+Thráin longed to return to Erebor, and with Balin and Dwalin and a few others in {{TA|2841}} he went on an expedition to their ancient hall.<ref name="TA">{{App|TA}}</ref> [[Sauron]] had them in his sights, eager to take the [[Ring of Thrór]] from the exiled king. [[Wolves]], [[Orcs]] and evil birds harassed the small company as they came east. One night, as they had crossed the [[Anduin]], an evil rain forced them into the eaves of [[Mirkwood]], and the company was split. Thráin was never seen again (captured and taken to [[Dol Guldur]]), and Balin and Dwalin returned to the Blue Mountains to report the news to [[Thorin]], the new king of Durin's line.<ref name="Durin"/>
+
+===Quest of Erebor===
+In {{TA|2941|n}},<ref name="TA"/> during [[Gandalf]]'s efforts to persuade Thorin to take Bilbo to Erebor (before the party at [[Bag End]]), Balin played an important if unintentional role. When Gandalf said that "professional stealth" was needed Balin misunderstood him as recommending a trained treasure-hunter. As Gandalf defended hobbits in general and the particular hobbit he had in mind, stating that his hobbit had some gold, silver, and crystal, Balin again jumped to the conclusion that Bilbo was an outright thief. In his anger at this remark Gandalf proclaimed that Bilbo ''had'' to come or else the enterprise would be a failure, and Thorin then agreed to meet the hobbit. Thus Balin accidentally insured that Bilbo would be part of [[Quest of Erebor|the quest]].<ref>{{UT|Erebor}}</ref>
+[[File:Darek Zabrocki - Sneaking into Camp.jpg|thumb|250px|''Sneaking into Camp'' by [[:Category:Images by Darek Zabrocki|Darek Zabrocki]]]] 
+On the day of the unexpected party Balin was the second Dwarf to appear at Bag End; his comment, "''they have begun to arrive''" flustered the hobbit considerably, along with asking for beer. Then also him and Dwalin were the first dwarves to go help Bilbo in the kitchen after the hobbit complained. Later, when the Dwarves made music, Balin and his brother Dwalin brought in and played viols along with bringing Thorin's golden harp covered with green cloth.<ref name="H|Party"/>
+
+On the day after the party Balin stood at the door of the [[Green Dragon]] Inn, awaiting Bilbo's arrival.<ref>{{H|Mutton}}</ref> This was the first of many instances where Balin served as the chief look-out for Thorin's company. In fact, it was when Bilbo (wearing the [[The One Ring|One Ring]] and thus invisible) sneaked past Balin on look-out duty after their adventures with the [[Orcs#Orcs and Goblins|Goblins]] in the mountains that Balin began to develop great respect for the hobbit.<ref name="Pan">{{H|Pan}}</ref>
+
+Balin and his brother Dwalin tended to act together as a pair. In the clearing of the [[Wargs]] Balin and Dwalin were the two who swarmed up a tall slender fir.<ref name="Pan"/> When the Dwarves arrived at [[Beorn]]'s [[Beorn's Hall|hall]], the two brothers were the third pair to appear.<ref>{{H|Queer}}</ref> Thorin did split the two when they crossed the [[Enchanted River]] – Balin went in the first boatload with Thorin, Bilbo, and [[Fíli]] while Dwalin came last with [[Bombur]].<ref  name="Flies">{{H|Flies}}</ref>
+
+Balin's growing fondness for Bilbo became apparent after the hobbit had rescued the Dwarves from the spiders in [[Mirkwood]]. Having seen Bilbo vanish they, especially Balin, wanted the true story of [[Gollum]] and the Ring explained. Finally satisfied as to how Bilbo had sneaked past him after the mountains, Balin called the hobbit "Good old Bilbo".<ref name="Flies"/>
+
+When the Dwarves were hauled before the [[Thranduil|Elvenking]] they did not know that Thorin had been taken before them and put into a cell deep in the king's dungeon. Balin, being the second oldest of the party, became the spokes-dwarf. His angry, surly answers to Thranduil led to their confinement too.<ref name="Barrels">{{H|Barrels}}</ref>
+
+Balin and Dwalin were two of the most unhappy Dwarves when unpacked from their barrels before [[Lake-town]] and were not asked to help release the others.<ref name="Barrels"/> After leaving the town and as their ponies trudged towards the Mountain, Balin and Bilbo rode together in the rear, leading ponies laden with supplies.<ref name="Door">{{H|Doorstep}}</ref>
+[[File:Alan Lee - Visit to Bilbo.jpg|thumb|left|''Visit to Bilbo'' by [[Alan Lee]]]]
+That Balin had become the fondest of Bilbo of all the Dwarves was demonstrated when the hobbit made his first descent into the Lonely Mountain. None of the other Dwarves volunteered to accompany Bilbo except for Balin, who did go partway down the passageway. Balin waited there and when Bilbo returned he delightedly carried the tired hobbit back to the door.<ref>{{H|Inside}}</ref> Later, when Bilbo dropped his torch in [[Smaug]]'s lair, Balin pointed out that it was the Dwarves' turn to help and declared that he was quite willing to go.<ref name="Home">{{H|Home}}</ref>
+
+Upon escaping from Erebor, Balin led the company to [[Ravenhill]].<ref name="Home"/> Balin later fought valiantly and survived the [[Battle of Five Armies]].<ref name = "Return Journey">{{H|Return}}</ref>
+
+In the autumn of {{TA|2949|n}}, Balin accompanied Gandalf to visit Bilbo in [[the Shire]].<ref name="TA"/> Bilbo noted that Balin's beard was many inches longer and that he wore a magnificent jewelled belt. The three friends talked for hours and Bilbo learned of the new prosperity of the [[Kingdom under the Mountain]] and the restored town of [[Dale]].<ref name = "The Last Stage"></ref>
+
+===Expedition to Moria and his death===
+[[File:Joona Kujanen - Balin, Lord of Moria.jpg|thumb|''Balin, Lord of Moria'' by [[:Category:Images by Joona Kujanen|Joona Kujanen]]]]
+Though the riches of Erebor made the Dwarves prosperous again, there were many who longed to return to [[Moria]]. [[Dáin Ironfoot]] counseled against it, but Balin mounted an expedition in {{TA|2989}}.<ref name="Many Meetings">{{FR|Meetings}}</ref> They hoped to regain the treasures, and Balin had also hoped to find the [[Ring of Thrór]], which was assumed to be lost when [[Thrór]] entered the Gates years before.<ref name="Council">{{FR|Council}}</ref>
+
+Together with [[Flói]], [[Óin]], [[Ori]], [[Frár]], [[Lóni]], [[Náli]] and many other Dwarves, Balin entered [[Dimrill Dale]]. After a short battle the group entered the [[Great Gates]]. They stayed in the [[Twenty-first Hall]], and Balin set up his throne in the [[Chamber of Mazarbul]]. He proclaimed himself [[Lord of Moria]].<ref name="Bridge">{{FR|Bridge}}</ref>
+
+For five years the colony thrived. They managed to find many old treasures such as [[Durin's Axe]], helm, mithril, and armouries. But on [[10 November]] {{TA|2994}}, as Balin went to look in [[Mirrormere]], an orc archer fatally shot him. Balin's body was placed in [[Balin's Tomb|a tomb]] in the Chamber of Mazarbul.<ref name="Bridge"/>
+
+But the archer was just the van of the orcs who came up the [[Celebrant|Silverlode]]. The Dwarves were trapped. After a [[Battle of the Second Hall|fierce battle in the halls]] and a [[Last stand of Balin's folk|final stand in the Chamber of Mazarbul]] the colony was completely wiped out.<ref name="Bridge"/> Not knowing what really happened, [[Glóin]] and his son [[Gimli]] were sent to [[Rivendell]] to seek news about the colony.
+
+Gimli eventually learned of their fate when he crossed the dwarven realm with the [[Fellowship of the Ring|Company of the Ring]] and found [[Balin's Tomb]].<ref name="Bridge"/>
+
+==Etymology==
+{{Pronounce|Balin.mp3|Ardamir}}
+Though most names of the Dwarves in ''The Hobbit'' come from the [[Völuspá]], in fact the name of every other member of Thorin's company aside from Bilbo, ''Balin'' is not one of them. The name rhymes with [[Dwalin]], but has no apparent meaning.<ref>{{HM|AH}}, "Roast Mutton", note 20</ref>
+
+[[Jim Allan]] has suggested that ''Balin'' may be derived from [[Old Norse]] ''bál'' ("fire"), thus meaning "Burning-one". Allan also links the name to ''[[Wikipedia:Le Morte d'Arthur|Le Morte d'Arthur]]'', which includes a character named ''Balyn'' (modernized to ''Balin'' in some editions) and to a ''Beli'' of ''[[Wikipedia:Mabinogion|The Mabinogion]]''.<ref>[[Jim Allan]], "Giving of Names", in ''[[An Introduction to Elvish]]'', p. 223</ref><ref group=note>It is known that Tolkien worked on editions of both ''Le Morte d'Arthur'' and ''The Mabinogion''; cf. ''[[The Fall of Arthur]]'' and ''[[Pwyll Prince of Dyved]]'', respectively.</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | | | | NAI | | | | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| |,|-|-|-|-|^|-|-|-|-|.| | | | | | | |}}
+{{familytree| DAI | | | | | | | | BOR | | | | | | |DAI=[[Dáin I]]<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>|BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| |!| | | | | | | | | |!| | | | | | | |}}
+{{familytree| THR | | | | | | | | FAR | | | | | | |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FAR=[[Farin]]<br/><small>''{{TA|2560|n}} - {{TA|2803|n}}''</small>}}
+{{familytree| |!| | | | | |,|-|-|-|^|-|-|-|.| | | |}}
+{{familytree| THR | | | | FUN | | | | | | GRO | | |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO=[[Gróin]]<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree| |!| | | |,|-|^|-|.| | | |,|-|^|-|.| |}}
+{{familytree| THO | | BAL | | DWA | | OIN | | GLO |THO=[[Thorin]]<br/><small>''{{TA|2746|n}} - {{TA|2941|n}}''†</small>|BAL='''BALIN'''<br/><small>''{{TA|2763|n}} - {{TA|2994|n}}''†</small>|DWA=[[Dwalin]]<br/><small>''{{TA|2772|n}} - {{FoA|91}}''</small>|OIN=[[Óin]]<br/><small>''{{TA|2774|n}} - {{TA|2994|n}}''†</small>|GLO=[[Glóin]]<br/><small>''{{TA|2783|n}} - {{FoA|15}}''</small>}}
+{{familytree| | | | | | | | | | | | | | | | | |!| |}}
+{{familytree| | | | | | | | | | | | | | | | | GIM |GIM=[[Gimli]]<br/><small>''{{TA|2879|n}} - {{FoA|120}}+''}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+There are a number of differences regarding Balin as presented in early texts as opposed to the published version of ''The Hobbit''. Below is a list of noticeable differences:
+* Earlier, Balin's beard was yellow instead of white, and his hood was described first as scarlet and then as yellow before red became the final choice.<ref>{{HH|Bladorthin}}, p. 32</ref>
+* Originally it was Dwalin who spotted the Trolls' fire on the hillside; later this was changed to Balin.<ref>{{HH|Trolls}}, p. 91</ref>
+* When Balin and others scouted the [[Front Gate]] at Erebor, in the pre-publication version referred to ravens nearby as "spies of evil".<ref>{{HH|Lonely}}</ref>  In the published story the suspicious birds were changed to crows.<ref name="Door"/>
+
+In the earliest drafts of ''[[The Lord of the Rings]]'', Balin had a son named [[Burin]] (or [[Frár]]). Burin accompanied [[Glóin]] to the [[Council of Elrond]], and became part of the [[Fellowship of the Ring]]. The character was changed to [[Gimli]], son of Glóin in the final version.<ref>{{RS|Elrond}}</ref>
+
+==Portrayal in adaptations==
+===Balin in adaptations===
+<gallery mode="traditional" widths="165px" heights="140px">
+File:The Hobbit (1977 film) - Balin.png|Balin in [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+File:David T. Wenzel - Balin.png|Balin in [[The Hobbit (comic book)|''The Hobbit'' (comic book)]]
+File:The Lord of the Rings - The Fellowship of the Ring - Balin's Tomb.jpg|Balin's tomb in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Balin's tomb.png|Balin's tomb in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+File:Balin The Hobbit 2003.png|Balin in [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+File:Balin's Tomb Battle for Middle-earth.png|Balin's tomb in ''[[The Lord of the Rings: The Battle for Middle-earth]]''
+File:The Hobbit (film series) - Balin.jpg|Balin in [[The Hobbit (film series)|''The Hobbit'' (film series)]]
+File:The Lord of the Rings Online - Balin.jpg|Young Balin in ''[[The Lord of the Rings Online]]''
+</gallery>
+===Films===
+'''1967: [[The Hobbit (1967 film)|''The Hobbit'' (1967 film)]]:'''
+:Balin is omitted. [[Thorin|Thorin Oakenshield]] only travels with an unnamed guard and the princess of Dale.<ref name="Deitch">{{webcite|articleurl=http://www.youtube.com/watch?feature=player_detailpage&v=UBnVL1Y2src|articlename=The Hobbit.mp4|dated=5 January 2012|website=YouTube|accessed=10 January 2012}}</ref>
+
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:Balin's voice is provided by [[Don Messick]]. Apart from Thorin, he is one of only three of the other Dwarves who speaks with any regularity ([[Dori]] and [[Bombur]] being the others). Before the [[Battle of Five Armies]] he is named General by Thorin. It is unknown if he survived the Battle of Five Armies, as only six of the thirteen survive (with Thorin and Bombur among the casualties and [[Glóin]] amongst the survivors) in this film.<ref>[[The Hobbit (1977 film)]], "Farewell, Thorin"</ref>
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Balin is mentioned by [[Gimli]] as the King of Moria, and his tomb is seen in Moria.<ref>{{fotree}}, "[[Balin's Tomb (scene)|Balin's Tomb]]"</ref> No mention is made about the past of Moria and his expedition, and Gimli seems confident he is still alive.<ref>{{fotree}}, "[[Moria (scene)|Moria]]"</ref>
+
+'''2012-14: [[The Hobbit (film series)|''The Hobbit'' (film series)]]:'''
+:Balin is played by [[Ken Stott]].<ref name="PJCasting">{{webcite|author=[[Peter Jackson]]|articleurl=http://www.facebook.com/note.php?note_id=10150168211921558|articlename=Production begins in New Zealand on The Hobbit|dated=20-March-2011|website=[http://www.facebook.com/ Facebook]|accessed=23-Dec-2011}}</ref> A description of Balin in ''The Hobbit'' films was released by the studio:
+
+:{{Blockquote|A descendant of nobility and a Dwarf Lord in his own right, Balin is one of the oldest members of The Company of the Dwarves. Wise and gentle by nature, he has been forced to live a life fraught with war and the ongoing struggle for survival. Related to Thorin Oakenshield, Balin is one of his closest, most trusted advisors – but deep in his heart, this wisest and most loyal of Dwarves harbors troubling doubts about the wisdom of the Quest for the Lonely Mountain.|[[Warner Bros.]]<ref name="HobbitApp">{{webcite|author=[[Warner Bros.]]|articleurl=http://itunes.apple.com/us/app/hobbit-movies/id545808528|articlename=Hobbit Movies|dated=7-September-2012|website=[http://itunes.apple.com/ Apple iPhone/iPad App]|accessed=19-September-2012}}</ref>}}
+:Balin is presumably the oldest of the 13 Dwarves in the films (in the book he was the second oldest -- younger than Thorin by at least ten years). Balin warns [[Bilbo Baggins]] that [[Thorin Oakenshield]] is subject to a hereditary disease of "Dragon Fever" (excessive love of gold).
+
+===Radio series===
+'''1968: [[The Hobbit (1968 radio series)|''The Hobbit'' (1968 radio series)]]:'''
+:Balin is played by [[Peter Pratt]].<ref name="RT1968">Radio Times, Volume 180, No. 1968, [[26 September|September 26]], [[1968]]</ref>
+
+'''1979: [[The Hobbit (1979 radio series)|''The Hobbit'' (1979 radio series)]]:'''
+:Balin is played an Gail Chugg.
+
+'''1980: [[Der Hobbit (1980 German radio series)|''Der Hobbit'' (1980 German radio series)]]:'''
+:Balin is played by Wolfgang Spier.
+
+'''1989: [[Hobit (1989 Slovak radio series)|''Hobit'' (1989 Slovak radio series)]]:'''
+:Balin is present, but no actor is specified for the role of Balin.
+
+===Games===
+'''1982: [[The Hobbit (1982 video game)|''The Hobbit'' (1982 video game)]]:'''
+:Balin is omitted; Thorin is the only companion of the player, [[Bilbo Baggins]].<ref>''[http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8304/Pages/ZXComputing830400076.jpg ZX Computing]'', 8304 (April/May 1983), p. 76 (accessed 24 March 2011)</ref>
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Balin's Tomb is visited between the levels "2nd Hall" and "Abyss Fight". It is a block of stone, raised from the ground by four ornamental legs.
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:No actor is credited for the role of Balin. He is one of the older dwarves, and has a long white beard. He is the team's lookout.<ref>[[The Hobbit (2003 video game)]], "Roast Mutton"</ref>
+
+'''2004: ''[[The Lord of the Rings: The Battle for Middle-earth]]'':'''
+:Balin's Tomb is one of the objectives of the first act in the Good Campaign. Several groups of orcs, as well as three trolls, have to be fought off before a break in the wall allows access to the next hall and the Bridge.<ref>[[The Lord of the Rings: The Battle for Middle-earth]], "Moria"</ref>
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Young Balin makes a cameo appearance in a flashback sequence depicting the [[Battle of Azanulbizar]]. Older Balin makes another silent cameo during the Company's departure for the [[Quest of Erebor]]. In the present day, the fate of Balin's expedition in Moria is uncovered by the sons of [[Bifur]] and [[Bofur]].
+
+'''2011: ''[[The Lord of the Rings: Aragorn's Quest]]'':'''
+:Balin's Tomb is featured in Moria.
+
+===Miscellaneous===
+'''1989: [[The Hobbit (comic book)|''The Hobbit'' (comic book)]]:'''
+:Balin is portrayed white-haired and quite old; he looks distinctly older than his brother [[Dwalin]], whose hair is still a very dark grey. His role is unchanged from the book; he is the lookout, and visits Bilbo in the epilogue.
+
+{{references|n}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[Durin's Folk|House of Durin]]
+| born={{TA|2763}}
+| died={{TA|2995}}
+}}
+{{seq
+| pvac=Vacant
+| prev=Last held by:<br/>[[Náin I]], 1008 years earlier
+| list=[[Kings of Khazad-dûm|Lord of Moria]]
+| dates={{TA|2989}} - {{TA|2995|n}}
+| next=Vacant:<br/>[[Durin VII]], in the [[Fourth Age]]
+| nvac=None
+}}
+{{seq-end}}
+
+{{Thorin and Company}}
+{{companyroute}}
+{{hobbitfilms}}
+[[Category:Characters in The Hobbit]]
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Third Age characters]]
+[[de:Balin]]
+[[fi:Balin]]
+[[fr:encyclo:personnages:nains:3a:balin]]

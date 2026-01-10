@@ -1,0 +1,62 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Gléowine
+| image=Tony Foti - Gléowine.jpeg
+| caption="Gléowine" by '[[:Category:Images by Tony Foti|Tony Foti]]
+| pronun=
+| othernames=
+| titles=
+| position=Minstrel
+| location=
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gléowine''' was a [[Minstrels|minstrel]] of the [[Kings of Rohan|King's House]] of [[Rohan]] in the late [[Third Age]].
+
+==History==
+Gléowine composed an immortalising song about [[Théoden]] and his ancestors after the [[Battle of the Pelennor Fields]]. It was said that he never composed another song afterwards. Sadly, only the last stanza survived:<ref>{{RK|Partings}}</ref> 
+
+<poem style="font-style:italic; margin-left:20px;">
+Out of doubt, out of dark, to the day's rising
+he rode singing in the sun, sword unsheathing.
+Hope he rekindled, and in hope he ended;
+over death, over dread, over doom lifted
+out of loss, out of life, unto long glory.
+</poem>
+
+==Portrayal in adaptations==
+===Gléowine in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Online - Gléowine.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+'''2013: ''[[The Lord of the Rings Online]]'':'''
+:Gléowine is first encountered being banished from [[Edoras]] at the command of [[Gríma|Gríma Wormtongue]]. The player and Horn later find him drinking his sorrows in the town of [[Snowbourn]]. Gléowine agrees to accompany the player, and they find that the land has been ravaged by the devilry of [[Saruman]]. They return after [[Théoden]] had been healed by [[Gandalf]] and the King takes Gléowine at his side on the ride to the [[Fords of Isen]]. During the [[Battle of Helm's Deep]], Gléowine keeps away from the fighting and later composes a song about the last stand of Théoden's door-warden [[Háma]]. Gléowine again journeys by the King's side to [[Minas Tirith|Mundburg]] and sees the King's death at the hands of the [[Witch-king]] first-hand. 
+
+{{references}}
+{{DEFAULTSORT:Gleowine}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Minstrels]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Gléowine]]
+[[fi:Gléowine]]

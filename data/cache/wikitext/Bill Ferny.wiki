@@ -1,0 +1,89 @@
+{{infobox character
+| people-duplicated=[[Men|Man]]
+| name=Bill Ferny
+| image=Hristo D. Chukov - Bill Ferny, Bree Swindler.jpg
+| people=[[Men of Bree|Man of Bree]]
+| caption="Bill Ferny, [[Bree]] Swindler" by [[:Category:Images by Hristo D. Chukov|Hristo D. Chukov]]
+| pronun=
+| othernames=
+| titles=
+| position=Chief's Big Man
+| location=[[Bree]]
+| affiliation=[[Bree-landers]], [[Eye of Sauron]], [[White Hand]], [[Ruffians|Chief's Men]]
+| language=[[Westron]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=[[Bill the Pony]]
+}}
+
+'''Bill Ferny''' was a man of [[Bree]], known to be an associate of the [[Nazgûl]] and later, a ruffian of the [[Ruffians|Chief's Men]].
+
+==Description==
+Descriptions of Ferny's appearance are limited to his being a "swarthy Bree-lander"<ref name="FRI9">{{FR|I9}}</ref> or a "sneery swarthy fellow."<ref>{{FR|Strider}}</ref>
+
+==History==
+Bill Ferny lived in the last house of Bree, and was an opportunistic backstabber who was little liked by respectable folk of the town. He also served as a spy for the [[Nazgûl|Black Riders]], and relayed information about [[Shire-hobbits]] to them.
+
+On [[September 29]]th of {{TA|3018|n}}, Ferny and his [[Squint-eyed southerner|associate]] were at [[The Prancing Pony]] when the two of them saw [[Mr. Underhill]] vanish into thin air. They reported the information to the Black Riders.<ref name="UT10">{{UT|10}}, "Concerning Gandalf, Saruman, and the Shire"</ref>
+[[File:Cor Blok - Bill Ferney hit by an apple.jpg|thumb|100px|left|"Bill Ferney hit by an apple" by [[Cor Blok]]]]
+After reporting to the Black Riders, Ferny and his allies went to the inn's stables and set all mounts loose. There was only one pony left in all of Bree: [[Bill the Pony|Bill's mistreated one]]. He sold him for twelve [[silver pennies]] to [[Aragorn|Strider]] and the [[Travellers|Hobbits]]. As a parting gift, [[Samwise Gamgee]] threw an [[apples|apple]] at his head.<ref>{{FR|Strider}}</ref>
+
+Ferny's associate was spotted inside his house when the company set out to [[Weathertop]].<ref name="FRI11">{{FR|I11}}</ref>
+
+After the [[Ruffians]] among the [[Southerners]] were kicked out of Bree, it was believed by [[Barliman Butterbur]] that Bill Ferny and [[Harry Goatleaf]] opened the gates to let them in since the two of them sided with Ruffians in the battle that followed.<ref>{{RK|Homeward}}</ref> After fleeing Bree with the Ruffians, he threw in his lot with the [[Sharkey's Men|Men]] serving [[Lotho Sackville-Baggins]] in the [[Shire]]. He guarded the outer gate at the [[Brandywine Bridge]] as the Chief's Big Man and his command over the local [[Shirriffs]] was hard. When the four [[Travellers]] returned to the Shire, he attempted to threaten them, but was threatened by [[Meriadoc Brandybuck]] in turn, and as such he fled into the night after giving him the gate key, though not until after his old pony had kicked him in his back. He was never heard of again.<ref>{{RK|Scouring}}</ref>
+
+==Etymology==
+''Bill'' is a name Tolkien used to represent the [[Westron]] name '''Bil''', which was a short for names as ''Arambil'', ''Bildad'' and ''Bilcuzal'', all of unknown meaning.<ref>{{PM|Languages}}</ref> ''Ferny'' is a reference to the [[wikipedia:Fern|plant]], as many surnames of [[Bree]] were botanical in nature.<ref>{{HM|N}}, p. 757</ref>
+
+==Other versions of the legendarium==
+In an earlier draft of [[The Scouring of the Shire]], it is Frodo who threatens Ferny rather than Merry. Later, Sam compares [[Ted Sandyman]] to Ferny.<ref>{{SD|Shire}}, pp. 80, 88-9</ref>
+
+==Portrayal in adaptations==
+===Bill Ferny in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings - The Fellowship of the Ring - Bill Ferny.jpg|Bill Ferny in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Bill Ferny.JPG|Bill Ferny in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+File:The Lord of the Rings Online - Bill Ferny.jpg|Bill Ferny in ''[[The Lord of the Rings Online]]''
+File:The Hobbit - The Desolation of Smaug - Bill Ferny, Sr.jpg|"Bill Ferny Sr." in ''[[The Hobbit: The Desolation of Smaug]]''
+</gallery>
+
+'''1981: ''[[The Lord of the Rings (1981 radio series)|BBC Radio's The Lord of the Ring]]'':'''
+:[[Graham Faulkner]] provided the voice of Bill Ferny.
+
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:One of the men seen in Bree in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' is identified as Bill Ferny.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Bill is one of the guests at the ''Prancing Pony'', who doesn't want to be disturbed by Hobbits. Afterwards, he confronts Strider in the streets, and is killed.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Bill Ferny is encountered at several points in the game, spreading mischief throughout [[Bree-land]]. At one points he attempts to forge an alliance between Sharkey's Men and a band of [[Orcs]] from [[Angmar]] that have been cut off, but that arrangement falls through due to intervention of the Dunedain Rangers.
+
+'''2013: ''[[The Hobbit: The Desolation of Smaug]]:'''
+:A character credited as "Bill Ferny Sr." appears in the prologue in Bree. Along with him associate, another character credited as "Squint" (loosely based on the squint-eyed southerner), Ferny, Sr. has seemingly tracked [[Thorin]] to the Prancing Pony (presumably to collect on the bounty put out on Thorin's head by [[Azog]]). The two Men are preparing to confront Thorin when [[Gandalf]] goes over and sits and starts talking with the [[Dwarves|Dwarf]]. When it becomes apparent the Wizard is not going anywhere, the two Men get up and leave the inn.
+
+{{references}}
+[[Category:Bree-men]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Servants of Saruman]]
+[[Category:Servants of Sauron]]
+[[Category:Third Age characters]]
+[[de:Lutz Farning]]
+[[fr:encyclo:personnages:hommes:3a:hommes de bree:bill fougeron]]
+[[fi:Bil Imarre]]

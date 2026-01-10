@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Tanta Hornblower
+| image=
+| caption=
+| pronun=
+| othernames=Tanta Baggins
+| titles=
+| position=
+| location=[[the Shire]]
+| affiliation=
+| language=
+| birth=c. {{SR|1220}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Hornblower Family|Hornblower]]
+| parentage=
+| siblings=
+| spouse=[[Largo Baggins]]
+| children=[[Fosco Baggins|Fosco]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Tanta Hornblower''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Tanta married [[Largo Baggins]], and was the mother of [[Fosco Baggins]].<ref>{{App|Baggins}}</ref>
+
+==Etymology==
+The name ''Tanta'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Tante'' or ''Tanto''.<ref>{{App|Translation}}</ref>
+{{references}}
+[[Category:Hobbits]]
+[[Category:Hornblower]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]

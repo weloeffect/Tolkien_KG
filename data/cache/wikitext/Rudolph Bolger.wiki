@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rudolph Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1178}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Gundolpho Bolger]] and [[Alfrida of the Yale]]
+| siblings=[[Gundahar Bolger|Gundahar]] and [[Gundahad Bolger|Gundahad]]
+| spouse=[[Cora Goodbody]]
+| children=[[Fastolph Bolger|Fastolph]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rudolph Bolger''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Rudolph was the second son of [[Gundolpho Bolger]] and [[Alfrida of the Yale]]. He married [[Cora Goodbody]] and had one son, [[Fastolph Bolger|Fastolph]].<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+''Rudolph'' contains the elements ''hrod'' "fame" and ''wulf'' "wolf".
+
+{{references}}
+[[Category:Bolger]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Rudolph Bolger]]
+[[fi:Rudolph Bolger]]
+[[fr:encyclo/personnages/hobbits/bolger/rudolph bolger]]

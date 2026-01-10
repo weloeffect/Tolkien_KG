@@ -1,0 +1,80 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Girion
+| image=U-yasuk - Girion.png
+| caption="Girion" by [[:Category:Images by U-yasuk|U-yasuk]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Lord of Dale]]
+| location=[[Dale]]
+| affiliation=
+| language=[[language of Dale]]
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|2770}}
+| deathlocation=[[Dale]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=Unnamed wife<ref name="Fire">{{H|14}}</ref>
+| children=At least 2 sons<ref name="Fire">{{H|14}}</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=[[Necklace of Girion|Necklace]]
+| weapons=
+| steed=
+}}
+'''Girion''' (d. {{TA|2770}}<ref name="TA">{{App|TA}}</ref>) was the last Lord of [[Dale]]. 
+
+==History==
+Girion was a [[Men of Dale|Man of Dale]] and became lord of the city. Not much can be said about his life and rule, other than he had a wife, and at least two sons.<ref name="Fire">{{H|14}}</ref>
+
+He possessed a [[Necklace of Girion|Necklace]] made of five hundred emeralds. When the [[Dwarves of Erebor]] forged a coat of dwarf-linked rings, presumably of [[mithril]], for his eldest son, Girion gave the necklace to the Dwarves as a payment.<ref>{{H|Inside}}</ref>  
+
+He witnessed the arrival of [[Smaug]] when the [[Dragons|Dragon]] assaulted Dale and the neighbouring [[Dwarves|dwarf]] realm of [[Lonely Mountain|Erebor]]. Girion was killed during that event but his wife and child escaped down the [[River Running]].<ref name="Fire">{{H|14}}</ref>
+
+==Legacy==
+Many years later, his descendant [[Bard]] was still living in [[Lake-town|Esgaroth]]. He took revenge upon the dragon by slaying him with [[Black Arrow|an arrow]].<ref name="Fire"/> His necklace was found among the dragon's hoard.
+
+==Etymology==
+Although the names of Dale are [[Norse]], ''Girion'' seems to be a [[Sindarin]] name. The meaning is not clear but the ''[[The Etymologies|Etymologies]]'' give a [[Noldorin]] [[Sundocarme|root]] GIR ("quiver, shudder"),<ref>{{LR|Etymologies}}, p. 358</ref> which might be related.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | GIR |GIR='''GIRION'''<br/><small>''d. {{TA|2770|n}}''</small>}}
+{{familytree | |:| }}
+{{familytree | |:| }}
+{{familytree | BAR |BAR=[[Bard I]]<br/><small>''d. {{TA|2977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BAI |BAI=[[Bain]]<br/><small>''d. {{TA|3007|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BRA |BRA=[[Brand]]<br/><small>''d. {{TA|3019|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BA2 |BA2=[[Bard II]]<br/><small>''fl. [[Fourth Age]]''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Girion in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Hobbit - The Desolation of Smaug - Girion.jpg|Girion in ''[[The Hobbit (film series)|''The Hobbit'' (film series)]]
+</gallery>
+
+'''2012-14: [[The Hobbit (film series)|''The Hobbit'' (film series)]]:'''
+:Briefly seen in flashback to the [[Sack of Erebor]] in both the [[The Hobbit: An Unexpected Journey (extended edition)|Extended Edition]] of ''[[The Hobbit: An Unexpected Journey]]'' and in ''[[The Hobbit: The Desolation of Smaug]]'', Girion is portrayed by [[Luke Evans]], who also played Girion's descendant [[Bard]].<ref name=ComingSoon>[http://www.theonering.net/torwp/2013/12/09/84485-luke-evans-played-his-ancestor-girion-of-dale/ "Luke Evans played Bard’s ancestor, Girion of Dale"], theonering.net, 9 December 2013 (accessed 29 January 2014)</ref>
+
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:Girion's true name is given as "Geirjarn", of which "Girion" was an Elvish interpretation. He was the eight Lord of Dale and the third of his name. His son was named "Brandjarn" but took on the name "[[Brand]]" after escaping the Ruin of Dale.
+
+{{references}}
+[[Category:Men of Dale]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Third Age characters]]
+
+[[de:Girion]]
+[[fi:Girion]]

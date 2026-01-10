@@ -1,0 +1,104 @@
+{{disambig-more|Durin|[[Durin (disambiguation)]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Durin IV
+| image=The Rings of Power (TV series) - Prince Durin IV.png
+| caption="Durin IV" in [[The Lord of the Rings: The Rings of Power|The Rings of Power]]
+| pronun=
+| othernames=
+| titles=[[Kings of Durin's Folk|King of Durin's Folk]]<br/>[[Kings of Khazad-dûm|King of Khazad-dûm]]
+| position=
+| location=[[Khazad-dûm]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth=late {{SA}}/early {{TA}}
+| birthlocation=
+| rule=
+| death=late {{SA}}/early {{TA}}
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Durin IV''' was a King of [[Durin's folk]] who ruled the great [[Dwarves|Dwarven]] city of [[Moria|Khazad-dûm]], and the fourth king to have the name Durin. Like his father he bore a [[Ring of Thrór|Ring of Power]].<ref name="Durin">{{App|Durin}}</ref>
+
+==History==
+Like all Durins after [[Durin|Durin I]], he was given the name of the first of the [[Seven Fathers of the Dwarves]] because he greatly resembled him in both appearance and manner. Indeed it was believed among the Dwarves that he was the reincarnation of Durin I, though whether this is possible is unclear.<ref name="Durin"/>
+
+==Etymology==
+One account states that the name ''Durin ''was a word for "king" in the language of the [[Men of the North]] in the early [[Second Age]].<ref name=relations>{{PM|Relations}}</ref> 
+
+Another account states that ''Durinn'' is one of the Dwarfs in the ''[[Völuspá|Dvergatal]]''. The name means "Sleepy".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| DU1 | |DU1=[[Durin|Durin I]]<br /><small>''fl. [[First Age]]''</small>}}
+{{familytree| |:| | |}}
+{{familytree| DU2 | |DU2=[[Durin II]]<br /><small>''fl. late {{FA}}/early {{SA}}''</small>}}
+{{familytree| |:| | |}}
+{{familytree| DU3 | |DU3=[[Durin III]]<br /><small>''fl. {{SA|1600}}''</small>}}
+{{familytree| |:| | |}}
+{{familytree| DU4 | |DU4='''DURIN IV'''<br /><small>''fl. late {{SA}}/early {{TA}}''</small>}}
+{{familytree| |:| | |}}
+{{familytree| DU5 | |DU5=[[Durin V]]<br /><small>''fl. late {{SA}}/early {{TA}}''</small>}}
+{{familytree| |:| | |}}
+{{familytree| DUR | |DUR=[[Durin VI]]<br/><small>''{{TA|1731}} - {{TA|1980|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Rings of Power (TV series) - Prince Durin IV.png|thumb|200px|Prince Durin IV in ''[[The Lord of the Rings: The Rings of Power]]'']]
+
+===Television===
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:Prince Durin IV is portrayed by [[Owain Arthur]] as one of the central characters of the series.<ref>{{webcite|author=[[Alice Jones]]|articleurl=http://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look|articlename=Amazon's ''Lord of the Rings'' Series Rises: Inside ''The Rings of Power''
+|dated=10-February-2022|website=[http://www.vanityfair.com VanityFair]|accessed=12-February-2022}}</ref> In the series, he is the prince of Khazad-dûm and son of [[Durin III]]. His wife is named [[Disa]] and his children are named [[Gerda]] and [[Gamli]]. He first appears in the [[Adrift|second episode]] of the first season in the city of [[Khazad-dûm]] where he welcomes [[Elrond]].
+
+===Games===
+[[File:The Lord of the Rings Online - Durin IV.jpg|thumb|left|150px|Durin IV in ''[[The Lord of the Rings Online]]'']]
+'''2019: ''[[The Lord of the Rings Online]]'':'''
+:Durin IV was the reigning King of the Longbeards during the [[War of the Last Alliance]]. He and the "Thíuda", the [[Northmen]] of the [[Second Age]], were tasked with defeating a mighty horde of [[Easterlings]]. They were defeated and retreated to rejoin the rest of the Alliance on the besieged plain of [[Gorgoroth]].
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[House of Durin]]
+}}
+{{seq
+| pvac=Unknown
+| prev=Last known:<br/>[[Durin III]] (mid-[[Second Age]])
+| prow=2
+| list=[[Kings of Durin's Folk|King of Durin's Folk]]
+| nvac=Unknown
+| next=Next known:<br/>[[Durin V]]
+| nrow=2
+}}
+{{seq
+| list=[[Kings of Khazad-dûm|King of Khazad-dûm]]
+
+}}
+{{seq-end}}
+
+{{durinskings}}
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Kings of Khazad-dûm]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Second Age characters]]
+[[Category:Third Age characters]]
+[[de:Durin IV.]]
+[[fr:encyclo:personnages:nains:durin iv]]
+[[fi:Durin]]

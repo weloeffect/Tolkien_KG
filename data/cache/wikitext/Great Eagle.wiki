@@ -1,0 +1,71 @@
+{{infobox character
+| name=Great Eagle
+| people=[[Eagles|Eagle]]
+| image=Darrell Sweet - The Lord of the Eagles.jpg
+| caption="The Lord of the Eagles" by [[Darrell Sweet]]
+| pronun=
+| othernames=Eagle of the [[Misty Mountains]]<ref>{{H|18}}</ref>
+| titles=King of All Birds<br>[[Lord of the Eagles]]
+| position=
+| location=[[Great Shelf]]
+| affiliation=[[Manwë]]
+| language=[[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=saving [[Thorin and Company]]
+| house=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+| audio=
+| audiocaption=
+| timeline=
+| gallery=the Great Eagle
+}}
+
+The '''Great Eagle''' was the '''[[Lord of the Eagles]]''' of [[Middle-earth]] in the [[Third Age]].<ref name=fire>{{H|6}}</ref>
+
+==History==
+In the [[Third Age]], the Great Eagle resided with fifteen chieftains at the [[Great Shelf]] on the east side of the [[Misty Mountains]]. At some point in his life, he was wounded by an arrow, but survived after the [[Wizards|wizard]] [[Gandalf]] healed his arrow-wound. Thenceforth, the Great Eagle held Gandalf in friendship.<ref name=fire/>
+
+During the [[Quest of Erebor]] in {{TA|2941}}, the Great Eagle and many of his servants saved [[Thorin and Company]] from [[Orcs]] and [[Wargs]] and brought them to the Eyrie, where they spent the night.<ref name=fire/>
+
+Later that year, the Eagles appeared many hours into the [[Battle of Five Armies]] by the [[Lonely Mountain]], and were crucial in the victory over the Orcs and Wargs.<ref>{{H|17}}</ref> After the battle, the Great Eagle was proclaimed '''King of All Birds''', and was given a golden crown while his fifteen chieftains were each given golden collars.<ref>{{H|Queer}}</ref>
+
+==Other versions of the legendarium==
+In an early draft of the chapter "[[Out of the Frying-Pan into the Fire]]", the Great Eagle is referred to as "the '''lord of eagles'''" and "the '''[[Lord of Eagles]]'''" while his arrow-wound is stated to have come from a goblin's arrow.<ref>{{HH|VI}}</ref> In an early draft of the chapter "[[Queer Lodgings]]", the Great Eagle's title was changed to the [[Lord of the Eagles]] and he was given the title '''king of all Birds'''.<ref>{{HH|VII}}</ref>
+
+==Portrayal in adaptations==
+===The Great Eagle in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Hobbit (1977 film) - Lord of the Eagles.png|[[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+</gallery>
+'''1980: ''[[Der Hobbit (1980 German radio series)|''Der Hobbit'' (1980 German radio series)]]'':'''
+: In the [[1980]] German radio series adaptation, Friedrich W. Bauschulle voiced the Lord of the Eagles.
+
+==Speculation==
+It is often thought that the Great Eagle is the same individual as [[Gwaihir]], however it is more than likely that they are not the same one. Among several points which separate the two, the Great Eagle is mentioned to wear a crown after ''[[The Hobbit]]'' but no crown is mentioned with Gwaihir in ''[[The Lord of the Rings]]''. Furthermore, Gandalf states that he was carried by Gwaihir three times, including following the [[Battle of the Morannon]],<ref name="RKVI4">{{RK|VI4}}</ref> whereas the number would be at least five if Gwaihir and the Lord of the Eagles were one and the same.
+
+It is also possible that the Great Eagle was [[Thorondor]],<ref name=speculation>[https://www.reddit.com/r/tolkienfans/comments/z1rtab/the_real_lord_of_the_eagles/ The real Lord of the Eagles] on reddit.com</ref> who also bore the title [[Lord of the Eagles]].
+
+{{References}}
+
+{{Eagles}}
+
+[[Category:Characters in The Hobbit]]
+[[Category:Eagles]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Third Age characters]]

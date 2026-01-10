@@ -1,0 +1,83 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Gorhendad Oldbuck
+| image=
+| caption=
+| pronun=
+| othernames=Ogmandab Zaragamba
+| titles=[[Thain]]<br/>[[Master of Buckland]]
+| position=
+| location=[[Marish]]<br/>[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=until {{SR|740}} (Thain)<br/>from {{SR|740}} (Master)
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gorhendad Oldbuck''' was a [[Hobbit]] of [[the Shire]], the founder of [[Buckland]] and of the [[Brandybuck Family|Brandybuck]] family.
+
+==History==
+Gorhendad Oldbuck of the [[Marish]] crossed the [[Brandywine]] in {{TA|2340}}<ref name="TA2340">{{App|TA}}, entry for the year 2340, p. 1087</ref> ({{SR|740}}<ref>{{App|Brandybuck}}</ref>) and founded [[Buckland]] and constructed [[Brandy Hall]].<ref name="Conspiracy">{{FR|Conspiracy}}, p. 98</ref> In honour of their new land, he changed his family name from Oldbuck ([[Hobbitish|H.]] ''[[Zaragamba]]''<ref name="Translation">{{App|Translation}}, p. 1138</ref>) to [[Brandybuck Family|Brandybuck]] (H. ''[[Brandagamba]]''<ref name="Translation" />).<ref name="Conspiracy" /> He ruled the land as [[Master of Buckland]]<ref name="Translation" /> and Master of the Hall, virtually a small independent country.<ref name="Conspiracy" /> After his death, the head of the Brandybuck family became the Master of Buckland<ref>{{App|Later}}, entry for the year 1432, p. 1097</ref> and Master of the Hall.<ref name="Conspiracy" /> When he and his family moved from [[the Shire]] to Buckland,<ref name="TA2340" /> the office of [[Thain]] passed from the Oldbuck family to the [[Took Family]]<ref>{{FR|Ordering}}, p. 9</ref> and [[Isumbras Took I]] became the first [[Thain]] of the Tooks<ref name="TA2340" />.
+
+==Etymology==
+''Gorhendad'' is the translation of [[Westron]] ''Ogmandab''.<ref>{{PM|Languages}}, note 8</ref>. According to Stoor tradition, it used to mean "great-grandfather" or "ancestor".<ref name="granddad">{{PM|Languages}}, typescript F 4, text 'A' of the second section</ref>
+
+In an earlier manuscript version the Westron name was ''Ogforgad''.<ref name="granddad" />
+
+J.R.R. Tolkien mentioned that he gave the name ''Gorhendad'' a "Celtic cast" and that the relation of Welsh or British to English was somewhat similar to the relation of the older language of the Stoors and Bree-men to Westron.<ref name="granddad" /> He stated that ''Gorhendad'' is a "Welsh word meaning 'great-grandfather'".<ref>{{HM|N}}, entry '''Oldbuck''', p. 761</ref><ref>{{HM|RC}}, p. 115</ref><ref>[[Mark T. Hooker]], ''[[A Tolkienian Mathomium]]'', p. 10</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Brandybuck Family]]
+| born=Before {{SR|740}}
+| died=After {{SR|740}}
+}}
+{{Seq
+| pvac=Unknown
+| prev=Last known:<br/>[[Bucca of the Marish]]
+| list=12th [[Thain]] of [[The Shire]]
+| dates=Unknown - {{SR|740}}
+| next=[[Isumbras Took I]]
+}}
+{{seq
+| prow=
+| pvac=None
+| prev=New title
+| list=1st [[Master of Buckland|Master]] of [[Buckland]]
+| dates={{SR|740}} - unknown
+| nvac=Unknown
+| next=Next known:<br/>[[Gormadoc Brandybuck]]
+| nrow=
+}}
+{{seq-end}}
+
+{{thains}}
+{{masters}}
+[[Category:Brandybuck]]
+[[Category:Celtic names]]
+[[Category:Hobbits]]
+[[Category:Masters of Buckland]]
+[[Category:Oldbuck]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[de:Gorhendad Altbock]]
+[[fi:Gorhendad Ikäbuk]]
+[[fr:encyclo/personnages/hobbits/vieilbouc/gorhendad vieilbouc]]

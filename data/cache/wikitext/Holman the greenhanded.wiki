@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Holman the greenhanded
+| image=
+| caption=
+| pronun=
+| othernames=Holman of Hobbiton
+| titles=
+| position=Gardener
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1210}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Greenhand Family|Greenhand]]
+| parentage=
+| siblings=
+| spouse=
+| children=[[Rowan]], [[Halfred Greenhand|Halfred]], [[Erling]], [[Hending]] and [[Rose (daughter of Holman)|Rose]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Holman the greenhanded''' was a famous gardener of [[the Shire]]. 
+
+==History==
+Holman of [[Hobbiton]] had five children; [[Rowan]], [[Halfred Greenhand|Halfred]], [[Erling]], [[Hending]] and [[Rose (daughter of Holman)|Rose]]. He passed his skills and crafts on to his eldest son, Halfred, who formed the surname [[Greenhand Family|Greenhand]] out of his father's nickname.<ref>{{App|Gamgee}}</ref> 
+
+==Etymology==
+Holman means "hole-man", and is distinct from the real-life English surname<ref name="Nomen">{{HM|N}}, p. 760</ref> which contains ''holm'' "river island" rather than ''hol'' "hole".<ref>{{HM|IE}}, "Giving of Names"</ref>
+{{references}}
+[[Category:Greenhand]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Höhlenmann von Hobbingen]]
+[[fi:Hobittilan Kolo]]
+[[fr:encyclo/personnages/hobbits/la mainverte/holman la mainverte 1]]

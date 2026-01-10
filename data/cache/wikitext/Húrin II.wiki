@@ -1,0 +1,80 @@
+{{disambig-more|Húrin|[[Húrin (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Húrin II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2515}}
+| birthlocation=
+| rule={{TA|2605}} - {{TA|2628|n}} (23 years)
+| death={{TA|2628}}
+| deathlocation=
+| age=113
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Hallas]]
+| siblings=
+| spouse=
+| children=[[Belecthor I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Húrin II''' ([[Third Age]] {{TA|2515|n}}<ref>{{PM|Elendil}}, p. 205</ref> – {{TA|2628|n}},<ref name="South">{{App|South}}</ref> aged 113 years) was the fourteenth [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Húrin ruled [[Gondor]] as its Steward for twenty-three years, and was succeeded by his son, [[Belecthor I]].<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Húrin of Emyn Arnen#Etymology|Húrin of Emyn Arnen - Etymology]]. Húrin II was probably named after the hero of the [[First Age]] [[Húrin|Húrin Thalion]], the [[Lord of Dor-lómin]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref><ref>{{PM|Elendil}}, p. 203</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | CIR | | |CIR=[[Cirion]]<br/><small>''{{TA|2449|n}} - {{TA|2567|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | HAL | | |HAL=[[Hallas]]<br/><small>''{{TA|2480|n}} - {{TA|2605|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | HAL | | |HAL='''HÚRIN II'''<br/><small>''{{TA|2515|n}} - {{TA|2628|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | BEL | | |BEL=[[Belecthor I]]<br/><small>''{{TA|2545|n}} - {{TA|2655|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ORO | | MOR |ORO=[[Orodreth (Steward of Gondor)|Orodreth]]<br/><small>''{{TA|2576|n}} - {{TA|2685|n}}''</small>|MOR=[[Morwen (daughter of Belecthor)|Morwen]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2515}}
+| died={{TA|2628}}
+}}
+{{seq
+| prev=[[Hallas]]
+| list=14th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2605}} - {{TA|2628|n}}
+| next=[[Belecthor I]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{DEFAULTSORT:Hurin II}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Húrin II.]]
+[[fi:Húrin II]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/hurin ii]]

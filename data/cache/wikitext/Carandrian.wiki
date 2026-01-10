@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Ents|Ent]]
+| name=Carandrian
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Fangorn Forest]]<br />[[Isengard]]
+| affiliation=[[Quickbeam]]
+| language=[[Entish]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Carandrian''' was an [[Ent]] of [[Quickbeam]]'s folk, according to the draft version of the chapter ''[[Flotsam and Jetsam]]''.<ref name=War>{{WR|1|IV}}, pp. 54-5</ref>
+
+== History ==
+Carandrian was a friend of Quickbeam, and one of the Ents that took part in the [[Battle of Isengard]]; during the battle he was injured by an axe, which enraged the rest of the Ents.<ref name=War/>
+
+== Etymology ==
+The name ''Carandrian'' is in [[Noldorin]]. Its meaning is unclear, but it might contain the element ''[[caran]]'' ("red"), according to [[Roman Rausch]].<ref>{{webcite|author=[[Paul Strack]]|articleurl=http://eldamo.org/content/words/word-169502869.html|articlename=N. ''Carandrian'' m.|website=Eldamo|accessed=22 March 2022}}</ref>
+
+{{references}}
+[[Category:Ents]]
+[[Category:Noldorin names]]
+[[Category:Third Age characters]]

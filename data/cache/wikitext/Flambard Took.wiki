@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Flambard Took
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1287}}
+| birthlocation=
+| rule=
+| death={{SR|1389}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Isembard Took|Isembard]]
+| siblings=
+| spouse=
+| children=[[Adelard Took|Adelard]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Flambard Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Flambard was the son of [[Isembard Took]], one of [[Gerontius Took|the Old Took]]'s younger sons. He had one son, [[Adelard Took|Adelard]].<ref>{{App|Took}}</ref>
+
+==Etymology==
+Like many other members of the [[Took Family|Took]] clan, Flambard's name has military connections: a flambard (''flam'' "flame" + ''bard'' "battle-axe") is a large sword with a waved or flame-shaped blade.<ref>{{HM|IE}}, "Giving of Names"</ref>
+
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Flambard Tuk]]
+[[fi:Flambard Tuk]]

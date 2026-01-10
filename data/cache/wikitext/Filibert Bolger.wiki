@@ -1,0 +1,58 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Filibert Bolger
+| image=Decipher - Filibert Bolger.png
+| caption="Filibert Bolger" from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1342}}
+| birthlocation=
+| rule=
+| death={{SR|1443}}
+| deathlocation=
+| age=101
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Adalbert Bolger]] and [[Gerda Boffin]]
+| siblings=
+| spouse=[[Poppy Chubb-Baggins]]
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Filibert Bolger''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Filibert married [[Poppy Chubb-Baggins]]. With his wife, he was present at [[Bilbo's Farewell Party]].<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+The name means "Fullbright" from ''fili'' and ''berht''.<ref>[[Jim Allan]] (ed.), [[An Introduction to Elvish]], "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Filibert Bolger.jpg|thumb|150px|Filibert Bolger in ''[[The Lord of the Rings Online]]'']]
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:A [[Decipher]] card identifies one of the Hobbits at the Bilbo's Party in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' as Filibert Bolger. However, in the film the same hobbit is seen cheering when [[Bilbo Baggins|Bilbo]] calls "[[Grubb Family|Grubbs]]!". 
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Filibert Bolger lives in [[Needlehole]]. He asks the player to find his cow who had become lost in the [[Rushock Bog]].
+
+{{references}}
+[[Category:Fourth Age characters]]
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Bolger]]
+[[Category:Third Age characters]]
+
+[[de:Filibert Bolger]]
+[[fi:Filibert Bolger]]
+[[fr:encyclo/personnages/hobbits/bolger/philibert bolger]]

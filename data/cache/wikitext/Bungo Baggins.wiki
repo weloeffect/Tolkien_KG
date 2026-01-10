@@ -1,0 +1,73 @@
+{{short description|Father of Bilbo Baggins}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bungo Baggins
+| image=Peter Pracownik - The Lovers.jpg
+| caption="The Lovers" by [[Peter Pracownik]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bag End]], [[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1246}}
+| birthlocation=
+| rule=
+| death={{SR|1326}}
+| deathlocation=
+| age=80
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Mungo Baggins]] and [[Laura Grubb]]
+| siblings=[[Belba Baggins|Belba]], [[Longo Baggins|Longo]], [[Linda Baggins|Linda]] and [[Bingo Baggins|Bingo]]
+| spouse=[[Belladonna Took]]
+| children=[[Bilbo Baggins|Bilbo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bungo Baggins''' ({{TA|2846}} - {{TA|2926|n}}, died aged 80<ref name="Baggins">{{App|C1}}</ref>) was a well-to-do [[Hobbits|Hobbit]], and the father of [[Bilbo Baggins]].  
+
+==History==
+Bungo was the eldest child of [[Mungo Baggins]] and [[Laura Grubb]]. He married [[Belladonna Took]], daughter of the [[Gerontius Took|Old Took]], towards {{SR|1290}}. Bungo and Belladonna had only one child together, the famous [[Bilbo Baggins]].<ref name="Baggins"/>
+
+Father and son were so much alike, in looks and behaviour, that Bilbo seemed like a "second edition" of his "solid and comfortable" father.<ref name="Party">{{H|Party}}</ref>
+
+Apart from fathering Bilbo, Bungo's other achievements were that he built and excavated the rather luxurious [[Bag End]] in the [[Hobbiton Hill|Hill]] in [[Hobbiton]] and that he laid down several bottles of [[Old Winyards]] wine that would be enjoyed by [[Rorimac Brandybuck]] after [[Bilbo's Farewell Party]]<ref name="Party"/> and by the small party on [[21 September]] {{TA|3018}} that [[Frodo Baggins]] gave before leaving Bag End.<ref>{{FR|Three}}</ref>
+
+Bungo had an aptitude for either remembering or coining proverbs.  Bilbo quoted his father's sayings "third time pays for all" before making his first descent into [[Erebor]],<ref name="Inside">{{H|Inside}}</ref> "Every worm has his weak spot" while talking to the [[Dragons|Dragon]] [[Smaug]],<ref name="Inside"></ref> and "while there's life there's hope" when leading the Dwarves down to Smaug's lair.<ref>{{H|Home}}</ref>
+==Etymology==
+The name ''Bungo'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Bunga''.<ref>{{App|Translation}}</ref>
+
+==Portrayal in adaptations==
+===Bungo Baggins in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Lord of the Rings - The Fellowship of the Ring - Bungo Baggins.png|Bungo Baggins in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Hobbit (2003) - Belladonna, Bilbo & Bungo.png|Portrait of [[Belladonna Took|Belladonna,]] [[Bilbo Baggins|Bilbo]] and Bungo in [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+</gallery>
+'''2002: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:A portrait of Bungo Baggins hangs in Bag End. It is based on a beardless [[Peter Jackson]] (whereas Belladonna's is a portrait of his wife, [[Fran Walsh]]).<ref>[[Peter Jackson]], [[Fran Walsh]], [[Philippa Boyens]], {{fotree}}, "[[Farewell Dear Bilbo]]", Director's commentary</ref> 
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:A portrait of Belladonna, Bungo and a young Bilbo hangs at Bag End. As he looks at it, Bilbo exclaims "A Hobbit couldn't wish for nicer parents".<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Hobitton"</ref>
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:The same portrait from ''Fellowship'' is featured by the end of the film, as Bilbo returns home from his journey to Erebor.
+
+==See also==
+* [[:Category:Images of Bungo Baggins|Images of Bungo Baggins]]
+
+{{References}}
+[[Category:Baggins]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[Category:Characters in The Hobbit]]
+
+[[de:Bungo Beutlin]]
+[[fi:Bungo Reppuli]]
+[[fr:encyclo:personnages:hobbits:bessac:bungo bessac]]

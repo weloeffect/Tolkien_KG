@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Primula Brandybuck
+| image=Primula Brandybuck - The Lord of the Rings Roleplaying.jpg
+| caption=Primula Brandybuck - ''[[The Lord of the Rings Roleplaying]]''
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Brandy Hall]], [[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1320}}
+| birthlocation=
+| rule=
+| death={{SR|1380}}
+| deathlocation=[[Baranduin|Brandywine River]]
+| age=60
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gorbadoc Brandybuck]] and [[Mirabella Took]]
+| siblings=[[Rorimac Brandybuck|Rorimac]], [[Amaranth Brandybuck|Amaranth]], [[Saradas Brandybuck|Saradas]], [[Dodinas Brandybuck|Dodinas]], [[Asphodel Brandybuck|Asphodel]] and [[Dinodas Brandybuck|Dinodas]]
+| spouse=[[Drogo Baggins]]
+| children=[[Frodo Baggins|Frodo]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Primula Brandybuck''' ({{TA|2920}} - {{TA|2980|n}}) was a [[Hobbits|Hobbit]] of [[the Shire]], and [[Frodo Baggins]]' mother.
+
+==History==
+Primula was the youngest daughter<ref name=party/> of [[Gorbadoc Brandybuck]] and [[Mirabella Took]]. She married [[Drogo Baggins]], with whom she had one child, [[Frodo Baggins|Frodo]].<ref>{{App|Brandybuck}}</ref> In late {{SR|1380}}, she and her husband drowned when they went boating on the [[Baranduin|Brandywine River]].<ref name=party>{{FR|Party}}</ref>
+
+==Etymology==
+[[wikipedia:Primula|Primula]] is a genus of the [[wikipedia:Primulaceae|primrose family]] of plants. It is the Latin name of the primrose and means "little first" because it flowers in early spring.
+
+{{references}}
+[[Category:Baggins]]
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Primula Beutlin]]
+[[fi:Esikko Rankkibuk]]
+[[fr:encyclo/personnages/hobbits/brandebouc/primula brandebouc]]

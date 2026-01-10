@@ -1,0 +1,133 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Bifur
+| image=Andy Smith - Bifur.jpg
+| caption="Bifur" by [[:Category:Images by Andy Smith|Andy Smith]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Thorin's Halls]]<br/>[[Lonely Mountain]]
+| affiliation=[[Thorin and Company]]
+| language=[[Khuzdul]] and [[Westron]]
+| birth=Between {{TA|2763}} and c. {{TA|2814|n}}<sup>[[Bifur#Family and birth|NB]]</sup>
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male<ref name="Party">{{H|Party}}</ref>
+| height=Large<ref>{{HH|7iv}} p. 900</ref>
+| hair=
+| eyes=
+| clothing=Yellow hood<ref name="Party"></ref>
+| weapons=
+| steed=
+}}
+'''Bifur''' most likely lived in the [[Blue Mountains]] with [[Thorin]] after the loss of [[Thráin|Thráin II]].<ref name="Durin">{{App|Durin}}</ref>  Bifur was one of the thirteen [[Dwarves]] of [[Thorin and Company|Thorin's company]] who journeyed to [[Lonely Mountain|Erebor]] to challenge the [[Dragons|dragon]] [[Smaug]].  After the death of Smaug, Bifur lived at the Lonely Mountain.<ref name="Meetings">{{FR|II1}}</ref>
+
+==History==
+===Family and birth===
+While Bifur was descended from the Dwarves of [[Moria]], he himself was not of [[Durin]]'s line.<ref name="Durin" /> He was a cousin<ref name="Inside">{{H|Inside}}</ref> of the brothers [[Bofur]] and [[Bombur]].<ref name="Flies">{{H|Flies}}</ref>
+
+Bifur was older than [[Fíli]] and [[Kíli]] (b. {{TA|2864}}<ref name="Durin" />) at least "by some fifty years",<ref name="Hill">{{H|Hill}}</ref> but younger than [[Balin]] (b. {{TA|2763|n}}<ref name="Durin" />), since it was said that Balin was "the eldest left" after Thorin's capture.<ref>{{H|Barrels}}</ref>
+
+Therefore, Bifur was born anytime between {{TA|2763|n}} and c. 2814, and he would have been between c. 127 and 178 years old when he joined King [[Thorin]]'s operation to reclaim [[Lonely Mountain|Erebor]].
+
+===The Quest of Erebor===
+In {{TA|2941}}, Bifur was one of the four Dwarves in the fifth group to arrive at [[Bag End]], wearing a yellow hood.  He asked for raspberry jam and apple-tart.  During the evening when Thorin called for music, Bifur (along with [[Bofur]]) played a clarinet.<ref name="Party"></ref>
+
+In the wolves' glade Bifur shared a pine tree with Bofur, [[Bombur]], and Thorin.<ref>{{H|Pan}}</ref>
+
+When [[Gandalf]] was telling the story of the company's adventures to [[Beorn]], Bifur, Bofur, and Bombur were the last of the Dwarves to show up.<ref>{{H|Queer}}</ref>
+
+After the barrel ride down the [[River Running]] both Bifur and Bofur came out fairly dry and not very knocked about, but they lay down and refused to do anything.<ref>{{H|Welcome}}</ref>
+
+On the doorstep on the side of the Lonely Mountain, when Thorin commented that the next day was the beginning of the last week of autumn, Bifur pointedly added, "And winter comes after autumn".<ref>{{H|Doorstep}}</ref>
+
+Bifur fought in and survived the [[Battle of Five Armies]].  He was given his share of the treasure by [[Dáin Ironfoot]], and made his home in Erebor.<ref>{{H|Return}}</ref>
+
+===Later life===
+By {{TA|3018}} Bifur was living in Erebor, as [[Glóin]] told [[Frodo Baggins]] at [[Rivendell]].<ref name="Meetings" />
+
+==Etymology==
+The name of ''Bívurr'' originates in the ''[[Völuspá|Dvergatal]]''. It is of Old Frisian origin, meaning "[[Beavers|Beaver]]" or, by extension, "Hard Worker".<ref>{{HM|IE}}, "Giving of Names", p. 223</ref><ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| |,|-|-|-|-|-|-|-|.| | | | |}}
+{{familytree| |:| | | | | | | |:| | | | |}}
+{{familytree| |:| | | | | | | |:| | | | |}}
+{{familytree| |:| | | | | |,|-|^|-|.| | |}}
+{{familytree| BIF | | | | BOF | | BOM | |BIF='''BIFUR'''<br /><small>''fl. {{TA|2941}} - {{TA|3018|n}}''</small>|BOF=[[Bofur]]<br /><small>''fl. {{TA|2941}} - {{TA|3018|n}}''</small>|BOM=[[Bombur]]<br /><small>''fl. {{TA|2941}} - {{TA|3018|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In one of the earliest manuscript fragments of ''The Hobbit'', Bifur and Bofur went into the hall and came back with their walking sticks, which they ''turned into'' clarinets.<ref>{{HH|Bladorthin}}, p. 36</ref>  In the published text the two Dwarves came back from the hall with clarinets that they ''had left'' with their walking sticks.<ref name="Party" />  [[John Rateliff]] (author of ''[[The History of The Hobbit]]'') said that in the earliest phase Tolkien had added fairy tale touches of Dwarven magic to emphasize the uncanny, other-worldly nature of the Dwarves as opposed to Bilbo.<ref>{{HH|Bladorthin}}, (iii) ''Dwarven Magic'', p. 54</ref>
+
+Originally, when Bombur needed propping up in [[Mirkwood]] after being cut from the spiders' webbing, it was ''his cousins'' Bifur and Bofur who provided support.<ref>{{HH|Mirkwood}}, p. 313</ref>  In the published story this was changed to Bombur's cousin Bifur and brother Bofur.<ref name="Flies" />  Also, in the earlier version, when [[Smaug]] first came out and the Dwarves in the valley had to be hauled up to the [[Back Door]], Bifur cried out to save Bombur and Bofur, who were both his ''brothers''.<ref>{{HH|Conversations}}</ref>  In the published text Bifur cried out for his two ''cousins''.<ref name="Inside" />
+
+In Tolkien's unfinished [[1960]] rewrite of ''The Hobbit'', Bifur, Bofur and Bombur were Thorin's attendants.<ref>{{HH|5}}, "[[A Well-Planned Party]]", p. 774</ref> [[John D. Rateliff]] assumes this made them either courtiers or honor-guard.<ref>{{HH|5}}, "[[Arrival in Rivendell]]", note 32</ref>
+
+==Notes==
+In the earliest partial manuscript of ''The Hobbit'' more of the dialogue later assigned to a few of the Dwarves is more evenly distributed.  In the opinion of [[John Rateliff]] (author of ''[[The History of The Hobbit]]'') this streamlining strengthened the story through simplification, but at the cost of relegating some of the Dwarves to obscurity since they barely speak at all.  Bifur is one of these "silenced" members of the company.<ref>{{HH|Pryftan}}, (i) ''The Lost Opening'', p. 14</ref>
+
+==Portrayal in adaptations==
+===Bifur in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Hobbit (1977 film) - Bifur.png|Bifur in [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+File:Angelo Montanini - Bifur.jpg|Bifur in ''[[Middle-earth Collectible Card Game]]''
+File:The Hobbit (film series) - Bifur.jpg|Bifur in [[The Hobbit (film series)|''The Hobbit'' (film series)]]
+File:The Lord of the Rings Online - Bifur.jpg|Bifur in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+===Films===
+'''1967: [[The Hobbit (1967 film)|''The Hobbit'' (1967 film)]]:'''
+:Bifur is omitted. [[Thorin|Thorin Oakenshield]] only travels with an unnamed guard and the princess of Dale.<ref name="Deitch">{{webcite|articleurl=http://www.youtube.com/watch?feature=player_detailpage&v=UBnVL1Y2src|articlename=The Hobbit.mp4|dated=5 January 2012|website=YouTube|accessed=10 January 2012}}</ref>
+
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:No actor is specified for the role of Bifur. If he does speak, it is only ever in unison with the rest of the Dwarves.
+
+'''2012-14: [[The Hobbit (film series)|''The Hobbit'' (film series)]]:'''
+:Bifur is played by [[William Kircher]].<ref name="PJCasting">{{webcite|author=[[Peter Jackson]]|articleurl=http://www.facebook.com/note.php?note_id=10150168211921558|articlename=Production begins in New Zealand on The Hobbit|dated=20-March-2011|website=[http://www.facebook.com/ Facebook]|accessed=23-Dec-2011}}</ref> A description of Bifur in ''The Hobbit'' films was released by the studio:
+
+:{{Blockquote|Born in the West, Bifur has the rusting remains of an Orc axe embedded in his forehead, which has rendered him inarticulate and occasionally feisty! He communicates only with grunts and hand gestures. Unlike most of the others in The Company of Dwarves, Bifur is not related to Thorin, nor is he of noble lineage, but rather is descended from miners and smithies – simple folk with simple tastes.|[[Warner Bros.]]<ref name="HobbitApp">{{webcite|author=[[Warner Bros.]]|articleurl=http://itunes.apple.com/us/app/hobbit-movies/id545808528|articlename=Hobbit Movies|dated=7-September-2012|website=[http://itunes.apple.com/ Apple iPhone/iPad App]|accessed=19-September-2012}}</ref>}}
+:Due to the [[Orcs|Orc]] axe stuck in his head, Bifur can only speak [[Khuzdul]] through most of the film series. In the [[The Hobbit: The Battle of the Five Armies (extended edition)|extended edition]] of ''[[The Hobbit: The Battle of the Five Armies]]'', he loses the axe during the [[Battle of Five Armies|battle]]. After head-butting an Orc, the axe becomes stuck in his opponent's head; after the two are separated with help from [[Bofur]] and [[Bombur]], he declines Bombur's offer to put it back, and is able to speak [[Westron]] again.
+
+===Radio series===
+'''1968: [[The Hobbit (1968 radio series)|''The Hobbit'' (1968 radio series)]]:'''
+:Bifur is played by [[Brian Haines]].
+
+'''1979: [[The Hobbit (1979 radio series)|''The Hobbit'' (1979 radio series)]]:'''
+:No actor is specified for the role of Bifur.
+
+'''1989: [[Hobit (1989 Slovak radio series)|''Hobit'' (1989 Slovak radio series)]]:'''
+:Bifur is present, but no actor is specified for the role of Bifur.
+
+===Games===
+'''1982: [[The Hobbit (1982 video game)|''The Hobbit'' (1982 video game)]]:'''
+:Bifur is omitted; Thorin is the only companion of the player, [[Bilbo Baggins]].<ref>''[http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8304/Pages/ZXComputing830400076.jpg ZX Computing]'', 8304 (April/May 1983), p. 76, accessed [[24 April|April 24]] [[2011]]</ref>
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:No actor is credited for the role of Bifur.
+'''2013: ''[[The Lord of the Rings Online]]'':'''
+:During and after the [[War of the Ring]] Bifur lives in [[Erebor]], holding the position of the Keeper of the Hammers. His son Bósi and grandson Bori play a major part in the ''[[The Lord of the Rings Online: Mines of Moria|Mines of Moria]]'' expansion in which they lead an expedition to reclaim Khazad-dûm on the orders of King [[Dain Ironfoot]]. Along with his cousin [[Bofur]] he appears in the "The Fires of Smaug" instance, which takes place during the [[Battle of Dale|Siege of Erebor]]. After the battle Bifur and the other surviving dwarves of the Company join [[Dís]] in paying respect to tomb of [[Thorin Oakenshield]]. When [[Nori]] goes on an unauthorized expedition to the [[Grey Mountains]], his brother [[Dori]] recruits his old companions [[Bofur]] and [[Glóin]] to go after him, but Bifur declines, saying that his adventuring days are behind him.
+
+{{references}}
+{{Thorin and Company}}
+{{companyroute}}
+{{hobbitfilms}}
+[[Category:Characters in The Hobbit]]
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Bifur]]
+[[fi:Bifur]]
+[[fr:encyclo:personnages:nains:3a:bifur]]

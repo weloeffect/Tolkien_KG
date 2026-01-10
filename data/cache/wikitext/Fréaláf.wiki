@@ -1,0 +1,94 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Fréaláf
+| image=Lída Holubová - The House of Eorl - Frealaf.jpg
+| caption="The House of Eorl - Frealaf" by [[Lída Holubová]]
+| pronun=
+| othernames=Hildeson
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2726}}
+| birthlocation=
+| rule={{TA|2759}} – {{TA|2798|n}}
+| death={{TA|2798}} (72)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Hild]]
+| siblings=
+| spouse=
+| children=[[Brytta|Brytta Léofa]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Fréaláf Hildeson''' ([[Third Age]] {{TA|2726|n}} – {{TA|2798|n}}, aged 72 years) was the tenth [[King of Rohan]], and the first King of the second line. 
+
+==History==
+Fréaláf was the son of [[Hild]], and thus the sister-son of [[Helm|Helm Hammerhand]]. When [[Rohan]] was invaded by the [[Dunlendings]] led by [[Wulf]] in {{TA|2758}}, Fréaláf was among the [[Rohirrim]] who took refuge in [[Dunharrow]]. However King Helm and his sons were killed in the invasion and the siege of the [[Hornburg]] in {{TA|2759|n}}, and Fréaláf was his heir.
+
+Early in the spring Fréaláf led a daring surprise raid against the Dunlendings that recaptured [[Edoras]] and managed to reclaim it. With aid from [[Gondor]], he eventually drove the [[Dunlendings]] back across both the rivers [[Isen]] and [[Adorn]], freeing all of Rohan.<ref name="Eorl">{{App|Eorl}}</ref>  Those Dunlendings who had occupied [[Isengard]] were starved until they capitulated and left the fortress.<ref>{{UT|Isen}}, Appendix (ii)</ref>
+
+At his coronation the [[Wizard]] [[Saruman]] suddenly appeared after years of absence. Saruman offered Fréaláf his support and friendship which Fréaláf accepted, as Rohan was just recovering from the war and the [[Long Winter]]. On Fréaláf's advice, [[Beren (Steward of Gondor)|Beren]], [[Ruling Steward|Steward]] of [[Gondor]], lent Saruman the keys to [[Orthanc]], giving him Isengard to dwell in on the condition that he must protect it from another conquest by the Dunlendings.
+
+He ruled for 39 years, and was succeeded by his son [[Brytta|Brytta Léofa]] at his death in 2798.<ref name="Eorl"/>
+
+==Etymology==
+''Fréaláf'' is an [[Old English]] name. It means "surviving lord" and consists of ''fréa'' ("lord") and ''laf'' ("leaving").<ref>{{HM|RC}}, p. 643</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | GRA | | |GRA=[[Gram]]<br/><small>''{{TA|2668|n}} - {{TA|2741|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | HEL | | HIL |HEL=[[Helm|Helm Hammerhand]]<br/><small>''{{TA|2691|n}} - {{TA|2759|n}}''†</small>|HIL=[[Hild]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | HAL | | HAM | | DAU | | FRE |HAL=[[Haleth (son of Helm)|Haleth]]<br/><small>''d. {{TA|2758|n}}''†</small>|HAM=[[Háma (son of Helm)|Háma]]<br/><small>''d. {{TA|2759|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FRE='''FRÉALÁF HILDESON'''<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | BRY |BRY=[[Brytta|Brytta Léofa]]<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | WAL |WAL=[[Walda]]<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Fréaláf in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Online - Frealaf defeats Wulf Frecason in Meduseld.jpg|thumb|150px|left|''[[The Lord of the Rings Online]]'' tapestry: Frealaf defeats Wulf Frecason in Meduseld''
+File:The War of the Rohirrim - Fréaláf Hildeson.png|Fréaláf in ''[[The Lord of the Rings: The War of the Rohirrim]]''
+</gallery>
+
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+: A tapestry depicting Fréaláf killing Wulf is found in [[Meduseld]] and can be acquired for use in player's houses.
+
+'''2024: ''[[War of the Rohirrim]]'':'''
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2726}}
+| died={{TA|2798}}
+}}
+{{seq
+| prev=[[Helm]]
+| list=10th [[King of Rohan]]
+| dates={{TA|2759}} – {{TA|2798|n}}
+| next=[[Brytta]]
+}}
+{{seq-end}}
+{{rohankings}}
+{{DEFAULTSORT:Frealaf}}
+[[Category:Kings of Rohan]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Fréaláf]]
+[[fi:Fréaláf]]

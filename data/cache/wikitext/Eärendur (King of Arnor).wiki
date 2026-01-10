@@ -1,0 +1,96 @@
+{{disambig-more|Eärendur|[[Eärendur (disambiguation)]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Eärendur
+| image=Mithril Miniatures - Earendur - last king of Arnor.jpg
+| caption="Earendur - last king of Arnor" - ''[[Mithril Miniatures|Mithril Miniature]]''
+| pronun=
+| othernames=
+| titles=[[King of Arnor]]
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|640}}
+| birthlocation=
+| rule={{TA|777}} - {{TA|861|n}}
+| death={{TA|861}}
+| deathlocation=
+| age=221
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Elendur (King of Arnor)|Elendur]]
+| siblings=
+| spouse=
+| children=[[Amlaith]], [[Kings of Rhudaur|1st King of Rhudaur]], [[Kings of Cardolan|1st King of Cardolan]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eärendur''' ([[Quenya|Q]], pron. {{IPA|[ˌe.aˈrendur]}}; {{TA|640}}<ref>{{PM|Elendil}}, p. 193</ref> - {{TA|861}},<ref name="North">{{App|North}}</ref> died aged 221) was the tenth and last [[King of Arnor]].
+
+==History==
+Eärendur succeeded his father [[Elendur (King of Arnor)|Elendur]] on his death in {{TA|777}}. Eärendur's rule was uneventful, but he was the tenth and last [[King of Arnor]] due to dissension amongst his sons. 
+
+After his death in {{TA|861|n}}, probably due to jealousy on the part of the two younger sons, his three sons split [[Arnor]] into three separate kingdoms: [[Arthedain]], [[Cardolan]] and [[Rhudaur]]. 
+
+His eldest son and rightful heir, [[Amlaith]] of [[Fornost]], became the first [[King of Arthedain]], and it was through Amlaith and his heirs that the line of Isildur endured whilst the line of kings of Rhudaur and Cardolan failed - [[Aragorn|Aragorn II]] was a direct descendant of Amlaith, and it wasn't until [[Aragorn]] became king that Arnor was finally reunified.<ref>{{App|Eriador}}</ref>
+
+After Eärendur the [[Kings of Arthedain]]<ref>{{App|North}}, ''Arthedain''. Amlaith of Fornost, footnote</ref> and the [[Chieftains of the Dúnedain]] no longer took names in [[Quenya]] (High-elven<ref>{{App|Elves}}, first paragraph</ref>), but took names in [[Sindarin]] instead.<ref>{{PM|Elendil}}, manuscript C with corrections and expansions, The Northern Line of Arnor: the Isildurioni, 10. Earendur, p. 192 using Noldorin.</ref><ref>{{PM|Third}}, manuscript T4, The Third Age year 861 using Noldorin</ref>
+
+== Etymology==
+''Eärendur'' is a [[Quenya]] name. It means "(professional) mariner".<ref>{{L|297|118}}</ref> As Paul Strack explains, a more literal translation might be "Servant of the Sea". It is a compound of [[eär]] ("sea") and [[-ndur|-(n)dur]] ("servant").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-656453537.html|articlename=Q. ''Eärendur'' m.|website=Eldamo|accessed=29 October 2021}}</ref> It is unlikely that Eärendur himself was devoted to the sea: it is more likely that he was named after one of the two previous [[Eärendur (disambiguation)|Eärendur]]s.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | TAR | | | | |TAR=[[Valandur]]<br/><small>''{{TA|462|n}} - {{TA|652|n}}''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | ELE | | | | |ELE=[[Elendur (King of Arnor)|Elendur]]<br/><small>''{{TA|552|n}} - {{TA|777|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | EAR | | | | |EAR='''EÄRENDUR'''<br/><small>''{{TA|640|n}} - {{TA|861|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | AML | | CAR | | RHU |AML=[[Amlaith]]<br/><small>''{{TA|726|n}} - {{TA|946|n}}''</small>|CAR=[[Kings of Cardolan|''Kings of<br/>Cardolan'']]|RHU=[[Kings of Rhudaur|''Kings of<br/>Rhudaur'']]}}
+{{familytree | |!| | | | | | | | | |}}
+{{familytree | BEL | | | | | | | | |BEL=[[Beleg (King of Arthedain)|Beleg]]<br/><small>''{{TA|811|n}} - {{TA|1029|n}}''</small>}}
+{{familytree | |:| | | | | | | | | |}}
+{{familytree | ART | | | | | | | | |ART=[[Kings of Arthedain|''Kings of<br/>Arthedain'']]}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|640}}
+| died={{TA|861}}
+}}
+{{seq
+| prow=2
+| prev=[[Elendur (King of Arnor)|Elendur]]
+| list=8th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|777}} - {{TA|861|n}}
+| next=[[Amlaith]]
+}}
+{{seq
+| list=10th [[Kings of Arnor|King of Arnor]]
+| dates={{TA|777}} - {{TA|861|n}}
+| next=''[[Amlaith]], as [[Kings of Arthedain|King of Arthedain]]''
+| nvac=None
+}}
+{{seq-end}}
+
+{{northernline}}
+
+{{title}}
+{{DEFAULTSORT:Earendur (Kind of Arnor)}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Isildur]]
+[[Category:Rulers of Arnor]]
+[[Category:Third Age characters]]
+[[de:Earendur (König von Arnor)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:dunedain du nord:earendur]]
+[[fi:Eärendur (Arnorin kuningas)]]

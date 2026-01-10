@@ -1,0 +1,78 @@
+{{disambig-more|Atanatar|[[Atanatar (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Atanatar I
+| image=Matěj Čadil - Atanatar I of Gondor.jpg
+| caption="Atanatar I of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]] and [[Sindarin]]
+| birth={{TA|480}}
+| birthlocation=
+| rule={{TA|667}} - {{TA|748|n}} (81 years)
+| death={{TA|748}}
+| deathlocation=
+| age=268
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Turambar (King of Gondor)|Turambar]]
+| siblings=
+| spouse=
+| children=[[Siriondil (King of Gondor)|Siriondil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Atanatar I''' ([[Quenya|Q]], pron. {{IPA|[aˈtanatar]}}; {{TA|480}}<ref>{{PM|Elendil}}</ref> – {{TA|748|n}},<ref name="South">{{App|South}}</ref> aged 268 years) was the tenth [[King of Gondor]], ruling for 81 years, from Third Age 667 until his death.
+
+==History==
+He was the son of [[Turambar (King of Gondor)|Turambar]], the great conqueror of the [[Easterlings]]. Atanatar's reign, however, was uneventful, and he was succeeded by his son [[Siriondil (King of Gondor)|Siriondil]].<ref name="South"/>
+
+==Etymology==
+''Atanatar'' is [[Quenya]]. It means "Father of Men".<ref>{{PE|17}}, p. 24 and p. 114</ref> It is a compound of ''[[Atani|Atan]]'' ("Man") and ''[[atar]]'' ("father").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-4233171257.html|articlename=Q. ''Atanatar'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | ROM | | |ROM=[[Rómendacil I]]<br/><small>''{{TA|310|n}} - {{TA|541|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | TUR | | |TUR=[[Turambar (King of Gondor)|Turambar]]<br/><small>''{{TA|397|n}} - {{TA|667|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | ATA | | |ATA='''ATANATAR I'''<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | SIR | | |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER=[[Berúthiel]]<br/><small>''unknown''</small>|TAR=[[Tarannon Falastur|Tarannon]]<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC=[[Tarciryan]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|480}}
+| died={{TA|748}}
+}}
+{{seq
+| prev=[[Turambar (King of Gondor)|Turambar]]
+| list=10th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|667}} - {{TA|748|n}}
+| next=[[Siriondil (King of Gondor)|Siriondil]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Atanatar I.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/atanatar_ier]]
+[[fi:Atanatar I]]

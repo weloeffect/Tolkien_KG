@@ -1,0 +1,104 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Castamir
+| image=Matěj Čadil - Castamir the Usurper of Gondor.jpg
+| caption="Castamir the Usurper of Gondor" by [[:Category:Images by Matěj Čadil|Matěj Čadil]]
+| pronun=
+| othernames="The Usurper"
+| titles=[[Captain of Ships]], [[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1259}}
+| birthlocation=
+| rule={{TA|1437}} – {{TA|1447|n}} (10 years)
+| death={{TA|1447}}
+| deathlocation=
+| age=188
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=''unknown'', grandfather [[Calimehtar (son of Calmacil)|Calimehtar]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Castamir "The Usurper"''' ([[Quenya|Q]], pron. {{IPA|[ˈkastamir]}}; {{TA|1259}}<ref>{{PM|Elendil}}</ref> – {{TA|1447|n}},<ref>{{App|South}}</ref> aged 188 years) usurped the throne of [[Gondor]] from [[Eldacar (King of Gondor)|Eldacar]], ruling from {{TA|1437|n}} to {{TA|1447|n}}, until he was violently deposed.
+
+==History==
+Castamir was the grandson of [[Calimehtar (son of Calmacil)|Calimehtar]], the younger son of [[Calmacil (King of Gondor)|Calmacil]], the eighteenth [[Kings of Gondor|King of Gondor]]. Although not a direct heir to the throne he was a noble of realm and became the [[Captain of Ships]].
+
+When [[Eldacar (King of Gondor)|Eldacar]] ascended to the throne in {{TA|1432}} a civil war broke out in [[Gondor]]. Eldacar's mother had been [[Vidumavi]], a princess from [[Rhovanion]] and not of [[Númenórean]] descent. It was unheard of for an heir to the throne to come from one of an alien and lesser race, as viewed by the [[Dúnedain]], and many feared that her shorter lifespan would diminish the majesty of the Kings.  Before Eldacar's ascension rebellion brewed in Gondor, especially in the southern parts, and when he became King full civil war broke out, called the [[Kin-strife]].<ref>{{App|TA}}</ref>
+
+Castamir joined the rebellion and being nearest in blood to the crown as well as having the greatest following (due to his support by the people of the coasts and havens of [[Pelargir]] and [[Umbar]]) he became its leader. He led the rebel forces that besieged Eldacar in [[Osgiliath]] and forced the King to flee to his kinsfolk in Rhovanion. The nature of Castamir's character became apparent during the long siege for he not only caused slaughter and destruction in Osgiliath beyond the demands of war, he also had [[Ornendil]], Eldacar's son, put to death when the city fell.
+
+In Eldacar's absence, Castamir seized the throne. After having shown great cruelty during the war, he further alienated his subjects by being haughty and ungenerous. He also planned to remove the King's seat to Pelargir, a proposal that lowered Castamir in the eyes of the people of [[Minas Anor]] and [[Ithilien]].
+	
+In the north, Eldacar forged an army composed of his kinsfolk, those Northmen who had been in the service of Gondor, and a growing number of disaffected Dúnedain from the northern parts of the realm. In {{TA|1447}} Eldacar marched south and his army was augmented by folks from [[Calenardhon]], [[Anórien]], and Ithilien. Castamir's forces met Eldacar's army in [[Lebennin]] where the [[Battle of the Crossings of Erui]] was fought. Much of the best blood of Gondor was lost in the fray. Eldacar himself slew Castamir in the fight and thus reclaimed his Kingship.
+
+However, Castamir's sons escaped from the battle and withdrew their father's forces into Pelargir. There they withstood a siege until they could sail away to Umbar. This city and haven became a lordship independent of Gondor and a refuge for all enemies of the realm, a threat that would last for centuries.<ref>{{App|Gondor}}</ref>
+
+==Etymology==
+''Castamir'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, the final element of this name is probably ''[[mírë]]'' ("jewel").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1935153091.html|articlename=Q. ''Castamir'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+The first element, ''casta'', is not translated, but it could be a variant of ''[[cassa]]'' "helmet". In that case, his name means "helmet-jewel" or "jewelled helmet".
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | CAL | | | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| | | |}}
+{{familytree | VID | | ROM | | CAL | | |VID=[[Vidugavia]]<br/><small>''unknown''</small>|ROM=[[Rómendacil II]]<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |:| | | |}}
+{{familytree | VID |y| VAL | | |:| | | |VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | | | |!| | | | | |:| | | |}}
+{{familytree | | | ELD | | | | CAS | | |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>|CAS='''CASTAMIR'''<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | |!| | | |}}
+{{familytree | ORN | | ALD | | SON | | |ORN=[[Ornendil]]<br/><small>''d. {{TA|1437|n}}''†</small>|ALD=[[Aldamir]]<br/><small>''{{TA|1330|n}} - {{TA|1540|n}}''†</small>|SON=''sons''<br/><small>''unknown''†</small>}}
+{{familytree | | | | | |!| | | |:| | | |}}
+{{familytree | | | | | HYA | | |:| | | |HYA=[[Hyarmendacil II]]<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree | | | | | | | |F|~|A|~|7| |}}
+{{familytree | | | | | | | |:| | | |:| |}}
+{{familytree | | | | | | | ANG | | SAN |ANG=[[Angamaitë]]<br/><small>''fl. {{TA|1634|n}}''</small>|SAN=[[Sangahyando]]<br/><small>''fl. {{TA|1634|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Armor of Castamir.jpg|thumb|150px|The armor of the Usurper in ''[[The Lord of the Rings Online]]'']]
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Castamir's armor is recovered from the [[Crossings of Erui]] and is taken to [[Pelargir]] for safekeeping. Castamir's legacy never fully went away, as non-negligible number of Gondorians remained secret supporters of his through generations, plotting against Steward [[Denethor]] and later King [[Aragorn|Elessar]].
+
+:During the [[War of the Ring]], the [[Corsairs of Umbar]] besieging [[Gondor]] were led by four brothers calling themselves "the Heirs of Castamir", though their claim was ultimately proven to be false. Though all of them perished during the fighting, the eldest left an adult son in Umbar, who continued posing a threat to [[Gondor]].
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1259}}
+| died={{TA|1447}}
+}}
+{{seq
+| prev=[[Eldacar (King of Gondor)|Eldacar]]
+| list=22nd [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1437}} – {{TA|1447}}
+| next=[[Eldacar (King of Gondor)|Eldacar]]
+}}
+{{seq-end}}
+
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Mariners]]
+[[Category:Quenya names]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Castamir]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:castamir]]
+[[fi:Castamir]]

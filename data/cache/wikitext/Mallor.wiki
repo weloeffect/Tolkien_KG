@@ -1,0 +1,88 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Mallor
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|895}}
+| birthlocation=
+| rule={{TA|1029}} - {{TA|1110|n}}
+| death={{TA|1110}}
+| deathlocation=
+| age=215
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Beleg (King of Arthedain)|Beleg]]
+| siblings=
+| spouse=
+| children=[[Celepharn]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mallor''' ({{TA|895}}<ref>{{PM|Elendil}}, p. 193</ref> - {{TA|1110|n}},<ref name="North">{{App|North}}</ref> died aged 215) was the third [[King of Arthedain]].
+
+==History==
+Mallor was the son of [[Beleg (King of Arthedain)|Beleg]] and grandson of [[Amlaith]] of [[Fornost]], the founder of [[Arthedain]]. He became king at the age of 134 when his father died in {{TA|1029}},<ref name="North"/> and ruled during troubled times. 
+
+Mallor's reign coincided with other events that would have a huge impact on [[Middle-earth]]'s history, but whose importance weren't fully recognized at the time, such as the formation of the [[White Council]], and the return of [[Sauron]] as a mysterious shadow that fell over [[Mirkwood]]. It was also the arrival ({{TA|1050}}) from across the [[Misty Mountains]] of a strange race of beings: similar to Men, but far shorter and with hairy, bootless feet. The [[Dúnedain]] called them ''[[periannath]]'', "halflings", and they were the first [[Hobbits]] to enter [[Eriador]], who would later settle the lands of former [[Arnor]] and Arthedain.<ref>{{App|TA}}</ref>
+
+Mallor ruled Arthedain for eighty-one years, and was succeeded by his son, [[Celepharn]], upon his death in {{TA|1110|n}}.<ref name="North"/>
+
+== Etymology ==
+''Mallor'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack and David Salo suggest it is a combination of the root-form ''MAL'' ("gold", "yellow) and the suffixal form ''-lor'' of ''glaur'' ("gold(en) light").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3063925873.html|articlename=S. ''Mallor'' m.|website=Eldamo|accessed=03 February 2022}}</ref> This theory is supported by the fact that the names of the three kings that succeeded him seem to contain the Sindarin word for silver or gold.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | AML | AML=[[Amlaith]]<br/><small>''{{TA|726|n}} - {{TA|946|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BEL |BEL=[[Beleg (King of Arthedain)|Beleg]]<br/><small>''{{TA|811|n}} - {{TA|1029|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAL |MAL='''MALLOR'''<br/><small>''{{TA|895|n}} - {{TA|1110|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL=[[Celepharn]]<br/><small>''{{TA|979|n}} - {{TA|1191|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL=[[Celebrindor]]<br/><small>''{{TA|1062|n}} - {{TA|1272|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|895}}
+| died={{TA|1110}}
+}}
+{{seq
+| prow=2
+| prev=[[Beleg (King of Arthedain)|Beleg]]
+| list=11th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1029}} - {{TA|1110|b}}
+| next=[[Celepharn]]
+| nrow=2
+}}
+{{seq
+| list=3rd [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1029}} - {{TA|1110|b}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Mallor]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/mallor]]
+[[fi:Mallor]]

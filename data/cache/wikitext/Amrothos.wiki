@@ -1,0 +1,59 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Amrothos
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2994}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Imrahil]]
+| siblings=[[Elphir]], [[Erchirion]] and [[Lothíriel]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Amrothos''' was the third son of [[Imrahil]] of [[Dol Amroth]].
+
+==History==
+He was born in {{TA|2994}}. He had one younger sister, [[Lothíriel]] and two older brothers; [[Elphir]] and [[Erchirion]].<ref>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221</ref>
+
+==Etymology==
+''Amrothos'' seems to be a [[Sindarin]] name. Its meaning is not glossed, but it could mean "Terror of Amroth" and be a compound of the name ''[[Amroth]]'' and ''gos'' ("dread", "terror").<ref>{{HM|GS}}, entry '''Amrothos''', p. 340</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | ADR | | | | | | | | | | | | | | | | | | | | |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|-|-|-|-|.| | | | | | | | | | | | | | | |}}
+{{familytree | IVR | | FIN |y| DEN | | IMR | | | | | | | | | | | | ROH |IVR=[[Ivriniel]]<br/><small>''b. {{TA|2947|n}}''</small>|FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>|ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree | | | |,|-|-|-|(| | | |,|-|^|-|v|-|-|-|v|-|-|-|.| | | |:| |}}
+{{familytree | | | BOR | | FAR | | ELP | | ERC | | AMR | | LOT |y| EOM |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>|ELP=[[Elphir]]<br/><small>''{{TA|2987|n}} - {{FoA|67}}''</small>|ERC=[[Erchirion]]<br/><small>''b. {{TA|2990|n}}''</small>|AMR='''AMROTHOS'''<br/><small>''b. {{TA|2994|n}}''</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>}}
+{{familytree | | | | | | | |!| | | |!| | | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | ELB | | ALP | | | | | | | | | | | | ELF | | |ELB=[[Elboron]]<br/><small>''unknown''</small>|ALP=[[Alphros]]<br/><small>''{{TA|3017|n}} - {{FoA|95}}''</small>|ELF=[[Elfwine]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Amrothos]]
+[[fi:Amrothos]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/amrothos]]

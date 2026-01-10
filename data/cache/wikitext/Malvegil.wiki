@@ -1,0 +1,87 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Malvegil
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1144}}
+| birthlocation=
+| rule={{TA|1272}} - {{TA|1349|n}}
+| death={{TA|1349}}
+| deathlocation=
+| age=205
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Celebrindor]]
+| siblings=
+| spouse=
+| children=[[Argeleb I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Malvegil''' ({{TA|1144}}<ref>{{PM|Elendil}}, p. 193</ref> - {{TA|1349|n}},<ref name="North">{{App|North}}</ref> died aged 205) was the sixth ruler of [[Arthedain]].
+
+==History==
+Malvegil was the son of [[Celebrindor]], and gained the kingship of [[Arthedain]] upon his father's death in {{TA|1272}}.<ref name="North"/>
+
+It was during Malvegil's reign (c. {{TA|1300|n}}) that the [[Witch-king]] saw an opportunity in the disunion of the [[Arnorians]] and he went to the North and founded [[Angmar]].  To this realm were drawn evil men, [[Orcs]] (who begin attacking the [[Dwarves]]), and other fell creatures.  Due to the growing evils of the [[Misty Mountains]], [[Hobbits]] moved westward and many of them settled in [[Bree]].<ref>{{App|Eriador}}</ref>
+
+Malvegil ruled Arthedain for seventy-seven years. He lived for two hundred and five years, longer than any of his descendants until [[Aragorn]]. He was succeeded by his son [[Argeleb I]] in {{TA|1349|n}}.<ref name="North"/>
+
+== Etymology ==
+''Malvegil'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack suggests it means "Sword of Gold" and is a combination of ''[[malt]]'' ("gold") and the lenited form of ''megil'' ("sword").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2688282303.html|articlename=S. ''Malvegil'' m.|website=Eldamo|accessed=03 February 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | CEL |CEL=[[Celepharn]]<br/><small>''{{TA|979|n}} - {{TA|1191|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL=[[Celebrindor]]<br/><small>''{{TA|1062|n}} - {{TA|1272|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAL |MAL='''MALVEGIL'''<br/><small>''{{TA|1144|n}} - {{TA|1349|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARG |ARG=[[Argeleb I]]<br/><small>''{{TA|1226|n}} - {{TA|1356|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARV |ARV=[[Arveleg I]]<br/><small>''{{TA|1309|n}} - {{TA|1409|n}}''†</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1144}}
+| died={{TA|1349}}
+}}
+{{seq
+| prow=2
+| prev=[[Celebrindor]]
+| list=14th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1272}} - {{TA|1349}}
+| next=[[Argeleb I]]
+| nrow=2
+}}
+{{seq
+| list=6th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1272}} - {{TA|1349}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Malvegil]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/malvegil]]
+[[fi:Malvegil]]

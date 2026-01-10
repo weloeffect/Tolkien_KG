@@ -1,0 +1,76 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Galador
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Princes of Dol Amroth|Prince of Dol Amroth]]
+| position=
+| location=[[Dol Amroth]]
+| affiliation=
+| language=
+| birth={{TA|2004}}<ref name=PM>{{PM|Elendil}}, ''The Line of Dol Amroth'', pp. 220-2</ref>
+| birthlocation=
+| rule={{TA|2076}} - {{TA|2129|}}<ref name=PM/>
+| death={{TA|2129}}<ref name=PM/>
+| deathlocation=
+| age=125
+| notablefor=
+| house=founded the [[House of Dol Amroth]]
+| heritage=[[Men|Mannish]] father, [[Elves|Elven]] mother
+| parentage=[[Imrazôr]] and [[Mithrellas]]
+| siblings=[[Gilmith]]<ref name=Amroth>{{UT|Amroth}}</ref>
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Galador''' was the first [[Prince of Dol Amroth]].
+
+==History==
+According to legend, ''Galador'' was the son of [[Imrazôr]] [[the Númenórean]] and the Elf-maid [[Mithrellas]].<ref name="PM"/><ref name=Amroth/> The ancestors of the [[Princes of Dol Amroth]] were a family of the [[Faithful]] group of the [[Númenóreans]] who had left [[Númenor]] before its [[Downfall of Númenor|downfall]] and settled in the land of Belfalas with a stronghold upon a high promontory and had received the title "[[Prince]]" from [[Elendil]] with whom they were related. It is possible that this high promontory was named [[Dol Amroth]] after the drowning of [[Amroth]], the last [[King of Lórien]] who was lost in the sea trying to swim back to the shore of [[Belfalas]],<ref name=Amroth/> to remember Amroth.<ref name=UTNote>{{UT|8e}}, note 39</ref> ''Galador'' became known as the first [[Prince of Dol Amroth]].<ref name=PM/><ref name=Amroth/>
+
+== Etymology ==
+''Galador'' is probably a [[Sindarin]] name. Its meaning and components are not glossed, but it is perhaps a compound of ''[[galadh]]'' ("tree") and ''[[-dor]]'' ("lord", "king").<ref>{{webcite|author=[[Paul Strack]]|articleurl=https://www.eldamo.org/content/words/word-1232214213.html|articlename=S. ''Galador'' m.|website=Eldamo|accessed=08 March 2024}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | IMR |y| MIT |IMR=[[Imrazôr]]<br/><small>''{{TA|1950|n}} - {{TA|2076|n}}''</small>|MIT=[[Mithrellas]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | GAL | | GIL |GAL='''GALADOR'''<br/><small>''{{TA|2004|n}} - {{TA|2129|n}}''</small>|GIL=[[Gilmith]]<br/><small>''unknown''</small>}}
+{{familytree | |:| | | | | |}}
+{{familytree | DOL | | | | |DOL=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]}}
+{{familytree | |:| | | | | |}}
+{{familytree | AGL | | | | |AGL=[[Aglahad]]<br/><small>''{{TA|2827|n}} - {{TA|2932|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Dol Amroth]]
+| born={{TA|2004}}
+| died={{TA|2129}}
+}}
+{{seq
+| pvac=None
+| prev=New title
+| list=1st [[Prince of Dol Amroth]]
+| dates=Unknown &ndash; {{TA|2129}}
+| nvac=Unknown
+| next=eventually [[Aglahad]]
+}}
+{{seq-end}}
+
+[[Category:Princes of Dol Amroth]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+
+[[de:Galador]]
+[[fi:Galador]]

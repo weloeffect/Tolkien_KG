@@ -1,0 +1,62 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Anborn
+| image=Decipher - Anborn.jpg
+| caption=Anborn from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=
+| position=Scout<br>Archer
+| location=Near the [[Harad Road]], [[Henneth Annûn]], [[Forbidden Pool]]
+| affiliation=[[Rangers of Ithilien]]
+| language=[[Westron]], [[Sindarin]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Bow<ref name="pool">{{TT|Pool}}</ref>
+| steed=
+}}
+
+'''Anborn''' was a [[Rangers of Ithilien|Ranger of Ithilien]].
+
+==History==
+He was one of the Rangers of Ithilien in the company under [[Faramir]] who were on a mission to ambush the [[Haradrim]] in [[North Ithilien]]. He had been left behind as a scout near the [[Harad Road]]. Just before he returned to [[Henneth Annûn]] he saw [[Gollum]] lurking among the trees, yet he mistook him for a wild beast. He did not shoot him because Faramir had commanded his men not to slay wild beasts for no purpose.<ref>{{TT|Window}}</ref>
+
+Later, Anborn answered Faramir's question as to what was in the [[Forbidden Pool]] below [[Henneth Annûn]], saying that the creature was not a bird since it had four limbs and dove manwise. He offered to shoot it with his bow, at Faramir's command. Faramir stayed his hand and had Anborn guide Frodo to the banks. When [[Gollum]] was captured, Anborn was told to guard the creature, but to treat him well.<ref name="pool"/>
+
+==Portrayal in adaptations==
+===Anborn in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Decipher - Anborn.jpg|Anborn from ''[[The Lord of the Rings Trading Card Game]]''
+File:The Lord of the Rings Online - Anborn.jpg|Anborn in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:A Decipher card identifies one of the Rangers of Ithilien in ''[[The Lord of the Rings: The Two Towers]]'' as Anborn.
+
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Anborn is first met in Bâr Húrin, a refugee of Rangers in South [[Ithilien]], where he tasks the player to prove their worth by assisting the Rangers with battle preparations and then dealing with a small encampment of [[Haradrim]]. After the [[Battle of the Pelennor Fields]] Anborn asks the player to help with treating the wounded and preventing the [[Easterlings]] from setting up a trap for [[Aragorn]]'s forces. He then joins the Host of the West in the march to [[Dagorlad]] and survives the [[Battle of the Morannon]].
+
+{{references}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Rangers]]
+[[Category:Third Age characters]]
+
+[[de:Anborn]]
+[[fi:Anborn]]

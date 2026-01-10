@@ -1,0 +1,56 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Dinodas Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1316}}<ref name="Trees">{{PM|Trees}}, p. 103 & 105</ref>
+| birthlocation=
+| rule=
+| death={{SR|1410}}<ref name="Trees"/>
+| deathlocation=
+| age=94
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gorbadoc Brandybuck]] and [[Mirabella Took]]
+| siblings=[[Rorimac Brandybuck|Rorimac]], [[Amaranth Brandybuck|Amaranth]], [[Saradas Brandybuck|Saradas]], [[Dodinas Brandybuck|Dodinas]], [[Asphodel Brandybuck|Asphodel]] and [[Primula Brandybuck|Primula]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Dinodas Brandybuck''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Dinodas was the sixth child and youngest son of [[Gorbadoc Brandybuck]] and [[Mirabella Took]]. He attended [[Bilbo Baggins|Bilbo's]] [[Bilbo's Farewell Party|Farewell Party]].<ref>{{App|Brandybuck}}</ref>
+
+==Etymology==
+The meaning of the name ''Dinodas'' is unknown. [[J.R.R. Tolkien]] noted that the names of the Bucklanders had a vaguely [[Celtic]] style.<ref name="Translation">{{App|Translation}}, p. 1135</ref>
+
+[[Jim Allan]] suggests that the name ''Dinodas'' is a rearrangement of the name ''[[Dodinas Brandybuck|Dodinas]]''.<ref>{{HM|IE}}, "Giving of Names", "The Celtic-sounding Names", p. 202</ref>
+
+''Dodynas'' and ''Dinodes'' are both alternate spellings of the Table Knight Sir Dodinas le Savage.<ref>Christopher W. Bruce (ed.), ''The Arthurian Name Dictionary'', entry for ''Dodinel'',p. 148</ref>
+
+==Other versions of the legendarium==
+In earlier versions of the family tree of the Brandybuck family he was called ''Priamus''.<ref>{{PM|Trees}}, Brandybuck of Buckland, manuscript BR 5</ref>
+
+{{references}}
+
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Dinodas Brandybock]]
+[[fi:Dinodas Rankkibuk]]
+[[fr:encyclo:personnages:hobbits:brandebouc:dinodas brandebouc]]

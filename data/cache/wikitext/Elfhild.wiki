@@ -1,0 +1,53 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Elfhild
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|2978}}
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=[[Théoden]]
+| children=[[Théodred]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Elfhild''' was the wife of King [[Théoden]].
+
+==History==
+Elfhild died in childbirth, leaving Théoden a widower and [[Théodred]] motherless. At the time of the [[War of the Ring]], Rohan had been without a queen for forty years.<ref>{{App|Eorl}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | FEN |FEN=[[Fengel]]<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | THE |THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | ELF |y| THE |ELF='''ELFHILD'''<br/><small>''d. {{TA|2978|n}}''</small>|THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | THE | | |THE=[[Théodred]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+[[de:Elfhild]]
+[[fi:Elfhild]]

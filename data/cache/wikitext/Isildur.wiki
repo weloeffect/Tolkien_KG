@@ -1,0 +1,178 @@
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Isildur
+| image=Liz Danforth - Isildur.png
+| caption="Isildur" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| titles=Great King, [[High King (Dúnedain)|High King]], King of all the Dúnedain, [[King of Arnor]], [[King of Gondor]], King of the Southern Realm, Lord of Arnor and Gondor
+| position=
+| location=[[Númenor]], [[Gondor]]
+| affiliation=[[Faithful]], [[Last Alliance of Elves and Men]]
+| language=[[Sindarin]], [[Quenya]] and [[Adûnaic]]
+| birth={{SA|3209}}
+| birthlocation=[[Númenor]]
+| rule={{SA|3320}} - {{SA|3440}} (joint reign of [[Gondor]])<br>{{SA|3441}} - {{TA|2}} ([[High King (Dúnedain)|High King]])
+| death=[[5 October]], {{TA|2}}
+| deathlocation=[[Disaster of the Gladden Fields]]
+| age=234
+| notablefor=Founded [[Gondor]] with [[Anárion]] and later cut the [[One Ring]] from the hand of [[Sauron]]
+| house=[[House of Elendil]], founded the [[House of Isildur]]
+| parentage=[[Elendil]]
+| siblings=[[Anárion]]
+| spouse=
+| children=[[Elendur (son of Isildur)|Elendur]], [[Aratan]], [[Ciryon]] & [[Valandil (King of Arnor)|Valandil]]
+| gender=Male
+| height=7 feet (2.13 m)<ref>{{HM|RC}}, p. 272 citing from a note written by J.R.R. Tolkien approximately in the year 1969</ref>
+| hair=Black
+| eyes=Grey
+| clothing=
+| weapons=[[Narsil]]
+| steed=
+}}
+'''Isildur''' was the eldest son and heir of [[Elendil]], the first [[High King (Dúnedain)|High King]] of the [[Realms in Exile]]. 
+
+==History==
+===Early Years in Númenor===
+Isildur was born in Númenor in {{SA|3209}}. He was the elder son of [[Elendil]], son of [[Amandil]], the last [[Lords of Andúnië|Lord of Andúnië]]. His younger brother was [[Anárion]]. While living in the island realm he married and his first son, [[Elendur (son of Isildur)|Elendur]] was born in {{SA|3299|n}}.<ref name="Elendil">{{PM|Elendil}}</ref>
+
+Isildur learned from Amandil that King [[Ar-Pharazôn]], under the influence of [[Sauron]], purposed to cut down [[Nimloth of Númenor|Nimloth]].  One night Isildur went in disguise to [[Armenelos]] and from the courts of the King stole a fruit from the tree before it was cut down, thus preserving the line of the [[White Tree of Gondor|White Tree]].  It is said that he received grievous wounds from the King's guards before escaping but that they all healed when a leaf first appeared on the sapling that grew from the fruit he had taken.<ref name="Akallabeth">{{S|Akallabeth}}</ref>
+
+When Ar-Pharazôn ordered the [[Great Armament]] to assail the land of [[Aman]], Elendil and his sons prepared ships to escape from Númenor.  In the ship of Isildur was guarded the young White Tree.<ref name="Akallabeth" />  When the [[Downfall of Númenor]] came in {{SA|3319|n}}<ref name="SA">{{App|SA}}</ref> Elendil and his sons escaped in nine ships – four for Elendil, three for Isildur, and two for Anárion.<ref name="Akallabeth" />
+
+===Joint Reign of Gondor===
+In the great storm that came with the drowning of Númenor the nine ships of the Exiles were borne to the east and scattered.  Elendil was cast up in the land of [[Lindon]], passed up the River [[Lhûn]], and founded the realm of [[Arnor]].  Isildur and Anárion were carried to the south.  Arriving at the mouths of the [[Anduin]], they ascended the great river and founded the realm of [[Gondor]].<ref name="Rings">{{S|Rings}}</ref> While the Exiles were establishing their [[Realms in Exile]] in {{SA|3320}} however, Sauron had also escaped and re-established his power in [[Mordor]] .<ref name="SA" />
+
+Isildur set up his house in [[Minas Ithil]], where he planted the White Tree, while Anárion established his household in [[Minas Anor]]. However, they jointly ruled the kingdom and set up thrones side by side in the Great Hall of [[Osgiliath]].<ref name="Rings" /> Isildur and his wife had two more sons, [[Aratan]] (in {{SA|3339|n}}) and [[Ciryon]] (in {{SA|3379|n}}), while living in Gondor.<ref name="Elendil" />
+
+In {{SA|3429|n}} [[Sauron]] [[First Fall of Minas Ithil|captured Minas Ithil]] and burnt the White Tree. Yet Isildur escaped with his wife and sons, and a seedling of the White Tree. While Anárion held Osgiliath, Isildur and his family sailed down the Anduin, then northwest his father in [[Arnor]] and to [[Gil-galad]] in [[Lindon]].<ref name="SA" /><ref name="Rings" />
+
+===The War of the Last Alliance===
+[[File:Cor Blok - Isildur Takes the Ring.jpg|200px|thumb|left|"Isildur Takes [[The One Ring|the Ring]]" by [[Cor Blok]]]]
+In {{SA|3430}}, the same year that Isildur's fourth son [[Valandil (King of Arnor)|Valandil]] was born, Isildur's father Elendil and Gil-galad formed the [[Last Alliance of Elves and Men]].  The army of the Alliance marched to [[Rivendell|Imladris]] in {{SA|3431|n}}, where Isildur left his wife and Valandil before the host moved on.  In {{SA|3434|n}} the combined armies of Elves and Men crossed the [[Misty Mountains]] and marched on to the [[Dagorlad]].  There the forces of Sauron were defeated and he retreated into the [[Barad-dûr]] to withstand a siege.<ref name="SA" />
+
+The siege lasted seven years, but finally Elendil and Gil-galad threw down Sauron, thus winning the battle though both were slain and Elendil's sword [[Narsil]] broke under him as he fell.  Isildur took the hilt shard of his father's sword and cut [[the One Ring]] from Sauron's finger.  Ignoring the advice of [[Elrond]] and [[Círdan]], lieutenant of Gil-galad, Isildur did not destroy the Ring; instead he claimed it as a weregild for the deaths of his father and brother, and an heirloom for his House.<ref name="Rings" />
+
+===Triumph and Disaster===
+After the fall of Sauron, Isildur returned to Gondor and assumed the [[Elendilmir]], proclaiming his Kingship in Arnor and sovereign lordship over the [[Dúnedain]] in both the North and the South.<ref name="Gladden">{{UT|Gladden}}</ref><ref>{{App|Gondor}}</ref> He remained for a year in the South, planted the seedling of the White Tree in Minas Anor in memory of his brother [[Anárion]], put the realm to order, and instructed his nephew [[Meneldil]], son of Anárion, in the governance of the land.<ref name="ta">{{App|TA}}</ref>  With Meneldil and a company of trusted friends, Isildur rode about the boundaries of Gondor and in [[Anórien]] created the [[Tomb of Elendil|tomb]] and memorial of Elendil upon the hill of [[Eilenaer]], thereafter called [[Amon Anwar]].<ref>{{UT|Cirion}}</ref> While he remained there, he wrote an [[Scroll of Isildur|account]] on how he acquired the Ring, its significance to his [[House of Isildur|House]] and where he transcribed a [[Ring Verse|verse]] found upon the Ring while it was still hot.<ref>{{FR|Council}}</ref>
+
+When Isildur finally felt free to leave he committed the rule of Gondor to Meneldil and with his three sons<ref name="ta" /> departed on [[5 September|5]] [[Ivanneth]], {{TA|2}}.  Instead of heading west and then north they journeyed northwards along the Anduin in order to first come to Imladris where his wife and little son Valandil were.<ref name="Rings" /> On the thirtieth day of the journey, [[5 October|5]] [[Narbeleth]], the King, his sons, and his Guard of two hundred knights and soldiers reached the northern borders of the [[Gladden Fields]].  Isildur believed that all soldiers of the Enemy perished so his camp was unguarded.<ref name="Rings" /> There they were ambushed by a band of [[Orcs]] said to be ten times their number.
+[[File:Anke Eißmann - The Death of Isildur.jpg|thumb|''The Death of Isildur'' by [[Anke Eißmann]]]]
+As the Orcs closed in, Isildur sent his esquire [[Ohtar]] with one companion to fly with the shards of Narsil. The enemy charged and charged again.  One by one Isildur's sons died about him;<ref name="ta" /> Elendur was the last and he insisted that Isildur leave with the One Ring. Isildur placed the Ring upon his finger and vanished from the [[Disaster of the Gladden Fields|battle]].
+
+The Orcs could still sense his smell<ref name="Rings" /> and Isildur ran to the Anduin and swam across the river. It was during this effort that the One Ring slipped from his finger.  As he struggled to escape the reeds and rushes on the shore a small party of Orcs spotted him and shot him.  He fell back into the water and no trace of him was found by Elves or Men.<ref name="Gladden" />
+
+===Legacy===
+The [[House of Isildur|line of Isildur]] continued, for Valandil became king of Arnor.  Isildur's line continued unbroken throughout the [[Third Age]] until it formed the basis for [[Aragorn]]'s claim to the kingship of Arnor and Gondor after the downfall of Sauron.<ref>{{RK|VI5}}</ref>
+
+In the riddling rhyme "''Seek for the Sword that was Broken''" the Ring is referred to cryptically as ''Isildur's Bane''.<ref>{{FR|II2}}</ref>
+
+After the [[War of the Ring]] the tower of [[Orthanc]] was opened, for King Elessar desired its restoration.  Behind a hidden door in a steel closet was found Isildur's [[Star of Elendil|Elendilmir]].  It was surmised that [[Saruman]] had found the bones of the long-lost king and had taken the ''[[mithril]]'' fillet with its jewel for his own, possibly destroying the king's remains afterwards.<ref name="Gladden" />
+
+==Etymology==
+{{Pronounce|Isildur.mp3|Ardamir}}
+''Isildur'' is a [[Quenya]] name, meaning "Servant of the Moon", from ''[[Isil]]'' ("Moon") + ''[[-dur]]'' ("servant").<ref>{{PE|Eldarin}}, p. 28</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | AMA | | | | | |AMA=[[Amandil]]<br/><small>''Sailed west {{SA|3316}}''†</small>}}
+{{familytree | | | | | | | | | | | | |!| | | | | | |}}
+{{familytree | | | | | | | | | | | | ELE | | | | | |ELE=[[Elendil]]<br/><small>''{{SA|3119}} - {{SA|3441|n}}''†</small>}}
+{{familytree | | | | | | | |,|-|-|-|-|^|-|-|-|-|.| |}}
+{{familytree | | | | | | | ISI | | | | | | | | ANA |ISI='''ISILDUR'''<br/><small>''{{SA|3209}} - {{TA|2}}''†</small>|ANA=[[Anárion]]<br/><small>''{{SA|3219}} - {{SA|3440|n}}''†</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | |:| |}}
+{{familytree | ELE | | ARA | | CIR | | VAL | | GON |ELE=[[Elendur (son of Isildur)|Elendur]]<br/><small>''{{SA|3299}} - {{TA|2}}''†</small>|ARA=[[Aratan]]<br/><small>''{{SA|3339}} - {{TA|2}}''†</small>|CIR=[[Ciryon]]<br/><small>''{{SA|3379}} - {{TA|2}}''†</small>|VAL=[[Valandil (King of Arnor)|Valandil]]<br/><small>''{{SA|3430}} - {{TA|249}}''</small>|GON=[[Kings of Gondor|''Kings of<br/>Gondor'']]}}
+{{familytree | | | | | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | ELD | | | | |ELD=[[Eldacar (King of Arnor)|Eldacar]]<br/><small>''{{TA|87}} - {{TA|339|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Isildur in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings (1978 film) - Isildur.png|Isildur in [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+File:The Lord of the Rings - The Motion Picture Trilogy - Isildur.jpg|[[Harry Sinclair]] as Isildur in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Lord of the Rings The Two Towers (video game) - Isildur.png|[[Isildur]] in [[The Lord of the Rings: The Two Towers (video game)|''The Lord of the Rings: The Two Towers'' (video game)]]
+File:The Lord of the Rings - The Battle for Middle-earth - Isildur.png|Isildur in ''[[The Lord of the Rings: The Battle for Middle-earth]]''
+File:The Lord of the Rings Online - Isildur.jpg|Isildur in ''[[The Lord of the Rings Online]]''
+File:Shadow of War - Isildur.png|Isildur in ''[[Middle-earth: Shadow of War]]''
+File:The Rings of Power (TV series) - Isildur.jpg|[[Maxim Baldry]] as Isildur in ''[[The Lord of the Rings: The Rings of Power]]''
+</gallery>
+===Films===
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:Prince Isildur is mentioned in the [[Prologue: A Ring's Tale (1978 scene)|prologue]], and he is shown to cut the Ring off Sauron's hand in battle, rather than from a defeated Sauron.
+
+'''2001-2002: [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]:'''
+:Isildur briefly appears in the first scenes of [[The Lord of the Rings: The Fellowship of the Ring|the first film]], as well as an extended flashback scene. Isildur is played by [[Harry Sinclair]]. Sinclair, a friend of [[Peter Jackson]], was asked because he was the most corrupt looking person Jackson knew. Sinclair had only one line, "No!", which was dubbed by [[Hugo Weaving]]. The story of Isildur's succumbing to the temptation of the Ring bothers Aragorn who fears that he could have the same weakness (a fear that is not evident in the book). In the book, the Ring simply disappeared when Isildur died and nobody knew what had happened to it until it was found by Gollum over 2000 years later.
+
+===Television===
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'', Season One:'''
+:Isildur is portrayed by [[Maxim Baldry]].<ref>{{webcite|author=[[Alice Jones]]|articleurl=https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look|articlename=Amazon's Lord of the Rings Series Rises: Inside The Rings of Power
+|dated=10-February-2022|website=[https://www.vanityfair.com VanityFair]|accessed=12-February-2022}}</ref> None of the plotlines in which he is involved are found in the books, including his travelling to the Southlands and joining Galadriel's invasion of the Southlands at the head of the Númenorian army. He first appears on the [[Adar (episode)|third episode]] on a ship at sea near [[Númenor]]. He is later presumed dead after a burning log falls on him in the [[Mordor|Southlands]].
+
+===Games===
+'''2002: [[The Lord of the Rings: The Two Towers (video game)]]'':'''''
+:In the game starts with a prologue, where you control Isildur on the slopes of Mount Doom. After you complete the mission you see how Isildur defeats Sauron. By completing the Tower of Orthanc bonus level, Isildur becomes a playable character in the other stages, where he takes the place of his descendant Aragorn. Strangely, Isildur's version of the "Tower of Orthanc" level has the same script as Aragorn's, leading to Saruman referring to the ancient King of Gondor as a "ragtag Ranger".
+
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Isildur appears only in cinematics battling [[Sauron]]. However, in the [[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king|expansion pack ''The Rise of the Witch-king'']], Isildur is mentioned in more detail in the [[Angmar]] campaign.
+
+'''2007-2019: ''[[The Lord of the Rings Online]]'':'''
+:Isildur makes an appearance in a flashback scene titled "At the Stone of Erech". It covers the oath given to Isildur by the men of [[Dunharrow]], subsequent return of Sauron several years later, the betrayal of the Dunharrow men and the curse that Isildur lays upon them. He also appears during the [[Battle of Dagorlad]], during the High Elf introduction, as well as in a flashback of the battle.
+
+:With Update 24.2, it is revealed that the Shade of Isildur was saved by Gultháva, the River-maiden of the Gladden, who kept the lost king secluded within a secret grotto in order to protect him from harm. He is encountered after the [[War of the Ring]], in an abandoned dwarf-hold situated above the [[Gladden Fields]].
+'''2017: ''[[Middle-earth: Shadow of War]]'':'''
+:After Isildur's (voiced by [[Nolan North]]) death, the Orcs brought his body to the diminished and vengeful [[Sauron]], who put a [[Nine Rings|Ring of Power]] on his finger, reviving him as one of his servants and eventually turning him into a [[Nazgûl]]. As one of the Ringwraiths, Isildur was forced to serve the [[Dark Lord]] for all time, until he was defeated and freed by the game's protagonist, Talion. Later, the Ranger claimed his ring to survive after [[Celebrimbor]] abandoned him, and eventually took Isildur's place among the Nazgûl after holding back Sauron's forces for decades.
+
+{{References}}
+{{Seq-start}}
+{{Seq-head
+| race=numenorean
+| house=Founder of the [[House of Isildur]]<br/><small>Continuation of the [[House of Elendil]]</small>
+| born={{SA|3209}}
+| died=[[5 October]], {{TA|2}}
+}}
+{{seq
+| prow=3
+| prev=[[Elendil]]
+| list=2nd [[High King (Dúnedain)|High King]] of the [[Realms in Exile]]
+| dates={{SA|3441}} – [[5 October]], {{TA|2}}
+| next=Next held by:<br/>'''[[Aragorn]]''', 3017 years later
+| nvac=Vacant
+}}
+{{seq
+| list=2nd [[Kings of Arnor|King of Arnor]]
+| dates={{SA|3441}} – [[5 October]], {{TA|2}} 
+| next=[[Valandil (King of Arnor)|Valandil]]
+}}
+{{seq
+| list=2nd [[Kings of Gondor|King of Gondor]]<br/><small>(under [[High King (Dúnedain)|High Kingship]] of [[Elendil]], until {{SA|3441}})</small>
+| dates={{SA|3320}} - {{SA|3440}} (with [[Anárion]])<br/>{{SA|3440}} - [[5 October]], {{TA|2}}
+| next=[[Meneldil]]
+}}
+{{seq
+| prev=[[Sauron]]
+| list=2nd [[Ring-bearers|Ring-bearer]]
+| dates={{SA|3441}} – [[5 October]], {{TA|2}}
+| next=Next held by:<br/>'''[[Déagol]]''', c. 2461 years later
+| nvac=Vacant
+}}
+{{seq-end}}
+
+{{numenor}}
+{{northernline}}
+{{southernline}}
+{{ringbearers}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Elendil]]
+[[Category:House of Isildur| ]]
+[[Category:Mariners]]
+[[Category:Númenóreans]]
+[[Category:Quenya names]]
+[[Category:Ring-bearers]]
+[[Category:Rulers of Arnor]]
+[[Category:Rulers of Gondor]]
+[[Category:Second Age characters]]
+[[Category:Third Age characters]]
+[[de:Isildur]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/isildur]]
+[[fi:Isildur]]

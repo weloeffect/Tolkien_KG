@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Laura Grubb
+| image=Laura Grubb.png
+| caption=Laura Grubb from [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1214}}
+| birthlocation=
+| rule=
+| death={{SR|1316}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Grubb Family|Grubb]]
+| parentage=
+| siblings=[[Lavender Grubb|Lavender]]
+| spouse=[[Mungo Baggins]]
+| children=[[Bungo Baggins|Bungo]], [[Belba Baggins|Belba]], [[Longo Baggins|Longo]], [[Linda Baggins|Linda]] and [[Bingo Baggins|Bingo]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Laura Baggins (née Grubb)'''<ref name = "Letters>{{L|214}}</ref> was a Hobbit of [[the Shire]].
+==History==
+Laura was a sister of [[Lavender Grubb]].<ref>{{App|Boffin}}</ref> She married [[Mungo Baggins]] and among their children was [[Bilbo Baggins]]' father [[Bungo Baggins|Bungo]].<ref>{{App|Baggins}}</ref>
+
+From {{TA|2900}} to {{TA|2916|n}} Laura Grubb was the official matriarch of the [[Baggins Family]].<ref name = "Letters></ref>
+
+==Etymology==
+[[wikipedia:Laura (given name)|Laura]] is the female form of Latin ''laurus'' "bay, laurel tree".
+
+==Portrayal in adaptations==
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Five portraits are clustered on a wall in [[Bag End]]. One of them is Laura, and one of Bilbo's lines when looking at the portraits is "That's my Gammer Laura. She was a Grubb before she married a Baggins".
+
+{{references}}
+[[Category:Baggins]]
+[[Category:Grubb]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Laura Beutlin]]
+[[fi:Laura Tonkeli]]
+[[fr:encyclo/personnages/hobbits/fouille/laura fouille]]

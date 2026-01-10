@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bodo Proudfoot
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Proudfoot Family|Proudfoot]]
+| parentage=
+| siblings=
+| spouse=[[Linda Proudfoot|Linda Baggins]]
+| children=[[Odo Proudfoot|Odo]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bodo Proudfoot''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Bodo married [[Linda Proudfoot|Linda Baggins]]. They had one son, [[Odo Proudfoot|Odo]].<ref>{{App|Baggins}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Proudfoot]]
+[[Category:Third Age characters]]
+
+[[de:Bodo Stolzfuß]]
+[[fi:Bodo Jalojalka]]
+[[fr:encyclo/personnages/hobbits/fierpied/bodo fierpied]]

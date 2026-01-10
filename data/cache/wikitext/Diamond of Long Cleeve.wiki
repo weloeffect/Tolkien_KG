@@ -1,0 +1,56 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Diamond of Long Cleeve
+| image=Gregor Roffalski - Diamond Took.jpg
+| caption="Diamond Took" by [[:Category:Images by Gregor Roffalski|Gregor Roffalski]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Long Cleeve]]
+| affiliation=
+| language=
+| birth={{SR|1395}}
+| birthlocation=
+| rule=
+| death=After {{SR|1430}}<ref group=note>According to the [[Appendix B]] Pippin left the Shire for [[Rohan]] in {{SR|1484}}. Presumably Diamond had died by then.</ref>
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=[[Peregrin Took]]
+| children=[[Faramir Took I|Faramir]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Diamond of Long Cleeve''' was a [[hobbits|hobbit]] of [[the Shire]].
+
+==History==
+Diamond came from [[Long Cleeve]], a village in the [[Northfarthing]]. She married [[Peregrin Took]] in {{SR|1427}}, and had one son, [[Faramir Took I|Faramir]], named after [[Prince of Ithilien|Prince]] [[Faramir]] of [[Gondor]].<ref name="Took">{{App|Took}}</ref><ref>{{App|Later}}</ref>
+
+==Etymology==
+''[[wikipedia:Diamond|Diamonds]]'' are precious jewels<ref>{{HM|IE}}, "Giving of Names"</ref> The jewel name supports the possibility that she was of a high family, such as the [[North-took Family|North-tooks]], descendants of [[Bandobras Took]].
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Return of the King - Pippin and Diamond.jpg|thumb|Pippin meets his future wife.]]
+'''2001-7: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Whilst unnamed in the film itself, the Hobbit next to Pippin at [[Samwise Gamgee|Sam]]'s wedding is identified as Diamond on a [[Decipher Card]]. She is played by [[Emma Deakin]].<ref>Castingcallpro.com, ''[http://www.uk.castingcallpro.com/view.php?uid=116774 Emma Deakin]'', accessed December 12, 2010</ref>
+
+'''2022: ''[[The Lord of the Rings Online]]'':'''
+:Her true name is given as "Adamanda North-took", with Diamond being her nickname. Her mother, "Rosalinda", is the Reeve of "[[the Yondershire]]".<ref name="Diamond Hunting">[[The Lord of the Rings Online]], ''Diamond Hunting''</ref>
+
+{{references|n}}
+[[Category:Fourth Age characters]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Dietmute von Langcleeve]]
+[[fi:Suuralhon Timantti]]

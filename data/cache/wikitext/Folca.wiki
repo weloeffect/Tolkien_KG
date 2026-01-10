@@ -1,0 +1,98 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Folca
+| image=The Lord of the Rings Online - Folca the Hunter slays the Boar of Everholt.jpg
+| caption=''[[The Lord of the Rings Online]]'' tapestry: "Folca the Hunter slays the Boar of Everholt"
+| pronun=
+| othernames=
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2804}}
+| birthlocation=
+| rule={{TA|2851}} - {{TA|2864|n}}
+| death={{TA|2864}} (60)
+| deathlocation=[[Firienholt]]
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Walda]]
+| siblings=
+| spouse=
+| children=[[Folcwine]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Folca''' ({{TA|2804}} – {{TA|2864}}, aged 60 years) was the thirteenth [[King of Rohan]].<ref name=Folca>{{App|Mark}}, ''Second Line'', entry 2804-64 13. ''Folca'', p. 1069</ref>
+
+==History==
+Folca was the son of King [[Walda]], who was born in a time when his country was still plagued by [[Orcs]]<ref name=Walda>{{App|Mark}}, ''Second Line'', entry 2780-2851 12. ''Walda'', p. 1069</ref> who had invaded Rohan after the [[War of Dwarves and Orcs]].<ref>{{App|Mark}}, ''Second Line'', entry 2752-2842 11. ''Brytta'', p. 1068</ref> At the time of his grandfather [[Brytta]]'s death it was believed that Rohan had been freed of the Orcs. However, some Orcs remained, and in {{TA|2851|n}} after ruling just nine years Walda and all his companions were killed by Orcs when they rode from [[Dunharrow]] on mountain paths.<ref name=Walda/>
+
+Folca was a great hunter, but he swore not to hunt wild beasts as long as there were Orcs left in Rohan. During his life all orc-holds in Rohan were destroyed.<ref name=Folca/>
+
+After Rohan had been cleared of Orcs, Folca went to the [[Firienholt|Firienwood]] to hunt the great [[Boar of Everholt]]. He managed to kill the boar, but suffered a mortal wound from the beast's tusks.<ref name=Folca/> He was buried in the fourth mound on the east-side of the Barrow-field<ref>{{RK|Partings}}, p. 977</ref> on the left side of the road that approached Edoras<ref>{{TT|King}}, p. 507</ref> from the north-west.<ref>{{RK|Map}}</ref> Folca  was succeeded by his son [[Folcwine]].<ref>{{App|Mark}}, ''Second Line'', entry 2830-2903 14. ''Folcwine'', p. 1069</ref>
+
+==Etymology==
+''Folca'' is derived from [[Old English]] ''folc'', which means "folk" or "people".<ref>{{HM|RC}}. p. 644</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | BRY | | | | | | |BRY=[[Brytta|Brytta Léofa]]<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree | | | | | | | |!| | | | | | | |}}
+{{familytree | | | | | | | WAL | | | | | | |WAL=[[Walda]]<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | | | | | |}}
+{{familytree | | | | | | | FOL | | | | | | |FOL='''FOLCA'''<br/><small>''{{TA|2804|n}} - {{TA|2864|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | | | | | |}}
+{{familytree | | | | | | | FOL | | | | | | |FOL=[[Folcwine]]<br/><small>''{{TA|2830|n}} - {{TA|2903|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| |}}
+{{familytree | FOL | | FAS | | DAU | | FEN |FOL=[[Folcred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|FAS=[[Fastred (son of Folcwine)|Fastred]]<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FEN=[[Fengel]]<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+There was no note about the events during the life of Folca in the list of Kings of the Mark in the first edition of ''[[The Lord of the Rings]]''.<ref>{{PM|Aiii}}, Notes, note 5</ref>
+
+==Portrayal in adaptations==
+===Folca in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Online - Folca.jpg|Folca in ''The Lord of the Rings Online''
+File:Jeremy Bennett - Folca hunting the Boar of Everholt.jpg|A tapestry of Folca hunting the Boar of Everholt designed by [[Jeremy Bennett]] for [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+</gallery>
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:A tapestry recounting Folca's hunt hangs at [[Meduseld]].
+
+'''2013: ''[[The Lord of the Rings Online]]'':'''
+:Folca appears in a flashback sequence depicting his mutual kill with the [[Boar of Everholt]]. A tapestry depicting the event is also found in [[Meduseld]].
+
+{{references}}
+{{DEFAULTSORT:Folca}}
+
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=[[House of Eorl]]
+| born={{TA|2804}}
+| died={{TA|2864}}
+}}
+{{seq
+| prev=[[Walda]]
+| list=13th [[King of Rohan]]
+| dates={{TA|2851}} – {{TA|2864|n}}
+| next=[[Folcwine]]
+}}
+{{seq-end}}
+
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+[[de:Folca]]
+[[fi:Folca]]

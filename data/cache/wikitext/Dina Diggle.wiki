@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Dina Diggle
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth=c. {{SR|1174}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Diggle Family|Diggle]]
+| parentage=
+| siblings=
+| spouse=[[Gundahar Bolger]]
+| children=[[Adalgar Bolger|Adalgar]] and [[Adaldrida Brandybuck|Adaldrida]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Dina Diggle''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Dina was married to [[Gundahar Bolger]]. They had two children, [[Adalgar Bolger|Adalgar]] ({{SR|1215}}-{{SR|1314}}) and [[Adaldrida Brandybuck|Adaldrida]] (born {{SR|1218}}).<ref>{{App|Bolger}}</ref>
+
+{{references}}
+[[Category:Bolger]]
+[[Category:Diggle]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Dina Bolger]]
+[[fi:Dina Kaivio]]
+[[fr:encyclo/personnages/hobbits/diggle/dina diggle]]

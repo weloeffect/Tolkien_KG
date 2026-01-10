@@ -1,0 +1,86 @@
+{{disambig-two|the twelfth [[Kings of Arthedain|King]] of [[Arthedain]]|eighth King|[[Arveleg I]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Arveleg II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1633}}
+| birthlocation=
+| rule={{TA|1743}} - {{TA|1813|n}}
+| death={{TA|1813}}
+| deathlocation=
+| age=180
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arvegil]]
+| siblings=
+| spouse=
+| children=[[Araval]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Arveleg''' ({{TA|1633}}<ref>{{PM|Elendil}}, p. 194</ref> - {{TA|1813|n}},<ref name="North">{{App|North}}</ref> died aged 180) was the twelfth king of [[Arthedain]].
+
+==History==
+Arveleg came to throne upon the death of his father, [[Arvegil]], in {{TA|1743}}. He ruled for seventy years, apparently in an uneventful period as no noteworthy events are recorded during his reign.
+
+He died 180 years old and was succeeded by his son, [[Araval]].<ref name="North"/>
+
+== Etymology ==
+''Arveleg'' is a [[Sindarin]] name. Its meaning its not glossed, but the Association Tolkiendil suggests that ''Arveleg'' means "Mighty King" and is a combination of ''[[ara|ar(a)-]]'' ("royal", "noble", "high") and a [[lenition|lenited]] form ''veleg'' of ''[[beleg]]'' ("mighty", "great").<ref>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=03 February 2022}}</ref> It is likely that he was named after his great-great-grandfather, [[Arveleg I]].
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | ARG |ARG=[[Argeleb II]]<br/><small>''{{TA|1473|n}} - {{TA|1670|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARV |ARV=[[Arvegil]]<br/><small>''{{TA|1553|n}} - {{TA|1743|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARV |ARV='''ARVELEG II'''<br/><small>''{{TA|1633|n}} - {{TA|1813|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Araval]]<br/><small>''{{TA|1711|n}} - {{TA|1891|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Araphant]]<br/><small>''{{TA|1789|n}} - {{TA|1964|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1633}}
+| died={{TA|1813}}
+}}
+{{seq
+| prow=2
+| prev=[[Arvegil]]
+| list=20th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1743}} - {{TA|1813|n}}
+| next=[[Araval]]
+| nrow=2
+}}
+{{seq
+| list=12th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1743}} - {{TA|1813|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Third Age characters]]
+[[de:Arveleg II.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/dunedain_du_nord/arveleg_ii]]
+[[fi:Arveleg II]]

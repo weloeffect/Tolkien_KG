@@ -1,0 +1,49 @@
+{{disambig-two|the hobbit|the trees of the same name|[[rowans]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rowan
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]<br/>[[Tighfield]]
+| affiliation=
+| language=
+| birth={{SR|1249}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Greenhand Family|Greenhand]]
+| parentage=[[Holman the greenhanded]]
+| siblings=[[Halfred Greenhand|Halfred]], [[Erling]], [[Hending]] and [[Rose (daughter of Holman)|Rose]]
+| spouse=[[Hob Gammidge]]
+| children=[[Hobson]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rowan''' was the oldest child of [[Holman the greenhanded]].
+
+==History==
+Rowan married [[Hob Gammidge]], a roper from [[Tighfield]]. They had one son, [[Hobson]], who became a roper like his father.<ref>{{App|Gamgee}}, p. 1105</ref>
+
+==Etymology==
+A ''[[wikipedia:Rowan|Rowan]]'' is [[Rowans|a type of tree]], the European mountain ash. The name is of Scandinavian origin akin to [[Norse]] ''rauð'' ("red"), because of its red berries.<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+{{references}}
+[[Category:Gamgee]]
+[[Category:Greenhand]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[de:Rowan Gammidsch]]
+[[fr:encyclo/personnages/hobbits/la mainverte/rowan]]
+[[fi:Pihlaja (hobitti)]]

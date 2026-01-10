@@ -1,0 +1,84 @@
+__NOTOC__
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Hyarmendacil II
+| image=Matěj Čadil - Hyarmendacil II.jpg
+| caption="Hyarmendacil II" by [[Matěj Čadil]]
+| pronun=
+| othernames=''Vinyarion''
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1391}}
+| birthlocation=
+| rule={{TA|1540}} - {{TA|1621|n}} (81 years)
+| death={{TA|1621}}
+| deathlocation=
+| age=230
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Aldamir]]
+| siblings=
+| spouse=
+| children=[[Minardil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+| audio={{Pronounce|Hyarmendacil.mp3|Ardamir}}
+}}
+'''Hyarmendacil II''', born with the name '''Vinyarion''' ({{TA|1391}}<ref name=Elendil>{{PM|Elendil}}, manuscript C, The Southern Line of Gondor: the Anarioni, 24. Vinyarion</ref> - {{TA|1621}}<ref name=Vinyarion>{{App|South}}, ''Kings of Gondor'', Hyarmendacil II (Vinyarion), p. 1038</ref>), was the twenty-fourth [[King of Gondor]].<ref>{{App|South}}, ''Kings of Gondor'', p. 1038</ref>
+
+==History==
+Vinyarion ascended the throne after his father [[Aldamir]] was killed in a battle with the Harad and the [[Corsairs of Umbar]] in {{TA|1540}}.<ref>{{App|TA}}, entry for the year 1540, p. 1086</ref> Eleven years later, in {{TA|1551}}, he defeated the Men of the Harad<ref>{{App|TA}}, entry for the year 1551, p. 1086</ref> and took the name Hyarmendacil II<ref name=Vinyarion/>.
+
+==Etymology==
+''Vinyarion'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests that it means "New Son" and is a compound of [[vinya]] ("new") and the suffix [[ion]] ("son").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2639865435.html|articlename=Q. ''Vinyarion'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+''Hyarmendacil'' is a [[Quenya]] name. It means "South-victor".<ref>{{App|Gondor}}, entry for king Ciryaher, p. 1045</ref> It is a compound of [[hyarmen]] ("south") and [[-ndacil|-(n)dacil]] ("victor").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2262790545.html|articlename=Q. ''Hyarmendacil'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | ELD | | | | |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | ORN | | ALD | | |ORN=[[Ornendil]]<br/><small>''d. {{TA|1437|n}}''†</small>|ALD=[[Aldamir]]<br/><small>''{{TA|1330|n}} - {{TA|1540|n}}''†</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | HYA | | |HYA='''HYARMENDACIL II'''<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | MIN | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | TEL | | MIN |TEL=[[Telemnar]]<br/><small>''{{TA|1516|n}} - {{TA|1636|n}}''†</small>|MIN=[[Minastan]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In a late manuscript of what would later become Appendix A, it is mentioned that Vinyarion took the name Hyarmendakil II in 1551 after a great victory over Harad in revenge for the death of his father Aldamir.<ref name=Elendil/>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1391}}
+| died={{TA|1621}}
+}}
+{{seq
+| prev=[[Aldamir]]
+| list=24th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1540}} - {{TA|1621|n}}
+| next=[[Minardil]]
+}}
+{{seq-end}}
+
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Hyarmendacil II.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/hyarmendacil_ii]]
+[[fi:Hyarmendacil II]]

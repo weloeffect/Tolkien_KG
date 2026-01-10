@@ -1,0 +1,81 @@
+{{disambig-two|the [[Kings of Gondor|King]] of [[Gondor]]|tragic hero of the [[First Age]]|[[Túrin|Túrin Turambar]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Turambar
+| image=Matěj Čadil - Turambar of Gondor.jpg
+| caption="Turambar of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|397}}
+| birthlocation=
+| rule={{TA|541}} - {{TA|667|n}} (126 years)
+| death={{TA|667}}
+| deathlocation=
+| age=270
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Rómendacil I]]
+| siblings=
+| spouse=
+| children=[[Atanatar I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Turambar''' ({{TA|397}}<ref>{{PM|Elendil}}</ref> – {{TA|667|n}},<ref>{{App|South}}</ref> aged 270 years) was the ninth [[Kings of Gondor|King of Gondor]].
+
+==History==
+He inherited the crown early when his father [[Rómendacil I]] was killed during an [[Easterlings|Easterling]] invasion of northern [[Ithilien]].  Turambar sought vengeance for his father's death, and succeeded brilliantly. Not only did he destroy the horde, he continued his conquest into the lands of the Easterlings themselves, winning new territory in [[Rhûn]] for [[Gondor]].<ref>{{App|Gondor}}</ref>
+
+Because Turambar was young when he took the throne his rule lasted longer than a century. His was the longest reign of Gondor since that of his ancestor [[Meneldil]]. He was succeeded by his son [[Atanatar I]].
+
+==Etymology==
+''Turambar'' was the epithet of the great hero of the [[First Age]], [[Túrin|Túrin Turambar]]. It translates as "Master of Doom" from [[Quenya]].<ref>{{UT|Narn}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | OST |OST=[[Ostoher]]<br/><small>''{{TA|222|n}} - {{TA|492|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ROM |ROM=[[Rómendacil I]]<br/><small>''{{TA|310|n}} - {{TA|541|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | TUR |TUR='''TURAMBAR'''<br/><small>''{{TA|397|n}} - {{TA|667|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ATA |ATA=[[Atanatar I]]<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | SIR |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|397}}
+| died={{TA|667}}
+}}
+{{seq
+| prev=[[Rómendacil I]]
+| list=9th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|541}} - {{TA|667|n}}
+| next=[[Atanatar I]]
+}}
+{{seq-end}}
+{{southernline}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Turambar (König von Gondor)]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/turambar]]
+[[fi:Turambar (Gondorin kuningas)]]

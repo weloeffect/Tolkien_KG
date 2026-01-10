@@ -1,0 +1,58 @@
+{{short description|Great Eagle}}
+{{infobox character
+| people=[[Eagles|Eagle]]
+| name=Meneldor
+| image=The Lord of the Rings - The Return of the King - Meneldor, Misty Mountain Eagle.jpg
+| caption="Meneldor, Misty Mountain Eagle" from [[The Lord of the Rings: The Return of the King]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=[[Manwë]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=helping rescue [[Frodo]] and [[Sam]] from the eruptions of [[Orodruin]]
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| wingspan=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Meneldor''' was a great [[Eagles|Eagle]] of the northern mountains, one of the followers of [[Gwaihir|Gwaihir the Windlord]]. He was among the squadron of Eagles who flew to the aid of the [[Captains of the West]] in the last desperate battle before the [[Black Gate]] of [[Mordor]]. With his lord Gwaihir, and Gwaihir's brother [[Landroval]], he flew into the [[Mordor|Black Land]] to the rescue of [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]], and carried one of these two (we are not told which) out of the destruction of [[Mount Doom]].<ref>{{RK|VI4}}, pp. 950-951</ref>
+
+==Etymology==
+''Meneldor'' is [[Sindarin]], being probably a combination of ''[[menel]]'' ("the heavens") + ''[[-dor]]''.<ref>{{HM|RC}}, p. 625</ref> 
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Meneldor.jpg|left|thumb|Meneldor in ''The Lord of the Rings Online'']]
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:[http://lotrtcgwiki.com/wiki/lotr17022 A card] in [[Decipher]]'s [[The Lord of the Rings Trading Card Game]] confirms one of the eagles that rescued Frodo and Sam was Meneldor.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Meneldor and his brother [[Landroval]] appear at several points throughout the game. The player first meet them in the Wailing Hills south of [[Lothlorien]] where they help the Eagles deal with an infestastion of spiders. After their participation in the [[Battle of the Morannon]], the player meets the Eagles once again when they reach the [[Carrock]].
+
+{{References}}
+
+{{Eagles}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Eagles]]
+[[Category:Noldorin names]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Meneldor]]
+[[fr:encyclo/personnages/animaux/aigles/meneldor]]
+[[fi:Meneldor]]

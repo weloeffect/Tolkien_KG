@@ -1,0 +1,91 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Erkenbrand
+| image=NimwenHabareth - Erkenbrand.jpg
+| caption="Erkenbrand" by [[:Category:Images by NimwenHabareth|NimwenHabareth]]
+| pronun=
+| othernames=
+| titles=Lord of Westfold
+| position=[[Marshal of the West-mark]]
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=Unnamed sibling (parent of [[Dúnhere]])<ref name=UTnote13>{{UT|11a}}, note 13</ref>
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+<center>{{quote|Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast. 'Erkenbrand!' the Riders shouted. 'Erkenbrand!'|''[[The Two Towers]]'', "[[Helm's Deep (chapter)|Helm's Deep]]"}}</center>
+'''Erkenbrand''' was one of the [[Rohirrim]]. He was the Lord of [[Deeping-coomb]] and of much other land in the [[Westfold]] during the [[War of the Ring]].
+ 
+==History==
+Erkenbrand had been an officer in the [[King's Company|King's Riders]] in his youth. At the time of the War of the Ring Erkenbrand was Lord of Deeping-coomb and much other land in the Westfold. As such, he was the chief lord in the [[West-mark]].<ref>{{UT|11b}}, fourth paragraph</ref> He was the uncle of [[Dúnhere]].<ref name="UTnote13" />
+ 
+Erkendbrand was in the [[Hornburg]] during the [[First Battle of the Fords of Isen]]. When news of the death of [[Théodred]] in the First Battle of the Fords of Isen on [[25 February]], {{TA|3019}} reached Erkenbrand the next day, he assumed command of the West-mark. Erkenbrand sent errand-riders to [[Edoras]] to inform King [[Théoden]] about the death of Théodred and to request [[Éomer]] and all forces that could be spared as reinforcements. However, [[Gríma]] delayed any actions until he was defeated by [[Gandalf|Gandalf.]]<ref>{{UT|Isen}}, thirteenth paragraph</ref> He gave the command in the field to [[Grimbold]] until he could come himself to the battlefield. Erkenbrand did not immediately go to the battlefield due to the fact that he was occupied for three days gathering all those able to bear arms and stores of food to defend the Hornburg.<ref>{{UT|Isen}}, fourteenth paragraph</ref>
+
+On [[2 March]], {{TA|3019}},<ref>{{App|Great}}</ref> the [[Second Battle of the Fords of Isen]] was fought, and the defences on the [[Isen]] were driven back by [[Saruman]]'s forces. The survivors, led by Grimbold and [[Elfhelm]], were retreating from the fords of the river Isen when they came across Gandalf. Gandalf told them Théoden sought the refuge of the Hornburg, and that they should join Erkenbrand to attack the besiegers.<ref>{{UT|Isen}}</ref> They arrived with a thousand men at dawn of [[4 March|March 4]], {{TA|3019}} and turned the tide of the [[Battle of the Hornburg]].<ref name="Deep">{{TT|Deep}}</ref> 
+
+Erkenbrand did not come to [[Minas Tirith]] to fight in the [[Battle of the Pelennor Fields]]. King Théoden gave him the command of the forces that were left behind to defend Rohan because of Erkenbrand's dignity and authority.<ref>{{UT|11b}} , second author's note to the Muster of the West-mark in the sixth paragraph</ref>
+
+After the funeral of King Théoden, which took place on 10 August, {{TA|3019}} , King Éomer appointed Erkenbrand to the post of [[Marshal of the West-mark]].<ref>{{UT|11b}}, first sentence of the last paragraph</ref>
+
+==Appearance==
+Erkenbrand was said to have been tall and strong with a red shield and a great black horn. King Théoden said that the valour of [[Helm|Helm Hammerhand]] lived again in Erkenbrand.<ref name="Deep" />
+
+==Etymology==
+''Erkenbrand'' is a name that possibly was derived from two [[Old English]] words: ''eorcan'' ("precious") and ''brand'' ("fire-brand, torch; sword").<ref>{{HM|RC}}, p. 413</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| |,|-|-|-|.| | |}}
+{{familytree| ERK | | UNK | |ERK='''ERKENBRAND'''<br /><small>''fl. {{TA|3019}}''</small>|UNK=''unknown sibling''}}
+{{familytree| | | | | |!| | |}}
+{{familytree| | | | | DUN | |DUN=[[Dúnhere]]<br /><small>''d. {{TA|3019}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+{{expansion}}
+While writing ''The Lord of the Rings'', [[Tolkien]] considered changing the name of Aragorn to ''Erkenbrand'', among other names.<ref>{{TI|Hamilcar}}, note 17 p. 80</ref>
+
+==Portrayal in adaptations==
+===Erkenbrand in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Erkenbrand.jpg|Erkenbrand from [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Erkenbrand.jpg|Erkenbrand in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:Erkenbrand doesn't feature in the film and his role is taken by Éomer.
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:As in the 1978 film, Erkenbrand's role is fulfilled by Éomer.
+
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:Erkenbrand did appear on a [[Decipher Card]]. [[Weta Workshop|Weta]]'s Mike Grealish served as the character, wearing the armour of Théodred, which did not get much attention in the film.
+
+'''2013: ''[[The Lord of the Rings Online]]'':'''
+:After Gandalf leaves King Théoden's riders, he recruits the player to aid him in his search for Erkenbrand and Grimbold. After journeying across the Westfold, the player eventually finds Grimbold at the [[Fords of Isen]] and together they find Erkenbrand and his men to the south. After a brief regrouping, Gandalf then leads them on the march towards the Hornburg.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Erkenbrand]]
+[[fi:Erkenbrand]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/erkenbrand]]

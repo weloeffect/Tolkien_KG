@@ -1,0 +1,66 @@
+{{infobox character
+| name=Orophin
+| people=[[Silvan Elves|Silvan Elf]]
+| image=Lori Deitrick - Orophin.png
+| caption="Orophin" by [[:Category:Images by Lori Deitrick|Lori Deitrick]]
+| pronun=
+| othernames=
+| titles=
+| position=Marchwarden
+| location=[[Lothlórien]]
+| affiliation=[[Lothlórien]]
+| language=[[Nandorin]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=[[Haldir]] and [[Rúmil (elf of Lórien)|Rúmil]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Orophin''' was a [[Silvan Elves|Silvan Elf]] of [[Lothlórien]].
+
+==History==
+Orophin was the brother of [[Haldir]] and [[Rúmil (elf of Lórien)|Rúmil]]. He was one of the [[Galadhrim]] who seldom left Lothlórien and spoke but a little of [[Westron]].
+
+He was one of three wardens of the northern border of Lothlórien met by the [[Fellowship of the Ring|Fellowship]] as they entered the [[Lothlórien|Golden Wood]]<ref name=ii6>{{FR|II6}}</ref> on [[15 January]] {{TA|3019}}.<ref>{{App|Great}}</ref>
+
+Some days later, when a band of a hundred [[Orcs]] were seen passing the [[Nimrodel (river)|Nimrodel]], the three brothers went ahead and spoke with feigned voices, leading them on into the wood. Orophin ran back to warn the Galadhrim and prepare an ambush and fortify the wood.<ref name=ii6/>
+
+==Etymology==
+[[Robert Foster]] identified the name as either [[Sindarin]] or [[Silvan]].<ref>{{HM|Guide}}, p. 109</ref> At another point it is described to be "''suitable to [[Sindarin]] sounds and patterns''" although it is "''not clearly etymologizable as Sindarin''".<ref>{{PE|17}}, p. 51</ref>
+
+One possibility is that ''Orophin'' means "Mountain Peak", from ''[[orod]]'' and ''[[pind]]''.<ref>{{webcite|author=[[Didier Willis]]|articleurl=https://tolkienlistsearch.herokuapp.com/message/5e9c35e6f5297e9170156f7d|articlename=Re: &#91;S&#93; a couple of questions (246.00)|dated=28 Apr 2003|website=Lambe|accessed=}}</ref>
+
+==Portrayal in adaptations==
+===Orophin in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Decipher - Orophin.jpg|Orophin in [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Orophin.jpg|Orophin in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:Orophin is a Warrior/Ranger Elf.
+
+'''2001-7: ''[[The Lord of the Rings Trading Card Game]]'': '''
+:An Elf of Lothórien from ''[[The Lord of the Rings: The Fellowship of the Ring]]'' is identified by [[Decipher]] as being Orophin in three cards, [http://lotrtcgdb.com/pages/LOTR17011.html Orophin, Silvan Elf (17S11)], [http://lotrtcgdb.com/pages/LOTR01056.html Orophin, Lorien Bowman (1U56)] and [http://lotrtcgdb.com/pages/LOTR12020.html Orophin, Brother of Haldir (12C20)]. He was portrayed by Jason Secto.
+
+'''2009: ''[[The Lord of the Rings Online]]'':'''
+:Orophin can be found on the western outskirts of [[Lothlórien]], defending the borders against the [[orc]] attacks.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Silvan Elves]]
+[[Category:Third Age characters]]

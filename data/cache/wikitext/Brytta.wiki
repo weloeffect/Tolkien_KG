@@ -1,0 +1,104 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Brytta
+| image=Lída Holubová - The House of Eorl - Brytta Leofa.jpg
+| caption="The House of Eorl - Brytta Leofa" by [[Lída Holubová]]
+| pronun=
+| othernames=''Léofa''
+| titles=[[Kings of Rohan|King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2752}}
+| birthlocation=
+| rule={{TA|2798}} – {{TA|2842|n}} (44 years)
+| death={{TA|2842}} (aged 90)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Fréaláf|Fréaláf Hildeson]]
+| siblings=
+| spouse=
+| children=[[Walda]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Brytta Léofa''' ([[Third Age]] {{TA|2752|n}} – {{TA|2842|n}}, aged 90 years) was the eleventh [[King of Rohan]].<ref name=Brytta>{{App|Mark}}, ''Second Line'', entry 2752-2842 11. ''Brytta'', p. 1068</ref> 
+
+==History==
+Brytta was the son of [[Fréaláf|Fréaláf Hildeson]] and the grandnephew of king [[Helm]] of Rohan. He was the grandson of the King's sister [[Hild]].<ref name=Helm>{{App|Eorl}}, entry for king Helm Hammerhand, pp. 1066-7</ref>
+
+During the reign of Helm, when Brytta was still a child, Rohan was invaded by the [[Dunlendings]] in {{TA|2758}} and conquered the capital of [[Edoras]]. The survivors were enslaved and others fled to the valleys of the [[White Mountains]]. Brytta's father, Fréaláf, fled with many others to the mountain refuge at [[Dunharrow]]. King Helm retreated with his surviving forces to the [[Hornburg]] and was besieged by the invaders.<ref name=Helm/>
+
+A short time afterwards the [[Long Winter]] came and covered Rohan in snow. The cold and famine that followed caused great suffering for both the Rohirrim and the invaders, and King Helm with his sons lost their lives. Soon after the end of the winter, Fréalaf led a small company from Dunharrow, liberated Edoras by surprise and killed the Dunlending leader [[Wulf]]. Before the end of {{TA|2759}} the Dunlendings were driven from Rohan.<ref name=Helm/>
+
+Fréaláf was crowned as the new King of Rohan. The wizard [[Saruman]] came to the crowning bringing gifts and took up residence in the Gondorian fortress of [[Isengard]], with the permission of Steward [[Beren (Steward of Gondor)|Beren]] of Gondor.<ref name=Frealaf>{{App|Eorl}}, entry for king Fréaláf, p. 1068</ref>
+
+Brytta became king after the death of his father in {{TA|2798}}.<ref>{{App|Mark}}, ''Second Line'', entry 2726-2798 10. ''Fréaláf Hildeson'', p. 1068</ref>
+
+During his reign Rohan was still recovering from the war with the [[Dunlendings]] during which many Rohirrim had died and many of their cattle and horses had been lost.<ref name=Frealaf/> Brytta was generous and helped those in need. His people called him Léofa, because he was loved by all.<ref name=Brytta/>
+
+His rule saw a new trouble, as the [[Battle of Azanulbizar|final battle]] of the [[War of the Dwarves and Orcs]] caused great numbers of [[Orcs]] to flee from the [[Misty Mountains]], trying to make a home in the [[White Mountains]] in the south of Rohan.<ref>{{App|Stewards}}, entry for steward Beregond, p. 1054</ref> During his rule the Rohirrim hunted down the Orcs.<ref name=Brytta/>
+
+Brytta was the longest-lived king of the Second Line (from Fréaláf to [[Théoden]])<ref>{{App|Mark}}, pp. 1068-9</ref> and ruled for 44 years until his death in 2842, at which it was believed that Rohan was free of the Orcs.<ref name=Brytta/> He was buried in the second mound on the east-side of the Barrow-field,<ref>{{RK|Partings}}, p. 977</ref> on the left side of the road that approached Edoras<ref>{{TT|King}}, p. 507</ref> from the north-west.<ref>{{RK|Map}}</ref>
+
+Brytta was succeeded by his son [[Walda]] at his death.<ref>{{App|Mark}}, ''Second Line'', entry 2780-2851 12. ''Walda'', p. 1069</ref>
+
+==Etymology==
+''Brytta'' means "bestower", "distributor", "prince", or "lord" in [[Old English]].<ref name=RC>{{HM|RC}}, p. 644</ref> In poetry it is frequently found in epithets for a prince or lord. For instance, in line 352 of [[Beowulf (poem)|Beowulf]], the Danish king Hrothgar is called ''béaga bryttan'', "giver of rings". Brytta's nickname Léofa means "beloved".
+
+''Léofa'' is derived from Old English ''leof'', which means "loved", "beloved", or "dear".<ref name=RC/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | GRA | | |GRA=[[Gram]]<br/><small>''{{TA|2668|n}} - {{TA|2741|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | HEL | | HIL |HEL=[[Helm|Helm Hammerhand]]<br/><small>''{{TA|2691|n}} - {{TA|2759|n}}''†</small>|HIL=[[Hild]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | HAL | | HAM | | DAU | | FRE |HAL=[[Haleth (son of Helm)|Haleth]]<br/><small>''d. {{TA|2758|n}}''†</small>|HAM=[[Háma (son of Helm)|Háma]]<br/><small>''d. {{TA|2759|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FRE=[[Fréaláf|Fréaláf Hildeson]]<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | BRY |BRY='''BRYTTA LÉOFA'''<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | WAL |WAL=[[Walda]]<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | | | FOL |FOL=[[Folca]]<br/><small>''{{TA|2804|n}} - {{TA|2864|n}}''†</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In the first edition of ''[[The Lord of the Rings]]'' Léofa was called Léof<ref name=RC/> and there was no note about the events during his life in his entry in the list of Kings of the Mark.<ref>{{PM|Aiii}}, Notes, note 5</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Brytta slays the chieftain of the White Mountain Orcs.jpg|thumb|150px|left|''[[The Lord of the Rings Online]]'' tapestry: Brytta slays the chieftain of the White Mountain Orcs'']]
+'''2012: ''[[The Lord of the Rings Online]]'':''': A tapestry depicting Brytta is found in [[Meduseld]] and can be acquired for use in player's houses.
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2752}}
+| died={{TA|2842}}
+}}
+{{seq
+| prev=[[Fréaláf]]
+| list=11th [[King of Rohan]]
+| dates={{TA|2798}} – {{TA|2842|n}}
+| next=[[Walda]]
+}}
+{{seq-end}}
+
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+[[de:Brytta]]
+[[fi:Brytta]]
+[[fr:encyclo:personnages:hommes:3a:hommes du nord:rohirrim:brytta]]

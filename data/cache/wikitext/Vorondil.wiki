@@ -1,0 +1,85 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Vorondil
+| image=Mithril Miniatures - Vorondil the Hunter.jpg
+| caption="Vorondil the Hunter" - ''[[Mithril Miniatures|Mithril Miniature]]''
+| pronun=
+| othernames="The Hunter"
+| titles=[[Steward of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|1919}}
+| birthlocation=
+| rule={{TA|1998}} - {{TA|2029|n}} (31 years)
+| death={{TA|2029}}
+| deathlocation=
+| age=110
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Pelendur]]
+| siblings=
+| spouse=
+| children=[[Mardil|Mardil Voronwë]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Vorondil''' ([[Third Age]] {{TA|1919|n}}<ref>{{PM|Elendil}}, p. 204</ref> – {{TA|2029|n}},<ref name="App|South">{{App|South}}</ref> aged 110 years) was the second of three [[Stewards]] of [[Gondor]] that served King [[Eärnil II]]. 
+==History==
+Upon the death of his father, [[Pelendur]], the Stewardship of Gondor became hereditary within the [[House of Húrin]] and thus Vorondil succeeded to the position.<ref name="Stewards">{{App|Stewards}}</ref>
+
+Early in Vorondil's Stewardship Gondor was attacked and suffered a serious defeat. In {{TA|2000}}, the [[Nazgûl]] issued from [[Mordor]] to besiege [[Minas Ithil]].  The city fell in {{TA|2002|n}} and with it they took the ''[[Palantíri|Palantír]]'' therein.<ref>{{App|TA}}</ref>
+
+Vorondil was remembered as "Vorondil the Hunter" for his hunting of the [[Kine of Araw]], found near the shores of the [[Sea of Rhûn]].<ref name="App|South"/>  From one of the wild white oxen he fashioned a [[Great Horn]], bound with silver and written with characters.<ref>{{TT|IV5}}</ref> It had been passed to the eldest son for generations within the House of Húrin and [[Boromir]] was the last to carry this horn.<ref>{{RK|VI1}}</ref>
+
+Vorondil was succeeded by his son [[Mardil]], who would become the first of the [[Ruling Steward]]s.<ref name="Stewards"/>
+
+==Etymology==
+''Vorondil'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "Ever-friend" and is a compound of ''voro'' ("ever") and the suffix ''[[-ndil|-(n)dil]]'' ("friend", "lover", "devoted to").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-347618493.html|articlename=Q. ''Vorondil'' m.|website=Eldamo|accessed=05 February 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | HUR |HUR=[[Húrin of Emyn Arnen|Húrin of<br/>Emyn Arnen]]<br/><small>''fl. {{TA|1634|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | PEL |PEL=[[Pelendur]]<br/><small>''{{TA|1879|n}} - {{TA|1998|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | VOR |VOR='''VORONDIL'''<br/><small>''{{TA|1919|n}} - {{TA|2029|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAR |MAR=[[Mardil|Mardil Voronwë]]<br/><small>''{{TA|1960|n}} - {{TA|2080|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ERA |ERA=[[Eradan]]<br/><small>''{{TA|1999|n}} - {{TA|2116|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|1919}}
+| died={{TA|2029}}
+}}
+{{seq
+| prev=[[Pelendur]]
+| list=[[Steward of Gondor|Steward to the King of Gondor]]
+| dates={{TA|1998}} - {{TA|2029|n}}
+| next=[[Mardil|Mardil Voronwë]]
+}}
+{{seq-end}}
+
+{{southernline}}
+[[Category:Stewards]]
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+
+[[de:Vorondil]]
+[[fi:Vorondil]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/vorondil]]

@@ -1,0 +1,57 @@
+{{Unnamed}}
+{{infobox character
+| name="F"
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Mordor]] and probably<ref name=RC97/> [[Dol Guldur]]
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=[[Mannish]]<br>[[Black Speech]]
+| birth=[[Second Age]]
+| birthlocation=[[Middle-earth]]
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=4200+
+| notablefor=Aiding [[Khamûl]] with pursuing [[Frodo Baggins]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=Black horse
+}}
+
+In a manuscript by [[J.R.R. Tolkien]], a [[Nazgûl]] simply labeled "'''F'''" accompanied [[Khamûl]] in tracking the [[Shire-hobbits]] during the [[Hunt for the Ring]].<ref name=name>{{NM|Hunt}}, pp. 374-5</ref>
+
+==History==
+Like the other Nazgûl, "F"<ref name=name/> was one of nine [[Men]] to whom [[Sauron]] gave one of the [[Nine Rings|Rings of Power]], who became mighty kings, sorcerers or warriors, and eventually faded into a [[Wraiths|wraith]] that was under the rule of Sauron.<ref>{{S|Rings}}</ref> By {{SA|2251}} "F" and the other eight Men who had received rings of power first appeared as Ringwraiths.<ref>{{App|SA}}, entry for the year 2251, p. 1083</ref>
+
+In {{TA|2951}}, when Sauron declared himself openly to his enemies, "F" was probably<ref name=RC97>{{HM|RC}}, citing from an unpublished version of ''The Hunt for the Ring'', p. 97</ref> one of the two Ringwraiths under [[Khamûl]]'s command that were sent to [[Dol Guldur]].<ref>{{App|TA}}, entry for the year 2951, p. 1089</ref><ref name=Black>{{UT|Black}}</ref>
+
+In the evening of [[23 September]],<ref name=Great>{{App|Great}}, pp. 1091-2</ref> after the Nazgûl approach near the [[Three-Farthing Stone]] in [[the Shire]],<ref name=RC97/> "F"<ref name=name/> probably lurked south of [[Whitfurrows]], watching the [[East Road]] and the [[Stock Road]] as Khamûl arrived in [[Hobbiton]] and asked [[Hamfast Gamgee]] about "Baggins".<ref name=Hunt99>{{HM|RC}}, citing from an unpublished version of ''The Hunt for the Ring'', p. 99</ref>
+
+On [[25 September]], "F" was summoned by Khamûl with cries after failing to find [[Frodo Baggins]] on the ridge above [[Woodhall]]. Together, they ride east over the fields and visit [[Farmer Maggot]].<ref>{{FR|Mushrooms}}, pp. 93-4</ref> After leaving Farmer Maggot, "F" was sent off by Khamûl to head down the [[Causeway]] in the direction of the [[Overbourn Marshes]]. "F" reached the [[Bucklebury Ferry]] at night soon after Khamûl arrived too late to the catch the Hobbits before they crossed the [[Brandywine River]].<ref name=RC116>{{HM|RC}}, citing from an unpublished version of ''The Hunt for the Ring'', p. 116</ref>
+
+==Other versions of the legendarium==
+In an early draft of ''[[The Lord of the Rings]]'' labeled "Scheme D", Tolkien identified each Nazgûl by letters between A and I. It is not known which of these early draft labels correspond with "F". The Nazgûl trailing "the hobbits in the Shire" were labeled "'''D'''" and "'''[[E]]'''" respectively.<ref name=treason>{{TI|Gandalf}}</ref>
+== Portrayal in adaptations ==
+'''1987: ''[[Middle-earth Role Playing]]—[[Lords of Middle-earth: Vol. II]]'':'''
+:[[Seventh of the Nazgûl|Adûnaphel]] is mentioned in the supplement as one of the Ringwraiths sent to Dol Guldur, as well as being the only of that group to accompany Khamûl in the Shire, which would likely make her "F".<ref>{{ICE|8003}}, p. 83</ref>
+
+{{References}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Nazgûl]]
+[[Category:Second Age characters]]
+[[Category:Servants of Sauron]]
+[[Category:Third Age characters]]

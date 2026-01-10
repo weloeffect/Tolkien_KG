@@ -1,0 +1,66 @@
+{{infobox character
+| people=[[Orcs|Orc]]
+| name=Grishnákh
+| image=John Howe - Grishnakh.jpg
+| caption="Grishnakh" by [[John Howe]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Orcs|Orc]]-captain
+| location=[[Mordor]]
+| affiliation=[[Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[29 February]], {{TA|3019}}
+| deathlocation=Edge of [[Fangorn Forest]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Orcs]]
+| gender=Male
+| height=Short
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Grishnákh''' was a captain of [[Orcs]] from [[Mordor]].<ref>{{App|Other}}</ref> He was described as being a short, crook-legged creature, broad, with long arms hanging almost to the ground.<ref name="Uruk">{{TT|III3}}</ref>
+
+==History==
+On [[26 February]] {{TA|3019}}<ref name="Great">{{App|Great}}</ref> Grishnákh was part of a raiding party that captured [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] at [[Parth Galen]]. He was the captain of a group of Mordor-orcs which had joined [[Uglúk]]'s forces on the plains of [[Rohan]] during the [[War of the Ring]]. When Pippin awoke and heard the Orcs arguing he noted that Grishnákh's voice sounded softer but more evil than the others. Grishnákh threatened to report the doings of the mountain-orcs and of Uglúk to Lugbúrz ([[Barad-dûr]]).<ref name="Uruk"/>
+
+On [[28 February]]<ref name="Great"/> Grishnákh and his followers split from Uglúk's company to head east, but fell back in with the [[Orcs of Isengard|Isengarders]] when [[Éomer]]'s riders drew near. In the nighttime when he had a chance, Grishnákh attempted to search the hobbits for [[the One Ring]] (how he knew about it is unknown; possibly he was present at the torture and interrogation of [[Gollum]] in Barad-dûr). After hearing Pippin imitate Gollum's croaking noise, he believed they had the One Ring and tried to escape with the two hobbits. Before he could accomplish this he was slain by the Riders of [[Éomer]] near the eaves of [[Fangorn Forest]].<ref name="Uruk"/>
+
+==Other versions of the legendarium==
+The earlier form of the name ''Grishnákh'' used by [[Tolkien]] was ''Gríshnák''.<ref>{{TI|XXI}}, p. 409. Cf. also Index</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Two Towers - Grishnákh.jpg|thumb|left|Grishnákh in ''[[The Lord of the Rings: The Two Towers]]'']]
+
+'''[[1978]]: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:No individual orcs are identified - or identifiable, but one orc yells "Grishnákh" to another when they are surrounded by the [[Rohirrim]]. [[Meriadoc Brandybuck|Merry]] also tells one orc (as with the book) that if the Ring goes to Isengard there will be nothing "for poor Grishnákh".
+
+'''[[2002]]: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Grishnákh is played by [[Stephen Ure]]. He is a common orc who is crushed by [[Treebeard]] after he attempts to kill Merry and [[Peregrin Took|Pippin]]. 
+
+'''2002: [[Pán prsteňov (2001-2003 Slovak radio series)|''Pán prsteňov'' (2001-2003 Slovak radio series)]]:'''
+:The voice of Grishnákh is provided by Eduard Vitek.
+
+'''[[2004]]: ''[[The Lord of the Rings: War of the Ring]]'':'''
+:Grishnákh is a captain in the evil faction. He is voiced by [[David Lodge]].
+
+{{references}}
+{{lordoftheringsfilms}}
+[[Category:Black Speech words]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Orcs]]
+[[Category:Servants of Sauron]]
+[[Category:Third Age characters]]
+[[de:Grischnákh]]
+[[fi:Grishnákh]]

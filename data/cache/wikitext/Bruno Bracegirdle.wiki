@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bruno Bracegirdle
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hardbottle]]
+| affiliation=
+| language=
+| birth={{SR|1313}}
+| birthlocation=
+| rule=
+| death={{SR|1410}}
+| deathlocation=
+| age=97
+| notablefor=
+| family=[[Bracegirdle Family|Bracegirdle]]
+| parentage=[[Blanco Bracegirdle]] and [[Primrose Boffin]]
+| siblings=[[Lobelia Sackville-Baggins|Lobelia]]
+| spouse=
+| children=[[Hugo Bracegirdle|Hugo]] and [[Hilda Bracegirdle|Hilda]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bruno Bracegirdle''' was a Hobbit of [[the Shire]].
+
+==History==
+Bruno was the son of [[Blanco Bracegirdle|Blanco]] and [[Primrose Boffin|Primrose]]. He had a younger sister, the infamous [[Lobelia Sackville-Baggins]], and two children, [[Hugo Bracegirdle|Hugo]] and [[Hilda Bracegirdle|Hilda]].<ref name=Boffin>{{App|Boffin}}</ref>
+
+Bruno attended [[Bilbo's Farewell Party]].<ref name=Boffin />
+
+{{references}}
+
+[[Category:Bracegirdle]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Bruno Straffgürtel]]
+[[fi:Bruno Piukkapaula]]
+[[fr:encyclo:personnages:hobbits:sanglebuc:bruno sanglebuc]]

@@ -1,0 +1,81 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Fram
+| image=Matt Stewart - The Teeth of Scatha.jpg
+| caption="The Teeth of Scatha" by [[:Category:Images by Matt Stewart|Matt Stewart]]
+| pronun=
+| othernames=
+| titles=[[Lord of the Éothéod]]
+| position=
+| location=[[Framsburg]]
+| affiliation=
+| language=Language of the [[Éothéod]]
+| birth=
+| birthlocation=
+| rule=Late 20th/ early 21st century of the [[Third Age]]
+| death=
+| deathlocation=
+| age=
+| notablefor=Killing [[Scatha]]
+| house=
+| parentage=[[Frumgar]]
+| siblings=
+| spouse=
+| children=Unnamed; ancestor of [[Léod]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+{{quote|Jewels such as these you will not match in your treasuries, for they are hard to come by.|Fram's message to the Dwarves}}
+
+'''Fram''' was the son of [[Frumgar]]<ref name="Eorl">{{App|Eorl}}</ref> and [[Lord of the Éothéod]]. It is possible that he was the fifth Lord of the Éothéod and the great-grandson of [[Forthwini]].<ref>{{webcite|author=Michael Martinez|articleurl=https://middle-earth.xenite.org/how-many-lords-of-eotheod-were-there/|articlename=How Many Lords of Éothéod Were There?|dated=10 October 2013|website=middle-earth.xenite.org|accessed=20 February 2022}}</ref>
+
+== History ==
+During his rule the [[Éothéod]] lived in the land between the [[Misty Mountains]] on the west, the [[Forest River]] in the east, the confluence of the rivers [[Greylin]] and [[Langwell]] in the south<ref>{{UT|Ride}}, second paragraph</ref> and the [[Grey Mountains]] in the north and were troubled by the [[Long-worms|Long-worm]] [[Scatha]]. Fram slew the Dragon, took an [[Horn of the Mark|ancient horn]],<ref name=collectedpoemsnote>{{CP|177}}, manuscript note</ref> and claimed his<ref name=collectedpoems>{{CP|177}}, third version</ref> hoard as his own. The [[Dwarves of the Grey Mountains|Dwarves of that region]] also laid claim to the treasure, but Fram rebuked the claim, instead sending them the teeth of the Dragon along with a message. The message angered the Dwarves, and it was rumoured that they killed Fram for it.<ref name="Eorl"/>
+
+The only fortified ''burg'' of the Éothéod was located at the confluence of the Greylin and the Langwell.<ref>{{UT|Ride}}, third paragraph</ref> It is possible that this ''burg'' was the settlement known as [[Framsburg]]<ref>{{webcite|author=Daniel Helen|articleurl=https://www.tolkiensociety.org/2015/11/tolkiens-annotated-map-of-middle-earth-transcribed/|articlename=Tolkien's annotated map of Middle-earth transcribed|dated=10 November 2015|website=tolkiensociety.org|accessed=20 February 2022}}</ref><ref>{{webcite|author=Michael Martinez|articleurl=https://middle-earth.xenite.org/what-was-eotheod-like/|articlename=What Was Éothéod Like?|dated=7 December 2011|website=middle-earth.xenite.org|accessed=20 February 2022}}</ref> and that it was named after Fram.<ref>{{HM|RC}}, p. Ixv, entry ''Framsburg''</ref>
+
+== Etymology ==
+''Fram'' means "valiant", "stout" or "firm" in [[Old English]].<ref>{{HM|RC}}, p. 703</ref><ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/12165|articlename=fram|accessed=24 July 2025}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | FOR |FOR=[[Forthwini]]<br/><small>''fl. {{TA|1944|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | FRU |FRU=[[Frumgar]]<br/><small>''fl. {{TA|1977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | FRA |FRA='''FRAM'''<br/><small>''fl. c. {{TA|2000}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | LEO |LEO=[[Léod]]<br/><small>''{{TA|2459|n}} - {{TA|2501|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | EOR |EOR=[[Eorl]]<br/><small>''{{TA|2485|n}} - {{TA|2545|n}}''†</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Fram.jpg|thumb|175px|Fram in ''[[The Lord of the Rings Online]]'']]
+'''2020: ''[[The Lord of the Rings Online]]'':'''
+:Fram appear in a series of flashbacks narrating the history of [[Éothéod]]. When [[Scatha]] attacked [[Framsburg]], [[Frumgar]] lost the use of his sword-arm, after which Fram swore revenge and hunted Scatha alone for two years. Frumgar died shortly after Fram returned with Scatha's treasure, while Fram himself was not killed by Dwarves, but by the servants of the Enemy who made it look like Dwarves were involved to sow dissent in the North. Fram left three sons, Gifica, Gundamári and Gisilhári. None of them were at age at the time of Fram's death and the two eldest died in battles against Orcs.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=northmen}}
+{{seq
+| prev=[[Frumgar]]
+| list=[[Lord of the Éothéod]]
+| nvac=Unknown
+| next=eventually [[Léod]]
+}}
+{{seq-end}}
+[[Category:Éothéod]]
+[[Category:Lords of the Éothéod]]
+[[Category:Old English names]]
+[[Category:Third Age characters]]
+[[de:Fram]]
+[[fi:Fram]]

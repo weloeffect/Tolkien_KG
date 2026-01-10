@@ -1,0 +1,69 @@
+{{disambig-two|the Gondorian corsair|for the Quenya [[epessë]] of Angrod|[[Angamaitë (epessë)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Angamaitë
+| image=Liz Danforth - Angamaitë.jpg
+| caption="Angamaitë" by [[Liz Danforth]]
+| pronun=[[Quenya|Q]], {{IPA|[ˌaŋɡaˈma͡ɪtɛ]}}
+| othernames=
+| titles=
+| position=
+| location=[[Umbar]]
+| affiliation=[[Corsairs of Umbar]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=''unknown''; great-grandson of [[Castamir]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Angamaitë''' was one of the great-grandsons of [[Castamir]] the Usurper.<ref name=Telemnar>{{App|Gondor}}, entry for king Telemnar</ref>
+
+== History ==
+He and [[Sangahyando]], another great-grandson of Castamir, were leaders of the [[Corsairs of Umbar]].<ref name=ElendilC>{{PM|Elendil}}, manuscript C, The Heirs of Elendil, The Southern Line of Gondor: the Anarioni, 25. Minardil, p. 199</ref> The name Angamaitë was possibly not his birth name, but a personal warrior name (or nickname). There was no need to assert his royal descent with this name, because his royal descent was clear.<ref name=L347>{{L|347}}</ref>
+
+Angamaitë and Sangayando learned through spies that [[Minardil]], the [[King of Gondor]], was in the [[Gondor]]ian port of [[Pelargir]] and that he suspected no peril since his father had crushed Harad and Umbar.<ref name=ElendilC/> In {{TA|1634}}<ref name=TA1634>{{App|TA}}, entry for the year 1634</ref><ref name=T4>{{PM|Third}}, manuscript T4, entry for the year 1634</ref> the Corsairs of Umbar, led by Angamaitë and Sangayando, made a raid up the river [[Anduin]], killed king Minardil in Pelargir,<ref name=Telemnar/> ravaged Pelargir<ref name=TA1634/><ref name=T4/> and the coasts and escaped with great booty.<ref name=ElendilC/>
+
+== Etymology ==
+{{Seealso|Angamaitë (epessë)}}
+''Angamaitë'' is a [[Quenya]] name meaning "Iron-handed",<ref name=L347/> from ''[[anga]]'' ("iron") and ''[[maitë]]'' ("handed").<ref name=PE17>{{PE|17}}, p. 116 entry Q ''angamaite'' and p. 162 entry '''MAG'''</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | CAL | | |CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | | | |:| | | |}}
+{{familytree | | | CAS | | |CAS=[[Castamir]]<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''†</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | SON | | |SON=''sons''<br/><small>''unknown''†</small>}}
+{{familytree | |F|~|A|~|7| |}}
+{{familytree | |:| | | |:| |}}
+{{familytree | ANG | | SAN |ANG='''ANGAMAITË'''<br/><small>''fl. {{TA|1634|n}}''</small>|SAN=[[Sangahyando]]<br/><small>''fl. {{TA|1634|n}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In the manuscripts for what would later become appendix A and appendix B and in appendix A in the first edition of ''[[The Lord of the Rings]]'' his name was ''Angomaitë''.<ref name=ElendilC/><ref name=T4/> His name was changed to ''Angamaitë'' in the second edition of The Lord of the Rings.<ref name=PE17/><ref>{{PM|Elendil}}, Commentary relating to the entry for king Minardil in manuscript B, p. 215</ref>
+
+{{references}}
+{{DEFAULTSORT:Angamaite}}
+[[Category:Dúnedain]]
+[[Category:House of Anárion]]
+[[Category:Mariners]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Angamaite]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:angamaite]]
+[[fi:Angamaitë (ihminen)]]

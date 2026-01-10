@@ -1,0 +1,47 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Halfred Greenhand
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Gardener
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1251}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Greenhand Family|Greenhand]]
+| parentage=[[Holman the greenhanded]]
+| siblings=[[Rowan]], [[Erling]], [[Hending]] and [[Rose (daughter of Holman)|Rose]]
+| spouse=
+| children=[[Holman Greenhand]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Halfred Greenhand''' was the son of [[Holman the greenhanded]].
+
+==History==
+Halfred was a gardener like his father, and the first to use his father's nickname as a family name. He had one son, whom he named after his father: [[Holman Greenhand|Holman]] was born in {{SR|1292}}.<ref>{{App|Gamgee}}</ref>
+
+==Etymology==
+The name comes from [[Old English]] ''healfrēad'' "half-red, reddish" or from ''healfrǣd'' "half counsel".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "Giving of names"</ref>
+{{references}}
+
+[[Category:Hobbits]]
+[[Category:Greenhand]]
+[[Category:Third Age characters]]
+
+[[de:Halfred Grünhand]]
+[[fi:Halfred Viherpeukalo]]

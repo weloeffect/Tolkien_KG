@@ -1,0 +1,86 @@
+{{disambig-more|Ciryandil|[[Ciryandil (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Ciryandil
+| image=Matěj Čadil - Ciryandil of Gondor.jpg
+| caption="Ciryandil of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|820}}
+| birthlocation=Gondor
+| rule={{TA|936}} - {{TA|1015|n}} (79 years)
+| death={{TA|1015}}
+| deathlocation=Haradwaith
+| age=195
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Eärnil I]]
+| siblings=
+| spouse=
+| children=[[Hyarmendacil I|Ciryaher]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ciryandil''' ([[Quenya|Q]], pron. {{IPA|[kiˈrʲandil]}}; {{TA|820}}<ref name=Elendil>{{PM|Elendil}}, manuscript C with corrections and expansions, The Southern Line of Gondor: the Anarioni, 14. Kiryandil</ref> – {{TA|1015|n}},<ref>{{App|South}}, ''Kings of Gondor'', Ciryandil</ref> aged 195 years) was the fourteenth [[King of Gondor]] and the third of the [[Ship-king]]s.<ref>{{App|South}}, ''Kings of Gondor''</ref>
+
+==History==
+Ciryandil succeeded his father [[Eärnil I]] in {{TA|936|n}}<ref>{{App|South}}, ''Kings of Gondor'', Eärnil I</ref> and continued Eärnil's policy of building ships.<ref name=Ciryandil>{{App|Gondor}}, entry for king Ciryandil</ref> 
+
+The [[Haradrim]], who were led by the [[Black Númenóreans|lords that had been driven from Umbar]], laid siege to the fortress of Umbar.<ref name=Ciryandil/> In {{TA|1015}} Ciryandil was slain in battle in the siege of Umbar<ref>{{App|TA}}, entry for the year 1015</ref> in [[Haradwaith]]<ref name=Ciryandil/> He was succeeded by his son [[Ciryaher]], also known as [[Hyarmendacil I]].<ref>{{App|South}}, ''Kings of Gondor'', Hyarmendacil I (Ciryaher)</ref>
+
+==Etymology==
+''Ciryandil'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it probably means "Ship Lover" and is probably a compound of [[cirya]] ("ship") and the suffix [[-ndil|-(n)dil]] ("lover", "friend").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1130430251.html|articlename=Q. ''Ciryandil'' m.|website=Eldamo|accessed=29 October 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | SIR | | |SIR=[[Siriondil (King of Gondor)|Siriondil]]<br/><small>''{{TA|570|n}} - {{TA|830|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | BER |~| TAR | | TAC |BER=[[Berúthiel]]<br/><small>''unknown''</small>|TAR=[[Tarannon Falastur]]<br/><small>''{{TA|654|n}} - {{TA|913|n}}''</small>|TAC=[[Tarciryan]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EAR |EAR=[[Eärnil I]]<br/><small>''{{TA|736|n}} - {{TA|936|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | CIR |CIR='''CIRYANDIL'''<br/><small>''{{TA|820|n}} - {{TA|1015|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | HYA |HYA=[[Hyarmendacil I]]<br/><small>''{{TA|899|n}} - {{TA|1149|n}}''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | ATA |ATA=[[Atanatar II]]<br/><small>''{{TA|977|n}} - {{TA|1226|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In a late manuscript of what would later become Appendix A it is mentioned that he continued to build ships, fell in a battle with the Men of Harad, that the Men of Harad opposed the plans of Gondor to occupy the coastlands south of the river Harnen and therefore tried to take Umbar and that Gondor maintained a great fort and haven at Umbar.<ref name=Elendil/> In the preceding version of that manuscript he continued to build ships and fell in a sea-battle against the Kings of Harad.<ref>{{PM|Elendil}}, manuscript B, The Southern Line of Gondor: the Anarioni, Kiryandil</ref>
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|820}}
+| died={{TA|1015}}
+}}
+{{seq
+| prev=[[Eärnil I]]
+| list=14th [[King of Gondor]]
+| dates={{TA|936}} - {{TA|1015|n}}
+| next=[[Hyarmendacil I|Hyarmendacil&nbsp;I]]
+}}
+{{seq-end}}
+{{southernline}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Ciryandil]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:ciryandil]]
+[[fi:Ciryandil]]

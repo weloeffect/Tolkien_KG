@@ -1,0 +1,60 @@
+{{short description|Troll in ''Perry-the-Winkle''}}
+{{infobox character
+| people=[[Trolls|Troll]]
+| name=Lonely Troll
+| image=Amani Warrington - A Lonely Troll.jpg
+| caption=''A Lonely Troll'' by [[:Category:Images by Amani Warrington|Amani Warrington]]
+| pronun=
+| othernames=Bumpus,<ref name=guide/> Lonely Worm,<ref name=collectedpoems/> Old Troll,<ref name=collectedpoems/> Troll<ref name="Perry"/>
+| titles=
+| position=[[Baker]]<ref name="Perry"/>
+| location=[[Faraway]]<ref name="Perry"/>
+| affiliation=''[[Perry-the-Winkle]]''<ref name=preface/>
+| language=[[Westron]]<ref name="Perry"/>
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Being a friendly troll.
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Trolls]]
+| gender=Male<ref name="Perry"/>
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+The '''Lonely Troll''', or the '''Troll''', was an old inhabitant of [[Faraway]] who appeared in ''[[Perry-the-Winkle]]'', a nursery rhyme<ref name=collectedpoems>{{CP|105}}</ref> by [[Samwise Gamgee]]<ref name=preface>{{AB|Preface}}</ref>.<ref name="Perry">{{AB|Perry}}, pp. 41-4</ref>
+
+This was a very unusual [[Trolls|Troll]]: He wanted friends, he did not steal, drink beer, or even eat meat, and most amazingly of all, he was a very good cook. The Lonely Troll lived in the hills of Faraway, which seems to have been somewhere in [[Eriador]], for he was the last troll "from [[Weathertop]] to the [[Belegaer|Sea]]".<ref name="Perry"/>
+
+One day the Lonely Troll decided to seek friendship in [[the Shire]]. When he came to [[Delving]], though, the [[Shire-hobbits]] ran and hid. The old troll sat down outside of the [[Lockholes]] and wept. It was then that a [[Hobbits|hobbit]] lad, [[Perry-the-Winkle (hobbit)|Perry-the-Winkle]], came up and befriended him. The happy troll took Perry home for [[tea]] and fed him generously.<ref name="Perry"/>
+
+When the other hobbits learned that Perry-the-Winkle had been so handsomely fed they all went to the Troll's house to demand food for themselves. The Lonely Troll refused to feed them though since they had refused to be his friend. Instead he invited Perry to [[tea-time]] [[Mersday|Every Thursday]] and taught him to be a great [[Baker]].<ref name="Perry"/>
+
+==Background==
+[[File:The Bumpus (no. 105, text A).jpeg|thumb|150px|"''The Bumpus''" by [[J.R.R. Tolkien]].]]
+In the first version of the poem, entitled ''The Bumpus'', in early [[1928]],<ref name=commentary>{{AB|Comm}}, ''Perry-the-Winkle''</ref> which was unconnected to the [[legendarium]], the Lonely Troll was a being known only as the '''Bumpus'''. On the manuscript of the poem, [[J.R.R. Tolkien]] drew an unintentionally sinister<ref name=collectedpoems/> sketch of the Bumpus.<ref name=commentary/> On [[29 March]],<ref name=collectedpoems/> the Bumpus became part<ref name=collectedpoems/> of Tolkien's ''[[Tales and Songs of Bimble Bay]]'' series<ref name=commentary/>.<ref name=guide>{{CG|RG}} p. 754 (entry "''Perry-the-Winkle''")</ref>
+
+In the third version of the poem, entitled ''William and the Bumpus'', Tolkien added an extra 111 lines,<ref name=collectedpoems/> which incorporated the scene where the Bumpus/Lonely Troll teaches William/Perry the art of baking, bringing the poem more in line with the final version.<ref name=commentary/>
+
+In early [[1961]],<ref name=collectedpoems/> when Tolkien revised the poem for inclusion within ''[[The Adventures of Tom Bombadil]]'', the Bumpus was changed to the '''Lonely [[Worm]]'''<ref name=collectedpoems/> and then to the Lonely Troll. Despite the name change of the protagonist, Tolkien included the place-name [[Bumpus Head]] in the published version of ''[[The Dragon's Visit]]''.<ref name=commentary/>
+
+{{references}}
+
+{{legend}}
+
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Third Age characters]]
+[[Category:Trolls]]
+
+[[fi:Vanha Peikko]]

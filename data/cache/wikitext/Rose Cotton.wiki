@@ -1,0 +1,107 @@
+{{disambig-more|Rose|[[Rose (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rose Cotton
+| image=Pierre Vanderweerd - Rosie Cotton.jpg
+| caption="Rosie Cotton" by [[Pierre Vanderweerd]]
+| pronun=
+| othernames=Rosie, ''Meril'' ([[Sindarin|S]])
+| titles=
+| position=
+| location=[[Bywater]]<br/>[[Bag End]], [[Hobbiton]]
+| affiliation=
+| language=
+| birth={{TA|2984}}
+| birthlocation=
+| rule=
+| death=[[Mid-year's Day]], {{FoA|61}}
+| deathlocation=
+| age=98
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Farmer Cotton]] and [[Lily Brown]]
+| siblings=[[Tolman Cotton Junior|Tom]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]]
+| spouse=[[Samwise Gamgee]]
+| children=[[Elanor Gardner|Elanor]], [[Frodo Gardner|Frodo]], [[Rose Gardner|Rose]], [[Merry Gardner|Merry]], [[Pippin Gardner|Pippin]], [[Goldilocks Gardner|Goldilocks]],  [[Hamfast Gardner|Hamfast]], [[Daisy Gardner|Daisy]], [[Primrose Gardner|Primrose]], [[Bilbo Gardner|Bilbo]], [[Ruby Gardner|Ruby]], [[Robin Gardner|Robin]] and  [[Tolman Gardner|Tom]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+| gallery=Rosie Cotton
+}}
+'''Rose "Rosie" Gamgee''' (née '''Cotton''') ({{TA|2984}}<ref name="GamFam"/> - [[Mid-year's Day]] {{FoA|61}}<ref name="Later">{{App|Later}}</ref>) was the daughter of [[Tolman Cotton Senior]] and [[Lily Brown]]. She married [[Samwise Gamgee]] at the end of the [[Third Age]], and bore him a record thirteen children.
+
+==Life==
+===Youth===
+Rose Cotton was born in the year {{SR|1384|n}} by [[Shire Reckoning]], the second child and first daughter of [[Tolman Cotton Senior|Tolman Cotton]] and [[Lily Brown]].<ref name="GamFam">{{App|Gamgee}}</ref> The Cotton family lived in a farm on the [[South Lane]], which was fairly close to [[Bywater]].<ref name="HandS612">{{HM|UI}}, p. 612</ref> Not much of her youth is known, except that she and her brothers - [[Tolman Cotton Junior|Young Tom]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]] - frequently swam in the [[Bywater Pool]] with the children of the Gamgee family, to which the Cottons were close.<ref name="MtDoom">{{RK|VI3}}</ref>
+
+===War of the Ring===
+Rosie was still fond of Sam when both grew to adulthood, and when he announced he'd be going with [[Frodo Baggins]] to [[Crickhollow]], she did not like it.<ref name="Grey">{{RK|VI9}}</ref> Even though everyone had given up hope of seeing Sam - or any of the other [[Travellers|Hobbits]] - back, she waited patiently. Since the Spring of {{TA|3019}}, she had expected Sam to return. 
+ 
+At the time, [[Ruffians|Ruffian]] rule over the Shire had lasted some three months, having started earlier that year.<ref>{{RK|VI7}}</ref> Old Tom Cotton had been itching to get his hands on them, but he refrained from doing so as he had his wife and Rosie to look after. Rosie was relieved to find Sam on the doorstep on [[2 November|November 2]]. 
+
+Rosie and her mother tended to Sam, Frodo and several others that night, as they prepared to [[Battle of Bywater|drive out the Ruffians]]. With shining eyes and a smile on her face she heard Frodo tell of Sam's adventure and fame abroad.<ref name="Scouring">{{RK|VI8}}</ref> Sam and Frodo lived with the Cottons until [[Bagshot Row]] and [[Bag End]] were restored, the following Spring. Sam later joined Frodo in Bag End, but was torn in two - he wanted to stay loyal to Frodo, as well as marry Rosie.<ref name="Grey"/> 
+
+Frodo solved this problem by telling Sam that he and Rosie would both be welcome to live with him at Bag End after the wedding. Sam and Rosie married on [[1 May|May 1]], {{TA|3020}},<ref name="Chief">{{App|Chief}}</ref> and moved into Bag End.<ref name="Grey"/> There, they lived happily, and begot [[Elanor Gardner|Elanor]], their first daughter, who was born on the [[25 March|anniversary of the Downfall of Sauron]].<ref name="Chief"/>
+
+===Fourth Age===
+The Fourth Age started with one child, but many more would follow. Rose bore a record thirteen children, beating [[Adamanta Chubb]], the wife of the [[Gerontius Took|Old Took]], by one.<ref>{{App|Took}}</ref> [[Frodo Gardner|Frodo]] was born in {{FoA|2}}, [[Rose Gardner|Rose-lass]] in {{FoA|4}}, [[Merry Gardner|Merry]] in {{FoA|6}}, [[Pippin Gardner|Pippin]] in {{FoA|8}}, [[Goldilocks Gardner|Goldilocks]] in {{FoA|10}},  [[Hamfast Gardner|Hamfast]] in {{FoA|11}}, [[Daisy Gardner|Daisy]] in {{FoA|12}}, [[Primrose Gardner|Primrose]] in {{FoA|14}}, [[Bilbo Gardner|Bilbo]] in {{FoA|15}}, [[Ruby Gardner|Ruby]] in {{FoA|17}}, [[Robin Gardner|Robin]] in {{FoA|19}}, and their last child, [[Tolman Gardner|Tom]], in {{FoA|21}}.<ref name="GamFam"/>
+
+That year, {{FoA|21|n}}, marked the only major undertaking of Mistress Rose. She and Sam travelled to [[Gondor]], and stayed with [[Aragorn|King Elessar]] for well over a year. In the meantime, Rose's brother [[Tolman Cotton Junior|Tom]] took over Sam's tasks as [[Mayor of Michel Delving|Mayor]]. After their return, Rose would continue to live by her husband's side, until her passing at the age of 98 at [[Mid-year's Day]] of {{FoA|61}}.<ref name="Later"/>
+
+==Etymology==
+The name ''Rose'' is a translation of an unknown [[Westron]] name. She is, like many female Hobbits, named after a flower,<ref name="OnTrans">{{App|Translation}}</ref> the [[Roses|rose]]. The surname '''Cotton''' comes from a Westron ''Hlothran'', which roughly translates as "Cottager".<ref name="OnTrans"/>
+
+In the ''[[King's Letter]]'', which was not included in ''The Return of the King'' as published, [[Aragorn|Elessar]] translated the name Rose as '''''[[Meril]]''''' in [[Sindarin]].<ref name="TheEp">{{SD|XI}}</ref> In his linguistical analysis of the ''King's Letter'', [[Carl F. Hostetter]] noted the resemblance to [[Meril-i-Turinqi]], the queen of [[Tol Eressëa]] in the earliest stages of the ''[[The Book of Lost Tales]]''.<ref>[[Carl F. Hostetter]], ''The "King's Letter": An Historical and Comparative Analysis'', in [[Vinyar Tengwar 31|''Vinyar Tengwar'', Number 31]] (September [[1993]]), pp. 12-34</ref> Hostetter could not connect it to any entry in ''[[The Etymologies]]'', which mirrors [[Christopher Tolkien]]'s observations on Meril-i-Turinqi, for which no root could be found in the ''[[Qenya Lexicon]]''<ref name="BoLTApp">{{LT1|Appendix}}, entry "Meril-i-Turinqi"</ref> - however, a [[Gnomish]] translation was translated as "Queen of Flowers".<ref name="BoLTApp"/> As the [[Tur|second element]] represents the "queen" part, ''Meril'' appears to be one of the oldest words for "Flower" in the ''[[legendarium]]''.
+
+==Portrayal in adaptations==
+===Rose Cotton in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Return of the King (1980 film) - Sam's wife.png|Sam's wife in [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]
+File:The Lord of the Rings - The Fellowship of the Ring - Rosie Cotton.jpg|Rosie in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Rosie Cotton.JPG|Rosie in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Fellowship of the Ring'' video game]]
+File:The Lord of the Rings Online - Rose Cotton.jpg|Rose Cotton in [[The Lord of the Rings Online]]''
+File:Tales of the Shire - Rosie Cotton.png|Rosie Cotton in ''[[Tales of the Shire: A "The Lord of the Rings" Game]]''
+</gallery>
+
+'''1980: [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]:'''
+:During a ring-induced dream at the [[Tower of Cirith Ungol]], Sam thinks of going back home. An older man, he sits and watches several children playing about. A blonde woman, obviously his wife, carries a baby to him. She is not identified as Rosie on screen, so the identification is conjectural.
+ 
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Rose was voiced by [[Kathryn Hurlbutt]]. At the end, she has one child, [[Elanor Gardner|Elanor]], portrayed by [[Harry Holm]].<ref>[[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]], "[[The Grey Havens (episode)|The Grey Havens]]"</ref>
+
+'''1990: [[J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 video game)|''J.R.R. Tolkien's The Lord of the Rings, Vol. I'' (PC video game)]]:'''
+:Rose is found at Cotton farm (placed in [[Buckland]]), where she gives Sam a token of her affection.
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'': '''
+:Rosie, played by [[Sarah McLeod]], dances at the [[Bilbo's Farewell Party|Farewell Party]].<ref>''[[The Lord of the Rings: The Fellowship of the Ring]]'', "[[A Long-expected Party (scene)|A Long-expected Party]]"</ref> She is portrayed as a popular girl. In the [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|extended edition]], she is the barmaid of the ''[[Green Dragon]]''.<ref>''[[The Lord of the Rings: The Fellowship of the Ring]]'', "[[At the Green Dragon]]"</ref> 
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Rosie is, once again, the barmaid of the ''Green Dragon''. She shows more concern and affection for Frodo than for Sam, whom she considers childish. Rose lives with her father at Number 3, [[South Lane]], [[Bywater]].<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], "The Shire - Bywater"</ref> No voice actress is specified for this role, but it is a thinly veiled [[Jennifer Hale]].
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Rosie was, again, played by Sarah McLeod. Still the barmaid of the ''Green Dragon'', Sam makes his move on her, and they marry.<ref>''[[The Lord of the Rings: The Return of the King]]'', "[[Homeward Bound (scene)|Homeward Bound]]"</ref> Despite Frodo being gone, they live at Number 3, Bagshot Row. Sam and Rosie have two children: [[Elanor Gardner|Elanor]] (played by [[Sean Astin]]'s [[Alexandra Astin|daughter Alexandra]]), and [[Frodo Gardner|Frodo]] (played by [[Maisy McLeod-Riviera]], Sarah McLeod's daughter).<ref>''[[The Lord of the Rings: The Return of the King]]'', "[[The Grey Havens (scene)|The Grey Havens]]"</ref>
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Rosie can be found at her family farmstead, but currently plays no role in the storyline. During the Farmers Faire festival she can be seen dancing at the nearby Methel-stage.
+
+'''2010: ''[[The Lord of the Rings: Aragorn's Quest]]:'''
+:Rosie features prominently throughout the game. She is voiced by Deborah Baker Jr.
+
+'''2025: ''[[Tales of the Shire: A "The Lord of the Rings" Game]]'':'''
+:Rosie Cotton is an interactive character. She can be invited to meals and, after reaching a milestone, can trade with the player.
+
+{{References}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Cotton]]
+[[Category:Fourth Age characters]]
+[[Category:Gamgee]]
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Rose Hüttinger (Tochter von Tolman)]]
+[[fi:Roosa Tölli]]

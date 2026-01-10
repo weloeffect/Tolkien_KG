@@ -1,0 +1,93 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Araglas
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2296}}
+| birthlocation=
+| rule={{TA|2327}} - {{TA|2455|n}}
+| death={{TA|2455}}
+| deathlocation=
+| age=159
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Aragorn I]]
+| siblings=
+| spouse=
+| children=[[Arahad I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Araglas''' ({{TA|2296}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2455|n}},<ref name="North">{{App|North}}</ref> died aged 159) was the sixth [[Chieftain of the Dúnedain]].
+
+==History==
+Araglas was the son of Chieftain [[Aragorn I]], who was killed by wolves in {{TA|2327|n}}. Araglas' own rule was uneventful. He ruled for 128 years until he died in 2455 and was followed by his son, [[Arahad I]].<ref name="North"/>
+
+==Etymology==
+''Araglas'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack and David Salo suggest it means "Royal-joy" and is a compound of the prefix ''[[ara|ar(a)-]]'' ("noble", "royal", "high") and ''glass'' ("joy").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-4246006207.html|articlename=S. ''Araglas'' m.|website=Eldamo|accessed=05 February 2022}}</ref><ref>{{HM|GS}}, p. 341</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Aravir]]<br/><small>''{{TA|2156|n}} - {{TA|2319|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aragorn I]]<br/><small>''{{TA|2227|n}} - {{TA|2327|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARAGLAS'''<br/><small>''{{TA|2296|n}} - {{TA|2455|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arahad I]]<br/><small>''{{TA|2365|n}} - {{TA|2523|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aragost]]<br/><small>''{{TA|2431|n}} - {{TA|2588|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an earlier manuscript Araglas' name was "Arallas".<ref>{{PM|Elendil}}, Commentary, p. 211</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2296}}
+| died={{TA|2455}}
+}}
+{{seq
+| prow=2
+| prev=[[Aragorn I]]
+| list=29th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2327}} - {{TA|2455|n}} 
+| next=[[Arahad I]]
+| nrow=2
+}}
+{{seq
+| list=6th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2327}} - {{TA|2455|n}} 
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Araglas]]
+[[fi:Araglas]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/araglas]]

@@ -1,0 +1,95 @@
+{{disambig-two|the nineteenth [[Kings of Gondor|King]] of [[Gondor]]|King who ruled 800 years earlier|[[Rómendacil I]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Rómendacil II
+| image=Matěj Čadil - Rómendacil II of Gondor.jpg
+| caption="Rómendacil II of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=''Minalcar''
+| titles=[[Regent of Gondor]], [[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1126}}
+| birthlocation=
+| rule=({{TA|1240}} as Regent) {{TA|1304}} - {{TA|1366|n}} (62 years)
+| death={{TA|1366}}
+| deathlocation=
+| age=240
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Calmacil (King of Gondor)|Calmacil]]
+| siblings=[[Calimehtar (son of Calmacil)|Calimehtar]]
+| spouse=
+| children=[[Valacar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rómendacil II''' ({{TA| 1126}}<ref>{{PM|Elendil}}</ref> – {{TA|1366|n}},<ref>{{App|South}}</ref> aged 240 years), born '''Minalcar''', was the nineteenth [[King of Gondor]].
+
+==History==
+[[Minalcar]] was the son of prince Calmacil and nephew of King [[Narmacil I]].
+
+A vigourous man, as his uncle King [[Narmacil I]] recognized, in order to unburden himself from the cares of government, the indolent King appointed Minalcar as [[Regent of Gondor|Regent of the realm]] in {{TA|1240}}. When Narmacil died with no child, Minalcar's father Calmacil succeeded to the throne.  Calmacil, coming to the Kingship in his old age, kept Minalcar in his position as Regent. From then until his father's death in {{TA|1304|n}}, Minalcar ruled in the name of the kings before becoming King in his own right.
+
+As Regent, Minalcar's main concern was the state of the North.  In the wide lands beyond the [[Anduin]] the [[Northmen]] had multiplied.  These people had been shown favour by the Kings in the past but when, in the days of Narmacil I, the [[Easterlings]] resumed their attacks it was discovered that not all of the Northmen adhered to [[Gondor]].  To secure the region, in {{TA|1248}} Minalcar led a great force that defeated a large Easterling army between [[Rhovanion]] and the [[Sea of Rhûn]], and even destroyed their encampments east of the Sea.  Minalcar then took the name Rómendacil or "East-victor".
+
+After his victory Rómendacil fortified the western shore of the Anduin up to the River [[Limlight]], and had the [[Argonath|Pillars of the Argonath]] built above [[Nen Hithoel]].  Seeking to increase Gondor's manpower, Rómendacil brought many Northmen into his service.  To one leader, [[Vidugavia]], who called himself the [[King of Rhovanion]], Rómendacil showed special favour.  He sent his son [[Valacar]] in {{TA|1250}} to live with Vidugavia as Gondor's ambassador.
+
+==Etymology==
+''Minalcar'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it might mean "First Glory" and be a compound of [[minya]] ("first") and [[alcar]] ("glory").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2773104749.html|articlename=Q. ''Minalcar'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+''Rómendacil'' is [[Quenya]]. It means "East-victor".<ref>{{App|Gondor}}, second paragraph</ref> It is a compound of [[rómen]] ("east") and [[-ndacil|-(n)dacil]] ("victor").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-891723029.html|articlename=Q. ''Rómendacil'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | ATA | | | | |ATA=[[Atanatar II]]<br/><small>''{{TA|977|n}} - {{TA|1226|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| | | |}}
+{{familytree | | | NAR | | CAL | | |NAR=[[Narmacil I]]<br/><small>''{{TA|1049|n}} - {{TA|1294|n}}''</small>|CAL=[[Calmacil (King of Gondor)|Calmacil]]<br/><small>''{{TA|1058|n}} - {{TA|1304|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | VID | | ROM | | CAL |VID=[[Vidugavia]]<br/><small>''unknown''</small>|ROM='''RÓMENDACIL II'''<br/><small>''{{TA|1126|n}} - {{TA|1366|n}}''</small>|CAL=[[Calimehtar (son of Calmacil)|Calimehtar]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |:| |}}
+{{familytree | VID |y| VAL | | |:| |VID=[[Vidumavi]]<br/><small>''d. {{TA|1332|n}}''</small>|VAL=[[Valacar]]<br/><small>''{{TA|1194|n}} - {{TA|1432|n}}''</small>}}
+{{familytree | | | |!| | | | | |:| |}}
+{{familytree | | | ELD | | | | CAS |ELD=[[Eldacar (King of Gondor)|Eldacar]]<br/><small>''{{TA|1255|n}} - {{TA|1490|n}}''</small>|CAS=[[Castamir]]<br/><small>''{{TA|1259|n}} - {{TA|1447|n}}''†</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1126}}
+| died={{TA|1366}}
+}}
+{{seq
+| pvac=None
+| prev=Position created
+| list=[[Regent of Gondor]]
+| dates={{TA|1240}} - {{TA|1304|n}}
+| nvac=None
+| next=Became King
+}}
+{{seq
+| prev=[[Calmacil (King of Gondor)|Calmacil]]
+| list=19th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1304}} - {{TA|1366|n}}
+| next=[[Valacar]]
+}}
+{{seq-end}}
+
+{{southernline}}
+{{DEFAULTSORT:Romendacil II}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Rómendacil II.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/romendacil_ii]]
+[[fi:Rómendacil II]]

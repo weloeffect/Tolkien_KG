@@ -1,0 +1,73 @@
+{{disambig-more|Tom|[[Tom (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Tolman Cotton
+| image=Miriam Ellis - Farmer Cotton.png
+| caption=Farmer Cotton - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames="Tom", Farmer Cotton
+| titles=
+| position=[[Farmer]]
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1341}}
+| birthlocation=
+| rule=
+| death={{SR|1440}}
+| deathlocation=
+| age=99
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Holman Cotton]]
+| siblings=[[Wilcome Cotton I|Will]]
+| spouse=[[Lily Brown]]
+| children=[[Tolman Cotton Junior|Tom]], [[Rose Cotton|Rosie]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Tolman "Tom" Cotton''', also known as '''Farmer Cotton''', ([[Third Age]] {{TA|2941|n}} – [[Fourth Age]] {{FoA|19|n}}, aged 99 years) was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Old Tom was a renowned farmer living on [[Bywater]]'s [[South Lane]].<ref name="Scouring">{{RK|Scouring}}</ref> He was married to [[Lily Brown]], and they had five children. [[Tolman Cotton Junior|Young Tom]] was the eldest, and his siblings were [[Rose Cotton|Rosie]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]].<ref name="Gamgee">{{App|Gamgee}}</ref>
+
+Farmer Cotton played an important part in the [[Battle of Bywater]], where he rallied many hobbits to fight [[Sharkey]]'s men.<ref name="Scouring"/>
+
+At some point during the next two years, between [[13 March]] and [[6 October]], Cotton found [[Frodo]] lying ill upon a bed, clutching a white gem in a manner reminiscent of the One Ring.
+
+==Etymology==
+''Tolman'' comes from [[Old English]] ''tōl'' + ''mann'' meaning "tool person".<ref>{{HM|IE}}, "Giving of Names" p. 194</ref> In early phases of writing [[Appendix F]], Farmer Cotton's original [[Westron]] name was given as ''Tomacca Lothran''<ref>{{PM|Languages}}</ref> or (earlier) ''Tomakli Lothron''.<ref>{{PM|Languages}}, note 37.</ref>
+
+==Portrayal in adaptations==
+===Farmer Cotton in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Trading Card Game - Tolman Cotton, Farmer of Bywater.jpg|"Tolman Cotton, Farmer of Bywater" from [[The Lord of the Rings Trading Card Game]]
+File:The Lord of the Rings Online - Tolman Cotton.jpg|Tolman Cotton in ''[[The Lord of the Rings Online]]''
+File:Tomas Duchek - Farmer Cotton.png|''[[The Lord of the Rings: Tales of Middle-earth]]''
+File:Tales of the Shire - Farmer Cotton.png|''[[Tales of the Shire: A "The Lord of the Rings" Game]]''
+</gallery>
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Old Tom joins the four Hobbits as they start a revolt. He was always confident of Frodo and Sam's return. He is played by [[Alan Dudley]].
+
+'''2003: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:The Cottons live at South Lane in Bywater. Tolman lives at number 3 and [[Wilcome Cotton II|his son Wilcome]] at number 5.
+
+'''2001-7: ''[[The Lord of the Rings Trading Card Game]]'': '''
+:A Hobbit with a large pumpkin from ''[[The Lord of the Rings: The Fellowship of the Ring]]'' is identified by [[Decipher]] as being Tolman Cotton.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Tom lives with his family at a farm just north of Bywater and next to the Three Farthing Stone. During the Farmers Faire he can be found at the mushroom tent near the Three Farthing Stone chatting with [[Farmer Maggot]] and [[Hamfast Gamgee]].
+
+{{References}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Farmers]]
+[[Category:Cotton]]
+[[Category:Fourth Age characters]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]

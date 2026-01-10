@@ -1,0 +1,78 @@
+{{disambig-two|the [[Kings of Gondor|King]] of [[Gondor]]|[[Kings of Arnor|King]] of [[Arnor]]|[[Tarondor (King of Arnor)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Tarondor
+| image=Liz Danforth - Tarondor.png
+| caption="Tarondor" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|1577}}
+| birthlocation=
+| rule={{TA|1636}} - {{TA|1798|n}} (162 years)
+| death={{TA|1798}}
+| deathlocation=
+| age=221
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Minastan]]
+| siblings=
+| spouse=
+| children=[[Telumehtar Umbardacil|Telumehtar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tarondor''' ({{TA|1577}}<ref>{{PM|Elendil}}</ref> - {{TA|1798|n}},<ref name="south">{{App|South}}</ref> aged 221 years) was the twenty-seventh [[King of Gondor]].
+
+==History==
+Tarondor became the [[Kings of Gondor|King of Gondor]] when his uncle [[Telemnar]] and all of his children died in the year of the [[Great Plague]], in {{TA|1636}}.<ref name="south"/>  During the plague most of the people of [[Osgiliath]] fled the city for the western dales or the woods of [[Ithilien]]. In {{TA|1640}} Tarondor permanently relocated the [[King's House]] to [[Minas Anor]].  There he planted a seedling of the [[White Tree of Gondor#Third White Tree|White Tree]] in the citadel, and undertook the task of reordering the realm and nursing its strength.  Due to the depopulation of [[Gondor]] the watch on [[Mordor]] ceased.<ref>{{App|Gondor}}</ref><ref>{{App|TA}}</ref>
+
+==Etymology==
+''Tarondor'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "King of Stones" and is a compound of ''[[tar]]'' ("high", "king") and the plural form of ''[[ondo]]'' ("stone").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-426862149.html|articlename=Q. ''Tarondor'' m.|website=Eldamo|accessed=27 January 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | MIN | | | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | TEL | | MIN | | |TEL=[[Telemnar]]<br/><small>''{{TA|1516|n}} - {{TA|1636|n}}''†</small>|MIN=[[Minastan]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| | | |}}
+{{familytree | CHI | | TAR | | |CHI=''children''<br/><small>''unknown''†</small>|TAR='''TARONDOR'''<br/><small>''{{TA|1577|n}} - {{TA|1798|n}}''</small>}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | | | | | TEL | | |TEL=[[Telumehtar Umbardacil|Telumehtar<br/>Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | NAR | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+{{references}}
+
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1577}}
+| died={{TA|1798}}
+}}
+{{seq
+| prev=[[Telemnar]]
+| list=27th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|1636}} - {{TA|1798|n}}
+| next=[[Telumehtar Umbardacil]]
+}}
+{{seq-end}}
+{{southernline}}
+{{title}}
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Tarondor (König von Gondor)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/tarondor]]
+[[fi:Tarondor (Gondorin kuningas)]]

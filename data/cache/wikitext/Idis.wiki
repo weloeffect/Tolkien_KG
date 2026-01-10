@@ -1,0 +1,60 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Idis
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=[[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Théoden]] and [[Elfhild]]
+| siblings=[[Théodred]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Idis''' was the name of [[Théoden|Théoden's]] daughter within an early draft of ''[[The Lord of the Rings]]''.<ref name=Index>{{TI|Index}}, entry ''Idis'', p. 484</ref>
+
+== History ==
+Idis first appeared alongside [[Éowyn]] assisting [[Théoden]] in [[Meduseld]] after [[Gandalf|Gandalf's]] triumph against [[Gríma Wormtongue|Wormtongue]]. When [[Aragorn]] first saw Éowyn in daylight, she was described as being younger than Idis. Later, when Gandalf asks Théoden who will lead Rohan when they depart to war, Théoden chooses Éowyn, his niece, and not Idis, his daughter; despite Idis being present at that very moment. At the meal before Théoden and his Men depart to war, Idis is not mentioned as Éowyn alone brought wine to the meal. At the same meal, [[Háma]] tells Théoden that the [[House of Eorl]] would not die with [[Éomer]], as Idis was Théoden's daughter and Éowyn was Éomer's sister. Háma then stated that "''All love her. Let her be as lord to the Eorlingas, while we are gone''", indicating Éowyn, and Éowyn alone, with Idis never appearing again.<ref name=King>{{TI|King}}, pp. 445, 447</ref>
+
+In a very early draft, Idis was originally named '''''Ælflæd''''', which Christopher Tolkien notes was struck out soon after.<ref name=Note>{{TI|King}}, Notes, note 15, p. 450</ref>
+
+Tolkien eventually discarded Idis when the story of [[Éowyn]] overshadowed her.<ref name=King/>
+
+== Etymology ==
+[[Christopher Tolkien]] has noted that ''Idis'' is similar to the [[Old English]] poetic word ''[[Wiktionary:ides#Old English|ides]]'' ("woman, lady").<ref name=Note/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | THE |y| MOR | | | | | | | | |THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>|MOR=[[Morwen Steelsheen]]<br/><small>''b. {{TA|2922|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|.| | | | | | | |}}
+{{familytree | ELF |y| THE | | DAU | | THW |y| EOM | | |ELF=[[Elfhild]]<br/><small>''d. {{TA|2978|n}}''</small>|THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>|DAU=''three daughters''<br/><small>''unknown''</small>|THW=[[Théodwyn]]<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''</small>|EOM=[[Éomund]]<br/><small>''d. {{TA|3002|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| | | | | | | |,|-|^|-|.| | | |}}
+{{familytree | IDI | | THE | | LOT |y| EOM | | EOW |y| FAR |IDI='''IDIS'''<br/><small>''b. before {{TA|2995|n}}'' - unkown''</small>|THE=[[Théodred]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>|EOW=[[Éowyn]]<br/><small>''b. {{TA|2995|n}} - Between {{FoA|11}} and {{FoA|63|n}}''</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | ELF | | | | | | ELB | |ELF=[[Elfwine]]<br/><small>''unknown''</small>|ELB=[[Elboron]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{References}}
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]

@@ -1,0 +1,59 @@
+{{disambig-more|Lily|[[Lily (disambiguation)]]}}
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Lily Brown
+| image=Miriam Ellis - Mrs. Cotton.png
+| caption=Mrs. Cotton skillfully rocks a happy baby [[Merry Gardner|Merry]] to sleep - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=Mrs. Cotton
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=Early [[Fourth Age]]
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brown Family|Brown]]
+| parentage=
+| siblings=
+| spouse=[[Tolman Cotton Senior|Farmer Cotton]]
+| children=[[Tolman Cotton Junior|Young Tom]], [[Rose Cotton|Rose]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Lily Cotton (née Brown)''' was the wife of [[Tolman Cotton Senior|Farmer Cotton]].
+
+==History==
+Lily married Tolman Cotton of Bywater. Together, they had five children: [[Tolman Cotton Junior|Young Tom]], [[Rose Cotton|Rose]], [[Wilcome Cotton II|Jolly]], [[Bowman Cotton|Nick]] and [[Carl Cotton|Nibs]].<ref>{{App|Gamgee}}</ref> 
+
+==Etymology==
+Like many female hobbits,<ref>{{App|F}}, p. 1135</ref> Lily was named after a [[wikipedia:Lilium|flower]].
+
+==Portrayal in adaptations==
+===Lily Brown in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Tales of the Shire - Lily Cotton.png|''[[Tales of the Shire: A "The Lord of the Rings" Game]]'
+</gallery>
+'''2025: ''[[Tales of the Shire: A "The Lord of the Rings" Game]]'':'''
+:Lily Cotton is an interactive character. She can be invited to meals and, after reaching a milestone, can trade with the player.
+
+{{References}}
+[[Category:Hobbits]]
+[[Category:Brown]]
+[[Category:Cotton]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Lily Hüttinger]]
+[[fi:Lilja Ruska]]
+[[fr:encyclo/personnages/hobbits/brun/lily brun]]

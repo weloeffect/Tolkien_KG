@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Primrose Boffin
+| image=
+| caption=
+| pronun=
+| othernames=Primrose Bracegirdle
+| titles=
+| position=
+| location=[[The Yale]]<br>[[Hardbottle]]
+| affiliation=
+| language=
+| birth={{SR|1265}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Otto Boffin]] and [[Lavender Grubb]]
+| siblings=[[Hugo Boffin|Hugo]], [[Uffo Boffin|Uffo]] and [[Rollo Boffin|Rollo]]
+| spouse=[[Blanco Bracegirdle]]
+| children=[[Bruno Bracegirdle|Bruno]] and [[Lobelia Sackville-Baggins|Lobelia]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Primrose Bracegirdle, née Boffin''' was a Hobbit of [[the Shire]].
+
+==History==
+Primrose was the daughter of [[Otto Boffin]] and [[Lavender Grubb]]. She married [[Blanco Bracegirdle]] and had two children, [[Bruno Bracegirdle|Bruno]] in {{SR|1313}} and [[Lobelia Sackville-Baggins|Lobelia]] in {{SR|1318}}.<ref>{{App|Boffin}}</ref>
+
+==Etymology==
+[[wikipedia:Primula vulgaris|Primrose]] (from Latin ''primula'' and English ''rose'') are plants of the [[wikipedia:primula|primula]] genus of the [[wikipedia:Primulaceae|primrose family]].
+
+{{references}}
+[[Category:Boffin]]
+[[Category:Bracegirdle]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[Category:Greco-Roman names]]
+
+[[de:Primrose Straffgürtel]]
+[[fi:Leinikki Boffin]]
+[[fr:encyclo/personnages/hobbits/bophin/primevere bophin]]

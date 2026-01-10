@@ -1,0 +1,85 @@
+{{disambig-two|the eighth [[Kings of Gondor|King]] of [[Gondor]]|nineteenth King who ruled 800 years later|[[Rómendacil II]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Rómendacil I
+| image=Matěj Čadil - Rómendacil I of Gondor.jpg
+| caption="Rómendacil I of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=''Tarostar''
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|310}}
+| birthlocation=
+| rule={{TA|492}} - {{TA|541|n}} (49 years)
+| death={{TA|541}}
+| deathlocation=
+| age=231
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Ostoher]]
+| siblings=
+| spouse=
+| children=[[Turambar (King of Gondor)|Turambar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rómendacil I''' ({{TA|310}}<ref name="Elendil">{{PM|Elendil}}, manuscript C, The Southern Line of Gondor: the Anarioni, 8. Romendakil I</ref> – {{TA|541|n}},<ref>{{App|South}}, ''Kings of Gondor'', Rómendacil I (Tarostar), p. 1038</ref> aged 231 years) was born '''Tarostar''', the son of [[Ostoher]], the [[King of Gondor]].<ref name="Gondor">{{App|Gondor}}, entry for Kings Ostoher, Tarostar and Turambar, p. 1044</ref> He in turn would become the eighth King of Gondor,<ref>{{App|South}}, ''Kings of Gondor'', p. 1038</ref> ruling for 49 years, from Third Age 492<ref>{{App|South}}, ''Kings of Gondor'', Ostoher, p. 1038</ref> until his untimely death.
+
+==History==
+In {{TA|490}} the first invasion of [[Easterlings]]<ref>{{App|TA}}, entry for the year 490, p. 1085</ref> fell upon [[Gondor]]<ref name="Gondor"/>. Tarostar defeated the invaders in {{TA|500}}<ref>{{App|TA}}, entry for the year 500, p. 1085</ref> and drove them from Gondor<ref name="Gondor"/>. After his victory against the Easterlings Tarostar assumed the name Rómendacil, "East-victor".<ref name="Gondor"/>
+
+After the first assault of the Easterlings, Rómendacil ordered that the "Tradition of Isildur" be set down in a sealed scroll, to be delivered by the [[Steward of Gondor]] to the King's heir before his crowning.<ref>{{UT|Tradition}}</ref>
+
+Rómendacil's triumph did not end the Easterling threat. In {{TA|541}} Rómendacil was killed in a battle<ref>{{App|TA}}, entry for the year 541, p. 1085</ref> against new hordes of Easterlings<ref name="Gondor"/>. His son [[Turambar (King of Gondor)|Turambar]] avenged him and conquered much territory eastwards.<ref name="Gondor"/>
+
+==Etymology==
+''Tarostar'' is [[Quenya]].<ref>{{App|Men}}, footnote, p. 1128</ref> Its meaning is not glossed, but as Paul Strack explains, it might mean "King of the Lands" and be a compound of [[tar]] ("high, king") and the plural form of [[sta]] ("land").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1351380809.html|articlename=Q. ''Tarostar'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+''Rómendacil'' is [[Quenya]]. It means "East-victor".<ref name="Gondor"/> It is a compound of [[rómen]] ("east") and [[-ndacil|-(n)dacil]] ("victor").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-891723029.html|articlename=Q. ''Rómendacil'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | ANA |ANA=[[Anardil (King of Gondor)|Anardil]]<br/><small>''{{TA|136|n}} - {{TA|411|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | OST |OST=[[Ostoher]]<br/><small>''{{TA|222|n}} - {{TA|492|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ROM |ROM='''RÓMENDACIL I'''<br/><small>''{{TA|310|n}} - {{TA|541|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | TUR |TUR=[[Turambar (King of Gondor)|Turambar]]<br/><small>''{{TA|397|n}} - {{TA|667|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ATA |ATA=[[Atanatar I]]<br/><small>''{{TA|480|n}} - {{TA|748|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|310}}
+| died={{TA|541}}
+}}
+{{seq
+| prev=[[Ostoher]]
+| list=8th [[Kings of Gondor|King of Gondor]]
+| dates={{TA|492}} - {{TA|541|n}}
+| next=[[Turambar (King of Gondor)|Turambar]]
+}}
+{{seq-end}}
+{{southernline}}
+{{DEFAULTSORT:Romendacil I}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Rómendacil I.]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/romendacil_ier]]
+[[fi:Rómendacil I]]

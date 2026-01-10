@@ -1,0 +1,64 @@
+__NOTOC__
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Eofor
+| image=Peter Xavier Price - Eofor.jpg
+| caption="Eofor" by [[Peter Xavier Price]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=After {{TA|2544}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Brego]]
+| siblings=[[Baldor]] and [[Aldor]]
+| spouse=
+| children=Unknown; ancestor of [[Éomund]]<ref name=Isen>{{UT|11b}}, footnote relating to Aldburg</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eofor''' was a prince of [[Rohan]].
+
+==History==
+Eofor was the third son of king [[Brego]]. His older brothers were [[Baldor]] and King [[Aldor]]. He lived in the town of [[Aldburg]].<ref name=Isen /> [[Éomund]] was his descendant<ref>{{UT|Isen}}, p. 367.</ref>
+
+==Etymology==
+The name ''Eofor'' is likely to have been borrowed from the [[Old English]] word  ''[[Wiktionary:eofor|eofor]]'' (meaning "boar").<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=http://www.bosworthtoller.com/009469|articlename=EOFOR|accessed=2 November 2016}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | EOR | | | | |EOR=[[Eorl]]<br/><small>''{{TA|2485|n}} - {{TA|2545|n}}''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | BRE | | | | |BRE=[[Brego]]<br/><small>''{{TA|2512|n}} - {{TA|2570|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | BAL | | ALD | | EOF |BAL=[[Baldor]]<br/><small>''d. {{TA|2570|n}}''†</small>|ALD=[[Aldor]]<br/><small>''{{TA|2544|n}} - {{TA|2645|n}}''</small>|EOF='''EOFOR'''<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|(| | | |:| |}}
+{{familytree | DAU | | FRE | | |:| |DAU=''three daughters''<br/><small>''unknown''</small>|FRE=[[Fréa]]<br/><small>''{{TA|2570|n}} - {{TA|2659|n}}''</small>}}
+{{familytree | | | | | |!| | | |:| |}}
+{{familytree | | | | | FRE | | |:| |FRE=[[Fréawine]]<br/><small>''{{TA|2594|n}} - {{TA|2680|n}}''</small>}}
+{{familytree | | | | | | | | | EOM |EOM=[[Éomund]]<br/><small>''d. {{TA|3002|n}}''†</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | EOM |EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>}}
+{{familytree/end}}
+{{references}}
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de: Éofor]]
+[[fi: Eofor]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/eofor]]

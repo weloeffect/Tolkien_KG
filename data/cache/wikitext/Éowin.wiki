@@ -1,0 +1,14 @@
+{{Expansion}}
+''Not to be confused with [[Éowyn]].''
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Éowin
+| birth=[[Third Age]]
+| gender=Male
+}}'''Éowin''' was the [[Second Marshal of the Riddermark|Second Master]] of the [[Rohan|Mark]] on the early stage of ''[[The Lord of the Rings|The Lord of the Ring's]]'' composition process.<ref>{{TI|Riders}}, pp. 393-4</ref> This character was abandoned by [[J.R.R. Tolkien]] and did not remain in the final text of ''The Lord of the Rings''.
+
+{{References}}
+{{DEFAULTSORT:Eowin}}
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]

@@ -1,0 +1,53 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Targon
+| image=The Lord of the Rings Trading Card Game - Targon.jpg
+| caption=Targon from [[The Lord of the Rings Trading Card Game]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Targon''' was a man of [[Gondor]] during the [[War of the Ring]].
+
+==History==
+Targon worked at the storehouse and buttery for the [[Guards of the Citadel]] in [[Minas Tirith]]. On the morning of [[9 March]], {{TA|3019}}<ref>{{App|Great}}</ref> he gave [[Beregond]] and [[Peregrin Took]] food and drink for a picnic.<ref>{{RK|V1}}</ref>
+
+==Portrayal in adaptations==
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:A Decipher card identifies one of the Gondorians riding with [[Faramir]] in ''[[The Lord of the Rings: The Return of the King]]'' as Targon.
+
+[[File:The Lord of the Rings Online - Targon.jpg|thumb|150px|left|Targon in ''[[The Lord of the Rings Online]]'']]
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Targon can be found on the sixth level of the pre-battle [[Minas Tirith]]. He has no lines and plays no role in the storyline.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+
+[[de:Targon]]
+[[fi:Targon]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/targon]]

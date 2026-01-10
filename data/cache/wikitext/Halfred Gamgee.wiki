@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Halfred Gamgee
+| image=Miriam Ellis - Halfred.png
+| caption=Halfred - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]<br/>[[Northfarthing]]
+| affiliation=
+| language=
+| birth={{SR|1369}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Gamgee Family|Gamgee]]
+| parentage=[[Gaffer Gamgee]] and [[Bell Goodchild]]
+| siblings=[[Hamson Gamgee|Hamson]], [[Daisy Gamgee|Daisy]], [[May Gamgee|May]], [[Samwise Gamgee|Samwise]] and [[Marigold Gamgee|Marigold]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Halfred Gamgee''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Halfred was the second son of [[Gaffer Gamgee|Hamfast Gamgee]]. He moved to the [[Northfarthing]].<ref>{{App|Gamgee}}</ref> 
+
+==Etymology==
+The name comes from [[Old English]] ''healfrēad'' "half-red, reddish" or from ''healfrǣd'' "half counsel".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', Giving of names</ref>
+{{references}}
+
+
+[[Category:Hobbits]] [[Category:Gamgee]]
+[[Category:Third Age characters]]
+
+[[de:Halfred Gamdschie (Sohn von Hamfast)]]
+[[fi:Halfred Gamgi]]
+[[fr:encyclo:personnages:hobbits:gamegie:halfred gamegie 2]]

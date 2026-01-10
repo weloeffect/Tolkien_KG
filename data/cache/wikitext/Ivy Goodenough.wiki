@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ivy Goodenough
+| image=
+| caption=
+| pronun=
+| othernames=Ivy Boffin
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Goodenough Family|Goodenough]]
+| parentage=
+| siblings=
+| spouse=[[Buffo Boffin]]
+| children=[[Bosco Boffin|Bosco]], [[Basso Boffin|Basso]], [[Briffo Boffin|Briffo]] and [[Berylla Baggins|Berylla]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ivy Boffin, née Goodenough''', was a Hobbit of [[the Shire]].
+
+==History==
+Ivy was the wife of [[Buffo Boffin]] and mother of [[Bosco Boffin|Bosco]] ({{SR|1167}}-{{SR|1258}}), [[Basso Boffin|Basso]] (born {{SR|1169}}), [[Briffo Boffin|Briffo]] (born {{SR|1170}}), and [[Berylla Baggins|Berylla]] (born {{SR|1172}}).<ref>{{App|Boffin}}</ref>
+
+{{references}}
+
+[[Category:Goodenough]]
+[[Category:Boffin]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/goodenough/ivy goodenough]]

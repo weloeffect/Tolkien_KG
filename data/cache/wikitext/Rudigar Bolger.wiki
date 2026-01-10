@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Rudigar Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[the Shire]]
+| affiliation=
+| language=
+| birth={{SR|1255}}
+| birthlocation=
+| rule=
+| death={{SR|1348}}
+| deathlocation=
+| age=93
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Adalgar Bolger]]
+| siblings=[[Rudibert Bolger|Rudibert]] and [[Ruby Bolger|Ruby]]
+| spouse=[[Belba Baggins]]
+| children=[[Herugar Bolger|Herugar]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Rudigar Bolger''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+The son of [[Adalgar Bolger]] and husband of [[Belba Baggins]], Rudigar became head of the [[Bolger Family]] as the eldest heir. He had one son, [[Herugar Bolger|Herugar]].<ref>{{App|Bolger}}</ref>
+
+==Etymology==
+The name contains ''hrod'' "fame" and ''gar'' "spear".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref> It is the Middle High German form of Old English ''[[wikipedia:Hrothgar|Hrothgar]]'' and modern ''Roger''.
+
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Bolger]]
+[[Category:Third Age characters]]
+
+[[de:Rudigar Bolger]]
+[[fi:Rudigar Bolger]]
+[[fr:encyclo/personnages/hobbits/bolger/rudigar bolger]]

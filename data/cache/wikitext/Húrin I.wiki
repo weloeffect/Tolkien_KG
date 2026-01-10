@@ -1,0 +1,82 @@
+{{short description|5th Steward of Gondor}}
+{{disambig-more|Húrin|[[Húrin (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Húrin I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2124}}
+| birthlocation=
+| rule={{TA|2204}} - {{TA|2244}} (40 years)
+| death={{TA|2244}}
+| deathlocation=
+| age=120
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Belegorn]]
+| siblings=
+| spouse=
+| children=2 daughters,<ref name="Elendil">{{PM|Elendil}}, p. 204</ref> [[Túrin I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Húrin I''' ([[Third Age]] {{TA|2124|n}}<ref name="Elendil"/> – {{TA|2244|n}},<ref name="South">{{App|South}}</ref> aged 120 years) was the fifth [[Ruling Steward]] of Gondor.
+
+==History==
+Húrin was one of the Stewards during the [[Watchful Peace]], when [[Sauron]] was in the [[East]] and the [[Nazgûl]] occupied [[Minas Morgul]].<ref>{{App|TA}}</ref>
+
+Húrin ruled as Steward for forty years, and was succeeded by his son, who became [[Túrin I]].<ref name="South"/>
+
+==Etymology==
+For the meaning of his name refer to [[Húrin of Emyn Arnen#Etymology|Húrin of Emyn Arnen - Etymology]]. Húrin I was probably named after [[Húrin|Húrin Thalion]], one of the heroes of the [[Edain]] in the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref><ref>{{PM|Elendil}}, p. 203</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HER | | | | |HER=[[Herion]]<br/><small>''{{TA|2037|n}} - {{TA|2148|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | BEL | | | | |BEL=[[Belegorn]]<br/><small>''{{TA|2074|n}} - {{TA|2204|n}}''</small>}}
+{{familytree | | | |!| | | | | |}}
+{{familytree | | | HUR | | | | |HUR='''HÚRIN I'''<br/><small>''{{TA|2124|n}} - {{TA|2244|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | DAU | | TUR | | |DAU=''two daughters''<br/><small>''unknown''</small>|TUR=[[Túrin I]]<br/><small>''{{TA|2165|n}} - {{TA|2278|n}}''</small>}}
+{{familytree | | | |,|-|^|-|.| |}}
+{{familytree | | | DAU | | HAD |DAU=''several daughters''<br/><small>''unknown''</small>|HAD=[[Hador (Steward of Gondor)|Hador]]<br/><small>''{{TA|2245|n}} - {{TA|2395|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2124}}
+| died={{TA|2244}}}}
+{{seq
+| prev=[[Belegorn]]
+| list=5th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2204}} - {{TA|2244}}
+| next=[[Túrin I]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+{{DEFAULTSORT:Hurin I}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Húrin I.]]
+[[fi:Húrin I]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:hurin ier]]

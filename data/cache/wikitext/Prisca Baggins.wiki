@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Prisca Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1306}}
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Polo Baggins]]
+| siblings=[[Posco Baggins|Posco]]
+| spouse=[[Wilibald Bolger]]
+| children=[[Wilimar Bolger|Wilimar]], [[Heribald Bolger|Heribald]] and [[Nora Bolger|Nora]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Prisca Bolger, née Baggins''', was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Prisca was the second child and daughter of [[Polo Baggins]].<ref>{{App|Baggins}}</ref> She married [[Wilibald Bolger]], and had several children: [[Wilimar Bolger|Wilimar]], [[Heribald Bolger|Heribald]] and [[Nora Bolger|Nora]]. Her husband passed away before {{SR|1401}}, but she attended [[Bilbo's Farewell Party]] with her children.<ref>{{App|Bolger|50}}</ref>
+
+==Etymology==
+''Prisca'' is a Latin/Italian word meaning "former, old" from which derives the name [[Priscilla Tolkien|Priscilla]].<ref>http://en.wiktionary.org/wiki/Priscilla</ref>
+==Other versions of the legendarium==
+[[The Lord of the Rings (50th Anniversary Edition)|The 50th Anniversary edition of ''The Lord of the Rings'']] includes Prisca as a guest at the Farewell Party.<ref>{{App|Baggins|50}}</ref> In older editions of [[Appendix C]], Prisca is not marked as an attendee. [[Robert Foster]] in his ''[[The Complete Guide to Middle-earth]]'' thus states that Prisca died ''before'' {{TA|3001}}.<ref>{{HM|Guide}}, entry "Prisca Baggins"</ref>
+{{references}}
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Bolger]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Prisca Bolger]]
+[[fi:Prisca Reppuli]]
+[[fr:encyclo/personnages/hobbits/sacquet/prisca sacquet]]
+__NOTOC__

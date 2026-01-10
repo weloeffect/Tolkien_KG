@@ -1,0 +1,89 @@
+{{disambig-two|the King of Durin's Folk|successor of [[Thorin|Thorin II Oakenshield]]|[[Dáin Ironfoot|Dáin II Ironfoot]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Dáin I
+| image=Jack Dullahan - Dain I The last king of the Grey mountains.jpg
+| caption="The last king of the Grey mountains" by [[:Category:Images by Jack Dullahan|Jack Dullahan]]
+| pronun=
+| othernames=
+| titles=[[King of Durin's Folk]]
+| position=
+| location=[[Grey Mountains]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2440}}<ref name="Dain">{{App|Durin}}, p. 1079</ref>
+| birthlocation=
+| rule={{TA|2585}} - {{TA|2589|n}}<ref name="Dain"/><ref group=note>The date of {{TA|2585}} is the year in which Dáin's father and previous King, [[Náin II]], died.</ref>
+| death={{TA|2589}}<ref name="Dain"/> (aged 149)
+| deathlocation=[[Dáin's halls]] ([[Grey Mountains]])
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Náin II]]
+| siblings=[[Borin]]
+| spouse=
+| children=[[Thrór]]<br />[[Frór]]<br />[[Grór]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Dáin I''' was the King of [[Durin's folk]] in the [[Dwarves of the Grey Mountains|Grey Mountains]].<ref name="Durin">{{App|Durin}}, p. 1072</ref>
+
+== History ==
+Dáin was the son of King [[Náin II]], and he had a younger brother [[Borin]]. He had three children: [[Thrór]], [[Frór]], and [[Grór]].
+
+Dáin flourished during the period when the [[House of Durin]] was seated in the [[Grey Mountains]]. He succeeded his father when the [[Dragons]] of the north had declared [[War of the Dwarves and Dragons|war against]] the [[Dwarves of the Grey Mountains]]. Dáin ruled his people for only four years, who were troubled by increasing attacks on his [[Dáin's Halls|halls]] until he met his premature end when both he and his second son, Frór, were killed by a great [[Cold-drakes|cold-drake]] at the gates of his hall. 
+
+After his death, his sons Thrór and Grór led most of the [[Dwarves]] of Durin's folk east. Thrór, along with Borin his uncle, led [[Dwarves of Erebor|one group]] back to the [[Lonely Mountain]], while Grór founded [[Dwarves of the Iron Hills|his own realm]] in the [[Iron Hills]].<ref name="Durin"/>
+
+== Etymology ==
+{{Pronounce|Dain.mp3|Ardamir}}
+''Dáinn'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. His name most likely means "Deadlike".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | | | | | | OIN | | | | | | | | |OIN=[[Óin (King of Durin's Folk)|Óin]]<br/><small>''{{TA|2238|n}} - {{TA|2488|n}}''</small>}}
+{{familytree| | | | | | | | | | |!| | | | | | | | | |}}
+{{familytree| | | | | | | | | | NAI | | | | | | | | |NAI=[[Náin II]]<br/>''<small>{{TA|2338|n}} - {{TA|2585|n}}</small>''}}
+{{familytree| | | | | | |,|-|-|-|^|-|-|-|.| | | | | |}}
+{{familytree| | | | | | DAI | | | | | | BOR | | | | |DAI='''DÁIN I'''<br/><small>''{{TA|2440|n}} - {{TA|2589|n}}''†</small>| BOR=[[Borin]]<br/>''<small>{{TA|2450|n}} - {{TA|2711|n}}</small>''}}
+{{familytree| | |,|-|-|-|+|-|-|-|.| | | |!| | | | | |}}
+{{familytree| | THR | | FRO | | GRO | | FAR | | | | |THR=[[Thrór]]<br/><small>''{{TA|2542|n}} - {{TA|2790|n}}''†</small>|FRO=[[Frór]]<br/><small>''{{TA|2552|n}} - {{TA|2589|n}}''†</small>|GRO=[[Grór]]<br/>''<small>{{TA|2563|n}} - {{TA|2805|n}}</small>''|FAR=[[Farin]]<br/>''<small>{{TA|2560|n}} - {{TA|2803|n}}</small>''}}
+{{familytree| | |!| | | | | | | |!| | | |)|-|-|-|.| |}}
+{{familytree| | THR | | | | | | NAI | | FUN | | GRO |THR=[[Thráin|Thráin II]]<br/><small>''{{TA|2644|n}} - {{TA|2850|n}}''†</small>|NAI=[[Náin (son of Grór)|Náin]]<br/><small>''{{TA|2665|n}} - {{TA|2799|n}}''†</small>|FUN=[[Fundin]]<br/><small>''{{TA|2662|n}} - {{TA|2799|n}}''†</small>|GRO=[[Gróin]]<br/><small>''{{TA|2671|n}} - {{TA|2923|n}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+{{expansion}}
+
+{{references|notes}}
+{{DEFAULTSORT:Dain I}}
+
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[Durin's Folk|House of Durin]]
+| born={{TA|2440}}
+| died={{TA|2589}}}}
+{{seq
+| prev=[[Náin II]]
+| list=[[Kings of Durin's Folk|King of Durin's Folk]]
+| dates={{TA|2585}} – {{TA|2589|n}}
+| next=[[Thrór]]
+}}
+{{seq-end}}
+
+{{durinskings}}
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Dáin I.]]
+[[fi:Dáin I]]
+[[fr:encyclo:personnages:nains:3a:dain ier]]

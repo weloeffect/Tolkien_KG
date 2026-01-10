@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Frár
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Lonely Mountain]]<br/>[[Moria]]
+| affiliation=[[Balin's Colony]]
+| language=[[Khuzdul]]
+| birth=
+| birthlocation=
+| rule=
+| death=After [[10 November]] {{TA|2994}}
+| deathlocation=[[Battle of the Second Hall]], [[Moria]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Frár''' was a [[Dwarves of Erebor|dwarf of Erebor]].
+
+== History ==
+Frár was part of [[Balin's Colony]] to reclaim [[Moria]]. Their mission at first seemed successful, and [[Balin]] went so far as to claim the title [[Lord of Moria]]. This all changed in their fifth year there. On November 10, the [[Orcs]] came up the [[Silverlode]] and killed Balin while he was alone, and unaware and looking into [[Mirrormere]]. The Dwarves fought back but  eventually lost [[East-gate]] and [[First Hall]]. 
+The Orcs made it across the [[Bridge of Khazad-dûm]] and there was a [[Battle of the Second Hall|battle in the Second Hall]], and Frár and his companions [[Lóni]] and [[Náli]] died bravely while the rest of the colonists retreated.<ref>{{FR|Bridge}}</ref>
+
+== Etymology ==
+''Frár'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. His name most likely means "swift".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+{{references}}
+{{DEFAULTSORT:Frar}}
+[[Category:Dwarves]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Frár]]
+[[fi:Frár]]
+[[fr:encyclo/personnages/nains/3a/frar]]

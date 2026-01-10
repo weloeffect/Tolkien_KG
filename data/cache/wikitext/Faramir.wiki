@@ -1,0 +1,171 @@
+{{disambig-more|Faramir|[[Faramir (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Faramir
+| image=Anke Eißmann - Faramir.jpg
+| caption="Faramir" by [[Anke Eißmann]]
+| pronun=
+| othernames=
+| titles=[[Steward of Gondor]], [[Prince of Ithilien]], [[Lord of Emyn Arnen]]
+| position=[[Captain of Gondor]]<br>[[Captain of the White Tower]]
+| location=[[Ithilien]], [[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2983}}
+| birthlocation=
+| rule={{TA|3019}} - {{FoA|82}} (84 years)
+| death={{FoA|82}}
+| deathlocation=
+| age=120
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Denethor|Denethor II]] and [[Finduilas (wife of Denethor)|Finduilas]]
+| siblings=[[Boromir]]
+| spouse=[[Éowyn]]
+| children=[[Elboron]]<ref name="Elboron">{{PM|Elendil}}, p. 221</ref>
+| gender=Male
+| height=Tall<ref name="Herbs">{{TT|Herbs}}</ref>
+| hair=Raven<ref name="Steward">{{RK|Steward}}</ref>
+| eyes=Grey<ref name="Window"/>
+| clothing=Green gauntlets, green hood and mask, green and brown clothing<ref name="Herbs"/>
+| weapons=Sword,<ref name="Herbs"/> nail-knife,<ref name="Forbidden">{{TT|Pool}}</ref>
+| steed=
+}}
+{{quote|[Faramir] is bold, more bold than many deem; for in these days men are slow to believe that a captain can be wise and learned in the scrolls of lore and song, as he is, and yet a man of hardihood and swift judgement in the field. But such is Faramir. Less reckless and eager than [[Boromir]], but not less resolute.|[[Beregond]] in ''[[The Return of the King]]'', "[[Minas Tirith]]"}}
+'''Faramir''' was the last [[Ruling Steward|Ruling]] [[Stewards of Gondor|Steward of Gondor]] and the first [[Prince of Ithilien]]. 
+
+The second of [[Denethor]]'s two sons, Faramir was briefly the [[Ruling Steward]] after his father's death. Upon the arrival of the true king, King [[Aragorn|Aragorn Elessar]], he laid down his office, but Elessar renewed the hereditary appointment of Steward as the advisor to the King. Faramir was also appointed Prince of Ithilien.<ref name="Elendil">{{PM|Elendil}}, p. 207</ref>
+
+==History==
+Faramir was born in {{TA|2983}}, five years after [[Boromir]]. Faramir was five when his mother [[Finduilas (wife of Denethor)|Finduilas]] died. When that happened, Boromir and Faramir formed a great bond with each other. 
+[[File:Catherine Chmiel - Brothers study.jpg|left|thumb|''Brothers study'' by Catherine Chmiel]]
+He grew to become a brave warrior admired by his soldiers, although unlike his brother, he did not care much for battle and arms and needless danger. He gained from the wisdom of [[Gandalf]] who visited [[Minas Tirith]], and loved lore and music; his gentle nature (and love of Gandalf) displeased his father. Although Denethor grew cold and grim and favoured Boromir over him, there was no rivalry between the brothers; Boromir was always his helper and protector.<ref name="stew">{{App|Stewards}}</ref>
+
+Twice Faramir had a [[Seek for the Sword that was broken|prophetic dream]] and didn't speak about it, until he saw it again with his brother. [[20 June|The following day]] saw [[Sauron's attack on Osgiliath]] which started the [[War of the Ring]]. The two brothers commanded the defences of [[Osgiliath]]. They protected the last bridge across the [[Anduin]] until it was destroyed. Only the two brothers and two others survived by swimming.<ref name="council">{{FR|Council}}</ref>
+
+Seeking clues for the dream, Boromir set out for [[Rivendell]].<ref name="council" /> Faramir never heard from his brother again, until the [[Great Horn]] was heard in Minas Tirith, and a few days later he saw Boromir dead in a funeral boat, prepared by [[Fellowship of the Ring|his companions]], floating the Anduin.<ref name="appB">{{App|Great}}</ref>
+
+On [[1 March]], his father sent him for an errand to Ithilien where Faramir went to command the [[Rangers of Ithilien]].<ref name="appB" />
+===In Ithilien===
+[[File:John Howe - Faramir 02.jpg|thumb|left|''Faramir'' by [[John Howe]]]]
+Faramir acted as a ranger harassing [[Haradrim]] and keeping evil things from entering Ithilien from [[Minas Morgul]]. During one such raid he found [[Frodo Baggins]], [[Samwise Gamgee]] and [[Gollum]] observing an attack by his rangers on a column of [[Haradrim]]. The former two were captured as spies by the rangers though Gollum eluded them. Frodo was questioned by Faramir concerning their errand. Frodo recounted the journeys of the Fellowship and its members but referred to the [[Quest of the Ring|purpose]] of the travels only cryptically. During the questioning he denied knowledge of Gollum but revealed that he travelled with both Aragorn, the [[Heir of Isildur]], and Boromir.<ref>{{TT|IV4}}</ref>
+[[File:Ted Nasmith - The Window on the West.jpg|thumb|''The Window on the West'' by [[Ted Nasmith]]]]
+Faramir informed Frodo of Boromir's death, implying Frodo's involvement in it, though Frodo had not known of Boromir's death until that very moment. Unsure of how to deal with his captives, Faramir led Frodo and Sam, blindfolded, to [[Henneth Annûn]]. There he questioned them further in private, learning that the hobbits' errand was linked to the 'Isildur's bane' that had sent Boromir to Rivendell in the first place. Eager to earn their trust Faramir delivered his famous oath, saying that he "...would not take this thing, if it lay by the highway. Not were Minas Tirith falling in ruin and I alone could save her, so, using the weapon of the Dark Lord for her good and my glory. No, I do not wish for such triumphs". In a slip up however Samwise revealed the nature of 'Isildur's bane' and so Faramir was tested, just as Boromir had been, by the lure of [[The One Ring|The Ring]]. Where Boromir failed Faramir succeeded, leading Samwise to remark that Faramir had "shown [his] quality".<ref>{{TT|IV5}}</ref>
+
+During the night, Faramir's watch spotted Gollum fishing in the Forbidden Pool. Faramir called Frodo to him who confessed to the part of Gollum in their errand, begging Faramir not to slay him. Gollum was caught and questioned and then surrendered to Frodo. [[8 March|The following morning]]<ref name="appB" /> Faramir released Frodo and Sam (with Gollum), but warned them strongly against taking the pass of [[Cirith Ungol]].<ref>{{TT|IV6}}</ref> Faramir with his men also left the refuge [[9 March|the next day]].<ref name="appB" />
+
+===In Pelennor/Minas Tirith===
+Faramir returned to Osgiliath, supervising the defence there. However he retreated over the [[Pelennor Fields]] to report to Denethor on [[10 March]]<ref name="appB" /> and was almost caught by the [[Nazgûl]] on their [[Fell beasts]], but was saved by Gandalf. Faramir reached Minas Tirith, telling Denethor and Gandalf of what befell in Ithilien, but [[11 March|the next day]] he departed to Osgiliath<ref name="appB" /> to supervise the defences at his father's bidding. In this venture the host of the [[Witch-king]] came upon Osgiliath and on [[12 March]] Faramir retreated to the [[Causeway Forts]].<ref name="appB" /> He was struck down by the [[Black Breath]] and only a sortie by [[Imrahil]] and his knights saved the wounded (including Faramir) from that onset and on [[13 March]] they were brought to Minas Tirith.<ref name="appB" /><ref>{{RK|V4}}</ref>
+[[File:Ted Nasmith - The Sun Unveiled.jpg|thumb|''The Sun Unveiled'' by [[Ted Nasmith]]]]
+Faramir remained out of action for the rest of the War of the Ring. During the [[Battle of the Pelennor Fields]] Denethor planned to burn his stricken son alongside him and Faramir was once again saved by Gandalf, though Denethor completed his suicide.<ref>{{RK|V7}}</ref> After this he was taken to the [[Houses of Healing]] and healed by Aragorn after the battle.<ref>{{RK|V8}}</ref> Faramir spent the rest of the war recovering in the Houses of Healing where he met [[Éowyn]], also grievously wounded.<ref name="RK|VI5">{{RK|VI5}}</ref> The two fell in love and were married after the war.<ref>{{RK|VI6}}</ref>
+
+===After the War of the Ring===
+After the destruction of the One Ring and the [[Battle of the Morannon]], Faramir, as Steward, led the ceremony in the crowning of Aragorn as King of Gondor and Arnor.<ref name="RK|VI5"/> Aragorn reinstated the original role of the [[Stewards of Gondor|Stewards]] before the failing of the [[Kings of Gondor]] and made Faramir the Prince of Ithilien. As Prince of Ithilien, Faramir was one of the two Chief Commanders of King Elessar and his duty was to guard and maintain the eastern borders of Gondor. He also defeated the remaining enemies and cleansed the [[Morgul Vale]].
+
+Faramir and Éowyn settled down in [[Emyn Arnen]], a range of hills in Ithilien in sight of Minas Tirith, and Faramir became the [[Lord of Emyn Arnen]]. He and Éowyn had at least one son named [[Elboron]],<ref name="Elboron" /> who followed his father as Steward and Prince of Ithilien when Faramir died in the year {{FoA|82}}. Faramir lived to be 120 years old, due to the large percentage of pure [[Dúnedain]] ancestry he possessed as a member of the Gondorian nobility.<ref>{{App|South}}</ref>
+
+==Etymology==
+''Faramir'' is never glossed, and neither is indicated if it is [[Quenya]] or [[Sindarin]].
+
+As all the Kings of Gondor and their heirs had names in Quenya,<ref>{{App|F1ii}}</ref> and the name is also attested as a name of the royal family (in the case of [[Faramir (son of Ondoher)|Faramir]] son of [[Ondoher]]) the name apparently is Quenya.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | PRI | | | | | | STE | | | | | | | | |PRI=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]|STE=[[Ruling Steward|''Ruling Stewards<br/>of Gondor'']]}}
+{{familytree | | | | | |:| | | | | | | |:| | | | | | | | | |}}
+{{familytree | | | | | ADR | | | | | | ECT | | | | | | ROH |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>|ECT=[[Ecthelion II]]<br/><small>''{{TA|2886|n}} - {{TA|2984|n}}''</small>|ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |!| | | | | | | |:| |}}
+{{familytree | IVR | | IMR | | FIN |y| DEN | | EOM |y| THE |IVR=[[Ivriniel]]<br/><small>''b. {{TA|2947|n}}''</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>|FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|EOM=[[Éomund]]<br/><small>''d. {{TA|3002|n}}''†</small>|THE=[[Théodwyn]]<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''†</small>}}
+{{familytree | | | | | | | | | | | |)|-|-|-|.| | | |!| | | |}}
+{{familytree | | | | | | | | | | | BOR | | FAR |y| EOW | | |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR='''FARAMIR'''<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>|EOW=[[Éowyn]]<br/><small>''b. {{TA|2995|n}}''</small>}}
+{{familytree | | | | | | | | | | | | | | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | | | | | ELB | | | | |ELB=[[Elboron]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | | | | | | | | | | | | | |:| | | | | |}}
+{{familytree | | | | | | | | | | | | | | | | | ELB | | | | |ELB=[[Barahir (grandson of Faramir)|Barahir]]<br/><small>''unknown''</small><br/><ref group="note">It is not certain that Barahir was the son of Elboron.</ref>}}
+{{familytree/end}}
+
+==Inspiration==
+Faramir was, in the words of Tolkien, "modest, fair-minded and scrupulously just, and very merciful".<ref>{{L|244}}</ref> His appearance toward the end of ''[[The Two Towers]]'' apparently was as much of a surprise to Tolkien as it is to his readers. "I am sure I did not invent him," he wrote. "I did not even want him, though I like him".<ref>{{L|66}}</ref> 
+
+Faramir in many ways speaks for Tolkien, who was an officer in the British Army during [[World War I]], when he says, for example, "I do not love the bright sword for its sharpness... I love only that which they defend".<ref name="Window">{{TT|Window}}</ref> Much later, Tolkien would write, "As far as any character is 'like me', it is Faramir".<ref>{{L|180}}</ref>
+
+==Portrayal in adaptations==
+===Faramir in Adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:War in Middle Earth - Faramir.png|Faramir in ''[[J.R.R. Tolkien's War in Middle Earth]]''
+File:The Return of the King (1980 film) - Faramir2.jpg|Faramir (presumably) in [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]
+File:The Lord of the Rings (film series) - Faramir.jpg|Faramir in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+File:The Lord of the Rings Online - Faramir.jpg|Faramir in ''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''1980: [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]:'''
+:Faramir's role has been omitted. However, a young black-haired man is shown at Aragorn's coronation, sitting on a horse beside Éowyn. It can be guessed that this is a cameo of Faramir. Whether he had at any time a larger part, that was cut for time restraints, is unknown.
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Faramir is voiced by [[Andrew Seear]]. Because Boromir already named him during the Council of Elrond - in the book, he is simply called "my brother" - much of the mystery surrounding Faramir's first appearance is lost to the attentive listener. His flight from the Nazgûl across the Pelennor is also omitted. However, unlike some adaptations Faramir's recovery in the Houses of Healing and his budding romance with Éowyn are included, as is his role at Aragorn's coronation.
+
+'''1988: ''[[J.R.R. Tolkien's War in Middle Earth]]'':'''
+:Faramir is portrayed as a blond, bearded man. He can be controlled by the player.
+
+'''1992: [[Der Herr der Ringe (1992 German radio series)|''Der Herr der Ringe'' (1992 German radio series)]]:'''
+:Faramir is played by Friedhelm Ptok.
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:[[David Wenham]] plays Faramir in this adaptation. He does not at first let Frodo, Sam, and Gollum go, but decides to bring them and the Ring to Gondor. He takes them west to Osgiliath, crossing the river Anduin, and not until the Ringwraiths attack the city does he release them. Many fans of the book criticise this change, saying that it seriously damages the character, who is meant to emulate the medieval chivalric code and contrast with Boromir. [[Peter Jackson]]'s explanation is that he needed another adventure to delay Frodo and Sam, because the episode at Cirith Ungol was moved to the third movie, and so a new climax was needed. Another explanation often cited is that it was felt that for dramatic reasons it was necessary to show character ''development'', which meant that Faramir had to go through some kind of struggle or difficult decision. Jackson also argued that it was necessary for Faramir to be tempted by the Ring because everyone else was tempted, and letting Faramir be immune would be inconsistent, at least in the eyes of a film audience, and would weaken the films' portrayal of the Ring. However, despite these comments, Aragorn still resists the Ring easily at the end of the first movie, which acts as a contradiction to Jackson's claim.
+
+:In the [[The Lord of the Rings: The Two Towers (extended edition)|Extended Edition]], Jackson has included a flashback scene showing that Denethor has been neglecting him and favouring Boromir, so that Faramir wanted to please his father by bringing him the Ring. The relationship is similarly strained in the books, but there his father's favouritism does not seem to affect his decisions in Ithilien. On the whole, however, new Extended Edition scenes with Faramir brought the character closer to the sympathetic treatment of the books.
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Faramir's role in this film is largely faithful to that in the book.
+
+'''2002-2003: [[Pán prsteňov (2001-2003 Slovak radio series)|''Pán prsteňov'' (2001-2003 Slovak radio series)]]:'''
+:The voice of Faramir is provided by Jozef Vajda. The same actor also portrayed Faramir's brother Boromir earlier in the radio series.
+
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Faramir's role in the War of the Ring is relatively minor in the game, as by the time the player reaches Minas Tirith Faramir has already been wounded and lies in a fever. His first prominent appearance is not until King Elessar's coronation. Afterwards, Aragorn charges the Steward and the Rangers of Ithilien with cleansing the evil of Minas Morgul and the Morgul Vale. Faramir leads the Rangers to establish several camps outside the dead city. Eventually he joins [[Damrod]]'s team inside the walls Minas Morgul itself, working to combat the evil on the upper levels of the city.
+
+{{notes}}
+{{references}}
+{{seq-start}}
+{{seq-head
+| race= gondorian
+| house= [[House of Húrin]]
+| born={{TA|2983}}
+| died={{FoA|82}}
+}}
+{{seq
+| prev=[[Denethor|Denethor II]]
+| list=27th [[Ruling Steward|Ruling Steward of Gondor]] (''de jure'')
+| dates=[[15 March]] - [[1 May]], {{TA|3019}}
+| next=Position abolished
+| nvac=None
+}}
+{{seq
+| pvac=Vacant
+| prev=[[Mardil|Mardil Voronwë]], 969 years earlier
+| list=[[Steward of Gondor|Steward to the King of Gondor]]
+| dates=[[1 May]], {{TA|3019}} - {{FoA|82}}
+| next=[[Elboron]]
+| nrow=2
+}}
+{{seq
+| pvac=None
+| prev=New title
+| list=[[Prince of Ithilien]]
+| dates=[[1 May]], {{TA|3019}} - {{FoA|82}}
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+{{lordoftheringsfilms}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Fourth Age characters]]
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Rangers]]
+[[Category:Ruling stewards]]
+[[Category:Sindarin names]]
+[[Category:Stewards]]
+[[Category:Third Age characters]]
+[[de:Faramir (Sohn von Denethor II.)]]
+[[fi:Faramir]]

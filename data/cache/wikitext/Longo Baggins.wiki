@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Longo Baggins
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1260}}
+| birthlocation=
+| rule=
+| death={{SR|1350}}
+| deathlocation=
+| age=90
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Mungo Baggins]] and [[Laura Grubb]]
+| siblings=[[Bungo Baggins|Bungo]], [[Belba Baggins|Belba]], [[Linda Baggins|Linda]] and [[Bingo Baggins|Bingo]]
+| spouse=[[Camellia Sackville]]
+| children=[[Otho Sackville-Baggins]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Longo Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Longo was the third child and second son of [[Mungo Baggins]] and [[Laura Grubb]]. He married [[Camellia Sackville]], the daughter of the [[Sackville Family]] patriarch.<ref>{{L|214}}</ref> In {{SR|1310}}, their son [[Otho Sackville-Baggins]] was born.<ref>{{App|Baggins}}</ref>
+
+{{references}}
+
+[[Category:Baggins]][[Category:Hobbits]][[Category:Sackville-Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Longo Beutlin]]
+[[fi:Longo Reppuli]]
+[[fr:encyclo/personnages/hobbits/bessac/longo bessac]]

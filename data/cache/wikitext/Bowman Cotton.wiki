@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bowman Cotton
+| image=Miriam Ellis - Nick and Jolly.png
+| caption=Nick and [[Wilcome Cotton II|Jolly]] - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames="Nick"
+| titles=
+| position=
+| location=[[Bywater]]
+| affiliation=
+| language=
+| birth={{SR|1386}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Cotton Family|Cotton]]
+| parentage=[[Farmer Cotton]] and [[Lily Brown]]
+| siblings=[[Tolman Cotton Junior|Tom]], [[Rose Cotton|Rosie]], [[Wilcome Cotton II|Jolly]] and [[Carl Cotton|Nibs]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bowman "Nick" Cotton''' was the fourth child of Farmer [[Tolman Cotton Senior|Tom Cotton]].<ref>{{App|Gamgee}}</ref>
+
+==History==
+With his father and his brothers, Nick fought in the [[Battle of Bywater]] against [[Saruman|Sharkey]]'s [[ruffians]].<ref>{{RK|Scouring}}</ref>
+
+==Portrayal in adaptations==
+===Bowman Cotton in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Lord of the Rings Online - Bowman Cotton.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Nick Cotton can be found on his family farm, working the soil alongside his brother Jolly. He plays no role in the storyline.
+
+
+{{References}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Cotton]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Bogenman Hüttinger]]
+[[fi:Boman Tölli]]
+[[fr:encyclo/personnages/hobbits/chaumine/bowman chaumine]]

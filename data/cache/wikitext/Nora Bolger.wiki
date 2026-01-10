@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Nora Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Budgeford]]
+| affiliation=
+| language=
+| birth={{SR|1360}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Wilibald Bolger]] and [[Prisca Baggins]]
+| siblings=[[Wilimar Bolger|Wilimar]] and [[Heribald Bolger|Heribald]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Nora Bolger''' ({{SR|1360}}) was a [[hobbits|hobbit]] of [[the Shire]].
+
+==History==
+Nora was the youngest child of [[Wilibald Bolger]] and [[Prisca Baggins]]. She attended the [[Bilbo's Farewell Party|Farewell Party]] of [[Bilbo Baggins]] in {{SR|1401}}.<ref>{{App|Bolger}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Bolger]]
+[[Category:Third Age characters]]
+
+[[de:Nora Bolger]]
+[[fi:Nora Bolger]]
+[[fr:encyclo/personnages/hobbits/bolger/nora bolger]]

@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Amaranth Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1304}}
+| birthlocation=
+| rule=
+| death={{SR|1398}}
+| deathlocation=
+| age=94
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Gorbadoc Brandybuck]] and [[Mirabella Took]]
+| siblings=[[Rorimac Brandybuck|Rorimac]], [[Saradas Brandybuck|Saradas]], [[Dodinas Brandybuck|Dodinas]], [[Asphodel Brandybuck|Asphodel]], [[Dinodas Brandybuck|Dinodas]], [[Primula Brandybuck|Primula]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Amaranth Brandybuck''' was a [[Hobbits|hobbit]] of [[the Shire]].
+
+==History==
+Amaranth was the second child of [[Gorbadoc Brandybuck]] and [[Mirabella Took]].<ref>{{App|Brandybuck}}</ref>
+==Etymology==
+"Amaranth" is a poetic name for a flower that does not fade, derived from Greek ''αμάραντος''.<ref>{{HM|IE}}, "Giving of Names"</ref> It is also the common name for a group of 60-70 plants belonging to the family Amaranthaceae. They are used as food and in ornamental gardens; some are weeds.<ref>{{webcite|website=[http://www.britannica.com/ Encyclopædia Britannica]|articleurl=http://www.britannica.com/plant/Amaranthus|articlename=Amaranth|author=Melissa Petruzzello|dated=13 January 2017|accedd=29 April 2018}}</ref>
+
+{{References}}
+[[Category:Brandybuck]]
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[de:Amaranth Brandybock]]
+[[fi:Amaranth Rankkibuk]]
+[[fr:encyclo/personnages/hobbits/brandebouc/amaranthe brandebouc]]

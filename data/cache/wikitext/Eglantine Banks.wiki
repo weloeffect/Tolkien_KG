@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Eglantine Banks
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]]
+| affiliation=
+| language=
+| birth=Around {{SR|1333}}
+| birthlocation=
+| rule=
+| death=After {{SR|1401}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Banks Family|Banks]]
+| parentage=
+| siblings=
+| spouse=[[Paladin Took II|Paladin Took]]
+| children=[[Pearl Took|Pearl]], [[Pimpernel Took|Pimpernel]], [[Pervinca Took|Pervinca]] and [[Peregrin Took|Peregrin]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eglantine Took (née Banks)''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Eglantine was the wife of [[Thain]] [[Paladin Took II|Paladin Took]], and mother of [[Pearl Took|Pearl]], [[Pimpernel Took|Pimpernel]], [[Pervinca Took|Pervinca]] and [[Peregrin Took|Pippin]]. She was present at [[Bilbo Baggins]]' [[Birthday Party]].<ref>{{App|Took}}</ref>
+==Etymology==
+She was named after the flower ''[[eglantine]]''.
+
+{{References}}
+[[Category:Banks]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Heiderose Tuk]]
+[[fi:Angervo Törmä]]

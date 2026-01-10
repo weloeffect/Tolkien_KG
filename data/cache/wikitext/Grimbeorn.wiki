@@ -1,0 +1,84 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Grimbeorn
+| image=The Lord of the Rings - The Card Game - Grimbeorn.jpg
+| caption="Grimbeorn" by [[Jason Jenicke]]
+| pronun=
+| othernames=The Old
+| titles=Chieftain of the [[Beornings]]
+| position=
+| location=[[Vales of Anduin]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Beorn]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Grimbeorn the Old''' was the son of [[Beorn]].
+
+==History==
+Grimbeorn became a great lord in his own right. Like his father, he was the chieftain of the [[Beornings]] and he dwelt in the same regions of the [[Vales of Anduin]]. During his time, the [[High Pass]] and the [[Ford of Carrock]] were kept open and no [[Orcs|Orc]] or [[Wargs|Wolf]] dared to enter his land.<ref>{{FR|Meetings}}</ref>
+
+==Etymology==
+'''Grimbeorn''' is an [[Old English]] name,<ref>{{HM|IE}}, The Giving of Names, On Old English, pp. 212 and Meaningful Names, p. 218</ref> which means "fierce-warrior" or "severe-prince"<ref>{{HM|IE}}, The Giving of Names, Meaningful Names, p. 218</ref>.
+
+''Grim'' (like in [[modern English]]) means "fierce" or "severe" in Old English.<ref name="BT">{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/17507|articlename=GRIM|accessed=4 October 2025}}</ref> For the meaning of ''beorn'' refer to [[Beorn#Etymology|Beorn - Etymology]].
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| BEO | |BEO=[[Beorn]]<br /><small>''fl. {{TA|2941}}''</small>}}
+{{familytree| |!| | |}}
+{{familytree| GRI | |GRI='''GRIMBEORN'''<br /><small>''fl. {{TA|3019}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Grimbeorn in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Decipher - Grimbeorn.jpg|''[[The Lord of the Rings Trading Card Game]]''
+File:The Lord of the Rings - The Card Game - Grimbeorn.jpg|''[[The Lord of the Rings: The Card Game]]''
+File:The Lord of the Rings Online - Grimbeorn.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+
+'''2006: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:Despite not featuring in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]], Decipher produced a card depicting the character. He was portrayed by sword smith Peter Lyon.
+
+'''2014: ''[[The Lord of the Rings Online]]'':'''
+:Grimbeorn is the lord of all Beornings and lives at his home, the [[Beorn's Hall|Beorninghús]], with his wife Gírta and three children: the eldest daughter Langhár, the middle son Sterkist and the youngest, who becomes the [[Beorning]] player's character after Grimbeorn sends them to find the Ranger [[Aragorn]] at the urging of [[Radagast]]. During the [[War of the Ring]] Grimbeorn visits the camp of Vindurhal in the [[High Pass]] of the [[Misty Mountains]], but returns home soon after. After the destruction of [[The One Ring]], Grimbeorn is visited by [[Gandalf]], [[Legolas]] and the player on their journey back to [[Gondor]] after a brief visit to the northern lands. Already annoyed by a number of visitors, Grimbeorn is then forced to host a much larger procession when [[Elrond]] and much of his house stay at his lodge on their way to [[Minas Tirith]] for [[Arwen]]'s wedding.
+
+{{References}}
+{{Seq-start}}
+{{Seq-head
+|race=[[Northmen]]
+|house=[[Beornings]]
+|born=After {{TA|2941}}
+|died=After {{TA|3018}}
+}}
+{{seq
+|prev=[[Beorn]]
+|list=2nd Chieftain of the [[Beornings]]
+|dates=Around {{TA|3018}}
+|next=Unknown
+}}
+{{seq-end}}
+[[Category:Beornings]]
+[[Category:Rulers in Middle-earth]]
+[[Category:Third Age characters]]
+
+[[de:Grimbeorn]]
+[[fi:Grimbeorn]]

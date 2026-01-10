@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Mosco Burrows
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Hobbiton]]
+| affiliation=
+| language=
+| birth={{SR|1387}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Burrows Family|Burrows]]
+| parentage=[[Milo Burrows]] and [[Peony Baggins]]
+| siblings=[[Moro Burrows|Moro]], [[Myrtle Burrows|Myrtle]] and [[Minto Burrows|Minto]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mosco Burrows''' was a Hobbit of [[the Shire]].
+
+==History==
+Mosco was the eldest child of [[Milo Burrows|Milo]] and [[Peony Baggins|Peony Burrows]]. He was present at Bilbo's famous [[Bilbo's Farewell Party|Birthday Party]] at the age of just fourteen.<ref>{{App|Baggins}}</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Burrows]]
+[[Category:Third Age characters]]
+
+[[de:Mosco Lochner]]
+[[fi:Mosco Onkaloinen]]
+[[fr:encyclo/personnages/hobbits/terrier/mosco terrier]]

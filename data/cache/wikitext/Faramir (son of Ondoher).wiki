@@ -1,0 +1,75 @@
+__NOTOC__{{disambig-more|Faramir|[[Faramir (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Faramir
+| image=Liz Danforth - Faramir son of Ondoher.jpg
+| caption="Faramir son of Ondoher" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=Before {{TA|1896}}<ref group="note">{{TA|1896}} is listed as the year of birth for [[Fíriel]], Artamir's youngest sibling, in {{PM|Elendil}}, p. 201. In {{UT|Cirion}} Faramir is noted to be three years younger than his brother Artamir.</ref>
+| birthlocation=
+| rule=
+| death=[[12 July]] {{TA|1944}}
+| deathlocation=[[Disaster of the Morannon]]
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Ondoher]]
+| siblings=[[Artamir]] and [[Fíriel]]
+| spouse=
+| children=None
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Faramir''' was the younger son of King [[Ondoher]] of [[Gondor]].<ref>{{App|Gondor}}</ref>
+
+==History==
+When his father and elder brother [[Artamir]] rode to war with the [[Wainriders]], Faramir was supposed to stay in [[Minas Anor]] as [[regent of Gondor]], according to the custom, as the second in line to the throne.
+
+Not content with that role, Faramir rode out in disguise amongst the [[Éothéod]]. However he was caught with a party of them as they retreated to­wards the [[Dead Marshes]]. The [[Leader of the Éothéod]] came to their rescue, but Faramir died in his arms. After he searched his body he found out that the dead soldier was the Prince of Gondor. 
+
+The Leader went to join [[Minohtar]] at the head of the [[North Road]] in [[Ithilien]].  Minohtar was preparing a message to be taken to the prince when he learned the news that the prince had been killed in battle.<ref>{{UT|Cirion}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | TEL | | | | | | | | |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|-|-|-|-|^|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | | | NAR | | | | | | | | | | | | | | ARC |NAR=[[Narmacil II]]<br/><small>''{{TA|1684|n}} - {{TA|1856|n}}''†</small>|ARC=[[Arciryas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | | | | | | | | | |!| |}}
+{{familytree | | | | | CAL | | | | | | | | | | | | | | CAM |CAL=[[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''{{TA|1736|n}} - {{TA|1936|n}}''</small>|CAM=[[Calimmacil]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree | | | | | OND | | | | | | ARN | | DAU | | SIR |OND=[[Ondoher]]<br/><small>''{{TA|1787|n}} - {{TA|1944|n}}''†</small>|ARN=[[Kings of Arnor|''Kings of<br/>Arnor'']]|DAU=''daughter''<br/><small>''unknown''</small>|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | |:| | | |!| | | |!| |}}
+{{familytree | ART | | FAR | | FIR |y| ARV | | MIN | | EAR |ART=[[Artamir]]<br/><small>''d. {{TA|1944|n}}''†</small>|FAR='''FARAMIR'''<br/><small>''d. {{TA|1944|n}}''†</small>|FIR=[[Fíriel]]<br/><small>''b. {{TA|1896|n}}''</small>|ARV=[[Arvedui]]<br/><small>''{{TA|1864|n}} - {{TA|1975|n}}''†</small>|MIN=[[Minohtar]]<br/><small>''d. {{TA|1944|n}}''†</small>|EAR=[[Eärnil II]]<br/><small>''{{TA|1883|n}} - {{TA|2043|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | EAR |ARA=[[Aranarth]]<br/><small>''{{TA|1938|n}} - {{TA|2106|n}}''</small>|EAR=[[Eärnur]]<br/><small>''{{TA|1928|n}} - {{TA|2050|n}}''†</small>}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | COD | | | | | | | | | | |COD=[[Chieftains of the Dúnedain|''Chieftains of<br/>the Dúnedain'']]}}
+{{familytree | | | | | | | | | | | |:| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ARA | | | | | | | | | | |ARA=[[Aragorn]]<br/><small>''{{TA|2931|n}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Faramir (son of Ondoher).jpg|thumb|left|Faramir's shade in ''[[The Lord of the Rings Online]]'']]
+'''2016: ''[[The Lord of the Rings Online]]'':'''
+:Faramir was cursed by his father for failing him as a son and as an heir. His [[undead|shade]] still wanders the Wastes of [[Dagorlad]] near Ondoher's Folly, the hill on which his father was slain.
+
+{{references|notes}}
+{{title}}
+[[Category:House of Anárion]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+
+[[de:Faramir (Sohn von Ondoher)]]
+[[fi:Faramir (Ondoherin poika)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/gondoriens/faramir_fils_d_ondoher]]

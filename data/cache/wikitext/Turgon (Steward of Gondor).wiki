@@ -1,0 +1,82 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Turgon
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2855}}
+| birthlocation=
+| rule={{TA|2914}} - {{TA|2953|n}} (39 years)
+| death={{TA|2953}}
+| deathlocation=
+| age=98
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Túrin II]]
+| siblings=
+| spouse=
+| children=[[Ecthelion II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Turgon''' ([[Third Age]] {{TA|2855|n}}<ref>{{PM|Elendil}}, p. 206</ref> – {{TA|2953|n}},<ref>{{App|South}}</ref> aged 98 years) was the twenty-fourth [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Turgon was the son of Steward [[Túrin II]]. Unlike his father's reign (and his son's), his rule was apparently peaceful and uneventful, as no significant events for Gondor are recorded during those thirty-nine years.
+
+However, it was near the end of his rule, in {{TA|2951}}, when [[Sauron]] declared himself openly in [[Mordor]]; he gathered his power there, and began rebuilding [[Barad-dûr]].<ref>{{App|TA}}</ref>
+
+His son [[Ecthelion II|Ecthelion]] succeeded him to the throne.
+
+==Etymology==
+For the meaning of his name refer to [[Turgon#Etymology|Turgon - Etymology]]. Turgon was probably named after [[Turgon]], a [[High King of the Noldor]] of the [[First Age]] who founded the hidden city of [[Gondolin]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref><ref>{{PM|Elendil}}, p. 203</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | THO | | |THO=[[Thorondir]]<br/><small>''{{TA|2782|n}} - {{TA|2882|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | TUR | | |TUR=[[Túrin II]]<br/><small>''{{TA|2815|n}} - {{TA|2914|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | TUR | | |TUR='''TURGON'''<br/><small>''{{TA|2855|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ECT | | |ECT=[[Ecthelion II]]<br/><small>''{{TA|2886|n}} - {{TA|2984|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | DEN | | DAU |DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|DAU=''two daughters''<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2855}}
+| died={{TA|2953}}
+}}
+{{seq
+| prev=[[Túrin II]]
+| list=24th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2914}} - {{TA|2953|n}}
+| next=[[Ecthelion II]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Turgon (Truchsess von Gondor)]]
+[[fi:Turgon (ihminen)]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/turgon]]

@@ -1,0 +1,62 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Minastan
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth=After {{TA|1516}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Minardil]]
+| siblings=[[Telemnar]]
+| spouse=
+| children=[[Tarondor (King of Gondor)|Tarondor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Minastan''' was the second son of King [[Minardil]] of [[Gondor]]. 
+
+==History==
+In {{TA|1636}}<ref>{{App|TA}}</ref> Minastan's elder brother [[Telemnar]] had sat on their father's throne for just two years when he died with all his heirs in the [[Great Plague]].<ref>{{App|Gondor}}</ref>  Minastan had also died by this time - perhaps he too met his end in the Plague - but he left behind a surviving heir, [[Tarondor (King of Gondor)|Tarondor]], who became the first King of a new line.<ref>{{App|South}}</ref>
+
+==Etymology==
+''Minastan'' is [[Quenya]]. Its meaning is not glossed, but as Paul Strack explains, it might mean "Smith of the Tower" and be a compound of a shortened form ''minas'' of [[minasse]] ("tower") and the suffixal form ''-tan'' of [[tamo]] ("smith, builder").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-96627655.html|articlename=Q. ''Minastan'' m.|website=Eldamo|accessed=28 July 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | HYA | | |HYA=[[Hyarmendacil II]]<br/><small>''{{TA|1391|n}} - {{TA|1621|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | MIN | | |MIN=[[Minardil]]<br/><small>''{{TA|1454|n}} - {{TA|1634|n}}''†</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | TEL | | MIN |TEL=[[Telemnar]]<br/><small>''{{TA|1516|n}} - {{TA|1636|n}}''†</small>|MIN='''MINASTAN'''<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | CHI | | TAR |CHI=''children''<br/><small>''unknown''†</small>|TAR=[[Tarondor (King of Gondor)|Tarondor]]<br/><small>''{{TA|1577|n}} - {{TA|1798|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | TEL |TEL=[[Telumehtar Umbardacil]]<br/><small>''{{TA|1632|n}} - {{TA|1850|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Quenya names]]
+[[Category:Third Age characters]]
+[[de:Minastan]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/minastan]]
+[[fi:Minastan]]

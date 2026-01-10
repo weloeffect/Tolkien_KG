@@ -1,0 +1,78 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Will Whitfoot
+| image=Storn Cook - Will Whitfoot.jpg
+| caption="Will Whitfoot" by [[:Category:Images by Storn Cook|Storn Cook]]
+| pronun=
+| othernames="Flourdumpling"
+| titles=
+| position=[[Mayor of Michel Delving]]
+| location=[[Michel Delving]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Will Whitfoot''' was the [[Mayor of Michel Delving]] during the [[War of the Ring]].
+
+==History==
+Whitfoot was elected Mayor at the [[Free Fair]] late in the [[Third Age]], at least as late as {{SR|1413}}.<ref group=note>The date is not given by [[Tolkien]], but is suggested as possible by [[Robert Foster]]. Since the Free Fair is septennial, Will must have been Mayor since the last Fair before {{TA|3020}} (3020-7={{TA|3013|n}}). However, as we are not told that was his first term, it's possible that he might already been serving since {{TA|3006}} or even earlier. See {{HM|Guide}}, p. 428, entry "Will Whitfoot".</ref>
+
+He was renowned as being the fattest hobbit in the [[Westfarthing]], and was affectionately referred to as "Flourdumpling" after he emerged from the collapse of the [[Town Hole]] covered in chalk. [[Peregrin Took]] later caused a great deal of laughter at the [[Prancing Pony]] when he related that incident to the [[Bree-folk]].<ref>{{FR|I9}}</ref> 
+
+He was one of the first victims of the new rule of [[Lotho Sackville-Baggins]] and [[Sharkey]]. He went to protest against Lotho's felling of trees, but was apprehended by [[Ruffians]] on his way to [[Bag End]]. He was locked up in the [[Lockholes]], and Lotho usurped his title.<ref>{{RK|Scouring}}</ref> He was freed after the [[Battle of Bywater]], but was at first unfit for duty as Mayor, so [[Frodo Baggins]] served as Deputy Mayor.<ref>{{RK|Havens}}</ref> He was officially restored as Mayor on the next Free Fair, on [[Midyear's Day]] of {{SR|1420}}.<ref name="Later">{{App|Later}}</ref>
+
+Will Whitfoot resigned in {{SR|1427}}, and was succeeded by [[Samwise Gamgee]].<ref name="Later"/>
+
+==Etymology==
+The name "Whitfoot" is derived from "White foot".<ref>{{HM|N}}</ref>
+
+==Portrayal in adaptations==
+===Will Whitfood in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings Online - Will Whitfoot.jpg|Will Whitfoot in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Mayor Will Whitfoot can be found in the centre of [[Michel Delving]]. He provides several early quests to Hobbit characters and is also involved in several seasonal festivals.
+
+{{notes}}
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=hobbit
+}}
+{{seq
+| prev=Unknown
+| list=[[Mayor of Michel Delving]]
+| dates=by {{SR|1413}} - {{SR|1427}}
+| next=[[Samwise Gamgee]]
+}}
+{{seq-end}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Fourth Age characters]]
+[[Category:Hobbits]]
+[[Category:Mayors of Michel Delving]]
+[[Category:Third Age characters]]
+[[Category:Whitfoot]]
+
+[[de: Willi Weißfuß]]
+[[fi:Vili Valkojalka]]
+[[fr:encyclo/personnages/hobbits/piedblanc/will piedblanc]]

@@ -1,0 +1,85 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Celebrindor
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|1062}}
+| birthlocation=
+| rule={{TA|1191}} - {{TA|1272|n}}
+| death={{TA|1272}}
+| deathlocation=
+| age=210
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Celepharn]]
+| siblings=
+| spouse=
+| children=[[Malvegil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Celebrindor''' ({{TA|1062}}<ref>{{PM|Elendil}}, p. 193</ref> - {{TA|1272}},<ref name="North">{{App|North}}</ref> died aged 210) was the fifth [[King of Arthedain]].
+
+==History==
+Celebrindor was the son of [[Celepharn]], and came to the throne of [[Arthedain]] upon his father's death in {{TA|1191|n}}.<ref name="North"/> His reign as king was uneventful, as relations between the other realms of [[Arnor]] - [[Cardolan]] and [[Rhudaur]] - were good, and no evil threatened the realm yet - it was after Celebrindor's death that [[Angmar]] started to pose a threat to the peoples of Arnor.<ref>{{App|Eriador}}</ref>
+
+Celebrindor died in 1272 after ruling the Northern Kingdom for eighty-one years. He was succeeded by his son [[Malvegil]] upon his death.<ref name="North"/>
+
+==Etymology==
+''Celebrindor'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack suggests it means "Silver-lord" and is a combination of ''[[celb|celebrin]]'' ("silver", "like silver [in hue or worth]") and the suffixal form ''-dor'' ("king", "lord").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-711865357.html|articlename=S. ''Celebrindor'' m.|website=Eldamo|accessed=03 February 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | MAL |MAL=[[Mallor]]<br/><small>''{{TA|895|n}} - {{TA|1110|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL=[[Celepharn]]<br/><small>''{{TA|979|n}} - {{TA|1191|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEL |CEL='''CELEBRINDOR'''<br/><small>''{{TA|1062|n}} - {{TA|1272|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | MAL |MAL=[[Malvegil]]<br/><small>''{{TA|1144|n}} - {{TA|1349|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARG |ARG=[[Argeleb I]]<br/><small>''{{TA|1226|n}} - {{TA|1356|n}}''†</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|1062}}
+| died={{TA|1272}}
+}}
+{{seq
+| prow=2
+| prev=[[Celepharn]]
+| list=13th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|1191}} - {{TA|1272|n}}
+| next=[[Malvegil]]
+| nrow=2
+}}
+{{seq
+| list=5th [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|1191}} - {{TA|1272|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Celebrindor]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:dunedain du nord:celebrindor]]
+[[fi:Celebrindor]]

@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Ivriniel
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth={{TA|2947}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Adrahil]]
+| siblings=[[Finduilas (wife of Denethor)|Finduilas]] and [[Imrahil]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ivriniel''' ({{TA|2947}}-?) was the sister of [[Finduilas (wife of Denethor)|Finduilas]] and [[Imrahil]] of [[Dol Amroth]]. She was the firstborn child of [[Adrahil]].<ref>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | ANG | | | | | | | | | | | | | | | | | | | | |ANG=[[Angelimir]]<br/><small>''{{TA|2866|n}} - {{TA|2977|n}}''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | | | | | ADR | | | | | | | | | | | | | | | | | | | | |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|-|-|-|-|.| | | | | | | | | | | | | | | |}}
+{{familytree | IVR | | FIN |y| DEN | | IMR | | | | | | | | | | | | ROH |IVR='''IVRINIEL'''<br/><small>''b. {{TA|2947|n}}''</small>|FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|DEN=[[Denethor|Denethor II]]<br/><small>''{{TA|2930|n}} - {{TA|3019|n}}''†</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>|ROH=[[Kings of Rohan|''Kings of<br/>Rohan'']]}}
+{{familytree | | | |,|-|-|-|(| | | |,|-|^|-|v|-|-|-|v|-|-|-|.| | | |:| |}}
+{{familytree | | | BOR | | FAR | | ELP | | ERC | | AMR | | LOT |y| EOM |BOR=[[Boromir]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|FAR=[[Faramir]]<br/><small>''{{TA|2983|n}} - {{FoA|82}}''</small>|ELP=[[Elphir]]<br/><small>''{{TA|2987|n}} - {{FoA|67}}''</small>|ERC=[[Erchirion]]<br/><small>''b. {{TA|2990|n}}''</small>|AMR=[[Amrothos]]<br/><small>''b. {{TA|2994|n}}''</small>|LOT=[[Lothíriel]]<br/><small>''b. {{TA|2999|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>}}
+{{familytree | | | | | | | |!| | | |!| | | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | ELB | | ALP | | | | | | | | | | | | ELF | | |ELB=[[Elboron]]<br/><small>''unknown''</small>|ALP=[[Alphros]]<br/><small>''{{TA|3017|n}} - {{FoA|95}}''</small>|ELF=[[Elfwine]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+
+[[de:Ivriniel]]
+[[fi:Ivriniel]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/ivriniel]]

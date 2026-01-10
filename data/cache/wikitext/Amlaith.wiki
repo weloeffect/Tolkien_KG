@@ -1,0 +1,96 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Amlaith
+| image=ElfinFen - Amlaith, king of Arthedain.jpg
+| caption="Amlaith, king of Arthedain" by [[:Category:Images by ElfinFen|ElfinFen]]
+| pronun=
+| othernames=
+| titles=[[King of Arthedain]]
+| position=
+| location=[[Arthedain]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|726}}
+| birthlocation=
+| rule={{TA|861}} - {{TA|946|n}}
+| death={{TA|946}}
+| deathlocation=
+| age=220
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Eärendur (King of Arnor)|Eärendur]]
+| siblings=two unnamed brothers
+| spouse=
+| children=[[Beleg (King of Arthedain)|Beleg]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Amlaith''' of [[Fornost]] ({{TA|726}}<ref name="Elendil">{{PM|Elendil}}, p. 193</ref> - {{TA|946}},<ref name="north">{{App|North}}</ref> died aged 220) was the eldest son of [[Eärendur (King of Arnor)|Eärendur]], the tenth King of [[Arnor]].
+
+==History==
+He was destined to become King of [[Arnor]] after his father's death in {{TA|861}}, but there were constant quarrels between [[Eärendur (King of Arnor)|Eärendur]]'s sons. A civil war erupted when [[Eärendur (King of Arnor)|Eärendur]] finally died. Amlaith, however, failed to overcome his two younger brothers, so the Kingdom of Arnor was split into three and Amlaith became the first King of [[Arthedain]]. (His brothers founded the kingdoms of [[Cardolan]] and [[Rhudaur]]).<ref>{{App|Eriador}}</ref>
+
+His reign in Arthedain was largely a peaceful one, although border disputes with the realms of [[Cardolan]] and [[Rhudaur]] - especially over [[Weathertop|Amon Sûl]] and the [[Weather Hills]] - never fully ceased. Under his rule the capital was formally removed from [[Annúminas]] to Fornost, due to the dwindling of the people.<ref name="Elendil"/>
+
+Unlike his forefathers, he did not take a name in [[Quenya]],<ref>{{App|North}}, ''Arthedain''. Amlaith of Fornost, footnote</ref> the "High-elven Tongue",<ref>{{App|Elves}}, first paragraph</ref> but instead took a name in [[Sindarin]], as did all the [[Kings of Arthedain]] and [[Chieftains of the Dúnedain]] that descended from him.<ref>{{PM|Elendil}}, manuscript C with corrections and expansions, The Northern Line of Arnor: the Isildurioni, 10. Earendur, p. 192 using Noldorin, which was later renamend to Sindarin.</ref><ref>{{PM|Third}}, manuscript T4, The Third Age year 861 using Noldorin, which was later renamed to Sindarin</ref>
+
+Amlaith ruled for eighty-five years, and was succeeded at his death in 946 by his son, [[Beleg (King of Arthedain)|Beleg]].<ref name="north"/>
+
+== Etymology ==
+''Amlaith'' is a [[Sindarin]] name. Its meaning is not glossed, but Mark Fisher suggests it might contain the elements ''[[am]]'' ("up") and ''laith'' (as in the name of the river ''[[Limlaith]]'' where ''laith'' means "light").<ref>{{webcite|author=Mark Fisher|articleurl=https://www.glyphweb.com/arda/a/amlaith.php|articlename=Amlaith of Fornost|website=The Encyclopedia of Arda|accessed=28 January 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | ELE | | | | |ELE=[[Elendur (King of Arnor)|Elendur]]<br/><small>''{{TA|552|n}} - {{TA|777|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | EAR | | | | |EAR=[[Eärendur (King of Arnor)|Eärendur]]<br/><small>''{{TA|640|n}} - {{TA|861|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | AML | | CAR | | RHU |AML='''AMLAITH'''<br/><small>''{{TA|726|n}} - {{TA|946|n}}''</small>|CAR=[[Kings of Cardolan|''Kings of<br/>Cardolan'']]|RHU=[[Kings of Rhudaur|''Kings of<br/>Rhudaur'']]}}
+{{familytree | |!| | | | | | | | | |}}
+{{familytree | BEL | | | | | | | | |BEL=[[Beleg (King of Arthedain)|Beleg]]<br/><small>''{{TA|811|n}} - {{TA|1029|n}}''</small>}}
+{{familytree | |!| | | | | | | | | |}}
+{{familytree | MAL| | | | | | | | |MAL=[[Mallor]]<br/><small>''{{TA|895|n}} - {{TA|1110|n}}''</small>}}
+{{familytree | |:| | | | | | | | | |}}
+{{familytree | ART | | | | | | | | |ART=[[Kings of Arthedain|''Kings of<br/>Arthedain'']]}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Before relocating his people from Annuminas to Fornost, Amlaith had asked Gwindeth, the [[River-woman|River-maiden]] of [[Nenuial]], to raise the waters of the lake over the walls of Annuminas and allow the flood to preserve what treasures remained here.
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|726}}
+| died={{TA|946}}
+}}
+{{seq
+| prev=[[Eärendur (King of Arnor)|Eärendur]]
+| list=9th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|861}} - {{TA|946|n}}
+| next=[[Beleg (King of Arthedain)|Beleg]]
+| nrow=2
+}}
+{{seq
+| pvac=None
+| prev=''[[Eärendur (King of Arnor)|Eärendur]], as [[Kings of Arnor|King of Arnor]]''
+| list=1st [[Kings of Arthedain|King of Arthedain]]
+| dates={{TA|861}} - {{TA|946|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Rulers of Arthedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+[[de:Amlaith]]
+[[fi:Amlaith]]

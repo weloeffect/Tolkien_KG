@@ -1,0 +1,95 @@
+{{short description|Ninth Chieftan of the Dúnedain}}
+
+{{infobox character
+| people=[[Arnor]]ian
+| name=Aravorn
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2497}}
+| birthlocation=
+| rule={{TA|2588}} - {{TA|2654|n}}
+| death={{TA|2654}}
+| deathlocation=
+| age=157
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Aragost]]
+| siblings=
+| spouse=
+| children=[[Arahad II]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aravorn''' ({{TA|2497}}<ref>{{PM|Elendil}}</ref> - {{TA|2654|n}},<ref name="North">{{App|North}}</ref> died aged 157) was the ninth [[Chieftain of the Dúnedain]].
+
+==History==
+Aravorn succeeded his father, [[Aragost]], when he died in {{TA|2588|n}}. Aravorn's rule seems to be uneventful as the enemy centered a lot of its attacks on the newly-formed [[Rohan]].
+
+Aravorn died in 2654, after having ruled as chieftain for 66 years, and was succeeded by his son, [[Arahad II]].<ref name="North"/>
+
+==Etymology==
+''Aravorn'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests it means "Black King".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is probably a compound of the prefix ''[[ara|ar(a)-]]'' ("noble", "royal", "high") and ''[[morn]]'' ("black", "dark", "night")<ref name=Tolkiendil/> or ''born'' ("[stead]fast").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3046359413.html|articlename=S. ''Aravorn'' m.|website=Eldamo|accessed=05 February 2022}}</ref><ref>{{HM|GS}}, p. 342</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Arahad I]]<br/><small>''{{TA|2365|n}} - {{TA|2523|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aragost]]<br/><small>''{{TA|2431|n}} - {{TA|2588|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARAVORN'''<br/><small>''{{TA|2497|n}} - {{TA|2654|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arahad II]]<br/><small>''{{TA|2563|n}} - {{TA|2719|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arassuil]]<br/><small>''{{TA|2628|n}} - {{TA|2784|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2497}}
+| died={{TA|2654}}
+}}
+{{seq
+| prow=2
+| prev=[[Aragost]]
+| list=32nd [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2588}} - {{TA|2654}}
+| next=[[Arahad II]]
+| nrow=2
+}}
+{{seq
+| list=9th [[Chieftain of the Dúnedain]]
+| dates={{TA|2588}} - {{TA|2654}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+[[Category:House of Isildur]]
+[[Category:Chieftains of the Dúnedain]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Aravorn]]
+[[fi:Aravorn]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/aravorn]]

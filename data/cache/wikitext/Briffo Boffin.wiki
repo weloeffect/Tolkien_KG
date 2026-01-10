@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Briffo Boffin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Yale]]<br/>[[Bree]]
+| affiliation=
+| language=
+| birth={{SR|1170}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Buffo Boffin]] and [[Ivy Goodenough]]
+| siblings=[[Bosco Boffin|Bosco]], [[Basso Boffin|Basso]] and [[Berylla Baggins|Berylla]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Briffo Boffin''' was a [[Hobbits|Hobbit]].
+
+==History==
+Briffo was the third child of [[Buffo Boffin]] and [[Ivy Goodenough]]. In {{SR|1210}}, he moved to [[Bree]].<ref>{{App|Boffin}}</ref>
+
+{{references}}
+[[Category:Boffin]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Briffo Boffin]]
+[[fi:Briffo Boffin]]
+[[fr:encyclo:personnages:hobbits:bophin:briffo bophin]]

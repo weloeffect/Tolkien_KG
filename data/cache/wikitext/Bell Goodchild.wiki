@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bell Goodchild
+| image=Miriam Ellis - Bell Goodchild.png
+| caption=Bell Goodchild - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=Bell Gamgee
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=c. {{SR|1326}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Goodchild Family|Goodchild]]
+| parentage=
+| siblings=
+| spouse=[[Gaffer Gamgee|Hamfast Gamgee]]
+| children=[[Hamson Gamgee|Hamson]], [[Halfred Gamgee|Halfred]], [[Daisy Gamgee|Daisy]], [[May Gamgee|May]], [[Samwise Gamgee|Samwise]] and [[Marigold Gamgee|Marigold]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bell Gamgee, née [[Goodchild Family|Goodchild]]''', was a Hobbit of the Shire.
+==History==
+Bell married [[Gaffer Gamgee|Hamfast Gamgee]]. She would eventually give birth to [[Hamson Gamgee|Hamson]], [[Halfred Gamgee|Halfred]], [[Daisy Gamgee|Daisy]], [[May Gamgee|May]], the famed [[Samwise Gamgee|Samwise]] and [[Marigold Gamgee|Marigold]].<ref>{{App|Gamgee}}</ref>
+==Etymology==
+Bell is possibly named after bellflowers, such as bluebell and harebell.<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+===Bell Goodchild in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+Bell Goodchild.png|[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]
+</gallery>
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Bell Goodchild is a Hobbit child, playing hide-and-seek with [[Gaffer Gamgee|Hamfast]], Sadoc, Hilda and a somewhat unwilling [[Bilbo Baggins]]. She hides on the top floor of the [[Old Mill]], which is only accessible by riding the water-wheel. Bell and Hamfast are shown to have a mutual love interest, but neither of them told the other.<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Hobitton"</ref> 
+
+{{References}}
+[[Category:Gamgee]]
+[[Category:Goodchild]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+
+[[de:Bell Gamdschie]]
+[[fi:Kello Kilttilä]]
+[[fr:encyclo/personnages/hobbits/bonenfant/bell bonenfant]]

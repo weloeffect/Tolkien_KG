@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Mentha Brandybuck
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1383}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brandybuck Family|Brandybuck]]
+| parentage=[[Marmadas Brandybuck]]
+| siblings=[[Merimas Brandybuck|Merimas]] and [[Melilot Brandybuck|Melilot]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Mentha Brandybuck''' was a [[Hobbits|Hobbit]] of [[Buckland]].
+
+==History==
+Mentha was the second child of [[Marmadas Brandybuck]]. She was present at [[Bilbo's Farewell Party|Bilbo's Birthday Party]].<ref>{{App|Brandybuck}}</ref>
+==Etymology==
+[[wikipedia:Mentha|Mentha]] is the Latin name of the genus "mint".
+
+{{references}}
+[[Category:Brandybuck]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[de:Minze Brandybock]]
+[[fi:Mentha Rankkibuk]]
+[[fr:Mentha Brandibouc]]

@@ -1,0 +1,93 @@
+{{infobox character
+| people=[[Arnor]]ian
+| name=Aranuir
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]] and [[Westron]]
+| birth={{TA|2084}}
+| birthlocation=
+| rule={{TA|2177}} - {{TA|2247|n}}
+| death={{TA|2247}}
+| deathlocation=
+| age=163
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Arahael]]
+| siblings=
+| spouse=
+| children=[[Aravir]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aranuir''' ({{TA|2084}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2247|n}},<ref name="North">{{App|North}}</ref> died aged 163) was the third of the [[Chieftains of the Dúnedain]], following the death of his father, [[Arahael]], in 2177.
+
+==History==
+As far as records go, Aranuir's rule was uneventful. Aranuir died in {{TA|2247|n}}, after having been chieftain for seventy years, and was followed by his son, [[Aravir]].<ref name="North"/>
+
+==Etymology==
+''Aranuir'' is a [[Sindarin]] name. Its meaning is not glossed, but the Association Tolkiendil suggests it means "Eternal King".<ref name=Tolkiendil>{{webcite|author=Association Tolkiendil|articleurl=https://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names|articlename=Compound Sindarin Names in Middle-earth|website=Tolkiendil|accessed=05 February 2022}}</ref> It is probably a compound of ''[[aran]]'' ("king", "lord", "chief", [lit.] high or noble person) and ''uir'' ("eternity").<ref name=Tolkiendil/><ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1131758483.html|articlename=S. ''Aranuir'' m.|website=Eldamo|accessed=05 February 2022}}</ref><ref>{{HM|GS}}, p. 341</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Aranarth]]<br/><small>''c. {{TA|1940|n}} - {{TA|2106|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arahael]]<br/><small>''{{TA|2012|n}} - {{TA|2177|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARANUIR'''<br/><small>''{{TA|2084|n}} - {{TA|2247|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aravir]]<br/><small>''{{TA|2156|n}} - {{TA|2319|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aragorn I]]<br/><small>''{{TA|2227|n}} - {{TA|2327|n}}''†</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In an early manuscript Aranuir's name was "Aranuil".<ref>{{PM|Elendil}}, Commentary, p. 211</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2084}}
+| died={{TA|2247}}
+}}
+{{seq
+| prow=2
+| prev=[[Arahael]]
+| list=26th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2177}} - {{TA|2247|n}}
+| next=[[Aravir]]
+| nrow=2
+}}
+{{seq
+| list=3rd [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2177}} - {{TA|2247|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:Chieftains of the Dúnedain]]
+[[Category:House of Isildur]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Aranuir]]
+[[fi:Aranuir]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/aranuir]]

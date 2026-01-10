@@ -1,0 +1,88 @@
+{{expansion}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Théodred
+| image=Andrea Piparo - Théodred.jpg
+| caption="Theodred" by [[:Category:Images by Andrea Piparo|Andrea Piparo]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Second Marshal of the Riddermark]]
+| location=[[Rohan]]
+| affiliation=
+| language=
+| birth={{TA|2978}}
+| birthlocation=
+| rule=
+| death=[[25 February]] {{TA|3019}}
+| deathlocation=[[First Battle of the Fords of Isen]] (aged 41)
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Théoden]] and [[Elfhild]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Théodred''' ({{TA|2978}}-{{TA|3019|n}}) was the only son and heir of King [[Théoden]] of [[Rohan]] who died in the [[First Battle of the Fords of Isen]] during the [[War of the Ring]].
+
+==History==
+Théodred was born to King [[Théoden]] and [[Elfhild]], who died in childbirth. Because of his state as prince of Rohan, Théodred also held the title of [[Second Marshal of the Riddermark]]. 
+
+While [[Gríma]] gained more influence on the King, he considered Théodred and [[Éomer]] his chief opponents, and tried to bring the two cousins into discredit with Théoden. But their loyalty remained steadfast even in his apparent dotage; Gríma therefore tried to play them one against the other in the mind of Théoden, representing Éomer as ever eager to increase his authority, at the expense of Théodred.<ref name=":0">{{UT|Isen}}</ref>
+
+In the beginning of {{TA|3019|n}}, due to the threat of invasion by the forces of the wizard [[Saruman]], Théodred established himself at [[Helm's Deep]] to command the military strength of the [[Westfold]]. When actual war began, Théodred added to the Muster of Westfold by summoning the [[Muster of Edoras]].<ref>{{UT|Isen}}, Appendix (i)</ref>
+
+Meanwhile, Saruman planned to have the Prince killed. He sent forces against Rohan on [[February 25]], {{TA|3019}} with explicit orders to kill the Second Marshal at all costs. 
+
+Théodred was warned by his scouts of a mustering of troops at the [[Gate of Isengard]] and he reinforced the approaches. He passed over the [[Isen]] with the main strength of his cavalry to overthrow Saruman's apparent army before it was fully prepared. He scattered the vanguard, but then discovered the main host prepared for assault and ordered a retreat while the rearguard under [[Grimbold]] had to turn and drive back their pursuers.<ref name=":0" />
+
+Retreating, he appointed Grimbold in command of the western bank garrison while he himself attempted to man the eyot in the midst of the river. Then a van came and with unexpected speed soon took control of the eastern end of the fords; the fiercest of Saruman's warriors and [[Goblin-men|Orc-men]] abandoned the rest of the battle and directed their full might around the Prince. As Grimbold came to his defence, Théodred was hewn down by a great orc-man, whom Grimbold slew.
+
+[[Elfhelm]] arrived to his support and they lifted the body. Théodred still breathed, only long enough to speak his last words. The news of Théodred's death caused [[Erkenbrand]] of [[Westfold]] to assume command of the [[West-mark]].<ref name=":0" /> With no descendants or siblings, this made his cousin, [[Éomer]], heir to the throne of Rohan.
+
+It is told that Grimbold set up on stakes all about the mentioned eyot in the [[Fords of Isen]] the heads of the axemen that had been slain there, and, above the hasty mound of Théodred in the middle, set his banner.<ref>{{UT|Isen}}, Note 8.</ref>
+
+== Etymology ==
+'''Théodred''' is probably a combination of the [[Old English|Anglo-Saxon]] words ''þēod'' ("people", "land") and ''rǣd'' ("counsel", "advice").<ref>{{HM|RC}}, p. 403</ref> The word ''þēod'' also appears in the name [[Éothéod]].<ref>{{UT|8e}}, note 36</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | THE |THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | ELF |y| THE |ELF=[[Elfhild]]<br/><small>''d. {{TA|2978|n}}''</small>|THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | THE | | |THE='''THÉODRED'''<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''†</small>|}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Théodred in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Two Towers - Théodred.jpg|''[[The Lord of the Rings: The Two Towers]]''
+File:The Lord of the Rings Online - Théodred.png|''[[The Lord of the Rings Online]]''
+File:Andrea Piparo - Théodred.jpg|''[[War of the Ring: The Card Game]]''
+</gallery>
+'''[[2002]]: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Théodred, who was played by [[Paris Howe Strewe]], is portrayed younger than he was in the books. His death is a major event early in the movie, whereas, in the book, it has all happened one week before the [[Three Hunters]] come to Edoras.
+:Differently from the books, in which Théodred is buried by Grimbold in a hasty mound in an eyot in the Fords of Isen, in the movie he is brought heavily wounded albeit barely alive to Edoras and tended by [[Éowyn]] before dying. His burial, just outside of Edoras, is shown in the [[The Lord of the Rings: The Two Towers (extended edition)|extended edition]].
+
+'''[[2011]]: ''[[The Lord of the Rings Online: Rise of Isengard]]'':'''
+: Théodred's age is more accurate to the book. He is betrothed to Ingyth, daughter of the Reeve of the [[Entwash Vale]] and the sister of [[Horn (rider of Rohan)|Horn]]. While his riders defend the [[Fords of Isen]] against the [[Dunlendings]], the Prince leads a small party into [[Dunland]] to scout for potential threats, where they encounter the [[Grey Company]] led by [[Halbarad]]. After helping the Rangers, Théodred returns to the [[Gap of Rohan]] where he sets up a daring plan to attack [[Isengard]]. The [[First Battle of the Fords of Isen]] happens much as described in the book, with the player fighting side-by-side with [[Grimbold]] as they carve a path through the [[Uruk]]s to reach the Prince, only to arrive too late. His sword is recovered by [[Elfhelm]] and is subsequently used by [[Éowyn]] in her confrontation with the [[Witch-King]].
+
+{{References}}
+{{DEFAULTSORT:Theodred}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Théodred]]
+[[fi:Théodred]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/theodred]]

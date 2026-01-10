@@ -1,0 +1,58 @@
+{{disambig-more|Bob|[[Bob (disambiguation)]]}}
+{{infobox character
+| people=[[Bree-landers|Bree-lander]]
+| name=Bob
+| image=The Lord of the Rings Online - Bob.jpg
+| caption=Bob in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| titles=
+| position=Ostler
+| location=[[Bree]]
+| affiliation=
+| language=
+| birth=Late [[Third Age]] 
+| birthlocation=
+| rule=
+| death=Early [[Fourth Age]]
+| deathlocation=
+| age=
+| notablefor=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bob''' was a [[Bree-landers|Bree-lander]] (either a [[Men of Bree|Man]] or a [[Bree-hobbits|Hobbit]])<ref>{{HM|Guide}}, entry "Bob"</ref> who worked in [[The Prancing Pony]].
+
+==History==
+Bob worked alongside [[Nob]] for [[Barliman Butterbur]], primarily as an ostler in [[The Prancing Pony]] at the end of the [[Third Age]].<ref>{{FR|Sign}}</ref> Bob was the one who located the last [[Bill the Pony|pony]] left in Bree when all others has bolted following the [[Nazgûl]]'s attack. Later when Merry's [[ponies]] found their way back to Bree (thanks to [[Tom Bombadil]]) it was Bob who cared for them; he put them to work but treated them well.<ref>{{FR|Knife}}</ref>
+
+After the [[Ruffians]] entered Bree, Bob stopped working evenings, so that he could be home before nightfall.<ref>{{RK|Homeward}}</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Fellowship of the Ring (video game) - Bob.png|thumb|left|Bob from [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]]]
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Bob is attacked by two ruffians and a hunting dog at the stables of the Prancing Pony. [[Aragorn]] saves him.
+
+'''2007: ''[[The Lord of the Rings Online]]:'''''
+:Bob has gone to a camp near the Barrow-downs looking for his daughter Lalia, leaving the Pony's stables to be tended by others for the time that the hero visits Bree.
+
+{{references}}
+
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Men]]
+[[Category:Third Age characters]]
+
+[[de:Hinz]]
+[[fi:Bob]]
+[[fr:encyclo:personnages:hobbits:bob]]
+[[Category:Bree-land]]

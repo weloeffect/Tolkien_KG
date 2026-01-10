@@ -1,0 +1,88 @@
+{{infobox character
+| people=[[Northmen|Northman]]
+| name=Bain
+| image=U-yasuk - Bain.png
+| caption="Bain" by [[:Category:Images by U-yasuk|U-yasuk]]
+| pronun=
+| othernames=
+| titles=[[King of Dale]]
+| position=
+| location=[[Lake-town]]<br/>[[Dale]]
+| affiliation=
+| language=[[language of Dale]], [[Westron]]
+| birth=TA|2928
+| birthlocation=
+| rule={{TA|2977}} - {{TA|3007|n}}
+| death={{TA|3007}} 
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Bard]]
+| siblings=
+| spouse=
+| children=[[Brand]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bain''' was the [[King of Dale]], the second of the restored line.
+== History ==
+Bain was the son of [[Bard|Bard the Bowman]], and succeeded his father in {{TA|2977}}. He ruled in the lands south of the [[Lonely Mountain]] for thirty years, during which [[Balin]] and [[Balin's folk|a group]] of [[Dwarves]] left [[Lonely Mountain|Erebor]] to retake [[Moria]].
+
+He was succeeded by his son [[Brand]] in {{TA|3007}}, whose realm was said to extend far to the south and east of [[Lake-town|Esgaroth]].<ref name="TA">{{App|TA}}</ref>
+
+==Etymology==
+As the [[Language of Dale]] is rendered with [[Old Norse]], the name perhaps represents ''Beinn'' meaning "mover".<ref>[[Jim Allan]], ''[[An Introduction to Elvish]]'', "The Giving of Names", p. 226</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | GIR |GIR=[[Girion]]<br/><small>''d. {{TA|2770|n}}''</small>}}
+{{familytree | |:| }}
+{{familytree | |:| }}
+{{familytree | BAR |BAR=[[Bard|Bard I]]<br/><small>''d. {{TA|2977|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BAI |BAI='''BAIN'''<br/><small>''d. {{TA|3007|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BRA |BRA=[[Brand]]<br/><small>''d. {{TA|3019|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BA2 |BA2=[[Bard II]]<br/><small>''fl. [[Fourth Age]]''</small>}}
+{{familytree/end}}
+
+==Portrayals in adaptations==
+[[File:The Hobbit - The Desolation of Smaug - Bain.jpg|left|thumb|100px|Bain in [[The Hobbit (film series)|''The Hobbit'' (film series)]]]]
+'''2013: ''[[The Hobbit: The Desolation of Smaug]]'':'''
+:While in [[canon]] there is no mention about Bain's birth year, and there is nothing to indicate that he was alive during the events of ''The Hobbit'', Bain appears in the [[The Hobbit (film series)|''Hobbit'' films]] at age of about 13 and has two sisters, older [[Sigrid]] and younger [[Tilda]]. He is played by [[John Bell]].<ref name=Bell>{{webcite|author=Evie Bowman|articleurl=http://news.mymiddleearth.com/2012/07/03/exclusive-qa-with-hobbit-actor-john-bell/|articlename=EXCLUSIVE! Q&A WITH HOBBIT ACTOR JOHN BELL|dated=03-July-2012|website=MEN|accessed=02-July-2013}}</ref>
+
+:Bain assists his father [[Bard]] in smuggling [[Bilbo Baggins]] and [[Thorin and Company]] into their house. When the [[Dwarves]] see a windlance outside their window, they recall the [[Sack of Erebor]], and Bain relates the story of how [[Girion]] managed to knock one of [[Smaug]]'s scales loose in the attack, though the Dwarves don't believe him. Just before being arrested, Bard instructs Bain to hide the last [[black arrow]] he has in his possession. When [[Bolg]]'s [[Orcs|Orc]] pack attacks [[Lake-town]], Bain assists [[Legolas]], [[Tauriel]], [[Fíli]], [[Kíli]], [[Óin]], and [[Bofur]] in fighting off the Orcs, and protects his sisters the best he can.
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:Bain, Sigrid, and Tilda follow Tauriel and the Dwarves to evacuate Lake-town via boat while Smaug is destroying it. When he sees Bard making a last stand against the [[Dragons|Dragon]], Bain goes off to find the boat in which he hid the black arrow, and manages to deliver it to his father atop the bell tower. Bard constructs a large makeshift bow from the tower to fire the arrow at Smaug, using his son's shoulder to balance and aim the arrow. Bard urges him to stay calm as he fires the shot that ultimately kills the [[Fire-drakes|fire-drake]]. Later, as the [[Battle of Five Armies]] is getting underway, he and his sisters go into hiding in the ruins of [[Dale]] until the battle is over.
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=northmen
+| died={{TA|3007}}
+}}
+{{seq
+| prev=[[Bard|Bard I]]
+| list=2nd [[King of Dale]]
+| dates={{TA|2977}} – {{TA|3007|n}}
+| next=[[Brand]]
+}}
+{{seq-end}}
+{{hobbitfilms}}
+[[Category:Bardings]]
+[[Category:Kings of Dale]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+
+[[de:Bain]]
+[[fi:Bain]]
+[[fr:encyclo:personnages:hommes:3a:hommes du nord:daliens:bain]]

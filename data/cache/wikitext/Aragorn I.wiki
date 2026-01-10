@@ -1,0 +1,93 @@
+{{disambig-two|the [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]|[[High King (Dúnedain)|High King]] of the [[Reunited Kingdom]]|[[Aragorn II]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Aragorn I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Chieftain of the Dúnedain]]
+| position=
+| location=[[Rivendell]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|2227}}
+| birthlocation=
+| rule={{TA|2319}} - {{TA|2327|n}}
+| death={{TA|2327}}
+| deathlocation=
+| age=100
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Aravir]]
+| siblings=
+| spouse=
+| children=[[Araglas]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aragorn I''' ({{TA|2227}}<ref>{{PM|Elendil}}, p. 196</ref> - {{TA|2327|n}},<ref name="North">{{App|North}}</ref> died aged 100) was the son of [[Aravir]], and fifth [[Chieftain of the Dúnedain]].
+
+==History==
+Little is known of his life as it was during the [[Watchful Peace]], other than that he succeeded his father when Aravir died in 2319. It is likely that his short rule was uneventful, with small battles to free the lands of evil. 
+
+Indeed, after having ruled as Chieftain for only eight years, his life was cut short in {{TA|2327}}, when he was killed by wild [[wolves]] in [[Eriador]] (which were always a peril in that land). He was succeeded by his son [[Araglas]].<ref name="North"/><ref>{{App|Eriador}}</ref>
+
+==Etymology==
+{{seealso|Aragorn#Etymology}}
+Aragorn's name is [[Sindarin]], and means "Revered King", from ''[[ara]]'', a prefix for royalty, and ''gorn'' "revered".<ref>{{PE|17}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | HOS |HOS=''[[House of Isildur]]''}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ARA |ARA=[[Aranuir]]<br/><small>''{{TA|2084|n}} - {{TA|2247|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Aravir]]<br/><small>''{{TA|2156|n}} - {{TA|2319|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA='''ARAGORN I'''<br/><small>''{{TA|2227|n}} - {{TA|2327|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Araglas]]<br/><small>''{{TA|2296|n}} - {{TA|2455|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ARA |ARA=[[Arahad I]]<br/><small>''{{TA|2365|n}} - {{TA|2523|n}}''</small>}}
+{{familytree | |:| |}}
+{{familytree | |:| |}}
+{{familytree | ELE |ELE=[[Aragorn II]] '''Elessar'''<br/><small>''{{TA|2931}} - {{FoA|120}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|2227}}
+| died={{TA|2327}}
+}}
+{{seq
+| prow=2
+| prev=[[Aravir]]
+| list=28th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|2319}} - {{TA|2327|n}}
+| next=[[Araglas]]
+| nrow=2
+}}
+{{seq
+| list=5th [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]
+| dates={{TA|2319}} - {{TA|2327|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+[[Category:House of Isildur]]
+[[Category:Chieftains of the Dúnedain]]
+[[Category:Third Age characters]]
+
+[[de:Aragorn I.]]
+[[fi:Aragorn I]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/dunedain du nord/aragorn ier]]

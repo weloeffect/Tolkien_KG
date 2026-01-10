@@ -1,0 +1,61 @@
+{{disambig-more|Fastred|[[Fastred (disambiguation)]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Fastred
+| image=Lukasz Jaskolski - Fastred.jpg
+| caption="Fastred" by [[:Category:Images by Lukasz Jaskolski|Lukasz Jaskolski]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=
+| birthlocation=
+| rule=
+| death=[[15 March]], {{TA|3019}}
+| deathlocation=[[Battle of the Pelennor Fields]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Fastred''' was a man of [[Rohan]] during the [[War of the Ring]].
+
+==History==
+Fastred rode with his king [[Théoden]] to the [[Battle of the Pelennor Fields]], where he was killed. His name was remembered in the ''[[Song of the Mounds of Mundburg]]''.<ref>{{RK|Battle}}</ref>
+
+==Etymology==
+''Fastred'' in [[Old English]] means "fast-rede, firm-counsel".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+==Portrayal in adaptations==
+===Fastred in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+The Lord of the Rings Online - Fastred.jpg|Fastred in ''[[The Lord of the Rings Online]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:
+
+'''2012: ''[[The Lord of the Rings Online: Riders of Rohan]]'':'''
+:Fastred is a major character in the [[Rohan]] storyline. A great warrior, Fastred is also stubborn and rash, always seeking to revenge against the [[Orcs]] for the death of his father. When [[Éomer]] orders all people to abandon [[Eastemnet]] and move across the [[Entwash]] river, Fastred openly defies his order, keeping his family in the city and leading his riders against the raiding parties of the [[Mordor]] Orcs instead. Fastred is next met by the player in the [[Druadan Forest]] during the ride of the Rohirrim to [[Minas Tirith]], and he later fights in the [[Battle of the Pelennor Fields]].
+
+{{references}}
+{{title}}
+[[Category:Rohirrim]]
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Third Age characters]]
+
+[[de:Fastred (Reiter Rohans)]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/fastred]]
+[[fi:Fastred (Rohanin ratsastaja)]]

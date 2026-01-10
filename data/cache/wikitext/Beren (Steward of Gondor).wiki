@@ -1,0 +1,90 @@
+{{short description|19th Steward of Gondor}}
+{{disambig-more|Beren|[[Beren (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Beren
+| image=The Lord of the Rings Online - Saruman receives the keys to Orthanc from Beren.jpg
+| caption=''[[The Lord of the Rings Online]]'' tapestry: "Saruman the White receives the keys to Orthanc from Beren, Steward of Gondor"
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2655}}
+| birthlocation=
+| rule={{TA|2743}} - {{TA|2763|n}} (20 years)
+| death={{TA|2763}}
+| deathlocation=
+| age=108
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Egalmoth (Steward of Gondor)|Egalmoth]]
+| siblings=
+| spouse=
+| children=[[Beregond (Steward of Gondor)|Beregond]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Beren''' ([[Third Age]] 2655<ref>{{PM|Elendil}}, p. 205</ref> – 2763,<ref name="South">{{App|South}}</ref> aged 108 years) was the nineteenth [[Ruling Steward]] of [[Gondor]].
+==History==
+Beren succeeded his father [[Egalmoth (Steward of Gondor)|Egalmoth]] at his death in {{TA|2743}}.<ref name="South"/> 
+
+Beren spent much of his rule fighting the [[Corsairs of Umbar]] for the [[Outlands|coasts]] were assailed by three great fleets from [[Umbar]] and from [[Harad]] up to the mouth of [[Isen]]. During the [[Long Winter]] of {{TA|2758}} - {{TA|2759|n}}, [[Rohan]] came under attack from the [[Dunlendings]], but as both nations were under attack neither could help each other. Before spring his son [[Beregond (Steward of Gondor)|Beregond]] overcame the invaders and was able to send help to Rohan and  fulfill the [[Oath of Eorl]].
+
+After the wars, [[Saruman]] suddenly appeared and requested leave to dwell in [[Isengard]], and Beren gladly gave the [[Wizard]] the [[key of Orthanc]].<ref>{{App|Stewards}}</ref>
+
+Beregond followed Beren at his death in {{TA|2763|n}}.<ref name="South"/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | BEL | | |BEL=[[Belecthor I]]<br/><small>''{{TA|2545|n}} - {{TA|2655|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ORO | | MOR |ORO=[[Orodreth (Steward of Gondor)|Orodreth]]<br/><small>''{{TA|2576|n}} - {{TA|2685|n}}''</small>|MOR=[[Morwen (daughter of Belecthor)|Morwen]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | ECT | | UNK |ECT=[[Ecthelion I]]<br/><small>''{{TA|2600|n}} - {{TA|2698|n}}''</small>|UNK=''Unknown''<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | EGA |EGA=[[Egalmoth (Steward of Gondor)|Egalmoth]]<br/><small>''{{TA|2626|n}} - {{TA|2743|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | BER |BER='''BEREN'''<br/><small>''{{TA|2655|n}} - {{TA|2763|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | BER |BER=[[Beregond (Steward of Gondor)|Beregond]]<br/><small>''{{TA|2700|n}} - {{TA|2811|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | BEL |BEL=[[Belecthor II]]<br/><small>''{{TA|2752|n}} - {{TA|2872|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+: A tapestry depicting Saruman and Beren is found in [[Meduseld]].
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2655}}
+| died={{TA|2763}}
+}}
+{{seq
+| prev=[[Egalmoth (Steward of Gondor)|Egalmoth]]
+| list=19th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2743}} - {{TA|2763|n}}
+| next=[[Beregond (Steward of Gondor)|Beregond]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Beren (Truchsess von Gondor)]]
+[[fi:Beren (Gondorin käskynhaltija)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:beren]]

@@ -1,0 +1,79 @@
+{{disambig-more|Eärendil|[[Eärendil (disambiguation)]]}}
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Eärendil
+| image=Matěj Čadil - Eärendil of Gondor.jpg
+| caption="Eärendil of Gondor" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=[[Kings of Gondor|King of Gondor]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]] and [[Sindarin]]
+| birth={{TA|48}}
+| birthlocation=
+| rule={{TA|238}} - {{TA|324|n}} (86 years)
+| death={{TA|324}}
+| deathlocation=
+| age=276
+| notablefor=
+| house=[[House of Anárion]]
+| parentage=[[Cemendur (King of Gondor)|Cemendur]]
+| siblings=
+| spouse=
+| children=[[Anardil (King of Gondor)|Anardil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Eärendil''' ([[Quenya|Q]] "sea-friend", pron. {{IPA|[ˌe.aˈrendil]}}; {{TA|48}}<ref name="Elendil">{{PM|Elendil}}</ref> – {{TA|324|n}},<ref>{{App|South}}</ref> aged 276 years) was the fifth [[King of Gondor]], ruling for 86 years, from {{TA|238|n}} until his death.
+
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | MEN |UNN=''Three children''|MEN=[[Meneldil]]<br/><small>''{{SA|3318}} - {{TA|158}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | CEM |CEM=[[Cemendur (King of Gondor)|Cemendur]]<br/><small>''{{SA|3399}} - {{TA|238}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | EAR |EAR='''EÄRENDIL'''<br/><small>''{{TA|48}} - {{TA|324|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | ANA |ANA=[[Anardil (King of Gondor)|Anardil]]<br/><small>''{{TA|136}} - {{TA|411|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | OST |OST=[[Ostoher]]<br/><small>''{{TA|222}} - {{TA|492|n}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In ''[[The Peoples of Middle-earth]]'', Section VII "[[The Heirs of Elendil]]", it was explained that three manuscripts existed in the textual history of this section.  Manuscript A contained the Southern Line of Gondor, and appeared to be the first stage of composition.  Manuscript B added the Northern Line, and began as a fair copy of A for the Southern line but became heavily emended.  Manuscript B led to Manuscript C, a fine copy (but with later emendations), which led to a final typescript D.  In the earlier Manuscripts A and B, Eärendil lived from {{TA}} 40 to 316 instead of {{TA|48}} to {{TA|324|n}}.<ref name="Elendil"/>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Anárion]]<small><br/>Cadet branch of the [[House of Elendil]]</small>
+| born={{TA|48}}
+| died={{TA|324}}
+}}
+{{seq
+| prev=[[Cemendur (King of Gondor)|Cemendur]]
+| list=5th [[King of Gondor]]
+| dates={{TA|238}} - {{TA|324|n}}
+| next=[[Anardil (King of Gondor)|Anardil]]
+}}
+{{seq-end}}
+
+{{southernline}}
+
+{{title}}
+{{DEFAULTSORT:Earendil of Gondor}}
+[[Category:Gondorians]]
+[[Category:House of Anárion]]
+[[Category:Rulers of Gondor]]
+[[Category:Third Age characters]]
+[[de:Earendil (König von Gondor)]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:earendil]]
+[[fi:Eärendil (Gondorin kuningas)]]

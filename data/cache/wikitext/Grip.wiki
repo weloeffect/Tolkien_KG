@@ -1,0 +1,51 @@
+{{disambig-two|Farmer Maggot's dog|dog belonging to Bill Butcher|[[Grip (Bill Butcher's dog)]]}}
+{{infobox character
+| people=[[Dogs|Dog]]
+| image=Miriam Ellis - Grip.png
+| caption=Grip - Illustration by [[Miriam Ellis]]
+| name=Grip
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Bamfurlong]]
+| affiliation=[[Farmer Maggot]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Dogs|Dog]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Grip''' was a large wolf-like [[Dogs|dog]], one of three kept by [[Farmer Maggot]] on his farm at [[Bamfurlong]] in the [[Marish]]. Like Maggot's other dogs, [[Fang (dog)|Fang]] and [[Wolf (dog)|Wolf]], Grip was ferocious by nature. 
+
+Grip was with Maggot when a stranger in the form of a [[Black Rider]] came to the farm searching for '[[Baggins Family|Baggins]]', and at that time his obedience and ferocity failed: he sniffed the stranger, then yelped in terror and ran from him howling, sensing the [[Black Shadow]].<ref>{{FR|I4}}</ref>
+
+==Portrayal in adaptations==
+===Grip in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings Online - Grip.jpg|''[[The Lord of the Rings Online]]''
+File:Andrea Piparo - Farmer Maggot (WotR TCG).jpg|''[[War of the Ring: The Card Game]]''
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Grip, along with [[Fang (dog)|Fang]] and [[Wolf (dog)|Wolf]], can be found next to [[Farmer Maggot]] in [[Bamfurlong]]. They can be interacted with during the "Chicken Play" and are also part of a festival "Maggot's Mushroom Hunt" mini-game.
+
+{{References}}
+[[Category:Dogs]]
+[[Category:Third Age characters]]
+[[de:Greif]]
+[[fi:Tarra]]

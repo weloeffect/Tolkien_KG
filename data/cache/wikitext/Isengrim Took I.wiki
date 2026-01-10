@@ -1,0 +1,50 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Isengrim Took I
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]] of [[the Shire]]
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=Sometime between {{SR|740}} and {{SR|1083}}
+| birthlocation=
+| rule=Sometime between {{SR|740}} and {{SR|1083}}
+| death=Sometime between {{SR|740}} and {{SR|1083}}
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Isengrim Took I''' was a [[Hobbits|Hobbit]] of [[the Shire]] who held the position of [[Thain]] some time between {{SR|740}} and {{SR|1083}}.
+
+==History==
+There are no direct records of Isengrim I but he was evidently the namesake of [[Isengrim Took II|Isengrim II]].<ref name="App|Took">{{App|Took}}</ref> Isengrim I's reign as Thain came between the beginning of the Took line of Thains in {{SR|740}} and the reign of Isengrim II, which began in {{SR|1083}}, after which there were no gaps in the Took family's genealogy.<ref name="App|B2">{{App|B2}}</ref>
+
+==Etymology==
+''Isengrim'' is of [[Old English|Anglo-Saxon]] origin and comes from ''isen'' meaning "iron" and ''grim'' meaning "fierce".
+
+''Isengrim'' is the name of a wolf who appears in many medieval epics, including the story of [[wikipedia:Reynard the Fox|Reynard the Fox]] which originated in French folklore.<ref>{{HM|N}}, p. 760</ref>
+
+{{references|n}}
+{{thains}}
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]

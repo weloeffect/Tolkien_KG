@@ -1,0 +1,55 @@
+{{disambig-more|Nar|[[Nár (disambiguation)]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Nar
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=[[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|What fun to be off again, off on the Road with dwarves! This is what I have really been longing for, for years! Goodbye!|[[Bilbo Baggins]]}}
+
+'''Nar''' was one of the [[Dwarves]] that helped [[Bilbo Baggins]] on the preparations for his [[Bilbo's Farewell Party|big birthday feast]].
+
+== History ==
+Bilbo had ordered presents from [[Erebor]] and [[Dale]],<ref group=note>As such, Nar and his companions are probably [[Dwarves of Erebor]].</ref> and in [[September]] dwarves with long beards and deep hoods driving a wagon came to [[Hobbiton]]. Some of them, stayed in [[Bag End]] for the following days doing preparations.
+
+After Bilbo's disappearance trick, he returned invisible to Bag End while dwarves were doing work in various rooms, packing and labelling Bilbo's farewell presents. Bilbo took his stuff and had a quarrel with Gandalf about leaving [[One Ring|his magic ring]] behind. After the dialogue, Bilbo whistled and Nar, [[Anar (dwarf)|Anar]] and [[Hannar]], came and said that everything was ready and labelled. Then they took off.<ref>{{FR|Party}}</ref>
+
+== Other versions of the legendarium ==
+The names of Nar, Anar and Hannar appear in the early writings of the chapter "[[A Long-expected Party]]", where Nar was given some dialogue and a bit more development.  However, [[J.R.R. Tolkien|Tolkien]] later changed his mind, and did not disclose their names in the published book nor gave him any dialogue; the name [[Nár]] was given to a different dwarf in the final work. 
+
+In that early text also, except the three dwarves who accompanied Bilbo, there was a fourth dwarf, [[Lofar]], who stayed behind, but there is no trace or mention of him in the published book.<ref>{{RS|Return}}</ref>
+
+== Etymology ==
+''Nár'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. His name means "Corpse".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+{{references|note}}
+{{title}}
+[[Category:Dwarves]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]

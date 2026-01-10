@@ -1,0 +1,104 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Bandobras Took
+| image=Gregor Roffalski - Bandobras Took.jpg
+| caption="Bandobras Took" by [[:Category:Images by Gregor Roffalski|Gregor Roffalski]]
+| pronun=
+| othernames=Bullroarer
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{TA|2704}}
+| birthlocation=
+| rule=
+| death={{TA|2806}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Isumbras Took III|Isumbras III]]
+| siblings=[[Ferumbras Took II|Ferumbras II]]
+| spouse=
+| children=
+| gender=Male
+| height=4'5<nowiki>''</nowiki> (135cm)<ref name="Hobbits"/>
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Bandobras "the Bullroarer" Took''' was the son of [[Thain]] [[Isumbras Took III|Isumbras III]] of the [[Took Family|Took]] line.<ref name="Took">{{App|Took}}</ref> He was distinguished by his great height (for a [[Hobbits|Hobbit]]), being four foot five and thus able to ride a horse.<ref name="Hobbits">{{FR|Hobbits}}</ref>
+
+==History==
+Bandobras was famous for averting a [[Orcs|goblin]] invasion of [[the Shire]] at the [[Battle of Greenfields]] of {{TA|2747}},<ref name=ta>{{App|TA}}</ref> and personally slaying the goblins' king, [[Golfimbul]]. Bandobras took off the head of the goblin king with a wood club, causing it to fly through the air for 100 yards and fall down a rabbit hole; it is said that this is how the game of [[golf]] was invented.<ref name="Party">{{H|Party}}</ref>
+
+Nothing is known about Bandobras' family, other than he had "many descendants", some of whom were the [[North-took Family|North Tooks]] of [[Long Cleeve]].<ref name="Took"/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | ISG | | |ISG=[[Isengrim Took II|Isengrim II]]}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ISB | | |ISB=[[Isumbras Took III|Isumbras III]]}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | FRB | | BDB |FRB=[[Ferumbras Took II|Ferumbras II]]|BDB='''BANDOBRAS'''}}
+{{familytree | |!| | | |!| |}}
+{{familytree | FTB | | MDS |FTB=[[Fortinbras Took I|Fortinbras I]]|MDS=Many descendants,<br/>Including the<br/>[[North-took Family|North-tooks]]<br/>of [[Long Cleeve]]}}
+{{familytree/end}}
+
+==Etymology==
+Bandobras is a combination of the elements ''bando'' ("band", "stripe", "banner") and ''bras'' ("arm").<ref>{{HM|IE}}, Giving of Names, p. 191</ref>
+
+[[J.R.R. Tolkien|Tolkien]] noted that the alliteration between Bandobras and Bullroarer was significant and that translators should attempt to keep it.
+
+Tolkien believed while writing ''[[The Hobbit]]'' that "bullroarer" was an instrument of primitive peoples that made a roaring sound, as named by anthropologists, though he could not find it in any dictionaries.<ref name="Nomen">{{HM|N}}, p. 764</ref>
+
+==Other versions of the legendarium==
+In editions prior to the [[The Lord of the Rings (50th Anniversary Edition)|50th Anniversary Edition]] of ''The Lord of the Rings'', the Prologue gave Bandobras' father as [[Isengrim Took II|Isengrim II]]. This was based on an earlier version of the Took family tree,<ref>{{RS|3XIXc}}</ref> but was never corrected.<ref>{{HM|RC}}, p. 6</ref>
+
+==Inspirations==
+It is possible [[J.R.R. Tolkien]] was inspired by one George von Hohenzollern, who, like the Bullroarer to Bilbo, held the image of the bold ancestor to Tolkien:
+{{Blockquote|He [the Bullroarer] charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club.|"[[An Unexpected Party]]"<ref name="Party"/>}}
+{{Blockquote|She [Tolkien's aunt Grace] alleged that the family name ["Tolkien"] had originally been "von Hohenzollern", for they had emanated from the Hohenzollern district of the Holy Roman Empire. A certain George von Hohenzollern had, she said, fought on the side of Archduke Ferdinand of Austria at the Siege of Vienna in 1529. He had shown great daring in leading an unofficial raid against the Turks and capturing the Sultan’s standard. This (said Aunt Grace) was why he was given the nickname Tollkühn, "foolhardy"; and the name stuck.|[[Humphrey Carpenter]]<ref>{{HM|Bio}}</ref>}}
+
+==Portrayals in adaptations==
+===Bandobras Took in adaptations===
+<gallery mode="traditional" widths="240px" heights="180px">
+File:The Lord of the Rings Online - Bullroarer's statue.jpg|Bullroarer's statue in ''[[The Lord of the Rings Online]]''
+File:The Hobbit - An Unexpected Journey - Bandobras Took.jpg|Portrait of Bandobras Took in ''[[The Hobbit: An Unexpected Journey]]''
+</gallery>
+===Films===
+'''1966: ''[[The Hobbit]]'':'''
+:Bandobras is briefly mentioned as Bilbo's "great-great-grandhobbit". In Bag End Bilbo has a drawing of Bandobras,sword upraised,standing triumphantly over the corpse of a wolf.
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:In trying to convince [[Bilbo Baggins|Bilbo]] of his [[Tooks|Tookishness]], [[Gandalf]] talks about the story of Bandobras Took and his victory at the [[Battle of Greenfields]]. He also says that Bandobras invented the game of golf in his killing of [[Golfimbul]] but qualifies this by suggesting that it is an embellishment. The portrait was based on [[Dan Hennah]], the production designer for the films.
+
+===Games===
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:The first Hobbit outside [[Bag End]] recounts the story of Bandobras, followed by the accusations that young hobbits do not know enough about their history.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:The public test server is named Bullroarer after Bandobras Took.
+
+:In [[Brockenborings]] there is a wooden statue depicting Bandobras just after he defeated Golfimbul. Every Spring [[the Shire]] celebrates Bullroarer Took Day when the Hobbits drink tankards of Bullroarer's Brew and also place tankards of the drink under his statue in his honor. Bullroarer's Brew was Bandobras' favorite drink and it was named after him. It is a beer brewed out of clovers.
+
+:Besides inventing golf, Bandobras also invented fence walking. Every morning Bullroarer would drink his favorite beer and then walk across a fence. It is said that he did this to improve his balance. Hobbits would play fence walking as part of the Bullroarer Took Day celebration.
+
+'''2014: ''[[Lego The Hobbit: The Video Game]]'''''
+:Bandobras is an obtainable playable character.
+
+==See also==
+*[[:Category:Images of Bandobras Took|Images of Bandobras Took]]
+
+{{references}}
+[[Category:Characters in The Hobbit]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Bandobras Tuk]]
+[[fi:Bandobras Tuk]]
+[[fr:encyclo:personnages:hobbits:touque:bandobras touque]]

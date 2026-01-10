@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Ferumbras Took III
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=[[Thain]]
+| location=[[Great Smials]]
+| affiliation=
+| language=
+| birth={{SR|1316}}
+| birthlocation=
+| rule={{SR|1380}} - {{SR|1415|n}}
+| death={{SR|1415}}
+| deathlocation=
+| age=99
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Fortinbras Took II|Fortinbras II]] and [[Lalia Clayhanger]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ferumbras Took III''' was the thirtieth [[Thain]] of [[the Shire]].
+
+==History==
+Ferumbras was the son of [[Thain]] [[Fortinbras Took II|Fortinbras II]] and [[Lalia Clayhanger]]. As Lalia outlived her husband, in accordance with [[Took Family|Took]] tradition she continued as matriarch of the family, and despite Ferumbras being Thain he was only accorded a small bachelor pad in [[Great Smials]]. He remained unmarried, and according to legend it was because no woman could stand living in with Lalia.<ref name="L214">{{L|214}}</ref>
+
+Ferumbras attended [[Bilbo's Farewell Party]] in {{SR|1401}}. He died in the year {{SR|1415}}.<ref name="Took">{{App|Took}}</ref> As Ferumbras left no heir the Thainship passed to his second cousin, [[Paladin Took II]].<ref name="L214"/>
+
+==Etymology==
+[[Wikipedia:Ferumbras|Ferumbras]] is a name from the [[wikipedia:Roland|legends of Roland]], a corruption of Frankish ''fier à bras'', "brave arm".
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | OLD |y| CHU | | | | | | | | |OLD=[[Gerontius Took|The Old Took]]<br/><small>''{{SR|1190|n}} - {{SR|1320|n}}''</small>|CHU=[[Adamanta Chubb]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| | | | | | | |}}
+{{familytree | ISE | | ISU | | HIL |y| ROS | | |ISE=[[Isengrim Took III|Isengrim III]]<br/><small>''{{SR|1232|n}} - {{SR|1330|n}}''</small>|ISU=[[Isumbras Took IV|Isumbras IV]]<br/><small>''{{SR|1238|n}} - {{SR|1339|n}}''</small>|HIL=[[Hildigrim Took|Hildigrim]]<br/><small>''{{SR|1240|n}} - {{SR|1341|n}}''</small>|ROS=[[Rosa Baggins]]<br/><small>''{{SR|1256|n}} - unknown''</small>}}
+{{familytree | | | | | |!| | | | | |!| | | | | |}}
+{{familytree | LAL |y| FOR | | | | ADA | | | | | FOR=[[Fortinbras Took II|Fortinbras II]]<br/><small>''{{SR|1278|n}} - {{SR|1380}}''</small>|LAL=[[Lalia Clayhanger]]<br/><small>''{{SR|1283|n}} - {{SR|1402|n}}''</small>|ADA=[[Adalgrim Took|Adalgrim]]<br/><small>''{{SR|1280|n}} - {{SR|1382|n}}''</small>}}
+{{familytree | | | |!| | | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | | | FER | | DAU | | PAL | | ESM |FER='''FERUMBRAS III'''<br/><small>''{{SR|1316|n}} - {{SR|1415|n}}''</small>|DAU=''3 daughters''|PAL=[[Paladin Took II|Paladin II]]<br/><small>''{{SR|1333|n}} - {{SR|1434|n}}''</small>|ESM=[[Esmeralda Took|Esmeralda]]<br/><small>''{{SR|1336|n}} - unknown''</small>}}
+{{familytree | | | | | | | | | | | |!| | | |!| |}}
+{{familytree | | | | | | | | | | | PIP | | MER |PIP=[[Peregrin Took|Peregrin I]]<br/><small>''{{SR|1390|n}} - {{SR|1484|n}}+''</small>|MER=[[Meriadoc Brandybuck|Meriadoc<br>Brandybuck]]<br/><small>''{{SR|1382|n}} - {{SR|1484|n}}+''</small>}}
+{{familytree/end}}
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1316}}
+| died={{SR|1415}}
+}}
+{{Seq
+| prev=[[Fortinbras Took II]]
+| list=30th [[Thain]] of [[The Shire]]
+| dates={{SR|1380}} - {{SR|1415|n}}
+| next=[[Paladin Took II]]
+}}
+{{seq-end}}
+{{thains}}
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Ferumbras Tuk III.]]
+[[fi:Ferumbras III Tuk]]

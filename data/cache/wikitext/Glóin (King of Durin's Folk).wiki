@@ -1,0 +1,84 @@
+{{disambig-two|the King of [[Durin's Folk]]|the father of [[Gimli]]|[[Glóin]]}}
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Glóin
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=[[Kings of Durin's Folk|King of Durin's Folk]]
+| position=
+| location=[[Grey Mountains]]
+| affiliation=
+| language=[[Khuzdul]]
+| birth={{TA|2136}}
+| birthlocation=[[Lonely Mountain]]
+| rule={{TA|2289}} - {{TA|2385|n}}
+| death={{TA|2385|n}} (aged 249)
+| deathlocation=[[Grey Mountains]]
+| age=
+| notablefor=
+| house=[[House of Durin]]
+| parentage=[[Thorin I]]
+| siblings=
+| spouse=
+| children=[[Óin (King of Durin's Folk)|Óin]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Glóin''' ([[Third Age]] {{TA|2136|n}} – {{TA|2385|n}}, died age 249) was the King of [[Durin's Folk]] for 96 years, succeeding his father [[Thorin I]] upon his death in {{TA|2289}}, being the heir of [[Durin|Durin the Deathless]].<ref name="AppA">{{App|A3}}</ref>
+
+==History==
+In {{TA|2210}} Glóin's father, King [[Thorin I|Thorin]], removed the last dwarves from [[Lonely Mountain|Erebor]] to the [[Grey Mountains]] where the remnants of [[Durin's Folk]] now were. Glóin reigned over the [[dwarves]] from there, but otherwise very little is known of his life and reign.
+
+Glóin died in {{TA|2385|n}}, at the age of 249, and was succeeded by his son, [[Óin (King of Durin's Folk)|Óin]].<ref name="AppA"/>
+
+==Etymology==
+{{Pronounce|Gloin.mp3|Ardamir}}
+''Glóinn'' is a dwarf in the ''[[Völuspá|Dvergatal]]''. The name means "Glowing one".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | THR | | | | |THR=[[Thráin I]]<br/><small>''{{TA|1934|n}} - {{TA|2190|n}}''</small>}}
+{{familytree| | | | | |!| | | | | |}}
+{{familytree| | | | | THO | | | | |THO=[[Thorin I]]<br/><small>''{{TA|2035|n}} - {{TA|2289|n}}''</small>}}
+{{familytree| | | | | |!| | | | | |}}
+{{familytree| | | | | GLO | | | | |GLO='''GLÓIN'''<br/><small>''{{TA|2136|n}} - {{TA|2385|n}}''</small>}}
+{{familytree| | | | | |!| | | | | |}}
+{{familytree| | | | | OIN | | | | |OIN=[[Óin (King of Durin's Folk)|Óin]]<br/><small>''{{TA|2238|n}} - {{TA|2488|n}}''</small>}}
+{{familytree| | | | | |!| | | | | |}}
+{{familytree| | | | | NAI | | | | |NAI=[[Náin II]]<br/><small>''{{TA|2338|n}} - {{TA|2585|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=dwarf
+| house=[[Durin's Folk|House of Durin]]
+| born={{TA|2136}}
+| died={{TA|2385}}}}
+{{seq
+| prev=[[Thorin I]]
+| list=[[Kings of Durin's Folk|King of Durin's Folk]]
+| dates={{TA|2289}} – {{TA|2385|n}}
+| next=[[Óin (King of Durin's Folk)|Óin]]
+}}
+{{seq-end}}
+
+{{title}}
+{{durinskings}}
+{{DEFAULTSORT:Gloin (King of Durin's Folk)}}
+[[Category:Dwarves]]
+[[Category:Dwarven names]]
+[[Category:Kings of Durin's Folk]]
+[[Category:Longbeards]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]
+[[de:Glóin I.]]
+[[fi:Glóin (Durinin heimon kuningas)]]
+[[fr:encyclo/personnages/nains/3a/gloin i]]

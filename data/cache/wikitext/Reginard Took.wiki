@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Reginard Took
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1369}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Adelard Took]]
+| siblings=[[Everard Took|Everard]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Reginard Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+
+==History==
+Reginard was the son of [[Adelard Took]]. He was present at [[Bilbo Baggins|Bilbo's]] [[Bilbo's Farewell Party|Farewell Party]].<ref>{{App|Took}}</ref>
+
+==Etymology==
+The name contains ''ragin'' "counsel" and ''hard'' "strong".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Reginard Tuk]]
+[[fi:Reginard Tuk]]
+[[fr:encyclo/personnages/hobbits/touque/reginard touque]]

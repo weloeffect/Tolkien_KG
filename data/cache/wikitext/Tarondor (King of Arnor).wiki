@@ -1,0 +1,87 @@
+{{disambig-two|the [[Kings of Arnor|King]] of [[Arnor]]|[[Kings of Gondor|King]] of [[Gondor]]|[[Tarondor (King of Gondor)]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Tarondor
+| image=
+| caption
+| pronun=
+| othernames=
+| titles=[[King of Arnor]]
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|372}}
+| birthlocation=
+| rule={{TA|515}} - {{TA|602|n}}
+| death={{TA|602}}
+| deathlocation=
+| age=230
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Tarcil]]
+| siblings=
+| spouse=
+| children=[[Valandur]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tarondor''' ({{TA|372}}<ref>{{PM|Elendil}}, p. 292</ref>-{{TA|602|n}},<ref name="North">{{App|North}}</ref> died aged 230) was the seventh [[King of Arnor]].
+
+==History==
+Tarondor was the son of King [[Tarcil]], and succeeded his father when he died in [[Third Age 515]]. 
+
+He ruled the [[Arnor|North-kingdom]] in a time of peace, long before the troubles came that would overwhelm and destroy it. He ruled for eighty-seven years, and was succeeded by his son, [[Valandur]], when he died in [[Third Age 602]].<ref name="North"/>
+
+==Etymology==
+''Tarondor'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "King of Stones" and is a compound of ''[[tar]]'' ("high", "king") and the plural form of ''[[ondo]]'' ("stone").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-426862149.html|articlename=Q. ''Tarondor'' m.|website=Eldamo|accessed=27 January 2022}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | ARA |ARA=[[Arantar]]<br/><small>''{{TA|185|n}} - {{TA|435|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR=[[Tarcil]]<br/><small>''{{TA|280|n}} - {{TA|515|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR='''TARONDOR'''<br/><small>''{{TA|372|n}} - {{TA|602|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | TAR |TAR=[[Valandur]]<br/><small>''{{TA|462|n}} - {{TA|652|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | ELE |ELE=[[Elendur (King of Arnor)|Elendur]]<br/><small>''{{TA|552|n}} - {{TA|777|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|372}}
+| died={{TA|602}}
+}}
+{{seq
+| prow=2
+| prev=[[Tarcil]]
+| list=5th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|515}} - {{TA|602|n}}
+| next=[[Valandur]]
+| nrow=2
+}}
+{{seq
+| list=7th [[Kings of Arnor|King of Arnor]]
+| dates={{TA|515}} - {{TA|602|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+{{title}}
+[[Category:House of Isildur]]
+[[Category:Rulers of Arnor]]
+[[Category:Third Age characters]]
+[[de:Tarondor (König von Arnor)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/dunedain_du_nord/tarondor]]
+[[fi:Tarondor (Arnor)]]

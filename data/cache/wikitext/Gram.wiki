@@ -1,0 +1,76 @@
+{{disambig-two|the King of Rohan|the mountain|[[Mount Gram]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Gram
+| image=Lída Holubová - The House of Eorl - Gram.jpg
+| caption="The House of Eorl - Gram" by [[Lída Holubová]]
+| pronun=
+| othernames=
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2668}}
+| birthlocation=
+| rule={{TA|2718}}-{{TA|2741|n}} (23 years)
+| death={{TA|2741}} (aged 73)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Déor]]
+| siblings=
+| spouse=
+| children=[[Helm|Helm Hammerhand]], [[Hild]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gram''' ([[Third Age]] {{TA|2668|n}} – {{TA|2741|n}}, aged 73 years) was the eighth [[King of Rohan]]. 
+
+==History==
+Gram was the son of [[Déor]] and father of [[Helm|Helm Hammerhand]] and [[Hild]]. His reign was a time of warfare with the [[Dunlendings]], who had occupied [[Isengard]] during his father's time, and continued to raid and harass the [[Rohirrim]].<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+[[J.R.R. Tolkien]] comments that the name in [[Old Norse]] has the meaning "warrior" or "king", which is not the case with recorded [[Old English]]. However he presupposes some poetic influence of [[Northern Mannish]] upon [[Rohanese]] (similar to the influence between Old Norse and Old English), after which the name can be understood as such.<ref>{{L|297|112}}</ref> ''Gram'' means "furious" or "fierce" in Old English.<ref>{{HM|RC}}, p. 643</ref><ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/17448|articlename=gram|accessed=24 July 2025}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | GOL | | |GOL=[[Goldwine]]<br/><small>''{{TA|2619|n}} - {{TA|2699|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | | | | | DEO | | |DEO=[[Déor]]<br/><small>''{{TA|2644|n}} - {{TA|2718|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | | | | | GRA | | |GRA='''GRAM'''<br/><small>''{{TA|2668|n}} - {{TA|2741|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | HEL | | HIL |HEL=[[Helm|Helm Hammerhand]]<br/><small>''{{TA|2691|n}} - {{TA|2759|n}}''†</small>|HIL=[[Hild]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | HAL | | HAM | | DAU | | FRE |HAL=[[Haleth (son of Helm)|Haleth]]<br/><small>''d. {{TA|2758|n}}''†</small>|HAM=[[Háma (son of Helm)|Háma]]<br/><small>''d. {{TA|2759|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FRE=[[Fréaláf|Fréaláf Hildeson]]<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2668}}
+| died={{TA|2741}}}}
+{{seq
+| prev=[[Déor]]
+| list=8th [[Kings of Rohan|King of Rohan]]
+| dates={{TA|2718}} – {{TA|2741|n}}
+| next=[[Helm]]
+}}
+{{seq-end}}
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Gram (Person)]]
+[[fi:Gram]]

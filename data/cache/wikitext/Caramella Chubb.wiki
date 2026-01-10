@@ -1,0 +1,39 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Caramella Chubb
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Chubb]]
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Caramella Chubb''' was one of the recipients of [[Bilbo]]'s gifts (a clock, due to her lack of punctuality) during his birthday party, in the drafts for ''[[The Lord of the Rings]]''.<ref>{{RS|1Ii}}, p. 15</ref> Her name was initially ''Caramella Took'', before she ultimately became a [[Chubb]].<ref>{{RS|1Iiv}}, p. 38</ref>
+
+{{references}}
+[[Category:Chubb]]
+[[Category:Hobbits]]
+[[Category:Third Age characters]]
+[[de:Caramella Pausbacken]]

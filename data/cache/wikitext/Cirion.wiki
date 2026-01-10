@@ -1,0 +1,108 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Cirion
+| image=Alan Lee - Cirion.jpg
+| caption="Cirion" by [[Alan Lee]]
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]], [[Quenya]]
+| birth={{TA|2449}}
+| birthlocation=
+| rule={{TA|2489}} - {{TA|2567|n}} (78 years)
+| death={{TA|2567}}
+| deathlocation=
+| age=118
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Boromir (Steward of Gondor)|Boromir]]
+| siblings=
+| spouse=
+| children=[[Hallas]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Cirion''' was the twelfth [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Cirion was born in the year {{TA|2449|n}} of the [[Third Age]].<ref>{{PM|Elendil}}, p. 205</ref> Despite his father's recent victories, Cirion inherited a shrunken kingdom upon assuming the Stewardship in {{TA|2489}};<ref name="South"/> [[Ithilien]] was deserted, the [[Corsairs of Umbar]] again raided [[Outlands|the coasts]] while the population of [[Calenardhon]] was diminishing. All he could do was directing all his power to defend his borders.<ref name=gondor>{{App|Stewards}}</ref>
+
+===Threat from the North===
+One of Cirion's main concerns was the threat of invasion from the north, where the forts along the [[Anduin]] had long been abandoned. He stationed a few men there and sent scouts into the area between [[Mirkwood]] and [[Dagorlad]].  
+Cirion's spies discovered new enemies, the [[Balchoth]], steadily migrating in from the [[East]]. Cirion was hard put to it to hold the line of the [[Anduin]].<ref name=gondor/>
+
+After the winter of {{TA|2509|n}}, reports came to Cirion that hosts of men were mustering along the southern edge of Mirkwood with plans to invade Gondor.  Desperately, Cirion dispatched several messengers to the [[Éothéod]], who were old allies of Gondor but had removed to the far north near the sources of the Anduin.
+
+Six volunteer riders were chosen to attempt the nine hundred and fifty mile journey through [[Calenardhon]], over the [[Undeeps]], and past the shadow of [[Dol Guldur]].  Only one, [[Borondir]], got through to [[Framsburg]] when he delivered his message to King [[Eorl]] the Young.
+
+===Battle of the Fields of Celebrant===
+Knowing that there was scant chance of his message arriving, and not knowing if the Éothéod would respond, Cirion gathered as great a strength as he could and prepared to lead it himself against the threat, while leaving his son [[Hallas]] in command at [[Minas Tirith]].
+
+However, as Cirion led his forces north, the Balchoth crossed the Anduin on rafts and overpowered the defenders. Cirion's army was cut off and driven north over the [[Limlight]]. Then came a sudden attack by a horde of [[Orcs of the Misty Mountains|Orcs]] descending from the [[Misty Mountains]], which pressed Cirion towards the Anduin. Hope was failing when suddenly the horns of Eorl's riders were heard and the fortunes of the [[Battle of the Field of Celebrant]] were reversed. Eorl the Young and his riders swept away the enemy, pursuing the Balchoth across the fields of Calenardhon.<ref name=gondor/><ref name="Cirion">{{UT|Eorl}}</ref>
+
+===Founding of Rohan===
+After the great victory, Cirion parted from Eorl but asked him to meet him again in three months upon the banks of the [[Mering Stream]]. When they met again, Cirion had caused the overgrown path up [[Amon Anwar]] to be cleared, and the two men with their parties ascended the hill.  
+
+Prior reaching the top, Cirion revealed his resolution, to offer to Eorl the land of Calenardhon for him and his people, in perpetual alliance with Gondor. Eorl accepted, in acknowledgment of Cirion's wisdom and friendship. The group then continued to climb and, at the summit, Cirion revealed the tomb of [[Elendil]]. Before witnesses (Cirion’s son [[Hallas]], the [[Princes of Dol Amroth|Prince]] of [[Dol Amroth]], and two other [[Council of Gondor|Councilors of Gondor]]), Cirion pledged his bond with Eorl. In return, Eorl swore the [[Oath of Eorl]] and became the first [[King of Rohan]].<ref name="Cirion"/>
+
+When [[Rohan]] was founded, Cirion judged that the "Tradition of Isildur" was now made void: The hallow was no longer "at the midpoint" and Gondor was not the Kingdom as it was when Isildur spoke. Cirion removed the casket that Isildur had set within the mound and sent it to the [[Hallows]] of [[Minas Tirith]].<ref name="Tradition">{{UT|Tradition}}</ref>
+
+After Cirion's death at {{TA|2567|n}}, he was succeeded by his son Hallas.<ref name="South">{{App|South}}</ref>
+
+==Etymology==
+{{Pronounce|Cirion.mp3|Ardamir}}
+''Cirion'' is apparently [[Sindarin]], but it was never glossed. [[David Salo]] suggested it could mean "Shipman, sailor".<ref>{{HM|GS}}, pp. 245, 346</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | DEN | | |DEN=[[Denethor I]]<br/><small>''{{TA|2375|n}} - {{TA|2477|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | DAU | | BOR |DAU=''two daughters''<br/><small>''unknown''</small>|BOR=[[Boromir (Steward of Gondor)|Boromir]]<br/><small>''{{TA|2410|n}} - {{TA|2489|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | CIR |CIR='''CIRION'''<br/><small>''{{TA|2449|n}} - {{TA|2567|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | HAL |HAL=[[Hallas]]<br/><small>''{{TA|2480|n}} - {{TA|2605|n}}''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | HAL |HAL=[[Húrin II]]<br/><small>''{{TA|2515|n}} - {{TA|2628|n}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - The Oath of Eorl.jpg|thumb|''[[The Lord of the Rings Online]]'' tapestry: The Oath of Eorl]]
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+: A statue of Eorl and Cirion is erected near the site of their first meeting. A tapestry called "The Oath of Eorl" showing Cirion is found in the Mead Hall of [[Aldburg]].
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2449}}
+| died={{TA|2567}}
+}}
+{{seq
+| prev=[[Boromir (Steward of Gondor)|Boromir]]
+| list=12th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2489}} - {{TA|2567|n}}
+| next=[[Hallas]]
+}}
+{{seq-end}}
+
+{{rulingstewards}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Sindarin names]]
+[[Category:Third Age characters]]
+
+[[de:Cirion]]
+[[fi:Cirion]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:cirion]]

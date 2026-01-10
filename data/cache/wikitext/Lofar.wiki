@@ -1,0 +1,44 @@
+{{infobox character
+| people=[[Dwarves|Dwarf]]
+| name=Lofar
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=[[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Lofar''' was a [[Dwarves|Dwarf]] in early drafts of ''[[The Fellowship of the Ring]]''. He was one of the Dwarves that stayed at [[Bag End]] after [[Bilbo Baggins]]' [[Bilbo's Farewell Party|birthday party]].<ref name=":0">{{RS|Return}}</ref>
+
+== History ==
+In the early writings of the chapter "[[A Long-expected Party]]", Lofar was instructed by Bilbo to give the [[The One Ring|Ring]] to [[Frodo Baggins]] (at that point called "Bingo").<ref name=":0" /> Lofar is not named in the published version of The Fellowship of the Ring however he may be one of three Dwarves that sets out with Bilbo for [[Rivendell]].<ref>{{FR|Party}}, p. 35</ref>
+
+== Etymology ==
+''Lofarr'' is a dwarf from the ''[[Völuspá|Dvergatal]]''. It can mean either "Stooper" or "Praiser".<ref>Chester Nathan Gould, "Dwarf-Names: A Study in Old Icelandic Religion", published in ''Publications of the Modern Language Association of America'', Vol 44 (1929), issue #4, pp. 939-967</ref>
+
+{{references}}
+[[Category:Dwarves]]
+[[Category:Norse names]]
+[[Category:Third Age characters]]

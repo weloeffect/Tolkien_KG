@@ -1,0 +1,59 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Adalgrim Took
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Great Smials]]
+| affiliation=
+| language=
+| birth={{SR|1280}}
+| birthlocation=
+| rule=
+| death={{SR|1382}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Hildigrim Took]] and [[Rosa Baggins]]
+| siblings=
+| spouse=
+| children=[[Paladin Took II|Paladin]] and [[Esmeralda Took|Esmeralda]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Adalgrim Took''' was a [[Hobbits|Hobbit]] of [[the Shire]].
+==History==
+Adalgrim was the only child of [[Hildigrim Took]] and [[Rosa Baggins]]. He had five children, four of them daughters. His youngest children were [[Paladin Took II|Paladin]] and [[Esmeralda Took|Esmeralda]], born in {{SR|1333}} and {{SR|1336}}.<ref>{{App|Took}}</ref>
+
+==Etymology==
+Adalgrim comes from the Germanic elements ''adal'' meaning "noble" and ''grim'' meaning "fierce".<ref>{{HM|IE}}, Giving of Names, p. 191</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | OLD |y| CHU | | | | PON |y| MIM | OLD=[[Gerontius Took|The Old Took]]<br/><small>''1190 - 1320''</small>|CHU=[[Adamanta Chubb]]<br/><small>''unknown''</small>|PON=[[Ponto Baggins I|Ponto Baggins]]<br/>''<small>1216 - 1311</small>''|MIM=[[Mimosa Bunce]]<br/>''<small>unknown</small>''}}
+{{familytree | |,|-|-|-|+|-|-|-|-|-|.| | | |!| | | |}}
+{{familytree | ISE | | ISU | | | | HIL |y| ROS | | | ISE=[[Isengrim Took III|Isengrim III]]<br/><small>''1232 - 1330''</small>|ISU=[[Isumbras Took IV|Isumbras IV]]<br/><small>''1238 - 1339''</small>|HIL=[[Hildigrim Took|Hildigrim]]<br/><small>''1240 - 1341''</small>|ROS=[[Rosa Baggins]]<br/><small>''1256 - unknown''</small>}}
+{{familytree | | | | | |!| | | | | | | |!| | | | | |}}
+{{familytree | | | | | FOR | | | | | | ADA | | | | | FOR=[[Fortinbras Took II|Fortinbras II]]<br/><small>''1278 - 1380''</small>|ADA='''ADALGRIM'''<br/><small>''1280 - 1382''</small>}}
+{{familytree | | | | | |!| | | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | | | | | FER | | DAU | | PAL | | ESM | FER=[[Ferumbras Took III|Ferumbras III]]<br/><small>''1316 - 1415''</small>|DAU=''3 daughters''|PAL=[[Paladin Took II|Paladin II]]<br/><small>''1333 - 1434''</small>|ESM=[[Esmeralda Took|Esmeralda]]<br/><small>''1336 - unknown''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|v|-|-|-|(| | | |!| |}}
+{{familytree | PEA | | PIM | | PER | | PIP | | MER | PEA=[[Pearl Took|Pearl]]<br/><small>''1375 - unknown''</small>|PIM=[[Pimpernel Took|Pimpernel]]<br/><small>''1379 - unknown''</small>|PER=[[Pervinca Took|Pervinca]]<br/><small>''1385 - unknown''</small>|PIP=[[Peregrin Took|Peregrin I]]<br/><small>''1390 - 1484+''</small>|MER="[[Meriadoc Brandybuck|Merry]]"<br/><small>''1382 - 1484+''</small>|DA2=''3 daughters''}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Germanic names]]
+[[Category:Hobbits]]
+[[Category:Took]]
+[[Category:Third Age characters]]
+
+[[de:Adalgrim Tuk]]
+[[fi:Adalgrim Tuk]]

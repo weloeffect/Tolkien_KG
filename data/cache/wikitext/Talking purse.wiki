@@ -1,0 +1,45 @@
+{{unnamed}}
+{{object infobox
+| name=Talking purse
+| image = The Hobbit (2003) Wallet.png
+| caption=The "Wallet" in ''The Hobbit'' (2003 video game)
+| pronun=
+| othernames=
+| location=[[Trollshaws]]
+| owner=[[William]]
+| type=Trolls' purse
+| appearance=It is said to have been huge and "as big as a bag to Bilbo".<ref name=H2/>
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=Catching Bilbo in the act of pickpocketing it.
+}}
+
+<center>{{Quote|'Ere, 'oo are you?|Talking purse to Bilbo in ''[[The Hobbit]]'', "[[Roast Mutton]]"<ref group=note>Unless one interprets the talking purse's words as fantastical elaboration by Bilbo, there exists only one other item in the [[legendarium]] which shows an ability to speak: [[Gurthang]], the bloodthirsty sword of [[Túrin]].</ref>}}</center>
+
+The '''talking purse''' was the purse of the [[Trolls|troll]] [[William]].
+
+== History ==
+When [[Bilbo Baggins]] tried to pick the trolls' purse from William's pocket, the purse squeaked, alerting William of the attempted burglary and captured Bilbo.<ref name=H2>{{H|2}}</ref>
+
+== Background ==
+[[Tolkien fandom|Fans]] have suggested that the purse was perhaps not made by trolls, but that it was stolen and was of [[Dwarves|dwarvish]] or [[Elves|elvish]] origin due to it having the ability to speak.<ref>{{webcite|author=|articleurl=http://www.lotrplaza.com/archives/index.php?Archive=archive&TID=141437|articlename=Talking Wallet?|dated=|website=Plaza|accessed=9 March 2013}}</ref><ref>{{webcite|author=|articleurl=http://www.minastirith.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=3;t=000199|articlename=The talking purse|dated=|website=[http://www.minastirith.com/cgi-bin/ultimatebb.cgi Minas Tirith Forums]|accessed=9 March 2013}}</ref><ref>{{webcite|author=|articleurl=http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=580638|articlename=The talking purse - anything in the mythology to explain what it is?|dated=|website=[http://newboards.theonering.net/forum/ The One Ring Forums]|accessed=9 March 2013}}</ref> [[Elrond]] certainly guessed that the trolls had some plunder from [[Moria]], although he was specifically referring to [[Glamdring]] and [[Orcrist]].<ref>{{H|3}}</ref>
+
+== Portrayal in adaptations ==
+'''1989: [[The Hobbit (comic book)|''The Hobbit'' (comic)]]:'''
+:[[David T. Wenzel]] portrays the trolls' purse having holes resembling a shouting mouth.
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:The trolls' purse is referred to as a '''wallet''' and it has eyes that open up when it is touched by Bilbo.<ref>{{webcite|author=|articleurl=http://www.youtube.com/watch?v=51lM0zfNg70|articlename=The Hobbit Game - Part 3 "Roast Mutton" (time 14:10)|dated=14 February 2013|website=YT|accessed=18 July 2016}}</ref>
+
+{{References|note}}
+
+[[Category:Characters in The Hobbit]]
+[[Category:Enigmas]]
+[[Category:Objects]]
+[[Category:Third Age characters]]
+
+[[de: Trollbörse]]
+[[fr: Bourse des trolls]]

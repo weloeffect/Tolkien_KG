@@ -1,0 +1,86 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Walda
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Rohan]]
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2780}}
+| birthlocation=
+| rule={{TA|2842}} - {{TA|2851|n}}
+| death={{TA|2851}} (aged 71)
+| deathlocation=near [[Dunharrow]]
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Brytta|Brytta Léofa]]
+| siblings=
+| spouse=
+| children=[[Folca]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Walda''' ([[Third Age]] {{TA|2780|n}} – {{TA|2851|n}}, aged 71 years) was the twelfth [[King of Rohan]].<ref name=Walda>{{App|Mark}}, ''Second Line'', entry 2780-2851 12. ''Walda'', p. 1069</ref>
+
+==History==
+Walda was the son of [[Brytta|Brytta Léofa]] and was born in a time when his country was still plagued by [[Orcs]] who had invaded Rohan after the [[War of Dwarves and Orcs]].<ref name=Brytta>{{App|Mark}}, ''Second Line'', entry 2752-2842 11. ''Brytta'', p. 1068</ref>
+
+He became king after the death of his father in {{TA|2842}}. At the time of his father's death it was believed Rohan had been freed of the Orcs. However, some Orcs remained, and in {{TA|2851|n}} after ruling just nine years he and all his companions were killed by Orcs when they rode from [[Dunharrow]] on mountain paths.<ref name=Walda/>
+
+Walda was buried in the third mound on the east-side of the Barrow-field<ref>{{RK|Partings}}, p. 977</ref> on the left side of the road that approached Edoras<ref>{{TT|King}}, p. 507</ref> from the north-west.<ref>{{RK|Map}}</ref> He was succeeded and avenged by his son [[Folca]] who cleared Rohan of all Orcs.<ref name=Folca>{{App|Mark}}, ''Second Line'', entry 2804-64 13. ''Folca'', p. 1069</ref>
+
+==Etymology==
+''Walda'' is derived from the [[Old English]] name ''wealda'', which means "ruler".<ref>{{HM|RC}}, p. 644</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | FRE |FRE=[[Fréaláf|Fréaláf Hildeson]]<br/><small>''{{TA|2726|n}} - {{TA|2798|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | BRY |BRY=[[Brytta|Brytta Léofa]]<br/><small>''{{TA|2752|n}} - {{TA|2842|n}}''</small>}}
+{{familytree | |!| |}}
+{{familytree | WAL |WAL='''WALDA'''<br/><small>''{{TA|2780|n}} - {{TA|2851|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | FOL |FOL=[[Folca]]<br/><small>''{{TA|2804|n}} - {{TA|2864|n}}''†</small>}}
+{{familytree | |!| |}}
+{{familytree | FOL |FOL=[[Folcwine]]<br/><small>''{{TA|2830|n}} - {{TA|2903|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+His death date is recorded as {{TA|2851}}<ref name=Walda/> in the list of the Kings of the Mark in [[Appendix A]], but as as {{TA|2861|n}} in The Tale of Years of the Third Age in [[Appendix B]].<ref>{{App|TA}}, entry for the year 2800-64 "(2861)", p. 1088</ref> The death date {{TA|2851}} is probably correct, because the entry for king Walda in the list of Kings of the Mark mentions that he "was king only nine years"<ref name=Walda/> and the entry for his father mentions that his father died in {{TA|2842}}.<ref name=Brytta/>
+
+There was no note about the events during the life of Walda in the list of Kings of the Mark in the first edition of ''[[The Lord of the Rings]]''.<ref>{{PM|Aiii}}, Notes, note 5</ref>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=rohirrim
+| house=House of Eorl
+| born={{TA|2780}}
+| died={{TA|2851}}
+}}
+{{seq
+| prev=[[Brytta]]
+| list=12th [[King of Rohan]]
+| dates={{TA|2842}} – {{TA|2851|n}}
+| next=[[Folca]]
+}}
+{{seq-end}}
+{{rohankings}}
+[[Category:Kings of Rohan]]
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Walda]]
+[[fi:Walda]]
+[[fr:encyclo/personnages/hommes/3a/hommes du nord/rohirrim/walda]]

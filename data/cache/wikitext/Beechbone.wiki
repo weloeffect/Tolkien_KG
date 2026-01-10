@@ -1,0 +1,53 @@
+{{infobox character
+| people=[[Ents|Ent]]
+| name=Beechbone
+| image=Aldo Katayanagi - Beechbone.jpeg
+| caption="Beechbone" by [[:Category:Images by Aldo Katayanagi|Aldo Katayanagi]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Fangorn Forest]]
+| affiliation=
+| language=[[Entish]]
+| birth=
+| birthlocation=
+| rule=
+| death=[[3 March]], {{TA|3019}}
+| deathlocation=[[Isengard]]
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=Very tall
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Beechbone''' was a notably tall and handsome [[Ents|Ent]].
+
+==History==
+On [[3 March]] {{TA|3019}}<ref>{{App|Great}}</ref> he was caught in a burning spray sent up by [[Saruman]] from beneath the [[Ring of Isengard]], but his fiery end brought his fellow Ents to the peak of their destructive anger.<ref>{{TT|III9}}</ref>
+
+==Portrayal in adaptations==
+===Beechbone in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Two Towers - Beechbone.jpg|Unnamed Ent in ''[[The Lord of the Rings: The Two Towers]]''
+</gallery>
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:An unnamed Ent survives being set alight by extinguishing the flames in the floods of the River [[Isen]].
+
+{{References}}
+{{Ents}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Ents]]
+[[Category:Third Age characters]]
+[[de:Buchenbein]]
+[[fr:/encyclo/personnages/ents/osfayard]]
+[[fi:Pyökkiluu]]

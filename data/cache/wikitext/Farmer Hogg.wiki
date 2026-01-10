@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Farmer Hogg
+| image=Pauline Baynes - Farmer Hogg and Grip.jpeg
+| caption=[[Grip (Bill Butcher's dog)|Grip]] and Farmer Hogg - Illustration by [[Pauline Baynes]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Farmer]]<ref name="Perry"/>
+| location=[[Delving]]<ref name="Perry"/>
+| affiliation=[[The Shire]]<ref name="Perry"/>
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Spilling his ale.
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=[[Men]]
+| gender=Male<ref name="Perry"/>
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Farmer Hogg''' was an old [[Hobbits|Hobbit]] inhabitant of the town of [[Delving]] who appeared in ''[[Perry-the-Winkle]]'', a nursery rhyme<ref name=collectedpoems>{{CP|105}}</ref> by [[Samwise Gamgee]]<ref name=preface>{{AB|Preface}}</ref>.<ref name="Perry">{{AB|Perry}}, pp. 41-4</ref>
+
+In the poem, Farmer Hogg spilled his ale upon seeing the [[Lonely Troll]] peeping over the stalls of the market-place.<ref name="Perry" />
+
+Later, Farmer Hogg was among the [[Shire-hobbits]] who travelled to [[Faraway]] in order to demand food from the Lonely Troll. Farmer Hogg was among four Hobbits who the Troll never wanted to see again.<ref name="Perry" />
+
+==Background==
+In every version of the poem, Farmer Hogg remarkably retained the same name and the same action of spilling his drink, which was beer in all of the [[Tales and Songs of Bimble Bay|Bimble Bay]] versions rather than ale.<ref name=collectedpoems>{{CP|105}}</ref>
+ 
+{{references}}
+
+{{Legend}}
+
+[[Category:Characters in The Adventures of Tom Bombadil]]
+[[Category:Farmers]]
+[[Category:Hobbits]]
+[[Category:Tales and Songs of Bimble Bay characters]]
+[[Category:Third Age characters]]

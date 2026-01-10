@@ -1,0 +1,46 @@
+{{infobox character
+| people=[[Orcs|Orc]]
+| name=Muzgash
+| image=John Howe - Muzgash.jpg
+| caption=''Muzgash'' by [[John Howe]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| race=
+| gender=
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Muzgash''' was an [[Orcs|orc]] serving in the garrison of the [[Tower of Cirith Ungol]], under the command of [[Shagrat]]. He was caught up in fighting with [[Gorbag]]'s [[Minas Morgul|Morgul]]-[[orcs]] in the Tower; with [[Lagduf]], he attempted to escape, but was shot as he ran through the gate.<ref>{{RK|VI1}}</ref>
+
+== Portrayal in adaptations ==
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'''''
+: Though unidentified, a trio of Uruk-hai are encountered by Samwise Gamgee on the stairs of the tower after the battle. Since only one Uruk ([[Snaga (Orc of Mordor)|Snaga]]) was encountered by Sam on the stairs in the novel, it is likely that the other two are meant to be [[Lagduf]] and Muzgash.
+
+{{references}}
+[[Category:Characters in The Lord of the Rings]]
+[[Category:Orcs]]
+[[Category:Servants of Sauron]]
+[[Category:Third Age characters]]
+[[de:Muzgasch]]
+[[fi:Muzgash]]

@@ -1,0 +1,87 @@
+{{disambig-two|the King of Arnor|son of [[Isildur]]|[[Elendur (son of Isildur)]]}}
+{{infobox character
+| people=[[Arnor]]ian
+| name=Elendur
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Arnor]]
+| position=
+| location=[[Arnor]]
+| affiliation=
+| language=[[Sindarin]], [[Westron]]
+| birth={{TA|552}}
+| birthlocation=
+| rule={{TA|652}} - {{TA|777|n}}
+| death={{TA|777}}
+| deathlocation=
+| age=225
+| notablefor=
+| house=[[House of Isildur]]
+| parentage=[[Valandur]]
+| siblings=
+| spouse=
+| children=[[Eärendur (King of Arnor)|Eärendur]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Elendur''' ({{TA|552}}<ref>{{PM|Elendil}}, p. 193</ref> - {{TA|777}},<ref name="North">{{App|North}}</ref> died aged 225) was the ninth [[King of Arnor]].
+
+==History==
+Elendur's rule was uneventful. He ruled Arnor for 125 years, and was succeeded by his son, [[Eärendur (King of Arnor)|Eärendur]] - the last king of [[Arnor]], upon his death in 777.<ref name="North"/>
+
+==Etymology==
+''Elendur'' is a [[Quenya]] name. Its meaning is not glossed. [[Helge Fauskanger]] suggests it was probably intended to mean "Elf-servant", but literally means "Star-servant".<ref>{{webcite|author=Helge Fauskanger|articleurl=https://folk.uib.no/hnohf/quen-eng.htm|articlename='''Elendur'''|website=Quettaparma Quenyallo|accessed=27 January 2022}}</ref> The [[Edain]] found it difficult to determine whether words and names containing the element ''el'' referred to the stars or to the Elves.<ref>{{WJ|Author}}, Note 10, p. 410</ref> It is likely that he was named in memory of [[Isildur]]'s son, [[Elendur (son of Isildur)|Elendur]], who was killed in the [[Disaster of the Gladden Fields]]. The first element, ''[[elen]]'', was likely taken from the name of this earlier Elendur's grandfather, [[Elendil]], where it was intended to mean "Elf".<ref name=L297>{{L|297|118}}</ref> The second element, ''[[-ndur|-(n)dur]]'' was likely taken from this earlier Elendur's father, Isildur, where it means "servant" from the verb "to serve".<ref name=L297/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | TAR | | | | |TAR=[[Tarondor (King of Arnor)|Tarondor]]<br/><small>''{{TA|372|n}} - {{TA|602|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | TAR | | | | |TAR=[[Valandur]]<br/><small>''{{TA|462|n}} - {{TA|652|n}}''†</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | ELE | | | | |ELE='''ELENDUR'''<br/><small>''{{TA|552|n}} - {{TA|777|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | EAR | | | | |EAR=[[Eärendur (King of Arnor)|Eärendur]]<br/><small>''{{TA|640|n}} - {{TA|861|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | AML | | CAR | | RHU |AML=[[Amlaith]]<br/><small>''{{TA|726|n}} - {{TA|946|n}}''</small>|CAR=[[Kings of Cardolan|''Kings of<br/>Cardolan'']]|RHU=[[Kings of Rhudaur|''Kings of<br/>Rhudaur'']]}}
+{{familytree | |:| | | | | | | | | |}}
+{{familytree | ART | | | | | | | | |ART=[[Kings of Arthedain|''Kings of<br/>Arthedain'']]}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=arnorian
+| house=[[House of Isildur]]<small><br/>Cadet branch of [[House of Elros]]</small>
+| born={{TA|552}}
+| died={{TA|777}}
+}}
+{{seq
+| prow=2
+| prev=[[Valandur]]
+| list=7th [[Heir of Isildur|Heir]] of [[Isildur]]
+| dates={{TA|652}} - {{TA|777|n}}
+| next=[[Eärendur (King of Arnor)|Eärendur]]
+| nrow=2
+}}
+{{seq
+| list=9th [[Kings of Arnor|King of Arnor]]
+| dates={{TA|652}} - {{TA|777|n}}
+}}
+{{seq-end}}
+
+{{northernline}}
+
+{{title}}
+[[Category:House of Isildur]]
+[[Category:Rulers of Arnor]]
+[[Category:Third Age characters]]
+[[de:Elendur (König von Arnor)]]
+[[fr:/encyclo/personnages/hommes/3a/dunedain/dunedain_du_nord/elendur]]
+[[fi:Elendur (Arnorin kuningas)]]

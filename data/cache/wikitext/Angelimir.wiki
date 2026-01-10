@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Angelimir
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Princes of Dol Amroth|Prince of Dol Amroth]]
+| position=
+| location=[[Dol Amroth]], [[Gondor]]
+| affiliation=
+| language=[[Westron]]
+| birth={{TA|2866}}
+| birthlocation=
+| rule={{TA|2932}} - {{TA|2977|n}} (45 years)
+| death={{TA|2977}}
+| deathlocation=
+| age=111
+| notablefor=
+| house=[[House of Dol Amroth]]
+| parentage=[[Aglahad]]
+| siblings=
+| spouse=
+| children=[[Adrahil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Angelimir''' ({{TA|2866}} – {{TA|2977|n}}, aged 111 years) was the twentieth [[Prince of Dol Amroth]].<ref name="Dol">{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221</ref> 
+
+==History==
+Angelimir's reign was uneventful. He was eventually succeeded by his son [[Adrahil]] in {{TA|2977}}.<ref name="Dol"/>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | IMR |y| MIT |IMR=[[Imrazôr]]<br/><small>''{{TA|1950|n}} - {{TA|2076|n}}''</small>|MIT=[[Mithrellas]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | GAL | | GIL |GAL=[[Galador]]<br/><small>''{{TA|2004|n}} - {{TA|2129|n}}''</small>|GIL=[[Gilmith]]<br/><small>''unknown''</small>}}
+{{familytree | | | | | |:| | | | | |}}
+{{familytree | | | | | DOL | | | | |DOL=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]}}
+{{familytree | | | | | |:| | | | | |}}
+{{familytree | | | | | AGL | | | | |AGL=[[Aglahad]]<br/><small>''{{TA|2827|n}} - {{TA|2932|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | ANG | | | | |ANG='''ANGELIMIR'''<br/><small>''{{TA|2866|n}} - {{TA|2977|n}}''</small>}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | ADR | | | | |ADR=[[Adrahil]]<br/><small>''{{TA|2917|n}} - {{TA|3010|n}}''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | IVR | | FIN | | IMR |IVR=[[Ivriniel]]<br/><small>''b. {{TA|2947|n}}''</small>|FIN=[[Finduilas (wife of Denethor)|Finduilas]]<br/><small>''{{TA|2950|n}} - {{TA|2988|n}}''</small>|IMR=[[Imrahil]]<br/><small>''{{TA|2955|n}} - {{FoA|34}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Dol Amroth]]
+| born={{TA|2886}}
+| died={{TA|2977}}
+}}
+{{seq
+| prev=[[Aglahad]]
+| list=20th [[Princes of Dol Amroth|Prince of Dol Amroth]]
+| dates={{TA|2932}} - {{TA|2977|n}}
+| next=[[Adrahil]]
+}}
+{{seq-end}}
+
+[[Category:Dúnedain]]
+[[Category:Gondorians]]
+[[Category:Princes of Dol Amroth]]
+[[Category:Third Age characters]]
+
+[[de:Angelimir]]
+[[fi:Angelimir]]
+[[fr:encyclo:personnages:hommes:3a:dunedain:gondoriens:angelimir]]

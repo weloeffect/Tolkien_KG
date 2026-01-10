@@ -1,0 +1,51 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Adaldrida Bolger
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Buckland]]
+| affiliation=
+| language=
+| birth={{SR|1218}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Bolger Family|Bolger]]
+| parentage=[[Gundahar Bolger]] and [[Dina Diggle]]
+| siblings=[[Adalgar Bolger|Adalgar]]
+| spouse=[[Marmadoc Brandybuck]]
+| children=[[Gorbadoc Brandybuck|Gorbadoc]] and [[Orgulas Brandybuck|Orgulas]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adaldrida Brandybuck, née Bolger''', was a [[Hobbits|Hobbit]] of [[the Shire]]
+
+==History==
+Adaldrida was the daughter of [[Gundahar Bolger]] and [[Dina Diggle]]. She was the younger sister of [[Adalgar Bolger|Adalgar]].<ref>{{App|Bolger}}</ref> 
+
+Adaldrida married [[Marmadoc Brandybuck]], and had four children: [[Gorbadoc Brandybuck|Gorbadoc]], [[Orgulas Brandybuck|Orgulas]] and two daughters.<ref>{{App|Brandybuck}}</ref>
+
+== Etymology ==
+''Adaldrida'' may be a Germanic name composed of the elements ''adal'' "noble" and a 2nd element.
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Brandybuck]]
+[[Category:Bolger]]
+[[Category:Third Age characters]]
+
+[[de:Adaldrida Brandybock]]
+[[fi:Adaldrida Bolger]]
+[[fr:encyclo/personnages/hobbits/bolger/adaldrida bolger]]

@@ -1,0 +1,68 @@
+{{disambig-two|the father of [[Éomer]] and [[Éowyn]]|earlier Captain of the [[Éothéod]]|[[Éomund (Captain of the Éothéod)]]}}
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Éomund
+| image=Katherine Dinger - Eomund.png
+| caption="Eomund" by [[:Category:Images by Katherine Dinger|Katherine Dinger]]
+| pronun=
+| othernames=
+| titles=Lord of [[Aldburg]]
+| position=[[Marshal of the Mark|First Marshal of the Mark]]
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]]
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|3002}}
+| deathlocation=[[Emyn Muil]]
+| age=
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=
+| siblings=
+| spouse=[[Théodwyn]]
+| children=[[Éomer]] and [[Éowyn]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Éomund''' was the [[Lord of Aldburg]] and a [[Marshal of the Mark]].
+==History==
+Éomund was a descendant of [[Eofor]], the third son of Brego the second king of Rohan, and dwelt in [[Aldburg]] in the [[Eastfold]].<ref>{{UT|Isen}}</ref> [[Aragorn]], during his travels in  Rohan, made the acquaintance of Éomund.<ref>{{TT|III2}}</ref> He married [[Théodwyn]], the sister of the later King [[Théoden]]. Their children were [[Éomer]] and [[Éowyn]], who were each to play a great part in the [[War of the Ring]]. 
+
+He was the marshal in charge of the east marches, active in defending the horse-herds of the region against increasing raids by [[Orcs]]. He was killed in {{TA|3002}}, while pursuing such a raid, by a large force that lay in ambush in the [[Emyn Muil]]. Théodwyn grew ill and died shortly after, and their children were raised by Théoden.<ref>{{App|Eorl}}</ref>
+
+==Etymology==
+The name ''Éomund'' is made up of [[Old English]] ''[[Wiktionary:eoh|eoh]]'' ("war-horse, charger") + ''[[Wiktionary:mund#Old English|mund]]'' ("protector").<ref>{{HM|RC}}, pp. 367-8</ref> The name is appropriate to his role as the guardian of the horses of the Eastfold.
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | | | | | EOR | | | |EOR=[[Eorl|Eorl the Young]]<br/><small>''{{TA|2485|n}} - {{TA|2545|n}}''</small>}}
+{{familytree | | | | | | | |!| | | | |}}
+{{familytree | | | | | | | BRE | | | |BRE=[[Brego]]<br/><small>''{{TA|2512|n}} - {{TA|2570|n}}''</small>}}
+{{familytree | | | | |,|-|-|^|-|-|.| |}}
+{{familytree | | | | ALD | | | | EOF |ALD=[[Aldor]]<br/><small>''{{TA|2544|n}} - {{TA|2645|n}}''</small>|EOF=[[Eofor]]<br/><small>''unknown''</small>}}
+{{familytree | | | | |:| | | | | |:| |}}
+{{familytree | | | | KIN | | | | |:| |KIN=''[[Kings of Rohan|Kings of<br/>Rohan]]''}}
+{{familytree | | | | |:| | | | | |:| |}}
+{{familytree | | | | THE | | | | |:| |THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>}}
+{{familytree | | |,|-|^|-|.| | | |:| |}}
+{{familytree | | THE | | THD |y| EOM |THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''</small>|THD=[[Théodwyn]]<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''</small>|EOM='''ÉOMUND'''<br/><small>''d. {{TA|3002|n}}''</small>}}
+{{familytree | | |!| | | |,|-|^|-|.| |}}
+{{familytree | | THE | | EOM | | EOW |THE=[[Théodred]]<br/><small>''{{TA|2978|n}} - {{TA|3019|n}}''</small>|EOM=[[Éomer]]<br/><small>''{{TA|2991|n}} - {{FoA|63}}''</small>|EOW=[[Éowyn]]<br/><small>''b. {{TA|2995|n}}''</small>}}
+{{familytree | | | | | | |!| | | |!| |}}
+{{familytree | | | | | | ELF | | ELB |ELF=[[Elfwine]]<br/><small>''unknown''</small>|ELB=[[Elboron]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{DEFAULTSORT:Eomund}}
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Éomund von Ostfold]]
+[[fi:Éomund (Markin suurmarsalkka)]]

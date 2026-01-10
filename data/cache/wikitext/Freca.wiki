@@ -1,0 +1,75 @@
+{{infobox character
+| people-duplicated=[[Men|Man]]
+| name=Freca
+| image=Turner Mohan - Men are freer outside.jpg
+| caption="Men are freer outside" by [[:Category:Images by Turner Mohan|Turner Mohan]]
+| people=[[Dunlendings|Dunlending]]
+| pronun=
+| othernames=
+| titles=
+| position=Lord of lands about the [[Adorn]]
+| location=[[Rohan]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death={{TA|2754}}
+| deathlocation=[[Edoras]]
+| age=
+| notablefor=
+| house=Descended from the [[House of Eorl]]
+| parentage=
+| siblings=
+| spouse=
+| children=[[Wulf]]
+| gender=Male
+| height=
+| hair=Dark
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Freca''', who claimed descent from King [[Fréawine]], was a lord of [[Rohan]] during the reign of King [[Helm|Helm Hammerhand]]. His lands lay on either side of the [[Adorn]] west of the [[Gap of Rohan]] and he was said to have much [[Dunlendings|Dunlendish]] blood in his veins, which was unusual for one of the [[Rohirrim]].
+
+==History==
+Freca constructed a stronghold at the source of the Adorn, obtaining wealth and power while paying little heed to the king despite Helm calling upon him to attend his councils.
+
+In {{TA|2754}} Freca came to a council with a retinue of many men and requested that Helm's daughter be wed to his son [[Wulf]]. Helm rebuffed him and called him fat, Freca raged and reviled the king, and after the council Helm struck Freca so powerfully that Freca died from the blow. Helm then declared Wulf and all of Freca's near kin to be his enemies and the retinue fled to the west.
+
+Rohan was invaded from the east in {{TA|2758}}. Sensing their chance, a host of [[Dunlendings]] invaded from [[Isengard]] and from over the [[Isen]]. Their leader was Wulf, who drove Helm into the [[Hornburg]], captured [[Edoras]] and sat in [[Meduseld]], and called himself king. Although Helm and his sons died in the [[Long Winter]], his sister-son [[Fréaláf]] surprised and slew Wulf and regained Edoras.<ref>{{App|Eorl}}</ref>
+
+The slaying of Freca was not forgotten by his people and in the [[War of the Ring]], over two hundred and fifty years later, many of them sided with [[Saruman]].<ref>{{UT|Isen}}, note 4</ref>
+
+==Etymology==
+''Freca'' means "bold man", "warrior" or "hero" in [[Old English]].<ref>{{HM|RC}}, p. 703</ref><ref name="freca">{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/12218|articlename=freca|accessed=24 July 2025}}</ref> It is related to the word ''frec'', meaning "bold", "greedy" or "audacious."<ref name="freca"/> In [[Beowulf: A Translation and Commentary|Tolkien's translation]] of ''[[Beowulf (poem)|Beowulf]]'', he translates ''freca'' as "champion."<ref>{{Beowulf|B}}, 1309</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| FRE | |FRE='''FRECA'''<br /><small>''d. {{TA|2754}}''</small>}}
+{{familytree| |!| | |}}
+{{familytree| WUL | |WUL=[[Wulf]]<br /><small>''d. {{TA|2759}}''</small>}}
+{{familytree/end}}
+
+==Portrayal in adaptations==
+===Freca in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+The Lord of the Rings Online - Helm Hammerhand slays Freca outside Edoras.jpg|''[[The Lord of the Rings Online]]'' tapestry: Helm Hammerhand slays Freca outside Edoras
+The War of the Rohirrim - Freca.png|Freca in ''[[The Lord of the Rings: The War of the Rohirrim]]''
+</gallery>
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+: A tapestry depicting Helm Hammerhand killing Freca is found in [[Meduseld]].
+
+'''2024: ''[[The War of the Rohirrim]]'':'''
+: Shaun Dooley provides the voice of Freca. He pushes for the marriage between his son and Helm's daughter in a bid to secure control of Rohan. His slaying by Helm is depicted as accidental.
+
+{{references}}
+
+[[Category:Rohirrim]]
+[[Category:Dunlendings]]
+[[Category:Old English names]]
+[[Category:Third Age characters]]
+
+[[de:Freca]]
+[[fi:Freca]]

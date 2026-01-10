@@ -1,0 +1,74 @@
+{{disambig-more|Fastred|[[Fastred (disambiguation)]]}}
+{{infobox character
+| people-duplicated=[[Rohirrim|Rohir]]
+| name=Folcred and Fastred
+| people=[[Rohirrim]]
+| image=Steamey - King Folcwine Says Goodbye to His Sons.jpg
+| caption="King Folcwine Says Goodbye to His Sons" by [[:Category:Images by Steamey|Steamey]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Rohan]]
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth={{TA|2858}}<ref name=Folcwine>{{App|Mark}}, entry for King Folcwine, p. 1069</ref>
+| birthlocation=''Presumably'' [[Rohan]]
+| rule=
+| death={{TA|2885}}<ref name=TA2885>{{App|TA}}, entry for the year 2885, p. 1088</ref>
+| deathlocation=[[Crossings of Poros]]
+| age=27
+| notablefor=
+| house=[[House of Eorl]]
+| parentage=[[Folcwine]]
+| siblings=Unnamed sister<ref name=Fengel>{{App|Mark}}, entry for King Fengel, p. 1069</ref><ref group="note">Under the entry '''[[Fengel]]''' in the  entry for King Fengel in ''[[Appendix A]]'' it states: "He [Fengel] was the third son and fourth child of Folcwine."</ref><br/>[[Fengel]]
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Folcred''' and '''Fastred''' were the eldest children,<ref name=Fengel/> and the [[twins|twin]] sons of King [[Folcwine]] of [[Rohan]].<ref name=Folcwine/>
+
+== History == 
+In the days of [[Ruling Stewards|Steward]] [[Túrin II]] of [[Gondor]] the [[Haradrim]] had occupied [[South Gondor]] and there were many armed conflicts along the river [[Poros]].<ref name=TurinII>{{App|Stewards}}, entry for Steward Túrin II, p. 1054</ref> In {{TA|2885}} emissaries of [[Sauron]] stirred up the Haradrim who crossed the Poros invaded Ithilien<ref name=TA2885/> with a large army.<ref name=TurinII/> When King [[Folcwine]] of [[Rohan]] heard of the invasion he fulfilled the [[Oath of Eorl]]<ref name=TurinII/> and sent many men led by his sons Folcred and Fastred to help Túrin II.<ref name=Folcwine/>
+
+Túrin II defeated the Haradrim invaders with the help of the troops from Rohan in a [[Battle of the Crossings of Poros|battle]] at the [[Crossings of Poros]],<ref name=TurinII/> but Folcred and Fastred fell side by side in battle in Ithilien.<ref name=Folcwine/> 
+
+They were buried together high upon the shore of the river Poros according to the customs of their [[Rohirrim|people]] in a burial mound, which was called ''[[Haudh in Gwanûr]]''. The mound stood there for a long time and the enemies of Gondor were afraid to pass the mound.<ref name=TurinII/>
+
+== Etymology ==
+'''''Folcred''''' means "people-counsel" (folc-rēd) in [[Old English]]<ref name="IE">{{HM|IE}}, Giving of Names, p. 216</ref> and contains the components "folc" ("people"<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/45332|articlename=folc|accessed=16 August 2025}}</ref>) and "réd" or "rǽd" ("counsel"<ref name="BT2">{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/25462|articlename=rǽd|accessed=16 August 2025}}</ref>)<ref>Didier Salamon & David Giraudeau, Le Livre de la Marche, 2006, entry '''Folcred''', p. 141</ref>.
+
+'''''Fastred''''' means "firm-counsel" in Old English<ref name="IE"/> and contains the components "fast" ("firm"<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/10132|articlename=fast|accessed=16 August 2025}}</ref>) and "réd" or "rǽd" ("counsel"<ref name="BT2"/>)<ref>Didier Salamon & David Giraudeau, Le Livre de la Marche, 2006, entry '''Fastred''', p. 140</ref>.<ref>{{HM|RC}}, p. 571</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | FOL | | | | | | | | | | |FOL=[[Folca]]<br/><small>''{{TA|2804|n}} - {{TA|2864|n}}''†</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | |}}
+{{familytree | | | | | | | FOL | | | | | | | | | | |FOL=[[Folcwine]]<br/><small>''{{TA|2830|n}} - {{TA|2903|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | | | |}}
+{{familytree | FOL | | FAS | | DAU | | FEN | | | | |FOL='''FOLCRED'''<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|FAS='''FASTRED'''<br/><small>''{{TA|2858|n}} - {{TA|2885|n}}''†</small>|DAU=''daughter''<br/><small>''unknown''</small>|FEN=[[Fengel]]<br/><small>''{{TA|2870|n}} - {{TA|2953|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|-|-|(| | | | | |}}
+{{familytree | | | | | | | | | DAU | | THE |y| MOR |DAU=''two daughters''<br/><small>''unknown''</small>|THE=[[Thengel]]<br/><small>''{{TA|2905|n}} - {{TA|2980|n}}''</small>|MOR=[[Morwen Steelsheen]]<br/><small>''b. {{TA|2922|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|-|-|v|-|^|-|.| |}}
+{{familytree | | | | | | | | | THE | | DAU | | THW |THE=[[Théoden]]<br/><small>''{{TA|2948|n}} - {{TA|3019|n}}''†</small>|DAU=''three daughters''<br/><small>''unknown''</small>|THW=[[Théodwyn]]<br/><small>''{{TA|2963|n}} - {{TA|3002|n}}''</small>}}
+{{familytree/end}}
+
+== Portrayal in adaptations ==
+[[File:The Lord of the Rings Online - Folcred and Fastred perish at the Crossings of Poros.jpg|thumb|''[[The Lord of the Rings Online]]'' tapestry: Folcred and Fastred perish while fighting Haradrim and Oliphaunts at the Crossings of Poros]]
+'''2012: ''[[The Lord of the Rings Online]]'':''': A tapestry depicting Folcred and Fastred's last stand is found in [[Meduseld]] and can be acquired for use in player's houses.
+
+{{references|notes}}
+{{DEFAULTSORT:Folcred and Fastred}}
+
+[[Category:Old English names]]
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Folcred]]
+[[fi:Fastred ja Folcred]]

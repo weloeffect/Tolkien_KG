@@ -1,0 +1,45 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Jessamine Boffin
+| image=
+| caption=
+| pronun=
+| othernames=Jessamine Bolger
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1297}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Boffin Family|Boffin]]
+| parentage=[[Hugo Boffin]] and [[Donnamira Took]]
+| siblings=[[Jago Boffin|Jago]]
+| spouse=[[Herugar Bolger]]
+| children=[[Odovacar Bolger|Odovacar]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Jessamine Bolger, née Boffin''', was a Hobbit of [[the Shire]]. 
+
+==History==
+Jessamine was the daughter of [[Hugo Boffin]] and [[Donnamira Took]].<ref>{{App|Boffin}}</ref> She married [[Herugar Bolger]], and had one child, [[Odovacar Bolger|Odovacar]].<ref>{{App|Bolger}}</ref>
+==Etymology==
+[[wikipedia:Cestrum|Jessamine]] is a fragrant plant. The name is exotic but comes to English through French.
+{{references}}
+
+[[Category:Boffin]]
+[[Category:Bolger]]
+[[Category:Hobbits]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]

@@ -1,0 +1,49 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Drogo Baggins
+| image=Miriam Ellis - Drogo Baggins.jpg
+| caption=Drogo Baggins as a child - Detail by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[The Shire]]
+| affiliation=
+| language=
+| birth={{SR|1308}}
+| birthlocation=
+| rule=
+| death={{SR|1380}}
+| deathlocation=
+| age=72
+| notablefor=
+| family=[[Baggins Family|Baggins]]
+| parentage=[[Fosco Baggins]] and [[Ruby Bolger]]
+| siblings=[[Dora Baggins|Dora]] and [[Dudo Baggins|Dudo]]
+| spouse=[[Primula Brandybuck]]
+| children=[[Frodo Baggins]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Drogo Baggins''' was a [[Hobbits|Hobbit]] of [[the Shire]]. He was the father of [[Frodo Baggins]].
+
+==History==
+Drogo Baggins was the second child, and oldest son, of [[Fosco Baggins]] and [[Ruby Bolger]], born in {{SR|1308}}. He married [[Primula Brandybuck]], and had one child, [[Frodo Baggins|Frodo]].<ref>{{App|Baggins}}</ref> 
+
+A regular and respectable [[Shire-hobbit]], fond of good food, he often visited his generous father-in-law [[Gorbadoc Brandybuck]] in [[Brandy Hall]], and seemed to adopt the curious customs of the [[Bucklanders]], like boating. This was the cause of his irregular death, as during one of his visits to his in-laws in [[Buckland]],<ref group=note>According to [[Hamfast Gamgee]], this happened while he was staying "with his father-in-law", which however would be impossible as Gorbadoc had been dead by then ({{SR|1363}}) according to [[Appendix C]].</ref> he drowned in a boating accident with his wife Primula. Frodo was still very young and he was taken under the custody of his uncle, [[Rorimac Brandybuck]].<ref>{{FR|Party}}</ref>
+
+==Etymology==
+The name ''Drogo'' was meaningless in contemporary [[Hobbitish]] [[Westron]]. It represented an original name ''Droga''.<ref>{{App|Translation}}</ref>
+{{references|note}}
+[[Category:Hobbits]]
+[[Category:Baggins]]
+[[Category:Third Age characters]]
+
+[[de:Drogo Beutlin]]
+[[fi:Drogo Reppuli]]
+[[fr:encyclo:personnages:hobbits:bessac:drogo bessac]]

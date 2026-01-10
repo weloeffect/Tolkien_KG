@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Orodreth
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Ruling Steward]]
+| position=
+| location=[[Gondor]]
+| affiliation=
+| language=[[Westron]], [[Sindarin]]
+| birth={{TA|2576}}
+| birthlocation=
+| rule={{TA|2655}} - {{TA|2685|n}} (30 years)
+| death={{TA|2685}}
+| deathlocation=
+| age=109
+| notablefor=
+| house=[[House of Húrin]]
+| parentage=[[Belecthor I]]
+| siblings=[[Morwen (daughter of Belecthor)|Morwen]]
+| spouse=
+| children=[[Ecthelion I]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Orodreth''' ([[Third Age]] {{TA|2576|n}}<ref>{{PM|Elendil}}, p. 205</ref> – {{TA|2685|n}},<ref>{{App|South}}</ref> aged 109 years) was the sixteenth [[Ruling Steward]] of [[Gondor]].
+
+==History==
+Orodreth was the son of [[Belecthor I]]. As many of the Ruling Stewards were named after legendary figures of the [[First Age]]<ref>{{PM|Elendil}}, p. 203</ref> Orodreth was named after the [[Orodreth|Elf-lord]] of [[Nargothrond]].
+
+Upon the death of his father in {{TA|2655}}, he succeeded him as the Ruling Steward. He ruled during an apparently peaceful and uneventful period for he Kingdom. He had one son, [[Ecthelion I|Ecthelion]], who succeeded him.
+
+==Etymology==
+For the meaning of his name refer to [[Orodreth#Etymology|Orodreth - Etymology]]. It is possible that Orodreth was named after the [[Noldor|Noldo]] [[King of Nargothrond]] of the [[First Age]].<ref>{{NM|P2v}}, footnote 3, p. 189</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | HAL | | |HAL=[[Húrin II]]<br/><small>''{{TA|2515|n}} - {{TA|2628|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | BEL | | |BEL=[[Belecthor I]]<br/><small>''{{TA|2545|n}} - {{TA|2655|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ORO | | MOR |ORO='''ORODRETH'''<br/><small>''{{TA|2576|n}} - {{TA|2685|n}}''</small>|MOR=[[Morwen (daughter of Belecthor)|Morwen]]<br/><small>''unknown''</small>}}
+{{familytree | |!| | | |!| |}}
+{{familytree | ECT | | UNK |ECT=[[Ecthelion I]]<br/><small>''{{TA|2600|n}} - {{TA|2698|n}}''</small>|UNK=''Unknown''<br/><small>''unknown''</small>}}
+{{familytree | | | | | |!| |}}
+{{familytree | | | | | EGA |EGA=[[Egalmoth (Steward of Gondor)|Egalmoth]]<br/><small>''{{TA|2626|n}} - {{TA|2743|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=gondorian
+| house=[[House of Húrin]]
+| born={{TA|2576}}
+| died={{TA|2685}}
+}}
+{{seq
+| prev=[[Belecthor I]]
+| list=16th [[Ruling Steward|Ruling Steward of Gondor]]
+| dates={{TA|2655}} - {{TA|2685|n}}
+| next=[[Ecthelion I]]
+}}
+{{seq-end}}
+{{rulingstewards}}
+{{title}}
+[[Category:Gondorians]]
+[[Category:House of Húrin]]
+[[Category:Ruling stewards]]
+[[Category:Third Age characters]]
+
+[[de:Orodreth (Truchsess von Gondor)]]
+[[fi:Orodreth (Gondorin käskynhaltija)]]
+[[fr:encyclo/personnages/hommes/3a/dunedain/gondoriens/orodreth]]

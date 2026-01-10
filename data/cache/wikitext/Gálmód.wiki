@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Rohirrim|Rohir]]
+| name=Gálmód
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=[[Rohanese]] and [[Westron]]
+| birth=Late [[Third Age]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=[[Gríma]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gálmód''' was a man of [[Rohan]].
+
+==History==
+Gálmód must have been born and flourished around the 30th century of the [[Third Age]];<ref>[[Robert Foster]], ''[[The Complete Guide to Middle-earth]]'', entry "Gálmód"</ref> he was the father of [[Gríma|Gríma Wormtongue]], the advisor to [[Théoden|King Théoden]] of [[Rohan]].<ref>{{TT|King}}</ref> 
+
+==Etymology==
+The name ''Gálmód'' seems to derive from the [[Old English]] word for "light-minded, licentious"<ref>[[Wayne G. Hammond]], [[Christina Scull]], ''[[The Lord of the Rings: A Reader's Companion]]'', page 404</ref> or "light, wanton mood".<ref>[[Ruth S. Noel]], ''[[The Languages of Tolkien's Middle-earth]]'', page 26</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| GAL | |GAL='''GÁLMÓD'''<br /><small>''fl. late {{TA}}''</small>}}
+{{familytree| |!| | |}}
+{{familytree| GRI | |GRI=[[Gríma]]<br /><small>''d. {{TA|3019}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{DEFAULTSORT:Galmod}}
+[[Category:Rohirrim]]
+[[Category:Third Age characters]]
+
+[[de:Gálmód]]
+[[fi:Gálmód]]
+[[fr:encyclo:personnages:hommes:3a:hommes du nord:rohirrim:galmod]]

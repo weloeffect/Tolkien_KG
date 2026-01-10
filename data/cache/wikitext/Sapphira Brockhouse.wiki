@@ -1,0 +1,48 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Sapphira Brockhouse
+| image=
+| caption=
+| pronun=
+| othernames=Sapphira Boffin
+| titles=
+| position=
+| location=[[The Yale]]
+| affiliation=
+| language=
+| birth=c. {{SR|1257}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| family=[[Brockhouse Family|Brockhouse]]
+| parentage=
+| siblings=
+| spouse=[[Uffo Boffin]]
+| children=[[Gruffo Boffin|Gruffo]] and [[Gerda Boffin|Gerda]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Sapphira Boffin, née Brockhouse''', was a Hobbit of [[the Shire]].
+
+==History==
+Sapphira married [[Uffo Boffin]] and had two children: [[Gruffo Boffin|Gruffo]] and [[Gerda Boffin|Gerda]].<ref>{{App|Boffin}}</ref>
+
+==Etymology==
+A ''[[wikipedia:Sapphire|Sapphire]]'' is a blue gemstone. The name derives from Greek ''σάπφειρος'' through Latin and Greek.<ref>[http://en.wiktionary.org/wiki/sapphire#Etymology Wiktionary entry]</ref>
+
+{{references}}
+[[Category:Hobbits]]
+[[Category:Brockhouse]]
+[[Category:Boffin]]
+[[Category:Greco-Roman names]]
+[[Category:Third Age characters]]
+
+[[fr:encyclo/personnages/hobbits/trougrisard/saphir trougrisard]]

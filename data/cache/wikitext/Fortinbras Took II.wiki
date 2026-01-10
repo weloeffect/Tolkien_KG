@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Hobbits|Hobbit]]
+| name=Fortinbras Took II
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[Thain]]
+| position=
+| location=[[Great Smials]], [[Tuckborough]]
+| affiliation=
+| language=
+| birth={{SR|1278}}
+| birthlocation=
+| rule={{SR|1339}} - {{SR|1380|n}}
+| death={{SR|1380}}
+| deathlocation=
+| age=102
+| notablefor=
+| family=[[Took Family|Took]]
+| parentage=[[Isumbras Took IV|Isumbras IV]]
+| siblings=
+| spouse=[[Lalia Clayhanger]]
+| children=[[Ferumbras Took III|Ferumbras III]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Fortinbras Took II''' was the twenty-ninth [[Thain]] of [[the Shire]].
+==History==
+Fortinbras was the son of [[Isumbras Took IV|Isumbras IV]].<ref name="Took">{{App|Took}}</ref> He married [[Lalia Clayhanger]] in {{SR|1314}}, and had one son, [[Ferumbras Took III|Ferumbras III]], born two years later.<ref name="L214">{{L|214}}</ref>
+
+Fortinbras became Thain after his father's death in {{SR|1339}}.<ref name="Took"/> It was during his rule when his cousin, [[Bilbo Baggins]], left for his [[Quest for Erebor|famous adventure]].<ref>{{App|TA}}</ref>
+
+He was Thain for 41 years, and after his death in {{SR||1380}} at the age of 102 he was succeeded as Thain by his son Ferumbras; however, in accordance with Took tradition, Lalia continued to be head of the family until her death in {{SR|1402}}.<ref name="L214"/>
+
+==Etymology==
+[[wikipedia:Fortinbras|Fortinbras]] is the name of two characters in Shakespeare's ''[[wikipedia:Hamlet|Hamlet]]''. It is French for "strong in arms".<ref>[[Jim Allan]] (ed.), ''[[An Introduction to Elvish]]'', "Giving of Names"</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | GER |y| ADA | | | | |GER=[[Gerontius Took|The Old Took]]<br/>''<small>1190 - 1320</small>''|ADA=[[Adamanta Chubb]]<br/>''<small>unknown</small>''}}
+{{familytree | |,|-|^|-|.| | | | | |}}
+{{familytree | ISE | | ISU | | | | |ISE=[[Isengrim Took III|Isengrim III]]<br/>''<small>1232 - 1330</small>''|ISU=[[Isumbras Took IV|Isumbras IV]]<br/>''<small>1238 - 1339</small>''}}
+{{familytree | | | | | |!| | | | | |}}
+{{familytree | | | | | FOR |y| LAL |FOR='''FORTINBRAS II'''<br/>''<small>1278 - 1380</small>''|LAL=[[Lalia Clayhanger]]<br/>''<small>1283 - 1402</small>''}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | | | | | FER | | |FER=[[Ferumbras Took III|Ferumbras III]]<br/>''<small>1316 - 1415</small>''}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=hobbit
+| house=[[Took Family]]
+| born={{SR|1278}}
+| died={{SR|1380}}
+}}
+{{Seq
+| prev=[[Isumbras Took IV]]
+| list=29th [[Thain]] of [[The Shire]]
+| dates={{SR|1339}} - {{SR|1380|n}}
+| next=[[Ferumbras Took III]]
+}}
+{{seq-end}}
+
+{{thains}}
+[[Category:Greco-Roman names]]
+[[Category:Hobbits]]
+[[Category:Thains]]
+[[Category:Third Age characters]]
+[[Category:Took]]
+
+[[de:Fortinbras Tuk II.]]
+[[fi:Fortinbras II Tuk]]

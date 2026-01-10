@@ -1,0 +1,52 @@
+{{infobox character
+| people=[[Gondorians|Gondorian]]
+| name=Gilmith
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Dol Amroth]]
+| affiliation=
+| language=
+| birth=c. {{TA|2000}} (exact date unknown)
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Dol Amroth]]
+| heritage=[[Men|Mannish]] father, [[Elves|Elven]] mother
+| parentage=[[Imrazôr]] and [[Mithrellas]]
+| siblings=[[Galador]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Gilmith''' was the daughter of [[Imrazôr]], a man of [[Númenóreans|Númenórean]] descent, and [[Mithrellas]], a [[Silvan Elves|Silvan]] [[Elves|Elf]]-maiden who accompanied [[Nimrodel]] before getting lost. Imrazôr took Mithrellas in. They married and had two children, Gilmith and [[Galador]]. Mithrellas later ran away and was never seen again. Galador would later become the first [[Prince of Dol Amroth]].<ref>{{UT|Amroth}}, p. 248</ref><ref>{{PM|Elendil}}, The Line of Dol Amroth, pp. 220-2</ref>
+
+== Etymology ==
+''Gilmith'' is probably a [[Sindarin]] name. Its meaning and components are not glossed, but it perhaps means "Grey Star" and is a compound of ''[[gil]]'' ("star") and ''[[mith]]'' ("grey").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1790422249.html|articlename=S. ''Gilmith'' f.|website=Eldamo|accessed=08 March 2024}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | IMR |y| MIT |IMR=[[Imrazôr]]<br/><small>''{{TA|1950}} - {{TA|2076|n}}''</small>|MIT=[[Mithrellas]]<br/><small>''unknown''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | GAL | | GIL |GAL=[[Galador]]<br/><small>''{{TA|2004|n}} - {{TA|2129|n}}''</small>|GIL='''GILMITH'''<br/><small>''unknown''</small>}}
+{{familytree | |:| | | | | |}}
+{{familytree | DOL | | | | |DOL=[[Princes of Dol Amroth|''Princes of<br/>Dol Amroth'']]}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Gondorians]]
+[[Category:Third Age characters]]
+[[de:Gilmith]]
+[[fi:Gilmith]]
