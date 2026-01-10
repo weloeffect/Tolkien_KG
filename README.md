@@ -3,6 +3,31 @@
 Stage 0: repository scaffold + IRI policy + namespaces (schema.org).
 
 ## Setup
+```
 python -m venv .venv
+```
+
+```
 source .venv/bin/activate
+```
+
+```
 pip install -r requirements.txt
+```
+
+## Run Fuseki (local)
+```
+./scripts/setup_fuseki.sh
+./scripts/start_fuseki.sh
+```
+
+## Smoke test
+```
+./scripts/smoke_test_fuseki.sh
+```
+```
+Fuseki UI: http://localhost:3030
+```
+```
+SPARQL endpoint: http://localhost:3030/tolkien/sparql
+```

@@ -4,3 +4,7 @@ __pycache__/
 .env
 .DS_Store
 *.ttl.bak
+
+# Fuseki persistent storage
+fuseki/databases/
+tools/fuseki/
