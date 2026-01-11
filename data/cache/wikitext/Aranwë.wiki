@@ -1,0 +1,59 @@
+{{infobox character
+| people=[[Noldor|Noldo]]
+| name=Aranwë
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=Fingolfin
+| parentage=
+| siblings=
+| spouse=[[Falathrim]] lady related to [[Círdan]]<ref name="Tuor">{{UT|Tuor}}</ref>
+| children=[[Voronwë]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Aranwë''' ([[Quenya|Q]], pron. {{IPA|[aˈranwe]}} was an [[Noldor|Elf]] of the [[House of Fingolfin]].
+
+It is possible that he was a nobleman of [[Gondolin]], because of the meaning of his name and because his son [[Voronwë]] came from Gondolin.<ref name="Tuor">{{UT|Tuor}}</ref>
+
+==Etymology==
+''Aranwë'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "King-person" and is a compound of ''[[aran]]'' ("king") and the (mainly masculine) name-suffix ''[[-wë]]'' ("man", "person").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1776237503.html|articlename=Q. ''Aranwë'' m.|website=Eldamo|accessed=28 September 2022}}</ref> 
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | | | |F|~|~|~|7| |}}
+{{familytree| ARA |y| MOT | | CIR |ARA='''ARANWË'''<br /><small>''b. {{FA}}''</small>|MOT=''unknown Sinda''|CIR=[[Círdan]]<br /><small>''b. {{YT}}''</small>}}
+{{familytree| | | |!| | | | | | | |}}
+{{familytree| | | VOR | | | | | | |VOR=[[Voronwë]]<br /><small>''b. {{FA}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{DEFAULTSORT:Aranwe}}
+[[Category:Characters in The Silmarillion]]
+[[Category:Noldor]]
+[[Category:Gondolindrim]]
+[[Category:House of Fingolfin]]
+[[Category:Quenya names]]
+[[Category:First Age characters]]
+
+[[de:Aranwe]]
+[[fi:Aranwë]]
+[[fr:encyclo/personnages/elfes/noldor/aranwe]]

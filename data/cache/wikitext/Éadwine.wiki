@@ -1,0 +1,69 @@
+{{disambig-two|the father of [[Ælfwine]]|son of Ælfwine|[[Eädwine (son of Ælfwine)|Eädwine]]}}
+{{anglosaxon infobox
+| name=Éadwine
+| image=
+| caption=
+| people=[[Wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| pronun=
+| othernames=
+| titles=
+| position=Mariner
+| location=[[Wikipedia:England|England]]
+| affiliation=
+| language=[[Old English]]
+| birth=[[Wikipedia:9th century|9th century AD]]
+| birthlocation=
+| rule=
+| death=Fate unknown (set sail in about [[Seventh Age 878|878 AD]] but never returned)
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Óswine (grandfather of Ælfwine)|Óswine]]
+| siblings=
+| spouse=
+| children=[[Ælfwine]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=[[Éarendel]] (ship)
+}}
+'''Éadwine''' was a [[Man]] living in the [[Wikipedia:Anglo-Saxon England|Anglo-Saxon England]] in the [[Wikipedia:9th century|9th century AD]]. He was the father of the famous seafarer [[Ælfwine]], the first mortal to find the [[Straight Road]] in thousands of years.<ref name="Ead"/>
+
+== History ==
+Éadwine was an experienced seaman, who often told stories of strange, faraway lands to his young son Ælfwine. However, around the year [[Seventh Age 878|878 AD]], when Ælfwine was still a child, Éadwine took his ship [[Éarendel]] out to the sea and never returned. Around the same time, Éadwine's wife fled to her kin in [[Wikipedia:Cornwall|West Wales]], taking their son with her.<ref name="Ead">{{SD|69}}, p. 270</ref>
+
+== Etymology ==
+The name ''Éadwine'' is in [[Old English]] and consists of the elements ''ead'' ("wealth, fortune") + ''wine'' ("friend").<ref>{{webcite|website=Behind the Name|articlename=Edwin|articleurl=http://www.behindthename.com/name/edwin}}</ref> Its modern English cognate is '''''Edwin''''', seen in the name of [[Edwin Lowdham]], the father of [[Alwin Lowdham]], one of the main characters in [[The Notion Club Papers]].<ref>{{SD|66}}, p. 236</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | OSW |OSW=[[Óswine (grandfather of Ælfwine)|Óswine]]<br /><small>''fl. [[wikipedia:9th century|9th century]]''</small>}}
+{{familytree | |!| | |}}
+{{familytree | EAD | |EAD='''ÉADWINE'''<br /><small>''fl. [[wikipedia:9th century|9th century]]''</small>}}
+{{familytree | |!| | |}}
+{{familytree | AEL | |AEL=[[Ælfwine]]<br /><small>''b. [[Seventh Age 869|869 AD]]''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+According to the early [[legendarium]] in ''[[The Book of Lost Tales]]'', the father of Ælfwine was a man named [[Déor (father of Ælfwine)|Déor]].<ref>{{LT2|VIb}}, p. 313</ref>
+
+In ''[[The Lost Road]]'', Éadwine wasn't the name of Ælfwine's father but rather that of [[Eädwine (son of Ælfwine)|his son]].<ref>{{LR|P1III3}}, p. 83</ref>
+
+== See also ==
+*[[Herendil]]
+*[[Amandil]]
+*[[Éomer#Etymology|Éomer ''Éadig'']]
+*[[Edwin Lowdham]]
+*[[Audoin Errol]]
+
+{{references}}
+{{DEFAULTSORT:Eadwine}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters from the later Ages]]
+[[Category:Mariners]]
+[[Category:The Notion Club Papers]]
+[[Category:Old English names]]

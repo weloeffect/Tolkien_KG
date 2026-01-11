@@ -1,0 +1,29 @@
+{{disambig-more|War of the Ring|[[War of the Ring (disambiguation)]]}}
+{{board game infobox
+| image = WotR CardGame 2022.webp
+| name=War of the Ring: The Card Game
+| designer=Ian Brody
+| publisher=[[ARES Games]]
+| releasedate=[[2022]]
+| players=2-4
+| ages=12+
+}}
+'''War of the Ring: The Card Game''' is an re-imagined, streamlined and condensed version of the [[War of the Ring: Second Edition (2011 board game)|larger board game of the same name]].
+==From the publisher==
+Inspired by the best-selling and award-winning War of the Ring board game, War of the Ring - The Card Game allows players to journey to the world of J.R.R. Tolkien’s [[The Lord of the Rings]] and create their own version of the dramatic conflict between the Dark Lord, [[Sauron]], and the [[Free Peoples]] of Middle-earth.
+
+In War of the Ring - The Card Game, up to 4 players compete in two teams, the Shadow against the Free Peoples, each player using a specific and different card deck representing the strengths and weaknesses of the different factions involved in the war.
+
+The Free Peoples desperately try to complete their quest to destroy the [[One Ring]], while at the same time defending their homelands from the encroaching hordes of Sauron and from his evil allies. The Shadow players must strike quickly and decisively, before the [[Ring-bearers]] can complete their quest; or try to slowly corrupt [[Frodo]], burdening him with wounds, toil, and the sorrow for the loss of his Companions.
+
+==Expansions==
+*''Against the Shadow'' (2023) - Adds a co-operative and solo mode to the game, enabling the player to take on an automated Shadow player. ([https://boardgamegeek.com/boardgameexpansion/388470/war-of-the-ring-the-card-game-against-the-shadow BGG Profile])
+*''Fire and Swords'' (2024) - Expands the card pool with new battlegrounds, introduces new factions, skirmishes as well as unique Scenarios that can be undertaken. ([https://boardgamegeek.com/boardgameexpansion/397827/war-of-the-ring-the-card-game-fire-and-swords BGG Profile])
+
+==External links==
+* '''[https://www.aresgames.eu/games/war-of-the-ring-line/war-of-the-ring-card-game Official Site]'''
+* [https://boardgamegeek.com/boardgame/362944/war-of-the-ring-the-card-game Board Game Geek Profile]
+{{references}}
+{{title}}
+{{Navbox cards}}
+[[Category:Card games]]

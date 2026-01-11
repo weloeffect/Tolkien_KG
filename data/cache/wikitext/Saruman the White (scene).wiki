@@ -1,0 +1,28 @@
+{{scene
+|name=Saruman the White
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Saruman the White.jpg
+|number=9 (theatrical edition)<br />
+        12 (extended edition)
+|duration=4:36
+|characters=[[Gandalf]], [[Saruman]]
+|event=[[Gandalf]] is captured in [[Orthanc]] by [[Saruman]].
+|previous=[[The Passing of the Elves (scene)|The Passing of the Elves]]
+|next=[[A Short Cut to Mushrooms (scene)|A Short Cut to Mushrooms]]
+}}
+'''Saruman the White''' is the ninth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the twelfth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+
+[[Gandalf]] arrives at [[Orthanc]] to speak with [[Saruman]], informing the head of his [[Order of Wizards|order]] of the discovery of [[the One Ring]]. While [[Saruman]] rebukes Gandalf for becoming so enamoured with the ways of [[Hobbits]] (specifically their love of [[pipe-weed]]) that he failed to notice the truth about [[Bilbo Baggins|Bilbo's]] possession for years, he confirms Gandalf's findings. When Gandalf claims that there is still time to counter against [[Sauron]] if they act quickly, Saruman disagrees. 
+
+Entering into the tower of Orthanc, Saruman informs Gandalf that Sauron, despite having no physical form, can still use his [[Eye of Sauron|eye]] to search for the ring. When Gandalf asks Saruman how he knows this, Saruman then reveals his usage of a ''[[Palantíri|palantír]]'' to Gandalf, who is visibly disturbed. Saruman goes on to say that the [[Nazgûl|Ringwraiths]] are alive and will seek the One Ring on Sauron's behalf. Fearing for [[Frodo]], Gandalf tries to leave, but Saruman uses [[magic]] to seal the doors. He informs Gandalf that time is running out, that Sauron is unstoppable, and that they must join him if they wish to have victory. Gandalf rejects Saruman and the two of them fight for a brief period before Saruman takes Gandalf's staff and sends him hurtling to the pinnacle of Orthanc.
+
+==Differences==
+*Saruman's usage of a ''palantír'' is not revealed until the chapter [[The Voice of Saruman]].
+*Saruman and Gandalf do not have a battle.
+*Saruman does not seize Gandalf's staff.
+*No mention of Saruman's titles of "Ring-maker" or "Many-Colors" is made in the films. In the books, these show Saruman's arrogance and presumption of replacing Sauron and the other wizards. In the movies, Saruman seems to be willing to take a subordinate role to Sauron.
+
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|12]]

@@ -1,0 +1,28 @@
+{{scene
+|name=Very Old Friends
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Bilbo smoking.jpg
+|number=3 (theatrical edition)<br />
+        4 (extended edition)
+|duration=4:08 (theatrical edition)<br>
+          4:18 (extended edition)
+|characters=[[Gandalf]], [[Bilbo Baggins|Bilbo]]
+|event=Bilbo discusses his plans with Gandalf prior to the [[Bilbo's Farewell Party|Birthday Party]]
+|previous=[[The Shire (scene)|The Shire]]
+|next=[[A Long-expected Party (scene)|A Long-expected Party]]
+}}
+'''Very Old Friends''' is the third scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the fourth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition, starring [[Ian Holm]] and [[Ian McKellen]] as [[Bilbo Baggins]] and [[Gandalf|Gandalf the Grey]] respectively.
+
+==Synopsis==
+[[Gandalf]] greets [[Bilbo]] and gains admission to [[Bag End]]. Bilbo runs around trying to find food and drink for him, while Gandalf investigates Bag End. He finds Bilbo's map and unfinished book before Bilbo suddenly appears. They sit down to eat, and after an attempt by [[Lobelia Sackville-Baggins]] to see Bilbo, they discuss Bilbo's plans for the future. Bilbo expresses how he is beginning to feel old, and that he wishes to leave, though he is somewhat reluctant to abandon [[Frodo]]. Bilbo declares he will not return to Bag End. As the sun sets, Bilbo and Gandalf go outside to smoke. The party begins soon afterwards.
+
+==Differences==
+*Gandalf's arrival is depicted as more secretive in the books, and several dwarves are present to help him unload.
+*Bilbo does not greet Gandalf at the door or look for refreshments in the book.
+*The dialogue where Bilbo describes his old age happens later in the book, after he vanishes from the party.
+*Bilbo is depicted as appearing older than he should be, though this is due in part to the actor's own age. In the book, Bilbo is described as being very "well preserved" or even "unchanged" as the years go by, whereas in the movies he is clearly a senior citizen.<ref>{{FR|I1}} p. 1</ref>
+*The smoking scene is not in the books.
+*In the books, Gandalf arrives six days before the party, rather than the day of the party.
+
+{{references}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|04]]

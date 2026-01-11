@@ -1,0 +1,42 @@
+{{disambig-more|Isengard|[[Isengard (disambiguation)]]}}
+{{chapter
+| image=Ted Nasmith - The Riders of Rohan.jpg
+| title=The Road to Isengard
+| book=The Two Towers
+| number=8
+| event=King [[Théoden]] and [[Gandalf]] ride to [[Isengard]] and meet [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Peregrin]].
+| date=[[4 March|4]]-[[5 March]] {{TA|3019|n}}
+| location=[[Isengard]]
+| previous=Helm's Deep (chapter)
+| next=Flotsam and Jetsam
+| map=
+<imagemap>
+File:LotrProject - Helm's Deep (chapter) - Map.png|centre|275px
+rect 68 19 0 0 [[Dunland]]
+rect 297 39 153 180 [[Fangorn Forest]]
+rect 229 228 312 256 [[Rohan]]
+rect 343 261 399 295 [[Eastemnet]]
+rect 279 274 334 303 [[Westemnet]]
+rect 134 285 188 309 [[Helm's Deep]]
+rect 111 243 197 262 [[Gap of Rohan]]
+rect 40 257 95 274 [[Fords of Isen]]
+rect 234 332 284 350 [[Edoras]]
+rect 71 170 99 224 [[Isengard]]
+rect 149 210 100 190 [[Nan Curunír]]
+poly 166 3 141 63 129 117 148 177 75 162 54 218 13 173 53 87 6 65 95 -1 [[Misty Mountains]]
+poly 256 400 122 288 60 376 1 376 1 400 273 400 [[White Mountains]]
+</imagemap>
+}}
+
+'''The Road to Isengard''' is the eighth chapter of the first book in ''[[The Two Towers]]''.
+
+==Summary==
+King [[Théoden]], [[Gandalf]] the white rider, [[Aragorn]], [[Legolas]], [[Erkenbrand]], [[Éomer]], [[Gimli]] and the men of [[Rohan]] all gathered beside a stream. When Théoden asked Gandalf about his wizardry over the trees, Gandalf laughed and told them that it had not been his doing. He asked them to come with him to [[Isengard]] if they wished to know more about the trees.
+
+After resting, the [[men]] set forth again. They came to [[Orthanc]], the citadel of [[Saruman]] at Isengard. They were surprised to find that [[Treebeard]] and his [[Ents]] had destroyed the citadel, and that Saruman and [[Gríma|Wormtongue]] had hidden themselves away in [[Orthanc]], guarded by none other than [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]]. Théoden, who was anxious to see Treebeard, said good-bye to the [[Hobbits]] and accompanied Gandalf to the Northern wall.
+==Composition==
+Tolkien wrote this chapter, along with the five final chapters of Book III were written as a whole (not sequentially) during his spare time in summer and autumn [[1942]]. He wrote seven different versions of the dialogue between Gandalf and Théoden. Eventually, after making a fair copy, a lot of that version, its chronology and route to Orthanc, was rejected and rewritten.<ref>{{CG|CG}}, p. xxiv</ref>
+{{references}}
+{{DEFAULTSORT:Road to Isengard}}
+[[fi:Tie Rautapihaan (TSH)]]
+[[Category:The Two Towers chapters]]

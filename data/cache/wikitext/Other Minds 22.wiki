@@ -1,0 +1,34 @@
+{{journal
+| title=Other Minds 22
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=April [[2020]]
+| format=PDF
+| pages=44
+| issn=
+}}
+
+'''''Other Minds'' 22''' is the twenty-second issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in April 2020.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "The Gameeboard - Table"
+** By Andreas Erdmann
+* "Yuletide Stolen"
+** By Bill Weatherford
+* "The Great Road"
+** By Thomas Morwinsky
+
+*'''Artwork / Maps:'''
+** By: Aegeri, Sergio Artigas, [[Matěj Čadil]], Ralph Damiani, [[Anke Eißmann]], Andreas Erdmann, [[John Howe]], [[Ted Nasmith]]
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 22}}
+[[Category:Other Minds]]

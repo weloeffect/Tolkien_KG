@@ -1,0 +1,57 @@
+{{people infobox
+| name=Green-elves
+| image = Peter Xavier Price - Green-elf of Ossiriand.jpg
+| caption="Green-elf of Ossiriand" by [[Peter Xavier Price]]
+| pronun=
+| othernames=Elves of Ossiriand, Laiquendi
+| origin=[[Nandor]] who crossed into [[Beleriand]]
+| location=[[Ossiriand]], [[Lindon]]
+| affiliation=
+| rivalry=
+| language=[[Nandorin]], [[Sindarin]]
+| members=[[Denethor (son of Lenwë)|Denethor]]
+| lifespan=Immortal
+| distinctions=Skilled in woodcraft<ref name="Sindar"/>
+| height=
+| hair=
+| skin=
+| clothing="raiment of the colour of leaves"<ref name="Sindar"/>
+| weapons="light-armed"<ref name="Sindar"/>
+}}
+The '''Green-elves''' ([[Quenya|Q]] '''''[[Green-elves#Etymology|Laiquendi]]''''', [[Sindarin|S]] '''''[[Green-elves#Etymology|Laegrim]]'''''; also '''Green Elves'''<ref>{{PM|XI4}}, p. 349</ref>) were a clan of the [[Nandor]].<ref name=WJC/>
+
+==History==
+[[Lenwë]] was an [[Elves|Elf]] of the [[Telerin]] clan, who set out with the [[Great Journey]] of the [[Elves]] into the West during the [[Years of the Trees|early years]] of the [[First Age]]. When his people found their path blocked by the [[Misty Mountains]], he resolved to leave the Journey and instead led his followers south down the [[Vales of Anduin]], and they became known as the Nandor. After many years, Lenwë's son [[Denethor of the Nandor|Denethor]] set out westward once again, and led some part of the Nandor across the Misty Mountains and the Blue, settling at last in the [[Ossiriand|Land of Seven Rivers]] beneath the [[Ered Luin]]; the land called [[Ossiriand]].
+[[File:Turner Mohan - Green Elves.jpg|''Green Elves'' by Turner Mohan|thumb|left]]
+Denethor and his followers did not have peace for long, for war came; soon after his return to [[Middle-earth]], before the [[Noldor]] had followed him, [[Morgoth]] [[First Battle of Beleriand|invaded Beleriand]] loosing armies of orcs on King [[Thingol]] and his allies. Morgoth managed to cut him off from the [[Falathrim]] in the west, but not the wide Ossiriand in the east. Thingol called Denethor to his aid and as he attacked the orc-host from the west, the ill-equipped Laegrim pushed them from the east, but suffered great hardship from the iron-shod orcs. Denethor himself was cut off at [[Amon Ereb]] and was slain with those nearest about him before Thingol could rescue him; the Elves beat back the [[Orcs]] at last. The Laegrim loved him and mourned his loss, and henceforth would take no king.  They became reclusive, camouflaging in green, pulling away from the many troubles of Beleriand, and fighting no longer against Belegurth.<ref name="Sindar">{{S|Sindar}}</ref> From that time, they were known as the Green-elves. When the [[Noldor]] returned from over the [[Belegaer|Sea]], they gave the Laegrim the name (in [[Quenya]]) ''[[Laiquendi]]''.
+
+Some left Ossiriand for the guarded forests of [[Doriath]]: these settled in [[Arthórien]] and became known as the [[Guest-elves]].<ref name=UT>{{UT|2d}}</ref><ref name=WJP1>{{WJ|P1}}, pp. 112-3</ref> 
+
+The hidden people of the Green-elves played little part in history after the [[First Battle]] of the [[Wars of Beleriand]] as they did not participate in the great events of Beleriand throughout the [[Years of the Sun|late years]] of the First Age.<ref name="ref3">{{S|Doriath}}</ref>
+
+After the death and return of [[Beren]] and [[Lúthien]], the couple took up abode in [[Tol Galen]] in the far south of Ossiriand, and made it one of the most beautiful places in Beleriand.<ref name="ref3"/> There the Green-elves accepted Beren as their lord.<ref>{{LR|Lhammas}}</ref>
+
+After the loss of their ancient ally Thingol at the hands of the [[Dwarves]], they went with Beren to avenge him in the [[Battle of Sarn Athrad]]. Much later, after the deaths of Beren and [[Lúthien]], one of their lords took up the [[Silmarils|Silmaril]] that Lúthien had borne, and brought it to [[Menegroth]] where Dior now dwelt.<ref name="ref3" />
+
+After the [[Nirnaeth Arnoediad]], the [[Sons of Fëanor]] wandered in the lands of the Laiquendi, bereft of lands, often mixing with them.<ref name="ref4">{{S|Fifth}}</ref>
+
+After the end of the First Age, their fate is not clearly known. Much of their land survived the destruction of [[Beleriand]], and as [[Lindon]] came under the rule of [[Gil-galad]]. In the early [[Second Age]], some at least seem to have removed to [[Eriador]], and dwelt on the shores of [[Lake Evendim|Lake Nenuial]].<ref name=concerning>{{UT|Concerning}}</ref> Others went east to live among the [[Silvan Elves]].<ref name=rings>{{S|Rings}}</ref> After this, nothing is known of their fate.
+
+==Etymology==
+The [[Sindarin]] name '''''Laegrim''''' (class plural; sing ''Laegel'', pl ''Laegil'') or ''Laegel(d)rim'', meaning "Green-elves", was a name used by the [[Sindar]] of [[Beleriand]] for the inhabitants of [[Ossiriand]] because of their leaf-coloured clothing.<ref name="Sindar"/> This term was translated by the [[Noldor]] to [[Quenya]] '''''Laiquendi'''''.<ref name=WJC>{{WJ|C}}, p. 385</ref><ref group="note">While [[J.R.R. Tolkien|Tolkien]] states in the late manuscript ''[[Quendi and Eldar]]'' (ca. 1959-60) that the Quenya form ''Laiquendi'' "was not much used" (p. 385), it is the only [[Elvish]] translation of "Green-elves" which occurs in the published ''[[The Silmarillion|Silmarillion]]''.</ref>
+
+In the [[The Etymologies|''Etymologies'']] appears early Elvish names for the Green-elves: [[Qenya]] ''Laiqendi'' and [[Noldorin]] ''Lhoebenidh'' or ''Lhoebelidh''.<ref>{{LR|Etymologies}}, p. 368 ([[Sundocarme|root]] LÁYAK)</ref>
+
+==Other versions of the legendarium==
+Originally, the Green-elves were [[Noldor]] in the Silmarillion writings of the 1930s.<ref>{{SM|VN}}, p. 270</ref> They remained so in the final ''[[Quenta Silmarillion (Lost Road)|Quenta Silmarillion]]'' of that period.<ref>{{LR|P2VI}}, p. 215</ref> By the time of the major revisions of the early 1950s they had become [[Teleri]].<ref>{{GA|30}}, p. 13</ref> However, in a late note of c. 1968, Tolkien writes that they were "probably in origin of Noldorin kinship" reverting to the original conception.<ref>{{NM|P3xvii}}, p. 357</ref> This, however, was not incorporated into any narrative writing.
+
+==Other writings==
+In ''[[Letters from Father Christmas]]'', '''green elves''' lived in the North Pole and in [[1936]] moved into the [[Cliff House]] with [[Father Christmas]] where they were trained on how to pack gifts. The [[North Polar Bear]] taught them the numbering system he had invented to save Father Christmas time writing addresses.<ref>{{LFC|1936}}</ref>
+
+{{references|note}}
+{{elves}}
+[[Category:Elven peoples]]
+[[Category:Moriquendi]]
+[[Category:Nandor]]
+[[de:Laiquendi]]
+[[fi:Viherhaltiat]]

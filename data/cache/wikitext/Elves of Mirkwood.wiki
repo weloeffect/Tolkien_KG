@@ -1,0 +1,83 @@
+{{sources}}{{people infobox
+| name=Elves of Mirkwood
+| image = Anke Eißmann - Greenwood the Great.jpg
+| caption="Greenwood the Great" by [[Anke Eißmann]]
+| pronun=
+| othernames=Elves of Thranduil, Elves of the Wood, Folk of the Wood, Wood-elves
+| origin=[[Silvan Elves|Silvan]] followers of [[Thranduil]] and his [[Sindar|kin]]
+| location=[[Woodland Realm]], [[Ithilien]]
+| affiliation=[[Last Alliance of Elves and Men]]
+| rivalry=
+| language=[[Silvan language]], [[Sindarin]], [[Westron]]
+| members=[[Oropher]], [[Thranduil]], [[Legolas]], [[Galion]]
+| lifespan=Immortal
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Elves of Mirkwood''' were [[Silvan Elves]] that lived in the [[Woodland Realm]] of northern [[Mirkwood]], under the rule of [[Thranduil]].
+
+==History==
+During the [[First Age]], the [[Valar]] summoned the first [[Elves]] to move with them to [[Valinor]]. There were three hosts that first set out to answer the call of the Valar. Of these, the largest host was that of the [[Teleri]]. They advanced very slowly, and would often lose sight of the other two, smaller hosts.<ref name="S3">{{S|3}}</ref> There was a time, when they reached the river [[Anduin]], one smaller leader of that host, [[Lenwë]], wished to go no further, and he and his people began to live in the forests surrounding the Anduin Vale as the remaining Teleri continued their journey to [[Valinor]]. Their descendants were the Silvan elves of [[Lothlórien]] and Greenwood the Great.<ref name="S3"/>
+
+===Second Age===
+During the [[Second Age]], many [[Sindar]] survivors, who did not sail to the [[Valinor|West]], did not wish to stay with the [[Noldor]] in [[Lindon]] and be dominated by them.<ref name="Princes"/> They travelled eastward from Lindon and eventually ended up in Greenwood the Great, where the Silvan Elves of [[Nandorin]] descent lived. The Silvan Elves were ''[[morbin]]'',<ref>{{WJ|B}} (pp. 376-7, 380)</ref> but they shared the same Telerin ancestry. The Sindar longed to experience a more "rustic" and "natural" way of life and fully embraced and adopted their culture and language. [[Oropher]], one of the [[Iathrim]] who spent his early life in [[Doriath]],<ref name="Princes">{{UT|6b}}</ref> was taken by them as King and founded the [[Woodland Realm]] in {{SA|750}} with the capital at [[Amon Lanc]].<ref name="Princes">{{UT|6b}}</ref><ref>{{PM|Second}}, p. 174</ref> 
+
+Originally Oropher's realm encompassed the entirety of Greenwood, with its capital at [[Amon Lanc]]. However, during the Second Age, he and his people migrated north three times.<ref name="Note 14">{{UT|Gladden}}, note 14</ref> According to one tradition, the first movement was northward beyond the [[Gladden Fields]], due to Oropher's desire to distance himself from the increasing encroachments of the [[Dwarves of Khazad-dûm]] and his resentment of the intrusions of [[Celeborn]] and [[Galadriel]] in [[Lothlórien]]. However his people did maintain constant intercourse with their kin west of the [[Anduin]]. Oropher was also disturbed by the reports of [[Sauron]]'s rising power and by the end of the Second Age he dwelt in the western glens of the [[Mountains of Mirkwood|Emyn Duir]] or Dark Mountains and his people lived north of the [[Men-i-Naugrim]] or Dwarf-road.<ref name="Note 14"/>
+
+Oropher joined the [[Last Alliance of Elves and Men|Last Alliance]] by summoning a great army which joined with [[Amdír]]'s smaller force of [[Galadhrim|Lórien Elves]] to create one large host of Silvan Elves; the Silvan Elves were strong and brave, but they had poor armour and weapons in comparison with the [[Noldor]]. [[Amdír]] and Oropher were unwilling to submit to the supreme command of [[High King of the Noldor|High King]] [[Gil-galad]] who was a Noldo, and rushed forward by themselves before his signal to charge. As a result they suffered in the [[Battle of Dagorlad]] and Oropher who was to the fore was slain.<ref name="Princes"/>
+
+Over the course of the [[War of the Last Alliance]], which ended with the [[Siege of Barad-dûr]] in {{SA|3441}}, two-thirds of the Silvan army had been lost. The remnants of the army returned to Greenwood under the command of Oropher's son, [[Thranduil]], and he was crowned king.<ref name="Princes"/>
+
+===Third Age===
+With the return of [[Sauron]] around {{TA|1050}} southern Greenwood became dangerous and was renamed [[Mirkwood]]. Creatures like great spiders came to dwell in Mirkwood and Thranduil's folk retreated to the north-eastern corner of Mirkwood, where they fortified themselves near the [[Forest River]].
+
+By the middle of the Third Age, the Silvan Elves of Mirkwood were much reduced in number though Mirkwood still had a greater population of Elves than [[Lindon]], [[Rivendell]], or [[Lothlórien]].<ref>{{L|347}} p. 425</ref> To avoid the encroachment of the Necromancer from the south, they dwelt in the lands north of the [[Forest River]], living mainly in and around the [[Elvenking's Halls]]. They also had become increasingly withdrawn and wary of strangers, though they did trade with the neighbouring realms.
+====Quest for Erebor====
+[[File:David T. Wenzel - Mirkwood elves.jpg|thumb|Mirkwood elves as depicted by [[David T. Wenzel]]]]
+In {{TA|2941}}, Thranduil's people were disturbed, three times, by a band of [[Dwarves]] while feasting in the forest. The Dwarves were captured after the third interruption and brought to the Elvenking's halls. Though they had trespassed, they were not imprisoned until after they had been questioned and refused to be forthright. Their leader, [[Thorin]], refused to reveal the purpose of their journey from their halls far to the west in [[Eriador]].<ref name=Flies/> The others, taken separately, had been questioned, refused to speak openly, and also spoke insultingly of the Elves.<ref name=Barrels/> 
+
+Thranduil was content to wait for the Dwarves' stubborness to subside. Though prisoners in the king's dungeons, they were not ill-treated by the Wood-elves who "were reasonably well-behaved even to their worst enemies, when they captured them."<ref name=Flies>{{H|Flies}}</ref> After many days of imprisonment, they escaped with the help of their companion, the [[Hobbits|hobbit]] [[Bilbo Baggins]], who had avoided capture using a [[The One Ring|magic ring]].<ref name=Barrels>{{H|Barrels}}</ref>
+
+After the Dwarves' escape Thranduil sent out messengers; the Elves heard that Smaug, provoked by the escaped dwarves, had left Erebor to attack [[Lake-town]] where he was slain by [[Bard|Bard the Bowman]]. With that news, it was believed that the dwarves must have died and the wealth of [[Thror]], augmented by Smaug's pillage of Dale, was left unprotected. He set out towards the [[Lonely Mountain]] with a company of Elves with spears and bows. On the way they met messengers from [[Bard]] in [[Lake-town]] who was seeking aid for his destroyed town. Thranduil being "the lord of a good and kindly people," turned his march to lend them aid.<ref name=Fire/> He gave them a great store of goods and skilled Elves stayed to help the people erect shelters for the winter. He and Bard joined forces and marched north in arms as Thranduil had perceived that the swift spreading news of Smaug's death was "an ill wind . . . that blows no one any good."<ref name=Fire>{{H|Fire}}</ref> They were very surprised when they found out that Thorin and his company had survived Smaug's attacks, had taken possession of the Lonely Mountain and its treasures and that Thorin Oakenshield had claimed the title [[King under the Mountain]].  
+
+Bard demanded a part of the treasure for [[Dale]] and Lake-town, which Smaug had destroyed, as well as for himself because he had shot the dragon. When Thorin refused to give away parts of the treasure, Thranduil and Bard besieged the mountain and Thorin sent for aid from his cousin [[Dáin Ironfoot|Dáin II Ironfoot]] from the [[Iron Hills]].<ref>{{H|Gathering}}</ref> After a few days Dáin's host approached and fight seemed unavoidable. But in the night Bilbo brought the [[Arkenstone]], a great jewel that Thorin valued above all to him open to negotiations.<ref>{{H|Thief}}</ref> The next morning Bard and Thranduil entered into negotiations with an angered Thorin, who agreed to pay 1/14 share of the treasure in exchange for the stone. The next day Dáin arrived with his forces and although Thranduil was reluctant to start a war over gold, the dwarves proceeded to attack. 
+
+At the last moment, when the battle was almost joined between the two sides Gandalf intervened and revealed that while they were bickering amongst themselves, the [[Orcs]] of the [[Misty Mountains]] and [[Grey Mountains]] under [[Bolg]] were using the opportunity to march against them. They had been incited by Gandalf's earlier slaying of the [[Great Goblin]], but had now mobilized for a full-scale attack after hearing news of the death of the Dragon and the now relatively unguarded treasure hoard. With the counsel of Gandalf, the three commanders agreed that the Orcs were the enemies of all and previous grievances between them were put on hold in face of the greater threat. So the [[Battle of Five Armies]] began.
+
+Thranduil's host was positioned on the southern side of the Mountain, and they were the first to charge. Many Wood-elves were slain,<ref>{{H|Burst}}</ref> and things looked grim when the [[Eagles]] arrived on the battlefield. They turned the tide and the battle was won. Afterwards an agreement was reached for the division of the dragon hoard by the victors.<ref>{{H|Return}}</ref>
+====War of the Ring====
+On [[21 March|March 21]], {{TA|3018}} [[Aragorn]] and [[Gandalf]] delivered [[Gollum]] as a prisoner to Thranduil. He was guarded day and night, but the Elves pitied him and allowed him to climb a tree that stood alone. When one night in June of 3018, Gollum refused to come down, the Elves were attacked by Orcs and Gollum could escape in the confusion. Thranduil sent his son [[Legolas]] to Rivendell to inform [[Elrond]], and in the [[Council of Elrond]] Legolas was selected as one of the nine members of the [[Fellowship of the Ring|Company of the Ring]].<ref>{{FR|II2}}</ref> He journeyed with the [[Ring-bearers|Ring-bearer]] [[Frodo Baggins]] towards Mordor. After the [[Breaking of the Fellowship]] Legolas continued to accompany Aragorn, fighting in the [[Battle of the Hornburg]], the [[Battle of the Pelennor Fields]] and the [[Battle of the Morannon]]. Legolas also developed a close friendship with the dwarf [[Gimli]], son of one of Thorin's companions: [[Glóin]]. This friendship did much to improve relations between the two peoples.
+
+On [[15 March|March 15]], {{TA|3019}}, an army of [[Sauron]] from [[Dol Guldur]], tasked with destroying the Woodland Realm, attacked Mirkwood. There was a long [[Battle under the trees]] and the woods were set on fire. But in the end Thranduil defeated the invaders. 
+
+Because the Shadow over Mirkwood was lifted, Thranduil and Celeborn renamed it [[Eryn Lasgalen]], the Wood of Greenleaves. They divided it up, so that Thranduil received the northern part as far as the Mountains, and Celeborn took the southern part below the [[Narrows of the Forest|Narrows]], naming it [[East Lórien]]. The wide forest in-between was given to the [[Beornings]] and the [[Woodmen]].<ref name="AppB">{{App|B}}</ref>
+
+After the destruction of [[Dol Guldur]] and the cleansing of Mirkwood, Thranduil and the Wood-Elves remained untroubled for many years.
+
+After the fall of Sauron, around {{FoA|20}},<ref name="RK|Cormallen">{{RK|Cormallen}}</ref> Legolas brought south Elves out of Greenwood, and they dwelt in Ithilien, and it became once again the fairest country in all the westlands.<ref name="App|Durin">{{App|Durin}}</ref> They stayed in Ithilien for "a hundred years of Men."<ref name="RK|Cormallen"/> Legolas and the Wood-Elves later worked together with Gimli and the Dwarves to rebuild and improve [[Minas Tirith]], capital city of [[Gondor]], the realm of their mutual friend King [[Aragorn|Aragorn Elessar]].<ref name="AppB"/> After King Aragorn died, Legolas sailed West, reportedly taking Gimli with him, and with them left numerous other [[Elves]].<ref name="RK|Cormallen"/><ref name="App|Durin"/>
+
+==Language==
+It is unclear precisely what form of [[Sindarin]] and/or [[Silvan Elvish]] the Elves of Mirkwood spoke.
+
+In "The Silvan Elves and Their Speech" Tolkien writes that, "Thranduil father of Legolas of the Nine Walkers was Sindarin, and that tongue was used in his house, though not by all his folk."<ref name="UT6a"/> This implies that Sindarin was the language of court and Silvan Elvish or the woodland tongue was the language of the people. It was later written that, "by the end of the Third Age the Silvan tongues had probably ceased to be spoken in the two regions that had importance at the time of the War of the Ring: Lórien and the realm of Thranduil in northern Mirkwood."<ref name="UT6a">{{UT|6a}}</ref> However, when Legolas related the song of Nimrodel, a song about a [[Third Age]] event, he said, "it is a fair song in our woodland tongue."<ref>{{FR|II6}} p. 330</ref><ref group="note">"Silvan Elvish is also referred to as the 'woodland tongue'." (J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment - Languages Invented by Tolkien - edited by Michael D. C. Drout, p. 339)</ref> 
+
+In "The Sindarin Princes of the Silvan Elves", Tolkien states that:
+ 
+{{blockquote|Oropher had come among them with only a handful of Sindar, and they were soon merged with the Silvan Elves, adopting their language and taking names of Silvan form and style. This they did deliberately; for they . . . came from Doriath after its ruin, and had no desire to leave [[Middle-earth]], nor to be merged with the other Sindar of Beleriand, dominated by the Noldorin Exiles for whom the folk of Doriath had no great love. They wished indeed to become Silvan folk . . .|{{UT|6b}}}}
+
+In [[Letter 347]], written in [[1972]], there is a note which states: "The Silvan Elves of Thranduil's realm did not speak [[Sindarin|S.]] but a related language or dialect."<ref>{{L|347}}</ref> This could be a mixture of [[Doriathrin]], or Old Sindarin, mixing with the Silvan Elvish of the Nandor and Avari.<ref group="note">See [[David Salo]]'s ''[[A Gateway to Sindarin]]'' p. 13</ref>     
+
+==Portrayal in adaptations==
+*'''[[2013]]: ''[[The Hobbit: The Desolation of Smaug]]'':'''
+:[[Beorn]] says about these Elves that they are dangerous and less wise than their kindred. There seems to be a gap between the Sindar and the Silvan, as Thranduil disaproves Legolas's affection for [[Tauriel]].
+==See also==
+*[[Woodland Realm]]
+
+{{references|notes}}
+[[Category:Elven peoples]]
+[[Category:Nandor]]
+[[Category:Silvan Elves]]

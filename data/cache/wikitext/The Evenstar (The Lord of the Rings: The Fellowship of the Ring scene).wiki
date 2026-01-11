@@ -1,0 +1,18 @@
+{{stub}}
+{{scene
+| name = The Evenstar
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image =
+| number = 22 (theatrical)<br>
+           26 (extended)
+| duration =
+| event =
+| characters =
+| previous = [[The Sword that Was Broken]]
+| next = [[The Council of Elrond (scene)|The Council of Elrond]]
+}}
+'''The Evenstar''' is the twenty-second scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the twenty-sixth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+{{title}}
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|26]]

@@ -1,0 +1,50 @@
+{{battle
+|image=
+|name=Battle of Fornost
+|conflict=[[Angmar War]]
+|date={{TA|1975}}
+|place=In the plain between [[Nenuial]] and [[Fornost]], and later somewhere north near the lands of [[Angmar]]
+|result=Decisive victory for the Allies, and the complete destruction of Angmar's forces
+|side1=[[Arthedain]], [[Gondor]], [[Vales of Anduin]], [[Lindon]], [[Rivendell]], [[Lothlórien]], [[The Shire]]
+|side2=[[Angmar]]
+|commanders1=
+*[[Eärnur]]
+*[[Círdan]]
+*[[Glorfindel]]|
+commanders2=
+*[[Witch-king]]
+|forces1=[[Elves of Lindon]], [[Rivendell]], and [[Lothlórien|Galadhrim]], [[Arnorians]], [[Gondorians]], and [[Men of the Vales of Anduin]], and a few [[Hobbits of the Shire|Hobbits]]<ref>{{FR|Hobbits}}</ref>
+|forces2=[[Orcs]], [[Hill-men]], and other evil creatures
+|casual1=Unknown
+|casual2="not a man nor an orc of that realm remained west of the [[Misty Mountains|Mountains]]"<ref name="Gondor">{{App|Gondor}}</ref>|
+}}
+The '''Battle of Fornost''' was the climatic battle that defeated the [[Witch-king]] of [[Angmar]] and his armies.
+
+== Prelude ==
+In {{TA|1409}}, the [[Witch-king]] of [[Angmar]] invaded the kingdom of [[Arnor]].<ref name="TA">{{App|TA}}</ref> After centuries of conflict, in {{TA|1973}} messages were sent to King [[Eärnil II]] of [[Gondor]] that they were in great straits, and that Angmar was preparing its final assault.  The King sent his son Prince [[Eärnur]], with a fleet of ships to Lindon to aid the northern [[Dunedain]].  
+
+But it was too late. Before the fleet would reach Lindon two years later, [[Arthedain]] (the last remnant of Arnor) had already been destroyed in the [[Fall of Fornost]] by the Witch-king's armies in {{TA|1974|n}}. Its remaining forces fled west over the river [[Lune]] into the realm of [[Lindon]], and its last king, [[Arvedui]], perished in the [[Icebay of Forochel]] in 1975.<ref name="Eriador">{{App|Eriador}}</ref>
+
+When Eärnur reached the Havens with his massive fleet, there was much joy and wonder among Elves and Men. [[Círdan]], Lord of Lindon, summoned all who would fight from both his realm and the remnants of the [[Dúnedain of the North]].  When all the preparations were finished this allied [[Host of the West (Arnor)|Host of the West]] marched east across the river [[Lune]] to challenge Witch-king in [[Fornost]], which was populated with his minions, usurping the house and rule of the kings.<ref name="Gondor">{{App|Gondor}}</ref>
+
+== The Battle ==
+News of their march soon came to the Witch-king.  In his pride he sent his men out to meet them instead of waiting for battle within the fortress-like city, thinking he could drive them back over the Lune as before.
+The Allies had passed over the southern [[Hills of Evendim]] and they met the forces of Angmar on the plains between Nenuial and Fornost.  A great battle ensued.  When Angmar forces began to retreat back to Fornost out of the north came the main body of the Allies' horsemen, which had passed around the hills to come down and scatter the enemy in a rout.  The Witch-king, with all that he could rally, fled north to the lands of Angmar.  Before he could make it safely to his old fortress of [[Carn Dûm]] he was overtaken by the cavalry of Gondor with Prince Eärnur at its head.  Simultaneously a force led by [[Glorfindel]] came up out of [[Rivendell]].  These two forces so utterly crushed the host of Angmar that not a single Man or Orc of that realm remained west of the [[Misty Mountains]].
+
+However, when all appeared lost the Witch-king himself appeared, clad in black and of such terrible visage that many of the horses scattered and fled, and fear was in the hearts of all who beheld him. The Lord of the Nazgûl singled out Eärnur and rode upon him with a terrible cry. The Prince could have withstood his terror and dueled the wraith, but his horse was so frightened that, while baring him, fled far away before he could master it.  As the Witch-king laughed at this, Glorfindel rode up on his white horse, and in mid laugh, the Witch-king fled into the darkness of the night. Eärnur returned, and the Elf-lord said: "Do not pursue him! He will not return to this land.  Far off yet is his doom, and not by the hand of man will he fall". After hundreds of years, the war was at last over, but though the Witch-king was defeated, none knew where he had fled, and none could forget the horrible sound of his laughter.<ref name="Gondor"/>
+
+== Aftermath ==
+The North was freed from the evil of realm of Angmar.  But since Arthedain had been destroyed those Dúnedain that remained became a nomadic people, the [[Rangers of the North]]. [[Aranarth]] son of King Arvedui became their [[Chieftain]].<ref name="Eriador"/>
+
+The Witch-king eventually made it to [[Mordor]] in {{TA|1980|n}}, where he gathered the [[Nazgûl]].  In {{TA|2000}} they besieged [[Minas Ithil]] and two years later took it.  In {{TA|2043|n}}, the Witch-king sent a challenge to Eärnur who had become king that same year, but the challenge was ignored.  Years later in {{TA|2050|n}} a second challenge was sent, and this time Eärnur accepted.  He rode with a company of knights to Minas Ithil, now Minas Morgul, and he and his retinue were never seen again.  Following the loss of this last king the realm of Gondor was then ruled by the [[Stewards]].<ref name="TA"/>
+
+== Portrayal in adaptations ==
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+
+:In the [[White Council]] scene in the [[The Hobbit: An Unexpected Journey|first Hobbit film]], [[Galadriel]] made reference to the Battle of Fornost with the phrase "when Angmar fell". Galadriel also mentions that in its aftermath, the [[Men of the North]] took the body of the [[Witch-king]] (and the other [[Nazgûl]]) and sealed him in the "[[High Fells of Rhudaur]]".  
+
+{{references}}
+[[Category:Conflicts of the Angmar War]]
+[[de:Schlacht von Fornost]]
+[[fr:encyclo:evenements:3a:guerres:bataille de fornost]]
+[[fi:Fornostin Taistelu]]

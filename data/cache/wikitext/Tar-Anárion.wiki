@@ -1,0 +1,78 @@
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Tar-Anárion
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Númenor]]
+| position=
+| location=[[Númenor]]
+| affiliation=
+| language=[[Adûnaic]], [[Sindarin]] and [[Quenya]]
+| birth={{SA|1003}}<ref name=Tar-Anarion>{{UT|Kings}}, entry VIII ''Tar-Anárion''</ref>
+| birthlocation=[[Emerië]]
+| rule={{SA|1280}} - {{SA|1394|n}} (114 years)<ref name=Tar-Anarion/>
+| death={{SA|1404}}<ref name=Tar-Anarion/>
+| deathlocation=
+| age=401 years
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Tar-Ancalimë]] and [[Hallacar]]<ref name=Tar-Ancalime>{{UT|Kings}}, entry VII ''Tar-Ancalimë''</ref>
+| siblings=
+| spouse=
+| children=Two daughters, [[Tar-Súrion]]<ref>{{UT|Kings}}, entry IX ''Tar-Súrion''</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tar-Anárion''' was the eighth ruler of [[Númenor]],<ref name=Tar-Anarion/> succeeding his mother, [[Tar-Ancalimë]] (being the first ruling Queen).<ref name=Tar-Ancalime/>
+
+== History ==
+Little is said about Tar-Anárion's rule.<ref name=Tar-Anarion/> His two eldest children were female, but both refused to be heirs to the throne for unknown reasons, and they disliked and feared [[Tar-Ancalimë|Ancalimë]], who would in revenge not allow them to marry. Therefore he was succeeded by his son, [[Tar-Súrion]].<ref>{{UT|Wife}}, ''The Further Course of the Narrative'', penultimate paragraph</ref>
+
+== Etymology ==
+''Anárion'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it likely means "Son of the Sun" as a compound of ''[[anar]]'' ("sun") and the patronymic suffix ''[[-ion]]'' ("son of").<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-3208765969.html|articlename=Q. ''Anárion'' m.|website=Eldamo|accessed=27 May 2021}}</ref> Like all the rulers of Númenor who took their royal names in Quenya, Anárion added the prefix ''tar-'' ("high") to his name when he received the [[Sceptre of Númenor|Sceptre]].<ref>{{UT|Kings}}, first paragraph and entry I to XXV</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | ERE |y| ALD | | HAL | |ERE=[[Erendis]]<br/><small>''{{SA|771|n}} - {{SA|985|n}}''</small>|ALD=[[Tar-Aldarion]]<br/><small>''{{SA|700|n}} - {{SA|1098|n}}''</small>|HAL=[[Hallatan]]<br/><small>''b. {{SA|711|n}}''</small>}}
+{{familytree | | | |!| | | | | |!| | |}}
+{{familytree | | | ANC |~|y|~| HAL | |ANC=[[Tar-Ancalimë]]<br/><small>''{{SA|873|n}} - {{SA|1285|n}}''</small>|HAL=[[Hallacar]]<br/><small>''{{SA|852|n}} - {{SA|1211|n}}''</small>}}
+{{familytree | | | | | | |!| | | | | |}}
+{{familytree | | | | | | ANA | | | | |ANA='''TAR-ANÁRION'''<br/><small>''{{SA|1003|n}} - {{SA|1404|n}}''</small>}}
+{{familytree | | | | |,|-|^|-|.| | | |}}
+{{familytree | | | | TWO | | SUR | | |TWO=''Two daughters''<br/><small>''unknown''</small>|SUR=[[Tar-Súrion]]<br/><small>''{{SA|1174|n}} - {{SA|1574|n}}''</small>}}
+{{familytree | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | TEL | | ISI |TEL=[[Tar-Telperiën]]<br/><small>''{{SA|1320|n}} - {{SA|1731|n}}''</small>|ISI=[[Isilmo]]<br/><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=numenorean
+| house=[[House of Elros]]
+| born={{SA|1003}}
+| died={{SA|1404}}
+}}
+{{seq
+| prev=[[Tar-Ancalimë]]
+| list=8th [[King of Númenor]]
+| dates={{SA|1280}} - {{SA|1394|n}}
+| next=[[Tar-Súrion]]
+}}
+{{seq-end}}
+
+{{numenorkings}}
+{{DEFAULTSORT:TarAnarion}}
+[[Category:House of Elros]]
+[[Category:Rulers of Númenor]]
+[[Category:Second Age characters]]
+
+[[de:Tar-Anárion]]
+[[fi:Tar-Anárion]]
+[[fr:encyclo:personnages:hommes:2a:numenoreens:tar-anarion]]

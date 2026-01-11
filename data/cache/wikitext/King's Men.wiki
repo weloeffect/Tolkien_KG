@@ -1,0 +1,38 @@
+{{organization infobox
+| name=The King's Men
+| image = Alan Lee - The Temple of Sauron.jpg
+| caption=''The Temple of Sauron'' by [[Alan Lee]]
+| pronun=
+| othernames=King's Folk, King's Party
+| founded=c. {{SA|2221}}
+| founder=
+| purpose=Supporting the king. Later opposing the [[Ban of the Valar]]
+| members=Most later [[King of Númenor|Kings of Númenor]], [[Gimilkhâd]]
+| location=[[Númenor]]
+| disbanded={{SA|3319}}
+| notablefor=Bringing about the [[Downfall of Númenor]]
+}}
+
+The '''King's Men''', also known as the '''King's Party'''<ref>{{UT|Kings}}, XXIV ''Tar-Palantir''</ref> and the '''King's Folk''',<ref>{{PM|VI}}, pp. 151, 174-5</ref> were those among the [[Númenóreans]] who were hostile to the [[Eldar]] and will of the [[Valar]] throughout the history of [[Númenor]] during the later half of the [[Second Age]].
+
+The King's Men were composed of the majority of the Númenóreans who followed the policies of [[Tar-Ancalimon]] and his successors to build the pride and wealth of the isle. The opposing party, the [[Faithful]], were the minority group and lived mostly in the west of Númenor.<ref name=Akallabeth>{{S|Akallabeth}}</ref> The King's Men received this name because they had the support of most of the Númenórean Kings after [[Tar-Atanamir]], who led the people to a policy of rebellion against the [[Valar]].<ref>{{UT|Kings}}, XIV ''Tar-Ancalimon''</ref> The King's Men became hostile to the [[Eldar]] and the Valar because they envied their immortality and despised the [[Ban of the Valar]]. To compensate for the restriction the Ban placed on their voyaging, they sailed east from Númenor to [[Middle-earth]], where they set up great dominions and colonies in the south among the [[Haradrim]] and laid heavy tribute on them. In this way they amassed much wealth, which they brought back to Númenor.
+
+==Policies==
+Because the [[Shadow]] lay heavy upon their hearts, the King's Men greatly feared Death and "sought to delay it by all means that they could". These attempts to escape their fate actually brought death upon them sooner, and the lifespans of their Kings waned. They filled the land of Númenor with great tombs to preserve the memory of their dead. In the meantime, their everyday lives became ever more decadent: to ease their fears, they "drank and they feasted and they clad themselves in silver and gold".
+
+==History==
+Though the King's Men had enjoyed generations of favor from the Kings of Númenor, and no doubt helped in oppressing the Faithful as the Kings grew more suspicious of them, eventually a supporter of the Faithful took the Sceptre once again. This King's name was [[Tar-Palantir]]. He wished to return Númenor to a state of friendship with [[Aman|the West]], but the majority of the Númenóreans still clung to the policies of the King's Men. Tar-Palantir's younger brother, [[Gimilkhâd]], sided with his rebellious fathers, however. He took up the leadership of the King's Men and stood in opposition to his brother, but generally kept his doings secret.
+
+It was probably to a few lords of the King's Men that [[Sauron]] came to deliver some of the [[Nine Rings]] of Power, for three of the [[Nazgûl]] were said to be "lords of Númenórean race". Most of the King's Men living in Middle-earth Sauron and his servants assailed, however. Eventually, the last King of Númenor, [[Ar-Pharazôn]] the son of Gimilkhâd, resolved to defeat Sauron in retaliation for this aggression, and he and his men sailed to Middle-earth and captured the [[Maia]].
+
+Once in Númenor, Sauron completed the corruption of the King's Men with ease, inciting them to worship [[Morgoth|Melkor]] and use the few Faithful still living in the land as sacrifices. They also brutally oppressed the Men of Middle-earth during this period. The corrupting power of Sauron affected their minds deeply, so that they became "quick to anger", and hated all those in the land more fortunate than them. Nor did they escape death, for all sorts of sicknesses and mental afflictions assailed them, to the point that they "cursed themselves in their agony". When the Valar sent messages of warning in the form of eagle-shaped clouds to them, they fell upon their faces in great fear, and some repented of their actions for a while. In the end, however, Sauron's mastery over them was so complete that he could walk about the land "setting man against man", and cause them to slay each other. At last, when Ar-Pharazôn had grown old and was in great fear of death, Sauron persuaded him to take a great [[Great Armament|army]] to [[Aman]] and challenge the Valar for immortality. When he did this, his army foundered in the Sea and Númenor was also destroyed.<ref name=Akallabeth/>
+
+Most of the King's Men thus perished in the destruction of Ar-Pharazôn's fleet and the [[Downfall of Númenor]], but those who had taken up residence in Middle-earth survived. The King's Men were afterwards called the [[Black Númenóreans]].<ref>{{App|Gondor}}, entry for King Eärnil I footnote concerning the conquest of Umbar</ref>
+
+{{references}}
+{{numenor}}
+[[Category:King's Men| ]]
+[[Category:Organizations]]
+[[Category:Servants of Sauron]]
+[[de:Königspartei]]
+[[fi:Kuninkaan Miehet]]

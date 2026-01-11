@@ -1,0 +1,24 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Alan Gutierrez
+| born=[[1958]]
+| died=
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Alan Gutierrez''' (born [[1958]]) is an American fantasy artist.<ref>{{Cite web|articleurl=https://www.deviantart.com/alangutierrezart/journal/My-Bio-by-Jack-Williamson-435962704|articlename=Biography|author=Jack Williamson|website=DeviantArt|dated=2002}}</ref> In the 1990s, he was commissioned by [[Iron Crown Enterprises]] to create art for the [[Middle-earth Collectible Card Game]].
+
+== See also ==
+*[[:CATEGORY:Images by Alan Gutierrez|Images by Alan Gutierrez]]
+
+==External links==
+* {{WP|Alan Gutierrez}}
+{{References}}
+{{DEFAULTSORT:Gutierrez, Alan}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

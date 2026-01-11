@@ -1,0 +1,179 @@
+{{Film infobox
+| name = The Beacons - A Lord of the Rings fan film
+|image = The Beacons (fan film) - Poster.png
+| producer = Mickael Genin
+| editing = Joe Causse
+| music = Thomas Lyons - LyonsMusic -
+
+Inspired by Howard Shore Lord of the Rings Soundtrack
+| distributor = Internet
+| released = Oct 2 2025
+| country = France
+}}
+
+'''The Beacons''' is a [[:Category:Fan films|Fan Film]] produced by a group of French Lord of the Rings enthusiasts. They shot the short film in Auvergne, France in 2024<ref>[https://youtube.com/shorts/E4lGhYCAEd0?si=H-cEHHkpNx7GcO72 https://youtube.com/shorts/E4lGhYCAEd0]</ref> It was released on 2 October 2025
+
+==Synopsis==
+Borlas, a soldier of Gondor, is alerted: the beacons are lit. Danger lurks. After lighting his own, he realizes the next one does not ignite. The chain is broken. The kingdom is in peril.
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Role!!Actor
+|-
+|Borlas||Raphael Coudert
+|-
+|Gondor solder 2||David Juillard
+|-
+|Harad Solder 1||
+|-
+|Harad Solder 2||André-Paul Dalais AKA Dédé
+|-
+|Gondor solder 3||
+|-
+|Gondor solder 4||
+|-
+|Harad Axe Solder 3||Adam Rebika
+|}
+
+==Crew==
+
+====Directed by====
+*Mickael Genin
+*Baptiste Giudicelli
+
+====Produced by====
+*Mickael Genin
+
+====Associate Producer====
+*Clémentine Chomier
+
+====Written by====
+*Adam Rebika
+
+====Produced with the participation of====
+*Arda's Legacy Auvergne
+*Raphael Coudert
+*Adam Rebika
+*David Juillard
+*André-Paul Dalais AKA Dédé
+*Vincent Julien
+*Atos de Bayet & Rosalie
+
+====Camera Operators====
+*Kim Nguyen
+*Baptiste Giudicelli
+
+====Sound Operator====
+*Lou Moreigne
+
+====Sound Mixer====
+*Robin Michel
+
+====Costumes designer====
+*André-Paul Dalais AKA Dédé
+
+====Edited by====
+*Joe Causse
+
+====Music composed by====
+*Thomas Lyons - LyonsMusic -
+*Inspired by Howard Shore Lord of the Rings Soundtrack
+
+====Visual Effects====
+*Cédric Belconde
+*Joe Causse
+
+====Colorist====
+*Violaine Garsault
+
+====End credits illustrations====
+*Zyartis
+
+====Set managers====
+*Pierre Fontaine
+*Rémi Fillot
+*Sam Courtine
+
+====Cook====
+
+*Florent "Dago" Dutto
+
+====Filming Equipment Thanks to====
+
+*Kim Nguyen
+*Baptiste Giudicelli
+*Alunites - Agence de Communication Plurielle
+*Gilles de Gruttola
+*Stéphane Lefort
+*Court-jus Production
+*David Geoffroy
+*Marie Estelle Dieterle
+*Marion Assenat
+
+====Sets and Costumes====
+
+*Vincent Julien
+*David Juillard
+*André-Paul Dalais AKA Dédé
+*Borlas' sword's Name Is ROUGE-GORGE His Owner is Jacques Soto
+
+====Special Thanks To====
+
+*Arda's Legacy Auvergne
+*Jérémie Lalanne
+*Rémy Beisel Frappart
+*Marie Pigache
+
+Natural Scenery: Forêt domaniale de Guéry Managed By Office National des Forêts
+
+====Special Thanks To====
+
+*Mathieu Pichot
+*Patrice Roustide
+*Xavier Jaladon
+*Parc des Volcans d'Auvergne
+*Commission du Film d'Avergne
+*Sauve qui peut le court-Métrage
+
+Communauté de communes Combrailles
+
+Sioule et Morge 
+
+François Roguet 
+
+Julien Vasseur-Forestier 
+
+and all of the Château Rocher technical crew
+
+====Makeing Of====
+
+*Thomas Folliot
+*Sam Courtine
+*Clémentine Chomier
+
+====The producer wishes to thank:====
+
+*Louise
+*Elsa
+*Adèle Mairie de Perpezat
+*Patrice Faure
+*Raphaël Poughon
+*Christophe C. Andersen
+*Elsa Pidoux
+*Christine
+*Amandine
+*Sabine for the airbnb accommodation
+*Guillaume Faure
+*Nerys Crowther
+*Djibril Dia
+*Olivier Pontel
+
+==Trailer==
+<youtube>E4lGhYCAEd0</youtube>
+
+{{references}}
+
+==The movie==
+<youtube>wn5cSPoKBZg</youtube>{{Fan films}}
+
+[[Category:Fan films|Beacons]]

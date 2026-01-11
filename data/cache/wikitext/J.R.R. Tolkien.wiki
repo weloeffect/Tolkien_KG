@@ -1,0 +1,438 @@
+{{short description|Architect of Arda}}
+{{disambig-more|J.R.R. Tolkien|[[J.R.R. Tolkien (disambiguation)]]}}
+{{disambig-more|Tolkien|[[Tolkien (disambiguation)]]}}
+{{author infobox
+| image=J.R.R. Tolkien, ca. 1925.jpg
+| name=J.R.R. Tolkien
+| born=[[3 January]] [[1892]]<br>[[Bloemfontein]], [[Orange Free State]]
+| died=[[2 September]] [[1973]] (aged 81 years)<br>[[Bournemouth]], England
+| education=[[University of Oxford]]
+| occupation=Academic<br/>Author<br/>Philologist<br>Poet
+| location=[[Wikipedia:United Kingdom|United Kingdom]]
+| website=[http://www.tolkienestate.com Tolkien: The official site of the Tolkien Estate]
+}}
+
+{{quote|I said, outside Lichfield Cathedral, to a friend of my youth – long since dead of gas-gangrene (God rest his soul: I grieve still) – ‘Why is that cloud so beautiful?’ He said: ‘Because you have begun to write poetry, John Ronald.’ He was wrong. It was because Death was near, and all was intolerably fair, lost ere grasped. That was why I began to write poetry.|[[J.R.R. Tolkien]], footnote to [[Letter 43]] to [[Michael Tolkien]]}}
+
+'''John Ronald Reuel Tolkien''', [[Order of the British Empire|CBE]], ([[3 January]], [[1892]] – [[2 September]], [[1973]]) was a philologist and writer, best known as the author of ''[[The Hobbit]]'' and its sequel ''[[The Lord of the Rings]]''. He worked as reader and professor in English language at the [[University of Leeds]] from [[1920]] to [[1925]]; as professor of [[Old English|Anglo-Saxon]] language at the [[University of Oxford]] from [[1925]] to [[1945]]; and of English language and literature from [[1945]] until his retirement in [[1959]]. Tolkien was a close friend of [[C.S. Lewis]], and a member of the [[Inklings]], a literary discussion group to which both Lewis, [[Owen Barfield]], and various other celebrated authors belonged.
+
+Tolkien created a ''[[legendarium]]'', a fictional mythology about the remote past of Earth, of which [[Middle-earth]] in particular is the main stage. Included in his legendarium are ''The Hobbit'' and ''The Lord of the Rings'' along with ''[[The Silmarillion]]'' and ''[[The History of Middle-earth]]'' series (both posthumously published by his son, [[Christopher Tolkien]]). Tolkien's other published works include philological essays, modern adaptations of medieval literature and other stories not directly related to the legendarium, many of which were originally stories written for his children. Tolkien is often referred to as the "father" of modern fantasy and is widely regarded as one of the most influential authors of all time.
+
+==Biography==
+===Family ancestry===
+:''See also: [[Tolkien Family]] & [[Suffield Family]]''
+
+Many of Tolkien's paternal ancestors were craftsmen.<ref>{{webcite|author=[[Ryszard Derdziński]]|articleurl=https://web.archive.org/web/20190110183343/http://www.elendilion.pl/wp-content/uploads/2018/03/TolkienAncestry.pdf|articlename=On J.R.R. Tolkien's Roots in Gdańsk|dated=November 2017|website=|accessed=24 February 2024}}</ref>  According to Tolkien's own understanding,<ref group="note">As [[Ryszard Derdziński]] points out, Tolkien's knowledge of his family history came primarily from family legends.</ref> the [[Tolkien Family]] had its roots in Saxony (present-day Germany), but had been living in England since the 18th century, becoming "quickly and intensely English (not British)".<ref name="l165">{{L|165}}</ref> Tolkien believed that the name ''Tolkien'' was the anglicised form of ''Tollkiehn'' (i.e. German: ''[[Wiktionary:tollkühn|tollkühn]]'', "foolhardy", the etymological English calque would be "dull-keen", a literal translation of "oxymoron").<ref name="l324">{{L|324}}</ref> Research by linguist [[Ryszard Derdziński]] suggests that the family is of Low Prussian descent and consequently, the name is of [[Wikipedia:Old Prussian language|Old Prussian]] origin and probably means "son/descendant of Tolk".<ref>[[Ryszard Derdziński]], Z Prus do Anglii. Saga rodziny J. R. R. Tolkiena</ref> Tolkien was dismissive of this theory.<ref>{{L|349}}</ref> Tolkien's name was often misspelt ''[[Tolkein]]'', a source of irritation for him.<ref name="l324" /><ref>{{L|347}}</ref>
+
+The [[Suffield Family]] had its origin in the small town of [[Evesham]], Worcestershire and for that reason he considered Worcestershire to be a home to him.<ref name="l44" /> By the time Tolkien was born, most of the family lived in [[Birmingham]].<ref name="BII" /> After [[Arthur Tolkien]]'s death and being raised around the Suffields, he developed a strong affection for them and later wrote "though a Tolkien by name, I am a Suffield by tastes, talents, and upbringing, and any corner of that county [Worcestershire] (however fair or squalid) is in an indefinable way 'home' to me, as no other part of the world is."<ref name="BII" /><ref name="l165" /><ref name="l44" />
+
+===Childhood===
+[[File:1984 Commemorative Plaque.JPG|thumb|left|[[Plaques and Memorials|Plaque]] commemorating J.R.R. Tolkien's birthplace on President Steyn Avenue, [[Bloemfontein]].]]
+
+Tolkien was born on [[3 January]] [[1892]], in [[Bloemfontein]] in the [[Orange Free State]] (now the Free State province of South Africa) to [[Arthur Tolkien|Arthur Reuel Tolkien]] ([[1857]] – [[1896]]), an English bank manager, and his wife [[Mabel Tolkien|Mabel, ''née'' Suffield]] ([[1870]] – [[1904]]). He was addressed by his family as “Ronald” as it had no history of use in the Tolkien family.<ref name="BII" /> He was christened later that month, on [[31 January]] at the [https://bloemcathedral.co.za/cathedral-history/ Cathedral of St. Andrew and St. Michael].<ref name="BII" />
+
+Around the time he was learning to walk, he was bitten by a large tarantula,<ref group="note">Likely a baboon spider as they are the only tarantula species native to South Africa.</ref> which many believe echoes in his stories.<ref name="BII" /><ref>{{webcite|author= Emmet Asher-Perrin|articleurl=https://reactormag.com/we-can-probably-blame-the-tarantula-that-bit-j-r-r-tolkien-for-most-giant-spiders-in-fantasy/|articlename=We Can Probably Blame the Tarantula That Bit J.R.R. Tolkien For Most Giant Spiders in Fantasy|dated=4 November 2016|website=[https://reactormag.com/ Reactor Magazine]|accessed=31 March 2024}}</ref> However, Tolkien insisted that he did not develop a particular fear of spiders after this event, and when he was older, recalled picking small spiders up and putting them outside.<ref name="l163" /> Tolkien had one sibling, his younger brother, [[Hilary Tolkien|Hilary Arthur Reuel]], who was born on [[17 February]] [[1894]] when Tolkien was age two.<ref name="BII" />
+
+Tolkien's health struggled in the South African environment, and as a result, he was forced to remain inside much of the day because of the heat. Believing that cooler air would help, when he was three, Tolkien's mother brought him and Hilary to England on what was intended to be a lengthy family visit. During this visit, his father died in South Africa of a severe brain haemorrhage before he could join them. This left the family without an income, so Tolkien's mother took him to live with her parents in [[Birmingham]], England. Soon after in [[1896]], they moved to Sarehole (now in Hall Green), then a Worcestershire village, later annexed to Birmingham. Tolkien later described his years in Sarehole as the most formative of his life.<ref name="BII" />
+
+Mabel tutored her two sons, and Tolkien was a keen pupil. She taught him a great deal of botany, and she awoke in her son the enjoyment of the look and feel of plants. But his favourite lessons were those concerning languages. His mother taught him the rudiments of [[Latin]] very early. He could read by the age of four and could write fluently soon afterwards. The first story Tolkien could remember writing was a story about a [[Dragon]] written at about the age of 7, and later all he could recall of it was being perplexed by the rules regarding English adjective order.<ref name="BII">{{B|II}}</ref><ref name="l163" />
+
+After originally failing the entrance exam in [[1899]], Tolkien was enrolled at [[King Edward's School]] in [[1900]]. Trains were too expensive and the trams did not run to their house so the 8-year-old Tolkien was forced to walk 8 miles to school every day. Shortly after they moved to a house in Moseley, a suburb of Birmingham, nearer to the city centre.<ref name="BII" /> While a student at King Edward's he helped "line the route" for the coronation parade of King George V, being posted just outside the gates of Buckingham Palace.<ref name="l306" />
+ 
+His mother converted to Roman Catholicism in [[1900]], and afterwards raised her sons Catholic, despite vehement protests by her Anglican family. For the rest of his life, Tolkien felt that she had become a martyr for her faith; this had a profound effect on his own Catholic beliefs.<ref name="l44">{{L|44}}</ref> In [[1902]] she enrolled her sons at St Philip's Grammar School, where they could receive a Catholic education with a lower tuition and they moved to a house next door to the school. Tolkien quickly outpaced his classmates so after receiving a scholarship his mother pulled him out and reenrolled him in King Edward's School.<ref name="BII" />
+[[File:Ronald and Hilary Tolkien.jpg|right|thumb|150px|Ronald and Hilary Tolkien in 1905]]
+In April of [[1904]], Mabel Tolkien was hospitalized and diagnosed with diabetes and Tolkien went to stay with his Aunt [[Jane Neave|Jane]]. When she was well enough, they moved to a cottage in [[Wikipedia:Rednal|Rednal]] where she could recover in the country air. Unfortunately, his mother's health began to deteriorate again and she died on [[14 November]] after six days in a diabetic coma leaving the 10 and 12 year old, Hilary and Ronald.<ref name="BII" /> 
+
+During his subsequent orphanhood, he was under the guardianship of [[Francis Xavier Morgan]] of the [[Birmingham Oratory]]. Where they should be raised quickly became an issue; several family members wished to contest Mable Tolkien's will and send them to a protestant boarding school but a few weeks after their mother's death they were sent to live with their aunt [[Beatrice Suffield]]. She was not a very caring guardian, at one point burning their mother's letters, not realizing they would want to keep them. As a result, they would end up spending much of their time at the Oratory which they came to view as their true home. In [[1908]] they moved to [[37 Duchess Road]] where a Mrs Faulkner gave them a room.<ref name="BII" />
+===Youth===
+[[File:J.R.R. Tolkien - 1911.jpg|left|thumb|150px|J.R.R. Tolkien in 1911]]
+While living at 37 Duchess Road, Tolkien met and fell in love with [[Edith Tolkien|Edith Mary Bratt]], three years his senior, at the age of sixteen.<ref name="BII" /> After learning of their relationship, Father Francis forbade him from meeting, talking, or even corresponding with her until he was twenty-one.<ref name="l43">{{L|43}}</ref> They only once tried to disobey this rule but after Father Francis found out they didn't see each other aside from accidental sightings for another three years.<ref name="BII" />
+
+In [[1911]], while they were at King Edward's School, Tolkien and three friends, [[Robert Quilter Gilson]], [[Christopher Wiseman]], and later [[Geoffrey Bache Smith]], formed a semi-secret society which they called "the [[T.C.B.S.]]", the initials standing for "Tea Club and Barrovian Society", alluding to their fondness of drinking tea in Barrow's Stores near the school and, illegally, in the school library. After leaving school, the members stayed in touch, and on [[25 December]] [[1914]], they held a "Council" in London, at Wiseman's home. For Tolkien, the result of this meeting was a strong dedication to writing poetry.<ref name="BII" />
+
+In the summer of 1911, Tolkien went on holiday in Switzerland, a trip that he recollects vividly in [[Letter 306|a 1968 letter]], noting that Bilbo's journey across the [[Misty Mountains]] ("including the glissade down the slithering stones into the pine woods") is directly based on his adventures as their party of twelve hiked from Interlaken to Lauterbrunnen, and on to camp in the moraines beyond Mürren. Fifty-seven years later, Tolkien remembered his regret at leaving the view of the eternal snows of Jungfrau and Silberhorn ("the Silvertine ([[Celebdil]]) of my dreams"). They went across the Kleine Scheidegg on to Grindelwald and across the Grosse Scheidegg to Meiringen. They continued across the Grimsel Pass and through the upper Valais to Brig, and on to the Aletsch Glacier and Zermatt.<ref name="l306">{{L|306}}</ref>
+
+[[File:Tolkien (1915–9) Colorized.png|thumb|Tolkien wearing his British Army uniform in a photograph from 1916 (colourized)]]
+
+On the evening of his twenty-first birthday ([[1913]]), Tolkien wrote to Edith a declaration of his love and asked her to marry him. She replied saying that she was already engaged, but had done so because she had believed Tolkien had forgotten her. The two met up and beneath a railway viaduct renewed their love, with Edith returning her ring and choosing to marry Tolkien instead. They were engaged in Birmingham, in January [[1913]], and married on [[22 March]] [[1916]].<ref name="BII" /><ref name="l43" /> 
+
+Tolkien and Edith had four children: [[John Tolkien|John Francis Reuel]] ([[16 November]] [[1917]] - [[22 January]] [[2003]])<ref name="bustle">{{webcite|author=Danielle Burgos|articleurl=https://www.bustle.com/p/what-happened-to-jrr-tolkiens-children-they-all-dealt-with-their-fathers-considerable-legacy-differently-17854171?scrlybrkr=b21a79f2|articlename=How J.R.R. Tolkien’s Children Dealt With Their Legendary Father’s Legacy|dated=9 May 2019|website=[https://www.bustle.com/ Bustle]|accessed=22 March 2024}}</ref>, [[Michael Tolkien|Michael Hilary Reuel]] ([[22 October]] [[1920]] - [[27 February]] [[1984]])<ref name="bustle" />, [[Christopher Tolkien|Christopher John Reuel]] ([[21 November]] [[1924]] - [[16 January]], [[2020]])<ref>{{webcite|author= Katharine Q. Seelye; Alan Yuhas|articleurl=https://www.nytimes.com/2020/01/16/books/christopher-tolkien-dead.html|articlename=Christopher Tolkien, Keeper of His Father's Legacy, Dies at 95|dated=16 January 2020|website=[https://www.nytimes.com/ The New York Times]|accessed=22 March 2024}}</ref> and [[Priscilla Tolkien|Priscilla Anne Reuel]] ([[18 June]] [[1929]] - [[28 February]] [[2022]])<ref>{{webcite|author=Daniel Helen|articleurl=https://www.tolkiensociety.org/2022/03/priscilla-tolkien-has-died/|articlename=Priscilla Tolkien has died|dated=2 March 2022|website=[https://www.tolkiensociety.org/ The Tolkien Society]|accessed=22 March 2024}}</ref>.
+
+By late 1914, his final year at the [[University of Oxford]], he joined the Officer's Training Corps. After his graduation (Exeter College, [[Oxford]]) with a first-class degree in English language in [[1915]], Tolkien joined the British Army effort in [[World War I]]. In late 1915 he received military training at Rugeley Camp in Staffordshire<ref>{{L|3}}</ref> and served as a second lieutenant in the eleventh battalion of the Lancashire Fusiliers.<ref name="BII" />
+
+Tolkien's battalion was moved to France on [[4 June]] 1916 where Tolkien served as a communications officer during the [[Battle of the Somme]], until he came down with trench fever on [[27 October]], and was moved back to England on [[8 November]]. Many of his fellow servicemen, as well as many of his closest friends, were killed in the war. During his recovery in a cottage in [[Great Haywood]], Staffordshire, England, he began to work on what he called ''[[The Book of Lost Tales]]'', beginning with ''[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]''. Throughout [[1917]] and [[1918]], his illness kept recurring, but he had recovered enough to do home service at various camps, and was promoted to lieutenant. While he was stationed at Thirtle Bridge, East Yorkshire, he and Edith went on a walk in the woods at nearby Roos, and Edith began to dance for him in a clearing thick with hemlock plants in bloom. This incident inspired the account of the meeting of [[Beren]] and [[Lúthien]].<ref name="BIII" /><ref>{{webcite|author=[[Bill Cater]]|articleurl=https://www.telegraph.co.uk/culture/4726863/We-talked-of-love-death-and-fairy-tales.html|articlename=We talked of love, death and fairy tales|dated=4 December 2001|website=[https://www.telegraph.co.uk/ The Telegraph Online]|accessed=13 January 2024}}</ref> Tolkien would later write in [[Letter 340|a letter]] to his son [[Christopher Tolkien|Christopher]] that he considered Edith to be his Lúthien.<ref>{{L|340}}</ref>
+
+===Leeds and Oxford===
+Tolkien's first civilian job after World War I was at the ''[[Oxford English Dictionary]]''.<ref name="gilliver">Peter M. Gilliver,  [[Proceedings of the J.R.R. Tolkien Centenary Conference|''Mythlore'' 80]], "[https://dc.swosu.edu/mythlore/vol21/iss2/ At the Wordface: J.R.R. Tolkien's Work on the Oxford English Dictionary]"</ref> He later said of this, "I learned more in those two years than in any other equal period of my life".<ref name="BIII" /> In [[1920]] he took up a post as Reader in English language at the [[University of Leeds]],<ref name="l7">{{L|7}}</ref> and in [[1924]] was made a professor there.<ref name="BIII">{{B|III}}</ref> The start was rough: though Gordon found Tolkien a room in Leeds,<ref>{{L|46}}</ref> Edith and young John still lived in [[Oxford]]. Not until [[1921]] did Tolkien get full housing for his family, first at [[5 Holly Bank]]<ref name="Chronology1921">{{CG|C}}, "1921"</ref> and then at [[11 St. Mark's Terrace]].<ref name="BIII" /> They later moved to [[2 Darnley Road]].<ref name="BIII" />
+
+Since [[1920]], Tolkien dedicated his time, even vacations, to finding extra work to supplement his family's income, especially for doctor bills<ref group="note">[[Christopher Tolkien]] suffered from a heart ailment.</ref> and to educate his children. He "stole" some free time for himself and his personal hobby of writing his own mythology.<ref name="l17" /> 
+
+In 1925, [[William Craigie]] resigned from the post of [[Rawlinson and Bosworth Professor of Anglo-Saxon]] at Pembroke College, Oxford and Tolkien wrote a letter expressing his desire to return there,<ref name="l7" /> and was offered the position. During this time some of Tolkien's writings were published in local magazines such as [[The Gryphon, Vol.4 No.3|''The Gryphon'']] and he had several poems published in ''[[Northern Venture]]''.<ref name="BII" />
+
+While at a Pembroke College faculty meeting, Tolkien met fellow professor [[C.S. Lewis]]. While initially wary of each other, the two men would become close friends. Their discussions, which often centred around religion, were an influence on Lewis's conversion to Christianity, though it would upset Tolkien when Lewis converted to Anglicanism rather than Catholicism.<ref name="BIV">{{B|IV}}</ref> After [[Wikipedia:Tangye Lean|Tangye Lean]] graduated Oxford, Tolkien and several friends took over the [[Inklings]] forming it into the group it is known as today. The informal literary discussion group consisted of Tolkien, C.S. and [[Warren Lewis]], [[Owen Barfield]], [[Hugo Dyson]], [[Robert Havard]] and other writers.<ref name="BIV" /> The Inklings were often the first to read Tolkien's manuscripts and their feedback was influential on his writing.
+===''The Hobbit''===
+It was during his time as Professor of [[Old English|Anglo-Saxon]] at Pembroke College, in the late 1920s, that he semi-randomly scribbled the words "In a hole in the ground, there lived a hobbit" on the back of a School Certificate paper that he was marking. These words evolved into a story like the ones he was making up for his children. He did not go any further than that at the time, although in the following years, he drew up [[Thrór's Map]].<ref name="l163">{{L|163}}</ref>
+
+The tale itself he wrote in the early 1930s. It was mostly enjoyed by his eldest son [[John Tolkien|John]] (13) than the younger ones.<ref name="l15" /> His peers at Oxford also "forced" him to lend copies to read.<ref name="l15">{{L|15}}</ref> Eventually he lent it to the Reverend Mother Superior of the Cherwell Edge girl's hostel and to his former pupil [[Elaine Griffiths]] who was staying at Cherwell Edge, and it was seen by her student, Susan Dagnall, who worked at [[Allen & Unwin]]. The book was given to 10-year-old [[Rayner Unwin|Rayner]] (son of Sir [[Stanley Unwin]]) who wrote an enthusiastic review of the book, encouraging his father to publish it.<ref name="L294">{{L|294}}</ref> 
+
+The [[1936]] lecture "[[Beowulf: The Monsters and the Critics]]" has had a lasting influence on ''[[Beowulf (poem)|Beowulf]]'' research.<ref>Patrick Ringwalk, ''The Times of Bede: Studies in Early English Christian Society and its Historian''</ref>
+By [[January]] of [[1937]] Tolkien was corresponding with Allen & Unwin (who also showed interest in ''[[Mr. Bliss]]'').<ref>{{L|9}}</ref> Around the time ''The Hobbit'' was published ([[1937]]) Tolkien suffered from an ailment and had to use crutches, the only time he was free from examining work.<ref name="l105">{{L|105}}</ref>
+
+===''The Lord of the Rings''===
+:''See also: [[The Lord of the Rings#Writing process|The Lord of the Rings § Writing process]]''
+The success of ''The Hobbit'' and a request by publishers for its sequel, was an opportunity for Tolkien to combine his personal desire for writing and financial needs, and he agreed to write a sequel.<ref name="l17">{{L|17}}</ref> 
+
+In the turn of [[1939]], and in the midst of writing ''The Lord of the Rings'', Tolkien faced financial stress and was obliged to do exams and lectures: his son, Michael was preparing for university, and Christopher, being home-schooled for health reasons, wanted to go to school.<ref name="L35" /> In the summer of that year, while gardening, Tolkien fell and suffered a concussion which required stitches.<ref>{{HM|RC}}, p. 21</ref> This, along with his fatigue, worries, obligations, Edith's illness, his loss of his chief assistant and understudy, prevented him from continuing his writing, including a [[Beowulf and the Finnsburg Fragment|foreword to ''Beowulf'']] as had promised.<ref name="L35" /> At the outbreak of WWII, his academic duties increased.<ref>{{FR|Foreword}}</ref> Juggling between work, "Civil Defence" and writing in intervals, he doubted that, because of the War, completing the book had any use.<ref>{{L|47}}</ref> Failing to progress during Christmas vacations, he resumed only [[1944|two years later]]. It was the enthusiasm of his friends and Christopher (to whom he was sending copies by mail to South Africa) who encouraged him to continue.<ref>{{HM|RC}}, p. 25</ref>
+
+[[File:J.R.R. Tolkien - TLOTR covers original design.jpg|thumb|[[The Lord of the Rings/Original dust-jacket designs|Cover design]] for the three volumes of ''The Lord of the Rings'' designed by J.R.R. Tolkien]]
+
+In [[1945]], he moved to [[Merton College]], Oxford, becoming the Merton Professor of English Language and Literature, in which post he remained until his retirement in [[1959]]. 
+
+Tolkien spent the late summer (August-September) of [[1948]], at the home of Michael at Payables Farm, Woodcote. As Michael and his family were on holiday, Tolkien found the time and quiet he needed to finish ''The Lord of the Rings'', close to a decade after the first sketches.<ref>{{HM|RC}}, p. 27</ref>
+
+After a disagreement with Allen & Unwin concerning "The Silmarillion", and failing to reach an agreement with [[Collins]], he settled the dispute with the Unwins. He reported to [[Rayner Unwin]] that he had been unwell (having recovered from "a terrible bout" of fibrositis and neuritis of the arm) burdened and downhearted. In the prospect of a nearing retirement of poverty, during which he would work as an examiner to survive, and the rising paper costs, he had modified his views ("Better something than nothing!").<ref>{{L|133}}</ref> Tolkien readily agreed to the 'profit-sharing' arrangement, where Tolkien would not receive an advance or royalties until the books had broken even.<ref>{{HM|RC}}, p. 32</ref> Between [[1953]] and [[1955]] Tolkien worked closely with Allen & Unwin on the production of ''The Lord of the Rings'', agreeing on the division of volumes, their titles, correcting proofs that arrived at intervals, complete and correct artwork, the maps and the dust-jacket designs.<ref>{{HM|RC}}, p. 34</ref>
+
+In 1954 Tolkien was awarded an honorary Doctorate of Letters from both the [[Wikipedia:National University of Ireland|National University of Ireland]] and the [[Wikipedia:University of Liège|University of Liège]] for his work in his field of philology and medieval literature which delayed his work on the [[The Lord of the Rings Appendices|appendices]],<ref name="BVI">{{B|VI}}</ref> which then delayed the publication of ''The Return of the King''.<ref>{{webcite|author=[[Patricia Reynolds]]|articleurl=https://www.tolkiensociety.org/app/uploads/2016/11/LOTR-The-Tale-of-a-Text.pdf|articlename=The Lord of the Rings: The Tale of a Text|dated=|website=[https://www.tolkiensociety.org/ The Tolkien Society]|accessed=12 June 2024}}</ref> 
+===Later life and recognition===
+[[File:Jrrt_1972_tree.jpg|thumb|200px|The last known photograph of Tolkien, taken 9 August 1973, next to one of his favourite trees (a ''Pinus nigra'') in the Botanic Garden, Oxford|300px]]
+During the 1950s, Tolkien spent many of his long academic holidays at the home of his son John Francis in Stoke-on-Trent, visiting his brother Hilary while he was there.<ref name="BVII">{{B|VII}}</ref>
+
+In [[1959]] Tolkien went to compulsory retirement, which he found "both distressing, and extremely laborious", especially with his less than desirable pension.<ref>'''J.R.R. Tolkien'''; [[Letter to Przemyslaw Mroczkowski (December 1959)]]</ref> For him, [[1963]] was a "dreadful year", including the death of C.S. Lewis ([[22 November]]), an illness that prevented Tolkien and Edith from celebrating Christmas, and after that, [[Faith Faulconbridge]] leaving Christopher; Tolkien expressed "fear they have left their allegiance to our Mother [the Church]".<ref>'''J.R.R. Tolkien'''; [[Letter to Przemyslaw Mroczkowski (20–26 January 1964)]]</ref> In the 1960s he complained about the effects of old age, and other difficulties and anxieties, some of which were caused by his own family.<ref>'''J.R.R. Tolkien'''; [[Letters to Przemyslaw Mroczkowski (unknown date)]]</ref> 
+
+By the time of his retirement, Tolkien increasingly turned into a figure of public attention and literary fame. While at first, he wrote enthusiastic answers to reader inquiries, he became more and more suspicious of emerging [[fandom]]. In a [[1965]] letter, he warned [[W.H. Auden]] not to join the New York Tolkien Society, believing them to be "real lunatics",<ref>{{L|275}}</ref> and shortly after declined to join the [[Tolkien Society of America]] but wrote that he was complimented and would be happy to help them in an informal capacity.<ref>{{L|276}}</ref>
+
+Fan attention became so intense that he and Edith moved to [[Woodridings]] in Branksome, Poole near [[Bournemouth]] to escape his fame in [[Oxford]] in June [[1968]],<ref name="TL838" /> and got two phone numbers, one a private number only given out to friends and family.<ref>{{L|332}}</ref> While preparing to move house, Tolkien fell down a set of stairs and had to stay in an [[Oxford]] hospital, leaving behind his obligations. He was expected to use crutches all summer.<ref>{{L|305}}</ref>
+
+Queen Elizabeth II appointed [[J.R.R. Tolkien]] a Commander of the Order of the British Empire (CBE) in the New Year Honours of [[1 January]] [[1972]] "For services to English Literature".<ref>{{webcite|articleurl=http://www.thegazette.co.uk/London/issue/45554/supplement/9|articlename=Supplement to the London Gazette, p. 9|website=The London Gazette|dated=1 January 1 1972}}</ref> Tolkien received the insignia of the Order at Buckingham Palace on [[28 March]].<ref>{{L|334}}</ref> Later that year, he was awarded an honorary Doctorate of Letters from Oxford University for his contributions to the field of philology.<ref name="BVII" />
+
+The Tolkiens lived in Poole until Edith's death on [[November]] [[1971]].<ref name="TL838">{{webcite|author=Pieter Collier|articleurl=http://www.tolkienlibrary.com/press/838-Own_a_Piece_of_Tolkien_History.php|articlename=Here is your chance to own a piece of Tolkien history|dated=9 July 2008|website=[[TolkienLibrary.com]]|accessed=}}</ref> The widowed professor moved back to 21 Merton Street, Oxford in March 1972.<ref>{{webcite|author=Rodney Legg|articleurl=http://www.dorsetlife.co.uk/2009/11/tolkien-in-bournemouth-and-dorset/|articlename=Tolkien in Bournemouth and Dorset|dated=November 2009|website=Dorset Life|accessed=}}</ref><ref>{{L|333}}</ref> Tolkien had the name ''Luthien'' engraved on the stone at [[Wolvercote Cemetery]], Oxford. When Tolkien died 21 months later of pneumonia on [[2 September]] [[1973]], at the age of 81, he was buried in the same grave, with ''Beren'' added to his name,<ref>{{B|VIII}}</ref> so that the engraving now reads: 
+:''Edith Mary Tolkien, Luthien, 1889 – 1971''
+:''John Ronald Reuel Tolkien, Beren, 1892 – 1973''
+==Appearance==
+{{blockquote|It has beautiful hands and ears (very long fingers) very light hair, ‘Tolkien’ eyes and very distinctly a ‘Suffield’ mouth. In general effect immensely like a very fair edition of its Aunt Mabel Mitton.|Arthur Tolkien in a letter written the day after Tolkien's birth<ref name=BII/>}}
+
+The early images of J.R.R. Tolkien in school and university show a serious young man, average height, slender, clean-shaven, and with his hair parted in the middle. At school he was considered too light for the rugby team, and in order to join he tried to make it up with ferocity during the game, and eventually he was accepted.<ref>{{L|16}}</ref> During Tolkien's time at King Edward's School he was noted for his choice in coloured socks.<ref>{{L|58}}</ref> By [[1916]] Tolkien had joined the army he had changed to a more conventional haircut, as well as a moustache for a short period of time.<ref name="BIII" />
+
+[[Clyde S. Kilby]], who spent some time with Tolkien in the summer of [[1966]], noted that he "was always neatly dressed from necktie to shoes. One of his favourite suits was a herringbone with which he wore a green corduroy vest [waistcoat]. Always there was a vest, and nearly always a sports coat. He did not mind wearing a very broad necktie which in those days was out of style".<ref>[[Clyde S. Kilby]], ''[[Tolkien and the Silmarillion]]'' ([[1976]]), p. 24</ref> [[Dick Plotz|Richard Plotz]], who visited Tolkien that same year, described him as
+{{blockquote|...a medium-sized man ... [who] looks much younger than his seventy-four years. Like one of his creations, the Hobbits, he is a bit fat in the stomach ...|"J.R.R. Tolkien Talks about the Discovery of Middle-earth, the Origins of Elvish", ''[[Seventeen]]'' (January [[1967]]), p. 92}}
+
+In a letter on [[8 February]] [[1967]], to inter­viewers Charlotte & Denis Plimmer, Tolkien stated that he was not "tall, or strongly built. I now measure 5 ft 8 1/2, and am slightly built, with notably small hands. For most of my life I have been very thin and underweight. Since my early sixties I have become 'tubby'. Not unusual in men who took their exercise in games and swimming, when opportunities for these things cease".<ref name="L294" /> In "[[The Man Who Understands Hobbits]]", the Plimmers also noted that Tolkien had 'grey eyes, firm tanned skin, silvery hair and quick decisive speech'.<ref>{{webcite|author=Charlotte and Denis Plimmer|articleurl=http://www.telegraph.co.uk/films/2016/04/19/jrr-tolkien-film-my-books-its-easier-to-film-the-odyssey/|articlename=JRR Tolkien: 'Film my books? It's easier to film The Odyssey'|dated=19 April 2016|website=Telegraph|accessed=26 January 2020}}</ref>
+
+Tolkien had a particular liking for decorative waistcoats: he told one correspondent that he had "one or two choice embroidered speci­mens, which I sometimes wear when required to make a speech, as I find they so fascinate the eyes of the audience that they do not notice if my dentures become a little loose with excitements of rhetoric"<ref>'''J.R.R. Tolkien'''; [[Letter to Nancy Smith (Christmas 1963)]]</ref> 
+
+Interviewers have noted that Tolkien almost clung to his smoking pipe, cradling it in his hand, or speaking with it in his mouth, sometimes making him difficult to understand. One of these, Richard Plotz, wrote that Tolkien "took out a pipe as he entered his study, and all during the interview he held it clenched in his teeth, lighting and relighting it, talking through it; he never removed it from his mouth for more than five seconds".<ref>{{CG|II}}</ref>
+
+==Character, personality, views==
+Tolkien attempted to describe himself for [[Deborah Rogers]]:
+{{blockquote|I am in fact a Hobbit (in all but size). I like gardens, trees and unmechanized farmlands; I [[smoking|smoke]] a pipe, and like good plain food (unrefrigerated), but detest French cooking; I like, and even dare to wear in these dull days, ornamental waistcoats. I am fond of [[mushrooms]] (out of a field); have a very simple sense of humour (which even my appreciative critics find tiresome); I go to bed late and get up late (when possible). I do not travel much. I love Wales (what is left of it, when mines, and the even more ghastly sea-side reasons, have done their worst), and especially the [[Welsh]] language. But I have not in fact been in W. for a long time (except for crossing it on the way to Ireland). I go frequently to Ireland (Eire: Southern Ireland) being fond of it and of (most of) its people; but the Irish language I find wholly unattractive.|[[Letter 213]]}}
+
+Tolkien was a devout [[Christianity|Roman Catholic]]. While his parents were both raised [[Wikipedia:Anglican|Anglican]], his mother converted to Catholicism when Tolkien was 8 years old. His mother's death had a profound impact on his religious beliefs and he came to view her as a martyr, citing stress from persecution (in large part from her intolerant family) as a root of her health issues.<ref name="BII" /><ref>{{L|267}}</ref> While his writings were not an allegory for Christianity, they contained religious elements.<ref>{{L|211}}</ref>
+
+Tolkien had a great love for nature. He was especially fond of plants, and trees most of all,<ref name="l165" /> which may have been inspired by his father's garden and tree grove which Tolkien spent much time in as a child along with his mother's teaching of botany. He was saddened to learn that others didn't share his love for trees, one event that stuck with him was when as a child, a willow tree he enjoyed climbing was cut down only for the log to remain there unused.<ref name="BII" /> Tolkien had an intense dislike for the side effects of industrialization, which he considered a devouring of the English countryside. For most of his adult life, aside from a short period in which he owned a car (in which his driving was described as terrible, to the point that Edith refused to be in the car with him), he eschewed automobiles, preferring to ride a bicycle.<ref name="BIV" /> This attitude is perceptible in some parts of his work, such as the forced industrialization of [[The Shire]] in ''The Lord of the Rings''.
+
+In retrospect, Tolkien claimed that from the age of seven or eight, two interests dominated his subsequent perception of everything: [[elves]] and [[orcs]].<ref group="note">It is not clear what he meant by this; possibly he understood the world as a struggle between people and elements who create beauty and do good; and those people or forces who defile and destroy nature or the "elves'" works.</ref> Throughout his life he collected every detail related to it, which, along with the "[[Atlantis-haunting|Atlantis complex]]" dream, was the embryo of his [[legendarium]].<ref>'''J.R.R. Tolkien'''; [[Letter to Maria Mroczkowska]]</ref>
+
+Jesting on the name of [[Puffin Books]], Tolkien said he disliked penguins and puffins for eating other birds's eggs.<ref>{{L|225}}</ref> He considered that Siamese [[cats]] "belong to the fauna of Mordor"<ref>{{L|219}}</ref> He also disliked [[spiders]]<ref>'''J.R.R. Tolkien'''; [[Letter to Richard Lupoff]]</ref> although not that much as to kill them. He refused that this has anything to do with being bitten by a tarantula as a toddler.<ref name="l163" />
+
+Tolkien was insecure and lacked confidence in his own work, even when he was assured that it had value for others.<ref>{{L|282}}</ref> Father [[Robert Murray]], Tolkien's personal friend, considered the professor "a complex and depressed man" and his work "projects his very depressed view of the universe".<ref>[[Richard C. West]], "A Letter from Father Murray", [[Tolkien Studies 16]], pp. 135-6</ref>
+
+Tolkien boasted of himself to be "a world-class [[wiktionary:niggler|niggler]]".<ref name="rc43" /> He wrote ''The Lord of the Rings'' laboriously, preoccupied with detail, consistency and careful consideration of every word.<ref>{{L|199}}</ref><ref name="L35">{{L|35}}</ref> In his lecture ''On Fairy-Stories'', he discussed the importance of “the inner consistency of reality” in creating realistic [[secondary world]]s.<ref name="fairy">{{MC|Fairy}}</ref> Christopher Tolkien said of his father's perfectionist tendencies, "However much my father desired to achieve consistency at every level of his work, from capital letters to the dates of dynasties, he was bound to fail. [...] His life was a perpetual battle against time (& tiredness) [...] But he 'niggled' on a grand and noble conception, & indeed its coherence in fine detail is a part of its power."<ref name="rc43">{{HM|RC}}, p. 43, quoting a letter of [[Christopher Tolkien]]</ref>
+
+Tolkien often overestimated the knowledge of those he was speaking to, to the extent that he was often described as talking more to himself than anyone else. He was also often difficult to understand due to his fast way of speaking, and unclear articulation. He was prone to long, parenthetical sentences which only grew more extreme with age. Despite this, he was described as a good listener and conversationalist. He was liked like by his students who felt he gave more regard to his audience than other lecturers and appreciated his sense of humor. Humphrey Carpenter commented on his ability to make others feel valued in conversations, making interesting conversation out of what Carpenter had felt were trivial comments.<ref name="BI">{{B|I}}</ref><ref name="BIV" /><ref name="BVII" />
+
+Defining his own political opinions, Tolkien stated that leaned more towards anarchy or 'unconstitutional' monarchy without the existence of a State.<ref>{{L|52}}</ref> He disliked leftist ideas<ref name="bru">{{webcite|author=[[José Manuel Ferrández Bru]]|articleurl=https://www.josemanuelferrandez.com/vieja/ENguerra.html|articlename=Tolkien and the Spanish Civil War|dated=2011|website=[https://www.josemanuelferrandez.com josemanuelferrandez.com]|accessed=1 June 2024}}</ref>  and Communism<ref name="l83">{{L|83}}</ref> and considered Joseph Stalin "a bloodthirsty old murderer".<ref>{{L|53}}</ref> He accused Nazism of perverting and staining the noble northern spirit through its "Nordic propaganda"<ref>,{{L|49}}</ref> and called Adolf Hitler a "ruddy little ignoramus" while in the same time he criticised anti-German propaganda.<ref>{{L|45}}</ref> He also rejected socialism, as "the ‘planners’, when they acquire power, become so bad".<ref>{{L|181}}</ref> He retained an interest in South Africa, his birthplace, and as a child heard about apartheid from his mother<ref>{{L|61}}</ref> which he hated profoundly.<ref>[[Valedictory Address to the University of Oxford]]</ref> Due to his emotional connection with Fr. Francis Xavier Morgan, he was affected by the Spanish Civil War, and like many British Catholics,<ref name="bru" /> he supported the Franco movement; although this support was based on religious grounds, due to the persecution during that time caused by the republicans.<ref name="bru" /><ref>{{L|83}}</ref>
+==Writing==
+===Legendarium===
+{{main|Legendarium}}
+In a 1951 letter to [[Milton Waldman]], Tolkien wrote of his intention to create a "body of more or less connected legend", of which:
+{{Blockquote|The cycles should be linked to a majestic whole, and yet leave scope for other minds and hands, wielding paint and music and drama.|[[Letter 131]]}}<!-- from inspired section, include here-->
+
+Tolkien's legendarium is the entirety of his works concerning his imagined world of Arda. Much of Tolkien's life was spent developing the legendarium.
+
+Beginning with ''[[The Book of Lost Tales]]'', written while recuperating from illness during World War I, Tolkien devised several themes that were reused in successive drafts of his legendarium. The two most prominent stories, the tales of [[Beren and Lúthien]] and that of [[Túrin]], were carried forward into long narrative poems (published in ''[[The Lays of Beleriand]]''). Tolkien wrote a brief summary of the mythology these poems were intended to represent, and that summary eventually evolved into "[[The Silmarillion]]", an epic history that Tolkien started three times but never published. The story of this continuous redrafting is told in the posthumous series ''[[The History of Middle-earth]]''. From around [[1936]], he began to extend this framework to include the tale of ''[[The Fall of Númenor (chapter)|The Fall of Númenor]]'', which was inspired by the legend of [[Atlantis]].<ref name="BII" />
+
+Tolkien never expected his fictional stories to become popular, but he was persuaded by a former student to publish a book he had written for his own children called ''The Hobbit'' in 1937.<ref name="l163" /> However, the book attracted adult readers as well, and it became popular enough for the publisher, George Allen & Unwin, to ask Tolkien to work on a sequel.
+
+This request prompted Tolkien to begin what would become his most famous work: the epic three-volume novel ''The Lord of the Rings'' (published 1954–55). Tolkien spent more than ten years writing the primary narrative and [[The Lord of the Rings Appendices|appendices]] for ''The Lord of the Rings'', during which time he received the constant support of the [[Inklings]], in particular his closest friend C.S. Lewis, the author of ''[[The Chronicles of Narnia]]''. Both ''The Hobbit'' and ''The Lord of the Rings'' are set against the background of "The Silmarillion", but in a later [[Ages|age]]. The book was originally intended to be published in a single volume but due to the cost of paper during war paper rationing and the length of the story, it was divided into three volumes, each containing two books.<ref>{{webcite|author=Robert T. Tally Jr.|articleurl=https://www.jstor.org/stable/26809264|articlename=Three Rings for the Elven-kings: Trilogizing Tolkien in Print and Film|dated=2017|website=|accessed=12 June 2024}}</ref><ref group="note">As a result, ''The Lord of the Rings'' is often referred to as a "trilogy", but Tolkien always considered it to be one novel.</ref>
+
+Tolkien at first intended ''The Lord of the Rings'' as a children's tale like ''The Hobbit'', but it quickly grew darker and more serious in the writing.<ref>{{L|34}}</ref> Though a direct sequel to ''The Hobbit'', it addressed an older audience, drawing on the immense back story of Beleriand that Tolkien had constructed in previous years, and which eventually saw posthumous publication in ''The Silmarillion'' and other volumes. Tolkien originally felt uninspired, feeling he had used all his good ideas in ''The Hobbit'',<ref>{{L|23}}</ref> which had not been written with a sequel in mind,<ref>{{L|24}}</ref> and struggled to account for the discrepancies between ''The Hobbit'' and ''The Lord of the Rings'', specifically in the role of the [[One Ring]].<ref>{{L|25}}</ref> This led to the publication of a revised edition of ''The Hobbit'' with changes made to the chapter "[[Riddles in the Dark]]".<ref>{{L|128}}</ref>
+
+Tolkien continued to work on the history of his legendarium until his death. His son Christopher, with some assistance from fantasy writer [[Guy Gavriel Kay]], organised some of this material into one volume, published as ''[[The Silmarillion]]'' in [[1977]].<ref>{{webcite|author=Alison Flood|articleurl=https://www.theguardian.com/books/2014/oct/29/guy-gavriel-kay-jrr-tolkien-interview-fionovar-tapesty-the-summer-tree|articlename=Guy Gavriel Kay: I learned a lot about false starts from JRR Tolkien|dated=29 October 2014|website=[https://www.theguardian.com/international The Guardian]|accessed=12 June 2024}}</ref> In [[1980]], Christopher Tolkien followed this with a collection of more fragmentary material under the title ''[[Unfinished Tales]]'', and in subsequent years he published a massive amount of background material on the creation of Middle-earth in the twelve volumes of ''[[The History of Middle-earth]]''. All these posthumous works contain unfinished, abandoned, alternative and outright contradictory accounts, since they were always a work in progress, and Tolkien only rarely settled on a definitive version for any of the stories. There is not even complete consistency to be found between ''The Lord of the Rings'' and ''The Hobbit'', the two most closely related works, because Tolkien was never able to fully integrate all their traditions into each other. To account for some of these inconsistencies he portrayed himself as a "translator" of texts and that any mistakes could be translation errors or errors made by characters while documenting events.<ref>{{App|F2}}</ref>
+===Other writings===
+In addition to his [[Mythopoeia|mythological compositions]], Tolkien enjoyed inventing fantasy stories to entertain his children. He wrote annual Christmas letters from [[Father Christmas]] for them, building up a series of short stories (later compiled and published as ''[[Letters from Father Christmas|The Father Christmas Letters]]''). Other stories included ''[[Mr. Bliss]]'', ''[[Roverandom]]'', ''[[Smith of Wootton Major]]'', ''[[Farmer Giles of Ham]]'' and ''[[Leaf by Niggle]]''. ''Roverandom'' and ''Smith of Wootton Major'', like ''The Hobbit'', borrowed ideas from his legendarium. 
+===Unpublished materials and manuscripts===
+The John P. Raynor, S.J. Library at [[Marquette University]] in Milwaukee, Wisconsin, preserves many of Tolkien's original manuscripts, notes and letters; other original material survives at Oxford's [[Bodleian Library]]. Marquette has the manuscripts and proofs of ''The Lord of the Rings'' and ''The Hobbit'', and other manuscripts, including ''Farmer Giles of Ham'', while the Bodleian holds much of Tolkien's art, "The Silmarillion" papers and Tolkien's academic work.<ref>{{webcite|author=|articleurl=https://www.marquette.edu/library/archives/tolkien.php|articlename=J.R.R. Tolkien collection|dated=|website=[https://www.marquette.edu/library/ Marquette University]|accessed=24 March 2024}}</ref><ref>{{webcite|author=|articleurl=https://www.bodleian.ox.ac.uk/libraries/english-faculty-library/collections-and-resources/special-collections|articlename=Special collections at the English Faculty Library|dated=|website=[https://www.bodleian.ox.ac.uk/ Bodleian Library]|accessed=24 March 2024}}</ref> Much of Tolkien's work remains [[Index:Unpublished material|unpublished]] and can be viewed only by Tolkien scholars and researchers.<ref>{{webcite|author=|articleurl=https://www.tolkienestate.com/frequently-asked-questions-and-links/|articlename=Frequently Asked Questions and Links|dated=|website=[https://www.tolkienestate.com/ The Tolkien Estate]|accessed=24 March 2024}}</ref>
+===Influences===
+Tolkien was strongly influenced by Anglo-Saxon literature, Germanic and [[Norse mythology|Norse mythologies]], Finnish mythology, the Bible, and Greek mythology. The works most often cited as sources for Tolkien's stories include ''[[Beowulf (poem)|Beowulf]]'', the ''[[Kalevala]]'', the ''[[Poetic Edda]]'', the ''[[Wikipedia:Völsunga saga|Völsunga saga]]'' and the ''[[Wikipedia:Hervarar saga ok Heiðreks|Hervarar saga]]''. Tolkien himself acknowledged Homer,<ref>{{L|156}}</ref> Oedipus,<ref name="l131">{{L|131}}</ref> and the ''Kalevala'',<ref name="l163" /> as influences or sources for some of his stories and ideas. His borrowings also came from numerous [[Middle English]] works and poems. It has been suggested that a major philosophical influence on his writing is King Alfred's Anglo-Saxon version of ''Boethius''' ''Consolation of Philosophy'' known as the ''Lays of Boethius''. Characters in ''The Lord of the Rings'', such as [[Frodo Baggins]], [[Treebeard]] and [[Elrond]] make noticeably Boethian remarks.<ref>[[Kathleen E. Dubs]], ''Twentieth Century Literature 27, no. 1'' “Providence, Fate, and Chance: Boethian Philosophy in The Lord of the Rings.”</ref>
+
+It is commonly accepted that Tolkien was influenced by World War I.<ref>{{webcite|author=[[John Garth]]|articleurl=https://www.thedailybeast.com/why-world-war-i-is-at-the-heart-of-lord-of-the-rings|articlename=Why World War I Is at the Heart of ‘Lord of the Rings’|dated=29 July 2014|website=[https://www.thedailybeast.com/why-world-war-i-is-at-the-heart-of-lord-of-the-rings The Daily Beast]|accessed=25 March 2024}}</ref> Despite denying this in [[Letter 226|one letter]],<ref>{{L|226}}</ref> in an earlier letter to his son Christopher, he revealed that his experience in the war had influenced him to write about [[Morgoth]] and the history of the [[Gnomes]]. Connections have also been drawn between [[Samwise Gamgee]] and [[Wikipedia:Batman (military)|batmen]].<ref>[[John Garth]], ''[[Tolkien and the Great War]]''</ref>
+
+Tolkien acknowledged the interest many would have in his influences and the difficulty there would be in analyzing it, writing in 1971:
+{{Blockquote|I fear you may be right that the search for the sources of ''The Lord of the Rings'' is going to occupy academics for a generation or two. I wish this need not be so. To my mind it is the particular use in a particular situation of any motive, whether invented, deliberately borrowed, or unconsciously remembered that is the most interesting thing to consider|[[Letter 337]]}}
+
+==Languages==
+{{Seealso|Languages}}
+Both Tolkien's academic career and his literary production are inseparable from his love of language and philology. Aside from English (Modern, [[Old English|Old]] and [[Middle English|Middle]]), Tolkien knew (with varying levels of fluency) [[Hebrew]], [[Finnish]], French, [[Gothic]], Greek, Icelandic (Including Old Icelandic), [[Latin]], Spanish, [[Welsh]] (including medieval Welsh).<ref name="BII" /><ref name="l7" /><ref name="l163" /><ref>{{LE|196a}}</ref>
+
+He could read by the age of four and could write fluently soon afterwards. His mother taught him the rudiments of [[Latin]] very early. He took to this quickly, especially enjoying Latin phonetics. His mother, realizing his aptitude for languages then taught him French which he enjoyed much less. While living in Moseley he discovered [[Welsh]] which would become one of his favourite languages.<ref name="BII" />
+
+In the early 1900s, he was introduced to a secret "code" created by his Incledon cousins, called [[Animalic]] replacing words with animal names. Soon after, with [[Mary Incledon|Mary]] they created [[Nevbosh]], a more sophisticated language, with Tolkien contributing to the vocabulary and influencing the spelling.<ref>{{MC|6}}</ref>
+
+In [[1909]] he wrote the ''[[Book of the Foxrook]]'' in a notebook, with notes in Esperanto,<ref name="Seven">[[Arden R. Smith]], [[Patrick H. Wynne|Patrick Wynne]], "Tolkien and Esperanto", in [[SEVEN 17|''SEVEN'', Volume 17]], p. 29</ref> describing ''[[Privata Kodo Skauta]]'' ("Private Scout Code").<ref>{{webcite|author=[[Arden R. Smith]]|articleurl=https://www.tolkienestate.com/scholarship/arden-smith-writing-systems/|articlename=Writing Systems|dated=|website=[http://www.tolkienestate.com/ tolkienestate.com]|accessed=27 December 2016}}</ref> "''consisting of a [[runes|rune]]-like phonetic alphabet and a sizable number of ideographic symbols''".<ref name="Seven" /> In the 1910s he composed [[Naffarin]], a private language,<ref>{{HM|MC}}, p. 141</ref> 
+
+Heavy emphasis was put on Latin and Greek at King Edward's School. It was here that Tolkien was introduced to Old English though he disliked Shakespeare's works and begrudged the usage of them to teach English.<ref name="BII" /> He specialised in Greek philology in college, and in 1915 graduated Exeter College with a first-class degree in English language with Old Icelandic as a special subject.<ref name="l7" /> While at Exter he discovered a Finnish grammar and focused intensely on learning the language. By the time of his military training in [[1915]] he was working on a "mad hobby": a "[[Qenya|nonsense fairy language]]"<ref>{{L|4}}</ref> which would become his "[[Quenya|elvenlatin]]",<ref name="l144">{{L|144}}</ref> the first seed of his legendarium.<ref name="BII" />
+
+He worked for the ''[[Oxford English Dictionary]]'' from 1918 specifically on entries beginning with the letter W.<ref name="gilliver" /> In 1920, he went to Leeds as Reader in English Language, where he claimed credit for raising the number of students of linguistics from five to twenty and even formed a "[[Viking Club]]". He gave courses in [[Old English]] heroic verse, history of English, various Old English and Middle English texts, Old and Middle English philology, introductory [[North Germanic languages|Germanic]] philology, [[Gothic]], Old Icelandic, and Medieval [[Welsh]]. In [[1925]], aged 33, Tolkien applied for the Rawlinson and Bosworth Professorship of Anglo-Saxon.<ref name="l7" /> 
+
+In the 1960s, while working on ''[[The Jerusalem Bible]]'' as a translator, Tolkien prepared himself by learning a great amount of Hebrew.<ref>[[Clyde S. Kilby]], ''[[Tolkien and The Silmarillion]]'', "4. Tolkien as a Christian writer", p. 54</ref> He explained to his grandson [[Michael George Tolkien|Michael George]]: "I am at present immersed in Hebrew. If you want a beautiful but idiotic alphabet, and a language so difficult that it makes [[Latin]] (or even Greek) seem footling but also glimpses into a past that makes Homer seem recent - that is the stuff! (I am hoping when I retire to get included in a new Bible-translation team that is brewing. I have passed the test: with a version of the Book of Jonah. Not from Hebrew direct!)".<ref>{{LE|196a}}</ref>
+
+Privately, Tolkien was attracted to "things of racial and linguistic significance",<ref>{{L|95}}</ref> and he entertained notions of an inherited taste of language, which he termed the "native tongue" as opposed to "cradle tongue" in his 1955 lecture ''[[English and Welsh]]'', which was crucial to his understanding of race and language.<ref>{{MC|5}}</ref> He considered west-midland Middle English his own "native tongue", and as he wrote to W.H. Auden in 1955, "I am a West-midlander by blood (and took to early west-midland Middle English as a known tongue as soon as I set eyes on it)".<ref name="l163" />
+
+Parallel to Tolkien's professional work as a philologist, and sometimes overshadowing this work, to the effect that his academic output remained rather thin, was his affection for the construction of artificial languages. The best developed of these are [[Quenya]] and [[Sindarin]], the etymological connection between which is at the core of much of Tolkien's legendarium. Language and grammar for Tolkien were a matter of aesthetics and [[Wikipedia: Phonaesthetics#Euphony and cacophony|euphony]], and Quenya in particular was designed from "phonæsthetic" considerations. It was intended as an "Elvenlatin", and was phonologically based on Latin, with ingredients from Finnish and Greek.<ref name="l144" /> A notable addition came in late 1945 with [[Adûnaic]], a language of a "faintly Semitic flavour",<ref>{{SD|2cn}}</ref> connected with Tolkien's Atlantis myth, which by ''The Notion Club Papers'' ties directly into his ideas about inheritability of language, and via the "[[Second Age]]" and the [[Eärendil]] myth was grounded in the legendarium, thereby providing a link of Tolkien's 20th-century "real [[Primary World]]" with the mythical past of his Middle-earth.
+
+Tolkien considered languages inseparable from the mythology associated with them, and he consequently took a dim view of auxiliary languages. In [[1930]] a congress of Esperantists was told as much by him, in his lecture ''[[A Secret Vice]]'', "Your language construction will breed a mythology",<ref>'''J.R.R. Tolkien'''; ''[[A Secret Vice]]''</ref> but by 1956 he concluded that "Volapük, Esperanto, Ido, Novial, &c &c are dead, far deader than ancient unused languages, because their authors never invented any Esperanto legends".<ref>{{L|180}}</ref>
+
+Tolkien's often unusual and archaic way of writing led to frequent erroneous corrections from editors, most famously ''dwarfs'' to ''dwarves'' and ''elvish'' to ''elfish''.<ref>{{L|183}}</ref>. Tolkien's linguistic influence can be seen in the once rare spellings being now the most prevalent.<ref>{{webcite|author=|articleurl=https://roguish.wordpress.com/2023/11/20/how-tolkien-invented-dwarves-it-used-to-be-dwarfs/|articlename=How Tolkien Invented Dwarves (it Used to be “Dwarfs”)|dated=|website=[https://roguish.wordpress.com/ Roguish]|accessed=24 March 2024}}</ref> 
+==Art==
+[[File:J.R.R. Tolkien - Taniquetil.jpg|300px|thumb|''[[Taniquetil]]'' by J.R.R. Tolkien]]
+From as young as the age of three, Tolkien enjoyed creating art. He was taught to draw and paint by his mother. He in particular enjoyed drawing landscapes and trees.<ref name="BII" /> Tolkien was quite modest about his artwork, at one point telling his publisher that he "cannot draw".<ref>{{L|10}}</ref>
+
+The first British edition of ''The Hobbit'' included ten drawings by Tolkien and the American edition had 4 watercolour paintings.<ref name="Holmes">John H. Holmes, "Art and Illustrations by Tolkien" in [[Michael D.C. Drout]], ''[[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]]''</ref>
+
+Tolkien often provided sketches to help artists illustrating his works.<ref>{{L|12}}</ref><ref>{{L|14}}</ref> He was often critical of the artists chosen by Allen & Unwin to design covers for his books.<ref>{{L|277}}</ref><ref>{{L|116}}</ref> Many illustrations for his books were done by [[Pauline Baynes]] whose artwork Tolkien was quite fond of.<ref>{{L|120}}</ref>
+
+Tolkien (helped at times by his son Christopher) created several maps of Middle-earth and Arda, two of which were published in ''The Hobbit'', two in ''The Silmarillion'' and three in ''The Lord of the Rings''.
+
+Many of the [[Letters from Father Christmas]] featured art "made" by [[Father Christmas]] and the [[North Polar Bear]], depicting landscapes and happenings in the North Pole. Tolkien was also the illustrator of ''Mr. Bliss''.
+
+From [[1973]] to [[1979]] (except for [[1975]]), Allen & Unwin released calendars featuring art by Tolkien. Many of these, along with previously unpublished art were published in ''[[Pictures by J.R.R. Tolkien]]''. In [[1976]] the Ashmolean Museum had an exhibit featuring Tolkien's art. [[Wayne G. Hammond]] and [[Christina Scull]] have published 3 books about Tolkien's art, ''[[The Art of The Hobbit by J.R.R. Tolkien]]'' ([[2011]]), ''[[The Art of The Lord of the Rings by J.R.R. Tolkien]]'' ([[2015]]) and ''[[J.R.R. Tolkien: Artist and Illustrator]] ([[2018]])''. Tolkien's art was also published in ''[[Tolkien: Maker of Middle-earth]]'' by [[Catherine McIlwaine]], whose 2018 publication coincided with an art exhibit of the same name, also curated by McIlwaine.<ref>{{webcite|author=Denis Bridoux|articleurl=https://muse.jhu.edu/article/738152|articlename=Tolkien: Maker of Middle-earth by Catherine McIlwaine, and: Tolkien Treasures by Catherine McIlwaine (review)|dated=|website=|accessed=1 June 2024}}</ref><ref name="Holmes" />
+
+Christopher Tolkien has stated that Tolkien research is incomplete without the study of Tolkien's artwork but despite this, early Tolkien scholarship focused on his writings with little attention given to his art. John R. Holmes writes in ''[[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]]'' that "Tolkien’s pictures and designs are nearly as important a window into his imagination as is his fiction."<ref name="Holmes" />
+==Influence on fantasy==
+Tolkien is often referred to as the "father" of modern fantasy,<ref>{{webcite|author=Felix Schlagwein|articleurl=https://www.dw.com/en/how-j-r-r-tolkien-became-the-father-of-fantasy/a-60316037|articlename=How Tolkien became the father of fantasy|dated=1 March 2022|website=[https://www.dw.com/en/top-stories/s-9097 Deutsche Welle]|accessed=25 March 2024}}</ref><ref>{{webcite|author=Catherine Dent|articleurl=https://www.thecollector.com/jrr-tolkien-father-of-fantasy/|articlename=J.R.R. Tolkien: The Beloved Father of Fantasy|dated=17 March 2023|website=[https://www.thecollector.com/ The Collector]|accessed=25 March 2024}}</ref> specifically high fantasy.<ref>{{webcite|author=Debadrita Sur|articleurl=https://faroutmagazine.co.uk/how-jrr-tolkien-lord-of-the-rings-changed-fantasy-genre/|articlename=How J.R.R. Tolkien’s ‘Lord of the Rings’ changed the high fantasy genre|dated=2 December 2021|website=[https://faroutmagazine.co.uk/ Far Out Magazine]|accessed=25 March 2024}}</ref> Tolkien's influence on the fantasy genre was described in ''The Oxford Companion to English Literature'' as "the greatest influence within the fantasy genre".<ref>Paul Harvey, ''The Oxford Companion to English Literature'', "Fantasy Fiction"</ref>
+
+Tolkien has been credited with cementing fantasy as a respected genre. Prior to the publication of ''The Lord of the Rings'', fantasy was viewed by publishers as light reading or for children, and as a result, fantasy and science fiction stories were rarely longer than 130,000 words (around 130 pages). The popularity and commercial success of ''The Hobbit'' and especially ''The Lord of the Rings'' proved to readers and publishers that fantasy could have fully fleshed out stories and explore ethics in the same depths as any other genre.<ref name="tradition">Diana Paxson, ''[[Mythlore 39]]'', "[https://dc.swosu.edu/mythlore/vol11/iss1/19/ The Tolkien Tradition]"</ref> 
+
+Tolkien's lecture ''[[On Fairy-Stories]]'', in which he discusses the fantasy genre (fairy-stories) has been described as one of the most influential explorations of fantasy. Many of the ideas he put forth have since become common fantasy elements. This includes the concepts of [[primary World|primary]] and [[Secondary world]]s, [[Subcreation]] and [[eucatastrophe]]. One element heavily touched on in this lecture was the concept of secondary belief. In Tolkien's words, "the story-maker's success depends on his ability to make a consistent Secondary World which your mind can enter. Inside it, what he relates is 'true', it accords with the laws of that world. You therefore believe it, while you are, as it were, inside".<ref name="fairy" /> For Tolkien, this meant complex languages, geographies and general world-building which have since become synonymous with the fantasy genre.<ref name="tradition" />
+
+The popularity of Tolkien's books has had a small but lasting effect on the use of language in fantasy literature in particular, and even on mainstream dictionaries, which today commonly accept Tolkien's revival of the spellings ''dwarves'' and ''elvish'' (instead of ''dwarfs'' and ''elfish''), which had not been in use since the mid-1800s and earlier.
+====Adaptations and inspired works====
+The hands and minds of many artists have indeed been inspired by Tolkien's legends. Personally known to him were [[Pauline Baynes]] (Tolkien's favourite illustrator of ''[[The Adventures of Tom Bombadil]]'' and ''[[Farmer Giles of Ham]]'') and [[Donald Swann]] (who set the music to ''[[The Road Goes Ever On (book)|The Road Goes Ever On]]''). Queen [[Margrethe II of Denmark]] created illustrations for ''The Lord of the Rings'' in the early 1970s. She sent them to Tolkien, who was struck by the similarity to the style of his own drawings.
+
+There have been many adaptations of Tolkien's works into films, tv shows and video games. The first film adaptation of ''The Hobbit'', was the short film, [[The Hobbit (1967 film)|''The Hobbit'']] which was released by [[William Lawrence Snyder]] in order to retain film rights for ''The Hobbit''.<ref>{{webcite|author=[[Gene Deitch]]|articleurl=http://www.awn.com/articles/profiles/hobbit-alized-first-attempt-animating-hobbit|articlename=Hobbit-alized: The First Attempt At Animating The Hobbit|dated=11 December 2001|website=awn.com|accessed=1 June 2024}}</ref> [[Ralph Bakshi]]'s ''[[The Lord of the Rings (1978 film)|''The Lord of the Rings'']]'' (1978) was the first film adaptation of ''The Lord of the Rings''. The screenplay was written by the fantasy writer [[Peter S. Beagle]]. This first adaptation, however, only contained the first half of the story.
+
+Other well-known adaptations include ''[[The Hobbit (1977 film)|The Lord of the Rings]]'' by [[Rankin/Bass]], [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'']] and [[The Hobbit (film series)|''The Hobbit'']] film trilogies, and [[Amazon MGM Studios|Amazon]]'s ''[[The Lord of the Rings: The Rings of Power]]''.<ref>{{webcite|author=Russell Holly|articleurl=https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-everything-you-need-to-know-before-watching/|articlename='The Lord of the Rings: The Rings of Power': Everything You Need to Know Before Watching|dated=1 September 2022|website=[https://www.cnet.com/ CNET]|accessed=1 June 2024}}</ref>
+
+==Names and pseudonyms==
+:''For an explanation of the name 'Tolkien' see [[Tolkien Family]].''
+[[File:JRRT.jpeg|thumb|JRRT monogram]]
+It was tradition in Tolkien's family to name the first-born son John. His father Arthur Tolkien wanted to name him John Benjamin Reuel and his mother, confident he would be a girl, liked the name Rosalind.<ref name="L309">{{L|309}}</ref> In a letter written by Arthur Tolkien to his family, he describes the thoughts for their baby's christening after his birth:
+
+{{Blockquote|The boy’s first name will be ‘John’ after its grandfather,<ref group=note>Both of Tolkien's grandfathers were named John ([[John Tolkien]] & [[John Suffield]]). He was named after John Tolkien as it was custom in the Tolkien family for the oldest son to be named John.</ref> probably John Ronald Reuel altogether. Mab wants to call it Ronald and I want to keep up John and Reuel.|}}
+Ronald had no familial precedent but Reuel was Arthur's middle name.<ref name="BII" />
+
+Philip was Tolkien's [[Wikipedia:Confirmation#Confirmation name|confirmed name]], after Saint [[Wikipedia:Philip Neri|Philip Neri]].<ref>{{CG|C}}, p. 99</ref> 
+
+He went by the name Ronald only with close family and others referred to him as John or John Ronald.<ref name="L309" />
+===Pseudonyms===
+*''[[Arcastar]]'' - [[Quenya]] rendition of ''Tolkien'' used in ''[[Tolkien in Oxford]]'', possibly meaning ''translator''.<ref>{{webcite|author=[[Ryszard Derdziński]]|articleurl=http://tolkniety.blogspot.com/2017/06/arcastar-means-translator.html|articlename=''Arcastar'' means 'Translator'?|dated=16 June 2017|website=[http://tolkniety.blogspot.com/ tolkniety.blogspot.com]|accessed=22 March 2022}}</ref>
+*''Vectigalius Acer, Portorius Acer Germanicus, Eisphorides Acribus Polyglotteus' - Tag name in the annual Latin debates during studies at Oxford.<ref>[[John Garth]], ''[[Tolkien and the Great War]], "Part One: The immortal four", p. 19''</ref>
+*''Fisiologus'' - From ''Physiologus'', signature of [[Adventures in Unnatural History and Medieval Metres, being the Freaks of Fisiologus|a poem]] published in ''[[Stapeldon Magazine]]'' (1927).<ref>{{AB|Comm}}, pp. 224</ref>
+*''J.'' - Signature of [[Valedictory|a poem]] published in ''[[Stapeldon Magazine]]'' (1913).<ref>{{CG|II}}, "From the Many-Willow’d Margin of the Immemorial Thames"</ref>
+*''John Ronald Philip Reuel'' - Tolkien used this full name in an Elvish script written in 1931.<ref>{{webcite|author=[[Holly Ordway]]|articleurl=https://www.wordonfire.org/articles/fellows/whats-in-a-name-tolkiens-st-philip-neri-connection/|articlename=What’s in a Name? Tolkien and St. Philip Neri|dated=26 May 2023|website=[https://www.wordonfire.org/ Word on Fire]|accessed=27 April 2024}}</ref><ref>{{PE|20}}, p. 70</ref>
+*''JRRT'' or ''J.R.R.T'' - Abbreviation of ''John Ronald Reuel Tolkien'' frequently used by Tolkien.{{fact}}
+*''J. Rsquared'' - Name given to him by friends.<ref name="L309" />
+*''Kingston Bagpuize''- Signature of [[Progress in Bimble Town|a poem]] published in the ''[[Oxford Magazine]]'' (1931).<ref>[[David Bratman]], ''[[Mallorn (journal)|Mallorn]]'' "Tolkien and the Counties of England"</ref>
+*''Luttro'' - [[Esperanto]] word for "otter", possibly referring to himself, in his private ''[[Book of the Foxrook]]'' ([[1909]]); possibly an allusion to [[Animalic]]<ref>{{HM|SV}}, p. 40-1 [note 19];</ref>
+*''Rægnold Hrædmóding'' - [[Old English]] rendition of "Ronald Tolkien", used to sign the poem ''[[For W.H.A.]]'' (1967).
+*''Ruginwaldus Dwalakôneis'' - "Gothicizied" version of "Ronald Tolkien".<ref>{{L|272}}</ref>
+*''Tollers'' - Nickname used by intimate friends.<ref>{{CG|RG}}, pp. 624-627</ref>
+*''N.N.'' - Signature of a [[The Clerkes Compleinte|poem]] published in ''[[The Gryphon, Vol.4 No.3|The Gryphon]]'' (1922), an abbreviation of ''[[wikipedia:Nomen Nescio|Nomen Nescio]]''.<ref>{{CG|RG}}</ref>
+*''Oxymore'' - Signature of the poem ''[[The Mewlips|Knocking at the Door]]'', written c. 1927 and published in ''The Oxford Magazine'' (1937).<ref>{{CG|C}}, "1937"</ref>
+
+==Family Tree==
+{{familytree/start}}
+{{familytree| | | | | | | | | MS |y| ART | | | | | | | | | | | |MS=[[Mabel Suffield]]|ART=[[Arthur Tolkien|Arthur Reuel Tolkien]]}}
+{{familytree| | | | | | | | | |,|-|^|-|.| | | | | | | | | |}}
+{{familytree| | | | | EDB |y| JRR | | HART |~| MM | | | | | | | |JRR=[[J.R.R. Tolkien]]|EDB=[[Edith Tolkien|Edith Bratt]]|HART=[[Hilary Tolkien]]|MM=[[Magdalen Matthews]]}}
+{{familytree| | | | | |,|-|^|-|v|-|-|-|v|-|-|-|.| | | | | |}}
+{{familytree| | | | | JOT | | MIT | |CHT | | PRT |JOT=[[John Tolkien]]|MIT=[[Michael Tolkien]]|CHT=[[Christopher Tolkien]]|PRT=[[Priscilla Tolkien]]}}
+{{familytree/end}}
+==Bibliography==
+:''For a complete list of all of Tolkien's published writings, see '''[[Index:Writings by J.R.R. Tolkien|Writings by J.R.R. Tolkien]]'''.''
+===Fictional and poetic works===
+*[[1936]]: ''[[Songs for the Philologists]]'', with [[E.V. Gordon]] (very few copies now exist)
+*[[1937]]: ''[[The Hobbit|The Hobbit, or There and Back Again]]''
+*[[1945]]: ''[[Leaf by Niggle]]''
+*[[1945]]: ''[[The Lay of Aotrou and Itroun]]'' (published in [[The Welsh Review (Vol.IV, No.4)|''Welsh Review'']])
+*[[1949]]: ''[[Farmer Giles of Ham]]''
+*[[1953]]: ''[[The Homecoming of Beorhtnoth Beorhthelm's Son]]'' (published with the essay ''[[Ofermod]]'')
+*[[1954]]-[[1955]]: ''[[The Lord of the Rings]]''<ol type="I"><li>''[[The Fellowship of the Ring]]'' (1954)</li><li>''[[The Two Towers]]'' (1954) </li><li>''[[The Return of the King]]'' (1955)</li></ol>
+*[[1962]]: ''[[The Adventures of Tom Bombadil|The Adventures of Tom Bombadil and Other Verses from the Red Book]]''
+*[[1964]]: ''[[Tree and Leaf]]'' (a collection of writings)
+**''[[Leaf by Niggle]]''
+**''[[On Fairy-Stories]]'' (essay)
+*[[1966]]: ''[[The Tolkien Reader]]'' (a collection of writings, published only in the US)
+*[[1967]]: ''[[Smith of Wootton Major]]''
+*[[1967]]: ''[[The Road Goes Ever On (book)|The Road Goes Ever On: A Song Cycle]]'', with [[Donald Swann]] 
+**[[Bilbo's Last Song (at the Grey Havens)|Bilbo's Last Song]] (included in 1978 edition)
+
+===Academic works===
+*[[1922]]:' '[[A Middle English Vocabulary]]
+*[[1925]]: ''[[Sir Gawain and the Green Knight (edition)|Sir Gawain and the Green Knight]]'', with [[E.V. Gordon]]
+*[[1925]]: ''[[Some Contributions to Middle-English Lexicography]]''
+*[[1925]]: ''[[The Devil's Coach-Horses]]''
+*[[1929]]: ''[[Ancrene Wisse and Hali Meiðhad]]''
+*[[1932]]: ''[[The Name 'Nodens']]'' (published in ''[[Report on the Excavation of the Prehistoric, Roman, and Post-Roman Site in Lydney Park, Gloucestershire]]'')
+*[[1932]]-[[1934]]: ''[[Sigelwara Land]]'' parts I and II
+*[[1934]]: ''[[Chaucer as a Philologist: The Reeve's Tale]]''
+*[[1936]]: ''[[Beowulf: The Monsters and the Critics]]'' (lecture on ''[[Beowulf (poem)|Beowulf]]'' criticism)
+*[[1939]]: ''[[On Fairy-Stories]]'' (essay on Tolkien's philosophy on fantasy)
+*[[1939]]: ''[[The Reeve's Tale (version)|The Reeve's Tale: Version Prepared for Recitation at the 'Summer Diversions'<nowiki/>]]''
+*[[1944]]: ''[[Sir Orfeo (booklet)|Sir Orfeo]]'' (translation of a Middle English poem)
+*[[1953]]: ''[[Ofermod]]'' (published with the poem ''The Homecoming of Beorhtnoth'')
+*[[1953]]: ''[[Middle English 'Losenger' (essay)|Middle English 'Losenger'<nowiki/>]]''
+*[[1962]]: ''[[Ancrene Wisse]]''
+*[[1963]]: ''[[English and Welsh]]''
+*[[1966]]: ''[[The Jerusalem Bible]]'' (contributing translator and lexicographer)
+
+===Posthumous publications===
+====1975—1990====
+*[[1975]]: ''[[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo]]'', ed. [[Christopher Tolkien]]
+*[[1976]]: ''[[Letters from Father Christmas]]'', ed. [[Baillie Tolkien]]
+*[[1977]]: ''[[The Silmarillion]]'', ed. Christopher Tolkien
+*[[1980]]: ''[[Unfinished Tales|Unfinished Tales of Númenor and Middle-earth]]'', ed. Christopher Tolkien
+*[[1980]]: ''[[Poems and Stories]]'' (a collection of stories)
+**''[[The Adventures of Tom Bombadil]]''
+**''[[The Homecoming of Beorhtnoth Beorhthelm's Son]]''
+**''[[On Fairy-Stories]]''
+**''[[Leaf by Niggle]]''
+**''[[Farmer Giles of Ham]]''
+**''[[Smith of Wootton Major]]''
+*[[1981]]: ''[[The Letters of J.R.R. Tolkien]]'', eds. Christopher Tolkien, [[Humphrey Carpenter]]
+*[[1982]]: ''[[The Old English Exodus]]'' (translation of an Old English poem, only limited copies were printed)
+*[[1982]]: ''[[Finn and Hengest|Finn and Hengest: The Fragment and the Episode]]'', ed. [[Alan Bliss]]
+*[[1982]]: ''[[Mr. Bliss]]''
+*[[1983]]: ''[[The Monsters and the Critics, and Other Essays]]'', ed. Christopher Tolkien (a collection of linguistic essays and lectures)
+**''[[Beowulf: The Monsters and the Critics]]''
+**''[[On Translating Beowulf]]''
+**''[[On Fairy-Stories]]''
+**''[[A Secret Vice]]''
+**''[[Sir Gawain and the Green Knight (lecture)|Sir Gawain and the Green Knight]]''
+**''[[English and Welsh]]''
+**''[[Valedictory Address to the University of Oxford]]''
+*[[1983]]–[[1996]] ''[[The History of Middle-earth]]'', ed. Christopher Tolkien<ol type="I"><li>''[[The Book of Lost Tales: Part One]]'' (1983)</li><li>''[[The Book of Lost Tales: Part Two]]'' (1984)</li><li>''[[The Lays of Beleriand]]'' (1985)</li><li>''[[The Shaping of Middle-earth]]'' (1986)</li><li>''[[The Lost Road and Other Writings]]'' (1987)</li><li>''[[The Return of the Shadow]]'' (''[[The History of The Lord of the Rings]]'' vol. 1) (1988)</li><li>''[[The Treason of Isengard]]'' (''The History of The Lord of the Rings'' vol. 2) (1989) </li><li>''[[The War of the Ring]]'' (''The History of The Lord of the Rings'' vol. 3) (1990) </li><li>''[[Sauron Defeated]]'' (''The History of The Lord of the Rings'' vol. 4) (1992)</li><li>''[[Morgoth's Ring]]'' (1993)</li><li>''[[The War of the Jewels]]'' (1994)</li><li>''[[The Peoples of Middle-earth]]'' (1996)</li></ol>
+**''[[The History of Middle-earth Index|Index]]'' (2002)
+*[[1985]]: ''[[J.R.R. Tolkien's Letters to Rhona Beare]]'' (limited copies were printed)
+
+====1990—today====
+*[[1990]]: ''[[Bilbo's Last Song (at the Grey Havens)|Bilbo's Last Song]]''
+*[[1997]]: ''[[Tales from the Perilous Realm]]'' (a collection of stories and poems)
+**''[[Farmer Giles of Ham]]''
+**''[[The Adventures of Tom Bombadil]]''
+**''[[Leaf by Niggle]]''
+**''[[Smith of Wootton Major]]''
+**''[[Roverandom]]'' (included in 2008 edition)
+**''[[On Fairy-Stories]]'' (included in 2008 edition)
+*[[1998]]: ''[[Roverandom]]'', eds. [[Wayne G. Hammond]], [[Christina Scull]]
+*[[1999]]: ''[[Farmer Giles of Ham]]'', eds. Wayne G. Hammond, Christina Scull
+*[[2001]]: ''[[Tree and Leaf]]'' (a collection of writings)
+**''[[On Fairy-Stories]]'' and ''[[Leaf by Niggle]]''
+**''[[Mythopoeia]]'' (included in 1988 edition)
+**''[[The Homecoming of Beorhtnoth Beorhthelm's Son]]'' (newly included)
+*[[2002]]: ''[[Beowulf and the Critics]]'', ed. [[Michael D.C. Drout]] (a lecture series)
+*[[2003]]: ''[[The Annotated Hobbit|The Annotated Hobbit: Revised and Expanded Edition]]'', ed. [[Douglas A. Anderson]]
+**containing ''[[The Dragon's Visit]]'', among other writings (newly included)
+*[[2005]]: ''[[Smith of Wootton Major]]'', ed. [[Verlyn Flieger]]
+*[[2007]]: ''[[The History of The Hobbit]]'', ed. [[John D. Rateliff]]
+*[[2007]]: ''[[The Children of Húrin]]'', ed. Christopher Tolkien
+*[[2008]]: ''[[Tolkien On Fairy-stories]]'', eds. Verlyn Flieger, Douglas A. Anderson (an extended edition of the ''[[On Fairy-stories|essay]]'')
+*[[2009]]: ''[[The Legend of Sigurd and Gudrún]]'', ed. Christopher Tolkien
+*[[2013]]: ''[[The Fall of Arthur]]'', ed. Christopher Tolkien
+*[[2014]]: ''[[Beowulf: A Translation and Commentary]], together with [[Sellic Spell]]'', ed. Christopher Tolkien
+*[[2014]]: ''The Adventures of Tom Bombadil and Other Verses from the Red Book'', eds. Wayne G. Hammond, Christina Scull 
+**containing ''[[Once upon a Time]]'', among other writings (newly included)
+*[[2015]]: ''[[The Story of Kullervo]]'', ed. Verlyn Flieger
+*[[2016]]: ''[[A Secret Vice: Tolkien on Invented Languages]]'', eds. [[Dimitra Fimi]], [[Andrew Higgins]] (an extended edition of the ''[[A Secret Vice|lecture]]'')
+*[[2016]]: ''[[The Lay of Aotrou and Itroun]]'', ed. Verlyn Flieger
+*[[2017]]: ''[[Beren and Lúthien]]'', ed. Christopher Tolkien
+*[[2018]]: ''[[The Fall of Gondolin]]'', ed. Christopher Tolkien
+*[[2021]]: ''[[The Nature of Middle-earth]]'', ed. [[Carl F. Hostetter]]
+*[[2022]]: ''[[The Fall of Númenor]]'', ed. [[Brian Sibley]]
+*[[2023]]: ''[[The Battle of Maldon: together with The Homecoming of Beorhtnoth]]'', ed. [[Peter Grybauskas]]
+
+===Artwork=== 
+*[[1979]]: ''[[Pictures by J.R.R. Tolkien]]'' ed. Christopher Tolkien
+*[[1992]]: ''[[J.R.R. Tolkien: Life and Legend]]'' ed. Judith Priestman
+*[[1995]]: ''[[J.R.R. Tolkien: Artist and Illustrator]]'', eds. Wayne G. Hammond, Christina Scull
+*[[2011]]: ''[[The Art of The Hobbit]]'', eds. Wayne G. Hammond, Christina Scull
+*[[2015]]: ''[[The Art of The Lord of the Rings]]'', eds. Wayne G. Hammond, Christina Scull
+*[[2018]]: ''[[Tolkien: Maker of Middle-earth]]'', ed. Catherine McIlwaine
+*[[2018]]: ''[[Tolkien: Treasures]]'', ed. Catherine McIlwaine
+*[[2022]]: ''[[J.R.R. Tolkien: The Art of the Manuscript]]'', eds. William M. Fliss, Sarah C. Schaefer
+
+===Audio recordings===
+''Note: for a detailed listing of all recordings of Tolkien, see [[Index:Audio recordings of J.R.R. Tolkien|Audio recordings of J.R.R. Tolkien]]'' 
+*[[1967]]: ''[[Poems and Songs of Middle Earth]]'', Caedmon TC 1231
+*[[1975]]: ''J.R.R. Tolkien Reads and Sings his ''The Hobbit'' & ''The Lord of the Rings'', Caedmon TC 1477, TC 1478 (based on an [[1952 tape recording|August, 1952 recording]] by [[George Sayer]])''
+==See also== 
+*[[:Category:Images by J.R.R. Tolkien|Images by J.R.R. Tolkien]]
+*[[:Category:Images of J.R.R. Tolkien|Images of J.R.R. Tolkien]]
+*[[:Category:Audio of J.R.R. Tolkien|Audio of J.R.R. Tolkien]]
+*[[J.R.R. Tolkien/Quotations|J.R.R. Tolkien Quotes]]
+*[[J.R.R. Tolkien Timeline]]
+*[[Chronology of Tolkien's writings]]
+*[[Legendarium]]
+*[[Plaques and Memorials]]
+*[[Index:Unpublished material|Unpublished material]]
+
+==Further reading==
+A small selection of books about Tolkien and his works:
+*Anderson, Douglas A., Michael D. C. Drout and Verlyn Flieger (founder eds.). ''[[Tolkien Studies (journal)|Tolkien Studies: An Annual Scholarly Review]]''
+*Carpenter, Humphrey (1979). ''[[The Inklings (book)|The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams and Their Friends]]'' ISBN 0395276284
+*Chance, Jane (ed.) (2003). ''[[Tolkien the Medievalist]]'', London, New York: Routledge. ISBN 0-415-28944-0
+*Chance, Jane (ed.) (2004). ''[[Tolkien and the Invention of Myth]], a Reader'', Louisville: University Press of Kentucky. ISBN 0-813-12301-1
+*Duriez, Colin and Porter, David (2001). ''[[The Inklings Handbook]]: The Lives, Thought and Writings of C.S. Lewis, J.R.R. Tolkien, Charles Williams, Owen Barfield, and Their Friends''. ISBN 1902694139
+*Duriez, Colin (2003). ''[[Tolkien and C.S. Lewis]]: The Gift of Friendship''. , ISBN 1587680262
+*Flieger, Verlyn and Carl F. Hostetter (eds.) (2000). [[Tolkien's Legendarium|''Tolkien's'' Legendarium'': Essays on'' The History of Middle Earth]], Westport, Conn: Greenwood Press. ISBN 0-313-30530-7. DDC 823.912. LC PR6039.
+*O'Neill, Timothy R. (1979). ''[[The Individuated Hobbit]]: Jung, Tolkien and the Archetypes of Middle-earth'', Boston: Houghton Mifflin Company. ISBN 0-395-28208-X
+*Pearce, Joseph (1999). ''[[Tolkien: A Celebration]]'', London: HarperCollinsPublishers. ISBN 000-628120-6
+*Pearce, Joseph (1998). ''[[Tolkien: Man and Myth]]'', London: HarperCollinsPublishers. ISBN 000-274018-4
+*Shippey, T. A. (2000). ''[[J.R.R. Tolkien: Author of the Century]]'', Boston, New York: Houghton Mifflin Company. ISBN 0-618-12764-X, ISBN 0-618-25759-4 (pbk)
+*Shippey, T. A. (2004). '[http://www.oxforddnb.com/view/article/31766 Tolkien, John Ronald Reuel (1892–1973)]', ''Oxford Dictionary of National Biography'', Oxford: Oxford University Press.
+*Tolkien, John & Priscilla (1992). ''[[The Tolkien Family Album]]'', London: HarperCollins. ISBN 0-26-110239-7
+*White, Michael (2003). ''Tolkien: A Biography'', New American Library. ISBN 0451212428
+
+==External links==
+*[http://www.tolkiensociety.org/author/biography/ J.R.R. Tolkien: A Biographical Sketch] by [[The Tolkien Society]]
+*{{WP|J.R.R. Tolkien}}
+
+{{references|notes}}
+
+{{seq-start}}
+{{seq-head}}
+{{seq
+| pvac=None
+| prev=Position created
+| list=President of [[The Tolkien Society]]
+| dates=[[27 June]] [[1972]] - ''In perpetuo''
+| next=None; perpetual title
+}}
+{{seq-end}}
+{{Publishedmajorbooks}}
+{{Inklings}}
+{{tolkiensociety}}
+{{DEFAULTSORT:Tolkien, J.R.R.}}
+[[Category:Authors]]
+[[Category:Artists]]
+[[Category:Cartographers]]
+[[Category:British people]]
+[[Category:Inklings]]
+[[Category:Linguists]]
+[[Category:People by name]]
+[[Category:T.C.B.S.]]
+[[Category:Tolkien Family]]
+[[Category:Tolkien Society members]]
+[[de:J. R. R. Tolkien]]
+[[fr:tolkien:bio]]
+[[fi:J.R.R. Tolkien]]

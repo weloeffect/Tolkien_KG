@@ -1,0 +1,36 @@
+{{Band
+| image = WindRoseBand.png
+| name = 
+| origin = Pisa, Italy
+| genre = power metal, dwarf metal, symphonic metal
+| years = 2009 - present
+| website = [https://www.windroseofficial.com/ www.windroseofficial.com]
+| members = Francesco Cavalieri<br/>Claudio Falconcini<br/>Federico Meranda<br/>Cristiano Bertocchi<br/>Federico Gatti
+| formermembers = Alessio Consani<br/>Daniele Visconti
+}}
+'''Wind Rose''' is an Italian power metal band founded in [[2009]] in Pisa, Tuscany. The band uses pickaxes, dwarven axes and dwarven costumes as their aesthetics. Because of the aesthetics and the band's sound, the genre they perform is often referred to as ''dwarf'' or ''dwarven metal''.<ref name="newsroom">{{Webcite|articleurl=https://newsroom.activisionblizzard.com/p/did-you-know-there-was-such-a-thing|articlename=Did you know there was such a thing as Dwarf Metal?|website=[https://newsroom.activisionblizzard.com Blizzard newsroom]|accessed=18 October 2024}}</ref>
+
+Before focusing on Dwarves in particular, the aim of their first album, ''Shadows over Lothadruin'' ([[2012]]), was to create ''“a Lord of the Rings-like story”''. While the band now themes itself after fantasy Dwarves in the broadest sense, some of their songs contain more explicit references to Tolkien's Dwarves in particular. Their first dwarf-centered song, ''The Breed of Durin'',  on their second album ''Wardens of the West Wind'' ([[2015]]), refers to the [[Quest of Erebor|retaking of Erebor]].<ref name="newsroom"/><ref>{{Cite web|articleurl=
+https://www.metal-archives.com/albums/Wind_Rose/Wardens_of_the_West_Wind/476142|articlename=Wardens of the West Wind|website=[https://www.metal-archives.com Encyclopaedia Metallum ]|accessed=31 July 2025}}</ref>
+
+''To Erebor'', from their [[2017]] album, ''Stonehymn'', goes a step further and is explicitly written from the perspective of the Dwarven army in the [[Battle of Five Armies]], whereas ''The Returning Race'' on the same album seems to be written from the perspective of [[Thorin and Company]].<ref>{{Cite web|articleurl=https://www.metal-archives.com/albums/Wind_Rose/Stonehymn/641029|articlename=Stonehymn|website=[https://www.metal-archives.com Encyclopaedia Metallum ]|accessed=31 July 2025}}</ref> Having some Tolkien-themed songs per album continued in [[2019]]'s ''Wintersaga'' with the songs ''There and Back Again'' and ''The King Under the Mountain''<ref>{{Cite web|articleurl=https://www.metal-archives.com/albums/Wind_Rose/Wintersaga/785078|articlename=Wintersaga|website=[https://www.metal-archives.com Encyclopaedia Metallum ]|accessed=31 July 2025}}</ref>, as well as in [[2022]]'s ''Warfront'' with ''The Battle of the Five Armies''.<ref>{{Cite web|articleurl=https://www.metal-archives.com/albums/Wind_Rose/Warfront/1024047|articlename=Warfront|website=[https://www.metal-archives.com Encyclopaedia Metallum ]|accessed=31 July 2025}}</ref>
+
+==Discography, selected==
+*'''Studio Albums'''
+**''Wardens of the West Wind'' (2015)
+**''Stonehymn'' (2017)
+**''Wintersaga'' (2019)
+**''Warfront'' (2022)
+*'''Singles'''
+**''The Returning Race'' (2017)
+**''To Erebor'' (2017)
+
+{{references}}
+==External links==
+*{{WP|Wind Rose (band)}}
+*[https://www.windroseofficial.com/ Official Site]
+*[https://www.instagram.com/windroseofficial/ Official Instagram Page]
+*[https://www.facebook.com/windroseofficial Official Facebook Page]
+
+[[Category:Bands]]
+[[Category:Heavy metal]]

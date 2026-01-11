@@ -1,0 +1,138 @@
+{{disambig-more|The Return of the King|[[The Return of the King (disambiguation)]]}}
+{{film infobox
+| image = The Return of the King (1980 film) - cover.png
+| caption = 
+| name=The Return of the King
+| director=[[Arthur Rankin, Jr.]]<br>[[Jules Bass]]
+| producer=Arthur Rankin, Jr.<br>Jules Bass
+| writer=[[J.R.R. Tolkien]] (original novel)<br>Romeo Muller (screenplay)
+| narrator=
+| starring=[[Orson Bean]]<br>[[Theodore Bikel]]<br>[[John Huston]]<br>[[Roddy McDowall]]
+| music=Maury Laws (music)<br>Jules Bass (lyrics)
+| cinematography= 
+| editing= 
+| distributor=[[The Walt Disney Company|ABC]] (original transmission)<br>[[Warner Bros.]] (home video)
+| released=[[11 May|May 11]], [[1980]]
+| runtime=98 minutes
+| country=USA
+| language=English
+| budget= 
+| website= 
+| imdb_id=0079802
+}}
+'''''The Return of the King''''' (subtitled '''''A Story of the Hobbits''''') is an animated adaptation of the [[The Lord of the Rings|novel]] by [[J.R.R. Tolkien]] which was produced by [[Rankin/Bass]] as a TV special which originally aired on ABC in the U.S. on [[11 May|May 11]], [[1980]]. It has since been released on VHS and DVD.
+
+The film was created by the same team which had worked on the 1977 [[The Hobbit (1977 film)|animated version of ''The Hobbit'']]. 
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role(s)
+|-
+| [[Orson Bean]] || [[Frodo Baggins]], [[Bilbo Baggins]]
+|-
+| [[Theodore Bikel]] || [[Aragorn]]
+|-
+| [[William Conrad]] || [[Denethor|Lord Denethor]]
+|-
+| [[John Huston]] || [[Gandalf]]
+|-
+| [[Roddy McDowall]] || [[Samwise Gamgee]]
+|-
+| [[Theodore Isidore Gottlieb|Theodore]] || [[Gollum|Gollum/Sméagol]]
+|-
+| [[Paul Frees]] || [[Orcs|Orc]], [[Orcs|Goblin]], [[Uruk-hai|Uruk-Hai]], [[Shagrat|Captain Shagrat]], [[Snaga (orc of Mordor)|Lieutenant Snaga]], [[Orc-drivers|Orc Sergeant]], [[Elrond|Lord Elrond]]
+|-
+| [[Don Messick]] || [[Théoden|King Théoden]], [[Easterlings|Easterling]], [[Mouth of Sauron|The Mouth of Sauron]]
+|-
+| [[John Stephenson]] || [[Gondorians|Gondorian Guard]], [[Witch-king|Dwimmerlaik - The Witch-King of Angmar]]
+|-
+| [[Casey Kasem]] || [[Meriadoc Brandybuck|Meriadoc 'Merry' Brandybuck]]
+|-
+| [[Sonny Melendrez]] || [[Peregrin Took|Peregrin 'Pippin' Took]]
+|-
+| [[Nellie Bellflower]] || [[Éowyn|Éowyn/Dernhelm]]
+|-
+| [[Glenn Yarbrough]] || [[Minstrel of Gondor|The Minstrel]]
+|-
+| [[Thurl Ravenscroft]] (uncredited) || Ensemble
+|}
+
+NOTE: Due to the fact that [[Cyril Ritchard]], who originally voiced [[Elrond]] in ''The Hobbit'', had died not long after completing his voice work for that movie, Paul Frees replaces him in that role this time around.
+
+==Synopsis==
+
+Because Rankin/Bass had begun production on this movie even before [[Ralph Bakshi]]'s [[The Lord of the Rings (1978 film)|theatrical adaptation of ''The Lord of the Rings'']] had been released,<sup>[http://www.nytimes.com/1977/11/27/books/tolkien-hobbitani.html?_r=1&]</sup> they present ''The Return of the King'' as a sequel to their 1977 adaptation of ''The Hobbit'' — giving the audience a brief recap of the events, and adapting a few story events from ''[[The Fellowship of the Ring]]'' and ''[[The Two Towers]]'' while leaving out some major details and literally beginning the movie where its [[The Return of the King|literary counterpart]] does (apart from its use of a framing device to bookend the movie).  The movie's visual style is largely shared with the 1977 ''The Hobbit''.  Its plot unfolds as follows:
+
+During the 129th birthday celebration for [[Bilbo Baggins]] in [[Rivendell]], [[Frodo Baggins|Frodo]], Bilbo's nephew, tells the story of his quest to destroy [[the One Ring]]. Frodo begins his story with [[Samwise Gamgee|Samwise (Sam) Gamgee]], his friend and companion, treading through [[Mordor]] as Ring-bearer in Frodo's absence, as he is being held captive there by orcs. During his journey, Sam begins to question his thoughts about claiming the Ring himself, but being humble, he never gives in to the treacherous temptations. In due course, he progresses back to [[Cirith Ungol]] to rescue Frodo.
+
+Meanwhile, the wizard [[Gandalf|Gandalf the White]] and the hobbit [[Peregrin Took|Pippin]] arrive at [[Minas Tirith]], the capital of the country of [[Gondor]] to warn [[Denethor]], the Steward of the Throne, about the upcoming war—only to discover that the Steward has lost his mind by believing the war will be the end of mankind.
+
+Back at Cirith Ungol, Sam rescues Frodo and returns the Ring. The two then continue on to finish their quest at [[Mount Doom]], only to be attacked by their past guide, [[Gollum]]. As Sam holds Gollum off, Frodo makes it to the [[Cracks of Doom|Crack of Doom]]. But at the Crack, Frodo is finally unable to resist the power of the Ring any longer and claims it for his own. At the same time, Gondor's neighboring country, Rohan, helps it claim victory in the [[Battle of the Pelennor Fields]].
+
+After searching for some time for Frodo in Mount Doom, Sam discovers Gollum and an invisible Frodo fighting over the Ring, which results in Gollum biting off Frodo's finger to claim it. While dancing with joy at the retrieval of his "Precious," Gollum loses his footing and falls into the fire, taking the Ring with him. With the destruction of the Ring, Sauron is defeated. Months later, Frodo's friend, [[Aragorn]], is crowned King of Gondor. The film concludes back in the present with Frodo agreeing to accompany Bilbo, Gandalf and Elrond in leaving Middle-Earth.  Sam, [[Meriadoc Brandybuck|Merry]] and Pippin bid them all farewell as they depart across the sea.
+
+===Scenes===
+
+# "Prologue: A Ring's Tale"
+# "Frodo of the Nine Fingers"
+# "Credits"
+# "Crossing Into Mordor"
+# "The Bearer of the Ring"
+# "Samwise the Strong"
+# "Less Can Be More"
+# "Under Siege"
+# "Denethor's Black Vision"
+# "The Two Watchers"
+# "Great Elf Warrior"
+# "Rescuing Frodo"
+# "The Power"
+# "Team Magic"
+# "Weary Fugitives"
+# "Vale of Gorgoroth"
+# "Where There's a Whip"
+# "Enemy at the Gates"
+# "Leave Tomorrow Till It Comes"
+# "Mount Doom"
+# "The Gollum"
+# "Théoden Falls"
+# "Claimed By the Ring"
+# "Éowyn Triumphs"
+# "Choice of Evils"
+# "End of the Ring"
+# "On Eagles' Wings"
+# "The Return of the King"
+# "Farewells"
+# "End Credits"
+
+==Differences from the book==
+* The story is framed as being told by the [[Minstrel of Gondor]] at [[Bilbo Baggins|Bilbo's]] 129th birthday party at [[Elrond]]'s home in [[Rivendell]]. Elrond, Bilbo, [[Gandalf]], [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Samwise]], [[Meriadoc Brandybuck|Meriadoc]] and [[Peregrin Took|Peregrin]] are present. The Minstrel sings a ballad entitled "Frodo and the Nine Fingers", which initiates the story as the audience is left to wonder how Frodo lost his finger. The song plays again as [[Gollum]] bites off his finger later in the film.
+* [[Gimli]] and [[Legolas]] are omitted.
+* [[Éomer]] is omitted. The Man who flanks Théoden leading into the [[Battle of the Pelennor Fields]], is later present during the [[Last Debate]], and later flanks Aragorn during the march to the [[Black Gate]] could possibly be Éomer.
+* [[Faramir]] is omitted. A man, possibly Faramir, exchanges looks with [[Éowyn]] during the coronation of [[Aragorn]].
+* Faramir's ommision means [[Denethor]] only attempts to kill himself. Denethor orders his guards to help him and is not seen again, presumably having succeeded in his suicide attempt.
+* The [[Nazgûl]] ride winged horses rather than [[Fell beasts]], except for the [[Witch-king]] who later mounts one to fight Éowyn.
+* Rather than being struck by the [[Witch-king]] and falling, [[Snowmane]] is startled by a black cloud coming from [[Mordor]] and bucks [[Théoden]] off his back. Théoden dies from impact with the ground.
+* The [[Oathbreakers]] are omitted.
+* [[Sting]]'s ability to glow when [[Orcs]] are present is not mentioned. It consistently glows throughout the whole movie, including when Samwise fights Gollum and no Orcs are nearby.
+* [[Battle of the Morannon|The Battle of the Morannon]] does not take place. The [[Army of the West|Host of the West]] marches there and is stopped at the [[Black Gate]] and [[Towers of the Teeth|the Towers of the Teeth]]. The Orcs sing a taunting song, encouraging them to retreat and Aragorn demands [[Sauron]] come forth. Aragorn briefly speaks with [[Mouth of Sauron|the Mouth of Sauron]], who retreats back past the gates. Before the battle is initiated, Gollum falls into [[Cracks of Doom|the Cracks of Doom]], destroying [[The One Ring]], and [[Barad-dûr]], [[Tower of Cirith Ungol|the Tower of Cirith Ungol]] and the Towers of the Teeth crumble.
+* The [[Eagles]] save the Army of the West as well as Sam and Frodo.
+* [[Battle of Bywater|The Scouring of the Shire]] is omitted.
+
+==Reception==
+Reception for the animated TV special is varied. Some commentators view it affectionately as an adaptation which children and parents can enjoy together.<sup>[http://www.toxicuniverse.com/review.php?rid=10000654]</sup>  However, others regard it with disdain, comparing it unfavorably to Ralph Bakshi's earlier animated film and [[Peter Jackson]]'s later [[The Lord of the Rings: The Return of the King|live-action film]].<sup>[http://www.stomptokyo.com/movies/r/return-of-the-king.html][http://decentfilms.com/sections/reviews/1989]</sup> Glen Yarbrough's songs are widely derided, although some admit to a campy affection for the surprisingly tuneful Orc marching song "[[Where There's a Whip, There's a Way]]" or the ballad "[[Frodo of the Nine Fingers]]".<sup>[http://www.imdb.com/title/tt0079802/usercomments]</sup>
+
+==Marketing==
+In the absence of an official sequel to Ralph Bakshi's ''The Lord of the Rings'', ''The Return of the King'' has come to be marketed by [[Warner Bros.]] as the final part of a loose animated Tolkien trilogy, preceded by ''The Hobbit''.  The middle film is very different in tone and character design, however, and the final two films do not join up seamlessly, as both omit various segments from ''The Two Towers'', most notably regarding the events in [[Shelob]]'s lair and the [[Ents]]' march on [[Isengard]]. Other omissions in the Rankin/Bass version include the characters of [[Legolas]], [[Gimli]], [[Arwen]], and [[Saruman]] entirely, while [[Éomer]] and [[Faramir]] may have only been given unidentified cameos (the former alongside [[Théoden]] in the Battle of the Pelennor Fields and Aragorn during the march to the [[Black Gate]]; the latter as the man who accompanies [[Éowyn]] on horseback during Aragorn's coronation with whom she exchanges rather knowing looks—neither character has any lines of dialogue or are ever spoken to, so it cannot be fully confirmed whether or not they were actually even intended to be Éomer and Faramir at all). The entire [[Oathbreakers|Army of the Dead]] arc is cut as well; thus, even Aragorn doesn't have much dialogue or screentime despite being the 'King' of the movie's title.
+
+The animated ''Return of the King'' has been released on home video (VHS, DVD and Blu-ray) from Warner Bros., both individually and as a "boxed trilogy" with the Rankin/Bass ''The Hobbit'' and Bakshi's ''The Lord of the Rings''.
+
+==External links==
+* {{WP|The Return of the King (1980 film)}}
+* [http://www.imdb.com/title/tt0079802/ The Return of the King] at [http://imdb.com/ IMDb]
+* [https://www.youtube.com/watch?v=AZe6OhmPnx8&t=793s Arthur Rankin Jr. explains why he did not make a complete Lord of the Rings film]
+
+{{Screen}}
+{{title|italics}}
+[[Category:The Return of the King (1980 film)| ]]
+[[de:The Return of the King (Zeichentrickfilm)]]

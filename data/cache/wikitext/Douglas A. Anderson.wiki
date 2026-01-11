@@ -1,0 +1,81 @@
+{{author infobox
+| image=
+| name=Douglas A. Anderson
+| born=[[1959]]
+| died=
+| education=
+| occupation=Author
+| location=Michigan, USA
+| website=
+|}}
+
+'''Douglas Allen Anderson''' (born [[30 December]] [[1959]] in Valparaiso, Indiana<ref>[https://www.isfdb.org/cgi-bin/ea.cgi?11127 Summary Bibliography: Douglas A. Anderson] at the [https://www.isfdb.org/ Internet Speculative Fiction Database](accessed 22 March 2023)</ref>) is an American independent scholar who has authored and edited various books relating to the works of Tolkien.
+
+Anderson assisted [[Humphrey Carpenter]] during the process of compiling [[The Letters of J.R.R. Tolkien]], for instance, he found [[Letter 27]] at the Houghton Mifflin archives in Boston.<ref name=interview>[https://www.youtube.com/watch?v=QZZg-n3ARPI&lc=UgxzxlNJo3dqpq1uHVV4AaABAg&ab_channel=TolkienTalk  Interview with Douglas A. Anderson] on [https://www.youtube.com/ Youtube](accessed 21 March 2023)</ref> In [[1988]], he edited ''[[The Annotated Hobbit]]'', which won the [[Mythopoeic Society|Mythopeic Scholarship Award in Inklings Studies]] in [[1990]].<ref>[https://www.mythsoc.org/awards/awards-winners.htm Complete list of Mythopoeic Awards winners] on https://www.mythsoc.org/ (accessed 21 March 2023)</ref> A revised and expanded edition was published in [[2002]]. He is currently working on a third edition.<ref name=interview /> 
+
+With [[Michael D.C. Drout]] and [[Verlyn Flieger]], Anderson was co-editor for volumes one through eight of ''[[Tolkien Studies (journal)|Tolkien Studies: An Annual Scholarly Review]]''. He is a member of the Board of Academic Advisors for [[Walking Tree Publishers]] <ref>{{webcite|author=|articleurl=http://www.walking-tree.org/board_of_advisors.php|articlename=Walking Tree Publishers Board of Advisors|dated=|website=[http://www.walking-tree.org/ Walking Tree Publihers]|accessed=21 January 2012}}</ref> and currently serves as editor for book reviews at the [[Journal of Tolkien Research]]. <ref> [https://scholar.valpo.edu/journaloftolkienresearch/editorialboard.html Editorial Board] at the [[Journal of Tolkien Research]] website (accessed 29 April 2025)</ref> He also manages the small publisher ''[[Nodens Books]]'', which focuses on reprinting works by lesser known writers. 
+
+==Bibliography, selected==
+===Books===
+*[[1988]]: ''[[The Annotated Hobbit]]''
+*[[1993]]: ''[[J.R.R. Tolkien: A Descriptive Bibliography]]'' (with [[Wayne G. Hammond]]) 
+*[[2002]]: ''[[The Annotated Hobbit]]: Revised and Expanded Edition''
+*[[2003]]: ''[[Tales Before Tolkien]]: The Roots of Modern Fantasy''
+*[[2005]]: ''[[Seekers of Dreams]]: Masterpieces of Fantasy''
+*[[2007]]: ''[[Tolkien On Fairy-stories]]'' (with [[Verlyn Flieger]])
+*[[2008]]: ''[[Tales Before Narnia|Tales Before Narnia: The Roots of Modern Fantasy and Science Fiction]]''
+*[[2025]]: ''[[More Tales Before Tolkien]]''
+
+===Journals, editor===
+*[[2004]]: ''[[Tolkien Studies: Volume 1|Tolkien Studies: An Annual Scholarly Review, Volume 1]]'' (co-editor)
+*[[2005]]: ''[[Tolkien Studies: Volume 2|Tolkien Studies: An Annual Scholarly Review, Volume 2]]'' (co-editor)
+*[[2006]]: ''[[Tolkien Studies: Volume 3|Tolkien Studies: An Annual Scholarly Review, Volume 3]]'' (co-editor)
+*[[2007]]: ''[[Tolkien Studies: Volume 4|Tolkien Studies: An Annual Scholarly Review, Volume 4]]'' (co-editor)
+*[[2008]]: ''[[Tolkien Studies: Volume 5|Tolkien Studies: An Annual Scholarly Review, Volume 5]]'' (co-editor)
+*[[2009]]: ''[[Tolkien Studies: Volume 6|Tolkien Studies: An Annual Scholarly Review, Volume 6]]'' (co-editor)
+*[[2010]]: ''[[Tolkien Studies: Volume 7|Tolkien Studies: An Annual Scholarly Review, Volume 7]]'' (co-editor)
+*[[2011]]: ''[[Tolkien Studies: Volume 8|Tolkien Studies: An Annual Scholarly Review, Volume 8]]'' (co-editor)
+
+===Articles and contributions===
+*[[1981]]: [[Mallorn 16|''Mallorn'' 16]]
+** "A Look at the Marquette Archives"
+** "''The Marring of the Moon''"
+*[[1987]]: ''[[The Lord of the Rings]]'' ([[Houghton Mifflin]])
+**"Note on the Text"
+*1994[?]: ''[[The Hobbit]]''
+**"Note on the Text"
+*[[1996]]: ''[[The Marvellous Land of Snergs]]''
+**"Introduction"
+*[[2001]]: ''[[Meditations on Middle-earth]]''
+**"Tolkien After All These Years"
+*[[2002]]: ''[[Tolkien the Medievalist]]''
+**"'An Industrious Little Devil': E.V. Gordon as Friend and Collaborator with Tolkien'
+*[[2004]]: [[Tolkien Studies: Volume 1|''Tolkien Studies'': Volume 1]]
+**"J.R.R. Tolkien, A Checklist" (with [[Tom Shippey]])
+*[[2005]]: [[Tolkien Studies: Volume 2|''Tolkien Studies'': Volume 2]]
+**"J.R.R. Tolkien and W. Rhys Roberts's 'Gerald of Wales on the Survival of Welsh'"
+*[[2013]]: [[Mythlore 123|''Mythlore'' 123]]
+**"Fairy Elements in British Literary Writings in the Decade Following the Cottingley Fairy Photographs Episode"
+
+==Awards==
+* [[1988]]: '''[[Mythopoeic Society|Mythopoeic Scholarship Award for Inklings Studies]]''', ''[[The Annotated Hobbit]]''
+* [[2025]]: '''[[Tolkien Society Awards|Tolkien Society Award]]: Outstanding Contribution'''
+
+==External links==
+* [http://tolkienandfantasy.blogspot.com/ Douglas A. Anderson's blog on "Tolkien and Fantasy"]
+* {{WP|Douglas A. Anderson}}
+===Interviews===
+* [https://www.youtube.com/watch?v=QZZg-n3ARPI&lc=UgxzxlNJo3dqpq1uHVV4AaABAg&ab_channel=TolkienTalk  Interview with Douglas A. Anderson] (with [[TolkienTalk]])
+* [https://www.longwinded.one/episode-135-the-roots-of-douglas-a-anderson/ The Roots of Douglas A. Anderson] (Episode 135 of the ''Longwinded One'' podcast)
+
+{{references}}
+
+{{DEFAULTSORT:Anderson, Douglas A.}}
+
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:JRRTE contributors]]
+[[Category:People by name]]
+
+[[de:Douglas A. Anderson]]
+[[fi:Douglas A. Anderson]]

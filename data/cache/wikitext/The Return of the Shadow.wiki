@@ -1,0 +1,108 @@
+{{book
+|title=The Return of the Shadow
+| image = Return of the Shadow 1988.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[Unwin Hyman]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[25 August]] [[1988]]
+| dateUS=[[5 January]] [[1989]]
+|format=Hardcover; paperback
+|pages=480
+|isbn=0044401620
+| precededby=[[The Lost Road and Other Writings]] (1987)
+| followedby=[[The Treason of Isengard]] (1989)
+}}
+'''''The Return of the Shadow''''', published in [[1988]], is the sixth volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+It is also the first volume of ''[[The History of The Lord of the Rings]]'', which documents the writing process of ''[[The Lord of the Rings]]''.
+
+This book covers a larger part of the content of ''[[The Fellowship of the Ring]]''. It encompasses ''TLotR's'' three initial stages of composition or, as Christopher Tolkien calls them, "phases", including what Tolkien later called "the crucial chapter" which sets up the central plot, "''[[The Shadow of the Past]]''".<ref>{{HM|A}}J.R.R. Tolkien, ''The Lord of the Rings'', 2nd edition, "Foreword"</ref> It finishes with the [[Fellowship of the Ring]] entering the [[Moria|Mines of Moria]].
+
+The title ''The Return of the Shadow'' was a discarded title for ''The Fellowship of the Ring''. Tolkien also conceived titles for each of the six Books of ''TLotR'', which he later discarded. Some of these were used as titles for the following volumes.
+
+==Contents==
+* Foreword
+
+* '''The First Phase'''
+** I. "[[A Long-expected Party (chapter in The Return of the Shadow)|A Long-expected Party]]"
+** II. "[[From Hobbiton to the Woody End]]"
+** III. "[[Of Gollum and the Ring]]"
+** IV. "[[To Maggot's Farm and Buckland]]"
+** V. "[[The Old Forest and the Withywindle]]"
+** VI. "[[Tom Bombadil (chapter)|Tom Bombadil]]"
+** VII. "[[The Barrow-wight]]"
+** VII. "[[Arrival at Bree]]"
+** IX. "[[Trotter and the Journey to Weathertop]]"
+** X. "[[The Attack on Weathertop]]"
+** XI. "[[From Weathertop to the Ford]]"
+** XII. "[[At Rivendell]]"
+** XIII. "[[Queries and Alterations]]"
+
+* '''The Second Phase'''
+** XIV. "[[Return to Hobbiton]]"
+** XV. "Ancient History"
+** XVI. "Delays Are Dangerous"
+** XVII. "A Short Cut to Mushrooms"
+** XVIII. "Again from Buckland to the Withywindle"
+
+* '''The Third Phase'''
+** XIX. "The Journey to Bree"
+** XX. "At the Sign of the Prancing Pony"
+** XXI. "To Weathertop and Rivendell"
+** XXII. "New Uncertainties and New Projections"
+
+* '''The Story Continued'''
+** XXIII. "In the House of Elrond"
+** XXIV. "The Ring Goes South"
+** XXV. "The Mines of Moria"
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book VI reads:
+
+:"''In the Return of the Shadow are traced the first forms of the story of the Lord of the Rings; herein the journey of the Hobbit who bore the Great Ring, at first named Bingo but afterwards Frodo, is followed from Hobbiton in the Shire through the Old Forest to Weathertop and Rivendel, and ends in this volume before the [[Balin's Tomb|Tomb of Balin]], the Dwarf-lord of Moria.''"
+
+==From the Publisher==
+{{blockquote|The first part of The History of The Lord of the Rings, an enthralling account of the writing of the Book of the Century which contains many additional scenes and includes the unpublished Epilogue in its entirety.<br>
+The Return of the Shadow is the story of the first part of the history of the creation of The Lord of the Rings, a fascinating study of Tolkien’s great masterpiece, from its inception to the end of the first volume, [[The Fellowship of the Ring]].<br>
+In The Return of the Shadow (the abandoned title of the first volume of The Lord of the Rings) we see how Bilbo’s magic ring evolved into the supremely dangerous [[One Ring|Ruling Ring]] of the [[Sauron|Dark Lord]]; and the precise, and astonishingly unforeseen, moment when a [[Nazgûl|Black Rider]] first rode in to [[the Shire]]. The character of the hobbit called [[Trotter]] (afterwards [[Strider]] or [[Aragorn]]) is developed, and Frodo’s companions undergo many changes of name and personality.<br>
+The book comes complete with reproductions of the first maps and facsimile pages from the earliest manuscripts.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Return of the Shadow 1988.png ‎|1988 hardcover
+File:Return of the Shadow 1990.jpeg |1990 paperback
+File:Return of the Shadow 1988.png ‎|1991 hardcover
+File:Return of the Shadow 1994.jpeg ‎|1994 paperback
+File:The Return of the Shadow (HC2002).jpeg ‎|2002 & 2015 paperback
+File:Return of the Shadow 2010.png ‎|2010 hardcover
+File:Return of the Shadow 2024.jpeg ‎|2024 paperback
+File:Return of the Shadow hc 2024.jpg|2024 hardcover
+</gallery>
+* [[Unwin Hyman]], hardcover ([[1988]]), pp.&nbsp;480. ISBN 0044401620
+* [[Unwin Paperbacks]], paperback ([[1990]]), ISBN 004440669X - (cover art by [[Roger Garland]])
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102036
+* [[HarperCollins]] paperback ([[1994]]), ISBN 0261102249 - (cover art by [[John Howe]])
+** 1994 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365306
+** 2015 paperback edition, 33rd impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #3)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#vi A content guide for this volume] at Tolkienbooks.net
+
+{{references}}
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Return of the Shadow}}
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Publications by title]]
+
+[[de:The Return of the Shadow]]

@@ -1,0 +1,56 @@
+{{song
+| title=Prologue: One Ring to Rule Them All
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=7:16
+| track=Disc 1 Track 1
+| next=[[The Shire (soundtrack)|The Shire]]
+| spotify=https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD
+}}
+'''Prologue: One Ring to Rule Them All''' is the first track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[00:06] Man
+[00:09] Ammen
+[00:10] Toltha
+[00:11] I
+[00:12] Dann
+[00:13] hen
+[00:13] Morn
+[00:19] Si
+[00:21] Danna-
+[00:23] (a drawn out) tha
+[00:24] Nauva
+
+[2:18] netab-
+[2:20] dam nepam
+[2:24] ab(a)rat (?*)
+[2:26] aglar
+[2:29] ido
+[2:31] Katharad
+[2:34] [Ni]dir ne-
+[2:37] nakham
+[2:40] nepam
+[2:41] ned
+[2:42] aglar
+
+[3:00] netab-
+[3:03] dam nepam
+[3:05] ab(a)rat
+[3:08] aglar
+
+[5:33] Ter
+[5:35] cá
+[5:37] no
+[5:39] Nu
+[5:41] ru
+[5:43] va
+</poem>
+
+
+
+{{DEFAULTSORT:1.01}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

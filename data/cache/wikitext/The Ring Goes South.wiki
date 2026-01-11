@@ -1,0 +1,39 @@
+{{short_description|3rd chapter of the second book in The Fellowship of the Ring}}
+{{disambig-two|the chapter in ''The Fellowship of the Ring''|book in ''The Lord of the Rings|''[[The Fellowship of the Ring]]}}
+{{chapter
+| image=Ted Nasmith - The Company Attempts the Pass of Caradhras.jpg
+| title=The Ring Goes South
+| book=The Fellowship of the Ring
+| number=15
+| event=The [[Fellowship of the Ring]] is formed; [[Frodo Baggins]] sets out for [[Mordor]].
+| date=[[25 October]] {{TA|3018|n}}-[[12 January]] {{TA|3019|n}}
+| location=[[Eregion|Hollin]]
+| previous=The Council of Elrond
+| next=A Journey in the Dark
+}}
+
+{{quote|Faithless is he that says farewell when the road darkens|[[Gimli]]}}
+
+'''The Ring Goes South''' is the third chapter of the second book in ''[[The Fellowship of the Ring]]''.  The main characters are [[Elrond]] and the company that comprised the [[Fellowship of the Ring]]: [[Frodo Baggins]], [[Samwise Gamgee]], [[Meriadoc Brandybuck]], [[Peregrin Took]], [[Gandalf]], [[Aragorn]], [[Boromir]], [[Legolas]] and [[Gimli]].
+
+Central to the chapter is the establishment of the Fellowship - nine members to counterbalance the nine [[Nazgûl|Black Riders]] - and their departure from Rivendell, marking the commencement of their quest to destroy the [[One Ring]]. Key artifacts such as Aragorn’s reforged sword, [[Andúril]], Frodo’s [[mithril]] shirt of armour and the dagger, [[Sting]], both gifted by [[Bilbo]].
+
+The chapter marks a shift from the safety of [[Rivendell]] to the harsh realities of the quest, as the story moves from lore and counsel to adventure and peril. Through this transition, the narrative broadens the geographical and cultural scope of Middle-earth.
+
+==Overview==
+The chapter begins immediately following the end of the [[The Council of Elrond|previous chapter]].
+
+Following the [[The Council of Elrond|council meeting]], the [[Hobbits]] held a meeting of their own. Merry and Pippin were offended that Sam had been chosen to accompany Frodo while they had not. Gandalf explained that scouts had been sent out to gather information about the Black Riders, and Frodo could not depart until they returned with news. Gandalf also told Frodo that he might accompany him on the journey to [[Mordor]], but for the time being Frodo was to remain in Rivendell and assist Bilbo with a [[Red Book of Westmarch|book of records]] he was completing.
+
+The Hobbits remained at Rivendell for two months until the scouts began to return. No news of the [[Nazgûl|Black Riders]] was to be had from any direction, except of a few lost horses and torn cloaks. It was decided that Frodo must leave at once, accompanied by Sam and Gandalf. Elrond decided to expand the group to nine, to match the number of Black Riders. Legolas would represent the [[Elves]]; Gimli the [[Dwarves]], and Aragorn the race of [[Men]]. Since Boromir's path to [[Minas Tirith]] aligned with theirs, he too would join. Merry and Pippin, though reluctantly included, were allowed to go.
+
+Before departing, Aragorn's broken sword was re-forged and named Andúril, Flame of the West. Bilbo gave Frodo a small dagger named Sting and a shirt of ''mithril'' armour to be worn under his clothes. Each member brought their personal weapon, and Sam took responsibility for the pony, [[Bill the Pony|Bill]].
+
+Now formed and provisioned, the [[Fellowship of the Ring|Company]] set out with the understanding that, except for Frodo, each member was free to leave if they chose.  After two weeks of travel, they reached the ruins of [[Eregion|Hollin]] at sunrise.  Aragorn felt they were being watched and recognised black ''[[crebain]]'' out of [[Dunland]] and [[Fangorn Forest|Fangorn]] flying low over the land. The Company decided to leave that night, and at one point Aragorn saw and Gandalf felt a [[Shadow over Hollin|dark shadow]] pass over the land.
+
+Gandalf and Aragorn privately discussed alternative routes, unknowingly observed by Frodo. They later decided to cross [[Caradhras]], one of the three Mountains of [[Moria]], through [[Redhorn Gate]] and onto [[Mirrormere]]. Snow had fallen more heavily than usual in Aragorn's reckoning and prevented progress.  Fortified by ''[[miruvor]]'' given to Gandalf by Elrond, the Company endured the night ahead of a retreat from the mountain route. Their path to escape was blocked by deep snow, and although Legolas walked lightly over the drifts, the others struggled.  Aragorn and Boromir forced a path and carried the Hobbits to safety, while the rest followed on foot or rode Bill through the created path. Despite seeing ''crebain'' still flying below them, Gandalf said that they must leave the mountain with haste, which they did.
+
+==Composition==
+Tolkien probably composed this chapter in [[1939]]. After reaching [[Balin's Tomb]] (in the next chapter) and some hiatus, in [[1940]] Tolkien revised the portion from Rivendell as far as Balin's tomb, writing a fresh manuscript of ''The Ring Goes South''.<ref>{{CG|CG}}, p. xxiii-xiv</ref>
+{{references}}
+[[Category:The Fellowship of the Ring chapters|Ring Goes South]]

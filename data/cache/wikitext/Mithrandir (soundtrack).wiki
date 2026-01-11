@@ -1,0 +1,56 @@
+{{disambig-more|Mithrandir|[[Mithrandir (disambiguation)]]}}
+{{song
+|title = Mithrandir
+|subtitle = 
+|album = [[The Lord Of The Rings (Original Motion Picture Soundtrack)|''The Lord Of The Rings'' (Original Motion Picture Soundtrack)]]
+|composer = [[Leonard Rosenman]]
+|arranger = 
+|writer = [[Mark Fleischer]]
+|performer = 
+|additionalcredits = 
+|image = The Lord Of The Rings (Original Motion Picture Soundtrack).jpg
+|duration = 3:17
+|track = 9
+|previous = [[The Battle In The Mines; The Balrog]]
+|next = [[Frodo Disappears]]
+|spotify = https://open.spotify.com/track/4UwRnYkTXBoRIzG6NVkzph?si=a26f344e939d431d
+|youtube = https://www.youtube.com/watch?v=Xh8JqMTGBls
+|soundcloud = 
+}}
+'''''Mithrandir''''' is ninth track of [[The Lord Of The Rings (Original Motion Picture Soundtrack)|''The Lord Of The Rings - Original Motion Picture Soundtrack'']]. It serves as a lament for [[Gandalf]]. 
+
+The music was written by [[Leonard Rosenman]], the lyrics were written by [[Mark Fleischer]]. A shorter version formed the background music for the twenty-first scene, "[[Homage to Gandalf]]".
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;"> 
+Let the night never cease to call you
+Let the day nevermore be the same
+Though you've gone where we cannot find you
+In each heart you have set your name
+Mithrandir far you wander
+And long may your name be sung
+Through kingdoms of starlight
+And realms of the sun
+Mithrandir though you're hidden
+We're still guided by your light
+You're walking beside us
+A friend in the night
+We were lost when the dark descended
+And the light gathered into a storm
+You appeared like a sunlit morning
+At the winds of a world at war
+Mithrandir far you wander
+And long may your name be sung
+Through kingdoms of starlight
+And realms of the sun
+Mithrandir though you're hidden
+We're still guided by your light
+You're walking beside us
+A friend in the night
+Mithrandir rising through the shadow
+Like a star shining deep in its home
+You will dwell in our hearts forever
+Nevermore will we stand alone
+</poem>
+{{title}}
+[[Category:The Lord of the Rings (1978 film) soundtrack]]

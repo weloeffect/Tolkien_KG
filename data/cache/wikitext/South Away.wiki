@@ -1,0 +1,32 @@
+{{Song
+| title = South Away
+| album = [[Let Mortal Heroes Sing Your Fame]]
+| image = letmortal.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 6:04
+| track = 2
+| spotify = https://open.spotify.com/track/5JnR2dIaS1AySjjHeGCKP5
+| writer = [[Summoning]], [[J.R.R. Tolkien]]
+| next = [[In Hollow Halls Beneath the Fells]]
+| previous = [[A New Power Is Rising]]
+}}'''''South Away''''' is the second track of the album [[Let Mortal Heroes Sing Your Fame]] by the band [[Summoning]]. The lyrics are based upon the poem [[Roll-roll-roll-roll,]] which is found in [[The Hobbit]].<ref>{{H|9}}</ref> Other references include words spoken by [[Saruman]] to [[Gandalf]] in [[The Lord of the Rings]],<ref>{{TT|Voice}}</ref> and the toast to the new [[King of Rohan]], [[Éomer]].<ref>{{RK|Partings}}</ref>
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+Leave the halls and caverns deep 
+Were the forests wide and dim 
+Stoops in shadow grey and grim 
+
+Float beyond the world of trees 
+Past the rushes, past the reeds 
+Past the marshes, weaving weeds 
+
+"[...] and the crowns of seven kings, and the rods of the Five Wizards." 
+
+South away! South away now! 
+Far away seek the sunlight and the day. 
+
+Hail, Éomer, king of the mark.
+</poem>{{References}}
+[[Category:Songs by Summoning]]

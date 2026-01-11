@@ -1,0 +1,14 @@
+{{puzzle infobox
+| title=The Way is Shut
+| image=Middle-earth Puzzles - The Way is Shut.jpg
+| artist=[[Ted Nasmith]]
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=[[1997]]
+| pieces=500
+| size=36&nbsp;cm x 49&nbsp;cm
+| ice=30501
+| edition=Unlimited
+}}
+'''MEP: The Way is Shut''' is a jigsaw puzzle in the ''[[Middle-earth Puzzles]]'' series, released in 1997 by [[Iron Crown Enterprises]]. This puzzle uses art originally created for the ''[[Middle-earth Collectible Card Game]]''.
+
+[[Category:Puzzles]]

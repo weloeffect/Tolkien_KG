@@ -1,0 +1,21 @@
+{{letter infobox
+| #=127
+| to=[[Stanley Unwin]]
+| date=[[14 April]] [[1950]]
+| subject=''[[The Lord of the Rings]]'', publication
+}}
+{{letter|127}}
+==Summary== 
+[[Stanley Unwin]] had asked his son [[Rayner Unwin|Rayner]] for advice about publishing ''[[The Lord of the Rings]]'' and ''[[The Silmarillion]]''. Rayner proposed publishing the former and dropping the latter. 
+
+Tolkien became angry by the corporate thinking of Unwin and his son, and demanded an immediate "yes" or "no" about publishing both books. 
+
+;In the expanded edition
+At the end Tolkien notes that he hadn't seen the article to which Unwin referred, and once again says that his health issues had prevented him from replying sooner.
+
+==Note==
+This letter marked the beginning of a feud Tolkien had with [[Allen and Unwin|Allen & Unwin]], and several letters later prompted him to write the "[[Letter 131|Milton Waldman Letter]]". For more on this episode, see [[Humphrey Carpenter]]'s ''[[J.R.R. Tolkien: A Biography]]'', part ''VI 1949-1966: Success'', chapter 1, "Slamming the Gates". 
+
+{{letters}}
+[[Category:Letters to Stanley Unwin]]
+[[de:Brief 127]]

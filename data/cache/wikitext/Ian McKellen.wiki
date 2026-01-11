@@ -1,0 +1,50 @@
+{{actor
+| image = Ian McKellen.jpg
+| name=Ian McKellen
+| lifetime=[[25 May|May 25]], [[1939]]
+| played=[[Gandalf]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]<br>[[The Hobbit (film series)|''The Hobbit'' (film series)]]
+| imdb=[https://www.imdb.com/name/nm0005212/ Profile]
+}}
+'''Sir Ian Murray McKellen''' [[Order of the British Empire|CBE]], played [[Gandalf]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'']] and [[The Hobbit (film series)|''The Hobbit'' film series]].
+
+He also wrote forewords to [[Alan Lee]]'s ''[[The Lord of the Rings Sketchbook]]'' and [[Brian Sibley]]'s ''[[The Lord of the Rings: The Making of the Movie Trilogy]]''. 
+
+==Quotes==
+{{quote|My final twentieth century job was X-Men and my first of the new millennium was The Lord of the Rings, playing two iconic men of power, Magneto the Master of Magnetism and J.R.R.Tolkien's wizard Gandalf. I was introduced to the multitudinous fans of both works via the Internet and was intrigued to enter the world of franchises and plastic dolls.|Ian McKellen, August 2000, official website}}
+{{quote|The Lord of the Rings is a mythology. It is a fairy tale. It's an adventure story. It never happened..except somewhere in our hearts. And yet, there was Hobbiton in three dimensions and smoke coming out of the holes where they live underground. And I believed.|Ian McKellen, lordoftherings.net}}
+{{quote|I am encouraged by the theatricality of [Tolkien's] readings -- full of rhythm and humour and characterisation. Without question Gandalf is like Tolkien but then so, I suspect, are Frodo and Aragorn.|Ian McKellen}}
+{{quote| 'Yes, it’s true,' he said. 'I spoke to Guillermo in the very room that Peter Jackson offered me the part and he confirmed that I would be reprising the role. Obviously, it’s not a part that you turn down, I loved playing Gandalf.'|Ian McKellen on portraying Gandalf in [[The Hobbit (film series)|''The Hobbit'' (film series)]].}}
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* 2002 - '''[http://www.saturnawards.org/ Saturn Award]''', Best Supporting Actor, ''Peter Jackson's The Fellowship of the Ring''
+* 2002 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Male Actor in a Supporting Role, ''Peter Jackson's The Fellowship of the Ring''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''SAG Award''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+* [[2014]] - '''[http://www.cofca.org/ Central Ohio Film Critics Association]''', Best Supporting Character, ''[[The Hobbit: The Desolation of Smaug]]''
+
+==Bibliography, selected==
+* [[2002]]: ''[[The Lord of the Rings: The Making of the Movie Trilogy]]''
+** "Foreword"
+* [[2005]]: ''[[The Lord of the Rings Sketchbook]]''
+** "Foreword"
+* [[2014]]: ''[[The Hobbit: The Battle of the Five Armies: Visual Companion]]''
+** "Introduction"
+
+== External links ==
+* '''[http://www.ianmckellen.us/ Official Website]'''
+* {{WP|Ian McKellen}}
+
+{{DEFAULTSORT:McKellen, Ian}}
+[[Category:Actors and actresses]]
+[[Category:Authors]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Hobbit (film series) cast]]
+
+[[de:Ian McKellen]]
+[[fi:Ian McKellen]]

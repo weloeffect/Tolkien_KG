@@ -1,0 +1,27 @@
+{{chapter
+| title=The Last Stage
+| book=The Hobbit
+| image=J.R.R. Tolkien - The Hall at Bag-End.jpg
+| number=19
+| event=[[Bilbo Baggins|Bilbo]] rests in [[Rivendell]] before returning to his [[Smials|smial]] home.
+|location=[[Rivendell]]<br />[[The Wild]]<br />[[The Shire]]
+|date=
+| previous=The Return Journey
+}}
+'''The Last Stage''' is the 19th and final chapter of ''[[The Hobbit]]''.
+
+==Synopsis==
+[[Bilbo]] and [[Gandalf]] arrived in [[Rivendell]] on [[May 1]]. They were warmly welcomed by the [[elves]], and Gandalf spoke of [[Quest of Erebor|their adventures]], while Bilbo listened. He learned that Gandalf had been to a [[White Council|great council]] of the white wizards, and that they had driven the [[Necromancer]] out of his domain in [[Dol Guldur|the south of Mirkwood]]. Many other tales were told during that evening, until Bilbo's head was spinning, and he fell asleep. 
+
+Upon waking, he found himself in a white bed, and heard many elves singing by a stream. He listened to them for a time, in peace, and spoke with them, noting that "''a little sleep does a great cure in the [[House of Elrond]]''", before going back to bed.
+
+His weariness was swiftly cured in Rivendell, and he made merry with many elves, but soon began to long for his own home. After a week, he said his farewells to [[Elrond]] and the elves, and with Gandalf, left for [[the Shire]]. 
+
+They crossed into [[The Wild]], and Bilbo recounted many of the moments he had had on his Quest, such as [[Roast Mutton|the encounter with the trolls]]. They found the trolls' gold they had buried a year earlier, put it on their ponies, and continued on their journey west. At last, they came to the Shire, and Bilbo began singing ''[[The Road Goes Ever On (song)|The Road Goes Ever On]]''. Seeing the change that had come over Bilbo, Gandalf said to him kindly, "''You are not the hobbit that you were''". And so they came back to [[Bag End]] — Bilbo's home. 
+
+But he arrived to find his house milling with strangers, and an auction of his items taking place. He had been gone so long that he had been presumed dead! He suspected the [[Sackville-Baggins Family|Sackville-Bagginses]] to be behind the commotion. In his mind, they had always wanted Bag End. Bilbo lost not only many of his items, but also his reputation as a quiet, simple hobbit. Forever after, he was known as a friend of elves and wizards — a hobbit of the ''most queer'' kind. He kept [[One Ring|his magic ring]] a secret, and used it only when unwanted visitors came knocking.
+
+One day, years later, he took to writing his memoirs when Gandalf and [[Balin]] came to visit him. From them, he learned that [[Dale]] had been rebuilt by [[Bard]], and [[Lake-town]] was prospering. Bilbo was happy, and Gandalf said to him "''You are a very fine person, Mr Baggins, and I am very fond of you; but you are only quite a little fellow in a wide world after all!''"
+
+[[Category:The Hobbit chapters|Last Stage]]
+[[fi:Viimeiset vaiheet]]

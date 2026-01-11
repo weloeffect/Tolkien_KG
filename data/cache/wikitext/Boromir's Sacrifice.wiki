@@ -1,0 +1,49 @@
+{{scene
+| image = The Lord of the Rings (1978 film) - Borimir's Sacrifice.jpg
+| name=Boromir's Sacrifice
+| film=[[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+| number=24
+| duration=0:49 (see below)
+| event= Death of [[Boromir]],<br>Capture of [[Peregrin Took|Pippin]] and [[Meriadoc Brandybuck|Merry]]
+| previous= Borimir's Madness
+| next= Following the Orcs
+|}}
+
+'''''Borimir's Sacrifice''''' ''(sic)'' is the twenty-fourth scene of [[The Lord of the Rings (1978 film)|the 1978 film ''The Lord of the Rings]]''. 
+
+==Synopsis==
+After trying to convince [[Frodo Baggins|Frodo]] into taking [[the One Ring]] to [[Minas Tirith]], [[Boromir]] returns to the rest of the Fellowship. After [[Aragorn]] asks him where Frodo is, Boromir confesses, and tells him that Frodo put on the Ring. [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] run off to find him, with [[Legolas]] and [[Gimli]] close behind. After a few angry words, Aragorn sends Boromir after the rest, whilst he takes Sam with him. 
+
+Sam feels differently. As his legs are not long enough to keep up with a Man, he starts thinking where Frodo might have gone. His guess - Frodo went to the boats - is correct, and after nearly drowning he is drawn aboard by a still invisible Frodo. As the two Hobbits head to the other shore, they are followed by [[Gollum]] on his log.
+
+Searching for Frodo, Merry and Pippin are caught by Orcs. Boromir comes in to save them, but as they flee he is pierced by arrows. He manages to stay up by leaning against a tree, and pulls out the arrows. Before he can strike at the Orcs, however, he is hit again. In a last effort, he blows his [[Great Horn|horn]]. Aragorn, Legolas and Gimli hear the horn and rush towards to the sound.
+
+With Boromir fallen, the Orcs take the two Hobbits and leave. When Aragorn arrives, he finds only Boromir, who confesses into trying to take the Ring from Frodo, and repents from his deeds. Legolas and Gimli arrive, but Boromir has already died.
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Boromir]] || [[Michael Graham Cox]]
+|-
+| [[Aragorn]] || [[John Hurt]]
+|-
+| [[Samwise Gamgee]] || [[Michael Scholes]] (voice), [[Billy Barty]]
+|-
+|[[Frodo Baggins]] || [[Christopher Guard]] (voice), [[Sharon Baird]]
+|-
+| [[Peregrin Took|Pippin]] || [[Dominic Guard]]
+|-
+| [[Meriadoc Brandybuck|Merry]] || [[Simon Chandler]]
+|-
+|[[Gollum]] || [[Peter Woodthorpe]]
+|-
+| [[Legolas]] || No lines
+|-
+| [[Gimli]] || No lines
+|}
+==Errors==
+* The error of calling [[Boromir]] ''Borimir'' here and in the [[Borimir's Madness|preceding scene]] appears to have been made when the DVD was produced; Boromir is correctly spelled in the credits.
+* The scene is actually much longer than the 49 seconds mentioned. It is 3:49 minutes.
+ 
+[[Category:The Lord of the Rings (1978 film) scenes]]

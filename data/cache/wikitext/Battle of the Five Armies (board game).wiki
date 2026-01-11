@@ -1,0 +1,27 @@
+{{disambig-more|Battle of the Five Armies|[[Battle of Five Armies (disambiguation)]]}}
+{{board game infobox
+| image = Battle of the Five Armies (1975 board game).jpg
+| name=Battle of the Five Armies
+| designer=Larry Smith
+| publisher=LORE/JMJ Enterprises (1st ed.); [[TSR]] (2nd & 3rd ed.)
+| releasedate=[[1975]] (1st ed.); 1976 (2nd ed.); 1977 (3rd ed.)
+| players=2-5
+| ages=12+
+}}
+'''''Battle of the Five Armies''''' is a [[1975]] board game based on the [[Battle of Five Armies]].
+
+''"Now you can determine the outcome of this fantastic battle. As the Minions of Evil, your goal is to invest and capture the stronghold Under the Mountain. As the Alliance your hard-pressed and outnumbered dwarves, elves and men must withstand the onslaught of the powerful horde of goblins and wargs until the eagles and Beorn arrive to turn the tide, but can you hold out?"''
+
+The map board consists of two mountain spurs jutting out from the west edge of the board, with the ruined town of Dale and a river running from the gate in the valley between them. The elves, men and dwarves are holed up on the mountain spurs, and the orcs and worgs enter from the east.
+
+Victory is achieved by winning or holding the gate to Erebor.
+
+== Legal issues==
+In [[1977]], Elan Merchandising or [[Tolkien Enterprises]] threatened publisher [[TSR]] with a lawsuit because the game was not actually licensed. TSR stopped publishing the game, and also changed terminology in its ''[[Dungeons and Dragons]]'' roleplaying game.<ref>{{Cite web|articleurl=https://www.enworld.org/threads/q-a-with-gary-gygax.22566/page-149|articlename=Q&A with Gary Gygax|author=Gary Gygax|website=[https://www.enworld.org En World]|dated=2003}}</ref>
+
+{{references}}
+
+==External links==
+*[http://boardgamegeek.com/boardgame/9013/battle-of-the-five-armies Battle of the Five Armies] at [http://boardgamegeek.com/ BoardGameGeek]
+{{title|italics}}
+[[Category:Board games]]

@@ -1,0 +1,62 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Arthur_Rankin%2C_Jr.> a schema:WebPage ;
+    rdfs:label "Arthur Rankin, Jr."@en ;
+    schema:about <http://localhost:8000/resource/Arthur_Rankin%2C_Jr.> .
+
+<http://localhost:8000/page/Peter_Jackson> a schema:WebPage ;
+    rdfs:label "Peter Jackson"@en ;
+    schema:about <http://localhost:8000/resource/Peter_Jackson> .
+
+<http://localhost:8000/page/Ralph_Bakshi> a schema:WebPage ;
+    rdfs:label "Ralph Bakshi"@en ;
+    schema:about <http://localhost:8000/resource/Ralph_Bakshi> .
+
+<http://localhost:8000/resource/Arthur_Rankin%2C_Jr.> a schema:Person ;
+    tg:awards <http://localhost:8000/resource/1977_-_%27%27wikipedia%3APeabody_Award> ;
+    tg:children "2"@en ;
+    tg:image "Arthur Rankin, Jr..jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0710230/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/director> ;
+    tg:lifetime "July 19, 1924 - January 30, 2014"@en ;
+    tg:name "Arthur Rankin, Jr."@en ;
+    tg:nationality "American"@en ;
+    tg:notable_collaborators <http://localhost:8000/resource/Jules_Bass> ;
+    tg:notable_films <http://localhost:8000/resource/%27%27The_Hobbit_%281977_film%29> ;
+    tg:occupation "Director, Producer, Writer"@en ;
+    tg:production_company <http://localhost:8000/resource/Rankin/Bass> ;
+    tg:spouse "Elizabeth Shuldiner (divorced)<br>Olga Karlatos"@en ;
+    tg:years_active "1940s–1999"@en .
+
+<http://localhost:8000/resource/Peter_Jackson> a schema:Person ;
+    tg:caption "Jackson at 2014's San Diego Comic Con International"@en ;
+    tg:children <http://localhost:8000/resource/Katie_Jackson%3Cbr%3EBilly_Jackson> ;
+    tg:image "Peter Jackson 2014.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0001392/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/director> ;
+    tg:lifetime "31 October 1961"@en ;
+    tg:name "Peter Jackson"@en ;
+    tg:nationality "Kiwi"@en ;
+    tg:notable_collaborators <http://localhost:8000/resource/Fran_Walsh> ;
+    tg:notable_films <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:occupation "Director<br>Writer<br>Producer"@en ;
+    tg:spouse <http://localhost:8000/resource/Fran_Walsh> ;
+    tg:years_active "1976-present"@en .
+
+<http://localhost:8000/resource/Ralph_Bakshi> a schema:Person ;
+    tg:children "4"@en ;
+    tg:image "Ralph Bakshi.jpeg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0000835/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/director> ;
+    tg:lifetime "October 29, 1938"@en ;
+    tg:name "Ralph Bakshi"@en ;
+    tg:nationality "American"@en ;
+    tg:notable_films <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings_%281978_film%29> ;
+    tg:occupation "Director"@en ;
+    tg:production_company "Bakshi Productions, Inc."@en ;
+    tg:spouse "Elaine Bakshi<br>Elisabeth \"Liz\" Bakshi"@en ;
+    tg:website "https://www.bakshistudio.com/"@en ;
+    tg:years_active "1956–2015 (director)"@en .
+

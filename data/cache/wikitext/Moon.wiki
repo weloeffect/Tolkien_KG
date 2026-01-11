@@ -1,0 +1,119 @@
+{{object infobox
+| name=Moon
+| image = Lady Elleth - Tilion.png
+| caption="Tilion" by [[:Category:Images by Lady Elleth|Lady Elleth]]
+| pronun=
+| othernames=[[Moon#Other names|See below]]
+| location=[[Ilmen]] in [[Eä]]
+| owner=[[Tilion]]
+| type=Source of light
+| appearance=
+| creator=[[Aulë]]
+| created={{YT|1500}}, [[First Age]]
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+| gallery=the Moon
+}}
+<center>{{quote|The round Moon rolled behind the hill,<br>as the Sun raised up her head.<br>She hardly believed her fiery eyes;<br>For though it was day, to her surprise<br>they all went back to bed!|''[[The Man in the Moon Stayed Up Too Late]]''}}</center>
+
+'''Ithil''', the '''Moon''', is a celestial object seen in the skies of [[Arda]] at night.
+
+==History==
+[[File:Elena Kukanova - Varda and creation of Isil.jpg|thumb|left|''Varda and creation of Isil'' by Elena Kukanova]]
+After the [[Darkening of Valinor]] and the destruction of the [[Two Trees of Valinor|Two Trees]], [[Telperion]], the White Tree, bore one last Flower of Silver before its end. According to the lore of the [[Elder Days]], [[Aulë]] and his people made a vessel to carry to the silver flower aloft, and [[Tilion]], one of the hunters of [[Oromë]], was granted the task of steering the new Moon through the sky.<ref name="Sil">Of {{HM|S}}, [[Of the Sun and Moon and the Hiding of Valinor]]</ref>
+
+Tilion guided his charge up into the western skies just as [[Fingolfin]] and his people were crosssing [[Helcaraxë]], helping them to illuminate their hard way to [[Middle-earth]], and so the end of the [[Darkening of Valinor|Long Night]] and the ages of the [[Stars]] was marked. After seven lunar "days" the [[Sun]] also rose. The Moon first rose above [[Valinor]] in the far West of the World, but [[Varda]] came to change this arrangement, so that the Moon would pass beneath the World, and arise in the east instead, as it does to this day. Even as the Moon rose above the darkness in the west, Fingolfin's host blew silver trumpets and began its march into Middle-earth, and the shadows of the Noldor went long and black before them.<ref name="Sil" />
+[[File:Darryl Elliott - Moon.jpg|thumb|''Moon'' by Darryl Elliott]]
+According to the legends of the [[Elves]], Tilion was an unsteady steersman, sometimes dwelling overlong beneath the Earth, or appearing in the sky at the same time as the Sun. He was drawn to the bright new Sun, launched from Valinor shortly after his own vessel,<ref name="Sil" /> and his coming too close to his fiery companion was said to account for the darkening of the Moon's face.
+
+According to a tradition,<ref>{{HM|SM}}</ref><ref>{{HM|LR}}</ref> Melkor will discover how to break the [[Door of Night]], and will destroy both the Sun and the Moon.
+
+==Lore of the Moon==
+===Númenóreans===
+For the Númenóreans, the [[Sun]] and the '''Moon''' - ''Ûri'' and ''Nîlû'', called collectively also ''Ûriyat'' ("two suns") or ''Ûrinîl(uw)at'' ("two sun-moon") - were personified entities, the [[Man in the Moon]] and the [[Lady of the Sun]].<ref name="Drowning">[[J.R.R. Tolkien]], [[Christopher Tolkien]] (ed.), ''[[Sauron Defeated]]'', "[[The Drowning of Anadûnê]]"</ref> They were the chief heavenly lights, and the enemies of the eternal Dark.<ref name="L347">[[J.R.R. Tolkien]], [[Humphrey Carpenter]], [[Christopher Tolkien]] (eds.), ''[[The Letters of J.R.R. Tolkien]]'', [[Letter 347]] (dated [[17 December|December 17]], [[1972]])</ref>
+
+This notion was carried over to [[Gondor]], where the sons of [[Elendil]] each had either of the lights in his name: [[Isildur]] and [[Anárion]], and with them their cities [[Minas Ithil]] and [[Minas Anor]], and the lands that lay about them, [[Ithilien]] and [[Anórien]].<ref name="L347" />
+
+===Hobbits===
+[[File:Gail McIntosh - New Moon.jpg|thumb|''New Moon'' by [[:Category:Images by Gail McIntosh|Gail McIntosh]]]]
+When the [[Hobbits]] were still a [[Wandering Days|wandering]] people, their calendric unit was not a "week", but a "month", governed more or less by the Moon. However, through contact with alien peoples (perhaps the [[Dúnedain of Arnor]]), they adopted the notion of weeks which formed the [[Shire Reckoning]].<ref>{{HM|AD}}, p. 1110</ref>
+
+In Hobbit folklore, the moon was imagined to be inhabited by the [[Man in the Moon]].<ref name="Man">[[J.R.R. Tolkien]], ''[[The Adventures of Tom Bombadil]]'', "[[The Man in the Moon Stayed Up Too Late]]"</ref>
+
+===Dwarves===
+The [[Dwarves]] based their calendar on the Moon. The Dwarven year began with the first day of the last moon of Autumn on the threshold of Winter.<ref>{{H|Rest}}</ref> However it seems that by the late [[Third Age]] the Dwarves adopted the [[Stewards' Reckoning]],<ref>{{App|D}}</ref> and few had the skill to calculate the [[Durin's Day]].
+
+==Other names==
+*'''''Isil''''': a ([[Quenya|Q]], pron. {{IPA|[ˈisil]}}) or '''Iþil''' ([[Vanyarin|VQ]], pron. {{IPA|[ˈiθil]}}) was a name given to the Moon in [[Quenya]] by the [[Vanyar]].  It is said to mean "the Sheen".<ref name="Sil" />
+*'''''Rána''''': although the name given to the Moon in [[Valinor]] was Isil, the [[Noldor]] preferred a name of their own, ''Rána'', the Wayward.<ref>{{S|Sun}}</ref> ''Rána'' (or ''Rana''), meaning "The Wanderer"<ref>{{S|Index}}</ref> or "the wayward",<ref>{{MR|P2p}}, p. 130</ref> is a [[Quenya]] word derived from the [[Common Eldarin]] [[Sundocarme|root]] [[RAN]] ("wander, stray, meander").<ref name="VT">{{VT|42a}}, p. 13</ref> In the ''[[The Etymologies|Etymologies]]'' appears the [[Qenya]] form ''Rana'', and [[Noldorin]] ''Rhân''. Both are descendant forms of [[Primitive Quendian]] ''Ranā'' ("Moon").<ref>{{LR|Etymologies}}, p. 383 (entry RAN-)</ref>
+*'''''Ithil''''': a [[Sindarin]] word meaning "the moon" or "(full) moon".<ref>{{HM|UI}}, p. 232  form: ''ithil''</ref><ref>{{PE|17}}, pp. 30, 39, 121 (form: ''Ithil''</ref> The word can be found in ''[[Minas Ithil]]'', ''[[Ithilien#Etymology|Ithilien]]'', and ''[[Ithildin#Etymology|ithildin]]''. In the ''[[The Etymologies|Etymologies]]'', [[Noldorin]] ''Ithil'' ("(poetic name of the) Moon") derives from the [[Sundocarme|roots]] THIL/SIL.<ref>{{LR|Etymologies}}, pp. 361, 385, 392 (entries I-, SIL- and THIL-)</ref>
+*'''''Elfaron''''': Meaning "Star-hunter" being a coumpound of [[EL]] and PHAR.<ref>{{LR|Etymologies}} (entry PHAR)</ref>
+*'''''Phanaikelūth''''': The oldest recorded name of the Moon was its [[Valarin]] name, ''Phanaikelūth''. This was said to mean "bright mirror";<ref name="QaE">{{WJ|Quendi}}, p. 401</ref> making it the only name to accurately describe the origin of moonlight.
+*[[Gollum]] referred to the Moon as ''The White Face''.<ref>{{TT|IV1}}; {{TT|IV2}}; {{TT|IV6}}. Cfr. "Yellow Face" ([[Sun#Names of the Sun|the Sun]] by Gollum).</ref>
+*The full moon of mid-[[November]] was referred as the '''[[Wikipedia:Hunter's moon|Hunter's Moon]]'''.<ref>{{FR|II3}}</ref>
+
+==Other versions of the legendarium==
+===Early concepts===
+In the early versions of the [[legendarium]] as described in ''[[The Book of Lost Tales Part One]]'', the Moon was described in great detail as an immense island of crystal (''vírin'').<ref name="LT1VIII">{{LT1|VIII}}</ref> The spots on the Moon were also explained by telling that the Rose of [[Silpion]] fell because [[Irmo|Lórien]] did not want to pick it from the Tree.<ref name="LT1VIII" />
+
+The phases of the Moon were explained that: first, like the earlier Silpion, the Rose needed to be watered with its shining dew and created it in greater quantities, and the heavy dew had to be removed; second, the Moon had to stay within the lower layers of [[Ilwë]] and the winds made it wobble.<ref name="LT1VIII" />
+
+[[Silmo]] wanted to steer the Moon but could not do it, so [[Manwë]] appointed [[Ilinsor]], who was joined by other air spirits. The [[Man in the Moon]] is described in those writings as being an old Elf who secretly hid on the island of the Moon, and built his minaret there.<ref name="LT1VIII" /> This is alluded to further in Tolkien's ''[[Roverandom]]'', where the Man in the Moon also lives in a Minaret.
+
+Other Elvish names in this fase were:
+*'''''Celebron''''': [[Gnomish]] name for "Moon".<ref name="Telimpe">{{LT1|Appendix}}, entry "Telimpë"</ref>
+*'''''Crithosceleg''''': Gnomish name meaning "disc of glass".<ref name=":0">{{LT1|VIII}}, p. 192</ref>
+*'''''Gilthalont''''': unclear [[Gnomish]] name with the elemnent ''giltha'' ("white metal").<ref name="Ilsalunte" />
+*'''''Ilsaluntë''''': [[Qenya]] name meaning "silver boat".<ref name="Ilsalunte">{{LT1|Appendix}}, entry "Ilsaluntë"</ref>
+*'''''Minethlos''''': Gnomish name meaning "argent isle".<ref name=":0" />
+*'''''Rána''''': Qenya name for "Moon" used by the Gods.<ref name=":0" />
+*'''''Sil''''': Qenya name for "Moon" used by the fairies, literally "Rose".<ref name="Silindril">{{LT1|Appendix}}, entry "Silindril"</ref>
+*'''''Silindril''''': Qenya name meaning "Moon-cauldron".<ref name="Silindril" />
+
+===Later concepts===
+In the [[Round World version of the Silmarillion|Round World]] version of the legendarium, the Sun and the Moon were not the fruit of the Two Trees, but actually preceded the creation of the Trees. Instead, the Trees preserved the light of the Sun before it was tainted by Melkor when he ravished [[Arien]].
+
+==Inspirations==
+===Gender===
+[[File:Mani and Sol.jpg|thumb|A depiction of the Norse god Máni and the goddess Sól (Lorenz Frølich, 1895) who could be the inspirations of Tilion and [[Arien]]]]
+The fact that the Moon in Tolkien's legendarium is connected to a male entity or person (like Tilion or the Man in the Moon), is obviously derived from the Germanic mythology of which Tolkien was an expert; for example the Old Norse [[Wikipedia:Máni|Máni]] is a male lunar god and [[Wikipedia:Sól|Sól]] is a female solar goddess.
+
+On the contrary, other mythologies of the world had connected the Moon with the feminine, like the Græco-Roman deities [[Wikipedia:Luna|Luna]], [[Wikipedia:Selene|Selene]], [[Wikipedia:Hecate|Hecate]] and others. 
+
+The gender of the celestial deity is mirrored also in the gender of the noun for "Moon" in these languages (eg. French ''la Lune'' but German ''der Mond''). This was also perhaps the case with some of the [[languages]] of [[Arda]] ([[Ghân-buri-ghân]] refers to the Sun as a woman).
+
+:''See also [[Sun#Inspiration|Sun: Inspiration]]''
+
+===Phases===
+{{quote|...my moons in the crucial days between Frodo's flight and the present situation (arrival at Minas Morghul) were doing impossible things, rising in one pan of the country and setting simultaneously in another.|[[J.R.R. Tolkien]]'s letter to [[Christopher Tolkien]], [[24 April]] [[1944]]<ref>{{L|69}}, p. 80</ref>}}
+Tolkien was very careful in the moon phases described in his works, so that they fit the passing of days realistically. Tolkien was remodelling the phases while reviewing the book in [[1944]] so that he preserves the consistency. The moon phases described in ''[[The Lord of the Rings]]'' correspond to the phases of years [[1941]]-[[1942|2]] and it is probable that he used a recent calendar for reference.<ref>http://shire-reckoning.com/moon.html</ref> Unfortunately, some minor errors (that can be detected only after thorough measurement and astronomical knowledge) slipped his attention (for example cf. [[22 September|September 22]])
+
+===Calendar===
+The mention that Hobbits and Dwarves based their year and months on the Moon, mirrors the [[Wikipedia:lunar calendar|lunar calendar]] used by several ancient cultures through history, such as the Hebrews. The observation of the Moon phases formed the months; the words are even related etymologically in some languages (cf. the English words "Moon" and "month").
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Fellowship of the Ring (video game) - Legolas firing an arrow.JPG|200px|thumb|The Moon in [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]]]
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:The moon appears in the background of various scenes. In a notable animation error, it is visible behind both [[Frodo Baggins|Frodo]] and [[Boromir]] when the latter tries to persuade Frodo to give the Ring at [[Amon Hen]].<ref>''[http://www.imdb.com/title/tt0077869/goofs Goofs]'', [http://www.imdb.com/ IMDb.com]</ref>
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:The Moon - or rather, an image of the near side of the moon in the plenilune - is used as a backdrop for scenes playing at night, and appears recognizably in the sky in cut scenes. It appears behind [[Aragorn|Strider]] as he finds [[Meriadoc Brandybuck|Merry]] in the streets of Bree,<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], "Bree"</ref> behind the [[Watcher in the Water]],<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], "Hollin Gate"</ref> and behind the [[fell beast]] in the final cut scene.<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], "Amon Hen"</ref>
+
+==In other stories==
+The moon is an important location in [[J.R.R. Tolkien|Tolkien]]'s children's story ''[[Roverandom]]''. After being turned into a toy dog, the wizard [[Psamathos Psamathides]] summons his postman [[Mew]] (a seagull) to take [[Rover]] to the moon to see the [[Man-in-the-Moon]].<ref>{{HM|R}}, p. 17</ref> One side of the moon is white with a dark sky and tall mountains, whilst the dark side of the moon is dark with a light sky and deep valleys.<ref name="Roverandom">{{HM|R}}, p. 40</ref> Although home to spiders, the main enemy on the moon is the White Dragon (later renamed the Mottled Monster).<ref>{{HM|R}}, pp. 34-36</ref>
+
+==See also==
+*[[Man in the Moon]]
+
+==External links==
+*[http://shire-reckoning.com/moon.html The Moon phases in the Lord of the Rings]
+{{references}}
+{{cosmology}}
+[[Category:Cosmology]]
+[[Category:Creations of the Valar]]
+[[Category:Roverandom]]
+[[de:Mond]]
+[[fi:Kuu]]

@@ -1,0 +1,569 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/J.R.R._Tolkien_Centenary_Conference> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien Centenary Conference"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien_Centenary_Conference> .
+
+<http://localhost:8000/page/Mythcon_1> a schema:WebPage ;
+    rdfs:label "Mythcon 1"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_1> .
+
+<http://localhost:8000/page/Mythcon_2> a schema:WebPage ;
+    rdfs:label "Mythcon 2"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_2> .
+
+<http://localhost:8000/page/Mythcon_3> a schema:WebPage ;
+    rdfs:label "Mythcon 3"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_3> .
+
+<http://localhost:8000/page/Mythcon_4> a schema:WebPage ;
+    rdfs:label "Mythcon 4"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_4> .
+
+<http://localhost:8000/page/Mythcon_5> a schema:WebPage ;
+    rdfs:label "Mythcon 5"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_5> .
+
+<http://localhost:8000/page/Mythcon_6> a schema:WebPage ;
+    rdfs:label "Mythcon 6"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_6> .
+
+<http://localhost:8000/page/Mythcon_7> a schema:WebPage ;
+    rdfs:label "Mythcon 7"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_7> .
+
+<http://localhost:8000/page/Mythcon_8> a schema:WebPage ;
+    rdfs:label "Mythcon 8"@en ;
+    schema:about <http://localhost:8000/resource/Mythcon_8> .
+
+<http://localhost:8000/page/Oxonmoot_1974> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1974"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1974> .
+
+<http://localhost:8000/page/Oxonmoot_1975> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1975"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1975> .
+
+<http://localhost:8000/page/Oxonmoot_1976> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1976"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1976> .
+
+<http://localhost:8000/page/Oxonmoot_1977> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1977"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1977> .
+
+<http://localhost:8000/page/Oxonmoot_1978> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1978"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1978> .
+
+<http://localhost:8000/page/Oxonmoot_1979> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1979"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1979> .
+
+<http://localhost:8000/page/Oxonmoot_1980> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1980"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1980> .
+
+<http://localhost:8000/page/Oxonmoot_1981> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1981"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1981> .
+
+<http://localhost:8000/page/Oxonmoot_1982> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1982"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1982> .
+
+<http://localhost:8000/page/Oxonmoot_1983> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1983"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1983> .
+
+<http://localhost:8000/page/Oxonmoot_1984> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1984"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1984> .
+
+<http://localhost:8000/page/Oxonmoot_1985> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1985"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1985> .
+
+<http://localhost:8000/page/Oxonmoot_1986> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1986"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1986> .
+
+<http://localhost:8000/page/Oxonmoot_1987> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1987"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1987> .
+
+<http://localhost:8000/page/Oxonmoot_1988> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1988"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1988> .
+
+<http://localhost:8000/page/Oxonmoot_1989> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1989"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1989> .
+
+<http://localhost:8000/page/Oxonmoot_1990> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1990"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1990> .
+
+<http://localhost:8000/page/Oxonmoot_1991> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1991"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1991> .
+
+<http://localhost:8000/page/Oxonmoot_1993> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1993"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1993> .
+
+<http://localhost:8000/page/Oxonmoot_1994> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1994"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1994> .
+
+<http://localhost:8000/page/Oxonmoot_1995> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1995"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1995> .
+
+<http://localhost:8000/page/Oxonmoot_1996> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1996"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1996> .
+
+<http://localhost:8000/page/Oxonmoot_1997> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1997"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1997> .
+
+<http://localhost:8000/page/Oxonmoot_1998> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1998"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1998> .
+
+<http://localhost:8000/page/Oxonmoot_1999> a schema:WebPage ;
+    rdfs:label "Oxonmoot 1999"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_1999> .
+
+<http://localhost:8000/page/Oxonmoot_2000> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2000"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2000> .
+
+<http://localhost:8000/page/Oxonmoot_2001> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2001"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2001> .
+
+<http://localhost:8000/page/Oxonmoot_2002> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2002"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2002> .
+
+<http://localhost:8000/page/Oxonmoot_2003> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2003"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2003> .
+
+<http://localhost:8000/page/Oxonmoot_2004> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2004"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2004> .
+
+<http://localhost:8000/page/Oxonmoot_2005> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2005"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2005> .
+
+<http://localhost:8000/page/Oxonmoot_2006> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2006"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2006> .
+
+<http://localhost:8000/page/Oxonmoot_2007> a schema:WebPage ;
+    rdfs:label "Oxonmoot 2007"@en ;
+    schema:about <http://localhost:8000/resource/Oxonmoot_2007> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2001> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2001"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2001> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2002> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2002"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2002> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2003> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2003"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2003> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2004> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2004"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2004> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2005> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2005"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2005> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2006> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2006"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2006> .
+
+<http://localhost:8000/page/San_Diego_Comic-Con_2007> a schema:WebPage ;
+    rdfs:label "San Diego Comic-Con 2007"@en ;
+    schema:about <http://localhost:8000/resource/San_Diego_Comic-Con_2007> .
+
+<http://localhost:8000/page/Tolkien_2005> a schema:WebPage ;
+    rdfs:label "Tolkien 2005"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_2005> .
+
+<http://localhost:8000/resource/J.R.R._Tolkien_Centenary_Conference> a schema:Thing ;
+    tg:dates "16-24 August 1992"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AKeble_College%2C_Oxford> ;
+    tg:next <http://localhost:8000/resource/Oxonmoot_1993%2C_Mythcon_24> ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:previous <http://localhost:8000/resource/Oxonmoot_1991%2C_Mythcon_22> ;
+    tg:title "Tolkien Centenary Conference"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1974> a schema:Thing ;
+    tg:dates "September 13th-15th, 1974"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Welsh Poney, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1974"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1975> a schema:Thing ;
+    tg:dates "September 5th-7th, 1975"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Welsh Poney, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1975"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1976> a schema:Thing ;
+    tg:dates "October 1st-3rd, 1976"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Welsh Poney, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1976"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1977> a schema:Thing ;
+    tg:dates "September 23rd-25th, 1977"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Welsh Poney, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1977"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1978> a schema:Thing ;
+    tg:dates "September 22nd-24th, 1978"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1978"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1979> a schema:Thing ;
+    tg:dates "September 28th-30th, 1979"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Eastgate Hotel, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1979"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1980> a schema:Thing ;
+    tg:dates "September 26th-28th, 1980"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Turf Tavern, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1980"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1981> a schema:Thing ;
+    tg:dates "September 25th-27th, 1981"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "The Turf Tavern, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1988"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1982> a schema:Thing ;
+    tg:dates "September 24th-26th, 1982"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Cotswold Lodge Hotel, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1982"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1983> a schema:Thing ;
+    tg:dates "September 23rd-25th, 1983"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1984"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1984> a schema:Thing ;
+    tg:dates "October 5th-7th, 1984"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1984"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1985> a schema:Thing ;
+    tg:dates "September 27th-29th, 1985"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1985"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1986> a schema:Thing ;
+    tg:dates "September 19th-21st, 1986"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1986"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1987> a schema:Thing ;
+    tg:dates "September 25th-27th, 1987"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1987"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1988> a schema:Thing ;
+    tg:dates "September 23rd-25th, 1988"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1988"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1989> a schema:Thing ;
+    tg:dates "September 22nd-24th, 1989"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1989"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1990> a schema:Thing ;
+    tg:dates "September 21st-24th, 1990"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Oxford Town Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1990"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1991> a schema:Thing ;
+    tg:dates "September 20th-22nd, 1991"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "University College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1991"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1993> a schema:Thing ;
+    tg:dates "September 17th-19th, 1993"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "University College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1993"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1994> a schema:Thing ;
+    tg:dates "September 16h-18th, 1994"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "University College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1994"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1995> a schema:Thing ;
+    tg:dates "September 15th-17th, 1995"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "University College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1995"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1996> a schema:Thing ;
+    tg:dates "September 20th-22nd, 1996"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "University College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1996"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1997> a schema:Thing ;
+    tg:dates "September 19th-21st, 1997"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Exeter College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1997"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1998> a schema:Thing ;
+    tg:dates "September 25th-27th, 1998"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Exeter College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1998"@en .
+
+<http://localhost:8000/resource/Oxonmoot_1999> a schema:Thing ;
+    tg:dates "September 24th-26th, 1999"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Exeter College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 1999"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2000> a schema:Thing ;
+    tg:dates "September 22nd-24th, 2000"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "St Antonys College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2000"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2001> a schema:Thing ;
+    tg:dates "September 21st-23rd, 2001"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "St Antonys College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2001"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2002> a schema:Thing ;
+    tg:dates "September 13th-15th, 2002"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "St Antonys College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2002"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2003> a schema:Thing ;
+    tg:dates "September 18th-21st, 2003"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "St Hugh's College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2003"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2004> a schema:Thing ;
+    tg:dates "September 17th-19th, 2004"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "St. Hilda's College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2004"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2005> a schema:Thing ;
+    tg:attendees "120"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "St Peter's College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2005"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2006> a schema:Thing ;
+    tg:attendees "210"@en ;
+    tg:dates "September 15th-17th 2006"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Somerville College, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2006"@en .
+
+<http://localhost:8000/resource/Oxonmoot_2007> a schema:Thing ;
+    tg:dates "September 14th-16th 2007"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Lady Margaret Hall, Oxford"@en ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:title "Oxonmoot 2007"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2001> a schema:Thing ;
+    tg:dates "2001"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2001"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2002> a schema:Thing ;
+    tg:dates "2002"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2002"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2003> a schema:Thing ;
+    tg:dates "2003"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2003"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2004> a schema:Thing ;
+    tg:dates "2004"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2004"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2005> a schema:Thing ;
+    tg:dates "2005"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2005"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2006> a schema:Thing ;
+    tg:dates "2006"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2006"@en .
+
+<http://localhost:8000/resource/San_Diego_Comic-Con_2007> a schema:Thing ;
+    tg:dates "July 26th-29th, 2007"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "San Diego Convention Center"@en ;
+    tg:title "Comic-Con 2007"@en .
+
+<http://localhost:8000/resource/Tolkien_2005> a schema:Thing ;
+    tg:attendees <http://localhost:8000/resource/c._750%3Cref_name%3D%22Souvenir%22%3EThe_Tolkien_Society%2C_%27%27Tolkien_2005_Souvenir_Book%27%27%2C_pp._19_%26_22%3C/ref%3E> ;
+    tg:dates <http://localhost:8000/resource/11_August> ;
+    tg:image "Tolkien2005.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AAston_University> ;
+    tg:next <http://localhost:8000/resource/Mythcon_37> ;
+    tg:organizer <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_35> ;
+    tg:title "Tolkien 2005: The Ring Goes Ever On"@en .
+
+<http://localhost:8000/resource/Mythcon_1> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/4-7_September_1970> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Harvey Mudd College, Claremont, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_2> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:title "Mythcon 1"@en .
+
+<http://localhost:8000/resource/Mythcon_8> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/26-29_August_1977> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "University of California-San Diego, La Jolla, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_9> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_7> ;
+    tg:title "Mythcon 8"@en .
+
+<http://localhost:8000/resource/Mythcon_2> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/3-6_September%2C_1971> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Francisco Torres Conference Center, Santa Barbara, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_3> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_1> ;
+    tg:title "Mythcon 2"@en .
+
+<http://localhost:8000/resource/Mythcon_3> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/30_June_-_4_July_1972> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Edgewater Hyatt House, Long Beach, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_4> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_2> ;
+    tg:title "Mythcon 3"@en .
+
+<http://localhost:8000/resource/Mythcon_4> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/17-20_August_1973> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Francisco Torres Conference Center, Santa Barbara, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_5> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_3> ;
+    tg:title "Mythcon 4"@en .
+
+<http://localhost:8000/resource/Mythcon_5> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/23-26_August_1974> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Scripps College, Claremont, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_6> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_4> ;
+    tg:title "Mythcon 5"@en .
+
+<http://localhost:8000/resource/Mythcon_6> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/15-18_August_1975> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Scripps College, Claremont, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_7> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_5> ;
+    tg:title "Mythcon 6"@en .
+
+<http://localhost:8000/resource/Mythcon_7> a schema:Thing ;
+    tg:dates <http://localhost:8000/resource/13-16_August_1976> ;
+    tg:infoboxTemplate <http://localhost:8000/template/convention> ;
+    tg:location "Westbridge Conference Center, Sacramento, California"@en ;
+    tg:next <http://localhost:8000/resource/Mythcon_8> ;
+    tg:organizer <http://localhost:8000/resource/Mythopoeic_Society> ;
+    tg:previous <http://localhost:8000/resource/Mythcon_6> ;
+    tg:title "Mythcon 7"@en .
+

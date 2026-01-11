@@ -1,0 +1,121 @@
+{{incomplete}}
+{{episode infobox
+| name = Halls of Stone
+| image =
+| caption =
+| director = [[Louise Hooper]]<br/>[[Sanaa Hamri]]
+| writer = [[Nicholas Adams]]
+| screenplay =
+| basedon =
+| producer =
+| starring =
+| narrator =
+| cinematography =
+| editing =
+| music = [[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator =
+| studio = [[Amazon Studios]]
+| distributor =
+| released = [[12 September]] [[2024]]
+| runtime = 65 minutes
+| country =
+| language =
+| budget =
+| gross =
+| website =
+| imdb_id = 27580494
+| previous = [[Eldest (episode)|Eldest]]
+| next = [[Where Is He?]]
+}}
+
+{{Quote|When [[Durin IV|Durin]] grows suspicious of the [[Seven Rings|Dwarven Rings]], [[Celebrimbor]] must reassess his priorities. Amidst [[Númenor]]'s shifting currents, [[Elendil]] searches for hope.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Halls of Stone''' is the thirteenth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the fifth episode of the second season and it was released on [[12 September|September 12]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Owain Arthur]] || [[Durin IV|Prince Durin IV]]
+|-
+| [[Sophia Nomvete]] || [[Disa|Princess Disa]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Trystan Gravelle]] || [[Ar-Pharazôn]]
+|-
+| [[Cynthia Addai-Robinson]] || [[Míriel|Queen Regent Míriel]]
+|-
+| [[Lloyd Owen]] || [[Elendil|Captain Elendil]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High King Gil-galad]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Kevin Eldon]] || [[Narvi]]
+|-
+| [[Amelia Kenworthy]] || [[Mirdania]]
+|-
+| [[Leon Wadham]] || [[Kemen]]
+|-
+| [[Ema Horvath]] || [[Eärien]]
+|-
+| [[Alex Tarrant]] || [[Valandil (The Rings of Power)|Valandil]]
+|-
+| [[Calam Lynch]] || [[Camnir]]
+|-
+| [[Sam Hazeldine]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Rachel Payne]] || [[Brenna]]
+|-
+| [[Laura Jane Matthewson]] || [[Revna]]
+|-
+| [[Omar Ibrahim]] || [[Númenóreans|Númenor Guard]]
+|-
+| [[Jeany Spark]] || [[Commander of the South]]
+|-
+| [[Selina Lo]] || [[Rían (Selina Lo)|Rían]]
+|-
+| [[Charlie Rix]] || [[Vorohil]]
+|-
+| [[Conor McLeod]] || [[Dwarves|Geode Dwarf]]
+|-
+| [[Adam Woolley]] || [[Elves of Eregion|Eregion Elf Soldier]]
+|-
+| [[William Chubb]] || [[High Priest]]
+|-
+| [[Sam Parks]] || [[Faithful|Old Faithful Man]]
+|-
+| [[Kai Martin]] || [[Zhor]]
+|-
+| [[Robert Strange]] || [[Glûg]]
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|12]]

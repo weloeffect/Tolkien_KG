@@ -1,0 +1,24 @@
+{{stub}}
+{{book
+| title=The Soddit:<br />Or, Let's Cash in Again
+| image = The Soddit.jpg
+| author=[[A.R.R.R. Roberts]]
+| publisher=Gollancz
+| date=[[28 March|March 28]], [[2005]]
+| format=Paperback
+| pages=352
+| isbn=0575075910
+}}
+
+'''''The Soddit''''' is a satirical novel by [[Adam Roberts]] based on [[J.R.R. Tolkien]]'s ''[[The Hobbit]]''.
+
+==From the publisher==
+
+{{blockquote|Bingo Sac Grabbins is asked by the coughing wizard Gandef and some (oddly Welsh) dwarves to help them relieve the great dragon Smug of his gold. SF author and Tolkien scholar Adam Roberts has written a parody that is both hilarious and intelligent. With knowing digs at the fantasy genre in general and the mystique that has built around Middle Earth in particular this will make Tolkien's 21st century readers laugh in a way that BORED OF THE RINGS made his fans of 1969 laugh.}}
+
+{{DEFAULTSORT:Soddit}}
+{{title|italics}}
+[[Category:Comedy books]]
+[[Category:The Hobbit]]
+[[Category:Publications by title]]
+[[de:Der kleine Hobbnix]]

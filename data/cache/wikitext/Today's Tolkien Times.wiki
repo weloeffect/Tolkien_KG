@@ -1,0 +1,29 @@
+{{website
+| name=Today's Tolkien Times
+| image = Today's Tolkien Times logo.webp
+| URL=https://tolkientimes.com
+| slogan=A daily podcast about the Middle-earth legendarium of J.R.R. Tolkien
+| alexa=
+| commercial=
+| revenue=
+| type=Podcast
+| language=English
+| license=
+| articlecount=
+| registration=
+| owner=
+| creator=Alan Sisto
+| keypeople=
+| launch=May [[2023]]
+| status=Active
+}}
+'''Today's Tolkien Times''' is a video podcast launched in May [[2023]] and hosted by [[Alan Sisto]], who is also the host of [[The Prancing Pony Podcast]].
+
+==See also==
+* [[List of Tolkien-related podcasts]]
+
+==External links==
+* [https://tolkientimes.com/ Official website]
+
+[[Category:Podcasts]]
+[[Category:Websites]]

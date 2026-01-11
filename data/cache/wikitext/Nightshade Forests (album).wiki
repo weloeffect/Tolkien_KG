@@ -1,0 +1,21 @@
+{{album
+| title=Nightshade Forests
+| image=
+| type=EP
+| artist=[[Summoning]]
+| released=[[3 June]] [[1997]]
+| recorded=
+| genre=Black metal
+| length=33:44
+| language=English
+| label=Napalm Records
+}}
+'''''Nightshade Forests''''' is the first EP by [[Summoning]], released in [[1997]]. It consists of four songs left over from the [[Dol Guldur (album)|Dol Guldur]] sessions in [[1996]].
+==Track listing==
+# Mirkwood - 9:45
+# Kortirion Among the Trees - 8:51
+# Flesh and Blood - 7:55
+# Habbanan Beneath the Stars – 7:13
+
+{{title|italics}}
+[[Category:Albums]]

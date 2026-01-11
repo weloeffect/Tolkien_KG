@@ -1,0 +1,53 @@
+{{Infoboxes
+|label1 = Hardcover
+|content1 = {{book
+| title=Middle-earth Role Playing Second Edition: Collector's Edition
+| image = Middle-earth Role Playing (2nd edition, hardcover).jpg
+| author=[[S. Coleman Charlton]]
+| illustrator=[[Angus McBride]] (cover)
+| isbn=1-55806-190-8 
+| publisher=[[Iron Crown Enterprises]]
+| date=[[1993]]
+| format=Hardcover
+| pages=272
+| ice=2000
+}}
+|label2 = Softcover
+|content2 = {{book
+| title=Middle-earth Role Playing Second Edition
+| image = Middle-earth Role Playing (2nd edition, softcover).jpg
+| author=S. Coleman Charlton
+| illustrator=[[Angus McBride]] (cover)
+| isbn=1-55806-191-6 
+| publisher=[[Iron Crown Enterprises]]
+| date=1993
+| format=Softcover
+| pages=272
+| ice=2001
+}}
+}}
+'''''Middle-earth Role Playing''''' '''(2nd edition)''' contains the basic rules and system for ''[[Middle-earth Role Playing]]'', 2nd Edition. It was released both in a hardcover collector's edition and a regular softcover edition.
+
+== Cover/Jacket Text == 
+
+The Fantasy Role Playing Game set in J.R.R. Tolkien's World
+
+''" Their eyes fell on him and pierced him, as they rushed towards him. Desperate, he drew his own sword and it seemed to him that it flickered red, as if it was a firebrand. Two of the figures halted. The third was taller than the others... In one hand, he held a long sword, and in the other a knife; both the knife and the hand that held it glowed with a pale light. He sprang forward and bore down on Frodo."'' - The Fellowship of the Ring. 
+
+In a role playing game, you assume the role of a character in a "living novel. Middle-earth Role Playing (MERP) and its companion sourcebooks provide the structure and framework for role playing in the greatest fantasy setting of all time... J.R.R. Tolkien's Middle-earth. 
+
+Middle-earth Role Playing is the next step up for those who have already experienced the thrill of ICE's introductory role playing game, the Lord of the Rings Adventure Game. It is also perfect for more experienced gamers who are looking for a realistic, easy-to-play fantasy role playing game. 
+
+Middle-earth Role Playing, 2nd Edition includes: 
+*Middle-earth Character Templates for those who want interesting, fully developed characters in a flash. 
+*A complete Character Development System covering Hobbits, Elves, Dwarves, Humans, Orcs, Trolls, etc. 
+*A Magic System with simple yet comprehensive rules that reflect the unique nature of the use of magic and power in Middle-earth. 
+*A flavorful Combat System that is realistic, fast, and playable. 
+*Gamemaster Guidelines that cover travel, encounters, weather, random events, healing, poisons, magic items, and much more. 
+*Detailed information on Creatures and Peoples that covers the major beasts, monsters, and cultures of Middle-earth. 
+*An expanded set of secondary skills, background options, and professions. 
+*A complete Sample Adventure set in the Trollshaws, complete with layouts. 
+
+{{title|italics}}
+[[Category:MERP]]
+[[Category:Publications by title]]

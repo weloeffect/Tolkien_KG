@@ -1,0 +1,44 @@
+{{unnamed}}
+{{battle
+|name=First siege of Imladris
+|image=
+|conflict=[[War of the Elves and Sauron]]
+|date={{SA|1697}} - {{SA|1700}}
+|place=[[Imladris]]
+|result=Victory for the [[Elves]]
+*Siege lifted
+|side1=[[Elves of Eregion]]<br>[[Elves of Lindon]]
+|side2=Forces of [[Sauron]]
+|commanders1=
+[[Elrond]]
+|commanders2=
+[[Sauron]]
+|forces1=Unknown
+|forces2="a strong detachment" left behind by [[Sauron]]<ref name="Galadriel"/>
+|casual1=Unknown
+|casual2=Unknown
+}}
+The '''first siege of Imladris''' was a siege of [[Elrond]]'s refuge by [[Sauron]]'s forces during the [[War of the Elves and Sauron]] in the [[Second Age]].
+
+==Background==
+In {{SA|1200}} [[Sauron]] came to [[Eregion]] in disguise, claiming to be an emissary of the [[Valar]] sent to offer aid to the [[Eldar]]. Although rejected by [[Gil-galad]], he was able to win over [[Celebrimbor]] and the smiths of Eregion. The brotherhood of smiths, the [[Gwaith-i-Mírdain]], profited from his knowledge<ref name="Galadriel">{{UT|Concerning}}</ref> and around {{SA|1500|n}} they began forging the [[Rings of Power]], finishing them in {{SA|1590|n}}.<ref name="SA">{{App|SA}}</ref> Unbeknownst to them, Sauron (who had returned to [[Mordor]]) created a master [[One Ring|Ring]] to rule the others. However, Celebrimbor perceived the designs of Sauron and prevented the use of the [[Three Rings]].
+
+==History==
+===Prelude===
+{{main|Sack of Eregion}}
+Infuriated by Celebrimbor's defiance, Sauron led a host out of Mordor.<ref name="Galadriel"/> In {{SA|1695|n}} this army invaded [[Eriador]] from the south.<ref name="SA"/> Gil-galad sent out a force under the command of [[Elrond]] which joined with [[Celeborn]] in defence of Eregion, but they were unable to prevent Sauron from conquering the realm. Celebrimbor was captured and killed. Elrond too would have been overwhelmed but for an attack upon Sauron's force from the rear by [[Dwarves]] from [[Moria|Khazad-dûm]] and many [[Galadhrim]] led by [[Amroth]].<ref name="Galadriel">{{UT|Concerning}}</ref> Elrond gathered what remained of the [[Elves of Eregion]] and retreated northward.<ref name="Galadriel"/>
+
+===Siege===
+In {{SA|1697|n}} Elrond founded the refuge of [[Imladris]]. Sauron did not immediately pursue Elrond, turning his attention upon the [[Dwarves of Khazad-dûm]] and [[Elves of Lórinand]]. Once they were driven back into Khazad-dûm and the gates were shut, Sauron sought to overrun all of Eriador. While Sauron sent most of his army west to attack [[Lindon]], he had to leave a strong detachment behind to contain Elrond.<ref name="Galadriel"/>
+ 
+The siege lasted until {{SA|1700|n}}, when a great [[Númenórean]] navy, sent by [[Tar-Minastir]], arrived in Lindon.<ref name="SA"/> The might of [[Númenor]] broke Sauron's army at the [[Lhûn]] and crushed his forces at the [[Battle of the Gwathló]]. The army he had left besieging Imladris was caught between Elrond and Gil-galad and utterly destroyed, thus ending the siege.
+ 
+===Aftermath===
+A [[White Council|Council]] was held in the wake of Sauron's defeat. Given the devastation of Eregion, it was decided that Imladris should become the new Elvish stronghold in eastern [[Eriador]]. In recognition of his efforts, Gil-galad bestowed the ring [[Vilya]] upon Elrond at this time and made him his vice-regent.<ref name="Galadriel"/> Elrond maintained Imladris from then on until the end of the [[Third Age]], when he departed from [[Middle-earth]].<ref>{{App|Chief}}</ref>
+
+==See also==
+* [[Second siege of Imladris]]
+
+{{references}}
+[[Category:Conflicts of the Second Age]]
+[[Category:Sieges]]

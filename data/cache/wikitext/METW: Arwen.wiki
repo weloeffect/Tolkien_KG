@@ -1,0 +1,23 @@
+{{Collectible card
+| image=METW - Arwen.jpg
+| name=Arwen
+| caption=
+| game=meccg
+| type=Character
+| alignment=Hero
+| homesite=[[METW: Rivendell|Rivendell]] 
+| artist=[[Angus McBride]]
+| rarity=Rare
+| number=TW011
+}}
+'''METW: Arwen''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+'''''Note:''''' ''"Arwen" refers to [[Arwen]] in [[J.R.R. Tolkien]]'s [[legendarium]].''
+
+==Card text==
+
+'''''Unique.''''' +7 direct influence only usable against [[METW: Aragorn II|Aragorn II]]. 
+
+''"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..."'' '''''-[[The Lord of the Rings|LotRII]]'''''
+
+[[Category:MECCG character cards|Arwen]]

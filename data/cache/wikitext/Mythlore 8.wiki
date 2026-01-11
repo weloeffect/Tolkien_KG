@@ -1,0 +1,48 @@
+{{mythlore
+|title=Mythlore 8
+| image = Mythlore_8.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1972]]
+|format=Paperback
+|pages=31
+}}
+
+'''''Mythlore'' 8''' ([https://dc.swosu.edu/mythlore/vol2/iss4/ Volume 2, Issue 4]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+====Features====
+
+* GoodKnight, Glen. Editorial: "Tolkien at Eighty: An Appreciation." 3.
+* GoodKnight, Glen. The Counsel of Elrond. 9.
+* Zuber, Bernie. Across the Brandywine. 10+.
+* Missives to Mythlore. 27.
+
+====Articles====
+
+* Marmor, Paula. "The Wielders of the Three: And Other Trees." 5-8.
+* Bond, Brian C. "The Unity of Word: Language in C.S. Lewis' Trilogy." 13-15.
+* Christopher, Joe R. "An Introduction to Narnia, Part 3: The Genre of the Chronicles." 17-20.
+* Hannay, Margaret P. "C.S. Lewis Collection at Wheaton College." 20.
+
+====Fiction & Poetry====
+
+* Williams, Charles. "The Noises That Weren't There. Third and Final Chapter of the Unfinished Manuscript." 21-25.
+* Robin, Doris. Monolog of a Certain Hobbit. 12.
+
+====Art====
+
+* John Allen: back cover
+* George Barr: 27
+* Bonnie GoodKnight: 14, 15, 21, 25, 26
+* Tim Kirk: cover, 2, 3, 8, 10, 12, 30
+* Paula Marmor: 5, 6, 7, 9, 16, 17, 31
+* Jules Minton: 22
+* Mark Rogers: 28, 29
+* Don Smith: 13
+* Bernie Zuber: 11, 18, 19, 20
+{{mythlorenav|7|9}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 008}}
+[[Category:Mythlore]]

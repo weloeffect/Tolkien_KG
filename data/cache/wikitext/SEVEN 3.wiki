@@ -1,0 +1,37 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 3
+| image=
+| editor=
+| illustrator=
+| date=March [[1982]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229570|articlename=Vol. 3, March 1982|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=134<ref name="jstor" />
+}}
+'''''SEVEN 3''''' is the third volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in March [[1982]].<ref name="jstor" />
+==Contents==
+*"What Happened to Dorothy L. Sayers that Good Friday? "
+**By: E.L. Mascall
+*"The Emperor's Clothes Invisible? An Open Letter to Richard Webster"
+**By: Kathleen Nott
+*"The Dogma in the Manger (1954)"
+**By: Dorothy L. Sayers
+*"Notes Towards a Reply (1982)"
+**By: Kathleen Nott
+*"Meaning and ''The Mind of the Maker''"
+**By: D.J. Taylor
+*"George MacDonald and the World of Faery"
+**By: Marion Lochhead
+*"G.K. Chesterton and the Myth-Making Power"
+**By: Leo A. Hetzler
+*"Known in a Different Kind: A Comment on the Literary Criticism of Charles Williams"
+**By: Brian Horne
+*"The Dialectic of Multiple Worlds: An Analysis of C.S. Lewis's Narnia Stories"
+**By: Michael Murrin
+*"The Quality of Thinking: Owen Barfield as Literary Man and Anthroposophist"
+**By: Patrick Grant<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|2|4}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 03}}
+
+[[Category:SEVEN]]

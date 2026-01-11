@@ -1,0 +1,15 @@
+{{letter infobox
+ |#=1
+ |to=[[Edith Bratt]]
+ |date=[[1914#October|October 1914]]
+ |subject=''[[The Story of Kullervo]]''
+|}}
+{{letter|1}}
+==Summary==
+Tolkien compliments Edith for her splendid letters while calling himself a "pig" for not writing more often.<ref group="notes">He had become engaged to her the prior year.</ref>  He discusses his time training at the [[Oxford University|University]] Officer's Training Corps while attending his final year as an undergraduate at Oxford. He mentions a story he is working on, ''[[The Story of Kullervo]]''.<ref group="notes">It was never finished.</ref>
+==Notes==
+<references group="notes"/>
+{{letters}}
+{{DEFAULTSORT:Letter 001}}
+[[de:Brief 1]]
+[[Category:Letters to Edith Tolkien]]

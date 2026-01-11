@@ -1,0 +1,123 @@
+{{disambig-two|the son of Elendil|King of [[Númenor]]|[[Tar-Anárion]]}}
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Anárion
+| image=Liz Danforth - Anárion.jpg
+| caption="Anárion" by [[Liz Danforth]]
+| pronun=[[Quenya|Q]], {{IPA|[aˈnaːri.on]}}
+| othernames=
+| titles=[[King of Gondor]]
+| position=
+| location=[[Númenor]], [[Gondor]]
+| affiliation=[[Faithful]], [[Last Alliance of Elves and Men]]
+| language=[[Quenya]], [[Sindarin]], and [[Adûnaic]]
+| birth={{SA|3219}}
+| birthlocation=[[Andúnië]], [[Númenor]]
+| rule={{SA|3320}} - {{SA|3440|n}} (joint reign) 
+| death={{SA|3440}}
+| deathlocation=During [[Siege of Barad-dûr]]
+| age=221
+| notablefor=Founded [[Gondor]] with [[Isildur]]
+| house=[[House of Elendil]], founded the [[House of Anárion]]
+| parentage=[[Elendil]]
+| siblings=[[Isildur]]
+| spouse=
+| children=Three unnamed children, [[Meneldil]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Anárion''' was the second son of [[Elendil]] and the brother of [[Isildur]].<ref name="Rings">{{S|Rings}}</ref>  His son [[Meneldil]] was the last man born in [[Númenor]] before its [[Downfall of Númenor|Downfall]].<ref name="Gladden">{{UT|Gladden}}, Note 10</ref>
+
+==History==
+Anárion, together with his father and brother, were the leaders of the [[Faithful]], the small minority of [[Númenóreans]] that resisted the dark rule of [[Ar-Pharazôn]] and his councilor [[Sauron]]. In {{SA|3319}}, when [[Ar-Pharazôn]] assailed the land of [[Aman]],<ref name="SA">{{App|SA}}</ref> nine ships of the Faithful escaped to the east (four for Elendil, three for Isildur, and two for Anárion).<ref>{{S|Akallabeth}}</ref> They were separated by the great storm that arose during the [[Downfall of Númenor|Downfall]]. Elendil landed in northern [[Middle-earth]] near [[Lindon]] and there established the realm of [[Arnor]]. Isildur and Anárion, however, landed in the south and founded the realm of [[Gondor]] in {{SA|3320|n}} about the [[Mouths of Anduin]].<ref name="Rings"/> 
+
+Together, Anárion and Isildur were chiefly responsible for the early ordering of Gondor, and their thrones were set side by side in the Great Hall of [[Osgiliath]].  In the city of [[Minas Anor]], Anárion established his house while Isildur set up his in [[Minas Ithil]].
+
+Sauron also survived the [[Downfall of Númenor]] and reentered [[Mordor]] in {{SA|3320|n}}. In {{SA|3429|n}}, Sauron attacked Gondor with a force great enough to [[First Fall of Minas Ithil|take Minas Ithil]] and force Isildur to flee. Whilst Isildur, his wife, and his sons sailed from Gondor seeking Elendil’s aid, Anárion defended Osgiliath and was able to drive his forces back into the mountains. Yet Sauron gathered greater strength and Anárion knew that without succor Gondor would fall.<ref name="Rings"/><ref name="SA"/>
+
+Aid did arrive when Elendil, Isildur, and the [[Men of Arnor]], in league with the [[High King of the Noldor]], [[Gil-galad]], formed the [[Last Alliance of Elves and Men]] and marched south. Anárion led the [[Gondorians]] to the [[Dagorlad|plain]] between [[Cirith Gorgor]] and the [[Dead Marshes]] and fought in the [[Battle of Dagorlad]] alongside the alliance. The allies entered [[Mordor]] and laid the [[Siege of Barad-dûr]], but Anárion was slain by a thrown rock in {{SA|3440|n}}.<ref name="Elendil">{{PM|Elendil}}</ref>
+
+==Legacy==
+[[Minas Anor]] and its attached land of [[Anórien]] were named following the heraldic meaning of his name.<ref>{{HM|N}}, p. 776</ref>
+
+Anárion had four children, the youngest of whom was a son, [[Meneldil]].<ref group="note">The records only state that Meneldil was Anárion's "4th child"; these would either be daughters or sons who died before Meneldil succeeded his uncle.</ref> It is said that he was well-pleased at the departure of Isildur and his sons.<ref name="Gladden"/> After the [[Disaster of the Gladden Fields]], Meneldil became the first independent [[King of Gondor]] and the two realms in exile were estranged. 
+
+Anárion's war-helm, which was also used as a crown, was crushed when he was killed. The war-helm of [[Isildur]] was used for the [[Crown of Gondor|crowning]] of the [[Kings of Gondor]].<ref>{{App|Eriador}}</ref>
+
+The [[House of Anárion|Line of Anárion]] lasted over two thousand years, their members being known as ''Anárioni''.<ref>{{PM|VII}}, p. 196</ref> In honor of the founding co-rulers, when [[Rómendacil II]] built the [[Argonath]] he had the Pillars of the Kings carved in the likenesses of Anárion and Isildur.<ref>{{App|Gondor}}</ref> Yet the male line of Anárion dwindled and finally perished when King [[Eärnur]] died childless. From that time forth the [[Stewards of Gondor|Ruling Stewards]] ruled in the name of the House of Anárion.<ref>{{RK|V7}}</ref>
+
+==Etymology==
+{{Pronounce|Anarion.mp3|Ardamir}}
+''Anárion'' is a [[Quenya]] name. Although its meaning is not glossed, it is ostensibly a compound of [[anar]] ("sun") and the patronymic suffix [[-ion]] ("son of"), therefore having the meaning "Son of the Sun".<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-3208765969.html|articlename=Q. ''Anárion'' m.|website=Eldamo|accessed=27 May 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | AMA | | | | | |AMA=[[Amandil]]<br/><small>''Sailed west {{SA|3316}}''†</small>}}
+{{familytree | | | | |!| | | | | | |}}
+{{familytree | | | | ELE | | | | | |ELE=[[Elendil]]<br/><small>''{{SA|3119}} - {{SA|3441|n}}''†</small>}}
+{{familytree | |,|-|-|^|-|-|.| | | |}}
+{{familytree | ISI | | | | ANA | | |ISI=[[Isildur]]<br/><small>''{{SA|3209}} - {{TA|2}}''†</small>|ANA='''ANÁRION'''<br/><small>''{{SA|3219}} - {{SA|3440|n}}''†</small>}}
+{{familytree | |!| | | |,|-|^|-|.| |}}
+{{familytree | ARN | | UNN | | MEN |ARN=[[Kings of Arnor|''Kings of<br/>Arnor'']]|UNN=''Three children''<br/><small>''unknown''</small>|MEN=[[Meneldil]]<br/><small>''{{SA|3318}} - {{TA|158}}''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree | | | | | | | | | CEM |CEM=[[Cemendur (King of Gondor)|Cemendur]]<br/><small>''{{SA|3399}} - {{TA|238}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In ''[[The Peoples of Middle-earth]]'', in Section VII "[[The Heirs of Elendil]]", [[Christopher Tolkien]] explained that there were three manuscripts in the textual history of this section.  Manuscript A contained the information about the Southern Line of Gondor, and from its condition it appeared to be the first stage of composition.  Manuscript B added the Northern Line, and began as a fair copy of A for the Southern line but became heavily amended.  Manuscript B led to Manuscript C, a fine copy (but with later emendations), which led to a final typescript D.  In the earlier Manuscripts A and B, Anárion's date of birth was {{SA|3209}} instead of {{SA|3219}}. It was Isildur who was born in 3219 instead of 3209 and thus Anárion was the ''older'' of Elendil's two sons.<ref name="Elendil"/>
+
+==Portrayal in adaptations==
+===Anárion in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Decipher - Anárion.jpg|Anárion in ''[[The Lord of the Rings Trading Card Game]]''
+File:The Lord of the Rings Online - Anárion.jpg|Anárion in ''[[The Lord of the Rings Online]]''
+</gallery>
+===Films===
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:In the [[The Lord of the Rings: The Return of the King (Extended Edition)|Extended Edition]], Denethor refers to himself as being "Steward of the House of Anárion" before he lights his pyre. However, Anárion himself is not otherwise mentioned, nor is it made clear that his line received kingship of Gondor from Isildur.
+
+===Games===
+'''2001-2007: ''[[The Lord of the Rings Trading Card Game]]'':'''
+:Although Anárion does not appear in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]], Decipher produced a card for the character.
+
+'''2019: ''[[The Lord of the Rings Online]]'':'''
+:Anárion appears during an extended flashback set during the [[Siege of Barad-dûr]] in the year [[Second Age 3440|S.A. 3440]], shortly before his death.
+
+===Television===
+'''[[2022]]: ''[[The Lord of the Rings: The Rings of Power]]'', [[The Lord of the Rings: The Rings of Power - Season One|S1.]][[Adar (episode)|E3. - ''Adar'']]''':
+::Anárion is mentioned by [[Elendil]] in his advice for [[Isildur]] to let the past die. Anárion had ignored the same advice years earlier and since then, dwelled on the '''[[Andustar|Western Shores]]''' of [[Númenor]], despite there being nothing there according to Elendil. He has a sister, [[Eärien]], who was created for the show. 
+
+{{References|note}}
+{{seq-start}}
+{{seq-head
+| race=numenorean
+| house=Founder of the [[House of Anárion]]<small><br/>Cadet branch of the [[House of Elendil]]</small>
+| born={{SA|3219}}
+| died={{SA|3440}}
+}}
+{{seq
+| prev=[[Elendil]]<br/><small>(as [[High King (Dúnedain)|High King]])</small>
+| list=2nd [[Kings of Gondor|King of Gondor]]<br/><small>(under [[High King (Dúnedain)|High Kingship]] of [[Elendil]])</small>
+| dates={{SA|3320}} - {{SA|3440}} (with [[Isildur]])
+| next=[[Isildur]]<br/><small>(as sole King of Gondor)</small>
+}}
+{{seq-end}}
+
+{{southernline}}
+{{numenor}}
+{{DEFAULTSORT:Anarion}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Anárion| ]]
+[[Category:House of Elendil]]
+[[Category:Mariners]]
+[[Category:Númenóreans]]
+[[Category:Rulers of Gondor]]
+[[Category:Quenya names]]
+[[de:Anárion]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/anarion]]
+[[fi:Anárion]]

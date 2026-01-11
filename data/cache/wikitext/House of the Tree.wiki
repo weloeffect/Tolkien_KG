@@ -1,0 +1,42 @@
+{{Noble House infobox
+| name=House of the Tree
+| image = Rondador - House of the Tree.png
+| caption=
+| othernames=Folk of the Tree
+| founder=
+| leader=[[Galdor of the Tree]]
+| location=[[Gondolin]]
+| affiliation=
+| rivalry=
+| destroyed=
+| language=
+| members=[[Legolas (elf of Gondolin)|Legolas]]
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=Green
+| weapons=Clubs and slings
+| heirlooms=
+}}
+<center>{{quote|There were those of the Tree, and they were a great house, and their raiment was green.|''[[The Book of Lost Tales Part Two]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]"}}</center>
+
+The '''house of the Tree''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the Elven city of [[Gondolin]]. Their story is recounted in an early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''. 
+
+==History==
+This folk was under the leadership of [[Galdor of the Tree]]. Their garments were green, and they carried iron-studded clubs and slings.<ref name=Gondolin>{{LT2|III}}</ref>{{rp|173}}
+
+The [[Fall of Gondolin]] began with the balrog [[Gothmog (balrog)|Gothmog]] leading his armies to the city's northern gate, where the folks of the Tree and [[House of the Hammer of Wrath|of the Hammer of Wrath]] were positioned with their lords. When the [[Iron Dragons]] knocked down the gate, [[Rog]], the leader of the Hammer, shouted his war-cry and both houses leapt at the foe, and "there the blows of their great hammers and the dint of their clubs rang to the [[Encircling Mountains]] and [[Orcs]] fell like leaves". From the walls, the [[House of the Swallow]] and the [[House of the Heavenly Arch]] rained arrows down on the invaders, but there was still great confusion.<ref name=Gondolin/>{{rp|176}}
+
+After the [[House of the Hammer of Wrath|folk of the Hammer]] were completely destroyed outside the walls, the folk of the Tree retreated to the [[Square of the Folkwell]], and guarded its western entrance by the [[Arch of Inwë]] against a horde of [[goblins]]. [[Tuor]] and his soldiers entered the Square from the north, Tuor carrying a wounded [[Ecthelion]]. Here Galdor was his salvation, as he rushed to kill the pursuers with his club. The guard of the Tree and many other houses were able to form a good battalion, which was led to the [[Square of the Palace]].<ref name=Gondolin/>{{rp|181–2}}
+
+After the death of King [[Turgon]], Galdor and many others escaped, following Tuor through [[Idril's secret way]]. A member of this house, [[Legolas (elf of Gondolin)|Legolas]], led the [[Exiles of Gondolin]] through the plain of [[Tumladin]], as he knew it very well and was night-sighted.<ref name=Gondolin/>{{rp|189}} When the survivors reached [[Cristhorn]], Galdor, Legolas and other men went ahead of the women and children,<ref name=Gondolin/>{{rp|191}} and they fought against an ambush of [[Orcs]] with the help of the [[Eagles]].<ref name=Gondolin/>{{rp|193}} Later they dwelt at the [[mouth of Sirion]], and when their lord went to [[Tol Eressëa]], still some of them named themselves as the People of Galdor.<ref name=names>{{LT2|IIIn}}, p. 215</ref>
+
+==Other names==
+Their [[Gnomish]] names were '''''Nos Galdon'''''<ref name=names /> and '''''Thlim Galdon''''',<ref name=Names>{{PE|13}}, p. 104</ref> while in [[Qenya]] they were simply known as '''''Aldar'''''.<ref name=Names />
+
+''Nos Galdon'' was later ammended to '''''Nos nan Alwen'''''.<ref name=names />
+{{references}}
+{{HousesofGondolin}} 
+[[Category:Twelve houses of the Gondothlim]]
+[[de:Haus des Baumes]]

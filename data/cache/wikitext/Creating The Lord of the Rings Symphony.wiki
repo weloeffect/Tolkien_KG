@@ -1,0 +1,27 @@
+{{film infobox
+| image = Creating The Lord of the Rings Symphony cover.jpg
+| caption = 
+| name=Creating The Lord of the Rings Symphony
+| director=Pierre Séguin
+| producer=
+| writer=Jack Ruttan
+| narrator=
+| starring=
+| music=[[Howard Shore]]
+| cinematography= 
+| editing= 
+| distributor=
+| released=[[2004]]
+| runtime=52 minutes
+| country=
+| language=English
+| budget=
+| website=
+| imdb_id=0456052
+}}
+'''''Creating The Lord of the Rings Symphony''''' is a [[2004]] documentary which includes excerpts of live concert footage, commentary by Howard Shore, and the illustrations of Alan Lee and John Howe.
+
+This documentary can also be found on ''[[The Lord of the Rings: The Return of the King]]'' Platinum series Special Extended Edition Collector's Gift Set.
+
+{{title|italics}}
+[[Category:Documentaries]]

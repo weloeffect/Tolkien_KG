@@ -1,0 +1,17 @@
+{{disambig-more|Shadow of the Past|[[Shadow of the Past (disambiguation)]]}}
+{{song
+| title=The Shadow of the Past
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=3:32
+| track=3
+| previous=[[Concerning Hobbits (soundtrack)|Concerning Hobbits]]
+| next=[[The Treason Of Isengard]]
+| spotify=https://open.spotify.com/track/2TZOJDEX0TajN8wsUVvz3W
+}}
+'''The Shadow Of The Past''' is the third track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]].  It begins slightly wistful and dark, with the melody played by the oboe, and strings in the background.  Suddenly, the song breaks into the 5/4 [[Isengard]] theme, followed by a loud chorus with the theme of the [[Nazgûl|Black Riders]].  The brass and drums take over as it quiets down, then shifting back to quieter oboe and low brass, playing the Prophecy theme.  It crescendos again, but quickly after decrescendos into a quiet theme played by the strings and brass.  It ends with the brass crescendoing and moving.
+{{title}}
+{{DEFAULTSORT:03}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

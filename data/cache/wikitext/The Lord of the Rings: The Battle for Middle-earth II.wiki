@@ -1,0 +1,169 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{video game infobox
+| image = The Lord of the Rings- The Battle for Middle-earth II box.jpg
+| name=<small>The Lord of the Rings</small><br>The Battle for Middle-earth II
+| developer=[[Electronic Arts]]
+| publisher=[[Electronic Arts]]
+| platform=Microsoft Windows, Xbox 360
+| releasedate=2 March 2006
+| genre=Real-time strategy
+|
+}}
+'''The Lord of the Rings: The Battle for Middle-earth II''' is the second real-time strategy game by [[Electronic Arts]], released on [[2 March|March 2]], [[2006]] for both PC and Xbox 360. Unlike its [[The Lord of the Rings: The Battle for Middle-earth|predecessor]], the game is set mainly in the northern regions of [[Middle-earth]]. Factions include the [[Elves]], [[Dwarves]], [[Dúnedain|Men of the West]] (a combination of [[Gondor]] and [[Rohan]]), and the [[Orcs|Goblins]], along with [[Mordor]] and [[Isengard]]. The gameplay includes naval battles, larger battalions, and more traditional base building, unlike the first part. The game has a special feature where you can create your own hero. The heroes are from six categories, including [[Wizards|wizard]], [[Dwarves|dwarf]] or servants of [[Sauron]]. Also, there are fourteen subcategories, such as hermit, taskmaster and [[troll]]. It has an expansion set called ''[[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king|The Rise of the Witch-king]]'', which features [[Angmar]] as a new faction and has general gameplay improvements. 
+
+== Plot ==
+Set in the regions of northern Middle-earth, the game focuses on the events of the War in the North, which are described in the Appendices of ''[[The Return of the King]]''. For the sake of game-play, Electronic Arts added new battles to the story, and introduced original characters to the game, such as Gorkil the Goblin King. Some characters were altered in their appearances, abilities, and roles. In addition, ''[[The Hobbit]]'' lends several elements to the game, including locations and characters such as the High Pass and mountain giants.
+
+The story is divided into Good and Evil Campaigns. Both campaigns focus on the battles fought by the newly introduced factions: the Elves, Dwarves, and Goblins. Instead of the world-map overview of the previous game, the player goes through nine fixed missions in either easy, medium, or hard difficulty mode. Narrated cut scenes provide plot exposition between missions.
+
+===Good campaign===
+The Good Campaign opens as [[Glorfindel]] discovers an impending attack on [[Rivendell]]. Thanks to the early warning, Elrond's forces in Rivendell manage to repel the Goblins' attacks. Following the battle, Elrond realizes that the Elves and Dwarves must join forces to defeat Sauron. The next battle takes place in the High Pass where you create your own army to fight your way through the high pass. Near the end you will face a kraken or giant octopus-like creature which you kill with archers. This beast is a power you can use as evil. The next fight takes place within the Goblin capital of [[Ettenmoors]], where the Goblin fortress is destroyed, and the Goblin King is killed. After their victory, the heroes are informed that the Goblins, on Sauron's command, enlisted the service of a dragon lord, who is laying waste to the Dwarves of the Blue Mountains. The heroes make their way to the Blue Mountains and help the Dwarven army defeat the dragon and his Goblins.
+[[The Grey Havens]] are attacked by the [[Corsairs of Umbar]], allies of Sauron. The [[Dwarves]] eventually decide to come to the aid of the Grey Havens. With the Goblins defeated and all of [[Eriador]] pacified, the Dwarven-Elven alliance is tested by Sauron's forces. Mordor's forces besiege [[Lake-town|Esgaroth]] and [[Lonely Mountain|Erebor]]. However, Elven reinforcements from [[Mirkwood]] led by [[Thranduil]] save the Dwarves. The heroes of the Dwarven-Elven alliance come together for a final battle in [[Dol Guldur]]. The Good forces overcome the defenses and destroy the fortress, eliminating the last threat in the game.
+
+*Mission 1: [[Rivendell]]
+*Mission 2: High Pass
+*Mission 3: [[Ettenmoors]]
+*Mission 4: [[Blue Mountains]]
+*Mission 5: [[Grey Havens]]
+*Mission 6: [[River Running|Celduin]]
+*Mission 7: [[Lonely Mountain|Erebor]]
+*Mission 8: [[Dol Guldur]]
+
+===Evil campaign===
+The Evil Campaign follows an alternate version of the War in the North. Sauron sends the [[Mouth of Sauron]] and the [[Nazgûl]] to the North in order to lead the Goblin army and launch an assault on the Elven forest of [[Lothlórien]], and another group of Goblins, led by the Goblin King, attack the Grey Havens by land and sea. The Elven port is destroyed, and the march across Eriador begins; Hobbits of the Shire are chosen as the next target. The Goblin King's horde manages to crush the Hobbits, but [[Gríma|Wormtongue]] suddenly appears with a large army of [[Isengard]] [[Uruk-hai|Uruks]], and claims the land for his master. The Goblins destroy the well-trained army and kill Wormtongue.
+The Goblin King besieges Fornost, where the defenders crumble under the relentless Goblin attacks, and Eriador falls under Goblin control. Sauron launches a concurrent campaign east of the Misty Mountains. The Goblins from Dol Guldur eliminate the Elves and the Ents that guard the Forest Road in Mirkwood. For the final battle against the Good factions in the North, the Goblin horde and Sauron's forces from Mordor converge at Rivendell, and completely destroy the remaining Good forces in the North.
+
+*Mission 1: [[Lothlórien]]
+*Mission 2: [[Grey Havens]]
+*Mission 3: [[the Shire|Shire]]
+*Mission 4: [[Fornost]]
+*Mission 5: [[Mirkwood]]
+*Mission 6: [[Withered Heath]]
+*Mission 7: [[Lonely Mountain|Erebor]]
+*Mission 8: [[Rivendell]]
+
+==Factions==
+*Elves
+*Men of the West
+*Dwarves
+
+*Mordor
+*Isengard
+*Goblins
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| J. Grant Albrecht || Additional voices
+|-
+| [[Robin Atkin Downes]] || Additional voices
+|-
+| [[Dee Bradley Baker]] || [[Gollum]], [[Orcs]]
+|-
+| [[Greg Ellis]] || Additional voices
+|-
+| [[Steve Blum]] || [[The Mouth of Sauron]]
+|-
+| David Boat || Additional voices
+|-
+| S. Scott Bullock || Gondorian Knight
+|-
+| Jesse Burch || Additional voices
+|-
+| [[Jason Carter]] || [[Glorfindel]]
+|-
+| Dan Conroy || Additional voices
+|-
+| Neil Dickson || Additional voices
+|-
+| [[Richard Doyle]] || Battering Ram Orc
+|-
+| [[Chris Edgerly]] || [[Aragorn]]
+|-
+| [[Peter Emshwiller]] || Additional voices
+|-
+| [[Crispin Freeman]] || [[Legolas]]
+|-
+| David Fries || Additional voices
+|-
+| [[Brian George]] || [[Théoden]]
+|-
+| [[Kim Mai Guest]] || [[Éowyn]]
+|-
+| [[James Horan]] || Additional Voices
+|-
+| [[Roger Jackson]] || Additional voices
+|-
+| [[Nick Jameson]] || Additional Voices
+|-
+| [[Bob Joles]] || [[Gimli]], [[Treebeard]]
+|-
+| [[Neil Kaplan]] || Additional voices
+|-
+| [[Darryl Kurylo]] || Additional voices
+|-
+| Adam Leadbeater || Additional voices
+|-
+| Michael Lindsay || Additional voices
+|-
+| [[David Lodge]] || Additional voices
+|-
+| [[Lewis MacLeod]] || Dwarf sage, Hadhod
+|-
+| [[Paul Mercier]] || [[Faramir]]
+|-
+| [[Jim Meskimen]] || Additional voices
+|-
+| [[Lani Minella]] || [[Galadriel]]
+|-
+| Mark Moseley || Additional voices
+|-
+| [[Nolan North]] || Additional voices
+|-
+| Mical Pedriana || Additional voices
+|-
+| [[Phil Proctor]] || Additional voices
+|-
+| [[Brianne Siddall]] || Additional voices
+|-
+| [[Isaac C. Singleton, Jr.]] || [[Lurtz]]
+|-
+| [[André Sogliuzzo]] || [[Gorkil]]
+|-
+| [[Stephen Stanton]] || [[Boromir]]
+|-
+| Julian Stone || Additional voices
+|-
+| Fred Tatasciore || Additional voices
+|-
+| Simon Templeman || Additional voices
+|-
+| [[Jim Ward]] || Additional voices
+|-
+| [[Hugo Weaving]] || Narrator, [[Elrond]]
+|-
+| Joe Whyte || Additional voices
+|-
+| [[Wally Wingert]] || Dwarf Narrator, Rohan Warrior, Goblin, Elf Builder
+|-
+| [[Dave Wittenberg]] || [[Gorkil]], Warriors of Gondor, Orcs
+|-
+| [[Tatyana Yassukovich]] || [[Arwen]]
+|}
+
+==External links==
+* {{WP|The Lord of the Rings: The Battle for Middle-earth II}}
+
+{{Videogames}}
+{{title|italics}}
+
+{{DEFAULTSORT:Battle for Middle-earth II}}
+[[Category:EA Games]]
+[[Category:Microsoft Windows games]]
+[[Category:Real-time strategy games]]
+[[Category:Xbox 360 games]]
+[[Category:The Lord of the Rings: The Battle for Middle-earth (video game series)]]
+
+[[de:Die Schlacht um Mittelerde]]

@@ -1,0 +1,597 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Closed_Letter_to_Andrea_Charicoryides_Surnamed_Polygrapheus%2C_Logothete_of_the_Theme_of_Geodesia_in_the_Empire%2C_Bard_of_the_Court_of_Camelot%2C_Malleus_Malitiarium%2C_Inclinga_Sum_Sometimes_Known_as_Charles_Williams> a schema:WebPage ;
+    rdfs:label "A Closed Letter to Andrea Charicoryides Surnamed Polygrapheus, Logothete of the Theme of Geodesia in the Empire, Bard of the Court of Camelot, Malleus Malitiarium, Inclinga Sum Sometimes Known as Charles Williams"@en ;
+    schema:about <http://localhost:8000/resource/A_Closed_Letter_to_Andrea_Charicoryides_Surnamed_Polygrapheus%2C_Logothete_of_the_Theme_of_Geodesia_in_the_Empire%2C_Bard_of_the_Court_of_Camelot%2C_Malleus_Malitiarium%2C_Inclinga_Sum_Sometimes_Known_as_Charles_Williams> .
+
+<http://localhost:8000/page/Bealuw%C3%A9rig> a schema:WebPage ;
+    rdfs:label "Bealuwérig"@en ;
+    schema:about <http://localhost:8000/resource/Bealuw%C3%A9rig> .
+
+<http://localhost:8000/page/Bombadil_Goes_Boating> a schema:WebPage ;
+    rdfs:label "Bombadil Goes Boating"@en ;
+    schema:about <http://localhost:8000/resource/Bombadil_Goes_Boating> .
+
+<http://localhost:8000/page/Cat_%28poem%29> a schema:WebPage ;
+    rdfs:label "Cat (poem)"@en ;
+    schema:about <http://localhost:8000/resource/Cat_%28poem%29> .
+
+<http://localhost:8000/page/Dark> a schema:WebPage ;
+    rdfs:label "Dark"@en ;
+    schema:about <http://localhost:8000/resource/Dark> .
+
+<http://localhost:8000/page/Empty_Chapel> a schema:WebPage ;
+    rdfs:label "Empty Chapel"@en ;
+    schema:about <http://localhost:8000/resource/Empty_Chapel> .
+
+<http://localhost:8000/page/Enigmata_Saxonica_Nuper_Inventa_Duo> a schema:WebPage ;
+    rdfs:label "Enigmata Saxonica Nuper Inventa Duo"@en ;
+    schema:about <http://localhost:8000/resource/Enigmata_Saxonica_Nuper_Inventa_Duo> .
+
+<http://localhost:8000/page/Eruman_beneath_the_Stars> a schema:WebPage ;
+    rdfs:label "Eruman beneath the Stars"@en ;
+    schema:about <http://localhost:8000/resource/Eruman_beneath_the_Stars> .
+
+<http://localhost:8000/page/F%C3%ADriel%27s_song> a schema:WebPage ;
+    rdfs:label "Fíriel's song"@en ;
+    schema:about <http://localhost:8000/resource/F%C3%ADriel%27s_song> .
+
+<http://localhost:8000/page/Fastitocalon_%28poem%29> a schema:WebPage ;
+    rdfs:label "Fastitocalon (poem)"@en ;
+    schema:about <http://localhost:8000/resource/Fastitocalon_%28poem%29> .
+
+<http://localhost:8000/page/For_W.H.A.> a schema:WebPage ;
+    rdfs:label "For W.H.A."@en ;
+    schema:about <http://localhost:8000/resource/For_W.H.A.> .
+
+<http://localhost:8000/page/From_dark_Dunharrow_in_the_dim_morning> a schema:WebPage ;
+    rdfs:label "From dark Dunharrow in the dim morning"@en ;
+    schema:about <http://localhost:8000/resource/From_dark_Dunharrow_in_the_dim_morning> .
+
+<http://localhost:8000/page/Hengest> a schema:WebPage ;
+    rdfs:label "Hengest"@en ;
+    schema:about <http://localhost:8000/resource/Hengest> .
+
+<http://localhost:8000/page/Imram> a schema:WebPage ;
+    rdfs:label "Imram"@en ;
+    schema:about <http://localhost:8000/resource/Imram> .
+
+<http://localhost:8000/page/In_Western_Lands_beneath_the_Sun> a schema:WebPage ;
+    rdfs:label "In Western Lands beneath the Sun"@en ;
+    schema:about <http://localhost:8000/resource/In_Western_Lands_beneath_the_Sun> .
+
+<http://localhost:8000/page/Lament_for_the_Rohirrim> a schema:WebPage ;
+    rdfs:label "Lament for the Rohirrim"@en ;
+    schema:about <http://localhost:8000/resource/Lament_for_the_Rohirrim> .
+
+<http://localhost:8000/page/Long_live_the_Halflings%21_Praise_them_with_great_praise%21> a schema:WebPage ;
+    rdfs:label "Long live the Halflings! Praise them with great praise!"@en ;
+    schema:about <http://localhost:8000/resource/Long_live_the_Halflings%21_Praise_them_with_great_praise%21> .
+
+<http://localhost:8000/page/Noel> a schema:WebPage ;
+    rdfs:label "Noel"@en ;
+    schema:about <http://localhost:8000/resource/Noel> .
+
+<http://localhost:8000/page/Old_fat_spider_spinning_in_a_tree%21> a schema:WebPage ;
+    rdfs:label "Old fat spider spinning in a tree!"@en ;
+    schema:about <http://localhost:8000/resource/Old_fat_spider_spinning_in_a_tree%21> .
+
+<http://localhost:8000/page/Oliphaunt_%28poem%29> a schema:WebPage ;
+    rdfs:label "Oliphaunt (poem)"@en ;
+    schema:about <http://localhost:8000/resource/Oliphaunt_%28poem%29> .
+
+<http://localhost:8000/page/Over_Old_Hills_and_Far_Away> a schema:WebPage ;
+    rdfs:label "Over Old Hills and Far Away"@en ;
+    schema:about <http://localhost:8000/resource/Over_Old_Hills_and_Far_Away> .
+
+<http://localhost:8000/page/Over_the_land_there_lies_a_long_shadow> a schema:WebPage ;
+    rdfs:label "Over the land there lies a long shadow"@en ;
+    schema:about <http://localhost:8000/resource/Over_the_land_there_lies_a_long_shadow> .
+
+<http://localhost:8000/page/Perry-the-Winkle> a schema:WebPage ;
+    rdfs:label "Perry-the-Winkle"@en ;
+    schema:about <http://localhost:8000/resource/Perry-the-Winkle> .
+
+<http://localhost:8000/page/Princess_Mee> a schema:WebPage ;
+    rdfs:label "Princess Mee"@en ;
+    schema:about <http://localhost:8000/resource/Princess_Mee> .
+
+<http://localhost:8000/page/Roll-roll-roll-roll%2C> a schema:WebPage ;
+    rdfs:label "Roll-roll-roll-roll,"@en ;
+    schema:about <http://localhost:8000/resource/Roll-roll-roll-roll%2C> .
+
+<http://localhost:8000/page/Rosalind_Ramage> a schema:WebPage ;
+    rdfs:label "Rosalind Ramage"@en ;
+    schema:about <http://localhost:8000/resource/Rosalind_Ramage> .
+
+<http://localhost:8000/page/Scatha_the_Worm> a schema:WebPage ;
+    rdfs:label "Scatha the Worm"@en ;
+    schema:about <http://localhost:8000/resource/Scatha_the_Worm> .
+
+<http://localhost:8000/page/Seek_for_the_Sword_that_was_broken> a schema:WebPage ;
+    rdfs:label "Seek for the Sword that was broken"@en ;
+    schema:about <http://localhost:8000/resource/Seek_for_the_Sword_that_was_broken> .
+
+<http://localhost:8000/page/Shadow-Bride> a schema:WebPage ;
+    rdfs:label "Shadow-Bride"@en ;
+    schema:about <http://localhost:8000/resource/Shadow-Bride> .
+
+<http://localhost:8000/page/Smakkabagms> a schema:WebPage ;
+    rdfs:label "Smakkabagms"@en ;
+    schema:about <http://localhost:8000/resource/Smakkabagms> .
+
+<http://localhost:8000/page/Song_of_Beren_and_L%C3%BAthien> a schema:WebPage ;
+    rdfs:label "Song of Beren and Lúthien"@en ;
+    schema:about <http://localhost:8000/resource/Song_of_Beren_and_L%C3%BAthien> .
+
+<http://localhost:8000/page/Song_of_the_Ent_and_Entwife> a schema:WebPage ;
+    rdfs:label "Song of the Ent and Entwife"@en ;
+    schema:about <http://localhost:8000/resource/Song_of_the_Ent_and_Entwife> .
+
+<http://localhost:8000/page/Song_of_the_Mounds_of_Mundburg> a schema:WebPage ;
+    rdfs:label "Song of the Mounds of Mundburg"@en ;
+    schema:about <http://localhost:8000/resource/Song_of_the_Mounds_of_Mundburg> .
+
+<http://localhost:8000/page/Tha_Eadigan_Saelidan%3A_The_Happy_Mariners> a schema:WebPage ;
+    rdfs:label "Tha Eadigan Saelidan: The Happy Mariners"@en ;
+    schema:about <http://localhost:8000/resource/Tha_Eadigan_Saelidan%3A_The_Happy_Mariners> .
+
+<http://localhost:8000/page/The_Battle_of_the_Eastern_Field> a schema:WebPage ;
+    rdfs:label "The Battle of the Eastern Field"@en ;
+    schema:about <http://localhost:8000/resource/The_Battle_of_the_Eastern_Field> .
+
+<http://localhost:8000/page/The_Complaint_of_M%C3%AEm_the_Dwarf> a schema:WebPage ;
+    rdfs:label "The Complaint of Mîm the Dwarf"@en ;
+    schema:about <http://localhost:8000/resource/The_Complaint_of_M%C3%AEm_the_Dwarf> .
+
+<http://localhost:8000/page/The_Hoard> a schema:WebPage ;
+    rdfs:label "The Hoard"@en ;
+    schema:about <http://localhost:8000/resource/The_Hoard> .
+
+<http://localhost:8000/page/The_Last_Ship> a schema:WebPage ;
+    rdfs:label "The Last Ship"@en ;
+    schema:about <http://localhost:8000/resource/The_Last_Ship> .
+
+<http://localhost:8000/page/The_Lay_of_the_Fall_of_Gondolin> a schema:WebPage ;
+    rdfs:label "The Lay of the Fall of Gondolin"@en ;
+    schema:about <http://localhost:8000/resource/The_Lay_of_the_Fall_of_Gondolin> .
+
+<http://localhost:8000/page/The_Little_House_of_Lost_Play%3A_Mar_Vanwa_Tyali%C3%A9va> a schema:WebPage ;
+    rdfs:label "The Little House of Lost Play: Mar Vanwa Tyaliéva"@en ;
+    schema:about <http://localhost:8000/resource/The_Little_House_of_Lost_Play%3A_Mar_Vanwa_Tyali%C3%A9va> .
+
+<http://localhost:8000/page/The_Ruined_Enchanter> a schema:WebPage ;
+    rdfs:label "The Ruined Enchanter"@en ;
+    schema:about <http://localhost:8000/resource/The_Ruined_Enchanter> .
+
+<http://localhost:8000/page/The_Song_of_%C3%86lfwine> a schema:WebPage ;
+    rdfs:label "The Song of Ælfwine"@en ;
+    schema:about <http://localhost:8000/resource/The_Song_of_%C3%86lfwine> .
+
+<http://localhost:8000/page/The_Stone_Troll> a schema:WebPage ;
+    rdfs:label "The Stone Troll"@en ;
+    schema:about <http://localhost:8000/resource/The_Stone_Troll> .
+
+<http://localhost:8000/page/The_cold_hard_lands> a schema:WebPage ;
+    rdfs:label "The cold hard lands"@en ;
+    schema:about <http://localhost:8000/resource/The_cold_hard_lands> .
+
+<http://localhost:8000/page/Twenty_years_have_flowed_away_down_the_long_river> a schema:WebPage ;
+    rdfs:label "Twenty years have flowed away down the long river"@en ;
+    schema:about <http://localhost:8000/resource/Twenty_years_have_flowed_away_down_the_long_river> .
+
+<http://localhost:8000/page/Valedictory> a schema:WebPage ;
+    rdfs:label "Valedictory"@en ;
+    schema:about <http://localhost:8000/resource/Valedictory> .
+
+<http://localhost:8000/page/Visio_de_Doworst> a schema:WebPage ;
+    rdfs:label "Visio de Doworst"@en ;
+    schema:about <http://localhost:8000/resource/Visio_de_Doworst> .
+
+<http://localhost:8000/page/When_winter_first_begins_to_bite> a schema:WebPage ;
+    rdfs:label "When winter first begins to bite"@en ;
+    schema:about <http://localhost:8000/resource/When_winter_first_begins_to_bite> .
+
+<http://localhost:8000/resource/A_Closed_Letter_to_Andrea_Charicoryides_Surnamed_Polygrapheus%2C_Logothete_of_the_Theme_of_Geodesia_in_the_Empire%2C_Bard_of_the_Court_of_Camelot%2C_Malleus_Malitiarium%2C_Inclinga_Sum_Sometimes_Known_as_Charles_Williams> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Inklings_%28book%29> ;
+    tg:subject <http://localhost:8000/resource/Charles_Williams> ;
+    tg:title "A Closed Letter to … Charles Williams"@en ;
+    tg:written <http://localhost:8000/resource/likely_November%2C_1943> .
+
+<http://localhost:8000/resource/Bealuw%C3%A9rig> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Wikipedia%3ALewis_Carroll> ;
+    tg:title "Bealuwérig"@en ;
+    tg:written "Possibly the 1930s"@en .
+
+<http://localhost:8000/resource/Bombadil_Goes_Boating> a schema:CreativeWork ;
+    tg:caption <http://localhost:8000/resource/Chapterhead_illustration_by_Pauline_Baynes> ;
+    tg:image "Pauline Baynes - Bombadil Goes Boating chapterhead.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "germ of Tom Bombadil<br>''The Fliting of Tom Bombadil'',<br>''The Merry Fliting of Tom Bombadil'',<br>''The Adventures of Tom Bombadil II: The Merry Fliting''<br>''Fliting''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Adventures_of_Tom_Bombadil%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "1962"@en ;
+    tg:subject <http://localhost:8000/resource/Tom_Bombadil> ;
+    tg:title "Bombadil Goes Boating"@en ;
+    tg:written "mid-1930s"@en .
+
+<http://localhost:8000/resource/Cat_%28poem%29> a schema:CreativeWork ;
+    tg:caption <http://localhost:8000/resource/Animals_-_Illustration_by_Pauline_Baynes> ;
+    tg:image "Pauline Baynes - Animals.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Adventures_of_Tom_Bombadil%27%27%2C%3Cbr%3E%27%27The_Poetical_Cat%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/before_1962> ;
+    tg:subject <http://localhost:8000/resource/Cats%2C_Lions%2C_Pards> ;
+    tg:title "Cat"@en ;
+    tg:written <http://localhost:8000/resource/likely_1956> .
+
+<http://localhost:8000/resource/Dark> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Copernicus v. Ptolemy'',<br>''Copernicus and Ptolemy'',<br>''Þéostru''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/8_March_of_1915%2C%3Cbr%3EBetween_1917_and_1924> ;
+    tg:subject <http://localhost:8000/resource/Wikipedia%3APtolemy> ;
+    tg:title "Dark"@en ;
+    tg:written <http://localhost:8000/resource/21_December_of_1914> .
+
+<http://localhost:8000/resource/Empty_Chapel> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Army_life%2C_World_War_I> ;
+    tg:title "Empty Chapel"@en ;
+    tg:written <http://localhost:8000/resource/Between_July_and_September_of_1915> .
+
+<http://localhost:8000/resource/Enigmata_Saxonica_Nuper_Inventa_Duo> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Enigma Saxonicum Nuper ‘Inventum’''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27A_Northern_Venture%27%27%2C%3Cbr%3E%27%27The_Oxford_Inklings%27%27%2C%3Cbr%3E%27%27The_Annotated_Hobbit%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "June 1923"@en ;
+    tg:subject <http://localhost:8000/resource/Old_English%2C_Henry_Bradley> ;
+    tg:title "Enigmata Saxonica Nuper Inventa Duo"@en ;
+    tg:written <http://localhost:8000/resource/26_June_of_1922%3B%3Cbr%3EAround_1923> .
+
+<http://localhost:8000/resource/Eruman_beneath_the_Stars> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Habbanan beneath the Stars'',<br>''Þā Ȝebletsode Feldá under þām Steorrum'',<br>''paā gebletsode felda under paām steorrum''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Book_of_Lost_Tales_Part_One%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/1924> ;
+    tg:subject <http://localhost:8000/resource/Eruman%2C_Men%2C_Gift_of_Il%C3%BAvatar> ;
+    tg:title "Eruman beneath the Stars"@en ;
+    tg:written <http://localhost:8000/resource/June_1916> .
+
+<http://localhost:8000/resource/F%C3%ADriel%27s_song> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Lost_Road_and_Other_Writings%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/F%C3%ADriel_%28The_Lost_Road%29> ;
+    tg:title "\"''Ilu Ilúvatar en kárẹ eldain a fírimoin''\""@en ;
+    tg:written <http://localhost:8000/resource/1936_or_1937> .
+
+<http://localhost:8000/resource/Fastitocalon_%28poem%29> a schema:CreativeWork ;
+    tg:caption <http://localhost:8000/resource/%22Fastitocalon%22_by_Pauline_Baynes> ;
+    tg:image "Pauline Baynes - Fastitocalon Chapterhead.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27Stapeldon_Magazine%27%27%2C%3Cbr%3E%27%27The_Adventures_of_Tom_Bombadil%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/1961_or_1962%3Cref_name%3DCG%3E%7B%7BCG> ;
+    tg:subject <http://localhost:8000/resource/Fastitocalon%2C_Turtle-fish> ;
+    tg:title "Fastitocalon"@en ;
+    tg:written <http://localhost:8000/resource/Before_June_of_1927> .
+
+<http://localhost:8000/resource/For_W.H.A.> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27Shenandoah%3A_A_Tribute_to_Wystan_Hugh_Auden_on_his_Sixtieth_Birthday%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/W.H._Auden> ;
+    tg:title "For W.H.A."@en ;
+    tg:written <http://localhost:8000/resource/Around_1967> .
+
+<http://localhost:8000/resource/From_dark_Dunharrow_in_the_dim_morning> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "Between 1938 and 1954"@en ;
+    tg:subject <http://localhost:8000/resource/Dunharrow%2C_Gondor%2C_Rohan> ;
+    tg:title "\"From dark Dunharrow in the dim morning\""@en ;
+    tg:written <http://localhost:8000/resource/Between_1938_and_1954> .
+
+<http://localhost:8000/resource/Hengest> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Hengest_and_Horsa> ;
+    tg:title "Hengest"@en ;
+    tg:written <http://localhost:8000/resource/Probably_around_April_of_1930> .
+
+<http://localhost:8000/resource/Imram> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''The Ballad of Saint Brendan's Death''<br>''The Death of Saint Brendan''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Time_and_Tide_%283_December_1955%29> ;
+    tg:revised <http://localhost:8000/resource/Around_1955> ;
+    tg:subject <http://localhost:8000/resource/Saint_Brendan%2C_%27%27The_Notion_Club_Papers%27%27%2C_Notion_Club> ;
+    tg:title "Imram"@en ;
+    tg:written <http://localhost:8000/resource/Around_1945> .
+
+<http://localhost:8000/resource/In_Western_Lands_beneath_the_Sun> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%3Cbr%3E%27%27The_Road_Goes_Ever_On_%28book%29> ;
+    tg:revised "Between 1938 and 1954"@en ;
+    tg:subject <http://localhost:8000/resource/Samwise_Gamgee> ;
+    tg:title "\"In western lands beneath the Sun\""@en ;
+    tg:written <http://localhost:8000/resource/Between_1938_and_1954> .
+
+<http://localhost:8000/resource/Lament_for_the_Rohirrim> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Two_Towers%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Between_1942_and_1954> ;
+    tg:subject <http://localhost:8000/resource/Eorl> ;
+    tg:title "\"Where now the horse and the rider? Where is the horn that was blowing?\""@en ;
+    tg:written <http://localhost:8000/resource/Between_February_and_midsummer_of_1942> .
+
+<http://localhost:8000/resource/Long_live_the_Halflings%21_Praise_them_with_great_praise%21> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%2C%3Cbr%3E%27%27Sauron_Defeated%27%27> ;
+    tg:revised <http://localhost:8000/resource/Between_1938_and_1954> ;
+    tg:subject <http://localhost:8000/resource/Frodo_Baggins_and_Samwise_Gamgee> ;
+    tg:title "\"Long live the Halflings! Praise them with great praise!\""@en ;
+    tg:written <http://localhost:8000/resource/Between_1938_and_1954> .
+
+<http://localhost:8000/resource/Noel> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27Annual_of_Our_Lady%27s_School_%281936%29> ;
+    tg:subject <http://localhost:8000/resource/Christianity%2C_Christ> ;
+    tg:title "Noel"@en ;
+    tg:written <http://localhost:8000/resource/Before_1936> .
+
+<http://localhost:8000/resource/Old_fat_spider_spinning_in_a_tree%21> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Hobbit%27%27%2C%3Cbr%3E%27%27The_History_of_The_Hobbit%27%27> ;
+    tg:revised <http://localhost:8000/resource/Before_1937> ;
+    tg:subject <http://localhost:8000/resource/Spiders> ;
+    tg:title "\"Old fat spider spinning in a tree!\""@en ;
+    tg:written <http://localhost:8000/resource/Before_1937> .
+
+<http://localhost:8000/resource/Oliphaunt_%28poem%29> a schema:CreativeWork ;
+    tg:image "Matěj Čadil - Oliphaunt.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Iumbo, or ye Kinde of ye Oliphaunt''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Stapeldon_Magazine%27%27%3Cbr%3E%27%27The_Two_Towers%27%27%2C%3Cbr%3E%27%27The_Adventures_of_Tom_Bombadil%27%27%2C%3Cbr%3E%27%27Oliphaunt_%28sheet%29> ;
+    tg:revised <http://localhost:8000/resource/April%2C_1944> ;
+    tg:subject <http://localhost:8000/resource/Oliphaunts%2C_Samwise_Gamgee> ;
+    tg:title "Oliphaunt"@en ;
+    tg:written <http://localhost:8000/resource/Before_1927> .
+
+<http://localhost:8000/resource/Over_Old_Hills_and_Far_Away> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Ʒeond fyrne beorgas ⁊ heonan feor'', ''Over old Hills and Far Away'',<ref name=appendix>{{CP|A3}}</ref> ''Over old Hills and far away'',<ref name=appendix/> ''Over old Hills & far away''<ref name=TextC>{{CP|TC}}</ref>"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Book_of_Lost_Tales_Part_One%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/1927> ;
+    tg:subject <http://localhost:8000/resource/Tinfang> ;
+    tg:title "Over Old Hills and Far Away"@en ;
+    tg:written <http://localhost:8000/resource/Between_January_and_February_of_1916> .
+
+<http://localhost:8000/resource/Over_the_land_there_lies_a_long_shadow> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%3Cbr%3E%27%27The_War_of_the_Ring%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "Between 1938 and 1954"@en ;
+    tg:subject <http://localhost:8000/resource/Malbeth%2C_Kings_of_Arnor%2C_Paths_of_the_Dead> ;
+    tg:title "\"Over the land there lies a long shadow,\""@en ;
+    tg:written <http://localhost:8000/resource/Between_1938_and_1954> .
+
+<http://localhost:8000/resource/Perry-the-Winkle> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''The Bumpus'',<br>''William and the Bumpus'',<br>''Perry-the-Winkle: A Nursery Rhyme in the House of Master Samwise'',<br>''Perry-the-Winkle: A Children's Song in the Shire (Attributed to Master Samwise)''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Adventures_of_Tom_Bombadil%27%27%2C%3Cbr%3E%27%27Poems_and_Songs_of_Middle_Earth%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/29_March_of_1928%2C%3Cbr%3E30_September_of_1946%2C%3Cbr%3EEarly_1961%2C%3Cbr%3E15_November_of_1961> ;
+    tg:subject <http://localhost:8000/resource/Lonely_Troll%2C_Perry-the-Winkle_%28hobbit%29> ;
+    tg:title "Perry-the-Winkle"@en ;
+    tg:written <http://localhost:8000/resource/Early_1928> .
+
+<http://localhost:8000/resource/Princess_Mee> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Princess Nî'',<br>''Mægden Ní Owéne Dohtor'',<br>''Princess Nî daughter of Osse and Ônen'',<br>''The Princess Ní''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Leeds_University_Verse_1914-24%27%27%2C%3Cbr%3E%27%27The_Adventures_of_Tom_Bombadil%27%27%2C%3Cbr%3E%27%27Poems_and_Songs_of_Middle_Earth%27%27%2C%3Cbr%3E%27%27The_J.R.R._Tolkien_Audio_Collection%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Around_1961> ;
+    tg:subject <http://localhost:8000/resource/Elves%2C_Hobbits%2C_Mee> ;
+    tg:title "Princess Mee"@en ;
+    tg:written <http://localhost:8000/resource/1915> .
+
+<http://localhost:8000/resource/Roll-roll-roll-roll%2C> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Hobbit%27%27%2C%3Cbr%3E%27%27The_History_of_The_Hobbit%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/February_1937%3Cref_name%3Dcollectedpoems%3E%7B%7BCP> ;
+    tg:subject <http://localhost:8000/resource/Elves> ;
+    tg:title "\"Roll—roll—roll—roll,\""@en ;
+    tg:written <http://localhost:8000/resource/Before_1937> .
+
+<http://localhost:8000/resource/Rosalind_Ramage> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/1964> ;
+    tg:subject "Rosalind Ramage"@en ;
+    tg:title "Rosalind Ramage"@en ;
+    tg:written <http://localhost:8000/resource/1963> .
+
+<http://localhost:8000/resource/Scatha_the_Worm> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "Around 1954"@en ;
+    tg:subject <http://localhost:8000/resource/cold-drakes%2C_Dragons%2C_fire-drakes%2C_long-worms%2C_Scatha> ;
+    tg:title "Scatha the Worm"@en ;
+    tg:written <http://localhost:8000/resource/Around_1954> .
+
+<http://localhost:8000/resource/Seek_for_the_Sword_that_was_broken> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Fellowship_of_the_Ring%27%27%2C%3Cbr%3E%27%27The_Treason_of_Isengard%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Narsil%2C_Rivendell%2C_Council_of_Elrond%2C_Morgul-spells%2C_Doom%2C_One_Ring%2C_Hobbits> ;
+    tg:title "\"Seek for the Sword that was broken:\""@en ;
+    tg:written <http://localhost:8000/resource/After_August_of_1940> .
+
+<http://localhost:8000/resource/Shadow-Bride> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''The Shadow Man''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Annual_of_Our_Lady%27s_School_%281936%29> ;
+    tg:revised <http://localhost:8000/resource/1961_or_1962> ;
+    tg:subject <http://localhost:8000/resource/Red_Book_of_Westmarch> ;
+    tg:title "Shadow-Bride"@en ;
+    tg:written <http://localhost:8000/resource/1933_or_1934> .
+
+<http://localhost:8000/resource/Smakkabagms> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:subject <http://localhost:8000/resource/Gothic%2C_trees> ;
+    tg:title "''Smakkabagms''"@en ;
+    tg:written <http://localhost:8000/resource/Possibly_around_1924_and_before_1936.> .
+
+<http://localhost:8000/resource/Song_of_Beren_and_L%C3%BAthien> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "Light as Leaf on Lindentree<br>As Light as Leaf on Lindentree<br>Light as Leaf on Linden-tree<br>As Light as Leaf on Linden-tree<br>Light as Leaf on Linden<br>Tinúviel"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Fellowship_of_the_Ring%27%27%2C%3Cbr%3E%27%27The_Lays_of_Beleriand%27%27%2C%3Cbr%3E%27%27The_Return_of_the_Shadow%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Beren_and_L%C3%BAthien> ;
+    tg:title "\"The leaves were long, the grass was green,\""@en .
+
+<http://localhost:8000/resource/Song_of_the_Ent_and_Entwife> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "\"Of the Ents and Entwives\""@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Two_Towers%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Search_of_the_Ents> ;
+    tg:title "\"''The Song of the Ent and the Entwife''\""@en ;
+    tg:written <http://localhost:8000/resource/Late_1941_or_early_1942> .
+
+<http://localhost:8000/resource/Song_of_the_Mounds_of_Mundburg> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "Between 1938 and 1954"@en ;
+    tg:subject <http://localhost:8000/resource/Mounds_of_Mundburg%2C_Gondorians%2C_Rohirrim%2C_Battle_of_the_Pelennor_Fields> ;
+    tg:title "\"We heard of the horns in the hills ringing,\""@en ;
+    tg:written <http://localhost:8000/resource/Between_1938_and_1954> .
+
+<http://localhost:8000/resource/Tha_Eadigan_Saelidan%3A_The_Happy_Mariners> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''The Happy Mariners'',<br>''Þá Éadiȝan Sǽlidan''<ref name=collectedpoems>{{CP|33}}</ref>"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Stapeldon_Magazine%27%27%2C%3Cbr%3E%27%27A_Northern_Venture%27%27%2C%3Cbr%3E%27%27The_Book_of_Lost_Tales_Part_Two%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/9_September_1915%2C%3Cbr%3EAround_1940> ;
+    tg:subject <http://localhost:8000/resource/Sleeper%2C_Tower_of_Pearl> ;
+    tg:title "Tha Eadigan Saelidan: The Happy Mariners"@en ;
+    tg:written <http://localhost:8000/resource/24_July_1915> .
+
+<http://localhost:8000/resource/The_Battle_of_the_Eastern_Field> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27King_Edward%27s_School_Chronicle%27%27%2C%3Cbr%3E%27%27Mallorn_12%27%27%2C%3Cbr%3E%27%27Mallorn_13%27%27%2C%3Cbr%3E_%27%27Mallorn_46%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/After_March_of_1911> ;
+    tg:subject <http://localhost:8000/resource/Wikipedia%3ARugby> ;
+    tg:title "The Battle of the Eastern Field"@en ;
+    tg:written <http://localhost:8000/resource/Before_March_of_1911> .
+
+<http://localhost:8000/resource/The_Complaint_of_M%C3%AEm_the_Dwarf> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "Mîms Klage"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Klett-Cotta%3A_Das_erste_Jahrzehnt_1977-1987%3A_Ein_Almanach%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "1961 or 1962"@en ;
+    tg:subject <http://localhost:8000/resource/M%C3%AEm> ;
+    tg:title "The Complaint of Mîm the Dwarf"@en ;
+    tg:written <http://localhost:8000/resource/1961_or_1962> .
+
+<http://localhost:8000/resource/The_Hoard> a schema:CreativeWork ;
+    tg:caption <http://localhost:8000/resource/%22The_Hoard%22_by_Pauline_Baynes> ;
+    tg:image "Pauline Baynes - The Hoard.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "Iúmonna Gold Galdre Bewunden"@en ;
+    tg:published "1962"@en ;
+    tg:title "The Hoard"@en ;
+    tg:written "1923 (as ''Iúmonna Gold Galdre Bewunden'')"@en .
+
+<http://localhost:8000/resource/The_Last_Ship> a schema:CreativeWork ;
+    tg:caption <http://localhost:8000/resource/%22The_Last_Ship%22_by_Pauline_Baynes> ;
+    tg:image "Pauline Baynes - The Last Ship.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Fíriel''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Chronicle_of_the_Convents_of_the_Sacred_Heart_%28Volume_IV%29> ;
+    tg:revised <http://localhost:8000/resource/1961> ;
+    tg:subject <http://localhost:8000/resource/F%C3%ADriel_%28The_Last_Ship%29> ;
+    tg:title "The Last Ship"@en ;
+    tg:written <http://localhost:8000/resource/Before_1933> .
+
+<http://localhost:8000/resource/The_Lay_of_the_Fall_of_Gondolin> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Lays_of_Beleriand%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:subject <http://localhost:8000/resource/Gondolin> ;
+    tg:title "The Lay of the Fall of Gondolin"@en ;
+    tg:written <http://localhost:8000/resource/Early_1920s%3Cref_name%3Dguide%3E%7B%7BCG> .
+
+<http://localhost:8000/resource/The_Little_House_of_Lost_Play%3A_Mar_Vanwa_Tyali%C3%A9va> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''You and Me / and the Cottage of Lost Play'',<br>''Pæt húsincel ǽrran gamenes'',<br>''The Cottage of Lost Play: Mar Vanwa Tyaliéva'',<br>''The House of Lost Play; Mar Vanwa Tyaliéva'',<br>''Mar Vanwa Tyaliéva, The Cottage of Lost Play''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Book_of_Lost_Tales_Part_One%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Late_1961_or_early_1962> ;
+    tg:subject <http://localhost:8000/resource/Mar_Vanwa_Tyali%C3%A9va> ;
+    tg:title "The Little House of Lost Play: Mar Vanwa Tyaliéva"@en ;
+    tg:written <http://localhost:8000/resource/27_April_and_28_April_of_1915> .
+
+<http://localhost:8000/resource/The_Ruined_Enchanter> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''The Ruined Enchanter: A Fairy Ballad''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Around_1927> ;
+    tg:subject <http://localhost:8000/resource/Belmarie> ;
+    tg:title "The Ruined Enchanter"@en ;
+    tg:written <http://localhost:8000/resource/11_November_of_1919> .
+
+<http://localhost:8000/resource/The_Song_of_%C3%86lfwine> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "The Nameless Land,<br>Ælfwine's Song calling upon Eärendel,<br>The Song of Ælfwine (on seeing the uprising of Eärendel)"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Realities%3A_An_Anthology_of_Verse%27%27%2C%3Cbr%3E%27%27The_Lost_Road_and_Other_Writings%27%27%2C%3Cbr%3E%27%27Tolkien%27s_Legendarium%3A_Essays_on_The_History_of_Middle-earth%27%27%2C%3Cbr%3E> ;
+    tg:revised "August 1924, 1936 or 1936, 1950s<ref name=collectedpoems>{{CP|74}}</ref>"@en ;
+    tg:subject <http://localhost:8000/resource/%C3%86lfwine%2C_E%C3%A4rendil%2C_Tol_Eress%C3%ABa%2C_Straight_Road> ;
+    tg:title "The Song of Ælfwine on seeing the uprising of Eärendil"@en ;
+    tg:written <http://localhost:8000/resource/May_1924> .
+
+<http://localhost:8000/resource/The_Stone_Troll> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Pēro & Pōdex'',<br>''The Root of the Boot'',<br>Troll-song"@en ;
+    tg:published <http://localhost:8000/resource/%27%27Songs_for_the_Philologists%27%27%2C%3Cbr%3E%27%27The_Fellowship_of_the_Ring%27%27%2C%3Cbr%3E%27%27The_Adventures_of_Tom_Bombadil%27%27%2C%3Cbr%3E%27%27The_Poetry_of_J.R.R._Tolkien%27%27%2C%3Cbr%3E%27%27The_Tolkien_Papers%27%27%2C%3Cbr%3E%27%27The_Annotated_Hobbit%27%27%2C%3Cbr%3E%27%27The_Return_of_the_Shadow%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Around_1962> ;
+    tg:subject <http://localhost:8000/resource/Trolls> ;
+    tg:title "The Stone Troll"@en ;
+    tg:written <http://localhost:8000/resource/Around_1923_or_1924> .
+
+<http://localhost:8000/resource/The_cold_hard_lands> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Two_Towers%27%27%2C%3Cbr%3E%27%27The_War_of_the_Ring%27%27%2C%3Cbr%3E%27%27The_Annotated_Hobbit%27%27%2C%3Cbr%3E%27%27The_J.R.R._Tolkien_Audio_Collection%27%27%2C%3Cbr%3E%27%27The_History_of_The_Hobbit%27%27> ;
+    tg:revised <http://localhost:8000/resource/Between_21_September%2C_1937_and_11_November%2C_1954> ;
+    tg:subject <http://localhost:8000/resource/Fish%2C_Riddle-game> ;
+    tg:title "\"The cold hard lands\""@en ;
+    tg:written <http://localhost:8000/resource/Between_1929_and_1937> .
+
+<http://localhost:8000/resource/Twenty_years_have_flowed_away_down_the_long_river> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised "1958"@en ;
+    tg:subject <http://localhost:8000/resource/Quenya> ;
+    tg:title "\"Loä yukainen avar Anduinë sí valútier:\""@en ;
+    tg:written <http://localhost:8000/resource/1958> .
+
+<http://localhost:8000/resource/Valedictory> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names <http://localhost:8000/resource/%27%27From_Wikipedia%3AIffley> ;
+    tg:published <http://localhost:8000/resource/%27%27Stapeldon_Magazine%27%27%2C%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Before_1915> ;
+    tg:subject <http://localhost:8000/resource/Wikipedia%3AIffley> ;
+    tg:title "Valedictory"@en ;
+    tg:written <http://localhost:8000/resource/October_of_1911> .
+
+<http://localhost:8000/resource/Visio_de_Doworst> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:other_names "''Doworst'',<br>''Do Worst'',<br>''Visio Petri Aratoris de Doworst'',<br>''Incipit Visio Petri Aratoris de Doworst''"@en ;
+    tg:published <http://localhost:8000/resource/%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/Summer%2C_1953> ;
+    tg:subject "Non-legendarium poetry"@en ;
+    tg:title "Visio de Doworst"@en ;
+    tg:written <http://localhost:8000/resource/Around_1933> .
+
+<http://localhost:8000/resource/When_winter_first_begins_to_bite> a schema:CreativeWork ;
+    tg:infoboxTemplate <http://localhost:8000/template/poem_infobox> ;
+    tg:published <http://localhost:8000/resource/%27%27The_Fellowship_of_the_Ring%27%27%3Cbr%3E%27%27The_Adventures_of_Tom_Bombadil%27%27%3Cbr%3E%27%27The_Collected_Poems_of_J.R.R._Tolkien%27%27> ;
+    tg:revised <http://localhost:8000/resource/1962> ;
+    tg:subject <http://localhost:8000/resource/The_Wild%2C_Bilbo_Baggins%2C_Red_Book_of_Westmarch%2C_Hobbits> ;
+    tg:title "When winter first begins to bite"@en ;
+    tg:written <http://localhost:8000/resource/Late_August%2C_1940%2C%3Cbr%3EAutumn%2C_1941%2C%3Cbr%3E5_November%2C_1956> .
+

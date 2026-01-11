@@ -1,0 +1,44 @@
+{{disambig-more|Westmarch|[[Westmarch (disambiguation)]]}}
+{{kingdom
+| name=Westmarch
+| image=Miriam Ellis - The Fairbairns of Westmarch.png
+| caption= "[[Fairbairn family|The Fairbairns]] of Westmarch" by [[Miriam Ellis]]
+| pronun=
+| othernames=
+| location=Western [[Eriador]], between the [[Far Downs]] and the [[Tower Hills]]
+| capital=[[Undertowers]]
+| towns=
+| regions=
+| population=[[Hobbits]]
+| language=[[Hobbitish]]
+| govern1=[[Warden of Westmarch]]
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Gifted to [[the Shire]]
+| event1date={{FoA|31}}
+| event2=
+| event2date=
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+}}
+The '''Westmarch''' of [[the Shire]] was land that lay between the [[Far Downs]] and the [[Tower Hills]] in [[Eriador]], west of and originally outside of the Shire.  The only known town in this new district was [[Undertowers]].<ref name="Later">{{App|Later}}</ref>
+
+==History==
+In {{SR|1452}}, the Westmarch was given to the [[Shire-hobbits]] as a gift from [[Aragorn|King Elessar]].<ref name="Later"/>
+
+At the request of Mayor [[Samwise Gamgee|Samwise]], [[Thain]] [[Peregrin Took|Peregrin I]] made [[Fastred of Greenholm]] the first [[Warden of Westmarch]] in {{SR|1462}}. Fastred and [[Elanor Gardner]] moved to [[Undertowers]]; many other hobbits migrated to the Westmarch.<ref name="Later"/>
+
+The Warden kept the [[Red Book of Westmarch]] as an heirloom of the [[Fairbairn Family]].  It was long preserved at Undertowers and was the most important source for the history of the [[War of the Ring]].<ref>{{FR|Records}}</ref>
+{{References}}
+[[Category:Regions of the Shire]]
+[[de:Westmark]]
+[[fr:encyclo/geographie/regions/comte/marche-de-l ouest]]
+[[fi:Länsikaira]]

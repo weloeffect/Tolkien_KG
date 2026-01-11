@@ -1,0 +1,30 @@
+{{VTbox
+| title=Vinyar Tengwar 8
+| image = Vinyar Tengwar 8.png
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Edouard Kloczko]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=November [[1989]]
+| format=Paperback journal
+| pages=16
+}}
+'''''Vinyar Tengwar 8''''' is the eighth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|7|9}}
+
+==Contents==
+* Cover: Full Chart of the ''Tengwar''✫ — Edouard Kloczko
+* E.L.F. News
+* Letters to ''VT''
+
+* "Views on Elvish" — Edouard Kloczko
+* "''Essitalmar'': Place-names of Beleriand" (column, with fold-out map) — Tom Loback
+* "Transitions in Translations: The Portuguese Gnome" (column) — Arden R. Smith
+* "The Rime of the Ancient Philologer" — Paul Nolan Hyde
+
+<small>✫ contains formerly unpublished material</small>
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 08}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 8]]

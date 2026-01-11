@@ -1,0 +1,52 @@
+{{expansion}}
+{{War
+|previous=[[War of Wrath]]
+|next=[[War of the Last Alliance]]
+|image=[[File:Peter Xavier Price - Celebrimbor's Death.jpg|300px]]
+|name=War of the Elves and Sauron
+|begin={{SA|1693}}
+|end={{SA|1701}}
+|place=Throughout [[Eriador]], but centred on the land of [[Eregion]]
+|result=Victory for the [[Elves]] and allies
+*[[Eregion]] destroyed
+*[[Sauron]] defeated and driven from Eriador
+*Founding of [[Imladris]]
+|battles=[[Sack of Eregion]], [[First Siege of Imladris]], [[Battle of the Gwathló]]
+|side1=[[Elves of Eregion]]<br />[[Elves of Lindon]]<br />[[Elves of Lórinand]]<br />[[Númenóreans]]<br />[[Dwarves of Khazad-dûm]]
+|side2=Forces of [[Sauron]]
+|commanders1=[[Gil-galad]]<br />[[Celebrimbor]] †<br />[[Elrond]]<br />[[Celeborn]]<br />[[Amroth]]<br />[[Tar-Minastir|Minastir]]<br />[[Ciryatur]] <br />[[Durin III]]
+|commanders2=[[Sauron]]
+}} 
+The '''War of the Elves and Sauron''', also known as '''the first war with Sauron''',<ref>{{UT|Wife}}</ref>{{rp|270}} was a great war fought in the [[Second Age]] between the forces of [[Sauron]] and the Elves in [[Eriador]] and their allies. 
+
+==Background==
+{{seealso|Rings of Power}}
+During the Second Age, [[Sauron]] planned to corrupt the Elves and put them under his dominion. In his guise as [[Annatar]], he attempted to seduce the [[Eldar]]. Both [[Gil-galad]] and [[Elrond]] rejected him from Lindon, but the [[Gwaith-i-Mírdain|Smiths of Eregion]] were won over. Sauron instructed the [[Elves of Eregion]] in the making of the [[Rings of Power]], including aiding the forging of the [[Nine Rings|Nine]] and the [[Seven Rings|Seven]]. Sauron returned to Mordor and secretly constructed the [[One Ring]] to enslave the bearers of the other Rings.<ref name="Concerning">{{UT|Concerning}}</ref> Unbeknownst to him, the Elves had made [[Three Rings]] of their own, so that when Sauron took up his own Ring, they understood his intentions and his centuries of planning came to nothing.<ref name="rings">{{S|Rings}}</ref>
+
+==History==
+===Prelude===
+What he could not control by subtlety and deception, Sauron resolved to destroy by force. He obtained the allegiance of Men that lived in lands that were adjacent to Mordor, including in regions of the [[White Mountains]] and in [[Calenardhon]]. The [[Númenóreans]] who occupied the [[Ethir Anduin]] and the coasts of [[Lebennin]] discovered his activities and informed Gil-galad. However, Sauron did not allow the tribes of eastern Men to come in sight of the Númenóreans or of Men of good will that lived in Eriador, Calenardhon, the Vales of Anduin, Greenwood the Great or in the plains between that wood and Mordor, to avoid the risk that his gathering of armies in the east would be discovered. Sauron gathered and trained his armies for approximately ninety years before he felt ready to attack. He was unable to gather as many troops as he hoped for, because powerful enemies in the East and South opposed his efforts.<ref name="Delay">{{NM|P3xviii}}</ref> Among those enemies were the two [[wizards]] [[Morinehtar]] and [[Rómestámo]]. Their task was to stir up rebellion and to cause dissension and disarray in the East. Otherwise the forces of the East would have outnumbered those of the West in the Second Age and in the Third Age.<ref name="PMLast">{{PM|Last}}, The Five Wizards, pp. 384-85</ref> In {{SA|1695}}<ref name="SA">{{App|SA}}</ref> Sauron's vast armies passed through Calenardhon, invaded Eriador through the [[Gap of Rohan]], and turned north to attack Eregion. As a result of the Númenóreans having cut down many of the trees of [[Minhiriath]] and [[Enedwaith]], the people inhabiting these lands welcomed Sauron's conquest and let him pass. Sauron left a force at Tharbad, and his armies marched on to Eregion <ref name="Concerning" />
+
+===Destruction of Eregion===
+{{main|Sack of Eregion}}
+[[File:Kimberly - Celebrimbor.jpg|left|200px|thumb|''Celebrimbor'' by [[:Category:Images by Kimberly|Kimberly]]]]
+[[Celeborn]] led a force from Eregion, and defeated the first wave of Sauron's army. However, he could not hold them off indefinitely. Celeborn's force was overwhelmed and driven back to [[Ost-in-Edhil]]
+When news of the invasion reached [[Gil-galad]], he sent a force commanded by [[Elrond]] from [[Lindon]] to reinforce Eregion, and sent word to [[Númenor]] for aid.<ref name="Concerning" /> Elrond's forces were held back by Sauron's greater host and Eregion was devastated. In {{SA|1697}}, [[Ost-in-Edhil]] fell, with [[Celebrimbor]] himself leading a last desperate defence on the steps of the [[House of the Mírdain]]. He was taken captive by the [[Orcs]] and Sauron demanded that the Rings of Power be turned over to him, as well as the Three Rings. Celebrimbor yielded the [[Nine Rings]] and later even the [[Seven Rings]], but was able to hide the identities of those who bore the Three. Later Celebrimbor was shot through with Orc-arrows, and by some accounts, Sauron used Celebrimbor's body as a banner as he turned to face Elrond's host.<ref name="Concerning" />
+
+===Founding of Imladris===
+Elrond's force was far smaller than Sauron's army, and was at risk of being overrun when the [[Dwarves of Khazad-dûm]] and the [[Galadhrim|Elves]] of [[Lothlórien|Lóriand]] led by [[Amroth]] attacked Sauron's rear guard. Thus, the beleaguered Elrond was able save many of the Elves of Eregion by escaping into the north and founding the stronghold of [[Rivendell|Imladris]]. Once the Dwarves returned to Khazad-dûm, the [[Doors of Durin]] were shut and remained so until the [[Fellowship of the Ring]] came there thousands of years later. 
+
+Sauron gathered up the Rings of Power that remained, except for the Three Rings, which had been sent far from Eregion at the beginning of the war, and laid waste the land of Eregion, bringing an end to its people. The surviving Elves of Eregion seem to have scattered, as there are various accounts of their fates. Some fled northward to join Elrond and settled at [[Imladris]].<ref name="Concerning" /> They were joined there by others of their kind who had escaped into the [[Rhovanion|Wild]], and only later found their way to safety. Many of these people seem to have later abandoned [[Middle-earth]] and sailed into the [[West]]. Other survivors escaped into Khazad-dûm and were granted passage by their friends the [[Dwarves]], coming eventually through the [[Misty Mountains|Mountains]] to the woodlands that would long afterwards be called [[Lothlórien]].<ref name="Concerning" />
+
+===Sauron Routed===
+{{main|Battle of the Gwathló}}
+Over the next six years, Sauron's armies overran [[Eriador]] and moved west, aiming to take Lindon and claim one or more of the Three Rings. By {{SA|1699}}, Sauron has completely overrun Eriador and all its lands, save for Imladris and Lindon. However, Imladris was under siege and Gil-galad was barely holding the Line of Lhûn and the [[Grey Havens|Mithlond]]. Sauron had summoned more forces coming from the South East, in the hopes of obtaining the Grey Havens.{{Fact}} There, just as Sauron's victory looked secure, a fleet appeared in the north, carrying the forces of [[Númenor]] sent by Tar-Minastir, the heir<ref name="Delay" /><ref>{{UT|Kings}}, entry X ''Tar-Telperien''</ref><ref group="note">His aunt Queen [[Tar-Telperiën]] only surrendered the sceptre in [[Second Age 1731]]. In addition the chapter XVIII Note on the Delay of Gil-galad and the Númenóreans in The Nature of Middle-earth mentions "the great host of Minastir" instead of "the great host of Tar-Minastir".</ref> of Queen [[Tar-Telperiën]]. The [[Númenóreans]], led by [[Ciryatur]], forced Sauron's armies to retreat south-east with heavy losses. Sauron was defeated again at [[Sarn Ford]], and was pushed out of Eriador, where he burned the forests of Minhiriath and Enedwaith. He had only a small fraction of his army remaining, although he was eventually reinforced by the Orcs he had garrisoned at Tharbad early in the campaign. However, Ciryatur had sent a portion of the Númenórean army to [[Vinyalondë|Lond Daer]], and Sauron found himself attacked from in front and behind in the [[Battle of the Gwathló]], from which he barely escaped. An ensuing battle in eastern [[Calenardhon]] stripped Sauron of all but a tiny bodyguard, with which he retreated into Mordor.<ref name="Concerning" />
+
+===Aftermath===
+After Sauron's defeat, the [[White Council]] was held. The exact members are unknown, but this Council was not composed of later members such as the [[Istari]], but likely of Elf-lords and Captains of Men. Here it was decided that Imladris should become the new Elvish stronghold in eastern Eriador, rather than in Eregion and Ost-in-Edhil. In recognition of his efforts, Gil-galad secretly bestowed the ring [[Vilya]] upon Elrond at this time and made him his vice-regent in Eriador.<ref name="Concerning" />
+
+The might of Númenor was first revealed to Middle-earth, and the first signs of the Shadow upon Westernesse had appeared. Sauron cursed and vowed vengeance upon the Númenóreans, whom he now hated.{{Fact}} 
+
+{{references|n}}
+[[Category:Conflicts of the Second Age]]
+[[Category:Wars]]

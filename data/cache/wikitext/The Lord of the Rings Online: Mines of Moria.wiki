@@ -1,0 +1,90 @@
+{{disambig-more|Mines of Moria|[[The Mines of Moria (disambiguation)]]}}
+{{video game infobox
+| image = The Lord of the Rings Online- Mines of Moria.jpg
+| name=The Lord of the Rings Online:<br>Mines of Moria
+| developer=[[Turbine|Turbine, Inc]]
+| publisher=[[Turbine|Turbine, Inc]]<br />[[Midway Games]]<br />[[Codemasters]]<br/>[[NHN Corporation]] (South Korea)<ref>{{webcite|author=William Dobson|articleurl=http://www.engadget.com/2009-04-23-lord-of-the-rings-online-launches-in-korea-and-russia.html|articlename=Lord of the Rings Online launches in Korea and Russia|dated=23 April 2009|website=Engadget|accessed=23 August 2020}}</ref>
+| platform=Microsoft Windows
+| releasedate=[[18 November|November 18]], [[2008]]
+| genre=MMORPG
+|}}
+'''''The Lord of the Rings Online: Mines of Moria''''' is the first expansion for ''[[The Lord of the Rings Online]]'' and encompasses volume II of the game's storyline.
+
+The game's storyline starts at the beginning of ''[[The Fellowship of the Ring]]'' Book II, Chapter III "[[The Ring goes South]]" and currently ends at the midpoint of Book II, Chapter VI "[[Lothlórien (chapter)|Lothlórien]]".
+
+==Release==
+The second volume of ''[[The Lord of the Rings Online]]'' was announced by Turbine on March 18, 2008 at Codemasters Online Connect. The game was eventually released on November 18, 2008.
+
+===Unlock the Mines of Moria===
+The expansion was promoted through playing web-based minigames. Visitors could play three games: King Under the Mountain, Swig & Toss, Eleventy-Seven Morsels at the [http://www.unlocktheminesofmoria.com/ official site]. By performing certain tasks players could complete "deeds", three of which unlocked a "goodie". These included one trailer and three pieces of game art. By applying for a beta invitation, players could also receive a fourth game art.
+
+==New Classes==
+The expansion adds two new classes to the game: Warden and Rune-keeper.
+
+'''Wardens''' primarily use spears (though they can opt for other small arms) and wear medium armour, making them neither a tank nor a DPS class specifically. Designed to represent the equivalent of a town sheriff, Wardens are protectors that specialize in combination attacks using their Gambit User Interface. The idea is that a Warden will execute their abilities in certain sequences that eventually culminate in a special attack only available after completing the prescribed set of moves. In practice, the Warden's Gambit UI is an array of two to five (depending on character level) squares that slot the abilities as you use them. Once all of the squares have been filled, a new skill will flash at the end of the bar as it becomes available. 
+
+'''Rune-keepers''' are the closest things to magic-users offered in The Lord of the Rings Online, but they aren't magicians in the traditional sense. Their new Attunement mechanic is represented by a bar with a sliding scale to illustrate whether they're attuned to dealing damage or healing wounds. As a Rune-keeper uses either healing or damaging abilities, the scale slides towards either end of the bar and the Rune-keeper's proficiency in either focus increases. As the Rune-keeper increases focus towards one end of the scale, more of those skills become available in greater power. However, the Rune-keeper will then also lose focus on the other end of the scale, making the skills associated with the opposite end unavailable. Therefore, the Rune-keeper can only effectively manoeuvre either their healing or damage abilities, but not both. Switching between proficiencies requires time. This release of this class was very controversial, as Turbine claims to have no use of magic in the Lord of the Rings worlds, as in the lore magic was restricted to the Valar. 
+
+As well as these new classes, current classes that were available with the release of ''[[The Lord of the Rings Online: Shadows of Angmar]]'' were improved with added skills for the additional levels included in the expansion.
+
+==Synopsis==
+===Book I - The Walls of Moria===
+An expedition of dwarves known as the Iron Garrison begins its attempts to excavate and enter the [[Hollin Gate]], lead by Brogur and Bosi. They finally succeeding with the player's help, yet when the last rocks are cleared, the [[Watcher in the Water]] attacks the assembled dwarves, claiming the life of Brogur's son Broin. As they regroup, they turn their hope to a discovered cache of older weapons, tasking the player with discovering if one such weapon might be endowed with the power to fight off such a foe as the Watcher. After selecting, training with, and reforging such a weapon, the Iron Garrison faces the Watcher again. This time, it is forced from the Black Pool, and the Iron Garrison passes into [[Moria]].
+
+===Book II - Echoes in the Dark===
+Establishing themselves in their new home, the Iron Garrison begins the task of rediscovering the lore and artefacts of their heritage. One such passage of lore speaks of an ancient dwarf-smith, favored by [[Durin VI|Durin]], who endeavoured to create an axe of solid mithril. So large was the task that an entire forge was created specifically for it: The Heart of Fire. After searching the mines for clues to its location, the Heart of Fire is unearthed, yet the axe, Zigilburk, is nowhere to be found. Nevertheless, the dwarves are heartened by the recovery of one of their greatest forges, and Brogur pushes onward into Moria, establishing a command post in the [[Twenty-First Hall]].
+
+===Book III - The Lord of Moria===
+Brogur sees to the defence of the Twenty-First Hall, only to learn of the presence of the White Hand's minions nearby. Meanwhile, excavation begins in the [[Chamber of Mazarbul]], producing the [[Book of Mazarbul]], a record of the demise of Balin's Company. While Bosi takes on the task of reading the tome in its entirety, his son Bori plans a strike against the White Hand in Broin's honour. While a pair of dwarves cause a diversion, Bori and the player sneak into the White Hand camp and confront the commander, Ashpar. Before he dies, he boasts that his is not the major power, and mentions the name Mazog. Brogur rests assured that Ashpar was simply boasting, yet the news weighs heavy on Bosi. Mazog, he reveals, was the orc commander who slew Balin's company at Mazarbul.
+
+===Book IV - Fire and Water===
+[[Image:Gorrem - Orc of Moria.jpg|thumb|Concept art of an [[Orcs|Orc]] of [[Moria]].]]
+The Orcs and Dwarves each prepare for war. Fearing that attacks may be imminent, Brogur and Bori see that the defenses are secured at the Twenty-First Hall, the Chamber of Crossroads, and the Heart of Fire. The player is sent into the rotting Waterworks and orc-infested Flaming Deeps beneath Moria to both harass the orcs and gather supplies. In the meantime, Bori sneaks a look at the [[Book of Mazarbul]], finding mention there of a dwarf named [[Óin|Oin]] who went off in search of Zigilburk. Bori and the player follow Oin's path, arriving after a time at a flooded treasury, The Hall of Mithril. There they find not only Zigilburk, but also Broin (wounded, but alive) and the [[Watcher in the Water]]. The player drives the Watcher from the hall, and the dwarves return in victory. Yet Broin confesses from his sickbed that he feels a dread about Zigilburk, and fears it may be cursed.
+
+===Book V - Drums in the Deep===
+Broin is still worried about the repercussions of recovering Zigilburk, and asks the player to tell Bori of his reservations. Bori laughs them off, and sends the player to Zabadgathol, Mazog's fortress, to defeat some of his bodyguards. Some of these in their dying words speak of an alliance they have obtained, and the player is again sent away to collect some of the treasure in Zabadgathol to see if it can shed some light on the issue. It is discovered that Mazog is indeed allied with [[Dol Guldur]]. After learning this, Bori plans a raid on Zabadgathol to defeat Mazog once and for all. Even with Zigilburk, Bori and the player are unsuccessful, and Bori along with the legendary axe are captured. After this blow, the player is sent by Brogur to consult with Bosi. He, too has lost hope in the expedition to reclaim Moria, and leaves it up to the player to see to the defenses during a major raid by Mazog's forces.
+
+===Book VI - The Shadowy Abyss===
+Even after the successful defence of several key locations, Bosi's spirits are still low. He sends the player to [[Lothlórien]] to seek help from the Elves of the Golden Wood. After proving to [[Haldir]] that you are indeed a friend, he asks the player to assist his brothers in patrolling the borders of the Wood while messengers are sent to [[Galadriel]] to relay Bosi's request for aid. By the time the task is done, a company of elves has already been sent to the Foundations of Stone, and the player is directed to help them. Once there, the player is directed to defeat some of Mazog's minions that are believed to have been sent into the Foundations to search for something, but the Elves believe Dol Guldur is behind this move of the orcs. After collecting confirmation that the orcs are indeed searching for something, the player is sent back to defeat some of them. After the player has slain many of the orcs, some more of the elves sent from Lothlórien ask for aid in other tasks. The player is instructed to find clues of [[Gandalf]]'s passage through the area, and also to help contain some of the nameless creatures that dwell in the Foundations. Finally, an elf named Magor has gone missing, and the others are getting worried. A clue is found outside a dark cave, and the player is sent in to see if Magor is inside. It is revealed that Magor was captured by orcs who took him inside the cave, and the player is able to free him from his captors. Magor then asks for the player's help in defeating the source of the evil that Galadriel sensed beneath Moria. After a hard-fought battle, the player defeats the nameless creature in the depths of the cave. Finally, hearing of the victory the Lady Galadriel summons the player to her garden where many secrets are revealed, including a partial explanation of the fate of Gandalf.
+
+This was the last story included in the initial release of the expansion.
+
+===Book VII - Leaves of Lórien===
+[[File:The Lord of the Rings Online - Leaves of Lórien.png|thumb|300px]]
+Book 7 was released on [[17 March]] [[2009]].  
+
+The Fellowship rests in [[Lothlórien|Lórien]], while elves and dwarves take their first steps toward peace. Bosi is granted an audience with [[Celeborn]] and [[Galadriel]], resulting in a contingent of [[Galadhrim]] being dispatched to aid the dwarves in Moria. Among their first joint tasks is to sweep an infestation of Globsnaga from a recent excavation in Buzun-ghar - a matter that proves especially frustrating to Broin, in the wake of Bori's capture. Instead of working to free their kinsmen, Brogur is pushing ahead with mining efforts, tasking Broin with searching old mining records for notes on potential nodes. Yet such efforts once again prove fruitful, as one record speaks of a secret emergency passage leading from Durin's throne (on which Mazog sits) to Buzun-ghar. Through its use, and the cooperation of elf and dwarf, Mazog is soon captured, yet Bori is nowhere to be found, having been sent away to [[Dol Guldur]]. [[Celeborn]] grants the player an audience, commending them while also disagreeing on the notion of sparing Mazog's life. And afterword, [[Haldir]] confesses the time may be drawing near for the elves to cross the [[Anduin]] to confront the evil in [[Mirkwood]].<ref name="book7">{{webcite|author=|articleurl=http://www.lotro.com/gameinfo/book-spotlights/342-vol2book7|articlename=Volume II: Book 7: Leaves of Lórien Spotlight|dated=|website=LOTRO|accessed=19 February 2012}}</ref>
+
+This update included:
+* Expansion of the Lothlórien Area, including [[Caras Galadhon]].<ref name="book7"/>
+* A new raid, named ''Strange Happenings'', has been added.<ref name="book7"/>
+* The [[Galadhrim]] are added as a new reputation faction.<ref name="book7"/>
+* Crafting instances enable players to gather resources.<ref name="book7"/>
+* The Ered Luin Introduction and, on lesser scale, the Bree-land Introduction are revamped.<ref name="book7"/>
+
+===Book VIII - Scourge of Khazad-dûm===
+[[File:The Lord of the Rings Online - Scourge of Khazad-Dûm.png|thumb|300px]]Book 8 was released on 23 June 2009.  
+
+After talking to Haldir the player visits the elves of Lothlórien and their history keeper asks the player to recount the finer points of how the player escaped with Mazog from his throne room, causing the player to "relive" the escape with varying results based on your prowess. Broin here helps with a changeable banner and by fighting alongside the player. Things get dangerous in spots but eventually the player escapes with Mazog and Broin (who has to survive). Mazog lets slip a chilling fact, that he's not interested in being a king of Moria because Moria will soon not be fit to rule. This probably refers to the fungus taking over the lower regions. The player then talks to the elves about this vile pestilence.<ref name="book8">{{webcite|author=|articleurl=http://www.lotro.com/gameinfo/book-spotlights/421-vol2-book8|articlename=Volume II: Book 8: Scourge of Khazad-dûm|dated=|website=LOTRO|accessed=19 February 2012}}</ref>
+
+This update included:
+* A radiance-gated multi-boss, 12-man raid - named ''Dar Narbugud'' is added.<ref name="book8"/>
+* One 6-man instance is added: ''The Halls of Crafting''.<ref name="book8"/>
+* Two 3-man instances are added:
+** ''Lumul-nar''<ref name="book8"/>
+** ''Nala-dum''<ref name="book8"/>
+* Continuation of the revamp of the Bree-land Introduction.<ref name="book8"/>
+* The Crafting system has been revived.<ref name="book8"/>
+
+==Trailer==
+<center><youtube>SaZ0Ow6zxPM</youtube></center>
+
+{{references}}
+{{lotro}}
+{{Videogames}}
+
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Online Mines of Moria}}
+[[Category:The Lord of the Rings Online expansions|Mines of Moria]]
+[[Category:Microsoft Windows games]]
+[[Category:Turbine games]]

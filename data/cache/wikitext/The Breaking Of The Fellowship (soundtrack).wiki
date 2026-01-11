@@ -1,0 +1,36 @@
+{{song
+| title=The Breaking of the Fellowship
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], Edward Ross
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=7:20
+| track=17
+| previous=[[Amon Hen (soundtrack)|Amon Hen]]
+| next=[[May It Be]]
+| spotify=https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i
+}}
+'''The Breaking Of The Fellowship''' is the seventeenth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+When the cold of winter comes
+Starless night will cover day
+In the veiling of the sun
+We will walk in bitter rain
+
+But in dreams
+I can hear your name
+And in dreams
+We will meet again
+
+When the seas and mountains fall
+And we come, to end of days
+In the dark I hear a call
+Calling me there,
+I will go there
+And back again
+</poem>
+{{title}}
+{{DEFAULTSORT:17}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

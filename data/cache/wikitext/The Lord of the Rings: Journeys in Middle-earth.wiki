@@ -1,0 +1,39 @@
+{{board game infobox
+| image = LotR JiME BoardGame 2019.webp
+| name=The Lord of the Rings: Journeys in Middle-earth
+| designer=Nathan I. Hajek, Grace Holdinghaus
+| publisher=[[Fantasy Flight Games]]
+| releasedate=[[2019]]
+| players=1-5
+| ages=14+
+}}
+'''The Lord of the Rings: Journeys in Middle-earth''' is a cooperative, app-based board game released by [[Fantasy Flight Games]]. ''The Lord of the Rings: Journeys in Middle-earth'' was announced on [[11 January]] [[2019]]<ref>[https://www.youtube.com/watch?v=ISBmaayR3oo&feature=emb_imp_woyt The Lord of the Rings: Journeys in Middle Earth] at [https://www.youtube.com Youtbe]</ref> and released on [[18 April]] 2019.<ref>[https://www.fantasyflightgames.com/en/news/2019/4/18/available-now-april-18/ Available Now - April 18] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref>
+
+==Expansions==
+The ''Shadowed Paths Expansion'' was announced on [[28 January]] [[2020]]<ref>[https://www.fantasyflightgames.com/en/news/2020/1/28/shadowed-paths/ Shadowed Paths] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref> and released on [[10 July]] 2020.<ref>[https://www.fantasyflightgames.com/en/news/2020/7/10/available-now-july-10/ Available Now - July 10] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref> ''Shadowed Paths'' adds 5 heroes, 25 enemy miniatures, 20 journey map tiles and an all new campaign in the app.
+
+===Character Packs===
+Character Packs are small expansions that add enemies and useful items to the game. They are released alongside downloadable campaigns, and the new figures correspond to enemies introduced in those campaigns. They aren't required to play the campaign, because you can use tokens to represent the new enemies. The ''Villains of Eriador Figure Pack'' was announced on [[12 April]] 2020<ref>[https://www.fantasyflightgames.com/en/news/2019/4/12/hunt-for-the-ember-crown/ Hunt For the Ember Crown] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref> and released on [[2 August]] 2020.<ref>[https://www.fantasyflightgames.com/en/news/2019/8/2/available-now-august-2/ Available Now - August 2] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref> It adds 3 plastic figures, 6 trinkets, and 3 titles. The ''Dwellers in Darkness Figure Pack'' was announced on [[6 August]] 2020<ref>[https://www.fantasyflightgames.com/en/news/2020/8/6/the-haunting-of-dale/ The Haunting of Dale] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref> and released on [[October 23]] 2020.<ref>[https://www.fantasyflightgames.com/en/news/2020/10/23/available-now-october-23/ Available Now: October 23] at [https://www.fantasyflightgames.com/en/index/ Fantasy Flight Games]</ref> It adds 3 plastic figures, new gear, and 3 titles.
+
+===Downloadable Campaigns===
+The app comes with a free campaign, ''Bones of Arnor'', and there are two downloadable campaigns, as well as the one that comes with the ''Shadowed Paths Expansion''(The second downloadable campaign requires the ''Shadowed Paths Expansion'').
+
+*''Bones of Arnor''
+Ancient kingdoms once spanned the realm of [[Arnor]], kingdoms that now lay in ruin. The Free People who still inhabit these lands are scattered, simple, and few. Beyond their poorly patrolled borders, an unknown darkness gathers, and only a small band of ostracized [[Rangers of the North|Rangers]] has taken notice of the threat.
+
+[[Halbarad]], captain of the northern watch, requests your aid. A shadow is within the borders, forces gather outside the Rangers' reach, and tales of unquieted dead begin to circulate anew.
+
+*''The Hunt for the Ember Crown''
+The roads of [[Bree-land]] are beset by marauding [[Wargs]], bolder and cleverer than the land has known for many years. The [[Thain]] of the [[Shire]] has been slow to react, for (say the rumours) something else darkens his thoughts. Th Thain has welcomed odd visitors into his home, and he has kept everyone tight-lipped about what troubles him so. With the Thain so distracted, the task falls to you to secure the Shire, as only bold heroes dare travel the wilderness in these troubled times...
+
+*''Shadowed Paths''
+Darkness is growing in the heart of [[Mirkwood|Mirkwood Forest]] and deep in the abandoned mines of [[Moria]]. Giant spiders and chilling shades terrorize those who stray from the path, and the [[Wood-elves]] are arming for war. Will your band of heroes brave the darkness to discover what new power lurks in the far corners of the land?
+
+*''Haunting of Dale''
+Fear grips the city of ''Dale'' as a mysterious shadow stalks through its recobbled streets and across its sleepy farmland. Dark rumours are traded over candlelight: the apparition appears in several places at once, it moves through stone and wood as if it were never there, and its appearance always foretells danger and death. As hysteria climbs, [[Bain|King Bain]], son of [[Bard]], seeks any brave enough to root out the truth and put the city's troubles to rest.
+{{references}}
+{{DEFAULTSORT:Lord of the Rings: Journeys in Middle-earth, The}}
+{{title|italics}}
+[[Category:Board games]]
+[[Category:Microsoft Windows games]]
+[[Category:Smartphone apps]]

@@ -1,0 +1,59 @@
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Almiel
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Númenor]]
+| affiliation=
+| language=[[Adûnaic]], [[Sindarin]] and [[Quenya]]
+| birth={{SA|729}}
+| birthlocation=[[Forostar]]
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Tar-Meneldur]] and [[Almarian]]
+| siblings=[[Tar-Aldarion|Anardil]] and [[Ailinel]]
+| spouse=
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Almiel''' ([[Quenya|Q]], pron. {{IPA|[ˈalmi.el]}}, stem ''Almield-'') was the third child and second daughter of [[Tar-Meneldur]] and [[Almarian]].  Her older brother was [[Tar-Aldarion|Anardil]], who when he became king was known as [[Tar-Aldarion]].<ref>{{UT|Kings}}</ref>
+
+When Aldarion built the great ship [[Palarran]] Tar-Meneldur was angry.  Though Queen Almarian stayed the king from prohibiting Aldarion from sailing, the king did forbid his wife and daughters from bringing a bough of ''[[oiolairë]]'' to the ship.  Because Almarian, Ailinel, and Almiel obeyed the king's command it gave [[Erendis]] the opportunity to present the token of goodwill to the prince, which kindled love in Aldarion for Erendis.<ref>{{UT|Wife}}</ref>
+
+==Etymology==
+''Almiel'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "Blessed Daughter" and is a compound of ''[[alma|almë]]'' ("good (or blessed) thing", "blessing", "piece of good fortune") and ''[[-iel]]'' (feminine suffix, "-daughter").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2220848169.html|articlename=Q. ''Almiel'' f.|website=Eldamo|accessed=21 January 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | ELE | | | | | | VEA | | | | | | |ELE=[[Tar-Elendil]]<br/><small>''{{SA|350|n}} - {{SA|751|n}}''</small>|VEA=[[Vëantur]]<br/><small>''b. {{SA|451|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|.| | | |!| | | | | | | |}}
+{{familytree | ELA |y| SIL | | ISI | | MEN |y| ALM | | | | | | |ELA=[[Elatan]]<br/><small>''unknown''</small>|SIL=[[Silmariën]]<br/><small>''b. {{SA|521|n}}''</small>|ISI=[[Isilmë]]<br/><small>''b. {{SA|532|n}}''</small>|MEN=[[Tar-Meneldur]]<br/><small>''{{SA|543|n}} - {{SA|942|n}}''</small>|ALM=[[Almarian]]<br/><small>''unknown''</small>}}
+{{familytree | | | |!| | | | | | | |,|-|-|-|+|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | VAL | | ERE |y| ALD | | AIL |y| ORC | | ALM |VAL=[[Valandil (Lord of Andúnië)|Valandil]]<br/><small>''b. {{SA|630|n}}''</small>|ERE=[[Erendis]]<br/><small>''{{SA|771|n}} - {{SA|985|n}}''</small>|ALD=[[Tar-Aldarion]]<br/><small>''{{SA|700|n}} - {{SA|1098|n}}''</small>|AIL=[[Ailinel]]<br/><small>''b. {{SA|712|n}}''</small>|ORC=[[Orchaldor]]<br/><small>''unknown''</small>|ALM='''ALMIEL'''<br/><small>''b. {{SA|729|n}}''</small>}}
+{{familytree | | | |:| | | | | |!| | | | | | | |!| | | | | | | |}}
+{{familytree | | | AND | | | | ANC |y| HAL | | SOR | | | | | | |AND=[[Lords of Andúnië|''Lords of<br/>Andúnië'']]|ANC=[[Tar-Ancalimë]]<br/><small>''{{SA|873|n}} - {{SA|1285|n}}''</small>|HAL=[[Hallacar]]<br/><small>''{{SA|852|n}} - {{SA|1211|n}}''</small>|SOR=[[Soronto]]<br/><small>''b. {{SA|799|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ANA | | | | | | | | | | | | |ANA=[[Tar-Anárion]]<br/><small>''{{SA|1003|n}} - {{SA|1404|n}}''</small>}}
+{{familytree/end}}
+{{References}}
+[[Category:House of Elros]]
+[[Category:Quenya names]]
+[[Category:Second Age characters]]
+
+[[de:Almiel]]
+[[fi:Almiel]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/almiel]]

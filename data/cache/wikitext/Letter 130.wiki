@@ -1,0 +1,13 @@
+{{letter infobox
+| #=130
+| to=[[Stanley Unwin]]
+| date=[[14 September]] [[1950]]
+| subject=''[[Riddles in the Dark]]''
+}}{{letter|130}}
+==Summary==
+Tolkien had, by way of example, sent in a new version of the chapter ''[[Riddles in the Dark]]'', which [[Allen and Unwin|Allen & Unwin]] included in the second edition of ''[[The Hobbit]]''.<ref group="notes">See [[Letter 128]]</ref>  Tolkien had hesitated about what to say in regards to two versions of this crucial event,<ref group="notes">See [[Letter 129]]</ref> but now decided to accept the existence of both.  With this letter came a short explanatory note, also meant for inclusion, saying that the text as it now was ([[Bilbo Baggins|Bilbo]] found/stole the [[The One Ring|Ring]]) was what actually happened, and that the earlier version (Bilbo won the Ring) was an attempt by Bilbo to cover this up.
+==Notes==
+<references group="notes"/>
+{{letters}}
+[[Category:Letters to Stanley Unwin]]
+[[de:Brief 130]]

@@ -1,0 +1,29 @@
+{{author infobox
+| image = Tove Jansson.jpg
+| name=Tove Jansson
+| born=[[9 August|August 9]] [[1914]] 
+| died=[[27 June|June 27]] [[2001]]
+| education=
+| occupation=Author, artist
+| location=Finland
+| website=
+|}}
+
+'''Tove Jansson''' ([[1914]]-[[2001]]) was a Finnish author and artist, most known for her books on ''[[wikipedia:Moomin|Moomin]]''.
+
+In [[1962]], Jansson contributed with the interior illustrations (more than 50 individual pieces) and cover art for the second Swedish edition of ''[[The Hobbit]]'' (''Bilbo – en hobbits äventyr''). These illustrations were also used in the 1973,<ref>{{HM|AH}}, p. 395.</ref> 2003 and 2012<ref>[https://fennica.linneanet.fi/vwebv/search?searchType=0&searchCode=020B&searchArg=9510282677&recCount=25&dbCode=LOCAL Fennica. The Finnish National Bibliography].</ref>  Finnish editions of ''The Hobbit''. Jansson wrote to Mikael Ahlström of the Finnish Tolkien Society in 1992 that "for me, illustrating ''The Hobbit'' was an adventure". The Moominvalley Museum in Tampere, Finland, foremostly devoted to Jansson's Moomin characters, also holds her original artwork for ''The Hobbit''.<ref>''[[The Annotated Hobbit: Revised and Expanded Edition]]''. See [http://www.houghtonmifflinbooks.com/features/lordoftheringstrilogy/hobbit/2_5.shtml (external link)]</ref>
+
+==External links==
+*[http://www.zepe.de/tjillu/hobbit/index.html Scans of Tove Jansson's illustrations for ''Bilbo – en hobbits äventyr'']
+*{{WP|Tove Jansson}}
+*[http://mythoi.tolkienindex.net/#post1 Astrid Lindgren and Tove Jansson about ''The Hobbit''] by [[Morgan Thomsen]]
+
+{{references}}
+{{IllustratorsCalendars}}
+{{DEFAULTSORT:Jansson, Tove}}
+[[Category:Artists]]
+[[Category:Authors]]
+[[Category:Finnish people]]
+[[Category:People by name]]
+[[de:Tove Jansson]]
+[[fi:Tove Jansson]]

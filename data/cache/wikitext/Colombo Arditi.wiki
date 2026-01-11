@@ -1,0 +1,43 @@
+{{modernpeople infobox
+| name=Colombo Arditi
+| people=[[Men|Man]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Tempestosa Professor of [[wikipedia:Italian language|Italian]]
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]], [[wikipedia:Italian language|Italian]]
+| birth=[[1940]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Colombo Arditi''' (born in [[1940]]) was a member of the [[Notion Club]].
+
+== History ==
+Colombo Arditi was educated at St. John's and was a professor of [[wikipedia:Italian language|Italian]]. He was fond of singing basso, swimming and the game of bowls; he also collected books and [[Cats]].<ref>{{SD|2b}}</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Arditi, Colombo}}
+[[Category:Characters from the later Ages]]
+[[Category:Men]]
+[[Category:The Notion Club Papers]]

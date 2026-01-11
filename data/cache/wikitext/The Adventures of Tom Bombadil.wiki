@@ -1,0 +1,122 @@
+{{disambig-two|the poetry collection titled ''The Adventures of Tom Bombadil''|poem by the same name|[[The Adventures of Tom Bombadil (poem)]]}}
+{{book
+| title=The Adventures of Tom Bombadil<br><small>and Other Verses from the Red Book</small>
+| image = Tom Bombadil 1962.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Wayne G. Hammond]], [[Christina Scull]] (2014 edition)
+| illustrator=[[Pauline Baynes]]
+| publisherUK=[[George Allen and Unwin]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[22 November]] [[1962]]
+| dateUS=[[1963]]
+| format=Hardcover; paperback
+| pages=64
+| isbn=0048210196
+| precededby=[[The Lord of the Rings]] (1954-5)
+| followedby=[[Tree and Leaf]] (1964)
+}}
+'''''The Adventures of Tom Bombadil and Other Verses from the Red Book''''' is a [[1962]] collection of poetry by [[J.R.R. Tolkien]]. The book contains 16 poems, two of which feature [[Tom Bombadil]], the rest of the poems are an assortment of [[Wikipedia:bestiary|bestiary]] verse and [[Wikipedia:fairy tale|fairy tale]] rhyme. Three of the poems appear in ''The Lord of the Rings'' as well. The book was originally illustrated by [[Pauline Baynes]].
+
+==Contents==
+The book's "[[Preface]]" presents the poems as a translation from the ''[[Red Book of Westmarch]]'', and gives some background information that is not found elsewhere: e.g. the name of the tower at [[Dol Amroth]] and the names of the [[Rivers of Gondor|Seven Rivers]] of [[Gondor]]. The poems carry some fictional backstory, linking them to [[Hobbit]] folklore; they are all supposedly works that Hobbits enjoyed and were preserved in the margins of the Red Book, with several of them being attributed to [[Bilbo Baggins]] and [[Sam Gamgee]].<ref>{{HM|A}}Richard C. West, ''The Adventures of Tom Bombadil'' (Review), [[Tolkien Studies: Volume 12]]</ref>
+
+* I. ''[[The Adventures of Tom Bombadil (poem)|The Adventures of Tom Bombadil]]''
+* II. ''[[Bombadil Goes Boating]]''
+* III ''[[Errantry]]''
+* IV. ''[[Princess Mee]]''
+* V. ''[[The Man in the Moon Stayed Up Too Late]]''
+* VI. ''[[The Man in the Moon Came Down Too Soon]]''
+* VII. ''[[The Stone Troll]]''
+* VIII. ''[[Perry-the-Winkle]]''
+* IX. ''[[The Mewlips]]''
+* X. ''[[Oliphaunt (poem)|Oliphaunt]]''
+* XI. ''[[Fastitocalon (poem)|Fastitocalon]]''
+* XII. ''[[Cat (poem)|Cat]]''
+* XIII. ''[[Shadow-Bride]]''
+* XIV. ''[[The Hoard]]''
+* XV. ''[[The Sea-Bell]]''
+* XVI. ''[[The Last Ship]]''
+
+The order of the poems form a thematical progress: two poems with the titular character, two "[[faerie]]" poems, two with the [[Man in the Moon]], two with [[Trolls]]; three "bestiary", and four "atmospheric/emotional". ''The Mewlips'' doesn't fit to a category, and placed in the middle as a divider.
+
+*Poems proposed but eventually omitted:
+**''[[The Trees of Kortirion]]'' and ''[[The Little House of Lost Play: Mar Vanwa Tyaliéva|You and Me]]'', later published in ''[[The Book of Lost Tales: Part One]]''
+**''[[The Dragon's Visit]]'', later published in the revised edition of ''[[The Annotated Hobbit]]''
+
+*Poems added in the 2014 extended edition:
+**''[[Once upon a Time]]'', a poem related to Tom Bombadil.
+**''[[An Evening in Tavrobel]]'', recounting an evening in [[Tavrobel]], a place in [[Tol Eressëa]] in the early version of the legendarium.
+
+==Background==
+[[Tom Bombadil]] was a figure in [[J.R.R. Tolkien]]'s mind that appeared in his writings at various times, including a [[1937]] poem; eventually he became a [[canon]]ical part of the [[Legendarium]] while Tolkien was writing ''[[The Lord of the Rings]]''.
+
+Tolkien's aunt [[Jane Neave]] enjoyed the figure of Tom in ''[[The Fellowship of the Ring]]'' and asked him if he could make a book out of him that would make an affordable [[Christmas]] present. As Tom was a vague, deliberately [[Tom Bombadil/Nature|unexplained figure]], Tolkien didn't feel that anything more could be told about him, but thought that his 1937 poem could be made into an illustrated booklet,<ref>''[[Bilbo's Last Song (at the Grey Havens)|Bilbo's Last Song]]'' was published years later in such a format.</ref> with [[Pauline Baynes]] in his mind. [[Rayner Unwin]] suggested to collect more poems with it so as to be a more publishable book. Tolkien then researched some older, half-forgotten poems (the value of which he doubted)<ref name=chron>{{CG|C}}</ref><ref>{{L|233}}</ref> and started a laborious process to rediscover, rub up, improve and re-write them; something which, as he wrote to his aunt, he greatly enjoyed.<ref>{{L|234}}</ref>
+
+Tolkien thought (and Baynes agreed) that the poems didn't fit together as a collection.<ref name=chron/> Part of Tolkien's re-writing attempted to make them fit with each other and into [[Hobbit]]-lore; he decided to include a Foreword that would make this connection, and wrote [[Bombadil Goes Boating|a second poem with Tom]] in order to fit him better into the world of [[the Shire]] and Hobbits.<ref>{{L|237}}</ref>
+
+;Illustrations
+Despite Baynes suggested that his poems were rather "felt", Tolkien insisted that his images were definite, clear and precise.<ref>{{L|235}}</ref> He instructed Baynes that the illustrations "shouldn't be comical". Then she collaborated with art editor Ronald Eames, and finished six illustrations by August [[1962]]. Though there were some criticism from Tolkien to Baynes' work, in the end, Tolkien credited for a large part Baynes for the commercial success of the book.
+
+==Extended edition==
+An extended edition was published in [[2014]], edited by [[Wayne G. Hammond]] and [[Christina Scull]]. This edition includes: an introduction by the editors, earlier versions of 13 poems with textual notes, a later 'Bombodil' poem ''[[Once upon a Time]]'', a previously unpublished text ''The Bumpus'', the predecessor of ''Perry-the-Winkle'', and the complete fragment of a prose story featuring Tom Bombadil.<ref>{{webcite|author=[[Wayne G. Hammond]] and [[Christina Scull]]|articleurl=http://wayneandchristina.wordpress.com/2014/01/15/new-tolkien-projects-part-one/|articlename=New Tolkien Projects, Part One|dated=15 January 2014|website=[http://wayneandchristina.wordpress.com/ Wayneandchristina.wordpress.com]|accessed=19 January 2014}}</ref> Some revision history of the poems are as follows:
+* Revised, title unchanged
+** ''The Adventures of Tom Bombadil''
+** ''Errantry'' (eventually became the ''[[Eärendillinwë]]'')
+** ''Fastitocalon''
+
+* Revised, title changed
+** ''[[The Princess Ní]]'' → ''Princess Mee''
+** ''[[The Man in the Moon Stayed Up Too Late|The Cat and the Fiddle]]'' → ''The Man in the Moon Stayed Up Too Late''
+** ''Why the Man in the Moon Came Down Too Soon'' → ''The Man in the Moon Came Down Too Soon''
+** ''Pēdo & Pōdex'' → ''[[The Root of the Boot]]'' → ''The Stone Troll''
+** ''The Bumpus'' → ''Perry-the-Winkle''
+** ''[[Knocking at the Door]]'' → ''The Mewlips''
+** ''Iumbo, or, Ye Kind of Ye Oliphaunt'' → ''Oliphaunt''
+** ''The Shadow Man'' → ''Shadow-Bride''
+** ''[[Iúmonna Gold Galdre Bewunden]]'' → ''The Hoard''
+** ''[[Looney]]'' → ''The Sea-Bell''
+** ''[[Firiel (poem)|Firiel]]'' → ''The Last Ship''
+
+The [[2024]] edition includes an "About the Artist" section before the [[Preface]].
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Tom Bombadil 1962 full.png|1962 hardcover
+File:Tom Bombadil 1990 hardcover.png|1990 hardcover
+File:Tom Bombadil 1990 paperback.png|1990 paperback
+File:Tom Bombadil 2014.png|2014 hardcover
+File:Tom Bombadil 2024.jpeg|2024 paperback
+</gallery>
+* First edition
+** [[George Allen & Unwin]] hardcover ([[1962]]), pp.&nbsp;64. ISBN 0048210196
+** [[Unwin Hyman]] hardcover ([[1990]]), pp.&nbsp;75. ISBN 0044407270
+** [[Unwin Paperbacks]] paperback ([[1990]]), ISBN 0044407262
+
+* Extended edition
+** [[HarperCollins]] hardcover ([[2014]]), pp.&nbsp;304. ISBN 0007557272 - (also part of the [[2015]] [[The Tolkien Treasury|Tolkien Treasury]] pocket set)
+** [[HarperCollins]] paperback ([[2024]]), pp.&nbsp;320. ISBN 0008700192
+
+;Audio performances
+*''[[Poems and Songs of Middle Earth]]''
+*''[[Tales from the Perilous Realm (1992 radio series)]]''
+
+==External links==
+*[http://www.hammondandscull.com/addenda/bombadil.html Addenda and Corrigenda (2014)] by Christina Scull and Wayne G. Hammond
+
+*[[Richard C. West]], [https://muse.jhu.edu/article/240222 Review of the extended edition], [[Tolkien Studies: Volume 12|Tolkien Studies. 12]]
+*[http://archive.thetablet.co.uk/article/15th-december-1962/15/from-an-antique-land-the-adventures-of-tom-bombadi Book review] at thetablet.co.uk
+*[http://www.tolkienlibrary.com/booksbytolkien/adventuresoftb/description.htm Book review] at Tolkien Library
+
+{{references}}
+{{perilousrealm}}
+{{Publishedmajorbooks}}
+{{DEFAULTSORT:Adventures of Tom Bombadil}}
+{{title|italics}}
+[[Category:The Adventures of Tom Bombadil| ]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Poetry books]]
+[[Category:Publications by title]]
+[[de:Die Abenteuer des Tom Bombadil]]
+[[fr:tolkien/biblio/atb]]
+[[fi:The Adventures of Tom Bombadil and other verses from the Red Book]]

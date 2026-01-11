@@ -1,0 +1,40 @@
+{{unnamed}}
+{{Poem infobox
+| title="Old fat spider spinning in a tree!"
+| other names=
+| written=Before [[1937]]
+| revised=Before [[1937]]
+| published=''[[The Hobbit]]'',<br>''[[The History of The Hobbit]]''
+| subject=[[Spiders]]
+}}
+
+"'''Old fat spider spinning in a tree!'''" is the first line of a poem written by [[J.R.R. Tolkien]] that was published in ''[[The Hobbit]]'' in [[1937]].<ref name=hobbit>{{H|8}}</ref>
+
+==First stanza==
+<poem style="font-style:italic; margin-left:20px;">
+Old fat spider spinning in a tree!
+Old fat spider can’t see me!
+     Attercop! Attercop!
+       Won't you stop,
+Stop your spinning and look for me?<ref name=hobbit/></poem>
+
+==History==
+[[Bilbo Baggins]] sang this poem to distract the [[spiders]] while attempting to save [[Thorin]] and his [[Thorin and Company|companions]] in [[Mirkwood]].<ref name=hobbit/>
+
+==Background==
+Tolkien first wrote the poem on some plot notes before he subsequently made minor changes to it.<ref name=history>{{HH|PNA}}, note 15</ref>
+
+==Portrayal in adaptations==
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:Though it was omitted from the final film, a version of the song appears on [[The Hobbit: The Complete Original Soundtrack|the soundtrack]], titled "[[Old Fat Spider]]". The vocals were performed by [[Glenn Yarbrough]].
+
+'''1985: [[The Hobbit (1985 television film)|''The Hobbit'' (1985 television film)]]'''
+:The words are used by Bilbo as in the book, though without singing.
+
+==See also==
+* [[Poems in The Hobbit|Poems in ''The Hobbit'']]
+
+{{references}}
+
+[[Category:Poems in The Hobbit]]
+[[fi:Vanha paksu hämähäkki]]

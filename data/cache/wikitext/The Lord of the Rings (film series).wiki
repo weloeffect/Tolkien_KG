@@ -1,0 +1,242 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{Film infobox
+| image = The Lord of the Rings (film series) - logo.jpg
+| caption = 
+| name=The Lord of the Rings 
+| director=[[Peter Jackson]]
+| producer=Peter Jackson<br/>[[Fran Walsh]]<br/>Barrie M. Osborne<br/>[[Philippa Boyens]]<br/>Tim Sanders<ref group="note">He only worked on ''The Fellowship of the Ring''.</ref>
+| writer=Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<br/>Stephen Sinclair<ref group="note">He only worked on ''The Fellowship of the Ring''.</ref><br/>'''(screenplay)'''<br/>[[J.R.R. Tolkien|J.R.R.Tolkien]]<br/>'''(novels)'''
+| narrator=
+| starring=[[Elijah Wood]]<br/>[[Ian McKellen]]<br/>[[Viggo Mortensen]]<br/>''[[The Lord of the Rings (film series)#Cast|See cast section below for more]]''
+| music=[[Howard Shore]]
+| cinematography=[[Andrew Lesnie]]
+| editing=John Gilbert<ref group="note">He only worked on ''The Fellowship of the Ring''.</ref><br/>Michael Horton<ref group="note">He only worked on ''The Two Towers''.</ref><br/>Jamie Selkirk<ref group="note">He is only crdited as editor on ''The Return of the King''.</ref>
+| studio= [[New Line Cinema]]<br/>[[WingNut Films]]
+| distributor=New Line Cinema<ref group="note">The films' distribution rights were transferred to  [[Warner Bros.|Warner Bros. Pictures]] in 2008.</ref>
+| released='''''The Fellowship of the Ring''''': 19 December 2001<br/>'''''The Two Towers''''': 18 December 2002<br/>'''''The Return of the King''''': 17 December 2003
+| runtime=557 minutes (Theatrical Edition)<br/>681 minutes (Extended Edition)
+| country=New Zealand<br/>United Kingdom<br/>United States
+| language=English
+| website=[http://www.lordoftherings.net Official Website]
+}}
+{{Blockquote|It's just going to be...I'm trying to think of the right word - without making it sound like the usual fashionable superlative. I think it will create film history. I think it's going to have the biggest impact, on screen, of anything of the last 40 or 50 years|Christopher Lee, SFX Magazine June #65}}
+'''''The Lord of the Rings''''' is a movie series consisting of three live-action films: ''[[The Lord of the Rings: The Fellowship of the Ring]]'', '' [[The Lord of the Rings: The Two Towers|The Lord of the Rings:]]'' [[The Lord of the Rings: The Two Towers|''The Two Towers'']], and ''[[The Lord of the Rings: The Return of the King]]''. All three films were directed by [[Peter Jackson]] and were based upon the ''[[The Lord of the Rings]]'' books by [[J.R.R. Tolkien]].
+
+Principal photography for all three films took place in [[New Zealand]] over a continuous eighteen-month period. It was the first time that three films had ever been shot together in this way, although some pairs of films had. There were several later "pick-up" shoots over the following months and years as the films were edited, special effects, were added, and the script was honed and revised. 
+
+*''The Lord of the Rings: The Fellowship of the Ring'' was released in December [[2001]], and won the [[Hugo Award]] for Best Dramatic Presentation of 2001.
+*''The Lord of the Rings: The Two Towers'' was released in December [[2002]].
+*''The Lord of the Rings: The Return of the King'' was released in December [[2003]], and won all eleven of the [[Academy Awards]] for which it was nominated, including the award for Best Picture.
+
+==Differences from the book==
+The films, for the most part, follow the storyline of the book. However, there are some major deviations as detailed within the pages for each film.
+
+==Cast==
+Principal actors and actresses include:
+{| class="wikitable mw-collapsible"
+|- style="background: var(--tg-color-surface-2);" 
+!Role!!Actor
+|-
+|[[Frodo Baggins]]||[[Elijah Wood]]
+|-
+|[[Gandalf]]||[[Ian McKellen]]
+|-
+
+|[[Aragorn]]||[[Viggo Mortensen]]
+|-
+|[[Arwen]]||[[Liv Tyler]]
+|-
+|[[Samwise Gamgee]]||[[Sean Astin]]
+|-
+|[[Saruman]]||[[Christopher Lee]]
+|-
+|[[Legolas]]||[[Orlando Bloom]]
+|-
+|[[Gimli]], voice of [[Treebeard]]||[[John Rhys-Davies]]
+|-
+|[[Elrond]]||[[Hugo Weaving]]
+|-
+|[[Galadriel]]||[[Cate Blanchett]]
+|-
+|[[Meriadoc Brandybuck]]||[[Dominic Monaghan]]
+|-
+|[[Peregrin Took]]||[[Billy Boyd]]
+|-
+|[[Éowyn]]||[[Miranda Otto]]
+|-
+|[[Éomer]]||[[Karl Urban]]
+|-
+|[[Théoden]]||[[Bernard Hill]]
+|-
+|[[Gríma|Gríma Wormtongue]]||[[Brad Dourif]]
+|-
+|[[Boromir]]||[[Sean Bean]]
+|-
+|[[Faramir]]||[[David Wenham]]
+|-
+|[[Denethor|Denethor II]]||[[John Noble]]
+|-
+|[[Gollum|Gollum/Sméagol]]||[[Andy Serkis]]
+|}
+
+==Facts and figures==
+
+*Amount of film shot during production: '''Over 6 million feet (over 1,800 kilometers)'''
+*Swords, axes, shields and makeup prostheses created: '''48,000'''
+*Background actors cast: '''20,602'''
+*Costumes produced by the wardrobe department: '''19,000'''
+*New Zealand cricket fans enlisted to create the [[Orcs|Orc]] army's grunts: '''10,000'''
+*Behind-the-scenes crew members: '''2,400''' at the height of production
+*Pairs of prosthetic [[Hobbits|Hobbit]] feet created: '''1,600'''
+*Most real horses in one scene: '''250'''
+*Computer special-effects artists employed: '''180'''
+*Total speaking roles: '''114'''
+*Locations in New Zealand used as backdrops: '''100'''
+*Tailors, cobblers, designers, et al. in the wardrobe department: '''50'''
+*Actors trained to speak fictional dialects and languages: '''30'''
+*Total years of development for all three films: '''7'''
+*Combined running time of the series (extended DVD editions): '''681 minutes (11 hours and 21 minutes)'''
+*Combined worldwide box-office gross: '''US$2,916,544,743'''<ref>http://www.boxofficemojo.com/search/?q=lord%20of%20the%20rings&p=.htm source</ref>
+*International all-time box office rankings: 2 (''Return of the King''), 5 (''Two Towers''), 7 (Fellowship of the Ring)<ref>http://www.boxofficemojo.com/intl/alltime/intl.htm</ref>
+
+==Academy Awards==
+
+If all three films are counted as one, the trilogy was nominated for 30 Academy Awards, of which it won 17.<ref>http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1129999202923</ref>
+
+The Awards were as follows (A Win is marked by a "W"):
+
+*'''Art Direction''' [''Fellowship'', ''Two Towers'', ''King'' (W)]
+*'''Cinematography''' [''Fellowship'' (W)]
+*'''Costume Design'''  [''Fellowship'', ''King'' (W)]
+*'''Directing'''  [''Fellowship'', ''King'' (W)]
+*'''Film Editing'''  [''Fellowship'', ''Two Towers'', ''King'' (W)]
+*'''Makeup''' [''Fellowship'' (W), ''King'' (W)]
+*'''Music''' (Original Score) [''Fellowship'' (W), ''King'' (W)]
+*'''Music''' (Original Song) [''Fellowship'': "May It Be", ''King'': "Into the West" (W)]
+*'''Best Picture'''  [''Fellowship'', ''Two Towers'', ''King'' (W)]
+*'''Sound'''  [''Fellowship'', ''Two Towers'']
+*'''Sound Editing''' [''Two Towers'']
+*'''Sound Mixing''' [''King'' (W)]
+*'''Supporting Actor''' [''Fellowship'': [[Ian McKellen]] ("[[Gandalf]]")]
+*'''Visual Effects''' [''Fellowship'' (W), ''Two Towers'' (W), ''King'' (W)]
+*'''Writing''' (Previously Produced or Published)  [''Fellowship'', ''King'' (W)]
+
+==Early development==
+Growing up in New Zealand, Peter Jackson had "heard" of ''Lord of the Rings,'' his childhood friend Andrew Neal having been a lifelong fan.<ref name=":0">Ian Pryor, ''Peter Jackson : from prince of splatter to Lord of the Rings'' (New York : Thomas Dunne Books, 2004), pp. 241 ff.</ref> Interested in fantasy films from early childhood, Jackson saw Ralph Bakshi's ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'' when it premiered in New Zealand. Although he "liked the early part"<ref name=":1">Brian Sibley, ''Peter Jackson: A Filmmaker's Journey'' (London: HarperCollins, 2006), pp. 47 ff.</ref> he found the film "disjointed" but wanted to know more. A few weeks later he picked up a tie-in paperback which he read over the following months. He later followed this up by the [[The Lord of the Rings (1981 radio series)|1981 radio serial]], which he would keep on listening to while working in his garage in the 1980s.
+
+Although he assumed it would eventually be adapted to live-action - he later read with interest of attempts to entice David Lean or Stanley Kubrick to direct - he remembers that "there was no romantic moment that had me sitting on the train thinking, 'One day I will make a film of this book!"<ref name=":1" /> Nevertheless, Jackson kept on entertaining notions of making a fantasy film somewhat in the Tolkien mould. For his first 16mm film in 1983, Jackson was inspired to make a ''Conan the Barbarian-''type film, getting as far as making swords and a Troll prosthetic before aborting the project in favour of ''Bad Taste''. After completing this, his first feature, he worked with Dany Mulheron on a "Terry Gilliam-esque" film called "''Blubberhead''."<ref>Sibley, pp. 119, 198.</ref> The script, completed in 1992, got Jackson a start at New Line Cinema but went no further.
+
+In early November 1995, towards the end of shooting on his first Hollywood picture, ''The Frighteners'', Jackson entertained notions of proceeding with ''Blubberhead.<ref name=":0" />'' His now-partner [[Fran Walsh]] opined that some elements were too deriviative of ''Lord of the Rings'' and ''The Hobbit.'' After a period of discussing this, they decided to proceed with adapting Tolkien's novels: this entailed starting with ''The Hobbit,'' which Jackson had not in fact read prior to this point and promptly set to read.<ref>@VillageGR, "THE HOBBIT - Interviews ( P. Jackson - P.Boyens)", ''Youtube'', 21 December 2012.</ref> A few days later, their agent [[Ken Kamins]] tracked the rights to producer [[Saul Zaentz]]. They were signed on a first look deal with Miramax, and although there was some question as to whether the scope of the project was covered in the deal, they decided to approach the studio in the specific interest of having a studio onboard for the negotiations with Zaentz. As it turned out, Miramax had just helped Zaentz' produce ''The English Patient''.<ref name=":2">Brian Sibley, ''Peter Jackson: A Filmmaker's Journey'' (London: HarperCollins, 2006), pp. 313ff.</ref>
+
+Note that the timetables here are a little murky: Kamins remembers talking to Miramax in "Late september" 1995,<ref>Kristin Thompson, ''The Frodo Franchise: The Lord of the Rings and Modern Hollywood'' (Berkeley: University of California Press, 2007), p. 23.</ref> which is certainly false since Jackson was still entertaining ''Blubberhead'' in November. Most accounts put the discussions as taking place partway through post-production on ''The Frighteners'', and Ian Nathan dates them to February 1996.<ref>Ian Nathan, ''Anything You Can Imagine: Peter Jackson and the Making of Middle-earth'' (London: HarperCollins, 2017), pp. 77ff, 98ff.</ref> Jackson himself remembers it being in November 1995.<ref>Brian Sibley, ''Peter Jackson: A Filmmaker's Journey'' (London: HarperCollins, 2006), p. 500.</ref> He was surely already discussing it with Walsh by this point — Jackson at one point remembers proposing to adapt ''The Lord of the Rings'' during a sunday they had off during the shoot<ref>{{Cite web|articleurl=https://www.youtube.com/watch?t=500&v=L0h-fcEWpHA|articlename=Peter Jackson Bifff 1999 Q&A|author=“BIFF”|dated=22 December 2022.|accessed=|website=YouTube}}</ref> — they definitely could have pitched it later that month. In another interview, he remembers being in a hotel in Syndey "in 1995 or 1996"<ref>{{Cite web|articleurl=https://www.youtube.com/watch?v=9XDsSr3sGSI&t=1147s|articlename=Sir Peter Jackson in conversation: Exeter College Oxford Eighth Century Lecture Series|author=Exeter College, Oxford|dated=30 July 2015|website=YouTube}}</ref> which might suggest the holidays following the end of filming. So although the pitch probably happened in late November 1995, it could also have happened as late as February 1996.
+
+==Development with Miramax==
+
+===Pitch===
+Although he was aware that it would take more films to do the books justice, Jackson pitched a trilogy: they'd film ''The Hobbit'' and, were that to prove succesfull, they'll produce two ''Lord of the Rings'' films back-to-back. Complications arose when it became apparent that the rights for ''The Hobbit'' were split between Zaentz (who held the production rights) and [[MGM|Metro Goldwyn-Mayer]] (who held the distribution rights) and while an attempt was made to buy them out, the bankrupt studio was reluctant to do so. Furthermore, both Jackson and Miramax chief Harvey Weinstein were reluctant to see Zaentz personally involved in the production which delayed negotiations.<ref name=":2" />
+
+Jackson had declined other projects, including a remake of his childhood favourite ''King Kong'' in order to focus on his Tolkien adaptations, but since the project was concieved largely to keep Jackson's special effects company WetaFX from disbanding after ''The Frighteners'', he was becoming worried of the protracted negotiations and agreed to direct K''ing Kong'' in April 1996. As a result, Universal temporarily became a partner on the Tolkien project, now billed as two ''Lord of the Ring''s films, while Miramax became partners on ''King Kong'' and ''Shakespeare in Love''.<ref name=":2" />
+
+Jackson was still adamant to begin with ''The Hobbit'', reading and rereading the book. When post-production on ''The Frighteners'' wrapped, he commissioned Weta's Stephen Regelous to write a software that would allow to animate the digital armies which will be needed for the Battle of the Five Armies. Although he already commissioned Costa Botes to start a precis of ''The Lord of the Rings'', when King Kong fell apart in early 1997, Weta Workshop began early design process for The Hobbit, before the rights again proved unattainable and they rerouted to ''Lord of the Rings''.
+
+At the time, Jackson's memory of the book was "foggy" - he claims to have only re-read the prologue as yet - but he purchased the new watercolour Alan Lee edition. An inquiry was made to a bookshops as far as the Netherlands looking for artwork of Tolkien's books: Bakshi remembers that his company was also approached for artwork. Meanwhile, Jackson and Walsh worked from the Botes' synopsis to begin writing a story treatment. 
+
+===The Story Treatment===
+Without The Hobbit, telling the Lord of the Rings in two parts would leave the story "half told" by the end of the first film, which concerned Miramax. At their encouragement, Jackson and Walsh first attempted to make "one long, epic film" but by the time they concluded the 93-page treatment it was clear this needed to be at least two films. This they brought to the first of three meetings with Miramax. During this meeting, the Bakshi film was screened, before Jackson presented their treatment. Although Miramax "blanched" - and rejected out of hand Jackson's proposal to expand to three films - they agreed on two. 
+
+The finished treatment was in two parts: "The Fellowship of the Ring" and "The War of the Ring." It started with the Battle of the Last Alliance in what Jackson described as a "James Bond opening", with some of the descriptions close to the final form the battle took. The treatment included Farmer Maggot and Glorfindel, but they decided to cut Radagst, replaced by the moth and the big flyover shot seen in the finished film. Gwaihir takes Gandalf to Edoras, where Eowyn and Eomer help him acquire Shadowfax against the wishes of the possessed Theoden. Bilbo attends the Council of Elrond and Sam looks into Galadriel's mirror, which is relocated to Rivendell. Gollum attacks Frodo when the Fellowship is still united, a struggle during which the Ring falls into the mud and is picked up by Boromir. At the end of the first film, Saruman is shot by an overhead Nazgûl and, before his death, is redeemed through issuing the Palantir for Gandalf to look into. Aragorn, Legolas and Gimli are sent south to espy Sauron's forces, and Frodo and Sam are en route to the Black Gate.  
+
+The second film opens in the thick of battle, and ends with Frodo sailing to the West. It features a more pronounced romantic triangle with Arwen and Eowyn, including a scene of Aragorn and Eowyn "asleep in each other's arms"; and has Elladan, Elrohir and Erkenbrand join Aragorn on the Paths of the Dead (the latter dying in the process), which are described as though made of flesh. The Nazgul just make it into Mount Doom before they fall. 
+
+This was to be a co-production of Miramax (headed by Harvey Weinstein) and Dimension films (headed by Robert Weinstein). Both were owned by Disney, who approved of the project but only up to a budget of $75 million, at the time the company's most expensive project. Within this, Jackson and Walsh began developing the scripts while attending further story meetings at Miramax. During these, the Weinsteins gave some notes: Jackson remembers Harvey, who read the book in college, made observant notes while Bob, who had not read the book, asked for one of the four Hobbits to be killed off. 
+
+=== The first draft ===
+Only one draft of the two-film version was completed, co-written with Stephen Sinclair. Partway through the process, Sinclair relied on his then girlfriend Philippa Boyens to rewrite some romantic scenes. Having relayed some of her comments to Jackson and Walsh (who had met Boyens before) she became script editor and then co-writer of the finished draft. This version was aimed at two, two-and-a-half hour films, somewhat more atuned to Hollywood conventions.
+
+The two-script version included Fatty Bolger, and has Sam, Merry and Pippin all caught eavesdroppeing behind the door (foreshadowing the Dwarves tumbling through the door in An Unexpected Journey) and forced to go with Frodo. Gandalf is "more frail" and has given up pipe-smoking in favour of toffee. Gimli is already used to provide comic-relief, but his dialogue is much more vulgar. The Nazgul chase the Hobbits to Bree where they skewer Barliman Butterburr, and Wargs attack the Hobbits near Weathertop. Denethor attends the Council of Elrond with his son. The Watcher in the Water, absent from the treatment, is reinstated. Arwen now rescues Frodo instead of Glorfindel, and later joins the battle of Helm's Deep, where a Nazgul sweeps in, only for its fell beast slain by Gimli. Indeed, Theoden's palace is placed in Helm's Deep itself. While on the Seat of Seeing, Frodo sees the Nazgul, having killed Saruman, attack Gandalf. He puts on the Ring to draw him away and is attacked by a fell-beast, which Sam lassos to the structure. The Nazgul attacks Sam before Frodo kills it.
+
+The second film was to start with a sex scene between Aragorn and Arwen in the pools of the Glittering Caves, where they are interrupted by Legolas and Gimli taking a boat through the pools. Arwen later fends off a Nazgul that menaces Pippin and joins the Rohirrim. The writers considered having Arwen absorb Éowyn's role entirely by having her kill the Witch-king, with the resulting wound becoming the source of her illness. Faramir finds Frodo after Denethor sends him to do so, having learned the secret of the quest from Pippin. Imrahil and Forlong appear in the script, and Aragorn fights Sauron in front of the Black Gates.
+
+===Casting and design===
+During the meetings with Miramax, speculative casting discussions were held, with the Weinsteins suggesting Max von Sydow (Gandalf), Daniel Day-Lewis (Aragorn), Liam Neeson (Boromir), David Bowie (Elrond), Francesca Annis (Galadriel) as well as Natascha McElhone and Claire Forlani. An argument broke out over Miramax' suggestion of Morgan Freeman for Gandalf, and at their suggestion of Paul Scofield, Jackson opined that he was better suited for Saruman. Jackson had also had a "nice" meeting with Ashley Judd, but Harvey (who, unbeknowst to Jackson, sexually abused the actress) told him that she, as well as Mira Sorvino, were "a nightmare to work with."
+
+Jackson began hiring: Weta Workshop had already provided a series of maquettes but Jackson also approached John Howe and - against the protestations of one of the Miramax executives - Alan Lee. This involved meeting with Michael Palin, who came to Wellington for his one man show, to ask for Lee's address. Jackson sent Lee a letter accompanied by Jackson's previous films ''Heavenly Creatures'' (which Lee had heard about but hadn't seen) and ''Forgotten Silver''. Howe, meeting Lee on the plane, also brought a suit of armour as reference material. Ted Nasmith was also considered by at the time they could only afford two artists on the payroll. They were hired with the ide that Lee should illustrate the heroes and Howe the villains, also Jackson had already grown fond of Howe's illustrations of Bag End for ''The Hobbit''. 
+
+Some actual work was made during the Miramax period: Jackson and Walsh mortgaged their house to procure an old paint factory which would be turned into Stone Street Studios. Some five maquettes that Weta's Jaimie Beswarick did within weeks of the beginning of the project became the basis for the final designs in the film. The shooting model of Helm's Deep was constructed and work was done on motion capture, at this point for the actors' digital doubles and the Cave Troll, who was already designed. Jackson also started storyboarding with Christian Rivers, and some scenes like the hiding from the Ringwraith were designed at this phase similarly to what ended up in the film. 
+
+With the two scripts nearing completion, Jackson brought producer Tim Sanders onboard to help budget the films, and it soon became evident that they would cost more than $75 million. Miramax eventually sent Marty Katz to help the budgeting, and he assesed the budget at $130 million. Miramax proposed downsizing and eventually composed a memo which outlined a single, two-hour film version. Though Jackson agreed that the memo "showed common sense" he was unwilling to compromise, and Miramax threatened to replace him with John Madden as director and Hossein Amini as writer. The scripts have in fact already been sent to Amini who was told they might require "some work." Jackson proposed a four-hour epic, but when Weinstein insisted on a two-hour picture, Jackson baulked.
+
+Kamins made it clear to Harvey that they could not replace Jackson while retaining his story ideas and designs. He had attempted to convince Harvey to put the project on a turnaround and, though met with some reluctance, eventually got him to agree to a four-week turnaround period. This included reimbursing $12 million that had already been spent on preproduction and New Zealand currency, as well as 5% off of the gross to be divided between Disney, Miramax and Dimension. The onerous nature of this turnaround was in part intended to deter possible buyers so that Jackson would come back to Miramax, willing to direct their version of the film.
+
+==Move to New Line==
+
+===Pitch===
+Jackson had made a lavish pitch video using the maquettes and computer simulations made on Miramax' dime, and had contacted Mark Ordesky from New Line Cinema, who he knew was a fan of the book. With the only other possible buyer being Polgyram, who were being sold, Jackson postponed overtures from New Line to give the appearance of being heavily courted. In fact, the onerous conditions initially made New Line's CEO Robert Shaye to decline, but Ordesky convinced him to meet with Jackson. It seems Shaye had already decided that, should he accept the project, he would want to make three films and not two: he had checked to see that they could support three films before meeting Jackson. "I would have made four films if there were four books," he later said. Nevertheless, when they met he first told Jackson that Lord of the Rings may well be something they end up passing on. However, the pitch video convinced him and he asked "why would anyone want movie-goers to pay $18" - that's to say, for two films - "when they might pay $27?"
+
+During the move to New Line, they asked to make their own assesment of the budget, which came out to $270 million for all three films. However, they held back on officially signing the greenlight in order to exercise some power, especially during casting: they had asked Jackson to try and entice Sir Sean Connery to star as Gandalf, and while Jackson suprevised sending the scripts to him, he declined and Jackson proceeded with his choice of Ian McKellen. When he proposed that Liv Tyler might be suitable for Arwen, it ameliorated New Line's desire to have marquee names in the film. Jackson had cast, against New Line's protestations, a young Aragorn in the guise of Stuart Townsend. Part of the power play was that New Line was already owned by Warner Brothers who took a "jaundiced" view of the project.
+
+===Writing===
+Jackson immediately started rewriting the scripts into a trilogy. Much was taken from the two-film version and reconfigured but other chapters were written from scratch, for instance Lothlorien which was wholly absent from the two-film version was reinstated here. Even so, Jackson still aimed for script that would accomodate 2-3 hour films, and in so doing realized he would have to dispense with certain beats. He had considered telling the story of Gandalf and Aragorn's hunt of Gollum but realized he could never fit it into the film. Cognizent that they "have to deliver PG-13" Jackson imagined an extended edition on DVD that would allow to squeeze more material that would need to be excised for concision or rating reasons: he contemplated filming scenes like the hunt for Gollum later, specifically for this extended edition. In the event, nothing was scripted ''specifically'' for the extended edition.
+
+Between Jackson, Boyens and Walsh (Sinclair having dropped out) they produced several drafts of the three-films during the preproduction period. In one iteration, the film was to open ''in medias res'' with Frodo and Sam near the borders of the Shire. Farmer Maggot had a bigger role than in the finished film, and Merry and Pippin only join the quest later. Arwen follows the Fellowship to Lorien, and later rejoins them in Rohan after she rescues two refugee children from the Orcs, delivering them to Helm's Deep where a love triangle develops with Eowyn, who delivers a child while fending off Orcs in the Glittering Caves. This culminates in her riding to war with Eowyn, who saves her from the Witch-King.
+
+===Design===
+Howe and Lee, who flew back when the project was put on a turnaround, were reinstated in New Zealand. Jackson now had the budget to hire a third artist and made an approach to Ted Nasmith, but he was going through a divorce and had to decline. Howe was present through the preproduction period, but was mostly absent during filming, since his son was starting school back in Switzerland.
+
+New Line had some reservations about Jackson's special effects outfit: they had considered outsourcing Gollum to ILM. In the event, a few effects shots were farmed out to GMC (Galadriel tempted by the Ring), Digital Domain (The Bruinen flood) and others. Gollum was already envisioned as a motion capture creature, but not necessarily supplied by the same actor who was to provide the voice, and his design would also undergo a revision after Fellowship of the Ring to more closely resemble Andy Serkis' features.
+
+There was more crew hires: Alun Bulinger, who worked with Jackson on ''Heavenly Creatures'', had shot the pitch video and would shoot some second unit, but declined the time commitment required to lens the main unit. Jackson had auditioned John Mahaffie who ended up as second-unit director, but ultimately set his sights on Andrew Lesnie. He had also wanted Marty Katz to stay onboard as producer, but again the time commitment led to the hiring of Barrie Osborne.
+
+==Principal photography==
+As shooting began in October 1999 (Jackson asked for a delay to do more storyboards but was declined) the budget started to increase. While shooting the first scenes (the Hobbits hiding from the Ringwraith at the Woody end, inspired by a John Howe painting and the "creepy encounter" in Bakshi film) Jackson decided he needed an older Aragorn and had Stuart Townsend replaced: although they also considered Russel Crowe and even Jason Patric, they wanted Viggo Mortensen and while he agreed, it bumped the budget. Jackson also kept adding special effect shots - he had succeeded in convincing New Line to keep the Watcher in the Water scene, for example - all of which kept the budget on the rise. So much so that during the holiday break in 2000, they had considered shutting the project down but instead decided to mandate a change of personnel including producer Tim Sanders, special effects supervisor Mark Stetson (replaced by Jim Rygiel) and his subordinates Charlie McClellan and John Shells.
+
+The shoot proceeded with scenes with Gandalf. Although they generally shot with two units, at certain peaks of intensity, they split into as many as seven. Even so, by the midpoint they were behind schedule - the shoot extended from the original 267 days to 274 - not least due to some weather complications including huge floods that swept through Queenstown. An avalanche left Orlando Bloom, Sean Bean and production manager Bridgitte Yorke stranded in a lodger's accomodation and arriving to location via helicopter. The final scene shot in principal photography was a scene since cut of Aragorn being prepared for his coronation.
+
+==Post Production==
+The original intention was to edit all three films simulatenously. They had pursued this route as far as producing rough cuts for all three films and even doing some two months of concurrent editing on films one and two, but ended up editing the films sequentially from this point going forward. Here, again, New Line again made their presence felt at this stage, coming down to review at least two cuts and indicating that the film should come at under 2.5 hours "which we kind of ignored," says Jackson. Shaye, who shared final cut with Jackson, put his foot down more decisively on the subject of the film's opening, asking Jackson to reinstate the prologue. Jackson's prologue was not entirely to Shaye's specifications: it was much longer, and Shaye didn't want Galadriel as the narrator, but he acquiesed to Jackson.
+
+The post-production for each film included pickups. For Fellowship of the Ring, these lasted roughly six weeks and involved some material around the prologue, as well as a new ending: as originally shot, an Uruk emerged from underwater to pull Frodo and the Ring down and was defeated in a more conventional action climax. Around this time, they had also worked on a preview for the Cannes film festival: this was also shown to foreign investors and for Warner Brothers, helping fend off of any concern for the project.
+
+After the success of Fellowship of the Ring, they set some time aside for Fellowship of the Ring's award campaign before settling down to edit The Two Towers. This overlapped in the first few months with the extended edition of Fellowship of the Ring, and it was during this period that The Hobbit and a "Lord of the Rings prequel" were discussed between Jackson and executive producer Mark Ordesky. New Line again wanted a prologue to recap Fellowship of the Ring, and while Jackson filmed it, the contents of this narration were moved to the latter parts of the film. They had wanted this and The Return of the King to come in at under three hours. 
+
+
+
+The three live action films (supplemented with extensive computer-generated imagery, for example in the major battle scenes, using the "[[Massive]]" software) were filmed simultaneously. Jackson filmed all the major scenes in his native New Zealand. ''[[The Lord of the Rings: The Fellowship of the Ring|The Lord of the Rings: The Fellowship of the Ring]]'' was released on [[19 December|December 19]], [[2001]]. ''[[The Lord of the Rings: The Two Towers|The Lord of the Rings: The Two Towers]]'' was released on [[18 December|December 18]], [[2002]]. Finally, ''[[The Lord of the Rings: The Return of the King|The Lord of the Rings: The Return of the King]]'' was released worldwide on [[17 December|December 17]], [[2003]]. All three films won the Hugo Award for Best (Long-form) Dramatic Presentation in their respective years.
+
+Although some have criticized the films because of their alterations to the story and, many would argue, noticeably different tone from Tolkien's original vision, others have hailed them as remarkable achievements. [[Peter Jackson]] has defended his changes by stating that he views the films merely as one man's interpretation.
+
+Peter Jackson's film adaptations garnered seventeen Oscars (four for ''The Fellowship of the Ring'', two for ''The Two Towers'', and eleven for ''The Return of the King''). ''The Return of the King'' won all of the eleven awards for which it was nominated, including Best Picture—it was the first film of the fantasy genre to do so.  With 30 total nominations, the trilogy became the most-nominated in the Academy's history, surpassing the ''Godfather'' series' 28 nominations.
+
+''The Return of the King''<nowiki>'</nowiki>s Oscar sweep is widely seen as a proxy award for the entire trilogy. ''The Return of the King''<nowiki>'</nowiki>s 11 Oscars at the 2004 Academy Awards tied it for most awards won for one film with ''Titanic'' six years earlier and the [[1959]] version of ''Ben-Hur''. It also broke the previous "sweep" record, beating ''Gigi'' and ''The Last Emperor''.
+
+The visual-effects work has been groundbreaking, particularly the creation of the emotionally versatile digital character [[Gollum]]. The scale of the production alone – three films shot and edited back to back over a period of little more than three years – is unprecedented.
+
+The films have also proven to be substantial box office successes. The premiere of ''The Return of the King'' took place in [[Wellington]], [[New Zealand]], on [[1 December|December 1]], 2003 and was surrounded by fan celebrations and official promotions (the production of the films having contributed significantly to the New Zealand economy). The movie earned $34.5 million on its opening day, making it the seventh-largest opening day for a film released on a Wednesday.<ref>http://boxofficemojo.com/alltime/days/?page=wed&p=.htm</ref> ''The Return of the King'' was also the second movie in history (after ''Titanic'') to earn over 1 billion $US (worldwide). 
+
+Fanatics of the films have also flocked to the locations where the trilogy was filmed in New Zealand, with many tour companies being totally devoted to taking fans to and from the filming locations that director Peter Jackson chose for the adaptation of Tolkien’s epic trilogy.
+
+==External links==
+*'''[http://www.lordoftherings.net Official website]'''
+
+==See also==
+*''The Lord of the Rings'' (film series)
+**''[[The Lord of the Rings: The Fellowship of the Ring]]''
+**''[[The Lord of the Rings: The Two Towers]]''
+**''[[The Lord of the Rings: The Return of the King]]''
+*''[[The Lord of the Rings]]''
+**''[[The Fellowship of the Ring]]''
+**''[[The Two Towers]]''
+**''[[The Return of the King]]''
+*[[:Category:Images from The Lord of the Rings (film series)|Images from ''The Lord of the Rings'' (film series)]]
+**[[:Category:Images from The Lord of the Rings: The Fellowship of the Ring|Images from ''The Lord of the Rings: The Fellowship of the Ring'']]
+**[[:Category:Images from The Lord of the Rings: The Two Towers|Images from ''The Lord of the Rings: The Two Towers'']]
+**[[:Category:Images from The Lord of the Rings: The Return of the King|Images from ''The Lord of the Rings: The Return of the King'']]
+
+{{references|n}}
+{{Screen}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+[[Category:The Lord of the Rings (film series)]]
+
+[[de:Der Herr der Ringe (Filmtrilogie)]]
+[[fi:The Lord of the Rings (2001-2003)]]

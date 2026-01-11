@@ -1,0 +1,17 @@
+{{letter infobox
+| #=354
+| to= [[Priscilla Tolkien]]
+| date=[[29 August]] [[1973]]
+| subject=Vacation
+}}{{letter|354}}
+==Summary==
+Tolkien tells [[Priscilla Tolkien|Priscilla]] that he arrived in [[Bournemouth]] safely, but he found he lost his bank card when he reached the Miramar Hotel. While Dr. Martin Tolhurst, a friend of Tolkien's, was searching for his wallet, the Miramar canceled his reservation, and made him a new one, from September 4 to September 11. He would stay with the Tolhursts for the time being, and was looking forward to the extended holiday. He would like to visit [[Christopher Wiseman]], who was in Milford at the time. Tolhurst found the wallet; Tolkien had left it at ''The Red Lion'' in Salisbury. 
+==Notes==
+* Though Tolkien accepted the offer of the Miramar Hotel, he did not use it as he planned to stay there from [[4 September]]. Nor did he visit Christopher Wiseman. John Ronald Reuel Tolkien died on [[2 September]], 1973, in a private hospital. 
+* Tolkien travelled to Bournemouth with a private driver, Mr. Causier. Since they stopped in Salisbury, they probably drove the [[Wikipedia:A420 road|A420]] and the [[Wikipedia:A338 road|A338]].
+* It is not specified in which Milford Wiseman was, but presumably it was [[wikipedia:Milford on Sea|Milford on Sea]], the closest town called Milford.
+* This is the final letter included in ''The Letters of J.R.R. Tolkien''. Tolkien passed away just a few days later on [[2 September]]. It is likely this is the last letter he wrote.
+
+{{letters}}
+[[Category:Letters to Priscilla Tolkien]]
+[[de:Brief 354]]

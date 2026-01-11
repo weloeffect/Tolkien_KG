@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 13
+| image = Vinyar Tengwar 13.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=September [[1990]]
+| format=Paperback journal
+| pages=24
+}}
+'''''Vinyar Tengwar 13''''' is the thirteenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|12|14}}
+
+==Contents==
+* Cover: "The Death of Glorfindel" — Patrick H. Wynne
+* E.L.F. News
+* Letters to ''VT''
+
+* "Mythcon XXI: A Review" — Bruce Leonard
+* "The Way to 'Revived' Elvish: A Cornish Model?" — Alexei Kondratiev
+* "A Survey of Ring Poem Translations" — Jorge Quiñónez
+* "''Essitalmar'': Star-struck" (column) — Tom Loback
+* "Transitions in Translations: 'Edition Shifting' in the German Hobbit, Part 1" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 13}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 13]]

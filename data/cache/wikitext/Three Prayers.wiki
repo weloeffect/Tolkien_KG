@@ -1,0 +1,39 @@
+{{events
+| image=
+| event=Three Prayers
+| othernames=
+| date=Spring, midsummer, autumn
+| location=[[Númenor]]
+| result=
+| partof=Worship of [[Ilúvatar|Eru]]
+| participants=Ruler of Númenor and his/her people
+| description=Ceremonies in which the [[Númenóreans]] ascended the [[Meneltarma]] and made offerings on its summit
+| references=
+|}}
+The '''Three Prayers''' were religious cermonies in which the [[Númenóreans]] worshipped [[Ilúvatar|Eru]]. They were called ''[[Erukyermë]]'' ("Prayer to Eru"), ''[[Erulaitalë]]'' ("Praise of Eru"), and ''[[Eruhantalë]]'' ("Thanksgiving to Eru") and took place in the spring, midsummer, and autumn respectively. During these ceremonies, the [[King of Númenor|King]] (or [[Ruling Queen of Númenor|Queen]]) of [[Númenor]] and many of the people, clad in white and wearing garlands, would ascend the [[Meneltarma]]. The ruling King or Queen would make a fruit offering on the summit. Usually there was an utter silence in the hallow of the Meneltarma, but during the Three Prayers, the King or Queen would speak during the offering. In Númenórean thought, the rulers alone had the right to make these offerings and give speeches on the summit of the Holy Mountain, as they were descended from the [[Elves]] and the [[Maiar]] through [[Lúthien]], [[Idril]] and [[Nimloth (elf of Doriath)|Nimloth]].
+
+During the Three Prayers, three great Eagles would hover over the Mountain above the people. The Númenóreans called them the [[Witnesses of Manwë]], and believed that their presence showed the [[Elder King]]'s approval of their deeds.<ref>{{UT|Numenor}}</ref>
+
+==History==
+The exact origins of the Three Prayers are unknown, but the [[Valar]] traditionally held celebrations at certain times of the year in [[Valinor]], at which they gave thanks to Eru. The [[Darkening of Valinor]] occurred during one such festival, as did the arrival of [[Eärendil]] in [[Aman]]. Most likely the Númenóreans built the tradition of the Three Prayers from their knowledge of these stories that they had received from the [[Noldor]].
+
+During the first half of the [[Second Age]], the Númenóreans piously attended these ceremonies at due times. They also marked generally important seasons of the year; the time in which [[Tar-Aldarion|Aldarion]] received the Kingship was just after the ''Erukyermë'' of {{SA|883}}.<ref>{{UT|Wife}}</ref>
+
+In later years, however, the hostility of the Númenóreans to the [[Eldar]] and the [[Valar]] extended to the opinion of their religious ceremonies; after [[Tar-Ancalimon]]'s reign, the Kings increasingly neglected the observation of the Three Prayers. Eventually, [[Ar-Gimilzôr]] the twenty-third King refused to ascend the Meneltarma at all.<ref>{{UT|Kings}}, ''Ar-Gimilzôr''</ref>
+
+After Ar-Gimilzôr's death, though, the Three Prayers were righteously observed by his son [[Tar-Palantir]], who was of the [[Faithful]] and repented of the deeds of his fathers.<ref>{{UT|Kings}}, ''Tar-Palantir''</ref> This renewed piety did not last long—most of Tar-Palantir's people did not sympathize with his policies and remained in rebellion against the Valar.
+
+When [[Ar-Pharazôn]], the last King of Númenor, brought [[Sauron]] to his land and was seduced by him to the worship of [[Morgoth|Melkor]], he made ascent of the Meneltarma punishable by death,<ref>{{S|Akallabeth}}</ref> thus bringing an end to the custom of making offerings to Eru on its summit—a tradition that had lasted some 3,000 years. Númenor [[Downfall of Númenor|was destroyed]] shortly thereafter, and the Faithful who survived did not continue the ritual of the Three Prayers in [[Middle-earth]].
+
+==See also==
+* [[Witnesses of Manwë]]
+* [[Faithful]]—those who preserved the tradition of the Three Prayers
+* [[King's Men]]—those who rebelled against the Valar and neglected to observe these ceremonies
+
+{{references}}
+{{numenor}}
+[[Category:Festivals and feasts]]
+[[Category:Númenórean Calendar]]
+[[Category:Second Age]]
+[[de:Heiligtum Erus#Zeremonien]]
+[[fi:Kolme Rukousta]]

@@ -1,0 +1,36 @@
+{{disambig-more|Rivendell|[[Rivendell (disambiguation)]]}}
+{{song
+| title=Rivendell
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=3:26
+| track=Disc 2 Track 5
+| previous=[[Orthanc (soundtrack)|Orthanc]]
+| next=[[The Sword That Was Broken]]
+| spotify=https://open.spotify.com/track/3wlNmUeoHnM1jcOcXxC6qI
+}}
+'''Rivendell''' is the fifth track of disc two of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[00:24] A El
+[00:27] [[bereth]]
+[00:28] Gil
+[00:35] tho
+[00:41] niel,
+[00:42] Siliv
+[00:46] ren
+[00:49] pen
+[00:53] na
+[00:56] mí
+[00:59] riel
+
+[02:32] El
+[02:33] bereth
+[02:34] Gil... 
+</poem>
+{{title}}
+{{DEFAULTSORT:2.05}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

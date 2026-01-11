@@ -1,0 +1,49 @@
+{{object infobox
+| name=Crown of Gondor
+| image = J.R.R. Tolkien - Crown of Gondor.svg
+| caption=''Crown of Gondor'' by [[J.R.R. Tolkien]]
+| pronun=
+| othernames=Winged Crown, White Crown, Silver Crown, Crown of [[Elendil]]
+| location=[[Dagorlad]], [[Hallows]], [[Court of the Fountain (Minas Tirith)|Court of the Fountain]], [[Tower Hall]], [[King's House]], [[Great Hall of Feasts]], [[House of the Kings]]
+| owner=[[Isildur]], [[King of Gondor|Kings of Gondor]], [[Aragorn]], [[Eldarion]], [[High King (Dúnedain)|High Kings of the Reunited Kingdom]]
+| type=Crown
+| appearance=A tall, jeweled winged helm
+| creator=[[Númenóreans]]
+| created=[[Second Age]]
+| createdlocation=[[Númenor]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+| gallery=the Crown of Gondor
+}}
+
+The '''Crown of Gondor''', also called the '''winged crown''',<ref name="App|Tale">{{App|Tale}}</ref> '''White Crown''', '''Silver Crown''' and the '''crown of [[Elendil]]''',<ref name="Gondor">{{App|Gondor}}</ref> was the ceremonial headgear of the [[Kings of Gondor|Kings]] of [[Gondor]], and was used as a symbol of the Kingship.
+
+==Description==
+It is said that the original crown was a plain [[Númenóreans|Númenórean]] war-helm.<ref name=Eriador/> However a later crown replaced it, described as a tall, jewelled and winged helm, not unlike the helms of the [[Guards of the Citadel]], but taller and all white, with wings resembling those of a sea-bird wrought of pearl and silver. Seven gems of adamant were set in the circlet. On its summit was a jewel, the light of which went up like a flame to represent Anarion.<ref name="Steward">{{RK|Steward}}</ref>
+
+==History==
+[[File:Crown of Gondor (3D render).png|thumb|''Crown of Gondor'' by [[User:Grond|Grond]], designed to match Tolkien's illustration.]]
+
+The original crown of Gondor was said to be a plain Númenórean war-helm, the one worn by the Númenórean Kings in the [[Battle of Dagorlad]]; as [[Anárion]]'s helm was crushed when he was killed, the war-helm of [[Isildur]] was used for the crowning of the Kings of Gondor.<ref name=Eriador/>
+
+In the days of [[Atanatar II]] Alcarin this was replaced by a jewelled helm.<ref name=Eriador>{{App|Eriador}}</ref>
+
+Before replying to the challenge of the [[Witch-king]], [[Eärnur]] put the Crown of Elendil<ref group="note">The naming "crown of Elendil" in App. A is curious, considering the tradition that it consisted of Isildur's war-helm, later to be replaced by a newer one during Atanatar II's reign</ref> in the lap of King [[Eärnil II]] in the [[Hallows|houses of the dead]]<ref name="Gondor"/> and it remained there even after his loss, for nearly a thousand years.
+
+[[File:Crown of gondor.png|thumb|100px|''Crown of gondor'' by [[User:Grond|Grond]], designed to match Tolkien's illustration.]]
+
+On [[1 May]] {{TA|3019}}<ref>{{App|Chief}}</ref> the rightful heir, [[Aragorn|Aragorn II]] [[House of Telcontar|Telcontar]], came forward to receive the crown. The tradition had been for a new king to receive the crown from his father before he died or to obtain it from his father's tomb. Since this was not possible, [[Faramir]], [[Steward of Gondor]], brought forth the ancient crown and gave it to Aragorn. After chanting "''Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn' Ambar-metta!''" Aragorn surprised the crowd by returning the crown to Faramir. At his request, [[Frodo Baggins]] took the crown and bore it to [[Gandalf]], who placed it on King Elessar's head with the blessing, "Now come the days of the King, and may they be blessed while the thrones of the [[Valar]] endure!"<ref name="Steward"/>
+
+In the year {{FoA|120}}<ref>{{App|Later}}</ref> Aragorn went to the [[House of the Kings]] to lay down his life. In that place he bade farewell to his son [[Eldarion]] and, following tradition, gave him the Crown of Gondor and the [[Sceptre of Annúminas]].<ref name="App|Tale"/>
+
+==Inspiration==
+[[J.R.R. Tolkien|Tolkien]] described it in his letters as being similar to the [http://en.wikipedia.org/wiki/Hedjet crown of the Pharaohs of Egypt]. He writes "I think the crown of Gondor (the S. Kingdom) was very tall, like that of Egypt, but with wings attached, not set straight back but at an angle."<ref>{{L|211}}, p. 281</ref>
+
+{{references|notes}}
+[[Category:Gondor]]
+[[Category:Objects]]
+[[Category:Heirlooms]]
+[[de:Krone von Gondor]]
+[[fr:encyclo:artefacts:couronne du gondor]]

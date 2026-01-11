@@ -1,0 +1,50 @@
+{{anglosaxon infobox
+| name=Philip Frankley
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Poet
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1932]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Philip Frankley''' (born in [[1932]]) was a member of the [[Notion Club]].
+
+== History ==
+Frankley was a poet educated at Queen's, at one time well-known as a leader of the Queer Metre movement, but now known as just a poet who had published several volumes of collected verses. He is said to have suffered from ''"horror borealis"'' - intolerance of all things Northern or Germanic, but nonetheless was a close friend of [[Alwin Arundel Lowdham|Lowdham]] whose chief interest lay in the [[Anglo-Saxon]] language and history.<ref>{{SD|2b}}</ref> Sometimes Lowdham refered to him with made-up titles based on his name ([[Greek]] ''phil-ippos'', "horse-loving"<ref>{{SD|2dn}}, p. 285, note 33</ref>), like "Lover of Horses and Horseplay" or "Horsefriend of Macedon".<ref>{{SD|66}}, p. 236; "Night 67", p. 246</ref>
+
+According to [[Nicholas Guildford|Guildford]] he regards any knowledge of his own language at any period before the [[wikipedia:Battle of Bosworth Field|Battle of Bosworth]] as a misdemeanour.<ref>{{SD|61}}</ref> 
+
+During one of the meetings of the Notion Club, he recited the poem ''[[Imram]] (The Death of [[Saint Brendan]])'' before the other members. He said that it came to him, more or less complete, in his dream.<ref>{{SD|69}}</ref>
+
+In [[1989]], Frankley published a volume of a collection of poems entitled ''[[Experiments in Pterodactylics]]''. Of which, the opening poem was a short poem that he read at the [[Notion Club]].<ref>{{SD|60}}</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Frankley, Philip}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

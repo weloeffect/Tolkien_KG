@@ -1,0 +1,61 @@
+{{events
+| image = R. Ward Shipman - Long Winter.jpg
+| event=Long Winter
+| othernames=
+| location=[[Eriador]], [[Dunland]], [[Rohan]]
+| date=[[November]] {{TA|2758}} to [[March]] {{TA|2759|n}}
+| result=Thousands of lives lost in Rohan and [[The Shire]]
+| partof=
+| participants=[[Hobbits]], [[Dunlendings]], [[Rohirrim]]
+| description=Long, cold winter; Rohan covered in snow for five months
+}}
+The '''Long Winter''' (November {{TA|2758}} to March {{TA|2759|n}}<ref name="Eorl">{{App|Eorl}}</ref>) was an extremely cold and long-lasting winter in [[Middle-earth]], covering [[Eriador]], [[Dunland]] and [[Rohan]].
+
+The Winter came as cold and great snows from the north and the [[East]]. It lasted for 5 months. There was misery and death in [[Eriador]] and [[Rohan]] but it affected less the region of [[Gondor]] south of the [[White Mountains]].<ref name="Steward" />
+
+==History==
+In {{TA|2758}}, [[Easterlings]] and [[Dunlendings]] (led by [[Wulf]]) attacked [[Rohan]] from both the north-west and east. Meanwhile, three great and long-prepared fleets of [[Corsairs of Umbar|Corsairs]] and [[Haradrim]] began to assail the coasts of Gondor as far north as the [[Isen|River Isen]], and some of them sailed up to Isen and [[Lefnui]] into Rohan and strengthened the Dunlendings. Because of the multiple problems, the two kingdoms were unable to help each other.<ref name="Steward">{{App|Stewards}}</ref>
+===Rohan===
+The [[Rohirrim]] were defeated by the invasion of the Dunlendings; [[Kings of Rohan|King]] [[Helm|Helm Hammerhand]]'s son, [[Haleth (son of Helm)|Haleth]], was killed; and Wulf sat in [[Meduseld]] declaring himself King.<ref name="Eorl" />
+
+The Long Winter compounded the problems: Rohan was under snow for five months with both the Rohirrim and their enemies suffering grievously from famine. Meanwhile, King Helm took refuge in the [[Hornburg]] and the ravine behind (becoming known as [[Helm's Deep]]); at [[Yule]] a great counsel was held, and, against the King's advice, [[Háma (son of Helm)|Háma]], Helm's younger son, went out in a sortie and was lost in the snow. King Helm himself would always blow his great horn, striking fear into the hearts of his enemies, and discreetly go out to enemy camps to slay enemies with his bare hands. During one such sortie he died, but remained standing upright.<ref name="Eorl" />
+
+After the winter, the melted snow caused great floods with the [[Entwash]] becoming a vast fen. Rohan recovered very slowly.
+
+===Gondor===
+Although the Long Winter did not affect [[Gondor]] directly, it did have an indirect effect: in {{TA|2758}}, three fleets of [[Corsairs of Umbar|Corsairs]] and [[Haradrim]] began to assail the coasts of Gondor as far north as the [[Isen|River Isen]];<ref name="Steward">{{App|Stewards}}</ref> due to the dual perils of the Long Winter and the war with the Dunlendings, the [[Rohirrim]] were unable to send help.<ref name="Elendil">{{PM|Elendil}}, p. 205</ref>
+
+===The Shire===
+[[File:Miriam Ellis - The Long Winter, 1158 - Gandalf Helps the Hobbits.jpeg|thumb|200px|right|"The Long Winter, [[Third Age 2758|1158]]: [[Gandalf]] Helps the [[Hobbits]]" by [[Miriam Ellis]]]]
+The Long Winter resulted in the deaths of many thousands of [[Hobbits]] in [[The Shire]].<ref name="Prologue">{{FR|Hobbits}}</ref> Although the [[Wizards|wizard]] [[Gandalf]] came to the aid of the Hobbits,<ref name="B">{{App|B2}}</ref> a dreadful famine followed the Long Winter, known as the [[Days of Dearth]], which lasted into {{TA|2760}}.
+
+The Long Winter had a more indirect effect on the history of The Shire and [[Middle-earth]]: it was during the Long Winter that Gandalf first became fond of [[Hobbits]] and their affairs, which indirectly led to Gandalf's selection of [[Bilbo Baggins]] to go on the [[Quest of Erebor]]: 
+{{quote|And then there was the Shire-folk. I began to have a warm place in my heart for them in the Long Winter, which none of you can remember. They were very hard put to it then: one of the worst pinches they have been in, dying of cold, and starving in the dreadful dearth that followed. But that was the time to see their courage, and their pity one for another. It was by their pity as much as their tough uncomplaining courage that they survived. I wanted them to survive. [...] And anyway you must begin at some point, with some on person. I dare say he was "chosen" and I was only chosen to choose him; but I picked out Bilbo.|[[Gandalf]] speaking to [[Peregrin Took|Pippin]]<ref name="UT">{{UT|Erebor}}</ref><ref name="Annotated Hobbit">{{HM|AH}}, "Appendix A. The Quest of Erebor", p. 370</ref>}}
+
+==Aftermath==
+Before the spring, [[Beregond (Steward of Gondor)|Beregond]] had defeated the Corsair invaders of Gondor and afforded to send help to Rohan.<ref name="Steward" /> Come March {{TA|2759}}, the Long Winter ended and [[Fréaláf|Fréaláf Hildeson]], Helm's sister-son, came from [[Dunharrow]] and took back [[Edoras]], catching the Dunlendings unaware and killing [[Wulf]]; the Dunlendings and Easterlings were driven out of Rohan (including [[Isengard]]). 
+
+Gondor began to recover to its former power, but it wasn't so easy for Rohan. In {{TA|2758}}, the [[Stewards of Gondor|Steward]], [[Beren (Steward of Gondor)|Beren]] gave the keys to [[Orthanc]] to the [[Wizards|wizard]] [[Saruman]], hoping that he would help the Rohirrim.<ref name="Steward">{{App|Stewards}}</ref>
+
+==See also==
+*[[Fell Winter (Third Age)|Fell Winter]] ({{TA|2911}}-{{TA|2912|n}})
+*[[Great Plague]] ({{TA|1636}})
+*[[Fell Winter (First Age)|Fell Winter]] ({{FA|495}}-{{FA|496|n}})
+
+{{references}}
+
+[[Category:Periods]]
+[[Category:History of the Shire]]
+
+{{seq-start}}
+{{seq
+| prev=[[War of the Dwarves and Dragons]]
+| list=Major events of [[Middle-earth]]
+| dates={{TA|2758}} - {{TA|2759}}
+| next=[[War of the Dwarves and Orcs]]
+}}
+{{seq-end}}
+
+[[de:Langer Winter]]
+[[fr:encyclo/evenements/3a/long hiver]]
+[[fi:Ikitalvi]]

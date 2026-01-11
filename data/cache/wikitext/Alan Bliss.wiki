@@ -1,0 +1,34 @@
+{{author infobox
+| image=
+| name=Alan Joseph Bliss
+| born=[[1921]]
+| died=[[1985]]
+| education=[[University of Oxford]]
+| occupation=Scholar
+| location=
+| website=
+|}}
+
+'''Alan Joseph Bliss''' (1921-1985) was a former student of [[J.R.R. Tolkien]].
+
+Bliss studied under Tolkien from [[1946]] to [[1948]]. In [[1966]], while he was working on a piece on Finn and Hengest, Tolkien lent him his old lecture notes from the 1920s. The notes were still in disarray when Tolkien died, and in 1979, [[Christopher Tolkien]] handed them over to Bliss for publication.
+
+==Bibliography, selected==
+===Books===
+* [[1954]]: ''[[Sir Orfeo (Alan Bliss)|Sir Orfeo]]'' 
+* [[1960]]: ''[[The Seafarer (I.L. Gordon)|The Seafarer]]'' (general editor with Arthur Brown) 
+* [[1969]]: ''[[The Wanderer]]'' (co-editor with [[T.P. Dunning]])
+* [[1982]]: ''[[Finn and Hengest: The Fragment and the Episode]]'' (editor)
+
+===Articles===
+* [[1962]]: ''[[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday]]''
+** "The Appreciation of Old English Metre"
+* [[1979]]: ''[[J.R.R. Tolkien: Scholar and Storyteller|J.R.R. Tolkien, Scholar and Storyteller: Essays in Memoriam]]''
+** "''Beowulf'' Lines 3074-3075"
+{{references}}
+<small>
+*[[Wayne G. Hammond]] and [[Christina Scull]] (2006), ''[[The J.R.R. Tolkien Companion and Guide]]: Reader's Guide'', pp.&nbsp;118–9</small>
+[[Category:Authors|Bliss, Alan]]
+[[Category:Academics|Bliss, Alan]]
+[[Category:British people|Bliss, Alan]]
+[[Category:People by name|Bliss, Alan]]

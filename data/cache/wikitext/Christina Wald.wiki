@@ -1,0 +1,25 @@
+{{short description|Artist for Middle-earth Role Playing and Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Christina Suzanna Wald
+| born=[[28 September]] [[1968]]
+| died=
+| education=
+| occupation=Artist
+| location=Cincinnati, United States
+| website=
+}}
+
+'''Christina Wald''' (b. [[28 September]] [[1968]]) is an American artist who created art for role-playing games, card games, periodicals (such as [[Dragon Magazine]]) and children's books. She combines traditional, acrylic painting with digital methods. [[Iron Crown Enterprises]] contracted her to make artwork for the [[Middle-earth Collectible Card Game]].<ref name=CCGA>{{CCGA|entry=Wald, Christina Suzanna}}, pp. 252-253</ref>
+
+==See also==
+*[[:Category:Images by Christina Wald|Images by Christina Wald]]
+
+==External links==
+* [https://christinawald.com/ Personal website]{{references}}
+
+{{DEFAULTSORT:Wald, Christina}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

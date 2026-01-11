@@ -1,0 +1,12 @@
+{{convention
+| image=
+| title=Comic-Con 2005
+| location=San Diego Convention Center
+| organizer=
+| dates=2005
+| attendees=
+|}}
+
+{{comic-con|2004|2006}}
+
+[[Category:Conventions]]

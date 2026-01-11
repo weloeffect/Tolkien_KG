@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 11
+| image = Vinyar Tengwar 11.png
+| editor=[[Carl F. Hostetter]]
+| illustrator=Adam Christensen (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=May [[1990]]
+| format=Paperback journal
+| pages=24
+| issn=
+}}
+'''''Vinyar Tengwar 11''''' is the eleventh issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|10|12}}
+
+==Contents==
+* Cover: "'Now I am a burglar indeed', thought he" — Adam Christensen
+* E.L.F. News
+* Letters to ''VT''
+
+* "Two Problematic Quenya Noun Cases" — Jorge Quiñónez
+* "The Love-song of Maglor" — trans. Eli Bar-Yahalom
+* "''Essitalmar'': The Longswordsman" (column) — Tom Loback
+* "Transitions in Translations: The Hobbit Glossary" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 11}}
+[[fi:Vinyar Tengwar 11]]
+[[Category:Vinyar Tengwar]]

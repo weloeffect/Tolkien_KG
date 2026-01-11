@@ -1,0 +1,58 @@
+{{disambig-more|The Hobbit|[[The Hobbit (disambiguation)]]}}
+{{film infobox
+| image = The Hobbit (1967 film) - Title card.png
+| caption = 
+| name=J.R.R. Tolkien's The Hobbit
+| director=[[Gene Deitch]]
+| producer=[[William Lawrence Snyder|William Snyder]]
+| writer=[[J.R.R. Tolkien]]<br>(Novel)<br>[[Gene Deitch]]<br>(Screenplay)
+| narrator=Herb Lass<ref name="Deitch">{{webcite|author=[[Gene Deitch]]|articleurl=http://www.awn.com/articles/profiles/hobbit-alized-first-attempt-animating-hobbit|articlename=Hobbit-alized: The First Attempt At Animating The Hobbit|dated=11 December 2001|website=awn.com|accessed=10 January 2012}}</ref>
+| starring=
+| music= Václav Lidl<ref name="Deitch"/>
+| cinematography= Adolf Born<ref name="Deitch"/>
+| editing= 
+| distributor=
+| released=Limited audience: [[29 June]], [[1967]]<ref name="Deitch"/>
+| runtime=00:11:42
+| country=United States, Czechoslovakia
+| language=English
+| budget= 
+| website= 
+| imdb_id=1686804
+}}
+
+{{Quote|A homebody [[Hobbits|hobbit]] finds [[Bilbo Baggins|himself]] going on a [[Quest of Erebor|quest]] to save a [[Dwarves|dwarven]] [[Erebor|treasure]] from a [[Smaug|dragon]] in this loose adaptation of the classic [[The Hobbit|novel]].|IMDB description<ref>{{webcite|articleurl=https://m.imdb.com/title/tt1686804/?ref_=nm_flmg_t_15_prd|articlename=The Hobbit (Short 1967)|website=[http://m.imdb.com/]}}</ref>}}
+
+'''''J.R.R. Tolkien's The Hobbit''''' was the first film adaptation of ''[[The Hobbit]]'', created by [[Gene Deitch]] in 1967. The film was produced by [[William Lawrence Snyder]] and took less than a month to create. The film was approximately 12 minutes long and was only created so Snyder could extend his license for ''[[The Lord of the Rings]]'' and sell it back to Tolkien and his publishers, which he did for $100,000.<ref name="Deitch" />
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Actor!!Role
+|-
+|Herb Lass<ref name="Deitch" />||Narrator
+|}
+
+==Plot==
+The story begins with [[Dale]], the city of Golden Bells, just before [[Dominion of Men|Men came to power]] in [[Middle-earth]]. But then the [[Dragons|Monster Lizard]] [[Smaug|Slag the Terrible]], the Agent of Evil on [[Arda|Earth]], came and ransacked the Golden Realm of Dale, taking all of their treasures for himself, including the precious [[Arkenstone]] of Old, the White Heart of the [[Lonely Mountain|Mountain]]. Only General [[Thorin|Thorin Oakenshield]], [[Mika Milovana|Princess Mika]] and a lone, unnamed watchman (who had been asleep when Slag attacked) survived. Desperate, they turned to the [[Wizards|Great Wizard]] [[Gandalf|Gandalf the Grey]] in his lonely tower. He pointed them to a prophecy of the Dragon's death in the [[Red Book of Westmarch|Great Book]], for which they needed a [[Hobbits|Hobbit]]. The whole party went to the [[Bag End|house]] of [[Bilbo Baggins]] who, living a different sort of life than his [[Bandobras Took|ancestor]], initially refused the task requested of him, but after some persuasion from Gandalf and the princess, joined the three on their quest.
+
+Soon, they encountered two "[[Trolls|Groans]]", monstrous creatures that turned into trees when exposed to sunlight. Bilbo's companions were captured, but Bilbo tricked the two into a fight until the sun rose. They continued their journey, and General Oakenshield and the Princess started to appreciate their burglar. But suddenly, Bilbo disappeared. He had fallen through a crevasse in the mountain, and fell past the evil "[[Orcs|Grablins]]" into the lake where "[[Gollum|Goloom]]" dwelt. He found Goloom's [[The One Ring|magic ring]], and dashed away through the tunnels. He hid behind a rock, and allowed Goloom to overtake him so he could find his way out. 
+
+After travelling through [[Mirkwood|Mirkwood Forest]], Bilbo came to the [[Lonely Mountain]]. He stole the Arkenstone, crafted a bow from mining tools, and shot the Arkenstone through Slag's heart. Slag was killed, and Dale restored. Bilbo returned to [[Hobbiton]] with Princess Mika as his wife.
+
+==Production==
+The film was produced under tight deadlines. As Gene Deitch lived in Czechoslovakia at the time, he employed his friend [[Adolf Born]], Czech painter and illustrator, as the cinematographer. Born’s visual contributions gave the film its distinctive animated style. Though the film was conceived primarily as a contractual “ashcan copy” to preserve adaptation rights, Born’s participation links the project to the broader tradition of Czech animation and illustration. His later career established him as one of Central Europe’s most celebrated illustrators, but ''The Hobbit'' remains a notable early example of his work in international film.<ref name="Deitch" />
+
+==Status==
+The film remained unknown to Tolkien fans until 2012, when Deitch posted on his blog about the film's history. The film was long considered lost until it was rediscovered by Snyder's son and released on YouTube in 2012.<ref>{{webcite|author=[[DVTV]]|articleurl=https://video.aktualne.cz/dvtv/jsi-bud-komunista-nebo-blazen-slychaval-ceskoslovensko-bylo/r~a96bd4a84c8211e880d30cc47ab5f122/?redirected=1526714757|articlename=Jsi buď komunista, nebo blázen, slýchával. Československo bylo jako středověk, líčí držitel Oscara / 'You are either a communist or a fool': Czechoslovakia was like the Middle Ages, says the Oscar winner|dated=19 May 2018|website=awn.com|accessed=10 October 2022}}</ref> Currently, it is available online.
+
+==See also==
+*[[:Category:Images from The Hobbit (1967 film)|Images from ''The Hobbit'' (1967 film)]]
+
+==External links==
+*{{WP|The Hobbit (1967 film)}}
+
+{{references}}
+{{Screen}}
+{{title|italics}}
+[[Category:Films]]

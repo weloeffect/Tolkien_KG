@@ -1,0 +1,51 @@
+{{Poem infobox
+| title=When winter first begins to bite
+| written=Late [[August]], [[1940]],<br>Autumn, [[1941]],<br>[[5 November]], [[1956]]
+| revised=[[1962]]
+| published=''[[The Fellowship of the Ring]]''<br>''[[The Adventures of Tom Bombadil]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[The Wild]], [[Bilbo Baggins]], [[Red Book of Westmarch]], [[Hobbits]]
+}}
+
+'''''When winter first begins to bite'''''<ref name=title>{{AB|Preface}}</ref> was a brief "[[Hobbits|Hobbit]] adage"<ref name=collectedpoems1>{{CP|158}}</ref> recited by [[Bilbo Baggins]] to [[Frodo Baggins|Frodo]] in "[[The Ring Goes South]]", in which he warns Frodo of the dangers of traveling in wintertime.<ref name=winter>{{FR|South}}, p. 355</ref>
+
+== History ==
+When Bilbo, [[Frodo Baggins]], [[Peregrin Took]], [[Meriadoc Brandybuck]], [[Samwise Gamgee]], and [[Gandalf]] were discussing the [[Council of Elrond]] and the upcoming journey to [[Mordor]]. Bilbo observed that they will be traveling in the winter because Frodo decided to wait until his birthday to start his journey to [[Rivendell]] as a way of honoring Bilbo. When Bilbo found out, he disapproved of his decision because he would never have given [[Bag End]] to the [[Sackville-Baggins]] on his birthday. Bilbo then lamented in a poem how Frodo would be traveling during the winter.<ref name=winter/>
+
+<poem style="font-style:italic; margin-left:20px;">
+:When winter first begins to bite
+::and stones crack in the frosty night,
+:when pools are black and trees are bare,
+::'tis evil in [[the Wild]] to fare.<ref name=winter/></poem>
+
+Sometime during the writing of the [[Red Book of Westmarch]], someone scribbled a strange verse in the marginalia of "the page recording Bilbo's ''When winter first begins to bite''",<ref name=title/> though how they relate is untold.
+
+<poem style="font-style:italic; margin-left:20px;">
+:The wind so whirled a weathercock
+:He could not hold his tail up;
+:The frost so nipped a throstlecock
+:He could not snap a snail up.
+:'My case is hard! the throstle cried,
+:And 'All is vane' the cock replied;
+:And so they set their wail up.<ref name=title/></poem>
+
+== Other versions of the legendarium ==
+The first drafts of ''When winter first begins to bite'' were written sometime between late [[August]] of [[1940]] and the autumn of [[1941]] at the same time as the poem "[[I sit beside the fire and think]]".<ref name=collectedpoems1/>
+
+Originally, Bilbo stated to Frodo that he was going to go off "just when winter's beginning to bite", but this was changed immediately to Bilbo's poem.<ref name=history>{{TI|Ring}}, p. 163</ref>
+
+The scribble said to be written in the marginalia of the Red Book was actually originally the first stanza of a longer poem that Tolkien wrote five years before on [[5 November]] of [[1956]]. Tolkien wrote two illegible drafts on "a compliments slip from the London office of the 3M Company" in addition to a legible draft on the back "of a memo by D.S. Parsons, Sub-Warden of Merton College" in [[Oxford]].<ref name=collectedpoems2>{{CP|181}}</ref>
+
+== Inspiration ==
+Bilbo's poem was likely inspired by a poem in Act V, Scene 2 of [[Wikipedia:William Shakespeare|William Shakespeare]]'s ''[[Wikipedia:Love's Labour's Lost|Love's Labour's Lost]]'', a [[Wikipedia:Set play|set play]] which was used in [[1915]] at Oxford for Tolkien's final examinations.<ref name=inspire>''[[The Lord of the Rings: A Reader's Companion]]'', p. 261</ref>
+
+== Background ==
+[[Christina Scull]] and [[Wayne G. Hammond]] explain in their commentary on Tolkien's [[Preface]] that the term "weathercock" is another word for a weathervane, a bird-shaped indicator of the direction of the wind, while "''throstlecock'', or ''throstle'' for short, is an old-fashioned name for a song thrush".<ref name=scribble>{{AB|Comm}}, "[[Preface]]"</ref> They also suggest that the scribble was written by Bilbo,<ref name=scribble/> though how they came to this conclusion is untold.
+
+== See also ==
+* [[Poems in The Lord of the Rings]]
+
+{{References}}
+{{poems}}
+
+[[Category:Poems in The Fellowship of the Ring]]
+[[Category:Poems in The Adventures of Tom Bombadil]]

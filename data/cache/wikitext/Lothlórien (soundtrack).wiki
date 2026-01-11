@@ -1,0 +1,56 @@
+{{disambig-more|Lothlórien|[[Lothlórien (disambiguation)]]}}
+{{song
+| title=Lothlorien
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], [[Wikipedia:Elizabeth Fraser|Elizabeth Fraser]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=4:33
+| track=14
+| previous=[[The Bridge of Khazad-dûm (soundtrack)|The Bridge of Khazad Dum]]
+| next=[[The Great River (soundtrack)|The Great River]]
+| spotify=https://open.spotify.com/track/63CXPpiEiW7JnXvZ1cUXcp
+}}
+'''Lothlórien''' is the fourteenth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. It was composed and performed by Elizabeth Fraser.
+
+==Lyrics==
+<poem>
+Verse 1 ([[Quenya]]):
+
+A Olórin i yáresse
+Mentaner i Númeherui
+Tírien i Rómenóri
+Maiaron i Oiosaila
+Manan elye etevanne
+Nórie i melanelye?
+
+Verse 2 and 3 ([[Sindarin]]):
+
+Mithrandir, Mithrandir, A Randir Vithren
+ú-reniathach i amar galen
+I reniad lín ne môr, nuithannen
+In gwidh ristennin, i fae narchannen
+I lach Anor ed ardhon gwannen
+Calad veleg, ethuiannen.
+</poem>
+
+==Translation==
+
+<poem>
+Olórin, who once was...
+Sent by the Lords of the West
+To guard the lands of the East
+Wisest of all Maiar
+What drove you to leave
+That which you loved?
+
+Mithrandir, Mithrandir, O Pilgrim Grey
+No more will you wander the green fields of this earth
+Your journey has ended in darkness.
+The bonds but, the spirit broken
+The Flame of Anor has left this World
+A great light, has gone out.
+</poem>
+{{title}}
+{{DEFAULTSORT:14}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

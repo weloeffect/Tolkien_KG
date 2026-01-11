@@ -1,0 +1,59 @@
+{{disambig-two|the country|chapter of the same name|[[The Land of Bow and Helm]]}}
+{{kingdom
+| image=Maria Awsejkowa - Two Captains - Guardians of Amon Rudh.jpg
+| caption="Two Captains - Guardians of Amon Rudh" by [[:Category:Images by Maria Awsejkowa|Maria Awsejkowa]]
+| name=Dor-Cúarthol
+| pronun=
+| othernames=Land of Bow and Helm
+| location=Between the [[Taeglin]], the [[Nivrim|west march]] of [[Doriath]], the [[Fens of Sirion]], and possibly the [[Narog]] and the [[Andram]].
+| capital=[[Echad i Sedryn]]
+| towns=[[Methed-en-glad]]<br />[[Bar-erib]]
+| regions=[[Talath Dirnen]] (shared with [[Nargothrond]])<br>Land around [[Amon Rûdh]]<br>Possibly the [[Moors of the Nibin-noeg]]
+| population=[[Dwarves]], [[Elves]], and [[Men]]
+| language=[[Khuzdul]], [[Sindarin]], and [[Taliska]]
+| govern1=[[Two Captains]]<ref>{{CH|8}}, pp. 145-146</ref>
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date={{FA|487}}
+| event2=Destroyed
+| event2date={{FA|489}}
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+}}
+
+<Center>{{Quote|For Túrin now gave the name of Dor-Cúarthol to all the land between Teiglin and the west march of Doriath; and claiming the lordship of it he named himself anew, Gorthol, the Dread Helm; and his heart was high.|''[[The Children of Húrin]]'', "[[The Land of Bow and Helm]]"}}</Center>
+
+'''Dor-Cúarthol''' ([[Sindarin|S.]] ''Land of Bow and Helm'') was the name given to the country ruled by [[Túrin]] and [[Beleg]] from their lair atop [[Amon Rûdh]].<ref>{{CH|List}}, entry "Dor-Cúarthol"</ref> The country was situated "between [[Taeglin|Teiglin]] and the [[Nivrim|west march]] of [[Doriath]]" and likely the [[Narog]] and [[Andram]]. The name comes from Beleg's [[Belthronding|great bow]] and Túrin's [[Dragon-helm of Dor-lómin|ancestral helm]].<ref name=Turin>{{S|Turin}}</ref>
+
+==History==
+Built within Amon Rûdh was the [[Bar-en-Nibin-noeg|home]] of the last [[Petty-dwarves]], [[Mîm]] and his sons [[Ibun]] and [[Khîm]]. When Túrin and the outlaws known as the [[Gaurwaith]] encountered Mîm in the wild they captured him, but Mîm ransomed his home to the Gaurwaith for his life. One day in the midst of winter, Beleg of Doriath, having been seeking out his old friend, brought to him the [[Dragon-helm of Dor-lómin|Helm]] of [[House of Hador|his ancestors]], and joined the outlaws. That spring, Túrin took up his helm and went among his company in hunting down Orcs and even though they outnumbered the Gaurwaith greatly, the valour of Túrin and the bowmanship of Beleg made them seem like a host.<ref name=land>{{CH|8}}, pp. 141-150</ref>
+
+The deeds of the company were soon heard all throughout [[Beleriand]], in [[Menegroth]] and even [[Gondolin]], declaring that "the Helm and Bow that had fallen in [[Dimbar]] had arisen again beyond hope".<ref name=Turin/> Many leaderless and dispossessed wanderers took heart and came to seek them and Túrin gladly received them, though Beleg suggested that he not permit any one to enter into Amon Rûdh, now renamed as Echad i Sedryn, which only the [[Gaurwaith|Old Company]] of the Gaurwaith and the [[Petty-dwarves]] could enter. Thus, many guarded camps and forts were established around Amon Rûdh from the eastern forest to the highlands and the southern reaches. The most prominent of these settlements were known as [[Methed-en-glad]] and [[Bar-erib]].<ref name=land/>
+[[File:Alan Lee - The Land of Bow and Helm.jpg|left|thumb|''The Land of Bow and Helm'' by [[Alan Lee]]]]
+Soon after, the following of Túrin became a great force to be reckoned with, resulting in [[Morgoth]] pulling back and making feint attacks instead. The knowledge of this feat reached even as far as [[Nargothrond]], causing [[Orodreth]] to send messengers to offer the Two Captains any aid other than in arms if they should feel so inclined.<ref name=land/>
+
+Upon his success against [[Angband]], Túrin named the land between the Taeglin and Doriath as ''Dor-Cúarthol'', taking on the name ''[[Gorthol]]'' and claiming the lordship of the land for himself.<ref name=Turin/>
+
+The realm of Dor-Cúarthol lasted for two more years, barring the [[Old South Road (Beleriand)|southward road]] from the forces of Angband,<ref name=land/> but it was not to last. For the fame of the Two Captains had reached [[Angband]], and perceiving that "Gorthol" was indeed Túrin, the son of [[Húrin]], and fearing that he would overcome his doom, Morgoth sent his most skilled spies to watch the lands around the hill, but not make any move against it. Yet the presence of the Orcs was known to Mîm, who went out foraging for [[Earth-bread|wild roots]] with his son, Ibun. However, his true intention was to betray Dor-Cúarthol to the Orc-captain so as to rid Amon Rûdh of the Old Company.<ref group="note">In ''[[The Silmarillion]]'' it is said that Mîm did not deliberately seek out the Orcs to betray the Old Company, but betrayed them due to the threat of torture to his captive son, Ibun (cf. asterisk in ''[[The Land of Bow and Helm]]'').</ref> With the Orcs insisting on taking Ibun hostage, Mîm led them to the Echad within Amon Rûdh and the Orcs [[Sack of Bar-en-Danwedh|sacked]] it. Thus, Dor-Cúarthol was no more, for Beleg was left for dead, Túrin was made a captive,<ref name=land/> and of the Old Company, only [[Andvír]], the son of [[Andróg]], survived.<ref group=note>[[Andvír]] is not mentioned in ''[[The Children of Húrin]]'' nor in any other version of the story. He only appeared within an introductory note where he was the source of [[Dírhaval|Dírhaval's]] information on the [[Gaurwaith]]. This note was excluded from the published book.</ref><ref>{{WJ|Aelfwine}}, note 2, pp. 311, 315</ref>
+
+==Etymology==
+''Dor-Cúarthol'' is [[Sindarin]] for "Land of Bow and Helm",<ref>{{S|Index}}, entry "Dor-Cúarthol"</ref> from ''[[dôr]]'' ("land") + ''[[cú]]'' ("bow") + ''[[a]]'' ("and") + ''[[thôl]]'' ("helm").<ref>{{S|Elements}}, entries ''[[cú]]'', ''[[thôl]]''</ref>
+
+{{references|n}}
+[[Category:Beleriand]]
+[[Category:Elven realms]]
+[[Category:Sindarin locations]]
+
+{{DEFAULTSORT:Dor-Cuarthol}}
+[[de:Dor-Cúarthol]]
+[[fi:Dor-Cúarthol]]
+[[fr:encyclo:geographie:regions:beleriand:dor-cuarthol]]

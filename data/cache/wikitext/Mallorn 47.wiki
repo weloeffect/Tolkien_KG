@@ -1,0 +1,68 @@
+{{Mallorn
+| name=Mallorn 47
+| image = Mallorn47.jpg
+| editor=[[Henry Gee]]
+| artist=Becky Hitchin
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Spring [[2009]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 47''' is the forty-seventh issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Spring [[2009]].
+
+==Contents==
+* '''Cover Art'''
+** By: Becky Hitchin
+* '''Editorial'''
+** "The ode goes ever on"
+*** By: [[Henry Gee]]
+* '''Letters'''
+* '''Reviews'''
+** "The shores of Faery, revisited": ''[[Tolkien On Fairy-stories|On Fairy Stories]]''
+*** By: [[David Doughan]]
+** "The memetics of culture": ''How Tradition Works'' by [[Michael D.C. Drout]]
+*** By: Johanna Kershaw
+** "Fear and loathing in Middle-earth": ''The Mirror Crack'd'' edited by Lynn Forest-Hill
+*** By: Joel Franz
+** "Ringing ever onwards": ''[[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference|Proceedings of the 2005 Tolkien Conference]]''
+*** By: [[Colin Duriez]]
+** "Echoes of strange music": ''The Darkling and the Lady'' by Christine Davidson
+*** By: Lynn Forest-Hill
+** "Away with the fairies": ''[[Tolkien, Race and Cultural History]]'' by [[Dimitra Fimi]]
+*** By: [[Henry Gee]]
+* '''Commentary'''
+** "The ogre in the dungeon"
+*** By: [[Alex Lewis]]
+** "The curious case of [[Denethor]] and the ''[[Palantír]]''"
+*** By: Jessica Yates
+** "The realm of [[Faerie|Faërie]], and the shadow of Homer in Narnia and [[Middle-earth]]"
+*** By: Louis Markos
+** "Real and imaginary history in ''[[The Lord of the Rings]]''"
+*** By: Franco Manni
+** "[[J.R.R. Tolkien|Tolkien]]'s further indebtedness to Haggard"
+*** By: Dale Nelson
+* '''Poetry'''
+** ''The Passing of the People of Peace''
+*** By: Julie Sinclair
+** ''[[Neldoreth]] Revisited''
+*** By: Carol Brownlow
+** ''The Forest''
+*** By: Carol Brownlow
+* '''Fiction'''
+** ''The importance of beans and turnips''
+*** By: rpg
+** ''An afternoon at the seaside''
+*** By: Lynn Forest-Hill
+* '''Well, I'm Back'''
+** "[[Dragons|Dragon]] meat for dinner"
+*** By: Zack Cramer
+* '''Back Cover'''
+**  By: Lorenzo Daniele
+* '''Inside Art'''
+** By: Davide Cattaneo, Lorenzo Daniele and Sue Wookey
+
+{{mallornnav|46|48}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 47}}
+[[Category:Mallorn (journal)]]

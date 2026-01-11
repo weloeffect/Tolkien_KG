@@ -1,0 +1,65 @@
+{{Song
+| title = Over Old Hills...
+| album = [[Dol Guldur (album)|Dol Guldur]]
+| image = DolGuldur.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 8:57
+| track = 8
+| spotify = https://open.spotify.com/track/2UMEQkrLMLf2XOS1sjF6iV
+| writer = [[J.R.R. Tolkien]], P.K.
+| previous = [[Unto a Long Glory...]]
+}}'''''Over Old Hills''''' is the eighth and final track of the album [[Dol Guldur (album)|Dol Guldur]] by the band [[Summoning]]. The name [[Cottage of Lost Play]] is mentioned several times, and it is assumed that the story of the song takes place in [[Tol Eressëa]].
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+The air was neither night or a day, 
+But faintly dark with softest light 
+When first glimmered into sight 
+The Cottage of Lost Play 
+
+You and me - we know that land 
+And often have been there in 
+The old days, old days 
+The dark child and a fair 
+Was it down the paths of firelight 
+Dreams in winter cold and white, 
+Or in the blue-spun twilight, twilight hours 
+The air was neither night or day, 
+But faintly dark with softest light, 
+When first there glimmered into sight 
+The Cottage of Lost Play 
+
+And why we never found the same 
+Old cottage, or magic 
+Track that leads between a silver sea, 
+Between a silver sea 
+And those old shores and gardens fair 
+Where all things are that ever were - 
+We know not, You and Me 
+We know not, You and Me 
+
+Those old shores and gardens fair 
+Where all things are 
+That ever were 
+
+The air was neither night or day, 
+But faintly dark with softest light, 
+When first there glimmered into sight 
+The Cottage of Lost Play 
+And those old shores and gardens 
+Where all things are that ever were 
+We know not, You and Me, 
+We know not, You and Me 
+
+And these old shores 
+And gardens fair 
+Where all things are 
+That ever were [before] 
+Air was neither night or day 
+But faintly dark with softest light 
+When first there glimmered 
+The Cottage of Lost Play
+</poem>
+
+[[Category:Songs by Summoning]]

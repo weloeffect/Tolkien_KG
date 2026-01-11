@@ -1,0 +1,34 @@
+{{Unnamed}}
+{{Poem infobox
+| title="Loä yukainen avar Anduinë sí valútier:"
+| written=[[1958]]
+| revised=1958
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Quenya]]
+}}
+"'''Loä yukainen avar Anduinë sí valútier:'''" is the opening line of a poem recited by [[J.R.R. Tolkien]] during his speech at the [["Hobbit Dinner" in Rotterdam]] in [[1958]].<ref name=collectedpoems>{{CP|182}}</ref>
+
+== Poem draft excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:Loä yukainen avar Anduinë sí valútier:
+:i aluvar koivienyo eärello nantule.<ref name=collectedpoems/></poem>
+
+== English recording excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:Twenty years have flowed away down the long river
+:And never in my life will return for me from the sea
+:Ah years in which looking far away I saw ages long past
+:When still trees bloomed free in a wide country
+:And thus now all begins to wither
+:With the breath of cold-hearted wizards
+:To know things they break them
+:And their stern lordship they establish
+:Through fear of death.<ref name=unearthed>{{webcite|author=Noble Smith|articleurl=http://www.huffingtonpost.com/noble-smith/jrr-tolkien-reveals-the-t_b_5373529.html|articlename=J.R.R. Tolkien Reveals TRUE Meaning Of 'The Lord Of The Rings' In Unearthed Audio Recording|dated=22 May 2014|website=[http://www.huffingtonpost.com/ huffingtonpost.com]|accessed=3 September 2014}}</ref></poem>
+
+== Background ==
+Tolkien gave a [[Quenya]] rendering of the poem, which was planned for publication sometime in the autumn of [[2014]].<ref name=unearthed/><ref>{{webcite|author=[[Carl F. Hostetter]]|articleurl=https://web.archive.org/web/20160317020821/http://groups.yahoo.com/neo/groups/lambengolmor/conversations/messages/1147|articlename=An experiment in translation (message 1147)|dated=23 May 2014|website=Lambe|accessed=20 June 2022}}</ref> Even a challenge was promoted within the [[Lambengolmor (mailing list)|Lambengolmor group]] to recreate the original Quenya text before it was released.<ref>{{webcite|author=Eduardo Stark|articleurl=http://tolkienbrasil.com/2014/09/02/desafio-de-traducao-quenya/|articlename=Um desafio para os estudiosos da língua élfica|dated=2 September 2014|website=[http://tolkienbrasil.com/ Tolkien Brasil]|accessed=29 September 2019}}</ref> While the recording and full English poem remain unpublished, the Elvish text was published in ''[[The Collected Poems of J.R.R. Tolkien]]''.
+
+{{references}}
+{{poems}}
+[[Category:Poems by J.R.R. Tolkien]]
+[[Category:Quenya texts]]

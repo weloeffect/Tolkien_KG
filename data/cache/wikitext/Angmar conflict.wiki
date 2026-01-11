@@ -1,0 +1,87 @@
+{{unnamed}}{{War
+| previous=[[War of the Last Alliance]]
+| next=[[War of the Ring]]
+| name=Angmar conflict
+| image=
+| begin={{TA|1356}}
+| end={{TA|1974}} (fighting finally ended in {{TA|1977}})
+| place=Throughout [[Eriador]] and the upper [[Vales of Anduin]]
+| result=Victory for the [[Free Peoples]]
+*Fall of [[Arnor]]
+*Destruction of [[Angmar]]
+*Remaining [[Northern Dúnedain]] become [[Rangers of the North]]
+*The [[Eótheód]] settle the upper [[Vales of Anduin]]
+| battles=First attack on Amon Sûl, [[fall of Cardolan]], [[fall of Amon Sûl]], [[Second Siege of Imladris|second siege of Imladris]], [[fall of Fornost]], [[Battle of Fornost]], Eótheód incursion
+|side1=[[Men of Arnor]]<br>[[Gondorians]]<br>[[Men of the Vales of Anduin]]<br>[[Eótheód]]<br>Forces of [[Rivendell]]<br>[[Galadhrim]]<br>[[Elves of Lindon]]<br>[[Shire-hobbits]]
+|side2=Forces of [[Angmar]]
+|commanders1=
+* [[Argeleb I]]†
+* [[Arveleg I]]†
+* [[Araval]]
+* [[Araphor]]
+* [[Arvedui]] 
+* [[Eärnur]]
+* [[Frumgar]]
+* [[Círdan]]
+* [[Elrond]]
+* [[Glorfindel]]
+|commanders2=
+* [[Witch-king of Angmar]] 
+|}}
+
+The '''Angmar conflict''' was a centuries-long struggle between the [[Men of Arnor]] and the forces of [[Angmar]] that was led by the [[Witch-king]]. The three successor realms of Arnor ([[Arthedain]], [[Cardolan]] and [[Rhudaur]]) were slowly weakened by strife and pushed back, ending in the destruction [[Arnor]] at the [[fall of Fornost]] in {{TA|1974}}. A [[Gondorians|Gondorian]] and [[Elven]] army then destroyed the armies of Angmar at the [[Battle of Fornost]] in {{TA|1975}}. The conflict devastated [[Eriador]], leaving large swaths of land mostly uninhabited for the next thousand years.<ref name="eriador" />
+
+==Background==
+After the death of King [[Eärendur]], his sons split the kingdom of [[Arnor]] into three parts: [[Arthedain]] to the west, [[Cardolan]] to the south and [[Rhudaur]] to the east. The three kingdoms were weakened by strife, usually over control of the [[Weather Hills]] and the ''[[palantíri|palantír]]'' of [[Amon Sûl]], which both Cardolan and Rhudaur desired.<ref name="eriador">{{App|Eriador}}</ref>
+
+==History==
+===Prelude===
+[[Image:Grant Gould - The Witch King.jpg|left|thumb|Eliot Gould - ''The Witch King'']]
+During the reign of [[Malvegil]] of Arthedain (c. {{TA|1300}}), the realm of [[Angmar]] was established by the [[Witch-king]], north of the [[Ettenmoors]] and in the upper [[Vales of Anduin]], with the purpose of destroying [[Arnor]]. It was not yet known that he was the chief of the [[Nazgûl|Ringwraiths]]. He filled his domain with [[Orcs]], evil Men and fell creatures.<ref name="eriador">{{App|Eriador}}</ref>
+
+===Early Conflicts===
+Malvegil's son [[Argeleb I]] claimed kingship of all of Arnor since no descendants of [[Isildur]] remained in Cardolan and Rhudaur. Rhudaur resisted the claim, and few Dúnedain remained there. Power was seized by a lord of the [[Hillmen]], who was secretly in league with Angmar. Argeleb fortified the [[Weather Hills]], but was killed in battle with Rhudaur and Angmar in {{TA|1356}}.<ref name="AppB2">{{App|B2}}</ref> His son [[Arveleg I]] drove the enemies back from the Hills with the help of Cardolan and [[Lindon]]. Arthedain and Cardolan established a frontier along the Weather Hills, the [[East Road]] and the lower [[Hoarwell]]. At this time, the Witch-king [[Second Siege of Imladris|besieged Rivendell]] but failed to take it.<ref name="eriador">{{App|Eriador}}</ref>
+
+===Fall of Cardolan===
+{{Main|Fall of Cardolan}}
+In {{TA|1409}}, the Witch-king invaded [[Cardolan]] with a massive force and surrounded [[Amon Sûl]]. Arveleg I and the [[last prince of Cardolan]] were killed and Amon Sûl was destroyed, but its [[Palantíri|palantîr]] was saved and brought to [[Fornost Erain]]. The remaining [[Dúnedain]] in Rhudaur were slain or driven west. Most of Cardolan was ravaged, but a remnant held out in [[Barrow-downs|Tyrn Gorthad]] and in the [[Old Forest]] behind. Arthedain was beset, but king [[Araphor]] (then only eighteen) repelled the enemy from [[Fornost Erain]] and the [[North Downs]] with aid from [[Círdan]].<ref name="eriador">{{App|Eriador}}</ref>
+
+Angmar was subdued for the next centuries by combined [[Elves|Elven]] forces from [[Lindon]], [[Rivendell]], and [[Lothlórien|Lórien]].<ref name="eriador">{{App|Eriador}}</ref>
+
+In {{TA|1601}}, [[Argeleb II]] granted [[The Shire]] to the [[Hobbits]], who had slowly been migrating west partly to escape the forces of Angmar.<ref name="AppB2">{{App|B2}}</ref> Later in his reign, the [[Great Plague]] came into [[Eriador]]. Most of the people in Cardolan died, especially in [[Minhiriath]], and the Dúnedain there came to an end. Evil spirits from Angmar and [[Rhudaur]] entered the [[Barrow-downs]]. Arthedain was relatively unaffected. The Hobbits of the Shire saw great loss, but their numbers recovered in time.<ref name="eriador">{{App|Eriador}}</ref>
+
+In {{TA|1851}}, King [[Araval]] won a victory over Angmar with the help of Lindon and Rivendell, but was unable to reclaim Cardolan.<ref>{{PM|Elendil}}, pp. 195, 209-210</ref> In the same year, [[Gondor]] was attacked by the [[Wainriders]] for the first time.<ref name="AppB2">{{App|B2}}</ref>
+
+===Alliance with Gondor===
+Realizing that their enemies were coordinated by a single power, King [[Araphant]] renewed the ancient alliance with [[Gondor]]. In {{TA|1940}}, his son [[Arvedui]] wedded [[Fíriel]], the daughter of King [[Ondoher]] of Gondor. Angmar renewed its attack on Arnor at the same time as [[Wainriders]] attacked Gondor. In {{TA|1944}}, Ondoher and both his sons were killed. Arvedui claimed the throne of Gondor, but the lords of Gondor chose [[Eärnil II]] as their king. Nonetheless, the kingdoms retained good relations. Arvedui succeeded his father in {{TA|1964}}. In {{TA|1973}} he sent a message to Gondor that Angmar was preparing its final assault. Eärnil sent his son [[Eärnur]] with a great army, including many horsemen from [[Vales of Anduin]], for Arnor by sea. They did not arrive in time.<ref name="gondor">{{App|Gondor}}</ref>
+
+===Fall of the North-kingdom===
+During the harsh winter of {{TA|1974}}, the Witch-king launched his final assault on Arthedain. He [[Fall of Fornost|captured Fornost]] and drove most of the remaining Dúnedain over the Lune, including the king's sons. Arvedui held out for a short time in the North Downs, before he and some of his guard were forced to flee to the abandoned mines of the northern [[Ered Luin]]. They were driven by hunger to seek refuge with the [[Lossoth]] of [[Forochel]]. Receiving word of the King's whereabouts, Círdan sent a ship to the [[Icebay of Forochel|icebay]] to rescue him. Arvedui boarded the ship against the advice of the Lossoth chieftain. In the night, a storm came from the North and wrecked the ship. Arvedui drowned, and with him were lost the ''palantíri'' of Fornost and Amon Sûl. Thus ended the kingdom of Arnor.<ref name="eriador">{{App|Eriador}}</ref>
+
+===Defeat of Angmar===
+{{main|Battle of Fornost}}
+When Eärnur and the Gondorian host arrived in Lindon, Fornost had already fallen. But the Elves and Men were filled with joy, amazed by the size of the army which was only a small part of Gondor's might. The fleet filled [[Forlond]], [[Harlond (Lindon)|Harlond]], and the [[Grey Havens]]. Círdan summoned the remains of the forces of Lindon and Arnor (including some Hobbits),<ref name="eriador" /> and the allied [[Host of the West (Arnor)|Host of the West]] marched across the [[Lune]].<ref name="gondor">{{App|Gondor}}</ref>
+
+The Witch-king was now dwelling in Fornost. Confident and proud after his recent victories, he did not prepare for a siege, but led his army out to face the enemy in the open. The Host came down on him from the [[Hills of Evendim]] and the forces clashed in the plains between [[Nenuial]] and Fornost. The forces of Angmar were already retreating towards Fornost when the main body of the cavalry, which had passed around the Hills, came down from the north and scattered them in a great rout. The Witch-king gathered what troops he could and fled northwards towards [[Carn Dûm]], but he was overtaken by the cavalry of Gondor led by Prince [[Eärnur]]. At the same time, a force of Elves led by [[Glorfindel]] came from [[Rivendell]], and the remnants of Angmar's army were utterly destroyed. Near the end of the battle, the Witch-king attacked [[Eärnur]], but fled upon the appearance of [[Glorfindel]]. Eärnur attempted to make chase, but Glorfindel stopped him, prophesizing: "Not by the hand of man will he fall."<ref name="gondor">{{App|Gondor}}</ref> 
+
+Two years later, [[Frumgar]] led the [[Éothéod]] into the northern [[Vales of Anduin]] and destroyed the final vestiges of Angmar on the east side of the Mountains, thus ending the centuries-long conflict.<ref>{{App|Eorl}}</ref> 
+
+===Aftermath===
+The conflict left Eriador heavily depopulated. The Kingdom of Arnor was destroyed, and Fornost became a ruin feared by the [[Men of Bree]], who called it [[Deadmen's Dike]]. But the royal line continued in Arvedui's son [[Aranarth]], who took the title of [[Chieftains of the Dúnedain|Chieftain of the Dúnedain]]. The remaining Dúnedain took to a [[Ranger of the North|secretive, nomadic lifestyle]], but continued to protect Eriador from evil.<ref name="eriador">{{App|Eriador}}</ref>
+
+The [[Shire-folk]] survived, though war had swept over them and most had fled into hiding. In {{TA|1979}} they elected [[Bucca of the Marish]] as the first [[Thain]], to replace the King. In the peace that followed, the Hobbits were content and prospered.<ref name="eriador">{{App|Eriador}}</ref>
+
+The Kingdom, including its great cities [[Annúminas]] and [[Fornost Erain]], was restored one thousand years later by [[Aragorn|Aragorn II]].<ref>{{RK|VI7}}</ref>
+
+{{references}}
+{{seq-start}}
+{{seq
+| prev=[[War of the Last Alliance]]
+| list=Major events of [[Middle-earth]]
+| dates={{TA|1409}} - {{TA|1974}}
+| next=[[Watchful Peace]]
+}}
+{{seq-end}}
+
+[[Category:Conflicts of the Third Age]]
+[[Category:Wars]]

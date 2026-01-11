@@ -1,0 +1,28 @@
+{{quote|Where is the spring and the harvest and the tall corn growing?|[[Aragorn]]<ref>{{TT|III6}}</ref>}}
+{{plant infobox
+| name=Corn
+| image=The Lord of the Rings - The Fellowship of the Ring - Corn.jpg
+| caption=Cornfield in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| pronun=
+| othernames=Barley, rye, wheat, oats 
+| location=[[Númenor]], [[Middle-earth]], [[Aman]]
+| notablefor=
+| family=
+| appearance=
+}}
+'''Corn''' is a general name for various cereal crops, barley, rye, wheat and oats. It should not be confused with [https://en.wikipedia.org/wiki/Maize maize]. 
+
+==History==
+Corn was one of the creations of [[Yavanna]].<ref name="Vala">{{S|Vala}}</ref> Corn grew in [[Aman]] which had in it the strong life of the Blessed Realms. This corn grew swiftly and needed only a little sunlight to ripen, and if it was sown at any season (save in frost), it soon sprouted. This corn was brought to [[Middle-earth]] although it did not thrive and would not endure northern winds that came from [[Angband]]. None were permitted to handle this grain, save the elven-maidens of Yavanna, the [[Yavannildi]], who also knew the art of making [[lembas]].<ref>{{PM|Lembas}}</ref>
+
+According to [[Treebeard]], [[Men]] learned the cultivation of corn by the [[Entwives]] of the [[Brown Lands]], and they were greatly praised for it. That information, however, passed into legend.<ref>{{TT|Treebeard}}</ref>
+
+Corn was also introduced to [[Númenor]], who learned to cultivate it. During the [[Ban of the Valar]], the [[Númenóreans]] spread their knowledge of corn and agriculture throughout [[Middle-earth]], and so, this crop was introduced to the [[Middle Men]].<ref name="Aka">{{S|Akallabeth}}</ref>
+
+The area that would later be known as [[the Shire]] was known for its fertility. The [[Kings of Arnor]] made many farmlands there, and aside from wine, corn was the main produce. Though the land was deserted by the time they came to live there, the [[Hobbits]] continued used their land for similar crop.<ref name="Concerning">{{FR|Hobbits}}</ref>  In {{TA|3018}} as he prepared to leave the Shire, [[Frodo Baggins|Frodo]] noticed that due to the fine weather in the summer and autumn "the corn was tall and full".<ref>{{FR|I3}}</ref>
+
+==Portrayal in adaptations==
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Probably due to the dialectical homonym of the New World crop (''[[wikipedia:Maize|Zea mays]]''), [[Samwise Gamgee|Sam]] and [[Frodo Baggins|Frodo]] walk through a field of maize.<ref>''[[The Lord of the Rings: The Fellowship of the Ring]]'', "[[A Short Cut to Mushrooms (scene)|A Short Cut to Mushrooms]]"</ref>
+{{references}}
+[[Category:Plants]]

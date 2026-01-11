@@ -1,0 +1,43 @@
+{{Adaptation}}
+{{kingdom
+| image=
+| caption=
+| name=Tantûrak
+| pronun=
+| othernames=Lond Hallacar
+| location=Southern [[Mûmakan]]
+| capital=Sarûl
+| towns=
+| regions=
+| population=
+| language=
+| govern1=Royal governor <small>(before independence)</small>
+| govern2=King <small>(after independence)</small>
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date={{SA|1300}}
+| event2=Independence
+| event2date={{SA|2040}}
+| event5=
+| event5date=
+| followedby=
+| map=[[File:Detailed Map of Mûmakan.jpeg|thumb|“Map of the Mûmakan” by Pete Fenlon, showing Tantûrak at the top left,]]
+}}In [[Middle-earth Role Playing]], '''Tantûrak''' was a [[Númenor|Númenórean]] colony established in the [[Mûmakan]]. Founded circa {{SA|1300}}, it was the southernmost of the Númenórean settlements on [[Middle-earth]]. Its capital was the port of Sarûl, located on the southern bank of the Uvar River.
+
+Unlike other inhabitants of the Mûmakan who adapted to the jungle, the colonists cleared vast swathes of the rainforest and coastal vegetation by burning it down. <ref name="tanturak">{{ICE|2500}}, p. 15</ref>
+
+==History== 
+The colony was founded around {{SA|1300}} as Lond Hallacar.<ref name="nazgul">{{ICE|8003}}, pp. 90-91</ref> While the climate of the southern Mûmakan was far more humid and oppressive than the cool air of Númenor, the colonists chose this location out of necessity rather than preference. Initially, they attempted to settle further north in the Usakal Forest. However, they were soon plagued by the Uvag-Aak ("Drinkers of Blood"), terrifying ape-like creatures that inhabited the northern woods.<ref name="tanturak"/>
+
+For approximately seven hundred years, Tantûrak was ruled by a Royal Governor who answered to the King of Númenor. This system remained stable through eleven governors until the arrival of a mysterious figure known as the "Magician" circa {{SA|2000}}. Rising quickly through the ranks of advisers, the Magician corrupted the sitting Governor, a cousin of the King who harboured a lust for glory.<ref name="tanturak"/> This Magician was in fact an elf called Valmorgûl, of the [[Court of Ardor]].<ref>{{ICE|2500}}, p. 16</ref>
+
+Under the Magician's influence, the Governor declared himself King Tar-Kinjaarn in {{SA|2040}}, severing all political ties with Númenor. This rebellion was initially welcomed by the populace, as it freed them from the increasingly inflated taxes imposed by the mother country.<ref name="tanturak"/> For this, they gained the support of [[Fourth of the Nazgûl|Jí Indûr]]'s Mûmakan empire. [[Ar-Pharazon]] ultimately reconquered Tantûrak in {{SA|3262}}, but Númenor itself would fall in {{TA|3319}}, leaving the colony independent again.<ref name="nazgul"/>
+
+As their lifespans began to wane, the people of Tantûrak grew increasingly jealous of the immortal Elves and even the indigenous Kirani. This envy transformed from disdain into outward hatred.<ref name="tanturak"/> Again under the Magician's sway, Tantûrak declared war on [[Koronandë]] in {{TA|1365}}. Through Indûr's intervention, a peace was reached in {{TA|1372}}, which increased his influence.<ref name="nazgul"/>
+
+By {{TA|3000}}, as the Court of Ardor had been defeated, the Magician was replaced by a disguised agent of [[Sauron]]. Thus, Tantûrak was under his sway. In this time, they regularly raided Hathor, and dominated [[Mûmakan#Plains_and_hills|Dûshera]].<ref>{{ICE|2500}}, p. 52</ref>
+{{references}}
+[[Category:Middle-earth Role Playing locations]]

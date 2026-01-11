@@ -1,0 +1,22 @@
+{{short description|Type of rose plant}}
+{{plant infobox
+| name=Eglatine
+| image=Eglantine.jpg
+| caption=
+| pronun=
+| othernames=Sweet briar
+| location=[[Ithilien]], [[the Shire]]
+| notablefor=
+| family=Roses
+| appearance=
+}}
+'''Eglantine''' is a type of wild [[Roses|rose]]. [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] found it growing in [[Ithilien]] as they journeyed through that land.<ref>{{TT|IV4}}</ref> [[Eglantine Banks]], [[Peregrin Took|Pippin Took]]'s mother, was named after it,<ref>{{App|Took}}</ref> so it probably grew in [[the Shire]] as well.
+
+==Etymology==
+The name is used for the sweetbriar. It derives from French referring to the "dog rose", ultimately from [[Latin]] ''aculeus'' "spine".
+
+==External links==
+* [[wikipedia:Eglantine|Eglantine]] at [[wikipedia:Main Page|Wikipedia]]
+
+{{references}}
+[[Category:Flowers]]

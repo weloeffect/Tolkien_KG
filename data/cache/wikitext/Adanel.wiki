@@ -1,0 +1,65 @@
+{{infobox character
+| people=[[Edain|Adan]]
+| name=Adanel
+| image=Juliana Pinho - Adanel the Wise.png
+| caption=Adanel (right) in "Adanel the Wise" by [[:Category:Images by Juliana Pinho|Juliana Pinho]]
+| pronun=
+| othernames=
+| titles=
+| position="Wise-woman"
+| location=[[Estolad]]; [[Hithlum]];{{fact}} [[Dorthonion]]{{fact}}
+| affiliation=
+| language=
+| birth={{FA|339}}
+| birthlocation=Presumably [[Estolad]]
+| rule=
+| death=unknown (aged 35+)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Hador|House of Marach]]
+| parentage=[[Malach]] Aradan & [[Zimrahin]] Meldis
+| siblings=[[Magor]]
+| spouse=[[Belemir]] of the [[House of Bëor]]
+| children=[[Beren (son of Belemir)|Beren]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Adanel''' (born {{FA|339}}) was a [[Wise-woman]] from the [[House of Hador|House of Marach]], the only daughter and eldest child of [[Malach|Malach Aradan]] and [[Zimrahin|Zimrahin Meldis]], and elder sister of [[Magor]] her only brother; also, she was the grand-daughter of [[Marach]] himself.  
+
+Adanel was alive in the time when the folk of Hador were in [[Estolad]] with the [[House of Bëor]], and she married [[Belemir]] of that House. She became the mother of [[Beren (son of Belemir)|Beren]], who was the grandfather of his great and renowned namesake grandson, [[Beren|Beren Erchamion]].<ref name="WJwest">{{WJ|West}}, ''Commentary, (ii) The House of Hador''</ref>
+
+The Wise of the People of Marach were the only [[Men]] to preserve the [[Tale of Adanel|tale]] of their original sin, according to which, after their awakening, some [[Men]] chose to worship [[Morgoth|Melkor]] instead of [[Ilúvatar|Eru]].<ref>{{MR|P4i}}, Note 11</ref>  Adanel told this tale to her niece, [[Andreth]], who also became a Wise-woman of the Bëorians.<ref>{{MR|P4c}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | | | | | | | | | | | | | | MAR | | |MAR=[[Marach]]<br /><small>''{{FA|282}} - {{FA|376|n}}''</small>}}
+{{familytree| | | | | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree| | | | | ZIM |~|~|y|~|~| MAL | | IML |ZIM=[[Zimrahin]]<br /><small>''unknown''</small>|MAL=[[Malach]]<br /><small>''{{FA|307|n}} - {{FA|398|n}}''</small>|IML=[[Imlach]]<br /><small>''b. {{FA|310|n}}''</small>}}
+{{familytree| | | | | |,|-|-|-|^|-|-|-|.| | | |!| |}}
+{{familytree| BEL |y| ADA | | | | | | MAG | | AML |BEL=[[Belemir]]<br /><small>''b. {{FA|339|n}}''</small>|ADA='''ADANEL'''<br /><small>''b. {{FA|339|n}}''</small>|MAG=[[Magor]]<br /><small>''b. {{FA|341|n}}''</small>|AML=[[Amlach]]<br /><small>''b. {{FA|337|n}}''</small>}}
+{{familytree| | | |!| | | | | | | | | |!| | | | | |}}
+{{familytree| | | BEN | | | | | | | | HAT | | | | |BEN=[[Beren (son of Belemir)|Beren]]<br /><small>b. ''{{FA|374|n}}''</small>|HAT=[[Hathol]]<br /><small>''b. {{FA|365|n}}''</small>}}
+{{familytree| |,|-|^|-|.| | | | | | | |!| | | | | |}}
+{{familytree| CHI | | EME |y| BAR | | HAD | | | | |CHI=''unknown<br />children''|EME=[[Emeldir]]<br /><small>''b. {{FA|406|n}}''</small>|BAR=[[Barahir]]<br /><small>''{{FA|400|n}} - {{FA|460|n}}''</small>|HAD=[[Hador]]<br /><small>''{{FA|390|n}} - {{FA|455|n}}''</small>}}
+{{familytree| | | | | | | |!| | | | | | | | | | | |}}
+{{familytree| | | | | | | BER | | | | | | | | | | |BER=[[Beren]]<br /><small>''{{FA|432|n}} - {{FA|503|n}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+Originally [[Hador|Hador Lórindol]] was the leader who led the people of the third house of the Edain across the Ered Luin into Beleriand and Adanel was his sister.  When the House of Hador genealogy was changed so that Marach was the first leader then Adanel became the great-aunt of Hador.
+
+There were two versions of the genealogical table for the House of Hador.  In the first version of the table there was a note that Beren, son of Belemir and Adanel, was their fifth child.  In the second version there was no reference to these other children.  The section of the second version shown above shows only the first Beren although the other children may have existed.<ref name="WJwest"/>
+
+{{references}}
+[[Category:First Age characters]]
+[[Category:House of Hador]]
+
+[[de:Adanel]]
+[[fi:Adanel]]
+[[fr:encyclo/personnages/hommes/1a/peuple de hador/adanel]]

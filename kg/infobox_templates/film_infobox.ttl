@@ -1,0 +1,905 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Born_of_Hope> a schema:WebPage ;
+    rdfs:label "Born of Hope"@en ;
+    schema:about <http://localhost:8000/resource/Born_of_Hope> .
+
+<http://localhost:8000/page/Creating_The_Lord_of_the_Rings_Symphony> a schema:WebPage ;
+    rdfs:label "Creating The Lord of the Rings Symphony"@en ;
+    schema:about <http://localhost:8000/resource/Creating_The_Lord_of_the_Rings_Symphony> .
+
+<http://localhost:8000/page/Diari_dalla_terza_Era> a schema:WebPage ;
+    rdfs:label "Diari dalla terza Era"@en ;
+    schema:about <http://localhost:8000/resource/Diari_dalla_terza_Era> .
+
+<http://localhost:8000/page/Hobitit> a schema:WebPage ;
+    rdfs:label "Hobitit"@en ;
+    schema:about <http://localhost:8000/resource/Hobitit> .
+
+<http://localhost:8000/page/Horn_of_Gondor_%28fan_film%29> a schema:WebPage ;
+    rdfs:label "Horn of Gondor (fan film)"@en ;
+    schema:about <http://localhost:8000/resource/Horn_of_Gondor_%28fan_film%29> .
+
+<http://localhost:8000/page/J.R.R.T.%3A_A_Film_Portrait_of_J.R.R._Tolkien> a schema:WebPage ;
+    rdfs:label "J.R.R.T.: A Film Portrait of J.R.R. Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R.T.%3A_A_Film_Portrait_of_J.R.R._Tolkien> .
+
+<http://localhost:8000/page/Jackanory> a schema:WebPage ;
+    rdfs:label "Jackanory"@en ;
+    schema:about <http://localhost:8000/resource/Jackanory> .
+
+<http://localhost:8000/page/Lord_of_the_Brush> a schema:WebPage ;
+    rdfs:label "Lord of the Brush"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Brush> .
+
+<http://localhost:8000/page/Page_to_Screen%3A_The_Lord_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Page to Screen: The Lord of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Page_to_Screen%3A_The_Lord_of_the_Rings> .
+
+<http://localhost:8000/page/Page_to_Screen%3A_The_Lord_of_the_Rings%3A_Two_Towers> a schema:WebPage ;
+    rdfs:label "Page to Screen: The Lord of the Rings: Two Towers"@en ;
+    schema:about <http://localhost:8000/resource/Page_to_Screen%3A_The_Lord_of_the_Rings%3A_Two_Towers> .
+
+<http://localhost:8000/page/Quest_for_the_Ring> a schema:WebPage ;
+    rdfs:label "Quest for the Ring"@en ;
+    schema:about <http://localhost:8000/resource/Quest_for_the_Ring> .
+
+<http://localhost:8000/page/Ringers%3A_Lord_of_the_Fans> a schema:WebPage ;
+    rdfs:label "Ringers: Lord of the Fans"@en ;
+    schema:about <http://localhost:8000/resource/Ringers%3A_Lord_of_the_Fans> .
+
+<http://localhost:8000/page/Sagan_om_Ringen_%281971_film%29> a schema:WebPage ;
+    rdfs:label "Sagan om Ringen (1971 film)"@en ;
+    schema:about <http://localhost:8000/resource/Sagan_om_Ringen_%281971_film%29> .
+
+<http://localhost:8000/page/The_Beacons> a schema:WebPage ;
+    rdfs:label "The Beacons"@en ;
+    schema:about <http://localhost:8000/resource/The_Beacons> .
+
+<http://localhost:8000/page/The_Fellows_Hip%3A_Rise_of_the_Gamers> a schema:WebPage ;
+    rdfs:label "The Fellows Hip: Rise of the Gamers"@en ;
+    schema:about <http://localhost:8000/resource/The_Fellows_Hip%3A_Rise_of_the_Gamers> .
+
+<http://localhost:8000/page/The_Hobbit%3A_An_Unexpected_Journey> a schema:WebPage ;
+    rdfs:label "The Hobbit: An Unexpected Journey"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_An_Unexpected_Journey> .
+
+<http://localhost:8000/page/The_Hobbit%3A_The_Battle_of_the_Five_Armies> a schema:WebPage ;
+    rdfs:label "The Hobbit: The Battle of the Five Armies"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_The_Battle_of_the_Five_Armies> .
+
+<http://localhost:8000/page/The_Hobbit%3A_The_Desolation_of_Smaug> a schema:WebPage ;
+    rdfs:label "The Hobbit: The Desolation of Smaug"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_The_Desolation_of_Smaug> .
+
+<http://localhost:8000/page/The_Hobbit_%281967_film%29> a schema:WebPage ;
+    rdfs:label "The Hobbit (1967 film)"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_%281967_film%29> .
+
+<http://localhost:8000/page/The_Hobbit_%281977_film%29> a schema:WebPage ;
+    rdfs:label "The Hobbit (1977 film)"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_%281977_film%29> .
+
+<http://localhost:8000/page/The_Hobbit_%281985_television_film%29> a schema:WebPage ;
+    rdfs:label "The Hobbit (1985 television film)"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_%281985_television_film%29> .
+
+<http://localhost:8000/page/The_Hobbit_%28film_series%29> a schema:WebPage ;
+    rdfs:label "The Hobbit (film series)"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_%28film_series%29> .
+
+<http://localhost:8000/page/The_Hunt_for_Gollum> a schema:WebPage ;
+    rdfs:label "The Hunt for Gollum"@en ;
+    schema:about <http://localhost:8000/resource/The_Hunt_for_Gollum> .
+
+<http://localhost:8000/page/The_Legend_of_Gurthang> a schema:WebPage ;
+    rdfs:label "The Legend of Gurthang"@en ;
+    schema:about <http://localhost:8000/resource/The_Legend_of_Gurthang> .
+
+<http://localhost:8000/page/The_Long_and_Short_of_It> a schema:WebPage ;
+    rdfs:label "The Long and Short of It"@en ;
+    schema:about <http://localhost:8000/resource/The_Long_and_Short_of_It> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Fellowship of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Hunt_for_Gollum> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Hunt for Gollum"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Hunt_for_Gollum> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Return_of_the_King> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Return of the King"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Rings_of_Power> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Rings of Power"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Rings_of_Power_-_Season_1> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Rings of Power - Season 1"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power_-_Season_1> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Two_Towers> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Two Towers"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The War of the Rohirrim"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_%281978_film%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings (1978 film)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_%28film_series%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings (film series)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_%28musical%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings (musical)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_%28musical%29> .
+
+<http://localhost:8000/page/The_Peril_to_the_Shire> a schema:WebPage ;
+    rdfs:label "The Peril to the Shire"@en ;
+    schema:about <http://localhost:8000/resource/The_Peril_to_the_Shire> .
+
+<http://localhost:8000/page/The_Real_Middle_Earth_%28documentary%29> a schema:WebPage ;
+    rdfs:label "The Real Middle Earth (documentary)"@en ;
+    schema:about <http://localhost:8000/resource/The_Real_Middle_Earth_%28documentary%29> .
+
+<http://localhost:8000/page/The_Return_of_the_King_%281980_film%29> a schema:WebPage ;
+    rdfs:label "The Return of the King (1980 film)"@en ;
+    schema:about <http://localhost:8000/resource/The_Return_of_the_King_%281980_film%29> .
+
+<http://localhost:8000/page/Tolkien%27s_Great_War> a schema:WebPage ;
+    rdfs:label "Tolkien's Great War"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien%27s_Great_War> .
+
+<http://localhost:8000/page/Tolkien%27s_Road> a schema:WebPage ;
+    rdfs:label "Tolkien's Road"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien%27s_Road> .
+
+<http://localhost:8000/page/Tolkien%3A_The_True_Story_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Tolkien: The True Story of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien%3A_The_True_Story_of_the_Rings> .
+
+<http://localhost:8000/page/Tolkien_%28film%29> a schema:WebPage ;
+    rdfs:label "Tolkien (film)"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_%28film%29> .
+
+<http://localhost:8000/page/Tolkien_Remembered> a schema:WebPage ;
+    rdfs:label "Tolkien Remembered"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Remembered> .
+
+<http://localhost:8000/page/Wings_Over_Arda%3A_The_First_Age> a schema:WebPage ;
+    rdfs:label "Wings Over Arda: The First Age"@en ;
+    schema:about <http://localhost:8000/resource/Wings_Over_Arda%3A_The_First_Age> .
+
+<http://localhost:8000/resource/Born_of_Hope> a schema:Movie ;
+    tg:cinematography "Neill Phillips"@en ;
+    tg:country <http://localhost:8000/resource/United_Kingdom> ;
+    tg:director <http://localhost:8000/resource/Kate_Madison> ;
+    tg:distributor "Daily Motion, Youtube"@en ;
+    tg:editing "Christopher Dane<br/>Kate Madison"@en ;
+    tg:image "Born of Hope - poster.jpg"@en ;
+    tg:imdb_id "1301303"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language <http://localhost:8000/resource/English_language> ;
+    tg:music "Tobias Bublat<br/>Adam Langston<br/>Jacob Shelby<br/>Kevin Webster<br/>Rob Westwood<br/>Peter Bateman<br/>Arjan Kiel<br/>Toby and Cody McClure<br/>Martin Westlake"@en ;
+    tg:name "Born of Hope"@en ;
+    tg:producer "Kate Madison<br/>'''Assistant producer:'''<br/>Aaron Greenwood"@en ;
+    tg:released "1 Dec 2009"@en ;
+    tg:runtime "71 minutes"@en ;
+    tg:starring "Christopher Dane<br/>Beth Aynsley<br/>Danny George<br/>Kate Madison<br/>Andrew McDonald<br/>Philippa Hammond<br/>Iain Marshall<br/>Howard Corlett"@en ;
+    tg:studio "Actors at Work Productions"@en ;
+    tg:website "[http://www.bornofhope.com/ Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Screenplay%3A%27%27%27%3Cbr/%3EPaula_DiSante_%28as_Alex_K._Aldridge%29%3Cbr/%3E%27%27%27Novel%3A%27%27%27%3Cbr/%3EJ.R.R._Tolkien%3Cbr/%3E%27%27%27Additional_writing%3A%27%27%27%3Cbr/%3EChristopher_Dane%3Cbr/%3EKate_Madison%3Cbr/%3EMatt_Wood> .
+
+<http://localhost:8000/resource/Creating_The_Lord_of_the_Rings_Symphony> a schema:Movie ;
+    tg:director "Pierre Séguin"@en ;
+    tg:image "Creating The Lord of the Rings Symphony cover.jpg"@en ;
+    tg:imdb_id "0456052"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore> ;
+    tg:name "Creating The Lord of the Rings Symphony"@en ;
+    tg:released <http://localhost:8000/resource/2004> ;
+    tg:runtime "52 minutes"@en ;
+    tg:writer "Jack Ruttan"@en .
+
+<http://localhost:8000/resource/Diari_dalla_terza_Era> a schema:Movie ;
+    tg:budget "1,400 euros"@en ;
+    tg:cinematography "Mike Ritchie, Stein Stie"@en ;
+    tg:country "Italy"@en ;
+    tg:director "Claudio Ripalti"@en ;
+    tg:editing "Elena Cancellieri"@en ;
+    tg:image "Diari dalla terza Era - poster.jpeg"@en ;
+    tg:imdb_id "1323925"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "Italian"@en ;
+    tg:music "Enrico Ripalt"@en ;
+    tg:name "Diari dalla Terza Era"@en ;
+    tg:producer "Claudio Ripalti"@en ;
+    tg:released "July 5, 2013"@en ;
+    tg:runtime "17:42"@en ;
+    tg:starring "Alessandro Gabbianelli, Gualtiero Stipa, Alessandro Renz"@en ;
+    tg:website "[https://www.youtube.com/watch?v=3CGbVn2ffHA website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Novel%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EClaudio_Ripalti%3Cbr%3E> .
+
+<http://localhost:8000/resource/Hobitit> a schema:Movie ;
+    tg:image "Hobitit - poster.jpg"@en ;
+    tg:imdb_id "0441925"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:name "Hobitit"@en ;
+    tg:released <http://localhost:8000/resource/1993> ;
+    tg:starring <http://localhost:8000/resource/%27%27%23Cast_and_characters> .
+
+<http://localhost:8000/resource/Horn_of_Gondor_%28fan_film%29> a schema:Movie ;
+    tg:basedon <http://localhost:8000/resource/%22Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan%22_by_J.R.R._Tolkien> ;
+    tg:budget "€11,142"@en ;
+    tg:caption "Poster"@en ;
+    tg:cinematography "Ondrej Penicka"@en ;
+    tg:country "Czech Republic"@en ;
+    tg:director "Simon Pesta"@en ;
+    tg:distributor "YouTube"@en ;
+    tg:editing "Simon Pesta"@en ;
+    tg:image "Horn of Gondor Poster.jpg"@en ;
+    tg:imdb_id "10852750"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Petr Kubelik"@en ;
+    tg:name "Horn of Gondor"@en ;
+    tg:producers "Victor Formosa, Adam Pesta"@en ;
+    tg:released "18 September 2020"@en ;
+    tg:runtime "19 min"@en ;
+    tg:screenplay "Simon Pesta"@en ;
+    tg:starring "Borek Belfin"@en ;
+    tg:website "[https://www.kickstarter.com/projects/482524377/horn-of-gondor-tolkien-fan-film Kickstarter]"@en .
+
+<http://localhost:8000/resource/J.R.R.T.%3A_A_Film_Portrait_of_J.R.R._Tolkien> a schema:Movie ;
+    tg:country "England"@en ;
+    tg:director "Derek Bailey"@en ;
+    tg:image "J.R.R.T. - A Film Portrait of J.R.R. Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "J. R. R. T. : A Portrait of J.R.R. Tolkien"@en ;
+    tg:narrator "Judi Dench"@en ;
+    tg:released "1992, 1996"@en ;
+    tg:runtime "110 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/J.R.R._Tolkien_%28archival_footage%29_%3Cbr%3E_Christopher_Tolkien%3Cbr%3E_Tom_Shippey_%3Cbr%3EJohn_Tolkien%3Cbr%3E_Robert_Murray%3Cbr%3E__Margrethe_II_of_Denmark> .
+
+<http://localhost:8000/resource/Jackanory> a schema:Movie ;
+    tg:country "England"@en ;
+    tg:director <http://localhost:8000/resource/Roger_Singleton-Turner> ;
+    tg:imdb_id "0771799"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Alan_Roper> ;
+    tg:name "Jackanory 3,000"@en ;
+    tg:producer "Anna Home, Angela Beeching"@en ;
+    tg:released <http://localhost:8000/resource/1_October> ;
+    tg:writer <http://localhost:8000/resource/Roger_Singleton-Turner> .
+
+<http://localhost:8000/resource/Lord_of_the_Brush> a schema:Movie ;
+    tg:director "Gretchen Jordon-Bastow"@en ;
+    tg:image "Lord of the Brush.webp"@en ;
+    tg:imdb_id "0772238"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:name "Lord of the Brush"@en ;
+    tg:runtime "52 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/John_Howe%2C_Robin_Hobb%2C_Fataneh_Howe> ;
+    tg:writer "Werner Aellen"@en .
+
+<http://localhost:8000/resource/Page_to_Screen%3A_The_Lord_of_the_Rings> a schema:Movie ;
+    tg:episode "The Lord of the Rings"@en ;
+    tg:imdb_id "0668876"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "Page to Screen"@en ;
+    tg:narrator "David Hibbard"@en ;
+    tg:producer "Ted Poole"@en ;
+    tg:released <http://localhost:8000/resource/2002> ;
+    tg:runtime "46 minutes"@en .
+
+<http://localhost:8000/resource/Page_to_Screen%3A_The_Lord_of_the_Rings%3A_Two_Towers> a schema:Movie ;
+    tg:episode "The Lord of the Rings: Two Towers"@en ;
+    tg:imdb_id "0668876"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "Page to Screen"@en ;
+    tg:narrator "David Hibbard"@en ;
+    tg:producer "Ted Poole"@en ;
+    tg:released <http://localhost:8000/resource/2005> ;
+    tg:runtime "46 minutes"@en .
+
+<http://localhost:8000/resource/Quest_for_the_Ring> a schema:Movie ;
+    tg:country "USA"@en ;
+    tg:director <http://localhost:8000/resource/Dan_Arden> ;
+    tg:distributor "FOX TV"@en ;
+    tg:imdb_id "0299105"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "Quest for the Ring"@en ;
+    tg:narrator "Greg O'Neill"@en ;
+    tg:producer "Dan Arden"@en ;
+    tg:released <http://localhost:8000/resource/29_November> ;
+    tg:runtime "21 minutes"@en .
+
+<http://localhost:8000/resource/Ringers%3A_Lord_of_the_Fans> a schema:Movie ;
+    tg:country "USA"@en ;
+    tg:director "Carlene Cordova"@en ;
+    tg:distributor "Sony Pictures Home Entertainment"@en ;
+    tg:image "Ringers Lord of the Fans DVD (cover).jpg"@en ;
+    tg:imdb_id "0379473"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "Ringers: Lord of the Fans"@en ;
+    tg:narrator <http://localhost:8000/resource/Dominic_Monaghan> ;
+    tg:producer <http://localhost:8000/resource/Cliff_Broadway%2C_Carlene_Cordova%2C_Jeff_Marchelletta%2C_Tom_DeSanto> ;
+    tg:released "2005"@en ;
+    tg:runtime "97 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Various_The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:writer "Cliff Broadway, Carlene Cordova"@en .
+
+<http://localhost:8000/resource/Sagan_om_Ringen_%281971_film%29> a schema:Movie ;
+    tg:basedon <http://localhost:8000/resource/%27%27The_Fellowship_of_the_Ring%27%27> ;
+    tg:cinematography <http://localhost:8000/resource/Mette_M%C3%B6llar> ;
+    tg:country "Sweden"@en ;
+    tg:distributor "SVT1"@en ;
+    tg:image "Sagan om Ringen Title Card.png"@en ;
+    tg:imdb_id "9810254"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "Swedish"@en ;
+    tg:music <http://localhost:8000/resource/Bo_Hansson> ;
+    tg:name "Sagan om Ringen"@en ;
+    tg:narrator <http://localhost:8000/resource/Evan_Storm> ;
+    tg:producer <http://localhost:8000/resource/Urban_Lasson> ;
+    tg:released "1971"@en ;
+    tg:runtime "28 minutes"@en ;
+    tg:studio "Sveriges television"@en ;
+    tg:writer <http://localhost:8000/resource/S%C3%B6ren_Erlandsson> .
+
+<http://localhost:8000/resource/The_Beacons> a schema:Movie ;
+    tg:country "France"@en ;
+    tg:distributor "Internet"@en ;
+    tg:editing "Joe Causse"@en ;
+    tg:image "The Beacons (fan film) - Poster.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:music """Thomas Lyons - LyonsMusic -
+
+Inspired by Howard Shore Lord of the Rings Soundtrack"""@en ;
+    tg:name "The Beacons - A Lord of the Rings fan film"@en ;
+    tg:producer "Mickael Genin"@en ;
+    tg:released "Oct 2 2025"@en .
+
+<http://localhost:8000/resource/The_Fellows_Hip%3A_Rise_of_the_Gamers> a schema:Movie ;
+    tg:cinematography "Brian Pennington"@en ;
+    tg:country "United States"@en ;
+    tg:director "Ron Newcomb"@en ;
+    tg:editing "Justin Moe<br/>Brian Pennington"@en ;
+    tg:image "The Fellows Hip - poster.jpg"@en ;
+    tg:imdb_id "1669814"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Dale Clay"@en ;
+    tg:name "The Fellows Hip: Rise of the Gamers"@en ;
+    tg:producer "Michel Aboudib<br/>Scott Mathias<br/>Shane McClung<br/>Ron Newcomb"@en ;
+    tg:runtime "92 minutes"@en ;
+    tg:starring "Justin Moe<br/>Jayme Bell<br/>Cole Matson"@en ;
+    tg:studio "Opening Act Productions"@en ;
+    tg:website "[http://www.thefellowshipmovie.com/ Official website]"@en ;
+    tg:writer "Christopher Bunn<br/>Scott Mathias<br/>Ron Newcomb"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_An_Unexpected_Journey> a schema:Movie ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:country <http://localhost:8000/resource/New_Zealand%3Cbr/%3EUnited_Kingdom%3Cbr/%3EUnited_States> ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson%3Cref_name%3D%22HBTitles%22%3E%7B%7Bwebcite> ;
+    tg:distributor <http://localhost:8000/resource/Warner_Bros.> ;
+    tg:editing <http://localhost:8000/resource/Jabez_Olssen> ;
+    tg:image "The Hobbit - An Unexpected Journey - poster 3.jpg"@en ;
+    tg:imdb_id "0903624"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:name "''The Hobbit: An Unexpected Journey''"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3ECarolynne_Cunningham%3Cbr/%3EPhilippa_Boyens_%28Co-Producer%29%3Cbr/%3EKen_Kamins_%28Executive_Producer%29%3Cbr/%3EZane_Weiner_%28Executive_Producer%29%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:released <http://localhost:8000/resource/14_December_2012%3Cref_name%3D%22HBTitles2%22%3E%7B%7Bwebcite> ;
+    tg:runtime "'''Theatrical:'''<br>169 minutes<br>'''Extended Edition:'''<br>182 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Ian_McKellen%3Cbr/%3EMartin_Freeman%3Cbr/%3ERichard_Armitage%3Cref_name%3D%22PJCasting1%22%3E%7B%7Bwebcite> ;
+    tg:studio <http://localhost:8000/resource/New_Line_Cinema%3Cbr/%3EMGM%3Cbr/%3EWingNut_Films%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:website "[http://www.thehobbit.com/ TheHobbit.com]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Novels%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EGuillermo_del_Toro%3Cbr/%3EPeter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3EPhilippa_Boyens%3Cref_name%3D%22HBTitles%22/%3E> .
+
+<http://localhost:8000/resource/The_Hobbit%3A_The_Battle_of_the_Five_Armies> a schema:Movie ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:country <http://localhost:8000/resource/New_Zealand%3Cbr/%3EUnited_Kingdom%3Cbr/%3EUnited_States> ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson%3Cref_name%3D%22HBTitles%22%3E%7B%7Bwebcite> ;
+    tg:distributor <http://localhost:8000/resource/Warner_Bros.> ;
+    tg:editing <http://localhost:8000/resource/Jabez_Olssen> ;
+    tg:image "The Hobbit - The Battle of the Five Armies - Poster2.jpg"@en ;
+    tg:imdb_id "2310332"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:name "''The Hobbit: The Battle of the Five Armies''"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3ECarolynne_Cunningham%3Cbr/%3EPhilippa_Boyens_%28Co-Producer%29%3Cbr/%3EKen_Kamins_%28Executive_Producer%29%3Cbr/%3EZane_Weiner_%28Executive_Producer%29%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:released <http://localhost:8000/resource/17_December_2014> ;
+    tg:runtime "'''Theatrical:'''<br>144 minutes<br>'''Extended Edition:'''<br>164 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Ian_McKellen%3Cbr/%3EMartin_Freeman%3Cbr/%3ERichard_Armitage%3Cref_name%3D%22PJCasting1%22%3E%7B%7Bwebcite> ;
+    tg:studio <http://localhost:8000/resource/New_Line_Cinema%3Cbr/%3EMGM%3Cbr/%3EWingNut_Films%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:website "[http://www.thehobbit.com/ TheHobbit.com]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Novels%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr/%3EPeter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3EPhilippa_Boyens%3Cbr/%3EGuillermo_del_Toro%3Cref_name%3D%22HBTitles%22/%3E> .
+
+<http://localhost:8000/resource/The_Hobbit%3A_The_Desolation_of_Smaug> a schema:Movie ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:country <http://localhost:8000/resource/New_Zealand%3Cbr/%3EUnited_Kingdom%3Cbr/%3EUnited_States> ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson%3Cref_name%3D%22HBTitles%22%3E%7B%7Bwebcite> ;
+    tg:distributor <http://localhost:8000/resource/Warner_Bros.> ;
+    tg:editing <http://localhost:8000/resource/Jabez_Olssen> ;
+    tg:image "The Hobbit - The Desolation of Smaug - poster 2.jpg"@en ;
+    tg:imdb_id "1170358"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:name "''The Hobbit: The Desolation of Smaug''"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3ECarolynne_Cunningham%3Cbr/%3EZane_Weiner%3Cbr/%3EPhilippa_Boyens_%28Co-Producer%29%3Cbr/%3EEileen_Moran_%28Co-Producer%29%3Cbr/%3EAlan_Horn_%28Executive_Producer%29%3Cbr/%3EToby_Emmerich_%28Executive_Producer%29%3Cbr/%3ECallum_Greene_%28Executive_Producer%29%3Cbr/%3EKen_Kamins_%28Executive_Producer%29%3Cbr/%3ECaroline_Blackwood%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:released <http://localhost:8000/resource/13_December_2013%3Cref_name%3D%22HBTitles2%22%3E%7B%7Bwebcite> ;
+    tg:runtime "'''Theatrical:'''<br>161 minutes<br>'''Extended Edition:'''<br>186 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Ian_McKellen%3Cbr/%3EMartin_Freeman%3Cbr/%3ERichard_Armitage%3Cref_name%3D%22PJCasting1%22%3E%7B%7Bwebcite> ;
+    tg:studio <http://localhost:8000/resource/New_Line_Cinema%3Cbr/%3EMGM%3Cbr/%3EWingNut_Films%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:website "[http://www.thehobbit.com/ TheHobbit.com]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Novels%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EPeter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3EPhilippa_Boyens%3Cbr%3EGuillermo_del_Toro%3Cref_name%3D%22HBTitles%22/%3E> .
+
+<http://localhost:8000/resource/The_Hobbit_%281967_film%29> a schema:Movie ;
+    tg:cinematography "Adolf Born<ref name=\"Deitch\"/>"@en ;
+    tg:country "United States, Czechoslovakia"@en ;
+    tg:director <http://localhost:8000/resource/Gene_Deitch> ;
+    tg:image "The Hobbit (1967 film) - Title card.png"@en ;
+    tg:imdb_id "1686804"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Václav Lidl<ref name=\"Deitch\"/>"@en ;
+    tg:name "J.R.R. Tolkien's The Hobbit"@en ;
+    tg:narrator <http://localhost:8000/resource/Herb_Lass%3Cref_name%3D%22Deitch%22%3E%7B%7Bwebcite> ;
+    tg:producer <http://localhost:8000/resource/William_Lawrence_Snyder> ;
+    tg:released <http://localhost:8000/resource/Limited_audience%3A_29_June%2C_1967%3Cref_name%3D%22Deitch%22/%3E> ;
+    tg:runtime "00:11:42"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien%3Cbr%3E%28Novel%29%3Cbr%3EGene_Deitch%3Cbr%3E%28Screenplay%29> .
+
+<http://localhost:8000/resource/The_Hobbit_%281977_film%29> a schema:Movie ;
+    tg:budget "$3 million (est.)"@en ;
+    tg:country "USA"@en ;
+    tg:director <http://localhost:8000/resource/Arthur_Rankin%2C_Jr.%3Cbr%3EJules_Bass> ;
+    tg:distributor <http://localhost:8000/resource/NBC_%28original_transmission%29%3Cbr%3EWarner_Bros._%28home_video%29> ;
+    tg:image "The Hobbit (1977 film) - Cover.jpg"@en ;
+    tg:imdb_id "0077687"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Maury Laws (music)<br>Jules Bass (lyrics/lyrical adaptations)"@en ;
+    tg:name "The Hobbit"@en ;
+    tg:producer "Arthur Rankin, Jr.<br>Jules Bass"@en ;
+    tg:released <http://localhost:8000/resource/27_November> ;
+    tg:runtime "77 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Orson_Bean%3Cbr%3ERichard_Boone%3Cbr%3EHans_Conried%3Cbr%3EJohn_Huston> ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien_%28original_novel%29%3Cbr%3ERomeo_Muller_%28screenplay%29> .
+
+<http://localhost:8000/resource/The_Hobbit_%281985_television_film%29> a schema:Movie ;
+    tg:country "Soviet Union"@en ;
+    tg:director "<!-- Владимир Латышев (Vladimir Latyshev?) -->"@en ;
+    tg:image "The Hobbit (1985 television film) - Title.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "Russian"@en ;
+    tg:music "<!-- Владислав Успенский (Vladislav Uspensky?) -->"@en ;
+    tg:name "Сказочное путешествие мистера Бильбо Бэггинса, Хоббита"@en ;
+    tg:released <http://localhost:8000/resource/1985> ;
+    tg:runtime "64 minutes"@en ;
+    tg:starring "Zinovy Gerdt<br/> Mikhail Danilov <br/> Anatoly Ravikovich<br/>Igor Dmitriev<br/> Ivan Krasko<br/>"@en ;
+    tg:studio "<!-- Лентелефильм (Lentefilm?) -->"@en ;
+    tg:writer "<!-- '''Screenplay:''' Тамара Яковлева (Tamara Yakovlev?) -->"@en .
+
+<http://localhost:8000/resource/The_Hobbit_%28film_series%29> a schema:Movie ;
+    tg:budget "<!--US$500 million<ref name=\"NZHPJDirector\"/>--><!--$500 million seems too high and the source seems only to speculate the budget.-->"@en ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:country "New Zealand<br/>United Kingdom<br/>United States"@en ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson%3Cref_name%3D%22HBTitles%22%3E%7B%7Bwebcite> ;
+    tg:distributor <http://localhost:8000/resource/Warner_Bros.> ;
+    tg:editing "Jabez Olssen"@en ;
+    tg:image "The Hobbit (film series) - logo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore%3Cref_name%3D%22PJCasting1%22/%3E> ;
+    tg:name "The Hobbit"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3ECarolynne_Cunningham%3Cbr/%3EPhilippa_Boyens_%28Co-Producer%29%3Cbr/%3EKen_Kamins_%28Executive_Producer%29%3Cbr/%3EZane_Weiner_%28Executive_Producer%29%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:released "'''''An Unexpected Journey''''': 14 December 2012<br/>'''''The Desolation of Smaug''''': 13 December 2013<br/>'''''The Battle of the Five Armies''''': 17 December 2014<ref name=\"HBTitles2\">{{webcite|articleurl=http://www.thehobbitblog.com/the-hobbit-trilogy-titles-and-release-dates/|articlename=The Hobbit Trilogy titles and release dates|dated=2-September-2012|website=[http://www.thehobbitblog.com/ The Hobbit Blog]|accessed=2-September-2012}}</ref><ref name=\"TABAMoved\">{{webcite|articleurl=http://www.theonering.net/torwp/2013/02/28/69532-third-hobbit-moved-from-july-to-december-2014/?fb_source=pubv1|articlename=Third ‘Hobbit’ movie release moved from July to December 2014|dated=28-February-2013|website=TORN|accessed=1-March-2013}}</ref>"@en ;
+    tg:runtime "474 minutes (Theatrical Edition)<br/>532 minutes (Extended Edition)"@en ;
+    tg:starring <http://localhost:8000/resource/Ian_McKellen%3Cbr/%3EMartin_Freeman%3Cbr/%3ERichard_Armitage%3Cbr/%3E%27%27%23Main_cast> ;
+    tg:studio <http://localhost:8000/resource/New_Line_Cinema%3Cbr/%3EMGM%3Cbr/%3EWingNut_Films%3Cref_name%3D%22HBTitles%22/%3E> ;
+    tg:website "[http://www.thehobbitblog.com/ Official Blog]"@en ;
+    tg:writer <http://localhost:8000/resource/Guillermo_del_Toro%3Cbr/%3EPeter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3EPhilippa_Boyens%3Cref_name%3D%22HBTitles%22/%3E%3Cbr/%3E%27%27%27%28screenplay%29%27%27%27%3Cbr/%3EJ.R.R._Tolkien> .
+
+<http://localhost:8000/resource/The_Hunt_for_Gollum> a schema:Movie ;
+    tg:budget "£3000"@en ;
+    tg:cinematography """Gareth Brough, Chris Child, John-Paul Frazer, Neill Phillips, 
+Mike Ritchie, Stein Stie"""@en ;
+    tg:country "UK"@en ;
+    tg:director "Chris Bouchard"@en ;
+    tg:distributor "Internet"@en ;
+    tg:editing "Lewis Albrow"@en ;
+    tg:image "The Hunt for Gollum Poster.jpg"@en ;
+    tg:imdb_id "1323925"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Adam Langston, Andrew Skrabutenas"@en ;
+    tg:name "The Hunt for Gollum"@en ;
+    tg:producer "Chris Bouchard, Spencer Duru, Noel Gale, Julianne Honey-Mennal, Brian Lavery, Kate Madison, Ashram Maharaj, Gladys San Juan, Sabina Sattar"@en ;
+    tg:released "May 3, 2009"@en ;
+    tg:runtime "38 min"@en ;
+    tg:starring "Adrian Webster"@en ;
+    tg:website "[http://www.thehuntforgollum.com Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Novel%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EChris_Bouchard%3Cbr%3E%27%27%27Additional_Writing%3A%27%27%27%3Cbr%3ESabina_Sattar%3Cbr%3EJulianne_Honey-Mennal%3Cbr%3EStuart_Price%3Cbr%3ELewis_Albrow> .
+
+<http://localhost:8000/resource/The_Legend_of_Gurthang> a schema:Movie ;
+    tg:cinematography "Ryan Printz"@en ;
+    tg:director "Jared Belt"@en ;
+    tg:distributor "Jared Belt Films"@en ;
+    tg:editing "Jared Belt"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language <http://localhost:8000/resource/Modern_English> ;
+    tg:music "Austin Wippich"@en ;
+    tg:name "The Legend of Gurthang"@en ;
+    tg:producer "Jared Belt"@en ;
+    tg:runtime "12 minutes"@en ;
+    tg:starring "Tyler Voss, Chris Sapp, Jared Belt, Duran Smith"@en ;
+    tg:studio "Jared Belt Films"@en ;
+    tg:website "[https://www.jaredbeltfilms.com/the-legend-of-gurthang.html Official website]"@en ;
+    tg:writer "Jared Belt"@en .
+
+<http://localhost:8000/resource/The_Long_and_Short_of_It> a schema:Movie ;
+    tg:cinematography "Rob Marsh"@en ;
+    tg:director <http://localhost:8000/resource/Sean_Astin> ;
+    tg:editing "Jo Priest"@en ;
+    tg:image "The Long and Short of It.jpg"@en ;
+    tg:imdb_id "0343992"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:music <http://localhost:8000/resource/Wikipedia%3AGiacomo_Puccini> ;
+    tg:producer <http://localhost:8000/resource/Sean_Astin> ;
+    tg:released "2003"@en ;
+    tg:runtime "4:38"@en ;
+    tg:starring <http://localhost:8000/resource/Andrew_Lesnie%2C_Praphaphorn_%28Fon%29_Chansantor%2C_Paul_Randall> ;
+    tg:writer <http://localhost:8000/resource/Sean_Astin%3Cbr%3EDominic_Monaghan_%28story_co-writer%29> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> a schema:Movie ;
+    tg:budget "$94 million"@en ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie> ;
+    tg:country "New Zealand & USA"@en ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson> ;
+    tg:distributor <http://localhost:8000/resource/New_Line_Cinema> ;
+    tg:editing <http://localhost:8000/resource/John_Gilbert> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Ensemble poster.jpg"@en ;
+    tg:imdb_id "0120737"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore> ;
+    tg:name "The Fellowship of the Ring"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr%3EBarrie_M._Osborne%3Cbr%3ETim_Sanders%3Cbr%3EFran_Walsh> ;
+    tg:released <http://localhost:8000/resource/December_19th%2C_2001> ;
+    tg:runtime "'''Theatrical:'''<br>178 min.<br>'''Extended Edition:'''<br>208 min."@en ;
+    tg:studio <http://localhost:8000/resource/WingNut_Films%3Cbr%3ENew_Line_Cinema> ;
+    tg:website "[http://www.lordoftherings.net Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Book%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EFrances_Walsh%3Cbr%3EPhilippa_Boyens%3Cbr%3EPeter_Jackson%3Cbr%3EStephen_Sinclair> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Hunt_for_Gollum> a schema:Movie ;
+    tg:basedon <http://localhost:8000/resource/The_Lord_of_the_Rings> ;
+    tg:country <http://localhost:8000/resource/New_Zealand%3Cref_name%3DGollum%3E%3C/ref%3E> ;
+    tg:director <http://localhost:8000/resource/Andy_Serkis> ;
+    tg:distributor <http://localhost:8000/resource/Warner_Bros.> ;
+    tg:imdb_id "32328070"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "The Lord of the Rings: The Hunt for Gollum <small>(working title)</small>"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr_/%3EFran_Walsh%3Cbr_/%3EPhilippa_Boyens%3Cbr_/%3EZane_Weiner> ;
+    tg:production_design <http://localhost:8000/resource/Dan_Hennah_%28Production_designer%29> ;
+    tg:released <http://localhost:8000/resource/17_December_2027%3Cref_name%3D%22TheDirect2027Release%22/%3E> ;
+    tg:starring <http://localhost:8000/resource/Andy_Serkis%3Cref_name%3DGollum%3E%3C/ref%3E_%3Cbr_/%3E%0AElijah_Wood> ;
+    tg:studio <http://localhost:8000/resource/WingNut_films%3Cbr_/%3EImaginarium%3Cbr_/%3ENew_Line_Cinema%3Cref_name%3DGollum%3E%3C/ref%3E> ;
+    tg:writer <http://localhost:8000/resource/Fran_Walsh%3Cbr_/%3EPhilippa_Boyens%3Cbr_/%3EPhoebe_Gittins%3Cbr_/%3EArty_Papageorgiou> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King> a schema:Movie ;
+    tg:budget "$94 million"@en ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie> ;
+    tg:country "New Zealand & USA"@en ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson> ;
+    tg:distributor <http://localhost:8000/resource/New_Line_Cinema> ;
+    tg:editing "Jamie Selkirk"@en ;
+    tg:image "The Lord of the Rings - The Return of the King - Ensemble poster.jpg"@en ;
+    tg:imdb_id "0120737"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore> ;
+    tg:name "The Return of the King"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr%3EBarrie_M._Osborne%3Cbr%3EFran_Walsh> ;
+    tg:released <http://localhost:8000/resource/17_December> ;
+    tg:runtime "'''Theatrical:'''<br>200 min.<br>'''Extended Edition:'''<br>252 min."@en ;
+    tg:starring "see below"@en ;
+    tg:studio <http://localhost:8000/resource/WingNut_Films%3Cbr%3ENew_Line_Cinema> ;
+    tg:website "[http://www.lordoftherings.net Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Book%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EFran_Walsh%3Cbr%3EPhilippa_Boyens%3Cbr%3EPeter_Jackson> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power> a schema:Movie ;
+    tg:country <http://localhost:8000/resource/United_States%3Cbr%3ENew_Zealand_%28The_Lord_of_the_Rings%3A_The_Rings_of_Power_-_Season_1> ;
+    tg:distributor "Amazon Prime Video"@en ;
+    tg:image "Amazon - The Lord of the Rings - The Rings of Power.png"@en ;
+    tg:imdb_id "7631058"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr%3EHoward_Shore_%28main_theme%29> ;
+    tg:name "The Lord of the Rings: The Rings of Power"@en ;
+    tg:producer <http://localhost:8000/resource/J.D._Payne_%28showrunner%29%3Cbr%3EPatrick_McKay_%28showrunner%29%3Cbr%3EChristina_Morgan_%28executive_producer%29%3Cbr%3ELindsey_Weber_%28executive_producer%29%3Cbr%3ECallum_Greene_%28executive_producer%29%3Cbr%3EJustin_Doble_%28executive_producer%29%3Cbr%3EGennifer_Hutchison_%28executive_producer%29%3Cbr%3EJason_Cahill_%28executive_producer%29%3Cbr%3EJ._A._Bayona_%28executive_producer%29%3Cbr%3EBel%C3%A9n_Atienza_%28executive_producer%29%3Cbr%3EEugene_Kelly_%28executive_producer%29%3Cbr%3EBruce_Richmond_%28executive_producer%29%3Cbr%3ESharon_Tal_Yguado_%28executive_producer%29%3Cbr%3ERon_Ames%3Cbr%3EChris_Newman> ;
+    tg:released <http://localhost:8000/resource/1_September_2022_%28%27%27A_Shadow_of_the_Past%27%27_%26_%27%27Adrift%27%27%29> ;
+    tg:runtime "65 - 72 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/%27%27%23Cast_and_characters> ;
+    tg:website "[http://www.amazon.com/adlp/lotronprime Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Books%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EJohn_D._Payne_and_Patrick_McKay_%28mainly%29> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power_-_Season_1> a schema:Movie ;
+    tg:basedon <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%27%27> ;
+    tg:cinematography <http://localhost:8000/resource/Oscar_Faura%3Cbr%3EAaron_Morton%3Cbr%3EAlex_Disenhof> ;
+    tg:director <http://localhost:8000/resource/J._A._Bayona%3Cbr%3EWayne_Che_Yip%3Cbr%3ECharlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:distributor "Amazon Prime Video"@en ;
+    tg:editing <http://localhost:8000/resource/Bernat_Vilaplana%3Cbr%3EJaume_Marti%3Cbr%3EStefan_Grube%3Cbr%3ECheryl_Potter%3Cbr%3EJochen_FitzHerbert> ;
+    tg:image "The Lord of the Rings The Rings of Power - Poster - Title only.jpg"@en ;
+    tg:imdb_id "tt7631058"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language <http://localhost:8000/resource/Modern_English> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr%3EHoward_Shore_%28title_theme%29> ;
+    tg:name "The Lord of the Rings: The Rings of Power: Season 1"@en ;
+    tg:narrator <http://localhost:8000/resource/Morfydd_Clark_%28A_Shadow_of_the_Past> ;
+    tg:producer <http://localhost:8000/resource/Ron_Ames%3Cbr%3EChris_Newman%3Cbr%3EHelen_Shang_%28co-producer%29%3Cbr%3EEugene_Kelly_%28executive_producer%29%3Cbr%3EBruce_Richmond_%28executive_producer%29%3Cbr%3ESharon_Tal_Yguado_%28executive_producer%29%3Cbr%3EJ._A._Bayona_%28executive_producer%29%3Cbr%3EBel%C3%A9n_Atienza_%28executive_producer%29%3Cbr%3EJason_Cahill_%28executive_producer%29%3Cbr%3EGennifer_Hutchison_%28executive_producer%29%3Cbr%3EJustin_Doble_%28executive_producer%29%3Cbr%3ECallum_Greene_%28executive_producer%29%3Cbr%3ELindsey_Weber_%28executive_producer%29%3Cbr%3EJ._D._Payne_%28executive_producer%29%3Cbr%3EPatrick_McKay_%28executive_producer%29%3Cbr%3EWayne_Che_Yip_%28co-executive_producer%29%3Cbr%3EBryan_Cogman_%28consulting_producer%29%3Cbr%3EStephany_Folsom_%28consulting_producer%29%3Cbr%3EKarine_Galstian_%28associate_producer%29%3Cbr%3EAndrew_Lee_%28associate_producer%29%3Cbr%3EJake_Rice_%28associate_producer%29> ;
+    tg:production_design <http://localhost:8000/resource/Ramsey_Avery%3Cbr%3ERick_Heinrichs> ;
+    tg:released <http://localhost:8000/resource/1_September_-_14_October%2C_2022> ;
+    tg:runtime "65-72 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/%27%27%23Cast> ;
+    tg:studio "Amazon Studios"@en ;
+    tg:writer <http://localhost:8000/resource/J._D._Payne%3Cbr%3EPatrick_McKay%3Cbr%3EGennifer_Hutchison%3Cbr%3EJason_Cahill%3Cbr%3EJustin_Doble%3Cbr%3EStephany_Folsom%3Cbr%3ENicholas_Adams> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers> a schema:Movie ;
+    tg:budget "$94 million"@en ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie> ;
+    tg:country "New Zealand & USA"@en ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson> ;
+    tg:distributor <http://localhost:8000/resource/New_Line_Cinema> ;
+    tg:editing "Michael J. Horton"@en ;
+    tg:image "The Lord of the Rings - The Two Towers - Ensemble poster.jpg"@en ;
+    tg:imdb_id "0120737"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore> ;
+    tg:name "The Two Towers"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr%3EBarrie_M._Osborne%3Cbr%3EFran_Walsh> ;
+    tg:released <http://localhost:8000/resource/December_18%2C_2002> ;
+    tg:runtime "'''Theatrical:'''<br>179 min.<br>'''Extended Edition:'''<br>223 min."@en ;
+    tg:starring "see below"@en ;
+    tg:studio <http://localhost:8000/resource/WingNut_Films%3Cbr%3ENew_Line_Cinema> ;
+    tg:website "[http://www.lordoftherings.net Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Book%3A%27%27%27%3Cbr%3EJ.R.R._Tolkien%3Cbr%3E%27%27%27Screenplay%3A%27%27%27%3Cbr%3EFran_Walsh%3Cbr%3EPhilippa_Boyens%3Cbr%3EPeter_Jackson> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim> a schema:Movie ;
+    tg:basedon <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%27%27_by_J.R.R._Tolkien> ;
+    tg:caption "Theatrical poster"@en ;
+    tg:country "United States<br/>Japan"@en ;
+    tg:director <http://localhost:8000/resource/Kenji_Kamiyama> ;
+    tg:distributor <http://localhost:8000/resource/Warner_Bros.> ;
+    tg:image "The Lord of the Rings The War of the Rohirrim Theatrical Poster.jpg"@en ;
+    tg:imdb_id "14824600"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Stephen_Gallagher> ;
+    tg:name "The Lord of the Rings: The War of the Rohirrim"@en ;
+    tg:narrator <http://localhost:8000/resource/Miranda_Otto> ;
+    tg:producer "Joseph Chou"@en ;
+    tg:released <http://localhost:8000/resource/13_December_2024> ;
+    tg:runtime "130 minutes <ref>[https://programme.annecyfestival.com/en/movies/20233387 ‘Lord of the Rings: The War of the Rohirrim’, Annecy Film Festival]</ref>"@en ;
+    tg:screenplay "Phoebe Gittins<br>Arty Papageorgiou<br>(screenplay)<br>Jeffrey Addiss<br>Will Matthews<br>(story)"@en ;
+    tg:starring <http://localhost:8000/resource/Brian_Cox%3Cbr%3EGaia_Wise%3Cbr%3ELuke_Pasqualino%3Cbr%3EMiranda_Otto%3Cbr%3ELaurence_Ubong_Williams> ;
+    tg:studio <http://localhost:8000/resource/New_Line_Cinema%3Cbr/%3EWarner_Bros._Animation%3Cbr/%3ESola_Entertainment> ;
+    tg:writers "Jeffrey Addiss<br>Will Matthews"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> a schema:Movie ;
+    tg:budget "$4 million"@en ;
+    tg:cinematography "Timothy Galfas"@en ;
+    tg:country "USA"@en ;
+    tg:director <http://localhost:8000/resource/Ralph_Bakshi> ;
+    tg:distributor <http://localhost:8000/resource/United_Artists_%28theatrical_release%29%3Cbr%3EWarner_Bros._%28home_video%29> ;
+    tg:editing "Donald W. Ernst<br>Peter Kirby"@en ;
+    tg:image "The Lord of the Rings (1978 film) - poster.jpg"@en ;
+    tg:imdb_id "0077869"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Leonard_Rosenman%3Cbr%3EPaul_Kont> ;
+    tg:name "The Lord of the Rings"@en ;
+    tg:producer <http://localhost:8000/resource/Saul_Zaentz> ;
+    tg:released <http://localhost:8000/resource/15_November> ;
+    tg:runtime "132 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Christopher_Guard%3Cbr%3EJohn_Hurt%3Cbr%3EMichael_Scholes%3Cbr%3EWilliam_Squire> ;
+    tg:website "[https://www.bakshistudio.com/lord-of-the-rings Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien_%28original_novel%29%3Cbr%3EPeter_S._Beagle_%28screenplay%29%3Cbr%3EChris_Conkling_%28screenplay%29> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> a schema:Movie ;
+    tg:cinematography <http://localhost:8000/resource/Andrew_Lesnie> ;
+    tg:country "New Zealand<br/>United Kingdom<br/>United States"@en ;
+    tg:director <http://localhost:8000/resource/Peter_Jackson> ;
+    tg:distributor <http://localhost:8000/resource/New_Line_Cinema%3Cref_group%3D%22note%22%3EThe_films%27_distribution_rights_were_transferred_to__Warner_Bros.> ;
+    tg:editing "John Gilbert<ref group=\"note\">He only worked on ''The Fellowship of the Ring''.</ref><br/>Michael Horton<ref group=\"note\">He only worked on ''The Two Towers''.</ref><br/>Jamie Selkirk<ref group=\"note\">He is only crdited as editor on ''The Return of the King''.</ref>"@en ;
+    tg:image "The Lord of the Rings (film series) - logo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore> ;
+    tg:name "The Lord of the Rings"@en ;
+    tg:producer <http://localhost:8000/resource/Peter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3EBarrie_M._Osborne%3Cbr/%3EPhilippa_Boyens%3Cbr/%3ETim_Sanders%3Cref_group%3D%22note%22%3EHe_only_worked_on_%27%27The_Fellowship_of_the_Ring%27%27.%3C/ref%3E> ;
+    tg:released "'''''The Fellowship of the Ring''''': 19 December 2001<br/>'''''The Two Towers''''': 18 December 2002<br/>'''''The Return of the King''''': 17 December 2003"@en ;
+    tg:runtime "557 minutes (Theatrical Edition)<br/>681 minutes (Extended Edition)"@en ;
+    tg:starring <http://localhost:8000/resource/Elijah_Wood%3Cbr/%3EIan_McKellen%3Cbr/%3EViggo_Mortensen%3Cbr/%3E%27%27The_Lord_of_the_Rings_%28film_series%29%23Cast> ;
+    tg:studio <http://localhost:8000/resource/New_Line_Cinema%3Cbr/%3EWingNut_Films> ;
+    tg:website "[http://www.lordoftherings.net Official Website]"@en ;
+    tg:writer <http://localhost:8000/resource/Peter_Jackson%3Cbr/%3EFran_Walsh%3Cbr/%3EPhilippa_Boyens%3Cbr/%3EStephen_Sinclair%3Cref_group%3D%22note%22%3EHe_only_worked_on_%27%27The_Fellowship_of_the_Ring%27%27.%3C/ref%3E%3Cbr/%3E%27%27%27%28screenplay%29%27%27%27%3Cbr/%3EJ.R.R._Tolkien> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_%28musical%29> a schema:Movie ;
+    tg:basedon <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%27%27> ;
+    tg:caption "The official logo for '''The Lord of the Rings Musical'''"@en ;
+    tg:director "Matthew Warchus"@en ;
+    tg:image "The Lord of the Rings (musical)_LOGO.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:music <http://localhost:8000/resource/A.R._Rahman_and_V%C3%A4rttin%C3%A4> ;
+    tg:name "The Lord of the Rings"@en ;
+    tg:producer <http://localhost:8000/resource/Kevin_Wallace_and_Saul_Zaentz> ;
+    tg:released <http://localhost:8000/resource/2006%3A_Toronto%3Cbr/%3E2007%3A_London%3Cbr/%3E2023%3A_Newbury%3Cbr/%3E2024%3A_Chicago> ;
+    tg:writer "Shaun McKenna and Matthew Warchus"@en .
+
+<http://localhost:8000/resource/The_Peril_to_the_Shire> a schema:Movie ;
+    tg:cinematography "Aaron Brown<br/>Zach Yokum"@en ;
+    tg:country "United States"@en ;
+    tg:director "Douglas Dunklin"@en ;
+    tg:distributor "None"@en ;
+    tg:editing "Douglas Dunklin<br/>Grace Dunklin<br/>Aaron Brown<br/>Zach Yokum"@en ;
+    tg:image "The Peril to the Shire.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Howard_Shore%3Cbr/%3EBrobdingnagian_Bards%3Cbr/%3ELorenna_Mckennit%3Cbr/%3EThe_Rogues%3Cbr/%3ELauren_Leak%3Cbr/%3EMike_and_Leeaura_Marcum%3Cbr/%3EJ_Michele_Swartz%3Cbr/%3EGrace_Dunklin> ;
+    tg:name "The Peril to the Shire"@en ;
+    tg:producer "Douglas Dunklin<br/>'''Assistant producers:'''<br/>Grace Dunklin and Aaron Brown"@en ;
+    tg:released <http://localhost:8000/resource/12_June> ;
+    tg:runtime "approx. 210 minutes"@en ;
+    tg:starring "Grace Dunklin<br/>Samuel Dunklin<br/>Lauren Leak<br/>Aaron Brown<br/>Ethan Milukas<br/>Evan Stroud<br/>Zach Yokum<br/>Nick Yokum"@en ;
+    tg:studio "Pointy Stick Productions"@en ;
+    tg:website "[https://pointystickproductions.com/peril-to-the-shire/ Official website]"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Screenplay%3A%27%27%27%3Cbr/%3EDouglas_Dunklin%3Cbr/%3E%27%27%27Based_on_the_Writings_of%3A%27%27%27%3Cbr/%3EJ.R.R._Tolkien%3Cbr/%3E> .
+
+<http://localhost:8000/resource/The_Real_Middle_Earth_%28documentary%29> a schema:Movie ;
+    tg:country "UK"@en ;
+    tg:director "Scott Price"@en ;
+    tg:distributor "Multi Media Arts"@en ;
+    tg:image "The Real Middle Earth.jpg"@en ;
+    tg:imdb_id "2249678"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Matt Morris and Graeme Rowland"@en ;
+    tg:name "The Real Middle Earth"@en ;
+    tg:narrator <http://localhost:8000/resource/Ian_Holm> ;
+    tg:producer "Luke McLaughlin"@en ;
+    tg:released "2003"@en ;
+    tg:runtime "58 minutes"@en .
+
+<http://localhost:8000/resource/The_Return_of_the_King_%281980_film%29> a schema:Movie ;
+    tg:country "USA"@en ;
+    tg:director <http://localhost:8000/resource/Arthur_Rankin%2C_Jr.%3Cbr%3EJules_Bass> ;
+    tg:distributor <http://localhost:8000/resource/The_Walt_Disney_Company> ;
+    tg:image "The Return of the King (1980 film) - cover.png"@en ;
+    tg:imdb_id "0079802"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Maury Laws (music)<br>Jules Bass (lyrics)"@en ;
+    tg:name "The Return of the King"@en ;
+    tg:producer "Arthur Rankin, Jr.<br>Jules Bass"@en ;
+    tg:released <http://localhost:8000/resource/11_May> ;
+    tg:runtime "98 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Orson_Bean%3Cbr%3ETheodore_Bikel%3Cbr%3EJohn_Huston%3Cbr%3ERoddy_McDowall> ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien_%28original_novel%29%3Cbr%3ERomeo_Muller_%28screenplay%29> .
+
+<http://localhost:8000/resource/Tolkien%27s_Great_War> a schema:Movie ;
+    tg:country "UK"@en ;
+    tg:director "Elliot Weaver, Zander Weaver"@en ;
+    tg:distributor "Free Spirit Film & TV"@en ;
+    tg:image "Tolkien's Great War.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "Tolkien's Great War"@en ;
+    tg:narrator "Zander Weaver"@en ;
+    tg:producer "Elliot Weaver, Zander Weaver"@en ;
+    tg:released <http://localhost:8000/resource/30_November_2014> ;
+    tg:runtime "32 minutes"@en .
+
+<http://localhost:8000/resource/Tolkien%27s_Road> a schema:Movie ;
+    tg:cinematography "Nye Green"@en ;
+    tg:country "U.S.A"@en ;
+    tg:director "Nye Green"@en ;
+    tg:distributor "Youtube"@en ;
+    tg:editing "Nye Green<br/>Rhys Green"@en ;
+    tg:image "Tolkien's Road - poster.jpg"@en ;
+    tg:imdb_id "3441940"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language <http://localhost:8000/resource/English_language> ;
+    tg:music "Daniel Kincaid"@en ;
+    tg:name "Tolkien's Road"@en ;
+    tg:producer "Isabella Butler<br/>'''Associate producer:'''<br/>Phillip Dye, Alexander Rupert"@en ;
+    tg:released "9 November 2014"@en ;
+    tg:runtime "35 minutes"@en ;
+    tg:writer "Nye Green"@en .
+
+<http://localhost:8000/resource/Tolkien%3A_The_True_Story_of_the_Rings> a schema:Movie ;
+    tg:country "Germany, France"@en ;
+    tg:director "Jean-Christoph Caron, Matthias Schmidt"@en ;
+    tg:distributor "Arte TV"@en ;
+    tg:editing "Annina Wolf"@en ;
+    tg:image "TolkienTrueStory.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "German"@en ;
+    tg:name "Tolkien: The True Story of the Rings"@en ;
+    tg:narrator "Elisabeth Günther"@en ;
+    tg:released <http://localhost:8000/resource/5_December_2024> ;
+    tg:runtime "91 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/John_Garth_%3Cbr/%3EVincent_Ferr%C3%A9%3Cbr/%3EThomas_Honegger%3Cbr/%3EDimitra_Fimi_%3Cbr/%3EStuart_Lee_%3Cbr/%3ESwitzerland_in_Tolkien%27s_Middle-Earth> .
+
+<http://localhost:8000/resource/Tolkien_%28film%29> a schema:Movie ;
+    tg:budget "$20 million"@en ;
+    tg:caption "Poster"@en ;
+    tg:cinematography "Lasse Frank"@en ;
+    tg:country "USA"@en ;
+    tg:director <http://localhost:8000/resource/Dome_Karukoski> ;
+    tg:distributor <http://localhost:8000/resource/The_Walt_Disney_Company> ;
+    tg:editing "Harri Ylönen"@en ;
+    tg:gross "$9 million"@en ;
+    tg:image "Tolkien (film) - poster.jpg"@en ;
+    tg:imdb_id "3361792"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music <http://localhost:8000/resource/Thomas_Newman> ;
+    tg:name "Tolkien"@en ;
+    tg:producers "Peter Chernin<br>Jenno Topping<br>David Ready<br>Kris Thykier"@en ;
+    tg:released <http://localhost:8000/resource/3_May_2019_%28UK%29%3Cbr/%3E10_May_2019_%28USA%29> ;
+    tg:runtime "112 minutes"@en ;
+    tg:starring <http://localhost:8000/resource/Nicholas_Hoult%3Cbr/%3ELily_Collins> ;
+    tg:studio "Chernin Entertainment"@en ;
+    tg:website "[http://www.foxsearchlight.com/tolkien/ Official website]"@en ;
+    tg:writers <http://localhost:8000/resource/David_Gleeson%3Cbr%3EStephen_Beresford> .
+
+<http://localhost:8000/resource/Tolkien_Remembered> a schema:Movie ;
+    tg:country "UK"@en ;
+    tg:imdb_id "0240117"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:name "Tolkien Remembered"@en ;
+    tg:narrator "Marise Hepworth"@en ;
+    tg:producer "Jim Berrow, Alan Wallis"@en ;
+    tg:released <http://localhost:8000/resource/1992> ;
+    tg:runtime "40 minutes"@en .
+
+<http://localhost:8000/resource/Wings_Over_Arda%3A_The_First_Age> a schema:Movie ;
+    tg:cinematography "Richard Hartshorn<br/>Philip Hartshorn<br/>Jack Durnin"@en ;
+    tg:country "United States"@en ;
+    tg:director "Richard Hartshorn"@en ;
+    tg:distributor "TBC"@en ;
+    tg:editing "Philip Hartshorn"@en ;
+    tg:image "Wings Over Arda - logo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/film_infobox> ;
+    tg:language "English"@en ;
+    tg:music "Anna Pauline Kenzie<br/>[http://www.purevolume.com/andrewbusone Andrew Busone]<br/>[http://www.rhtt.net/ Red Heart the Ticker]<br/>Philip Hartshorn<br/>Laura McCoy<br/>[http://www.youtube.com/user/friendryfire Friendryfire]"@en ;
+    tg:name "Wings Over Arda: The First Age"@en ;
+    tg:producer "Richard Hartshorn<br/>Philip Hartshorn"@en ;
+    tg:released "TBC 2011"@en ;
+    tg:runtime "63 minutes"@en ;
+    tg:starring "Richard Hartshorn<br/>Jennifer Wicks<br/>Philip Hartshorn"@en ;
+    tg:writer <http://localhost:8000/resource/%27%27%27Novel%3A%27%27%27%3Cbr/%3EJ.R.R._Tolkien%3Cbr/%3E%27%27%27Screenplay%3A%27%27%27%3Cbr/%3ERichard_Hartshorn> .
+

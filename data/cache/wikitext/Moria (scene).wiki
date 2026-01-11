@@ -1,0 +1,28 @@
+{{disambig-more|Moria|[[Moria (disambiguation)]]}}
+{{scene
+| name = Moria
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Watcher in the Water.jpg
+| number = 27 (theatrical)<br>
+           33 (extended)
+| duration = 04:52 (theatrical)<br>
+             06:25 (extended)
+| event = The [[Fellowship]] enter [[Moria]].
+| characters = [[Frodo Baggins|Frodo]], [[Gandalf]], [[Aragorn]], [[Legolas]], [[Gimli]], [[Boromir]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]]
+| previous = [[The Pass of Caradhras]]
+| next = [[A Journey in the Dark (scene)|A Journey in the Dark]]
+}}
+'''Moria''' is the twenty-seventh scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-third of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+The [[Fellowship]] approach [[Moria]]. [[Gandalf]] discreetly asks [[Frodo Baggins|Frodo]] how his shoulder feels after Frodo was stabbed by the [[Witch-king]] at [[Weathertop]]. Gandalf warns Frodo to beware, saying that he fears evil will be drawn towards Frodo both from outside and inside the Fellowship. 
+
+The Fellowship arrives at the walls of Moria. Gandalf notices ''[[Ithildin]],'' which shines in the light of the stars and moon to reveal the outline of a doorway and writing above the archway. Gandalf tells the Fellowship that it reads "The [[doors of Durin]], Lord of Moria. Speak, friend, and enter." Confident he knows the password to open the doors, Gandalf speaks, however they do not open. The Fellowship are forced to wait while Gandalf figures out how to open the doors. 
+
+Meanwhile, [[Aragorn]] helps [[Samwise Gamgee|Sam]] to ready [[Bill the Pony]] to be sent back homeward, saying that the mines are not the place for him to be in. [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] begin to throw rocks into the water; Aragorn sees this and stops them while studying the water somewhat curiously as it begins to ripple in places. 
+
+Frodo realises that the writing above the archway is a riddle, saying "Speak 'Friend' and Enter." He asks Gandalf what the Elvish word for "friend" is; in response, Gandalf says ''"[[mellon]]"''. The doors open, and they all enter. [[Gimli]] tells [[Legolas]] he will soon be enjoying Dwarven hospitality. Gandalf lights the chamber up, revealing a multitude of skeletons on the floor. [[Boromir]] recognises the mines are now a tomb, and tells them all to get out. 
+
+As the hobbits back out of the mines, Frodo is lifted into the air by a large tentacle. Sam attacks the tentacle and calls for Aragorn, who, along with Boromir and Legolas, rescue Frodo from the grip of the [[Watcher in the Water]]. Gandalf urges the Fellowship into the mines and, just as they pass through the doors, the creature destroys the entrance trapping them inside. {{title}}
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|33]]

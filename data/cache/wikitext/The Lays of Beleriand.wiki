@@ -1,0 +1,94 @@
+{{book
+|title=The Lays of Beleriand
+| image = Lays of Beleriand 1985.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[George Allen and Unwin]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[22 August]] [[1985]]
+| dateUS=[[20 November]] 1985
+| format=Hardcover; paperback
+|pages=393
+|isbn=0048232777
+| precededby=[[The Book of Lost Tales: Part Two]] (1984)
+| followedby=[[The Shaping of Middle-earth]] (1986)
+}}
+'''''The Lays of Beleriand''''', published in [[1985]], is the third volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+This book includes the five poems that Tolkien began to write shortly after ''[[The Book of Lost Tales]]'' phase. Only two of them were continued beyond the beginning, the ''[[Lay of the Children of Húrin]]'' and the ''[[Lay of Leithian]]'', the latter being the longest poem Tolkien ever composed, although he didn't finish it.
+
+==Overview==
+The book contains the long heroic lays or lyric poetry Tolkien wrote: these are ''[[The Lay of the Children of Húrin]]'' about the saga of [[Túrin Turambar]], and ''[[The Lay of Leithian]]'' (also called ''Release from Bondage'') about [[Beren]] and [[Lúthien]]. Although Tolkien abandoned them before their respective ends, they are both long enough to occupy many stanzas, each of which can last for over ten pages. The first poem is in alliterative verse, and the second is in rhyming couplets. Both exist in two versions.
+
+In addition to these two poems, the book also gives three short, soon-abandoned alliterative poems, which are ''The Flight of the Noldoli from Valinor'', ''The Lay of Eärendel'', and ''The Lay of the Fall of Gondolin''.
+
+The first versions of the long lays fit chronologically in with Tolkien's earliest writings, as recounted in ''[[The Book of Lost Tales]]'', but the later version of ''The Lay of Leithian'' is contemporary with the writing of ''[[The Lord of the Rings]]''.
+
+==Contents==
+* Preface
+
+* I. "''[[The Lay of the Children of Húrin]]''"
+** First version
+** Second version
+
+* II. [[Poems Early Abandoned]]:
+** ''"[[The Flight of the Noldoli from Valinor]]"''
+** "[[Fragment of an alliterative Lay of Eärendel]]"
+** "''[[The Lay of the Fall of Gondolin]]''"
+
+* III. "''[[The Lay of Leithian]]''"
+** Canto I — Canto XIV
+** Unwritten Cantos
+** Appendix: Commentary by [[C.S. Lewis]]
+
+* IV. "[[The Lay of Leithian Recommenced|''The Lay of Leithian'' Recommenced]]"
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book III reads:
+
+:"''In the first part of this Book is given the Lay of the Children of Húrin by John Ronald Reuel Tolkien, in which is set forth in part the Tale of Túrin. In the second part is the Lay of Leithian, which is the Gest of Beren and Lúthien as far as the encounter of Beren with [[Carcharoth]] at the gate of [[Angband]].''"
+
+==From the publisher==
+{{blockquote|The third volume that contains the early myths and legends which led to the writing of Tolkien's epic tale of war, The Silmarillion.<br/>
+This, the third volume of The History of Middle-earth, gives us a privileged insight into the creation of the mythology of Middle-earth, through the alliterative verse tales of two of the most crucial stories in Tolkien's world – those of Túrin, Beren and Lúthien. The first of the poems is the unpublished Lay of The Children of Húrin, narrating on a grand scale the tragedy of Túrin Turambar. The second is the moving Lay of Leithian, the chief source of the tale of Beren and Lúthien in The Silmarillion, telling of the [[Quest of the Silmaril]] and the encounter with Morgoth in his subterranean fortress.<br/>
+Accompanying the poems are commentaries on the evolution of the history of the [[Elder Days]]. Also included is the notable criticism of The Lay of The Leithian by [[C.S. Lewis]], who read the poem in 1929.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Lays of Beleriand 1985.png ‎|1985 hardcover
+File:Lays of Beleriand 1987.png |1987 paperback
+File:Lays of Beleriand 1991.gif ‎|1991 hardcover
+File:Lays of Beleriand 1994.jpeg |1994 paperback
+File:The Lays of Beleriand (HC2002).png ‎|2002 & 2015 paperback
+File:Lays of Beleriand 2010.png |2010 hardcover
+File:Lays of Beleriand 2024.jpeg |2024 paperback
+File:Lays of Beleriand hc 2024.jpg| 2024 hardcover
+</gallery>
+* [[George Allen & Unwin]], hardcover ([[1985]]), pp.&nbsp;393. ISBN 0048232777
+* [[Unwin Paperbacks]], paperback ([[1987]]), ISBN 0044400187 - (cover art by [[Roger Garland]])
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102052
+* [[HarperCollins]] paperback ([[1994]]), ISBN 0261102265 - (cover art by [[John Howe]])
+** 1994 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365276
+** 2015 paperback edition, 37th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0008669201 - ([[Centenary Boxed Sets]] #2)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#iii A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Lays of Beleriand}}
+[[Category:Fiction books]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Poetry books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+
+[[de:The Lays of Beleriand]]
+[[fi:The Lays of Beleriand]]

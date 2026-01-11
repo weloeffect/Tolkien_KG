@@ -1,0 +1,11 @@
+{{letter infobox
+| #=114
+| to=[[Wikipedia:Hugh Brogan|Hugh Brogan]]
+| date=[[7 April]] [[1948]]
+| subject=Tolkien describing other works of his
+}}{{letter|114}}
+==Summary==
+Brogan had read ''[[The Hobbit]]'', and inquired about the world it played in. Tolkien informed him about ''[[Farmer Giles of Ham]]'' and the unfinished ''[[The Silmarillion]]'' and ''[[The Lord of the Rings]]''. 
+{{letters}}
+[[Category:Letters to Hugh Brogan| ]]
+[[de:Brief 114]]

@@ -1,0 +1,12 @@
+{{letter infobox
+| #=216
+| to=Deputy Registrar of the [[wikipedia:University of Madras|University of Madras]]
+| date=[[12 August]] [[1959]]
+| subject=Teaching
+}}{{letter|216}}
+==Summary==
+The [[wikipedia:University of Madras|University of Madras]], India appointed Tolkien as a member of the Board of Examiners - without consulting Tolkien. In this fragment, Tolkien respectfully declined the Examinership, as he was retired and had no interest in teaching and examining anymore. 
+
+{{letters}}
+[[fi:Kirje 216]]
+[[de:Brief 216]]

@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1984
+| location=Oxford Town Hall, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 23rd-25th, 1983
+| attendees=
+}}
+
+{{oxonmoot|1982|1984}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

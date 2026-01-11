@@ -1,0 +1,36 @@
+{{location infobox
+| name=Amon Lanc
+| image=
+| caption=
+| pronun={{respell|ah|mon}} {{respell|l|ah|nk}}
+| othernames=
+| location=[[Mirkwood|Greenwood the Great]]
+| type=Hill
+| description=Treeless summit
+| regions=
+| towns=
+| inhabitants=[[Silvan Elves]]
+| created=
+| destroyed=
+| events=
+}}
+
+'''Amon Lanc''', the Naked Hill, was a hill in the southern parts of [[Mirkwood|Greenwood the Great]].<ref name="GLADDEN">{{UT|7a}}, note 12</ref>
+
+==History==
+Amon Lanc was the highest point of the highland at the southwestern corner of Greenwood. It gained its name from the fact that no trees ever grew upon its summit.<ref name="GLADDEN" /> Once the [[Silvan Elves]] had lived near the hill under [[Oropher]] in the [[Second Age]],<ref>{{UT|Galadriel}}</ref> but Oropher abandoned the dwellings upon Amon Lanc after becoming disturbed by Sauron's rising power, and he moved to the western side of the [[Mountains of Mirkwood|Emyn Duir]].<ref name="AMON">{{UT|7a}}, note 14</ref>
+
+Around a millennium after his [[Siege of Barad-dûr|defeat]], [[Sauron]] came to Amon Lanc and reoccupied Oropher's abandoned stronghold. The hill and fortress were then together called [[Dol Guldur]], and the wood in which it stood became known as [[Mirkwood]].<ref name="GLADDEN" />
+
+In the [[Fourth Age]], southern Mirkwood became known as [[East Lórien]]<ref>{{App|Great}}</ref> and Amon Lanc became part of it.
+
+==Etymology==
+''Amon Lanc'' is a [[Sindarin]] name, consisting of ''[[amon]]'' ("hill") + ''[[lanc]]'' ("naked").<ref name="GLADDEN" />
+
+{{references}}
+
+[[Category:Hills]]
+[[Category:Sindarin locations]]
+
+[[de:Amon Lanc]]
+[[fi:Amon Lanc]]

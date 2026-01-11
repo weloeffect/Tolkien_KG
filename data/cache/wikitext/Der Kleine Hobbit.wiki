@@ -1,0 +1,16 @@
+{{expansion}}
+{{video game infobox
+| image = Der Kleine Hobbit - Gameplay.gif
+| name=Der Kleine Hobbit
+| developer=Michael Nickles<ref>[http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 5 September 2010)</ref>
+| publisher=None
+| platform=[[wikipedia:Commodore 64|Commodore 64]]<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/kleinehobbit.html Der Kleine Hobbit] at Tolkien Games (retrieved 5 September 2010)</ref><ref name="El Anillo interactivo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=3 Meristation, El Anillo Interactivo] p. 4 (retrieved 5 September 2010)</ref>
+| releasedate=[[1984]]
+| genre=Text-Adventure
+}}
+'''''Der Kleine Hobbit''''' is a German unofficial text-adventure which covers the events in the ''[[The Hobbit]]''.<ref name="Tolkien Games"/><ref name="El Anillo interactivo"/> It was written in the computer language ''BASIC''.<ref name="El Anillo interactivo"/>
+
+{{references}}
+{{title|italics}}
+[[Category:Commodore 64 games]]
+[[Category:Text-Adventure video games]]

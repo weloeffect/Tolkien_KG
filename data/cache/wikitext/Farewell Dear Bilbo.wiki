@@ -1,0 +1,21 @@
+{{scene
+| name = Farewell Dear Bilbo
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Farewell Dear Bilbo.jpg
+| number = 5 (theatrical edition)<br />
+           6 (extended edition)
+| duration = 4:24
+| characters = [[Gandalf]], [[Bilbo Baggins|Bilbo]]
+| event = Bilbo leaves the [[Shire]], leaving the [[One Ring|Ring]] behind for Frodo.
+| previous = [[A Long-expected Party (scene)|A Long-expected Party]]
+| next = [[Keep It Secret, Keep It Safe (scene)|Keep It Secret, Keep It Safe]]
+}}
+'''Farewell Dear Bilbo''' is the fifth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the sixth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+[[Bilbo]] returns to [[Bag End]] and begins packing, but he is soon interrupted by [[Gandalf]]. Gandalf questions Bilbo regarding the [[Ring]], concerned about Bilbo's unhealth attachment to it. Bilbo turns defensive, then grows angry and accuses Gandalf of attempting to steal it. Gandalf uses his own power to overawe Bilbo briefly and bring him to reality. Bilbo reluctantly agrees to give up the Ring, but requires further prompting from Gandalf. He finally drops the Ring on the floor as he leaves the house. Bilbo suddenly feels relieved and sets off into the night after bidding Gandalf farewell.
+
+==Differences==
+The scene is largely accurate to the chapter "[[A Long-expected Party]]", though Bilbo does leave with [[Nar (companion of Bilbo)|Nar]] and some [[Dwarves]] to the east.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|06]]

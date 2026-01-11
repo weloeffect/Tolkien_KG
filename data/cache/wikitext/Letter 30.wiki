@@ -1,0 +1,17 @@
+{{letter infobox
+| #=30
+| to=Rütten & Loening Verlag
+| date=[[25 July]] [[1938]]
+| subject=Translations, Politics
+}}{{letter|30}}
+==Summary==
+Rütten & Loening Verlag, a German publisher, had enquired about the possibility of a translation of ''[[The Hobbit]]'', and asked about his ancestry and Aryan-ness.
+
+Tolkien answered that he thought the matter of his Aryan-ness was not what they were after. They would much rather have liked to know whether he was Jewish. He told them he was not - but he regretted that he had no Jewish blood. He continued with stating that though he was an Englishman for several generations, he carried his German surname with pride, even in [[World War I]]. But if politics and literature were so mingled, there might come a time when he would not be proud of German heritage. 
+
+Tolkien closed the letter with the statement that, though the publishing house was only following the laws of its country, they cannot expect foreigners to follow these rules.
+==Notes==
+This letter is often cited as a counterargument when Tolkien is accused of [[Perceived Racism in Tolkien's Works|racism]].
+{{letters}}
+{{DEFAULTSORT:Letter 030}}
+[[de:Brief 30]]

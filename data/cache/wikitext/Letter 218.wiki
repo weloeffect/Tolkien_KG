@@ -1,0 +1,13 @@
+{{letter infobox
+| #=218
+| to=Eric Rogers
+| date=[[9 October]] [[1959]]
+| subject=English language
+}}{{letter|218}}
+==Summary==
+A Mr. Eric Rogers had sent a letter to "any Professor of English Language". He inquired about the use of the verb in a passive sentence: Is it "A number of office walls ''has'' been damaged", or "''have'' been damaged"? 
+
+Tolkien, now retired, stated Mr. Rogers could do as he liked; both are correct. Since "number"  is singular, the verb could be singular. But since "walls" is plural, the verb could be plural. 
+
+{{letters}}
+[[de:Brief 218]]

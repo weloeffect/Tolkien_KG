@@ -1,0 +1,99 @@
+{{book
+|title=The Lost Road and Other Writings
+| image = Lost Road and Other Writings 1987.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[Unwin Hyman]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[27 August]] [[1987]]
+| dateUS=[[30 November]] 1987
+|format=Hardcover; paperback
+|pages=448
+|isbn=0048233498
+| precededby=[[The Shaping of Middle-earth]] (1986)
+| followedby=[[The Return of the Shadow]] (1988)
+}}
+'''''The Lost Road and Other Writings''''', published in [[1987]], is the fifth volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+==Background==
+''The Lost Road'' itself was the result of a joint decision by Tolkien and [[C.S. Lewis]] to make attempts at writing science fiction. Lewis ended up writing a story about space travel, which eventually became ''[[Wikipedia:The Space Trilogy|The Space Trilogy]]'', and Tolkien tried to write something about time travel, but never completed it.
+
+''The Lost Road'' is a fragmentary beginning of that "time travel" tale, with a rough outline and several pieces of narrative, including four chapters dealing with modern England and [[Númenor]], from which the entire story may be glimpsed. The scheme was for time travel by means of "vision", or being mentally inserted into what had been so as to experience that which had happened. In this way the tale links the 20th century to many legends of older times, going further and further back, until to the [[Third Age]] of Middle-earth, and finally to the [[Last Alliance of Elves and Men|Fall of Gil-galad]], before recounting the prime legend of the [[Downfall of Númenor]] and the [[Changing of the World|Bending of the World]].
+
+The novel explores the theme of the "[[Straight Road]]" into the [[Aman|West]], now open only in memory because the world has become round. Tolkien reworked and expanded some of the ideas in ''The Lost Road'' in ''[[The Notion Club Papers]]'', which was also left unfinished.<ref>{{HM|A}}[[Verlyn Flieger]], ''A Question of Time: J.R.R. Tolkien's Road to Faërie''</ref>
+
+==Contents==
+* Preface
+
+* '''Part One: The Fall of Númenor and the Lost Road'''
+** I. "[[The Early History of the Legend]]"
+** II. "[[The Fall of Númenor (chapter)|The Fall of Númenor]]"
+** III. "[[The Lost Road]]"
+
+* '''Part Two: Valinor and Middle-earth before ''The Lord of the Rings'''''
+** I. "[[The Texts and Their Relations]]"
+** II. "[[The Later Annals of Valinor|The Later ''Annals of Valinor'']]"
+** III. "[[The Later Annals of Beleriand|The Later ''Annals of Beleriand'']]"
+** IV. "[[Ainulindalë (Lost Road)|Ainulindalë]]"
+** V. "[[The Lhammas]]"
+** VI. "[[Quenta Silmarillion (Lost Road)|Quenta Silmarillion]]"
+
+* '''Part Three: "[[The Etymologies]]"'''
+
+* Appendices
+** I: The Genealogies
+** II: The List of Names
+** III: [[The Second 'Silmarillion' Map]]
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book V reads:
+
+:"''Herein are collected the oldest Tale of the Downfall of Númenor, the story of the Lost Road into the West, the Annals of Valinor and the Annals of Beleriand in a later form, the Ainulindalë, or Music of the Ainur, the Lhammas, or Account of Tongues, the Quenta Silmarillion or History of the Silmarils, and the history of many words and names.''"
+
+==From the publisher==
+{{blockquote|The fifth volume of the ''History of Middle-earth'', containing the early myths and legends which led to the writing of Tolkien’s epic tale of war, ''The Silmarillion''.<br>
+At the end of [[1937]], J.R.R. Tolkien reluctantly set aside his work on the myths and heroic legends of Valinor and Middle-earth and began ''[[The Lord of the Rings]]''.<br>
+This fifth volume of ''The History of Middle-earth'' completes the examination of his writing up to that time. Later forms of the ''[[Annals of Valinor]]'' and the ''[[Annals of Beleriand]]'' had been composed, the ''Silmarillion'' was nearing completion in a greatly amplified form, and a new Map had been made. The legend of the [[Downfall of Númenor]] had entered the work, including those central ideas: the [[World Made Round]] and the [[Straight Path]] into the vanished West. Closely associated with this was the abandoned ‘time-travel’ story ''The Lost Road'', linking the world of Númenor and Middle-earth with the legends of many other times and peoples.<br>
+Also included in this volume is the ''The Lhammas'', as essay on the complex languages and dialects of Middle-earth, and an ‘etymological dictionary’ containing an extensive account of Elvish vocabularies.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Lost Road and Other Writings 1987.png |1987 hardcover
+File:Lost Road and Other Writings 1989.jpeg |1989 paperback
+File:Lost Road and Other Writings 1987.png |1991 hardcover
+File:Lost Road and Other Writings 1993.jpeg |1993 paperback
+File:Lost Road and Other Writings (HC2002).jpeg |2002 & 2015 paperback
+File:Lost Road and Other Writings 2010.png ‎|2010 hardcover
+File:Lost Road and Other Writings 2024.jpeg ‎|2024 paperback
+File:Lost Road and Other Writings hc 2024.jpg|2024 hardcover
+</gallery>
+* [[Unwin Hyman]], hardcover ([[1987]]), pp.&nbsp;448. ISBN 0048233498
+* [[Unwin Paperbacks]], paperback ([[1989]]), ISBN 0044403984 - (cover art by [[Roger Garland]])
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102044
+* [[HarperCollins]] paperback ([[1993]]), ISBN 0261102257 - (cover art by [[John Howe]])
+** 1993 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365292
+** 2015 paperback edition, 37th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0008669225 - ([[Centenary Boxed Sets]] #2)
+
+==See also==
+*''[[A Question of Time|A Question of Time: J.R.R. Tolkien's Road to Faërie]]''
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#v A content guide for this volume] at Tolkienbooks.net
+
+{{references}}
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Lost Road and Other Writings}}
+[[Category:Fiction books]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+[[de:The Lost Road and Other Writings]]
+[[fi:The Lost Road (teos)]]

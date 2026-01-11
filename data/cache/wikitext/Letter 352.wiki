@@ -1,0 +1,13 @@
+{{letter infobox
+| #=352
+| to= Ungfrú Aðalsteinsdottir
+| date=[[5 June]] [[1973]]
+| subject=Translation
+}}{{letter|352}}
+==Summary==
+Ungfrú Aðalsteinsdottir, an Icelandic reader, had informed Tolkien of an upcoming translation of ''[[The Hobbit]]'' into Icelandic. Tolkien is very pleased to know this, because he considers the language best suited for the story. 
+==Notes==
+*Tolkien would not live to see the translation published. ''Hobbitinn'', translated by [[Úlfur Ragnarsson]] and [[Karl Ágúst Úlfsson]], was published by Almenna Bókafélagið in Reykjavik in [[1978]]. 
+{{letters}}
+
+[[de:Brief 352]]

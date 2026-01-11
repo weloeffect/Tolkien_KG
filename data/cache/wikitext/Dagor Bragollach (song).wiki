@@ -1,0 +1,29 @@
+{{Disambig-two|the 8th track of [[Minas Morgul (album)]]|fourth great battle of the [[Wars of Beleriand]]|[[Dagor Bragollach]]}}{{Song
+| title = Dagor Bragollach
+| album = [[Minas Morgul (album)|Minas Morgul]]
+| image = Summoning Minas Morgul.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 5:05
+| track = 8
+| spotify = https://open.spotify.com/track/3ZrefzoAz0HKCL9C7TNkJH
+| writer = Summoning
+| previous = [[Ungolianth]]
+| next = [[Through the Forest of Dol Guldur]]
+}}'''''Dagor Bragollach''''' is the eighth track of the album [[Minas Morgul (album)|Minas Morgul]] by the band [[Summoning]]. The song name is taken from the [[Dagor Bragollach]], the fourth great battle of the [[Wars of Beleriand]], fought between the forces of [[Morgoth]] and the league of the [[Noldor]]. The lyrics directly reference the battle itself, and the destruction of [[Ard-galen]].
+
+== Lyrics ==
+<poem style="font-style:italic; margin-left:20px;">
+In the year 455 it began, the battle of rapid fire. 
+Announced threw flames, 
+more deadly then the third battle. 
+Streams of fire flowing out of Thangorodrim and burned Ardgalen 
+And with the flame a see of orcs arived, 
+and balrogs and Glaurung the dragon. 
+Having received all his might now Dor Thonion broke down first under this onset 
+Angrod and aegnor where killed and their folk enslaved. 
+The riders of maglor where sacrifices of the flames. 
+On the planes of Lothlann victory on our side the triumph of Morgoth.
+</poem>
+{{title}}
+[[Category:Songs by Summoning]]

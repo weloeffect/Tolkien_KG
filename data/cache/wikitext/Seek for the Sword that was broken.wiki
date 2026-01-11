@@ -1,0 +1,41 @@
+{{unnamed}}
+{{Poem infobox
+| title="Seek for the Sword that was broken:"
+| other names=
+| written=After [[August]] of [[1940]]
+| revised=
+| published=''[[The Fellowship of the Ring]]'',<br>''[[The Treason of Isengard]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Narsil]], [[Rivendell]], [[Council of Elrond]], [[Morgul-spells]], [[Doom]], [[One Ring]], [[Hobbits]]
+}}
+
+"'''Seek for the Sword that was broken:'''" was a [[Poems in The Lord of the Rings|rhyme]] that appeared in dreams to [[Faramir]] and later his brother [[Boromir]].<ref name=poem>{{FR|Council}}, p. 259</ref>
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+:Seek for the [[Narsil|Sword that was broken]]:
+::In [[Rivendell|Imladris]] it dwells;
+:There shall be counsels taken
+::Stronger than [[Morgul-spells]].<ref name=poem/></poem>
+
+==History==
+[[File:Anke Eißmann - After the dream.jpg|thumb|''After the dream'' by [[Anke Eißmann]]]]
+When Faramir had the dream, he did not speak of it. He had the dream twice again, and his brother had it once. Neither knew what exactly the "Doom" and "Isildur's Bane" referred to, nor where "Imladris" was. Their [[Denethor|father]] told Boromir that Imladris was where Lord [[Elrond]] dwelt, and the road being too dangerous, Boromir took it upon himself to follow this lead.<ref name=poem/>
+
+==Background==
+In a rough outline of the Council of Elrond written in [[August]] of [[1940]], the following words allude to the poem:<ref name=treason>{{TI|C1}}</ref>
+
+{{blockquote|Prophecies had been spoken. The Broken Sword should be reforged. Our wise men said the Broken Sword was in Rivendell.|Boromir at the [[Council of Elrond]]<ref name=treason/>}}
+
+The earliest form of the "dream-verse" was lost along with the page containing it. As a consequence, it cannot be known when [[J.R.R. Tolkien]] first wrote the poem.<ref name=treason/>
+
+In [[September]] of [[2024]], the poem was reprinted near the end of [[Riddle of Strider|entry 156]] in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems>{{CP|156}}</ref>
+
+==Portrayal in adaptations==
+'''1981: ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]'':'''
+:The song is sung by [[Matthew Vine]] in a high-pitched voice at the Council of Elrond. It is the reason for Boromir's coming to Rivendell, and is explained by [[Aragorn]], [[Gandalf]] and [[Elrond]].
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Fellowship of the Ring]]

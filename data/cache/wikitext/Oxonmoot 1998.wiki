@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1998
+| location=Exeter College, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 25th-27th, 1998
+| attendees=
+}}
+
+{{oxonmoot|1997|1999}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

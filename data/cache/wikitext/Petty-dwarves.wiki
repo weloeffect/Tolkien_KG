@@ -1,0 +1,45 @@
+{{people infobox
+| name=Petty-dwarves
+| image = Angus McBride - Petty dwarves.jpg
+| caption="Petty dwarves" by [[Angus McBride]]
+| pronun=
+| othernames= ''Levain tad-dail'', ''Nibin-Nogrim'' ([[Sindarin|S]])<br />''Pitya-naukor'' ([[Quenya|Q]])
+| origin=Exiles from the eastern [[Dwarf realms|Dwarf-cities]]
+| location=Dwelt at one time at [[Nulukkizdîn]] in the [[Caverns of Narog]], and latterly at [[Bar-en-Nibin-noeg]] on [[Amon Rûdh]]
+| affiliation=
+| rivalry=[[Elves]]; especially [[Noldor]]
+| language=[[Khuzdul]], [[Sindarin]]
+| members=[[Mîm]], [[Ibun]], [[Khîm]]
+| lifespan=
+| distinctions=Smaller, far more unsociable, freely gave away their [[Khuzdul]] names
+| height=Shorter than the other Dwarves
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+The '''Petty-dwarves''' were a diminutive race of [[Dwarves]]. 
+
+Petty-dwarves differed from normal Dwarves in various ways: they were smaller and far more unsociable. It is said that they were the descendants of Dwarves who had left their communities as fugitives for some evil deeds, or been driven out, being deformed, undersized, slothful or rebellious.<ref name=Quendi/>
+
+==History==
+The Petty-dwarves were Dwarves of [presumably] several [[:Category:Dwarven clans|clans]], which descended from Dwarves exiled for evil deeds from the mansions of their kind.<ref name=Nargothrond>{{NM|P3}}, pp. 304-305</ref> They were the first to cross the [[Ered Luin]] in the [[First Age]], and established strongholds in [[Beleriand]] before the [[Elves]] arrived, at [[Nulukkizdîn]] and [[Sharbhund]] (also known as ''Bar-en-Nibin-noeg'', the "House of the Petty Dwarves"). In Beleriand they diminished in physical stature and in smith-craft.<ref name="Turambar1">{{S|21}}</ref>
+[[File:Steamey - Hunting.jpg|thumb|left|''Hunting'' by Steamey]]
+The [[Sindar]], not acquainted with Dwarves yet, thought the Petty-dwarves were animals, and hunted them. Not until the Dwarves of [[Belegost]] and [[Nogrod]] established contact with the Sindar did they realize what the "animals" were and named them ''Noegyth Nibin''; Petty-dwarves.<ref name=Quendi>{{WJ|AB}}, pp. 388-389</ref>
+
+When [[Finrod]] decided to build his realm in their old dwellings, he first received their help. Pretending friendship with him, they helped him in the building of [[Nargothrond]] in exchange of a generous reward. But their chieftain [[Mîm]] tried to kill Finrod in his sleep and they were expelled.<ref name=Nargothrond/>
+
+Thereafter they were mostly left alone, but they had already dwindled and hated all [[Elves]] with a passion; especially the [[Noldor]] whom they saw as usurpers who took their lands ([[Nargothrond]] was built in Nulukkizdîn).<ref name="Turambar1"/> In the time of the [[Wars of Beleriand]] the Petty-dwarves had nearly died out. The last remnant of their people were [[Mîm]] and his two sons [[Ibun]] and [[Khîm]], who lived at [[Amon Rûdh]].<ref name="Turambar1"/>
+
+==Other names==
+When the Sindar still belived they were mere animals, the name for the Petty-dwarves was '''''Levain tad-[[tal|dail]]''''' ("Two-legged Animals"), or simply ''Tad-dail''.<ref name=Quendi/> Later they were given other names in [[Sindarin]]: '''''Nibin-Nogrim''''', collective name of sing. ''Niben-nog'',<ref name=Eldarin>{{PE|Eldarin}}, pp. 45-46</ref> pl. '''''Nibin-noeg'''''.<ref>{{UT|Narn}}, p. 100</ref> Also sing. ''Nogoth Niben'',<ref name=Quendi/> pl. '''''Noegyth Nibin'''''.<ref name="Turambar1"/> Also sing. ''Nogotheg'' (lit. "Dwarflet").<ref name=Quendi/>
+
+A [[Quenya]] name for a Petty was ''nuxo'',<ref name=Eldarin/> but collectively they were named '''''Pitya-naukor''''' or '''''Pikinaukor'''''.<ref name=Quendi/>
+
+{{references}}
+{{dwarvenclans}}
+[[Category:Dwarves]]
+[[de:Kleinzwerge]]
+[[fr:encyclo/peuples/nains/petits-nains]]
+[[fi:Vähäkääpiöt]]

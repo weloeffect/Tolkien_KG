@@ -1,0 +1,55 @@
+{{Mallorn
+| name=Mallorn 59
+| image = Mallorn59.png
+| editor=Rosalinda Haddon
+| artist=John Cockshaw
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Winter 2018
+| format=A4 stapled paperback, glossy
+| pages=68
+| issn=	0308-6674
+}}
+'''''Mallorn'' 59''' is the fifty-ninth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in Winter [[2018]]. 
+
+==Contents==
+* '''Cover Art'''
+** "Stones, slopes and a twisted knot of hills"
+*** By: John Cockshaw
+* '''Editorial'''
+** "A very fond farewell..."
+*** By: Rosalinda Haddon
+* '''Articles'''
+** "Fairy marriages in Tolkien's works"
+*** By: Giovanni C. Costabile
+** "Realism in fantasy: ''[[The Lord of the Rings]]'' as 'history . . . feigned'"
+*** By: Lawrence Krikorian
+** "The Lovecraft Circle and the Inklings: The 'Mythopoeic Gift' of H. P. Lovecraft"
+*** By: Dale Nelson 
+** "Beryl, more than just a token?"
+*** By: Sebastián Alejandro Freigeiro 
+** "Tolkien's Kingdoms of the West: Founded in History"
+*** By: Eric A. Lynch 
+** "The healing of Théoden or 'a glimpse of the Final Victory'"
+*** By: Jean Chausse 
+** "Checking the Facts"
+*** By: Nancy Bunting
+** "A Holy Party: Holiness in ''[[The Hobbit]]''"
+*** By: Nicholas J. S. Polk
+* '''Submissions'''
+** Letters to the Editor
+** Guide for Authors
+* '''Poetry'''
+** "The Long Defeat"
+*** By: Kaleb Kramer
+** "The Vow"
+*** By: Peter Beaumont
+* '''Reviews'''
+** ''[[Laughter in Middle-earth|Laughter in Middle-earth: Humour in and around the Works of JRR Tolkien]]''
+*** By: Jean Chausse 
+* '''Inside Art'''
+** By: G.A. Brady, Helen Burke, John Cockshaw, Alexander Genov, Gordon Palmer
+
+{{mallornnav|58|60}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 59}}
+[[Category:Mallorn (journal)]]

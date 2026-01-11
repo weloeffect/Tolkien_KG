@@ -1,0 +1,39 @@
+{{journal
+| title=Other Minds 10
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=August [[2010]]
+| format=PDF
+| pages=72
+| issn=
+}}
+
+'''''Other Minds'' 10''' is the tenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in August 2010.
+
+==Contents==
+* "Editorial: Finally Here!"
+** By [[Thomas Morwinsky]]
+* "Balrogs do not have wings-but they do fly!"
+** By Thomas Giessl
+* "The Problem of Gil-galad and the 'House of Finrod'"
+** By Thomas Morwinsky
+* "A History of Story-telling Games and Other Imaginary Depictions of Middle-earth"
+** By Travis Henry
+* "The 'Other Hands' Restoration Project"
+** By Thomas Morwinsky and Ronald K.
+* "An October weekend in Middle-earth"
+** By Thomas Abbenhaus
+* "The Art of Magic-a magic system for Middle-earth"
+** By Daniel Vacaflores
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Table of Contents: Other Minds Magazine, Issues 1-10"
+
+*'''Artwork / Maps:'''
+** By: Catherine Karina Chmiel, Stephen Hickman, Olga Kukhtenkova, Tuuliky
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 10}}
+[[Category:Other Minds]]

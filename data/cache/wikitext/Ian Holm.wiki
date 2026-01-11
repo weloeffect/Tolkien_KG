@@ -1,0 +1,49 @@
+{{actor
+| image = Ian Holm.jpg
+| name=Ian Holm
+| lifetime=[[12 September|September 12]], [[1931]] - [[19 June|June 19]], [[2020]]
+| played=[[Frodo Baggins]]
+| film=[[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]
+| played2=[[Bilbo Baggins|Bilbo]]
+| film2=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]<br>[[The Hobbit (film series)|''The Hobbit'' (film series)]]
+| imdb= [https://www.imdb.com/name/nm0000453/ Profile]
+}}
+
+'''Sir Ian Holm Cuthbert''' [[Order of the British Empire|CBE]] ([[12 September]] [[1931]] - [[19 June]], [[2020]]) voiced [[Frodo Baggins]] in the BBC radio adaptation of ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]''. Years later he played [[Bilbo Baggins]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]], and Old Bilbo in [[The Hobbit (film series)|''The Hobbit'' (film series)]].
+
+Ian Holm was the father of [[Harry Holm]], who played [[Elanor Gardner|Elanor Fairbairns]] in the 1981 radio series. 
+
+==Quotes==
+{{quote|Bilbo is a character to whom things seem 'to happen'! But once put to his mettle, once put to the test, he comes up trumps.|Ian Holm, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+{{quote|These things are like boats with toes.|Ian Holm about prosthetic Hobbit feet}}
+
+==Roles==
+
+* [[2014]] - ''[[The Hobbit: The Battle of the Five Armies]]'' - Old [[Bilbo Baggins]]
+* [[2012]] - ''[[The Hobbit: An Unexpected Journey]]'' - Old Bilbo Baggins
+* [[2007]] - ''[[The Real Middle-earth (documentary)]]'' - Narrator
+* [[2003]] - ''[[The Lord of the Rings: The Return of the King]]'' - Bilbo Baggins
+* [[2002]] - ''[[The Making of The Lord of the Rings (documentary)]]'' - Bilbo Baggins (archive footage)
+* [[2002]] - ''[[A Day in the Life of a Hobbit]]'' - Himself, Bilbo Baggins (archive footage)
+* [[2001]] - ''[[The Lord of the Rings: The Fellowship of the Ring]]'' - Bilbo Baggins
+* [[2001]] - ''[[Quest for the Ring]]'' - Himself, Bilbo Baggins (archive footage)
+* [[1981]] - [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]] - [[Frodo Baggins]]
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]'' 
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]'' 
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+== External links ==
+* {{WP|Ian Holm}}
+
+{{DEFAULTSORT:Holm, Ian}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Hobbit (film series) cast]]
+
+[[de:Ian Holm]]
+[[fi:Ian Holm]]

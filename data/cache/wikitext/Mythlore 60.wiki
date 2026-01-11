@@ -1,0 +1,45 @@
+{{mythlore
+|title=''Mythlore'' 60, Volume 16, Issue 2
+| image = Mythlore 60.jpg
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1989]]
+|format=Paperback
+|pages=67
+}}
+'''''Mythlore'' 60''' ([https://dc.swosu.edu/mythlore/vol16/iss2/ Volume 16, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]] and featuring a cover illustration by [[Nancy-Lou Patterson]].
+
+The article 'Among the Trees: Seeking the Spirit of Narqelion' by [[Paul Nolan Hyde]] includes the text of [[J.R.R. Tolkien]]'s poem '[[Narqelion]]' and an English translation, along with several early Tolkien poems. A summary of the article by [[Jorge Quiñónez]], including the text of the poem and an English translation, was published in ''[[Vinyar Tengwar]]'' [[Vinyar Tengwar 12|Issue 12]], July 1990.<ref>''An Illustrated Tolkien Bibliography'' at Tolkienbooks.net</ref>
+
+==Contents==
+
+====Articles====
+
+* Startzman, L. Eugene. “Goldberry and Galadriel: The Quality of Joy.”
+* Loney, Douglas. “Humpty Dumpty in the Heavens: Perspective in ''Out of the Silent Planet''.”
+* Beach, Sarah, Patrick Wynne, and Paula DiSante. “Three Artistic Versions of ‘The Death of Glorfindel’.”
+* Enright, Nancy. “Charles Williams and his Theology of Romantic Love: A Dantean Interpretation of the Christian Doctrines of the Incarnation and the Trinity.”
+* Murphy, Patrick D. “The High and Low Fantasies of Feminist (Re)Mythopoeia.”
+* O'Brien, Donald. “On the Origin of the Name ‘Hobbit’.”
+* Abbott, Joe. “Tolkien's Monsters: Concept and Function in ''The Lord of the Rings'' (Part II): Shelob the Great.”
+* Bucknall, Barbara J. “Rilke and Le Guin.”
+
+====Features====
+
+* GoodKnight, Glen H. Editorial Introduction: Fantasy and Personal Involvement.
+* Christopher, Joe R., Wayne G. Hammond, and Pat Allen Hargis. An Inklings Bibliography (37).
+* Hyde, Paul Nolan. “Quenti Lambardillion: Among the Trees: Seeking the Spirit of Narqelion.”
+* Letters.
+
+====Reviews====
+
+* ''The Treason of Isengard: The History of the Lord of the Rings, Part Two.'' J.R.R. Tolkien. Reviewed by Glen GoodKnight.
+* ''Sold Into Egypt.'' Madeleine L'Engle. Reviewed by Nancy-Lou Patterson.
+* ''The Vampire in Literature: A Critical Bibliography.'' Margaret Carter. Reviewed by Joe R. Christopher.
+* ''Payer of Tribute.'' Margaret Carter. Reviewed by Joe R. Christopher.
+{{mythlorenav|59|61}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 060}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Mythlore]]

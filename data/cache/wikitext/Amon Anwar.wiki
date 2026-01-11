@@ -1,0 +1,64 @@
+{{Claimed|Bunt}}
+{{short description|Seventh Beacon-hill of Gondor}}
+{{disambig-more|Holy Mountain|[[Holy Mountain (disambiguation)]]}}
+{{disambig-two|the mountain|fan film|[[Halifirien: The Hallowed Mountain‎]]}}
+{{location infobox
+| name=Amon Anwar
+| image=Matěj Čadil - The Path to Amon Anwar.jpg
+| caption="The Path to Amon Anwar" by Matěj Čadil
+| pronun=
+| othernames=Eilenaer, the Halifirien
+| location=In the central [[White Mountains]] overlooking [[Gondor]] and [[Rohan]]
+| type=Mountain
+| description=Seventh [[Warning beacons of Gondor|Beacon-hill]] of [[Gondor]]
+| regions=
+| settlements=
+| inhabitants=
+| created=
+| destroyed=
+| rebuilt=
+| events=
+| audio=
+| audiocaption=
+| map=
+| timeline=
+}}
+
+
+'''Amon Anwar''', originally known as '''Eilenaer''' and later known as '''Halifirien''', was the hallowed mountain that stood over the border of [[Calenardhon]] (later [[Rohan]]) and [[Anórien]]. It was the highest and westernmost of the seven [[Warning beacons of Gondor|Beacon-hills]]. It appeared to stand alone out of the [[Firienholt|Firien Wood]] due to a deep cleft that separated it from a spur of the [[White Mountains|Ered Nimrais]]. On the cleft side it was a sheer wall, but its outer slopes, especially to the north, were long and nowhere steep. Trees grew densely at its base, becoming thinner up to the summit, which was bare. When [[Isildur]] visited, the summit was leveled and a memorial mound was raised on the eastward side, with a stairway and then a pathway marked by standing stones descending to the great West Road. After the hallowing by Isildur the hill and the surrounding woods were known for their profound silence.<ref name="Cirion">{{UT|Cirion}}</ref>
+
+Besides the trees on the slopes and the green grass at the summit (which was surrounded by a belt of white birches), the memorial mound was covered with white flowers of ''[[alfirin]]''.<ref name="Cirion"/>
+
+== History ==
+After the end of the [[War of the Last Alliance]] ({{SA|3441}}) and before he departed for [[Arnor]] ({{TA|2}}), Isildur journeyed with his nephew [[Meneldil]] and a party of trusted friends about the borders of all the lands claimed by [[Gondor]]. Near the center of these lands they came to a hill then called [[Eilenaer]]. The party made a path to the treeless summit, created a level space, and raised a mound at its eastern end. Within the mound Isildur laid a casket and hallowed it as the [[Tomb of Elendil]]. After that time the hill was renamed Amon Anwar, the “Hill of Awe” and no fort nor beacon was permitted to be set upon it.<ref name="Cirion"/>
+
+Following the victory at the [[Field of Celebrant]], the steward [[Cirion]] brought [[Eorl the Young]] to summit of Amon Anwar in August, {{TA|2510}}. There they spoke the [[Oath of Eorl|Oath]] by which Calenardhon was ceded to the [[Éothéod]]. Cirion also declared that Amon Anwar was now a hallowed place of both peoples and that the Eorlings and the Stewards should henceforward share in its guard and maintenance. After Eorl had returned to the North to bring back all his people, Cirion removed the tomb of Elendil and took the casket to [[Rath Dínen]].<ref name="Cirion"/>
+
+In later days as Gondor declined and the Rohirrim grew in power, the wardens of Anwar were provided entirely by the people of [[Eastfold]]. The hill was then renamed the '''Halifirien''' and the seventh and westernmost of the warning beacons of Gondor was built on it. Lodges were constructed for the [[Beacon-wardens]] in the trees near the summit.<ref name="Cirion"/>
+
+During the ride of [[Gandalf]] and [[Peregrin Took|Pippin]] to [[Minas Tirith]] (on March 7, {{TA|3019}}) they saw the beacons of Gondor, including the one on the Halifirien, being lit.<ref>{{RK|MT}}, p. 747</ref>
+
+After King Elessar returned, the bond of Cirion and Eorl was renewed in the same place with [[Éomer]], king of the [[Rohirrim]].<ref>{{UT|8e}}, note 44</ref>
+
+== Etymology ==
+''Amon Anwar'' means "Hill of Awe" in [[Sindarin]] from ''[[amon]]'' "hill" and ''[[anwar]]'' "awe".
+
+''Halifirien'' means "Holy Mountain" in [[Rohanese]]. The name is a modernized spelling of ''Háligfirgen''.<ref>{{VT|42a}}, entry '''''Halifirien''''', p. 20</ref> The second element ''firgen'' means "mountain" in [[Old English]] .<ref>{{HM|N}}, entry, '''Firien'''p. 770</ref>
+
+''Eilenaer'' is a pre-Númenórean name, which is related to the name ''[[Eilenach]]''.<ref>{{VT|42a}}, entry '''''Eilenach and Eilenaer''''', p. 20</ref><ref>{{NM|P3xxii}}, entry ''Eilenach and Eilenaer'', pp. 390-1</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Halifirien.jpg|thumb|Halifirien beacon in ''[[The Lord of the Rings Online]]'']]
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+:The Beacon-hill of Halifirien is visible from the town of Beaconwatch in Rohan and accessible from the Beacon-hills area in Gondor. The [[Tomb of Elendil]] stands untouched, although several [[Variags]] have been trying to find their way in.
+
+{{references}}
+
+{{beacons}}
+
+[[Category:White Mountains]]
+[[Category:Sindarin locations]]
+
+[[de:Halifirien]]
+[[fi:Amon Anwar]]
+[[fr:encyclo/geographie/reliefs/montagnes blanches/amon anwar]]

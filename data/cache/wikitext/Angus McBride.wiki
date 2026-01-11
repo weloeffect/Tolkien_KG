@@ -1,0 +1,33 @@
+{{short description|Artist for Middle-earth Role Playing and Collectible Card Game}}
+{{person infobox
+| image=Angus McBride.jpeg
+| caption=A photo published in ''[[Angus McBride's Characters of Middle-earth]]''
+| name=Angus McBride
+| born=[[11 May]] [[1931]]
+| died=[[15 May]] [[2007]]
+| education=
+| occupation=Artist
+| location=United Kingdom, South Africa
+| website=
+}}
+'''Angus McBride''' ([[11 May]] [[1931]] - [[15 May]] [[2007]]) was a Scottish artist who was already well-established as a military and historical illustrator before working on fantasy art. He mostly worked in gouache, although some of his paintings are in oil.
+<ref name=CCGA>{{CCGA|entry=McBride, Angus}}, pp. 183-184</ref><ref>{{ICE|8007}}, p. 4.</ref> 
+
+Fellow Middle-earth artist [[Angelo Montanini]] consider McBride to be the reason he started doing fantasy art.<ref>{{CCGA|entry=Montanini, Angelo}}, p. 192</ref>
+
+==Career==
+After a long career illustrating for educational magazines and booklets, he eventually became a main artist for military history publisher Osprey, working on over 90 books between [[1976]] and the early 2000s. For fantasy gaming art, he worked exclusively for [[Iron Crown Enterprises]] in the 1980s and 1990s, who commissioned him to create covers for ''[[Middle-earth Role Playing]]'' and  card art for the ''[[Middle-earth Collectible Card Game|MECCG]]''.<ref name=CCGA/>
+
+==See also==
+* [[:Category:Images by Angus McBride|Images by Angus McBride]]
+*''[[Angus McBride's Characters of Middle-earth]]'' (art collection and RPG module)
+
+==External links==
+
+*{{WP|Angus McBride}}
+
+{{references}}
+{{DEFAULTSORT:McBride, Angus}}
+[[Category:Artists]]
+[[Category:British people]]
+[[Category:People by name]]

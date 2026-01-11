@@ -1,0 +1,44 @@
+{{anglosaxon infobox
+| name="Norman Keeps"
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Barber
+| location=[[wikipedia:England|England]]
+| affiliation=
+| language=[[wikipedia:English language|English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''"Norman Keeps"''' was a [[Man]] living in the [[wikipedia:20th century|20th century]] [[wikipedia:England|England]].
+
+== History ==
+''Norman Keeps'' was not his actual name, but rather a nickname that [[Alwin Arundel Lowdham|Lowdham]] and [[Philip Frankley|Frankley]] gave him out of the [[Wikipedia:Keeps|Keeps]] he mentioned. He was their barber, and a nice and moderately intelligent men, but to him, everything that the "[[wikipedia:Dark Ages|Dark Ages]]" stood for were "[[Wikipedia:Keeps|Norman Keeps]]", "[[Wikipedia:King James|Them Jameses]]", "The Squires" and "The People".<ref>{{SD|65}}, pp. 230-1</ref>
+
+== Inspiration ==
+''Norman Keeps'' was an actual person, who expounded to [[J.R.R. Tolkien]] the view of [[wikipedia:English history|English history]] as recounted by the eponymous character in the story. He was a barber too.<ref>{{SD|2dn}}, p. 283, note 15</ref>
+
+{{references}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

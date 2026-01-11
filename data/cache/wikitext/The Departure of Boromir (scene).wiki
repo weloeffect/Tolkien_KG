@@ -1,0 +1,32 @@
+{{title}}
+{{scene
+| name = The Departure of Boromir
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Death of Boromir.png
+| number = 39 (theatrical)<br>
+           45 (extended)
+| duration =
+| event = The death of [[Boromir]]
+| characters = [[Boromir]], [[Aragorn]], [[Legolas]], [[Gimli]]
+| previous = [[The Breaking of the Fellowship (scene)|The Breaking of the Fellowship]]
+| next = [[The Road Goes Ever On... (scene)|The Road Goes Ever On...]]
+}}
+'''The Departure of Boromir''' is the thirty-ninth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the forty-fifth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+After defeating [[Lurtz]], a bloody [[Aragorn]] rushes to the wounded [[Boromir]] who is lying on the ground. 
+
+Boromir tells Aragorn that [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] have been taken by the [[Uruk-hai]] and asks about [[Frodo Baggins|Frodo]]. Aragorn glances at him while trying to heal his wounds and tells him he let Frodo go. Boromir admits to Aragorn that he tried to take the [[The One Ring|Ring]] from Frodo. and feels he has failed the [[Fellowship]]. However, Aragorn tells him he fought bravely. 
+
+Boromir is certain that [[Sauron]] will take control of [[Middle-earth]], and that [[Minas Tirith]] will fall. But Aragorn swears to him ''"I will not let the [[Minas Tirith|White City]] fall, nor our people fail"''. A dying Boromir fixates on Aragorn's acknowledgement of his ties to [[Gondor]] and the race of [[Men]], and reaches for his sword. Aragorn places it in his hands as [[Legolas]] and [[Gimli]] arrive in Boromir's final moments. 
+
+''"I would have followed you my brother. My captain. My king,"'' Boromir says to Aragorn with a smile and a touch of reverence, before he passes away. 
+
+==Differences==
+While this scene occurs towards the end of ''[[The Lord of the Rings: The Fellowship of the Ring]]'', in the books, the corresponding events occur in the first chapter of ''[[The Two Towers]]''. 
+
+In terms of differences in content, in this scene, Boromir is found pierced by three arrows by Lurtz – a character created for the movie – whereas in the books, Boromir is pierced by many arrows shot by [[Orcs]]; he was found by Aragorn leaning against a tree with the bodies of many Orcs around him.<ref name="TT Departure">{{TT|Departure}}, p. 414</ref> Aragorn's vulnerability is much more evident in the book; following the death of Boromir, Aragorn states ''"Vain was [[Gandalf]]'s trust in me"'', and ''"All that I have done today has gone amiss"''.<ref name="TT Departure" /> In this scene, he is much more accepting of Boromir's death and (in the [[The Road Goes Ever On... (scene)|next scene]]) the wider events that have befallen the [[Fellowship]].
+
+{{references}}
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|45]]

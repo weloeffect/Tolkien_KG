@@ -1,0 +1,17 @@
+{{expansion}}
+{{video game infobox
+| image = Bulbo-Lizard King-1-.png
+| name=Bulbo and the Lizard King
+| developer=[[Zenobi Software]]
+| publisher=[[Zenobi Software]]
+| platform=[[wikipedia:ZX Spectrum|ZX Spectrum]]
+| releasedate=[[1987]]
+| genre=Text-adventure, parody
+}}
+'''''Bulbo and the Lizard King''''' is a Text-Adventure, made as a parody of Tolkien's works. The player is ''"Bulbo"'' who must defeat the evil lizard king "''Stratos''".<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/bulbo.html Tolkien Games] (retrieved 28 October 2010)</ref> It is part of "[[the Balrogian Trilogy]]"<ref name="Spectrum">[http://www.worldofspectrum.org/infoseek.cgi Bulbo and the Lizard King] at [[wikipedia:World of Spectrum|World of Spectrum]] (retrieved 28 October 2010)</ref> together with ''[[An Everyday Tale of a Seeker of Gold]]'' and ''[[Fuddo and Slam]]''.<ref name="Tolkien Games"/> It is also a prequel of ''[[Retarded Creatures and Caverns]]''.<ref name="Tolkien Games"/> The game was designed by [[John Wilson]].<ref name="Spectrum"/>
+
+{{References}}
+{{title|italics}}
+[[Category:Parodies]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

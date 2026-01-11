@@ -1,0 +1,27 @@
+{{person infobox
+| image = Edward Reginald Frampton - The Voyage of St. Brandan.jpg
+| name=Saint Brendan
+| born=c. AD 484
+| died=c. AD 577
+| education=
+| occupation=Monk
+| location=Ireland
+| website=
+}}
+
+'''Saint Brendan''', also known as ''Brendan of Clonfert'' and ''Brendanus'', was an Irish monk who made a legendary journey to the western sea and found utopian lands. [[J.R.R. Tolkien]] was aware of this legend and made references to it.
+
+The concept of [[Aman]] as the Paradise in the West, and the voyage of [[Ælfwine]], are inspired from the tale of St. Brendan. Tolkien even wrote a poem ''[[Imram]]'' about him.
+
+Brendan's voyage is referenced again in ''[[The Notion Club Papers]]'' as well as the search for the West.
+
+==External links==
+*{{WP|Brendan the Navigator}}
+*[https://www.youtube.com/watch?v=CoidKafqU88 The Tomb of St Brendan the Navigator], video by Irish Dominicans
+
+{{DEFAULTSORT:Brendan}}
+[[Category:Christianity]]
+[[Category:Irish people]]
+[[Category:The Notion Club Papers]]
+[[Category:People by name]]
+[[Category:Religious workers]]

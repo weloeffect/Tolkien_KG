@@ -1,0 +1,163 @@
+{{short description|Khazad-dûm, Mansion of the Dwarves}}
+{{disambig-more|Moria|[[Moria (disambiguation)]]}}{{disambig-more|The Mines of Moria|[[The Mines of Moria (disambiguation)]]}}
+{{kingdom
+| image=Alan Lee - The Eastern Arches.jpg
+| caption = "The Eastern Arches" by [[Alan Lee]]
+| name=Moria
+| pronun=
+| othernames=''[[Khazad-dûm]]'' ([[Khuzdul|K]]), ''Casarrondo'' ([[Quenya|Q]]), ''Hadhodrond'' ([[Sindarin|S]]), ''Phurunargian'' ([[Westron|W]]), Dwarrowdelf, The Black Chasm, The Black Pit, Mansion of the Khazâd
+| location=Middle of the [[Misty Mountains]], beneath [[Celebdil]], [[Caradhras]] and [[Fanuidhol]]
+| capital=
+| towns=
+| regions=
+| population=Primarily [[Dwarves of Khazad-dûm|Dwarves]]
+| language=[[Khuzdul]], [[Sindarin]], [[Westron]]
+| govern1=[[King of Khazad-dûm]]
+| govern2=[[Lord of Moria]] ({{TA|2989}}-{{TA|2994|n}})
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date=Between {{YT|1050}}<br>and {{YT|1300}}<ref name=Sindar>{{S|Sindar}}</ref>
+| event2=Abandoned
+| event2date={{TA|1981}}
+| event3=Reclaimed by [[Balin]]
+| event3date={{TA|2989}}
+| event4=Colony destroyed
+| event4date={{TA|2994}}
+| event5=Refounded
+| event5date=After {{FoA|171}}
+| followedby=[[Lonely Mountain]]
+}}
+{{quote|Greatest of all the mansions of the Dwarves was Khazad-dûm, the Dwarrowdelf, Hadhodrond in the Elvish tongue, that was afterwards in the days of its darkness called Moria.|''[[Quenta Silmarillion]]'', "[[Of the Sindar]]"}}
+
+'''Khazad-dûm''', latterly known as '''Moria''' ([[Sindarin]], "The Black Chasm", "The Black Pit"), was the grandest and most famous of the mansions of the [[Dwarves]]. There, for many thousands of years, a thriving [[Dwarf realms|Dwarvish community]] created the greatest city ever known. 
+
+It lay in the central parts of the [[Misty Mountains]], tunnelled and carved through the living rock of the mountains themselves. By the [[Second Age]] a traveller could pass through it from the west of the range to the east. 
+
+==History==
+===Elder Days===
+It was founded in very ancient days by [[Durin]] who awoke at [[Gundabad|Mount Gundabad]] in the [[Misty Mountains]]. He came upon the valley [[Azanulbizar]] beneath the mountains. He looked into a shimmering lake and saw a [[Durin's Crown|crown of stars]] reflected in its waters. He named that lake [[Kheled-zâram]], the [[Mirrormere]] and it remained a revered place among Dwarves of all houses ever afterwards, and the [[Durin's Stone]] was erected on the location of that event.<ref>{{FR|Lorien}}</ref> 
+
+There, in the caves above, Durin and [[Longbeards|his people]] started the delving and building of the [[Great Gates]] of Khazad-dûm, and the [[First Hall]] leading to a [[Bridge of Khazad-dûm|bridge over a chasm]]. From there began the expansion, both to ''Levels'' above and to ''Deeps'' below, and mines expanding out from the inhabited areas of the city proper.
+
+As the centuries passed, the realm of Durin became the greatest of all their mansions, and became famous even to the distant west; the [[Elves]] of [[Beleriand]], heard its rumour from the [[Dwarves of the Blue Mountains]] on their borders.<ref name=Sindar />
+
+Durin the Deathless died before the end of the First Age, and was buried in a tomb in Khazad-dûm<ref name=Durin>{{App|A3}}</ref> and his descendants continued to rule.
+
+===Second Age===
+{{quote|After the end of the [[First Age]] the power and wealth of Khazad-dûm was much increased; for it was enriched by many people and much lore and craft...|[[Appendix A]]}}
+[[File:Anke Eißmann - The Doors of Durin.jpg|thumb|left|''The Doors of Durin'' by [[Anke Eißmann]]]]
+
+In c. {{SA|40}}, most of the [[Dwarves of the Blue Mountains]] began leaving en masse from their now ruined cities for Khazad-dûm. The city was enriched not just in numbers, but in the western Houses' skills in smithing, crafting and masonry. All these factors created a renaissance for Khazad-dûm, and brought its prosperity to its zenith.<ref name="B1">{{App|B1}}</ref>
+
+Khazad-dûm had expanded so much that it completely traversed the Mountains from east to west, ending to the western rocky cliffs at their base, the [[Walls of Moria]].<ref name=Journey>{{FR|II4}}</ref> [[Narvi]] with the [[Lord of Eregion]], [[Celebrimbor]], constructed the magical [[Doors of Durin|West-gate of Moria]].<ref name=Durin/> 
+
+The friendship of Khazad-dûm and [[Eregion]] came to a sudden end, however, in {{SA|1697}}. [[Sauron]] [[Sack of Eregion|overran]] the country of the Elves. Durin's warriors withdrew from the Gates, and they shut them against Sauron, also secluding  the kingdom off from the outside world.<ref name=TA>{{App|TA}}</ref>
+
+It was also during this time that the Orcs reinvaded the mountains and made war on the Dwarves, [[First Sacking of Gundabad|taking]] [[Gundabad|Mount Gundabad]] from the Kingdom of Durin.
+
+===Third Age===
+====Demise====
+Most of its great wealth was based on the rare ''[[Mithril]]'' that was found in its mines, and as the centuries passed, the Dwarves mined deeper and deeper for the precious metal. In the year {{TA|1980}}, their deep digging unleashed a nameless terror, a [[Balrog]] from the [[Elder Days]], that wreaked dreadful destruction, and in slaying the  King, [[Durin VI]], became known as [[Durin's Bane]]. In the following year, Durin's son, [[Náin I]], was also lost, and the Dwarves fled their ancient home. 
+
+After millennia as one of the richest cities in [[Middle-earth]], Khazad-dûm stood dark and empty, but for the brooding menace the Dwarves had released. In that time it was given a new name, Moria, the '''Black Pit'''.
+
+The monster - a Balrog of [[Morgoth]], as was later known - lurked alone in Moria for nearly five hundred years. After that time, around {{TA|2480}} [[Orcs of the Misty Mountains|Orcs]] made secret strongholds in the Mountains and [[Sauron]] started to populate the old city of Khazad-dûm with his creatures.<ref name=TA /> Orcs from the North began to enter the abandoned city to raid its treasuries, and occupy it. Though the orcs' numbers were greatly reduced in the [[Battle of Azanulbizar|Battle of Nanduhirion]], fought in the valley beneath Moria's [[Great Gates|East-gate]] in {{TA|2799|n}}, the Balrog could not be bested, and Khazad-dûm remained a place of darkness.
+
+At some point between {{TA|2845|n}} and [[Third Age 2850|2850]] the [[Wizards|Wizard]] [[Gandalf]] entered the city looking for King [[Thráin II]] who had disappeared on journey to Erebor.<ref name=Journey/>
+
+====Balin's Colony====
+[[File:Joona Kujanen - Battle for Moria.jpg|thumb|200px|right|''Battle for Moria'' by [[:Category:Images by Joona Kujanen|Joona Kujanen]]]]
+In {{TA|2989|n}}, there was an attempt by the Longbeards to reclaim their ancient home. The [[Balin's Colony|expedition]] was led by [[Balin]], who had accompanied [[Bilbo Baggins]] on the [[Quest of Erebor]]. He led a [[Balin's Colony|colony]] of Dwarves there from [[Lonely Mountain|Erebor]]. The Colony was successful at first, killing a considerable number of Orcs, taking many of the Eastern halls and finding many lost treasures such as [[Durin's Axe]]. They were however [[Last stand of Balin's folk|defeated and slain]] by the Orcs in {{TA|2994|n}}.  
+
+At some point either before or after the colony, [[Aragorn]], [[Chieftain of the Dúnedain]], entered Moria for some unknown purpose.
+
+====The Fellowship's passage====
+When [[Frodo Baggins]] set out from [[Rivendell]] with the [[Fellowship of the Ring|Fellowship]], they at first planned to travel over the Misty Mountains. When they were stopped by heavy snow on [[Caradhras|Mount Caradhras]], they found themselves pursued by wolves and Orcs, and fled into Moria, so as to go under the mountains. There, they found Balin's journal in the [[Book of Mazarbul]] and learned the fate of his expedition. They were then set upon by a host of [[Trolls]] and Orcs, and they discovered that the terror was, in fact, a [[Balrogs|Balrog]] of [[Morgoth]]. Gandalf fought the Balrog on a narrow bridge and succeeded in destroying a section of bridge to make the Balrog fall. As it fell, the Balrog snagged Gandalf's leg with its whip of thongs and pulled him after it, sending them both plunging into the abyss spanned by the bridge. The rest of the Fellowship managed to escape Moria and reach [[Lothlórien|Lórien]] mostly unharmed.
+
+Unknown to the Fellowship, both Gandalf and the Balrog survived the fall and fought a ferocious battle from the depths of Moria to the mountains above, demolishing the top of the legendary [[Endless Stair]] and a part of the surrounding mountain peak in the process. Gandalf cast down the Balrog upon the mountainside and lived just long enough to see it die, but his story was not yet ended.
+
+While Gandalf had felled the Balrog, Moria remained a place of evil creatures until the Fourth Age.<ref>{{SD|XI2}}, p. 122</ref>
+
+===Later history===
+Though little information is given, the retaking of Khazad-dûm by [[Durin VII]] seems to have occurred sometime after {{FoA|171}}.<ref group="note">The mention of Durin's name as a prophecy in the [[Appendix A]], and considering that the Appendix derives from the [[Red Book]] (copied {{FoA|171}}), seems to suggest that he was probably born, or emerged, after that date.</ref> As the [[King of Durin's Folk]], he led a final return to the city. He was successful; the [[House of Durin]] reclaimed their inheritance and the hammers rang again in their great halls beneath the Misty Mountains until the race of Dwarves ended.<ref name=Fourth>{{PM|Aiv}}, p. 278</ref>
+
+==Layout==
+{{sources}}
+Khazad-dûm was a huge array of chambers, passages, mines, halls, stores and pits. In general, areas were either classed as the ''Mines of Moria''<ref name=Mines>{{FR|Journey}}, p. 310</ref> or the ''city''.<ref name=City>{{FR|Journey}}, p. 315</ref> The mines were the working sections of Khazad-dûm whilst the city contained the habitable parts. The city of Moria was located close to the eastern end of Moria.<ref name=City/> The distance from the west gate of Moria to the East-gate of Moria was at least forty miles.<ref name=Mines/>
+[[File:Paul Monteagle - The Bridge of Khazad-dum.jpg|thumb|''The Bridge of Khazad-dum'' by [[:Category:Images by Paul Monteagle|Paul Monteagle]]]]
+The city areas of Khazad-dûm were located in the east. Old Moria, the oldest mansions and passages,<ref>{{HM|UI}}, entry ''Old Moria'', p. 294</ref> were located close to the [[Great Gates]].<ref name=OldMoria>{{FR|Bridge}}, pp. 328-9</ref> The North end was the part of Moria that had been excavated north of the older halls and the Great Gates<ref>{{HM|UI}}, entry ''North end'', p. 291</ref> and included the twenty first hall and the [[Chamber of Mazarbul]] with the [[Balin's Tomb|tomb]] of [[Balin]].<ref>{{FR|Bridge}}, p. 321</ref> They were structured into seven Levels and seven Deeps. The Levels stretched above the Great Gates with the First Level being on the same level as the Great Gates<ref>{{FR|Bridge}}, p. 323</ref> whilst the Deeps were set deeper within the mountain below the level of the Great Gates with the First Deep being immediately below the Great Gates. The First Deep included the Second Hall, which was no more than a quarter of a mile from the East-gate and a part of Old Moria. The eastern end was the part of Moria, which was just west of the East-gate. The First Hall was located on the same level as the East-gate<ref name=OldMoria/> and had high windows on its eastern side, which allowed bright daylight to illuminate the hall.<ref name=FirstHall>{{FR|Bridge}}, pp. 331-2</ref> Immediately to the east of the hall was the East-gate.<ref name=FirstHall/>
+
+The eastern section of the city spaces had also been delved in such a manner as to have light shafts to illuminate their chambers. One example of this is the [[Chamber of Mazarbul]] which was located on the eastern edge of the [[Seventh Level]].
+
+The mine areas of Khazad-dûm were interlaced with the city spaces, but spread also westward toward the [[Doors of Durin]]. The mines ran deeper and further than any other tunnels within Khazad-dûm, and it is possible that more of the lower Deeps were given over to mining, although this is only conjecture.
+
+The defined change between ''mines'' and ''city'' can be seen when the [[Fellowship of the Ring|Fellowship]] pass through Moria - there is a marked difference between the early passages and chambers and those of the city structures illuminated by Gandalf.
+
+Far below Moria, there are abysses, spaces and tunnels not known even by the Dwarves, but known by the Balrog. [[Nameless things]] gnaw the earth and make them, far from the knowledge of any lore.
+
+==Etymology==
+''Moria'' is [[Sindarin]] for "Black Chasm"<ref name=Letter>{{L|297}}, pp. 382-3</ref><ref>{{PE|17}}, p. 40</ref> or "Black Pit",<ref>{{FR|South}}, p. 283</ref><ref name=PE17>{{PE|17}}, p. 35</ref> being a combination of the elements ''[[morn|mor(n)]]'' ("black") + ''[[iâ]]'' ("void, abyss").<ref name=Letter/><ref name=PE17/><ref>{{S|Elements}}, entries ''mor'' and ''iâ''</ref> The name was given by the [[Elves]] "without love", because they preferred to live above ground.<ref name=Translation>{{App|Translation}}, p. 1137</ref>
+
+The presence of the name ''Moria'' on the [[West-gate of Moria]] is often seen as an [[Possible inconsistencies in the legendarium#Doors of Durin|inconsistency]], but as just explained, the name had not necessarily bad connotations.<ref>{{HM|RC}}, pp. 281-2</ref>
+
+In the [[Noldorin]] phase of the [[Elvish]] language, ''Moria'' was glossed as "Black Gulf".<ref>{{LR|Etymologies}}, entry "[[YAG]]"</ref>
+
+==Other names==
+The name ''Khazad-dûm'' in [[Khuzdul]] means "Dwarves' Mansion(s)". ''Khazâd'' being the plural of ''[[khuzd]]'' "Dwarves" while ''[[dûm]]'' (or possibly rather ''tûm'') a word for "excavation(s), hall(s), mansion(s)" (it is not clear if the second word is in singular or plural form).<ref>{{PE|17}}, entry below K '''Kibil-nâla''', p. 35</ref>
+
+'''Nornhabar''' is a Sindarin name of Moria in [[The Later Quenta Silmarillion]].<ref>[[J.R.R. Tolkien]], [[Christopher Tolkien]] (ed.), ''[[The War of the Jewels]]'', "Part Two. The Later ''Quenta Silmarillion'': Concerning the Dwarves (Chapter 13)", pp. 206, 209</ref> Later on, in the essay ''[[Quendi and Eldar]]'', ''Nornhabar'' was replaced by ''[[Hadhodrûd]]'' which was quite immediately changed to ''Hadhodrond,'' a form that entered into the printed Silmarillion.<ref>[[J.R.R. Tolkien]], [[Christopher Tolkien]] (ed.), ''[[The War of the Jewels]]'', "Part Two. The Later ''Quenta Silmarillion'': Concerning the Dwarves (Chapter 13)", pp. 386, 419, note 21</ref> The elements of the [[Sindarin]] name are likely ''Norno'' "Dwarf" [<nowiki/>[[Help:References|''source?'']]] and ''[[Habar|sabar]]'' "mine".
+
+The [[Sindar]] translated the Khuzdul name by sense into [[Sindarin]] as '''''Hadhodrond''''',<ref name="WJp389">{{WJ|AB}}, p. 389</ref> which is a a compound of ''[[hadhod]]'' (an attempt by the Sindar to render ''[[Khazâd]]'', the Dwarves' name for their own kind, into Sindarin sounds) ("Dwarf")<ref name="WJp388">{{WJ|AB}}, p. 388</ref> and ''[[rond]]'' ("vault", "high roofed cavern").<ref name="Author">{{WJ|Author}}, note 26, p. 414</ref>
+
+The [[Noldor]] translated the Sindarin name into [[Quenya]] as '''''Casarrondo''''' ("Dwarrowvault"),<ref name="WJp389" /> which is a compound of ''casar'' (an attempt by the Noldor to render ''Khazâd'' into Quenya sounds)<ref name="WJp388" /> ("Dwarf")<ref>{{PE|17}}, entry S '''nogoth''', p. 45</ref> and ''rondo'' ("vaulted hall", "cave").<ref name="Author" /><ref>{{PE|17}}, entry S ''Felagund'', p. 117</ref>
+
+'''''Phurunargian''''' meaning "'''Dwarrowdelf'''" or "Dwarf-delving" was the [[Westron]] name for Khazad-dûm.<ref name=AppF2>{{App|F2}}</ref><ref name=PEPhurunargian/> The word derives from the [[Sundocarme|root]] PHUR ("to delve") and ''[[narag]]'' ("dwarf").<ref name=PEPhurunargian>{{PE|17}}, p. 137</ref> [[J.R.R. Tolkien|Tolkien]] noted that the form ''Phurunargian'' was "archaic" Westron although he did not mention the elements that make it archaic (over a possible vernacular form).<ref name=AppF2/><ref>{{HM|N}}, p. 769</ref> The word "'''dwarrow'''('''s''')" is the "expected" Modern English reflex of the Old English "dweorgas" (dwarfs/ves) before syntactic leveling produced "dwarfs".
+
+The [[Primitive Elvish]] form of ''Moria'' was ''Mornyā''.<ref>{{PM|II}}, p. 45</ref>
+
+==Portrayal in adaptations==
+===Moria in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Lord of the Rings - The Motion Picture Trilogy - Moria.jpg|Moria as seen in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Lord of the Rings Online - Moria map.jpg|Map of Moria from ''[[The Lord of the Rings Online]]''
+File:The Rings of Power (TV series) - Khazad-dûm.png|Khazad-dûm as seen in ''[[The Lord of the Rings: The Rings of Power]]''
+</gallery>
+'''1978: ''[[The Lord of the Rings (1978 film)]]'':'''
+:Moria is portrayed prominently in the film.
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Moria is portrayed prominently in the Theatrical Edition, while Extended Edition gives it even more attention - notably, Mithril is introduced to the audience properly.
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:During the Moria levels the player for the most part controls Gandalf, only once is focus switched to Frodo instead.
+
+'''2004: ''[[The Lord of the Rings: The Battle for Middle-earth]]'':'''
+:The entire journey through Moria takes place in one level, which can be completed in several minutes. The iconic location are portrayed immediately next to each other and in the end, Gandalf defeats the Balrog and continues journey with the Fellowship.
+
+'''2008: ''[[The Lord of the Rings Online: Mines of Moria]]'':'''
+:''Mines of Moria'' was the first major expansion of the game, released in November 2008. Almost the entirety of Moria is present in the game, with players able to freely journey from the West Gate to the East Gate and from the Cliffs of Zirakzigil to the very Foundations of Stone where nameless things dwell.
+
+:Moria is divided into several major sub-areas, depicted on the map to the right. '''The Great Delving''' lies directly next to the West Gate and links ancient Dwarven mines to palaces, academies and foundries founded during Khazad-dum's glory days. '''Durin's Way''' is the area, where, according to legend, Durin himself first braved the mines before bringing his folk in there. '''Zelem-Melek''' is home to both numerous [[Orcs|Orc]] encampments and the famed [[Twenty-first Hall]]. '''Silvertine Lodes''' refers to the mining area located directly under [[Celebdil|Silvertine]], much like the '''Redhorn Lodes''' are the mining area under the peaks of [[Caradhras#The Redhorn Gate|Redhorn]]. '''The Water-Works''' hosts both a large underground lake and ancient Dwarven gears, wheels and devices that delivered the fresh water throughout the whole kingdom once. '''The Flaming Deeps''' is an area that reeks with fire and where few could survive for long - it appears that [[Durin's Bane]] resided there following his reawakening. '''Nud-Melek''' mostly consists of the [[Second Hall]] and the [[First Hall]]. The '''Foundations of Stone''' are located below the deepest delving of the Dwarves; no light has ever shined there and, as Gandalf recounted, nameless things older than the world gnaw at the roots of the mountains.
+
+:Surprisingly for those seeing it for the first time, Moria in ''[[The Lord of the Rings Online]]'' is very much inhabited. In an original storyline by Turbine, Dwarves from the [[Iron Hills]] sent by [[Dáin Ironfoot]] arrive in Moria shortly after the Fellowship to learn the fate of [[Balin]]'s expedition. With Durin's Bane recently gone, the Orcs and Goblins of Moria are in great disarray, which allows the Dwarves to move in and establish encampments at all major crossroads. Fresh supplies are coming from both East and West gates, preventing the Iron Hill Garrison from being cut off like Balin was. Shortly after the defeat of Sauron at the end of the Third Age, the Iron Garrison was expelled from Moria by overwhelming numbers of orcs and evil creatures.
+
+'''2009: ''[[The Lord of the Rings: Conquest]]'':'''
+:Several levels of both good and evil campaigns take place in Moria.
+
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:Moria, under the name Khazad-dûm, is featured in the first season of the show, with [[Elrond]] travelling there in order to encourage the relationships between Elves and Dwarves.
+
+{{references|notes}}
+{{FellowshipRoute}}
+{{durinskings}}
+[[Category:Mines]]
+[[Category:Cities, towns and villages]]
+[[Category:Moria]]
+[[Category:Evil realms]]
+[[Category:Sindarin locations]]
+[[de:Khazad-dûm]]
+[[fi:Moria]]
+[[fr:encyclo/geographie/villes tours et forteresses/monts brumeux/khazad-dum]]

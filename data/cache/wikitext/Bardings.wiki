@@ -1,0 +1,40 @@
+{{people infobox
+| name=Bardings
+| image = Barding.jpg
+| caption=
+| pronun=
+| othernames=
+| origin=[[Men of Dale]] and possibly the [[Lake-men]]
+| location=[[Dale]]
+| affiliation=
+| rivalry=
+| language=[[language of Dale]], [[Westron]]
+| members=[[Bard]], [[Bain]], [[Brand]], [[Bard II]]
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+'''Bardings''' were the [[Men of Dale|people]] of the kingdom of [[Dale]] during the later [[Third Age]].<ref name=meet>{{FR|II1}}</ref> They took their name from [[Bard]] the Bowman, the first [[King of Dale]], descendant of Lord [[Girion]].
+
+==History==
+The people of the Bardings belonged to that wide-ranging branch of [[Men]] known as the [[Northmen]], and were thus kin to both the [[Beornings]] and the [[Rohirrim]].<ref>{{TT|Riders}}</ref> 
+
+After [[Bard]]'s revenge on the Dragon in {{TA|2941}}, he became [[King of Dale]] in his own right. He was succeeded as its ruler by his son [[Bain]], and so his line extended down to the time of the [[War of the Ring]] and beyond.
+
+The Bardings occupied the area between the [[Long Lake]] and [[Erebor]],<ref>{{HM|AoL}}, Fig. 157 (p. 200). The name "Bardings" appears on a "later map of Middle-earth". The name is written in red ink, like "[[Beornings]]" or "[[wood-elves]]", between "Long Lake" and "Erebor The Lonely Mt.".</ref> and maintained the friendship with the [[Dwarves of Erebor]], like their ancestors. As time passed, so the lands under the power of the Bardings grew, and in the time of [[Bard]]'s grandson [[Brand]] their territories were said to extend far to the south and east of the [[Long Lake]].<ref name=meet/> 
+
+During the War of the Ring, the [[Easterlings]] [[Battle of Dale|attacked]] the town of Dale and forced the Men and the Dwarves into [[Lonely Mountain|Erebor]]; King Brand died alongside [[Dáin Ironfoot]] at the [[Front Gate]] of Erebor. After seven days of siege, news came of the defeat of [[Sauron]]. The new kings broke the siege and chased the Easterlings out of Dale. After the siege, the two peoples rebuilt Dale. The new King [[Bard II]] also sent an emissary to the coronation of King Elessar.<ref>{{App|B}}</ref>
+
+==Etymology==
+*''[[Bard#Etymology|bard]]'' + ''[[-ings]]''
+
+{{references}}
+
+[[Category:Bardings]]
+[[Category:Demonyms]]
+[[Category:Northmen]]
+[[fi:Bardilaiset]]

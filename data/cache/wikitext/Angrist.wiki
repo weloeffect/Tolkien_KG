@@ -1,0 +1,50 @@
+{{object infobox
+| name=Angrist
+| image=Artigas - Angrist.jpg
+| caption="Angrist" by Artigas
+| pronun=
+| othernames=
+| location=[[Nargothrond]], [[Forest of Brethil]], [[Angband]]
+| owner=[[Curufin]], [[Beren]]
+| type=Weapon
+| appearance=Long dwarf-knife
+| creator=[[Telchar]]
+| created=[[First Age]]
+| createdlocation=
+| destroyer=[[Beren]]/[[Morgoth]]
+| destroyed={{FA|466}}
+| destroyedlocation=[[Angband]]
+| notablefor=Removing a [[Silmaril]] from the [[Iron Crown]]
+}}
+
+{{Quote|That knife was made by Telchar of Nogrod, and hung sheathless by his side; iron it would cleave as if it were green wood.|"[[Of Beren and Lúthien]]" in ''[[The Silmarillion]]''}}
+
+'''Angrist'''was a long<ref name="long">{{LB|4}}</ref> [[Dwarves|dwarf]]-knife<ref name="dwarfknife">{{GA|206}}</ref> made by [[Telchar]] of [[Nogrod]] and borne by [[Curufin]]. It was later taken by [[Beren]],<ref name="took">{{GA|202}}</ref> who used it to cut a [[Silmarils|Silmaril]] from [[Morgoth]]'s [[Iron Crown]]. However, it broke soon after.<ref name="silm" />
+
+==History==
+During the [[First Age]], Angrist was created by the [[Dwarves|dwarf]]-smith [[Telchar]] of [[Nogrod]]. It was said that it could cleave iron like green wood.<ref name="silm">{{S|Beren}}, p. 177</ref>
+
+The knife was later wielded by the [[Elves|Elf]]-lord [[Curufin]], one of [[Fëanor|Fëanor's]] [[Sons of Fëanor|sons]]. When Curufin and his brother, [[Celegorm]], were banished from [[Nargothrond]] in {{FA|465}},<ref>{{WJ|P1}}, section for the year 465</ref> he laid his hand on the haft of the knife as he laughed, mockingly naming [[Orodreth]] "Sir Steward".<ref name="long"/> After they left, the brothers initially intended to ride to [[Himring]],<ref name="history">{{GA|201}}</ref> but coincidentally, they encountered [[Beren]] and [[Lúthien]] in the [[Forest of Brethil]]<ref name="silm" />. The knife was worn by Curufin "sheathless by his side"<ref name="silm" /> when he attempted to kidnap Lúthien, but triggered the [[Leap of Beren]]<ref name="silm" /> as a result, causing the knife to be taken from him along with his horse and other weapons and gear.<ref name="took"/>
+
+Later, early in {{FA|466}}<ref>{{WJ|P1}}, section for the year 466</ref>, Beren snuck into [[Angband]] with Lúthien and used the knife to cut out a [[Silmarils|Silmaril]] from the [[Iron Crown]] of [[Morgoth]]. But as Beren tried to cut out the other two, the knife snapped and Morgoth stirred as "a shard of the blade"<ref name="silm" /> grazed his cheek. Beren and Lúthien left the knife behind as they fled<ref>{{GA|207}}</ref>.<ref name="dwarfknife"/>
+
+==Etymology==
+''Angrist'' means "Iron-cleaver" in [[Sindarin]],<ref name="index">{{S|Index}}</ref> <ref name="meaning">{{LR|P2VI}}, p. 303</ref> from ''[[ang]]'' ("iron")<ref name="peoples">{{PM|XI4}}, (5.), p. 347</ref> + ''[[crist]]'' ("a cleaver, sword")<ref name="crist">{{LR|P3}}, p. 365 (entry "KIRIS-")</ref>.<ref>{{S|Appendix}}, entries ''anga'', ''ris''</ref><ref name="ris">{{PE|17}}, pp. 87, 182</ref>
+
+==Other versions of the legendarium==
+In ''[[The Book of Lost Tales]]'', Beren grabbed a great knife in fear when the castle of [[Tevildo]] shook because of the spell being broken by Tinúviel.<ref name="tales">{{LT2|I}}, p. 29</ref> He kept the knife, but later drew it when he seized the [[Iron Crown]], labouring "as noiselessly as may be to prise out a Silmaril with his knife" until it snapped "with a loud crack"; the sound of which awakened the sleeping Melko.<ref name="tales"/> Later, despite the knife snapping, Beren somehow fingered the knife (or the remnant of it) as he lay dying after fleeing [[Carcharoth|Karkaras Knife-fang]].<ref>{{LT2|I}}, p. 33</ref> In his commentary, [[Christopher Tolkien]] identified this "kitchen-knife" as the direct predecessor of Angrist.<ref>{{LT2|In}}, p. 58</ref>
+
+The knife was mentioned as "the dirk of [[Nargil]]" in [[Beleg|Beleg's]] [[whetting spell]] in ''[[The Lay of the Children of Húrin]]''.<ref name="spell">{{LB|1c}}, pp. 45, 49</ref> In ''[[The Lay of Leithian]]'', the knife is described as pale and made of steel.<ref name="pale">{{LB|C10}}</ref> It is also described as being bitter-cold and hard-edged.<ref name="hard">{{LB|C13}}</ref> At one point, the unnamed Angrist was a magic knife that was given to Beren by Celegorm as a passing idea.<ref name="given">{{LB|C6}}</ref> In the ''[[Quenta Noldorinwa]]'' the knife of Curufin remained unnamed and it was referred to as "the knife of the treacherous Dwarves".<ref name="shaping">{{SM|Q10}}, pp. 112-3, 178</ref>
+
+In later versions and the version published in ''The Silmarillion'',<ref name="silm" /> this blade became Angrist, which was the blade of Curufin that was forged by [[Telchar]] of [[Nogrod]].<ref name="meaning" />
+
+{{references}}
+{{weapons}}
+
+[[Category:Knives]]
+[[Category:Noldorin names]]
+[[Category:Sindarin names]]
+
+[[de:Angrist]]
+[[fr:encyclo/artefacts/armes/angrist]]
+[[fi:Angrist]]

@@ -1,0 +1,25 @@
+{{scene
+|name=A Shortcut to Mushrooms
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - A Short Cut to Mushrooms.jpg
+|number=10 (theatrical edition)<br />
+        13 (extended edition)
+|duration=3:51
+|event=A [[Black Rider]] pursues the Hobbits in search of the [[One Ring|Ring]]
+|characters=[[Frodo]], [[Sam]], [[Merry]], [[Pippin]], [[Nazgûl|Ringwraith]]
+|previous=[[Saruman the White (scene)|Saruman the White]]
+|next=[[Bucklebury Ferry (scene)|Bucklebury Ferry]]
+}}
+'''A Short Cut to Mushrooms''' is the tenth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirteenth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+Making their way through a farm (revealed to be that of [[Farmer Maggot]]), [[Frodo]] and [[Sam]] are briefly separated in the corn before being reunited. Sam informs Frodo that he promised [[Gandalf]] not to leave him, no matter what happens. They are interrupted when [[Merry]] and [[Pippin]] crash out of the corn, carrying stolen vegetables. More yelling is heard when [[Farmer Maggot]] approaches, chasing Merry and Pippin for stealing his crop. The four hobbits run from the enraged farmer and fall down an embankment onto the road. However, Frodo senses something approaching and implores the other hobbits to hide. Finding a tree root to hide under, they are startled by the approach of a [[Black Rider]] on horseback. The rider dismounts and begins sniffing for something. Frodo is almost overcome with the temptation to put on the [[The One Ring|Ring]] before Merry throws one of his stolen vegetables to distract the rider. The hobbits run away. Frodo looks down at the Ring, thinking the Riders are looking for it.
+
+==Differences==
+*Sam's promise is made to [[Gildor]] and the other elves,<ref>{{FR|Mushrooms}}, p. 87</ref> not Gandalf.
+*In the books, Farmer Maggot is a friendly character who helps Frodo reach [[Crickhollow]].<ref>{{FR|Mushrooms}}, pp. 95-7</ref> Pippin does not steal his crops and is on good terms with him. Frodo did steal his crops when he was younger.<ref>{{FR|Mushrooms}}, pp. 91-2</ref>
+*Frodo, Sam, and Pippin meet Merry en route to Crickhollow,<ref>{{FR|Mushrooms}}, p. 97</ref> rather than in Farmer Maggot's field.
+*Merry is not present for the first encounters<ref>{{FR|Three}}, pp. 74-8</ref> with the Black Rider.
+
+{{references}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|13]]

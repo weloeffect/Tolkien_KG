@@ -1,0 +1,101 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Akhôrahil
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Stephen Walsh - Akhôrahil the Ringwraith.jpg
+| caption=''“Akhôrahil the Ringwraith”'' by [[Stephen Walsh]]
+| pronun=
+| othernames=Friend of the Lord<br>the Blind Sorcerer<br>the Far King
+| titles=Storm King of Ciryatanor
+| position=Fifth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1888}}
+| birthlocation=A manor overlooking the [[Nísinen]]
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=6 ft 7 in<ref name=ICE>{{ICE|8003}}, pp. 84-86</ref>
+| hair=
+| eyes=''Eyes of the Well''
+| clothing=Grey armour<br>Mithril-inlaid helm<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>Yellow Hammer
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Lemenya
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=the Black Enemy
+| titles=
+| position=Fifth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=Black horse
+}}
+}}
+The '''Fifth of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Akhôrahil'', a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>[[METW: Akhôrahil|Akhôrahil]], [[Middle-earth: The Wizards]]</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] Lemenya'' ([[Quenya|Q.]] Fifth Nazgûl), and assigning the epithet of ''Black Enemy''.<ref>{{LOTRTCGW|Ulaire Lemenya, Black Enemy (12U176)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+
+==Backstory in Middle-earth Role Playing==
+'''Akhôrahil''' was born in [[Númenor]] in {{SA|1888}} to a wealthy family. He was a cousin of Prince Mûrazôr (the later [[Witch-king]]), and was noted as brilliant but spoiled.
+
+In {{SA|1904}}, his family moved to Middle-earth to found the kingdom of [[Ciryatanor]], with his father, Ciryamir, as its client-king. Akhôrahil enjoyed the authority his family held, but in his greed he sought to usurp his father's throne. In {{SA|1918}}, he made a pact with a [[Haradrim|Haradan]] priest, exchanging his eyes for two magical sapphire gems known as the ''Eyes of the Well''. Though now physically blind, these gems granted him magical powers. Using his new abilities, he cast a spell on his father, who was overcome with despair and took his own life.
+
+Akhôrahil ascended to the throne of Ciryatanor in {{SA|1919}} and proclaimed himself the Storm King. He married his sister, Akhôraphil, and began a campaign of conquest, expanding his kingdom into the lands of the Haradrim and along the Bay of Ormal.
+
+His campaigns and growing power caught the attention of [[Sauron]]. In {{SA|2000}}, an emissary offered Akhôrahil a [[Nine Rings|Ring of Power]], and thus he became the fifth King to fall under Sauron's sway. 
+
+Already eccentric before his transformation, the Storm King now became a recluse. His wife fled with his children, after which he purged his court of both those too loyal to the [[King of Númenor]] as well as those who acted too independently. Still, he maintained a nominal allegiance to Númenor and kept sending tributes for 250 years. 
+
+As [[Tar-Ancalimon]] ascended the throne, he request all colonies to reaffirm their loyalty. His envoy arrived in Ciryatanor in {{SA|2250}}. Realizing that Númenor would seek to expand again, he held the emissary as a hostage and officially allied himself with [[Mordor]]. Tar-Ancalimon, after ransoming his envoy, responded by launching an invasion, which led to a crushing defeat for the Storm King in {{SA|2280}}.
+
+Having fled to Mordor, he would spend the next ten centuries directing the slaves of [[Nurn]] to supply food for Sauron's armies. He fled after Sauron's surrender to [[Ar-Pharazôn]], though after the [[Downfall of Númenor]] he returned to Nurn, later leading its host in the [[War of the Last Alliance]]. He was defeated with his master and passed into the shadows.
+
+Akhôrahil reappeared around {{TA|1050}}, residing in the Far South and reestablishing his [[Army of the Southern Dragon|host]] before being summoned back to Mordor by Sauron in {{TA|1640}}. He helped rebuild Sauron's strongholds and became a close companion and trusted lieutenant to the Witch-king, sharing a special rapport due to their similar backgrounds as powerful sorcerers. He stayed with the Witch-king at [[Minas Morgul]] after the fortress's capture in {{TA|2002}}.
+
+During the [[War of the Ring]], Akhôrahil rode with the Black Riders in search of the One Ring. He fought in the [[Battle of the Pelennor Fields]], later joining the remaining wraiths at the [[Battle of the Morannon]], where he perished with Sauron's defeat.<ref name=ICE/>
+
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have wielded the '''Yellow Hammer''', a gold steel mace inlaid with copper.<ref>{{ICE|2010}},  p. 49</ref>
+{{References}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 5}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

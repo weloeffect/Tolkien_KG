@@ -1,0 +1,16 @@
+{{song
+| title=Concerning Hobbits
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=2:55
+| track=2
+| previous=[[The Prophecy]]
+| next=[[The Shadow Of The Past (soundtrack)|The Shadow of the Past]]
+| spotify=https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP
+}}
+'''Concerning Hobbits''' is the second track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. It sets the cheerful and simple [[Hobbits|Hobbit]] theme that is frequently repeated throughout the movie, played on the Violin and Pennywhistle.
+{{title}}
+{{DEFAULTSORT:02}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

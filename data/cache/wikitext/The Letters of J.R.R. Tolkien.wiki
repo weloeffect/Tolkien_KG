@@ -1,0 +1,99 @@
+{{disambig-more|Letters|[[Letters (disambiguation)]]}}
+{{book
+|title=The Letters of J.R.R. Tolkien
+| image = Tolkien Letters 1981.jpg
+|author=[[J.R.R. Tolkien]]
+|editor=[[Humphrey Carpenter]], [[Christopher Tolkien]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|date=[[20 August]] [[1981]]
+|format=Hardcover; paperback
+|pages=463 (first edition)<br/>720 (second edition)
+|isbn=0048260053
+| precededby=[[Unfinished Tales]] (1980)
+| followedby=[[The Old English Exodus]] (1982)
+}}
+'''''The Letters of J.R.R. Tolkien''''' is a collection of letters, letter fragments, letter drafts, and endnotes by [[J.R.R. Tolkien]]. The first edition contained 354 entries, it was edited by [[Humphrey Carpenter]] and [[Christopher Tolkien]], and was published in [[1981]].
+
+The ''Letters'' is considered an autobiography of Tolkien, since he himself didn't write one. And it is widely recognized as an indispensable book of resource for both Tolkien scholars and fans, as it contains much information and insights on his literary works and personal life.
+
+An index has been provided by [[Wayne G. Hammond]] and [[Christina Scull]] since [[1995]].
+
+A revised and expanded edition was published on [[9 November]], [[2023]]. The new edition includes 154 new entries, bringing the total number of letters to 508.
+
+==Contents==
+The selection of 354 letters in the original edition dates from October [[1914]], when Tolkien was an undergraduate at the [[University of Oxford]], to [[29 August|August 29]] [[1973]], four days before his death.
+
+The letters can be roughly divided in four categories:
+#Personal letters to [[Edith Tolkien]], Christopher Tolkien and his other children
+#Letters about Tolkien's career as a professor of Anglo-Saxon
+#Letters to his publishers at [[Allen and Unwin]] explaining his failing to meet the deadline and related topics
+#Letters about [[Middle-earth]] 
+
+The last category is especially of interest to Tolkien fans, as it provides a lot of information about Middle-earth which cannot be found elsewhere in the works published by Tolkien himself. It is remarked thus:
+
+{{Blockquote|During the composition and the publication process of his literary works, J.R.R. Tolkien continually corresponded with friends, family members, colleagues, and his publishers, and for years after the publication of ''[[The Lord of the Rings]]'', with his readers as well.  Indeed, many of his letters are direct (inasmuch as Tolkien strove to be direct) answers to questions about which people had written to him.  His letters contain much background and expository material that never made it to publication, and also a great deal of explanation of his intent or purpose.  He often went to great lengths to clear up readers' misunderstandings.  In a few instances, however, Tolkien didn't actually provide a clear, if any, answer to the question (for example, "Who is [[Tom Bombadil]]?" or "What happened to the [[Entwives]]?"), although he did address these topics in his letters, thus leaving us with at least the final word on the subject from the author himself.|Mike Brinza<ref>[https://web.archive.org/web/20130606024118/http://mysite.verizon.net/aznirb/mtr/lettersfaq.html Tolkien Letters FAQ] at [https://en.wikipedia.org/wiki/Wayback_Machine Wayback Machine] (accessed 3 June 2022)</ref>}}
+
+==''Revised and Expanded edition''==
+The '''''Revised and Expanded edition''''' was published on [[9 November]], [[2023]], by HarperCollins. In this edition 154 previously unseen letters have been added, and 45 existing letters updated and extended. Now the total number of entries has increased from 354 to 508, and page number from 463 to 720.
+
+In essence it is not a "second edition", but a "fully restored first edition". As noted by the editor that, during the publication of the first edition, much of the original content had to be cut out due to the printing limitations of the time. Thus, this new edition offers an opportunity to restore all that was lost, and represents what the original editors had envisioned the book to be.
+
+Carpenter's numbering system is kept, while the new letters are inserted in their due places with a lowercase letter, e.g. letter 18a is placed between letters 18 and 19.
+
+It won the [[The Tolkien Society|Tolkien Society Award]] for best book in 2024.<ref>{{webcite|website=The Tolkien Society|articleurl=https://www.tolkiensociety.org/2024/04/winners-of-the-tolkien-society-awards-2024-announced/|articlename=Winners of The Tolkien Society Awards 2024 announced|accessed=17 April 2024}}</ref>
+
+====From the publisher====
+{{Blockquote|The comprehensive collection of letters spanning the adult life of one of the world’s greatest storytellers, now revised and expanded to include more than 150 previously unseen letters, with revealing new insights into The Hobbit, The Lord of the Rings and The Silmarillion.
+
+J.R.R. Tolkien, creator of the languages and history of Middle-earth as recorded in The Hobbit, The Lord of the Rings and The Silmarillion, was one of the most prolific letter-writers of this century. Over the years he wrote a mass of letters – to his publishers, to members of his family, to friends, and to 'fans' of his books – which often reveal the inner workings of his mind, and which record the history of composition of his works and his reaction to subsequent events.
+
+A selection from Tolkien's correspondence, collected and edited by Tolkien's official biographer, Humphrey Carpenter, and assisted by Christopher Tolkien, was published in 1981. It presented, in Tolkien's own words, a highly detailed portrait of the man in his many aspects: storyteller, scholar, Catholic, parent, friend, and observer of the world around him.
+
+In this revised and expanded edition of The Letters of J.R.R. Tolkien, it has been possible to go back to the editors’ original typescripts and notes, restoring more than 150 letters that were excised purely to achieve what was then deemed a ‘publishable length’, and present the book as originally intended.
+
+Enthusiasts for his writings will find much that is new, for the letters not only include fresh information about Middle-earth, such as Tolkien’s own plot summary of the entirety of The Lord of the Rings and a vision for publishing his ‘Tales of the Three Ages’, but also many insights into the man and his world. In addition, this new selection will entertain anyone who appreciates the art of letter-writing, of which J.R.R. Tolkien was a master.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Tolkien Letters 1981.jpg|1981 hardcover first edition
+File:Tolkien Letters 1990.png|1990 paperback
+File:Tolkien Letters 1995.png|1995 paperback
+File:Tolkien Letters 2006.jpeg|2006 paperback
+File:The Letters of J.R.R. Tolkien cover (2023).jpg|2023 hardcover expanded edition
+File:Tolkien Letters 2025.jpg|2025 paperback
+File:Tolkien Letters 2026.jpg|2026 hardcover deluxe edition
+</gallery>
+* [[George Allen and Unwin]], hardcover ([[1981]]), pp.&nbsp;463. ISBN 0048260053 - (first edition)
+* [[Unwin Paperbacks]], paperback ([[1990]]), ISBN 0044406649
+* [[HarperCollins]] paperback ([[1995]]), pp.&nbsp;480. ISBN 0261102656
+** 1995 paperback edition, reset in [[2006]]
+* [[HarperCollins]] hardcover ([[2023]]), pp.&nbsp;720. ISBN 0008628769 - (expanded edition)
+* [[HarperCollins]] paperback ([[2025]]), ISBN 0008628807
+* [[HarperCollins]] hardcover in slipcase ([[2026]]), ISBN 0008628777
+
+==See also==
+*[[:Category:Letter receivers|Letter receivers]]
+*[[Letters not published in "The Letters of J.R.R. Tolkien"]]
+*''[[J.R.R. Tolkien's Letters to Rhona Beare]]''
+
+==External links==
+*[http://www.hammondandscull.com/addenda/letters.html Corrigenda to the Index to ''Letters of J.R.R. Tolkien'' (1999)]
+*[https://www.nytimes.com/books/01/02/11/specials/tolkien-letters.html Concerning Hobbits and Philip Marlowe] New York Times Review
+*[https://web.archive.org/web/20130606024118/http://mysite.verizon.net/aznirb/mtr/lettersfaq.html FAQ-Like Guide to the Letters] (archived 6 June 2013)
+
+{{references}}
+{{letters}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Letters of J.R.R. Tolkien}}
+[[Category:Reference books]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Posthumous publications]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by Humphrey Carpenter]]
+[[Category:Publications by title]]
+
+[[de:Briefe]]
+[[fi:Kirjeet]]

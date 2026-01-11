@@ -1,0 +1,55 @@
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Almarian
+| image=Matěj Čadil - A Royal Wedding in Numenor.jpg
+| caption="A Royal Wedding in [[Númenor]]" by [[Matěj Čadil]]
+| pronun=
+| othernames=
+| titles=Queen of Númenor
+| position=
+| location=[[Númenor]]
+| affiliation=
+| language=[[Adûnaic]], [[Sindarin]] and [[Quenya]]
+| birth=Before {{SA|700}}
+| birthlocation=
+| rule={{SA|740}} - {{SA|883|n}} (143 years)
+| death=After {{SA|900}}
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Vëantur]]
+| siblings=
+| spouse=[[Tar-Meneldur]]
+| children=[[Tar-Aldarion|Anardil]], [[Ailinel]] and [[Almiel]]
+| gender=Female
+| height=
+| hair=Golden
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Almarian''' ([[Quenya|Q]], pron. {{IPA|[alˈmari.an]}}) was the daughter of [[Vëantur]],<ref>{{UT|Wife}}</ref> Queen to [[Tar-Meneldur]], the fifth King of [[Númenor]], and mother to [[Tar-Aldarion]], the sixth King, and to [[Ailinel]] and [[Almiel]].  She was said to possess great beauty.<ref>{{UT|earlier}}</ref>
+
+==Etymology==
+''Almarian'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it contains ''[[almare]]'' ("blessedness").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1562159121.html|articlename=Q. ''Almarian'' f.|website=Eldamo|accessed=26 January 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | VEA | | |VEA=[[Vëantur]]<br/><small>''b. {{SA|451|n}}''</small>}}
+{{familytree | | | | | | | |!| | | |}}
+{{familytree | | | MEN |y| ALM | | |MEN=[[Tar-Meneldur]]<br/><small>''{{SA|543|n}} - {{SA|942|n}}''</small>|ALM='''ALMARIAN'''<br/><small>''unknown''</small>}}
+{{familytree | |,|-|-|-|+|-|-|-|.| |}}
+{{familytree | ALD | | AIL | | ALM |ALD=[[Tar-Aldarion]]<br/><small>''{{SA|700|n}} - {{SA|1098|n}}''</small>|AIL=[[Ailinel]]<br/><small>''b. {{SA|712|n}}''</small>|ALM=[[Almiel]]<br/><small>''b. {{SA|729|n}}''</small>}}
+{{familytree | |!| | | |!| | | | | |}}
+{{familytree | ANC | | SOR | | | | |ANC=[[Tar-Ancalimë]]<br/><small>''{{SA|873|n}} - {{SA|1285|n}}''</small>|SOR=[[Soronto]]<br/><small>''b. {{SA|799|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+[[Category:Númenóreans]]
+[[Category:Quenya names]]
+[[Category:Second Age characters]]
+
+[[de:Almarian]]
+[[fi:Almarian]]

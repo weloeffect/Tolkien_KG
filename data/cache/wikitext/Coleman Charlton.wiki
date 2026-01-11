@@ -1,0 +1,36 @@
+{{author infobox
+| image=
+| name=S. Coleman Charlton
+| born=
+| died=
+| education=Mathematics, Computer Science
+| occupation=Game designer, Managing Editor, Freelance writer 
+| location=Virginia, Charlottesville
+| website=
+|}}
+
+'''Coleman Charlton''' is an American table-top game designer. He was one of the founders of [[Iron Crown Enterprises]], and designed the ''[[Middle-earth Role Playing]]'' game system<ref>''Iron Crown Quarterly'' (Issue 1, Summer 1988), p.9</ref> and the ''[[Middle-earth Collectible Card Game]]''<ref>''CarolinaCon Regional MECCG Newsletter'', Issue 4 (January 1999)</ref>
+
+In the late 1990s, Coleman Charlton and [[Pete Fenlon]], his long-time colleague from ICE, joined the Mayfair Game company.<ref>[http://www.mayfairgames.com/ Mayfair Games web site]</ref>
+
+==Game designs==
+
+Selected list of works concerned with the legendarium of [[J.R.R. Tolkien]].
+
+*[[1983]]: ''[[The Fellowship of the Ring (board game)|The Fellowship of the Ring]]''
+*[[1984]]: ''[[The Battle of Five Armies (1984 board game)|The Battle of Five Armies]]''
+*[[1984]]: ''[[The Lonely Mountain]]''
+*[[1985]]: ''[[Riddle of the Ring]]''
+*[[1986]]: ''[[Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World]]
+*[[1991]]: ''[[Lord of the Rings Adventure Game (Boxed Set)]]''
+*[[1993]]: ''[[Middle-earth Role Playing (2nd edition, hardcover)|MERP: Middle-earth Role Playing (2nd edition)]]''
+*[[1994]]: ''[[The Hobbit Adventure Boardgame]]''
+
+==External links==
+* {{WP|Coleman Charlton}}
+
+{{references}}
+{{DEFAULTSORT:Charlton, Coleman}}
+[[Category:American people]]
+[[Category:MERP contributors]]
+[[Category:People by name]]

@@ -1,0 +1,30 @@
+{{VTbox
+| title=Vinyar Tengwar 42
+| image = Vinyar Tengwar 42.png
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=July [[2001]]
+| format=Paperback journal
+| pages=40
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 42''''' is the forty-second issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|41|43}}
+
+==Content==
+* Letters to ''VT''
+
+* "''[[The Rivers and Beacon-hills of Gondor]]''"✫ — J.R.R. Tolkien, ed. Carl F. Hostetter
+* "[[Negation in Quenya]]"✫ — Bill Welden
+* "Transitions in Translations: ''Upphaflega íslensk heiti''" (column) — Arden R. Smith
+
+<small>✫ contains formerly unpublished material</small>
+
+==External links==
+*[http://www.elvish.org/gwaith/vt_review.htm Review of ''Vinyar Tengwar'' 42] by [[Ryszard I. Derdziński]]
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 42}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 42]]

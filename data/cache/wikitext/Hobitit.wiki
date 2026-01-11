@@ -1,0 +1,90 @@
+{{film infobox
+| image = Hobitit - poster.jpg
+| caption = 
+| name=Hobitit
+| director=
+| producer=
+| writer=
+| narrator=
+| starring=''[[#Cast and characters|see below]]''
+| music=
+| cinematography=
+| editing=
+| distributor=
+| released=[[1993]]
+| runtime=
+| country=
+| language=
+| budget=
+| website=
+| imdb_id=0441925
+}}
+'''Hobitit''' (Finnish: '''Hobbits''') was a Finnish TV mini series based on ''[[The Lord of the Rings]]'' which aired in [[1993]] for 9 episodes on [[wikipedia:YLE|YLE]].
+
+The series was written and directed by Timo Torikka. Toni Edelmann composed the soundtrack.<ref>"Yle teettää oman sovituksen Taru sormusten herrasta-sadusta" ("Yle to produce its own version of the tale of ''The Lord of the Rings''"), dated 18 June 1991, in Helsingin Sanomat</ref> ''Hobitit'' featured nine episodes of 30 minutes runtime that were aired from 29 March to 24 May 1993. Filming locations included the ''Ryhmäteatteri'' theatre in Helsinki and Yle's production facilities.
+
+==Premise==
+{{blockquote|[[J.R.R. Tolkien|J. R. R. Tolkien's]] [[The Lord of the Rings]] told from the perspective of the [[hobbits]].|IMDb blurb<ref>{{webcite|author=IMDb|articleurl=https://www.imdb.com/title/tt0441925/|articlename=Hobitit (TV Mini Series 1993)|website=[https://www.imdb.com/ IMDb]|accessed=11 July 2023}}</ref>}}
+
+==Episodes==
+#Bilbo
+#Road ("Tie")
+#Old Forest ("Vanha metsä")
+#Prancing Pony ("Pomppiva poni")
+#Strider ("Konkari")
+#Lórien
+#Mordor
+#Mount Doom ("Tuomiovuori")
+#Liberation ("Vapautus")
+
+==Plot==
+The series follows the story of [[Frodo Baggins]] and [[Samwise Gamgee]] as they head for Mount Doom to destroy the [[One Ring]]. Most of the other story - the [[War of the Ring]] raging in [[Rohan]] and [[Gondor]] - has been omitted.
+
+==Cast and characters==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Role!!Actor
+|-
+|[[Samwise Gamgee|Sam]]||Pertti Edvin Sveholm
+|-
+|[[Frodo Baggins|Frodo]]||Taneli Mäkelä
+|-
+|[[Meriadoc Brandybuck|Merri]]||Jarmo Hyttinen
+|-
+|[[Peregrin Took|Pippin]]||Jari Pehkonen
+|-
+|[[Aragorn|Strider]]||Kari Kyösti Väänänen
+|-
+|[[Gandalf]]||Vesa Tapio Vierikko
+|-
+|[[Boromir]]||Carl-Kristian Rundman
+|-
+|[[Gollum]]||Kari Kyösti Väänänen
+|-
+|[[Bilbo Baggins|Bilbo]]||Martti Juhani Suosalo
+|-
+|[[Barliman Butterbur]]||Mikko Juhani Kivinen
+|-
+|[[Saruman]]||Matti Kalervo Pellonpää
+|-
+|[[Gimli]]||Tomi Salmela-Nikunen
+|-
+|[[Legolas]]||Ville Virtanen
+|-
+|[[Galadriel]]||Heidi Silja Krohn
+|-
+|[[Elrond]]||Leif Christian Wager
+|-
+|[[Tom Bombadil]]lo||Esko Ferdinand Hukkanen
+|}
+
+==External links==
+*[http://www.imdb.com/title/tt0441925/ Hobitit] at [http://www.imdb.com/ IMDb]
+*[http://fi.wikipedia.org/wiki/Hobitit_(televisiosarja) Finnish] and [[Wikipedia:Hobitit|English]] Wikipedia articles
+*[https://www.youtube.com/playlist?list=PL3ocuSNpUyox511pHCbDfF8FKKXQq5ONn ''Hobitit'' playlist] on YouTube
+
+{{References}}
+{{Screen}}
+[[Category:Television series]]
+[[de:Hobitit]]
+[[fi:Hobitit (1993)]]

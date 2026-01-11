@@ -1,0 +1,50 @@
+{{Mallorn
+| name=Mallorn 15
+| image = Mallorn15.jpg
+| editor=[[Susan Rule]]
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[September]] [[1980]]
+| format=A4 stapled paperback
+| pages=34
+| issn=0308-6674
+}}
+'''''Mallorn'' 15''' is the fifteenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1980]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: [[Susan Rule]]
+* ''Dwarvish Fragments''
+** By: [[Peter Roe]]
+* Earendil in Tirion
+** By: Lucy Matthews
+* Follow-On
+** By: Steve Pillinger
+* The ''Kalevala'' and ''[[The Silmarillion]]''
+** By: C. Tolley
+* ''River Daughter''
+** By: Sara Pickering
+* Review of ''Unfinished Tales'' by [[J.R.R. Tolkien]]
+** By: [[Susan Rule]]
+* Eleven is Company
+** By: Archie Mercer
+* ''For Saruman''
+** By: Tim Scratcherd
+* ''Word''
+** By: Gordon MacLellan
+* Isengard and Saruman
+** By: Peter Burley
+* 'Beruthiel'
+** By: Beverly Glielmi
+* ''Durin's Day''
+** By: Margaret Thomson
+
+* Inside Art
+** By:Lucy Matthews, Margaret Thomson, [[Wayne G. Hammond|Wayne Hammond]], Steve Pillinger
+
+{{mallornnav|14|16|url=http://journals.tolkiensociety.org/mallorn/issue/view/16/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 15}}
+[[Category:Mallorn (journal)]]

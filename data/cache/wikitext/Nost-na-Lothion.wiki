@@ -1,0 +1,20 @@
+{{events
+| image=Sara M. Morello - Fields of Gondolin.jpg
+| caption=''Fields of Gondolin'' by [[:Category:Images by Sara M. Morello|Sara M. Morello]]
+| event=Nost-na-Lothion
+| othernames=Birth of Flowers
+| location=[[Gondolin]]
+| date=
+| result=
+| partof=
+| participants=
+| description=
+| references=
+| gallery=
+}}
+'''Nost-na-Lothion''', or the '''Birth of Flowers''', was a festival held in [[Gondolin]] according to the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.
+
+It was celebrated during the early spring, with a "revelry of children". It was apparently held to celebrate the passing of winter, when the ice of the [[Encircling Mountains]] melted and [[Tumladin]] took the water and burst into flowers.<ref>{{LT2|III}}, pp. 171-172</ref>
+{{references}}
+[[Category:Festivals and feasts]]
+[[Category:Gnomish names]]

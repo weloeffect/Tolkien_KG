@@ -1,0 +1,29 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 26
+| image=
+| editor=
+| illustrator=
+| date=[[2009]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229644|articlename=Vol. 26, 2009|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 26''''' is the twenty-sixth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2009]].<ref name="jstor" />
+==Contents==
+*"Conversing with Dante: Relational Assent in Williams and MacDonald"
+**By: [[Kirstin Jeffrey Johnson]]
+*"Stoic Rationality and Divine Madness in ''Till We Have Faces''"
+**By: Dale Sullivan
+*"Vocation in Work: Dorothy L. Sayers and Economic Issues"
+**By: Christine M. Fletcher
+*"That Hideous Latin in ''That Hideous Strength''"
+**By: Amy E.K. Vail
+*"Dorothy L. Sayers Writings about Work, the Economy and Social Conditions: An Annotated Bibliography"
+**Christine M. Fletcher
+*"A Dialogue Concluded: 'Enjoyment' and 'Contemplation' as Used in Owen Barfield and C.S. Lewis's 'Great War'"
+**Norbert Feinendegen and Stephen Thorson<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|25|27}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 26}}
+
+[[Category:SEVEN]]

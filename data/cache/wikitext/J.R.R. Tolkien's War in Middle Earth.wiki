@@ -1,0 +1,33 @@
+{{video game infobox
+| image = War in Middle Earth - Cover art.jpg
+| name=''J.R.R. Tolkien's War in Middle-Earth''
+| developer=[[Synergistic Software, inc.]], [[Maelstrom Games Ltd.]]
+| publisher=[[Melbourne House]], [[Dro Soft]]
+| platform=[[Wikipedia:Amiga|Amiga]], [[Wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:Apple IIGS|Apple IIGS]], [[Wikipedia:Atari ST|Atari ST]], [[Wikipedia:Commodore 64|Commodore 64]], [[Wikipedia:MS-DOS|MS-DOS]], [[Wikipedia:MSX|MSX]], [[Wikipedia:Nintendo Entertainment System|NES]] (never released), [[wikipedia:ZX Spectrum|ZX Spectrum]]
+| releasedate=Fall [[1988]]
+| genre=Real-time strategy
+|}}
+'''''J.R.R. Tolkien's War in Middle-Earth''''' was a [[1988]] real-time strategy (RTS) video game developed and designed by [[Mike Singleton]], [[Robert Clandy]] and [[Alan B. Clark]]<ref>[http://www.mobygames.com/game/dos/jrr-tolkiens-war-in-middle-earth Moby Games] (retrieved 25 October 2024)</ref> by Australian company [[Melbourne House]]. It was released for 8 and 16-bit home computers.<ref name="Giantbomb">[http://www.giantbomb.com/jrr-tolkiens-war-in-middle-earth/61-19688/ GiantBomb] (retrieved 25 December 2024)</ref>
+
+==Gameplay==
+[[File:War in Middle Earth - Minas Tirith.gif|thumb|left|Background depicts [[Minas Tirith]]]]Gameplay was divided into three perspectives. The world map displayed the location of all important characters. The overhead view allowed players to issue commands to units. The zoomed view showed a selected area along with characters and units in side-view. Additionally, the game's speed could be adjusted from Normal, to "Hasty", to "Very Hasty".     
+
+Using a pop-up window, the player could pick specific characters or troops and order them to advance, fall back, or retreat. Though combat could be viewed in either the overhead or zoomed views, items could only be collected using the zoom view.    
+
+By default, the story of the game followed the plot of [[The Lord of the Rings|''The Lord of the Rings'']]. However, players were free to choose to disable the set path and chart their own way to [[Mordor]]. These departures were encouraged, as exploration could yield valuable items such as a ''[[Palantíri|palantir]]'' or the [[Sceptre of Annúminas|Staff of Annuminas]]. Player exploration, however, was limited by an ever-looming time constraint. If the player wandered for too long, [[Sauron]]'s armies would eventually besiege [[Minas Tirith]]. If the player had not acquired enough forces to repel the assault, the city would fall.    
+
+Victory was achieved in one of two ways. One way was to move whichever character held the [[The One Ring|One Ring]] to Mount Doom. This approach carried a great deal of risk because if the character holding the Ring was killed, the Ring returned to Sauron and the game ended. The other way was to carve a path through Mordor's forces and capture [[Barad-dûr]], which presented its own difficulties as Sauron's armies grew more formidable as you approached the Dark Tower.
+
+==Reception==
+''J.R.R. Tolkien's War in Middle Earth'' received mixed reviews. A 1989 ''Info Magazine'' review rated the game positively saying that it would "have a special place on the computer game shelf of J.R.R. Tolkien fans."<ref>Judith Killbury-Cobb, [https://archive.org/details/info-magazine-29/Info_Issue_29_1989_Nov_Dec/page/n65/mode/2up Info Magazine, November/December 1989, p.66]</ref> ''Computer Gaming'' world gave a more tepid 3/5 star review, stating that the game lacked compelling strategy and became stale and repetitive on replays.<ref>Chris Lombardi, "Mordor, They Rode!", ''Computer Gaming World'', no. 59 (May 1989), pp. 10–11</ref>{{References}}
+{{Videogames}}
+{{title|italics}}
+[[Category:Amstrad CPC games]]
+[[Category:Amiga games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Melbourne House games]]
+[[Category:Real-time strategy games]]
+[[Category:ZX Spectrum games]]
+[[fr:telechargements/jeux/war in middle-earth]]

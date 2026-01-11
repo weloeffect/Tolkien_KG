@@ -1,0 +1,89 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}{{video game infobox
+| name = The Lord of the Rings: Tactics
+| image = The Lord of the Rings - Tactics.jpg
+| developer = [[Electronic Arts]]
+| publisher = [[Electronic Arts]]
+| designer = 
+| engine = 
+| releasedate = NA: November 8, 2005
+| genre = Tactical role-playing game
+| modes = Single-player, Multiplayer
+| ratings = {{vgratings|ESRB=Teen}}
+| platform = PlayStation Portable
+| media = [[Universal Media Disc|UMD]]
+| input =
+}}'''The Lord of the Rings: Tactics''' is a tactics game for the Sony PlayStation Portable which is based on [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]], released on [[8 November|November 8]], [[2005]].
+
+== Gameplay ==
+The gameplay takes place on a grid. The game's characters move at the same time, rather than manipulating each entity individually.
+
+Another feature of the game is called the Zone of Control. The Zone of Control means that if the player's character is next to his opponent's square on the grid, they must stop and fight. By using the Zone of Control, combined with simultaneous movement, the player can trap an enemy unit.
+
+The player eventually gets to control a handful of heroes who progressively get more powerful.  These are combined with a number of warriors. The user may play as the Fellowship or the minions of [[Sauron]].
+
+==Official synopsis==
+A shadow is gathering above [[Middle-earth]]. The [[Third Age]] is drawing to a close, but its most dramatic and terrible chapter has yet to be played out. The board is set, the pieces are in motion. The question this time, however, is who will capture the [[The One Ring|Ring]]? 
+
+In ''The Lord of the Rings: Tactics'', exclusively for the PSP™ system, choose to join the [[Fellowship of the Ring|Fellowship]] in its quest to destroy The One Ring ... or the forces of [[Mordor]] in their final push to bring all of Middle-earth under [[Sauron]]'s merciless rule. The action draws from the entire film trilogy, beginning on [[Weathertop]] as the [[hobbits]], [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]], along with [[Aragorn]], encounter [[Nazgûl|Nazgul]] (sic) led by the [[Witch-king]]. From there, battle on cinematic landscapes across Middle-earth, from the Mines of [[Moria]] across the Plains of [[Rohan]], through the [[Westfold|West Fold]] (sic), along the Road to [[Isengard]], up to the [[Morannon|Black Gate]], and into the fiery heart of [[Mount Doom]] itself. 
+
+As you fight your way across open fields, through woodlands, and over mountains, you encounter many challenges. Whether you are fighting as [[Legolas]] in pursuit of a band of [[Uruk-hai]] or riding a [[Wargs|Warg]] into battle against the soldiers of Rohan, you must learn the strengths and weaknesses of your team as well as get the lay of the land. Learn to navigate the different terrains and use them to your advantage. Claim the high ground, avoid deep water, seek shelter behind ruins and rubble, ambush your enemy, and much more. There is no lack of brilliant strategic minds in the Fellowship or Mordor, so you must employ your best tactics if you are to claim The One Ring for good ... or evil ...
+
+== Reception ==
+''Lord of the Rings: Tactics'' is received 6.5 from Gamespot and 7.7 from IGN.<ref>[http://www.gamespot.com/psp/strategy/lordoftheringstactics/review.html?sid=6139601 ''Lord of the Rings: Tactics'' review] from GameSpot</ref><ref>[http://psp.ign.com/objects/664/664934.html Review] from IGN</ref>
+
+==Playable characters==
+===Protagonists===
+* [[Aragorn]]
+* [[Samwise Gamgee]]
+* [[Frodo Baggins]]
+* [[Gimli]]
+* [[Gandalf]] the Grey
+* Gandalf the White
+* [[Legolas]]
+* [[Gondor|Gondor Men]]
+* [[Ithilien|Ithil Men]]
+* [[Boromir]]
+* [[Rohirrim|Rohan Men]]
+* [[Éomer]]
+* [[Silvan Elves]]
+* [[Ent]]s
+* [[Elves of Mirkwood|Mirkwood Elves]]
+* [[Faramir]]
+* [[Dead Men of Dunharrow]]
+* [[Théoden]]
+
+===Antagonists===
+* [[Witch-king]] of [[Angmar]]
+* [[Mouth of Sauron]]
+* [[Lurtz]]
+* [[Orcs|Goblins]]
+* [[Balrogs|Balrog]]
+* [[Isengard]] [[Uruk-hai]]
+* [[Mordor]] [[Uruk-hai]]
+* [[Wargs]]
+* [[Saruman]]
+* [[Gríma|Gríma Wormtongue]]
+* [[Nazgûl|Ringwraiths]]
+* [[Sauron]]
+* [[Orcs]]
+* [[Easterlings]]
+* [[Olog-hai|Uruk Trolls]]
+* [[Hill Trolls]]
+* [[Haradrim]]
+* [[Mûmakil]]
+* [[Muzgash]]
+* [[Gothmog (Lieutenant of Morgul)|Gothmog]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.ea.com/official/lordoftherings/tactics/us/ Official website]
+* [http://www.gamespot.com/psp/strategy/lordoftheringstactics/review.html?sid=6139601 Review by Gamespot]
+{{Videogames}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Tactics}}
+[[Category:EA Games]]
+[[Category:PlayStation Portable games]]
+[[Category:Tactical role-playing video games]]

@@ -1,0 +1,142 @@
+{{Noble House infobox
+| name=House of Anárion
+| image = Gondor Heraldry.png
+| caption=
+| othernames=Royal House of Gondor<br />Southern Line of Gondor<br />''Anárioni'' ([[Quenya|Q]])
+| founder= [[Anárion]], second son of [[Elendil]]
+| leader=[[King of Gondor]]
+| location=[[Gondor]]
+| affiliation=[[House of Elendil]], [[Last Alliance of Elves and Men]], [[Host of the West (Arnor)|Host of the West]]
+| rivalry=
+| destroyed={{TA|2050}}
+| language=[[Númenórean Sindarin]], [[Westron]], [[Quenya]]
+| members=[[Hyarmendacil I]], [[Eldacar (King of Gondor)|Eldacar]], [[Eärnur]], [[Fíriel]]
+| race=Initially [[Númenóreans|Númenórean]]; after [[Meneldil]], [[Dúnedain of Gondor]]
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+| heirlooms=[[Crown of Gondor]]
+| gallery=the House of Anárion
+}}
+The '''House of Anárion''' was the extended house of the nobles and royalty of [[Gondor]], descended from its first [[Kings of Gondor|Kings]]. 
+
+==History==
+The house included the Kings of Gondor and their heirs, of course, but also their siblings and their descendants. On several occasions, the direct line of descent failed in Gondor, and other members of the house were called on to take up the Kingship. Most notable among these was [[Meneldil]] himself, the first King to rule Gondor in his own right, who took up the throne on the death of his uncle [[Isildur]].
+
+There are examples of members of the Royal House being granted important military roles. For example, the great [[Gondorians|Gondorian]] general [[Eärnil II|Eärnil]] was a member of the Royal House, being a descendant of [[Telumehtar]], great-grandfather to the reigning King [[Ondoher]]. Indeed, when Ondoher and his heirs were lost, [[Eärnil II|Eärnil]] eventually succeeded to the Kingship himself.
+
+One important political role, however, was closed to members of the Royal House: that of Steward. When [[Rómendacil I]] created the Stewardship, he specified that no member of the House should ever take the role. The descendants of the [[House of Húrin]], who would eventually take on the hereditary Stewardship of the realm, were noted as being of high [[Númenóreans|Númenórean]] blood (they had some share in the actual blood of Elendil and Anarion, and so were ultimately of royal origin<ref>J.R.R. Tolkien, Christopher Tolkien (ed.), The Peoples of Middle-earth, "VII. The Heirs of Elendil"</ref>), but they were not members of the Royal House itself.
+
+At the last years of the Kingship, royal descendants of pure Númenórean blood had become few; several of the last Kings were childless and heirs were chosen from the House, until the death of [[Eärnur]]; no claimant for the throne could be found or whose claim all would accept, and people were afraid of a new [[Kin-strife]] that would devastate the kingdom.<ref name="Gondor">{{App|Gondor}}</ref>
+
+When [[Denethor|Denethor II]] was about to immolate himself upon a pyre, he proudly told [[Gandalf]] that he was a "Steward of the House of Anárion".  By using this name for the head of the royal house of Gondor he was rejecting [[Aragorn]] as a new king, calling the line of [[Isildur]] a "ragged house long bereft of lordship and dignity".<ref>{{RK|V7}}</ref>
+
+==Genealogy==
+Showing the descendants of Anárion.  All information in the tree is from ''[[The Lord of the Rings]]'', Appendix A, "The Southern Line Heirs of Anárion",<ref name="South">{{App|South}}</ref> or "Gondor and the Heirs of Anárion",<ref name="Gondor"/> or  ''[[The Peoples of Middle-Earth]]'', The Heirs of Elendil<ref name="Elendil">{{PM|Elendil}}</ref> unless otherwise specified.  The figures after the names are those of birth and death where recorded (when only one figure is shown it is marked as either the date of birth, 'b.', or the date of death, 'd.').  A dagger symbol, '†' signifies those who did not die of old age.  A name preceded by '*' indicates one of the Kings of Gondor.  A vertical dashed line indicates a line of descent with some members missing.
+
+===Beginnings===
+Near the end of the [[Second Age]] the High King of the exiled [[Númenóreans]] was [[Elendil]], whose sons [[Isildur]] and Anárion jointly ruled the realm of Gondor.  Elendil and Anárion died in the War of the [[Last Alliance of Elves and Men]] and Isildur died soon thereafter in the [[Disaster of the Gladden Fields]], which left the crown of Gondor in the hands of Anárion’s son Meneldil.  From this first sole King of Gondor came the House of Anárion, the royal house of Gondor.
+{{familytree/start}}
+{{familytree |boxstyle=white-space:nowrap;| | | |ELE| | | | | |ELE=* [[Elendil]]<br /><small>''SA 3119-3441'' †</small><br/><ref group="note1">Elendil and [[Gil-Galad]] died when they fought and cast down [[Sauron]] during the [[Siege of Barad-dûr]].</ref>}}
+{{familytree | |,|-|-|^|-|-|.| | | |}}
+{{familytree |boxstyle=white-space:nowrap;|ISI| | | |ANA| | |ISI=* [[Isildur]]<br /><small>''SA 3209-TA 2'' †</small><br/><ref group="note1">Isildur was slain at the [[Disaster of the Gladden Fields]].</ref>|ANA=* [[Anárion]]<br /><small>''SA 3219-3440 †''</small><br/><ref group="note1">Anárion was slain before [[Barad-dûr]].</ref>}}
+{{familytree | |!| | | |,|-|^|-|.| |}}
+{{familytree |boxstyle=white-space:;|HOI| |TOS| |MEN|HOI=''[[House of Isildur]] ''|TOS=Three older<br/>siblings<br/><ref group="note1">It is said that Meneldil was Anárion's fourth child; the other three were not named.</ref>|MEN=* [[Meneldil]]<br /><small>''SA 3318-TA 158''</small><br/><ref group="note1">Meneldil was the last man born in [[Númenor]].</ref>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |CEM|CEM=* [[Cemendur (King of Gondor)|Cemendur]]<br/><small>''SA 3399-TA 238''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |EAR|EAR=* [[Eärendil (King of Gondor)|Eärendil]]<br/><small>''TA 48-324''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |ANR|ANR=* [[Anardil (King of Gondor)|Anardil]]<br/><small>''136-411''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |OST|OST=* [[Ostoher]]<br/><small>''222-492''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |TAR|TAR=* Tarostar<br/>[[Rómendacil I]]<br/><small>''310-541'' †</small><br/><ref group="note1">Tarostar Rómendacil I was slain fighting fresh hordes of [[Easterlings]].</ref>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |TUR|TUR=* [[Turambar (King of Gondor)|Turambar]]<br/><small>''397-667''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |ATA|ATA=* [[Atanatar I]]<br/><small>''480-748''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |SIR|SIR=* [[Siriondil (King of Gondor)|Siriondil]]<br/><small>''570-830''</small>}}
+{{familytree/end}}
+====Beginnings notes====
+<references group="note1"/>
+
+===Ship-Kings and the Noontide of Gondor===
+After King Siriondil came the four [[Ship-kings]] of Gondor who extended the realm along the coasts and conquered the [[Umbar|Haven of Umbar]].  Atanatar II, the ruler who followed these kings, enjoyed the splendor of Gondor at the height of its power.
+{{familytree/start}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |SIR| | |SIR=* Siriondil}}
+{{familytree | | | | | |,|-|^|-|.| |}}
+{{familytree |boxstyle=white-space:nowrap;|BER|~|FAL| |TCY|BER=[[Berúthiel]]<br/><ref group="note2">Berúthiel, Tarannon's loveless queen, was eventually put on a boat and sent into exile.  She and Tarannon had no children.</ref>|FAL=Tarannon<br/>* [[Tarannon Falastur|Falastur]]<br/><small>''654-913''</small>|TCY=[[Tarciryan]]}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |ERN|ERN=* [[Eärnil I]]<br/><small>''736-936'' †</small><br/><ref group="note2">Eärnil I drowned with many men and ships in a great storm off the haven of Umbar.</ref>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |CIR|CIR=* [[Ciryandil]]<br/><small>''820-1015'' †</small><br/><ref group="note2">Ciryandil was slain while besieging the haven of Umbar.</ref>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |HYA|HYA=Ciryaher<br/>* [[Hyarmendacil I]]<br/><small>''899-1149''</small>}}
+{{familytree | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |ATA|ATA=* [[Atanatar II]]<br/>[[Alcarin]]<br/><small>''977-1226''</small>}}
+{{familytree/end}}
+====Noontide notes====
+<references group="note2"/>
+
+===Era of the Kin-strife===
+After Atanatar II the attention of Gondor shifted to the north and east.  Concerned about the loyalties of the [[Northmen]] and dismayed by the [[Easterlings]], Minalcar led an army to the east to remove the Easterling threat. His son Valacar served as an ambassador to Vidugavia and unexpectedly wed his daughter. From this union developed the [[Kin-strife]], the first great evil to befall Gondor.
+{{familytree/start}}
+{{familytree |boxstyle=white-space:nowrap;| | | | |ATA| | | | | | | | |ATA=* Atanatar II}}
+{{familytree | | | |,|-|^|-|.| | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | |NAR| |CMC| | | | | | |NAR=* [[Narmacil I]]<br/><small>''1049-1294''</small><br/><ref group="note3">Narmacil I died childless.</ref>|CMC=* [[Calmacil (King of Gondor)|Calmacil]]<br/><small>''1058-1304''</small>}}
+{{familytree | | | | | |,|-|^|-|-|-|.| | | |}}
+{{familytree |boxstyle=white-space:nowrap;|VID| |MIN| | | |CLM| | |VID=[[Vidugavia]]|MIN=Minalcar<br/>* [[Rómendacil II]]<br/><small>''1126-1366''</small>|CLM=[[Calimehtar (son of Calmacil)|Calimehtar]]}}
+{{familytree | |!| | | |!| | | | | |:| | | |}}
+{{familytree |boxstyle=white-space:nowrap;|VUM|y|VLC| | | | |:| | | |VUM=[[Vidumavi]]<br/><small>''d. 1332''</small>|VLC=* [[Valacar]]<br/><small>''1194-1432''</small>}}
+{{familytree | | | |!| | | | | | | |:| | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | |ELD| | | | | |CAS| | |ELD=Vinitharya<br/>* [[Eldacar (King of Gondor)|Eldacar]]<br/><small>''1255-1490''</small><br/><ref group="note3">Eldacar was disposed by Castamir the Usurper in 1437.  He regained the throne in 1447.</ref>|CAS=* [[Castamir]]<br/>the Usurper<br/><small>''1259-1447''</small> †<br/></small> <ref group="note3">Castamir seized the throne in 1437 but was slain in battle by Eldacar in 1447.</ref>}}
+{{familytree | |,|-|^|-|.| | | | | |!| | | |}}
+{{familytree |boxstyle=white-space:nowrap;|ORN| |ALD| | | |SNS| | |ORN=[[Ornendil]]<br/><small>''d. 1437'' †</small><br/><ref group="note3">Ornendil was put to death by Castamir when [[Osgiliath]] was taken during the Kin-strife.</ref>|ALD=* [[Aldamir]]<br/><small>''1330-1540'' †</small><br/><ref group="note3">Aldamir fell in battle with rebelling kings of [[Harad]] allied with the rebels of Umbar.</ref>|SNS=Sons<br/><ref group="note3">Castamir's sons escaped from Eldacar, first holding out in [[Pelargir]] and then removing to Umbar.</ref>}}
+{{familytree | | | | | |!| | | | | |:| | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | |VYR| | | | |:| | | |VYR=Vinyarion<br/>* [[Hyarmendacil II]]<br/><small>''1391-1621''</small>}}
+{{familytree | | | | | |!| | | |F|~|A|~|7| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | |MND| |ANG| |SAN|MND=* [[Minardil]]<br/><small>''1454-1634'' †</small><br/><ref group="note3">Minardil was killed by a raid on Pelargir staged by Angamaitë and Sangahyando, leaders of the [[Corsairs of Umbar]] and great-grandsons of Castamir.</ref>|ANG=[[Angamaitë]]|SAN=[[Sangahyando]]}}
+{{familytree/end}}
+
+====Kin-strife Era notes====
+<references group="note3"/>
+
+===End of the House===
+The second great evil to befall Gondor was the [[Great Plague]].  The realm had not yet recovered when the third evil struck, renewed attacks from the East in the form of the [[Wainriders]].  These people nearly killed off the line of kings, and weakened the line so that the [[Witch-king]] could deliver the final blow.  After the death of King Eärnur the rule of Gondor would fall upon the [[Ruling Steward]]s of the [[House of Húrin]].
+{{familytree/start}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |MIN| | | | | | | | | | | | | | |MIN=* Minardil}}
+{{familytree | | | | | |,|-|^|-|.| | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | |TLM| |MNS| | | | | | | | | | | | |TLM=* [[Telemnar]]<br/><small>''1516-1636'' †</small><br/><ref group="note4">Telemnar and all his children died in the Great Plague.</ref>|MNS=[[Minastan]]}}
+{{familytree | | | | | |!| | | |!| | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | |CHL| |TRD| | | | | | | | | | | | |CHL=Children<br/><small>''d. 1636'' †</small>|TRD=* [[Tarondor (King of Gondor)|Tarondor]]<br/><small>''1577-1798''</small>}}
+{{familytree | | | | | | | | | |!| | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |TUT| | | | | | | | | | | | |TUT=* [[Telumehtar Umbardacil|Telumehtar]]<br/>Umbardacil<br/><small>''1632-1850''</small>}}
+{{familytree | | | | | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|.| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |NMC| | | | | | | | | |ARC|NMC=* [[Narmacil II]]<br/><small>''1684-1856'' †</small><br/><ref group="note4">Narmacil II was killed in battle against the Wainriders north-east of the [[Morannon]].</ref>|ARC=[[Arciryas]]}}
+{{familytree | | | | | | | | | |!| | | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |CET| | | | | | | | | |CCL|CET=* [[Calimehtar (King of Gondor)|Calimehtar]]<br/><small>''1736-1936''</small>|CCL=[[Calimmacil]]}}
+{{familytree | | | | | | | | | |)|-|-|-|-|-|-|-|.| | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |OND| |HOI| |DTR| |SIR|OND=* [[Ondoher]]<br/><small>''1787-1944'' †</small><br/><ref group="note4">Ondoher perished in renewed war against the Wainriders.</ref>|HOI=''House of<br/>Isildur''|DTR=Daughter|SIR=[[Siriondil (son of Calimmacil)|Siriondil]]}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| | | |!| | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;|ART| |FAR| |FIR|y|ARV| |MNT| |ERL|ART=[[Artamir]]<br/><small>''d. 1944'' †</small><br/><ref group="note4">Artamir died by his father's side in battle against the Wainriders.</ref>|FAR=[[Faramir (son of Ondoher)|Faramir]]<br/><small>''d. 1944'' †</small><br/><ref group="note4">Faramir disguised himself to join his father's army in the fight against the Wainriders and died while riding with a party of the [[Éothéod]] near the [[Dead Marshes]].</ref>|FIR=[[Fíriel]]<br/><small>''b. 1896'' †</small>|ARV=[[Arvedui]]|MNT=[[Minohtar]]<br/><small>''d. 1944'' †</small><br/><ref group="note4">Minohtar was slain by an arrow as the Wainriders poured into Ithilien after their victory over King Ondoher.</ref>|ERL=* [[Eärnil II]]<br/><small>''1883-2043''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:;| | | | | | | | | | |CHF| | | | | | | |ERR|CHF=''[[Chieftains of the Dúnedain|Chieftains]] of<br/>the [[Dúnedain]]<br/>of the North''|ERR=* [[Eärnur]]<br/><small>''1928-2050'' †</small><br/><ref group="note4">Eärnur rode with a small escort of knights to [[Minas Morgul]] to meet the challenge of the [[Witch-king]].  He and his party were never heard from again.</ref>}}
+{{familytree/end}}</div>
+
+====End of the Line notes====
+<references group="note4"/>
+
+==Other names==
+It was also known as the '''Southern Line of Gondor''' or the '''''Anárioni'''''.<ref>{{PM|VII}}, p. 196</ref>
+
+==Portrayal in adaptations==
+'''[[2003]]: ''[[The Lord of the Rings: The Return of the King]]''''':
+:In the [[The Lord of the Rings: The Return of the King (extended edition)|extended cut]] of the film, [[Denethor]] says the line "I am steward of the House of Anárion. [Instead of [[House of Húrin]].] Thus have I walked; and thus now will I sleep." 
+{{References}}
+[[Category:House of Anárion| ]]
+[[Category:Mannish noble houses|Anarion]]

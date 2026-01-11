@@ -1,0 +1,40 @@
+{{Song
+| title = The Legend of the Master-Ring
+| album = [[Minas Morgul (album)|Minas Morgul]]
+| image = Summoning Minas Morgul.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 5:27
+| track = 10
+| spotify = https://open.spotify.com/track/2BFvQGlZZeKra3GCRi76oK
+| writer = Summoning
+| previous = [[Through the Forest of Dol Guldur]]
+| next = [[Dor Daedeloth (song)|Dor Daedeloth]]
+}}'''''The Legend of the Master-Ring''''' is the tenth track of the album [[Minas Morgul (album)|Minas Morgul]] by the band [[Summoning]]. The song name is taken from the [[The One Ring|One Ring]]. The lyrics are directly taken from the [[Ring Verse]].<ref>{{FR|Shadow}}</ref>
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+Three rings to elven kings
+Under the sky, seven for the dwarf lords
+in halls of stone
+Nine for mortal men
+doomed to die
+One for the Dark Lord
+on his dark throne
+
+In the land
+Of Mordor where the shadows lie
+One Ring to rule them all
+One Ring to find them
+One Ring to bring them all
+And in darkness bind them
+In the land of Mordor
+where shadows lie
+
+One Ring to bring them all
+And in darkness bind them
+In the land
+of Mordor
+where the shadows lie
+</poem>{{References}}
+[[Category:Songs by Summoning]]

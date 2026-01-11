@@ -1,0 +1,37 @@
+{{actor
+| image = Viggo Mortensen.jpg
+| name=Viggo Mortensen
+| lifetime=[[20 October|October 20]], [[1958]]
+| played=[[Aragorn|Aragorn II]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2=
+| film2=
+| imdb=[http://www.imdb.com/name/nm0001557/ Profile]
+}}
+American actor '''Viggo Peter Mortensen, Jr.''' (born 1958) played [[Aragorn]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]]. He was a last-minute replacement for [[Stuart Townsend]], as director [[Peter Jackson]] did not believe Townsend looked old enough to play the part convincingly. Mortensen was considering turning down the part, but his son, who loved the books, encouraged him to take the role. His son, Henry Mortenson, also appears as a child of Rohan in [[The Lord of the Rings: The Two Towers|The Two Towers]] and as a soldier extra in [[The Lord of the Rings: The Return of the King|The Return of the King]].
+
+==Quotes==
+{{quote|There were plenty of reasons not to go. I didn't feel I could do a good job and I didn't want to be away from my son for that length of time. But my son was familiar with the books, he talked about them with his school friends and he knew about the character of Aragorn. He said, 'Oh, that's pretty cool. You should try that.|Viggo Mortensen, Empire Magazine Australia}}
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+==Bibliography, selected==
+===Articles===
+*[[2002]]: ''[[The Lord of the Rings: The Two Towers Visual Companion]]''
+** "Foreword"
+
+== External links ==
+* {{WP|Viggo Mortensen}}
+* [http://www.imdb.com/name/nm0001557/ Viggo Mortensen] at IMDb
+
+{{DEFAULTSORT:Mortensen, Viggo}}
+[[Category:Actors and actresses]]
+[[Category:American people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]

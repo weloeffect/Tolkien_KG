@@ -1,0 +1,46 @@
+{{mythlore
+|title=Mythlore 14
+| image = Mythlore_14.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=December [[1976]]
+|format=Paperback
+|pages=39
+}}
+
+'''''Mythlore'' 14''' ([https://dc.swosu.edu/mythlore/vol4/iss2/ Volume 4, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents ==
+
+====Articles====
+
+* Gottlieb, Stephen A. “A Reading of Williams’ Arthurian Cycle.” 3-6.
+* Patterson, Nancy-Lou. “Narnia and the North: The Symbolism of Northernness in the Fantasies of C.S. Lewis.” 9-16.
+* Green, William H. “The Ring at the Centre: Eaca in ''The Lord of the Rings''.” 17-19.
+
+====Features====
+
+* Patterson, Nancy-Lou. “Paint and Spirit Revisited.” Review of ''The 1977 Tolkien Calendar'' by Greg and Tim Hildebrandt and ''The Lord of the Rings 1977 Calendar'' by J.R.R. Tolkien. 22.
+* Christopher, Joe R. “Lord Peter Peruses a Mystery Novel.” Review of ''Adventure, Mystery, and Romance: Formula Stories as Art and Popular Culture'' by John G. Cawelti and ''Encyclopedia of Mystery and Detection'' edited by Chris Steinbrunner and Otto Penzler. 22-24.
+* Kreig, Martha and Laurence. “The Father Christmas Letters.” Review of ''The Father Christmas Letters'' by J.R.R. Tolkien. 24-25.
+* Colvin, George. “Success and Something Less.” Review of ''The Middle-earth Songbook'' edited by Ruth Berman and Ken Nahigian, ''From Elfland to Poughkeepsie'' by Ursula K. Le Guin, and ''Camber of Culdi'' by Katherine Kurtz. 25-27.
+* Letters. 27+.
+* Christopher, Joe R. “An Inklings’ Bibliography (3).” 33.
+
+====Art====
+
+* Stuart Gilson: 19
+* Bonnie GoodKnight: cover, 2; Photographs: 20, 21, 39
+* Annette Harper: 32
+* Michael Kucharski: 4
+* Barbara Mann: 26, 27, 28, 30, 31
+* Valerie Protopaps: 11, 13, 14
+* Christine Smith: 8
+* Karen Yungkurth: 16
+* Cover: Bonnie GoodKnight, a scene from the poem “Imram” by J.R.R. Tolkien (printed in ''Time and Tide'', December 3, 1955), where the voyagers see the erupting volcano, with the probable ruins of Numenor beneath the waves. The six insets are (from top left, clockwise): 1. St. Brendan, 2. The voyagers’ ship sailing beyond the circle of the world to the Land of Promise, 3. The beach of the Land of Promise, covered with glittering jewels, 4. The man in white who informs the monks that the island is prepared by God as a refuge for his Saints in time of persecution, 5. The flowers of Paradise whose sweet odor is “keen as death,” 6. The White Tree of Paradise, which is the central vision of the poem.
+* Back Cover: Sylvia Aruffo Smith, a scene mentioned on page 12 of this issue, the making of breakfast for Shasta by the dwarves Duffle and Bricklethumb
+{{mythlorenav|13|15}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 014}}
+[[Category:Mythlore]]

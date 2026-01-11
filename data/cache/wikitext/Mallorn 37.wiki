@@ -1,0 +1,40 @@
+{{Mallorn
+| name=Mallorn 37
+| image = Mallorn37.jpg
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=
+| date=December [[1999]]
+| format=A4 stapled paperback, glossy
+| pages=42
+| issn=0308-6674
+}}
+'''''Mallorn'' 37''' is the thirty-seventh issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in December [[1999]].
+
+==Contents==
+* Cover Art
+** By: [[Pauline Baynes]]
+* About the authors
+* '''Editorial'''
+** By: Len Sanford
+* Tolkien and the Counties of England
+** By: [[David Bratman]]
+* Music Review - "Edda" myths from medieval Iceland
+** By: [[John Ellison]]
+* Tom Bombadil's Biblical Connections
+** By: Ron Pirson
+* Book Review - ''[[Tolkien: Man and Myth|Tolkien: Man and Myth. A Literary Life]]''
+** By: [[Michael George Tolkien|Michael Tolkien]]
+* The History of Middle-earth: from Mythology for England to a Recovery of the Real Earth
+** By: Christopher Garbowski
+* The Virtual History of Middle-earth
+** By: [[John Ellison]]
+* The Invisible Shire
+** By: [[Ruth Lacon]]
+* Letters
+* Artwork
+** By: [[John Ellison]], [[Kay Woollard]], Sue Large
+{{mallornnav|36|38}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 37}}
+[[Category:Mallorn (journal)]]

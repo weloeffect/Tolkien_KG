@@ -1,0 +1,66 @@
+{{stub}}{{film infobox
+| image=
+| name=The Legend of Gurthang
+| director=Jared Belt
+| producer=Jared Belt
+| writer=Jared Belt
+| narrator= 
+| starring=Tyler Voss, Chris Sapp, Jared Belt, Duran Smith
+| music=Austin Wippich
+| cinematography=Ryan Printz
+| editing=Jared Belt
+| studio=Jared Belt Films
+| distributor=Jared Belt Films
+| released=
+| runtime=12 minutes
+| country=
+| language=[[Modern English|English]]
+| budget=
+| website=[https://www.jaredbeltfilms.com/the-legend-of-gurthang.html Official website]
+| imdb_id=
+}}
+
+'''''The Legend of Gurthang''''' is a [[:Category:Fan films|fan film]] directed, written, and produced by Jared Belt. It was released online.
+
+==Plot==
+From the official website:
+<blockquote>​"The Legend of Gurthang" is an original story set in [[J.R.R. Tolkien|Tolkien's]] Middle Earth, inspired by and loosely based on [[The Children of Hurin]], by J.R.R. Tolkien and [[Christopher Tolkien]].
+
+Set in the [[Second Age]] at the height of the [[War of the Last Alliance]], this story follows a man from the kingdom of [[Arnor]], on his lone mission to the far island of [[Tol Morwen]], to find and retrieve [[Gurthang]], a legendary sword of great power once owned by Turin, son of Hurin.</blockquote>
+
+==Production==
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Men of Arnor|The Man from Arnor]] || Tyler Voss
+|-
+| [[Beleg|Beleg Cuthalion]] || Chris Sapp
+|-
+| [[Túrin|Turin Turambar]] || Jared Belt
+|-
+| [[Gurthang|The Voice of Gurthang]] || Duran Smith
+|}
+
+==Crew==
+* Director: Jared Belt
+* Writer: Jared Belt
+* Ryan Printz
+* Ekaterina Makarova
+* Austin Wippich
+* Robert Carlson
+* Debbie Belt
+* Jim Belt
+* Lauren Belt
+* Biola University
+
+==Reception==
+
+==External links==
+* [https://www.jaredbeltfilms.com/the-legend-of-gurthang.html Official website]
+
+{{Fan films}}
+{{title|italics}}
+[[Category:Fan films|Legend of Gurthang]]

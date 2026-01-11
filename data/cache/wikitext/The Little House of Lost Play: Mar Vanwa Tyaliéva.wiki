@@ -1,0 +1,47 @@
+{{Poem infobox
+| title=The Little House of Lost Play: Mar Vanwa Tyaliéva
+| other names=''You and Me / and the Cottage of Lost Play'',<br>''Pæt húsincel ǽrran gamenes'',<br>''The Cottage of Lost Play: Mar Vanwa Tyaliéva'',<br>''The House of Lost Play; Mar Vanwa Tyaliéva'',<br>''Mar Vanwa Tyaliéva, The Cottage of Lost Play''
+| written=[[27 April]] and [[28 April]] of [[1915]]
+| revised=Late [[1961]] or early [[1962]]
+| published=''[[The Book of Lost Tales Part One]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Mar Vanwa Tyaliéva]]
+}}
+
+'''''The Little House of Lost Play: Mar Vanwa Tyaliéva''''' is the name of a poem written by [[J.R.R. Tolkien]] about the [[Cottage of Lost Play]].<ref name=cottage>{{LT1|In}}, pp. 27-32</ref>
+
+==First stanza==
+<poem style="font-style:italic; margin-left:20px;">
+:We knew that land once, [[Edith Tolkien|You]] and [[J.R.R. Tolkien|I]],
+::and once we wandered there
+:in the long days now long gone by,
+::a dark child and a fair.
+:Was it on the paths of firelight thought
+::in winter cold and white,
+:or in the blue-spun twilit hours
+:of little early tucked-up beds
+::in drowsy summer night,
+:that you and I in [[Olórë Mallë|Sleep]] went down
+::to meet each other there,
+:your dark hair on your white nightgown
+::and mine was tangled fair?<ref name=cottage></ref>{{rp|30-31}}
+</poem>
+
+==Background==
+On [[27 April]] and [[28 April]] of [[1915]], Tolkien wrote the first version of the poem in his undergraduate lodgings at the [[University of Oxford]]. It was originally named '''''You and Me / and the Cottage of Lost Play''''' with an alternative name, '''''Pæt húsincel ǽrran gamenes''''' or '''''Þæt Húsincel Ǽrran Ȝamenes'''''<ref name=collectedpoems>{{CP|28}}</ref>, meaning "The Small House of Former Play"<ref name=collectedpoems/> in [[Old English]].<ref name=cottage/>
+
+On [[1 May]], Tolkien wrote a letter to [[Edith Tolkien|Edith Bratt]] that mentioned a previous version of the poem which did not survive "because it was too intimate for anyone but" her to read. Tolkien's statement in the letter implies that "the ‘You’ of the poem" is Edith.<ref name=collectedpoems/>
+
+Tolkien eventually changed the name of the poem to '''''Mar Vanwa Tyaliéva, The Cottage of Lost Play''''' in a subsequent revision. Around late [[1961]] or early [[1962]],<ref name=collectedpoems/> Tolkien made a final revision of the poem, in which he changed the name to ''The Little House of Lost Play: Mar Vanwa Tyaliéva''.<ref name=cottage/>
+
+The first and last of the several versions were published for the first time in ''[[The Book of Lost Tales Part One]]''.<ref name=cottage/>
+
+While [[Christopher Tolkien]] stated that the idea about children travelling to a garden in [[Valinor]] in their sleep was abandoned,<ref name=cottage/> [[Wayne G. Hammond]] and [[Christina Scull]] pointed out in ''[[The J.R.R. Tolkien Companion and Guide]]'' that the idea within the poem is similar to "the garden of the [[Man-in-the-Moon]]" in the novella ''[[Roverandom]]'', which Tolkien began to write in [[1925]] and [[1927]]<ref name=collectedpoems/>.<ref name=guide>{{CG|2|2RGI}}, entry "''The Little House of Lost Play: Mar Vanwa Tyaliéva''"</ref>
+
+==External links==
+*{{webcite|author=[[Colin Rudd]]|articleurl=http://www.youtube.com/watch?v=ZrozNYjAAeM|articlename=colin rudd - cottage of lost play|dated=8 May 2007|website=YT|accessed=}}
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Book of Lost Tales]]

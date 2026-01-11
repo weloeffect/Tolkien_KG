@@ -1,0 +1,12 @@
+{{letter infobox
+ |#=3
+ |to=[[Edith Bratt]]
+ |date=[[26 November]] [[1915]]
+ |subject=[[World War I]]<br />''[[The Trees of Kortirion|Kortirion among the Trees]]''
+}}{{letter|3}}
+==Summary==
+This letter was sent from Rugeley Camp in Staffordshire. Tolkien was in military training there, and wrote ''[[The Trees of Kortirion|Kortirion among the Trees]]''. He told about the cold weather and about sending [[T.C.B.S.]] a copy of ''Kortirion''.  He decided to send Edith his neat pencil copy and make the T.C.B.S. wait until he could make another.
+{{letters}}
+[[de:Brief 3]]
+{{DEFAULTSORT:Letter 003}}
+[[Category:Letters to Edith Tolkien]]

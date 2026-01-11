@@ -1,0 +1,26 @@
+{{disambig-more|Host of the West|[[Host of the West (disambiguation)]]}}
+{{organization infobox| name=Host of the West (Arnor)| image=| caption=| pronun=| othernames=| founded=c. {{TA|1973}}| founder=[[Cirdan]] and [[Eärnur]]| purpose=To save the [[North-kingdom]]| members=[[Men of Arnor]], [[Gondorians]], [[Northmen]], [[Elves of Lindon]], and possibly [[Shire-hobbits]]<ref name=gondor>{{App|Gondor}}</ref>| location=The Host was drawn from all parts of the [[Westlands]]| disbanded={{TA|1975}}| notablefor=Defeating [[Angmar]] and the [[Witch-King]]}}
+
+The '''Host of the West''' was a combined allied force of [[Elves]], [[Men]], and possibly [[Hobbits]] during the [[Angmar conflict]].
+ 
+==Formation==
+The host composed of a vast army from [[Gondor]] (actually just a small force compared to the full might of [[Gondor]])<ref name=gondor/> that arrived in a massive fleet, which hardly could find harborage, for its might filled [[Forlond]], [[Harlond (Lindon)|Harlond]], and the [[Grey Havens]].<ref name=gondor/>
+
+The [[Northmen]], proud princes of [[Rhovanion]]; riders tall and fair came with beautiful [[horses]] from the [[Vales of Anduin]] that gathered most praise when they arrived at [[Mithlond]].<ref name=gondor/>
+
+[[Círdan]], Master of the [[Grey Havens]], summoned all who would fight from the [[Elves of Lindon]], as well as the remnants of the [[Men of Arnor]].<ref name=gondor/> Among the forces of former [[Arthedain]] it is said that there were some [[Hobbits]] from [[the Shire]].<ref name=gondor/>
+
+==History==
+In {{TA|1973}}, [[Arthedain]] was in danger and King [[Eärnil II]] sent his son Prince [[Eärnur]] and a massive fleet to their aid. After [[Arnor]] [[fall of Fornost|fell]] to [[Angmar]], Prince [[Eärnur]], in his capacity as [[Captain of Gondor]], reached belatedly [[Lindon]] with his fleet to the aid of Arthedain.
+
+Although it was too late, the fleet and the host it brought, seemed so massive, that there was much joy and wonder among [[Elves]] and [[Men]].<ref name=gondor/> The allied host, led by [[Círdan]] and [[Eärnur]], marched east across the river [[Lune]] to [[Fornost]] to challenge the [[Witch-king]], while the main body of the Host's horsemen, was to pass around the hills to surprise [[Fornost]] from the north. The [[Witch-king]] was crushed at the [[Battle of Fornost]] ({{TA|1975}}).
+
+After the main part of the battle, the Host was joined by a force of [[Elves]] from [[Rivendell]] led by [[Glorfindel]], who chased the [[Witch-king]].<ref name=gondor/>
+
+==See also==
+*[[Battle of Fornost]]
+{{title}}
+{{references}}
+[[Category:Armies]]
+[[Category:Arnor]]
+[[Category:Gondor]]

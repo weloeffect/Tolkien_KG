@@ -1,0 +1,62 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 39
+| image=
+| editor=
+| illustrator=
+| date=[[2023]]<ref name="vii">{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/issue/view/140|articlename=Volume 39 (2023)|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=14 August 2025}}</ref>
+| format=Paperback journal
+| pages=
+}}
+'''''SEVEN 39''''' is the thirty-ninth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2023]].<ref name="vii" />
+==Contents==
+*Remembrances
+**"Rolland Hein"
+***By: Daniel Gabelman
+**"Rosamund Kent Sprague"
+***By: Elise Peterson
+**"Ann Loades"
+***By: Chloe DuBois
+*News and Events
+**"The C.S. Lewis Correspondence Project"
+*"C.S. Lewis's Role as General Editor of Nelson's Medieval and Renaissance Library Series"
+**By: Steven A. Beebe and Joel Heck
+*"The Sword of Damocles: C.S. Lewis and the Cold War"
+**By: Clark Moreland
+*"The Zeal of Gervase of Canterbury: Politics and Intrigue behind the Source Text for Dorothy L. Sayers's The Zeal of Thy House"
+**By: Kathryn Wehr
+*"Correcting One of Two False Notions: Reading Surprised by Joy as a Counternarrative"
+**By: Carrie Birmingham
+*Book Reviews:
+**"Review of The Wonders of Creation: Learning Stewardship from Narnia and Middle-Earth by Kristen Page"
+***By: Sharon Jones
+**"Review of The Medieval Mind of C.S. Lewis: How Great Books Shaped a Great Mind by Jason M. Baxter"
+***By: Abigail Sargent
+**"Review of Inkling, Historian, Soldier, and Brother by Don W. King"
+***By: Paul Michelson
+**"Review of The Nature of Middle-Earth: Late Writings on the Lands, Inhabitants, and Metaphysics of Middle-Earth edited by Carl F. Hostetter"
+***By: Matthew Dickerson
+**"Review of Tolkien Dogmatics: Theology through Mythology with the Maker of Middle-Earth by Austin M. Freeman"
+***By: Joel Scandrett
+**"Review of J.R.R. Tolkien and the Arts edited by Melody Green and Ned Bustard"
+***By: Derek Witten
+**"Review of C.S. Lewis for Beginners by Louis Markos"
+***By: Josiah Peterson
+**"Review of In and Out of Bloomsbury: Biographical Essays on Twentieth-Century Writers and Artists by Martin Ferguson Smith"
+***By: Luci Parrish
+*Booknotes
+**Inkings of Things Unseen: Philosophical Essays on Literature
+***By: David Rozema
+**Waking the Dead: George MacDonald as Philosopher, Mystic, & Apologist
+***By: Dean Hardy
+**Sunbeams and Bottles: The Theology, THought, and Reading of C.S. Lewis
+***By: James Prothero
+**The Gallant Edith Bratt: J.R.R. Tolkien's Inspiration
+***By: Nancy Bunting and Seamus Keays-Hamill
+**The Great Tales Never End: Essays in Memory of Christopher Tolkien
+***By: Richard Ovenden and Catherine McIlwaine, eds.<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|38|40}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 39}}
+
+[[Category:SEVEN]]

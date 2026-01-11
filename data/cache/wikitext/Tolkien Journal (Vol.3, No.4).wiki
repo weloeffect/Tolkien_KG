@@ -1,0 +1,19 @@
+{{journal
+| title=Tolkien Journal (Vol.3, No.4))
+| image = Tolkien Journal (Vol.3, No.4).png
+| editor=Ed Meskys
+| illustrator=Bonnie Bergstrom (cover)
+| publisher=[[Tolkien Society of America|The Tolkien Society of America]]
+| date=November [[1969]]
+| format=
+| pages=
+| issn=
+}}
+'''''Tolkien Journal'' (Vol.3, No.4)''' is an issue of the ''[[Tolkien Journal]]''. 
+
+The article "A Ready Answer" by [[Bonniejean Christensen|Bonniejean McGuire Christensen]] (a review of ''[[The Tolkien Relation]]'') includes extracts from a letter by [[J.R.R. Tolkien|Tolkien]] (p.&nbsp;15) to the [[Tolkien Society of America]].<ref>[http://www.tolkienbooks.net/php/details.php?reference=55280 Tolkien Journal. November 1969] at [http://www.tolkienbooks.net Tolkienbooks.net] (accessed 27 October 2011)</ref>
+
+{{references}}
+
+{{title|italics}}
+[[Category:Tolkien Journal]]

@@ -1,0 +1,52 @@
+{{anglosaxon infobox
+| name=Howard Green
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=Mr. Howard Green
+| titles=Clerk of the Schools
+| position=School clerk and Editor
+| location=[[Oxford]], [[England]]
+| affiliation=
+| language=[[wikipedia:English language|English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Rediscovering ''[[The Notion Club Papers]]''
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Howard Green''' was a [[Man]] who lived in [[wikipedia:England|England]] during the early [[wikipedia:21st century|21st century]].<ref name="Foreword">{{SD|2b}}</ref>
+
+== History ==
+Mr. Howard Green was a school clerk at the [[wikipedia:Examination Schools|Examination Schools]] at [[Oxford]]. After the [[Summer Examinations]] of [[Seventh Age 2012|2012]], Green discovered a disordered bundle of papers on the top of one of a number of sacks of waste paper in the basement of the school. They were loosely tied with red string and on the outer sheet was inscribed in large Lombardic capitals: '''[[Notion Club Papers|NOTION CLUB PAPERS]]'''.<ref name="Foreword"/>
+
+Upon scrutinizing the papers, Green inferred that the papers had no connection to any other papers in Oxford, and that they may have been intended for publication. It was discovered that the papers reported approximately one hundred meetings of a [[Notion Club|certain discussion club]]. The meetings took place between c. [[Seventh Age 1980|1980]] and [[Seventh Age 1990|1990]].<ref name="Foreword"/>
+
+With the assistance of the famous historian of twentieth century Oxford, Mr. [[J.R. Titmass]], Green deciphered the origin of the name [[Nicholas Guildford]], identifying that many of the other names within the papers were also fictitious.<ref name="Foreword"/>
+
+After publishing the papers at an unknown date, Green was approached by Mr. [[W.W. Wormald]] and Mr. [[D.N. Borrow]] for permission to examine the papers. Sometime afterwards, they sent Green a joint report of their analysis, which brought some interesting points to Green's attention.<ref name="Foreword"/>
+
+Green was unconvinced by [[Messrs. Wormald and Borrow]], arguing that the mention of the [[Great Explosion of 1975|Great Explosion]] of [[Seventh Age 1975|1975]] and the [[Great Storm]] of [[Seventh Age 1987|1987]] implied a sort of precognition on the part of the author of the papers. However, despite this, Green changed his view, writing in his Second Edition foreword in [[Seventh Age 2014|2014]] that he now believed that the papers offered a glimpse into literary invention "which the Papers are largely concerned" even though they may have been entirely fictitious.<ref name="Foreword"/>
+
+{{references}}
+
+{{DEFAULTSORT:Green, Howard}}
+
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

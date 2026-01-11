@@ -1,0 +1,49 @@
+{{anglosaxon infobox
+| name=Tréowine
+| image=
+| caption=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=England
+| affiliation=
+| language=[[Old English]]
+| birth=after 869 AD<ref name="2d">{{SD|2d}}</ref><ref group=note>Tréowine was said to be younger than Ælfwine</ref>
+| birthlocation=England
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Céolwulf]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tréowine''', son of [[Céolwulf]], was a close friend of [[Ælfwine]].
+
+==History==
+Around the year [[Wikipedia:915|915 AD]], in autumn, the [[Wikipedia:Danes|Danes]] attacked [[Wikipedia:Porlock|Porlock]]. They were at first driven off and Ælfwine's company managed to capture a Danish [[Wikipedia:Knarr|cnearr]] at night. At dawn Ælfwine told to his closest friend, Tréowine, he intended to sail off westward, perhaps to the country of the legendary king [[Wikipedia:Sceafa|Sheaf]]. Tréowine agreed to accompany him at least as far as to [[Ireland]]. They got two other companions: [[Ceola]] of Somerset and [[Geraint]] of [[Wikipedia:West Wales|West Wales]].
+
+Many days after they passed Ireland the voyagers were exhausted. A "dreamlike death" seemed to come over them, and soon they passed out. The last that is known of the journey is that Tréowine saw the world plunge down under them, while sailing the [[Straight Road]].<ref name="2d" />
+
+==See also==
+*[[Wilfrid Trewin Jeremy]]
+
+{{references|notes}}
+{{DEFAULTSORT:Treowine}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters from the later Ages]]
+[[Category:Mariners]]
+[[Category:The Notion Club Papers]]
+[[Category:Old English names]]

@@ -1,0 +1,48 @@
+{{Mallorn
+| name=Mallorn 41
+| image = Mallorn41.jpg
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=[[July]] [[2003]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 41''' is the forty-first issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[July]] [[2003]].
+
+==Contents==
+* Front Cover
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Len Sanford
+* The Lost Heart of the Little Kingdom
+** By: [[Alex Lewis]]
+* Tolkien's Middle-earth and the Catholic Imagination
+** By: Christopher Garbowski
+* From Fëanor to Doctor Faustus: a creator's path to self destruction
+** By: [[John Ellison]]
+* ''Cut-out-and-keep'' Hobbit family trees, The History of Aragorn and Arwen
+** By: David Vale
+* 'Reading Lord of the Rings: The final attempt:' An analysis of a web community
+** By: [[Janet Brennan Croft]] and Jay Shorten
+* Reviews: [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers|The Two Towers]]''
+** By: [[Charles Noad]]
+** By: Susanne Stopfel
+** By: Anna Rozwadowska
+* The Common Speech and its speakers
+** By: Nikolas Koravos
+* Poetry: The Stairs at Cirith Ungol, The Light of Eärendil
+** By: Keith McFarlane
+* Coinage in Middle-earth
+** By: Kenneth Fraser
+* Rewriting the past — the pillars of Middle-earth
+** By: Andreas Gloge
+* About the authors
+* Inside Art
+** By: Lorenzo Daniele, [[John Ellison]], [[Jef Murray]], [[Kay Woollard]]
+
+{{mallornnav|40|42}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 41}}
+[[Category:Mallorn (journal)]]

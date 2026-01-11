@@ -1,0 +1,34 @@
+{{actor
+| image = Liv Tyler.jpg
+| name=Liv Tyler
+| lifetime=[[1 July|July 1]], [[1977]]
+| played=[[Arwen]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2=
+| film2=
+| imdb=[http://www.imdb.com/name/nm0000239/ Profile]
+}}
+'''Liv Rundgren Tyler''' (born 1977) played [[Arwen|Arwen Evenstar]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]] trilogy. She also recorded a song, which is featured in the [[Houses of Healing]] scene in [[The Lord of the Rings: The Return of the King (extended edition)|''The Lord of the Rings: The Return of the King'' (extended edition)]]. 
+
+==Quotes==
+{{quote|(on Arwen's and Aragorn's relationship) "She has to be patient and supportive and let him go off and do the things that he has to do. But she is impatient, too. When you're in love, you want to spend all your time with that person, and she finds it difficult that they can't be together.|Liv Tyler, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+{{quote|It was a very good experience. It wasn't just to make a movie, it was my life. I was employed at The Lord of the Rings for a year and a half.|Liv Tyler}}
+{{quote|I see it as an honour to be one of only a few women in the picture and to bring the feminine touch to the story.|Liv Tyler, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+== External links ==
+* {{WP|Liv Tyler}}
+
+{{DEFAULTSORT:Tyler, Liv}}
+[[Category:Actors and actresses]]
+[[Category:Singers]]
+[[Category:American people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]

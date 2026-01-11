@@ -1,0 +1,43 @@
+{{short description|Younger brother of J.R.R. Tolkien}}
+{{expansion}}
+{{person infobox
+| image = Hilary Tolkien.jpg
+| name=Hilary Tolkien
+| born=[[17 February]] [[1894]]
+| died=[[25 January]] [[1976]]
+| education=
+| occupation=
+| location=
+| website=
+}}
+'''Hilary Arthur Reuel Tolkien''' ([[17 February]] [[1894]] — [[25 January]] [[1976]]) was [[J.R.R. Tolkien]]'s younger brother and the son of [[Arthur Tolkien]] and [[Mabel Tolkien]] (''née'' Suffield).
+==Biography==
+Hilary Tolkien was born in [[Bloemfontein]], South Africa. While on a family visit to England his father died of a brain haemorrhage and his mother moved him and his brother to [[Birmingham]], England. He was homeschooled by his mother until the age of eight when he and his brother were enrolled in St Philip’s School, shortly after Mabel pulled them out and enrolled them in [[King Edward's School]], Hilary not having passed the entrance exam was homeschooled for the next few years by Mabel and would later pass the entrance exam and be enrolled. When Hilary was ten years old his mother died of diabetes, in her will she made [[Francis Xavier Morgan|Father Francis Xavier Morgan]] their guardian.<ref>{{B|II}}</ref> 
+
+Hilary became involved in agriculture, leaving school early to take it up. After his military service (he began as a bugler, and received "multiple minor shrapnel wounds" in the process of moving materiel in support services{{Fact}}) he bought a small orchard and farm at Evesham, Worcestershire, where he spent the rest of his life. [[J.R.R. Tolkien]]'s wife and children stayed with him on occasion.
+
+He married Ann Madeline (Magdalen) Matthews in [[1928]]. Their first son, Gabriel, was born in [[1931]], followed by Julian in [[1935]] and Paul in [[1938]]. Hilary Tolkien had a dog which he called Bilbo when it was good, and Baggins when it was bad.<ref>[[Wayne G. Hammond]] and [[Christina Scull]] (2006), ''[[The J.R.R. Tolkien Companion and Guide]]: Chronology'', p. 758</ref>
+
+Hilary died on [[25 January]] [[1976]] at the age of 81.
+
+In 2009, ''[[Black & White Ogre Country|Black & White Ogre Country: The Lost Tales of Hilary Tolkien]]'' was published. It contained unpublished stories written by Hilary along with previously unpublished photographs, illustrations and a letter from [[J.R.R. Tolkien]] to Hilary.
+
+Actor James MacCallum portrays him in the biographical drama film about J.R.R. Tolkien, called [[Tolkien (film)|Tolkien]].
+==Family tree==
+{{familytree/start}}
+{{familytree | | | | |MS|y|ART| | | |MS=[[Mabel Suffield]]|ART=[[Arthur Reuel Tolkien]]}}
+{{familytree | | | | | |,|-|^|-|.|}}
+{{familytree |EDT|~|JRR | |HART|y|MM|EDT=[[Edith Tolkien|Edith Bratt]]|JRR=[[J.R.R. Tolkien]]|HART='''Hilary Tolkien'''|MM=[[Magdalen Matthews]]}}
+{{familytree | | | | | | | |,|-|-|-|+|-|-|-|.| }}
+{{familytree | | | | | | |GT| |JT| |PT| |GT=Gabriel Tolkien|JT=[[Julian Tolkien]]|PT=Paul Tolkien}}
+{{familytree/end}}
+==Bibliography==
+*[[2009]]: ''[[Black & White Ogre Country]]''
+*(Cancelled): ''[[Wheelbarrows at Dawn|Wheelbarrows at Dawn: The Memories of Hilary Tolkien]]''
+{{references}}
+{{DEFAULTSORT:Tolkien, Hilary}}
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:Tolkien Family]]
+[[de:Hilary Tolkien]]
+[[fi:Hilary Tolkien]]

@@ -1,0 +1,30 @@
+{{incomplete}}
+{{title}}
+{{disambig-more|Lothlórien|[[Lothlórien (disambiguation)]]}}
+{{scene
+| name = Lothlórien
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Gimli and Frodo and Sam.jpg
+| number = 31 (theatrical)<br>
+           37 (extended)
+| duration = 03:12 (theatrical)<br>
+             06:26 (extended)
+| event = The [[Fellowship]] encounters the [[Elves]] of [[Lothlórien]].
+| characters = [[Haldir]], [[Frodo Baggins|Frodo]], [[Aragorn]], [[Legolas]], [[Gimli]], [[Boromir]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]]
+| previous = [[The Bridge of Khazad-dûm (scene)|The Bridge of Khazad-dûm]]
+| next = [[Caras Galadhon (scene)|Caras Galadhon]]
+}}
+'''Lothlórien''' is the thirty-first scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-seventh of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+The [[Fellowship]] enters a woodland. [[Gimli]] tells the hobbits to stay close; he has heard that a great Elf-witch lives in those woods. As he is doing so, [[Frodo Baggins|Frodo]] hears the voice of [[Galadriel]] in his head, telling him that he ''"brings [[The One Ring|great evil]]"'' with him. Gimli boasts that he will not be ensnared by her, and as he finishes speaking, he sees knocked bows right before his face, aimed by [[Elves]]. This is the same for all members of the Fellowship. [[Haldir]] appears and says ''"the dwarf breathes so loud we could have shot him in the dark"''. 
+
+Later, Haldir formally receives the Fellowship on a platform in the trees at night. He greets [[Legolas]] and [[Aragorn]] warmly in [[Sindarin]], because they are known to him. Gimli is somewhat disgruntled by this, and insults Haldir, but is rebuked by Aragorn for doing so. Haldir tells them they may not go further, on account of Frodo carrying [[The One Ring|the Ring]]. 
+
+As Aragorn implores Haldir to aid them, Frodo sees the other members of the Fellowship looking at him as though blaming him for their predicament. [[Boromir]] tries to comfort Frodo, telling him that [[Gandalf]] would not want him to give up hope. 
+{{blockquote|You carry a heavy burden, Frodo. Don't carry the weight of the dead.|Boromir to Frodo, of Gandalf}}
+Frodo contemplates these words, and while doing so, Haldir tells the Fellowship that they are to follow him. 
+
+==Differences==
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|37]]

@@ -1,0 +1,24 @@
+{{VTbox
+| title=Vinyar Tengwar 50
+| image = Vinyar Tengwar 50.png
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=March [[2013]]
+| format=Paperback journal
+| pages=28
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 50''''' is the fiftieth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|49|50}}
+
+==Contents==
+* "The '[[Túrin Wrapper]]'"✫ — J.R.R. Tolkien, ed. Carl F. Hostetter
+
+<small>✫ contains formerly unpublished material</small>
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 50}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 50]]

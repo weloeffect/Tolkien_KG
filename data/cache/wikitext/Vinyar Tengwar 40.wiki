@@ -1,0 +1,28 @@
+{{VTbox
+| title=Vinyar Tengwar 40
+| image = Vinyar Tengwar 40.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=April [[1999]]
+| format=Paperback journal
+| pages=36
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 40''''' is the fortieth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|39|41}}
+
+==Contents==
+* E.L.F. News
+
+* "''[[Narqelion]]'' (facsimile)"✫ — J.R.R. Tolkien
+* "''Narqelion'' and the Lexicons: Some Notes on the Earliest Elvish Poem" — Christopher Gilson
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 40}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 40]]

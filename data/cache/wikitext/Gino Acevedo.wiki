@@ -1,0 +1,18 @@
+{{person infobox
+| image=Decipher - Sindri.jpeg
+| caption=Acevedo as Dwarf lord Sindri.
+| name=Geno Acevedo
+| born=[[6 December]] [[1964]]
+| died=
+| education=
+| occupation=Make-up and digital effects artist
+| location=
+| website=
+}}
+'''Geno Acevedo''' (born [[6 December]] [[1964]]) is an American make-up and digital effects artist, who worked on [[Peter Jackson]]'s ''[[The Hobbit (film series)|The Hobbit]]'' and ''[[The Lord of the Rings (film series)|The Lord of the Rings]]''.<ref>{{webcite|author=|articleurl=https://www.imdb.com/name/nm0009707/|articlename=Gino Acevedo|dated=|website=IMDB|accessed=30 August 2022}}</ref>. 
+
+He had a cameo role in [[The Lord of the Rings: The Fellowship of the Ring|''The Fellowship of the Ring'']] as a Dwarf lord. His appearance got cut short in the film itself, but did get used in the [[The Lord of the Rings Trading Card Game]].<ref>{{Cite web|articleurl=https://www.instagram.com/p/CV9Windv_2I|articlename=Post about dwarf cameo|author=Gino Acevedo|website=Instagram|dated=2021}}</ref> A second cameo, as a [[Corsair]], did appear in ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' as well as several cards for the aforementioned trading card game.<ref>{{LOTRTCGW|Cameos|16 August 2025}}</ref><ref>{{Cite web|articleurl=http://www.fantasiadomain.com/lotrcameo/index_en.html|articlename=Cameos|website=Cameos and Special Extras in The Lord of The Rings|author=Alessandra Muccinelli}}</ref>
+
+{{References}}
+{{DEFAULTSORT:Acevedo, Gino}}
+[[Category:People by name]]

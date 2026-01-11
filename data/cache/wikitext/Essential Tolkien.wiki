@@ -1,0 +1,25 @@
+{{audiobook infobox
+| title=Essential Tolkien
+| image=Essential_tolkien.jpg
+| work=
+| author=
+| narrator=[[J.R.R. Tolkien]]
+| coverart=
+| publisher=Caedmon
+| date=[[6 November]] [[2007]]
+| format=Audio CD
+| runtime=1 hour
+| isbn=978-0061376498
+| noisbn=
+}}
+'''''Essential Tolkien''''' is a CD [[Audiobooks|audiobook]] which features a [[Index:Audio recordings of J.R.R. Tolkien|recording]] of [[J.R.R. Tolkien]] reading and singing prose, poems, and songs from ''[[The Hobbit]]'' and the unpublished manuscript of ''[[The Fellowship of the Ring]]'' (from the [[1952 tape recording]]).
+
+==From the publisher==
+
+{{blockquote|J.R.R. Tolkien, in this extraordinary, historically important recording, leads listeners with prose, poems, and songs into the fantastic world of The Hobbit and The Fellowship of the Ring.This audio is based on a tape that Tolkien made for his friends in August 1952. He had been working on The Lord of the Rings for more than fourteen years by then and had almost given up hope of ever seeing it in print. But making this recording reassured him of his talent and prompted him to send his manuscripts to a former pupil who had become a publisher. The result was one of the most popular and influential series of novels of the 20th century! This recording includes the poem "The Mirror of Galadriel," originally meant for inclusion in Book Two of The Fellowship of the Ring.}}
+
+==External links==
+*[http://www.tolkienlibrary.com/press/Essential-Tolkien-CD.php Essential Tolkien] at Tolkienlibrary.com
+
+{{title|italics}}
+[[Category:Audiobooks]]

@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1979
+| location=The Eastgate Hotel, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 28th-30th, 1979
+| attendees=
+}}
+
+{{oxonmoot|1978|1980}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

@@ -1,0 +1,38 @@
+{{journal
+| title=Other Minds 3
+| image=
+| editor=Hawke Robinson, [[Thomas Morwinsky]], Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=May [[2008]]
+| format=PDF
+| pages=45
+| issn=
+}}
+
+'''''Other Minds'' 3''' is the third issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in May 2008.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]], Hawke Robinson
+* "Of Barrow-wights - Part Two"
+** By Neville Percy
+* "J.R.R. Tolkien, Words, Phrases & Passages in The Lord of the Rings - A Game Designer's Guide to Parma Eldalamberon 17"
+** By Chris Seeman
+* "The Rings of Power - history and abilities"
+** By Thomas Morwinsky
+* "The Palantiri"
+** By Chris Seeman
+* "The Guild of Venturers and the Númenórean Colonies"
+** By Eric Dubourg
+* "Fine print"
+* "Creative Commons Licence"
+* "Supplement: Umbar-dalad ("Under Umbar")"
+** Hawke Robinson
+
+*'''Artwork / Maps:'''
+** By: Hawke Robinson
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 03}}
+[[Category:Other Minds]]

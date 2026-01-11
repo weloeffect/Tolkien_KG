@@ -1,0 +1,35 @@
+{{Disambig-more|Weathertop|[[Weathertop (disambiguation)]]}}
+{{song
+| title=Weathertop
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=2:14
+| track=Disc 2 Track 1
+| previous=[[The Nazgûl]]
+| next=[[The Caverns of Isengard]]
+| spotify=https://open.spotify.com/track/5IHpHBugLoWXDyoOEkfdWU
+}}
+'''Weathertop''' is the first track of disc two of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[00:31] Bârî’n
+[00:33] Katharâd
+[00:36] îdô
+[00:39] Nidir nê
+[00:42] Nêpâm
+[00:44] nêd abârat
+[00:49] dir nê
+[00:51] nâkham
+[00:54] Nêbâ
+[00:56] bîtham ma
+[00:59] gâna
+[01:02] nanê
+[01:05] Nêtab
+[01:07] dâur
+</poem>
+{{title}}
+{{DEFAULTSORT:2.01}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

@@ -1,0 +1,44 @@
+{{anglosaxon infobox
+| name=James Jones
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Schoolmaster, journalist, playwright, now retired
+| location=[[Oxford]]
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1927]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=A retentive memory
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''James Jones''' (born in [[1927]]) was a member of the [[Notion Club]].
+
+== History ==
+Jones was a retired schoolmaster, journalist and a playwright. He lived in [[Oxford]] and divided his time between producing plays and his hobby of private printing. Though a very silent man, he assisted the reporter of the Club, [[Nicholas Guildford]], with his retentive memory.<ref>{{SD|2b}}</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Jones, James}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

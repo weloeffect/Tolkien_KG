@@ -1,0 +1,84 @@
+{{artist infobox
+| image=
+| name=Roger Garland
+| born=[[28 February]], [[1950]]
+| died=[[26 October]], [[2017]]
+| style=Fantasy
+| images=[[:Category:Images by Roger Garland|Gallery]]
+| location=
+| website=http://www.lakeside-gallery.com/
+}}
+'''Roger Garland''' was an English artist, teacher and [[J.R.R. Tolkien|Tolkien]] illustrator. 
+
+
+==History==
+[[File:Roger Garland - The Lord of the Nazgul.JPG|300px|thumb|right|''The Lord of the Nazgûl'' by '''Roger Garland''']]
+Roger Garland attended [[wikipedia:Arts University Plimouth|Plymouth Art School]] and studied graphic design at the [[wikipedia: University of Wolverhampton|University of Wolverhampton]], where he met his wife [[Linda Garland]].<ref name=gallery>[http://www.lakeside-gallery.com/  lakesidegallery.com](accessed 19 April 2023)</ref> Both graduated in [[1970]].<ref name=gallery /><ref>[https://web.facebook.com/roger.garland.3  Roger Garland] on Facebook (accessed 20 April 2023)</ref> Their son Seth Garland (born [[1977]]) is also an artist.<ref>[http://www.sethgarland.co.uk/#about  sethgarland.com] (accessed 16 May 2023)</ref> After graduating, Garland taught art at the [[wikipedia: Poltair School|Poltair School]] in [[wikipedia: Cornwall|Cornwall]] for a decade, while also building a career as an illustrator.<ref name=gallery /> His first collaboration with [[George Allen & Unwin]] was in [[1981]],<ref name=gallery /> when he was hired to paint a cover for the paperback release of [[Unfinished Tales]]. In 1989, he co-founded Lakeside Gallery with his wife, which permanently displays their artwork, including Roger's Tolkien-related paintings, to this day.<ref name=gallery /> Some of these paintings were part of the italian exhibition [[TOLKIEN - Uomo, Professore, Autore| ''Tolkien: Uomo, Professore, Autore'']], that toured between 2023 and 2026. In his opinion, ''[[:File:Roger Garland - The Lord of the Nazgul.JPG| The Lord of the Nazgûl]]'' is his best painting, because it "''captures the darker side of these works''".<ref>[https://www.sociedadtolkien.org/blog/2017/10/26/fallece-el-ilustrador-roger-garland/?highlight=roger%20garland  Fallece el ilustrador Roger Garland] at sociedadtolkien.org (quote translated back from Spanish, original not found)(accessed 19 April 2023)</ref> He was also an honorary member of [[The Tolkien Society]] since [[1994]].<ref>[https://www.tolkiensociety.org/2017/10/tolkien-illustrator-roger-garland-has-died/  Tolkien illustrator Roger Garland has died] at tolkiensociety.org (accessed 19 April 2023)</ref> 
+
+
+
+==Published artwork==
+===Cover art===
+*''[[Unfinished Tales/Publication history and gallery|Unifished Tales]]'' (1982 paperback)
+*''[[The Silmarillion/Publication history and gallery|The Silmarillion]]'' (1983 paperback)
+*''[[The Lord of the Rings/Publication history and gallery one-volume|The Lord of the Rings]]'' (1983 one volume paperback & 1988 one volume hardback)
+*''[[The Book of Lost Tales: Part One]]'' (1985 paperback)
+*''[[The Lord of the Rings/Publication history and gallery three-volume|The Fellowship of the Ring]]'' (1986 paperback)
+*''[[The Lord of the Rings/Publication history and gallery three-volume|The Two Towers]]'' (1986 paperback)
+*''[[The Lord of the Rings/Publication history and gallery three-volume|The Return of the King]]'' (1986 paperback)
+*''[[The Book of Lost Tales: Part Two]]'' (1986 paperback)
+*''[[The Hobbit/Publication history and gallery|The Hobbit]]'' (1987 paperback, 50th anniversary edition)
+*''[[The Lays of Beleriand]]'' (1987 paperback)
+*''[[The Shaping of Middle-earth]]'' (1988 paperback)
+*''[[The Lost Road and Other Writings]]'' (1989 paperback)
+*''[[The Return of the Shadow]]'' (1990 paperback)
+*''[[The Treason of Isengard]]'' (1991 paperback)
+*''[[The War of the Ring]]'' (1992 paperback)
+*''[[Sauron Defeated]]'' (1993 paperback)
+*''[[Tales from the Perilous Realm]]'' (1997 hardcover)
+*''[[TOLKIEN - Uomo, Professore, Autore| Tolkien: Uomo, Professore, Autore]]'' (2024 third edition)
+
+===Books===
+*''[[Farmer Giles of Ham]]'' (1990 edition)
+*''[[Smith of Wootton Major]]'' (1990 edition)
+*''[[The Adventures of Tom Bombadil]]'' (1990 edition)
+*''[[Tolkien's World: Paintings of Middle-earth]]'' (1992)
+*''[[Garlands of Fantasy: The Art of Linda & Roger Garland]]'' (1994, text by Neil Suckling)
+*''The Book of the Unicorn'' (1996, with illustrations by Linda & Roger Garland, text by Neil Suckling)
+
+===Calendars===
+*[[1984]]: 
+**[[The J.R.R. Tolkien Calendar 1984]]
+**[[The 1984 J.R.R. Tolkien Calendar]]
+
+*[[1987]]:
+**[[The Tolkien Calendar 1987]]
+**[[The 1987 J.R.R. Tolkien Calendar]]
+
+*[[1988]]:
+**[[The Tolkien Calendar 1988]]
+**[[The 1988 J.R.R. Tolkien Calendar]]
+
+*[[1989]]:
+**[[The Tolkien Calendar 1989]]
+**[[The 1989 J.R.R. Tolkien Calendar]]
+
+==Filmography==
+*[[The Master of the Rings: The Unauthorized Story Behind J.R.R. Tolkien's The Lord of the Rings]] (Documentary, [[2001]])
+
+==See also==
+*[[:Category:Images by Roger Garland|Images by Roger Garland]]
+
+==External links==
+* '''[http://www.lakeside-gallery.com/ Lakeside Gallery website]'''
+
+{{References}}
+{{IllustratorsLOTR}}
+{{IllustratorsSilmarillion}}
+{{IllustratorsCalendars}}
+{{DEFAULTSORT:Garland, Roger}}
+[[Category:Artists]]
+[[Category:British people]]
+[[Category:People by name]]
+[[de:Roger Garland]]
+[[fi:Roger Garland]]

@@ -1,0 +1,53 @@
+{{Expansion}}
+{{people infobox
+| name=Elves of Nargothrond
+| image = Anke Eißmann - The host of Nargothrond.jpg
+| caption="The host of Nargothrond" by [[Anke Eißmann]]
+| pronun=
+| othernames=
+| origin=[[Noldor]]
+| location=[[Nargothrond]], [[Minas Tirith (Beleriand)|Minas Tirith]], [[Barad Nimras]]
+| affiliation=
+| rivalry=
+| language=[[Sindarin]]
+| members=[[Finrod]], [[Orodreth]], [[Finduilas]], [[Guilin]], [[Gwindor]], [[Gelmir (son of Guilin)|Gelmir]], [[Edrahil]], [[Ornil]]
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+The '''Elves of Nargothrond''' were those who followed [[Finrod|Finrod Felagund]] and dwelt under his rule in the underground citadel of [[Nargothrond]] on the banks of the River [[Narog]].
+
+==History==
+For the most part of the late [[First Age]], the Elves of Nargothrond remained hidden and isolated, waging a guerilla war against the forces of [[Morgoth]], ambushing but never assaulting them directly in open warfare. Spies and scouts of Nargothrond guarded [[Talath Dirnen]], the plains between Nargothrond and [[Doriath]].<ref>{{CH|6}}, p. 110</ref>
+
+The realm of Nargothrond extended westward to the [[Sea]] and the Elves were allied to the [[Falathrim]]. With their help they built ships and some of them explored the [[Isle of Balar]], thinking to prepare it as a last refuge in time of need.<ref>{{S|14}}</ref>
+
+[[File:Henning Janssen - Aid on the Fens.jpg|thumb|left|''Aid on the Fens'' by [[Henning Janssen]]]]
+
+However they also participated in major events of the Age, as during [[Dagor Bragollach]], when Finrod and his army came north to stop the onslaught. In that skirmish, they were ambushed at the [[Fen of Serech]] but a sortie by [[Barahir]] rescued them, and allowed them to retreat. Finrod pledged to Barahir for saving him. After the Battle, [[Sauron]] attacked [[Tol Sirion]], and it was lost thereafter.<ref>{{S|Fingolfin}}</ref>
+
+In order to repay this pledge, Finrod and a company of ten Elves of Nargothrond participated also in the [[Quest for the Silmaril]] to assist [[Beren]], Leaving [[Orodreth]] to rule in his place. These Elves were captured by [[Sauron]] in [[Tol-in-Gaurhoth]], and were devoured one by one, including Finrod.<ref>{{S|Beren}}</ref>
+
+A small army from Nargothrond also joined the [[Union of Maedhros]] in order to avenge losses of the previous battle, but [[Gwindor]]'s premature assault led to the disastrous [[Nirnaeth Arnoediad]].<ref>{{S|Nirnaeth}}</ref>
+
+===Demise===
+[[File:Ted Nasmith - Finduilas is Led Past Túrin at the Sack of Nargothrond.jpg|thumb|''Sack of Nargothrond'' by [[Ted Nasmith]]]]
+
+After that battle, most of [[Beleriand]] was under the power of [[Angband]] and there was a massive orc-buildup nearby. [[Túrin Turambar]] came to Nargothrond and gained influence among the Elves. Against the counsels of [[Ulmo]], he persuaded the forces of Nargothrond to turn into open war against the [[Orcs]]. This led to the disastrous [[Battle of Tumhalad]] which all but exterminated the army of Nargothrond, and King Orodreth was killed. [[Glaurung]] the Worm led Orcs to the [[Sack of Nargothrond]] where all women were taken prisoners, and taken by the [[Crossings of Teiglin]]; the [[Haladin]] of [[Brethil]] came to their rescue in vain; the Orcs managed to kill all their captives.<ref name=turin>{{S|Turin}}</ref>
+
+Little is known about the fate of any survivors or their descendants: some fled the slaughter, survived the subsequent [[Fell Winter]] and sought refuge to [[Doriath]], bringing the tidings to King [[Thingol]], and news of Túrin to [[Morwen]], his mother who was staying there.<ref name=turin/> Other than that, Nargothrond and its people disappear from history as it remained deserted until the deluge of Beleriand in the [[War of Wrath]],<ref>{{S|Earendil}}</ref> but some members of the [[House of Finrod]] (cf. [[Gildor Inglorion]]) lingered in [[Middle-earth]] until the late [[Third Age]].<ref>{{FR|Three}}</ref>
+
+==Other versions of the legendarium==
+In the earliest version of the [[legendarium]] in ''[[The Book of Lost Tales]]'', the realm of Nargothrond had not been named by Tolkien, but the inhabitants were known as the ''Rothwarin'', later changed to the '''''Rodothlim'''''. Their name meant "cavern-dwellers".<ref>{{LT2|Appendix}}, p. 347</ref> The leader of those Elves had always been [[Orodreth]].<ref>{{LT2|II}}, p. 82</ref>
+
+In [[Ælfwine|Eriol's]] [[Old English]] texts, Nargothrond is translated as ''Hlydingaburg'', "City of the '''Hlydingas'''", taking their name from the river [[Narog]] (OE: ''Hlyda'' "Noisy");<ref>{{SM|QA1}}</ref> ''Hlydingas'' would therefore mean *"Sons of Narog" or *"Those belonging to Narog".
+
+While writing ''[[The Lay of Leithian]]'', Tolkien used the term '''Nargothronders''' once in the preliminary summary of [[Lay of Leithian Canto X|Canto X]], but it was not used in the actual poem.<ref>{{LB|C10}}, "Celegorm and Curufin in a revulsion of feeling the Nargothronders wish to slay them. Orodreth will not. They are exiled and all [[Fëanorians]] from Nargothrond for ever".</ref>
+
+{{References}}
+[[Category:Elven peoples]]

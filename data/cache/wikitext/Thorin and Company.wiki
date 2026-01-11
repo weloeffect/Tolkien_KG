@@ -1,0 +1,45 @@
+{{organization infobox
+| name=Thorin and Company
+| image = Frank Rivolli - The Dwarfs.jpg
+| caption="The Dwarfs" by Frank Rivolli
+| pronun=
+| othernames=
+| founded={{TA|2941}}
+| founder=[[Thorin]]
+| purpose=Reclamation of the [[Lonely Mountain]], and recovery of Dwarven wealth, including the [[Arkenstone]]
+| members=[[Thorin]], [[Balin]], [[Dwalin]], [[Fíli]], [[Kíli]], [[Dori]], [[Nori]], [[Ori]], [[Óin]], [[Glóin]], [[Bifur]], [[Bofur]], [[Bombur]] and [[Bilbo Baggins]]
+| location=
+| disbanded={{TA|2941}}
+| notablefor=Re-establishment of the [[Kingdom under the Mountain]], bringing about the death of [[Smaug]]
+}}
+'''Thorin and Company''' refers to the thirteen exiled [[Dwarves]] under the leadership of [[Thorin Oakenshield]] and the one [[Hobbits|Hobbit]] [[Bilbo Baggins]], who famously made the [[Quest of Erebor]], travelling through the [[Misty Mountains]] and the [[Rhovanion|Wilderland]] to the [[Lonely Mountain]], to recover their ancient treasure from the Kingdom of [[Lonely Mountain|Erebor]], stolen by the [[Dragons|Dragon]] [[Smaug]]. 
+
+Thorin's company were: 
+*[[Balin]] and [[Dwalin]], sons of [[Fundin]] (descendants of [[Náin II]])
+*[[Óin]] and [[Glóin]], sons of [[Gróin]] (cousins of Balin and Dwalin)
+*[[Fíli]] and [[Kíli]], brothers, nephews of Thorin
+*[[Dori]], [[Nori]] and [[Ori]] (Dwarves of the [[House of Durin]])
+*[[Bifur]] with his cousins [[Bofur]] and [[Bombur]] (descendants of the [[Dwarves of Khazad-dûm]])<ref name="Durin">{{App|Durin}}</ref> 
+*And Bilbo Baggins, a Hobbit of [[the Shire]]<ref>{{H|Party}}</ref>
+They were joined by [[Gandalf]] for part of the journey.
+
+Thorin referred to himself and his Dwarven companions as "Thorin and Company" in the opening line of the message left on Bilbo's mantelpiece after the [[An Unexpected Party|unexpected party]] at [[Bag End]].<ref>{{H|Mutton}}</ref>
+
+==Portrayal in adaptations==
+===Thorin and Company in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Hobbit (1977 film) - Thorin and Company.png|Thorin and Company in [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+File:The Lord of the Rings Online - Thorin and Company.jpg|Surviving members of the Company in ''[[The Lord of the Rings Online]]''
+File:The Hobbit (film series) - the Dwarves.jpg|The Company in [[The Hobbit (film series)|''The Hobbit'' film series]]
+</gallery>
+'''2007: ''[[The Lord of the Rings Online]]'''''
+: All surviving members of the Company appear in the game. After the [[Battle of Dale]] the Dwarves and [[Gandalf]] pay homage to the tombs of Thorin, Fíli and Kíli, which are now next to that of King [[Dáin Ironfoot]].
+
+'''2012-14: [[The Hobbit (film series)|''The Hobbit'' film series]]:'''
+:The thirteen Dwarves all feature in the films, although they do not wear coloured hoods, and are given more developed and distinct personalities as opposed to the novel. The Dwarves battle with [[Smaug]], instead of hiding from him, in the "Battle of the Forges". The Company is broken only once; when four of the Dwarves stay behind in Lake-town prior to the death of Smaug. While Thorin is under the influence of dragon-sickness, Gandalf says that "there is no Company, not anymore". But all thirteen Dwarves and Bilbo Baggins fight in [[the Battle of the Five Armies]], where Thorin, Fíli and Kíli are slain. 
+{{References}}
+{{Thorin and Company}}
+{{companyroute}}
+[[Category:Organizations]]
+[[de:Thorin & Co.]]
+[[fi:Thorinin seurue]]

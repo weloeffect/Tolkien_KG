@@ -1,0 +1,50 @@
+{{disambig-two|the White Tree of [[Númenor]]|wife of [[Dior|Dior Eluchíl]]|[[Nimloth of Doriath]]}}{{disambig-more|White Tree|[[White Tree (disambiguation)]]}}
+{{plant infobox
+| name=Nimloth
+| image=Juliana Pinho - Tar-Miriel and Nimloth.png
+| caption="[[:File:Juliana Pinho - Tar-Miriel and Nimloth.png|Tar-Miriel and Nimloth]]" by [[:Category:Images by Juliana Pinho|Juliana Pinho]]
+| pronun=
+| othernames=White Tree
+| location=[[Armenelos]]
+| notablefor=
+| family=Descended from [[Galathilion]]
+| appearance=
+}}
+'''Nimloth''' was the White Tree which grew in the [[King's Court]] in [[Armenelos]] of [[Númenor]]. It was brought as a gift by the [[Eldar]] from [[Tol Eressëa]], in the form of a seedling from [[Celeborn (White Tree)|Celeborn]] as a symbol of friendship between the two races. Its blossoms appeared as the [[Sun]] set, and their perfume filled the night in [[Númenor]]'s royal city.
+
+Soon after {{SA|3262}}, it was cut down at the instigation of [[Sauron]] and its wood was used to light the first flames in the fire of the [[Temple]] of the new religion which worshipped [[Morgoth|Melkor]]. 
+
+However, the night before [[Isildur]] stole a fruit from the tree and planted it in secret. The fruit grew into a seedling that Isildur carried to [[Middle-earth]] with him during the [[Downfall of Númenor]]. That seedling was planted in [[Minas Ithil]], and was destroyed before the end of the [[Second Age]]. Its seedling in turn grew into the first [[White Tree of Gondor]].
+
+==Etymology==
+''Nimloth'' is [[Sindarin]] for "White Blossom",<ref>{{S|Index}}, entry "Nimloth <sup>(1)</sup>"</ref> from ''[[nim]]'' ("white") + ''[[loth]]'' ("flower").<ref>{{S|Appendix}}, entries ''[[nim]]'', ''[[loth]]''</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | |TEL| | | | | LAU=[[Laurelin]]|TEL=[[Telperion]]<br><small>Destroyed by [[Morgoth]] and [[Ungoliant]]</small>}}
+{{familytree | | | | | | | | | }}
+{{familytree | | | |GAL| | | | | GAL=[[Galathilion]] on [[Túna]]<br><small>Made in the image of Telperion</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |CEL| | | CEL=[[Celeborn (White Tree)|Celeborn]] of [[Tol Eressëa]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |NIM| | | NIM=Nimloth of [[Númenor]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G1| | | | |G1=<small>[[White Tree of Gondor#First White Tree|First Tree of Gondor]] ([[Minas Ithil]])<br>{{SA|3320}} - {{SA|3429|n}} (planted by [[Isildur]])</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G2| | | | |G2=<small>[[White Tree of Gondor#Second White Tree|Second Tree of Gondor]] ([[Minas Anor]])<br>{{TA|2}} - {{TA|1636|n}} (planted by Isildur)</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G3 | | | | |G3=<small>[[White Tree of Gondor#Third White Tree|Third Tree of Gondor]] ([[Minas Tirith]])<br>{{TA|1640}} - {{TA|2872|n}} (planted by [[Tarondor (King of Gondor)|Tarondor]])</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G4 | | | | |G4=<small>[[White Tree of Gondor#Fourth White Tree|Fourth Tree of Gondor]] (Minas Tirith)<br>Since {{TA|3019}} (planted by [[Aragorn|Elessar]])</small>}}
+{{familytree/end}}
+
+{{references}}
+{{numenor}}
+{{title}}
+[[Category:Armenelos]]
+[[Category:Noldorin names]]
+[[Category:Sindarin names]]
+[[Category:Trees]]
+[[de:Nimloth (Baum)]]
+[[fr:/encyclo/biologie/flore/nimloth]]
+[[fi:Nimloth (puu)]]

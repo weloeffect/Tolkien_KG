@@ -1,0 +1,24 @@
+{{short description|Online linguistic journal}}
+{{disambig-two|the linguistic journal|[[Quenya]] word|[[Tengwestië]]}}
+{{journal
+| name=Tengwestië
+| editor=[[Carl F. Hostetter]], [[Patrick H. Wynne]]
+| latest=[[28 December]] [[2024]]
+| website=[https://www.elvish.org/Tengwestie/ Tengwestië]
+| publisher=[[Elvish Linguistic Fellowship]]
+| frequency=Irregular
+| format=Online
+}}
+'''''Tengwestië''''' is the online journal of the [[Elvish Linguistic Fellowship]] focusing primarily on the invented languages of [[J.R.R. Tolkien]]. It was started in [[2003]] and is edited by [[Carl F. Hostetter]] and [[Patrick H. Wynne]].<ref name="ELF">{{webcite|author=|articleurl=https://www.elvish.org/Tengwestie/|articlename=Tengwestië|dated=22 February 2022|website=Tengwestië|accessed=8 January 2025}}</ref>
+
+==See also==
+*''[[Vinyar Tengwar]]''
+*''[[Parma Eldalamberon]]''
+
+==External links==
+*[https://www.elvish.org/Tengwestie/ Official website]
+{{title}}
+{{References}}
+[[Category:Journals]]
+[[Category:Linguistic websites]]
+[[fi:Tengwestië]]

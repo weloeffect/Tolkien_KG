@@ -1,0 +1,18 @@
+{{letter infobox
+| #=168
+| to=[[Richard Jeffery]]
+| date=[[7 September]] [[1955]]
+| subject=[[Languages]]
+}}{{letter|168}}
+==Summary==
+Richard Jeffery, an Oxford student, had some etymological queries. Tolkien replied late, because he was on vacation in Italy (as described in [[Letter 167]]). Jeffery had also sent a transcription of his name in [[Tengwar]], to which Tolkien replied that because there is no standard for Tengwar and English, he can't technically make mistakes. Tolkien promised more information on Tengwar in [[The Lord of the Rings Appendices|appendices]] to ''[[The Return of the King]]'', but the publishing was delayed because Tolkien tried to include a name-list of etymologies. 
+
+As for Jeffery's queries, Tolkien translated ''[[Orofarnë]]'' as "mountain-dwelling", ''[[Lassemista]]'' as "leaf-grey", and ''[[Carnimírië]]'' as "With adornment of red jewels". The plural of ''[[onod]]'' is ''enyd'', class plural ''[[onodrim]]'', but in [[Númenórean Sindarin|Gondor]], ''ened'' was used. ''[[Peregrin Took|Peregrin]]'' is a "real modern name", and Tolkien translated it as "traveller in strange countries". ''[[Frodo Baggins|Frodo]]'' is a real name form Germanic tradition. In Old English, it was ''Fróda'', and ''fród'' means "wise by experience".
+
+==Notes==
+* Jeffery would later receive [[Letter 347]], also containing several linguistic and etymological queries and guesses. 
+* Tolkien placed an overlay of [[Middle-earth]] on the map of Europe: he referred to Venice as "[[Gondor]]" and England as "[[Arnor|the North Kingdom]]". 
+* In a postscript, Tolkien wrote, in [[Quenya]] Tengwar, "nmárie". This word, known as [http://www.forodrim.org/daeron/mdtci.html#DTS_12 DTS 12], is obviously ''[[namárië]]'',  "farewell".  
+{{letters}}
+[[de:Brief 168]]
+[[Category:Letters to Richard Jeffery]]

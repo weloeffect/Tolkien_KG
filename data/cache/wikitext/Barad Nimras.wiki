@@ -1,0 +1,33 @@
+{{location infobox
+| name=Barad Nimras
+| image=Matěj Čadil - Barad Nimras.jpg
+| caption="Barad Nimras" by Matěj Čadil
+| pronun=
+| othernames=
+| location=[[Falas]], west of [[Eglarest]]
+| type=Tower
+| description=White tower overlooking the sea
+| regions=
+| towns=
+| inhabitants=[[Noldor]] ([[Elves of Nargothrond]]) and/or [[Falathrim]]
+| created={{FA|65}}
+| destroyed={{FA|473}}, [[Fall of the Falas]]
+| events=
+}}
+'''Barad Nimras''' was a tower on a headland westward of [[Eglarest]],<ref>{{S|Map}}</ref> built by [[Finrod|Finrod Felagund]] in {{FA|65}}.<ref>{{GA|90}}</ref> 
+
+Its purpose was to watch the western seas, and warn of any naval attack by [[Morgoth]]'s forces. As Morgoth never mounted any attack from the ocean, the tower was never in fact needed.<ref>{{S|Beleriand}}</ref>
+
+However, in the year after the [[Nirnaeth Arnoediad]],<ref>{{GA|254}}</ref> Morgoth did launch [[Fall of the Falas|a land-based attack]] on [[Eglarest]] and [[Brithombar]], and Barad Nimras was torn down at that time by the very foes it was meant to guard against.<ref>{{S|Fifth}}</ref>
+
+==Etymology==
+''Barad Nimras'' is [[Sindarin]] for "Tower of the White Horn",<ref>{{S|Index}}, entry "Barad Nimras"</ref> from ''[[barad]]'' ("tower"), ''[[nimp]]'' ("white") + ''[[ras]]'' ("horn"). It may be a reference to the tower itself, or perhaps to the narrow cape on which it stood.
+
+{{references}}
+[[Category:Beleriand]]
+[[Category:Falas]]
+[[Category:Sindarin locations]]
+[[Category:Towers]]
+[[de:Barad Nimras]]
+[[fi:Barad Nimras]]
+[[fr:encyclo:geographie:villes tours et forteresses:beleriand:barad nimras]]

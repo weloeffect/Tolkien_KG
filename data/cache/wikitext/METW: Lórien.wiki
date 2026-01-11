@@ -1,0 +1,24 @@
+{{Collectible card
+| image=METW - Lórien.jpg
+| name=Lórien
+| caption=
+| game=meccg
+| type=Site
+| alignment=Hero
+| region=Wold & Foothills
+| artist=[[Stefano Baldo]]
+| rarity=CommonB1
+| number=TW401
+}}
+'''METW: Lórien''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+'''''Note:''''' ''"Lórien" refers to [[Lothlórien|Lórien]] of [[J.R.R. Tolkien]]'s [[legendarium]].''
+
+==Card text==
+
+*'''''Site Path From [[METW: Rivendell|Rivendell]]:''''' [w] [w] [b] [w] 
+*'''''Site Path From [[METW: Edhellond|Edhellond]]:''''' [w] [b] [f] [f] [b] [w]
+
+''"'There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold. Not till the spring comes...do they fall, and then the boughs are laden with golden flowers...'"'' '''''-[[The Lord of the Rings|LotRII]]'''''
+
+[[Category:MECCG site cards|Lorien]]

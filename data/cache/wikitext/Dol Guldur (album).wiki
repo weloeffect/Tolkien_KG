@@ -1,0 +1,33 @@
+{{Album
+| title = Dol Guldur
+| image = DolGuldur.jpg
+| type = Studio album
+| artist = [[Summoning]]
+| released = 17 January [[1997]]
+| genre = Black Metal
+| length = 01:08:44
+| language = English
+| label = Napalm Records
+| recorded = 23 October [[1996]]
+}}
+
+'''''Dol Guldur''''' is the third full-length studio album by [[Summoning]] and was released in [[1997]]. The name is a reference to [[Dol Guldur]], the stronghold of [[Sauron]] located in the south of [[Mirkwood]]. [[J.R.R. Tolkien]] is credited for the lyrics alongside P.K. of the band Abigor.<ref name=":0">{{Cite web|articleurl=https://www.metal-archives.com/albums/Summoning/Dol_Guldur/88|articlename=Summoning - Dol Guldur Additional Notes|dated=17 May 2023|accessed=25 July 2024}}</ref> The cover artwork was adapted from the painting ''"[https://tolkiengateway.net/wiki/Category:Images_by_Roger_Garland#/media/File:Roger_Garland_-_Middle-earth.jpg Middle Earth]"'' by [[Roger Garland]] and the Ottenstein reservoir showing the ruins of Lichtenfels Castle.<ref name=":0" />
+
+==Lineup==
+
+*Protector: ''Vocals, Guitars, Keyboards''
+*Silenius: ''Bass, Keyboards, Vocals''
+
+==Track listing==
+
+#[[Angbands Schmieden]] - ''3:30''
+#[[Nightshade Forests]] – ''10:48''
+#[[Elfstone (song)|Elfstone]] – ''10:51''
+#[[Khazad Dúm (song)|Khazad Dúm]] – ''10:57''
+#[[Kôr (song)|Kôr]] – ''10:59''
+#[[Wyrmvater Glaurung]] – ''3:05''
+#[[Unto a Long Glory...]] – ''9:37''
+#[[Over Old Hills]] – ''8:57''
+{{title|italics}}{{References}}
+[[Category:Albums]]
+<references />

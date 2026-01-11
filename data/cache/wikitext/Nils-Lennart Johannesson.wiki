@@ -1,0 +1,29 @@
+{{person infobox
+| image = Nils-Lennart Johannesson.png
+| name=Nils-Lennart Johannesson
+| born=[[2 February]] [[1948]]<ref name=SG>{{webcite|author=|articleurl=https://www.svenskagravar.se/gravsatt/49583271-f6d9-49da-a634-4ab31fa0d9bb|articlename=Johannesson, Nils-Lennart Georg|dated=|website=[https://www.svenskagravar.se/ SvenskaGravar (Swedish Graves)]|accessed=24 March 2024}}</ref>
+| died=[[June 8]] [[2019]]<ref name=SG/>
+| education=[[Wikipedia:Stockholm University|Stockholm University]]<br>[[wikipedia:Yale University|Yale University]]
+| occupation=Professor
+| location=
+| website=
+}}
+'''Nils-Lennart Johannesson''' ([[1948]] - [[2019]]) was Professor of English Linguistics at [[Wikipedia:Stockholm University|Stockholm University]], teaching courses on English syntax, the history of the English language, and [[Old English|Old]] and [[Middle English]].<ref>{{webcite|author=Andrew Thomas Cooper|articleurl=http://www.english.su.se/about-us/contact/academic-staff/nils-lennart-johannesson-1.31847|articlename=Nils-Lennart Johannesson|dated=|website=[http://www.english.su.se/ Department of English, Stockholm University]|accessed=31 December 2011}}</ref> He was a member of the board of directors of [[Arda-sällskapet]] (the Arda Society), and published several articles about [[J.R.R. Tolkien]]'s works.<ref>List of contributors, in ''Arda'' 1987 (Vol. VII), p. xv</ref>
+
+==Bibliography, selected==
+===Articles===
+*[[1997]]: ''[[News from the Shire and Beyond - Studies on Tolkien]]''
+**"The Speech of the Individual and of the Community in ''The Lord of the Rings''"
+*[[1994]]: ''Nonstandard Varieties of Language. Papers from the Stockholm Symposium, 9–11 April 1991''. Edited by Gunnel Melchers and Nils-Lennart Johannesson. Stockholm Studies in English 84. Stockholm: Almqvist and Wiksell International.
+**"Subcreating a Stratified Community: On J.R.R. Tolkien's Use of Non-standard Forms in ''The Lord of the Rings''".
+*[[1992]]: ''Arda'' 1987, Vol. VII
+**"Studies in Tolkien's Language"
+*[[1988]]: [[Arda 1984/1985|''Arda'' 1984/1985]],  Vols. IV & V 
+**"Sure as Shiretalk - On Linguistic Variation in Hobbit Speech (Part One)"
+
+{{references}}
+{{DEFAULTSORT:Johannesson, Nils-Lennart}}
+[[Category:Academics]]
+[[Category:Authors]]
+[[Category:Linguists]]
+[[Category:Swedish people]]

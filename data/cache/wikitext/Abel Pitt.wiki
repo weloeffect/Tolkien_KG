@@ -1,0 +1,43 @@
+{{anglosaxon infobox
+| name=Abel Pitt
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=[[wikipedia:Trinity College, Oxford|Chaplain of Trinity College]] (formerly)<br />[[wikipedia:Bishop of Buckingham|Bishop of Buckingham]]<br />Scholar and occasional poet
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1928]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+Dr. '''Abel Pitt''' (born in [[1928]]) was a member of the [[Notion Club]].
+
+== History ==
+Dr. Abel Pitt was educated at Trinity College and was once the [[wikipedia:Trinity College, Oxford|Chaplain of Trinity College]] at [[Oxford]]. He later became a [[wikipedia:Bishop of Buckingham|Bishop of Buckingham]]. He was also a scholar and an occasional poet.<ref>{{SD|2b}}</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Pitt, Abel}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

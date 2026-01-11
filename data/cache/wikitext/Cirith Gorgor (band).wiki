@@ -1,0 +1,26 @@
+{{band
+| image = Cirith Gorgor.jpg
+| name=Cirith Gorgor
+| origin=The Netherlands
+| genre=[[:Category:Black metal|Black Metal]]
+| years=1993-present
+| label=
+| website=[http://www.cirithgorgor.nl/ www.cirithgorgor.nl]
+| members=Levithmong, Marchosias, Valtyr
+| formermembers=
+}}
+'''Cirith Gorgor''' is a Dutch [[:Category:Black metal|Black Metal]] band.
+
+In interviews, band member Marchosias clarified that the name is a relic of the band's earliest days, since their debut album and demo referred to Tolkien's works in some lyrics. Since then, the band has had no links to the legendarium, even expressing annoyance at continued questions about it.<ref>{{Cite web|articleurl=https://www.metal1.info/interviews/cirith-gorgor-sovereign-2019/?lang=english|articlename=Interview mit Marchosias und Satanael von Cirith Gorgor|website=[https://www.metal1.info metal1.info]|dated=24 May 2019}}</ref>
+
+==Discography, selected==
+* ''[[Mystic Legends...]]'' (Demo) (1997 - BBA)
+* ''[[Onwards to the Spectral Defile]]'' (CD/Picture LP) (1999 - Osmose)
+
+{{References}}
+==External links==
+* [http://www.cirithgorgor.nl Official Site]
+
+{{title}}
+[[Category:Bands]]
+[[Category:Black metal]]

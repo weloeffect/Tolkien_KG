@@ -1,0 +1,70 @@
+{{disambig-more|The Return of the King|[[The Return of the King (disambiguation)]]}}
+{{book
+|title=The Return of the King
+|image=The Lord of the Rings 1955-v3.png
+|author=[[J.R.R. Tolkien]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|date=[[20 October]] [[1955]] (UK)<br>[[5 January]] [[1956]] (US)
+|format=Hardcover; paperback; deluxe-edition; audio-book
+|pages=416
+|precededby=[[The Two Towers]] (1954)
+}}
+'''''The Return of the King''''' is the third of three volumes in ''[[The Lord of the Rings]]''. It is preceded by ''[[The Fellowship of the Ring]]'' and ''[[The Two Towers]]''. ''The Return of the King'' was originally released on [[20 October]] [[1955]] in the United Kingdom. After the high demand of the previous volumes, this was released in significantly more copies (7000 in the UK and 5000 in the US).<ref>{{HM|RC}}, p. xxxv</ref>
+
+The volume is divided into two books, Book V and VI. The [[The Lord of the Rings Appendices|Appendices]] are included in the end.
+
+==Title and structure==
+Tolkien conceived of ''The Lord of the Rings'' as a single work comprising six sections he called "books" and extensive appendices. The original publisher made the decision to split the work into three parts, publishing the fifth and sixth books and the appendices in the final volume. For the two final "books" Tolkien suggested the titles ''[[The War of the Ring]]'' and ''[[The End of the Third Age]]'', which however weren't used in publication; but in the case of the third volume, he suggested '''''[[The War of the Ring]]''''' or '''''The Return of the King'''''.<ref name=l136>{{L|136}}</ref>
+
+The chosen title refers to [[Aragorn]]'s assumption of the throne. Tolkien criticised it as giving away less of the story; but he was overruled by his publishers.
+
+;Structure
+The structure of ''The Return of the King'' mirrors somewhat that of ''The Two Towers'' in that the first section recounts the various adventures of several characters including a massive battle, and the second section resumes the quest of the [[Ring-bearers]].
+
+==Synopsis — Book V==
+[[File:J.R.R. Tolkien - The Return of the King.jpg|thumb|right|200px|Tolkien's preliminary design for the dust-jacket of ''The Return of the King''.]]
+The story begins as [[Peregrin Took|Pippin]] is in [[Rohan]], reunited with the remnants of the [[Fellowship of the Ring]]. He steals [[Saruman]]'s ''[[Palantíri|palantír]]'' and sees that [[Sauron]] will attack [[Minas Tirith]]. Then [[Gandalf]] delivers news to the [[Denethor|steward of Gondor]] that war is imminent.
+
+Gandalf brings Pippin with him, who enters the service of the steward. Aragorn by his courage and leadership proves himself a worthy ruler of [[Men]]. He is destined to find a [[Oathbreakers|lost army]] of men now dead yet entrapped in a curse set forth long ago by their own disobedience, in the place known as the [[Paths of the Dead]].
+
+The remnants of the Fellowship lead the forces of Gondor and Rohan in defence of Gondor's capital city, Minas Tirith, resulting in the cataclysmic [[Battle of the Pelennor Fields]]. Those characters that manage to survive the battle are led by Aragorn on a assuredly suicidal feint-attack against the [[Black Gate]] of [[Mordor]], partly to distract Sauron from defending his other borders so that [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] can gain a clear passage into Mordor. Aragorn's company now surrounds the Black Gates of the Morannon exchanging idle words with the [[Mouth of Sauron]].
+
+===Book V chapters===
+[[File:J.R.R. Tolkien - Helm's Deep and the Hornburg.jpg|thumb|200px|''Helm's Deep and the Hornburg'' by [[J.R.R. Tolkien]]]]
+*'''I · [[Minas Tirith (chapter)|Minas Tirith]]''' — Gandalf with Pippin arrive in Minas Tirith; they talk with [[Denethor]]; Pippin enters the service of the steward.
+*'''II · [[The Passing of the Grey Company]]''' — Follows Aragorn, [[Legolas]] and [[Gimli]] as they pass through the paths of the dead between Rohan and Gondor.
+*'''III · [[The Muster of Rohan]]''' — Rohan prepares for war; [[Meriadoc Brandybuck|Merry]] heads off for Minas Tirith, on a horse with a rider who calls himself [[Dernhelm]]. 
+*'''IV · [[The Siege of Gondor]]''' — Back to Gandalf and Pippin, and the preparations of the city of Minas Tirith for the attack by the armies of Mordor; Minas Tirith is besieged; chapter ends with the [[Great Gate of Minas Tirith]] broken, and the army of Rohan finally arriving. 
+*'''V · [[The Ride of the Rohirrim]]''' — The [[Rohirrim]] pass through the [[Drúadan Forest]] with the aid of the [[Drúedain|wild men]] who live there, that are led by [[Ghân-buri-Ghân]]; the army arrives in Minas Tirith. (As seen from their point of view)
+*'''VI · [[The Battle of the Pelennor Fields]]''' — Armies of Rohan and Gondor fight the armies of Mordor, [[Rhûn]] and [[Harad]] as described in [[Battle of the Pelennor Fields]]; Merry and [[Éowyn]] help to kill the [[Witch-king|chief]] of the [[Nazgûl]].
+*'''VII · [[The Pyre of Denethor]]''' — Denethor goes mad and tries to burn [[Faramir]] alive; he is saved by Gandalf; Denethor then sets fire to himself. They discover that Denethor has been using a ''palantír''.
+*'''VIII · [[The Houses of Healing]]''' — Merry, Faramir, Éowyn and many others are injured and placed in the [[Houses of Healing]]; Aragorn uses [[Athelas|kingsfoil]] to help treat the injured.
+*'''IX · [[The Last Debate]]''' — Gimli and Legolas meet Merry and Pippin again; the [[Captains of the West]] hold a [[Last Debate|Council]] on their next action; they decide to send [[Army of the West|an army]] of 7000 men against Mordor to march on the Black Gate.
+*'''X · [[The Black Gate Opens]]''' — The army, with Gandalf, Aragorn, Gimli, Legolas and Pippin (but not Merry) marches to the Black Gate. The Mouth of Sauron comes out to discuss terms, and presents tokens which were owned by Frodo; he then departs and the army of Mordor attacks them.
+
+==Synopsis — Book VI==
+In the meanwhile, the brave and loyal Samwise Gamgee (who for a short time has himself become the [[Ring-bearers|Ring-bearer]]) enables the long-suffering Frodo to navigate the barren wasteland of Mordor. For part of the way they are captured by a company of [[Orcs]] and must pretend to be Orcs before they are able to escape. The company, tired and half-alive, finally reach the [[Cracks of Doom]], where the [[The One Ring|One Ring]] is destroyed along with [[Gollum]], freeing [[Middle-earth]] from Sauron's power forever. This happens when Frodo at the last moment decides to keep the ring rather than destroy it, and is attacked by Gollum who bites off Frodo's finger to take the ring, trips, and falls into the lava while still holding the ring. Frodo and Sam are rescued by the giant [[Eagles]] who Gandalf rides to Mount Doom, from the Black Gates of Morannon. After Sauron is defeated, his armies at the Black Gates flee, and the men of Gondor and Rohan are victorious in the battle.
+
+Aragorn is crowned [[High King]] of the [[Reunited Kingdom]] at Minas Tirith. After a series of goodbyes, the hobbits return home, only to find [[the Shire]] under the control of '[[Sharkey]]' who they find out is Saruman, diminished in power but not in malevolence. Merry and Pippin, now experienced warriors of Rohan and Gondor respectively, take the lead in setting things right again, and lead an uprising of [[Hobbits]] against Saruman, freeing the Shire. Time passes. The Shire heals, but Frodo does not. Eventually Frodo departs for the [[Aman|Undying Lands]] to find healing, along with [[Bilbo Baggins]], Gandalf and the [[Elves]]. Sam, Merry and Pippin watch them depart and return home in silence. Sam is greeted by his wife [[Rose Cotton|Rose]] and his daughter [[Elanor Gardner|Elanor]]. In the last line of the book Sam says to Rosie; "Well, I'm back".
+
+===Book VI chapters===
+*'''I · [[The Tower of Cirith Ungol]]''' — Sam goes to find Frodo in the Orc tower.
+*'''II · [[The Land of Shadow]]''' — Sam and Frodo make their way into Mordor; they are captured by an Orc company.
+*'''III · [[Mount Doom (chapter)|Mount Doom]]''' — Frodo and Sam reach Mount Doom; the final battle for the ring between Gollum and Frodo.
+*'''IV · [[The Field of Cormallen]]''' — The story returns to the Gate of Mordor, continuing from Book Five, chapter X; the eagles arrive; Captains of the West victorious; Frodo and Sam rescued by Gandalf; all the company meets again in Ithilien.
+*'''V · [[The Steward and the King]]''' — chapter begins in Minas Tirith at the Houses of Healing after the armies departed for the Black Gate; Éowyn taken to see Faramir, Merry is also in Minas Tirith; later they see the arrival of the armies with Aragorn, Gandalf and the four hobbits; Gandalf crowns Aragorn King; Aragorn makes Faramir [[Prince of Ithilien|Prince]] of [[Ithilien]] and keeps the office of [[Steward of Gondor|Steward]]; Gandalf takes Aragorn to [[Mindolluin|Mount Mindolluin]] to survey the lands of his kingdom. On the Eve of Midsummer, Elrond, Galadriel, Arwen and the elves arrive in the city from the north; wedding of Aragorn and Arwen.
+*'''VI · [[Many Partings]]''' — The company rides north to Rohan, then [[Isengard]], where Gimli and Legolas head north through Fangorn, Aragorn returns to his kingdom, the rest of the company heads north where they meet Saruman and [[Gríma|Gríma Wormtongue]] who were just released from Isengard; Galadriel and the Elves of [[Lothlórien]] leave over the [[Caradhras|Pass of Caradhras]]; the hobbits and Gandalf then arrive in [[Rivendell]].
+*'''VII · [[Homeward Bound]]''' — The hobbits and Gandalf travel to [[Bree]] where they stay at [[The Prancing Pony]], and are told by [[Barliman Butterbur]] that there has been trouble in Bree while they have been away.
+*'''VIII · [[The Scouring of the Shire]]''' — The hobbits arrive in the Shire to find it taken over by 'the Chief' or 'Sharkey' at Bag End; [[Battle of Bywater]]; the hobbits find Saruman and Gríma at Bag End; Gríma kills Saruman, and is then killed himself by hobbit archers.
+*'''IX · [[The Grey Havens]]''' — cleaning up of the shire; several years pass; Sam and Frodo meet the Elves and Bilbo travelling west through the Shire, they travel to the [[Grey Havens]] where they meet Gandalf, and Merry and Pippin arrive; Frodo, Bilbo, Gandalf and the elves set sail to the west; Sam returns to Rose and Elanor at Bag End.
+{{references}}
+{{lotr}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Return of the King, The}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:The Lord of the Rings chapters]]
+[[Category:Publications by title]]
+[[de:Die Rückkehr des Königs]]
+[[fi:Kuninkaan paluu]]

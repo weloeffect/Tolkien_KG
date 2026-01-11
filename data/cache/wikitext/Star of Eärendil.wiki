@@ -1,0 +1,43 @@
+{{sources}}
+{{disambig-more|Eärendil|[[Eärendil (disambiguation)]]}}
+{{object infobox
+| name=Star of Eärendil
+| image = Alan Lee - Surely that is a Silmaril that shines now in the West.jpg
+| caption="Gil-Estel" by [[Alan Lee]]
+| pronun=
+| othernames=''Gil-Estel'' ([[Sindarin|S]])<br />''Azrubêl'' ([[Adûnaic|A]])
+| location=Circling the heavens
+| owner=[[Eärendil]]
+| type=Star
+| appearance=Radiant star in the heavens
+| creator=[[Elbereth]]
+| created={{FA|542}}
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| gallery=the Star of Eärendil
+}}
+{{quote|Aiya Eärendil elenion ancalima!|[[Frodo]] in ''[[The Two Towers]]'', "[[The Choices of Master Samwise]]"}}
+The '''Star of Eärendil''' is the light that shines in the horizon both in the morning and the evening. It consists in a boat raised by the [[Valar]] and led by [[Eärendil]], who carries a shining [[Silmaril]] while watching the [[Doors of Night]].
+
+==History==
+After [[Beren]] and [[Lúthien]] rescued a Silmaril from [[Morgoth]]'s [[Iron Crown]], this was later given to their descendant [[Elwing]], wife of [[Eärendil]]. Both took it to [[Aman]], and the Valar decided to rise it as a new star. In a vessel appointed by [[Elbereth]], Eärendil rose in the horizon as a sign of hope for [[Elves]] and [[Men]]. 
+
+{{blockquote|Now fair and marvellous was that vessel made, and it was filled with a wavering flame, pure and bright; and Eärendil the Mariner sat at the helm, glistening with dust of elven-gems, and the Silmaril was bound upon his brow. Far he journeyed in that ship, even into the starless voids; but most often was he seen at morning or at evening, glimmering in sunrise or sunset, as he came back to Valinor from voyages beyond the confines of the world.<br />. . .<br />Now when first Vingilot was set to sail in the seas of heaven, it rose unlooked for, glittering and bright; and the people of Middle-earth beheld it from afar and wondered, and they took it for a sign, and called it Gil-Estel, the Star of High Hope.|''[[Quenta Silmarillion]]'', "[[Of the Voyage of Eärendil and the War of Wrath]]"}} 
+
+As it first rose in the West, it was recognised by the [[Noldo]]-lord [[Maedhros]] as the jewel of his [[Fëanor|father]] that he had sought for so long, now placed out of his reach beyond the [[Circles of the World]]. 
+
+It was Eärendil and the light of his star that led the [[Edain]] to [[Númenor]] in the early [[Second Age]], and at that time the light of the Star was so brilliant that it hid all the other stars in the sky. From its guiding light came the [[Númenóreans]]' name for their land, [[Elenna]], meaning "Starwards". 
+
+The light of Eärendil's Star played a crucial role much later in history as well. It was light from this star that was gathered in [[Frodo Baggins|Frodo]]'s [[Phial of Galadriel|phial]], his gift from [[Galadriel]], which helped him survive his journey into [[Mordor]]. Even today the star still shines — the story of Eärendil and his Silmaril was the Elvish account of the "star" we know today as the planet [[:Wikipedia:Venus|Venus]].
+
+==Other versions of the legendarium==
+Earlier forms of the name ''Gil-Estel'' were ''Gil-Orestel'', ''Gil-[[amdir (Sindarin word)|Amdir]]'' and ''Gil-Orrain''.<ref>{{WJ|Last}}, p. 246</ref>
+
+In ''[[The Nature of Middle-earth]]'', this star was historically known as ''[[Elmō]]'' in [[Primitive Elvish]].<ref>{{NM|P3i}}, Text 1B, p. 281</ref>
+
+{{references}} 
+{{cosmology}}
+[[Category:Stars]]
+[[de:Earendils Stern]]

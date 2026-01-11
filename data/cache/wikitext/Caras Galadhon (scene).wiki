@@ -1,0 +1,18 @@
+{{stub}}
+{{title}}
+{{disambig-more|Caras Galadhon|[[Caras Galadhon (disambiguation)]]}}
+{{scene
+| name = Caras Galadhon
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Motion Picture Trilogy - Caras Galadhon.jpg
+| number = 32 (theatrical)<br>
+           38 (extended)
+| duration =
+| event =
+| characters =
+| previous = [[Lothlórien (scene)|Lothlórien]]
+| next = [[The Mirror of Galadriel (scene)|The Mirror of Galadriel]]
+}}
+'''Caras Galadhon''' is the thirty-second scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-eighth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|38]]

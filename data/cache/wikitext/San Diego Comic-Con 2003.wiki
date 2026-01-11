@@ -1,0 +1,22 @@
+{{convention
+| image=
+| title=Comic-Con 2003
+| location=San Diego Convention Center
+| organizer=
+| dates=2003
+| attendees=
+|}}
+'''Comic-Con 2003''' was the annual [[Comic-Con]] convention held in San Diego in [[2003]]. As it was the same year [[The Lord of the Rings: The Return of the King]] was released, there were numerous Tolkien-related activities.
+
+
+==External links==
+===Reports===
+* [http://www.west-of-the-moon.net/europanya.htm Europanya's Report]
+
+===Images===
+* [http://www.theonering.net/scrapbook/author/Comic-Con_2003 TheOneRing.net Gallery]
+* [http://www.pbase.com/frodoholic/san_diego_comiccon Dar Ferguson's Gallery]
+
+{{comic-con|2002|2004}}
+
+[[Category:Conventions]]

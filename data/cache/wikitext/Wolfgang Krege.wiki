@@ -1,0 +1,52 @@
+{{author infobox
+| image=W. Krege.jpg
+| name=Wolfgang Krege
+| born=[[1 February]] [[1939]]
+| died=[[13 April]] [[2005]]
+| education=
+| occupation=Translator, author
+| location=
+| website=
+|}}
+'''Wolfgang Krege''' ([[1 February]] [[1939]] — [[13 April]] [[2005]])<ref name="LK">Kuppler, Lisa: ''Wolfgang Krege. 1.2.1939-13.4.2005. Ein Nachruf'', in: ''Der Flammifer von Westernis'' No. 24 (1/2005).</ref> was a German author and translator. He translated several of [[J.R.R. Tolkien|Tolkien]]'s works to German. 
+
+Wolfgang Krege grew up in Berlin, where he began his philosophy studies at the [[wikipedia:Free University of Berlin|Free University of Berlin]] during the early 1960s. He worked as a lexicon editor, copywriter and reader. Since [[1970]] he worked as a translator for numerous publishing groups, too.<ref name="LK"/>
+
+The first of Tolkien’s books Krege translated, was ''[[The Silmarillion]]'' (''Das Silmarillion'' [[1978]]). His new translation of ''[[The Hobbit]]'' was published [[1997]] (''Der Hobbit oder Hin und zurück''). With his knowledge of J.R.R. Tolkien and his works, he wrote the encyclopaedia ''Handbuch der Weisen von Mittelerde'' in [[1996]] and an [[Elvish]] dictionary, called ''Elbisches Wörterbuch'', in [[2003]]. 
+
+Beside his translations of Tolkien’s works, he was the translator of books by authors like [[wikipedia:Anthony Burgess|Anthony Burgess]], [[wikipedia:E.Annie Proulx|E. Annie Proulx]], [[wikipedia:Amélie Nothomb|Amélie Nothomb]], [[wikipedia:Joseph Conrad|Joseph Conrad]], [[wikipedia:William Goldman|William Goldman]] and many others.<ref>{{webcite|articleurl=http://www.dnb.de/DE/Home/home_node.html|articlename=Katalog der Deutschen Nationalbibliothek|website=German National Library|accessed=8 July 2025}}</ref>
+
+In [[2000]] his most discussed translation was published, a new German rendering of ''[[The Lord of the Rings]]'' (''Der Herr der Ringe''), to replace [[Margaret Carroux]]’ earlier translation. Krege tried to render the original language styles into German equivalents and to make the translated text, in his view, more vivid and easier to understand for younger readers. This worked mostly, but major points of critism of his translation were that he used the different language styles in a too inconsistent way and that he chose the German of the early 1990s, including various slang words of this time.<ref>[http://www.spiegel.de/kultur/literatur/0,1518,100975,00.html ''Dalli Dalli in Mittelerde''], critical article about the new translation by Rüdiger Sturm, published 3 November, 2000.</ref><ref>[[Rainer Nagel|Nagel, Rainer]]: ''Verschiedene Interpretationen eines Textes als Grundlage von Übersetzungsstrategie. Die »alte« und die »neue« deutsche HdR-Übersetzung'', in: ''[[Hither Shore]]'' 1 (2004), p. 85–117.</ref>
+
+Wolfgang Krege was married to the German editor and translator Roswith Krege-Mayer.<ref name="LK"/>
+
+== Bibliography ==
+
+=== Translations ===
+*[[1978]]: ''[[The Silmarillion]]'' (''Das Silmarillion'')
+*[[1979]]: ''[[J.R.R. Tolkien: A Biography]]'' (''J. R. R. Tolkien: Eine Biographie'')
+*[[1982]]: ''[[On Fairy-Stories]]'' (''Über Märchen'', published in the anthology ''Baum und Blatt'')
+*[[1984]]: ''[[A Secret Vice]]'' (''Ein heimliches Laster'', published in the anthology ''Gute Drachen sind rar'')
+*[[1984]]: ''[[Beowulf: The Monsters and the Critics]]'' (''Beowulf: Die Ungeheuer und ihre Kritiker'', published in the anthology ''Gute Drachen sind rar'')
+*[[1987]]: ''[[Sir Gawain and the Green Knight]]'' (''Sir Gawain und der Grüne Ritter'', published in the anthology ''Die Ungeheuer und ihre Kritiker'')
+*[[1991]]: ''[[The Letters of J.R.R. Tolkien]]'' (''J.R.R. Tolkien: Briefe'')
+*[[1997]]: ''[[The Hobbit]]'' (''Der Hobbit oder Hin und zurück'')
+*[[2000]]: ''[[The Lord of the Rings]]'' (''Der Herr der Ringe'')
+*[[2002]]: ''[[J.R.R. Tolkien: Author of the Century]]'' (''J. R. R. Tolkien: Autor des Jahrhunderts'')
+
+=== Original works ===
+*[[1996]]: ''[[Handbuch der Weisen von Mittelerde]]'' (Middle-earth guide)
+*[[2003]]: ''[[Elbisches Wörterbuch]]'' (Elvish/German dictionary)
+
+== References ==
+<references/>
+
+== External Links ==
+* [http://www.tolkiengesellschaft.de/v4/alleszutolkien/uebersetzung/docs/dtg.pdf  List of translation errors made by Krege in ''The Lord of the Rings''] (German)
+* [http://www.aslanidis.de/lotr/chapter%201.01.html Comparing the translations of Margaret Carroux and Wolfgang Krege]
+
+[[Category:Authors|Krege, Wolfgang]]
+[[Category:Translators|Krege, Wolfgang]]
+[[Category:German people|Krege, Wolfgang]]
+[[Category:People by name|Krege, Wolfgang]]
+[[de:Wolfgang Krege]]

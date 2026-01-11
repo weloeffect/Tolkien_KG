@@ -1,0 +1,41 @@
+{{person infobox
+| image = Dick Plotz.jpeg
+| name=Richard Plotz
+| born=[[15 August]] [[1948]]
+| died=[[2 March]] [[2024]]
+| education=Harvard College
+| occupation= Cytopathologist
+| location=
+| website=
+}}
+'''Richard "Dick" Plotz''' ([[1948]] - [[2024]])<ref name=obit>{{webcite|author=|articleurl=https://www.legacy.com/us/obituaries/name/richard-plotz-obituary?id=54532878|articlename=Richard Plotz Obituary|dated=|website=4 March 2024|accessed=5 March 2024}}</ref> was the founder of the [[Tolkien Society of America]].
+
+==Biography==
+Plotz became involved in the [[Fandom|Tolkien community]] in the 1960s. In [[1965]] he formed the [[Tolkien Society of America]] (Which merged with the [[Mythopoeic Society]] in [[1972]]).<ref name=obit/><ref>{{webcite|author=|articleurl=https://www.mythsoc.org/about.htm|articlename=About the Society|dated=|website=[https://www.mythsoc.org/ Mythopeoic Society]|accessed=6 March 2024}}</ref> He says it began after he saw writing in [[Elvish]] on the wall of a subway station. He responded back in Elvish and became part of a conversation in Elvish written on various subway station walls. After becoming curious as to who was doing the writing he wrote the date and location of the first Tolkien Society meeting. Early attendees of these meetings include [[W.H. Auden]] and [[Deborah Rogers]].<ref>[http://news.google.com/newspapers?id=ByEsAAAAIBAJ&sjid=xp0FAAAAIBAJ&pg=1021%2C4717932 Dick Plotz about Tolkien Society foundation]</ref><ref name=obitbratman>{{webcite|author=[[David Bratman]]|articleurl=https://kalimac.blogspot.com/2024/03/obituary-richard-plotz.html|articlename=obituary: Richard Plotz|dated=5 March 2024|website=|accessed=6 March 2024}}</ref>
+
+Plotz corresponded with [[J.R.R. Tolkien]] and visited him at his home twice.<ref name=obit/> He received a letter from Tolkien ([[Letter 276]]) regarding his opinions on The Tolkien Society and answering questions Plotz has asked about his books.<ref>{{L|276}}</ref> He interviewed Tolkien for the [[Seventeen|January 1967 issue of ''Seventeen'']]. He also is known for a letter he received from Tolkien ([[Letter 293a]]) specifying the declension of the noun in late Quenya (hence called "[[The Plotz Declension]]")<ref>{{LE|293a}}</ref>
+==Bibliography==
+*[[1965]]: ''[[Tolkien Journal]]'', [https://dc.swosu.edu/cgi/viewcontent.cgi?article=1001&context=tolkien_journal Vol 1, Issue 1]
+*[[1965]]: ''[[Tolkien Journal]]'', [https://dc.swosu.edu/cgi/viewcontent.cgi?article=1002&context=tolkien_journal Vol, 1 Issue 2]
+*[[1966]]: ''[[Tolkien Journal]]'', Vol 2, Issue 1
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1008&context=tolkien_journal Editorial Comment]
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1003&context=tolkien_journal Tolkien Notes From All Over]
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1010&context=tolkien_journal Poetry Contest]
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1011&context=tolkien_journal The Meeting]
+*[[1966]]: ''[[Tolkien Journal]]'', Vol 2, Issue 2
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1014&context=tolkien_journal Tolkien Notes From All Over & Editorial Notes]
+*[[1966]]: ''[[Tolkien Journal]]'', Vol 2, Issue 3
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1021&context=tolkien_journal Tolkien Notes From All Over]
+*[[1967]]: ''[[Tolkien Journal]]'', Vol 3, Issue 1
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=1029&context=tolkien_journal Introduction/Dedication]
+*[[1993]]: ''[[Mythlore 71]]''
+**[https://dc.swosu.edu/cgi/viewcontent.cgi?article=2733&context=mythlore "Tolkien and I: A Brief Memoir"]
+==See also==
+*[[:Category:Letters to Dick Plotz]]
+{{references}}
+
+[[Category:Tolkien Society members|Plotz, Dick]]
+[[Category:American people|Plotz, Dick]]
+[[Category:People by name|Plotz, Dick]]
+[[de:Richard Plotz]]
+[[fi:Dick Plotz]]

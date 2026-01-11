@@ -1,0 +1,99 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Adûnaphel
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Liz Danforth - Adûnaphel.jpeg
+| caption=''“Adûnaphel”'' by [[Liz Danforth]]
+| pronun=
+| othernames=Lady of the West<br>the Quiet Avenger<br>Ard Once Vain
+| titles=Seventh of the [[Nazgûl]]
+| position=[[Minstrels|Bard]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1823}}
+| birthlocation=[[Forostar]]
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Female
+| height=6 ft<ref name=ICE>{{ICE|8003}}, pp. 81-83</ref>
+| hair=
+| eyes=
+| clothing=Black scale armour<br>Lion's cowl helmet<br>Fell-turtle helmet<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>Fire's Edge<br>Night-piercer
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Otsëa
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=
+| titles=Black Specter
+| position=Seventh of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| steed=Black horse
+}}
+}}
+The '''Seventh of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Adûnaphel'', a [[Númenóreans|Númenórean]] woman, a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>[[Middle-earth: The Wizards]]</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] Otsëa'' ([[Quenya|Q.]] Seventh Nazgûl), and assigning the epithet of ''Black Specter''.<ref>{{LOTRTCGW|Ulaire Otsea, Black Specter (12R179)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+
+==Backstory in Middle-earth Role Playing==
+'''Adûnaphel''' was born in the Númenórean province of [[Forostar]] in S.A. 1823. Her family was of noble blood, and she was noted for her exceptional beauty.
+
+Her father's early death left her in prolonged grief and deep conflict with her mother Alcariel, whose ties to the Elves had long strained the family. This animosity fueled her support for her uncle Adûnâzil's Adûnaic faction during the reign of [[Tar-Ciryatan]], which sought to sever ties with the Elves and expand Númenórean influence and power over Middle-earth.
+
+In {{SA|1914}}, driven by a desire for a crown, like many of her allies she left Númenor for Middle-earth. She established a domain centred around a citadel at Vamag on the northwestern tip of a peninsula near the haven of [[Umbar]]. By {{SA|1939}}, as ''Ard the Vain'' she controlled a vast coastal region between Umbar and the river Harnen. She gained great influence over the local [[Haradrim]], who came to revere her as their king.
+
+Adûnaphel's ambition led to conflict with her own king, Tar-Ciryatan, who demanded homage and taxes. The ensuing fourteen years of diplomatic disputes were seen by [[Sauron]] as an opportunity to counter his rival for influence over the Southrons as well as a way to delay Númenórean expansion.
+
+After a few small wars against her, based on information he got from his agents, Sauron changed his approach. Appealing to her vanity, hatred of the Elves, and yearning for immortality, he offered her a [[Rings of Power|Ring of Power]] in {{SA|2001}}, making her the seventh King to fall under his sway.
+
+Over the next three centuries she withdrew into seclusion, shunning sunlight, and no longer playing her lute in the morning hours. Her Haradrim subjects dubbed her ''Ard once Vain'', while her [[Black Númenóreans|Black Númenórean]] subjects called her ''Adûnaphel the Quiet''.
+
+In {{SA|2280}}, Adûnaphel's forces attacked Umbar, but they were defeated by disciplined Númenórean warriors at the Battle of the Gleaming Shore. This loss ended her hopes of ruling Harad, and she abandoned Vamag, moving northward. She established a new capital at Lugarlir on the Harnen river, where she ruled for nearly a thousand years on behalf of Sauron. When Sauron surrendered to [[Ar-Pharazôn]], she retreated to Mordor, directing his campaigns until she passed into shadows as Sauron was overthrown in the [[War of the Last Alliance]].
+
+She reappeared in the Third Age around {{TA|1050}}, returning to Lugarlir, just after [[Hyarmendacil I]] conquered Harad. For six centuries she fought Gondor by inciting and coercing rebellions.
+
+When the [[Great Plague]] weakened Gondor and the Watch on Mordor ceased, she joined her fellow Nazgûl in preparing the Black Land for her master's return. With [[Ninth of the Nazgûl|Ûvatha]] and [[Fifth of the Nazgûl|Akhôrahil]] she first she first went to [[Nurn]]. After Sauron's return to Mordor, she joined [[Khamûl]] to reopen [[Dol Guldur]] in {{TA|2951}}.
+
+During the [[War of the Ring]], Adûnaphel rode with the Black Riders in search of the One Ring.<ref group=note>As she once again accompanied Khamûl in the Shire, she might be identified as [[F|a Nazgûl Tolkien labeled "F"]].</ref> She returned to Dol Guldur after their defeat at the [[Ford of Bruinen]], launching failed assaults on [[Lothlórien]] and the [[Woodland Realm]]. Later, she fought at the [[Battle of the Morannon]], where she perished with Sauron's defeat.<ref name=ICE/>
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have possessed the following weapons:
+*'''Fire's Edge''': A black [[Metals_in_Middle-earth_Role_Playing#Ithilnaur|ithilnaur]] broadsword inlaid with gold. It had a ruby-tipped pommel.<ref>{{ICE|2010}},  p. 29</ref>
+* '''Night-piercer''': A steel composite bow which can make its target glow.<ref>{{ICE|2010}},  p. 39</ref>
+{{References|notes}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 7}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

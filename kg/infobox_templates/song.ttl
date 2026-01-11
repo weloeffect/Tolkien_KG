@@ -1,0 +1,843 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Journey_In_The_Dark_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "A Journey In The Dark (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/A_Journey_In_The_Dark_%28soundtrack%29> .
+
+<http://localhost:8000/page/A_Knife_In_The_Dark_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "A Knife In The Dark (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/A_Knife_In_The_Dark_%28soundtrack%29> .
+
+<http://localhost:8000/page/A_New_Power_Is_Rising> a schema:WebPage ;
+    rdfs:label "A New Power Is Rising"@en ;
+    schema:about <http://localhost:8000/resource/A_New_Power_Is_Rising> .
+
+<http://localhost:8000/page/A_Shortcut_to_Mushrooms_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "A Shortcut to Mushrooms (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/A_Shortcut_to_Mushrooms_%28soundtrack%29> .
+
+<http://localhost:8000/page/Amon_Hen_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Amon Hen (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_%28soundtrack%29> .
+
+<http://localhost:8000/page/An%C3%ADron> a schema:WebPage ;
+    rdfs:label "Aníron"@en ;
+    schema:about <http://localhost:8000/resource/An%C3%ADron> .
+
+<http://localhost:8000/page/At_The_Sign_Of_The_Prancing_Pony_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "At The Sign Of The Prancing Pony (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/At_The_Sign_Of_The_Prancing_Pony_%28soundtrack%29> .
+
+<http://localhost:8000/page/Bag_End_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Bag End (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Bag_End_%28soundtrack%29> .
+
+<http://localhost:8000/page/Concerning_Hobbits_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Concerning Hobbits (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Concerning_Hobbits_%28soundtrack%29> .
+
+<http://localhost:8000/page/Dagor_Bragollach_%28song%29> a schema:WebPage ;
+    rdfs:label "Dagor Bragollach (song)"@en ;
+    schema:about <http://localhost:8000/resource/Dagor_Bragollach_%28song%29> .
+
+<http://localhost:8000/page/Dor_Daedeloth_%28song%29> a schema:WebPage ;
+    rdfs:label "Dor Daedeloth (song)"@en ;
+    schema:about <http://localhost:8000/resource/Dor_Daedeloth_%28song%29> .
+
+<http://localhost:8000/page/Flight_To_The_Ford_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Flight To The Ford (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Flight_To_The_Ford_%28soundtrack%29> .
+
+<http://localhost:8000/page/Give_Up_the_Halfling> a schema:WebPage ;
+    rdfs:label "Give Up the Halfling"@en ;
+    schema:about <http://localhost:8000/resource/Give_Up_the_Halfling> .
+
+<http://localhost:8000/page/Gollum%27s_Song> a schema:WebPage ;
+    rdfs:label "Gollum's Song"@en ;
+    schema:about <http://localhost:8000/resource/Gollum%27s_Song> .
+
+<http://localhost:8000/page/Into_the_West> a schema:WebPage ;
+    rdfs:label "Into the West"@en ;
+    schema:about <http://localhost:8000/resource/Into_the_West> .
+
+<http://localhost:8000/page/Keep_It_Secret%2C_Keep_It_Safe> a schema:WebPage ;
+    rdfs:label "Keep It Secret, Keep It Safe"@en ;
+    schema:about <http://localhost:8000/resource/Keep_It_Secret%2C_Keep_It_Safe> .
+
+<http://localhost:8000/page/Khazad_D%C3%BAm_%28song%29> a schema:WebPage ;
+    rdfs:label "Khazad Dúm (song)"@en ;
+    schema:about <http://localhost:8000/resource/Khazad_D%C3%BAm_%28song%29> .
+
+<http://localhost:8000/page/Lothl%C3%B3rien_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Lothlórien (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Lothl%C3%B3rien_%28soundtrack%29> .
+
+<http://localhost:8000/page/Lugburz_%28song%29> a schema:WebPage ;
+    rdfs:label "Lugburz (song)"@en ;
+    schema:about <http://localhost:8000/resource/Lugburz_%28song%29> .
+
+<http://localhost:8000/page/Many_Meetings_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Many Meetings (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Many_Meetings_%28soundtrack%29> .
+
+<http://localhost:8000/page/May_It_Be> a schema:WebPage ;
+    rdfs:label "May It Be"@en ;
+    schema:about <http://localhost:8000/resource/May_It_Be> .
+
+<http://localhost:8000/page/Mithrandir_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Mithrandir (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Mithrandir_%28soundtrack%29> .
+
+<http://localhost:8000/page/Morthond_%28song%29> a schema:WebPage ;
+    rdfs:label "Morthond (song)"@en ;
+    schema:about <http://localhost:8000/resource/Morthond_%28song%29> .
+
+<http://localhost:8000/page/Nightshade_Forests> a schema:WebPage ;
+    rdfs:label "Nightshade Forests"@en ;
+    schema:about <http://localhost:8000/resource/Nightshade_Forests> .
+
+<http://localhost:8000/page/Over_Old_Hills> a schema:WebPage ;
+    rdfs:label "Over Old Hills"@en ;
+    schema:about <http://localhost:8000/resource/Over_Old_Hills> .
+
+<http://localhost:8000/page/Prologue%3A_One_Ring_to_Rule_Them_All> a schema:WebPage ;
+    rdfs:label "Prologue: One Ring to Rule Them All"@en ;
+    schema:about <http://localhost:8000/resource/Prologue%3A_One_Ring_to_Rule_Them_All> .
+
+<http://localhost:8000/page/Rivendell_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Rivendell (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Rivendell_%28soundtrack%29> .
+
+<http://localhost:8000/page/Saruman_the_White> a schema:WebPage ;
+    rdfs:label "Saruman the White"@en ;
+    schema:about <http://localhost:8000/resource/Saruman_the_White> .
+
+<http://localhost:8000/page/South_Away> a schema:WebPage ;
+    rdfs:label "South Away"@en ;
+    schema:about <http://localhost:8000/resource/South_Away> .
+
+<http://localhost:8000/page/That%27s_What_Bilbo_Baggins_Hates> a schema:WebPage ;
+    rdfs:label "That's What Bilbo Baggins Hates"@en ;
+    schema:about <http://localhost:8000/resource/That%27s_What_Bilbo_Baggins_Hates> .
+
+<http://localhost:8000/page/The_Black_Rider> a schema:WebPage ;
+    rdfs:label "The Black Rider"@en ;
+    schema:about <http://localhost:8000/resource/The_Black_Rider> .
+
+<http://localhost:8000/page/The_Breaking_Of_The_Fellowship_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Breaking Of The Fellowship (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Breaking_Of_The_Fellowship_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Bridge_of_Khazad-d%C3%BBm_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Bridge of Khazad-dûm (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Caverns_of_Isengard> a schema:WebPage ;
+    rdfs:label "The Caverns of Isengard"@en ;
+    schema:about <http://localhost:8000/resource/The_Caverns_of_Isengard> .
+
+<http://localhost:8000/page/The_Council_Of_Elrond_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Council Of Elrond (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Council_Of_Elrond_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Great_River_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Great River (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Great_River_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Greatest_Adventure> a schema:WebPage ;
+    rdfs:label "The Greatest Adventure"@en ;
+    schema:about <http://localhost:8000/resource/The_Greatest_Adventure> .
+
+<http://localhost:8000/page/The_Legend_of_the_Master-Ring> a schema:WebPage ;
+    rdfs:label "The Legend of the Master-Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_Legend_of_the_Master-Ring> .
+
+<http://localhost:8000/page/The_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "The Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/The_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/The_Passing_of_the_Elves> a schema:WebPage ;
+    rdfs:label "The Passing of the Elves"@en ;
+    schema:about <http://localhost:8000/resource/The_Passing_of_the_Elves> .
+
+<http://localhost:8000/page/The_Prophecy> a schema:WebPage ;
+    rdfs:label "The Prophecy"@en ;
+    schema:about <http://localhost:8000/resource/The_Prophecy> .
+
+<http://localhost:8000/page/The_Ring_Goes_South_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Ring Goes South (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Ring_Goes_South_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Shadow_Of_The_Past_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Shadow Of The Past (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Shadow_Of_The_Past_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Shire_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Shire (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Shire_%28soundtrack%29> .
+
+<http://localhost:8000/page/They%27re_taking_the_Hobbits_to_Isengard> a schema:WebPage ;
+    rdfs:label "They're taking the Hobbits to Isengard"@en ;
+    schema:about <http://localhost:8000/resource/They%27re_taking_the_Hobbits_to_Isengard> .
+
+<http://localhost:8000/page/Through_the_Forest_of_Dol_Guldur> a schema:WebPage ;
+    rdfs:label "Through the Forest of Dol Guldur"@en ;
+    schema:about <http://localhost:8000/resource/Through_the_Forest_of_Dol_Guldur> .
+
+<http://localhost:8000/page/Ungolianth> a schema:WebPage ;
+    rdfs:label "Ungolianth"@en ;
+    schema:about <http://localhost:8000/resource/Ungolianth> .
+
+<http://localhost:8000/page/Unto_a_Long_Glory...> a schema:WebPage ;
+    rdfs:label "Unto a Long Glory..."@en ;
+    schema:about <http://localhost:8000/resource/Unto_a_Long_Glory...> .
+
+<http://localhost:8000/page/Weathertop_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Weathertop (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Weathertop_%28soundtrack%29> .
+
+<http://localhost:8000/resource/An%C3%ADron> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Wikipedia%3AThe_Very_Best_of_Enya> ;
+    tg:composer <http://localhost:8000/resource/Enya%2C_Wikipedia%3ANicky_Ryan> ;
+    tg:duration "2:42"@en ;
+    tg:image "The_Very_Best_of_Enya.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer "Enya"@en ;
+    tg:spotify "https://open.spotify.com/track/0vDwe7rbzdVeGsfelTTrG5"@en ;
+    tg:title "Aníron"@en ;
+    tg:track "2 or 21"@en .
+
+<http://localhost:8000/resource/Gollum%27s_Song> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "5:51"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Farewell_to_Lorien_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Samwise_the_Brave> ;
+    tg:spotify "https://open.spotify.com/track/0mQ1btcyqFDvTpaCFs04cR"@en ;
+    tg:subtitle "performed by Emilíana Torrini"@en ;
+    tg:title "Gollum's Song"@en ;
+    tg:track "19"@en .
+
+<http://localhost:8000/resource/Into_the_West> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "5:47"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Grey_Havens_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"@en ;
+    tg:subtitle "performed by Annie Lennox"@en ;
+    tg:title "Into The West"@en ;
+    tg:track "19"@en .
+
+<http://localhost:8000/resource/Keep_It_Secret%2C_Keep_It_Safe> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "8:53"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/A_Conspiracy_Unmasked_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Farewell_Dear_Bilbo_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/28IgIs8y4cGDIYuFVH3G8I"@en ;
+    tg:title "Keep It Secret, Keep It Safe"@en ;
+    tg:track "Disc 1 Track 7"@en .
+
+<http://localhost:8000/resource/Khazad_D%C3%BAm_%28song%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Dol_Guldur_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "10:57"@en ;
+    tg:image "DolGuldur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/K%C3%B4r_%28song%29> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Elfstone_%28song%29> ;
+    tg:spotify "https://open.spotify.com/track/51Ynfy3095MalS2s8upps7"@en ;
+    tg:title "Khazad Dúm"@en ;
+    tg:track "4"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien%2C_P.K.> .
+
+<http://localhost:8000/resource/Lugburz_%28song%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "7:15"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Passing_of_the_Grey_Company_%28song%29> ;
+    tg:performer "Summoning"@en ;
+    tg:spotify "https://open.spotify.com/track/3T0P4YpI1MUSfae7YPXB0q"@en ;
+    tg:title "Lugburz"@en ;
+    tg:track "2"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/Mithrandir_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_Of_The_Rings_%28Original_Motion_Picture_Soundtrack%29> ;
+    tg:composer <http://localhost:8000/resource/Leonard_Rosenman> ;
+    tg:duration "3:17"@en ;
+    tg:image "The Lord Of The Rings (Original Motion Picture Soundtrack).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Frodo_Disappears> ;
+    tg:previous <http://localhost:8000/resource/The_Battle_In_The_Mines%3B_The_Balrog> ;
+    tg:spotify "https://open.spotify.com/track/4UwRnYkTXBoRIzG6NVkzph?si=a26f344e939d431d"@en ;
+    tg:title "Mithrandir"@en ;
+    tg:track "9"@en ;
+    tg:writer <http://localhost:8000/resource/Mark_Fleischer> ;
+    tg:youtube "https://www.youtube.com/watch?v=Xh8JqMTGBls"@en .
+
+<http://localhost:8000/resource/Morthond_%28song%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "6:44"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/The_Passing_of_the_Grey_Company_%28song%29> ;
+    tg:spotify "https://open.spotify.com/track/2x0updTMmccKcYEnuvqgNQ"@en ;
+    tg:title "Morthond"@en ;
+    tg:track "4"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/Nightshade_Forests> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Dol_Guldur_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "10:49"@en ;
+    tg:image "DolGuldur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Elfstone_%28song%29> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Angbands_Schmieden> ;
+    tg:spotify "https://open.spotify.com/track/14AyFDYGsP6cAz89NNJ0oT"@en ;
+    tg:title "Nightshade Forests"@en ;
+    tg:track "2"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien%2C_P.K.> .
+
+<http://localhost:8000/resource/Rivendell_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:26"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Sword_That_Was_Broken> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Orthanc_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/3wlNmUeoHnM1jcOcXxC6qI"@en ;
+    tg:title "Rivendell"@en ;
+    tg:track "Disc 2 Track 5"@en .
+
+<http://localhost:8000/resource/That%27s_What_Bilbo_Baggins_Hates> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/%27%27The_Hobbit%3A_The_Complete_Original_Soundtrack%27%27> ;
+    tg:composer <http://localhost:8000/resource/Maury_Laws> ;
+    tg:duration "4:22"@en ;
+    tg:image "The Hobbit The Complete Original Soundtrack - cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Gandalf%27s_Reflection> ;
+    tg:previous <http://localhost:8000/resource/The_Greatest_Adventure_%28instrumental%29> ;
+    tg:title "That's What Bilbo Baggins Hates"@en ;
+    tg:track "25"@en ;
+    tg:writer <http://localhost:8000/resource/Jules_Bass> ;
+    tg:youtube "https://www.youtube.com/watch?v=MGclMfaRH4Y"@en .
+
+<http://localhost:8000/resource/The_Greatest_Adventure> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/%27%27The_Hobbit%3A_The_Complete_Original_Soundtrack%27%27> ;
+    tg:composer <http://localhost:8000/resource/Maury_Laws> ;
+    tg:duration "2:11"@en ;
+    tg:image "The Hobbit The Complete Original Soundtrack - cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/In_the_Valley%2C_Ha%21_Ha%21> ;
+    tg:performer <http://localhost:8000/resource/Glenn_Yarbrough> ;
+    tg:previous <http://localhost:8000/resource/The_Journey_Ends> ;
+    tg:title "The Greatest Adventure"@en ;
+    tg:track "19"@en ;
+    tg:writer <http://localhost:8000/resource/Jules_Bass> ;
+    tg:youtube "https://www.youtube.com/watch?v=2dQ5c5SIYnc"@en .
+
+<http://localhost:8000/resource/They%27re_taking_the_Hobbits_to_Isengard> a schema:CreativeWork ;
+    tg:arranger "Erwin Beekveld"@en ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:09"@en ;
+    tg:image "The Lord of the Rings - The Two Towers - They're taking the Hobbits to Isengard!.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer <http://localhost:8000/resource/Orlando_Bloom%3Cbr%3EAndy_Serkis%3Cbr%3EMarton_Csokas> ;
+    tg:title "They're taking the Hobbits to Isengard"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien%3Cbr%3EFrances_Walsh%3Cbr%3EPhilippa_Boyens%3Cbr%3EPeter_Jackson%3Cbr%3EStephen_Sinclair> ;
+    tg:youtube "https://www.youtube.com/watch?v=2X-AF7fOzW0"@en .
+
+<http://localhost:8000/resource/A_New_Power_Is_Rising> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Let_Mortal_Heroes_Sing_Your_Fame> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "4:08"@en ;
+    tg:image "letmortal.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/South_Away> ;
+    tg:performer "Summoning"@en ;
+    tg:spotify "https://open.spotify.com/track/1iLvUWFUIxN9wkZcEM1bXd"@en ;
+    tg:title "A New Power is Rising"@en ;
+    tg:track "1"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien> .
+
+<http://localhost:8000/resource/A_Shortcut_to_Mushrooms_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:07"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Strider_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Saruman_the_White> ;
+    tg:spotify "https://open.spotify.com/track/6QOeqsx5lpJvJ0a6jhqNvS"@en ;
+    tg:title "A Shortcut to Mushrooms"@en ;
+    tg:track "Disc 1 Track 12"@en .
+
+<http://localhost:8000/resource/Bag_End_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:35"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Very_Old_Friends_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Shire_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/4qaxeVzW69AqS6HHeMZaYC"@en ;
+    tg:title "Bag End"@en ;
+    tg:track "Disc 1 Track 3"@en .
+
+<http://localhost:8000/resource/Dor_Daedeloth_%28song%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "10:16"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/The_Legend_of_the_Master-Ring> ;
+    tg:spotify "https://open.spotify.com/track/51GWLLKjqU8AXyfyHfrXvp"@en ;
+    tg:title "Dor Daedeloth"@en ;
+    tg:track "11"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/Give_Up_the_Halfling> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:49"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Orthanc_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Caverns_of_Isengard> ;
+    tg:spotify "https://open.spotify.com/track/5rNmyrEfmwPMjBn2qYZlAN"@en ;
+    tg:title "Give Up the Halfling"@en ;
+    tg:track "Disc 2 Track 3"@en .
+
+<http://localhost:8000/resource/May_It_Be> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Enya%2C_Wikipedia%3ANicky_Ryan> ;
+    tg:duration "4:17"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Breaking_Of_The_Fellowship_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/7LAJWSKK8JMIZAcblgUMS6"@en ;
+    tg:subtitle "Composed & performed by Enya"@en ;
+    tg:title "May It Be"@en ;
+    tg:track "18"@en .
+
+<http://localhost:8000/resource/Over_Old_Hills> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Dol_Guldur_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "8:57"@en ;
+    tg:image "DolGuldur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Unto_a_Long_Glory...> ;
+    tg:spotify "https://open.spotify.com/track/2UMEQkrLMLf2XOS1sjF6iV"@en ;
+    tg:title "Over Old Hills..."@en ;
+    tg:track "8"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien%2C_P.K.> .
+
+<http://localhost:8000/resource/Prologue%3A_One_Ring_to_Rule_Them_All> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "7:16"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Shire_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:spotify "https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD"@en ;
+    tg:title "Prologue: One Ring to Rule Them All"@en ;
+    tg:track "Disc 1 Track 1"@en .
+
+<http://localhost:8000/resource/South_Away> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Let_Mortal_Heroes_Sing_Your_Fame> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "6:04"@en ;
+    tg:image "letmortal.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/In_Hollow_Halls_Beneath_the_Fells> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/A_New_Power_Is_Rising> ;
+    tg:spotify "https://open.spotify.com/track/5JnR2dIaS1AySjjHeGCKP5"@en ;
+    tg:title "South Away"@en ;
+    tg:track "2"@en ;
+    tg:writer <http://localhost:8000/resource/Summoning%2C_J.R.R._Tolkien> .
+
+<http://localhost:8000/resource/The_Black_Rider> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:48"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/At_The_Sign_Of_The_Prancing_Pony_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Treason_Of_Isengard> ;
+    tg:spotify "https://open.spotify.com/track/6qQFz7pPq8lqOLFDxwWfcl"@en ;
+    tg:title "The Black Rider"@en ;
+    tg:track "5"@en .
+
+<http://localhost:8000/resource/The_Nazg%C3%BBl> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "6:04"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Weathertop_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Strider_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/1iYCMjIx93xfKSL4gzZBfX"@en ;
+    tg:title "The Nazgûl"@en ;
+    tg:track "Disc 1 Track 14"@en .
+
+<http://localhost:8000/resource/The_Passing_of_the_Elves> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:39"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Saruman_the_White> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Three_Is_Company_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/05q7lfYerRkqqNDua3vJOL"@en ;
+    tg:title "The Passing of the Elves"@en ;
+    tg:track "Disc 1 Track 10"@en .
+
+<http://localhost:8000/resource/The_Prophecy> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:55"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Concerning_Hobbits_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:spotify "https://open.spotify.com/track/6ANHfvTsKVUMQD1xD2VAMr"@en ;
+    tg:title "The Prophecy"@en ;
+    tg:track "1"@en .
+
+<http://localhost:8000/resource/The_Shadow_Of_The_Past_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:32"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Treason_Of_Isengard> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Concerning_Hobbits_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/2TZOJDEX0TajN8wsUVvz3W"@en ;
+    tg:title "The Shadow of the Past"@en ;
+    tg:track "3"@en .
+
+<http://localhost:8000/resource/Ungolianth> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "6:37"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Dagor_Bragollach_%28song%29> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Orthanc_%28song%29> ;
+    tg:spotify "https://open.spotify.com/track/3ZoBELPiTpaRrpGP2Zxnql"@en ;
+    tg:title "Ungolianth"@en ;
+    tg:track "7"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/Unto_a_Long_Glory...> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Dol_Guldur_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "9:37"@en ;
+    tg:image "DolGuldur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Over_Old_Hills> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Wyrmvater_Glaurung> ;
+    tg:spotify "https://open.spotify.com/track/4WQ56677QclMHVKQMvqwCd"@en ;
+    tg:title "Unto a Long Glory..."@en ;
+    tg:track "7"@en ;
+    tg:writer <http://localhost:8000/resource/J.R.R._Tolkien%2C_P.K.> .
+
+<http://localhost:8000/resource/A_Journey_In_The_Dark_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:20"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Ring_Goes_South_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/3PBKcE5sDRSjvcYDjeWZFW"@en ;
+    tg:title "A Journey in the Dark"@en ;
+    tg:track "12"@en .
+
+<http://localhost:8000/resource/A_Knife_In_The_Dark_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:34"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Flight_To_The_Ford_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/At_The_Sign_Of_The_Prancing_Pony_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/5GsMJInonlNJWpYEqrmGRQ"@en ;
+    tg:title "A Knife in the Dark"@en ;
+    tg:track "7"@en .
+
+<http://localhost:8000/resource/Amon_Hen_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "5:02"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Breaking_Of_The_Fellowship_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Great_River_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/5gtiF6aMCLMHMJsRXlSv5V"@en ;
+    tg:title "Amon Hen"@en ;
+    tg:track "16"@en .
+
+<http://localhost:8000/resource/At_The_Sign_Of_The_Prancing_Pony_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:14"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/A_Knife_In_The_Dark_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Black_Rider> ;
+    tg:spotify "https://open.spotify.com/track/7fZVaaZUrH8itKO9LBmJln"@en ;
+    tg:title "At the Sign of the Prancing Pony"@en ;
+    tg:track "6"@en .
+
+<http://localhost:8000/resource/Concerning_Hobbits_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:55"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Shadow_Of_The_Past_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Prophecy> ;
+    tg:spotify "https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP"@en ;
+    tg:title "Concerning Hobbits"@en ;
+    tg:track "2"@en .
+
+<http://localhost:8000/resource/Dagor_Bragollach_%28song%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "5:05"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Through_the_Forest_of_Dol_Guldur> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Ungolianth> ;
+    tg:spotify "https://open.spotify.com/track/3ZrefzoAz0HKCL9C7TNkJH"@en ;
+    tg:title "Dagor Bragollach"@en ;
+    tg:track "8"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/Flight_To_The_Ford_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:14"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Many_Meetings_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/A_Knife_In_The_Dark_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/3oZKVe0QVMArW3QgaER8rs"@en ;
+    tg:title "Flight to the Ford"@en ;
+    tg:track "8"@en .
+
+<http://localhost:8000/resource/Lothl%C3%B3rien_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:33"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Great_River_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/63CXPpiEiW7JnXvZ1cUXcp"@en ;
+    tg:title "Lothlorien"@en ;
+    tg:track "14"@en .
+
+<http://localhost:8000/resource/Many_Meetings_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:05"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Council_Of_Elrond_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Flight_To_The_Ford_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/0VfcYOujgf9JDAgwlgu1qm"@en ;
+    tg:title "Many Meetings"@en ;
+    tg:track "9"@en .
+
+<http://localhost:8000/resource/Saruman_the_White> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:09"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/A_Shortcut_to_Mushrooms_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Passing_of_the_Elves> ;
+    tg:spotify "https://open.spotify.com/track/66uWLFYPcgkcLrsezpwM8w"@en ;
+    tg:title "Saruman the White"@en ;
+    tg:track "Disc 1 Track 11"@en .
+
+<http://localhost:8000/resource/The_Breaking_Of_The_Fellowship_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "7:20"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/May_It_Be> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Amon_Hen_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i"@en ;
+    tg:title "The Breaking of the Fellowship"@en ;
+    tg:track "17"@en .
+
+<http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "5:57"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Lothl%C3%B3rien_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/A_Journey_In_The_Dark_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/6HYCOHzY2xR4W2dOokH3ed"@en ;
+    tg:title "The Bridge of Khazad Dum"@en ;
+    tg:track "13"@en .
+
+<http://localhost:8000/resource/The_Caverns_of_Isengard> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "4:54"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Give_Up_the_Halfling> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Weathertop_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/21D6cTpVlaM7VU6Rb0put7"@en ;
+    tg:title "The Caverns of Isengard"@en ;
+    tg:track "Disc 2 Track 2"@en .
+
+<http://localhost:8000/resource/The_Council_Of_Elrond_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "3:49"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Ring_Goes_South_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Many_Meetings_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/3Knohqfb9jeYzL6wMZiWLM"@en ;
+    tg:subtitle "Featuring \"Aníron\" (Theme For Aragorn And Arwen)\" Composed & performed by ENYA"@en ;
+    tg:title "The Council of Elrond"@en ;
+    tg:track "10"@en .
+
+<http://localhost:8000/resource/The_Great_River_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:42"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Amon_Hen_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Lothl%C3%B3rien_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/7i0nvZRGgVqymOsRbJvQmi"@en ;
+    tg:title "The Great River"@en ;
+    tg:track "15"@en .
+
+<http://localhost:8000/resource/The_Legend_of_the_Master-Ring> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "5:27"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Dor_Daedeloth_%28song%29> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Through_the_Forest_of_Dol_Guldur> ;
+    tg:spotify "https://open.spotify.com/track/2BFvQGlZZeKra3GCRi76oK"@en ;
+    tg:title "The Legend of the Master-Ring"@en ;
+    tg:track "10"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/The_Ring_Goes_South_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:03"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/A_Journey_In_The_Dark_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Council_Of_Elrond_%28soundtrack%29> ;
+    tg:spotify "https://open.spotify.com/track/6IQY3GEMC2B3mchMvi4NZj"@en ;
+    tg:title "The Ring Goes South"@en ;
+    tg:track "11"@en .
+
+<http://localhost:8000/resource/The_Shire_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:29"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/Bag_End_%28soundtrack%29> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/Prologue%3A_One_Ring_to_Rule_Them_All> ;
+    tg:spotify "https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD"@en ;
+    tg:title "The Shire"@en ;
+    tg:track "Disc 1 Track 2"@en .
+
+<http://localhost:8000/resource/Through_the_Forest_of_Dol_Guldur> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/Minas_Morgul_%28album%29> ;
+    tg:composer <http://localhost:8000/resource/Summoning> ;
+    tg:duration "4:47"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Legend_of_the_Master-Ring> ;
+    tg:performer "Summoning"@en ;
+    tg:previous <http://localhost:8000/resource/Dagor_Bragollach_%28song%29> ;
+    tg:spotify "https://open.spotify.com/track/2OPl09YcP3GnLc7dth5ANF"@en ;
+    tg:title "Through the Forest of Dol Guldur"@en ;
+    tg:track "9"@en ;
+    tg:writer "Summoning"@en .
+
+<http://localhost:8000/resource/Weathertop_%28soundtrack%29> a schema:CreativeWork ;
+    tg:album <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> ;
+    tg:composer <http://localhost:8000/resource/Howard_Shore> ;
+    tg:duration "2:14"@en ;
+    tg:image "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/song> ;
+    tg:next <http://localhost:8000/resource/The_Caverns_of_Isengard> ;
+    tg:performer <http://localhost:8000/resource/Wikipedia%3ALondon_Philharmonic_Orchestra> ;
+    tg:previous <http://localhost:8000/resource/The_Nazg%C3%BBl> ;
+    tg:spotify "https://open.spotify.com/track/5IHpHBugLoWXDyoOEkfdWU"@en ;
+    tg:title "Weathertop"@en ;
+    tg:track "Disc 2 Track 1"@en .
+

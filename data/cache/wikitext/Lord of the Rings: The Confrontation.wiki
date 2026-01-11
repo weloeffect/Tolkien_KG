@@ -1,0 +1,19 @@
+{{board game infobox
+| image = LotR TheConfrontation BoardGame.webp
+| name=Lord of the Rings: The Confrontation
+| designer=Reiner Knizia, Eric M. Lang, Christian T. Petersen
+| publisher=[[Fantasy Flight Games]]
+| releasedate=[[2013]]
+| players=2
+| ages=10+
+}}
+
+'''Lord of the Rings: The Confrontation''' is a two-player board game, made in 2013<ref>https://www.fantasyflightgames.com/en/news/2013/11/27/return-to-middle-earth/</ref> by [[Fantasy Flight Games]] in which one player controls the [[Fellowship of the Ring]] and the other player wields the forces of [[Sauron]].<ref>https://www.fantasyflightgames.com/en/products/lord-of-the-rings-the-confrontation/</ref>
+
+It features art from [[Daarken]], [[Chris Dien]], [[John Gravato]], [[John Howe]], [[Michael Komarck]] and [[Sedone Thongvilay]].
+
+{{references}}
+==External links==
+* '''[https://www.fantasyflightgames.com/en/products/lord-of-the-rings-the-confrontation Official Site]'''
+* [https://boardgamegeek.com/boardgame/18833/lord-of-the-rings-the-confrontation Board Game Geek Profile]
+[[Category:Board games]]

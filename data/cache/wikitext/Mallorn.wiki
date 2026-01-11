@@ -1,0 +1,54 @@
+{{short description|Large trees with golden leaves}}
+{{disambig-two|the tree|journal by [[The Tolkien Society]]|[[Mallorn (journal)]]}}
+{{plant infobox
+| name=Mallorn
+| image=Ted Nasmith - A Mallorn in the Shire.jpg
+| caption="A Mallorn in the Shire" by [[Ted Nasmith]]
+| pronun={{respell|mahl|lorn}}
+| othernames=''Malinornë'' ([[Quenya|Q]])
+| location=[[Valinor]], [[Tol Eressëa]], [[Númenor]], [[Lothlórien]] and [[the Shire]]
+| notablefor=
+| family=
+| appearance=Large silver-barked tree, green leaves and golden flowers
+}}
+The '''mallorn''' (pl. '''mellyrn'''<ref name="Lorien">{{FR|Lorien}}</ref>{{rp|342}}<ref>{{NM|Silvan}}, p. 362</ref><ref name="HCM">See also [[Letter to H. Cotton Minchin (16 April 1956)]]</ref>) was a [[Fragrant Trees|kind of large tree]] growing in [[Valinor]], [[Númenor]] and the [[Westlands]].
+
+==Description==
+Mellyrn are trees of immense size, especially when growing in Númenor, where they could reach heights of almost 600 feet (c. 183 meters).<ref>{{NM|P3xiii}}, p. 333</ref> In [[Caras Galadhon]] in [[Lothlórien]] the highest of mallorn-trees were nearly 200 feet (c. 61 meters) high and of great girth, having no branches lower than 3 fathoms (c. 5.5 meters) above their roots.<ref name=":0" />
+
+They are also described as similar to [[beeches]]: their bark was smooth and silver-grey, and the leaves were green on top and silver underneath; they turned golden in autumn and remained on the tree through the winter to fall to cover the ground in the spring, when new leaves sprouted. Golden flowers bloomed on the branches.<ref name="Lorien"/>{{rp|335}}<ref name="Numenor">{{UT|Numenor}}</ref> 
+
+The trunk of the tree divided to a crown of many branches, and the [[Galadhrim]] used the space to build ''[[telain]]'' (a sort of platform) or buildings on the top of the trees.<ref name="lor" /> The leaves also had practical uses, such as for packing rations of ''[[lembas]]''. The Galadhrim used the bark to make ''[[hithlain]]''.<ref name=":0">{{TI|XIII}}, p. 251</ref>
+
+[[Frodo Baggins]] explained that he could feel the life of the tree when he touched a mallorn in [[Lothlórien]].<ref>{{FR|II6}}</ref>
+
+==History==
+[[File:Decipher - Mallorn Tree.jpg|thumb|left|''Mallorn Tree'' in ''[[The Lord of the Rings Trading Card Game]]'']]
+Mallorn-trees originally grew in [[Valinor]] and from there were spread to [[Tol Eressëa]] by the [[Elves]] once the Lonely Isle was moved to its final position by [[Ulmo]]. The Elves of Tol Eressëa brought mallorn-trees to the [[Men]] of [[Númenor]] and they grew on the shores around the [[Bay of Eldanna]] in that land.<ref name="Numenor" /> Even [[Tar-Aldarion]], the great Ship-King, did not cut down these trees.
+
+Mallorn-nuts were given by Tar-Aldarion to his friend [[Gil-galad]], the Noldorin King of [[Lindon]]. The mellyrn did not grow in Lindon, but [[Galadriel]], gifted some of the seeds from Gil-galad,<ref>{{PE|17}}</ref>{{rp|48}} took some nuts with her to [[Lothlórien]], where they grew to immense heights (but not as great as the groves of Númenor).<ref name="Numenor" /> Lothlórien became known as the ''Golden Wood'' because of them.<ref>{{UT|Concerning}}, note 5</ref>
+
+[[Caras Galadhon]], the city of Galadriel and [[Celeborn]] in Lothlórien, was built in the branches of huge mallorn-trees. The [[Fellowship of the Ring|Fellowship]] spent the night in a [[Telain|flet]] in a mallorn-tree nearby, and were later given [[lembas]] wrapped in mallorn-leaves.<ref name="lor">{{FR|II7}}</ref>
+
+Galadriel gave [[Samwise Gamgee]] a box of soil containing a single silver mallorn nut.<ref>{{FR|II8}}</ref> After the [[War of the Ring]] and the [[Scouring of the Shire]], Sam planted the nut in the [[Party Field]] where the [[Party Tree]] had stood before its felling. The [[Golden Tree]] was the only mallorn in Middle-earth outside of Lórien. When the tree bloomed in the next summer it was said that all the Shire became golden from the flowers.<ref>{{RK|VI9}}</ref>
+
+==Etymology==
+The word comes from ''[[malt]]'' ("gold") + ''[[orn]]'' ("tree"). In [[Gondor Sindarin]] the same word was pronounced ''Malthorn''.<ref name="VT4227">{{VT|42a}}, p. 27</ref><ref>[[Carl F. Hostetter]], ''[http://www.elvish.org/Tengwestie/articles/Hostetter/sindll.phtml The Two Phonetic Values of ''ll'' in Elvish Sindarin in ''The Lord of the Rings'']'', published on [http://www.elvish.org/Tengwestie/ Tengwestië], [[7 December|December 7]], [[2003]]</ref>
+
+'''''Malinornë''''' is the [[Quenya]] translation of ''mallorn''.<ref>{{UT|Numenor}}, pp. 167-168</ref>
+
+==Uses outside the Legendarium==
+By [[1956]] Tolkien had been informed about "a new house far away [that] has been called ''The Mallorns''" — regrettably, Tolkien noted, as the correct [[Sindarin]] plural would be ''mellyrn''.<ref name="HCM" />
+
+''[[Mallorn (journal)|Mallorn]]'' is also the journal published by [[The Tolkien Society]].
+
+==Portrayal in adaptations==
+:'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Mallorn trees are the core buildings in the [[Elves|elven]] faction, as they produce  resources needed for constructing buildings and recruiting troops. When a mallorn tree reaches level 3, a tower is automatically constructed atop of the tree, where an elven archer is placed.
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Wood of this tree could at one time be foraged by supreme foresters, but has since been removed from the game.<ref>{{LOTROW|Wood|21 August 2025}}</ref>
+
+{{references}}
+[[Category:Noldorin nouns]]
+[[Category:Sindarin nouns]]
+[[Category:Trees]]

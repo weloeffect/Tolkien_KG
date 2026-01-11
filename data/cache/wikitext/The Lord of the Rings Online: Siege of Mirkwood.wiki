@@ -1,0 +1,93 @@
+{{disambig-more|Mirkwood|[[Mirkwood (disambiguation)]]}}
+{{video game infobox
+| image = LOTRO - Siege of Mirkwood.png
+| name=The Lord of the Rings Online:<br>Siege of Mirkwood
+| developer=[[Turbine|Turbine, Inc]]
+| publisher=[[Turbine|Turbine, Inc]]
+| platform=
+| releasedate=[[1 December|December 1]], [[2009]]
+| genre=MMORPG
+|}}
+'''''The Lord of the Rings Online: Siege of Mirkwood''''' is the second expansion for ''[[The Lord of the Rings Online]]''.
+
+==Contents==
+Siege of Mirkwood opens up environments in southern [[Mirkwood]]. The level cap is raised to 65. It also includes new traits, virtues, skills and class quests. A new "skirmish" system allows for repeatable, randomised and scaleable combat based instances that can be accessed from anywhere in the game world for 3, 6 and 12 players and a new 12 player raid takes place in [[Dol Guldur]].<ref>[http://blastmagazine.com/the-magazine/gaming/gaming-news/2009/09/lord-of-the-rings-online-continues-to-grow-with-siege-of-mirkwood/ Blast Magazine]</ref>
+
+==Synopsis==
+Unlike ''Mines of Moria'', where the epic story line shared the same title as the expansion, ''Siege of Mirkwood'''s epic story line is titled Volume III: ''Allies of the King''. The expansion also included the final book and the epilogue to Volume II.
+
+=== Volume II: Mines of Moria ===
+====Book IX - Fortress of the Nazgul====
+
+The band of elves known as the Hidden Guard has crossed the [[Anduin]] river into the region of [[Mirkwood]], with Mazog as their prisoner. As the elves of [[Lothlórien|Lothlorien]] set up numerous camps through Mirkwood, they plan their attack on the fortress of [[Dol Guldur]]. The Hidden Guard continues to take Mazog through the dangerous forest unseen and through the Scuttledells, where Issuriel and Mazog are seriously wounded by the giant queen spider who dwells in those parts. The elf Achardor becomes furious that his companion has been wounded and threatens Mazog's life if Issuriel falls. Issuriel speaks of a rare antidote that will cure the poison but later refuses to take it instead to let Mazog take it. Achardor is even more outraged with this action taken but just before Issuriel loses her life the dwarf Broin finds more of the rare herb and the quest to Dol Guldur can continue. The Hidden Guard soon arrives at the gates of Dol Guldur where the trade of Mazog for Bori takes place. But Gorothul and [[Nazgûl|Ringwraiths]] arrive at the scene and refuse to hand over Bori, Broin quickly saves the elves from been slain by Gorothul but the elf Achardor chooses to stand against the [[Nazgûl]] and is killed. Mazog is freed and returns with the enemy. The elves of Lothlorien soon strike the fortress of Dol Guldur and free Bori from his cell. The elves capture the outside walls of Dol Guldur now only the tower is left to take. The raid on Dol Guldur continues within the dark tower and at the end of a tremendous battle the orc Mazog is slain by the mithril axe Zigilburk.
+
+====Epilogue - Of Elves and Dwarves====
+The elves and dwarves finish the last deeds throughout southern [[Mirkwood]]. The axe Zigilburk is buried yet again where the dwarves found it, to never wield its power again. The Elves of Lothlorien also strike several additional blows against the dark fortress, scouting three key locations and capturing one. Additionally, Gorothul is challenged in another assault within his quarters in Sammath Gul, where he is finally defeated.
+
+=== Volume III: Allies of the King ===
+====Book I - Oath of the Rangers====
+[[File:The Lord of the Rings Online - Oath of the Rangers.png|300px|thumb]]
+Book 1 was released on [[1 March]], [[2010]].<ref>[https://forums-old.lotro.com/forums/showthread.php?320404 Volume III: Allies of the King has arrived!]</ref>
+
+[[Elrond]] received a mysterious message from [[Galadriel]], telling him to gather the [[Rangers of the North]] and send them to [[Rohan]] to help [[Aragorn]]. The player is summoned to the [[Rivendell|Last Homely House]] and given a list of Rangers to recruit: Radanir, Candaith, Saeradan, Halros, [[Halbarad]], Calenglad, Lothrandir, Corunir and Golodir.
+
+Updates include ([http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Allies_of_the_King_Official complete release notes]):
+* The beginning of Volume III in the epic storyline.
+* The ability to solo the Volume I epic storyline.
+* A duo mode for most skirmishes.
+
+====Book II: Ride of the Grey Company====
+Book 2 was released on [[10 September]], [[2010]] in North America. ([[8 September]], [[2010]] for subscribers). It was delayed in Europe because of contractual reasons and was finally released on [[2 November]], almost two months after North America.<ref>[http://massively.joystiq.com/ Massively], [http://massively.joystiq.com/2010/10/29/v-e-me-day-lotro-europe-announces-launch-date-for-free-to-play/ V-E-ME Day: LotRO Europe announces launch date for free-to-play], dated [[29 October]], [[2010]] (accessed [[11 November]], [[2011]])</ref>
+
+The [[Grey Company]] starts its journey south and arrives in [[Enedwaith]]. [[Halbarad]] has crafted fake copies of the [[Ring of Barahir]], in order to buy [[Aragorn]] time, in case one of the Grey Company gets captured. In Enedwaith, they discover an old and confused Dwarf, [[Nár]], father of Ollfardh and companion of [[Thrór]]. To everyone's amazement, he knows about the secret road the Company is planning to take.
+
+Updates included ([http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Book_2_Official complete release notes]):
+
+* New region: [[Enedwaith]].
+* Introduction of the ''Free to Play'' system.
+* The LOTRO store, where players may purchase convenience items.  Points either earned through gameplay, through the VIP program or by being purchased.
+
+====Update 1: Journey to Winter-Home====
+[[File:The Lord of the Rings Online - Update 1 Journey to Winter-Home.png|300px|thumb]]
+In 2010, LOTRO altered its monetization model and became "free-to-play." The first post Free-to-play update was released in November 2010. Due to changes to how updates work this did not contain an epic book.
+
+Updates included: 
+* A Barter Wallet for skirmish marks and anniversary tokens.
+* Opening of Moria, Lothlorien, Mirkwood and Enedwaith to free-to-play players. Volume II and Volume III will also be available, as well the legendary item system, and the level 65 level cap all to free-to-play players.
+* Vault improvements.
+* Tasks: a new quest type for all levels.
+* Improved reputation mounts.
+* Updates to the Lore-master and Rune-keeper classes.
+* Ered Luin starting area revamp.
+
+====Book III - Echoes of the Dead ====
+[[File:The Lord of the Rings Online - Update 2 Echoes of the Dead.png|300px|thumb]]Book III was released along with '''Update 2''', released on [[21 March]] in the United States and [[24 March]] for Europe.
+
+While investigating who can be trusted and who can't, the [[Rangers of the North|Rangers]] receive word that there is a band of Oathbreakers from Erech in Enedwaith. An attempt to remind them of their Oath to Isildur fails horribly when Candaith is killed. [[Halbarad]] wants to lead the company on to [[Dunland]], but as they leave [[Nár]], the Dwarf reveals [[Saruman|Saruman the White]] had a hand in these events all along.
+
+Updates included:
+* Two 3-man's, two 6-man's, and a 12-person raid were added for level 65 players.
+* Radiance was removed.
+* Volume II was revamped and made soloable, including three instances which have been converted to skirmishes.
+* [[Evendim]] was revamped, with [[Annúminas]] being scaled down to level 40.
+
+====Update 3: Lost Legends of Eriador====
+[[File:The Lord of the Rings Online - Update 3 Lost Legends of Eriador.png|300px|thumb]]
+''Lost Legends of Eriador'' was '''Update 3'''. It was released on [[23 May]], [[2011]], it included:  ([http://lorebook.lotro.com/wiki/Update_3,_Lost_Legends_of_Eriador,_Official complete release notes]):
+* Two new 3-man scalable instances starting mid-game.
+* Two new skirmishes.
+
+==Trailers==
+<youtube>FKQSzw015xs</youtube>
+<youtube>tsRWLtt2KuM</youtube>
+<youtube>DmhyDANOF-E</youtube>
+
+{{references}}
+{{lotro}}
+{{Videogames}}
+
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Online Siege of Mirkwood}}
+[[Category:The Lord of the Rings Online expansions|Siege of Mirkwood]]
+[[Category:Microsoft Windows games]]
+[[Category:Turbine games]]

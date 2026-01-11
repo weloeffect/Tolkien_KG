@@ -1,0 +1,21 @@
+{{short description|1972 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 3
+| location=Edgewater Hyatt House, Long Beach, California
+| organizer=[[Mythopoeic Society]]
+| dates=30 June - 4 July [[1972]]
+| attendees=
+|previous=[[Mythcon 2]]|next=[[Mythcon 4]]}}
+'''Mythcon 3''' was the third annual [[Mythopoeic Society]] conference and was held in conjunction with '''Westercon XXV'''. 
+
+*'''Guest of Honor:''' [[Poul Anderson]] (fantasy writer)
+*'''Chairman:''' [[Glen GoodKnight]]
+
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-3.htm Mythcon 3 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 03}}
+[[Category:Mythcon]]

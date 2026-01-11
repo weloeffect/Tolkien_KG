@@ -1,0 +1,44 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 9
+| image=
+| editor=
+| illustrator=
+| date=[[1988]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229576|articlename=Vol. 9, 1988|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=145<ref name="jstor" />
+}}
+'''''SEVEN 9''''' is the ninth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[1988]].<ref name="jstor" /> Volume 9 is also the ''Williams Centenary Issue'', celebrating the centenary year of British writer [https://en.wikipedia.org/wiki/Charles_Williams_(British_writer) Charles Williams].<ref name="vii">{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+==Contents==
+*"The Centenary Year of Charles Williams"
+**By: Charles A. Huttar
+*"Inklings in Germany"
+**By: Christopher Dean
+*"A Visit to Beatrice"
+**By: [[Owen Barfield]]
+*"Entering the Vision: A Novelist's View of ''Phantastes''"
+**By: Sylvia Bruce
+*"'La Trahison des Clercs' in Chesterton's Parables for Social Reformers"
+**By: Denis J. Conlon
+*"Specters of T.S. Eliot's City in the Novels of Charles Williams"
+**By: Donald G. Keesee
+*"Mid-Century Perceptions of the Ancient Celtic Peoples of 'England'"
+**By: [[John Ryan|J.S. Ryan]]
+*"Echoes in Age from the World of J.R.R. Tolkien"
+**By: E.L. Edmonds
+*"A Dorothy L. Sayers Crime Play Rediscovered"
+**By: Philip L. Scowcroft
+*"C.S. Lewis on Rationalism: (Unpublished Notes)"
+**By: Patience Fetherston
+*"'Knowledge' in C.S. Lewis's Post-Conversion Thought: His Epistemological Method"
+**By: Stephen Thorson
+*Review Essays:
+**"Abridgement: Profit and Loss in Modernizing George MacDonald"
+***By: William H. Burnside
+**"Despatches from the Battlefield"
+***By: John Coates<ref name="vii" />
+{{SEVENnav|8|10}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 09}}
+
+[[Category:SEVEN]]

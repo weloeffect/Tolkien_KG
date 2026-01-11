@@ -1,0 +1,67 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 38
+| image=
+| editor=
+| illustrator=
+| date=[[2021]]/[[2022]]<ref name="vii">{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article/view/1040|articlename=Volume 38 - Editorial and Contributors|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=14 August 2025}}</ref>
+| format=Paperback journal
+| pages=
+}}
+'''''SEVEN 38''''' is the thirty-eighth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2022]]. Note that the issue's year is "2021/2022," for an issue was not published in [[2021]].<ref name="vii" />
+==Contents==
+*"A Surprising Correspondence: How an Exchange of Letters Between Karl Barth and Dorothy L. Sayers Models Gracious Theological Discourse"
+**By: David W. McNutt
+*"Tolkien as Allegory: A Study in Smith of Wooton Major"
+**By: Graham Shea
+*"Owen Barfield on Science, Technology, and the Modern Crisis of Meaning"
+**By: Landon Loftin
+*"Coleridge, Tolkien, and the Power of Allusion in Leaf by Niggle"
+**By: Doug Jackson
+*"C.S. Lewis's The Dark Tower and the Tyrant Within"
+**By: David Rozema
+*Book Reviews:
+**"Review of C.S. Lewis by Stewart Goetz"
+***By: James Beitler
+**"Review of After Humanity: A Guide to C.S. Lewis's The Abolition of Man by Michael Ward"
+***By: Louis Markos
+**"Review of Pursuing an Earthy Spirituality: C.S. Lewis and Incarnational Faith by Gary Selby"
+***By: Kristen Page
+**"Review of C.S. Lewis and the Craft of Communication by Steven A. Beebe"
+***By: Read Schuchardt
+**"Review of George MacDonald's Children's Fantasies and the Divine Imagination by Colin Manlove"
+***By: Christiana N. Peterson
+**"Review of The Mutual Admiration Society: How Dorothy L. Sayers and her Oxford Circle Remade the World for Women by Mo Moulton"
+***By: Crystal L. Downing
+**"Review of A Hebraic Inkling: C. S. Lewis on Judaisim and the Jews by P. H. Brazier"
+***By: Andrew Barron
+**"Review of Seasoned Speech: Rhetoric in the Life of the Church by James E. Beitler III"
+***By: David C. Downing
+**"Review of A Compass for Deep Heaven: Navigating the C. S. Lewis Ransom Trilogy edited by Diana Pavlac Glyer and Julianne Johnson"
+***By: Andrew J. Spencer
+**"Review of The Shared Witness of C.S. Lewis and Austin Farrer by Philip Irving Mitchell"
+***By: James Stockton
+**"Review of Subversive: Christ, Culture, and the Shocking Dorothy L. Sayers by Crystal Downing"
+***By: Carrie Care
+**"Review of Tolkien & The Classical World by Hamish Williams"
+***By: Joel D. Ruark
+**"Review of Law, Government, and Society in J.R.R. Tolkien's Works by José María Miranda Boto"
+***By: David Llewellyn Dodds
+**"Review of Charles Williams and C.S. Lewis: Friends in Co-inherence by Paul S. Fiddes"
+***By: Brian Horne
+*Booknotes
+**Mystical Perelandra: My Lifelong Reading of C.S. Lewis and His Favorite Book
+***By: James Como
+**The Leadership of C.S. Lewis: Ten Traits to Encourage Change and Growth
+***By: Crystal Hurd
+**Friendship in The Lord of the Rings
+***By: Cristina Casagrande
+**A Sense of Tales Untold: Exploring the Edges of Tolkien's Literary Canvas
+***By: Peter Grybauskas
+**Loremasters and Libraries in Fantasy and Science Fiction: A Gedenkschrift for David D. Oberhelman
+***By: Jason Fisher and Janet Brennan Croft, eds.<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|37|39}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 38}}
+
+[[Category:SEVEN]]

@@ -3,7 +3,7 @@ from __future__ import annotations
 import time
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Iterator
+from typing import Any
 
 import requests
 
@@ -38,35 +38,80 @@ class MediaWikiClient:
             raise RuntimeError(f"MediaWiki API error for {title}: {data['error']}")
         return data["parse"]["wikitext"]["*"]
 
-    def list_category_members(self, category_title: str, limit: int = 500) -> Iterator[str]:
+    def list_category_members(self, category_title: str, namespace: int = 0, limit: int = 500) -> list[str]:
         """
-        category_title example: 'Category:Third Age characters'
+        Return up to `limit` titles from a category, restricted to a namespace.
+        Uses pagination via cmcontinue.
         """
+        if not category_title.startswith("Category:"):
+            category_title = "Category:" + category_title
+
+        titles: list[str] = []
         cmcontinue: str | None = None
 
         while True:
+            remaining = limit - len(titles)
+            if remaining <= 0:
+                break
+
             params: dict[str, Any] = {
                 "action": "query",
                 "list": "categorymembers",
                 "cmtitle": category_title,
-                "cmlimit": limit,
-                "cmnamespace": 0,  # main namespace pages
+                "cmnamespace": str(namespace),
+                # use up to 500 per request (MediaWiki typical cap)
+                "cmlimit": str(min(500, remaining)),
                 "format": "json",
             }
             if cmcontinue:
                 params["cmcontinue"] = cmcontinue
 
             data = self.get(params)
-            cms = data.get("query", {}).get("categorymembers", [])
-            for item in cms:
-                title = item.get("title")
-                if title:
-                    yield title
+            members = data.get("query", {}).get("categorymembers", [])
+            titles.extend([m["title"] for m in members if "title" in m])
 
-            cont = data.get("continue", {})
-            cmcontinue = cont.get("cmcontinue")
+            cmcontinue = data.get("continue", {}).get("cmcontinue")
             if not cmcontinue:
                 break
+
+        return titles
+
+    def list_embeddedin(self, template_title: str, namespace: int = 0, limit: int = 500) -> list[str]:
+        """
+        Return up to `limit` page titles that embed a given template.
+        Uses pagination via eicontinue.
+        """
+        if not template_title.startswith("Template:"):
+            template_title = "Template:" + template_title
+
+        titles: list[str] = []
+        eicontinue: str | None = None
+
+        while True:
+            remaining = limit - len(titles)
+            if remaining <= 0:
+                break
+
+            params: dict[str, Any] = {
+                "action": "query",
+                "list": "embeddedin",
+                "eititle": template_title,
+                "einamespace": str(namespace),
+                "eilimit": str(min(500, remaining)),
+                "format": "json",
+            }
+            if eicontinue:
+                params["eicontinue"] = eicontinue
+
+            data = self.get(params)
+            pages = data.get("query", {}).get("embeddedin", [])
+            titles.extend([p["title"] for p in pages if "title" in p])
+
+            eicontinue = data.get("continue", {}).get("eicontinue")
+            if not eicontinue:
+                break
+
+        return titles
 
 class WikitextCache:
     def __init__(self, cache_dir: str = "data/cache/wikitext") -> None:

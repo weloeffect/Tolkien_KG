@@ -1,0 +1,21 @@
+{{disambig-more|Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{board game infobox
+| image = Lord of the Rings The Duel.jpg
+| name=Lord of the Rings: The Duel
+| designer=Peter Neugebauer
+| publisher=[[Sophisticated Games]] (developer)
+| releasedate=[[2002]]
+| players=2
+| ages=10+
+}}
+'''Lord of the Rings: The Duel''' is a board game based on [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]''. The game recreates the battle between [[Gandalf]] and the [[Durin's Bane|Balrog of Moria]]. Artwork is featured by [[John Howe]].<ref name=Soph/><ref>[http://boardgamegeek.com/boardgame/4610/lord-of-the-rings-the-duel Lord of the Rings: The Duel] at [http://boardgamegeek.com/ BoardGameGeek] (accessed 30 April 2011)</ref>
+
+==From the publisher==
+
+The latest in the series of 2 player games designed by Germany's Peter Neugebauer, a key member of the highly successful TM Spiele team.<ref name=Soph>[http://www.sophisticated-games.com/sophisticated_web/lotrcomplete.html The Lord of the Rings] at [http://www.sophisticated-games.com/index.html Sophisticated Games] (accessed 30 April 2011)</ref>
+
+== External links ==
+*[http://boardgamegeek.com/boardgame/4610/lord-of-the-rings-the-duel Lord of the Rings: The Duel] at [http://boardgamegeek.com/ BoardGameGeek]
+{{references}}
+{{title}}
+[[Category:Board games]]

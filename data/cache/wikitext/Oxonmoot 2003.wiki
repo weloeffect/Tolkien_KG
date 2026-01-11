@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 2003
+| location=St Hugh's College, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 18th-21st, 2003
+| attendees=
+}}
+
+{{oxonmoot|2002|2004}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

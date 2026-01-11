@@ -1,0 +1,38 @@
+{{people infobox
+| name=Cold-drakes
+| image = Kevin Ward - Cold-drake.jpg
+| caption=Kevin Ward - ''True Cold-drake''
+| pronun=
+| othernames=
+| origin=Bred by [[Morgoth]] in [[Angband]] 
+| location=[[Angband]], [[Northern Waste]], [[Withered Heath]], [[Grey Mountains]]
+| affiliation=[[Morgoth]]
+| rivalry=[[Dwarves of the Grey Mountains]]
+| language=
+| people=
+| members=[[Scatha]]<ref name=collectedpoems>{{CP|177}}</ref>
+| lifespan="Long and slow"<ref>{{S|13}}</ref>
+| distinctions=Cold-breathing<ref name=collectedpoems/>
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+{{Quote|Now the least mighty - yet they were very great beside the [[Men]] of those days - are cold as in the nature of snakes and serpents, and of them a many having wings go with the uttermost noise and speed...|''[[Turambar and the Foalókë]]}}
+
+'''Cold-drakes''' were dragons that were unable to breath fire, but instead could possess an icy "cold breath" which froze people and induced fear.<ref name="collectedpoems" /> [[Morgoth]] bred and used cold-drakes in the late [[First Age]]. After the [[War of Wrath]], some cold-drakes were found in the [[Northern Waste|waste]] north of the [[Grey Mountains]].
+
+As the millennia passed, their numbers grew, until they became a serious threat in the later centuries of the [[Third Age]] to the [[Dwarves]] that mined the Grey Mountains.<ref name="AppA">{{App|Durin}}</ref> In {{TA|2589}}, [[Dáin I]], [[Kings of Durin's Folk|King of Durin's Folk]], and his second son [[Frór]] were slain at the gates of their [[Dáin's Halls|hall]] by a cold-drake.<ref name="AppA" /> The attacks of these fearsome creatures persuaded the Dwarves to migrate eastwards from the Grey Mountains, and it was soon afterward that their [[Dwarf realms|realms]] in the [[Iron Hills]] and at [[Lonely Mountain|Erebor]] were established.
+
+==Portrayal in adaptations==
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:Cold-drakes appear throughout the northern lands of [[Middle-earth]], particularly in the [[Ered Mithrin]] where they serve "Hrímil Frost-Heart", a dragon who consumed one of the dwarven [[Rings of Power]]. Hrímil's mightiest spawn, the cold-drake "Vethúg Wintermind", was the one to slay King [[Dáin I]] and his son [[Frór]] in Thikil-gundu, "The Steel Keep" (otherwise known as [[Dáin's Halls]]). The game's cold-drakes often project icy breath, even though the exact nature of the "cold breath"<ref name="collectedpoems" /> of Tolkien's cold-drakes is simply not known.
+
+{{references}}
+
+[[Category:Dragons]]
+[[Category:Servants of Melkor]]
+[[de:Drachen#Kaltdrachen]]
+[[fi:Hyykäärmeet]]

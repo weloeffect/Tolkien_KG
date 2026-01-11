@@ -1,0 +1,20 @@
+{{person infobox
+| image=
+| name=Peter Kľúčik
+| born=[[March 16]] [[1953]]
+| died=
+| education=Department of Graphik art and Book Illustration at the Academy of Fine Arts in Bratislava
+| occupation=Artist
+| location=Slovakia
+| website=
+}}
+'''Peter Kľúčik''' is an artist who was commissioned in [[1989]] to illustrate ''[[The Hobbit]]''. Unfortunately prior to release the publisher lost the rights and the illustrations were never published.
+
+==External links==
+* [https://www.lenivyrodic.sk/ludia/nasiel-sa-klucik/ TOTO!  Interview]
+
+{{DEFAULTSORT:Klúcik, Peter}}
+
+[[Category:Artists]]
+[[Category:Slovak people]]
+[[Category:People by name]]

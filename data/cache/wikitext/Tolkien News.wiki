@@ -1,0 +1,24 @@
+{{website
+| image=
+| name=Tolkien News
+| URL=http://tolkiennews.net
+| slogan=
+| alexa=
+| commercial=No
+| revenue=
+| type=News aggregator
+| language=English
+| license=
+| articlecount=
+| registration=
+| owner=[[User:Hyarion|Hyarion]]
+| creator=
+| keypeople=
+| launch=[[1 January]], [[2006]]
+| status=Closed
+}}
+'''Tolkien News''' was a not-for-profit website which sought to aggregate [[J.R.R. Tolkien|Tolkien]]-related news, in direct competition with the more commercial [http://www.theonering.net TheOneRing.net].
+
+Tolkien News was founded on [[1 January]], [[2006]], however, as [[User:Hyarion|Hyarion]] (the founder) was tasked with the sole responsibility of its upkeep the site closed in [[2008]]. 
+
+[[Category:Websites]]

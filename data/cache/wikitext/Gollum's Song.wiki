@@ -1,0 +1,57 @@
+{{song
+| title=Gollum's Song
+| subtitle=performed by Emilíana Torrini
+| album=[[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], [[Emilíana Torrini]]
+| image=The_Lord_of_the_Rings_-_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=5:51
+| track=19
+| previous=[[Samwise the Brave]]
+| next=[[Farewell to Lorien (soundtrack)|Farewell to Lorien]]
+| spotify=https://open.spotify.com/track/0mQ1btcyqFDvTpaCFs04cR
+}}
+'''Gollum's Song''' is song performed [[Emilíana Torrini]] for [[Peter Jackson|Peter Jackson's]] ''[[The Lord of the Rings: The Two Towers]]''. It is the a song written from the perspective of [[Gollum]]. Originally, it was supposed to be sung by [[Wikipedia:Björk|Björk]], but she declined due to pregnancy.
+
+It is the nineteenth track of ''[[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack]]'' and formed part of "[[Long Ways to Go Yet]]", track fourteen of disc three of ''[[The Lord of the Rings: The Two Towers - The Complete Recordings]]''.
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+Where once was light
+Now darkness falls
+Where once was love
+Love is no more
+Don't say goodbye
+Don't say I didn't try
+
+These tears we cry
+Are falling rain
+For all the lies you told us
+The hurt, the blame!
+And we will weep to be so alone
+We are lost
+We can never go home
+
+So in the end
+I'll be what I will be
+No loyal friend
+Was ever there for me
+
+Now we say goodbye
+We say you didn't try
+
+These tears you cry
+Have come too late
+Take back the lies
+The hurt, the blame!
+
+And you will weep
+When you face the end alone
+You are lost
+You can never go home
+You are lost
+You can never go home
+</poem>
+
+{{lordoftheringsfilms}}
+[[Category:The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack]]

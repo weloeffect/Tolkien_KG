@@ -1,0 +1,40 @@
+{{disambig-more|The Council of Elrond|[[The Council of Elrond (disambiguation)]]}}
+{{song
+| title=The Council of Elrond
+| subtitle=Featuring "Aníron" (Theme For Aragorn And Arwen)" Composed & performed by ENYA
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], [[Enya]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=3:49
+| track=10
+| previous=[[Many Meetings (soundtrack)|Many Meetings]]
+| next=[[The Ring Goes South (soundtrack)|The Ring Goes South]]
+| spotify=https://open.spotify.com/track/3Knohqfb9jeYzL6wMZiWLM
+}}
+'''The Council Of Elrond'''  is the tenth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. It features the song "[[Aníron]] (Theme For Aragorn And Arwen)" composed and performed by [[Enya]].
+
+==Lyrics==
+<poem>
+O mór henion i dhû:
+Ely siriar, êl síla
+Ai! Aníron Undómiel
+
+Tiro! Êl eria e mór.
+I 'lîr en êl luitha 'uren.
+Ai! Aníron...
+</poem>
+
+==Translation==
+<poem>
+From darkness I understand the night:
+dreams flow, a star shines
+Ah! I desire Evenstar
+
+Look! A star rises out of the darkness
+The song of the star enchants my heart
+Ah! I desire...
+</poem>
+{{title}}
+{{DEFAULTSORT:10}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

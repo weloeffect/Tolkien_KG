@@ -1,0 +1,21 @@
+{{book
+| title=The Rise of Tolkienian Fantasy
+| image = The Rise of Tolkienian Fantasy.jpg
+| author=[[Jared Lobdell]]
+| editor=
+| contributors=
+| illustrator=
+| publisher=Open Court
+| date=[[6 October]] [[2005]]
+| pages=176
+| noisbn=0812694589
+| series=
+}}
+'''''The Rise of Tolkienian Fantasy''''' is a [[2005]] book by [[Jared Lobdell]].
+
+== From the publisher ==
+{{blockquote|When [[J.R.R. Tolkien|Tolkien]]'s [[The Lord of the Rings|Lord of the Rings]] appeared in 1954, it was eagerly sought by a rapidly widening community of readers while snootily dismissed by eminent critics as juvenile escapism. For many years most literary scholars refused to take Tolkien seriously, but today they reluctantly admit that he is indeed one of the greatest of writers." "Jared Lobdell contends that Tolkien's literary achievement actually constitutes a new mainstream of literary development. The future of fiction lies in fantasy, and Tolkien is part of a vital organic growth with roots in the past." "Celtic revival, medieval revival, "feigned history," the Edwardian adventure story - many tributaries flow into the swelling stream of Tolkienian fantasy. Professor Lobdell traces Tolkien's most important precursors and influences. Some are familiar figures: Rudyard Kipling, William Morris, Kenneth Grahame, and H. Rider Haggard. Others, such as R. S. Surtees and George MacDonald, have been neglected lately." Finally, Lobdell looks at some of the ablest heirs of the master: contemporary fantasists Ursula Le Guin, Stephen King (in the Dark Tower series), and J. K. Rowling.}}
+{{title|italics}}
+{{DEFAULTSORT:Rise of Tolkienian Fantasy}}
+[[Category:Publications by title]]
+[[Category:Scholarly books]]

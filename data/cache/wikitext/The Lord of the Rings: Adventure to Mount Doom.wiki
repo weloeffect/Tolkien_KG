@@ -1,0 +1,21 @@
+{{board game infobox
+| image = LotRAdventureMountDoom.webp
+| name=The Lord of the Rings: Adventure to Mount Doom
+| designer=Michael Rieneck
+| publisher=KOSMOS
+| releasedate=[[2023]]
+| players=1-4
+| ages=10+
+}}
+'''The Lord of the Rings: Adventure to Mount Doom''' is a cooperative dice-based board game that lets players re-live the journey of [[Frodo]] to destroy the [[One Ring]] in the cracks of [[Mount Doom]]. It was published in 2023 and features artwork by [[Aleksander Karcz]].
+==From the publisher==
+Frodo’s journey to Mount Doom is fraught with peril. Luckily, his loyal friends protect him on his way. With a clever choice of dice, players work together to move the figures across the gameboard. In this cooperative fantasy board game, players will win — or lose — together.
+
+Lightweight, cooperative, story-based game set in the iconic world created by [[J.R.R. Tolkien]]’s [[The Lord of the Rings]].
+Players work together to guide Frodo on his quest to reach Mount Doom and destroy the One Ring. The game uses a dice-rolling mechanic to move figures across the gameboard; only when Frodo reaches Mount Doom will victory be achieved! Black dice and encounter cards add threats and suspense to the game, requiring players to be strategic as they make decisions together. Fans of fantasy, adventure, and role-playing games will find this game a perfect fit for their next game night.
+
+==External links==
+* '''[https://www.thamesandkosmos.co.uk/product/the-lord-rings-mount-doom/ Official Site]'''
+* [https://boardgamegeek.com/boardgame/366278/the-lord-of-the-rings-adventure-to-mount-doom Board Game Geek Profile]
+{{title}}
+[[Category:Board games]]

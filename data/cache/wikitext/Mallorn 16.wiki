@@ -1,0 +1,48 @@
+{{Mallorn
+| name=Mallorn 16
+| image = Mallorn16.jpg
+| editor=[[Susan Rule]] (editor)<br/>Steve Pillinger (assistant editor)
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[May]] [[1981]]
+| format=A4 stapled paperback
+| pages=34
+| issn=0308-6674
+}}
+'''''Mallorn'' 16''' is the sixteenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in May [[1981]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: [[Susan Rule]]
+* A Look at the Marquette Archives
+** By: [[Douglas A. Anderson]]
+* 'Barrow-wight'
+** By: Stephen Lines
+* ''The Sealing of Gondolin''
+** By: Tim Scratcherd
+* 'Beren, Lúthien and Thangorodrim'
+** By: M. Afford
+* J.R.R. Tolkien: Lexicography and other early Linguistic Preferences
+** By: [[John Ryan|J.S. Ryan]]
+* 'Tom Bombadil'
+** By: Dave Cooper
+* ''The Marring of the Moon''
+** By: [[Douglas A. Anderson]]
+* 'Treebeard'
+** By: Mark Bardsley
+* Old Swords Still Shine
+** By: Tim Scratcherd
+* Music in Middle-earth
+** By: Gill Gleeson
+* 'The Argonath'
+** By: Ruud Verkerk
+
+* Inside Art
+** By: Lucy Matthews, Stephen Lines
+
+{{mallornnav|15|17|url=http://journals.tolkiensociety.org/mallorn/issue/view/17/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 16}}
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,38 @@
+{{Poem infobox
+| title="In western lands beneath the Sun"
+| written=Between [[1938]] and [[1954]]
+| revised=Between 1938 and 1954
+| published=''[[The Return of the King]]''<br>''[[The Road Goes Ever On (book)|The Road Goes Ever On]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Samwise Gamgee]]
+}}
+[[File:Matěj Čadil - In western lands.jpg|thumb|''In Western Lands beneath the Sun'' by [[Matěj Čadil]]]]
+'''In western lands beneath the Sun''', possibly written by [[Bilbo Baggins]], is a song sung by [[Sam Gamgee]] on [[14 March]] {{TA|3019}}<ref>{{App|Great}}</ref> in the [[Tower of Cirith Ungol]]. Sam had just climbed to the top of the stairs in the tower but could not find [[Frodo Baggins]]; he felt he was not actually at top of the tower but he was unable to discover any way that led upwards. Defeated, Sam bowed his head. Suddenly, to his surprise, he began to sing. At first he only recited childish tunes and rhymes, but then a new song arose in him:
+
+==Poem excerpt==
+<poem style="font-style:italic;margin-left:20px;">
+In western lands beneath the Sun
+the flowers may rise in Spring,
+the trees may bud, the waters run,
+the merry [[finches]] sing.
+Or there maybe 'tis cloudless night
+and swaying beeches bear
+the Elven-stars as jewels white
+amid their branching hair.
+</poem>
+ 
+Sam began to sing the line "Beyond all towers strong and high" again but stopped abruptly when he thought he could hear a faint answering voice. The voice stopped but then he heard the footsteps of [[Snaga (orc of Mordor)|Snaga]] approaching. Sam's voice, obviously not that of an [[Elves|Elf]], had attracted the [[Orcs|orc]], who came to shut Frodo up. Snaga brought in a ladder which enabled him to reach the final chamber above, soon to be followed by Sam.<ref>{{RK|VI1}}</ref>
+ 
+==Portrayal in adaptations==
+Donald Swann wrote music for this song, which can be found in the book ''[[The Road Goes Ever On (book)|The Road Goes Ever On]]'';<ref>{{RGEO|Lands}}</ref> it is also found on the accompanying CD of the latest version.
+
+Stephen Oliver also wrote music for the song for the BBC Radio dramatisation. It was sung in the story by Bill Nighy (billed as William Nighy) and on the BBC Record by wine critic, Oz Clarke.
+
+In [[Paul Corfield Godfrey]]'s opera ''[[Beren and Lúthien, Op. 47 (Opera)|Beren and Lúthien]]'', this poem is given to the titular characters, with Lúthien singing the first stanza and Beren the second as she discovers him in [[Sauron]]'s lair.<ref>https://www.paulcorfieldgodfrey.co.uk/beren-and-luthien</ref>
+
+==See also==
+* [[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+ 
+{{references}}
+{{poems}}
+[[Category:Poems in The Return of the King]]
+[[Category:Songs]]

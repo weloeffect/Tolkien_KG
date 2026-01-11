@@ -1,0 +1,35 @@
+{{Stub}}
+{{disambig-two|the tree planted by [[Samwise Gamgee]]|Golden Tree of [[Valinor]]|[[Laurelin]]}}
+{{plant infobox
+| name=Golden Tree
+| image=
+| caption=
+| pronun=
+| othernames=
+| location=[[Party Field]], [[The Shire]]
+| notablefor=Being the only mellyrn west of the [[Misty Mountains]]
+| family=[[Mellyrn]]
+| appearance=
+}}
+
+{{Quote|She put into his hand a little box of plain grey wood, unadorned save for a single silver rune upon the lid.|The box containing the silver nut<ref name="farewell" />}}
+
+The '''Golden Tree'''<ref name="appendix">{{App|D2}}, p. 1112</ref> was one of the most magnificent [[mellyrn]] in [[Middle-earth]], silver-barked and golden-leafed, and the only one of its kind to be found to the west of the [[Misty Mountains]].<ref name="greyhavens">{{RK|VI9}}, p. 1023</ref>
+
+== History ==
+During the [[Quest of Mount Doom]]<ref>{{FR|II3}}, p. 281</ref>, [[Samwise Gamgee]] was given a silver nut by [[Galadriel]] in [[Lórien]].<ref name="farewell">{{FR|II8}}, p. 375</ref> This was the seed of a [[mallorn]] tree.<ref name="greyhavens" /> These [[trees]] were only found in in Lórien.<ref>{{UT|3}}</ref>
+
+After the [[Battle of Bywater]] that marked the end of the [[War of the Ring]],<ref name="chiefdays">{{App|Chief}}, "3019 S.R. 1419", entry for November</ref> however, a single mallorn tree could be found elsewhere beside Lórien. During [[Lotho Sackville-Baggins]]'s and [[Sharkey]]'s takeover of [[the Shire]], the [[Party Tree]] in the [[Party Field]] was cut down.<ref>{{RK|Scouring}}, p. 1330</ref> Some weeks after [[3 November]] {{TA|3019}}<ref name="chiefdays" />, Sam chose to plant his silver seed in its place. It quickly sprouted into a sapling the next spring and flowered on [[6 April]] {{TA|3020}}<ref>{{App|Chief}}, "3020 S.R. 1420: The Great Year of Plenty", entry for April</ref>. Years later, tales spread far about the only mallorn found west of the [[Misty Mountains]], causing people to make long journeys just to see it.<ref name="greyhavens" />
+
+At some unspecified time later, the [[Shire-folk]] living in the [[Westfarthing]], especially those close to [[Hobbiton Hill]], developed a custom of celebrating [[6 April]] in the Party Field during clear weather. One of the reasons given is that it may have been the exact day when the Golden Tree first flowered.<ref name="appendix" />
+
+== Other versions of the legendarium ==
+In an early version of the chapter "[[The Grey Havens]], the silver nut was originally described as being "like a nut or a dried berry".<ref>{{SD|X}}, p. 108</ref>
+
+== External links ==
+*{{webcite|author=[[Mark Fisher]]|articleurl=https://www.glyphweb.com/arda/g/goldentreeshire.html|articlename=Golden Tree|dated=16 October 2016|website=EoA|accessed=1 November 2024}}
+
+{{References}}
+
+[[Category:Trees]]
+[[Category:The Shire]]

@@ -1,0 +1,500 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Alan_Gutierrez> a schema:WebPage ;
+    rdfs:label "Alan Gutierrez"@en ;
+    schema:about <http://localhost:8000/resource/Alan_Gutierrez> .
+
+<http://localhost:8000/page/Alan_Rabinowitz> a schema:WebPage ;
+    rdfs:label "Alan Rabinowitz"@en ;
+    schema:about <http://localhost:8000/resource/Alan_Rabinowitz> .
+
+<http://localhost:8000/page/Alex_Lewis> a schema:WebPage ;
+    rdfs:label "Alex Lewis"@en ;
+    schema:about <http://localhost:8000/resource/Alex_Lewis> .
+
+<http://localhost:8000/page/Angelo_Montanini> a schema:WebPage ;
+    rdfs:label "Angelo Montanini"@en ;
+    schema:about <http://localhost:8000/resource/Angelo_Montanini> .
+
+<http://localhost:8000/page/Angus_McBride> a schema:WebPage ;
+    rdfs:label "Angus McBride"@en ;
+    schema:about <http://localhost:8000/resource/Angus_McBride> .
+
+<http://localhost:8000/page/Arthur_Tolkien> a schema:WebPage ;
+    rdfs:label "Arthur Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Arthur_Tolkien> .
+
+<http://localhost:8000/page/Astrid_Lindgren> a schema:WebPage ;
+    rdfs:label "Astrid Lindgren"@en ;
+    schema:about <http://localhost:8000/resource/Astrid_Lindgren> .
+
+<http://localhost:8000/page/Audrey_Corman> a schema:WebPage ;
+    rdfs:label "Audrey Corman"@en ;
+    schema:about <http://localhost:8000/resource/Audrey_Corman> .
+
+<http://localhost:8000/page/Christina_Wald> a schema:WebPage ;
+    rdfs:label "Christina Wald"@en ;
+    schema:about <http://localhost:8000/resource/Christina_Wald> .
+
+<http://localhost:8000/page/Cortney_Skinner> a schema:WebPage ;
+    rdfs:label "Cortney Skinner"@en ;
+    schema:about <http://localhost:8000/resource/Cortney_Skinner> .
+
+<http://localhost:8000/page/Dick_Plotz> a schema:WebPage ;
+    rdfs:label "Dick Plotz"@en ;
+    schema:about <http://localhost:8000/resource/Dick_Plotz> .
+
+<http://localhost:8000/page/Douglas_Chaffee> a schema:WebPage ;
+    rdfs:label "Douglas Chaffee"@en ;
+    schema:about <http://localhost:8000/resource/Douglas_Chaffee> .
+
+<http://localhost:8000/page/Edith_Tolkien> a schema:WebPage ;
+    rdfs:label "Edith Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Edith_Tolkien> .
+
+<http://localhost:8000/page/Edward_Beard%2C_Jr.> a schema:WebPage ;
+    rdfs:label "Edward Beard, Jr."@en ;
+    schema:about <http://localhost:8000/resource/Edward_Beard%2C_Jr.> .
+
+<http://localhost:8000/page/Gail_McIntosh> a schema:WebPage ;
+    rdfs:label "Gail McIntosh"@en ;
+    schema:about <http://localhost:8000/resource/Gail_McIntosh> .
+
+<http://localhost:8000/page/Gino_Acevedo> a schema:WebPage ;
+    rdfs:label "Gino Acevedo"@en ;
+    schema:about <http://localhost:8000/resource/Gino_Acevedo> .
+
+<http://localhost:8000/page/Hilary_Tolkien> a schema:WebPage ;
+    rdfs:label "Hilary Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Hilary_Tolkien> .
+
+<http://localhost:8000/page/Howard_Shore> a schema:WebPage ;
+    rdfs:label "Howard Shore"@en ;
+    schema:about <http://localhost:8000/resource/Howard_Shore> .
+
+<http://localhost:8000/page/John_Benjamin_Tolkien_%28George%27s_father%29> a schema:WebPage ;
+    rdfs:label "John Benjamin Tolkien (George's father)"@en ;
+    schema:about <http://localhost:8000/resource/John_Benjamin_Tolkien_%28George%27s_father%29> .
+
+<http://localhost:8000/page/Kay_Woollard> a schema:WebPage ;
+    rdfs:label "Kay Woollard"@en ;
+    schema:about <http://localhost:8000/resource/Kay_Woollard> .
+
+<http://localhost:8000/page/Larry_Elmore> a schema:WebPage ;
+    rdfs:label "Larry Elmore"@en ;
+    schema:about <http://localhost:8000/resource/Larry_Elmore> .
+
+<http://localhost:8000/page/Lascelles_Abercrombie> a schema:WebPage ;
+    rdfs:label "Lascelles Abercrombie"@en ;
+    schema:about <http://localhost:8000/resource/Lascelles_Abercrombie> .
+
+<http://localhost:8000/page/Liz_Danforth> a schema:WebPage ;
+    rdfs:label "Liz Danforth"@en ;
+    schema:about <http://localhost:8000/resource/Liz_Danforth> .
+
+<http://localhost:8000/page/Margaret_Organ-Kean> a schema:WebPage ;
+    rdfs:label "Margaret Organ-Kean"@en ;
+    schema:about <http://localhost:8000/resource/Margaret_Organ-Kean> .
+
+<http://localhost:8000/page/Mark_Poole> a schema:WebPage ;
+    rdfs:label "Mark Poole"@en ;
+    schema:about <http://localhost:8000/resource/Mark_Poole> .
+
+<http://localhost:8000/page/Mary_Fairburn> a schema:WebPage ;
+    rdfs:label "Mary Fairburn"@en ;
+    schema:about <http://localhost:8000/resource/Mary_Fairburn> .
+
+<http://localhost:8000/page/Michael_Martinez> a schema:WebPage ;
+    rdfs:label "Michael Martinez"@en ;
+    schema:about <http://localhost:8000/resource/Michael_Martinez> .
+
+<http://localhost:8000/page/Nils-Lennart_Johannesson> a schema:WebPage ;
+    rdfs:label "Nils-Lennart Johannesson"@en ;
+    schema:about <http://localhost:8000/resource/Nils-Lennart_Johannesson> .
+
+<http://localhost:8000/page/Nils_Ivar_Ag%C3%B8y> a schema:WebPage ;
+    rdfs:label "Nils Ivar Agøy"@en ;
+    schema:about <http://localhost:8000/resource/Nils_Ivar_Ag%C3%B8y> .
+
+<http://localhost:8000/page/Omar_Rayyan> a schema:WebPage ;
+    rdfs:label "Omar Rayyan"@en ;
+    schema:about <http://localhost:8000/resource/Omar_Rayyan> .
+
+<http://localhost:8000/page/Peter_K%C4%BE%C3%BA%C4%8Dik> a schema:WebPage ;
+    rdfs:label "Peter Kľúčik"@en ;
+    schema:about <http://localhost:8000/resource/Peter_K%C4%BE%C3%BA%C4%8Dik> .
+
+<http://localhost:8000/page/Przemys%C5%82aw_Mroczkowski> a schema:WebPage ;
+    rdfs:label "Przemysław Mroczkowski"@en ;
+    schema:about <http://localhost:8000/resource/Przemys%C5%82aw_Mroczkowski> .
+
+<http://localhost:8000/page/Quinton_Hoover> a schema:WebPage ;
+    rdfs:label "Quinton Hoover"@en ;
+    schema:about <http://localhost:8000/resource/Quinton_Hoover> .
+
+<http://localhost:8000/page/Randy_Gallegos> a schema:WebPage ;
+    rdfs:label "Randy Gallegos"@en ;
+    schema:about <http://localhost:8000/resource/Randy_Gallegos> .
+
+<http://localhost:8000/page/Rob_Alexander> a schema:WebPage ;
+    rdfs:label "Rob Alexander"@en ;
+    schema:about <http://localhost:8000/resource/Rob_Alexander> .
+
+<http://localhost:8000/page/Ron_Chironna> a schema:WebPage ;
+    rdfs:label "Ron Chironna"@en ;
+    schema:about <http://localhost:8000/resource/Ron_Chironna> .
+
+<http://localhost:8000/page/Saint_Brendan> a schema:WebPage ;
+    rdfs:label "Saint Brendan"@en ;
+    schema:about <http://localhost:8000/resource/Saint_Brendan> .
+
+<http://localhost:8000/page/Stefano_Baldo> a schema:WebPage ;
+    rdfs:label "Stefano Baldo"@en ;
+    schema:about <http://localhost:8000/resource/Stefano_Baldo> .
+
+<http://localhost:8000/page/Stephen_Hickman> a schema:WebPage ;
+    rdfs:label "Stephen Hickman"@en ;
+    schema:about <http://localhost:8000/resource/Stephen_Hickman> .
+
+<http://localhost:8000/page/Stephen_Walsh> a schema:WebPage ;
+    rdfs:label "Stephen Walsh"@en ;
+    schema:about <http://localhost:8000/resource/Stephen_Walsh> .
+
+<http://localhost:8000/page/Stuart_D._Lee> a schema:WebPage ;
+    rdfs:label "Stuart D. Lee"@en ;
+    schema:about <http://localhost:8000/resource/Stuart_D._Lee> .
+
+<http://localhost:8000/page/Tom_Cross> a schema:WebPage ;
+    rdfs:label "Tom Cross"@en ;
+    schema:about <http://localhost:8000/resource/Tom_Cross> .
+
+<http://localhost:8000/page/William_Craigie> a schema:WebPage ;
+    rdfs:label "William Craigie"@en ;
+    schema:about <http://localhost:8000/resource/William_Craigie> .
+
+<http://localhost:8000/page/William_O%27Connor> a schema:WebPage ;
+    rdfs:label "William O'Connor"@en ;
+    schema:about <http://localhost:8000/resource/William_O%27Connor> .
+
+<http://localhost:8000/resource/Alan_Gutierrez> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1958> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Alan Gutierrez"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Alan_Rabinowitz> a schema:Person ;
+    tg:born <http://localhost:8000/resource/8_June_1969> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Alan Rabinowitz"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Alex_Lewis> a schema:Person ;
+    tg:image "Alex Lewis.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Alex Lewis"@en ;
+    tg:occupation <http://localhost:8000/resource/5th_Chairman_of_The_Tolkien_Society> .
+
+<http://localhost:8000/resource/Angelo_Montanini> a schema:Person ;
+    tg:born <http://localhost:8000/resource/21_May_1951> ;
+    tg:caption "Self-portrait"@en ;
+    tg:image "Angelo Montanini - Self Portrait.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Italy"@en ;
+    tg:name "Angelo Montanini"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Angus_McBride> a schema:Person ;
+    tg:born <http://localhost:8000/resource/11_May_1931> ;
+    tg:caption <http://localhost:8000/resource/A_photo_published_in_%27%27Angus_McBride%27s_Characters_of_Middle-earth%27%27> ;
+    tg:died <http://localhost:8000/resource/15_May_2007> ;
+    tg:image "Angus McBride.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "United Kingdom, South Africa"@en ;
+    tg:name "Angus McBride"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Arthur_Tolkien> a schema:Person ;
+    tg:1 "Arthur Tolkien, unknown date"@en ;
+    tg:born <http://localhost:8000/resource/18_February%2C_1857> ;
+    tg:died <http://localhost:8000/resource/15_February%2C_1896> ;
+    tg:image "Arthur Tolkien.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location <http://localhost:8000/resource/England_and_South_Africa> ;
+    tg:name "Arthur Tolkien"@en ;
+    tg:occupation "Bank Manager"@en .
+
+<http://localhost:8000/resource/Astrid_Lindgren> a schema:Person ;
+    tg:born <http://localhost:8000/resource/14_November_1907> ;
+    tg:died <http://localhost:8000/resource/28_January_2002> ;
+    tg:image "Astrid Lindgren.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Sweden"@en ;
+    tg:name "Astrid Lindgren"@en ;
+    tg:occupation "Author / Screenwriter"@en .
+
+<http://localhost:8000/resource/Audrey_Corman> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Audrey Corman"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Christina_Wald> a schema:Person ;
+    tg:born <http://localhost:8000/resource/28_September_1968> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Cincinnati, United States"@en ;
+    tg:name "Christina Suzanna Wald"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Cortney_Skinner> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Cortney Skinner"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Dick_Plotz> a schema:Person ;
+    tg:born <http://localhost:8000/resource/15_August_1948> ;
+    tg:died <http://localhost:8000/resource/2_March_2024> ;
+    tg:education "Harvard College"@en ;
+    tg:image "Dick Plotz.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Richard Plotz"@en ;
+    tg:occupation "Cytopathologist"@en .
+
+<http://localhost:8000/resource/Douglas_Chaffee> a schema:Person ;
+    tg:born <http://localhost:8000/resource/24_January_1936> ;
+    tg:died <http://localhost:8000/resource/26_April_2011> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Douglas S. Chaffee"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Edith_Tolkien> a schema:Person ;
+    tg:born <http://localhost:8000/resource/January_21%2C_1889> ;
+    tg:died <http://localhost:8000/resource/November_29%2C_1971> ;
+    tg:image "Edith Bratt (colorized).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Edith Tolkien"@en .
+
+<http://localhost:8000/resource/Edward_Beard%2C_Jr.> a schema:Person ;
+    tg:born <http://localhost:8000/resource/11_December_1964> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Edward Peter Beard, Jr."@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Gail_McIntosh> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Gail B. McIntosh"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Gino_Acevedo> a schema:Person ;
+    tg:born <http://localhost:8000/resource/6_December_1964> ;
+    tg:caption "Acevedo as Dwarf lord Sindri."@en ;
+    tg:image "Decipher - Sindri.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Geno Acevedo"@en ;
+    tg:occupation "Make-up and digital effects artist"@en .
+
+<http://localhost:8000/resource/Hilary_Tolkien> a schema:Person ;
+    tg:born <http://localhost:8000/resource/17_February_1894> ;
+    tg:died <http://localhost:8000/resource/25_January_1976> ;
+    tg:image "Hilary Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Hilary Tolkien"@en .
+
+<http://localhost:8000/resource/Howard_Shore> a schema:Person ;
+    tg:born <http://localhost:8000/resource/18_October> ;
+    tg:image "Howard Shore.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Howard Shore"@en ;
+    tg:occupation "Composer"@en ;
+    tg:website "[http://www.howardshore.com Official website]"@en .
+
+<http://localhost:8000/resource/John_Benjamin_Tolkien_%28George%27s_father%29> a schema:Person ;
+    tg:born <http://localhost:8000/resource/June_1752> ;
+    tg:caption "J.B. Tolkien's grave."@en ;
+    tg:died <http://localhost:8000/resource/27_January_1819> ;
+    tg:image "Bunhill Fields, London 26.JPG"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location <http://localhost:8000/resource/United_Kingdom> ;
+    tg:name "John Benjamin Tolkien (George's father)"@en .
+
+<http://localhost:8000/resource/Kay_Woollard> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1924> ;
+    tg:caption <http://localhost:8000/resource/Kay_Woollard_laying_a_wreath_on_J.R.R._Tolkien%27s_Grave> ;
+    tg:died <http://localhost:8000/resource/2008> ;
+    tg:image "Kay_Woollard_laying_a_wreath_on_JRR_Tolkien's_tomb.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Kay Woollard"@en .
+
+<http://localhost:8000/resource/Larry_Elmore> a schema:Person ;
+    tg:born <http://localhost:8000/resource/5_August_1948> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Larry D. Elmore"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Lascelles_Abercrombie> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_January%2C_1881> ;
+    tg:died <http://localhost:8000/resource/27_October%2C_1938> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Leeds"@en ;
+    tg:name "Lascelles Abercrombie"@en ;
+    tg:occupation "Professor of English literature"@en .
+
+<http://localhost:8000/resource/Liz_Danforth> a schema:Person ;
+    tg:born <http://localhost:8000/resource/16_November_1953> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Elizabeth T. Danforth"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Margaret_Organ-Kean> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "West Seattle, USA"@en ;
+    tg:name "Margaret Organ-Kean"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Mark_Poole> a schema:Person ;
+    tg:born <http://localhost:8000/resource/31_August_1963> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Mark R. Poole"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Mary_Fairburn> a schema:Person ;
+    tg:born "13 June 1933"@en ;
+    tg:education "Winchester School of Art and the Institute of Education"@en ;
+    tg:image "Mary Fairburn.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Mary Fairburn"@en ;
+    tg:occupation "Illustrator"@en .
+
+<http://localhost:8000/resource/Michael_Martinez> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1959> ;
+    tg:education "Kennesaw State University, Georgia, USA"@en ;
+    tg:image "Michael Martinez portrait.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Michael Martinez"@en ;
+    tg:occupation "SEO Theorist and Tolkien Scholar"@en ;
+    tg:website "[https://www.michael-martinez.com/ Official website]<br />[https://middle-earth.xenite.org/ Middle-earth Blog]"@en .
+
+<http://localhost:8000/resource/Nils-Lennart_Johannesson> a schema:Person ;
+    tg:born <http://localhost:8000/resource/2_February_1948%3Cref_name%3DSG%3E%7B%7Bwebcite> ;
+    tg:died <http://localhost:8000/resource/June_8_2019%3Cref_name%3DSG/%3E> ;
+    tg:education <http://localhost:8000/resource/Wikipedia%3AStockholm_University> ;
+    tg:image "Nils-Lennart Johannesson.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Nils-Lennart Johannesson"@en ;
+    tg:occupation "Professor"@en .
+
+<http://localhost:8000/resource/Nils_Ivar_Ag%C3%B8y> a schema:Person ;
+    tg:image "Nils Ivar Agøy 2.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Norway"@en ;
+    tg:name "Nils Ivar Agøy"@en ;
+    tg:occupation "Professor of Modern History"@en .
+
+<http://localhost:8000/resource/Omar_Rayyan> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1968> ;
+    tg:caption "Self-portrait"@en ;
+    tg:image "Omar Rayyan - Self Portrait.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Omar Rayyan"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Peter_K%C4%BE%C3%BA%C4%8Dik> a schema:Person ;
+    tg:born <http://localhost:8000/resource/March_16_1953> ;
+    tg:education "Department of Graphik art and Book Illustration at the Academy of Fine Arts in Bratislava"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Slovakia"@en ;
+    tg:name "Peter Kľúčik"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Przemys%C5%82aw_Mroczkowski> a schema:Person ;
+    tg:born "28 June 1915"@en ;
+    tg:died "12 July 2002"@en ;
+    tg:education "Henryk Sienkiewicz IV Junior High School and Secondary School, Jagiellonian University, University of Notre Dame"@en ;
+    tg:image "Przemysław Mrczkowski.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Kraków, Poland"@en ;
+    tg:name "Przemysław Mroczowski"@en .
+
+<http://localhost:8000/resource/Quinton_Hoover> a schema:Person ;
+    tg:born <http://localhost:8000/resource/16_March_1964> ;
+    tg:died <http://localhost:8000/resource/20_April_2013> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Quinton Hoover"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Randy_Gallegos> a schema:Person ;
+    tg:born <http://localhost:8000/resource/31_October_1974> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Randy Richard Gallegos"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Rob_Alexander> a schema:Person ;
+    tg:born <http://localhost:8000/resource/15_June_1966> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Canada"@en ;
+    tg:name "Rob Alexander"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Ron_Chironna> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Ronald Chironna"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Saint_Brendan> a schema:Person ;
+    tg:born "c. AD 484"@en ;
+    tg:died "c. AD 577"@en ;
+    tg:image "Edward Reginald Frampton - The Voyage of St. Brandan.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Ireland"@en ;
+    tg:name "Saint Brendan"@en ;
+    tg:occupation "Monk"@en .
+
+<http://localhost:8000/resource/Stefano_Baldo> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Italy"@en ;
+    tg:name "Stefano Baldo"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Stephen_Hickman> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_April_1949> ;
+    tg:died <http://localhost:8000/resource/16_July_2021> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Stephen Hickman"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Stephen_Walsh> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "Stephen Graham Walsh"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/Stuart_D._Lee> a schema:Person ;
+    tg:born <http://localhost:8000/resource/3_February_1966> ;
+    tg:image "Stuart D. Lee.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Oxford, England"@en ;
+    tg:name "Stuart D. Lee"@en .
+
+<http://localhost:8000/resource/Tom_Cross> a schema:Person ;
+    tg:born <http://localhost:8000/resource/8_February_1954> ;
+    tg:died <http://localhost:8000/resource/27_December_2008> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:location "Sarasota, Florida, U.S."@en ;
+    tg:name "Thomas Jess Cross"@en ;
+    tg:occupation "Artist"@en .
+
+<http://localhost:8000/resource/William_Craigie> a schema:Person ;
+    tg:born <http://localhost:8000/resource/13_August_1876> ;
+    tg:died <http://localhost:8000/resource/2_September_1957> ;
+    tg:education <http://localhost:8000/resource/Wikipedia%3AUniversity_of_St_Andrews> ;
+    tg:image "Sir William Alexander Craigie.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "William Craigie"@en ;
+    tg:occupation "Philologist<br> Lexicographer<br> Professor"@en .
+
+<http://localhost:8000/resource/William_O%27Connor> a schema:Person ;
+    tg:born <http://localhost:8000/resource/22_September_1970> ;
+    tg:died <http://localhost:8000/resource/31_January_2018> ;
+    tg:infoboxTemplate <http://localhost:8000/template/person_infobox> ;
+    tg:name "William M. O’Connor"@en ;
+    tg:occupation "Artist, author"@en .
+

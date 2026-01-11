@@ -1,0 +1,33 @@
+{{disambig-more|War of the Ring|[[War of the Ring (disambiguation)]]}}
+{{board game infobox
+| image = WotR BoardGame 2011.webp
+| name=War of the Ring: Second Edition
+| designer=Roberto Di Meglio, Marco Maggi, Francesco Nepitello
+| publisher=[[ARES Games]]
+| releasedate=[[2011]]
+| players=2-4
+| ages=12+
+}}
+'''War of the Ring: Second Edition''' is an enhanced and updated version of the [[War of the Ring (2004 board game)|2004 board game of the same name]].
+==From the publisher==
+War of the Ring is the greatest board game inspired by THE LORD OF THE RINGS™ ever created! WAR OF THE RING is a grand strategy board game that allows its players to immerse themselves in the world created by J.R.R. Tolkien and experience its epic action, dramatic conflict, and memorable characters.
+
+As the [[Free Peoples]] player you command the proud hosts of the most important kingdoms of the [[Third Age]]. From the horse-lords of Rohan to the soldiers of [[Gondor]] and the Elven lords of [[Rivendell]], you lead the defense of the last free realms of Middle-earth. Face the evil minions of [[Sauron]] on the field of battle in a desperate attempt to delay their onslaught, while you lead the Fellowship of the Ring in the Quest for [[Mount Doom]].
+
+As the Shadow player you lead the hordes of the Dark Lord and his most powerful minions as they try to bring darkness to Middle-earth. Legions of [[Orcs]], [[Trolls]], [[Wolfriders]] and the dreadful [[Ringwraiths]] await your command. Hunt the [[Ring-bearer]] and bring the precious Ring to his Master, or crush your enemies with your unstoppable armies.
+
+==Expansions==
+*''Lords of Middle-earth'' (2012) - Added the [[Three Rings|Elven Rings]], [[Galadriel]], [[Elrond]], the [[Balrog of Moria]], [[Sméagol]], [[Gothmog]] and alternative versions of characters from the base game. ([https://boardgamegeek.com/boardgameexpansion/122328/war-of-the-ring-lords-of-middle-earth BGG Profile])
+*Treebeard Mini-Expansion (2012) - Promotional release, adding [[Treebeard]] as an optional character for the Free Peoples player. ([https://boardgamegeek.com/boardgameexpansion/132430/war-of-the-ring-lords-of-middle-earth-treebeard-mi BGG Profile])
+*''Warriors of Middle-earth'' (2016) - Added the Factions mechanic, bringing the [[Great Eagles]], [[Ents]], [[Dead Men of Dunharrow]], [[ Corsairs of Umbar]], Wild Hillmen from [[Dunland]], and [[Giant Spiders]] into the fray! ([https://boardgamegeek.com/boardgameexpansion/179404/war-of-the-ring-warriors-of-middle-earth BGG Profile])
+*''Kings of Middle-earth'' (2023) - Introduced "Sovereign" characters to the Free Peoples: [[Théoden]], [[Denethor]], [[Dáin I|Dáin]], [[Brand]], and [[Thranduil]], all of whom must fight against being corrupted by darkness. The Shadow gains dark chieftains that can extend Sauron's reach! ([https://boardgamegeek.com/boardgameexpansion/299490/war-of-the-ring-kings-of-middle-earth BGG Profile])
+
+==Adaptations==
+In 2022, ARES Games released [[War of the Ring: The Card Game]], a more streamlined version of War of the Ring: Second Edition, utilizing only cards and making it more accessible.
+
+==External links==
+* '''[https://www.aresgames.eu/games/war-of-the-ring-line Official Site]'''
+* [https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition Board Game Geek Profile]
+{{references}}
+{{title}}
+[[Category:Board games]]

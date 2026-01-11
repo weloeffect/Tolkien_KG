@@ -1,0 +1,137 @@
+{{Incomplete}}
+{{episode infobox
+| name=Where the Stars are Strange
+| image =
+| caption=
+| director=[[Charlotte Brändström]]<br/>[[Louise Hooper]]
+| writer=[[Jason Cahill]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[29 August]] [[2024]]
+| runtime=62 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=27580486
+| gallery=The Rings of Power (TV series)
+| previous=[[Elven Kings Under the Sky]]
+| next=[[The Eagle and the Sceptre]]
+}}
+
+{{Quote|Darkness falls over [[Khazad-dûm]]. [[Sauron]] and [[Galadriel]] each seek new allies. [[The Stranger]] and [[Harfoots]] encounter a growing threat.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Where the Stars are Strange''' is the tenth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the second episode of the second season and it was released on [[29 August]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Sophia Nomvete]] || [[Disa]]
+|-
+| [[Owain Arthur]] || [[Durin IV]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High King Gil-galad]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Ciarán Hinds]] || [[Dark Wizard]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Nori Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Amelia Kenworthy]]|| [[Mirdania]]
+|-
+| [[Kevin Eldon]] || [[Narvi]]
+|-
+| [[Ben Daniels]] || [[Círdan]]
+|-
+| [[Akshay Khanna]]|| [[Commander of the West]]
+|-
+| [[Freddie Bowerman]] || [[Commander of the East]]
+|-
+| [[Jeany Spark]] || [[Commander of the South]]
+|-
+| [[Jamie Bisping]] || [[Calenwë]]
+|-
+| [[Yasen Atour|Zates Atour]] || [[Brânk]]
+|-
+| [[Bryony Miller]] || [[Mystics|Acolyte]]
+|-
+| [[Anabel Kutay]] || [[Mystics|Messenger Acolyte]]
+|-
+| [[Bridie Sisson]] || [[The Dweller]]
+|-
+| [[Arkie Reece]] || [[Kilta]]
+|-
+| [[Theo Spofforth]] || [[Gaudrim|Gaudrim Scout]]
+|-
+| [[Laura Jane Matthewson]] || [[Revna]]
+|-
+| [[Rachel Payne]] || [[Brenna]]
+|-
+| [[Ewan Black]] || [[Dwarves|Miner #2]]
+|-
+| [[Stuart Bowman]] || [[Barduk]]
+|-
+| [[Simon Greenall]] || [[Dwarves|Miner #1]]
+|-
+| [[Celeste Dodwell]] || [[Elves|Elf Artisan]]
+|-
+| [[Tom Slatter]] || [[Dwarves|Dwarf Palace Guard]]
+|-
+| [[Zubin Varla]] || Additional Voice Work By
+|}
+
+=== Un-credited ===
+:''In order of appearance'' (on IMDb)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Erin Battle || High Priestess
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|10]]

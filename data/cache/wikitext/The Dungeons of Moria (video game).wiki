@@ -1,0 +1,58 @@
+{{cleanup}}
+{{video game infobox
+| image = Dungeons of Moria (videogame) - opening screen.png
+| name=The Dungeons of Moria
+| developer=Robert Alan Koeneke<ref name="Angelfire">{{webcite|author=|articleurl=http://www.angelfire.com/games3/imoria/imoria.html|articlename=imoria|dated=|website=[http://www.angelfire.com/games3/imoria/ imoria]|accessed=8 January 2015}}</ref><br/>Jimmy Wayne Todd<ref name="Angelfire"/><br/>Gary D. McAdoo<ref name="Angelfire"/><br/>David Joseph Grabiner<ref name="Tolkien Games">{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/dungeons-moria.html|articlename=The Dungeons of Moria|dated=|website=Games|accessed=8 February 2015}}</ref><br/>[[The Dungeons of Moria (video game)#Derivative versions|(and others)]]  <!-- James E. Wilson, -->
+| publisher=
+| platform=[[wikipedia:Amiga|Amiga]]<br/>[[wikipedia:Atari ST|Atari ST]]<br/>[[wikipedia:Macintosh|Macintosh]]<br/>[[wikipedia:MS-DOS|MS-DOS]]<br/>[[wikipedia:Unix|Unix]]<br/>[[wikipedia:VAX|VAX]]<br/>[[wikipedia:X Window System|X Windows]]
+| releasedate=[[1983]]
+| genre=RPG
+|}}
+
+'''''The Dungeons of Moria''''', also known as ''Moria'', is a [[Wikipedia:Rogue-like|rogue-like]] computer game inspired by ''[[The Lord of the Rings]]'' and ''[[Dungeons and Dragons]]''.  The goal of the game is to reach the bottom of the maze of mines of [[Moria]] and kill the [[Balrogs|Balrog]].<ref>[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=3 Meristation, El Anillo interactivo] p. 4 (retrieved 18 August 2010)</ref> 
+
+==Development==
+
+Robert Alan Koeneke started working on ''The Dungeons of Moria'' in [[1980]] or [[1981]] at the University of Oklahoma after he became hooked on the game ''Rogue'' but could not run it on the VAX 11/780 computer running VMS to which he had access. Hence, he decided to write his own ''Rogue'' game. The first version - ''Moria Beta 1.0'' - was written with VMS BASIC and resembled Rogue. In 1983 he converted the game to VMS PASCAL, utilizing its new feature, variable length strings, and improved the game's data structures and optimization. In summer 1983, Koeneke completed ''Moria 1.0'' and it spread among students of the [[wikipedia:University of Oklahoma|University of Oklahoma]].<ref name="Interview Koeneke">{{webcite|author=Robert Alan Koeneke |articleurl=https://groups.google.com/forum/?hl=en#!msg/rec.games.roguelike.angband/gFiS2tV_-AA/Gp7g-TfuJmUJ|articlename=Early history of Moria|dated=21 February 1996|website=[https://groups.google.com/forum/?hl=en#!msg/rec.games.roguelike.angband/gFiS2tV_-AA/Gp7g-TfuJmUJ groups.google.com]|accessed=8 January 2015}}</ref> Jimmey Todd, a close friend of Koeneke, rewrote the character generator and added skills, history and several other functions. This became ''Moria 2.0''.<ref name="Interview Koeneke"/>
+
+[[File:The Dungeons of Moria (video game) - Gameplay.png|thumb|280px|Gameplay of ''The Dungeons of Moria''.]]
+In 1983-1985, Koeneke, heeding player advice, endeavored to improve the game and fix bugs. Every time a player completed the game, he would increase the difficulty of the game, eventually claiming that the game was unbeatable. In light of a football match between the University of Oklahoma and the [[wikipedia:University of Texas|University of Texas]], Koeneke sent an edited, unbeatable version of the game to University of Texas students. From around 1985 the source code was widely distributed under a licence that permitted sharing and modification but not commercial use. Koeneke's last release was ''Moria 4.7'' in [[1986]] or [[1987]].<ref name="Interview Koeneke"/> Koeneke ceased his development when he left university and started working for [[wikipedia:American Airlines|American Airlines]]. At the time ''Moria 5.0'' was still in progress. This update would be a complete rewrite and add several features, including bodies of water with water monsters, mysterious orbs and new weapons and treasures.<ref name="Interview Koeneke"/> Development was continued by his programming assistants, Jimmy Wayne Todd and Gary D. McAdoom.<ref name="Angelfire"/> It is unknown if this version was ever finished, but according to Koeneke this is unlikely.<ref name="Interview Koeneke"/> 
+
+The game was officially maintained by David Joseph Grabiner. The last update was ''Moria 5.5.6'', which was released in [[1994]], after which activity seems to have been ceased.<ref name="Tolkien Games"/><ref>{{webcite|author=Dadid J. Grabiner|articleurl=http://remarque.org/~grabiner/|articlename=David J. Grabiner|dated=|website=[http://remarque.org/ http://remarque.org]|accessed=8 January 2015}}</ref><ref>{{webcite|author=Dadid J. Grabiner|articleurl=http://remarque.org/~grabiner/moria.html|articlename=Moria|dated=|website=[http://remarque.org/ http://remarque.org]|accessed=8 January 2015}}</ref> The game was shared globally and several derivative versions were made. Koeneke received thousands letters from players about the game and their exploits.<ref name="Interview Koeneke"/> In a [http://groups.google.com/forum/?hl=en#!msg/rec.games.roguelike.angband/gFiS2tV_-AA/Gp7g-TfuJmUJ forum at Google Groups] he said:
+
+{{blockquote|I have since received thousands of letters from all over the world
+from players telling about their exploits, and from administrators
+cursing the day I was born...  I received mail from behind the iron
+curtain (while it was still standing) talking about the game on VAX's [''sic'']
+(which supposedly couldn't be there due to export laws).  I used to
+have a map with pins for every letter I received, but I gave up on
+that!|Robert Alan Koeneke<ref name="Interview Koeneke"/>}}
+
+==Gameplay==
+
+==Derivative versions==
+
+''Moria'' inspired a number of derivative versions. Jim E. Wilson created ''Umoria'', a modified version in C for UNIX.  At the University of Washington a modified Pascal version named ''Imoria'' was developed, which has been ported to C by Steve Kertes.  ''Angband'' was derived from ''Umoria'' at the University of Warwick.  Furthermore, it is known to have been an inspiration for ''Diablo''.
+
+==See also==
+*[[Angband (game)]]
+
+==External links==
+* [http://groups.google.com/groups?hl=en&lr=&ie=UTF-8&oe=UTF-8&selm=4ge77v%24clt%40ionews.ionet.net   Usenet article] from February 21, 1996 in which Robert Alan Koeneke discusses the origins of the game.
+* [http://www.angelfire.com/games3/imoria/imoria.html Steve Kertes' C port of IMoria ]
+* [http://roguelike-palm.sourceforge.net/kMoria/ KMoria - port of Unix Moria 5.5.2 for the Palm OS]
+* [http://www.piratehaven.org/~beej/moria/ The Moria Page]
+* [http://remarque.org/~grabiner/moriafaq.html Frequently Asked Questions]
+* [http://www.lysator.liu.se/tolkien-games/entry/dungeons-moria.html Tolkien Games] (retrieved 16 August 2010)
+* [http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 16 August 2010)
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Dungeons of Moria}}
+[[Category:Amiga games]]
+[[Category:Apple Macintosh games]]
+[[Category:Atari ST games]]
+[[Category:MS-DOS games]]
+[[Category:Role-playing video games]]
+[[Category:Unix games]]
+[[Category:VAX games]]
+[[Category:X Window games]]

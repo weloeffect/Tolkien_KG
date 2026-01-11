@@ -1,0 +1,23 @@
+{{board game infobox
+| image = LotRAdventureBookGame.webp
+| name=The Lord of the Rings Adventure Book Game
+| designer=Jay Little, Ryan Miller, Marcus Ross
+| publisher=Ravensburger
+| releasedate=[[2023]]
+| players=1-4
+| ages=10+
+}}
+''The Lord of the Rings Adventure Book Game'' is a family friendly cooperative board game in Ravensburger's line of Adventure Book Games, retelling the story of the Lord of the Rings through eight chapters. The game specifically uses imagery and adaptations from [[Peter Jackson]]'s [[The Lord of the Rings (film series)|The Lord of the Rings film series]].
+
+==From the publisher==
+Play through the epic trilogy of The Lord of the Rings in 8 chapters! This immersive experience features a unique "game book" of illustrated game boards. Each board presents a new challenge and iconic movie moment. 
+
+Avoid [[Black Riders]] in the [[Shire]], survive the [[Mines of Moria]], and explore even more locations from The Lord of the Rings as you guide beloved characters like [[Frodo]], [[Aragorn]], [[Legolas]], and [[Gimli]].
+
+Adventure book games utilize a unique “game book” with pages that turn to new boards representing pivotal scenes from classic tales. Great for recurring game nights or a day jampacked with fun!
+
+==External links==
+* '''[https://www.ravensburger.co.uk/en-GB/discover/the-lord-of-the-rings-adventure-book-game Official Site]'''
+* [https://boardgamegeek.com/boardgame/379005/the-lord-of-the-rings-adventure-book-game Board Game Geek Profile]
+{{title}}
+[[Category:Board games]]

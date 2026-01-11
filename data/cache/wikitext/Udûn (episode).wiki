@@ -1,0 +1,128 @@
+{{disambig-more|Udûn|[[Udûn (disambiguation)]]}}
+{{Incomplete}}
+{{episode infobox
+| name=Udûn
+| image = The Lord of the Rings The Rings of Power - Udûn.jpg
+| caption=
+| director=[[Charlotte Brändström]]
+| writer=[[Nicholas Adams]]<br/>[[Justin Doble]]<br/>[[J.D. Payne]]<br/>[[Patrick McKay]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[30 September]] [[2022]]
+| runtime=69 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=11609042
+| gallery=The Rings of Power (TV series)
+| previous=[[Partings]]
+| next=[[The Eye]]
+}}
+
+{{Quote|[[Adar (The Rings of Power)|Adar]] and his army march on [[Watchtower of Ostirith|Ostirith]].|Official Synopsis, [[Amazon Studios]]}}
+
+'''Udûn''' is the sixth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]'', released on [[30 September]], [[2022]].
+
+== Synopsis ==
+=== Númenor ===
+=== Southlands ===
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Joseph Mawle]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Geoff Morrell]] || [[Waldreg]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Nazanin Boniadi]] || [[Bronwyn]]
+|-
+| [[Peter Tait]] || [[Tredwill]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Maxim Baldry]]|| [[Isildur]]
+|-
+| [[Charlie Vickers]] || [[Halbrand]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Lloyd Owen]] || [[Elendil|Captain Elendil]]
+|-
+| [[Cynthia Addai-Robinson]]|| [[Tar-Míriel|Queen Regent Míriel]]
+|-
+| [[Anthony Crum]] || [[Ontamo]]
+|-
+| [[Alex Tarrant]] || [[Valandil (The Rings of Power)|Valandil]]
+|-
+| [[Phil Grieve]] || [[Bazur]]
+|-
+| [[Miranda Wilson]] || [[Men|Southlander Woman]]
+|-
+| [[Rob McKenzie]] || [[Men|Archer]]
+
+|-
+| [[Jesse Turner]] || [[Orcs|General Orc]]
+
+|-
+| [[Michael Homick|Mike Homick]] || [[Orcs|Skirmish Orc]]
+|-
+| [[Justin Doble]] || [[Men|Milky-Eyed Patron]]
+|-
+| [[Robert Strange]] || [[Orcs|Dying Orc]]
+|-
+| [[Jed Brophy]] || [[Orcs|Tavern Orc]]
+|-
+| [[Kimo Houltham]] || [[Númenóreans|Númenórean Soldier]]
+|-
+| [[Edward Clendon]]<br/>[[Luke Hawker]]<br/>[[Ellyce Bisson]]<br/>[[Rob Mackinnon]]<br/>[[Hori Ahipene]]<br/>[[Tim MachLachlan|Tim Machlachlan]] || [[Orcs|Fighting Orcs]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Ian Blackburn]] || [[Rowan (The Rings of Power)|Rowan (corpse)]]
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+All these events that happen and have to do about [[Mount Doom|Orodruin]] (eruption, destruction of [[Tirharad]] e.t.c.) never happen in any of Tolkien's books.
+
+== Reception ==
+
+== External links ==
+* [https://rop.digitaltolkien.com/S1E6/ Udûn] at ROP Data
+* [https://www.youtube.com/watch?v=4_N-SNjUnUI&ab_channel=RingsandRealms Episode analysis on Rings & Realms] (with [[Corey Olsen]])
+* [https://bearmccreary.com/the-lord-of-the-rings-episode-106/ Scoring ''Udûn''] by [[Bear McCreary]]
+
+{{references}}
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|05]]
+
+[[fi:Udûn (jakso)]]

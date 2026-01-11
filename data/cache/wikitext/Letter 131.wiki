@@ -1,0 +1,174 @@
+{{letter infobox
+| #=131
+| to=[[Milton Waldman]]
+| date=Late [[1951]]
+| subject=''[[The Silmarillion]]'', ''[[The Lord of the Rings]]'', publication
+}}
+{{letter|131}}
+It is one of the longest published letters written by Tolkien, containing some ten thousands words. The purpose of the letter is to give an overall summary of all [[Ages|Three Ages]], and to demonstrate that ''The Lord of the Rings'' and ''The Silmarillion'' are indispensable to each other.
+
+==Publication history==
+''(A).'' The letter first appeared in ''[[The Letters of J.R.R. Tolkien]]'' (1981), in which the portion that summarizes ''The Lord of the Rings'' is left out.
+
+''(B).'' The exact portion omitted in the ''Letters'' is published in ''[[The Lord of the Rings: A Reader's Companion]]'' (2005).
+
+''(C).'' A further shortened form of ''(A)'', dealing only with ''[[The Silmarillion]]'', is included as an introduction in ''The Silmarillion'' 2007 edition.
+
+''(D).'' The full letter, with everything restored and present, is published in the expanded edition of the ''Letters'' (2023). This includes an attachment at the end of the letter, which is a list of individual tales with short descriptions, some of these were proposed by Tolkien for publication.
+
+==Summary==
+{| style="margin:0 auto;" class="mw-collapsible" width=100% align=center
+|-
+! align=left | <big>Prefatory note</big>
+|-
+| <br>After Allen & Unwin declined to publish ''The Lord of the Rings'' together with ''The Silmarillion'', Tolkien turned to Milton Waldman of Collins, deeming his imprint would shortly issue the both books. In early 1950 Waldman hoped to start typesetting soon, yet due to various delays by late 1951 no definite arrangements for publication had been made, and Collins began to worry about the length of the combined work. It is apparently in response to Waldman's request that this long letter was written, to demonstrate that the two works are interdependent and indivisible. Waldman likes the letter so much that he made a typescript of it.<br><br>
+|}
+
+{| style="margin:0 auto;" class="mw-collapsible mw-collapsed" width=100% align=center
+|-
+! align=left | <big>Tolkien's introduction</big>
+|-
+| <br>Tolkien begins by saying that it's difficult to explain his imaginary world in a few words, and that out of excitement the creator desires to say much about how this world has grown and what it is like.
+
+He has ever been building this world since he was a child, and since he's become a professional philologist he has only improved his theory and craft. There is now a nexus of languages behind his stories, but two of them are more completed than others. All names in the stories come from these languages, and they thus have a cohesion which is lacking in other comparative works.
+
+Also Tolkien has a passion for myth and fairy-story, as well as heroic legend, and early on he realized that these things are integrally related. However he was unsatisfied by the lack of these materials in his own country. There is the Arthurian tales but still he found them inadequate, and too explicitly Christian. He feels that the moral and religious truth in the stories shouldn't be explicit. Hence, he has always had a mind to create a body of legend, both "low" and "high": low in that he could attach to it the tone and "air" of England which he desired, high in that he could provide a poetic cosmogonic background for all the lesser tales.
+
+This body of legends only grew gradually, and Tolkien only "recorded" these tales as they "came" to him. Not all tales he wrote are part of this body, and ''The Hobbit'' wasn't part of it originally, but he later discovered that it actually completes the whole; for while the high elvish tales give it the higher point of view, this work provides the lower "human" point of view.
+
+Though Tolkien dislikes allegory, he needs it to explain the myth. Yet all these tales are mainly concerned with Fall, Mortality, and the Machine. The Fall is inevitable, and occurs in several places. The Mortality affects the art and the creative process, this mortal desire is linked to the passionate love for the real world and is unsatisfied by it, and hence is liable to "fall", clinging to its own creation and desiring to be its Lord. This gives rise to the Machine (Magic), which is intended to refer to all external devices instead of inner powers.
+
+The "magic" in Tolkien's tales, as used by the Elves, is Art and is used ''for'' Art, yet for the Enemy it means Domination, even though this desire was also arose from a good root.
+|}
+
+{| style="margin:0 auto;" class="mw-collapsible mw-collapsed" width=100% align=center
+|-
+! align=left | <big>The First Age, The ''Silmarillion''</big>
+|-
+| <br>The legends begin with a cosmogonical myth: the ''Music of the Ainur''. God and the Valar are introduced, the Valar are the Agents that help rule the Creation, and are "divine" because they existed before the World was made. They beheld the "drama" of Creation and now aim for its realization.
+
+It then moves on to the ''History of the Elves'', or the ''Silmarillion'' proper. It deals with the incarnate creatures similar to ourselves. The Creation Drama is not fully known to them, for the Creator has not fully revealed everything yet. The origin and nature of the God's Children, Elves and Men, are the chief mysteries even to the gods. The Elves are immortal, bound to the World and are destined to give beauty to it, and to guide Men when they come and finally "fade" when the latter has grown. The Men are mortal, and this gift makes them free from the destination of the World, but mortality is not explained. The ''Silmarillion'' is peculiar because its center of view is Elves, not Men, and Men are never the principal of these legends.
+
+There is a "fall of Angel" in this cosmogony, which is quite different from any existing myths, however it "must" contain some truth as all myths before passed down to the present must have originated from truths. So then, Elves have a fall, and the main body of the tale is about the fall of the most gifted kindred of the Elves. They were exiled from Valinor into Middle-earth, their birthplace, but is now ruled by the Enemy, the incarnate Evil, and to strive with him. It has the name ''Silmarillion'' because all events are threaded on the ''Silmarilli'', or Primeval Jewels. The significance of them is that they contain the Light of the Two Trees of Valinor, before they were destroyed by the Enemy. Even the Sun and Moon were derived from the Trees before they died.
+
+The Light was trapped in these gems by Fëanor, and the fall comes from the possessiveness of him and his seven sons to them. The gems are taken by the Enemy, and the sons of Fëanor swore a terrible oath, blasphemous even to the gods, and set out to make hopeless war on the Enemy. The ''Silmarillion'' is the history of the Exiled Elves in Middle-earth, encompassing many tales of victory and tragedy, but it all ends in catastrophe and the passing of the Ancient World, the First Age. The jewels though recovered are lost in end. The legendarium ends with a vision of the future, the final breaking and remaking of the World, the recovery of the ''Silmarilli'' and the revival of the "light before the Sun".
+
+When all these have become like stories of the past, Men are involved. The Men who appear are mainly from the Three Houses, who become allies of the Elf-lords and aid them in their war. A recurrent theme is that there is a strand of blood and inheritance of Elves in Men, thus there are two marriages between the two kindreds, both coalescing in the line of Earendil, represented by Elrond the Half-elven. Among the chief stories of the ''Silmarillion'' is the ''Story of Beren and Lúthien'', here it is seen a great motive: that the "wheel of the world" is often turned not by the great, not even the gods, but the seemingly unknown and weak - owing to the secret life in Creation, and the part unknowable to all wisdom but One. It is Beren the outlawed mortal who wrests one Jewel from the Enemy, a deed all the armies have failed to achieve.
+
+There are other stories equally fully treated, independent yet linked to the general history, such as the ''Children of Húrin'', the ''Fall of Gondolin'', and the tales of Eärendil the Wanderer. Earendil is an important figure that brings the ''Silmarillion'' to its end, and in whose offspring come the major figures in the later Ages. As a representative of both Kindreds, he is to seek passage back to Valinor and persuade the Gods to pity the Exiles and rescue them from the Enemy. The task is achieved by the help of his wife Elwing, who cast herself into the Sea and delivered one ''Silmaril'' to Eärendil, and by the light of which they reach Valinor, at the cost of never being permitted to go back. The army of the West assails the stronghold of the Enemy and it is destroyed, reclaiming the remaining two ''Silmarilli''. However, still bound by the oath, the last two sons of Fëanor steal them and end themselves in the Sea and the earth. The last one born by Eärendil sails into the heavens.
+|}
+
+{| style="margin:0 auto;" class="mw-collapsible mw-collapsed" width=100% align=center
+|-
+! align=left | <big>The Second Age</big>
+|-
+| <br>The next cycle deals with the Second Age, a dark age on Earth. In the great battles that ended the First age the lands were broken, the Exiled Elves are now advised to return to the West, not in Valinor again, but in Eressëa that is within sight of Valinor. The Men of the Three Houses were rewarded for their valour and faithfulness, by being given a land in the middle of the Sea within sight of Eressëa, the "Atlantis" isle of ''Númenóre''. The Númenóreans were given a great life span, though not immortality, and they set sail to inhabit the island and become great mariners. Most High Elves returned to Valinor, but not all, some still lingered. Sauron, repented at first when his master was defeated, now begins to rise to power and desires to rule Middle-earth, by breeding Orcs and corrupting Men into his services. Thus there are three main themes of this Age: Elves decaying in Middle-earth; Sauron rising to power; and the growth of ''Numenor''-Atlantis.
+
+At first some Elves were not willing to leave Middle-earth yet, for they would rather have a high prestige there among Men than to live under the Valar in Valinor, and they "fade" clinging to the memories of the past. There are now several settlements of the Elves: Lindon under the High King Gilgalad, Imladris of Elrond, and Eregion where a friendship arose between Elves and Dwarves. Sauron then approached the Elves at Eregion with fair disguise, and instructed them with his lore to craft the Rings of Power, under the lie that they together could make Middle-earth as fair as Valinor.
+
+These rings have the power of preventing or slowing decay, and they also enhance the natural powers of the wearer. The Elves also crafted three most beautiful and powerful rings, solely for the preservation of beauty on Earth. Yet Sauron secretly made the One Ring, that has all the powers of the others and could rule them, and thus he may govern the Elves. But the Elves discovered his plan and hid the three rings. As a result Sauron assailed Eregion and destroyed it, and gathered all the remaining Rings of Power and gave them to Men and Dwarves in order to corrupt and enslave them. Then Sauron became almost unstoppable in Middle-earth with his One Ring.
+
+The One Ring however, was imbued with a great part of Sauron's own power, so that while wielding it his power is increased, if it is taken by another will greater than his own, he may be overthrown. Another thing is that, if it is actually unmade he would be largely diminished. This didn't concern Sauron, as the Ring gives such a lust for power it would at once master anyone who would claim it as his own. Thus as this Age draws on, there is an evil kingdom growing in Middle-earth.
+
+Meanwhile Númenor has grown in power and glory with its line of great kings, descended from Elros, son of Earendil and brother of Elrond. The ''Downfall of Númenor'' marks the end not only of the Second Age, but also the Old World, after which the World is changed. The ''Downfall'' is partly resulted from a weakness of Men: lust for power and pleasure, and is directly achieved by Sauron exploiting this weakness. With their long life the Númenóreans increased in art and wisdom, yet bred a possessiveness to these things, and their desire began to grow. Foreseeing this, the Valar banned them from entering the immortal lands from the start.
+
+At first they were men of peace and devoted to sea-voyages, they sail in all directions except the west, and bring aid and gifts to Elves and Men in Middle-earth. Afterwards when their pride and glory has grown they become discontented with what they have, and crave for longer life and more wealth, and carry off goods over the sea. The thirteenth king, Tar-Calion, is the most powerful and proud of all kings, and when heard Sauron is claiming the title of Lord of the World, he decides to take him down by sailing to Middle-earth with full strength. Sauron humbles himself and goes to Númenor as a captive. However by his cunning he quickly rises from servant to chief counsellor of the king, and seduces him with lies to worship the Dark and to make war upon Valinor. Under Sauron's influence most Númenóreans become wicked and persecuted the Faithful, a minority of people would not follow Sauron's words.
+
+At last, fearing old age and death, Tar-Calion builds the greatest army and sails into the West, trying to wrest from the Valar everlasting life. At this the Valar appeal to God, and are granted power and permission to do as they decide. Then a chasm opened in the Sea and the army is engulfed, and the island Númenor topples and vanishes in the abyss. The World is changed and bend round, Valinor and Eressëa are removed from the Earth and become inaccessible to mortal lives, though the immortal Elves may still find the "straight way" to the Ancient West if they will.
+
+The end of the Second Age draws on, but is not finished yet. Out of the cataclysm there are survivors: Elendil the Fair, chief of the Faithful, and his sons Isildur and Anarion. These prepared ships and fled before the storm came, and born upon tall waves they were brought to Middle-earth. There they establish the Númenórean kingdoms, Arnor in the north and Gondor in the south. Sauron's spirit escapes back to Mordor, and after a while he challenges these exiles again.
+
+The Second Age ends with the Last Alliance (of Elves and Men), and the siege of Mordor. In this Sauron is overthrown and his physical form perishes, but Gilgalad and Elendil are both slain. Isildur cuts the ring from Sauron's hand, but makes the mistake of claiming it as his own instead of destroying it when there is chance, for the evil of the Ring is at work. On the way back Isildur is drowned in the Great River, and the Ring is lost, though not unmade.
+|}
+
+{| style="margin:0 auto;" class="mw-collapsible mw-collapsed" width=100% align=center
+|-
+! align=left | <big>The Third Age, The ''Hobbit'', The ''LOTR''</big>
+|-
+| <br>The Third Age is mainly concerned with the Ring. The Dark Lord is dethroned, yet his servants lurk in shadows. A watch is kept on the empty Mordor. Elves still have their hidden refuges. In the north the Kingdom of Arnor is ruled by the descendants of Isildur, in the south Gondor is ruled by the line of Anárion. In both south and east there are wild and evil men who see Sauron as their master. The One Ring is lost, and the Three is kept and used to preserve the undying beauty in certain realms.
+
+In the north Arnor dwindles and is broken into lesser domains, then finally vanishes. The remaining Númenóreans becomes a wandering folk, but the line of Kings is never broken and this is only known in Imladris. Gondor rises to power, almost reflecting Númenor, and then fades slowly. The line of Kings fails, and the Stewards rule the kingdom in Minas Tirith. The horsemen from the north, the Rohirrim, come and form alliance with Gondor, and a large land is given to them. A shadow falls on the Greenwood and turns it into Mirkwood, and the Wise discover that it is from a Sorcerer who is hiding in a secret castle.
+
+The Hobbits appear in the middle of this Age. Their origin is unknown except that they had come from the borders of Mirkwood in fear of the Shadow, and into the remnants of the Kingdom of Arnor. Their chief settlement is the Shire, an ordered rural country, which is originally given as a fief; but the memory of the Kings has long passed. It is in S.R. 1341, or T.A. 2941, that the "adventure" of Bilbo, the Hobbit, starts.
+
+In ''The Hobbits'' the hobbit-lore is not explained, but occasionally alluded to. Elrond is important, but his real identity and high status is not revealed. There are also allusions to other high matters. Only in one place does such matter take part in that story: the calling away of the Wizard Gandalf. In this he goes to deal with the Necromancer, and leaves the Hobbit on his own, thus moving him to heroic deeds.
+
+The special tone and style of ''The Hobbit'' is due to that it is originated from a fairy-story for children. It is essentially "a study of simple ordinary man against a high setting", and its tone actually changes as the story progresses. The actual tale, the Dragon-gold Quest, is not central to these core legends; but in the course of it the Hobbit comes by a ring seemingly by accident. Though this was not in any plan of the quest, it proves essential to the final success. He returns home with it as a secret.
+
+The sequel, ''The Lord of the Rings'', concludes the whole thing, and it tries to include all the elements and motives that have preceded it: elves, dwarves, Kings of Men, heroic horsemen, orcs and demons, terrors of the Ring-servants and Dark Lord, vulgarity of Hobbits, poetry and high prose. Here is shown the final defeat of the incarnate Evil, the unmaking of the Ring, the last departure of the Elves, and the majestic return of the King, inheriting from the Elven Race through his marriage with Arwen, together with his royal lineage of Númenor. But, as the earliest tales are seen through Elvish eyes, this last Tale is seen through the hobbits' eyes, as it comes down from myth to earth. Through the hobbits this Tale shows clearly a central theme: the part played by the "unforeseen" in the world, and the virtue of the apparent small. Apart from the symbolism of the Ring, which represents craving power by external means, the moral of it is that the high and noble is unseparated from the low and simple.
+
+It's impossible to summarize ''The Lord of the Rings'' in a few paragraphs. It was started in 1936 and has been rewritten many times, not one word is carelessly put there, and every feature and detail of the whole is well pondered. Tolkien is not confident in it and feels he might be deluded by his own "vain imaginations", in any case the work is now done and cannot be altered, and whether it succeeds or not it must remain as is.
+|}
+
+{| style="margin:0 auto;" class="mw-collapsible mw-collapsed" width=100% align=center
+|-
+! align=left | <big>Summary of The ''LOTR''</big>
+|-
+| <br>''The Lord of the Rings'' opens on the same scene as ''The Hobbit'', with its first chapter parallel to that of the previous work. Bilbo is now 111 years old, and has adopted Frodo as his heir. Bilbo feels life "thin", which fills Gandalf with doubts and worries. The introduction ends with Bilbo disappearing during his own birthday party, with the help of his ring. He leaves the ring to Frodo then departs (to Rivendell).
+
+17 years later, rumors begin to rise about the shadow and the Enemy, and Gandalf comes back with the news that this ring is indeed the One Ring, and that the Enemy is seeking it and probably knows where it is. Frodo makes plans to leave the Shire secretly, but Gandalf doesn't show up at the appointed time, so Frodo and Sam have to go off alone. And they leave just in time before being caught by the Black Riders. They make for the House of Elrond, and are helped by a man called Strider they met in an inn, whose power is only revealed gradually. On the way Frodo is wounded by the Riders, and nearly died before finally arriving at Rivendell.
+
+''The Second Book'' starts with a pause: Frodo's healing, meeting Bilbo again, the council and making plans for the Final Quest. A Company is assembled and sets out mid-winter, towards the land of the Enemy. This Company of Nine is a counterpart to the Nine Riders, representing all the chief resistance to the Dark Power: the wizard Gandalf, the four hobbits, Boromir a lord of Gondor, Strider revealed as Aragorn, an Elf, and a Dwarf. Their adventure has a similarity to that of ''The Hobbit'' but steadily rises to a higher level, the characters' nature and change slowly unfold.
+
+There is always a sense of a hidden watch on their movements. The Company is forced to take the route through the Mines of Moria, and there Gandalf falls into the abyss to save the others. Aragorns leads them to the guarded Elvish realm Lórien, and from there proceed down the Great River, halting at the Falls of Rauros to plan their next move. Here disaster happens and the Company is broken up, for Boromir under the influence of the Ring tries to take it by force from Frodo. Frodo and Sam then go off east alone on their desperate mission. Aragorn is stuck between choosing to go after them or pursue the two captured hobbits. The watchfulness of spies increases, Gollum turns out to have been following the Ringbearer, and the Black Riders come back on wings. The book ends with Boromir dying fighting the Orcs to redeem himself from his mistake.
+
+''The Third Book'' treats the adventures of all the Companions except Frodo and Sam: the capture of the two hobbits and their heroic deeds afterward, and the rescue of Aragorn and the Elf and Dwarf. There is war with Saruman the wizard, who has turned to evil and seeks to outplay Sauron. There is also Rohirrim and their King in the Golden Hall. The book ends with the destruction of Isengard and the reunion of the characters. A great darkness starts to spread, and Gandalf rides speedily with Pippin to Gondor.
+
+''The Fourth Book'' now deals with Frodo and Sam. Gollum appears, and is tamed by Frodo through a vow on the Ring. Frodo slowly awakens the goodness in Gollum, yet this process is thwarted by the constant distrust of Sam, and at a critical moment Gollum utterly falls back to treachery. Still he guides them through the Dead Marshes to the Black Gate, after realizing it is impassible they move south towards a secret passage, during which they met and are helped by Faramir. Going into the mountain pass Gollum delivers them to the Spider, and Frodo is stricken senseless. In despair thinking his master dead, Sam rises to supreme heroism, taking up the Ring and deciding to carry on the quest by himself. After finding out Frodo didn't die, he follows the Orcs to their tower and faints before the door.
+
+''The Fifth Book'' returns to the other characters. Gandalf and Pippin arrive at Minas Tirith and meet Denethor, who is preparing for hopeless war. The darkness finally comes and the siege starts, the Nazgûl riding in the air. Denethor commits suicide, and the city's gate is overcome. In the last moment the Rohirrim come to the aid, and the battle of Pelennor Fields commences. Théoden falls, but when the Enemy nearly gains victory Aragorn comes up in the Great River with a fleet, bearing again the Banner of the King. In this the Captain of Nazgûl is ended, and after the victory they prepare for the last struggle: to march to the gate of Mordor and challenge the Enemy himself, in order to draw off his attention and leave opportunity for Frodo. So they fight hopelessly, being greatly outnumbered, and await the end. The book ends with a vision of the Eagles in Pippin's eyes.
+
+''The Sixth and Last Book'' continues from the Fourth. Now Sam in his ἀριστεία (Aristeia) shows supreme heroism and aids Frodo through the deadly Mordor, until reaching the chamber of Fire at the brink of death. Gollum still pursues them, being driven by the Ring. At last, standing above the Fire Frodo refuses to destroy the Ring, ''and the whole plan fails'', then as he puts it on Sauron finally becomes aware of him. Gollum appears and wrests with Frodo, he bites off the finger, then in ecstasy he trips and falls into the abyss, thus achieving the unmaking of the Ring in the end, and thus fulfilling the words of Gandalf.
+
+The hobbits are nearly overwhelmed on the erupting Mountain, falling on a rock among molten lava. The scene shifts back to where Book Five ended, the army of the West sees the shattering of the Mountain, and beholds the shadow of Sauron rises up then disintegrates. The Eagles directed by Gandalf come to the rescue of the hobbits.
+
+The story then comes to the celebration of victory, in the scene where the hobbits are honored and praised by all the hosts of the West, the "eucatastrophe" is reached—the sudden fulfillment of hope, that ought to be present in all "fairy-stories". "It brought tears to my eyes to write it, and still moves me, and I cannot help believing that it is a supreme moment of its kind," Tolkien says.
+
+Yet the book does not end here, just as music cannot be cut off at its peak, and Tolkien intends to tie up loose ends. It must go back to the Shire where it started, to common life and earth again, and show that no victory is final.
+
+In Gondor the Crowning of the King is held, with his marriage with Arwen. Afterward the Companions depart, saying farewell one by one. Saruman is met on the road, now a beggar. In Rivendell Bilbo is now old, being released from the grasp of the Ring. The four hobbit ride back to the Shire in chivalric glory, but meet the evil wrought by Saruman: the country is nearly ruined, trees felled and machines everywhere. A second spring follows, with marvelous restoration and strengthening of beauty, chiefly with the help of Sam and his gifts received in Lórien. Yet Frodo cannot be healed, for he has sacrificed himself in saving the Shire. At last Sam goes with Frodo on a last journey, accompanied by the host of Rivendell and the Keepers of the Three Rings, to the Grey Havens, and set sail for the West. Bilbo and Frodo, granted with the special grace, board the Ship with the host and depart, never returning. It is not revealed whether this is an "allegory" of death or a repost leading to a return. Sam stands unmoving on the shore.
+
+He then rides home to his wife and child and homely firelight. There is an epilogue with Sam among his children, and with Elanor who is gifted with an Elven beauty. He leads a busy and contented life, many time elected as mayor and tries to finish the Red Book, in which all these tales are recorded. In the final scene, Sam and Rose standing outside Bag-end, watch the starry night sky. Sam tells his bliss and goes in, but "hears the sighing of the Sea on the Shores of the world".
+
+Wrapping up the letter, Tolkien remarks that this is a bald summary, many important things are not mentioned, such as the Ents. The ever unquenchable sparks of "ordinary life" is displayed in the "love-stories", yet the highest of it, that of Aragorn and Arwen, is told elsewhere in a tale. He thinks that the simple, rustic love of Sam and Rose is absolutely necessary to the understanding of Sam's character, and the relation between ordinary life and high matters. He will not mend any "fault" in this vast, completed work; nor shorten it. A certain revision of ''The Hobbit'' will help simplify a chapter in ''The LotR''; and if ''The Silmarillion'' and some other tales are issued with it, some explanation can be reduced, but it will not make much difference in the end.
+|}
+
+{| style="margin:0 auto;" class="mw-collapsible mw-collapsed" width=100% align=center
+|-
+! align=left | <big>Attachment to the letter</big>
+|-
+| <br>''"Mythical, Legendary and Fairy-story matter of my cycle of 'Tales of the Three Ages'"''<br><br>
+
+* A. Tales of the First Age
+** 1. ''The Silmarillion''
+*** (a). ''Music of the Ainur''
+*** (b). ''The History of the Eldar''
+** 2. ''Ambarkanta'' (Shape of the World)
+** 3. ''Lambion Ontale'' (Descent of Tongues)
+** 4. ''Annals of Valinor''
+** 5. ''Annals of Beleriand''
+** 6. ''The Children of Húrin''
+** 7. ''The Fall of Gondolin''
+** 8. ''The Lay of Leithian''
+
+* B. Tales of the Second Age
+** ''The Rings of Power''
+** ''The Downfall of Númenor''
+** (Annals of the Second Age)
+
+* C. Tales of the Third Age
+** ''The Hobbit''
+** ''The Lord of the Rings''
+*** (1). ''Concerning Hobbits''
+*** (2). ''The Languages of the Third Age'', and ''The Alphabets''
+*** (3). ''Annals of the Third Age''
+*** (4). ''Annals of the Kings''
+*** (5). ''Of Aragorn and Arwen Undómiel''
+*** (6). ''Hobbit Genealogies''
+*** (7). ''Map of the Western World in Third Age''
+|}
+
+{{letters}}
+[[Category:Letters to Milton Waldman]]
+[[de:Brief 131]]
+__NOTOC__

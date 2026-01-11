@@ -1,0 +1,61 @@
+{{people infobox
+| name=Harfoots
+| image = Lidia Postma - Hobbits comparison.jpg
+| caption=Hobbits by Lidia Postma
+| pronun=
+| othernames=
+| origin=A group of [[Hobbits]]
+| location=[[Vales of Anduin]], [[Bree]], [[The Shire]]
+| affiliation=
+| rivalry=
+| language=[[Hobbitish]], [[Westron]]
+| members=
+| lifespan=c. 96 years
+| distinctions=
+| height=Shorter than the other Hobbits
+| hair=No beards
+| skin=Browner than the other Hobbits
+| clothing=No footwear
+| weapons=
+}}
+
+'''Harfoots''' are one of the three breeds of [[Hobbits]]. The Harfoots were the most common and typical of the kinds.<ref name="Hobbits"/> 
+
+==Characteristics==
+They were shorter and smaller than the other breeds, browner of skin, had no beards, and did not wear any footwear; Their  hands and  feet were  neat and  nimble. They liked highlands and hillsides, and lived in holes they called ''[[smials]]'', a habit which they long preserved. They were accustomed to settle in one place longer.<ref name="Hobbits"/> 
+
+The Harfoots of the Shire were on very friendly terms with the [[Dwarves]], who travelled through the [[High Pass]] on the [[Great Road]].<ref name="Hobbits">{{FR|Hobbits}}</ref>
+
+== History ==
+In their earliest known history, the Harfoots lived in the lower foothills of the [[Misty Mountains]] in the [[Vales of Anduin]], in an area roughly bounded by the [[Gladden River]] in the south and the small forested region where later was the [[Eagle's Eyrie]] near the High Pass to the north. 
+
+They were the first to migrate westward into [[Eriador]], beginning thus the [[Wandering Days]] of the Hobbit peoples.<ref name="Hobbits"/> They were first recorded in [[Arnor]]ian records around {{TA|1050}} and it was to them that the name ''[[Perian]]nath'' ([[Halflings]]) was first applied by the [[Dúnedain of Arnor]]. 
+
+They tended to settle down for long times, and founded numerous villages{{fact}} as far as [[Weathertop]] while at the same time their kin were still back in the Vales.<ref name="Hobbits"/> By the 1300s of the [[Third Age]] they had reached [[Bree]], which long was the most western village of any Hobbits.<ref>{{App|TA}}</ref>
+
+The Harfoots were joined between {{TA|1150}} and {{TA|1300}} by the [[Fallohides]]. The Harfoots took Fallohides, a bolder breed, as their leaders.
+
+When [[the Shire]] was colonized in {{TA|1601}}, most of [[Shire-hobbits|its people]] were Harfoots.<ref name="Hobbits"/>
+
+== Etymology ==
+''Harfoots'' means "one with hairy feet", and is a translation of an archaic [[Hobbitish]] form of an old [[Westron]] name.
+
+The word is supposed to represent archaic English ''hǣr-fōt > herfoot > harfoot''.
+
+[[J.R.R. Tolkien|Tolkien]] noted that Modern English ''hair'', though related, is not a direct descendant of [[Old English]] ''hǣr, hēr'' and therefore *"hairfoot" would not be a faithful translation.<ref>{{HM|N}}, p. 759</ref><ref group="note">However, [http://en.wiktionary.org/wiki/hair Wiktionary] shows ''hair'' as derived directly from ''hǣr''.</ref>
+
+== Portrayal in adaptations ==
+[[File:The Rings of Power (TV series) - Malva Meadowgrass, Sadoc Burrows, and Marigold Brandyfoot.jpg|thumb|200px|[[Malva Meadowgrass]], [[Sadoc Burrows]], and [[Marigold Brandyfoot]] in ''[[The Lord of the Rings: The Rings of Power]]'']]
+
+===Television===
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:The Harfoots are portrayed as ancient halfling travelers of highlands and hillsides. Harfoots dwell within portable homes in a caravan that could blend into the natural environment. They delighted in parties, coming up with the traditional Harvest Festival to prepare for their migrations from one seasonal haven to another. The Harfoots utilize symbols within a pictographic writing system to produce meanings and note natural rhymes and tabulations to prepare for migrations. Each Harfoot caravan has a Trailfinder who leads them. Trailfinders utilize a Star-book inherited through generations to aid their caravan on the safest course in each migration. During migrations, the Harfoots carry their most valuable possessions inside carts. If a Harfoot falls behind, the caravan moves on without them, instead taking them with only in spirit, in essence, abandoning them to die or be "decaravanned". In addition, Harfoots can also be "decaravanned" by breaking the rules of the community.
+
+{{References|notes}}
+
+[[Category:Races of Hobbits]]
+[[Category:Hobbits]]
+
+[[de:Harfüße]]
+[[fr:encyclo/peuples/hobbits/pieds velus]]
+[[fi:Karvajalat]]

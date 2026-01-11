@@ -1,0 +1,51 @@
+{{mythlore
+|title=Mythlore 41
+| image = Mythlore 41.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter/Spring [[1985]]
+|format=Paperback
+|pages=63
+|}}
+'''''Mythlore'' 41''' ([https://dc.swosu.edu/mythlore/vol11/iss3/ Volume 11, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles====
+
+* Yolen, Jane. “The Wood Between the Worlds.”
+* Schorr, Karl. “The Rewards of Reading Fantasy.”
+* Hollwitz, John. “The Wonder of Passage, The Making of Gold: Alchemy and Initiation in Out of the Silent Planet.”
+* Stolzenbach, Mary M. “Machen's Hallows.”
+* Bullock, Richard P. “The Importance of Free Will in The Lord of the Rings.”
+* Carter, M. L. “The Psychological Symbolism of the Magic Fountain and the Giant Herdsman in Yvain.”
+* Zimmerman, Manfred. “Miscellaneous Remarks On Gimli and On Rhythmic Prose.”
+* Hall, Robert A., Jr. “Who is The Master of The "Precious"?”
+* Lowentrout, Peter. “The Rags of Lordship: Science Fiction, Fantasy, and the Reenchantment of the World.”
+* Myers, Doris T. “C.S. Lewis' Passages: Chronological Age and Spiritual Development in Narnia.”
+* Thompson, George H. “Early Review of Books by J.R.R. Tolkien - Part II.”
+
+==== Poetry ====
+
+* Rawls, Melanie. “The Wood Between the Worlds.”
+* Berman, Ruth. “Radagast in Middle-earth.”
+
+==== Features ====
+
+* GoodKnight, Glen H. Editorial: The Procrustean Bed of Film Animation.
+* Speth, Lee. “Cavalier Treatment.”
+* Beach, Sarah. “Mythopoesis.”
+* Hyde, Paul Nolan. “Quenti Lambardillion: Tolkien's Linguistic Aesthetic.”
+* Letters.
+
+==== Reviews ====
+
+* ''J.R.R. Tolkien - Myth, Morality and Religion.'' Richard L. Purtill. Reviewed by Nancy-Lou Patterson.
+* ''Love All / Busman's Honeymoon.'' Dorothy L. Sayers and Muriel St. Clare Byrne. Reviewed by Nancy-Lou Patterson.
+* ''The Terminator.'' Direc. by James Cameron. Reviewed by Benjamin Urrutia.
+* ''Fantasists on Fantasy.'' Robert H. Boyer and Kenneth J. Zahorski. Reviewed by Mabel Drew.
+{{mythlorenav|40|42}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 041}}
+
+[[Category:Mythlore]]

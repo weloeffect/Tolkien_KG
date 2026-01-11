@@ -1,0 +1,28 @@
+{{mountain
+| image = J.R.R. Tolkien - Starkhorn, Dwimorberg and Irensaga.jpg
+| caption=[[J.R.R. Tolkien]] - ''Starkhorn, Dwimorberg and Irensaga''
+| name=Írensaga
+| location=North of the [[Dwimorberg]] over looking the [[Firienfeld]]
+| belongs=The [[White Mountains]]
+| description=Saw-toothed mountain
+| othernames=
+| etymology=
+| events=Arrival of King [[Théoden]] at [[Dunharrow]]
+| references=
+}}
+'''Írensaga''' was a tall peak in the [[White Mountains]], notable for its saw-toothed<ref name=Muster>{{RK|Muster}}, p. 794</ref> crest.<ref name=N>{{HM|N}}, entry '''Irensaga''', p. 772</ref>
+
+In between Írensaga, [[Starkhorn]] and [[Dwimorberg]] lay [[Harrowdale]].<ref name=Muster/> [[Meriadoc Brandybuck|Merry]] saw this mountain on [[9 March]] {{TA|3019}} when King [[Théoden]] came to [[Dunharrow]] after the [[Battle of the Hornburg]].<ref>{{App|Great}}, entry for the year 3019, March 9, p. 1093</ref> 
+
+==Etymology==
+''Írensaga'' is a name in the [[Rohanese|language of Rohan]],<ref name=N/> "translated" into [[Old English]],<ref>{{HM|RC}}, p. 539</ref> which means "iron-saw"<ref name=N/> or "Ironsaw"<ref name="Roads">{{WR|3|V}}, pp. 312-13</ref> with reference to its serrated ridge, crest.<ref name=N/>
+
+In earlier drafts, Írensaga lacked an accent.<ref name="Roads"/>
+
+{{references}}
+{{DEFAULTSORT:Irensaga}}
+[[Category:Old English names]]
+[[Category:Rohan]]
+[[Category:White Mountains]]
+[[de:Irensaga]]
+[[fi:Írensaga]]

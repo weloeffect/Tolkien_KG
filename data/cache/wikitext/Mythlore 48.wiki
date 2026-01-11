@@ -1,0 +1,47 @@
+{{mythlore
+|title=''Mythlore'' 48, Volume 13, Issue 2
+| image = Mythlore 48.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1986]]
+|format=Paperback
+|pages=63
+}}
+'''''Mythlore'' 48''' ([https://dc.swosu.edu/mythlore/vol13/iss2/ Volume 13, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+==Contents ==
+
+==== Articles ====
+
+* Kollmann, Judith. “The Figure of Beatrice in the Works of Charles Williams.”
+* Boenig, Robert. “Tolkien and Old Germanic Ethics.”
+* Bratman, David, et al. “A Centennial Retrospective on Charles Williams.”
+* Bosky, Bernadette. “Even an Adept: Charles Williams and the Order of the Golden Dawn.”
+* Mende, Lisa Anne. “Gondolin, Minas Tirith and the Eucatastrophe.”
+* Warren, Colleen. “Wentworth in the Garden of Gomorrah: A Study of the Anima in Descent Into Hell.”
+* Rawls, Melanie. “Herland and Out of the Silent Planet: A Comparison of a Feminist Utopia and a Male-charactered Fantasy.”
+* Christopher, Joe R. “John Heath-Stubbs’ Artorius and the Influence of Charles Williams (Part 1).”
+
+==== Poetry ====
+
+* Christopher, Joe R. “The Song of Marian the Goddess.”
+
+==== Features ====
+
+* GoodKnight, Glen. Editor's Notes.
+* Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics: The Languages of Middle-earth (Part II).”
+* Kondratiev, Alexei. “Tales Newly Told.”
+* Letters.
+
+==== Reviews ====
+
+* ''The Shaping of Middle-earth: The Quenta, The Ambarkanta and The Annals, together with the earliest 'Silmarillion' and the First Map.'' J.R.R. Tolkien. Ed. by Christopher Tolkien. Reviewed by Glen GoodKnight.
+* ''VII: An Anglo-American Literary Review.'' Reviewed by Nancy-Lou Patterson.
+* ''The 1987 J.R.R. Tolkien Calendar.'' Illustrated by Alan Lee, Roger Garland, Ted Nasmith and John Howe. Reviewed by Glen GoodKnight.
+* ''Dragons of Light.'' Ace Books. Reviewed by Thomas M. Egan.
+* ''Dragons of Darkness.'' Ace Books. Reviewed by Thomas M. Egan.
+* ''The Stars and the Stillness: A Portrait of George MacDonald.'' Kathy Triggs. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|47|49}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 048}}
+
+[[Category:Mythlore]]

@@ -1,0 +1,297 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Shadow_of_the_Past> a schema:WebPage ;
+    rdfs:label "A Shadow of the Past"@en ;
+    schema:about <http://localhost:8000/resource/A_Shadow_of_the_Past> .
+
+<http://localhost:8000/page/Adar_%28episode%29> a schema:WebPage ;
+    rdfs:label "Adar (episode)"@en ;
+    schema:about <http://localhost:8000/resource/Adar_%28episode%29> .
+
+<http://localhost:8000/page/Adrift> a schema:WebPage ;
+    rdfs:label "Adrift"@en ;
+    schema:about <http://localhost:8000/resource/Adrift> .
+
+<http://localhost:8000/page/Alloyed> a schema:WebPage ;
+    rdfs:label "Alloyed"@en ;
+    schema:about <http://localhost:8000/resource/Alloyed> .
+
+<http://localhost:8000/page/Doomed_to_Die> a schema:WebPage ;
+    rdfs:label "Doomed to Die"@en ;
+    schema:about <http://localhost:8000/resource/Doomed_to_Die> .
+
+<http://localhost:8000/page/Eldest_%28episode%29> a schema:WebPage ;
+    rdfs:label "Eldest (episode)"@en ;
+    schema:about <http://localhost:8000/resource/Eldest_%28episode%29> .
+
+<http://localhost:8000/page/Elven_Kings_Under_the_Sky> a schema:WebPage ;
+    rdfs:label "Elven Kings Under the Sky"@en ;
+    schema:about <http://localhost:8000/resource/Elven_Kings_Under_the_Sky> .
+
+<http://localhost:8000/page/Halls_of_Stone> a schema:WebPage ;
+    rdfs:label "Halls of Stone"@en ;
+    schema:about <http://localhost:8000/resource/Halls_of_Stone> .
+
+<http://localhost:8000/page/Partings> a schema:WebPage ;
+    rdfs:label "Partings"@en ;
+    schema:about <http://localhost:8000/resource/Partings> .
+
+<http://localhost:8000/page/Shadow_and_Flame_%28episode%29> a schema:WebPage ;
+    rdfs:label "Shadow and Flame (episode)"@en ;
+    schema:about <http://localhost:8000/resource/Shadow_and_Flame_%28episode%29> .
+
+<http://localhost:8000/page/The_Eagle_and_the_Sceptre> a schema:WebPage ;
+    rdfs:label "The Eagle and the Sceptre"@en ;
+    schema:about <http://localhost:8000/resource/The_Eagle_and_the_Sceptre> .
+
+<http://localhost:8000/page/The_Eye> a schema:WebPage ;
+    rdfs:label "The Eye"@en ;
+    schema:about <http://localhost:8000/resource/The_Eye> .
+
+<http://localhost:8000/page/The_Great_Wave> a schema:WebPage ;
+    rdfs:label "The Great Wave"@en ;
+    schema:about <http://localhost:8000/resource/The_Great_Wave> .
+
+<http://localhost:8000/page/Ud%C3%BBn_%28episode%29> a schema:WebPage ;
+    rdfs:label "Udûn (episode)"@en ;
+    schema:about <http://localhost:8000/resource/Ud%C3%BBn_%28episode%29> .
+
+<http://localhost:8000/page/Where_Is_He%3F> a schema:WebPage ;
+    rdfs:label "Where Is He?"@en ;
+    schema:about <http://localhost:8000/resource/Where_Is_He%3F> .
+
+<http://localhost:8000/page/Where_the_Stars_are_Strange> a schema:WebPage ;
+    rdfs:label "Where the Stars are Strange"@en ;
+    schema:about <http://localhost:8000/resource/Where_the_Stars_are_Strange> .
+
+<http://localhost:8000/resource/A_Shadow_of_the_Past> a schema:Thing ;
+    tg:caption "Cover art for the episode's."@en ;
+    tg:director <http://localhost:8000/resource/J._A._Bayona> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - A Shadow of the Past.jpg"@en ;
+    tg:imdb_id "9788618"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary> ;
+    tg:name "A Shadow of the Past"@en ;
+    tg:next <http://localhost:8000/resource/Adrift> ;
+    tg:released <http://localhost:8000/resource/1_September_2022> ;
+    tg:runtime "65 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/J._D._Payne%3Cbr/%3EPatrick_McKay> .
+
+<http://localhost:8000/resource/Shadow_and_Flame_%28episode%29> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Charlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:image "The Rings of Power (TV series) - Durin's Bane and Durin III.jpg"@en ;
+    tg:imdb_id "27580497"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Shadow and Flame"@en ;
+    tg:next "TBD"@en ;
+    tg:previous <http://localhost:8000/resource/Doomed_to_Die> ;
+    tg:released <http://localhost:8000/resource/3_October_2024> ;
+    tg:runtime "73 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Justin_Doble%2C_J.D._Payne%2C_and_Patrick_McKay> .
+
+<http://localhost:8000/resource/Adar_%28episode%29> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Wayne_Che_Yip> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - Adar.jpg"@en ;
+    tg:imdb_id "11609034"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Adar"@en ;
+    tg:next <http://localhost:8000/resource/The_Great_Wave> ;
+    tg:previous <http://localhost:8000/resource/Adrift> ;
+    tg:released <http://localhost:8000/resource/9_September_2022> ;
+    tg:runtime "69 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Jason_Cahill%3Cbr/%3EJustin_Doble> .
+
+<http://localhost:8000/resource/Adrift> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/J._A._Bayona> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - Adrift.jpg"@en ;
+    tg:imdb_id "10582302"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Adrift"@en ;
+    tg:next <http://localhost:8000/resource/Adar_%28episode%29> ;
+    tg:previous <http://localhost:8000/resource/A_Shadow_of_the_Past> ;
+    tg:released <http://localhost:8000/resource/1_September_2022> ;
+    tg:runtime "67 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Gennifer_Hutchison> .
+
+<http://localhost:8000/resource/Alloyed> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Wayne_Che_Yip> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - Alloyed.jpg"@en ;
+    tg:imdb_id "11609048"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Alloyed"@en ;
+    tg:next <http://localhost:8000/resource/Elven_Kings_Under_the_Sky> ;
+    tg:previous <http://localhost:8000/resource/The_Eye> ;
+    tg:released <http://localhost:8000/resource/14_October_2022> ;
+    tg:runtime "72 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Gennifer_Hutchison%3Cbr/%3EJ.D._Payne%3Cbr/%3EPatrick_McKay> .
+
+<http://localhost:8000/resource/Doomed_to_Die> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Charlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:imdb_id "27580496"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Doomed to Die"@en ;
+    tg:next <http://localhost:8000/resource/Shadow_and_Flame_%28episode%29> ;
+    tg:previous <http://localhost:8000/resource/Where_Is_He%3F> ;
+    tg:released <http://localhost:8000/resource/26_September_2024> ;
+    tg:runtime "65 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Justin_Doble%2C_J.D._Payne%2C_and_Patrick_McKay> .
+
+<http://localhost:8000/resource/Eldest_%28episode%29> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Louise_Hooper%3Cbr/%3ESanaa_Hamri> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:imdb_id "27580491"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Eldest"@en ;
+    tg:next <http://localhost:8000/resource/Halls_of_Stone> ;
+    tg:previous <http://localhost:8000/resource/The_Eagle_and_the_Sceptre> ;
+    tg:released <http://localhost:8000/resource/5_September_2024> ;
+    tg:runtime "65 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Glenise_Mullins> .
+
+<http://localhost:8000/resource/Elven_Kings_Under_the_Sky> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Charlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:imdb_id "13580784"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary> ;
+    tg:name "Elven Kings Under the Sky"@en ;
+    tg:next <http://localhost:8000/resource/Where_the_Stars_are_Strange> ;
+    tg:previous <http://localhost:8000/resource/Alloyed> ;
+    tg:released <http://localhost:8000/resource/29_August_2024> ;
+    tg:runtime "76 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Gennifer_Hutchison> .
+
+<http://localhost:8000/resource/Halls_of_Stone> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Louise_Hooper%3Cbr/%3ESanaa_Hamri> ;
+    tg:imdb_id "27580494"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Halls of Stone"@en ;
+    tg:next <http://localhost:8000/resource/Where_Is_He%3F> ;
+    tg:previous <http://localhost:8000/resource/Eldest_%28episode%29> ;
+    tg:released <http://localhost:8000/resource/12_September_2024> ;
+    tg:runtime "65 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Nicholas_Adams> .
+
+<http://localhost:8000/resource/Partings> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Wayne_Che_Yip> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - Partings.jpg"@en ;
+    tg:imdb_id "11609040"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Partings"@en ;
+    tg:next <http://localhost:8000/resource/Ud%C3%BBn_%28episode%29> ;
+    tg:previous <http://localhost:8000/resource/The_Great_Wave> ;
+    tg:released <http://localhost:8000/resource/23_September_2022> ;
+    tg:runtime "72 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Justin_Doble> .
+
+<http://localhost:8000/resource/The_Eagle_and_the_Sceptre> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Louise_Hooper%3Cbr/%3ECharlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:imdb_id "27580490"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "The Eagle and the Sceptre"@en ;
+    tg:next <http://localhost:8000/resource/Eldest_%28episode%29> ;
+    tg:previous <http://localhost:8000/resource/Where_the_Stars_are_Strange> ;
+    tg:released <http://localhost:8000/resource/29_August_2024> ;
+    tg:runtime "66 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Helen_Shang> .
+
+<http://localhost:8000/resource/The_Eye> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Charlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - The Eye.jpg"@en ;
+    tg:imdb_id "11609046"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "The Eye"@en ;
+    tg:next <http://localhost:8000/resource/Alloyed> ;
+    tg:previous <http://localhost:8000/resource/Ud%C3%BBn_%28episode%29> ;
+    tg:released <http://localhost:8000/resource/7_October_2022> ;
+    tg:runtime "72 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Jason_Cahill> .
+
+<http://localhost:8000/resource/The_Great_Wave> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Wayne_Che_Yip> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - The Great Wave.jpg"@en ;
+    tg:imdb_id "11609038"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "The Great Wave"@en ;
+    tg:next <http://localhost:8000/resource/Partings> ;
+    tg:previous <http://localhost:8000/resource/Adar_%28episode%29> ;
+    tg:released <http://localhost:8000/resource/16_September_2022> ;
+    tg:runtime "71 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Stephany_Folsom%3Cbr/%3EJ.D._Payne%3Cbr/%3EPatrick_McKay> .
+
+<http://localhost:8000/resource/Ud%C3%BBn_%28episode%29> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Charlotte_Br%C3%A4ndstr%C3%B6m> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:image "The Lord of the Rings The Rings of Power - Udûn.jpg"@en ;
+    tg:imdb_id "11609042"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Udûn"@en ;
+    tg:next <http://localhost:8000/resource/The_Eye> ;
+    tg:previous <http://localhost:8000/resource/Partings> ;
+    tg:released <http://localhost:8000/resource/30_September_2022> ;
+    tg:runtime "69 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Nicholas_Adams%3Cbr/%3EJustin_Doble%3Cbr/%3EJ.D._Payne%3Cbr/%3EPatrick_McKay> .
+
+<http://localhost:8000/resource/Where_Is_He%3F> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Sanaa_Hamri> ;
+    tg:imdb_id "27580495"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Where Is He?"@en ;
+    tg:next <http://localhost:8000/resource/Doomed_to_Die> ;
+    tg:previous <http://localhost:8000/resource/Halls_of_Stone> ;
+    tg:released <http://localhost:8000/resource/19_September_2024> ;
+    tg:runtime "65 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Justin_Doble> .
+
+<http://localhost:8000/resource/Where_the_Stars_are_Strange> a schema:Thing ;
+    tg:director <http://localhost:8000/resource/Charlotte_Br%C3%A4ndstr%C3%B6m%3Cbr/%3ELouise_Hooper> ;
+    tg:gallery "The Rings of Power (TV series)"@en ;
+    tg:imdb_id "27580486"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/episode_infobox> ;
+    tg:music <http://localhost:8000/resource/Bear_McCreary%3Cbr/%3EMain_Title_by_Howard_Shore> ;
+    tg:name "Where the Stars are Strange"@en ;
+    tg:next <http://localhost:8000/resource/The_Eagle_and_the_Sceptre> ;
+    tg:previous <http://localhost:8000/resource/Elven_Kings_Under_the_Sky> ;
+    tg:released <http://localhost:8000/resource/29_August_2024> ;
+    tg:runtime "62 minutes"@en ;
+    tg:studio <http://localhost:8000/resource/Amazon_Studios> ;
+    tg:writer <http://localhost:8000/resource/Jason_Cahill> .
+

@@ -1,0 +1,117 @@
+{{disambig-more|The Hobbit|[[The Hobbit (disambiguation)]]}}{{video game infobox
+| image = The Hobbit (2003) cover.jpg
+| name=The Hobbit
+| developer=[[Inevitable Entertainment]] (GC, PS2, Xbox)<br />The Fizz Factor (PC)<br/>Saffire (GBA)
+| publisher=[[Sierra Entertainment]]
+| platform=[[wikipedia:Game Boy Advance|Game Boy Advance]]<br/>[[wikipedia:GameCube|GameCube]]<br/>[[wikipedia:Microsoft Windows|Microsoft Windows]]<br/>[[wikipedia:PlayStation 2|PlayStation 2]]<br/>[[wikipedia:Xbox|Xbox]]
+| releasedate=[[wikipedia:North America|NA]]: [[11 November|November 11]] [[2003]]<br/>[[wikipedia:Europe|EU]]: [[28 November|November 28]] [[2003]]
+| genre=Platform, Adventure
+}}
+
+'''''The Hobbit: The Prelude to The Lord of the Rings''''' is a video game published in [[2003]] by [[Vivendi]] and [[Sierra Entertainment]]. It is a platform game set up around the events in ''[[The Hobbit]]''. It is the second interactive adaptation after [[Melbourne House]]'s [[The Hobbit (1982 video game)|1982 version]]. 
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Michael Beattie]] || [[Bilbo Baggins|Bilbo]]
+|-
+| [[Tom Kane]] || [[J.R.R. Tolkien|Narrator]]
+|-
+| [[Jim Ward]] || [[Gandalf]]
+|-
+| [[Clive Revill]] || [[Thorin]]
+|-
+| [[James Horan]] || [[Smaug]]
+|-
+| [[Daran Norris]] || [[Gollum]]
+|}
+
+These six were the only actors whose roles were specified on the game's credits; all others were simply called "Voice Talent". Some of these can be identified:
+
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Alister Duncan]] || [[Kíli]]
+|-
+| [[André Sogliuzzo]] || [[Bard]], [[Ugslap]]
+|-
+| Andrew Ableson, [[Brian George]], [[Cam Clarke]], [[Clive Revill]], [[Dee Bradley Baker]], [[James Horan]], Jane Singer, [[Jim Ward]], Joshua Seth, Kathryn Cressida, [[Kath Soucie]], Michael Ensign, Michael Gough, [[Oliver Muirhead]], [[Robin Atkin Downes]], [[Tom Kane]] || Voice Talent
+|-
+| Candi Milo || [[Bell Goodchild]]
+|-
+| [[Daran Norris]] || [[Bombur]]
+|-
+| [[Grey DeLisle]] || [[Wicked]]
+|-
+| [[James Arnold Taylor]] || [[Balin]], [[Carl Sandyman]]
+|-
+| [[Jennifer Hale]] || [[Lianna]]
+|-
+| Nathan Carlson || [[Bofur]]
+|-
+| Patrick Pinney || [[Beorn]]
+|-
+| [[Rob Dean]] || [[Thranduil|Elvenking Thranduil]]
+|-
+| [[Steve Staley]] || [[Galion]]
+|-
+| [[Victor Raider-Wexler]] || [[Balin]], [[Master of Lake-town|The Master of Laketown]]
+|-
+| [[Wally Wingert]] || [[Balfor]]
+|-
+| Unknown actor || [[Corwin]]
+|}
+
+==Synopsis==
+===Levels===
+====Dreamworld====
+During the dwarves' visit to [[Bag End]], Bilbo falls asleep and dreams he is at the [[Battle of Five Armies]]. Bilbo has no health and is invincible in this level; this level is designed to get the player used to the controls.
+====An Unexpected Party====
+Bilbo is sent to the Green Dragon, but first he must collect provisions for [[Bombur]] and do different jobs for various Hobbits.
+
+====Roast Mutton====
+Bilbo is sent to investigate a fire-light. This stage introduces the first enemies: wolves, frog-like creatures and at last, [[William|Bill]], [[Tom]] and [[Bert]]. The last task involves sneaking past the Trolls. 
+====Troll-hole====
+Bilbo must explore the troll cave and find the troll key, needed to open the cave. It is learned that the [[Witch-king]] of [[Angmar]] built many caves in the area (when it was still known as [[Rhudaur]]), and many of his minions still lurk there. He finds Lianna, an Elf of Mirkwood, and a dagger, which he names [[Sting]].
+====Over Hill and Under Hill====
+After visiting [[Elrond]], [[Thorin and Company]] make for the [[Misty Mountains|Mountains]]. Bilbo is sent to find fire-wood, but ends up battling [[wolves]] and other weird creatures, and dodge stone-slinging [[Giants]]. 
+====Riddles in the Dark====
+After being caught by goblins, Bilbo is separated from the rest of the Company. This level introduces [[Goblin-town]] as a Dwarf-mine, complete with lifts and a rollercoaster mine cart track. In this level, Bilbo meets [[Balfor]], a Dwarf of the [[Iron Hills]], and Ugslap, the Goblin guard. The level ends with Bilbo finding the Ring. 
+:''At this point, an animation starts, depicting the riddle game, followed by a story board telling of Bilbo's reuniting with the Dwarves. A second animation depicts the hiding in the trees and the rescue by the [[Eagles]]. The narrator then summarizes the story from the drop off at the edge of Mirkwood ([[Beorn]] is omitted at this stage) to the capture of the Dwarves by the spiders.'' 
+====Flies and Spiders====
+Bilbo is lost and must find his way through a spider infested Mirkwood (in which he has to fight many poisonous spiders, as well as "minions of the [[Necromancer]]"). He meets Corwin, a man of Lake-town, whose camp was attacked. Bilbo can retrieve his brother's ring for him. After that, he must rescue the dwarves from being eaten by the three giant spiders Wrath, Wicked and Wild. 
+====Barrels Out of Bond====
+Bilbo and the dwarves are not safe out of Mirkwood yet. The dwarves are captured by elves and Bilbo must find a way to rescue them as well as a way to escape, while avoiding being seen by elves. This level introduces the extensive use of the [[The One Ring|Ring]]. After entering the halls, Bilbo meets Lianna again, who will help him. Bilbo must find the Dwarves and herbs to drug [[Galion]], and battle the frog-like creatures and more spiders. From conversations Bilbo picks up when passing Elves the [[White Council]] is mentioned: they finally attacked [[Dol Guldur]]. 
+====A Warm Welcome====
+Bilbo manages to put the Dwarves in barrels, and escapes to [[Lake-town]]. In Laketown, [[Bard]] and [[Calamar]], the [[Master of Lake-town]], recruit Bilbo for more burgling and spying. He must stop a crime syndicate of Lake-men and Orcs, who have stolen the [[Black Arrow]]. All Dwarves are scattered around Lake-town, and many of them appear for their first time here. 
+====Inside Information====
+After leaving the Long Lake, Bilbo finds the [[Back Door|secret entrance]]. After nerveracking sneaking, Bilbo manages to steal the Cup of Thrór from right under [[Smaug]]'s nose. Smaug notices and is less than pleased, and Thorin sends Bilbo back to find the dragon's weak spot. After Bilbo shows off to "Smaug the Magnificent" and declares himself "Barrel-rider", Smaug confronts Bilbo, and heads off to Lake-town, where he meets his demise. 
+With the Dragon gone, Bilbo must find several items - the [[Necklace of Girion]], the spears of [[Bladorthin]], the Ruby of [[Gróin]] and a golden serving dish. After that, he must bridge a chasm by flooding it.
+====The Gathering of the Clouds====
+In the Lonely Mountain, Thorin has only one task for Bilbo: finding the [[Arkenstone]]. Several [[Runes|rune]]-puzzles require solving before Bilbo has to go to the Treasury, the Forge, the Gear Room and the Water Room. Though there is an entrance to the Old Treasuries, Bilbo cannot go there because it stinks too much of Dragon. After creating a new key, Bilbo finds the Arkenstone. Picking it up ends the level. 
+:''The narrator introduces the next problem: the Men and Elves. Bilbo sneaks off and gives the Arkenstone to Thranduil and Bard, and for that, he is cursed by Thorin. When [[Dáin Ironfoot]] arrives, all seems to end in battle. But a flash of lightning marks the return of Gandalf, who informs them of Goblins. ''
+====The Clouds Burst====
+This level is the [[Battle of Five Armies]]. Bilbo, who stands with Gandalf and Thranduil on [[Ravenhill]], volunteers to bring a message to Bard; he is about to be attacked in the rear. During his trip he must save Corwin, and on Lianna sends him to find Beorn. After a short rampage, Beorn is captured, and Bilbo must free him by kicking over several barrels. After freeing Beorn, the game is finished: Beorn kills Bolg, who sits on a giant warg on an inaccessible dias. 
+:''After this, the narrator starts the epilogue. Laketown is rebuilt, Bilbo gets a reward, and walks home with Beorn and Gandalf. Neither the auction of Bag End nor the visit of [[Balin]] are featured.''
+
+==See also==
+* [[:Category:Images from The Hobbit (2003)|Images from ''The Hobbit'']]
+* [[The Hobbit Soundtrack (2003 video game)|The Hobbit Soundtrack]]
+
+==External links==
+
+*[http://www.youtube.com/watch?v=tRc7of_b5dk ''The Hobbit'' PC 2003 - All cutscenes (Movie)] at Youtube.com
+
+{{Videogames}}
+{{title|italics}}
+{{DEFAULTSORT:Hobbit}}
+[[Category:Adventure games]]
+[[Category:Game Boy Advance games]]
+[[Category:GameCube games]]
+[[Category:Microsoft Windows games]]
+[[Category:PlayStation 2 games]]
+[[Category:Vivendi games]]
+[[Category:Xbox games]]

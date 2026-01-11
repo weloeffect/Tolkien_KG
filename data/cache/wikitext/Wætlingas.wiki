@@ -1,0 +1,61 @@
+{{anglosaxon infobox
+| name=Wætlingas
+| image=
+| caption=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxons]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[wikipedia:England|England]]
+| affiliation=
+| language=[[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Watol]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+The '''Wætlingas''' were the sons of an [[wikipedia:Anglo-Saxons|Anglo-Saxon]] king called [[Watol]], according to the early version of the [[legendarium]] associated with ''[[The Book of Lost Tales]]''.<ref name=Wae>{{PE|15}}, "[[Early Runic Documents]]", ''ER1d: Fourth page'', p. 96</ref>
+
+== History ==
+Their father Watol commissioned a [[Men|Man]] from [[Íwerin]] called [[Íring]], the son of King [[Ír]], to build a road through his lands, which he had done in the span of seven years. However, the Wætlingas were angered by Íring's arrogance, and therefore wagered that they could build an even better road in only three years - possibly due to their friendship with the [[Elves]]<ref group=note>Originally, the text had ''[[Gnomes]]'' instead of ''Elves''.</ref> of [[wikipedia:Peak District|Péac]].
+
+Therefore, Íring asked his father King Ír for help, and, since Ír was allied with the [[Orcs]] of Íwerin, he sent "all kinds of secret evils" in order to stop the progress of the Wætlingas.
+
+Finally however, when three years had passed, Íring, "despairing of his wager", killed the Wætlingas.
+
+Presumably trying to redress the situation, Íring was allowed by the god [[wikipedia:Odin|Wóden]] (i.e. [[Manweg]])<ref group=note>''Manweg'' is a [[Gnomish]] form of ''Manwë''.</ref> to build a road out of star-dust "across the heavens" running parallel to Íringesweg, the road that he had built.
+
+That [[wikipedia:Milky Way|heavenly road]] later became known as the ''[[wikipedia:Watling Street|Watling Street]]'', in the honour of the Wætlingas, the sons of Watol, but it was also known as ''Íringesweg'' as well, so that Íring's "name shall not fade".<ref name=Wae/>
+
+== Inspiration ==
+The story of Íring building a road in the heavens, afterwards named after the Wætlingas ''Wæclinga-strǽt'' (that is, the Watling Street), was an attempt by [[Tolkien]] to provide an answer, through his own [[legendarium|mythology]], to an etymological issue concerning the Watling Street.
+
+According to the English chronicler [[wikipedia:Florence of Worcester|Florence of Worcester]], the sons of Watol (Wætlingas) built the Watling Street in the year [[wikipedia:1013|1013 AD]]; there, Florence of Worcester also said that the name ''Watling Street'' was afterwards applied to the Milky Way.
+
+Tolkien, however, argued that the ''original'' meaning of the [[Old English]] ''Wæclinga-strǽt'' (Watling Street) referred to the Milky Way, and it was only following the [[wikipedia:Anglo-Saxon settlement of Britain|Anglo-Saxon invasion]] of [[wikipedia:Great Britain|Britain]] that the term ''Wæclinga-strǽt'' was applied to the old [[wikipedia:Roman Empire|Roman]] road running from [[wikipedia:Dover|Dover]] to [[wikipedia:Chester|Chester]].
+
+The name ''Íringesweg'' (or ''Iringes weg'') was another Old English name for the Milky Way which Tolkien wanted to incorporate into his mythology at this point.
+
+Also, the name ''Péac'' (where the Elves lived) was an Old English name of the modern-day Peak District in the northwestern [[wikipedia:Derbyshire|Derbyshire]]. ''Péac'' might have been a name for a demon, cognate with the Old English ''Púca'' (or ''Puck'' in modern [[wikipedia:English language|English]]).<ref>{{PE|15}}, "[[Early Runic Documents]]", ''Commentary on ER1'', pp. 100-1</ref>
+
+{{references|notes}}
+{{DEFAULTSORT:Waetlingas}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Old English names]]

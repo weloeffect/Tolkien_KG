@@ -1,0 +1,45 @@
+{{Noble House infobox
+| name=House of Finwë
+| image = J.R.R. Tolkien - Finwë heraldic device (I).jpg
+| caption=
+| othernames=
+| founder=[[Finwë]]
+| leader=[[King of the Noldor]]
+| location=[[Tirion]], [[Formenos]]
+| affiliation=
+| rivalry=
+| destroyed=
+| language=[[Quenya]]
+| members=
+| race=[[Noldor]]
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+| heirlooms=
+| gallery=the House of Finwë
+}}
+The '''House of Finwë''' was a large [[Noldor]]in royal house founded by [[Finwë]], [[King of the Noldor]]. Its device was that of a great golden sun, even though Finwë was slain before the [[Sun]] was made.
+
+The House of Finwë had three main branches, one for each of Finwë's sons: the [[House of Fëanor]], the [[House of Fingolfin]] and the [[House of Finarfin]].
+===Lineage===
+Finwë had two wives. His first was [[Míriel]], who passed away soon after bearing their only child, [[Fëanor]]. His second wife was [[Indis]], of the [[Vanyar]], who bore him two sons: [[Fingolfin]] and [[Finarfin]], and two daughters: [[Findis]] and [[Írimë]].
+
+<br>
+{{familytree/start}}
+{{familytree | MÍR |y| FIN |y| IND | | | | | | | | |FIN='''FINWË'''<br /><small>''d. {{YT|1495}}''</small>|IND=[[Indis]]<br/><small>''b. {{YT}}''</small>|MÍR=[[Míriel]]<br /><small>''d. {{YT|1170}}''</small>}}
+{{familytree | | | |!| | | |)|-|-|-|v|-|-|-|v|-|-|-|.| |}}
+{{familytree | | | FËA | | FND | | FNG | | IRI | | FNR |FËA=[[Fëanor]]<br /><small>''{{YT|1169}} - {{YT|1497|n}}''</small>|FND=[[Findis]]<br/><small>''b. {{YT}}''</small>|FNG=[[Fingolfin]]<br /><small>''{{YT|1190}} - {{FA|456}}''</small>|IRI=[[Írimë]]<br/><small>''b. {{YT}}''</small>|FNR=[[Finarfin]]<br /><small>''b. {{YT|1230}}''</small>}}
+{{familytree | | | |:| | | | | | | |:| | | | | | | |:| |}}
+{{familytree | | |HFE| | | | | |HFG| | | | | |HFN| |HFE=<small>''[[House of Fëanor]]''</small>|HFG=<small>''[[House of Fingolfin]]''</small>|HFN=<small>''[[House of Finarfin]]''</small>}}
+{{familytree/end}}
+<br>
+==Other versions of the legendarium==
+Finwë's two daughters don't appear in the published ''[[Silmarillion]]''.
+
+In earlier versions of the legendarium, Finwë and Indis had three daughters: '''Findis''', '''Faniel''' and '''Finvain'''. It remains unclear if the third daughter survived in the final conception of Finwë's family tree.<ref>{{PM|Shibboleth}}, note 26</ref>
+{{references}}
+[[Category:Elven noble houses]]
+[[Category:House of Finwë| ]]

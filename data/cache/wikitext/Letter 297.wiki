@@ -1,0 +1,28 @@
+{{letter infobox
+| #=297
+| to=Mr. Rang
+| date=[[1967#August|August]] [[1967]]
+| subject=Nomenclature
+}}{{letter|297}}
+==Summary==
+A Mr. Rang seems to have written this letter after [[John Ryan|J.S. Ryan]] published "German Mythology Applied", and asked several questions about the names in Tolkien's book. Tolkien wrote a lengthy reply, but this letter was never sent.
+
+Tolkien told Mr. Rang that names and onomastics were a personal amusement of his, and in no way connected to real-world languages. He mentioned ''[[Guide to the Names in The Lord of the Rings|Nomenclature]]'', his notes prepared for translators, and then discussed specific queries and guesses by Rang.
+* [[Iris|Gladden]] (the flower): Identified as ''[[wikipedia:Iris pseudacorus|Iris pseudocorus]]'', rather than the usual ''[[wikipedia:Iris foetidissima|Iris foetidissima]]''. 
+* [[Gimli#Etymology|Gimli]]: Rang connected it to a Anglo-saxon word that was not mentioned in the letter. Gimli's name comes from a poetic Old Norse word, ''gimm'', presumably meaning "fire".
+* [[Legolas]]: Rang had guessed "Fiery locks", to which Tolkien replied: "he was not a [[Balrogs|Balrog]]!". Legolas, as translated in the text, means Greenleaf.
+* [[Rohan]]: Rang found Old Norse ''rann'', "house". Tolkien wrote that his origin was inappropriate for a people that were (partly) still nomadic horsebreeders. Rohan was [[Sindarin]], meaning "Horse-land".
+* [[Nazgûl|Nazgul]] ''(sic)'': This too was connected to an Anglo-saxon word according to Rang, ''gael-naes''. Tolkien had never heard of that compound, and stated there was no conceivable reason to conflate [[Black Speech]] and Anglo-saxon.
+* [[Moria]]: Rang connected it to the biblical mountain range of [[wikipedia:Moriah|Moriah]]. Tolkien saw no connection between the mining of the [[Dwarves]] and the story of Abraham.
+
+After this "setting straight", Tolkien listed the external influences in names that were true. Dwarf names came from ''[[Völuspá]]''. Rohan was, in name only, influenced by the Normandic family [[wikipedia:Rohan (family)|Rohan]].
+* ''[[Dor]]'', "land", had closer connections to [[wikipedia:Labrador|Labrador]] than to biblical [[wikipedia:Endor (village)|Endor]]. Moria was chosen because Tolkien liked the ring of [[wikipedia:Soria Moria Castle|Soria Moria castle]].
+
+Then, Tolkien mentioned a case where he was not aware of the "borrowing". For ''[[Nazg]]'', Tolkien was not aware that there was a Gaelic word ''nasc'', meaning "ring".
+
+The only true borrowing was [[Eärendil]], from an Anglo-saxon name ''[[wikipedia:Aurvandil|Aurvandil]]''. Both signify the Morning Star, Venus. As ''[[The Silmarillion]]'' was not yet published at the time, Tolkien wrote briefly about the story of Ëarendil. 
+
+A text note mentioned the text ended with a discussion of Númenórean religion, which was, unfortunately, omitted.
+{{letters}}
+[[de:Brief 297]]
+[[Category:Unsent letters]]

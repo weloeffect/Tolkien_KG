@@ -1,0 +1,52 @@
+{{disambig-two|the Prince of Gwar|grandfather of [[Ælfwine]]|[[Óswine (grandfather of Ælfwine)|Óswine]]}}
+{{anglosaxon infobox
+| name=Óswine
+| image=
+| caption=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| pronun=
+| othernames=
+| titles=Prince of Gwar
+| position=
+| location=[[Kortirion#Other versions of the legendarium|Kortirion]] ([[Luthany#Other versions of the legendarium|Lúthien]])
+| affiliation=
+| language=[[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Óswine''', the '''Prince of Gwar''', was the ruler of the city of [[Kortirion#Other versions of the legendarium|Kortirion]]<ref group="note">Kortirion was the [[Qenya|Elvish]] name of the town of [[wikipedia:Warwick|Warwick]].</ref><ref>{{LT2|VI}}, outline '''30''', p. 310</ref> in [[Luthany#Other versions of the legendarium|Lúthien]] (i.e. [[wikipedia:England|England]]), according to the early version of the [[legendarium]] in the text called ''[[Ælfwine of England]]'' from ''[[The Book of Lost Tales]]''.<ref name="Osw"/>
+
+== History ==
+Óswine was a "lover of songs", and was friendly to the [[Elves]] that still remained in Lúthien, congregating mostly in the lands surrounding Kortirion, called [[Alalminórë]] or the "Land of [[Elms]]". In his city also dwelt [[Ælfwine]], who would later discover [[Tol Eressëa]], as well as his parents, the [[Minstrels|minstrel]] [[Déor (father of Ælfwine)|Déor]] and [[Éadgifu]] of [[Lionesse]].
+
+He was killed during the siege of Kortirion by the fierce people called the [[Forodwaith (The Book of Lost Tales)|Forodwaith]] (that is, the [[wikipedia:Vikings|Vikings]]).<ref name="Osw">{{LT2|VIb}}, p. 313</ref>
+
+== Etymology ==
+The name ''Óswine'' is in [[Old English]], consisting of the elements ''ós'' ("god") + ''wine'' ("friend").<ref>{{LT2|VIb}}, p. 323</ref>
+
+For the explanation of the name ''Gwar'' in Óswine's title, ''Prince of Gwar'', see: [[Kortirion#Etymology and names]].
+
+{{references|notes}}
+{{title}}
+{{DEFAULTSORT:Oswine (Prince of Gwar)}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Old English names]]
+[[Category:Rulers in the Great Lands]]

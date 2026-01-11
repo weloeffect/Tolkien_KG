@@ -1,0 +1,28 @@
+{{VTbox
+| title=Vinyar Tengwar 20
+| image = Vinyar Tengwar 20.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Alan Lee]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=November [[1991]]
+| format=Paperback journal
+| pages=22
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 20''''' is the twentieth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|19|21}}
+
+==Contents==
+* Cover: "Frodo, Sam, and Gollum at the Morannon" — Alan Lee
+* E.L.F. News
+
+* "Source List of the Elvish Languages Found in ''[[The Letters of J.R.R. Tolkien]]''" — Taum Santoski
+* "''Essitalmar'': ''Dor Gyrth i Chuinar''" (column) — Tom Loback
+* "Words and Devices: The Quick and the Dead" (column) — Carl F. Hostetter and Patrick H. Wynne
+* "Transitions in Translations: How Many ''Meilen'' are in a ''Lar''?" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 20}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 20]]

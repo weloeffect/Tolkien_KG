@@ -1,0 +1,51 @@
+{{Adaptation}}
+{{kingdom
+| image=
+| caption=
+| name=Ciryatanor
+| pronun=
+| othernames=Anbalukkhôr ([[Adûnaic|A]])<ref>{{ICE|2026}}, p. 74</ref>
+| location=Between Tulwang and [[Sîrayn]]
+| capital=Marath Carnadúnê
+| towns=
+| regions=
+| population=
+| language=
+| govern1=
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date={{SA|1904}}
+| event2=Ascension of the [[Fifth of the Nazgûl|Storm King]]
+| event2date={{SA|1919}}
+| event3=Allegiance to Númenor renounced
+| event3date={{SA|2250}}
+| event4=Storm King defeated, capital razed
+| event4date={{SA|2280}}
+| event5=
+| event5date=
+| followedby=
+| map=[[File:Map of Tulwang and Ciryatandor.jpeg|thumb|Excerpt from [[Pete Fenlon]]'s “[[An Artist's Interpretation of Middle Earth]]”]]
+
+}}
+In [[Middle-earth Role Playing]], '''Ciryatanor'''<ref group="note">Ciryatandor in earlier supplements</ref> or '''Anbalukkhôr''' was a [[Númenor|Númenór]]ean colony that turned into an independent Kingdom allied with [[Mordor]] under the reign of [[Fifth of the Nazgûl|Akhôrahil the Ringwraith]]. Its capital was ''Marath Carnadúnê'' ([[Quenya|Q.]] “Tower of the Red Sunset”, [[Sindarin|S.]] ''Barad Carannûn'').<ref>{{EndorMap|Ciryatandor}}</ref>
+
+==History==
+===Second Age===
+The colony was founded as a Númenórean client-kingdom by Ciryamir in {{SA|1904}}, at the northern flank of the [[Yellow Mountains]], and was named after [[Tar-Ciryatan]]. In {{SA|1919}}, Ciryamir's son Akhôrahil ascended to the throne after having influenced his father into suicide a year earlier. As the self-declared Storm King, he expanded the kingdom along the Yellow Mountains through various conquests in [[Sîrayn]]: Chennacatt in {{SA|1929}}, Isra in {{SA|1933}}, and Kirmiesra in {{SA|1979}}. Pushing through Harshandat, his armies had reached the Bay of Ormal by {{SA|1999}}.
+
+The Storm King renounced his allegiance to Númenor in {{SA|2250}}. The army of [[Tar-Ancalimon]] landed in Tulwang in {{SA|2280}}. The Storm King's armies were defeated and his capital was razed. Akhôrahil himself fled to [[Mordor]].<ref name=GreaterHarad>{{ICE|3111}}, p. 28</ref> It is unclear what happens to Ciryatanor until it is mentioned again in the Third Age.
+
+===Third Age===
+After {{TA|1050}}, Akhôrahil moved into the fortress of [[Ny Chennacatt]], hoping to reclaim his former kingdom. He assembled a new army, the [[Army of the Southern Dragon]], and secured the allegiance of Orc-lords from the Yellow Mountains and traitors to the Free Peoples of Greater Harad.<ref name=GreaterHarad/> This army, headed by [[Army of the Southern Dragon#Utchû|Utchû]], launched campaigns against Ciryatanor in {{TA|1660}} and {{TA|1705}}, and it is finally conquered in {{TA|1802}}. Barad Carannûn is the capital, so presumably it had been rebuilt since its razing. Utchû turns on his liege twelve years later. The new Army of the Southern Dragon attacks Utchû's Ciryatanor in {{TA|1815}}, and a year later, Akhôrahil visits the city for the last time to reorganize its leadership.
+
+In {{TA|2013}}, a civil war splits the kingdoms of Tulwang and Ciryatanor into tiny petty kingdoms. The [[Far Harad#Portrayal_in_adaptations|Sun Lord]] Pon Ifta conquers Ciryatanor in {{TA|2205}}.<ref>{{ICE|8205}}, p. 5-6</ref>
+
+==Fandom==
+In fan projects elaborating on Greater Harad, such as the [[New Notion Club Archives]] and [[The Lord of the Rings: Realms in Exile|Realms in Exile]], the kingdom is instead known as '''An-Balkûmagân''', with the reasoning being that Ciryatanor is not a name the [[King's Men]] would use and that Anbalukkhôr is not a entirely correct equivalent either.
+
+{{references|notes}}
+[[Category:Middle-earth Role Playing locations]]

@@ -1,0 +1,26 @@
+{{artist infobox
+| image=Inger Edelfeldt.jpg
+| name=Inger Edelfeldt
+| born=[[1956]]
+| died=
+| style=
+| images=[[:Category:Images by Inger Edelfeldt|Gallery]]
+| location=Sweden
+| website=
+|}}
+
+'''Inger Edelfeldt''' (born [[1956]]) is a Swedish author, translator and artist who has created numerous [[J.R.R. Tolkien|Tolkien]]-related illustrations, including illustrations for the [[Tolkien Calendar 1985]], [[The 1985 J.R.R. Tolkien Calendar]], and the [[Tolkien Calendar 1998]]. Her [[:Image:Inger Edelfeldt - Gollum.jpg|version]] of [[Gollum]] is actually herself, staring in a mirror.
+
+Perhaps inspired by the fiction works of Tolkien, Edelfeldt wrote ''Missne och Robin'' (1980), her only book which can be included in the genre of fantasy<ref>Johan Sandberg, "[http://tolkiensarda.se/new/nummer/magsidor/arttre9.htm Svensk fantasy svälter]" ("Swedish Fantasy is Starving") in ''[[Tolkiens Arda]]'', issue 14, 2003.</ref>
+
+==See also==
+* [[:Category:Images by Inger Edelfeldt|Images by Inger Edelfeldt]]
+
+==External links==
+
+*{{WP|Inger Edelfeldt}}
+{{references}}
+{{IllustratorsCalendars}}
+[[Category:Artists|Edelfeldt, Inger]]
+[[Category:Swedish people|Edelfeldt, Inger]]
+[[Category:People by name|Edelfeldt, Inger]]

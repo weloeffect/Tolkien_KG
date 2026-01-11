@@ -1,0 +1,691 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Adventure_Quest> a schema:WebPage ;
+    rdfs:label "Adventure Quest"@en ;
+    schema:about <http://localhost:8000/resource/Adventure_Quest> .
+
+<http://localhost:8000/page/An_Everyday_Tale_of_a_Seeker_of_Gold> a schema:WebPage ;
+    rdfs:label "An Everyday Tale of a Seeker of Gold"@en ;
+    schema:about <http://localhost:8000/resource/An_Everyday_Tale_of_a_Seeker_of_Gold> .
+
+<http://localhost:8000/page/Assault_on_Dolni_Keep> a schema:WebPage ;
+    rdfs:label "Assault on Dolni Keep"@en ;
+    schema:about <http://localhost:8000/resource/Assault_on_Dolni_Keep> .
+
+<http://localhost:8000/page/Bored_of_the_Rings_%28video_game%29> a schema:WebPage ;
+    rdfs:label "Bored of the Rings (video game)"@en ;
+    schema:about <http://localhost:8000/resource/Bored_of_the_Rings_%28video_game%29> .
+
+<http://localhost:8000/page/Bulbo_and_the_Lizard_King> a schema:WebPage ;
+    rdfs:label "Bulbo and the Lizard King"@en ;
+    schema:about <http://localhost:8000/resource/Bulbo_and_the_Lizard_King> .
+
+<http://localhost:8000/page/Colossal_Adventure> a schema:WebPage ;
+    rdfs:label "Colossal Adventure"@en ;
+    schema:about <http://localhost:8000/resource/Colossal_Adventure> .
+
+<http://localhost:8000/page/Der_Kleine_Hobbit> a schema:WebPage ;
+    rdfs:label "Der Kleine Hobbit"@en ;
+    schema:about <http://localhost:8000/resource/Der_Kleine_Hobbit> .
+
+<http://localhost:8000/page/Dungeon_Adventure> a schema:WebPage ;
+    rdfs:label "Dungeon Adventure"@en ;
+    schema:about <http://localhost:8000/resource/Dungeon_Adventure> .
+
+<http://localhost:8000/page/Elendor> a schema:WebPage ;
+    rdfs:label "Elendor"@en ;
+    schema:about <http://localhost:8000/resource/Elendor> .
+
+<http://localhost:8000/page/J.R.R._Tolkien%27s_The_Lord_of_the_Rings%2C_Vol._II%3A_The_Two_Towers> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien%27s_The_Lord_of_the_Rings%2C_Vol._II%3A_The_Two_Towers> .
+
+<http://localhost:8000/page/J.R.R._Tolkien%27s_The_Lord_of_the_Rings%2C_Vol._I_%28SNES%29> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien%27s_The_Lord_of_the_Rings%2C_Vol._I_%28SNES%29> .
+
+<http://localhost:8000/page/J.R.R._Tolkien%27s_War_in_Middle_Earth> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien's War in Middle Earth"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien%27s_War_in_Middle_Earth> .
+
+<http://localhost:8000/page/LORD_%28video_game%29> a schema:WebPage ;
+    rdfs:label "LORD (video game)"@en ;
+    schema:about <http://localhost:8000/resource/LORD_%28video_game%29> .
+
+<http://localhost:8000/page/Lord_of_the_Rings%3A_Game_One> a schema:WebPage ;
+    rdfs:label "Lord of the Rings: Game One"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Rings%3A_Game_One> .
+
+<http://localhost:8000/page/Mario> a schema:WebPage ;
+    rdfs:label "Mario"@en ;
+    schema:about <http://localhost:8000/resource/Mario> .
+
+<http://localhost:8000/page/Midden-aarde_MUD> a schema:WebPage ;
+    rdfs:label "Midden-aarde MUD"@en ;
+    schema:about <http://localhost:8000/resource/Midden-aarde_MUD> .
+
+<http://localhost:8000/page/Moria_%28video_game%29> a schema:WebPage ;
+    rdfs:label "Moria (video game)"@en ;
+    schema:about <http://localhost:8000/resource/Moria_%28video_game%29> .
+
+<http://localhost:8000/page/Ring_of_Doom_%28video_game%29> a schema:WebPage ;
+    rdfs:label "Ring of Doom (video game)"@en ;
+    schema:about <http://localhost:8000/resource/Ring_of_Doom_%28video_game%29> .
+
+<http://localhost:8000/page/Ringen> a schema:WebPage ;
+    rdfs:label "Ringen"@en ;
+    schema:about <http://localhost:8000/resource/Ringen> .
+
+<http://localhost:8000/page/Shadowfax_%28video_game%29> a schema:WebPage ;
+    rdfs:label "Shadowfax (video game)"@en ;
+    schema:about <http://localhost:8000/resource/Shadowfax_%28video_game%29> .
+
+<http://localhost:8000/page/Tales_of_Middle_Earth> a schema:WebPage ;
+    rdfs:label "Tales of Middle Earth"@en ;
+    schema:about <http://localhost:8000/resource/Tales_of_Middle_Earth> .
+
+<http://localhost:8000/page/The_Boggit> a schema:WebPage ;
+    rdfs:label "The Boggit"@en ;
+    schema:about <http://localhost:8000/resource/The_Boggit> .
+
+<http://localhost:8000/page/The_Dungeons_of_Moria_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Dungeons of Moria (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Dungeons_of_Moria_%28video_game%29> .
+
+<http://localhost:8000/page/The_Forest_of_Fear> a schema:WebPage ;
+    rdfs:label "The Forest of Fear"@en ;
+    schema:about <http://localhost:8000/resource/The_Forest_of_Fear> .
+
+<http://localhost:8000/page/The_Hobbit_%281982_video_game%29> a schema:WebPage ;
+    rdfs:label "The Hobbit (1982 video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_%281982_video_game%29> .
+
+<http://localhost:8000/page/The_Hobbit_%282003_video_game%29> a schema:WebPage ;
+    rdfs:label "The Hobbit (2003 video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_%282003_video_game%29> .
+
+<http://localhost:8000/page/The_Iron_Prison> a schema:WebPage ;
+    rdfs:label "The Iron Prison"@en ;
+    schema:about <http://localhost:8000/resource/The_Iron_Prison> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Aragorn%27s_Quest> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Aragorn's Quest"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Aragorn%27s_Quest> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Conquest> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Conquest"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Conquest> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Tactics> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Tactics"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Tactics> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Battle for Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Battle for Middle-earth II"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II%3A_The_Rise_of_the_Witch-king> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II%3A_The_Rise_of_the_Witch-king> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Fellowship of the Ring (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_%28video_game%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Return_of_the_King_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Return of the King (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_%28video_game%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Third_Age> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Third Age"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Third_Age> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Two_Towers_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Two Towers (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_%28video_game%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_War_in_the_North> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: War in the North"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_War_in_the_North> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_War_of_the_Ring> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: War of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_War_of_the_Ring> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Online> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Online"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Online> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Online%3A_Mines_of_Moria> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Online: Mines of Moria"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Mines_of_Moria> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Online%3A_Shadows_of_Angmar> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Online: Shadows of Angmar"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Shadows_of_Angmar> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Online%3A_Siege_of_Mirkwood> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Online: Siege of Mirkwood"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Siege_of_Mirkwood> .
+
+<http://localhost:8000/page/The_Mines_of_Moria_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Mines of Moria (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Mines_of_Moria_%28video_game%29> .
+
+<http://localhost:8000/page/The_One_Ring_%28Facebook_application%29> a schema:WebPage ;
+    rdfs:label "The One Ring (Facebook application)"@en ;
+    schema:about <http://localhost:8000/resource/The_One_Ring_%28Facebook_application%29> .
+
+<http://localhost:8000/page/The_Ring_of_Doom_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Ring of Doom (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Ring_of_Doom_%28video_game%29> .
+
+<http://localhost:8000/page/The_Shire_%28video_game%29> a schema:WebPage ;
+    rdfs:label "The Shire (video game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Shire_%28video_game%29> .
+
+<http://localhost:8000/page/The_Two_Towers_MUD> a schema:WebPage ;
+    rdfs:label "The Two Towers MUD"@en ;
+    schema:about <http://localhost:8000/resource/The_Two_Towers_MUD> .
+
+<http://localhost:8000/page/Third_Age%3A_Total_War> a schema:WebPage ;
+    rdfs:label "Third Age: Total War"@en ;
+    schema:about <http://localhost:8000/resource/Third_Age%3A_Total_War> .
+
+<http://localhost:8000/page/Thror%27s_Ring> a schema:WebPage ;
+    rdfs:label "Thror's Ring"@en ;
+    schema:about <http://localhost:8000/resource/Thror%27s_Ring> .
+
+<http://localhost:8000/resource/Adventure_Quest> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Level_9_Computing%3Cref_name%3D%22Giant%22%3E%5Bhttp%3A//www.giantbomb.com/adventure-quest/61-19235/_Adventure_Quest%5D_at_Giantbomb_%28retrieved_18_August_2010%29%3C/ref%3E> ;
+    tg:genre "Text-Adventure with Illustrations"@en ;
+    tg:image "Adventure Quest - Opening screen.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Adventure Quest"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmstrad_CPC> ;
+    tg:publisher "Level 9 Computing<ref name=\"Giant\"/>"@en ;
+    tg:releasedate <http://localhost:8000/resource/1983> .
+
+<http://localhost:8000/resource/An_Everyday_Tale_of_a_Seeker_of_Gold> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Zenobi_Software> ;
+    tg:genre "Text-adventure"@en ;
+    tg:image "An Everyday Tale of a Seeker of Gold.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "An Everyday Tale of a Seeker of Gold"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AZX_Spectrum> ;
+    tg:publisher <http://localhost:8000/resource/Zenobi_Software> ;
+    tg:releasedate <http://localhost:8000/resource/1986> .
+
+<http://localhost:8000/resource/Assault_on_Dolni_Keep> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:genre "Text-adventure"@en ;
+    tg:image "Assault on Dolni Keep.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Assault on Dolni Keep"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AApple_II_series> ;
+    tg:publisher <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:releasedate <http://localhost:8000/resource/1987%3Cref_name%3D%22Tolkien_Games%22%3E%5Bhttp%3A//www.lysator.liu.se/tolkien-games/entry/assault.html_Tolkien_Games%5D_%28retrieved_28_October_2010%29%3C/ref%3E> .
+
+<http://localhost:8000/resource/Bored_of_the_Rings_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Delta_4_Software_%28briefly%29%2C_Silver_Soft%2C_CRL_Group_PLC%2C_Zenobi_Software> ;
+    tg:genre "Text-Adventure with illustrations"@en ;
+    tg:image "Bored-1-.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Bored of the Rings"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmstrad_CPC> ;
+    tg:publisher <http://localhost:8000/resource/Delta_4_Software> ;
+    tg:releasedate <http://localhost:8000/resource/1985> .
+
+<http://localhost:8000/resource/Bulbo_and_the_Lizard_King> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Zenobi_Software> ;
+    tg:genre "Text-adventure, parody"@en ;
+    tg:image "Bulbo-Lizard King-1-.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Bulbo and the Lizard King"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AZX_Spectrum> ;
+    tg:publisher <http://localhost:8000/resource/Zenobi_Software> ;
+    tg:releasedate <http://localhost:8000/resource/1987> .
+
+<http://localhost:8000/resource/Colossal_Adventure> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Level_9_Computing%3Cref_name%3D%22Giant%22%3E%5Bhttp%3A//www.giantbomb.com/dungeon-adventure/61-3541/_Giant_Bomb%5D_%28retrieved_17_August_2010%29%3C/ref%3E> ;
+    tg:genre "Text-Adventure"@en ;
+    tg:image "Colossal Adventure - 1.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Colossal Adventure"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmstrad_CPC> ;
+    tg:publisher "Level 9 Computing<ref name=\"Giant\"/>"@en ;
+    tg:releasedate <http://localhost:8000/resource/1983> .
+
+<http://localhost:8000/resource/Der_Kleine_Hobbit> a schema:VideoGame ;
+    tg:developer "Michael Nickles<ref>[http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 5 September 2010)</ref>"@en ;
+    tg:genre "Text-Adventure"@en ;
+    tg:image "Der Kleine Hobbit - Gameplay.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Der Kleine Hobbit"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ACommodore_64> ;
+    tg:publisher "None"@en ;
+    tg:releasedate <http://localhost:8000/resource/1984> .
+
+<http://localhost:8000/resource/Dungeon_Adventure> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Level_9_Computing%3Cref_name%3D%22Giant%22%3E%5Bhttp%3A//www.giantbomb.com/dungeon-adventure/61-3541/_Dungeon_Adventure%5D_at_Giant_Bomb_%28retrieved_18_August_2010%29%3C/ref%3E> ;
+    tg:genre "Text-adventure"@en ;
+    tg:image "Dungeon Adventure - Cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Dungeon Adventure"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmstrad_CPC> ;
+    tg:publisher <http://localhost:8000/resource/Level_9_Computing%3Cref_name%3D%22Giant%22/%3E> ;
+    tg:releasedate <http://localhost:8000/resource/1984> .
+
+<http://localhost:8000/resource/Elendor> a schema:VideoGame ;
+    tg:genre <http://localhost:8000/resource/wikipedia%3AMUSH> ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Elendor"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3APersonal_Computer> ;
+    tg:releasedate <http://localhost:8000/resource/October_1991> .
+
+<http://localhost:8000/resource/J.R.R._Tolkien%27s_The_Lord_of_the_Rings%2C_Vol._II%3A_The_Two_Towers> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Interplay_Productions%2C_Silicon_%26_Synapse> ;
+    tg:image "LOTR-vol2-boxart.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "''J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers''"@en ;
+    tg:platform <http://localhost:8000/resource/PC%2C_wikipedia%3AMS-DOS> ;
+    tg:publisher <http://localhost:8000/resource/Interplay_Productions> ;
+    tg:releasedate <http://localhost:8000/resource/Spring_1993> .
+
+<http://localhost:8000/resource/J.R.R._Tolkien%27s_The_Lord_of_the_Rings%2C_Vol._I_%28SNES%29> a schema:VideoGame ;
+    tg:image "LOTR-vol1-SNES1.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "''J.R.R. Tolkien's The Lord of the Rings, Vol. I''"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ASuper_Nintendo_Entertainment_System> ;
+    tg:publisher <http://localhost:8000/resource/Interplay_Productions%2C_Electronic_Arts> ;
+    tg:releasedate <http://localhost:8000/resource/1994> .
+
+<http://localhost:8000/resource/J.R.R._Tolkien%27s_War_in_Middle_Earth> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Synergistic_Software%2C_inc.%2C_Maelstrom_Games_Ltd.> ;
+    tg:genre "Real-time strategy"@en ;
+    tg:image "War in Middle Earth - Cover art.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "''J.R.R. Tolkien's War in Middle-Earth''"@en ;
+    tg:platform <http://localhost:8000/resource/Wikipedia%3AAmiga> ;
+    tg:publisher <http://localhost:8000/resource/Melbourne_House%2C_Dro_Soft> ;
+    tg:releasedate <http://localhost:8000/resource/Fall_1988> .
+
+<http://localhost:8000/resource/LORD_%28video_game%29> a schema:VideoGame ;
+    tg:developer "Olli J. Paavola"@en ;
+    tg:genre "Text Adventure"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "LORD"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ADEC-20> ;
+    tg:releasedate <http://localhost:8000/resource/1981%3Cref%3E%7B%7Bwebcite> .
+
+<http://localhost:8000/resource/Lord_of_the_Rings%3A_Game_One> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Melbourne_House> ;
+    tg:genre "Illustrated Text-Adventure"@en ;
+    tg:image "Gameone-1-.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Lord of the Rings: Game One<br/>The Fellowship of the Rings Software Adventure"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmstrad_CPC> ;
+    tg:publisher <http://localhost:8000/resource/Melbourne_House_%28Lord_of_the_Rings%3A_Game_One%29%2C_Addison-Wesley_%28The_Fellowship_of_the_Rings_Software_Adventure%29%2C_Guild_Publishing_%28re-released%29%3Cref%3E%5Bhttp%3A//www.worldofspectrum.org/infoseek.cgi_Lord_of_the_Rings%3A_Game_One%5D_at_wikipedia%3AWorld_of_Spectrum> ;
+    tg:releasedate <http://localhost:8000/resource/1985> .
+
+<http://localhost:8000/resource/Mario> a schema:VideoGame ;
+    tg:developer "''Harold Bronfleth'' (Version 1) and ''Herbert Grosser'' (Version 2)<ref name=\"Tolkien Games\">[http://www.lysator.liu.se/tolkien-games/entry/mario.html Mario] at Tolkien Games (retrieved 4 September 2010)</ref>"@en ;
+    tg:genre "Parody"@en ;
+    tg:image "Mario-LOTR.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Mario"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ACommodore_64> ;
+    tg:publisher "Unkown"@en ;
+    tg:releasedate <http://localhost:8000/resource/1984> .
+
+<http://localhost:8000/resource/Midden-aarde_MUD> a schema:VideoGame ;
+    tg:developer "''Irmo'' and his team"@en ;
+    tg:genre "MUD"@en ;
+    tg:image "Midden-aarde MUD.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Midden-aarde MUD"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AWindows_XP> ;
+    tg:releasedate "2009"@en .
+
+<http://localhost:8000/resource/Moria_%28video_game%29> a schema:VideoGame ;
+    tg:developer "Mike Howard (ZX-Spectrum)<ref name=\"Tolkien Games\">{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/moria.html|articlename=Moria|dated=|website=Games|accessed=14 august 2010}}</ref><br/>Adrian Sheppard (Oric-1)<ref name=\"Tolkien Games\"/>"@en ;
+    tg:genre <http://localhost:8000/resource/wikipedia%3ARole-playing_games> ;
+    tg:image "Moria (videogame) - cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Moria"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ACommodore_64> ;
+    tg:publisher <http://localhost:8000/resource/Severn_Software%3Cref_name%3D%22Tolkien_Games%22/%3E> ;
+    tg:releasedate <http://localhost:8000/resource/1982> .
+
+<http://localhost:8000/resource/Ring_of_Doom_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/wikipedia%3AApplied_Technology> ;
+    tg:genre <http://localhost:8000/resource/wikipedia%3AInteractive_fiction> ;
+    tg:image "Ring of Doom (videogame).gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Ring of Doom / Ödesringen"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AMicroBee> ;
+    tg:publisher <http://localhost:8000/resource/wikipedia%3ASweden> ;
+    tg:releasedate <http://localhost:8000/resource/1983> .
+
+<http://localhost:8000/resource/Ringen> a schema:VideoGame ;
+    tg:developer "Hansen<br/>Pål-Kristian Engstad<br/>Per Arne Engstad"@en ;
+    tg:genre "Text-adventure"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Ringen"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ANumerical_control> ;
+    tg:releasedate <http://localhost:8000/resource/1979> .
+
+<http://localhost:8000/resource/Shadowfax_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Mike_Singleton%3Cbr/%3ESean_Logan_%28ZX_Spectrum%29> ;
+    tg:genre <http://localhost:8000/resource/wikipedia%3AArcade_game> ;
+    tg:image "Shadowfax (videogame) - cover.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Shadowfax"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ABBC_B> ;
+    tg:publisher <http://localhost:8000/resource/Postern> ;
+    tg:releasedate <http://localhost:8000/resource/1982> .
+
+<http://localhost:8000/resource/Tales_of_Middle_Earth> a schema:VideoGame ;
+    tg:developer "Nicolas Casalini"@en ;
+    tg:genre "Roguelike"@en ;
+    tg:image "Tales_of_Middle_Earth_Logo.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:modes "Single player"@en ;
+    tg:name "Tales of Middle Earth"@en ;
+    tg:platform "Windows, Mac OS, Unix-like"@en ;
+    tg:releasedate "1998"@en .
+
+<http://localhost:8000/resource/The_Boggit> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/DELTA_4_Software> ;
+    tg:genre "Text-Adventure with illustrations"@en ;
+    tg:image "Boggit-1-.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Boggit"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmstrad_CPC> ;
+    tg:publisher <http://localhost:8000/resource/CRL_Group_PLC%2C_Zenobi_Software> ;
+    tg:releasedate <http://localhost:8000/resource/1986> .
+
+<http://localhost:8000/resource/The_Dungeons_of_Moria_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Robert_Alan_Koeneke%3Cref_name%3D%22Angelfire%22%3E%7B%7Bwebcite> ;
+    tg:genre "RPG"@en ;
+    tg:image "Dungeons of Moria (videogame) - opening screen.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Dungeons of Moria"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AAmiga> ;
+    tg:releasedate <http://localhost:8000/resource/1983> .
+
+<http://localhost:8000/resource/The_Forest_of_Fear> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:genre "Text-adventure"@en ;
+    tg:image "Forest-1-.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Forest of Fear"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AApple_II_series> ;
+    tg:publisher <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:releasedate <http://localhost:8000/resource/1985> .
+
+<http://localhost:8000/resource/The_Hobbit_%281982_video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Melbourne_House> ;
+    tg:genre <http://localhost:8000/resource/Illustrated_wikipedia%3AInteractive_fiction> ;
+    tg:image "The Hobbit (1982 video game) - cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Hobbit<br/>The Hobbit Software Adventure"@en ;
+    tg:platform <http://localhost:8000/resource/%27%27%27The_Hobbit%27%27%27%3Cbr/%3Ewikipedia%3AAmstrad_CPC> ;
+    tg:publisher <http://localhost:8000/resource/%27%27%27The_Hobbit%27%27%27%3Cbr/%3EMelbourne_House%3Cbr/%3ETansoft%3Cbr/%3ESinclair_Research_Ltd._%28re-release%29%3Cref_name%3D%22world_spectrum%22%3E%7B%7Bwebcite> ;
+    tg:releasedate <http://localhost:8000/resource/1982> .
+
+<http://localhost:8000/resource/The_Hobbit_%282003_video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Inevitable_Entertainment_%28GC%2C_PS2%2C_Xbox%29%3Cbr_/%3EThe_Fizz_Factor_%28PC%29%3Cbr/%3ESaffire_%28GBA%29> ;
+    tg:genre "Platform, Adventure"@en ;
+    tg:image "The Hobbit (2003) cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Hobbit"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AGame_Boy_Advance> ;
+    tg:publisher <http://localhost:8000/resource/Sierra_Entertainment> ;
+    tg:releasedate <http://localhost:8000/resource/wikipedia%3ANorth_America> .
+
+<http://localhost:8000/resource/The_Iron_Prison> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/EEamon_%28video_game%29> ;
+    tg:genre "Text-Adventure"@en ;
+    tg:image "The Iron Prison.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Iron Prison"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AApple_II_series> ;
+    tg:publisher <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:releasedate <http://localhost:8000/resource/1986> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Aragorn%27s_Quest> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Headstrong_Games_%28Wii%29%2C%3Cbr/%3ETT_Fusion_%28other_platforms%29> ;
+    tg:distribution "Physical"@en ;
+    tg:genre "Third-person, \"hack and slash\", action adventure"@en ;
+    tg:image "Aragorn'as Quest - cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:modes "Single-player, two-player co-operative"@en ;
+    tg:name "''The Lord of the Rings: Aragorn's Quest''"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3ANintendo_DS> ;
+    tg:publisher <http://localhost:8000/resource/Warner_Bros._Interactive_Entertainment> ;
+    tg:rating <http://localhost:8000/resource/wikipedia%3AAustralian_Classification_Board> ;
+    tg:releasedate <http://localhost:8000/resource/wikipedia%3ANorth_America> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Conquest> a schema:VideoGame ;
+    tg:developer "Pandemic Studios"@en ;
+    tg:image "The Lord of the Rings - Conquest - boxart.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings: Conquest"@en ;
+    tg:platform "PC, Xbox 360, PlayStation 3, Nintendo DS"@en ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:releasedate <http://localhost:8000/resource/wikipedia%3APAL_region> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Tactics> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:genre "Tactical role-playing game"@en ;
+    tg:image "The Lord of the Rings - Tactics.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:media <http://localhost:8000/resource/Universal_Media_Disc> ;
+    tg:modes "Single-player, Multiplayer"@en ;
+    tg:name "The Lord of the Rings: Tactics"@en ;
+    tg:platform "PlayStation Portable"@en ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:ratings "{{vgratings|ESRB=Teen}}"@en ;
+    tg:releasedate "NA: November 8, 2005"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:genre "Real-time strategy"@en ;
+    tg:image "The Lord of the Rings- The Battle for Middle-earth box.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "<small>The Lord of the Rings</small><br>The Battle for Middle-earth"@en ;
+    tg:platform "Microsoft Windows"@en ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:releasedate "6 December 2004"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:genre "Real-time strategy"@en ;
+    tg:image "The Lord of the Rings- The Battle for Middle-earth II box.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "<small>The Lord of the Rings</small><br>The Battle for Middle-earth II"@en ;
+    tg:platform "Microsoft Windows, Xbox 360"@en ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:releasedate "2 March 2006"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II%3A_The_Rise_of_the_Witch-king> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:genre "Real-time strategy"@en ;
+    tg:image "ROTWK.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "<small>The Lord of the Rings</small><br>The Battle for Middle-earth II<br><small>The Rise of the Witch-king</small>"@en ;
+    tg:platform "Microsoft Windows, Xbox 360"@en ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:releasedate "November 28, 2006"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Surreal_Software_%28PS2%2C_Windows%29%3Cbr_/%3EThe_Whole_Experience_%28Xbox%29%3Cbr_/%3EPocket_Studios_%28GBA%29> ;
+    tg:genre "Action-Adventure"@en ;
+    tg:image "Vivendi's The Lord of the Rings- The Fellowship of the Ring box.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings: The Fellowship of the Ring"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AGame_Boy_Advance> ;
+    tg:publisher <http://localhost:8000/resource/%27%27%27Xbox%2C_PlayStation_2%27%27%27%3Cbr/%3EBlack_Label_Games%0A%0A%27%27%27PC%27%27%27%3Cbr/%3Ewikipedia%3ANorth_America> ;
+    tg:releasedate <http://localhost:8000/resource/%27%27%27Game_Boy_Advance%27%27%27%3Cbr/%3Ewikipedia%3ANorth_America> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_%28video_game%29> a schema:VideoGame ;
+    tg:developer "EA Redwood Shores (PS2 & PC) <!-- currently Visceral Games --><br/>Hypnos Entertainment (GC & Xbox)<br/>Griptonite Games (GBA)<br/>JAMDAT (Mobile)<br/>Beenox (Mac)"@en ;
+    tg:genre "Action"@en ;
+    tg:image "EA's The Lord of the Rings- The Return of the King box.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings: The Return of the King"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AGame_Boy_Advance> ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts%3Cbr/%3EAspyr_%28Mac%29> ;
+    tg:releasedate "'''GameCube, PS2:'''<br />&nbsp;&nbsp;NA: 5 November 2003<br />&nbsp;&nbsp;EUR: 14 November 2003<br />&nbsp;&nbsp;JPN: 8 January 2004<br />'''Xbox:'''<br />&nbsp;&nbsp;NA: 5 November 2003<br />&nbsp;&nbsp;EUR: 14 November 2003<br />'''PC:'''<br />&nbsp;&nbsp;NA: 31 October 2003<br />&nbsp;&nbsp;EUR: 14 November 2003"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Third_Age> a schema:VideoGame ;
+    tg:developer "EA Redwood Shores"@en ;
+    tg:image "The Lord of the Rings - The Third Age - cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:language "English"@en ;
+    tg:name "''The Lord Of the Rings: The Third Age''"@en ;
+    tg:platform "PlayStation 2, GameCube, Xbox, Game Boy Advance"@en ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:releasedate <http://localhost:8000/resource/wikipedia%3ANorth_America> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Stormfront_Studios_%28PS2%2C_Xbox%29%3Cbr_/%3EHypnos_Entertainment_%28GC%29%3Cbr%3EGriptonite_Games_%28GBA%29%3Cbr/%3EJAMDAT_%28Mobile%29> ;
+    tg:genre "Action"@en ;
+    tg:image "EA's The Lord of the Rings- The Two Towers box.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings: The Two Towers"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AGame_Boy_Advance> ;
+    tg:publisher <http://localhost:8000/resource/Electronic_Arts> ;
+    tg:releasedate "PS2: 21 October 2002<br />GameCube, Xbox: November 2002"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_War_in_the_North> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/wikipedia%3ASnowblind_Studios> ;
+    tg:genre "Action, role-playing game"@en ;
+    tg:image "WITN-boxart.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:modes "Single player, two/three-player co-operative, online<ref name=\"Product Announcement\"/>"@en ;
+    tg:name "''The Lord of the Rings: War in the North''"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3APlayStation_3> ;
+    tg:publisher <http://localhost:8000/resource/Warner_Bros._Interactive_Entertainment%2C_wikipedia%3AFeral_Interactive> ;
+    tg:rating <http://localhost:8000/resource/wikipedia%3AEntertainment_Software_Rating_Board> ;
+    tg:releasedate <http://localhost:8000/resource/1_November_2011_%28North_America%29%2C%3Cref_name%3D%22FAQ_Regions_Release%22%3E%5Bhttp%3A//www.warinthenorth.com/_War_in_the_North%5D%2C_%5Bhttp%3A//www.warinthenorth.com/the-game/support/faq_FAQ%5D%2C_What_is_the_release_date_of_The_Lord_of_the_Rings%3A_War_in_the_North_for_my_region%3F_%28accessed_9_November> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_War_of_the_Ring> a schema:VideoGame ;
+    tg:developer "Liquid Entertainment"@en ;
+    tg:genre "Real-time strategy"@en ;
+    tg:image "War of the Ring.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings: War of the Ring"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AMicrosoft_Windows> ;
+    tg:publisher <http://localhost:8000/resource/Sierra_Entertainment> ;
+    tg:releasedate <http://localhost:8000/resource/8_November> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Online> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Turbine> ;
+    tg:genre "MMORPG"@en ;
+    tg:image "LOTRO logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings Online"@en ;
+    tg:platform "Microsoft Windows, OS X (Beta)"@en ;
+    tg:publisher <http://localhost:8000/resource/Midway_Games_%282007-2010%29%0AWarner_Bros._Interactive_Entertainment_%282010-2016%29%0ADaybreak_Game_Company_%282016-Present%29> ;
+    tg:releasedate <http://localhost:8000/resource/April_24%2C_2007> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Mines_of_Moria> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Turbine> ;
+    tg:genre "MMORPG"@en ;
+    tg:image "The Lord of the Rings Online- Mines of Moria.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings Online:<br>Mines of Moria"@en ;
+    tg:platform "Microsoft Windows"@en ;
+    tg:publisher <http://localhost:8000/resource/Turbine> ;
+    tg:releasedate <http://localhost:8000/resource/18_November> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Shadows_of_Angmar> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Turbine> ;
+    tg:genre "MMORPG"@en ;
+    tg:image "The Lord of the Rings Online- Shadows of Angmar box.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings Online:<br>Shadows of Angmar"@en ;
+    tg:platform "Microsoft Windows"@en ;
+    tg:publisher <http://localhost:8000/resource/Turbine> ;
+    tg:releasedate <http://localhost:8000/resource/24_April> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Siege_of_Mirkwood> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Turbine> ;
+    tg:genre "MMORPG"@en ;
+    tg:image "LOTRO - Siege of Mirkwood.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Lord of the Rings Online:<br>Siege of Mirkwood"@en ;
+    tg:publisher <http://localhost:8000/resource/Turbine> ;
+    tg:releasedate <http://localhost:8000/resource/1_December> .
+
+<http://localhost:8000/resource/The_Mines_of_Moria_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:genre "Text-adventure"@en ;
+    tg:image "Minesmor-1-.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Mines of Moria"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AApple_II> ;
+    tg:publisher <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:releasedate <http://localhost:8000/resource/1985> .
+
+<http://localhost:8000/resource/The_One_Ring_%28Facebook_application%29> a schema:VideoGame ;
+    tg:developer "Microcosm"@en ;
+    tg:image "Oneringgamelogo.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The One Ring"@en ;
+    tg:platform "PC"@en ;
+    tg:publisher "Microcosm"@en ;
+    tg:releasedate <http://localhost:8000/resource/6_November> .
+
+<http://localhost:8000/resource/The_Ring_of_Doom_%28video_game%29> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:genre "Text-Adventure"@en ;
+    tg:image "Ring of Doom.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Ring of Doom"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AApple_II_series> ;
+    tg:publisher <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:releasedate <http://localhost:8000/resource/1986> .
+
+<http://localhost:8000/resource/The_Shire_%28video_game%29> a schema:VideoGame ;
+    tg:genre <http://localhost:8000/resource/wikipedia%3AInteractive_fiction> ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Shire"@en ;
+    tg:releasedate <http://localhost:8000/resource/1979%3Cref_name%3D%22Tolkien_Games%22%3E%7B%7Bwebcite> .
+
+<http://localhost:8000/resource/The_Two_Towers_MUD> a schema:VideoGame ;
+    tg:genre <http://localhost:8000/resource/wikipedia%3ALPMud> ;
+    tg:image "The Two Towers-(1994 MUD)-1.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "The Two Towers MUD"@en ;
+    tg:platform "Online"@en ;
+    tg:rating "PG-13"@en ;
+    tg:releasedate <http://localhost:8000/resource/September_1994%3Cref_name%3D%22Official%22%3E%5Bhttp%3A//t2tmud.org/_Official_Site%5D_%28retrieved_20_March_2011%29%3C/ref%3E> .
+
+<http://localhost:8000/resource/Third_Age%3A_Total_War> a schema:VideoGame ;
+    tg:1 "Wallpaper of Third Age: Total War"@en ;
+    tg:genre "Strategy"@en ;
+    tg:image "Third Age - Total War - Wallpaper.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Third Age: Total War"@en ;
+    tg:platform "Microsoft Windows"@en ;
+    tg:releasedate <http://localhost:8000/resource/26_April> .
+
+<http://localhost:8000/resource/Thror%27s_Ring> a schema:VideoGame ;
+    tg:developer <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:genre "Text-Adventure"@en ;
+    tg:image "Thror's Ring-Video game.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/video_game_infobox> ;
+    tg:name "Thror's Ring"@en ;
+    tg:platform <http://localhost:8000/resource/wikipedia%3AApple_II_series> ;
+    tg:publisher <http://localhost:8000/resource/Eamon_%28video_game%29> ;
+    tg:releasedate <http://localhost:8000/resource/1986> .
+

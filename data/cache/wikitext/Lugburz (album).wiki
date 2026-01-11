@@ -1,0 +1,40 @@
+{{Album
+| title = Lugburz
+| image = Lugburz.jpg
+| type = Studio album
+| artist = [[Summoning]]
+| released = 20 March [[1995]]
+| genre = Black Metal
+| length = 50:44
+| language = English
+| label = Napalm Records
+}}
+
+'''''Lugburz''''' is the first full-length album by [[Summoning]] and was released in [[1995]]. The name is taken from [[Barad-dûr|Lugbúrz]], meaning "''dark tower''" in the [[Black Speech]], referring to [[Barad-dûr]]. Despite the album name, the cover artwork does not depict the tower of [[Sauron]] but is taken from the Roger Taylor novel ''The Fall of Fyorlund.''<ref>{{Cite web|articleurl=https://napalmrecords.com/english/lugburz-cd.html|articlename=Summoning - Lugburz|author=Napalm Records|accessed=25 July 2024}}</ref>
+
+==Lineup==
+
+*Silenius: ''Vocals, Bass, Keyboards''
+*Protector of All Endless Sleeps: ''Vocals, Guitars, Keyboards''
+*Trifixion of the Horned King: ''Drums''
+
+==Guests==
+
+*Pazuzu: ''Vocals (additional)''
+
+==Track listing==
+
+#Grey Heavens - ''1:44''
+#Beyond Blooded Horizons - ''3:37''
+#[[Flight of the Nazgul]] - ''7:07''
+#Where Winters Forever Cry - ''4:04''
+#Through the Valley of the Frozen Kingdom - ''6:22''
+#[[Raising with the Battle-Orcs]] - ''5:44''
+#Master of the Old Lure - ''4:14''
+#Between Light and Darkness - ''3:29''
+#The Eternal Lands of Fire - 3:36
+#Dragons of Time - ''6:01''
+#Moondance - ''4:46''
+{{title|italics}}{{References}}
+[[Category:Albums]]
+<references />

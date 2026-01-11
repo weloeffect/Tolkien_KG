@@ -1,0 +1,26 @@
+{{disambig-more|Pearl|[[Pearl (disambiguation)]]}}
+{{disambig-more|Sir Orfeo|[[Sir Orfeo (disambiguation)]]}}
+{{audiobook infobox
+| title=Pearl and Sir Orfeo
+| image=Pearl and Sir Orfeo (audiobook).jpg
+| work=
+| author=[[J.R.R. Tolkien]]
+| narrator=Terry Jones
+| coverart=[[John Howe]]
+| publisher=HarperCollins Audiobooks
+| date=[[18 August]] [[1997]]
+| format=Audio cassette (2 tapes)
+| runtime=ca 2 hours
+| isbn=978-0001053748
+}}
+'''''Pearl and Sir Orfeo''''' is an audiobook published in 1997. Terry Jones reads [[J.R.R. Tolkien]]'s translations of the [[Middle English]] poems ''[[Pearl]]'' and ''[[Sir Orfeo]]''.
+
+==From the back==
+
+''Pearl'' tells the story of a man who goes into a graveyard to mourn the death of his baby daughter, whom he has lost like a pearl that slipped through his fingers into the grass. Worn out by his grief, he falls asleep and has a glorious vision of another, symbolically bejewelled, world, in which he meets his daughter again and discovers what has happened to her.
+
+In ''Sir Orfeo'', a minstrel retells, this time with an English setting, the age-old story of the love of Orpheus for Eurydice, a love so strong that it overcame death.
+
+J R R Tolkien's translations of these 14th century poems bring them to life with the vividness that is the hallmark of ''The Lord of the Rings''. The poems are movingly read by Terry Jones, medieval scholar and former Monty Python's Flying Circus acrobat.
+{{title|italics}}
+[[Category:Audiobooks]]

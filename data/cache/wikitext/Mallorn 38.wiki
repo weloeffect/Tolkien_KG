@@ -1,0 +1,39 @@
+{{Mallorn
+| name=Mallorn 38
+| image = Mallorn38.jpg
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=
+| date=January [[2001]]
+| format=A4 stapled paperback, glossy
+| pages=40
+| issn=0308-6674
+}}
+'''''Mallorn'' 38''' is the thirty-eighth issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in January [[2001]].
+
+==Contents==
+* Cover Art
+** By: [[Pauline Baynes]]
+* About the authors
+* Editorial
+** By: Len Sanford
+* Magic vs Enchantment
+** By: [[Patrick Curry]]
+* "Queer Lodgings" - gender and sexuality in ''[[The Lord of the Rings]]''
+** By: David Craig
+* Poetry: The Wool verses
+** By: [[John Ellison]]
+* Book Review: ''[[Recovery and Transcendence for the Contemporary Mythmaker]]''
+** By: [[David Doughan]]
+* Realistic fantasy: the example of JRR Tolkien's ''[[The Lord of the Rings]]''
+** By: Nicholaos Koravos
+* Poetry: "[[Gandalf]]" and "[[Aragorn]]"
+** By: Mary Dickerson
+* Letters
+* Artwork
+** By: Lorenzo Daniele, [[John Ellison]], [[Octo Kwan]], Geof Jordan, [[Kay Woollard]]
+
+{{mallornnav|37|39}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 38}}
+[[Category:Mallorn (journal)]]

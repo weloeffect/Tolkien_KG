@@ -1,0 +1,26 @@
+{{plant infobox
+| name=Potatoes
+| image=Miriam Ellis - Hamson.png
+| caption=[[Hamson Gamgee|Hamson]] sits on the hearth, admiring a sack of new taters - Illustration by [[Miriam Ellis]]
+| pronun=
+| othernames=Taters
+| location=[[The Shire]]
+| notablefor=
+| family=Nightshades
+| appearance=
+}}
+<center>{{quote|Po – ta – toes,’ said Sam. ‘The Gaffer’s delight, and rare good ballast for an empty belly.|''[[The Return of the King]]'', "[[Of Herbs and Stewed Rabbit]]"}}</center>
+'''Potatoes''' or '''taters''' in [[Hobbitish]], were root vegetables that were apparently among the staple foods of the [[Hobbits]] ([[Hamfast Gamgee]] was recognized locally as an expert on growing potatoes).<ref>{{FR|I1}}</ref> [[Samwise Gamgee]] expected to find them in [[Ithilien]].<ref>{{TT|IV4}}</ref>
+==Etymology==
+''[[Wiktionary:potato#English|Potato]]'' is a word of Spanish and Native American origins. The term ''[[Wiktionary:tater#English|tater]]'' seen to be used in [[Hobbitish]], represents UK slang.
+
+Since the potatoes are a New World plant (see below), it has been suggested that "potatoes" is perhaps a "translation" from a [[Westron]] name of a related but otherwise unrecorded plant of [[Third Age]] [[Middle-earth]].<ref name=Arda>{{webcite|author=Mark Fisher|articlename=Potatoes|website=EoA|articleurl=http://www.glyphweb.com/arda/p/potatoes.html}}</ref>
+
+==Inspiration==
+Fans have noticed that potatoes are a New World plant, not native to the Old World setting of [[Middle-earth]]. The [[pipe-weed]] (another New World plant) is referenced as having being brought from [[Númenor]] and fans have explored the possibility that this was also the case with potatoes.<ref name=Arda/><ref>[http://www.lotrplaza.com/archives/index.php?Archive=archive&TID=105560 Forum discussion] at LOTRplaza</ref><ref>[http://www.thetolkienforum.com/showthread.php?19248-Taters-in-Middle-Earth&s=cc49b7ac8285e2e4b34e52b0e19be48c Forum discussion] at the TolkienForum</ref> ''[[The Children of Húrin]]'' mentions that the [[Dwarves]] of [[Beleriand]] boiled [[Earth-bread|a white fleshy root]] similar to bread<ref>{{CH|7}}</ref> which could have been another instance of potatoes in Middle-earth, from the [[First Age]].
+
+See also [[tomatoes]]<ref>{{HM|AH}}</ref> concerning a similar apparent "paradox".
+
+{{References}}
+[[Category:Food]]
+[[Category:Plants]]

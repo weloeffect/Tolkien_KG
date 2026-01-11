@@ -1,0 +1,179 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}{{disambig-more|The Return of the King|[[The Return of the King (disambiguation)]]}}
+{{video game infobox
+| image = EA's The Lord of the Rings- The Return of the King box.jpg
+| name=The Lord of the Rings: The Return of the King
+| developer=EA Redwood Shores (PS2 & PC) <!-- currently Visceral Games --><br/>Hypnos Entertainment (GC & Xbox)<br/>Griptonite Games (GBA)<br/>JAMDAT (Mobile)<br/>Beenox (Mac)
+| publisher=[[Electronic Arts]]<br/>Aspyr (Mac)
+| platform=[[wikipedia:Game Boy Advance|Game Boy Advance]]<br/>[[wikipedia:GameCube|GameCube]]<br/>[[wikipedia:OS X|Mac OS X]]<br/>[[wikipedia:Microsoft Windows|Microsoft Windows]]<br/>[[wikipedia:Mobile games|Mobile]]<br/>[[wikipedia:PlayStation 2|PlayStation 2]]<br/>[[wikipedia:Xbox|Xbox]]
+| releasedate='''GameCube, PS2:'''<br />&nbsp;&nbsp;NA: 5 November 2003<br />&nbsp;&nbsp;EUR: 14 November 2003<br />&nbsp;&nbsp;JPN: 8 January 2004<br />'''Xbox:'''<br />&nbsp;&nbsp;NA: 5 November 2003<br />&nbsp;&nbsp;EUR: 14 November 2003<br />'''PC:'''<br />&nbsp;&nbsp;NA: 31 October 2003<br />&nbsp;&nbsp;EUR: 14 November 2003
+| genre=Action
+|}}
+
+'''The Lord of the Rings: The Return of the King''' is an action video game by [[Electronic Arts]] released in 2003, based on the [[The Lord of the Rings: The Return of the King|movie of the same name]].
+
+== Gameplay ==
+
+The gameplay is very much similar to its predecessor, featuring 'hack n' slash' combat based around three offensive&mdash;speed attack, fierce attack and physical attack&mdash;and one defensive move. All characters also have a ranged attack and a group-specific special ability which can be activated periodically to make it easier to gain experience, take no damage or turn invisible depending on the character.
+
+Players traverse generally linear levels fighting hordes of progressively more difficult enemies and usually a boss at the end. There is usually a few interactive level elements such as carts of explosives which can be detonated by shooting arrows at them, doors which must be opened by operating levers and spears which can be picked up and thrown at enemies.
+
+There is also an RPG element: each character accumulates experience points (EXP) after defeating an enemy. Players can gain more EXP per enemy by stringing together attacks and combos without taking damage. EXP is used to level up, making new combo moves available. As in ''The Two Towers'' EXP is spent at the end of each level on new combo moves and increases to health, however there is also a strategic element to how this is done in ''The Return in the King''; with players being able to chose between unlocking a move for just one character or for the entire fellowship, at a cost of extra EXP. Each character must still reach the required level in order to use an unlocked fellowship move, however.
+
+=== Characters ===
+
+The game has eight playable characters which are split into three groups: the path of the [[Wizards|Wizard]], the path of the King and the path of the [[Hobbits]]. At the beginning of the game, only [[Gandalf]] (path of the wizard); [[Aragorn]], [[Legolas]] and [[Gimli]] (path of the King); and [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] (path of the Hobbits) are available. Each group has its own special ability and its own set of levels, but after completing the final level the player can play any level with any character. Completing the final level also unlocks the final three characters: [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]] and [[Faramir]].
+
+==Cast==
+The cast of actors is not specified by role, other than the actors who reprised their role from the movies. Footage from the films is used, however, the actors remain uncredited. 
+
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Sean Astin]] || [[Samwise Gamgee]]
+|-
+| [[Billy Boyd]] || [[Peregrin Took]]
+|-
+| [[John Rhys-Davies]] || [[Gimli]] 
+|-
+| [[Christopher Lee]] || [[Saruman]]
+|-
+| [[Ian McKellen]] || [[Gandalf]]
+|-
+| [[Dominic Monaghan]] || [[Meriadoc Brandybuck]] 
+|-
+| [[Andy Serkis]] || [[Gollum]], [[Witch-king of Angmar]]
+|-
+| [[David Wenham]] || [[Faramir]]
+|-
+| [[Elijah Wood]] || [[Frodo Baggins]]
+|-
+| [[Andrew Chaikin]] || Additional voice talent
+|-
+| Tom Chantler || Additional voice talent
+|-
+| [[Chris Edgerly]] || Additional voice talent, [[Aragorn]]
+|-
+| [[Lorri Holt]] || Additional voice talent
+|-
+| [[Roger Jackson]] || Additional voice talent
+|-
+| Anni Long || Additional voice talent
+|-
+| Charles Martinet || Additional voice talent
+|-
+| [[Jarion Monroe]] || Additional voice talent
+|-
+| Bruce Robertson || Additional voice talent
+|-
+| [[Stephen Stanton]] || Additional voice talent
+|-
+| Nick Tagas || Additional voice talent
+|}
+
+==Level Summaries==
+
+===Path of the Wizard (Gandalf only)===
+====Helm's Deep====
+The player must defeat the Uruk-hai at Helm's Deep. This is a tutorial level, in which the player gets to experiment with the different moves the game has to offer. The level ends when the player destroys a cart of explosives on the causeway with three ballistas, driving the Uruks away from Helm's Deep.
+
+'''How to fail:''' The player dies.
+
+====Road to Isengard====
+The player chases the orcs and Uruk-hai through Fangorn forest. At one point, the player must kill 75 enemies alongside the Ents in order to proceed. After following the path, they will end up at the Dam of Isengard. The player must then protect the Ent from the orc archers by killing them and letting the Ent break the dam. The level ends when the dam is destroyed.
+
+'''How to fail:''' The player dies.
+
+====Minas Tirith - Top of the Wall====
+The player must move up and down the walls of Minas Tirith, knocking down siege ladders (using the O button) and killing any enemies at the top of the wall. All the time, he must make sure that the overrun meter is as low as possible, because the player will fail if too many enemies make it on the wall. Occasionally, siege towers will appear, which the player must either fire a catapult at (left-side towers only) or shoot directly. When the player destroys the fourth siege tower (which will land on the wall no matter what), a cut-scene will show trolls using Grond. The level ends when the player makes it down the stairs to the courtyard.
+
+'''How to fail:''' The player dies or the wall is overrun.
+
+====Minas Tirith - Courtyard====
+The gates have been breached, and the player must now defeat the waves of enemies coming through the broken gate, with only a few Gondor soldiers to help him. His main objective is to save the people of Minas Tirith from the orcs. When 150 people are saved, huge trolls will join the ranks. The level ends when 200 people have been saved.
+
+'''How to fail:''' The player dies.
+
+===Path of the King (Aragorn, Legolas, or Gimli)===
+====Paths of the Dead====
+The player, as either Aragorn, Legolas, or Gimli, must make their way to the very heart of the Dwimorberg mountain through the [[Paths of the Dead]], in order to call the [[Dead Men of Dunharrow]] to fight for Gondor. Throughout the paths, they must fight specters that will seek to kill them. There is also a point where the three are trapped and must defeat 35 specters before they are able to move on. The level ends when the player makes it to the end of the Paths of the Dead.
+
+'''How to fail:''' The player dies.
+
+====King of the Dead====
+The player must now fight the King of the Dead alone. The King attacks either by a three-strike attack or by calling dead soldiers. After about half of his health has been depleted, he starts to blow powerful wind at the player (who must duck behind rocks) and his three-strike attack becomes five-strikes. After the King is defeated, the player must escape the collapsing mountain and defeat any specters in his path.
+
+'''How to fail:''' The player dies or the cave collapses on the player.
+
+====The Southern Gate====
+The player must get past the Southern gate in order to help the Rohirrim at the [[Battle of the Pelennor Fields]]. Unfortunately, however, he must fight off hundreds of Uruks and orcs that lay in ambush. Two trolls also lay in wait. The player must fire three catapults, two at a tower and one at a troll, to get to the top of the gate. After he defeats the troll at the top, he must slay a [[Mûmak|Mumak]] by shooting at its armor and blowing it up. He must then open the gate. The level ends when the player gets through the gate alive.
+
+'''How to fail:''' The player dies.
+
+====Pelennor Fields====
+The player is immediately launched into the full-scale battle fighting several [[Easterlings]] and [[Uruk]]s alongside the [[Rohirrim]]. They must battle until 60 enemies have been killed. Then, [[Meriadoc Brandybuck|Merry]] and [[Éowyn]] will join the fight. [[Mumakil]] will also enter the battlefield. The player must destroy the Mumakil coming for Éowyn and Merry (the Mumak will automatically kill them if it gets there, and the mission will fail) by destroying its armor and blowing it up before it is too late. Periodically, the [[Witch-king]] will ride down on his [[Fell Beast]] to attack Merry and Éowyn. The player must shoot the Witch-king until it flies off. This process will repeat until the Witch-king's Fell Beast is slain. Éowyn will kill him, and the dead will arrive to destroy the army of evil.
+
+'''How to fail:''' The player dies, the Witch-king kills Éowyn and Merry or a Mumak crushes them.
+
+====The Black Gate====
+The level begins with the player facing the [[Mouth of Sauron]]. After the Mouth is slain by the player, hordes of orcs will erupt from the Black Gate, intent on destroying the armies of the free peoples. The player must kill every enemy that makes it onto the slag ruins while protecting the rest of the Fellowship (the other members regain health when you are next to them). The objective is to kill 6 champions, but the enemies will come from the sides as well as the front after 3 champions have been killed. After 6 champions are slain, three [[Nazgûl|Ringwraiths]] will arrive to kill the player and the members of the Fellowship. The level ends when the three Ringwraiths are slain.
+
+'''How to fail:''' The player dies or any other member of the Fellowship dies.
+
+===The Path of the Hobbits (Sam, Frodo)===
+====Escape from Osgiliath====
+The player must make their way through the besieged city of [[Osgiliath]] and escape through the sewers. Orcs are everywhere, and the Nazgul are searching ceaselessly for the Ring. The player must fight their way through Osgiliath, and either take cover or get off the roofs as quickly as possible when the Ringwraiths are searching. The level ends when the player defeats the orc champion stationed near the exit of the sewers, and escapes the city.
+
+'''How to fail:''' The player dies or the Nazgul catch Frodo.
+
+====Shelob's Lair====
+This level is separated into three levels, each separated by a checkpoint.
+
+;The first part
+The first part is a gigantic maze, with few paths actually leading to the correct location. Though some paths will lead to EXP bonus stones, they also contain spider ambushes. A couple of Orcs also dwell in the lair. The player's basic objective, in this stage, is to make it to a huge arched bridge, where a checkpoint will signal the end.
+
+;The second part
+The second part is more straightforward, but harder; there is only one path from this point on, but there are more enemies and more baby spider blockades that need to be separated by a torch. The objective, which is even simpler than the last, is to get out of the lair into a huge rock arena.
+
+;The third part
+The player must now fight Shelob. She begins with parry-able thrusts, but will occasionally charge into a corner and summon spiders to attack the player. The only way (and an easy way at that) is to hack at Shelob until she is defeated. Frodo will be taken by two orcs, which ends the level.
+
+'''How to fail:''' The player dies.
+
+====Cirith Ungol====
+The player must fight through many hordes of orcs, who are at war with each other though will focus attention on the player when they spot him (Note: The enemies seem to not actually kill each other, so it is up to the player to do so if they wish to.) The first part of the mission involves killing at least 80 enemies, which can be accomplished through a variety of paths and action sequences. Once this is done, the player must navigate the level until a short scene showing the remaining orcs fleeing to a bridge is shown. After firing a ballista and destroying part of the level, the player must rush across the bridge, beginning the second part of the level (if the player is too slow in getting across the bridge, the player dies.)
+
+The second part is a short boss battle against Gorbag. Initially, the player cannot damage him, but by using the spears in the room, the player can toss one to break his shield, and another to stun him, during which time his life meter will appear. Note that it is possible to knock him down and use a finishing move, but it will not be an instant kill (it will just deal damage). Once Gorbag is defeated, the level ends.
+
+'''How to fail:''' The player dies or the player falls at the bridge leading to the second part of the level.
+
+====Crack of Doom====
+This level is basically a boss battle: it's Sam and Frodo against Gollum. Gollum only has melee attacks, but his swipes and jump attack can be quite deadly if unparried. To damage Gollum, the player must lure him to the very edge of the platform, slash him, knock him over with an O attack, and finish the combo with a killing move. (Note: This is similar to the Final Judgment move.) The player must use this process a total of six times; each time, additional obstacles like falling rocks and lava oozing on the platform. Once the sixth Gollum-killing combo has been completed, Gollum falls into the lava and the Ring is destroyed.
+
+'''How to fail:''' The player dies.
+
+==Bonuses==
+*[[Palantír]] of [[Saruman]] (Bonus level)
+*[[Palantír]] of [[Sauron]] (Bonus level)
+*[[Billy Boyd]] interview (Bonus interview)
+*[[Dominic Monaghan|Dom Monaghan]] interview (Bonus interview)
+*[[Andy Serkis]] interview (Bonus interview)
+*[[David Wenham]] interview (Bonus interview)
+*[[Faramir]] (Bonus character)
+*[[Meriadoc Brandybuck|Merry]] (Bonus character)
+*[[Peregrin Took|Pippin]] (Bonus character)
+*secret codes
+
+{{Videogames}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Return of the King}}
+[[Category:Action games]]
+[[Category:EA Games]]
+[[Category:Game Boy Advance games]]
+[[Category:GameCube games]]
+[[Category:Mac OS X games]]
+[[Category:Microsoft Windows games]]
+[[Category:Mobile games]]
+[[Category:PlayStation 2 games]]
+[[Category:Xbox games]]

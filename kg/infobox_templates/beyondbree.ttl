@@ -1,0 +1,134 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Beyond_Bree_April_1981> a schema:WebPage ;
+    rdfs:label "Beyond Bree April 1981"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_April_1981> .
+
+<http://localhost:8000/page/Beyond_Bree_August_1981> a schema:WebPage ;
+    rdfs:label "Beyond Bree August 1981"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_August_1981> .
+
+<http://localhost:8000/page/Beyond_Bree_December_1984> a schema:WebPage ;
+    rdfs:label "Beyond Bree December 1984"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_December_1984> .
+
+<http://localhost:8000/page/Beyond_Bree_December_1986> a schema:WebPage ;
+    rdfs:label "Beyond Bree December 1986"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_December_1986> .
+
+<http://localhost:8000/page/Beyond_Bree_July_1981> a schema:WebPage ;
+    rdfs:label "Beyond Bree July 1981"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_July_1981> .
+
+<http://localhost:8000/page/Beyond_Bree_July_1986> a schema:WebPage ;
+    rdfs:label "Beyond Bree July 1986"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_July_1986> .
+
+<http://localhost:8000/page/Beyond_Bree_June_1981> a schema:WebPage ;
+    rdfs:label "Beyond Bree June 1981"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_June_1981> .
+
+<http://localhost:8000/page/Beyond_Bree_June_1985> a schema:WebPage ;
+    rdfs:label "Beyond Bree June 1985"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_June_1985> .
+
+<http://localhost:8000/page/Beyond_Bree_March_1981> a schema:WebPage ;
+    rdfs:label "Beyond Bree March 1981"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_March_1981> .
+
+<http://localhost:8000/page/Beyond_Bree_March_1989> a schema:WebPage ;
+    rdfs:label "Beyond Bree March 1989"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_March_1989> .
+
+<http://localhost:8000/page/Beyond_Bree_May_1981> a schema:WebPage ;
+    rdfs:label "Beyond Bree May 1981"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_May_1981> .
+
+<http://localhost:8000/page/Beyond_Bree_May_1985> a schema:WebPage ;
+    rdfs:label "Beyond Bree May 1985"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_May_1985> .
+
+<http://localhost:8000/page/Beyond_Bree_October_1985> a schema:WebPage ;
+    rdfs:label "Beyond Bree October 1985"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_Bree_October_1985> .
+
+<http://localhost:8000/resource/Beyond_Bree_April_1981> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "May 1981"@en ;
+    tg:pages "5"@en ;
+    tg:prev "March 1981"@en ;
+    tg:released "March 1981"@en .
+
+<http://localhost:8000/resource/Beyond_Bree_August_1981> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "September 1981"@en ;
+    tg:pages "5"@en ;
+    tg:prev "April 1981"@en ;
+    tg:released "March 1981"@en .
+
+<http://localhost:8000/resource/Beyond_Bree_December_1984> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:pages "9½"@en ;
+    tg:released <http://localhost:8000/resource/December_1984> .
+
+<http://localhost:8000/resource/Beyond_Bree_December_1986> a schema:Thing ;
+    tg:image "Beyond Bree December 1986.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:released <http://localhost:8000/resource/December_1986> .
+
+<http://localhost:8000/resource/Beyond_Bree_July_1981> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "August 1981"@en ;
+    tg:pages "6"@en ;
+    tg:prev "June 1981"@en ;
+    tg:released "March 1981"@en .
+
+<http://localhost:8000/resource/Beyond_Bree_July_1986> a schema:Thing ;
+    tg:image "Beyond Bree July 1986.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:released <http://localhost:8000/resource/July_1986> .
+
+<http://localhost:8000/resource/Beyond_Bree_June_1981> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "July 1981"@en ;
+    tg:pages "5"@en ;
+    tg:prev "May 1981"@en ;
+    tg:released "June 1981"@en .
+
+<http://localhost:8000/resource/Beyond_Bree_June_1985> a schema:Thing ;
+    tg:image "Beyond Bree June 1985.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:prev "May 1985"@en ;
+    tg:released <http://localhost:8000/resource/June_1985> .
+
+<http://localhost:8000/resource/Beyond_Bree_March_1981> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "April 1981"@en ;
+    tg:pages "3"@en ;
+    tg:released "March 1981"@en .
+
+<http://localhost:8000/resource/Beyond_Bree_March_1989> a schema:Thing ;
+    tg:image "Beyond Bree March 1989.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:released <http://localhost:8000/resource/March_1989> .
+
+<http://localhost:8000/resource/Beyond_Bree_May_1981> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "June 1981"@en ;
+    tg:pages "5"@en ;
+    tg:prev "April 1981"@en ;
+    tg:released "March 1981"@en .
+
+<http://localhost:8000/resource/Beyond_Bree_May_1985> a schema:Thing ;
+    tg:image "Beyond Bree May 1985.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:next "June 1985"@en ;
+    tg:released <http://localhost:8000/resource/May_1985> .
+
+<http://localhost:8000/resource/Beyond_Bree_October_1985> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/beyondbree> ;
+    tg:pages "11½"@en ;
+    tg:released <http://localhost:8000/resource/October_1985> .
+

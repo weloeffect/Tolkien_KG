@@ -1,0 +1,40 @@
+{{location infobox
+| name=Bay of Balar
+| image=Christopher Tolkien - Bay of Balar.jpg
+| caption=Map drawn by [[Christopher Tolkien]] showing the Bay of Balar
+| pronun=
+| othernames=
+| location=South of [[Arvernien]], off of [[Belegaer]]
+| type=Bay
+| description=Large bay including the [[Isle of Balar]]
+| regions=
+| towns=
+| inhabitants=[[Falathrim]]
+| created=
+| destroyed=
+| events=
+}}
+The '''Bay of Balar''' was a large ocean inlet of [[Belegaer]] south of [[Beleriand]], fed by the river [[Sirion]].  In the outer reaches of the bay was the [[Isle of Balar]].<ref>{{S|Map}}</ref>
+
+During the [[Battle of the Powers]], after the [[Awakening of the Elves]], the shape of [[Middle-earth]] was altered and the chief of the lesser bays between the [[Great Gulf]] and [[Helcaraxë]] was the Bay of Balar.<ref>{{S|Captivity}}</ref>
+
+When the hosts of the [[Vanyar]] and the [[Noldor]], led by [[Oromë]], reached the great ocean, [[Ulmo]] caused an island that had stood alone in the middle of the sea to move into the Bay of Balar. The Elves embarked upon the island, which was drawn across the waters to the shores of [[Aman]]. However, the eastern horn of the island separated from the main part and remained in the bay as the [[Isle of Balar]].<ref>{{S|Princes}}</ref>
+
+The name refers to the [[Valar]] (and Maiar), especially [[Ossë]], who was associated with continental shelf areas. In [[Telerin]] the name [[Valar]] was '''Balai''', and in [[Sindarin]] the form it took was eventually '''Bala'''.
+{{references}}
+{{navigation
+| title=Bay of Balar
+| north-west=[[Cape Balar]], [[Falas]]
+| north=[[Arvernien]], [[Nimbrethil]]
+| north-east=[[Mouths of Sirion]]
+| west=[[Belegaer]]
+| east=[[Taur-im-Duinath]]
+| south-west=[[Isle of Balar]]
+| south=[[Great Gulf]]
+| south-east=Taur-im-Duinath
+|}}
+
+[[Category:Bays]]
+[[Category:Beleriand]]
+[[de:Balar (Bucht)]]
+[[fi:Balarin Lahti]]

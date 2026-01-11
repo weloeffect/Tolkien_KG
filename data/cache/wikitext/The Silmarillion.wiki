@@ -1,0 +1,143 @@
+{{book
+| title=The Silmarillion
+| image = The Silmarillion 1977.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[George Allen and Unwin]]
+| publisherUS=[[Houghton Mifflin]]
+| date=[[15 September]] [[1977]]
+| format=Hardcover; paperback; deluxe-edition; audio-book
+| pages=365
+| isbn=0048231398
+| precededby=[[Letters from Father Christmas]] (1976)
+| followedby=[[The Inklings (book)|The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends]] (1978)
+| gallery=[[The Silmarillion/Publication history and gallery|Publication history and gallery]]
+}}
+<center>{{quote|The ''Silmarillion'' is the history of the War of the Exiled Elves against the Enemy, which all takes place in the North-west of the world (Middle-earth). Several tales of victory and tragedy are caught up in it; but it ends with catastrophe, and the passing of the Ancient World, the world of the long ''First Age''.|J.R.R. Tolkien in [[Letter 131]] to [[Milton Waldman]]}}</center>
+
+'''''The Silmarillion''''' is a book which is a collection of [[J.R.R. Tolkien]]'s works, edited and published posthumously by his son [[Christopher Tolkien]] and published in [[1977]], with assistance from fantasy fiction writer [[Guy Gavriel Kay]].
+
+It covers the history of the world of [[Arda]] from the birth of [[Eä]] to the end of the [[Third Age]]. The bulk of the book consists of the ''[[Quenta Silmarillion]]'', which is mainly concerned with the deeds of the [[Noldor]] and the tales of the [[First Age]] of [[Middle-earth]].
+
+==Contents==
+* Foreword
+* Preface to the Second Edition
+* [[Letter 131|From a Letter by J.R.R. Tolkien]]
+
+* Part I: '''[[Ainulindalë|''Ainulindalë'': The Music of the Ainur]]'''
+
+* Part II: '''[[Valaquenta|''Valaquenta'': Account of the Valar and Maiar according to the lore of the Eldar]]'''
+
+* Part III: '''[[Quenta Silmarillion|''Quenta Silmarillion'': The History of the Silmarils]]'''
+#"[[Of the Beginning of Days]]"
+# "[[Of Aulë and Yavanna]]"
+# "[[Of the Coming of the Elves and the Captivity of Melkor]]"
+# "[[Of Thingol and Melian]]"
+# "[[Of Eldamar and the Princes of the Eldalië]]"
+# "[[Of Fëanor and the Unchaining of Melkor]]"
+# "[[Of the Silmarils and the Unrest of the Noldor]]"
+# "[[Of the Darkening of Valinor]]"
+# "[[Of the Flight of the Noldor]]"
+# "[[Of the Sindar]]"
+# "[[Of the Sun and Moon and the Hiding of Valinor]]"
+# "[[Of Men]]"
+# "[[Of the Return of the Noldor]]"
+# "[[Of Beleriand and its Realms]]"
+# "[[Of the Noldor in Beleriand]]"
+# "[[Of Maeglin]]"
+# "[[Of the Coming of Men into the West]]"
+# "[[Of the Ruin of Beleriand and the Fall of Fingolfin]]"
+# "[[Of Beren and Lúthien]]"
+# "[[Of the Fifth Battle: Nirnaeth Arnoediad]]"
+# "[[Of Túrin Turambar]]"
+# "[[Of the Ruin of Doriath]]"
+# "[[Of Tuor and the Fall of Gondolin]]"
+# "[[Of the Voyage of Eärendil and the War of Wrath]]"
+
+* Part IV: '''[[Akallabêth|''Akallabêth'': The Downfall of Númenor]]'''
+
+* Part V: '''''[[Of the Rings of Power and the Third Age]]'''''
+
+* Tables
+** ''Genealogies''
+** ''The Sundering of the Elves''
+* Note on Pronunciation
+* Index of Names
+* Appendix: Elements in Quenya and Sindarin Names
+* [[Map of Beleriand and the Lands to the North|''Map of Beleriand'']]
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the title page, it reads:
+
+:"''The tales of the First Age when Morgoth dwelt in Middle-earth and the Elves made war upon him for the recovery of the [[Silmarils]] to which are appended the downfall of Númenor and the history of the [[Rings of Power]] and the Third Age in which these tales come to their end.''"
+
+==Overview==
+''The Silmarillion'' is supposedly (by some readers) translated from [[Bilbo]]'s three-volume ''[[Translations from the Elvish]]'', which he wrote while at [[Rivendell]].
+
+It consists of five parts. The first, ''[[Ainulindalë]]'', tells of the creation of [[Eä]], the ''World that Is''. The second part, ''[[Valaquenta]]'', gives a description of the [[Valar]] and [[Maiar]], powerful beings of Eä. The next section, ''[[Quenta Silmarillion]]'', which forms the bulk of the collection, chronicles the history of the events before and during the [[First Age]], including the wars over three jewels, the [[Silmarils]], that gave the book its title. The fourth part, ''[[Akallabêth]]'', relates the history of the [[Downfall of Númenor]] and its people, which takes place in the [[Second Age]]. The final part, ''[[Of the Rings of Power and the Third Age]]'', is a brief account of the circumstances which led to and were presented in ''The Lord of the Rings''.
+
+These five parts were initially separate works, but it was J.R.R. Tolkien's express wish that they be published together. Because Tolkien died before he could complete a full rewrite of the various legends, his son Christopher used material from his father's older drafts to fill out the book.
+
+The book explores a wide array of themes inspired by many ancient, medieval, and modern sources, including the Finnish epic ''[[Kalevala]]'', the Hebrew Bible, Norse sagas, Greek mythology, Celtic mythology, and [[World War I]]. For instance the [[Valar]], the angelic beings of Ëa, mirror the Olympian Gods of Greek Myth. The archaic style and ''gravitas'' of the ''Ainulindalë'' resembles that of the Old Testament. The island civilization of [[Númenor]] is reminiscent of [[Wikipedia:Atlantis|Atlantis]] — one of the names Tolkien gave that land was ''Atalantë'', although he gave it an [[Elvish]] etymology.
+
+==Etymology==
+''Silmarillion'' is [[Quenya]] plural genitive of the word "Silmaril", therefore it means "of the Silmarils". 
+
+It could be either a contraction of the full title ''Quenta Silmarillion'' ("Tale of the Silmarils") or also a plain Genitive which (as in Ancient Greek) signifies reference. This genitive is translated in English with "about" or "of" constructions; the titles of the chapters in ''The Silmarillion'' are examples of this genitive in poetic English (''Of'' the Sindar, ''Of'' Men, ''Of'' the Darkening of Valinor etc), where "of" means "about" or "concerning". In the same way, ''Silmarillion'' can be taken to mean "Of/About the Silmarils".{{fact}}
+
+==History of composition==
+The earliest drafts of ''The Silmarillion'' date back to as early as 1925, when Tolkien wrote a '[[Sketch of the Mythology]]'. However, the concepts for characters, themes, and specific stories were developed starting in 1917 when Tolkien, then a British officer stationed in France during [[World War I]] was laid up in a military field hospital with trench fever. At the time, he called his collection of nascent stories ''[[The Book of Lost Tales]]''. These stories comprised an English mythology intended to explain the origins of English history and culture (as Greek mythology explains the origins of Greek history and culture).
+
+Tolkien admitted that elements from that work "infiltrated" to anything he was writing, even the ''[[Roverandom]]'' and [[the Father Christmas Letters]],<ref name=rc>{{HM|RC}}, p. lxxii</ref> While writing ''[[The Hobbit]]'', although he didn't intend it to be part of his [[legendarium]], he borrowed [[Elrond]] and a reference to [[Gondolin]], and "its shadow was deep on the later parts". The legendarium "was kept out of ''[[Farmer Giles of Ham|Farmer Giles]]'' with an effort".<ref>{{FR|Foreword|50}}, p. 22</ref><ref name=L124>{{L|124}}</ref>
+
+Many years after the war, encouraged by the success of ''[[The Hobbit]]'', Tolkien submitted an incomplete but more fully developed version (see: [[Quenta Silmarillion (Lost Road)]]) to [[Allen and Unwin]], but they rejected the work as being obscure and "too Celtic".  The publisher instead asked Tolkien to write a sequel to ''The Hobbit'', which became his significant novel ''The Lord of the Rings''. 
+
+But Tolkien never fully abandoned ''The Silmarillion'' which he regarded as the most important of his works, seeing in its tales the genesis of [[Middle-earth]] and later events as told in ''The Hobbit'' and ''The Lord of the Rings''. The influence was too big while writing, and as he said in the Foreword, "the story was drawn irresistibly towards the older world"; while starting as a sequel of ''The Hobbit'', ''The Lord of the Rings'' became the continuation and ''completion'' of his legendarium.<ref name=L124/>
+
+He renewed work on ''The Silmarillion'' after completing ''The Lord of the Rings'', when he greatly desired to publish the two works together. But when it became clear that would not be possible, Tolkien turned his full attention back to preparing ''The Lord of the Rings'' for publication.
+
+In the late 1950s he again began work on ''The Silmarillion'', but much of his writing from this time is concerned not as much with the narratives themselves as with the theological and philosophical underpinnings of the work. During this time he wrote extensively on such topics as the nature of evil in Arda, the origin of Orcs, the customs of the Elves, the nature and means of Elvish rebirth, and the "flat" world and the myth of the Sun. Serious doubts had entered about some of the fundamental aspects of the work that had gone back to the earliest versions of the stories, and it seems that he felt the need to solve these problems before he could produce the "final" version of ''The Silmarillion''. In any event, with one or two exceptions, he never did much work on the narratives in the remaining years of his life.
+
+===Posthumous editions===
+For several years after his father's death, Christopher Tolkien compiled a ''Silmarillion'' narrative. Christopher's intentions seem to have been mostly to use the latest writings of his father's that he could, and to keep as much internal consistency (and consistency with ''The Lord of the Rings'') as possible. As explained in ''[[The History of Middle-earth]]'', Christopher drew upon numerous sources for his narrative, relying on post-LoTR works where possible, but ultimately reaching back as far as the 1917 ''Book of Lost Tales'' to fill in portions of the narrative which his father had planned to write but never addressed. In later chapters of the "Quenta Silmarillion" which had not been touched since the early 1930s he had to construct a narrative practically from scratch, with the assitance of [[Guy Gavriel Kay]]. The final result, which included genealogies, maps, an index and the first-ever released Elvish word list was published in 1977.
+
+Due to Christopher's extensive explanations (in ''[[The History of Middle-earth]]'') of how he compiled the published work, much of ''The Silmarillion'' has been debated by the hardcore fans. Christopher's task is generally accepted as very difficult given the state of his father's texts at the time of his death: some critical texts were no longer in the Tolkien family's possession, and Christopher's task compelled him to rush through much of the material. Christopher reveals in later volumes of ''The History of Middle-earth'' many divergent ideas which do not agree with the published version. Christopher Tolkien has suggested that, had he taken more time and had access to all the texts, he might have produced a substantially different work. But he was compelled by considerable pressure and demand from his father's readers and publishers to produce something publishable as quickly as possible.
+
+In October 1996, Christopher Tolkien commissioned illustrator [[Ted Nasmith]] to create full-page full-colour artwork for the first illustrated edition of ''The Silmarillion''. It was published in 1998, and followed in 2004 by a second edition (ISBN 0618391118) featuring corrections and additional artwork by Nasmith.
+
+During the 1980s and 1990s, Christopher Tolkien published most of his father's Middle-Earth-related writings as the 12-volume ''The History of Middle-earth'' series.
+
+In addition to the source material and earlier drafts of several portions of ''The Lord of the Rings'', these books greatly expand on the original material published in ''The Silmarillion'', and in many cases diverge from it. There is much that Tolkien intended to revise but only sketched out in notes, and some new texts surfaced after the publication of ''The Silmarillion''.
+
+==Publication history and gallery==
+:''Please see [[The Silmarillion/Publication history and gallery|Publication history and gallery]].''
+
+==See also==
+* ''[[Unfinished Tales]]''
+* ''[[The History of Middle-earth]]'' series
+* [[:Category:Images from The Silmarillion|Images from ''The Silmarillion'']], illustrated by [[Ted Nasmith]]
+
+==External links==
+*[http://www.silmarillionwritersguild.org/reference/silmsummaries/home.php ''Silmarillion'' chapter summaries]
+*[http://middle-earth.xenite.org/2014/08/26/is-there-a-definitive-edition-or-printing-of-the-silmarillion/ Is There a Definitive Edition or Printing of ''The Silmarillion''?] by [[Michael Martinez]]
+*[http://digitaltolkien.com/2019/09/02/silmarillion-textual-variants-in-print-part-one.html Silmarillion Textual Variants in Print] by [[James Tauber]]
+
+;Reviews
+* [https://archive.nytimes.com/www.nytimes.com/books/01/02/11/specials/tolkien-silmarillion.html?module=inline ''New York Times'' Review]
+* [http://archive.thetablet.co.uk/article/24th-september-1977/9/discovering-new-worlds-the-sihnariffion-j-r-r-tolk Discovering new worlds The Simarillion J. R. R. Tolkien, ''The Tablet'' Review]
+*[http://news.google.com/newspapers?id=cuQyAAAAIBAJ&sjid=9e0FAAAAIBAJ&hl=pt-PT&pg=1105%2C1530763 Review] by [[William Ready]]
+
+{{references}}
+{{IllustratorsSilmarillion}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Silmarillion}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+[[Category:The Silmarillion| ]]
+[[de:Das Silmarillion]]
+[[fr:tolkien/biblio/silm]]
+[[fi:Silmarillion]]

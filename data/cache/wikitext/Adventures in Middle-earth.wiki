@@ -1,0 +1,35 @@
+{{Board game infobox
+| name=Adventures in Middle-earth
+| image=
+| caption=
+| type=rpg
+| designer=
+| publisher=[[Cubicle 7 Entertainment|Cubicle 7]]
+| releasedate=[[2016]]
+| players=
+| ages=
+}}
+'''''Adventures in Middle-earth''''' is a role-playing game that had been published by [[Cubicle 7 Entertainment]] between late 2016<ref name="Announce">{{webcite|author=|articleurl=http://cubicle7.co.uk/ogl-omg-adventures-in-middle-earth-coming-soon/|articlename=OGL OMG - Adventures in Middle-earth coming soon|dated=27 July 2016|website=[http://cubicle7.co.uk/ cubicle7.co.uk]|accessed=27 July 2016}}</ref> and the first half of 2020.<ref name="TORE">[https://www.cubicle7games.com/unexpected-tor2-update Unexpected The One Ring 2 Update]</ref> 
+
+==Game system==
+
+''Adventures in Middle-earth'' uses the Open-Gaming License (OGL) 5th edition ''[[Dungeons and Dragons|Dungeons & Dragons]]'' rules, specifically adapted for role-playing in [[Middle-earth]].<ref name="Announce" />
+
+==Supplements==
+
+*[[2016]]: ''[[Adventures in Middle-earth Player's Guide]]''
+*[[2016]]: ''[[Adventures in Middle-earth Loremaster’s Guide]]''
+*[[2017]]: ''[[Adventures in Middle-earth Wilderland Adventures]]''
+*[[2017]]: ''[[Adventures in Middle-earth The Road Goes Ever On]]''
+*[[2017]]: ''[[Adventures in Middle-earth Eaves of Mirkwood]]''
+*[[2017]]: ''[[Adventures in Middle-earth The Mirkwood Campaign]]''
+*[[2017]]: ''[[Adventures in Middle-earth Rhovanion Region Guide]]''
+*[[2018]]: ''[[Adventures in Middle-earth Eriador Adventures]]''
+*[[2018]]: ''[[Adventures in Middle-earth Rivendell Region Guide]]''
+*[[2019]]: ''[[Adventures in Middle-earth Rohan Region Guide]]''
+*[[2019]]: ''[[Adventures in Middle-earth Erebor Adventures]]''
+*[[2019]]: ''[[Adventures in Middle-earth Lonely Mountain Region Guide]]''
+{{references}}
+{{rpg}}
+{{title}}
+[[Category:Role playing games]]

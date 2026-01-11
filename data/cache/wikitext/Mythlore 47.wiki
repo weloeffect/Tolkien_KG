@@ -1,0 +1,47 @@
+{{mythlore
+|title=''Mythlore'' 47, Volume 13, Issue 1
+| image = Mythlore 47.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Autumn [[1986]]
+|format=Paperback
+|pages=63
+}}
+'''''Mythlore'' 47''' ([https://dc.swosu.edu/mythlore/vol13/iss1/ Volume 13, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]]. The issue includes a subject index to the ''[[Tolkien Journal]]''.
+== Contents==
+
+==== Articles ====
+
+* Reynolds, George. “Dante and Williams: Pilgrims in Purgatory.”
+* Patterson, Nancy-Lou. “‘Some Kind of Company’: The Sacred Community in That Hideous Strength.”
+* Hargrove, Gene. “Who is Tom Bombadil?”
+* Farrell, Eleanor. “The Epic Hero and Society: Cuchulainn, Beowulf, and Roland.”
+* An Interview with Jane Yolen
+* Lutton, Jeannette Hume. “The Feast of Reason: Out of the Silent Planet as The Book of Hnau.”
+* Thompson, George H. “Early Review of Books by J.R.R. Tolkien: Part VI – VIII.”
+
+==== Features ====
+
+* GoodKnight, Glen H. Editor's Notes.
+* Reynolds, Trevor. Subject Index to The Tolkien Journal.
+* Christopher, Joe R. An Inklings Bibliography (30).
+* Beach, Sarah. “Mythopoesis.”
+* Hyde, Paul Nolan. “Quenti Lambardillion.”
+* Kondratiev, Alexei. “Tales Newly Told.”
+
+==== Reviews ====
+
+* ''The Politics of Fantasy: C.S. Lewis and J.R.R. Tolkien.'' Lee D. Rossi. Reviewed by David Bratman.
+* ''Shadowlands: The Story of C.S. Lewis and Joy Davidman.'' Brian Sibley. Reviewed by Nancy-Lou Patterson.
+* ''The Silver Trumpet.'' Owen Barfield. Reviewed by Nancy-Lou Patterson.
+* ''The Grand Miracle and Other Essays on Theology and Ethics from God in the Dock.'' C.S. Lewis. Reviewed by Nancy-Lou Patterson.
+* ''First and Second Things: Essays on Theology and Ethics.'' C.S. Lewis. Reviewed by Nancy-Lou Patterson.
+* ''The Art of G.K. Chesterton.'' Alzina Stone Dale. Reviewed by Nancy-Lou Patterson.
+* ''The Lord Peter Wimsey Companion.'' Stephan P. Clarke. Reviewed by Nancy-Lou Patterson.
+* ''The Great Mouse Detective.'' A Walt Disney animated film. Reviewed by Benjamin Urrutia.
+{{mythlorenav|46|48}}
+{{title|journal}}
+
+{{DEFAULTSORT:Mythlore 047}}
+
+[[Category:Mythlore]]

@@ -1,0 +1,15 @@
+{{letter infobox
+| #=288
+| to=[[Norman Davis]]
+| date=[[10 May]] [[1966]]
+| subject=[[:File:J.R.R. Tolkien's bust at Exeter.jpg|Commemorative Bust]]
+}}{{letter|288}}
+==Summary==
+Tolkien wrote to [[Norman Davis]] of [[Oxford University]] concerning a [[:File:J.R.R. Tolkien's bust at Exeter.jpg|bust]] of Tolkien, due to be presented to the Faculty of English Library. It was made by [[Faith Faulconbridge|Faith]], [[Christopher Tolkien]]'s (first) wife. Because Tolkien himself had his doubts about the durability of plaster, he offered to let it be set in bronze at his own expense. 
+
+==Notes==
+* The bust was bronzed and presented to the [[University of Oxford|Oxford]] English Faculty in [[1966]]. It is still on display in the English Faculty Library.
+
+{{letters}}
+[[Category:Letters to Norman Davis]]
+[[de:Brief 288]]

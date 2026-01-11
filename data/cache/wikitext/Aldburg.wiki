@@ -1,0 +1,38 @@
+{{location infobox
+| name=Aldburg
+| image=Steamey - Theoden in the Aldburg, Eastfold.jpg
+| caption="Theoden in the Aldburg, Eastfold" by [[:Category:Images by Steamey|Steamey]]
+| pronun=
+| othernames=
+| location=The [[Folde]], [[Rohan]]
+| type=Town
+| description=
+| regions=
+| towns=
+| inhabitants=[[Rohirrim]]
+| created=c. 26th century of the [[Third Age]]
+| destroyed=
+| events=
+}}
+'''Aldburg''' was a fortified town in [[Rohan]], situated on a green hill at the feet of the [[White Mountains]]<ref name="Eorl">{{App|Eorl}}, p. 1064. Though no name was given to this dwelling.</ref> in the region known as the [[Folde]].<ref name="UT">{{UT|11b}}, second paragraph and second footnote</ref> Originally the first capital of the kingdom of Rohan, it later became the base of the [[Third Marshal of the Riddermark]] and the Muster of the [[East-mark]].<ref name="UT" />
+
+==History==
+Aldburg was built by [[Eorl]] after Rohan had been granted to the [[Rohirrim]] by [[Stewards of Gondor|Steward]] [[Cirion]] of [[Gondor]].<ref name="Eorl" /> After Brego, son of Eorl, moved the capital to [[Edoras]], the lordship of Aldburg passed to his third son, [[Eofor]].  At the time of the [[War of the Ring]], Aldburg was the home of King [[Théoden]]'s nephew, [[Éomer|Éomer,]] who was Third Marshal of the Riddermark, and son of [[Éomund]], who claimed descent from Eofor.<ref name="UT" />
+
+==Etymology==
+''Aldburg'' is an [[Old English]] word meaning "Old Fortress".<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=http://www.bosworthtoller.com/001419|articlename=ald|accessed=26 June 2015}}</ref><ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=http://www.bosworthtoller.com/041108|articlename=burg|accessed=26 June 2015}}</ref>
+
+==Portrayals in Adaptations==
+[[File:The Lord of the Rings Online - Aldburg.jpg|thumb|left|Aldburg in ''[[The Lord of the Rings Online]]'']]
+'''2013: ''[[The Lord of the Rings Online]]'''''
+:Aldburg is the capital town of the [[Eastfold]], ruled by Éomer in times of peace. After Éomer departed for war, the defence of Aldburg fell to his steward Arcil, who often  disagreed with Éomer's cousin, [[Éothain]].
+
+Aldburg serves as the in-game "capital settlement" of the West Rohan region, functioning as the hub for swift travel and player activities after [[Edoras]] is evacuated early in the game and its inhabitants move to [[Dunharrow]].
+
+{{references}}
+[[Category:Cities, towns and villages]]
+[[Category:Old English names]]
+[[Category:Rohan]]
+[[de:Aldburg]]
+[[fr:encyclo:geographie:villes tours et forteresses:rohan:aldburg]]
+[[fi:Vanhalinna]]

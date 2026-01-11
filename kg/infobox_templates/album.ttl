@@ -1,0 +1,591 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Long-Expected_Soundscape> a schema:WebPage ;
+    rdfs:label "A Long-Expected Soundscape"@en ;
+    schema:about <http://localhost:8000/resource/A_Long-Expected_Soundscape> .
+
+<http://localhost:8000/page/A_Night_in_Rivendell> a schema:WebPage ;
+    rdfs:label "A Night in Rivendell"@en ;
+    schema:about <http://localhost:8000/resource/A_Night_in_Rivendell> .
+
+<http://localhost:8000/page/A_Tale_of_Tales> a schema:WebPage ;
+    rdfs:label "A Tale of Tales"@en ;
+    schema:about <http://localhost:8000/resource/A_Tale_of_Tales> .
+
+<http://localhost:8000/page/Akallab%C3%AAth_and_other_Tolkien_works_%28album%29> a schema:WebPage ;
+    rdfs:label "Akallabêth and other Tolkien works (album)"@en ;
+    schema:about <http://localhost:8000/resource/Akallab%C3%AAth_and_other_Tolkien_works_%28album%29> .
+
+<http://localhost:8000/page/An_Evening_in_Rivendell> a schema:WebPage ;
+    rdfs:label "An Evening in Rivendell"@en ;
+    schema:about <http://localhost:8000/resource/An_Evening_in_Rivendell> .
+
+<http://localhost:8000/page/At_Dawn_in_Rivendell> a schema:WebPage ;
+    rdfs:label "At Dawn in Rivendell"@en ;
+    schema:about <http://localhost:8000/resource/At_Dawn_in_Rivendell> .
+
+<http://localhost:8000/page/Beyond_the_Western_Seas> a schema:WebPage ;
+    rdfs:label "Beyond the Western Seas"@en ;
+    schema:about <http://localhost:8000/resource/Beyond_the_Western_Seas> .
+
+<http://localhost:8000/page/Book_Of_Lore_-_Vol._I> a schema:WebPage ;
+    rdfs:label "Book Of Lore - Vol. I"@en ;
+    schema:about <http://localhost:8000/resource/Book_Of_Lore_-_Vol._I> .
+
+<http://localhost:8000/page/Complete_Songs_and_Poems> a schema:WebPage ;
+    rdfs:label "Complete Songs and Poems"@en ;
+    schema:about <http://localhost:8000/resource/Complete_Songs_and_Poems> .
+
+<http://localhost:8000/page/Dol_Guldur_%28album%29> a schema:WebPage ;
+    rdfs:label "Dol Guldur (album)"@en ;
+    schema:about <http://localhost:8000/resource/Dol_Guldur_%28album%29> .
+
+<http://localhost:8000/page/I_See_Fire> a schema:WebPage ;
+    rdfs:label "I See Fire"@en ;
+    schema:about <http://localhost:8000/resource/I_See_Fire> .
+
+<http://localhost:8000/page/Leaving_Rivendell> a schema:WebPage ;
+    rdfs:label "Leaving Rivendell"@en ;
+    schema:about <http://localhost:8000/resource/Leaving_Rivendell> .
+
+<http://localhost:8000/page/Let_Mortal_Heroes_Sing_Your_Fame> a schema:WebPage ;
+    rdfs:label "Let Mortal Heroes Sing Your Fame"@en ;
+    schema:about <http://localhost:8000/resource/Let_Mortal_Heroes_Sing_Your_Fame> .
+
+<http://localhost:8000/page/Lugburz_%28album%29> a schema:WebPage ;
+    rdfs:label "Lugburz (album)"@en ;
+    schema:about <http://localhost:8000/resource/Lugburz_%28album%29> .
+
+<http://localhost:8000/page/Minas_Morgul_%28album%29> a schema:WebPage ;
+    rdfs:label "Minas Morgul (album)"@en ;
+    schema:about <http://localhost:8000/resource/Minas_Morgul_%28album%29> .
+
+<http://localhost:8000/page/Nightfall_in_Middle-Earth> a schema:WebPage ;
+    rdfs:label "Nightfall in Middle-Earth"@en ;
+    schema:about <http://localhost:8000/resource/Nightfall_in_Middle-Earth> .
+
+<http://localhost:8000/page/Nightshade_Forests_%28album%29> a schema:WebPage ;
+    rdfs:label "Nightshade Forests (album)"@en ;
+    schema:about <http://localhost:8000/resource/Nightshade_Forests_%28album%29> .
+
+<http://localhost:8000/page/Song_of_the_Lonely_Mountain> a schema:WebPage ;
+    rdfs:label "Song of the Lonely Mountain"@en ;
+    schema:about <http://localhost:8000/resource/Song_of_the_Lonely_Mountain> .
+
+<http://localhost:8000/page/Stronghold> a schema:WebPage ;
+    rdfs:label "Stronghold"@en ;
+    schema:about <http://localhost:8000/resource/Stronghold> .
+
+<http://localhost:8000/page/The_Best_of_The_Tolkien_Ensemble> a schema:WebPage ;
+    rdfs:label "The Best of The Tolkien Ensemble"@en ;
+    schema:about <http://localhost:8000/resource/The_Best_of_The_Tolkien_Ensemble> .
+
+<http://localhost:8000/page/The_Hidden_Door%3A_Songs_in_the_Key_of_Enchantment> a schema:WebPage ;
+    rdfs:label "The Hidden Door: Songs in the Key of Enchantment"@en ;
+    schema:about <http://localhost:8000/resource/The_Hidden_Door%3A_Songs_in_the_Key_of_Enchantment> .
+
+<http://localhost:8000/page/The_Hobbit%3A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Hobbit%3A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> a schema:WebPage ;
+    rdfs:label "The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> .
+
+<http://localhost:8000/page/The_Hobbit%3A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Hobbit%3A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> a schema:WebPage ;
+    rdfs:label "The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> .
+
+<http://localhost:8000/page/The_Hobbit%3A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Hobbit%3A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> a schema:WebPage ;
+    rdfs:label "The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit%3A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Rarities_Archive> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Rarities Archive"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rarities_Archive> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_The_Complete_Recordings> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Return of the King - The Complete Recordings"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_The_Complete_Recordings> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Rings_of_Power_%28Season_One%3A_Amazon_Original_Series_Soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power_%28Season_One%3A_Amazon_Original_Series_Soundtrack%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Rings_of_Power_%28Season_Two%3A_Amazon_Original_Series_Soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Rings of Power (Season Two: Amazon Original Series Soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power_%28Season_Two%3A_Amazon_Original_Series_Soundtrack%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Two_Towers_-_The_Complete_Recordings> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Two Towers - The Complete Recordings"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_-_The_Complete_Recordings> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings - Original Motion Picture Soundtrack"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Online%3A_Mines_of_Moria_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Online: Mines of Moria (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Mines_of_Moria_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Online%3A_Shadows_of_Angmar_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Online: Shadows of Angmar (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Shadows_of_Angmar_%28soundtrack%29> .
+
+<http://localhost:8000/page/The_Return_of_the_King%3A_A_Story_of_the_Hobbits> a schema:WebPage ;
+    rdfs:label "The Return of the King: A Story of the Hobbits"@en ;
+    schema:about <http://localhost:8000/resource/The_Return_of_the_King%3A_A_Story_of_the_Hobbits> .
+
+<http://localhost:8000/resource/A_Long-Expected_Soundscape> a schema:Thing ;
+    tg:artist "A Long-Expected Soundscape"@en ;
+    tg:image "A Long-Expected Soundscape.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:language "English"@en ;
+    tg:length "200+ hours"@en ;
+    tg:released <http://localhost:8000/resource/2022_-_2023> ;
+    tg:title "''A Long-Expected Soundscape''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/A_Night_in_Rivendell> a schema:Thing ;
+    tg:artist "Tolkien Ensemble"@en ;
+    tg:genre "Classical"@en ;
+    tg:image "A Night in Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "ClassicO"@en ;
+    tg:length "54:16"@en ;
+    tg:released <http://localhost:8000/resource/2000> ;
+    tg:title "An Evening in Rivendell"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/A_Tale_of_Tales> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/InfuseR> ;
+    tg:genre "Modern epic metal, Symphonic metal, Power metal"@en ;
+    tg:image "InfuseR - A Tale Of Tales label.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Independent"@en ;
+    tg:language "English"@en ;
+    tg:length "52 mins"@en ;
+    tg:recorded "February 2024 - September 2025"@en ;
+    tg:released "1 November 2025"@en ;
+    tg:title "A Tale of Tales"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Akallab%C3%AAth_and_other_Tolkien_works_%28album%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Paul_Corfield_Godfrey> ;
+    tg:genre "Classical"@en ;
+    tg:image "Akallabeth CD cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "[https://ascrecords.com/primafacie/ Prima Facie]"@en ;
+    tg:language "English"@en ;
+    tg:released "2017"@en ;
+    tg:title "Akallabêth and other Tolkien works"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/An_Evening_in_Rivendell> a schema:Thing ;
+    tg:artist "Tolkien Ensemble"@en ;
+    tg:genre "Classical"@en ;
+    tg:image "An Evening in Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "ClassicO"@en ;
+    tg:length "67:49"@en ;
+    tg:released <http://localhost:8000/resource/1997> ;
+    tg:title "An Evening in Rivendell"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/At_Dawn_in_Rivendell> a schema:Thing ;
+    tg:artist "Tolkien Ensemble"@en ;
+    tg:genre "Classical"@en ;
+    tg:image "At Dawn in Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Decca"@en ;
+    tg:released <http://localhost:8000/resource/2003> ;
+    tg:title "At Dawn in Rivendell"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Beyond_the_Western_Seas> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/%3Cbr%3EThe_Lonely_Mountain_Band> ;
+    tg:genre "Folk"@en ;
+    tg:image "Beyond the Western Seas.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/22_September> ;
+    tg:title "Beyond the Western Seas"@en ;
+    tg:type "studio album"@en .
+
+<http://localhost:8000/resource/Book_Of_Lore_-_Vol._I> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Lord_Lovidicus> ;
+    tg:genre "Dungeon Synth"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:language "In"@en ;
+    tg:length "01:02:35"@en ;
+    tg:released <http://localhost:8000/resource/3_June_2015> ;
+    tg:title "Book Of Lore - Vol. I"@en .
+
+<http://localhost:8000/resource/Complete_Songs_and_Poems> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Tolkien_Ensemble> ;
+    tg:genre "Classical"@en ;
+    tg:image "Complete Songs and Poems.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Membran"@en ;
+    tg:released <http://localhost:8000/resource/2006> ;
+    tg:title "Complete Songs and Poems"@en ;
+    tg:type "Compilation album"@en .
+
+<http://localhost:8000/resource/Dol_Guldur_%28album%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Summoning> ;
+    tg:genre "Black Metal"@en ;
+    tg:image "DolGuldur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Napalm Records"@en ;
+    tg:language "English"@en ;
+    tg:length "01:08:44"@en ;
+    tg:recorded <http://localhost:8000/resource/23_October_1996> ;
+    tg:released <http://localhost:8000/resource/17_January_1997> ;
+    tg:title "Dol Guldur"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/I_See_Fire> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ed_Sheeran> ;
+    tg:image "Ed Sheeran.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:length "5:00"@en ;
+    tg:released <http://localhost:8000/resource/5_November%2C_2013> ;
+    tg:title "I See Fire"@en ;
+    tg:type "Song"@en .
+
+<http://localhost:8000/resource/Leaving_Rivendell> a schema:Thing ;
+    tg:artist "Tolkien Ensemble"@en ;
+    tg:genre "Classical"@en ;
+    tg:image "Leaving Rivendell album cover.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:length "69:00"@en ;
+    tg:released <http://localhost:8000/resource/2005> ;
+    tg:title "Leaving Rivendell"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Let_Mortal_Heroes_Sing_Your_Fame> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Summoning> ;
+    tg:genre "Black Metal"@en ;
+    tg:image "letmortal.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Napalm Records"@en ;
+    tg:language <http://localhost:8000/resource/English%2C_Black_Speech> ;
+    tg:length "56:23"@en ;
+    tg:released <http://localhost:8000/resource/31_October_2001> ;
+    tg:title "Let Mortal Heroes Sing Your Fame"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Lugburz_%28album%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Summoning> ;
+    tg:genre "Black Metal"@en ;
+    tg:image "Lugburz.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Napalm Records"@en ;
+    tg:language "English"@en ;
+    tg:length "50:44"@en ;
+    tg:released <http://localhost:8000/resource/20_March_1995> ;
+    tg:title "Lugburz"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Minas_Morgul_%28album%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Summoning> ;
+    tg:genre "Black Metal"@en ;
+    tg:image "Summoning Minas Morgul.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Napalm Records"@en ;
+    tg:language "English"@en ;
+    tg:length "01:07:49"@en ;
+    tg:released <http://localhost:8000/resource/1_October_1995> ;
+    tg:title "Minas Morgul"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Nightfall_in_Middle-Earth> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Blind_Guardian> ;
+    tg:genre "Metal"@en ;
+    tg:image "Blind guardian nightfall cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Virgin/Century Media"@en ;
+    tg:language "English"@en ;
+    tg:length "65:29"@en ;
+    tg:recorded "July 1997 – January 1998"@en ;
+    tg:released "28 April 1998"@en ;
+    tg:title "Nightfall in Middle-Earth"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/Nightshade_Forests_%28album%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Summoning> ;
+    tg:genre "Black metal"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Napalm Records"@en ;
+    tg:language "English"@en ;
+    tg:length "33:44"@en ;
+    tg:released <http://localhost:8000/resource/3_June_1997> ;
+    tg:title "Nightshade Forests"@en ;
+    tg:type "EP"@en .
+
+<http://localhost:8000/resource/Song_of_the_Lonely_Mountain> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore_and_Neil_Finn> ;
+    tg:image "Neil Finn.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:length "Standard version: 4:09<br/>Extended version: 6:01"@en ;
+    tg:released <http://localhost:8000/resource/12_November%2C_2012> ;
+    tg:title "Song of the Lonely Mountain"@en ;
+    tg:type "Song"@en .
+
+<http://localhost:8000/resource/Stronghold> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Summoning> ;
+    tg:genre "Black Metal"@en ;
+    tg:image "Stronghold.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Napalm Records"@en ;
+    tg:language "English"@en ;
+    tg:length "01:04:20"@en ;
+    tg:released <http://localhost:8000/resource/11_May_1999> ;
+    tg:title "Stronghold"@en ;
+    tg:type "Studio album"@en .
+
+<http://localhost:8000/resource/The_Best_of_The_Tolkien_Ensemble> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Tolkien_Ensemble> ;
+    tg:image "The Best of The Tolkien Ensemble.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Olufsen Records"@en ;
+    tg:released <http://localhost:8000/resource/2008> ;
+    tg:title "The Best of The Tolkien Ensemble"@en ;
+    tg:type "Compilation album"@en .
+
+<http://localhost:8000/resource/The_Hidden_Door%3A_Songs_in_the_Key_of_Enchantment> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/%3Cbr%3ETed_Nasmith> ;
+    tg:genre "Folk"@en ;
+    tg:image "The Hidden Door - Songs in the Key of Enchantment.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/2007> ;
+    tg:title "The Hidden Door: Songs in the Key of Enchantment"@en ;
+    tg:type "studio album"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Hobbit - An Unexpected Journey - Original Motion Picture Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/11_December%2C_2012> ;
+    tg:title "''The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_An_Unexpected_Journey_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Hobbit - An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/11_December%2C_2012> ;
+    tg:title "''The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Hobbit - The Battle of the Five Armies - Original Motion Picture Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/9_December%2C_2014> ;
+    tg:title "''The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Hobbit - The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/9_December%2C_2014> ;
+    tg:title "''The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Hobbit - The Desolation of Smaug - Original Motion Picture Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/10_December%2C_2013%3Cref_name%3D%22Watertower%22%3E%7B%7Bwebcite> ;
+    tg:title "''The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Hobbit%3A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Hobbit - The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AWaterTower_Music> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/9_December%2C_2013> ;
+    tg:title "''The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Original Motion Picture Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AReprise_Records> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/20_November%2C_2001> ;
+    tg:title "''The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture song''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - The Complete Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AReprise_Records> ;
+    tg:language "English"@en ;
+    tg:length "180:35"@en ;
+    tg:released <http://localhost:8000/resource/13_December%2C_2005> ;
+    tg:title "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rarities_Archive> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The_Rarities_Archive.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label "Howe Records"@en ;
+    tg:language "English"@en ;
+    tg:length "79:25"@en ;
+    tg:released <http://localhost:8000/resource/September_28%2C_2010> ;
+    tg:title "The Lord of the Rings: The Rarities Archive"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Lord of the Rings - The Return of the King - Original Motion Picture Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AReprise_Records> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/25_November%2C_2003> ;
+    tg:title "''The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Return_of_the_King_-_The_Complete_Recordings> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Lord of the Rings - The Return of the King - The Complete Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AReprise_Records> ;
+    tg:language "English"@en ;
+    tg:length "229:17"@en ;
+    tg:released <http://localhost:8000/resource/20_November%2C_2007> ;
+    tg:title "The Lord of the Rings: The Return of the King - The Complete Recordings"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power_%28Season_One%3A_Amazon_Original_Series_Soundtrack%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Bear_McCreary> ;
+    tg:image "The_Lord_of_the_Rings_-_The_Rings_of_Power_(Season_One_-_Amazon_Original_Series_Soundtrack).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:length "156 minutes"@en ;
+    tg:released <http://localhost:8000/resource/19_August%2C_2022> ;
+    tg:title "The Lord of the Rings: The Rings of Power<br>(Season One: Amazon Original Series Soundtrack)"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Rings_of_Power_%28Season_Two%3A_Amazon_Original_Series_Soundtrack%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Bear_McCreary> ;
+    tg:image "Rings of Power Season 2 Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:released <http://localhost:8000/resource/23_August%2C_2024> ;
+    tg:title "The Lord of the Rings: The Rings of Power<br>(Season Two: Amazon Original Series Soundtrack)"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Lord of the Rings - The Two Towers - Original Motion Picture Soundtrack.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AReprise_Records> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/10_December_2002> ;
+    tg:title "''The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers_-_The_Complete_Recordings> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Howard_Shore> ;
+    tg:image "The Lord of the Rings - The Two Towers - The Complete Recordings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AReprise_Records> ;
+    tg:language "English"@en ;
+    tg:length "188:13"@en ;
+    tg:released <http://localhost:8000/resource/7_November%2C_2006> ;
+    tg:title "The Lord of the Rings: The Two Towers - The Complete Recordings"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Leonard_Rosenman> ;
+    tg:image "The Lord Of The Rings (Original Motion Picture Soundtrack).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Wikipedia%3AIntrada_Records> ;
+    tg:language "English"@en ;
+    tg:released <http://localhost:8000/resource/1978> ;
+    tg:title "''The Lord Of The Rings (Original Motion Picture Soundtrack)''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Mines_of_Moria_%28soundtrack%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/%3Cbr%3EChance_Thomas%3Cbr%3EStephen_DiGregorio> ;
+    tg:genre "instrumental"@en ;
+    tg:image "Mines of Moria (soundtrack).png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Turbine> ;
+    tg:language "English"@en ;
+    tg:length "1:01:30"@en ;
+    tg:released <http://localhost:8000/resource/17_November%2C_2008> ;
+    tg:title "''The Lord of the Rings Online: Mines of Moria''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Online%3A_Shadows_of_Angmar_%28soundtrack%29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Chance_Thomas> ;
+    tg:genre "instrumental"@en ;
+    tg:image "Shadows of Angmar (soundtrack).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Turbine> ;
+    tg:language "English"@en ;
+    tg:length "45:35"@en ;
+    tg:released <http://localhost:8000/resource/24_April%2C_2007> ;
+    tg:title "''The Lord of the Rings Online: Shadows of Angmar''"@en ;
+    tg:type "Soundtrack"@en .
+
+<http://localhost:8000/resource/The_Return_of_the_King%3A_A_Story_of_the_Hobbits> a schema:Thing ;
+    tg:artist "Various"@en ;
+    tg:genre "Soundtrack"@en ;
+    tg:image "The Return of the King - A Story of the Hobbits.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/album> ;
+    tg:label <http://localhost:8000/resource/Disneyland_/_Vista> ;
+    tg:language "English"@en ;
+    tg:released "1980 (LP) / ? (CD)"@en ;
+    tg:title "The Return of the King: A Story of the Hobbits"@en ;
+    tg:type "LP / CD"@en .
+

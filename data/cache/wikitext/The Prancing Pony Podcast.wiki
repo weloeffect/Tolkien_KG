@@ -1,0 +1,69 @@
+{{website
+| name=The Prancing Pony Podcast
+| image = The Prancing Pony Podcast logo.jpg
+| URL=https://theprancingponypodcast.com
+| slogan=A weekly podcast about the Middle-earth legendarium of J.R.R. Tolkien
+| alexa=
+| commercial=
+| revenue=
+| type=Podcast
+| language=English
+| licence=
+| articlecount=
+| registration=
+| owner=
+| creator=Alan Sisto and Shawn E. Marchese
+| keypeople=
+| launch=February [[2016]]
+| status=Active
+}}
+'''The Prancing Pony Podcast''' (PPP) is an online podcast that began [[21 February]] [[2016]] by [[Alan Sisto]] and [[Shawn E. Marchese]]. Notable guests have included [[Andrew Higgins]], [[Billy Boyd]], [[Brian Sibley]], [[Carl Hostetter]], [[Cliff Broadway]], [[Corey Olsen]], [[Dave Brons]], [[Dimitra Fimi]], [[Dominic Monaghan]], [[Greg Hildebrandt]], ([[Jeremy Edmonds]], [[Andrew Higgins]], and [[Chad High]] of Tolkien Collectors Guide), [[John Garth]], [[John Howe]], [[Luke Shelton]], [[Michael Drout]], [[Shaun Gunner]], [[Simon Tolkien]], [[Simonetta Carr]], [[Sørina Higgins]], [[Ted Nasmith]], [[Tom Shippey]], [[Verlyn Flieger]], [[Wayne Hammond]] and [[Christina Scull]].<ref name="about">{{webcite|author=|articleurl=https://theprancingponypodcast.com/about/|articlename=About|dated=|website=The Prancing Pony Podcast|accessed=16 August 2022}}</ref> 
+
+The Prancing Pony Podcast won the [[Tolkien Society Awards|Tolkien Society Award]] for Best Online Content twice, in 2020 and 2022.<ref>{{webcite|author=|articleurl=https://www.tolkiensociety.org/society/awards/|articlename=Awards|dated=|website=The Tolkien Society|accessed=16 September 2022}}</ref>
+
+{{blockquote|We cover a few pages of each chapter in each episode: reading our favorite passages, discussing themes, savoring Tolkien's language, and highlighting connections across the vast landscape of the mythology of Middle-earth. But it's less an academic lecture and more a nerdy hangout! We combine our in-depth study with a healthy dose of self-effacing humor, pop culture references, and bad puns. It's our goal to make even Tolkien's deepest works accessible to anyone; and we do this by being the sort of guys you'd want to hang out at a pub and talk Tolkien with.<ref name="about" />|The Prancing Pony Podcast}}
+
+==Seasons==
+*Season 1 (2016) ''[[On Fairy-Stories]]'', ''[[Mythopoeia]]'', and ''[[The Silmarillion]]''
+*Season 2 (2017) ''[[The Hobbit]]''
+*Season 3 (2018) ''[[The Lord of the Rings]]'', Book I, the first half of ''[[The Fellowship of the Ring]]''
+*Season 4 (2019) ''[[The Lord of the Rings]]'', Book II, the second half of ''[[The Fellowship of the Ring]]''
+*Season 5 (2020) ''[[The Lord of the Rings]]'', Book III, the first half of ''[[The Two Towers]]''
+*Season 6 (2021) ''[[The Lord of the Rings]]'', Book IV, the second half of ''[[The Two Towers]]''
+*Season 7 (2022) ''[[The Lord of the Rings]]'', Book V, the first half of ''[[The Return of the King]]''
+*Season 8 (2023) ''[[The Lord of the Rings]]'', Book VI, the second half of ''[[The Return of the King]]''
+
+==Moots==
+In May [[2021]], PPP hosts and their team organized a fully online conference, [[Prancing Pony Podcast Moot]].
+
+In October [[2022]], the PPP hosted a hybrid moot, online and in-person at [[Marquette University]] to coincide with [[William M. Fliss]] and [[Sarah Schaefer]]'s "[[J.R.R. Tolkien: The Art of the Manuscript]]" exhibit.
+
+==New co-hosts==
+In August 2022 [[Shawn E. Marchese]] announced that he would step away from being the permanent co-host of the PPP. [[Alan Sisto]] announced the following guest hosts for Season 7 (each for several episodes):
+*[[Corey Olsen]]
+*[[Shaun Gunner]]
+*[[Don Marshall]]
+*[[James Tauber]]
+*Matt ([[Nerd of the Rings]])
+*[[Marcel Aubron-Bulles]]
+*[[Shawn E. Marchese]]
+*[[Willie "KnewBettaDoBetta" Jenkins]]
+*[[Sara Brown]]
+
+==The Rings of Power Wrap-up==
+On [[11 February]] 2022 the PPP launched [[The Rings of Power Wrap-up]], a new show covering the Amazon Prime television series, ''[[The Lord of the Rings: The Rings of Power]]''.
+
+[[Alan Sisto]] and [[Shawn E. Marchese]] produced fifteen preparatory episodes. Once the series began, [[James Tauber]] and [[Sara Brown]] replaced [[Shawn E. Marchese]] as [[Alan Sisto]]'s co-hosts.
+
+==See also==
+* [[Today's Tolkien Times]]
+* [[List of Tolkien-related podcasts]]
+
+==External links==
+* [https://theprancingponypodcast.com/ Official PPP website]
+* [https://ringswrapup.com/ Official ROPWU website]
+
+{{references}}
+{{DEFAULTSORT:Prancing Pony Podcast}}
+[[Category:Podcasts]]
+[[Category:Websites]]

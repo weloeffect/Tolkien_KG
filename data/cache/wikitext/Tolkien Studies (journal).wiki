@@ -1,0 +1,56 @@
+{{disambig-two|the annual journal|field of study|[[Tolkien studies]]}}
+{{journal
+| name=Tolkien Studies:<br><Small>An Annual Scholarly Review</small>
+| image = Tolkien Studies - Volume 2.jpg
+| editor=[[Michael D.C. Drout]], [[Verlyn Flieger]], and [[David Bratman]]
+| latest=[[Tolkien Studies: Volume 20|Volume 20]]
+| website=[https://wvupressonline.com/journals/tolkien_studies Tolkien Studies]
+| publisher=West Virginia University
+| frequency=Annual
+| format=Hardcover; electronic
+}}
+{{Quote|What else can one say? The reviews are full, numerous, by respected hands, and informative. . . . another magisterial addition to the growing corpus of Tolkienian scholarship.|[[David Doughan]]<ref>''You Get What You Pay For'', a review of [[Tolkien Studies: Volume 4]] in ''[[Mallorn 45]]'', p. 8</ref>}}
+
+'''''Tolkien Studies: An Annual Scholarly Review''''' is an annual journal of scholarship on [[J.R.R. Tolkien]] and his works. Since the publication of ''[[The Hobbit]]'' in [[1937]], the writings of J.R.R. Tolkien have been admired throughout the world. With the publication in the 1950s of ''[[The Lord of the Rings]]'', Tolkien's fantasy writing began to attract academic attention in both the classroom and the world of scholarship. Most recently, [[Peter Jackson]]'s three-part movie adaptation has added film-study scholars to those fascinated by Tolkien's work.
+
+It presents the growing body of critical commentary and scholarship on both J. R. R. Tolkien’s voluminous fiction and his academic work in literary and linguistic fields. The founding editors — [[Douglas A. Anderson]], [[Michael D.C. Drout]], and [[Verlyn Flieger]] — and the members of the editorial board — [[David Bratman]], [[Carl F. Hostetter]], [[Tom Shippey]], [[Richard C. West]], and [[Marjorie Burns]] — are all distinguished Tolkien scholars.
+
+Printed issues of recent years can be purchased via the official website, while all back issues (from 2004) are available for access and purchase in digital formats.
+
+==Volumes==
+* [[Tolkien Studies: Volume 1]]
+* [[Tolkien Studies: Volume 2]]
+* [[Tolkien Studies: Volume 3]]
+* [[Tolkien Studies: Volume 4]]
+* [[Tolkien Studies: Volume 5]]
+* [[Tolkien Studies: Volume 6]]
+* [[Tolkien Studies: Volume 7]]
+* [[Tolkien Studies: Volume 8]]
+* [[Tolkien Studies: Volume 9]]
+* [[Tolkien Studies: Volume 10]]
+* [[Tolkien Studies: Volume 11]]
+* [[Tolkien Studies: Volume 12]]
+* [[Tolkien Studies: Volume 13]]
+* [[Tolkien Studies: Volume 14]]
+* [[Tolkien Studies: Volume 15]]
+* [[Tolkien Studies: Volume 16]]
+* [[Tolkien Studies: Volume 17]]
+* [[Tolkien Studies: Volume 18]]
+* [[Tolkien Studies: Volume 19]]
+* [[Tolkien Studies: Volume 19 Supplement|Volume 19 Supplement]]
+* [[Tolkien Studies: Volume 20]]
+* [[Tolkien Studies: Volume 21]]
+
+{{references}}
+
+==External links==
+*[http://wvupressonline.com/journals/tolkien_studies Official website]
+*[https://muse.jhu.edu/journal/299 List of issues] at [[wikipedia:Project Muse|Project Muse]]
+
+{{publishedmajorbooks}}
+{{title|italics}}
+[[Category:Journals]]
+[[Category:Publications by title]]
+[[Category:Tolkien Studies| ]]
+[[de:Tolkien Studies]]
+[[fi:Tolkien Studies]]

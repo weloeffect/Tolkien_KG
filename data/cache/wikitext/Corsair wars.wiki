@@ -1,0 +1,74 @@
+{{unnamed}}
+{{war
+| previous=[[Kin-strife]]
+| next= [[War of the Ring]]
+| image=[[Image:Angus McBride - Corsairs.gif|300px]]
+| name=Corsair wars
+| place=The coastal lands of the [[Bay of Belfalas]]
+| result=Victory for the [[Gondorians]]
+*Corsair state subdued<ref name="annals">{{App|Gondor}}</ref>
+| battles=Battle of Pelargir, [[Surprise Attack on Umbar]]
+| begin={{TA|1448}}
+| end=Reign of [[Aragorn II Elessar|Elessar]]<ref name="annals">{{App|Gondor}}</ref>
+| side1=[[Gondorians]]
+| side2=[[Corsairs of Umbar]]<br>[[Haradrim]]
+| commanders1=
+[[Eldacar (King of Gondor)|Eldacar]]
+<br>[[Aldamir]] †
+<br>[[Minardil]] † 
+<br>[[Telumehtar Umbardacil|Telumehtar]]
+<br>[[Aragorn|Elessar]]/[[Thorongil]]
+<br>[[Beren (Steward of Gondor)|Beren]]
+<br>[[Beregond]]
+<br>[[Ecthelion II]]
+<br>[[Denethor|Denethor II]]
+| commanders2= 
+[[Angamaitë]]
+<br>[[Sangahyando]]
+<br>[[Captain of the Haven]] †
+| strength1=
+| strength2=
+| casual1=
+| casual2=
+}}
+
+The '''Corsair wars''' were a long, predominately naval struggle between the [[King of Gondor|Kings]] and [[Ruling Stewards|Stewards of Gondor]] and the rebellious [[Corsairs of Umbar]]. 
+
+==Background==
+The fortress haven of [[Umbar]] was founded by Númenórean colonists during the Second Age during the peak of Númenorean power and eventually fell under the control of the [[King's Men]]. These King's Men eventually became the [[Black Númenóreans]] who submitted to Sauron and served him gladly in [[Middle-earth]].<ref name=rings>{{S|Rings}}</ref><ref name=window>{{TT|Window}}</ref> Even after the [[Downfall of Númenor]], the Black Númenóreans held control of Umbar and showed great antipathy to the [[Exiles of Númenor]].<ref name="annals">{{App|Gondor}}</ref>
+
+The hatred between Umbar and Gondor simmered for a while; however, in {{TA|933}}, [[Kings of Gondor|King]] [[Eärnil I]] captured [[Umbar]], driving the lords of Umbar into exile. 82 years later, in {{TA|1015|n}}, these lords lead the [[Haradrim]] to re-take the fortress and slew King [[Ciryandil]], son of Eärnil I. This caused his son to conquer [[Harad]] and eventually take the name [[Hyarmendacil I]] and Umbar became a great haven of Gondor.<ref name="annals">{{App|Gondor}}</ref>
+
+== History ==
+===Prelude===
+{{main|Kin-strife}}
+Umbar was securely held by Gondor until the aftermath of the [[Kin-strife]] in {{TA|1447|n}}. The great civil conflict between [[Eldacar (King of Gondor)|Eldacar]] and the usurper [[Castamir]] resulted in Castamir's death and his sons fleeing to Umbar. There they established an independent lordship in opposition to Gondor and continued to clash with Gondor for centuries to come.<ref name="annals">{{App|Gondor}}</ref>
+
+=== Conflicts ===
+Since {{TA|1448|n}}, the people who fled with the descendants of Castamir became known as the "[[Corsairs of Umbar]]" causing Gondor to lose power over the southern realm and in regular conflict with it. Umbar welcomed enemies of Gondor, contested the possession of the fief [[South Gondor]], and absorbed tributaries to Gondor in Harad.<ref name="annals">{{App|Gondor}}</ref><ref name="Elendil">{{PM|Elendil}}</ref>
+
+In {{TA|1540|n}}, King [[Aldamir]] was slain in battle against the Corsairs who allied with the kings of [[Harad]], but was avenged by his son [[Hyarmendacil II]] in {{TA|1551|n}}.<ref name="Elendil">{{PM|Elendil}}</ref><ref>{{App|B2}}</ref>
+
+In {{TA|1634|n}}, learning through spies that King [[Minardil]] was at [[Pelargir]], Castamir's great-grandsons [[Angamaitë]] and [[Sangahyando]], and thus the leaders of the Corsairs, raided the haven and killed the King. His heir [[Telemnar]] prepared a fleet against Umbar but could not retaliate as the kingdom was ravaged by the [[Great Plague]] of {{TA|1636|n}}.<ref name="annals">{{App|Gondor}}</ref><ref name="Elendil">{{PM|Elendil}}</ref>
+
+By {{TA|1810|n}} the Corsairs raided as far as [[Anfalas]], and Minardil's great-grandnephew [[Telumehtar]] punished them. In an attack, he took the fortress and haven of the Corsairs, killing Castamir's last descendants. After this victory, he renamed himself [[Umbardacil]] and Umbar fell under the power of Gondor once more.<ref name="annals">{{App|Gondor}}</ref> 
+
+Gondorian control of Umbar lasted for another 46 years until the attacks of the [[Wainriders]], in which Umbar was again lost and fell under the power of the [[Haradrim]].<ref name="annals">{{App|Gondor}}</ref> 
+
+In some unknown conflict against the Corsairs in {{TA|2746|n}}, the fifteenth [[Prince of Dol Amroth]] was killed.<ref name="Elendil">{{PM|Elendil}}</ref>
+
+After nearly a century of preparation, the Corsairs of Umbar assembled three strong fleets, which they sent northward to harry the coasts of [[Gondor]]; one of these fleets passed so far north that it reached the mouths of the river [[Isen]]. These attacks were launched during the [[Long Winter]], but in the following spring, [[Steward]] [[Beregond (Steward of Gondor)|Beregond]] was able to launch his own fleet, driving the Corsairs of Umbar back.<ref name="Stewards">{{App|Stewards}}</ref>
+
+29 years later, Umbar's fleet was largely destroyed when [[Thorongil]], in the service of the [[Ecthelion II]], led a task force south and burned them, overthrowing the [[Captain of the Haven]] in the process.<ref name="Stewards">{{App|Stewards}}</ref>
+
+During the [[War of the Ring]], Umbar had not fully recovered from [[Surprise Attack on Umbar|surprise attack]], but could still send a massive force: 50 "great ships" and a number of smaller vessels "beyond count" to raid the coastlands of Gondor and draw off major forces from the defence of [[Minas Tirith]].<ref name="Debate">{{RK|Debate}}</ref> They were once again defeated by [[Aragorn]], [[Angbor]], and the [[Oathbreakers|Army of the Dead]]. 
+
+It was only during the reign of [[High King (Dúnedain)|High King]] [[Aragorn II Elessar|Elessar]] that the [[Corsairs]] were completely subdued, thus putting an end to the centuries-long conflict and the rebel status of [[Umbar]].<ref name="annals">{{App|Gondor}}</ref>
+
+==See also==
+* [[Corsairs of Umbar]]
+* [[Kin-strife]]
+
+{{references}}
+[[Category:Conflicts of the Third Age]]
+[[Category:Wars]]

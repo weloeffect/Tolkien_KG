@@ -1,0 +1,81 @@
+{{Disambig-two|the 2009 fan film|2026 film adaptation|[[The Lord of the Rings: The Hunt for Gollum]]}}
+{{film infobox
+| image = The Hunt for Gollum Poster.jpg
+| caption = 
+| name=The Hunt for Gollum
+| director=Chris Bouchard
+| producer=Chris Bouchard, Spencer Duru, Noel Gale, Julianne Honey-Mennal, Brian Lavery, Kate Madison, Ashram Maharaj, Gladys San Juan, Sabina Sattar	
+| writer='''Novel:'''<br>[[J.R.R. Tolkien]]<br>'''Screenplay:'''<br>Chris Bouchard<br>'''Additional Writing:'''<br>Sabina Sattar<br>Julianne Honey-Mennal<br>Stuart Price<br>Lewis Albrow
+| narrator=
+| starring=Adrian Webster
+| music=Adam Langston, Andrew Skrabutenas	 	
+| cinematography=Gareth Brough, Chris Child, John-Paul Frazer, Neill Phillips, 
+Mike Ritchie, Stein Stie
+| editing=Lewis Albrow	
+| distributor=Internet
+| released=May 3, 2009
+| runtime=38 min 
+| country=UK
+| language=English
+| budget=£3000
+| website=[http://www.thehuntforgollum.com Official website]
+| imdb_id=1323925
+}}
+'''The Hunt for Gollum''' is a [[:Category:Fan films|fan film]] based on ''[[The Lord of the Rings]]''. The film focuses on the events prior to ''[[The Fellowship of the Ring]]'' but after ''[[The Hobbit]]'' as [[Aragorn]] tracks down [[Gollum]]. Featured characters include [[Aragorn]], [[Gandalf]], [[Arwen]] and [[Gollum]], with new characters ''Arithir'', and ''Goblok''. The film was made available to download for free on [[3 May|May 3]], [[2009]].<ref>http://www.theonering.net/torwp/2009/02/02/31077-fanfilm-the-hunt-for-gollum-online-may-3rd</ref>
+
+==Synopsis==
+As Gandalf learns the truth about the ring in Frodo's possession, he dispatches Aragorn to find and capture the creature Gollum, the ring's former carrier.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Role!!Actor
+|-
+|[[Aragorn|Aragorn II]]||[http://www.imdb.com/name/nm2423411/ Adrian Webster]
+|-
+|[[Arwen]]||[http://www.imdb.com/name/nm2645682/ Rita Ramnani]
+|-
+|[[Gandalf]]||Patrick O'Connell
+|-
+|[[Gollum]] (Voice)||[http://www.imdb.com/name/nm2421667/ Gareth Brough]
+|-
+|[[Gollum]] (Performer)||[http://www.imdb.com/name/nm2423282/ Matthew Cunningham]
+|-
+|Elf of Mirkwood||[http://www.imdb.com/name/nm3329553/ Max Bracey]
+|-
+|Arithir||[http://www.imdb.com/name/nm0020164/ Arin Alldridge]
+|-
+|Goblok||Gareth Brough
+|}
+
+==Crew==
+*Director: Chris Bouchard
+*Co-Producers:
+**Brian Lavery
+**Gladys San Juan
+**Julianne Honey-Mennal
+**Spencer Duru
+*1st Assistant Director: Irene Maffei
+*Assistant Producer: Agatha O'Neil
+
+Music by Adam Langston and Andrew Skrabutenas, based on music by [[Howard Shore]] and [[Requiem for a Tower|Clint Mansell]]. 
+
+[[The Hunt for Gollum (soundtrack)|Read more...]]
+
+==Trailer==
+<youtube>HSTYubpLxg8</youtube>
+<youtube>LkSa-pmknfY</youtube>
+
+{{references}}
+
+==External links==
+*'''[http://www.thehuntforgollum.com/ Official Website]'''
+*[http://www.imdb.com/title/tt1323925/ The Hunt for Gollum] at [http://www.imdb.com/ IMDb]
+*[http://www.filmaffinity.com/en/film258572.html The Hunt for Gollum] at [http://www.filmaffinity.com/en/main.html FilmAffinity]
+
+{{Fan films}}
+
+[[Category:Fan films|Hunt for Gollum]]
+[[de:The Hunt for Gollum]]
+[[fr:divertissements/adaptations/fans/thfg]]
+[[fi:The Hunt for Gollum (2009)]]

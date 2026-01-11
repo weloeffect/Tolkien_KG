@@ -1,0 +1,104 @@
+{{book
+|title=Sauron Defeated
+| image = Sauron Defeated 1992.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[HarperCollins]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[6 January]] [[1992]]
+| dateUS=[[27 October]] 1992
+|format=Hardcover; paperback
+|pages=482
+| isbn=0261102400
+| precededby=[[The War of the Ring]] (1990)
+| followedby=[[Morgoth's Ring]] (1993)
+}}
+'''''Sauron Defeated''''', published in [[1992]], is the ninth volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+A shortened version of it, under the title '''''[[The End of the Third Age]]''''', forms the fourth volume of ''[[The History of The Lord of the Rings]]'', which documents the writing process of ''[[The Lord of the Rings]]''.
+
+This volume finishes the story and features the rejected ''Epilogue'', in which [[Sam]] answers his children's questions. It also includes ''[[The Notion Club Papers]]'' (a time-travel story related to [[Númenor]]), a draft of the ''[[Drowning of Anadûnê]]'', and the only extant account of Tolkien's fictional language [[Adûnaic]].
+
+The title ''The End of the Third Age'' was the original title for Book 6 of ''TLotR'', later discarded by Tolkien.
+
+==Contents==
+* Foreword
+
+* '''Part One: The End of the Third Age'''
+** I. "The Story of Frodo and Sam in Mordor"
+** II. "The Tower of Kirith Ungol"
+** III. "The Land of Shadow"
+** IV. "Mount Doom"
+** V. "The Field of Kormallen"
+** VI. "The Steward and the King"
+** VII. "Many Partings"
+** VIII. "Homeward Bound"
+** IX. "The Scouring of the Shire"
+** X. "The Grey Havens"
+** XI. "The Epilogue"
+** Appendix: Drawings of Orthanc and Dunharrow 
+
+* '''Part Two: [[The Notion Club Papers]]'''
+** Introduction
+** Foreword and List of Members
+** [[The Notion Club Papers Part One|''The Notion Club Papers'' Part One]]
+** [[The Notion Club Papers Part Two|''The Notion Club Papers'' Part Two]]
+** Major Divergences in Earlier Versions of Part Two
+*** (i) The earlier versions of Night 66
+*** (ii) The original version of Lowdham's 'Fragments'
+*** (iii) The earlier versions of Lowdham's 'Fragments' in Adunaic 
+*** (iv) Earlier versions of Edwin Lowdham's Old English text 
+*** (v) The page preserved from Edwin Lowdham's manuscript written in Númenórean script
+
+* '''Part Three: [[The Drowning of Anadûnê]]'''
+** (i) The third version of ''The Fall of Númenor''
+** (ii) The original text of ''The Drowning of Anadûnê''
+** (iii) The second text of ''The Drowning of Anadûnê''
+** (iv) The final form of ''The Drowning of Anadûnê''
+** (v) The theory of the work
+** (vi) Lowdham's Report on the Adûnaic Language
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book IX reads:
+
+:"''In this book is traced first the story of the destruction of the One Ring and the Downfall of Sauron at the End of the Third Age. Then follows an account of the intrusion of the Cataclysm of the West into the deliberations of certain scholars of Oxford and the Fall of Sauron named [[Zigûr]] in the Drowning of Anadûne.''"
+
+==From the publisher==
+{{blockquote|The final part of The History of The Lord of the Rings, an enthralling account of the writing of the Book of the Century which contains many additional scenes and includes the unpublished Epilogue in its entirety.<br>
+In the first section of Sauron Defeated Christopher Tolkien completes his fascinating study of The Lord of the Rings. Beginning with Sam’s rescue of Frodo from the Tower of Cirith Ungol, and giving a very different account of the [[Scouring of the Shire]], this section ends with versions of the hitherto unpublished Epilogue, in which, years after the departure of Bilbo and Frodo from the [[Grey Havens]], Sam attempts to answer his children’s questions.<br>
+The second section is an edition of The Notion Club Papers. These mysterious papers, discovered in the early years of the twenty-first century, report the discussions of an Oxford club in the years 1986-7, in which after a number of topics, the centre of interest turns to the legend of Atlantis, the strange communications received by other members of the club from the past, and the violent irruption of the legend into the North-west of Europe.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Sauron Defeated 1992.png|1992 hardcover
+File:Sauron Defeated (HC1993).jpg|1993 paperback
+File:Sauron Defeated (HC1993b).png|1993 paperback 2nd impression
+File:Sauron Defeated (HC2002).jpeg|2002 & 2015 paperback
+File:Sauron Defeated (HC2010).jpg|2010 hardcover
+File:Sauron Defeated 2024.jpeg|2024 paperback
+File:Sauron Defeated hc 2024.jpg|2024 hardcover
+</gallery>
+* [[HarperCollins]] hardcover ([[1992]]), pp.&nbsp;482. ISBN 0261102400
+* [[HarperCollins]] paperback ([[1993]]), ISBN 0261103059 - (cover art by [[Roger Garland]])
+** 1993 paperback edition, 2nd impression - (cover art by [[John Howe]])
+** 1993 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365330
+** 2015 paperback edition, 26th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #3)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#ix A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+[[Category:Fiction books]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+
+[[de:Sauron Defeated]]

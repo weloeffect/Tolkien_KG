@@ -1,0 +1,143 @@
+{{Incomplete}}
+{{episode infobox
+| name=Elven Kings Under the Sky
+| image =
+| caption=
+| director=[[Charlotte Brändström]]
+| writer=[[Gennifer Hutchison]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[29 August]] [[2024]]
+| runtime=76 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=13580784
+| gallery=The Rings of Power (TV series)
+| previous=[[Alloyed]]
+| next=[[Where the Stars are Strange]]
+}}
+
+{{Quote|Season Premiere. [[Sauron]] bargains with [[Adar (The Rings of Power)|Adar]]. [[The Stranger]] and [[Elanor Brandyfoot|Nori]] venture into new [[Rhûn|lands]]. [[Three Rings|The]] [[Narya|Three]] [[Nenya|Elven]] [[Vilya|Rings]] face judgement.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Elven Kings Under the Sky''' is the ninth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the first episode of the second season and it was released on [[29 August]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High King Gil-galad]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Ciarán Hinds]] || [[Dark Wizard]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Nori Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Jack Lowden]] || [[Forodwaith]] [[Sauron]]
+|-
+| [[Ben Daniels]] || [[Círdan]]
+|-
+| [[Samuel Hazeldine|Sam Hazeldine]]|| [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Nicholas Woodeson]] || [[Diarmid]]
+|-
+| [[Geoff Morrell]] || [[Waldreg]]
+|-
+| [[Amelia Kenworthy]]|| [[Mirdania]]
+|-
+| [[Adam Basil]] || [[Orcs|Nervous Orc]]
+|-
+| [[John Macdonald]] || [[Orcs|Next Orc]]
+|-
+| [[Nellie Burroughes]] || [[Men|Peddler Woman]]
+|-
+| [[Virginie Laverdure]] || [[Abigail]]
+|-
+| [[Rosalie Button]] || [[Men|Survivor On Raft #1]]
+|-
+| [[Jane Montgomery Griffiths]] || [[Astrid (The Rings of Power)|Astrid]]
+|-
+| [[Matt Bennett]] || [[Men|Survivor On Raft #2]]
+|-
+| [[Berynn Schwerdt]] || [[Eamon (The Rings of Power)|Eamon]]
+|-
+| [[Daniel Burke]] || [[Mirthless Guard]]
+|-
+| [[Robert Strange]] || [[Glûg]]
+|-
+| [[Hélder Fernandes]] || [[Men|Skinny Lad]]
+|-
+| [[Mark Kempner]] || [[Men|Old Prisoner]]
+|-
+| [[Tomás Azocar-Nevin]] || [[Men|Young Prisoner]]
+|-
+| [[Yasen Atour|Zates Atour]] || [[Brânk]]
+|-
+| [[Celeste Dodwell]] || [[Elves|Elf Artisan]]
+|-
+| [[Jamie Bisping]] || [[Calenwë]]
+|-
+| [[Emily-Jane McNeill]] || [[Ídhiel]]
+|-
+| [[Arkie Reece]] || [[Kilta]]
+|}
+
+=== Un-credited ===
+:''In order of appearance'' (on IMDb)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Tony McCarthy || [[Orcs|Warlord Orc]]
+|-
+| Ekran Mustafa || [[Orcs|Warlord Orc]]
+|-
+| Anastasia Zabarchuk || [[Orcs|Orc Warlord]]
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+== External links ==
+* [https://bearmccreary.com/the-lord-of-the-rings-episode-201/ Scoring Episode 201: ''Elven Kings Under the Sky''] by [[Bear McCreary]]
+
+{{references}}
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|09]]

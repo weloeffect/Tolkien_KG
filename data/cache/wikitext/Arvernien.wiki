@@ -1,0 +1,48 @@
+{{location infobox
+| name=Arvernien
+| image=Christopher Tolkien - Bay of Balar.jpg
+| caption=
+| pronun=
+| othernames=
+| location=In [[Beleriand]], south of [[Narog]] and west of [[Sirion]]
+| type=Region
+| description=Coastal region of [[Bay of Balar|Balar]]
+| regions=[[Cape Balar]], [[Nimbrethil]]
+| towns=
+| inhabitants=[[Noldor]], [[Falathrim]]
+| created=
+| destroyed=
+| events=
+}}
+{{quote|Eärendil was a mariner<br>that tarried in Arvernien<br>he built a boat of timber felled<br>in Nimbrethil to journey in|''[[Eärendillinwë]]''}}
+
+'''Arvernien''' was the coastland of [[Beleriand]] west of the [[Mouths of Sirion]]. It had the protection of [[Ulmo]].
+
+==History==
+Arvernien was originally an uninhabited land, known mainly for the forest of [[Nimbrethil]],<ref>{{S|Index}}, entry "Arvernien"</ref> but after the rout that became known as the [[Nirnaeth Arnoediad|Battle of Unnumbered Tears]] and the subsequent destruction of the Havens of [[Brithombar]] and [[Eglarest]], [[Círdan]] and [[Falathrim|his folk]] dwelt in this region. Though at first they lived on the [[Isle of Balar]], they later founded the [[Havens of Sirion]].<ref name="5B">{{S|Fifth}}</ref> The area became a known refuge, as when [[Gondolin]] [[Fall of Gondolin|fell]], many of the [[Gondolindrim]] fled southward too<ref name="Fall">{{S|Gondolin}}</ref> and those were followed by [[Iathrim|refugees]] from [[Doriath]].
+
+The Havens were devastated by the [[Third Kinslaying]] when the remaining [[Sons of Fëanor]] came to claim the [[Nauglamír]] held by [[Eärendil]]. Following Eärendil's return from his journeys out at sea and the [[War of Wrath]] in which Morgoth was defeated, Beleriand, and Arvernien with it, was destroyed.<ref>{{S|Earendil}}</ref>
+
+==Etymology==
+Tolkien only ever gave an incomplete translation of the name ''Arvernien'': "(the land) beside the ''[[Verna]]''".<ref>{{PE|17}}, pp. 19, 71 (July [[2007]])</ref> 
+
+Except the core element ''Verna'', the name can be analyzed as prefix ''[[ar|ar-]]'' meaning "beside, without" (see also ''[[argad]]'') and the geographical ending ''[[-ien]]'' which translates as "land of". The meaning of ''Verna'' is, however, unclear. 
+
+Considering that the name was an invention of Tolkien's early legendarium, when Beleriand was still called ''Broseliand'', [[David Salo]] suggested the name might actually have been inspired by the French region of [[wikipedia:Auvergne|Auvergne]].<ref>{{webcite|author=[[David Salo]]|articleurl=https://tolkienlistsearch.herokuapp.com/message/5e9c35fb231bf7461a6c9781|articlename=Re: Verna?|dated=2007-12-04|website=[[Elfling]]|accessed=2022-09-22}}</ref>
+{{references}}
+{{navigation
+| title=Arvernien
+| north-west= [[Falas]]
+| north= [[Narog]]
+| north-east= [[Nan Tathren]]
+| west= [[Belegaer]]
+| east= [[Sirion]]
+| south-west= [[Cape Balar]]
+| south= [[Bay of Balar]]
+| south-east= [[Mouths of Sirion]]
+|}}
+[[Category:Beleriand]]
+[[Category:Quenya locations]]
+[[de:Arvernien]]
+[[fr:encyclo/geographie/regions/beleriand/arvernien]]
+[[fi:Arvernien]]

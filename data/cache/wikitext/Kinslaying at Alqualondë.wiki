@@ -1,0 +1,41 @@
+{{disambig-more|Kinslaying|[[Kinslaying (disambiguation)]]}}
+{{battle
+| image = Ted Nasmith - Kinslaying at Alqualondë.jpg
+| name=Kinslaying at Alqualondë
+| conflict=[[Exile of the Noldor]]
+| date={{YT|1495}}<ref>{{AA|117-144}}, pp. 106-115</ref>
+| result=Stealing of Telerin boats<br />[[Fall of the Noldor]], [[Doom of Mandos]]
+| place=[[Alqualondë]]
+| side1=Houses [[House of Fëanor|of Fëanor]] and [[House of Fingolfin|of Fingolfin]]
+| side2=[[Falmari]]
+| commanders1=[[Fëanor]], [[Fingon]]
+| commanders2=[[Olwë]]
+| forces1=
+| forces2=
+| casual1=
+| casual2=
+}}
+
+The '''Kinslaying at Alqualondë''', also known as the '''First Kinslaying''',<ref>{{MR|P2m}}, p. 115</ref> was an important event in the history of the [[Eldar]] in which the [[Noldor]]in [[Elves]] of [[Fëanor]] killed [[Teleri]]n Elves in order to gain their ships.
+
+==History==
+When [[Fëanor]] decided to leave [[Valinor]] he needed ships to travel to Middle-earth, but the Noldor possessed no ships, and Fëanor feared that any delay in their departure would cause the Noldor to reconsider. The Noldor, led by Fëanor and [[Sons of Fëanor|his sons]], tried to persuade the [[Falmari]] of [[Alqualondë]], to give him their [[Swan-ships]]. However, King [[Olwë]] and his people would not help them, since it was against the will of the [[Valar]], and in fact attempted to persuade their friends to reconsider their decision to leave. Displeased with the Teleri's answer, the [[Noldor]] started taking the ships by force. This angered the Teleri, and they threatened the Noldor with rocks and arrows, and they threw many of Fëanor's Noldor out of the ships into the harbour. They also attempted to block the harbour.
+
+Then the Noldor drew swords, and the Teleri their [[bows]], and there was a bitter fight that seemed evenly matched, until the second Host of the Noldor, led by [[Fingon]], arrived together with some of [[Fingolfin]]'s people. Misunderstanding the situation, they assumed the Teleri had attacked the Noldor under orders of the Valar, and they joined the fight. In the end, many Teleri were slain and the ships were taken. The Noldor that continued [[Flight of the Noldor|their flight]] towards [[Middle-earth]] were therefore [[Doom of Mandos|cursed]] by [[Mandos]].<ref>{{S|Flight}}</ref>
+
+==Legacy==
+In [[Beleriand]], [[King of Doriath|King]] [[Thingol]] hosted the Noldor, but learning about the slaying of his kinsmen, banned [[Exilic Quenya|their language]] and refused to participate in the [[Battles of Beleriand|War of the Jewels]]. He also forbade them to enter [[Doriath]] save the [[House of Finarfin]] whose dynasts were his closest kin through [[Eärwen]] the daughter of his brother Olwë.<ref>{{S|Noldor}}</ref>
+
+During the sixth [[Years of the Sun|solar century]] of the [[First Age]], the final ruin of [[Doriath]] where [[Dior|Dior Eluchíl]] was killed by the [[Sons of Fëanor]] was referred to as the '''[[Second Kinslaying]]''' in the chronicles of the [[Elder Days]],<ref>{{S|Doriath}}</ref><ref name="ToY">{{WJ|Years}}, p. 346-348</ref> and the attack by the Sons of Fëanor on the [[Mouths of Sirion]] where [[Elwing]] was attacked was called the '''[[Third Kinslaying]]''', the cruellest of all three.<ref name="ToY" /> 
+
+When [[Eärendil|Eärendil]] sought the help of Valinor, the Teleri agreed to bring ships to Middle-earth, but their role was limited to this, refusing to fight on the side of the Noldor. After the [[War of Wrath]] ended, it was stated by [[Eönwë]] herald of [[Manwë]] that because of these evil deeds the remaining sons of Fëanor, [[Maedhros]] and [[Maglor]], had lost all right to the [[Silmarils]].<ref>{{S|Earendil}}</ref>
+
+==See also==
+*[[:Category:Images of the Kinslaying at Alqualondë|Images of the Kinslaying at Alqualondë]]
+
+{{References}}
+{{kinslayings}}
+[[Category:Conflicts in The Book of Lost Tales]]
+[[Category:Conflicts of the First Age]]
+[[de:Sippenmord#Sippenmord von Alqualonde]]
+[[fi:Alqualondën Sukusurma]]

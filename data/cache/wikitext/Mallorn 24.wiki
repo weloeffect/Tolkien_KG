@@ -1,0 +1,46 @@
+{{Mallorn
+| name=Mallorn 24
+| image = Mallorn24.jpg
+| editor=Denis Bridoux
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[September]] [[1987]]
+| format=A4 stapled paperback
+| pages=40
+| issn=0308-6674
+}}
+'''''Mallorn'' 24''' is the twenty-fourth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1987]].
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Guidelines for contributors
+* Editorial
+** By: Denis Bridoux
+* A Delusion Unmasked
+** By: Jeff Stevenson
+* "Yes, Mr. Chairelf"
+** By: Margaret Askew
+* A Delusion Unmasked (end)
+* Book Review: "''[[The Shaping of Middle-earth|The Shaping Of Middle-earth]]''"
+** By: [[Charles Noad]] 
+* The Stone of Erech
+** By: Jenny Curtis
+* The Wild Hunt, ''Sir Orfeo'' and J.R.R. Tolkien
+** By: [[John Ryan|J.S. Ryan]]
+* Poem: "The Lay of Éowyn"
+** By: Valerie Sutton
+* A Merry Fellow
+** By: Carol Jeffs
+* Extrapolations from the Tolkien
+** By: Kenton E. Wittrup
+* Mallorn Mail: Letters to the Editor
+* Where to write
+* [[The Tolkien Society]]
+
+* Inside Art
+** By: Steve Lines, Ley Holloway, Elisabeth Elsegood, Geraint Rees, Edward Holmes, 'M', Allan Mabon, Neil Loughran
+
+{{Mallornnav|23|25}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 24}}
+[[Category:Mallorn (journal)]]

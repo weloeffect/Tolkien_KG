@@ -1,0 +1,30 @@
+{{Album
+| title = Stronghold
+| image = Stronghold.jpg
+| type = Studio album
+| artist = [[Summoning]]
+| released = 11 May [[1999]]
+| genre = Black Metal
+| length = 01:04:20
+| language = English
+| label = Napalm Records
+| recorded = 
+}}'''''Stronghold''''' is the fourth full-length studio album by [[Summoning]] and was released in [[1999]]. Unlike the previous three studio albums, the album name is not [[J.R.R. Tolkien|Tolkien]]-related. Only the song [[Rhûn (song)|Rhûn]] has a title directly referring to Tolkien. Despite many of the lyrics still being adapted from Tolkien's works, this album was the first to incorporate lyrics and audio samples from other works.<ref>{{Cite web|articleurl=https://www.metal-archives.com/albums/Summoning/Stronghold/114|articlename=Summoning - Stronghold Additional Notes|author=Metal Archives|accessed=26 July 2024|dated=4 June 2023}}</ref> 
+
+==Lineup==
+
+*Protector: ''Vocals, Keyboards, Drum programming, Vocals (tracks 2, 4, 7-9)''
+*Silenius: ''Keyboards, Vocals (tracks 3, 6, 9)''
+
+==Track listing==
+#[[Rhûn (song)|Rhûn]] - ''3:25''
+#[[Long Lost to Where No Pathway Goes]] - ''7:23''
+#The Glory Disappears - ''7:49''
+#[[Like Some Snow-white Marble Eyes]] - ''7:19''
+#[[Where Hope and Daylight Die]] - ''6:28''
+#[[The Rotting Horse on the Deadly Ground]] - ''8:25''
+#[[The Shadow Lies Frozen on the Hills]] - ''7:01''
+#The Loud Music of the Sky - ''6:47''
+#[[A Distant Flame Before the Sun]] - ''9:43''
+{{References}}{{title|italics}}
+[[Category:Albums]]

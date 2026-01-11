@@ -1,0 +1,46 @@
+{{anglosaxon infobox
+| name=W.W. Wormald
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[wikipedia:Great Britain|Great Britain]]
+| affiliation=School of Bibliopoly
+| language=[[wikipedia:English language|English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''W.W. Wormald''' was a [[Man]] living in the [[wikipedia:21st century|21st century]] [[wikipedia:Great Britain|Britain]].
+
+== History ==
+Sometime during or after [[2014]], Wormald, along with [[D.N. Borrow]], of the Institute of Occidental Languages, took interest in the then newly found [[Notion Club Papers]], a compilation of writings recording approximately one hundred meetings of the eponymous discussion group.<ref name="Foreword">{{SD|2b}}</ref>
+
+They asked the permission of Mr. [[Howard Green]], the school clerk of the [[wikipedia:Examination Schools|Examination Schools]] at [[Oxford]], who found the papers, to examine them more closely. After further investigation they found that the sheets on which the reports of the meetings were written, were about 40 or 50 years older than the dates that were signed on the papers themselves. This fact led them to the conclusion that the papers were written by a single man sometime around the [[wikipedia:World War II|Six Years' War]] and that the figures that appear in the texts are actually invented.<ref name="Foreword"/>
+
+But Mr. Green, however, argued that the mention of the Great Explosion of [[1975]] and of the [[wikipedia:Great Storm of 1987|Great Storm]] of [[1987]] implied a sort of precognition on the part of the author(s).<ref name="Foreword"/>
+
+{{references}}
+{{DEFAULTSORT:Wormald, W.W.}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

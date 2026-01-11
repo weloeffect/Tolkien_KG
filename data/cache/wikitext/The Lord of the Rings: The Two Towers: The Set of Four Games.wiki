@@ -1,0 +1,30 @@
+{{board game infobox
+| image = The Two Towers The Set of Four Games.png
+| name=<small>''The Lord of the Rings: The Two Towers: The Set of Four Games''</small>
+| designer=Jan Dungel
+| publisher=[[New Line Cinema|New Line Productions]]/BETEXA
+| releasedate=[[2002]]
+| players=
+| ages=10+
+}}
+'''''The Lord of the Rings: The Two Towers: The Set of Four Games''''' is a [[2002]] board game based on the film ''[[The Lord of the Rings: The Two Towers]]''.
+
+==From the back==
+
+Bonus: Poster Map of Middle-earth
+
+THE MAGIC SQUARE: Create Magic Square by correctly placing all cards. The correct solution must form a square.
+
+THE MAGIC TRIANGLE: Create Magic Triangle by correctly placing all cards. The correct solution must form an [''sic''] triangle.
+
+THE MAGIC HEXAGON: Create Magic Hexagon by correctly placing all cards. The correct solution must form a triangle with 6 portraits!
+
+TRI-MEMO: Turn three cards to collect triads with the same picture or verses.
+
+The game contains 70 cards. On 63 cards there are 21 characters from The Two Towers movie, 3 times each! Six card form two triads, which contain the ring verses.
+
+Play either simple version for beginners or move to the more advanced version for the experienced (instructions inside).
+
+{{DEFAULTSORT:Lord of the Rings: The Two Towers: The Set of Four Games, The}}
+{{title|italics}}
+[[Category:Board games]]

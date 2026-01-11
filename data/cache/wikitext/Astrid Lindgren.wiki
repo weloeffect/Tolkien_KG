@@ -1,0 +1,27 @@
+{{person infobox
+| image=Astrid Lindgren.jpg
+| name=Astrid Lindgren
+| born=[[14 November]] [[1907]]
+| died=[[28 January]] [[2002]]
+| education=
+| occupation=Author / Screenwriter
+| location=Sweden
+| website=
+}}
+'''Astrid Anna Emilia Lindgren''' ([[14 November]] [[1907]] – [[28 January]] [[2002]]) was a Swedish author and screenwriter.
+
+Lindgren wrote three children's books in the genre of fantasy: ''[[Mio, min Mio]]'' (1954; ''Mio, my Son''), ''Bröderna Lejonhjärta'' (1973; ''The Brothers Lionheart''), and ''Ronja Rövardotter'' (1981; ''Ronia the Robber's Daughter''). The first two novels might be caracterized as stories of fantasy reminiscent of ''[[The Hobbit]]'', where the heroes return home after a perilous adventure. And the latter, ''Ronia the Robber's Daughter'', has been described as a work reminding of the genre [[wikipedia:High fantasy|High fantasy]].<ref>Johan Sandberg, "[http://tolkiensarda.se/new/nummer/magsidor/arttre9.htm Svensk fantasy svälter]" ("Swedish Fantasy is Starving") in ''[[Tolkiens Arda]]'', issue 14, 2003.</ref>
+
+In the late 1940s, when [[J.R.R. Tolkien]]'s ''The Hobbit'' was translated to Swedish as ''[[Hompen]]'', Lindgren was responsible for the department of Children's literature at Rabén & Sjögren (the publishers of the translation).<ref name=Lena>The committee for the Astrid Lindgren Society ([http://www.astridlindgren.se/ Astrid Lindgren-sällskapet]), through Lena Törnqvist (librarian and responsible for the Astrid Lindgren Archive at the [[wikipedia:National Library of Sweden|National Library of Sweden]]); private correspondance <!-- by user:Morgan -->as of 6 August 2010</ref>
+
+However, apparently the works of Tolkien did not have a direct influence on Lindgren's own works. While she has been attributed saying that Tolkien had a great impact on her work,<ref>[[Lars-Terje Lysemose]], "On the founding of Imladris", in ''[[Athelas (journal)|Athelas]]'' (the English annual), 1994.</ref> other informed sources claim that Lindgren in several interviews denied any influence by Tolkien and that she had not even read ''The Lord of the Rings''.<ref name=Lena/>
+
+==External links==
+*{{WP|Astrid Lindgren}}
+*[http://mythoi.tolkienindex.net/#post1 Astrid Lindgren and Tove Jansson about ''The Hobbit''] by [[Morgan Thomsen]]
+
+{{references}}
+{{DEFAULTSORT:Lindgren, Astrid}}
+[[Category:Authors]]
+[[Category:People by name]]
+[[Category:Swedish people]]

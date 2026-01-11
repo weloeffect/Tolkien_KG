@@ -1,0 +1,31 @@
+{{adaptation}}
+{{Dragon infobox
+| image = The Lord of the Rings The Battle for Middle-earth II - Drogoth1.png
+| name=Drogoth
+| othernames=
+| titles=
+| realm=[[Blue Mountains]], [[Withered Heath]]<ref name="Heath">[[The Lord of the Rings: The Battle for Middle-earth II]], Evil Campaign, Chapter 6: [[Withered Heath]]</ref>
+| affiliation=[[Eye of Sauron]]
+| hoard=
+| birth=
+| birthlocation=
+| death={{TA|3018}} or {{TA|3019|n}}
+| deathlocation=
+| slayer=
+| type=[[Fire-drakes|Fire-drake]]
+| legs=
+| wings=
+| colour=
+}}
+
+'''Drogoth''', also known as the '''Dragon Lord''', was a hero within the "[[Orcs of the Misty Mountains|Goblins]]" faction. Drogoth was invented by [[Electronic Arts]] for ''[[The Lord of the Rings: The Battle for Middle-earth Anthology|The Lord of the Rings: The Battle for Middle-earth]]'' series.
+
+==History==
+Drogoth is said to be the lord of all [[dragons]] after the death of [[Smaug]]. In the good campaign, he agrees to serve [[Sauron]] in exchange for one of the Seven Dwarven [[Rings of Power]]. As part of his new master's war in the North, Drogoth leads an attack on the Dwarven halls of the Blue Mountains and gathers to himself many evil things to protect his lair. The Dwarves and Elves rallied by [[Glorfindel]] and [[Glóin]] vanquish the foul host and slay the dragon. (He can only be attacked by ranged units and siege weapons.)
+
+{{references}}
+
+[[Category:Dragons from adaptations]]
+[[Category:The Battle for Middle-earth (video game series) characters]]
+
+[[de:Die Schlacht um Mittelerde#Der Herr der Ringe - Die Schlacht um Mittelerde II]]

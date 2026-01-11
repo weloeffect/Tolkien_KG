@@ -1,0 +1,40 @@
+{{expansion}}
+{{battle
+| name=Battle of the Field of Celebrant
+| image=
+| conflict=[[Wainrider/Balchoth War]]
+| date=[[15 April]] {{TA|2510}}
+| place=[[Field of Celebrant]]
+| result=Victory for [[Gondor]], [[Éothéod]]
+| side1=Gondor, Éothéod
+| side2=Balchoth
+| commanders1=
+* [[Cirion]]
+* [[Eorl]]
+| commanders2=Unknown
+| forces1=Gondorian: unknown. Éothéod: seven-thousand "fully-armed riders" and several hundred horsed archers<ref name="UT">{{UT|Cirion}}</ref>
+| forces2=Unknown
+| casual1=Unknown
+| casual2=Near total destruction
+}}
+
+The '''Battle of the Field of Celebrant''' was a battle in the late [[Third Age]]. 
+
+== Prelude ==
+
+In the year 2510 of the Third Age, the fierce [[Easterlings]] known as the [[Balchoth]] waged open war against a weakened [[Gondor]], and had already overrun most of  [[Rhovanion|Wilderland]]. Gondor had no allies left east of [[Anduin]], and against hope had sent the [[Red Arrow]] north to the [[Éothéod]], ancient allies of Gondor, but they had received no reply.
+
+In 2510 the Balchoth crossed Anduin on numerous fords, passing into the [[Wold]] in the north of the Gondorian province of [[Calenardhon]]. They met little resistance as Calenardhon had been mostly abandoned long before, and by the time the [[Northern Army]] of Gondor appeared from the fortresses of [[Isengard]], [[Aglarond]] and other fortresses in the [[White Mountains]] the bulk of the Balchoth army had crossed. 
+== The Battle ==
+The North Army led by the [[Ruling Steward]] [[Cirion]] counter-attacked, and was driven into the ''Wold'', cut off from the later reinforcements by the Balchoth host. By the time the [[Southern Army]] appeared, the North Army had come under attack by an [[Orcs|Orc]] band [[Orcs of the Misty Mountains|from the Misty Mountains]] which by chance or design had descended from the mountains, and the [[Dúnedain]] were backed against the river in a hopeless situation.
+
+At this time the Éothéod under their leader [[Eorl|Eorl the Young]] suddenly appeared, unexpected by friend or foe, as they were belatedly responding to a previous request by Cirion. The Éothéod crossed the Anduin at the ''Undeeps'' of the river, and broke on the rearguard of the Balchoth. The Balchoth were completely defeated and the Gondorian armies saved. The Éothéod continued their foray into northern Gondor, scattering and destroying all the Balchoth in Calenardhon.
+
+== Aftermath ==
+
+Three months after the Battle the [[Steward of Gondor]] [[Cirion]] gave the Éothéod the entire land of Calenardhon in which to dwell, in return for their service. The Éothéod founded the Kingdom of [[Rohan]] there.
+{{references}}
+[[Category:Conflicts of the Third Age]]
+[[de:Schlacht auf dem Feld von Celebrant]]
+[[fr:encyclo:evenements:3a:guerres:bataille du champ du celebrant]]
+[[fi:Celebrantin kentän taistelu]]

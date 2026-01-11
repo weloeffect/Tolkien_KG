@@ -1,0 +1,35 @@
+{{events
+| image=Jenny Dolfen - Mereth Aderthad.jpg
+| caption=The ''Mereth Aderthad'' by [[Jenny Dolfen]]
+| event=Mereth Aderthad
+| othernames=Feast of Reuniting
+| location=
+| date={{FA|20}}<ref>{{GA|72-3}}, p. 34-5</ref>
+| result=
+| partof=
+| participants=
+| description=Feast
+| references=
+| gallery=
+}}
+
+The '''Mereth Aderthad''' ([[Sindarin|S.]] "Feast of Reuniting") was the great celebratory feast held by [[High King of the Noldor|High King]] [[Fingolfin]] near the [[Pools of Ivrin]] soon after the [[Return of the Noldor]] to [[Middle-earth]].<ref name="Return">{{S|Return}}</ref>
+
+== History ==
+[[First Age 20|Twenty years after]] the first rising of the [[Sun]],<ref group=note>''[[The Complete Guide to Middle-earth]]'' gives the date of {{FA}} 21, giving a different interpretation of the line "when twenty years of the Sun had passed"</ref> the High King Fingolfin held a great celebratory feast during the spring, close by to the Pools of Ivrin under the [[Ered Wethrin|Mountains of Shadow]] to the north of [[Beleriand]]. Its purpose was to unite all of the divided [[Elves]] in one cause, and ambassadors came from all the peoples and realms of Beleriand. From the eastern [[East Beleriand|March]] came warriors lead by [[Maedhros]] and [[Maglor]], though none of their [[Sons of Fëanor|brothers]] came. As well as Elves from the separate branches of the [[Noldor]], native [[Sindar|Grey-elves]] were also present, including wanderers of the woods and the [[Falathrim|folk]] of the [[Falas|Havens]] along with [[Círdan]]. Ambassadors even came from the [[Green-elves]], the people of distant [[Ossiriand]] in the east. Yet, from [[Doriath]], only [[Mablung]] and [[Daeron]] came with tidings from their [[Thingol|King]].<ref name="Return"/>
+
+The feast was hailed as a great success, and the Elves made common cause there against their great enemy to the north. For a few short years after the Mereth Aderthad, Beleriand enjoyed a time of peace and happiness before plunging into the [[War of the Great Jewels|Wars]] that would eventually destroy it, though the joy at the feast would be remembered for many years after.<ref name="Return"/>
+
+== Etymology ==
+''Mereth Aderthad'' is [[Sindarin]] for "Feast of Reuniting", from the word ''[[mereth]]'' ("feast"),<ref>{{S|Appendix}}, entry "Mereth"</ref> and possibly the word ''[[aderthad]]''.
+
+In the [[Noldorin]] phase of the [[Languages|language]], ''Mereth Aderthad'' is glossed as "Feast of Games and Reuniting".<ref>{{LR|Etymologies}}</ref>
+
+{{references|notes}}
+[[Category:Festivals and feasts]]
+[[Category:First Age]]
+[[Category:Noldorin names]]
+[[Category:Sindarin names]]
+[[de:Mereth Aderthad]]
+[[fr:evenements/1a/mereth aderthad]]
+[[fi:Mereth Aderthad]]

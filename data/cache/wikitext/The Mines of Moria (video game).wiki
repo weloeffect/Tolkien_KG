@@ -1,0 +1,18 @@
+{{expansion}}
+{{disambig-more|Mines of Moria|[[The Mines of Moria (disambiguation)]]}}
+{{video game infobox
+| image = Minesmor-1-.gif
+| name=The Mines of Moria
+| developer=[[Eamon (video game)|Eamon]]
+| publisher=[[Eamon (video game)|Eamon]]
+| platform=[[wikipedia:Apple II|Apple II]]
+| releasedate=[[1985]]
+| genre=Text-adventure
+}}'''''The Mines of Moria''''' is a [[1985]] text-adventure by [[Eamon (video game)|Eamon]],<ref name="Reference1">[http://ifdb.tads.org/viewgame?id=ec36sw7nepy6rdeh The Interactive Fiction Database] (Retrieved 26 October 2010)</ref> being the first in ''[[The Lord of the Rings (Eamon series)|The Lord of the Rings]]'' series,<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/mines-moria.html Tolkien Games] (retrieved 26 October 2010)</ref> and was later followed by ''[[Return to Moria]]''.<ref name="Tolkien Games"/> It was made by [[Sam Ruby]].<ref name="Reference1"/><ref name="Tolkien Games"/>
+
+{{References}}
+{{title|italics}}
+{{DEFAULTSORT:Mines of Moria, The}}
+[[Category:Apple II series games]]
+[[Category:Eamon games]] 
+[[Category:Text-Adventure video games]]

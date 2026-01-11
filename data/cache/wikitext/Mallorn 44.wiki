@@ -1,0 +1,57 @@
+{{Mallorn
+| name=Mallorn 44
+| image = Mallorn44.png
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=[[August]] [[2006]]
+| format=A4 stapled paperback, glossy
+| pages=64
+| issn=0308-6674
+}}
+'''''Mallorn'' 44''' is the forty-fourth issue of the [[The Tolkien Society]]'s annual (as it was then) journal ''[[Mallorn (journal)|Mallorn]]'', published in [[August]] [[2006]]. 
+
+Mallorn 44 was the last issue to be published under the more academic format before the journal was revamped by the new editor, [[Henry Gee]]; as a result of the change of editor and format, [[Mallorn 45]] wasn't published until Spring [[2008]], over 18 months later.
+==Contents==
+* '''Front Cover'''
+** By: [[Pauline Baynes]]
+* '''About the Tolkien Society'''
+* '''Editorial'''
+** By: Len Sanford
+
+* "In the Shadow of the Tree: A study of the motif of the [[White Tree of Gondor|White Tree]] in the context of [[J.R.R. Tolkien|JRR Tolkien]]'s [[Middle-earth]]"
+** By: Michael Cunningham
+* "Jewish influences in Middle-earth"
+** By: Zak Cramer
+* "Tolkien-on-sea: The view from the shores of Middle-earth"
+** By: [[John Ellison]]
+* "Swords and sky stones: Meteoric iron in ''[[The Silmarillion]]''"
+** By: [[Kristine Larsen]]
+* "'Queer, exciting and debatable': Tolkien, and [http://en.wikipedia.org/wiki/Joseph_Henry_Shorthouse Shorthouse]'s ''[http://en.wikipedia.org/wiki/John_Inglesant John Inglesant]''"
+** By: Dale Nelson
+* "[[Frodo Baggins|Frodo]] as [[Beowulf (poem)|Beowulf]]: Tolkien reshapes the [[Old English|Anglo-Saxon]] Heroic Ideal"
+** By: Robert Goldberg
+
+* '''Poetry:''' ''Jack-in-the-Green''
+** By: ''Anon''
+* '''Poetry:''' ''Not marching to the gates of [[Gondolin]]...''
+** By: Poinsetta Took
+
+* "On [[Tom Bombadil]]: The function of Tom Bombadil"
+** By: Klaus Jensen and Ruairidh MacDonald
+* "'I have looked the last on that which is fairest': Elegy in Beowulf and Tolkien's [[Lothlórien|Lothlorien]]"
+** By: Leigh Smith
+* "[[Aragorn]]: Tales of the [[heir of Isildur]]. Part 1 - the evolution of the man"
+** By: Håken Arvidsson
+
+* '''Letters'''
+* '''About the authors'''
+* '''Back Cover:''' ''[[Battle of the Pelennor Fields|The Battle of Pelennor Fields]]''
+** By: Lorenzo Daniele
+
+* '''Inside Art'''
+** By: Lorenzo Daniele, [[John Ellison]], Mary Goulbourn, Neil Loughran, Jeffrey MacLeod, [[Jef Murray]], Bonnie E. Robinson, [[Jill Thwaites]], and [[Kay Woollard]]
+{{mallornnav|43|45}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 44}}
+[[Category:Mallorn (journal)]]

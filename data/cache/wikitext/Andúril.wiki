@@ -1,0 +1,90 @@
+{{disambig-more|Andúril|[[Andúril (disambiguation)]]}}
+{{object infobox
+| name=Andúril
+| image = Artigas - Anduril Flame of the West.jpg
+| caption="Andúril, Flame of the West" by [[:Category:Images by Artigas|Artigas]]
+| pronun={{respell|an|doo|ril}}
+| othernames=''Flame of the West''
+| location=
+| owner=[[Aragorn]], [[Eldarion]], [[High King of the Dúnedain|High Kings of the Dúnedain]]
+| type=Weapon
+| appearance=Long sword
+| creator=Elven-smiths, reforged from [[Narsil]] (created by [[Telchar|Telchar of Nogrod]])
+| created={{TA|3018}}
+| createdlocation=[[Rivendell]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+<center>
+{{quote|Renewed shall be blade that was broken,<br>The crownless again shall be king.|[[Riddle of Strider]]}}</center>
+
+'''Andúril''' was the name for the sword '''[[Narsil]]''' after its reforging in [[Third Age 3018]] for [[Aragorn]], the heir of [[Isildur]]. 
+
+==Appearance==
+Its blade had engraved the designs of [[Seven Stars]] between the rayed [[Sun]] and the crescent [[Moon]],<ref name=South>{{FR|South}}, at the beginning of the chapter in Rivendell</ref> symbols of [[Elendil]], and his sons [[Anárion]] and [[Isildur]]. It also had many [[cirth]]. The sword was very bright, with the light of the sun making it shine red, and in the light of the moon it shined cold.<ref name=South/> Later, it was given an Elven [[Andúril's sheath|sheath]] with a tracery of flowers and leaves wrought of silver and gold and the name Andúril and the lineage of the sword set in elven runes formed of gems.<ref name=Farewell>{{FR|Farewell}}, at the beginning of the chapter in Lórien</ref>
+
+==History==
+Narsil was a symbol of the kingship of [[Arnor]] and [[Gondor]], but was broken at the end of the [[Second Age]]. Its fragments remained an heirloom for the [[Kings of Arnor]], and the [[Chieftains of the Dúnedain]]. 
+
+[[Boromir]], son of the [[Stewards of Gondor|Steward of Gondor]], travelled to [[Rivendell]] for the [[Council of Elrond]] because of the prophetic dream of his brother [[Faramir]]. The dream told him to "[[seek for the Sword that was broken]]".<ref name="CoE">{{FR|Council}}</ref>
+[[File:Darrell Sweet - The Reforging of the Sword.jpg|thumb|left|"The Reforging of the Sword" by [[Darrell Sweet]]]]
+Finally, after three thousand years, when [[Aragorn]] set out for the [[War of the Ring]], Narsil was reforged by Elven smiths of Rivendell, and Aragorn renamed it "Andúril". 
+
+Aragorn carried the sword during his journey south as part of the [[Fellowship of the Ring]], and fought with it, the '''Sword That Was Broken''' or the '''Sword Reforged'''. In his departure of [[Lothlórien]], the first of the [[Gifts of Galadriel]] was [[Andúril's sheath]], specially made for it.<ref Name=Farewell/>
+
+Aragorn often used the sword to help establish his credentials as the [[Heir of Isildur]] and the throne of Gondor.<ref>{{TT|Riders}}, when he met Éomer</ref><ref name=King>{{TT|King}}, when he was about to enter the Golden Hall</ref>
+
+==Etymology==
+{{Pronounce|Anduril.mp3|Ardamir}}
+''Andúril'' means "Flame of the West" in [[Quenya]],<ref>{{PE|17}}, p. 34 (form: ''Andūril'')</ref> composed of ''[[andúnë]]'' ("west") and ''[[ril]]'' ("brilliance"). "West" here refers to [[Númenor]].
+
+==Inspiration==
+Broken swords that are reforged are also seen in the ''Volsungasaga'' and the ''Nibelungenlied''.<ref>{{webcite|articleurl=http://www.tolkiensociety.org/app/uploads/2016/11/Anglo-Saxon-Part-2.pdf|articlename=''Tolkien Society Anglo-Saxon Study Pack 2''|dated=2014|website=TS|accessed=4 January 2020}}</ref>
+
+==Portrayal in adaptations==
+===Andúril in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Ron Chironna - Palantir of Orthanc.jpg|''[[Middle-earth Collectible Card Game]]''
+File:Noble Collection - Andúril.jpg|[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Aragorn.JPG|[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]
+File:The Lord of the Rings Online - Andúril.png|''[[The Lord of the Rings Online]]''
+File:Irvin Rodriguez - Andúril, Flame of the West.jpg|''[[The Lord of the Rings: Tales of Middle-earth]]''
+</gallery>
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:Narsil is reforged after Rivendell, though this reforging is not shown. Neither Narsil nor Andúril are named.
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Narsil is reforged after Rivendell, and Aragorn carries Andúril thereafter.
+
+'''2001: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Because of Aragorn's ''warrior''-persona in this video game, Andúril merely serves as a melee weapon upgrade after Rivendell.<ref name="Veugen">Connie Veugen, "'A Man, lean, dark, tall': Aragorn Seen Through Different Media", published in ''[[Reconsidering Tolkien]]'' (edited by [[Thomas M. Honegger]] ([http://dare.ubvu.vu.nl/bitstream/1871/10975/1/Aragorn_Final.pdf read in PDF]))</ref>  Aragorn does not use the broken sword at any point prior. Notably, the sword's blade is constantly illuminated; it glows red during the day, and blue at night. In the game's credits, artist Jason Rosenstock is explicitly mentioned as the designer of Andúril.<ref>[[Vivendi]], ''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring]]'', User Manual, page 22, "Aragorn Sword Design"</ref>
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Narsil remains broken and Andúril is not reforged in the Fellowship of the Ring movie. Shards of Narsil are kept on a display in [[Rivendell]]. 
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:In ''[[The Two Towers]]'', when asked by [[Háma]] to disarm outside [[Meduseld]], Aragorn is very reluctant, saying that normally he would give up his weapon, "if I bore now any sword but Andúril".<ref name=King/> This scene and dialogue is omitted from the film on the grace that the sword Aragorn surrenders there was not Andúril. 
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:Andúril is not forged from the shards of Narsil until late in the third film. [[Elrond]] had the sword reforged only after [[Arwen]]'s pleading. He then took the sword to Aragorn in the camp of the [[Rohirrim]] at [[Dunharrow]]. Aragorn's acceptance of the sword, along with his decision at that time to take the [[Paths of the Dead]], showed his willingness to accept his destiny of becoming king. 
+
+:In the [[The Lord of the Rings: The Return of the King (extended edition)|extended edition]], the [[Mouth of Sauron]] refers to the blade as Elvish; this could either be a reference to its reforging or a mistake on behalf of the writers.<ref>[[J.R.R. Tolkien]], [[Peter Jackson]], [[Fran Walsh]], [[Philippa Boyens]] (adaptors), [[The Lord of the Rings: The Return of the King (extended edition)|''The Lord of the Rings: The Return of the King'' (extended edition)]], "[[The Mouth of Sauron (scene)|The Mouth of Sauron]]"</ref>
+:Design-wise, Andúril does not differ significantly from its predecessor, Narsil. The only notable difference is the Elvish inscription running up the length of the blade.
+
+'''2003: ''[[The Lord of the Rings: War of the Ring]]'':'''
+:Andúril is represented as a permanent upgrade called "Andúril's Fury" for Aragorn, who is represented as a hero unit. It makes his sword glow white as well as increasing his damage greatly, with bonus damage against enemy Heroes, Wraiths, and the Nazgûl.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:The reforging of Narsil is experienced by the player in the quest arc called "The Blade that was Broken". The player sets out to find the last of the Silithair, shining adamants crafted by Elves of the house of [[Fëanor]] in days of old, in order for the Elven smiths of Imladris to reforge the sword into Andúril.<ref>[http://lorebook.lotro.com/wiki/Quest_Arc:The_Blade_That_Was_Broken Quest Arc: The Blade That Was Broken], Lorebook, lotro.com</ref> 
+
+{{references}}
+{{weapons}}
+
+{{DEFAULTSORT:Anduril}}
+[[Category:Quenya names]]
+[[Category:Swords]]
+[[de:Andúril]]
+[[fr:encyclo:artefacts:armes:anduril]]
+[[fi:Andúril]]

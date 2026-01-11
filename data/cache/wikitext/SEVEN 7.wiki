@@ -1,0 +1,37 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 7
+| image=
+| editor=
+| illustrator=
+| date=[[1986]]
+| format=Paperback journal
+}}
+'''''SEVEN 7''''' is the seventh volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[1986]].
+==Contents==
+*"George MacDonald: A Portrait from His Letters "
+**By: Rolland Hein
+*"Being Somebody Else: Smith's 'Sympathy' and Chesterton's 'Secret'" 
+**By: Norbert Waszek
+*"Provocative Generalizations: ''The Allegory of Love'' in Retrospect"
+**By: Margaret P. Hannay
+*"The Polemic Image: The Role of Metaphor and Symbol in the Fiction of C.S. Lewis"
+**By: Kath Filmer
+*"Appeasing the Gods in C.S. Lewis's ''Till We Have Faces''"
+**By: Peter W. Macky
+*"Tolkien's Concept of Philology as Mythology"
+**By: [[John Ryan|J.S. Ryan]]
+*"Dorothy L. Sayers and the Proper Work of the Playwright "
+**By: George Ralph
+*"(I) Playwrights Are Not Evangelists, (II) Writing a Local Play"
+**By: Dorothy L. Sayers
+*Review Essays:
+**"Scientism and the Flight from Reality"
+***By: Geoffrey Price
+**"Old Thunder: A Life of Hilaire Belloc"
+***By: Aidan Mackey<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|6|8}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 07}}
+
+[[Category:SEVEN]]

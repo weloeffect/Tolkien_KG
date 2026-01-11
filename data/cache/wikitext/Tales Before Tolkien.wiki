@@ -1,0 +1,46 @@
+{{book
+|title=Tales Before Tolkien: The Roots of Modern Fantasy
+| image = Tales Before Tolkien.jpg
+|editor=[[Douglas A. Anderson]]
+|isbn=0345458567
+|publisher=Random House Publishing Group
+|date=November [[2005]]
+|format=Mass Market Paperback
+|pages=517
+}}
+'''''Tales Before Tolkien''''' is a collection of fantasy fiction which inspired [[J.R.R. Tolkien]].
+
+Editor [[Douglas A. Anderson]] has noted that the title ''Tales before Tolkien'' was suggested by the publisher; his original title had been ''Roots of the Mountain: Fantasy before Tolkien''.<ref>[[Douglas A. Anderson]], "The Mainstreaming of Fantasy and the legacy of ''The Lord of the Rings''", in ''[[The Lord of the Rings 1954-2004]]'', p. 314 (note 31)</ref>
+
+==From the publisher==
+{{blockquote|For those interested in [[J.R.R. Tolkien]]'s sources comes Tales Before Tolkien: The Roots of Modern Fantasy, edited by [[Douglas A. Anderson]] ([[The Annotated Hobbit]]), which collects 22 classic stories by such masters as [[George MacDonald]], [[Andrew Lang]], [[Lord Dunsany]] and [[James Branch Cabell]]. Arthur Machen aficionados will especially appreciate "The Coming of the Terror" (an abridgement of his short novel The Terror), hitherto unreprinted since its initial magazine appearance in 1917. Copyright 2003 Reed Business Information.|Publishers Weekly}}
+
+==Contents==
+*"The Elves" by Ludwig Tieck
+*"The Golden Key" by George Macdonald
+*"Puss-Cat Mew" by E. H. Knatchbull-Hugessen
+*"The Griffin and the Minor Canon" by Frank R. Stockton
+*"The Demon Pope" by Richard Garnett
+*"The Story of Sigurd" by Andrew Lang
+*"The Folk of the Mountain Door" by William Morris
+*"Black Heart and White Heart" by H. Rider Haggard
+*"The Dragon Tamers" by E. Nesbit
+*"The Far Islands" by John Buchan
+*"The Drawn Arrow" by Clemence Housman
+*"The Enchanted Buffalo" by L. Frank Baum
+*"Chu-bu and Sheemish" by Lord Dunsany
+*"The Baumhoff Explosive" by William Hope Hodgson
+*"The Regent of the North" by Kenneth Morris
+*"The Coming of the Terror" by Arthur Machen
+*"The Elf Trap" by Francis Stevens
+*"The Thin Queen of Elfhame" by James Branch Cabell
+*"The Woman of the Wood" by A. Merritt
+*"Golithos the Ogre" by E. A. Wyke-Smith
+*"The Story of Alwina" by Austin Tappan Wright
+*"A Christmas Play" by David Lindsay
+
+{{References}}
+{{title|italics}}
+[[Category:Books by Douglas A. Anderson]]
+[[Category:Fiction books]]
+[[Category:Publications by title]]

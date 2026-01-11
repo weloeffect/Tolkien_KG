@@ -1,0 +1,45 @@
+{{disambig-two|the battle|chapter of the same name|[[The Fall of Nargothrond]]}}
+{{battle
+| image = Abe Papakhian - Turin and Glaurung.jpg
+| name=Fall of Nargothrond
+| conflict=[[Battles of Beleriand|War of the Jewels]]
+| date={{FA|495}}<ref>{{GA|275}}</ref><ref>{{S|Turin}}, 'when four hundred and ninety-five years had passed since the rising of the Moon'</ref>
+| place=[[Nargothrond]]
+| result=Victory for [[Morgoth]]
+* Utter destruction of Nargothrond
+| side1=[[Elves of Nargothrond]]
+| side2=Forces of [[Morgoth]]
+| commanders1=Unknown
+| commanders2=[[Glaurung]]
+| forces1=Unknown
+| forces2=Unknown
+| casual1=Majority of the inhabitants killed or enslaved, few survivors
+| casual2=Unknown
+}}
+The '''Fall of Nargothrond''', also known as the '''Sack of Nargothrond''', was the overthrow and destruction of the city by that name, wrought by [[Glaurung]] and his hordes, in {{FA|495}}.
+
+==Background==
+When it was known in [[Nargothrond]] that [[Mormegil]] was actually [[Túrin]], he was honored by [[Orodreth]] and became even more powerful within the realm. Wishing to make greater war against [[Morgoth]], Túrin ordered the construction of a mighty [[Bridge of Nargothrond|bridge over Narog]], so the host of Nargothrond could cross the river more easily.
+
+In the spring of {{FA|495}}, the Elves [[Gelmir (messenger of Círdan)|Gelmir]] and [[Arminas]] came to Nargothrond in name of [[Círdan]], bringing news from [[Ulmo]]: [[Eithel Sirion]] had been tainted by [[Morgoth]], so his power was now withdrawn from the [[Sirion]]; therefore, Nargothrond had to close its [[Doors of Felagund|Doors]] and its bridge destroyed, so the Enemy would not find the hidden realm.<ref>{{CH|11}}</ref> Orodreth was troubled with this warning, but Túrin didn't hearken it, and kept the open war against the Orcs.
+
+==History==
+===Prelude===
+{{main|Battle of Tumhalad}}
+After hearing reports of a great mustering of Orcs under the shadow of [[Ered Wethrin]], Túrin counselled Orodreth, to meet them in open battle. The army of Nargothrond went forth to meet them but were driven back into the field of [[Tumhalad]] and were utterly defeated, and Orodreth was slain there. The Orc-host led by [[Glaurung]] then moved towards the hidden stronghold.
+
+===Battle===
+[[File:Pete Amachree - Assault on Nargothrond.jpg|thumb|300px|"Assault on Nargothrond" by [[:Category:Images by Pete Amachree|Pete Amachree]]]]
+The guards of Nargothrond were aware of what had happened in Tumhalad but were powerless to stop the assault of the enemies, as the [[Bridge of Nargothrond|bridge over Narog]] proved a ruin and could not be swiftly destroyed. Thus, Glaurung and his [[Orcs]] crossed the river, and the dragon unleashed his fire upon the [[Doors of Felagund]] and passed through. The great halls and chambers were plundered and destroyed, those with arms were driven off or killed and the women and maidens, including Orodreth's daughter [[Finduilas]], were herded to be taken as slaves to [[Angband]].
+
+Coming late to the sack were Túrin and some few other survivors of Tumhalad. Túrin crossed the bridge full of woe, and nobody could stop him, so he reached the entry to the realm, where the captives were dragged out. Then Glaurung came out and lay between Túrin and the bridge, saluting him. Túrin was alone, as his followers had fled, but tried to attack the dragon. Glaurung casted a spell upon him, halting him completely moveless, and forced to watch as the captives were driven away. Then Glaurung released Túrin, knowing the evils this would cause.
+
+===Aftermath===
+The captives were taken away towards [[Angband]] but Glaurung stayed and destroyed the bridge over the [[Narog]]. He gathered all the treasures of the city and laid upon them and rested. The survivors of the sack eventually made their way to Doriath,<ref>{{S|Turin}}</ref> some possibly fled as far as the [[Mouths of Sirion]].
+
+==Other versions of the legendarium==
+The battle appears in Tolkien's earliest writings of the [[Narn i Chîn Húrin (tale)|Narn]] in [[Turambar and the Foalókë]]. There are a few differences between the early version of the tale and later writings, one of which is the absence of the great bridge that was built over the Narog.<ref>{{LT2|II}}</ref> Túrin is present during the sack defending the home of Galweg the father of Failivrin ([[Finduilas]]). Flinding ([[Gwindor]]) is also beside him and falls not soon after pierced by arrows. Glorund arrives much later during the sack and his confrontation with Túrin is remarkably different than in The Silmarillion.<ref name="com">{{LT2|IIn}}</ref> The treasures of the Rodothlim were laid above the stream and Glorund slept before it in the open, which Christopher pointed out in his notes that this was odd and uncharacteristic.<ref name="com"/>
+
+{{references}}
+[[Category:Conflicts in The Book of Lost Tales]]
+[[Category:Conflicts of the First Age]]

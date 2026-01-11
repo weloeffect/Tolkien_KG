@@ -1,0 +1,19 @@
+{{journal
+| title=Monash Review 3
+| image = Monash Review 3.png
+| editor=Unknown
+| illustrator=
+| publisher=[[Wikipedia:Monash University|Monash University]] Information Office
+| date=July [[1975]]
+| format=
+| pages=4
+| issn=
+}}
+The '''''Monash Review'' 3 (1975)''' features the article "Fantasy that! — a Tolkien original". The article reproduces parts of [[J.R.R. Tolkien]]'s poem ''[[Visio de Doworst|Do Worst]]'' and describes its background. The same article also includes a transcription and reproduction of [[Letter to R.W. Chambers|a letter from Tolkien to R.W. Chambers]].<ref>{{webcite|author=|articleurl=http://www.adm.monash.edu.au/records-archives/assets/docs/pdf/monash-review/1975-3.pdf|articlename=Monash Review 3 (1975)|dated=|website=[http://www.adm.monash.edu.au/records-archives/ Monash University Records & Archives Services]|accessed=27 February 2012}}</ref><ref>{{webcite|author=|articleurl=http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1805&forum=9&post_id=9618#forumpost9618|articlename=Doworst in 'Monash Review'|dated=|website=Guide|accessed=27 February 2012}}</ref>
+
+==External links==
+*[http://www.adm.monash.edu.au/records-archives/assets/docs/pdf/monash-review/1975-3.pdf Online reprint]
+{{DISPLAYTITLE:''Monash Review'' 3 <span style="font-size:0.7em">(1975)</span>}}
+{{References}}
+[[Category:Magazines]]
+[[Category:Publications by title]]

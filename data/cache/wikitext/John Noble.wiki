@@ -1,0 +1,29 @@
+{{actor
+| image = John Noble.jpg
+| name= John Noble
+| lifetime= [[20 August|August 20]], [[1948]]
+| played= [[Denethor]]
+| film= [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2=
+| film2=
+| imdb= [http://www.imdb.com/name/nm0633604/ Profile]
+}}
+
+Australian actor and director '''John Noble''' (born 1948) played [[Denethor]] in ''[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]. In the credits of the [[The Lord of the Rings: The Two Towers (extended edition)|Extended edition]] of ''[[The Lord of the Rings: The Two Towers]]'', he is accidentally credited as "John Nogle". 
+
+==Quotes==
+{{quote|The main thing about Denethor is that he's a father, which is something I can relate to very strongly. The approach I took was he's a powerful father, a good man, but he's inexorably drawn to his own destruction because of his grief.|John Noble on Denethor, lordoftherings.net}}
+==Awards==
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+== External links ==
+* '''[http://www.johnnoble.net/ Official Website]'''
+* {{WP|John Noble}}
+
+{{DEFAULTSORT:Noble, John}}
+[[Category:Actors and actresses]]
+[[Category:Australian people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]

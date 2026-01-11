@@ -1,0 +1,34 @@
+{{Adaptation}}
+{{kingdom
+| image=
+| caption=
+| name=Chey Sart
+| pronun=
+| othernames=
+| location=West of the Ered Harmal and [[Khand]]
+| capital=
+| towns=
+| regions=
+| population=
+| language=
+| govern1=Fire King <small>(after {{SA|2000}})</small>
+| currency=
+| holiday=
+| precededby=
+| event1=
+| event1date=
+| event2=
+| event2date=
+| followedby=
+| map=[[File:Map of Chey Sart.jpeg|thumb|Excerpt from [[Pete Fenlon]]'s “[[An Artist's Interpretation of Middle Earth]]”, showing Chey Sart and the Ered Harmal]]
+}}In [[Middle-earth Role Playing]], '''Chey Sart''' was grasslands region surrounding the black-peaked volcano Ulk Chey Sart, to the west of the Ered Harmal mountains and [[Khand]]. 
+
+It was the center of the Chey culture, as well as the kingdom of [[Eighth of the Nazgûl|Ren the Unclean]].<ref name="map">{{EndorMap|CheySart}}</ref> 
+== History ==
+After a plague in {{SA|1998}} left illusionist Ren with a twisted mind, he dubbed himself Fire King and Son of Ulk Chey Sart. Gaining followers, he had subjugated the Chey territories by {{SA|2000}}. Unbelievers among the Chey tribes were purged.<ref name="nazgul">{{ICE|8003}}, pp. 94-95</ref>
+
+The First Chey Expansion ({{SA|2155}}-{{SA|2693|n}}) saw the Fire King expanding his empire into to the lands of Dalpygis, Khargagis Ahar, Heb Aaraan, and Orgothraath. The Second Chey Expansion  ({{SA|2899}}-{{SA|3261|n}}) then expanded into Vaag, Acaana, and western Gaathgykarkan. With the help of the [[Variags]] of [[Ninth of the Nazgûl|Ûvatha]], Ren also conquered the the rest of Kargagis Ahar and Rycolis.<ref name="nazgul"/>
+
+After the [[War of the Last Alliance]], the empire waned and split back into tribes. The Chey often faced Variag and Nûriag oppression. After Ren returned to Middle-earth in {{TA|1050}}, he returned to his volcano, which he expanded into an underground citadel. From there, he once again started subjugating the tribes. He had achieved this by {{TA|1264}}. The two periods during which Ren reigned in Chey Sart, from {{TA|1264}} to {{TA|1640|n}} and from {{TA|2063}} to {{TA|2941|n}} were times of prosperity and expansion for the Chey.<ref name="nazgul"/>
+{{references}}
+[[Category:Middle-earth Role Playing locations]]

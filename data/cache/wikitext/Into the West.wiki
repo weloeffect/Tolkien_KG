@@ -1,0 +1,85 @@
+{{song
+| title=Into The West
+| subtitle=performed by Annie Lennox
+| album=[[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], [[Annie Lennox]]
+| image=The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=5:47
+| track=19
+| previous=[[The Grey Havens (soundtrack)|The Grey Havens]]
+| spotify=https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX
+}}
+'''Into the West''' is a song written by [[Fran Walsh]], [[Howard Shore]] and [[Annie Lennox]], and performed by Lennox for [[Peter Jackson|Peter Jackson's]] ''[[The Lord of the Rings: The Return of the King]]''.
+
+It was the nineteenth and final track of ''[[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack]]'' and formed part of [[Days of the Ring]], track seven of disc four of ''[[The Lord of the Rings: The Return of the King - The Complete Recordings]]''.
+
+The song was conceived as a bittersweet [[Elves|Elven]] lament for those who have sailed across the [[Belegaer|Sundering Seas]].
+
+In the commentaries and documentaries accompanying the [[The Lord of the Rings: The Return of the King (extended edition)|extended DVD edition]] of the movie, director [[Peter Jackson]] explained that the song was partially inspired by the premature death from cancer of 17-year-old [[New Zealand]] filmmaker [[wikipedia:Cameron Duncan|Cameron Duncan]] whose work had impressed Jackson and his team. The first public performance of the song was at Duncan's funeral.
+
+The song won the Academy Award for ''Achievement in music written for motion pictures (Original song)'' at the 76th Academy Awards, one of the movie's eleven Oscars.
+==Lyrics==
+{{Blockquote|<poem>
+Lay down
+Your sweet and weary head
+Night is falling
+You have come to journey's end
+
+Sleep now
+Dream — of the ones who came before
+They are calling
+From across the distant shore
+
+Why do you weep?
+What are these tears upon your face?
+Soon you will see
+All of your fears will pass away
+
+Safe in my arms
+You're only sleeping
+
+What can you see
+On the horizon?
+Why do the white gulls call?
+
+Across the sea
+A pale moon rises
+The ships have come
+To carry you home
+
+And all will turn to silver glass
+A light on the water
+All souls pass
+
+Hope fades
+Into the world of night
+Through shadows falling
+Out of memory and time
+
+Don't say
+We have come now to the end
+White shores are calling
+You and I will meet again
+
+And you'll be here in my arms
+Just sleeping
+
+What can you see
+On the horizon?
+Why do the white gulls call?
+
+Across the sea
+A pale moon rises
+The ships have come
+To carry you home
+
+And all will turn to silver glass
+A light on the water
+Grey ships pass
+Into the West
+</poem>}}
+
+{{lordoftheringsfilms}}
+[[Category:The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack]]
+[[fi:Into the West]]

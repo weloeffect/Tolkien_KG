@@ -1,0 +1,88 @@
+{{expansion}}
+{{Board game infobox
+| name=Middle-earth Strategy Battle Game
+| image=Middle Earth Strategy Battle Game logo.png
+| designer=
+| publisher=[[Games Workshop]]
+| releasedate=[[2001]]
+| players=Two or more
+| ages=
+| type=wargame
+}}
+[[Image:Lord of the Rings Strategy Battle Game logo.png|right|thumb|Original logo]]
+[[File:The Hobbit Strategy Battle Game logo.png|right|thumb|2012 logo]]
+The '''Middle-earth Strategy Battle Game''' is a tabletop miniature wargame produced by [[Games Workshop]]. It is based on [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]] and [[The Hobbit (film series)|''The Hobbit'' film series]] directed by [[Peter Jackson]] and [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]'' and ''[[The Hobbit]]''.
+
+It was formerly known as '''The Lord of the Rings Strategy Battle Game''' when it released in [[2001]] to coincide the release of the film adaptations. Another set of miniatures was produced for The Hobbit films in [[2012]] known as '''The Hobbit Strategy Battle Game'''.<ref>{{webcite|author=|articleurl=http://www.amazon.co.uk/Games-Workshop-Hobbit-Strategy-Battle/dp/1908872535/ref=sr_1_1?ie=UTF8&qid=1359568007&sr=8-1|articlename=Games Workshop: Hobbit Strategy Battle Game Rule Book|dated=|website=AMUK|accessed=30 January 2013}}</ref> Both games were merged together under a new name along with a new rules manual.
+
+==Development==
+===Background===
+In the 1980s, Games Workshop produced a range of miniatures for ''[[The Lord of the Rings]]'', using original character designs based on fantasy art popular of the time.<ref name=Citadel>[http://realmofzhu.blogspot.com/2010/05/1980s-citadel-lord-of-rings-white-dwarf.html 1980s Citadel Lord of the Rings/White Dwarf Index] at [http://realmofzhu.blogspot.com/ Realm of Zhu] (accessed 18 September 2011)</ref> This was the first range of Lord of the Rings miniatures that Citadel created, taking over from [[Grenadier Models Inc.|Grenadier Miniatures]] in 1985, before the license passed to [[Mithril Miniatures]] around 1987. The earliest releases were semi-solid base, having a small solid base; later releases were slot based.
+===Release===
+The game was initially released in [[2001]] to coincide in with the film ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]''.  New box sets with updated rules were also released for ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' films.  Later, beginning with the ''[[Shadow and Flame|Shadow & Flame]]'' supplement, Games Workshop began to add content that was featured in the original book but not in the film adaptations: eg. [[Tom Bombadil]], [[Radagast]] and [[Glorfindel]].  Games Workshop has also expanded its license with original material on areas such as [[Harad]] and [[Khand]], with mixed reactions.  The most recent complete edition of the rules, ''[[The Lord of the Rings Strategy Battle Game: Rulebook]]'', was released by Games Workshop in September 2005, while a compact edition of the rules came with the ''[[Mines of Moria (2005 boxed set)|Mines of Moria Boxed Set]]''.
+ 
+In early [[2009]] Games Workshop also released an expansion to the original game called ''[[War of the Ring (2009 book)|War of the Ring]]'' which, according to the company, allows players to emulate the large battles included in [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]'' by streamlining the game system.
+ 
+In addition to gaming, The Lord of the Rings Strategy Battle Game includes other common elements of the miniature wargaming hobby.  These include the collecting, painting and conversion of miniature figures used in play, as well as the modelling of gaming terrain from scratch.  These aspects of the hobby are covered in Games Workshop's monthly ''[[White Dwarf]]'', as well as formerly in the fortnightly ''[[Battle Games in Middle-earth]]''.
+
+===Current licensing===
+The current Lord of the Rings range stems from Games Workshop's rights from [[Middle-earth Enterprises]] to produce a skirmish war game based on the films, and also on ''[[The Lord of the Rings]]'' and ''[[The Hobbit]]'' books, in the 25mm miniature scale.<ref group=note>Note that these figures are 25 mm and not the 28 mm figures that are more popular today ([https://web.archive.org/web/20100410115901/http://www.io.com/~beckerdo/minis/mini28/LotRMoria/ ''Painting the Lord of the Rings Mines of Moria Game''], accessed 17 January 2023).</ref> (The rights to produce a role playing game version of the films were sold to another firm, [[Decipher, Inc.]]) They also have the rights to produce a board game based on The Hobbit, called ''[[The Battle of Five Armies (2005 board game)|The Battle of Five Armies]]'', using smaller miniatures to enact larger battles.<ref>[https://web.archive.org/web/20060103192453/http://uk.games-workshop.com/storefront/store.uk?do=Individual&code=60011699001&orignav=9 Games Workshop Online Store (16 December 2005)] (accessed 17 January 2023)</ref>
+
+Games Workshop has not acquired the rights to ''[[The Silmarillion]]'', which is still the exclusive property of the [[Tolkien Estate]], but has the right to develop its own derivative intellectual property to fill in the gaps in Tolkien's [[legendarium]]. This is particularly true of [[Harad]], which has a range of invented places (such as "Kârna", "Badharkân", "Hidâr", "Nâfarat", "Abrakân", and "Dhâran-sar"<ref name="BOPF">{{GW|BP}}</ref>) and characters (such as the Hasharin<ref name="BOPF"/> and "Dalamyr, Fleetmaster of Umbar"<ref name="LOME">{{GW|Legions}}</ref>).
+
+==Products==
+===Books and magazines===
+<small>''See also [[White Dwarf]]''</small>
+*[[2001]]: ''[[The Lord of the Rings Strategy Battle Game: The Fellowship of the Ring|The Fellowship of the Ring]]'' (rulebook)
+*[[2002]]: ''[[The Fellowship of the Ring: The Best of White Dwarf Magazine]]''
+*[[2003]]: ''[[The Lord of the Rings Strategy Battle Game: The Two Towers|The Two Towers]]'' (rulebook)
+*[[2003]]: ''[[The Lord of the Rings Strategy Battle Game: The Return of the King|The Return of the King]]'' (rulebook)
+*[[2003]]: ''[[Shadow and Flame|Shadow & Flame]]''
+*[[2003]]: ''[[The Two Towers: The Best of White Dwarf Magazine]]''
+*[[2004]]: ''[[The Return of the King: The Best of White Dwarf Magazine]]''
+*[[2004]]: ''[[Siege of Gondor (book)|Siege of Gondor]]''
+*[[2004]]: ''[[The Battle of Pelennor Fields]]''
+*[[2004]]: ''[[The Scouring of the Shire (book)|The Scouring of the Shire]]''
+*[[2005]]: ''[[Mines of Moria (2005 boxed set)|Mines of Moria]]''
+*[[2005]]: ''[[The Lord of the Rings Strategy Battle Game: Rulebook]]''
+*[[2006]]: ''[[Legions of Middle-earth]]''
+*[[2006]]: ''[[A Shadow in the East]]''
+*[[2006]]: ''[[Fall of the Necromancer]]''
+*[[2006]]: ''[[The Ruin of Arnor]]''
+*[[2007]]: ''[[Mordor (book)|Mordor]]''
+*[[2007]]: ''[[Khazad-Dûm (book)|Khazad-Dûm]]''
+*[[2007]]: ''[[Gondor in Flames]]''
+*[[2008]]: ''[[Harad (book)|Harad]]''
+*[[2009]]: ''[[War of the Ring (2009 book)|War of the Ring]]''
+*[[2010]]: ''[[War of the Ring: Battlehosts]]''
+*[[2012]]: ''The Hobbit: An Unexpected Journey Strategy Battle Game''
+*[[2013]]: ''The Hobbit: The Desolation of Smaug Strategy Battle Game''
+*[[2014]]: ''The Hobbit: The Battle of the Five Armies Strategy Battle Game'' 
+*[[2018]]: ''Middle-earth Strategy Battle Game: Rules Manual''
+*[[2018]]: ''Armies of The Hobbit''
+*[[2018]]: ''Battle Companies (1st Edition)''
+*[[2019]]: ''Gondor at War''
+*[[2019]]: ''Battle Companies (2nd Edition)''
+*[[2019]]: ''Scouring of the Shire''
+*[[2019]]: ''War in Rohan''
+*[[2019]]: ''Armies of The Lord of the Rings''
+*[[2020]]: ''Middle-earth Strategy Battle Game: Matched Play Guide''
+*[[2020]]: ''Quest of the Ringbearer''
+*[[2020]]: ''The Best of White Dwarf Magazine''
+*[[2021]]: ''Fall of the Necromancer''
+*[[2022]]: ''Defence of the North''
+*[[2024]]: ''Rise of Angmar''
+*[[2024]]: ''The War of the Rohirrim: Battle of Edoras''
+
+==See also==
+* [[:Category:Images of SBG miniatures|Images from The Lord of the Rings Strategy Battle Game]]
+* [[:Category:Images from The Hobbit Strategy Battle Game|Images from The Hobbit Strategy Battle Game]]
+
+==External links==
+* [https://middle-earthstrategybattlegame.com/ Middle-earth Strategy Battle Game]
+
+{{References|note}}
+{{Miniatures}}
+{{DEFAULTSORT:Lord of the Rings Strategy Battle Game}}
+[[Category:Miniatures games]]
+[[Category:Miniature collectibles]]

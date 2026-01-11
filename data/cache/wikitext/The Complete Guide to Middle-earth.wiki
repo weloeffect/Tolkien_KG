@@ -1,0 +1,112 @@
+{{book
+| title=The Complete Guide to Middle-earth
+| image = Complete Guide us 1974.jpeg
+| author=[[Robert Foster]]
+| illustrator=[[Ted Nasmith]] (2003 UK edition)
+| publisher=[[Ballantine Books]] (US)<br>[[George Allen & Unwin]] (UK)
+| date=March [[1978]] (US)<br>1978 (UK)
+| format=Hardcover; paperback; deluxe edition
+| pages=298
+| isbn=034524138X
+}}
+'''''The Complete Guide to Middle-earth''''' is a reference book for [[J.R.R. Tolkien]]'s fictional universe [[Middle-earth]], compiled and edited by [[Robert Foster]].
+
+It was first published in [[1971]] under the title '''''A Guide to Middle-earth'''''. In [[1978]] it was revised and enlarged, changing its title to the one currently using. It received a third edition in [[2001]].
+
+The book is widely recognized as an excellent reference book on Middle-earth.<ref>{{CG|Pr}}, p. xii</ref><ref>[[Michael Drout]], ''[[J.R.R. Tolkien Encyclopedia]]''</ref> [[Christopher Tolkien]] has commended it himself as an "admirable work of reference".<ref>{{UT|Intro}}</ref>
+
+A new edition was released on [[1 September|1st September]] [[2022]], by [[HarperCollins]].
+
+==Book structure==
+A standard entry in the book consists of: a name; the language it belongs to; its translation from [[Elvish]], [[Adûnaic]], and sometimes [[Old English]] when known; and known dates when a character flourished; the first lines of the entry usually give a general definition of the topic, like race, heritage, and role (in case of a character), leading to a chronological description or biography. The last paragraphs of the entry give a physical description or characteristics of the character with some speculations; the final paragraph gives the topic's alternative names, epithets, translation to other languages, and/or redirects to other entries.
+
+The ''Guide'' is generally inclusive and there is no limitation to the topics it covers; it includes even obscure and little explored topics, like individual entries on each single name of the [[Tengwar]]. Many entries are simply epithets and only redirect to the names of their main entries.
+
+The book begins with an introduction, an abbreviations legend, and concludes with two appendices. The first appendix is a [[Timeline/First Age|chronology]] of the [[First Age]] in order to complement the [[Appendix B|Tale of Years]], and contains a prologue on Foster's reasoning and calculations based solely on descriptions in the ''Silmarillion''; the second appendix is genealogical trees of the [[Edain#The Three Houses|Three Houses of the Edain]], the [[Kings of Númenor]], the [[Kings of Gondor]] and [[Kings of Arnor|Arnor]], the [[House of Húrin]], and the [[Kings of Rohan]].
+
+==Differences between editions==
+=====US editions<ref>Edgecomb, Kevin P. (2022) "A Publication History of The Complete Guide to Middle-earth by Robert Foster," Journal of Tolkien Research: Vol. 14: Iss. 1, Article 2. Available at: https://scholar.valpo.edu/journaloftolkienresearch/vol14/iss1/2 (Accessed 19 July 2022)</ref>=====
+'''1971''' — ''A Guide to Middle-earth'', published by Mirage Press. This edition contained only information from ''[[The Lord of the Rings]]'' and ''[[The Hobbit]]'', as it was before the publication of ''[[The Silmarillion]]''. It was also included in a four-volume boxed set: ''[[J.R.R. Tolkien: the Man and His Myth]]''.
+
+'''1978''' — ''The Complete Guide to Middle-earth'', published by [[Ballantine Books]]. This is the revised and expanded edition, incorporating content from ''The Silmarillion'' (1977). The book length is almost doubled, extending the number of entries from 2276 to 3257. However, as it does not include information on post-''Silmarillion'' material (i.e. ''[[Unfinished Tales]]'' and ''[[The History of Middle-earth]]''), this edition contains some statements contradicted by later publications.
+
+'''2001''' — further revised, including "further entries and information based on [[Christopher Tolkien]]'s efforts".<ref>Nelson, Charles W. Journal of the Fantastic in the Arts, vol. 13, no. 2 (50), 2002, pp. 190–92. JSTOR, http://www.jstor.org/stable/43308582. (Accessed 19 July 2022)</ref> Published by Ballantine Books.
+
+=====UK editions=====
+'''1978 & 1993''' — first by [[George Allen & Unwin]] then by [[HarperCollins]], the text is based on the 1978 Ballantine edition. By the time of 1993 the editions of Tolkien’s works to which the references are keyed were long out of print.
+
+'''2003''' — by HarperCollins. This edition is richly illustrated by [[Ted Nasmith]], with front cover and 50 interior illustrations. It includes an 8-page commentary on the illustrations, written by the artist. It has been well-received for its illustrations, paper, and binding. However, as pointed out by [[Christina Scull]],<ref>{{HM|A}}Hammond, Wayne G.; Scull, Christina, ''[[J.R.R. Tolkien: A Descriptive Bibliography]]''</ref> the book suffers from several issues: the relegation of all references formerly in the entries to an appendix, and an unfortunate inconsistency in italicization, which makes cross-referencing difficult.
+
+'''2022''' — a new edition was released in [[1 September]], [[2022]], by HarperCollins. This edition includes several more of Ted Nasmith's illustrations, and has received some small revisions. It also comes with a deluxe version.<ref>{{webcite|articleurl=https://www.waterstones.com/book/the-complete-guide-to-middle-earth/robert-foster/ted-nasmith/9780008537814|articlename=The Complete Guide to Middle-earth: The Definitive Guide to the World of J.R.R. Tolkien (Hardback)|website=[https://www.waterstones.com/christmas Waterstones]|accessed=1-September-2022}}</ref>
+
+==Accuracy==
+Since no edition of the book includes info on post-''Silmarillion'' material (i.e. ''[[Unfinished Tales]]'' and ''[[The History of Middle-earth]]'' series), in points it could be outdated or in error.
+*'''Introduction''': It is explained that death dates of those who sailed to the West are not given in their characters' entries because "they may live still". While this can be true for [[Gandalf]] and the [[Elves]], this is also implied for [[Bilbo Baggins|Bilbo]], [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]] and [[Gimli]]. This may contradict Tolkien's concept that the Undying Lands do not grant [[immortality]].<ref>{{L|154}}</ref><ref>{{L|246}}</ref>
+
+*'''[[Tar-Aldarion]]''': Foster speculates that the tragic relations with his [[Tar-Meneldur|father]] and [[Erendis|wife]] were because he left no male heirs. The later published text ''[[Aldarion and Erendis: The Mariner's Wife|Aldarion and Erendis]]'' gives a detailed account on their relationship, mostly owing to Aldarion's obsession with [[the Sea]].
+
+*'''[[Ambar]]''': Foster relates the [[Elvish]] words ''ambar'' ("world") and ''[[umbar]]'' ("fate"). In the entry of Ambar, he mentions it is a concept related to fate of the world. The manuscript ''[[Parma Eldalamberon 17|Words Phrases, and Passages]]'' later showed that while the two words are indeed related (through the [[Sundocarme|root]] ''[[MBAR]]'' "settle"), they are distinct in meaning.
+
+*'''[[Elendilmir|Star of Elendil]]''': The royal symbol Elendilmir, and the [[Star of the Dúnedain]] given by [[Aragorn]] to [[Samwise Gamgee]], are considered to be the same. This was not agreed by [[Christopher Tolkien]].<ref>{{UT|7}}, Footnote 33, p. 284</ref>
+
+*'''[[Buckland]]''': The date {{FoA|42}} is mentioned as the date when Buckland and the [[Westmarch]] were officially added to the [[Shire]] by the gift of King [[Aragorn|Elessar]]. There are two mistakes in this statement: 1. The date has been corrected as {{SR|1452}} in later editions of the ''Lord of the Rings''; 2. Tolkien did not mention that Buckland joined the Shire: in the ''[[Prologue Concerning Hobbits, and other matters|Prologue]]'' a semi-colon is intended to show that the Westmarch was added, but not Buckland.<ref>See [[Buckland#Part of the Shire.3F|here]] and the [[Talk:Buckland|discussion here]]</ref>
+
+*'''[[Dolmed]]''': Foster suggests that the mountain was perhaps destroyed at the end of the [[First Age]] when the [[Gulf of Lune]], broke through the [[Blue Mountains]]; while this may be true, the text does not mention anything about it.<ref>[http://www.jrrvf.com/hisweloke/site3/ Hiswelókë], "[http://www.jrrvf.com/hisweloke/site3/articles.php?lng=en&pg=41 Mont Dolmed & cités naines]"</ref>
+
+*'''[[Gollum]]''': Foster mentions that [[Déagol]] was [[Sméagol]]'s cousin while this is not mentioned in the texts. Tolkien went only as far as to suppose he was "evidently a relative (as no doubt all the members of the small community were)"<ref>{{L|214}}</ref>
+
+*'''[[Gwaihir]]''': Foster reproduces the fan conception merging the character of the [[Great Eagle]] of ''The Hobbit'' to that of [[Gwaihir]], whereas nowhere is it implied in ''The Lord of the Rings'' that Gwaihir is [[Lord of the Eagles]].
+
+==Publication gallery==
+;US editions
+<gallery mode="traditional" widths="120px" heights="125px">
+File:Complete Guide us 1971.jpeg ‎|1971 hardcover
+File:Complete Guide us 1974.jpeg |1974 paperback
+File:Complete Guide us 1978.png |1978 hardcover
+File:Complete Guide us 1979.jpeg |1979 paperback
+File:Complete Guide us 1985.jpeg |1979 paperback 5th impression
+File:Complete Guide us 2001.jpeg |2001 paperback
+File:Complete Guide us 2003.jpg |2003 hardcover
+File:Complete Guide us 2001 new.jpeg |2001 paperback<br>?th impression
+</gallery>
+*Mirage Press, hardcover ([[1971]]), pp.&nbsp;298.
+*[[Ballantine Books]] paperback ([[1974]]), ISBN 034524138X - (cover art by [[Tim Kirk]])
+*[[Ballantine Books]] hardcover ([[1978]]), pp.&nbsp;576. ISBN 0345275209 - (cover art by [[The Brothers Hildebrandt]])
+*[[Ballantine Books]] paperback ([[1979]]), ISBN 0345279751
+**1979 paperback edition, 5th impression ([[1985]])
+*[[Ballantine Books]] paperback ([[2001]]), ISBN 0345449762
+*[[Ballantine Books]] hardcover ([[2003]]), ISBN 0345465296
+**2001 paperback edition, ?th impression (?)
+
+;UK editions
+<gallery mode="traditional" widths="120px" heights="125px">
+File:Complete Guide uk 1978 hc.jpeg ‎|1978 hardcover
+File:Complete Guide uk 1978 pb.jpeg |1978 paperback
+File:Complete Guide uk 1988.jpeg |1978 paperback<br>?th impression
+File:Complete Guide uk 1993.jpeg |1993 paperback
+File:Complete Guide uk 2003.jpeg |2003 hardcover
+File:Complete Guide uk 2022 hc.jpeg |2022 hardcover
+File:Complete Guide uk 2022 de.jpeg |2022 hardcover deluxe edition
+File:Complete Guide uk 2025 pb.jpg |2025 paperback
+</gallery>
+*[[George Allen & Unwin]] hardcover ([[1978]]), pp.&nbsp;468. ISBN 0048030023
+*[[Unwin Paperbacks]] paperback ([[1978]]), ISBN 0048030015
+**1978 paperback edition, ?th impression ([[1988]]?) - (cover art by [[Linda Garland]])
+*[[HarperCollins]] paperback ([[1993]]), ISBN 0261102524
+*[[HarperCollins]] hardcover ([[2003]]), pp.&nbsp;528. ISBN 0007169426 - (illustrated by [[Ted Nasmith]])
+*[[HarperCollins]] hardcover ([[2022]]), pp.&nbsp;512. ISBN 000853781X - (illust. by T. N.)
+*[[HarperCollins]] hardcover with slipcase ([[2022]]), ISBN 0008537828 - (illust. by T. N.)
+*[[HarperCollins]] paperback ([[2025]]), ISBN 0008613214
+
+==External links==
+* [https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=42219#forumpost42219 Review of the 2022 edition] on [[Tolkienguide.com|Tolkien Collector's Guide]]
+*[https://www.youtube.com/watch?v=GYwcTE0nrgk&t=681s&ab_channel=TolkienCollector%27sGuide Robert Foster and Ted Nasmith Discuss The Complete Guide to Middle-earth new edition] (an interview with [[Tolkienguide.com|Tolkien Collector's Guide]])
+
+{{references}}
+{{Publishedmajorbooks}}
+{{DEFAULTSORT:Complete Guide to Middle-earth, The}}
+{{title|italics}}
+[[Category:Publications by title]]
+[[Category:Reference books]]
+[[de:Das große Mittelerde-Lexikon]]
+[[fi:The Complete Guide to Middle-earth]]

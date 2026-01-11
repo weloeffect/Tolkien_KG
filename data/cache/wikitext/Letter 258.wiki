@@ -1,0 +1,15 @@
+{{letter infobox
+| #=258
+| to=[[Rayner Unwin]]
+| date=[[2 August]] [[1964]]
+| subject=Real-life usage of Tolkien's words
+}}{{letter|258}}
+==Summary==
+A hydrofoil of "Aquastroll" had been named ''[[Shadowfax]]''. Tolkien told Rayner that he wished copyright could protect names: devising good names had cost him as much time, or even more, than writing lines of poetry. It had been brought to his attention by several writers that a "monstrous" hydrofoil was named ''Shadowfax'', without even a "by your leave", and Tolkien was not happy about it.<ref group="note">The name ''Shadowfax'' is now under the scope of the [[Middle-earth Enterprises/Copyrights|licensing powers]] of [[Middle-earth Enterprises]].</ref> He was getting used to all the ''[[Rivendell]]s'', ''[[Lothlórien|Lóriens]]'' and ''[[Rivendell#Etymology|Imladris]]'' used on houses, though not all were accompanied by a letter containing the words "by your leave".
+
+==External links==
+* "[http://www.foils.org/aquavion/The%20Aquavion%20System.pdf#page=13 Introduction to the 40p]", in ''An Introduction to the Hydrofoil Boat'', including a photo of Shadowfax
+{{notes}}
+{{letters}}
+[[Category:Letters to Rayner Unwin]]
+[[de:Brief 258]]

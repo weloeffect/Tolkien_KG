@@ -1,0 +1,32 @@
+{{Organization infobox
+| name=Guild of Weaponsmiths
+| image=
+| caption=
+| pronun=
+| othernames=
+| founded=
+| founder=[[Númenóreans]]
+| purpose=Preserving the craft of sword making.
+| members=[[Númenóreans]]
+| location=[[Númenor]]
+| disbanded=Likely during the [[Downfall of Númenor]]
+| notablefor=
+}}
+
+The '''Guild of Weaponsmiths''' was a guild of [[Númenor]] comprised of skilled weaponsmiths. It was formed by the [[Númenóreans|Númenórean]] descendants of the wrights of the [[Edain]].
+
+== History ==
+The founders of the Guild of Weaponsmiths originally acquired great knowledge and skill from [[Noldorin]] [[Elves]] in the forging of swords, axeblades, spearheads, and knives. They were cunning in their mining, smelting, and smithying, as iron and copper were common materials on the island of [[Númenor]]. The guild was originally founded simply to preserve the craft of sword making, and the forging of tools that would see use in peaceful activities, such as axes, spears, and bows. Yet, their importance grew as [[Númenor]] extended its influence into [[Middle-earth]], fashioning great bows of hollowed steel that were feared, and black-feathered arrows used by the [[King's Archers]].<ref>{{UT|Numenor}}</ref> It is likely that the Guild of Weaponsmiths perished during the [[Downfall of Númenor]].
+
+== Portrayal in adaptations ==
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]:'''
+:'''9 September: ''[[Adar (episode)|Adar]]'':'''
+:: While the guild itself is not named, the concept appears when [[Halbrand]] approaches a Smithy of the guild, advertising his services as unique to become the Smithy's apprentice. After a few moments of the smithy ignoring him, he tells Halbrand that he has a stout heart, but that he cannot forge steel on the island of [[Númenor]] without a guild crest. Later, Halbrand steals a guild crest from a man named [[Tamar (The Rings of Power|Tamar]] after getting him and his fellow guild members drunk. He seemingly gets away with the robbery, but it is then revealed that he was followed. The inevitable conflict results in Halbrand brutally murdering Tamar's fellow guild members before Tamar himself flees, getting Halbrand arrested and thrown into the dungeons.
+
+{{References}}
+
+{{Numenor}}
+
+[[Category:Organizations]]
+[[de:Gilde der Waffenschmiede]]
+[[fi:Aseseppien kilta]]

@@ -1,0 +1,29 @@
+{{Organization infobox
+| name=Council of the Sceptre
+| image=
+| caption=
+| pronun=
+| othernames=King's Council of [[Númenor]]
+| founded=
+| founder=[[Kings of Númenor]]
+| purpose=Advising the King on multiple matters of state
+| members=[[Númenóreans]]
+| location=[[Númenor]]
+| disbanded=Likely during the [[Downfall of Númenor]]
+| notablefor=
+}}
+
+The '''Council of the Sceptre''' was the King's Council of [[Númenor]].
+
+== History ==
+The King's Council was comprised of the nobles and lords from each of the [[Númenor#Geography|six regions]] of [[Númenor]] who gathered to advise the [[King of Númenor|King]] on weighty matters of state. When the king proclaimed an [[King's Heir|heir]], they would become a member of the council so as to learn about the government of the land. In addition, the king has the ability to summon others to the council whenever a specific set of knowledge is needed. It was said that the [[Lord of Andúnië]] was the most prominent of the chief councillors of the kings.<ref>{{UT|Wife}}, Note 23</ref> In the early days of Númenor, the Councillors had no power save that of advice, but when the [[Shadow]] fell upon Númenor and the Kings clung to their lives even after their vigor of mind had left them, their power often passed to the members of the Council.
+
+{{References}}
+
+{{Numenor}}
+
+[[Category:Númenor]]
+[[Category:Organizations]]
+
+[[Category:Rulers of Númenor]]
+[[de:Rat des Szepters]]

@@ -1,0 +1,52 @@
+{{Company infobox|name=Associacione Italiana Studi Tolkieniani|founded=2014|location=Italy|type=Fan Club, Academic Society|keypeople=President: Stefano Giorgianni; scholars: Roberto Arduini, Claudio Antonio Testi, Wu Ming 4|products=I Quaderni di Arda|website=https://www.jrrtolkien.it/|image=Logo_AIST.png|250px]]}}
+
+The '''Associazione Italiana Studi Tolkieniani''' (English: "Italian Association of Tolkien Studies"), or '''AIST''', is a [[Tolkien Societies|Tolkien Society]] based in [[Italy]]. 
+
+==History==
+The AIST was founded in [[2014]] as a non-profit and non-political association by a group of readers and scholars of the works of [[J.R.R. Tolkien]], including some former members of the [[L’Associazione romana studi Tolkieniani|Associazione Romana Studi Tolkieniani]] and other independent scholars and artists.
+
+=== <u>List of presidents</u> ===
+{| class="wikitable"
+|+
+!Name
+!Period
+|-
+|Roberto Arduini
+|2014-2023
+|-
+|Stefano Giorgianni
+|2023–Present
+|}
+
+==Headquarters==
+[[File:Logo Tana Drago.jpg|border|left|frameless|170px]]
+The AIST headquarters are based in the '''Tana del Drago''' (English: "Dragon's Lair"), located in [https://www.fondazionedozza.it/ Dozza Imolese], one of Emilia-Romagna's most beautiful medieval villages. The Tana del Drago is a at the same time a centre for studies focused on [[J.R.R. Tolkien]] and the fantastic, a museum devoted to the exhibition of work of arts, books, games and handcrafted objects inspired by the Professor, and a place where his fans can reunite and play their favorite tabletop or roleplaying games set in [[Middle-earth]].
+
+The Dragon's Lair owes its name to '''[https://www.youtube.com/watch?v=FYDZbyJX1bw Fyrstan]''', a dragon who has elected the main tower of Dozza's Castle ([https://www.fondazionedozza.it/entra-in-rocca/la-rocca-di-dozza.html Rocca di Dozza]), only a few hundred meters from the Tana, as its residence.
+
+==Events ==
+[[File:Logo FantastikA copy.jpg|left|frameless|170x170px]]
+The main event in which the association is involved is '''''FantastiKa''''', organised by the [https://www.fondazionedozza.it/fondazione-dozza/la-fondazione.html Fondazione Dozza Città d'Arte] with the patronage of Dozza municipality. Every two years, when Fyrstan wakes up from its slumber, fantasy artists - illustrators, sculptors, artisans - from all over Italy gather in Dozza to show their works, while seminars, shows and book presenations are organised troughout the whole village of Dozza. 
+
+AIST is also present at the main italian book fairs (like [https://www.salonelibro.it/ Salone del Libro di Torino]) and comicons (as [https://www.luccacomicsandgames.com/it/ Lucca Comics and Games]) where its scholarly members often take part in workshops, seminars and round tables, while various artists collaborating with the association expose their works in dedicated exhibitions or at the AIST stand.
+
+
+== Publications and collaborations ==
+[[File:Quaderni di Arda.jpg|center|600px]]
+AIST studies are published within the association journal ''[https://etereaedizioni.com/product-category/collane/i-quaderni-di-arda/ I quaderni di Arda]''. From 2019 the journal collects studies around a selected theme or academics conferences proceedings resulting from the collaboration with italian universities (Palermo, Parma, Milano, Trento) and international experts ([[Tom Shippey]], [[Verlyn Flieger]], [[Renée Vink]], [[Mark Atherton]], [[Thomas M. Honegger|Thomas Honegger]]).
+
+Members of the association collaborate with several publishers as consultants, translators, editors and independent scholars; the following collaborations are of note:
+
+* the essays serie "[https://www.mariettieditore.it/collana-1089-tolkien-e-dintorni Tolkien e Dintorni]" published by [https://www.mariettieditore.it/ Marietti]
+* the essays serie "I Rami" published by [https://etereaedizioni.com/collezioni/ Eterea Edizioni]
+* the recent translations of ''[[The Lord of the Rings]]'' ([https://www.bompiani.it/catalogo/il-signore-degli-anelli-9788830104716 ''Il Signore degli Anelli'']) and ''[[The History of Middle-earth]]'' ([https://www.bompiani.it/catalogo/il-libro-dei-racconti-perduti-prima-parte-9788830118423 ''La Storia della Terra di Mezzo'']) published by [https://www.bompiani.it/autori/j-r-r-tolkien-517 Bompiani]
+
+Some of the essays published with Marietti and Eterea have also been translated in English with the [[Walking Tree Publishers]]:
+
+* ''[[The Broken Scythe|The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien]]'' (2012)
+* ''[[Tolkien and Philosophy]]'' (2014)
+* ''[[Pagan Saints in Middle-earth]]'' (2018)
+* ''[[Tolkien and the Classics]]'' (2019)
+
+[[Category:Italian organizations]]
+[[Category:Tolkien Societies]]

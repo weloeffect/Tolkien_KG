@@ -1,0 +1,45 @@
+{{album
+| image = Shadows of Angmar (soundtrack).jpg
+| title=''The Lord of the Rings Online: Shadows of Angmar''
+| type=Soundtrack
+| artist=[[Chance Thomas]]
+| released=[[24 April]], [[2007]]
+| recorded=
+| genre=instrumental
+| length=45:35
+| language=English
+| label=[[Turbine]]
+}}
+
+'''''The Lord of the Rings Online: Shadows of Angmar''''' is the soundtrack to ''[[The Lord of the Rings Online: Shadows of Angmar]]''. The soundtrack was originally released as part of the special edition to the game. In June 2008 Turbine released a download manager where players who owned the game could download the mp3's of the game which included all these titles plus additional tracks. The majority of the tracks were composed by [[Chance Thomas]]. 
+
+==Contents==
+#Shadows of Angmar
+#Hills of the Shire
+#Bree-Land Jig
+#The Ring-Bear Sets Forth
+#Ride of the Nazgul
+#Wreck and Slaughter
+#Silent Hope
+#The Nine Draw Nigh
+#Far Ahead the Road Has Gone
+#Lament for Oakenshield
+#Red Stones and Golden Leaves
+#Fell Deeds Awake
+#Scattered Allies
+#Lay of the Free Peoples
+#Autumn Ale
+#East of the Sea
+#The Brigand's Tale
+#Home from the Hunt
+#Frodo's Path
+#The Doom of Edhelion
+#Ruins of Old
+#Garth Agarwen
+#The Shadows Linger
+#Vale of Imladris
+#Things to Come
+
+{{lotro}}
+{{title|italics}}
+[[Category:The Lord of the Rings Online soundtracks|Shadows of Angmar]]

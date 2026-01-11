@@ -1,0 +1,30 @@
+{{location infobox
+| name=Amon Obel
+| image=
+| caption=
+| pronun=
+| othernames=
+| location=Within the [[Brethil|Forest of Brethil]]
+| type=Hill
+| description=
+| regions=
+| towns=[[Ephel Brandir]]
+| inhabitants=[[House of Haleth]]
+| created=
+| destroyed=
+| events=
+}}
+'''Amon Obel''' was a hill in the midst of the [[Brethil|Forest of Brethil]]<ref>{{S|Map}}</ref> on which was built the settlement of [[Ephel Brandir]], which became the main settlement of the [[Haladin]].<ref>{{CH|13}}, p. 193</ref>
+
+== Etymology ==
+''Amon Obel'' is a [[Sindarin]] name for "Fortified Hill", composed of the words ''[[amon]]'' ("hill") and ''[[gobel]]'' ("walled settlement").
+
+{{References}}
+
+[[Category:Beleriand]]
+[[Category:Hills]]
+[[Category:Sindarin locations]]
+
+[[de:Amon Obel]]
+[[fi:Amon Obel]]
+[[fr:encyclo/geographie/reliefs/beleriand/amon obel]]

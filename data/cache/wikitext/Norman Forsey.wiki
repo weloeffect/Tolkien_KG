@@ -1,0 +1,19 @@
+{{short description|New Zealand actor}}
+{{Actor
+| image =
+| name = Norman Forsey
+| lifetime = [[3 January]] [[1937]]
+| played = [[Gaffer Gamgee]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb = [https://www.imdb.com/name/nm0286852/ Profile]
+}}
+'''Norman Forsey''' (b. [[3 January|January 3]], [[1937]]) is a New Zealand actor born in Cardiff, Wales. He played [[Gaffer Gamgee|Hamfast Gamgee]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]''. He only appeared in the [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|extended edition]].
+
+{{DEFAULTSORT:Forsey, Norman}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Norman Forsey]]

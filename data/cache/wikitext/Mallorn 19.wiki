@@ -1,0 +1,62 @@
+{{Mallorn
+| name=Mallorn 19
+| image = Mallorn19.jpg
+| editor=Jenny Curtis
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[December]] [[1982]]
+| format=A4 stapled paperback
+| pages=36
+| issn=0308-6674
+}}
+'''''Mallorn'' 19''' is the nineteenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in December [[1982]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Jenny Curtis
+* Christianity and Kingship in Tolkien and Lewis
+** By: Caroline Monks
+* Art: 'Yavanna'
+** By: Bob Rankin
+* Studies in the Chronology of Middle-earth
+** By: Donald O'Brien
+* Poem: 'Hymn to Elbereth'
+** By: Helen Gottschalk
+* Art: 'Saruman'
+** By: Kenny Philp
+* The Tale of Jari
+** By: Rob Beattie
+* Art: 'The Lord of the Rings'
+** By: Dave Cooper
+* Poem: 'A New Song of the Half-elven'
+** By: Sara Fletcher
+* The Indo-Iranian Influence on Tolkien
+** By: Michael McClain
+* The Battle of the Pelennor Fields - An Impossible Victory?
+** By: David Bell
+* Tolkien's Influence on C.S. Lewis: epilogue
+** By: Pilar San Jose
+** By: Gregory Starkey
+* Poem: 'O the Oak!'
+** By: Michael Burgess
+* The Doom of the World
+** By: Brennen McKenzie
+* Art: 'Rider of Rohan'
+** By: Lyn Pope
+* Poem: 'Strider's Song'
+** By: Andy Orchard
+* Poem: 'A Cat of Queen Beruthiel'
+** By: M. Desouza
+* Guidelines for ''Mallorn'' contributors
+* Where to Write
+* [[The Tolkien Society]]
+
+* Inside Art
+** Stephen Lines, Mervyn Finlay, Marian Haas, Geraint Rees, Bill Doolih, Neil Lindley, Margaret Thompson, Anthony Curtis
+
+{{mallornnav|18|20|url=http://journals.tolkiensociety.org/mallorn/issue/view/20/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 19}}
+[[Category:Mallorn (journal)]]

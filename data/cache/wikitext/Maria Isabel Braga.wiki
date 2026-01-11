@@ -1,0 +1,22 @@
+{{artist infobox
+| image=
+| name=Maria Isabel Morna Braga
+| born=[[1919]]
+| died=
+| images=
+| location=Portugal
+| website=
+|}}
+
+'''Maria Isabel Morna Braga''' (born [[1919]]) was a Portuguese author and translator. 
+
+Maria Isabel Bragaa became the first Portuguese translator of [[J.R.R. Tolkien]]'s work, when he contributed for the first Portuguese-language edition of ''[[The Hobbit]]'' ([[O Gnomo]]), together with [[Mário Braga]].
+
+==External links==
+
+*[http://bibliowiki.com.pt/index.php/Maria_Isabel_Morna_Braga Maria Isabel Braga] at Bibliowiki
+
+{{DEFAULTSORT:Braga, Maria Isabel}}
+[[Category:Translators]]
+[[Category:People by name]]
+[[Category:Portuguese people]]

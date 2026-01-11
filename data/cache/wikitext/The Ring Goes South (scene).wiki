@@ -1,0 +1,26 @@
+{{stub}}
+{{scene
+| name = The Ring Goes South
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = 
+| number = 31 (extended)<br>
+           25 (theatrical)
+| duration =
+| event =
+| characters =
+| previous = [[The Departure of The Fellowship]]
+| next = [[The Pass of Caradhras]]
+}}
+'''The Ring Goes South''' is the twenty-fifth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-first of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+Having set off from [[Rivendell]], the [[Fellowship of the Ring]] is making their way south, following the line of the [[Misty Mountains]]. [[Gandalf]] states that the goal is to travel south for forty days, then turn east at the [[Gap of Rohan]] to travel straight to [[Mordor]]. They later stop to set up a camp, with [[Samwise Gamgee]] preparing a meal there.
+
+[[Gimli]] grouses that they're taking the long way around, and recommends that they go through the Mines of [[Moria]], where his brother [[Balin]] would give them a royal welcome. Gandalf, however, vetoes this idea, stating he would not pass through Moria unless they had no other choice. On the other side of the camp, [[Boromir]] is training [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] in swordplay, but accidentally strikes Pippins' hand. Pippin retaliates by kicking Boromir in the shin, and the two hobbits tackle him in a friendly tussle. [[Aragorn II|Aragorn]] tries to break them up, but gets tripped by the hobbits and swept up into the tussle.
+
+The levity quickly ends when [[Legolas]] sees something in the sky. Gimli writes it off as a wisp of cloud, but Boromir notes, with concern, that it's moving fast, and against the wind. The Fellowship is forced to hide both their camp and themselves as a flock of [[Crebain|crows]] fly past then.
+
+Gandalf notes with dismay that the crows are spies of [[Saruman]], which means the passage south is being watched. Needing a new path forward, Gandalf redirects the Fellowship to the pass of [[Caradhras]].
+{{title}}
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|31]]

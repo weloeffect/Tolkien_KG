@@ -1,0 +1,29 @@
+{{song
+| title=Give Up the Halfling
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=4:49
+| track=Disc 2 Track 3
+| previous=[[The Caverns of Isengard]]
+| next=[[Orthanc (soundtrack)|Orthanc]]
+| spotify=https://open.spotify.com/track/5rNmyrEfmwPMjBn2qYZlAN
+}}
+'''Give Up the Halfling''' is the third track of disc two of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[00:00] Ti
+[00:03] nu
+[00:10] vi (el- the two ‘el’s seem to be merged as one)
+[00:15] elvan
+[00:21] ui
+[00:25] El
+[00:30] leth
+[00:31] al
+[00:35] firin
+</poem>
+
+{{DEFAULTSORT:2.03}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

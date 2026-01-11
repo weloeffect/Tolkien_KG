@@ -1,0 +1,12 @@
+{{letter infobox
+| #=322
+| to=[[William Cater]]
+| date=[[18 March]] [[1971]]
+| subject=''[[The Silmarillion]]''
+}}{{letter|322}}
+==Summary==
+Tolkien told William Cater that his work on ''[[The Silmarillion]]'' was going better than before, and he might be able to send [[Allen and Unwin|Allen & Unwin]] a part later that year. 
+
+{{letters}}
+[[de:Brief 322]]
+[[Category:Letters to William Cater]]

@@ -1,0 +1,26 @@
+{{film infobox
+| image=
+| name=Page to Screen
+| episode=The Lord of the Rings
+| director=
+| producer=Ted Poole
+| writer=
+| narrator=David Hibbard
+| music=
+| cinematography=
+| editing= 
+| distributor=
+| released=[[2002]]
+| runtime=46 minutes
+| country=
+| language=English
+| budget=
+| website=
+| imdb_id=0668876
+}}'''''Page to Screen: The Lord of the Rings''''' is the 7th episode of ''Page to Screen'', a documentary television series that examines the process of bringing works of literature to the screen.
+
+==Cast==
+[[Tom Shippey]]<br>Peter Gallagher<br>David Hibbard
+
+
+[[Category:Documentaries]]

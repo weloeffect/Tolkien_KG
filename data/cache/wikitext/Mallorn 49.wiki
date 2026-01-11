@@ -1,0 +1,68 @@
+{{Mallorn
+| name=Mallorn 49
+| image = Mallorn49.jpg
+| editor=[[Henry Gee]]
+| artist=Sue Wookey
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Spring [[2010]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 49''' is the forty-ninth issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Spring [[2010]].
+
+==Contents==
+* '''Cover Art'''
+** ''Glaurung's Death Throes'' 
+*** By: Sue Wookey
+* '''Editorial'''
+** "How do we know what we know?"
+*** By: [[John D. Rateliff]]
+* '''Letters'''
+* '''Reviews'''
+** "A question of source": ''[[The Epic Realm of Tolkien]]''
+*** By: [[Tom Shippey]]
+** "The shape of a story": ''Rhetorics of Fantasy''
+*** By: Chad Chisholm
+** "Dear Santa": ''[[Letters from Father Christmas]]''
+*** By: Mike Foster
+** "Pandora's box": ''Avatar''
+*** By: James Bower
+** "Deep in the forest...": ''[[Born of Hope|Born Of Hope]]''
+*** By: [[Henry Gee]]
+** "Hay on fire"
+*** By: John Gilbey
+* '''Commentary'''
+** "'An unlettered peasant boy' of 'sordid character' - Shakespeare, Suffield and Tolkien"
+*** By: [[Maggie Burns]]
+** "[[C.S. Lewis|Lewis]] and [[J.R.R. Tolkien|Tolkien]]: bridges between worlds"
+*** By: Mike Pueppke
+** "The words of [[Húrin]] and [[Morgoth]]: microcosm, macrocosm and the later legendarium"
+*** By: [[Kristine Larsen]]
+** "[[Balrogs]]: being and becoming"
+*** By: Alan Tierney
+* '''Interview'''
+** "Has anyone seen [[Sméagol]]: Chris Bouchard"
+*** By: Colin Sullivan
+* '''Poetry'''
+** "Slaying the Dragon"
+*** By: Tuilinde
+** "[[Arwen]]"
+*** By: Ben Gribbin
+** "The Ballad of [[Samwise Gamgee|Sam Gamgee]]"
+*** By: Teresa Kirkpatrick
+* '''Fiction'''
+** "The architect of apathy"
+*** By: Shelly Li
+* '''Well, I'm back'''
+** "Two cheers for applicability"
+*** By: Gareth Owens
+* '''Back Cover'''
+** By: Lorenzo Daniele
+* '''Inside Art'''
+** By: Phyllis Berka, Lorenzo Daniele, John Gilbey, Teresa Kirkpatrick, [[Jef Murray]], Colin Williams
+
+{{mallornnav|48|50}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 49}}
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,290 @@
+{{disambig-two|the ''[[Magic: The Gathering]]'' expansion|the video game|[[Tales of Middle Earth]]}}
+{{Board game infobox
+| name=The Lord of the Rings: Tales of Middle-earth
+| image=Magic_the_Gathering_UBLotRToM_logo.png
+| type=ccg
+| designer=
+| publisher=[[Wizards of the Coast]]
+| releasedate=[[20 June]] [[2023]]
+| players=
+| ages=
+}}
+'''The Lord of the Rings: Tales of Middle-earth''' (LTR) is an expansion for the [[Magic: The Gathering]] collectible card game, and was initially released on June 20, 2023. It introduced new cards that were unique renditions of various characters and events from the Lord of the Rings trilogy. It was released under the '''Magic: The Gathering Universes Beyond''' sub-brand, and was the first Universes Beyond property to receive a full-sized Magic expansion. 
+
+In August 2026, a second Lord of the Rings-themed Magic expansion will be released, [[Magic: The Gathering - The Hobbit|Magic: The Gathering | The Hobbit]].
+
+==Overview==
+Tales of Middle-earth was first announced February 21, 2023<ref>''https://magic.wizards.com/en/news/announcements/on-june-23-experience-middle-earth-like-never-before<nowiki/>.''</ref>, and was developed by [[Wizards of the Coast]] in close cooperation with [[Middle-earth Enterprises]]. It featured 451 new cards referencing a vast amount of content from Tolkien's legendarium, with brand new art commissioned for each card. The art style for Tales of Middle-earth was developed specifically for the set and did not generally refer to other adaptations of the stories. 
+
+In addition to the usual promotional card styles and printings, the set featured a series of very rare special versions of the "Sol Ring" card<ref>https://gatherer.wizards.com/pages/card/details.aspx?name=Sol%20Ring</ref>, a popular and commonly used card in the multi-player Commander format. For the set, Sol Ring was reprinted with new art, representing the [[Rings of Power]], complete with stylizing all of the text in the [[Tengwar]] font. Three different limited-edition versions of this special Sol Ring were printed in this way, with the numbers printed to represent the respective number of Rings distributed to the various races: <ref>https://wpn.wizards.com/en/news/first-look-for-retailers-the-lord-of-the-rings-tales-of-middle-earth</ref>:
+*3,000 normal and 300 serialized foils with art featuring an Elven ring  (representing the [[Three Rings]])
+*7,000 normal and 700 serialized foils with art featuring a Dwarven ring (representing the [[Seven Rings]])
+*9,000 normal and 900 serialized foils with art featuring a ring of Men (representing the [[Nine Rings]])
+
+===The Hunt for the One Ring===
+[[IMAGE:Magic_the_Gathering_LTR_OneRing.webp|thumb|The exceptionally rare One Ring, only one of which was printed.]]
+Notably, a new card representing [[The One Ring]] was introduced in the set, however Wizards of the Coast printed a special, serialized gold foil version of it, with only '''one''' to ever be printed. It was included in one English language Collector Booster pack, which kicked off a significant amount of excitement as fans began, much like Sauron, to hunt for the One Ring, causing after-market prices of Collector Boosters to increase dramatically. The "One of One" One Ring was found on June 30, 2023 by a customer at MAXimum Cards & Collectibles in Whitby, Ontario <ref>https://x.com/maximumcards/status/1674800807605342208</ref><ref>https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain/</ref>. The finder of the ring was later identified as Brook Trafton, who would proceed to sell it to Post Malone, a celebrity musician and Magic enthusiast for $2,000,000.<ref>https://www.polygon.com/23817181/mtg-one-ring-card-post-malone</ref>
+
+==Gameplay==
+Tales of Middle-earth introduced one brand new mechanic to Magic: "'''The Ring Tempts You'''", which was intended to model the power the One Ring could bestow on its bearer. When Tempted, players were forced to choose a [[Ring-bearers|Ring-bearer]] and as they were tempted more and more, their power would increase. However, unlike the One Ring in other adaptations, there is no downside to choosing a ring-bearer. This resulted in some consternation from some players as they felt there was a disconnect in the flavor that the set had otherwise done well at recreating mechanically. Magic Lead Designer Mark Rosewater responded to these concerns, commenting that during testing they found that players would not engage with the mechanic if there were any downside whatsoever, regardless of the flavor implications.<ref>https://www.tumblr.com/markrosewater/716589001506701312/why-isnt-the-ring-at-least-partially-a-downside</ref>
+
+Returning mechanics featured in the expansion include:
+*'''Amass''', modified it to specify the creature type to "[[Orc]]" allowing players to slowly build their own orcish army
+*'''Food''' tokens being utilized in many cards, especially those representing [[Hobbits]]
+*'''Basic landcycling''', representing long adventures over terrain
+*'''Historic''', referencing the ancient history behind many characters and locations
+
+==Artwork==
+The Senior Art director for the expansion was Ovidio Cartagena. They specifically wanted the art direction for the set to be fresh and new, intentionally avoiding pulling inspiration from any previous films, illustrations or adaptations, and instead to simply focus on what's described in the texts.<ref>https://www.polygon.com/23738683/mtg-lord-of-the-rings-tales-of-middle-earth-lotr-art</ref> 
+
+===Card Frames===
+As with other Magic expansions, Tales of Middle-earth featured new set-specific card frames, available in different products:
+{| 
+|+
+|-
+!Standard Frame!!Scroll Showcase!!Ring Frame Showcase
+|-
+|[[IMAGE:MTG LTR Gandalf 0019.png|thumb]]||[[IMAGE:MTG LTR Gandalf 0470.png|thumb]]||[[IMAGE:MTG LTR Gandalf 0305.png|thumb]]
+|}
+===Scene Cards===
+There are special versions of many cards from the set that have art drawn from a much larger scene in which those characters/objects appear, portraying a specific moment from Lord of the Rings. For example this scene depicting the destruction of the One Ring:
+{| cellspacing="0;" cellpadding="0;" align="center;" border="0"
+|+
+|-
+|[[IMAGE:MTG LTR Frodo 0448.png|thumb]]||[[IMAGE:MTG LTR Samwise 0449.png|thumb]]
+|-
+|[[IMAGE:MTG LTR Gollum 0450.png|thumb]]||[[IMAGE:MTG LTR OneRing 0451.png|thumb]]
+|}
+The other ten scenes featured are:
+*[[Battle of the Pelennor Fields]]
+*[[Bilbo]]'s Birthday Party
+*The Flight from [[Khazad-dûm]]
+*The Ent's Taking [[Isengard]]
+*Scouring of [[The Shire]]
+*Departure to the [[Grey Havens]]
+*[[Battle of Helm's Deep]]
+*The Might of [[Galadriel]]
+*[[Gandalf]] in the Pelennor Fields
+*Flight of the [[Witch-king]]
+
+===Illustrators===
+Full list of every illustrator whose art appeared in either the main expansion or the Commander product (all versions of cards):
+{| class="mw-collapsible mw-collapsed"
+|+
+!align=left valign=top|
+*[[Aaron Miller]]
+*[[Alayna Danner]]
+*[[Alex Brock]]
+*[[Alexander Forssberg]]
+*[[Alexander Gering]]
+*[[Alexander Mokhov]]
+*[[Alexander Ostrowski]]
+*[[Anastasia Balakchina]]
+*[[Anato Finnstark]]
+*[[Andrea Piparo]]
+*[[Andreas Rocha]]
+*[[Andrey Kuzinskiy]]
+*[[Anna Pavleeva]]
+*[[Anna Podedworna]]
+*[[Anna Steinbauer]]
+*[[Anthony Devine]]
+*[[Anton Solovianchyk]]
+*[[Antonio José Manzanedo]]
+*[[Arthur Yuan]]
+*[[Artur Treffner]]
+*[[Audrey Benjaminsen]]
+*[[Aurore Folny]]
+*[[Axel Sauerwald]]
+*[[Bartłomiej Gaweł]]
+*[[Ben Wootten]]
+*[[Billy Christian]]
+*[[Brian Valeza]]
+*[[Bruno Biazotto]]
+*[[Calder Moore]]
+*[[Campbell White]]
+*[[Caroline Gariba]]
+*[[Chris Cold]]
+*[[Christina Kraus]]
+*[[Claudiu-Antoniu Magherusan]]
+*[[Colin Boyer]]
+*[[Constantin Marin]]
+*[[Craig Elliott]]
+*[[Craig J. Spearing]]
+*[[Daarken]]
+*[[Dan Murayama Scott]]
+*[[Daniel Correia]]
+*[[David Álvarez]]
+*[[David Frasheski]]
+!align=left valign=top|
+*[[David Rapoza]]
+*[[Davor Gromilović]]
+*[[Denman Rooke]]
+*[[Deven Rue]]
+*[[Dmitry Burmak]]
+*[[Dominik Mayer]]
+*[[Eelis Kyttanen]]
+*[[Ekaterina Burmak]]
+*[[Elizabeth Peiró]]
+*[[Eric Wilkerson]]
+*[[Erikas Perl]]
+*[[Erion Makuo]]
+*[[Filipe Pagliuso]]
+*[[Francesca Resta]]
+*[[Greg Hildebrandt]]
+*[[Henry Peters]]
+*[[Hristo D. Chukov]]
+*[[Ian Jepson]]
+*[[Iga Oliwiak]]
+*[[Ignis Bruno]]
+*[[Igor Krstic]]
+*[[Ilker Yildiz]]
+*[[Inka Schulz]]
+*[[Irina Nordsol]]
+*[[Irvin Rodriguez]]
+*[[Jarel Threat]]
+*[[Jason Kang]]
+*[[Jason Rainville]]
+*[[Javier Charro]]
+*[[J.B. Casacop]]
+*[[Jeremy Paillotin]]
+*[[Jesper Ejsing]]
+*[[John Di Giovanni]]
+*[[John Tedrick]]
+*[[Jokubas Uogintas]]
+*[[Jonas De Ro]]
+*[[Joseph Meehan]]
+*[[Josh Hass]]
+*[[Joshua Raphael]]
+*[[Josu Solano]]
+*[[Justine Cruz]]
+*[[Justine Jones]]
+*[[Justyna Dura]]
+!align=left valign=top|
+*[[Kasia Zielińska]]
+*[[Kekai Kotaki]]
+*[[Kieran Yanner]]
+*[[Kim Sokol]]
+*[[L. J. Koh]]
+*[[Leonardo Borazio]]
+*[[Lie Setiawan]]
+*[[Liiga Smilshkalne]]
+*[[Livia Prima]]
+*[[Lixin Yin]]
+*[[Logan Feliciano]]
+*[[Loïc Canavaggia]]
+*[[Lorenzo Lanfranconi]]
+*[[Lorenzo Mastroianni]]
+*[[Lucas Terryn]]
+*[[Magali Villeneuve]]
+*[[Manuel Castañón]]
+*[[Marc Simonetti]]
+*[[Marco Gorlei]]
+*[[Marie Magny]]
+*[[Marina Ortega Lorente]]
+*[[Marko Manev]]
+*[[Marlene Yui]]
+*[[Marta Nael]]
+*[[Martina Fačková]]
+*[[Matt Stewart]]
+*[[Maxim Kostin]]
+*[[Micha Huigen]]
+*[[Miguel Mercado]]
+*[[Miklós Ligeti]]
+*[[Miranda Meeks]]
+*[[Narendra Bintara Adi]]
+*[[Nicholas Gregory]]
+*[[Nino Is]]
+*[[Oleg Bulakh]]
+*[[Oleg Shekhovtsov]]
+*[[Olivier Bernard]]
+*[[Pablo Mendoza]]
+*[[Pascal Quidault]]
+*[[Patrik Hell]]
+*[[Pavel Kolomeyets]]
+*[[Pedro Correa]]
+*[[Pierre Raveneau]]
+!align=left valign=top|
+*[[Ramazan Kazaliev]]
+*[[Randy Gallegos]]
+*[[Randy Vargas]]
+*[[Rudy Siswanto]]
+*[[Ryan Yee]]
+*[[Samuele Bandini]]
+*[[Scott Balmer]]
+*[[Sean Vo]]
+*[[Sergio Cosmai]]
+*[[Shahab Alizadeh]]
+*[[Sidharth Chaturvedi]]
+*[[Simon Dominic]]
+*[[Stanislav Sherbakov]]
+*[[Stephen Stark]]
+*[[Svetlin Velinov]]
+*[[Syd Mills]]
+*[[Tatiana Kirgetova]]
+*[[Tatiana Veryayskaya]]
+*[[Tim Hildebrandt]]
+*[[Titus Lunter]]
+*[[Tomas Duchek]]
+*[[Tomáš Honz]]
+*[[Torgeir Fjereide]]
+*[[Tyler Jacobson]]
+*[[Tyukina Tatiana]]
+*[[Uriah Voth]]
+*[[Valera Lutfullina]]
+*[[Veli Nyström]]
+*[[Victor Harmatiuk]]
+*[[Viko Menezes]]
+*[[Wangjie Li]]
+*[[Warren Mahy]]
+*[[Wei Guan]]
+*[[Wisnu Tan]]
+*[[Wonchun Choi]]
+*[[Yigit Koroglu]]
+*[[Yongjae Choi]]
+*[[Yuriy Chemezov]]
+*[[Y.W. Tang]]
+*[[Zeb Love]]
+*[[Zoltan Boros]]
+*[[Zuzanna Wużyk]]
+|}
+
+==Portrayals==
+{{Main|The Lord of the Rings: Tales of Middle-earth/Portrayals}}
+Every major character and event has at least one card portraying it in the set, with the more critcial elements receiving upwards of five or more cards, showing that character or event at different stages of the story. For a complete index of which cards represent which characters, objects and events, see the [[The Lord of the Rings: Tales of Middle-earth/Portrayals|accompanying article]].
+
+==Products==
+
+===Expansion Product===
+[[IMAGE:Magic_the_Gathering_LTR_symbol.webp|thumb|Official Set Symbol for Tales of Middle-earth]]
+*Starter Kit
+*Jumpstart
+*Prerelease Pack
+*Draft Booster Box
+*Set Booster Box
+*Collector Booster Box
+*Bundle
+*Gift Bundle
+===Commander Product===
+[[IMAGE:Magic_the_Gathering_LTC_symbol.webp|thumb|Official Set Symbol for Tales of Middle-earth Commander]]
+
+
+==Release Schedule==
+*Prerelease: June 16, 2023
+*MTG Arena Release: June 20, 2023
+*Tabletop Release: June 23, 2023
+*Holiday Release: November 3, 2023
+==Credits==
+*Lead Design: Ben Hayes
+*Lead Development: Glenn Jones
+*Art Direction: Ovidio Cartagena
+
+==See also==
+* [[Magic: The Gathering - The Hobbit]]
+
+==External links==
+*'''[https://magic.wizards.com/en/products/the-lord-of-the-rings-tales-of-middle-earth Official product website]'''
+*[https://magic.wizards.com/en/products/the-lord-of-the-rings-tales-of-middle-earth/card-image-gallery Official Card Gallery]
+*[https://mtg.wiki/page/The_Lord_of_the_Rings:_Tales_of_Middle-earth Article on the MTG Wiki]
+{{References}}
+{{Navbox cards}}
+[[Category:Card games]]

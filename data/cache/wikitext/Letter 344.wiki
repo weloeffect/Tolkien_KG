@@ -1,0 +1,15 @@
+{{letter infobox
+| #=344
+| to=[[Edmund Meskys]]
+| date=[[23 November]] [[1972]]
+| subject=Numerals
+}}{{letter|344}}
+==Summary==
+Tolkien replied to [[Edmund Meskys]], president of the [[Tolkien Society of America]], who had questions about Elvish numerals. Tolkien briefly wrote about the similarities of the Elves and the Babylonians, and then mentioned that he had devised a set of both decimal and duodecimal numbers in [[Tengwar|Fëanorian script]], but that he could not find it. He only remembered that they were written with a positional system like Arabic, and started with the lowest number on the left. 
+==Notes==
+* The numbers were published in ''[[Quettar]]'' in the 1980s, and now come standard on most [[fonts]]. 
+* The Elves used a [[wikipedia:Duodecimal|duodecimal]] system, the men a [[wikipedia:Decimal|decimal]] one.
+* The only "mainstream" example of Fëanorian numbers is found in ''[[Sauron Defeated]]'', in the "[[King's Letter]]". As the writer of this letter was [[Aragorn|Elessar]], the numbers (6341 and 61) were decimal.
+{{letters}}
+[[de:Brief 344]]
+[[Category:Letters to Edmund Meskys]]

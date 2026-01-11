@@ -1,0 +1,19 @@
+{{letter infobox
+ |#=5
+ |to=[[Geoffrey Bache Smith|G.B. Smith]]
+ |date=[[12 August]] [[1916]]
+ |subject=[[T.C.B.S.]]<br />[[World War I]]
+}}{{letter|5}}
+==Summary==
+[[Geoffrey Bache Smith]] had written a letter to Tolkien and included alongside it letter from fellow [[T.C.B.S.|Barrovian]] [[Christopher Wiseman]]. 
+
+Tolkien reflects on the death of their mutual friend, [[Robert Gilson]] and expresses disagreement with Christopher's interpretation of Rob's greatness. Tolkien believes that the greatness Gilson achieved in death differs from the greatness they envisioned for themselves as members of the T.C.B.S. 
+
+He discusses his struggle to reconcile their aspirations with the reality of Gilson's death and expresses a sense of loss and uncertainty about the future of their group; "I honestly feel that the TCBS has ended – but I am not at all sure that it is not an unreliable feeling that will vanish – like magic perhaps when we come together again.". Tolkien shares his hopes for the continuation of the TCBS's work because of the impact it had on him personally.
+
+He concludes by acknowledging the difficulty of expressing his thoughts clearly amidst the chaos of war and encourages G.B. Smith to share the letter with Christopher.
+
+{{letters}}
+{{DEFAULTSORT:Letter 005}}
+[[de:Brief 5]]
+[[Category:Letters to Geoffrey Bache Smith]]

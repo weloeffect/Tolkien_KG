@@ -1,0 +1,21 @@
+{{actor
+| image =
+| name = Lori Dungey
+| lifetime = [[1957]]
+| played = [[Mrs Bracegirdle]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0242256/ Profile]
+}}
+'''Lori Dungey''' (born [[1957]]) is a Canadian born New Zealand actress. She played [[Mrs Bracegirdle]] in the [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|extended edition]] of ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+==External links==
+* {{WP|Lori Dungey}}
+
+{{DEFAULTSORT:Dungey, Lori}}
+[[Category:Actors and actresses]]
+[[Category:Canadian people]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[fi:Lori Dungey]]

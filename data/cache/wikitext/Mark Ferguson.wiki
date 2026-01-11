@@ -1,0 +1,26 @@
+{{Actor
+| image = Mark Ferguson.jpg
+| name = Mark Ferguson
+| lifetime = [[28 February]] [[1961]]
+| played = [[Gil-galad]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb = [https://www.imdb.com/name/nm0272527/ Profile]
+}}
+Australian actor '''Mark Ferguson''' (b. [[28 February|February 28]], [[1961]]) played [[Gil-galad]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+In June [[2007]], he and 14 other actors filed [https://us.imdb.com/news/ni0058227/ a lawsuit] against [[New Line Cinema]] over merchandising royalties.<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2007/06/01/23983-actors-join-to-sue-new-line-over-lotr-merchandising/|articlename=Actors join to sue New Line over LOTR merchandising|dated=1 June 2007|website=TORN|accessed=3 December 2024}}</ref> The action was settled out of court in October [[2008]].<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2008/10/08/30205-new-zealand-actors-settle-out-of-court-with-new-line-cinema/|articlename=New Zealand actors settle out of court with New Line|dated=8 October 2008|website=TORN|accessed=3 December 2024}}</ref>
+
+== External links ==
+* [http://www.markferguson.net Official Fan Website]
+* {{WP|Mark Ferguson}}
+
+{{References}}
+
+{{DEFAULTSORT:Ferguson, Mark}}
+[[Category:Actors and actresses]]
+[[Category:Australian people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Mark Ferguson]]
+[[fi:Mark Ferguson]]

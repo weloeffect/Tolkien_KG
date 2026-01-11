@@ -1,0 +1,36 @@
+{{song
+| title=The Passing of the Elves
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=2:39
+| track=Disc 1 Track 10
+| previous=[[Three Is Company (soundtrack)|Three is Company]]
+| next=[[Saruman the White]]
+| spotify=https://open.spotify.com/track/05q7lfYerRkqqNDua3vJOL
+}}
+'''The Passing of the Elves''' is the tenth track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]]. The song was written and performed by Plan 9 and David Long for the film, and produced by Howard Shore. It is a rendition of the [[Sindarin]] poem ''[[A Elbereth Gilthoniel]]''.
+
+==Lyrics==
+<poem>
+[00:00]  Fanuilos heryn aglar
+[00:10] Rîn athar annún-aearath,
+[00:20] Calad ammen i reniar
+[00:30] Mi ‘aladhremmin ennorath!
+[00:40] A Elbereth Gilthoniel
+[00:50] I chîn a thûl lin míriel
+[01:00] Fanuilos le linnathon
+[01:09] Ne ndor haer thar i aearon.
+[01:20] A elin na gaim eglerib
+[01:30] Ned în ben-anor trerennin
+[01:39] Si silivrin ne pherth ‘waewib
+[01:48] Cenim lyth thílyn thuiennin.
+[01:58] A Elbereth Gilthoniel
+[02:08] Men echenim sí derthiel
+[02:17] Ne chaered hen nu ‘aladhath
+[02:27] Ngilith or annún-aearath.
+</poem>
+
+{{DEFAULTSORT:1.10}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

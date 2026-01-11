@@ -1,0 +1,52 @@
+{{disambig-more|Kinslaying|[[Kinslaying (disambiguation)]]}}
+{{battle
+| name=Third Kinslaying
+| image = Catherine Karina Chmiel - And Maglor took pity upon them.jpg
+| conflict=Pre-[[War of Wrath]]; result of the [[Oath of Fëanor]]
+| date={{FA|538}}
+| place=[[Havens of Sirion]]
+| result=Victory for the [[Sons of Fëanor]]
+*[[Elwing]] escapes with the [[Silmaril]]
+| side1=Elves of Sirion<br />
+[[Fëanorian]] rebels
+| side2=[[Sons of Fëanor]]
+| commanders1=[[Círdan]]<br />
+[[Gil-galad]]
+| commanders2=[[Maedhros]]<br />
+[[Maglor]]
+| forces1=Unknown
+| forces2=Unknown
+| casual1=Heavy
+| casual2=Unknown, but includes [[Amrod]] and [[Amras]]
+}}
+{{quote|And so there came to pass the last and cruellest of the slayings of Elf by Elf; and that was the third of the great wrongs achieved by the accursed oath.|''[[Quenta Silmarillion]]'', "[[Of the Voyage of Eärendil and the War of Wrath]]"}}
+
+The '''Third Kinslaying''' was the disastrous attack on the [[Havens of Sirion]] by the surviving [[Sons of Fëanor]] in {{FA|538}}.<ref name="Years">{{WJ|Years}}</ref> The battle was considered the worst of the three [[Kinslaying]]s.
+
+==Background==
+{{seealso|Oath of Fëanor}}
+[[Fëanor]] and his [[Sons of Fëanor|Sons]] had sworn an [[Oath of Fëanor|oath]] to acquire the [[Silmarils]] at any cost after they were stolen by [[Morgoth]] who fled to Middle-earth.<ref>{{S|9}}</ref> One of the jewels was stolen from Morgoth by [[Beren]] and [[Lúthien]] where it would later be set upon the [[Nauglamir]]. Later it came to the possession of [[Dior]], son of Beren, and he restored the kingdom of [[Doriath]] after it was [[battle in the Thousand Caves|sacked]] by the [[Dwarves of Nogrod]]. However the sons of Fëanor [[Second Kinslaying|attacked]] Doriath hoping to gain the Silmaril, but it escaped their grasp when [[Elwing]], daughter of Dior, fled with it along with the survivors of Doriath to the [[Mouths of Sirion]].<ref>{{S|22}}</ref>
+
+==History==
+===Prelude===
+When [[Maedhros]] learned that [[Elwing]] survived the destruction of Doriath and dwelt in the Havens with the Silmaril, he withheld his hand but soon the oath compelled him to act and sent word to the Havens demanding the jewel. The peoples of the Havens as well as Elwing refused.<ref name="TSVE">{{S|24}}</ref> 
+
+===Battle===
+As a final resort, the Sons of Fëanor sacked the Havens in what was considered to be the 'cruellest of the [[Kinslaying (disambiguation)|slayings]] of Elf by Elf'. Some of the Fëanorians did not take part in the slaughter and rebelled against their lords aiding Elwing and in turn they were slain. Maedhros and [[Maglor]] emerged victorious at the end but they did not gain the Silmaril for Elwing had cast herself into the sea with it. [[Amrod]] and [[Amras]] were slain in the battle leaving only Maedhros and Maglor as the remaining sons of Fëanor.<ref name=TSVE/>
+[[File:Jenny Dolfen - As little might be thought.jpeg|thumb|200px|''As little might be thought'' by [[Jenny Dolfen]]]]
+The [[Men|Mannish]] poet [[Dírhavel]] was also among those who fell.<ref>{{UT|2n}}</ref> 
+
+===Aftermath===
+When the news of the raid by the Sons of Fëanor reached [[Balar]], [[Círdan]] and [[Gil-galad]] sailed to the Havens but were too late to help the Elves. The survivors of the raid joined Círdan and Gil-galad to the Isle of Balar. [[Elrond]] and [[Elros]], sons of [[Eärendil]] and Elwing, were captured by Maedhros and Maglor, although later Maglor grew to love them and adopted them.<ref name=TSVE/>
+
+Elwing and the Silmaril were not lost as [[Ulmo]] bore her up from the waves and took the form of a great white bird and she flew over the sea seeking Eärendil. Eventually she found him and using the Silmaril they both reached [[Aman]].<ref name=TSVE/>
+
+==Other versions of the legendarium==
+The first iteration of the battle is told in notes of ''[[The Tale of Eärendel]]'', in this early version the raid is carried out by [[Morgoth|Melko]] in which Elwing is taken captive.<ref>{{LT2|V}}</ref> This was later abandoned and the raid on the Havens is carried out by the Sons of Fëanor.<ref>{{SM|2a}}, 17</ref>
+
+In the ''[[Annals of Beleriand]]'' it is noted that Damrod and Díriel (earlier names of Amrod and Amras) lead the attack on the Havens with Maidros and Maglor reluctant to aid them.<ref>{{SM|7I}}</ref><ref>{{LR|AB}}</ref>
+
+{{references}}
+{{kinslayings}}
+[[Category:Conflicts in The Book of Lost Tales]]
+[[Category:Conflicts of the First Age]]

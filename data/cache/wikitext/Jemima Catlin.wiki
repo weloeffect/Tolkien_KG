@@ -1,0 +1,43 @@
+{{artist infobox
+| image=
+| name=Jemima Catlin
+| born=[[27 October]] [[1986]]<ref>{{webcite|website=[https://twitter.com/ Twitter]|articleurl=https://twitter.com/jemimacatlin/status/393832698470346752|articlename=Jemima Catlin on Twitter|dated=25 October 2013|accessed=24 October 2015}}</ref>
+| died=
+| education=[[wikipedia:Arts University Bournemouth|Arts University at Bournemouth]]
+| style=
+| images=
+| location=Dorchester, UK
+| website=[http://www.jemimacatlin.com/ Jemima Catlin]
+}}
+'''Jemima Catlin''' (born [[27 October]] [[1986]]) is a British artist who illustrated the [[2013]] edition of ''[[The Hobbit]]'' and the subsequent ''[[Tolkien Calendar 2014]]''.
+
+==Early life==
+Catlin first encountered ''[[The Hobbit]]'' when she was 12, as her grandfather was a Tolkien fan and collector. She studied a Diploma in Art and Design at [[wikipedia:Weymouth College|Weymouth College]] and continued studying Visual Communication at the [[wikipedia:Arts University Bournemouth|Arts University at Bournemouth]] before graduating with a degree in Illustration in June 2010.<ref name="Foes">{{webcite|website=[http://foesofreality.com Foes of Reality]|articleurl=http://foesofreality.com/interview-jemima-catlin-illustrator-of-the-hobbit/|articlename=Interview: Jemima Catlin, Illustrator of “The Hobbit”|dated=5 September 2013|accessed=24 October 2015}}</ref> She lives in Dorchester, England with her husband.<ref name="Library"/>
+
+==''The Hobbit''==
+[[File:The Hobbit 2013.jpg|200px|thumb|Jemima Catlin's illustrated version of ''[[The Hobbit]]'']]
+As part of her final project in her degree, Catlin chose to illustrate ''[[Roverandom]]''. After sending the images to [[David Brawn]] at [[HarperCollins]], he invited her to their offices in London; although [[Christopher Tolkien]] did not feel that Catlin's style suited ''Roverandom'', Christopher and his wife [[Baillie Tolkien|Baillie]] were sufficiently enamoured of her work to commission her to illustrate ''[[The Hobbit]]'' a year later.<ref name="Library">{{webcite|website=TL|articleurl=http://www.tolkienlibrary.com/press/1109-interview-jemima-catlin-illustrated-the-hobbit.php|articlename=Interview with Jemima Catlin about the new illustrated edition of The Hobbit|dated=6 October 2013|accessed=24 October 2015}}</ref>
+
+{{blockquote|This edition needed to appeal to children, but The Hobbit is loved by all ages so I tried to illustrate it in a way that both audiences would enjoy it. My main influence were Tolkien’s own drawings, I really loved his illustrations and wanted to stay true to how he wanted the characters/landscapes to look. I adore Alan Lee’s work, his style is so detailed and photo-realistic, but so different from my own that I didn’t find it influenced me. I love the films and have seen The Lord of The Rings trilogy numerous times. My depiction of The Hobbit was just how I saw it in my imagination and it happened to be quite different to Peter Jackson’s vision. Tolkien had done lots of illustrations for The Hobbit and these were my inspiration – I really wanted to bring The Hobbit back to its original roots.|Jemima Catlin on comparison with [[Alan Lee]]<ref>{{webcite|website=[http://www.edinburghbookreview.co.uk Edinburgh Book Review]|articleurl=http://www.edinburghbookreview.co.uk/news/interview-jemima-catlin|articlename=Interview with Jemima Catlin|dated=22 January 2014|accessed=24 October 2015}}</ref>}}
+
+The completed version of ''[[The Hobbit]]'' took over two years to illustrate, included 150 illustrations and was released on [[12 September]] [[2013]] (the same day as ''[[Tolkien Calendar 2014]]'').<ref>{{webcite|website=[http://middleearthnews.com Middle-earth News]|articleurl=http://middleearthnews.com/2013/09/09/bringing-us-there-and-back-again-an-interview-with-jemima-catlin/|articlename=Bringing Us There and Back Again: An Interview with Jemima Catlin|dated=9 September 2013|accessed=24 October 2015}}</ref> Two weeks later Catlin exhibited her artwork at [[The Tolkien Society]]'s [[Oxonmoot 2013]] event. She describes herself as "proud" of her achievement, whilst still expressing a desire to illustrate either ''Roverandom'' or ''[[The Lord of the Rings]]''.<ref name="Legendarium">{{webcite|website=[http://www.legendariummedia.com Legendarium Media]|articleurl=http://www.legendariummedia.com/2015/02/17/jemima-catlin-and-the-hobbit/|articlename=Jemima Catlin and The Hobbit|dated=17 February 2015|accessed=24 October 2015}}</ref>
+
+==Artistic style==
+Catlin's artistic style has been compared to [[Tove Jansson]] (illustrator of ''[[wikipedia:Moomin|The Moomins]]'' and a Swedish edition of ''The Hobbit''), [[wikipedia:E. H. Shepard|E.H. Shepard]] (''[[wikipedia:Winnie-the-Pooh|Winnie-the-Pooh]]'') as well as the anime style of [[wikipedia:Studio Ghibli|Studio Ghibli]].<ref name="Foes"/> Catlin herself states that she was only influenced by Tolkien's own drawings whilst deliberately avoiding the films.<ref name="Library"/>
+
+==Bibliography <small>(as illustrator)</small>==
+* [[2013]]: ''[[The Hobbit]]''
+* [[2013]]: ''[[The Hobbit]] - Deluxe Edition''
+* [[2013]]: ''[[Tolkien Calendar 2014]]''
+* [[2013]]: ''The Hobbit: [[Jackanory]]'' (cover)
+
+==External links==
+* '''[http://www.jemimacatlin.com/ Jemima Catlin's website]'''
+* [https://twitter.com/jemimacatlin Jemima Catlin on Twitter]
+{{references}}
+{{IllustratorsHobbit}}
+{{IllustratorsCalendars}}
+{{DEFAULTSORT:Catlin, Jemima}}
+[[Category:Artists]]
+[[Category:British people]]
+[[Category:People by name]]

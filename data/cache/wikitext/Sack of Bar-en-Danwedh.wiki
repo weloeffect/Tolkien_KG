@@ -1,0 +1,43 @@
+{{battle
+| image=
+| name=Sack of Bar-en-Danwedh
+| conflict=[[Battles of Beleriand]]
+| date={{FA|489}}
+| place=[[Amon Rûdh]]
+| result=
+Victory for [[Morgoth]]
+* Capture of [[Túrin]]
+* Destruction of the [[Gaurwaith]] and [[Dor-Cúarthol]]
+| side1=The Gaurwaith
+| side2=Forces of [[Morgoth]]
+| commanders1=Túrin Turambar
+<br />[[Beleg]]
+| commanders2= Unnamed Orc captain
+| forces1=Dozens of Túrin's outlaws
+| forces2=Unknown
+| casual1=All but Túrin, [[Beleg]], and [[Andvír]]
+| casual2=Unknown
+}}
+
+The '''Sack of Bar-en-Danwedh''' was a battle that occurred in [[Amon Rûdh]] between the forces of [[Morgoth]] and the [[Gaurwaith]] led by [[Túrin]] and [[Beleg]].
+
+==Background==
+Bar-en-Nibin-noeg, the House of the [[Petty-dwarves]], was the home of [[Mîm]] and his sons [[Ibun]] and [[Khîm]]. When they were foraging they were attacked by Túrin's band of outlaws and Mîm was captured but he bargained for his life and ransomed his home on [[Amon Rûdh]], thereby becoming Bar-en-Danwedh, the [[House of Ransom]].
+
+Túrin and the outlaws were soon joined by the elf Beleg, and they named the land "Dor-Cúarthol" after Beleg’s bow [[Belthronding]] and the [[Dragon-helm of Dor-lómin]] worn by Túrin. Under their leadership, the Outlaws harassed the forces of Morgoth that entered their land. However by donning the Dragon-helm Túrin revealed himself to Morgoth, and he began to fear the growing power of Túrin "that the curse that he laid upon him would become void, and he would escape the doom that had been designed for him".<ref>{{CH|8}}, pp. 147</ref>
+==History==
+===Prelude===
+Mîm was growing discontent with the presence of the outlaws and Beleg at his home and in time his hatred for the Elf led him to evil resolve. He sought out the Orcs around the area with his son and gave them the location of the outlaws' hideout with conditions that his home be left for himself and Beleg to remain alive to deal with himself.<ref group="note">In the ''Silmarillion'' it is told that Mîm did not deliberately seek the Orcs for malice, but was captured by the Orcs when he and his son went foraging. It was their threat of torture to his son that led Mîm to betray the outlaws.</ref>
+
+===Battle===
+With Mîm's guidance the Orcs attacked the hill. The watchmen stationed on the summit gave warning of the approach,<ref group="note">In the ''Simarillion'' it describes the attack happening at night unawares with many men slain as they slept</ref> but Mîm guided the Orcs to the entrance of Bar-en-Danwedh. Túrin and Beleg were being driven back inside the halls, and men were shot by arrows fleeing up the stairs. Túrin and Beleg rolled a great stone across the passage and at this moment [[Andróg]] revealed to them the hidden stair inside the halls that leads to the flat summit of Amon Rûdh. 
+
+Túrin and the remaining men, including Andróg and Beleg, climbed up the hidden stair and surprised the few Orcs that were already there. For a while they managed to hold off the attack from the Orcs who were climbed up the rock. But the summit offered no protection from the arrows of the Orcs from below, so many were shot down including Andróg, pierced by an arrow at the head of the outside stair.
+
+Eventually only Túrin, Beleg and ten men remained and they withdrew to the centre around a standing stone. They made a last stand until all that were left were Túrin and Beleg: Túrin was captured and to be taken alive to [[Angband]] and Beleg was wounded and left bound on the ground. The Orcs proceeded to sack the halls.
+
+===Aftermath===
+After the Orcs left for Angband with Túrin Beleg was left alone to the mercy of Mîm, and as he was preparing to torment the Elf a mortally wounded Andróg thrusted his sword at the Dwarf and he shrieked and fled.<ref group="note">Andróg is not mentioned in the ''Silmarillion'' thus it was Beleg that manages to get the better of Mîm.</ref> Andróg cut Beleg free and died and shortly after Beleg set out to find and follow the trail of the Orcs to rescue Túrin. The only other survivor was [[Andvír]], son of [[Andróg]].<ref>{{WJ|Aelfwine}}, p. 311</ref>
+{{references|n}}
+
+[[Category:Conflicts of the First Age]]

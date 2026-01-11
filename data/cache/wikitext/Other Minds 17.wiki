@@ -1,0 +1,50 @@
+{{journal
+| title=Other Minds 17
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=July [[2017]]
+| format=PDF
+| pages=215
+| issn=
+}}
+
+'''''Other Minds'' 17''' is the seventeenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in July 2017.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Middle-earth in miniature III: Terrors of the Old Days"
+** By José Enrique Vacas de la Rosa
+* "Review: The Darkening of Mirkwood"
+** By Thomas Morwinsky
+* "Review: Rivendell"
+** By José Enrique Vacas de la Rosa
+* "Review: Ruins of the North"
+** By Thomas Morwinsky
+* "First Seed of a Great Forest"
+** By: Olaf "Falenthal" Anguera
+* "Darkness over Amon Nyrn"
+** By: Paul Kirk
+* "The Leofrings"
+** By: Paul Kirk
+* "The Horse and the Rider"
+** By: Paul Kirk
+* "Urbanisation of Gondor and Rohan"
+** By: Thomas Morwinsky
+* "Creatures of Middle-earth: Were-worms"
+** By: José Enrique Vacas de la Rosa
+* "Appendix" (maps relating to the Urbanisation of Gondor and Rohan)
+** By: Thomas Morwinsky
+
+*'''Artwork / Maps:'''
+** By: Sergio Artigas, [[Antti Autio]], Onur Bakar, [[Matěj Čadil]], Nacho Hernandez Castro, Thomas Cole, [[Jenny Dolfen]], [[Anke Eißmann]], Wouter Florusse, [[Olanda Fong-Surdenas]], Olga G, Raymond Gaustadness, [[Daniel Govar]], [[John Howe]], Pierre Joubert, Paul Kirk, Joona Kujanen, Carl-Friedrich Lessing, [[Angus McBride]], Turner Mohan, [[Thomas Morwinsky]], [[Ted Nasmith]], Abe Papakhian, Jereme Peabody, Jan Pospíšil, [[Peter Xavier Price]], Carlos Gordo Sacristán, Shyangell, Ari Suonpää, Maciej Zagorski
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 17}}
+[[Category:Other Minds]]

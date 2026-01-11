@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 2002
+| location=St Antonys College, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 13th-15th, 2002
+| attendees=
+}}
+
+{{oxonmoot|2001|2003}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

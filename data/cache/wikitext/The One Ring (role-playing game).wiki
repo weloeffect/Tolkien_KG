@@ -1,0 +1,67 @@
+{{font|[http://www.acondia.com/fonts/cirth/ Cirth Erebor] and [https://at.boktypografen.se/parmaite.htm Tengwar Parmaite]}}
+{{disambig-more|The One Ring|[[The One Ring (disambiguation)]]}}
+{{Board game infobox
+| name=The One Ring
+| image=The One Ring (role-playing game).jpg
+| caption=
+| type=rpg
+| designer=Francesco Nepitello, Marco Maggi
+| publisher=[[Cubicle 7 Entertainment|Cubicle 7]] (First Edition)<br>[[Free League Publishing|Free League]] (Second Edition)
+| releasedate=[[2011]]
+| players=
+| ages=
+}}
+'''''The One Ring''''' is a role-playing game published by [[Cubicle 7 Entertainment]] (under license from [[Sophisticated Games]]), released in August [[2011]]. The game is written by Francesco Nepitello, and features artwork by [[John Howe]] and other artists.<ref>[http://www.icv2.com/articles/news/19873.html 'The One Ring' RPG] at [http://www.icv2.com/index.php ICv2.com] (accessed 20 April 2011)</ref><ref name=TOR>[http://www.cubicle7.co.uk/ Cubicle7.co.uk] (accessed 11 August 2011)</ref> In November [[2019]], the publisher decided to end the licensing agreement with Sophisticated Games, due to contractual differences.<ref name=TORE>[https://www.cubicle7games.com/unexpected-tor2-update Unexpected The One Ring 2 Update]</ref> 
+In [[2021]], a new edition has been announced on Kickstarter, for crowdfunding, under the publisher [[Free League Publishing|Free League]] and began to be shipped to supporters in October of the same year.<ref name=TOR2>[https://www.kickstarter.com/projects/1192053011/the-one-ring-roleplaying-game-second-edition/ Kickstarter Page of 'The One Ring']</ref> Having fulfilled all deliveries to the backers, Free League has officially released the RPG for wider retail purchase, on the 22nd of March [[2022]].<ref name=TOR2R1>[https://www.kickstarter.com/projects/1192053011/the-one-ring-roleplaying-game-second-edition/posts/3460049 Kickstarter Update: Retail Release]</ref><ref name=TOR2R2>[https://us3.campaign-archive.com/?u=2dcfb24fb7c8d0fb9c2f52040&id=2354eca464 "The One Ring™ RPG Out Now!"]</ref>
+==Setting==
+
+The initial release (originally planned to be first of a trilogy), ''The One Ring: Adventures over the Edge of the Wild'', is based in the area of northern [[Mirkwood]], after the events of ''[[The Hobbit]]'' and before the [[War of the Ring]].<ref name=TOR/><ref name=TORC>[http://www.cubicle7.co.uk/our-games/the-one-ring/the-one-ring-characters/ The One Ring: Characters] at [http://www.cubicle7.co.uk/ Cubicle7.co.uk] (accessed 20 June 2011)</ref>
+The Second Edition of The One Ring is now set in the lone-lands of [[Eriador]], in the year 2965 of the Third Age, moving the focus of the game to the lands of Old [[Arnor]], with a full description of the town of [[Bree]], including also famous locales like [[Weathertop]], [[Fornost]] and [[Annuminas]], providing the players with a new starting point for their adventures.<ref name=TOR2/>
+==Game system==
+
+''The One Ring'' uses custom dice, specifically a twelve sided die numbered 1-10, the "Eye of Sauron", and the "Gandalf" Rune (a [[Cirth]] G rune, <em style="font-family: 'Cirth Erebor'; font-style: normal;">r</em>), and 6 sided dice numbered normally, but with the 1-3 being in outline, 4-5 solid, and 6 solid having also the [[Tengwar]] [[Lambe]] rune, {{tg|mode=smith|j}}. Standard 12-sided dice can be used, counting 11 as Sauron, and 12 as Gandalf, and standard 6 sided dice as well.<ref>The One Ring RPG, Adventurer Book, pages 24-25</ref>
+
+==Publications==
+First edition published by [[Cubicle 7 Entertainment]]
+*[[2011]]: ''[[The One Ring: Adventures over the Edge of the Wild|'''The One Ring: Adventures over the Edge of the Wild''']]''
+**''Loremaster's Book'' (for GMs)
+**''Adventurer's Book'' (for players)
+*[[2012]]: ''[[Words of the Wise]]''
+*[[2012]]: ''[[Tales from Wilderland]]''
+*[[2012]]: ''The One Ring Dice Set''
+*[[2012]]: ''[[Loremaster's Screen and Lake-town Sourcebook]]''
+*[[2013]]: ''[[The Heart of the Wild]]''
+*[[2013]]: ''[[Hobbit Tales from the Green Dragon Inn]]''
+*2014: '''''The One Ring Roleplaying Game''''', a revised edition of the core rules in a single 320-page hardback volume
+*[[2014]]: ''[[The Darkening of Mirkwood]]''
+*[[2014]]: ''[[Rivendell (The One Ring role-playing game)|Rivendell]]''
+*[[2015]]: ''[[Ruins of the North]]''
+*[[2016]]: ''[[Journeys and Maps]]''
+*[[2016]]: ''[[Erebor (The One Ring role-playing game)|Erebor - The Lonely Mountain]]''
+*[[2017]]: ''[[Bree]]''
+*[[2017]]: ''[[Adventurer's Companion]]''
+Second Edition published by [[Free League Publishing]]
+*[[2021]]: '''''The One Ring, Second Edition'''''
+**''Core Rules''
+**''Starter Set''
+**''Loremaster's Screen & Rivendell Compendium'' (for GMs)
+**''The One Ring Black Dice Set''
+**''The One Ring White Dice Set''
+*[[2022]]: ''Ruins of the Lost Realm''
+*[[2022]]: ''Strider Mode''
+*[[2022]]: ''Peoples of Wilderland''
+*[[2022]]: ''Character Lifepaths''
+*[[2023]]: ''Tales From the Lone-lands''
+*[[2024]]: ''Moria Through The Doors of Durin''
+*[[2025]]: ''Realms of the Three Rings''
+*[[2025]]: ''Hands of the White Wizard''
+*[[2025]]: ''Hobbit Tales''
+
+==External links==
+*[http://www.cubicle7.co.uk/our-games/the-one-ring/ The One Ring 1st Edition] <s>(official page)</s>
+*[https://freeleaguepublishing.com/en/games/the-one-ring/ The One Ring 2nd Edition] (official page)
+
+{{references}}
+{{rpg}}
+{{title}}
+[[Category:Role playing games]]

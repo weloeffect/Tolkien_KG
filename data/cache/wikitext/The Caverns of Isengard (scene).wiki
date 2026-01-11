@@ -1,0 +1,23 @@
+{{scene
+|name=The Caverns of Isengard
+| image = The Lord of the Rings - The Fellowship of the Ring - The Caverns of Isengard.png
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+|number= 20 (extended edition)<br>
+         16 (theatrical cut)
+|duration = 2:30
+|event=[[Saruman]] continues construction of his army.
+|characters=[[Saruman]], [[Gandalf]]
+|previous=[[A Knife in the Dark (scene)|A Knife in the Dark]]
+|next=[[Flight to the Ford (scene)|Flight to the Ford]]
+}}
+'''The Caverns of Isengard''' is the sixteenth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the twentieth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+Gandalf sits atop the spire of [[Orthanc]]. He grabs a moth that is fluttering by and imparts a message to it before sending it away. Below, the ring of [[Isengard]] has been transformed into a foundry and breeding ground for new [[Orcs]] and the large scale production of equipment. Saruman watches on as new [[Uruk-hai]] are bred, including a formidible Uruk named [[Lurtz]].
+
+==Differences==
+*Lurtz is an original character to this adaptation.
+*Gandalf does not send a message to the outer world at Orthanc.
+*The entirety of this scene is fabricated for the movie in order to depict Saruman's rise as a power, though it largely adheres to how Tolkien describes Isengard. 
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|20]]

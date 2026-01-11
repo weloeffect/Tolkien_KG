@@ -1,0 +1,19 @@
+{{expansion}}
+{{video game infobox
+| image = Forest-1-.gif
+| name=The Forest of Fear
+| developer=[[Eamon (video game)|Eamon]]
+| publisher=[[Eamon (video game)|Eamon]]
+| platform=[[wikipedia:Apple II series|Apple II series]]
+| releasedate=[[1985]]
+| genre=Text-adventure
+}}'''''The Forest of Fear''''' is a [[1985]] text-adventure video game from [[Eamon (video game)|Eamon]],<ref name="IFDB">[http://ifdb.tads.org/viewgame?id=zjaqus9b7v4nkhcs The InteractiveFiction Database] (retrieved 26 October 2010)</ref><ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/forest.html Tolkien Games] (retrieved 26 October 2010)</ref> being the sequel to ''[[The Mines of Moria (video game)|The Mines of Moria]]'' in ''[[The Lord of the Rings (Eamon series)|The Lord of the Rings]]'' video game series.<ref name="Tolkien Games"/> The author of this game was [[Sam Ruby]].<ref name="IFDB"/> 
+
+The objective of the game is to free Mirkwood from the evil of [[Dol Guldur]], the fortress of [[Sauron]]. There are some discrepancies from the source material, such as the inclusion of ''Stormtroopers'', and that [[Treebeard]] lives in [[Mirkwood]].<ref name="Tolkien Games"/> 
+
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Forest of Fear}}
+[[Category:Apple II series games]]
+[[Category:Eamon games]]
+[[Category:Text-Adventure video games]]

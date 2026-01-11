@@ -1,0 +1,31 @@
+{{website
+| name=Tea with Tolkien
+| image = Tea with Tolkien.png
+| URL=https://www.teawithtolkien.com/
+| slogan=
+| commercial=
+| revenue=
+| type=
+| language=
+| license=
+| articlecount=
+| registration=
+| owner=Kaitlyn Facista
+| creator=
+| keypeople=
+| launch=
+| status=
+}}
+'''Tea with Tolkien''' is an online community created by Kaitlyn Facista. In addition to being an active presence on social media, Tea with Tolkien offers an online book club, various resources to print and download from her website, podcasts, blog posts, etc.
+
+Tea with Tolkien's YouTube bio states:
+
+{{Blockquote|Tea with Tolkien is an online community for the [[Hobbit]] at Heart. Inspired by the works, life, and faith of [[J.R.R. Tolkien|JRR Tolkien]], we strive to carry a piece of [[Middle-earth]] into our own daily lives.}}
+
+==External links==
+*[https://www.teawithtolkien.com/ Official Website]
+*[https://twitter.com/teawithtolkien Official Twitter]
+*[https://www.instagram.com/teawithtolkien/ Official Instagram]
+*[https://www.youtube.com/@teawithtolkien Official YouTube Channel]
+
+[[Category:Websites]]

@@ -1,0 +1,57 @@
+{{short_description|4th chapter of the first book of The Fellowship of the Ring}}
+{{chapter
+| image=Andy Smith - Bamfurlong.jpg
+| title=A Short Cut to Mushrooms
+| book=The Fellowship of the Ring
+| number=4
+| event=[[Frodo Baggins|Frodo]] and company come to [[Farmer Maggot]]'s house; they move on and find [[Meriadoc Brandybuck|Merry]].
+| date=[[25 September]] {{TA|3018|n}}
+| previous=Three is Company
+| next=A Conspiracy Unmasked
+}}
+
+{{quote|Short cuts make long delays.|[[Peregrin Took]]}}
+
+'''A Short Cut to Mushrooms''' is the fourth chapter in the first book of ''[[The Fellowship of the Ring]]''.  Key characters include [[Frodo Baggins]], [[Peregrin Took|Peregrin "Pippin" Took]], [[Samwise Gamgee]],  [[Meriadoc Brandybuck|Meriadoc "Merry" Brandybuck]]. [[Farmer Maggot]] is introduced.
+
+The chapter tells of Frodo, Pippin and Sam taking a short cut  and ending up on [[Farmer Maggot]]'s land, and of the farmer's assistance travelling to [[Bucklebury Ferry]].  [[Merry]] rejoins the other Hobbits having been out looking for them.
+
+==Overview==
+=== Steadfast Sam ===
+Upon awakening after spending the previous night with a [[Wandering Companies|Wandering Company]] of [[Elves]], Frodo, Sam and Pippin discovered that the Elves had departed, leaving breakfast for them. Frodo thought aloud about leaving the other Hobbits behind in [[The Shire]] to avoid dragging them to exile with him, but Sam proclaimed his desire to continue the journey together. 
+
+Frodo cautioned Sam about the possibility that they might never return, to which Sam reiterated the sentiments he had shared with the Elves the previous night:
+
+{{quote|If you don't come back, sir, then I shan't, that's certain. [...] I am going with him, if he climbs to the Moon, and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.|[[Sam Gamgee]]}}
+
+Continuing his conversation with Frodo, Sam expressed a deeper feeling of purpose; that there was something he felt he must do before the end.
+
+=== Setting off for the Ferry ===
+Frodo stated his preference to cut across country, straight to the [[Bucklebury Ferry]]. Pippin tried to convince Frodo to instead go through [[Stock]], describing the local countryside as too difficult to traverse.  Frodo figured out, however, that Pippin was actually arguing for a stop at the [[Golden Perch]] in [[Stock]], and decided to avoid it altogether.  The party set out towards the Ferry immediately. 
+
+Both Frodo and Pippin were correct. On the one hand, they ran into impassable hedges; and on the other, they narrowly evaded a [[Black Rider]] that had been looking for them closer to the road. They took a long route around the obstacle, and when they stopped to rest, they discovered that the Elves had filled their bottles with the same liquid they'd drunk the previous night. The Hobbits were cheerful again, and sang [[Ho! Ho! Ho! To the Bottle I Go]].
+
+=== Encounter with Farmer Maggot ===
+The song was cut short when they heard an unnatural wail not far off. It was answered by another, more distant wail. The Hobbits quickly packed up and continued their journey, looking for a clear path towards the Ferry. They realised that they had gone too far, deep into the farmlands of [[Buckland]], when they found a gate to a tended field, which Pippin recognised as [[Bamfurlong]]: [[Farmer Maggot]]'s land.
+
+Frodo confessed his trepidation about the old farmer, explaining that Maggot had once caught him stealing mushrooms and beaten him, then instructed his dogs to eat Frodo if he ever came back. Pippin laughed this off, promising that Maggot is a friend to all Brandybucks, and especially to [[Meriadoc Brandybuck|Merry]].
+
+The party entered the property towards the farmhouses, and was beset by Maggot's large dogs. The farmer quickly recognised Pippin, however, and called the dogs off. Maggot explained that a suspicious stranger had crossed his fields that day and asked him some strange questions, putting the farmer and his dogs on high alert. He was very surprised when Pippin introduced Frodo, cryptically saying that the arrival of a Baggins was very peculiar indeed. He quickly invited the party into the house to talk further.
+
+Mrs. Maggot served the party an excellent beer. Farmer Maggot revealed that he did remember Frodo stealing his mushrooms years ago, but quickly shrugged it off as a bygone. Instead, he was more interested in describing his encounter with the suspicious stranger earlier. He explained that the stranger was clad in black, and rode in on a black horse, scaring his dogs. The stranger had asked Maggot the whereabouts of "Baggins", and even offered the farmer gold in exchange for letting him know if "Baggins" were to come through. Maggot angrily told the stranger off, and even threatened to unleash his dogs, causing the rider to turn away and disappear down the road.
+
+Maggot chastised Frodo for having left Buckland to live in Hobbiton. He blamed Frodo's current problem on Bilbo's adventures, correctly guessing that someone had finally come looking for the treasures that Bilbo had brought back with him. He advised Frodo to stay in Buckland, but also guessed that Frodo had a mind to go elsewhere and that he feared crossing the countryside at night towards the Ferry. 
+
+Frodo admitted to having unjustifiably feared Maggot and his dogs for decades:
+
+{{quote|I've been in terror of you and your dogs for over thirty years, Farmer Maggot, though you might laugh to hear it. It's a pity: for I've missed a good friend.|[[Frodo Baggins]]}}
+
+=== Journey to the Ferry ===
+Despite Frodo's desire to continue on as soon as possible, Farmer Maggot instead offered the Hobbits dinner, promising to take them the rest of the way to the Ferry by wagon. Frodo and his friends had dinner with Maggot's family and a few Hobbits who had joined impromptu. When they were done, Maggot's sons prepared the wagon, and Mrs. Maggot bid them farewell.
+
+Maggot and the three Hobbits continued by wagon along the road to the Bucklebury Ferry, lanterns turned off. After a tense but uneventful five-mile journey, they reached the Ferry and disembarked. They suddenly heard hooves on the road behind them, and the Hobbits prepared to fight a Black Rider as Frodo hid in the wagon. Instead, the hooves carried Merry Brandybuck, who had come down the road to look for his missing friends.
+
+Maggot bid the Hobbits farewell as he turned his wagon back onto the road. Before leaving, he presented them with a basket prepared for them by Mrs. Maggot. As Maggot rode away, Frodo was delighted to discover that the basket was full of fresh mushrooms.
+
+[[Category:The Fellowship of the Ring chapters|Short Cut to Mushrooms]]
+[[fi:Oikotie ja sieniä (TSH)]]

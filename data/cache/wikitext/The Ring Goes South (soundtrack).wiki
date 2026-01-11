@@ -1,0 +1,16 @@
+{{song
+| title=The Ring Goes South
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=2:03
+| track=11
+| previous=[[The Council Of Elrond (soundtrack)|The Council of Elrond]]
+| next=[[A Journey In The Dark (soundtrack)|A Journey in the Dark]]
+| spotify=https://open.spotify.com/track/6IQY3GEMC2B3mchMvi4NZj
+}}
+'''The Ring Goes South''' is the eleventh track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. As it is played, the [[Fellowship of the Ring|Fellowship]] travels South, passing [[Ost-in-Edhil]] and approaching [[Moria]]. It is completely instrumental. 
+{{title}}
+{{DEFAULTSORT:11}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

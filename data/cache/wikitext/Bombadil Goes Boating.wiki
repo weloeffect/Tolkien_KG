@@ -1,0 +1,49 @@
+{{Poem infobox
+| title=Bombadil Goes Boating
+| image=Pauline Baynes - Bombadil Goes Boating chapterhead.jpeg
+| caption=Chapterhead illustration by [[Pauline Baynes]]
+| other names=germ of Tom Bombadil<br>''The Fliting of Tom Bombadil'',<br>''The Merry Fliting of Tom Bombadil'',<br>''The Adventures of Tom Bombadil II: The Merry Fliting''<br>''Fliting''
+| written=mid-1930s
+| revised=1962
+| published=''[[The Adventures of Tom Bombadil]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Tom Bombadil]]
+}}
+'''''Bombadil Goes Boating''''' is a poem written by [[J.R.R. Tolkien]] and was published in ''[[The Adventures of Tom Bombadil]]''.<ref>{{AB|Boating}}</ref> 
+
+As part of the Shire-lore recorded in the [[Red Book]], the poem was composed after the [[War of the Ring]] in [[Buckland]], displaying knowledge of the geography around it.<ref>{{AB|Preface}}</ref> However it possibly refers to a time before [[22 September]] {{TA|3018}}<ref>{{L|240}}</ref> when troublesome news reached [[the Shire]] from around its borders.<ref>{{FR|Ordering}}</ref>
+
+==Synopsis==
+One autumn [[Tom Bombadil]] decides to go boating down the [[Withywindle]] and starts mending and preparing his cockle-boat. A bird called [[Willow-wren]] starts conversing and teasing him. Then Bombadil starts boating in order to go to the [[Brandywine]] and meet some [[hobbits]] he knows there and the wren flies to notify [[Farmer Maggot]]. He meets and teases a [[Kingfishers|Kingfisher]] named [[Fisher Blue]], which leaves behind a blue feather, which Tom puts onto his hat (replacing his old swan feather). He also meets [[Whisker-lad]] of thr [[Otter-folk]]) and the [[Old Swan]] of the [[Elvet-isle]].
+
+The [[Withy-weir]] pulls Tom to the [[Grindwall]] where he lands his boat; some [[Bucklanders]] of [[Haysend]] and [[Breredon]] tease him and shoot three arrows into his hat. Tom asks someone to ferry him over [[Brandywine]] by [[Shirebourn]] as the water is so swift for his own boat.
+
+At sunset Tom climbs the [[Mithe Steps]] and walks along the [[Causeway]] towards [[Rushey]]. [[Farmer Maggot]], on his wagon, mockingly asks his business, saying that a beggar won't find any beer to buy and drink. Tom teases him back boarding the cart and they are off to [[Bamfurlong]] laughing. 
+
+There Maggot's family greet and serve Tom, and his daughters dance the [[Springle-ring]]. After they fall asleep, Tom and the Farmer spend the night exchanging all kind of news and gossip:
+
+<poem style="font-style:italic; margin-left:20px;">
+old Tom and Muddy-feet, swapping all the tidings
+from [[Barrow-downs]] to [[Tower Hills]]: of walkings and of ridings;
+of wheat-ear and barley-corn, of sowing and of reaping;
+queer tales from [[Bree]], and talk at smithy, mill, and cheaping;
+rumours in whispering trees, south-wind in the larches,
+tall [[Rangers of the North|Watchers]] by the [[Sarn Ford|Ford]], [[Black Riders|Shadows]] on the marches.
+</poem>
+
+When dawn comes, Tom has mysteriously vanished without leaving any trace; his boat is untouched at the Grindwall for three days. Then the abovementioned animals decide to pull it back to Tom's creek, around the [[Old Man Willow]]'s crooked roots. But they have forgotten the oars that lay behind waiting for Tom to collect them.
+
+==Development==
+[[J.R.R. Tolkien]] wrote the poem preparing for the publication of ''The Adventures of Tom Bombadil'' and he aimed to connect the collection better with the [[legendarium]] of ''[[The Lord of the Rings]]''.<ref>{{AB|Intro}}</ref>
+
+It seems to be based on a very old poem written in early 1930s, where the name "Tom Bombadil" is first mentioned, who goes boating. There some names are mentioned, including 
+"Bill Willoughby" and "Harry Larraby" which also appear in a first draft of the poem. Early titles of the poem included the word "Fliting", as it was centered in good-humored exchange of teasings and insults, a contest appearing in [[Norse]] and medieval poetry.<ref>{{AB|Comm}}</ref>
+
+==See also==
+*[[Poems by J.R.R. Tolkien]]
+
+{{references}}
+{{poems}}
+
+[[Category:Poems in The Adventures of Tom Bombadil]]
+[[de:Tom geht rudern]]
+[[fi:Bombadil veneilee]]

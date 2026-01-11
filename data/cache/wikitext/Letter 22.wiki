@@ -1,0 +1,21 @@
+{{letter infobox
+| #=22
+| to=C.A. Furth of [[Allen & Unwin]]
+| date=[[4 February]] [[1938]]
+| subject=''[[The Hobbit]]''<br>''[[The Lord of the Rings]]''
+}}{{letter|22}}
+==Summary==
+In this letter, Tolkien enclosed a copy of ''[[A Long-expected Party]]'', the first chapter of the ''[[The Lord of the Rings]]'' (presumably for [[Letter 21|review by Rayner Unwin]]). 
+[[Image:C.A. Furth 4 February 1938.png|250px|thumb|right]]
+He also mentioned receiving a letter from a young reader with a list of ''errata'' found in ''[[The Hobbit]]''. Subsequently he had tasked his youngest son [[Christopher Tolkien|Christopher]], who was confined to bed at the time with a heart condition, with finding more, paying him twopence per mistake.<ref group="note">This may be considered Christopher Tolkien's first documented 'study' of his father's works.</ref> Tolkien enclosed both the lists, in the hope that they might one day be required.
+
+;In the expanded edition
+In one sentence Tolkien confirms he has received the copies of ''The Hobbit'' which he asked in the previous letter.
+
+==Notes==
+<references group="note" />
+{{letters}}
+{{DEFAULTSORT:Letter 022}}
+[[Category:Letters to C.A. Furth]]
+[[fi:Kirje 22]]
+[[de:Brief 22]]

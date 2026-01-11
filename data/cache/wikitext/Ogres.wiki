@@ -1,0 +1,67 @@
+{{race infobox
+| name=Ogres
+| image = The Brothers Hildebrandt - Ogre.png
+| caption= "Ogre" by [[The Brothers Hildebrandt]]
+| pronun=
+| othernames=
+| origin=
+| location=
+| affiliation=[[Morgoth|Melko]]
+| rivalry=
+| language=
+| people=''Hongwir'', ''Sarqindi''
+| members=[[Fluithuin]]
+| lifespan=
+| distinctions=
+| height=Large
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+'''Ogres''' were monstrous and destructive creatures of legend and folklore of [[Middle-earth]].
+
+During the [[Riddle-game]] with [[Gollum]], [[Bilbo Baggins]], in his attempt to solve Gollum's fifth riddle, sat thinking of all the horrible names of all the giants and ogres he had ever heard told of in tales.<ref>{{H|Riddles}}</ref>
+
+No ogre is ever mentioned in the annals of the [[Elder Days]] and none are known to have played any role in the wars and battles. It is entirely possible that they were simply a mythical race. 
+
+It is also possible that Ogre was just another name for the [[Trolls]].<ref name=HMN/>
+
+== Etymology ==
+''[[Wiktionary:ogre#English|Ogre]]'' derives, through French, from the Greco-Latin name Orcus. It is interesting to note that Orcus is supposedly the origin also for the [[Old English]] word ''[[Orc]]'', although [[Tolkien]] doubted that etymology.<ref>{{LE|290a}}</ref>
+
+== Other versions of the legendarium ==
+''Ogres'' were used by [[J.R.R. Tolkien]] in early drafts of the [[legendarium]] as a name for one of the monsters bred by [[Morgoth|Melkor]] along with [[Gongs]] and the other [[Úvanimo]]r.<ref>{{HM|LT1}}</ref>
+
+They are mentioned as cannibal [[giants]]. Those of the north were known as ''Hongwir'' while the southern ones were named ''Sarqindi''.<ref>{{PE|14}}, "The Creatures of the Earth", p. 9</ref> ''Sarqindi'' is glossed as "Cannibal-ogres",<ref>{{LT2|Appendix}}, p. 347</ref> and [[Patrick H. Wynne]] and [[Christopher Gilson]] have suggested that ''hongwir'' might be related to the [[Qenya]] word ''ongwe'' (meaning "pain").<ref>{{PE|14}}, p. 6</ref>
+
+In the ''[[The Lay of the Children of Húrin]]'', it was noted that Húrin's helm "was hewn in war when he battled with Beren his brother-in-arms against ogres and Orcs and evil foemen" in the first version;<ref>{{LB|1b}}</ref> and emended slightly to "hewn in wars when he battled with Beren as brother and comrade against ogres and Orcs and evil foes" in the second.<ref>{{LB|1f}}</ref>
+
+Tolkien mentioned again ogres out of context in analyses of the name ''[[Orcs|Orc]]'': "...the gloss ''Þyrs'' 'ogre'..." , and of the name ''[[Ettendales]]'': "This is meant to be a Common Speech (not Elvish) name, though it contains an obsolete element ''eten'' 'troll, ogre'."<ref name=HMN>{{HM|N}}, pp. 762, 770</ref>
+
+== Inspiration ==
+In his childhood, Tolkien and his brother [[Hilary Tolkien|Hilary]] gave a miller and a farmer, who frightened the boys and lived near the [[Sarehole Mill]] in the Moseley area of [[Birmingham]], the nicknames "White Ogre" and "Black Ogre", respectively.<ref>[[Humphrey Carpenter]], ''[[J.R.R. Tolkien: A Biography]]''</ref> These characters also appear in stories written by Hilary Tolkien.<ref>[[Hilary Tolkien]]; [[Angela Gardner]] (ed), ''[[Black & White Ogre Country|Black & White Ogre Country: The Lost Tales of Hilary Tolkien]]''</ref>
+
+Tolkien enjoyed reading E.A. Wyke-Smith's ''[[The Marvellous Land of Snergs]]'' ([[1927]]) to his children. The book recounts the adventures of two children and a Snerg ("a race of people only slightly taller than the average table"), and their tale include meeting the vegetarian ogre Golithos.<ref>[[Douglas A. Anderson]] (ed.), ''[[Tales Before Tolkien|Tales Before Tolkien: The Roots of Modern Fantasy]]'', pp. 359-60</ref>
+
+==Portrayal in adaptations==
+===Ogres in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+Glangonn.jpg|"A 'Jorthkyn' in ''[[The Lord of the Rings Online]]''
+The Hobbit - The Battle of the Five Armies - Ogre.jpg|An Ogre in ''[[The Hobbit: The Battle of the Five Armies]]''
+</gallery>
+'''2007-: ''[[The Lord of the Rings Online]]'':'''
+: Ogres, also known as the Jorthkyn, are unfriendly Earth-kin, related to Giants. They are predominantly found in Nan Amlug East in the North Downs.<ref>[http://lotro-wiki.com/index.php/Ogres Ogres] at [http://lotro-wiki.com Lotro-wiki.com] (accessed 20 November 2010)</ref>
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:Ogres served in [[Azog]]'s Army as both shock troops and [[Trolls|Troll]] commanders. One commanded a team of catapult Trolls. Several Ogres fought in [[Dale]], and two are killed by [[Bard]].<ref>''[[The Hobbit: The Battle of the Five Armies: Visual Companion]]''</ref>
+
+== External links ==
+*{{WP|Ogre}}
+
+{{references}}
+{{Legend}}
+[[Category:Other races]]
+[[Category:Races in The Book of Lost Tales]]
+[[Category:Servants of Melkor]]
+[[fi:Hirvitykset]]

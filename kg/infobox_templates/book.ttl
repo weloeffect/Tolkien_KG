@@ -1,0 +1,874 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Gateway_to_Sindarin> a schema:WebPage ;
+    rdfs:label "A Gateway to Sindarin"@en ;
+    schema:about <http://localhost:8000/resource/A_Gateway_to_Sindarin> .
+
+<http://localhost:8000/page/A_Question_of_Time> a schema:WebPage ;
+    rdfs:label "A Question of Time"@en ;
+    schema:about <http://localhost:8000/resource/A_Question_of_Time> .
+
+<http://localhost:8000/page/A_Spring_Harvest> a schema:WebPage ;
+    rdfs:label "A Spring Harvest"@en ;
+    schema:about <http://localhost:8000/resource/A_Spring_Harvest> .
+
+<http://localhost:8000/page/A_Tolkien_Bestiary> a schema:WebPage ;
+    rdfs:label "A Tolkien Bestiary"@en ;
+    schema:about <http://localhost:8000/resource/A_Tolkien_Bestiary> .
+
+<http://localhost:8000/page/Beowulf_and_the_Critics> a schema:WebPage ;
+    rdfs:label "Beowulf and the Critics"@en ;
+    schema:about <http://localhost:8000/resource/Beowulf_and_the_Critics> .
+
+<http://localhost:8000/page/Bilbo%27s_Last_Song_%28at_the_Grey_Havens%29> a schema:WebPage ;
+    rdfs:label "Bilbo's Last Song (at the Grey Havens)"@en ;
+    schema:about <http://localhost:8000/resource/Bilbo%27s_Last_Song_%28at_the_Grey_Havens%29> .
+
+<http://localhost:8000/page/Farmer_Giles_of_Ham> a schema:WebPage ;
+    rdfs:label "Farmer Giles of Ham"@en ;
+    schema:about <http://localhost:8000/resource/Farmer_Giles_of_Ham> .
+
+<http://localhost:8000/page/Fifty_New_Poems_for_Children> a schema:WebPage ;
+    rdfs:label "Fifty New Poems for Children"@en ;
+    schema:about <http://localhost:8000/resource/Fifty_New_Poems_for_Children> .
+
+<http://localhost:8000/page/Harry_Potter%2C_Narnia%2C_and_The_Lord_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Harry Potter, Narnia, and The Lord of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Harry_Potter%2C_Narnia%2C_and_The_Lord_of_the_Rings> .
+
+<http://localhost:8000/page/Leaf_by_Niggle> a schema:WebPage ;
+    rdfs:label "Leaf by Niggle"@en ;
+    schema:about <http://localhost:8000/resource/Leaf_by_Niggle> .
+
+<http://localhost:8000/page/Morgoth%27s_Ring> a schema:WebPage ;
+    rdfs:label "Morgoth's Ring"@en ;
+    schema:about <http://localhost:8000/resource/Morgoth%27s_Ring> .
+
+<http://localhost:8000/page/Reconsidering_Tolkien> a schema:WebPage ;
+    rdfs:label "Reconsidering Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Reconsidering_Tolkien> .
+
+<http://localhost:8000/page/Sauron_Defeated> a schema:WebPage ;
+    rdfs:label "Sauron Defeated"@en ;
+    schema:about <http://localhost:8000/resource/Sauron_Defeated> .
+
+<http://localhost:8000/page/Tales_Before_Tolkien> a schema:WebPage ;
+    rdfs:label "Tales Before Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Tales_Before_Tolkien> .
+
+<http://localhost:8000/page/The_Adventures_of_Tom_Bombadil> a schema:WebPage ;
+    rdfs:label "The Adventures of Tom Bombadil"@en ;
+    schema:about <http://localhost:8000/resource/The_Adventures_of_Tom_Bombadil> .
+
+<http://localhost:8000/page/The_Atlas_of_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Atlas of Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Atlas_of_Middle-earth> .
+
+<http://localhost:8000/page/The_Book_of_Fairy_Poetry> a schema:WebPage ;
+    rdfs:label "The Book of Fairy Poetry"@en ;
+    schema:about <http://localhost:8000/resource/The_Book_of_Fairy_Poetry> .
+
+<http://localhost:8000/page/The_Book_of_Lost_Tales%3A_Part_One> a schema:WebPage ;
+    rdfs:label "The Book of Lost Tales: Part One"@en ;
+    schema:about <http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_One> .
+
+<http://localhost:8000/page/The_Book_of_Lost_Tales%3A_Part_Two> a schema:WebPage ;
+    rdfs:label "The Book of Lost Tales: Part Two"@en ;
+    schema:about <http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_Two> .
+
+<http://localhost:8000/page/The_Complete_Guide_to_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Complete Guide to Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Complete_Guide_to_Middle-earth> .
+
+<http://localhost:8000/page/The_Fellowship_of_the_Ring> a schema:WebPage ;
+    rdfs:label "The Fellowship of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_Fellowship_of_the_Ring> .
+
+<http://localhost:8000/page/The_Hobbit> a schema:WebPage ;
+    rdfs:label "The Hobbit"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit> .
+
+<http://localhost:8000/page/The_Languages_of_Tolkien%27s_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Languages of Tolkien's Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Languages_of_Tolkien%27s_Middle-earth> .
+
+<http://localhost:8000/page/The_Lays_of_Beleriand> a schema:WebPage ;
+    rdfs:label "The Lays of Beleriand"@en ;
+    schema:about <http://localhost:8000/resource/The_Lays_of_Beleriand> .
+
+<http://localhost:8000/page/The_Letters_of_J.R.R._Tolkien> a schema:WebPage ;
+    rdfs:label "The Letters of J.R.R. Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/The_Letters_of_J.R.R._Tolkien> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings> .
+
+<http://localhost:8000/page/The_Lost_Road_and_Other_Writings> a schema:WebPage ;
+    rdfs:label "The Lost Road and Other Writings"@en ;
+    schema:about <http://localhost:8000/resource/The_Lost_Road_and_Other_Writings> .
+
+<http://localhost:8000/page/The_Maps_of_Tolkien%27s_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Maps of Tolkien's Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Maps_of_Tolkien%27s_Middle-earth> .
+
+<http://localhost:8000/page/The_Peoples_of_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Peoples of Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Peoples_of_Middle-earth> .
+
+<http://localhost:8000/page/The_Philosophy_of_Tolkien> a schema:WebPage ;
+    rdfs:label "The Philosophy of Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/The_Philosophy_of_Tolkien> .
+
+<http://localhost:8000/page/The_Return_of_the_King> a schema:WebPage ;
+    rdfs:label "The Return of the King"@en ;
+    schema:about <http://localhost:8000/resource/The_Return_of_the_King> .
+
+<http://localhost:8000/page/The_Return_of_the_Shadow> a schema:WebPage ;
+    rdfs:label "The Return of the Shadow"@en ;
+    schema:about <http://localhost:8000/resource/The_Return_of_the_Shadow> .
+
+<http://localhost:8000/page/The_Rise_of_Tolkienian_Fantasy> a schema:WebPage ;
+    rdfs:label "The Rise of Tolkienian Fantasy"@en ;
+    schema:about <http://localhost:8000/resource/The_Rise_of_Tolkienian_Fantasy> .
+
+<http://localhost:8000/page/The_Sellamillion> a schema:WebPage ;
+    rdfs:label "The Sellamillion"@en ;
+    schema:about <http://localhost:8000/resource/The_Sellamillion> .
+
+<http://localhost:8000/page/The_Shaping_of_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Shaping of Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Shaping_of_Middle-earth> .
+
+<http://localhost:8000/page/The_Silmarillion> a schema:WebPage ;
+    rdfs:label "The Silmarillion"@en ;
+    schema:about <http://localhost:8000/resource/The_Silmarillion> .
+
+<http://localhost:8000/page/The_Soddit> a schema:WebPage ;
+    rdfs:label "The Soddit"@en ;
+    schema:about <http://localhost:8000/resource/The_Soddit> .
+
+<http://localhost:8000/page/The_Treason_of_Isengard> a schema:WebPage ;
+    rdfs:label "The Treason of Isengard"@en ;
+    schema:about <http://localhost:8000/resource/The_Treason_of_Isengard> .
+
+<http://localhost:8000/page/The_Two_Towers> a schema:WebPage ;
+    rdfs:label "The Two Towers"@en ;
+    schema:about <http://localhost:8000/resource/The_Two_Towers> .
+
+<http://localhost:8000/page/The_War_of_the_Jewels> a schema:WebPage ;
+    rdfs:label "The War of the Jewels"@en ;
+    schema:about <http://localhost:8000/resource/The_War_of_the_Jewels> .
+
+<http://localhost:8000/page/The_War_of_the_Ring> a schema:WebPage ;
+    rdfs:label "The War of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_War_of_the_Ring> .
+
+<http://localhost:8000/page/Tolkien%27s_Mighty_Pen> a schema:WebPage ;
+    rdfs:label "Tolkien's Mighty Pen"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien%27s_Mighty_Pen> .
+
+<http://localhost:8000/page/Tolkien%27s_Ordinary_Virtues> a schema:WebPage ;
+    rdfs:label "Tolkien's Ordinary Virtues"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien%27s_Ordinary_Virtues> .
+
+<http://localhost:8000/page/Tolkien_and_C.S._Lewis> a schema:WebPage ;
+    rdfs:label "Tolkien and C.S. Lewis"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_and_C.S._Lewis> .
+
+<http://localhost:8000/page/Tolkien_and_the_Great_War> a schema:WebPage ;
+    rdfs:label "Tolkien and the Great War"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_and_the_Great_War> .
+
+<http://localhost:8000/page/Tree_and_Leaf> a schema:WebPage ;
+    rdfs:label "Tree and Leaf"@en ;
+    schema:about <http://localhost:8000/resource/Tree_and_Leaf> .
+
+<http://localhost:8000/page/Understanding_The_Lord_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Understanding The Lord of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Understanding_The_Lord_of_the_Rings> .
+
+<http://localhost:8000/page/Unfinished_Tales> a schema:WebPage ;
+    rdfs:label "Unfinished Tales"@en ;
+    schema:about <http://localhost:8000/resource/Unfinished_Tales> .
+
+<http://localhost:8000/page/Unsung_Heroes_of_The_Lord_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Unsung Heroes of The Lord of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Unsung_Heroes_of_The_Lord_of_the_Rings> .
+
+<http://localhost:8000/page/Walking_with_Bilbo> a schema:WebPage ;
+    rdfs:label "Walking with Bilbo"@en ;
+    schema:about <http://localhost:8000/resource/Walking_with_Bilbo> .
+
+<http://localhost:8000/resource/A_Gateway_to_Sindarin> a schema:Book ;
+    tg:amazon "http://www.amazon.com/gp/product/0874808006/ref=sr_11_1/102-6025778-4717761?%5Fencoding=UTF8"@en ;
+    tg:amazonprice "out of stock"@en ;
+    tg:author <http://localhost:8000/resource/David_Salo> ;
+    tg:date <http://localhost:8000/resource/October_2004> ;
+    tg:format "Hardcover"@en ;
+    tg:image "A Gateway to Sindarin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0874808006"@en ;
+    tg:pages "550"@en ;
+    tg:publisher "University of Utah Press"@en ;
+    tg:title "A Gateway to Sindarin"@en .
+
+<http://localhost:8000/resource/A_Question_of_Time> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Verlyn_Flieger> ;
+    tg:date <http://localhost:8000/resource/September_1997> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "A Question of Time 1997.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0873385748"@en ;
+    tg:pages "286"@en ;
+    tg:publisher "Kent State University Press"@en ;
+    tg:title "A Question of Time:<br><small>J.R.R. Tolkien's Road to Faërie</small>"@en .
+
+<http://localhost:8000/resource/A_Spring_Harvest> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Geoffrey_Bache_Smith> ;
+    tg:date <http://localhost:8000/resource/1918> ;
+    tg:format "Hardback in dustwrapper"@en ;
+    tg:image "Springharvest.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:noisbn "None"@en ;
+    tg:pages "281"@en ;
+    tg:publisher "Erskine MacDonald"@en ;
+    tg:title "A Spring Harvest"@en .
+
+<http://localhost:8000/resource/A_Tolkien_Bestiary> a schema:Book ;
+    tg:author <http://localhost:8000/resource/David_Day> ;
+    tg:date <http://localhost:8000/resource/1979> ;
+    tg:format "Hardcover, paperback"@en ;
+    tg:image "A Tolkien Bestiary.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0517120771"@en ;
+    tg:pages "288"@en ;
+    tg:publisher "Mitchell Beazley"@en ;
+    tg:title "A Tolkien Bestiary"@en .
+
+<http://localhost:8000/resource/Beowulf_and_the_Critics> a schema:Book ;
+    tg:date <http://localhost:8000/resource/2002> ;
+    tg:editor <http://localhost:8000/resource/Michael_D.C._Drout> ;
+    tg:format "Hardcover"@en ;
+    tg:image "Beowulf and the Critics 2002.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0866982906"@en ;
+    tg:pages "488"@en ;
+    tg:publisher "ACMRS Press (Arizona Center for Medieval and Renaissance Studies)"@en ;
+    tg:series "Medieval and Renaissance Texts and Studies, vol. 248"@en ;
+    tg:title "Beowulf and the Critics"@en .
+
+<http://localhost:8000/resource/Bilbo%27s_Last_Song_%28at_the_Grey_Havens%29> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/Poster%3A_26_November_1974%3Cbr%3EBook%3A_December_1990> ;
+    tg:followedby <http://localhost:8000/resource/Sir_Gawain_and_the_Green_Knight%2C_Pearl%2C_and_Sir_Orfeo_%7B1975%29> ;
+    tg:format "Poster; hardcover; paperback"@en ;
+    tg:illustrator <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:image "Last Song 1974.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0044407289"@en ;
+    tg:pages "32"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Road_Goes_Ever_On%3A_A_Song_Cycle_%7B1968%29> ;
+    tg:publisheruk <http://localhost:8000/resource/Unwin_Hyman> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Bilbo's Last Song (at the Grey Havens)"@en .
+
+<http://localhost:8000/resource/Farmer_Giles_of_Ham> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/20_October_1949> ;
+    tg:editor <http://localhost:8000/resource/Christina_Scull%2C_Wayne_G._Hammond_%2850th_Anniversary_edition%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:illustrator <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:image "Farmer Giles 1949.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0859970620"@en ;
+    tg:pages "64"@en ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Farmer Giles of Ham"@en .
+
+<http://localhost:8000/resource/Fifty_New_Poems_for_Children> a schema:Book ;
+    tg:contributors <http://localhost:8000/resource/%22J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/%3F1922_%28see_%23Publication_history> ;
+    tg:format "Hardback"@en ;
+    tg:illustrator "C. T. Nightingale"@en ;
+    tg:image "Fifty New Poems for Children 1st Edition 1922 HB.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "63"@en ;
+    tg:publisher "Basil Blackwell"@en ;
+    tg:title "Fifty New Poems for Children: An Anthology Selected from Books Recently Published by Basil Blackwell"@en .
+
+<http://localhost:8000/resource/Harry_Potter%2C_Narnia%2C_and_The_Lord_of_the_Rings> a schema:Book ;
+    tg:author "Richard Abanes"@en ;
+    tg:date "July 2005"@en ;
+    tg:format "Paperback"@en ;
+    tg:image "Harry Potter, Narnia, and The Lord of the Rings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0736917004"@en ;
+    tg:pages "295"@en ;
+    tg:publisher "Harvest House Publishers"@en ;
+    tg:title "Harry Potter, Narnia, and The Lord of the Rings"@en .
+
+<http://localhost:8000/resource/Leaf_by_Niggle> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/January_1945%3Cbr%3ESeparate_book%3A_28_July_2016> ;
+    tg:format "Paperback; audio-book"@en ;
+    tg:image "Leaf by Niggle 2016.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0008205531"@en ;
+    tg:pages "64"@en ;
+    tg:publisher <http://localhost:8000/resource/HarperCollins> ;
+    tg:title "Leaf by Niggle"@en .
+
+<http://localhost:8000/resource/Morgoth%27s_Ring> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/23_September_1993> ;
+    tg:dateus <http://localhost:8000/resource/14_December_1993> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_War_of_the_Jewels_%281994%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Morgoth's Ring 1993.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0261103040"@en ;
+    tg:pages "480"@en ;
+    tg:precededby <http://localhost:8000/resource/Sauron_Defeated_%281992%29> ;
+    tg:publisheruk <http://localhost:8000/resource/HarperCollins> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Morgoth's Ring"@en .
+
+<http://localhost:8000/resource/Reconsidering_Tolkien> a schema:Book ;
+    tg:date <http://localhost:8000/resource/15_April_2005> ;
+    tg:editor <http://localhost:8000/resource/Thomas_M._Honegger> ;
+    tg:followedby <http://localhost:8000/resource/Tolkien_and_Modernity_1> ;
+    tg:format "Paperback"@en ;
+    tg:image "Reconsidering Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "3905703009"@en ;
+    tg:pages "212"@en ;
+    tg:precededby <http://localhost:8000/resource/Recovery_and_Transcendence_for_the_Contemporary_Mythmaker> ;
+    tg:publisher <http://localhost:8000/resource/Walking_Tree_Publishers> ;
+    tg:series <http://localhost:8000/resource/Cormar%C3%AB_Series> ;
+    tg:title "Reconsidering Tolkien"@en .
+
+<http://localhost:8000/resource/Sauron_Defeated> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/6_January_1992> ;
+    tg:dateus <http://localhost:8000/resource/27_October_1992> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/Morgoth%27s_Ring_%281993%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Sauron Defeated 1992.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0261102400"@en ;
+    tg:pages "482"@en ;
+    tg:precededby <http://localhost:8000/resource/The_War_of_the_Ring_%281990%29> ;
+    tg:publisheruk <http://localhost:8000/resource/HarperCollins> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Sauron Defeated"@en .
+
+<http://localhost:8000/resource/Tales_Before_Tolkien> a schema:Book ;
+    tg:date <http://localhost:8000/resource/November_2005> ;
+    tg:editor <http://localhost:8000/resource/Douglas_A._Anderson> ;
+    tg:format "Mass Market Paperback"@en ;
+    tg:image "Tales Before Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0345458567"@en ;
+    tg:pages "517"@en ;
+    tg:publisher "Random House Publishing Group"@en ;
+    tg:title "Tales Before Tolkien: The Roots of Modern Fantasy"@en .
+
+<http://localhost:8000/resource/The_Adventures_of_Tom_Bombadil> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/22_November_1962> ;
+    tg:dateus <http://localhost:8000/resource/1963> ;
+    tg:editor <http://localhost:8000/resource/Wayne_G._Hammond%2C_Christina_Scull_%282014_edition%29> ;
+    tg:followedby <http://localhost:8000/resource/Tree_and_Leaf_%281964%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:illustrator <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:image "Tom Bombadil 1962.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048210196"@en ;
+    tg:pages "64"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Lord_of_the_Rings_%281954-5%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Adventures of Tom Bombadil<br><small>and Other Verses from the Red Book</small>"@en .
+
+<http://localhost:8000/resource/The_Atlas_of_Middle-earth> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Karen_Wynn_Fonstad> ;
+    tg:date <http://localhost:8000/resource/29_May_1981%3Cbr/%3E1991_%28revised_edition%29> ;
+    tg:format "Paperback"@en ;
+    tg:image "The Atlas of Middle-earth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:noisbn """0395286654 (1981 first edition)
+0395535166 (1991 revised edition)
+0618126996 (2001 reprint, pictured)"""@en ;
+    tg:pages "210"@en ;
+    tg:publisher <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Atlas of Middle-Earth"@en .
+
+<http://localhost:8000/resource/The_Book_of_Fairy_Poetry> a schema:Book ;
+    tg:author "Edited by Dora Owen"@en ;
+    tg:date <http://localhost:8000/resource/1920> ;
+    tg:illustrator <http://localhost:8000/resource/%3AWikipedia%3AWarwick_Goble> ;
+    tg:image "The Book of Fairy Poetry 1st Edition 1920 HB.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "180"@en ;
+    tg:publisher "London: Longmans, Green & Co"@en ;
+    tg:title "The Book of Fairy Poetry"@en .
+
+<http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_One> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/27_October_1983> ;
+    tg:dateus <http://localhost:8000/resource/22_February_1984> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_Two_%281984%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Lost Tales I 1983.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048232386"@en ;
+    tg:pages "304"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Old_English_Exodus_%281982%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Book of Lost Tales: Part One"@en .
+
+<http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_Two> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/16_August_1984> ;
+    tg:dateus <http://localhost:8000/resource/26_November_1984> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Lays_of_Beleriand_%281985%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Lost Tales II 1984.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048232653"@en ;
+    tg:pages "385"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_One_%281983%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Book of Lost Tales: Part Two"@en .
+
+<http://localhost:8000/resource/The_Complete_Guide_to_Middle-earth> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Robert_Foster> ;
+    tg:date <http://localhost:8000/resource/March_1978_%28US%29%3Cbr%3E1978_%28UK%29> ;
+    tg:format "Hardcover; paperback; deluxe edition"@en ;
+    tg:illustrator <http://localhost:8000/resource/Ted_Nasmith_%282003_UK_edition%29> ;
+    tg:image "Complete Guide us 1974.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "034524138X"@en ;
+    tg:pages "298"@en ;
+    tg:publisher <http://localhost:8000/resource/Ballantine_Books_%28US%29%3Cbr%3EGeorge_Allen_%26_Unwin_%28UK%29> ;
+    tg:title "The Complete Guide to Middle-earth"@en .
+
+<http://localhost:8000/resource/The_Fellowship_of_the_Ring> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/29_July_1954_%28UK%29%3Cbr%3E21_October_1954_%28US%29> ;
+    tg:followedby <http://localhost:8000/resource/The_Two_Towers_%281954%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:image "The Lord of the Rings 1954-v1.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "423"@en ;
+    tg:publisheruk <http://localhost:8000/resource/Allen_%26_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Fellowship of the Ring"@en .
+
+<http://localhost:8000/resource/The_Hobbit> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/21_September_1937> ;
+    tg:followedby <http://localhost:8000/resource/The_Lord_of_the_Rings_%281954-55%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:gallery <http://localhost:8000/resource/The_Hobbit/Publication_history_and_gallery> ;
+    tg:illustrator "J.R.R. Tolkien"@en ;
+    tg:image "The Hobbit 2016-facsimile.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "312"@en ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_%26_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Hobbit,<br><small>or There and Back Again</small>"@en .
+
+<http://localhost:8000/resource/The_Languages_of_Tolkien%27s_Middle-earth> a schema:Book ;
+    tg:amazon "http://www.amazon.com/gp/product/0395291305/sr=8-1/qid=1145422754/ref=pd_bbs_1/102-6025778-4717761?%5Fencoding=UTF8"@en ;
+    tg:amazonprice "$16.00"@en ;
+    tg:author <http://localhost:8000/resource/Ruth_S._Noel> ;
+    tg:date <http://localhost:8000/resource/Second_edition%2C_May_1980> ;
+    tg:format "Paperback"@en ;
+    tg:image "The Languages of Tolkien's Middle-earth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0395291305"@en ;
+    tg:pages "224"@en ;
+    tg:publisher <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Languages of Tolkien's Middle-earth"@en .
+
+<http://localhost:8000/resource/The_Lays_of_Beleriand> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/22_August_1985> ;
+    tg:dateus <http://localhost:8000/resource/20_November_1985> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Shaping_of_Middle-earth_%281986%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Lays of Beleriand 1985.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048232777"@en ;
+    tg:pages "393"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Book_of_Lost_Tales%3A_Part_Two_%281984%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Lays of Beleriand"@en .
+
+<http://localhost:8000/resource/The_Letters_of_J.R.R._Tolkien> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/20_August_1981> ;
+    tg:editor <http://localhost:8000/resource/Humphrey_Carpenter%2C_Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Old_English_Exodus_%281982%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Tolkien Letters 1981.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048260053"@en ;
+    tg:pages "463 (first edition)<br/>720 (second edition)"@en ;
+    tg:precededby <http://localhost:8000/resource/Unfinished_Tales_%281980%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Letters of J.R.R. Tolkien"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/1st_edition%3A%3Cbr/%3Evol.1%3A_29_July_1954%3Cbr%3Evol.2%3A_11_November_1954%3Cbr%3Evol.3%3A_20_October_1955%3Cbr/%3E2nd_edition%3A%3Cbr/%3E27_October_1966> ;
+    tg:followedby <http://localhost:8000/resource/The_Adventures_of_Tom_Bombadil_%281962%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:gallery <http://localhost:8000/resource/The_Lord_of_the_Rings/Publication_history_and_gallery_one-volume> ;
+    tg:image "The Lord of the Rings 1954-55.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "vol.1: 423<br>vol.2: 352<br>vol.3: 416"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Hobbit_%281937%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Lord of the Rings"@en .
+
+<http://localhost:8000/resource/The_Lost_Road_and_Other_Writings> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/27_August_1987> ;
+    tg:dateus <http://localhost:8000/resource/30_November_1987> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Return_of_the_Shadow_%281988%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Lost Road and Other Writings 1987.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048233498"@en ;
+    tg:pages "448"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Shaping_of_Middle-earth_%281986%29> ;
+    tg:publisheruk <http://localhost:8000/resource/Unwin_Hyman> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Lost Road and Other Writings"@en .
+
+<http://localhost:8000/resource/The_Maps_of_Tolkien%27s_Middle-earth> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Brian_Sibley> ;
+    tg:date <http://localhost:8000/resource/2003> ;
+    tg:format "Hardcover in slipcase"@en ;
+    tg:illustrator <http://localhost:8000/resource/John_Howe> ;
+    tg:image "The Maps of Tolkien's Middle-earth box.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "061839110X"@en ;
+    tg:pages "80"@en ;
+    tg:publisher <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "''The Maps of Tolkien's Middle-earth''"@en .
+
+<http://localhost:8000/resource/The_Peoples_of_Middle-earth> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/2_September_1996> ;
+    tg:dateus <http://localhost:8000/resource/6_December_1996> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_History_of_Middle-earth_Index_%282002%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Peoples of Middle-earth 1996.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0261103377"@en ;
+    tg:pages "496"@en ;
+    tg:precededby <http://localhost:8000/resource/J.R.R._Tolkien%3A_Artist_and_Illustrator_%281995%29> ;
+    tg:publisheruk <http://localhost:8000/resource/HarperCollins> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Peoples of Middle-earth"@en .
+
+<http://localhost:8000/resource/The_Philosophy_of_Tolkien> a schema:Book ;
+    tg:author "Peter J. Kreeft"@en ;
+    tg:date <http://localhost:8000/resource/October_2005> ;
+    tg:format "Paperback"@en ;
+    tg:image "The Philosophy of Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "1586170252"@en ;
+    tg:pages "237"@en ;
+    tg:publisher "Ignatius Press"@en ;
+    tg:title "The Philosophy of Tolkien"@en .
+
+<http://localhost:8000/resource/The_Return_of_the_King> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/20_October_1955_%28UK%29%3Cbr%3E5_January_1956_%28US%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:image "The Lord of the Rings 1955-v3.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "416"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Two_Towers_%281954%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Return of the King"@en .
+
+<http://localhost:8000/resource/The_Return_of_the_Shadow> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/25_August_1988> ;
+    tg:dateus <http://localhost:8000/resource/5_January_1989> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Treason_of_Isengard_%281989%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Return of the Shadow 1988.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0044401620"@en ;
+    tg:pages "480"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Lost_Road_and_Other_Writings_%281987%29> ;
+    tg:publisheruk <http://localhost:8000/resource/Unwin_Hyman> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Return of the Shadow"@en .
+
+<http://localhost:8000/resource/The_Rise_of_Tolkienian_Fantasy> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Jared_Lobdell> ;
+    tg:date <http://localhost:8000/resource/6_October_2005> ;
+    tg:image "The Rise of Tolkienian Fantasy.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:noisbn "0812694589"@en ;
+    tg:pages "176"@en ;
+    tg:publisher "Open Court"@en ;
+    tg:title "The Rise of Tolkienian Fantasy"@en .
+
+<http://localhost:8000/resource/The_Sellamillion> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Adam_Roberts> ;
+    tg:date <http://localhost:8000/resource/30_December> ;
+    tg:format "Hardcover"@en ;
+    tg:image "Sellamillion.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "978-0575076112"@en ;
+    tg:publisher <http://localhost:8000/resource/Gollancz> ;
+    tg:title "Sellamillion"@en .
+
+<http://localhost:8000/resource/The_Shaping_of_Middle-earth> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/21_August_1986> ;
+    tg:dateus <http://localhost:8000/resource/14_November_1986> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Lost_Road_and_Other_Writings_%281987%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Shaping of Middle-earth 1986.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048232793"@en ;
+    tg:pages "380"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Lays_of_Beleriand_%281985%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Shaping of Middle-earth"@en .
+
+<http://localhost:8000/resource/The_Silmarillion> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/15_September_1977> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Inklings_%28book%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:gallery <http://localhost:8000/resource/The_Silmarillion/Publication_history_and_gallery> ;
+    tg:image "The Silmarillion 1977.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048231398"@en ;
+    tg:pages "365"@en ;
+    tg:precededby <http://localhost:8000/resource/Letters_from_Father_Christmas_%281976%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Silmarillion"@en .
+
+<http://localhost:8000/resource/The_Soddit> a schema:Book ;
+    tg:author <http://localhost:8000/resource/A.R.R.R._Roberts> ;
+    tg:date <http://localhost:8000/resource/28_March> ;
+    tg:format "Paperback"@en ;
+    tg:image "The Soddit.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0575075910"@en ;
+    tg:pages "352"@en ;
+    tg:publisher "Gollancz"@en ;
+    tg:title "The Soddit:<br />Or, Let's Cash in Again"@en .
+
+<http://localhost:8000/resource/The_Treason_of_Isengard> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/7_September_1989> ;
+    tg:dateus <http://localhost:8000/resource/30_November_1989> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_War_of_the_Ring_%281990%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Treason of Isengard 1989.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0044403968"@en ;
+    tg:pages "464"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Return_of_the_Shadow_%281988%29> ;
+    tg:publisheruk <http://localhost:8000/resource/Unwin_Hyman> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Treason of Isengard"@en .
+
+<http://localhost:8000/resource/The_Two_Towers> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/11_November_1954_%28UK%29%3Cbr%3E21_April_1955_%28US%29> ;
+    tg:followedby <http://localhost:8000/resource/The_Return_of_the_King_%281955%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:image "The Lord of the Rings 1954-v2.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:pages "352"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Fellowship_of_the_Ring_%281954%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The Two Towers"@en .
+
+<http://localhost:8000/resource/The_War_of_the_Jewels> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/20_October_1994> ;
+    tg:dateus <http://localhost:8000/resource/6_December_1994> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/J.R.R._Tolkien%3A_Artist_and_Illustrator_%281995%29> ;
+    tg:format "Hardback; paperback"@en ;
+    tg:image "The War of the Jewels (UK).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0261103148"@en ;
+    tg:pages "470"@en ;
+    tg:precededby <http://localhost:8000/resource/Morgoth%27s_Ring_%281993%29> ;
+    tg:publisheruk <http://localhost:8000/resource/HarperCollins> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The War of the Jewels"@en .
+
+<http://localhost:8000/resource/The_War_of_the_Ring> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/23_August_1990> ;
+    tg:dateus <http://localhost:8000/resource/14_November_1990> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/Sauron_Defeated_%281992%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "War of the Ring 1990.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0044406851"@en ;
+    tg:pages "496"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Treason_of_Isengard_%281989%29> ;
+    tg:publisheruk <http://localhost:8000/resource/Unwin_Hyman> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "The War of the Ring"@en .
+
+<http://localhost:8000/resource/Tolkien%27s_Mighty_Pen> a schema:Book ;
+    tg:amazon "http://www.amazon.com/Tolkiens-Mighty-Pen-Rules-Middle/dp/1420855867/ref=sr_1_1?ie=UTF8&s=books&qid=1233055251&sr=8-1"@en ;
+    tg:amazonprice "$12.95"@en ;
+    tg:author <http://localhost:8000/resource/C.N._Crum> ;
+    tg:date <http://localhost:8000/resource/25_July> ;
+    tg:format "Paperback"@en ;
+    tg:image "Tolkien's Mighty Pen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "1420855867"@en ;
+    tg:pages "144"@en ;
+    tg:publisher "AuthorHouse"@en ;
+    tg:title "Tolkien&#39;s Mighty Pen"@en .
+
+<http://localhost:8000/resource/Tolkien%27s_Ordinary_Virtues> a schema:Book ;
+    tg:1 "Mark Eddy Smith"@en ;
+    tg:date <http://localhost:8000/resource/21_December_2001> ;
+    tg:format "Paperback"@en ;
+    tg:image "Tolkien's Ordinary Virtues.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "1466345446"@en ;
+    tg:pages "154"@en ;
+    tg:publisher "Createspace Independent Pub"@en ;
+    tg:title "Tolkien's Ordinary Virtues:<br /><small>Exploring the Spiritual Themes of the Lord of the Rings</small>"@en .
+
+<http://localhost:8000/resource/Tolkien_and_C.S._Lewis> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Colin_Duriez> ;
+    tg:date <http://localhost:8000/resource/October_2003> ;
+    tg:format "Paperback"@en ;
+    tg:image "Tolkien and C. S. Lewis.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "1587680262"@en ;
+    tg:pages "256"@en ;
+    tg:publisher "Paulist Press"@en ;
+    tg:title "Tolkien and C.S. Lewis: The Gift of Friendship"@en .
+
+<http://localhost:8000/resource/Tolkien_and_the_Great_War> a schema:Book ;
+    tg:author <http://localhost:8000/resource/John_Garth> ;
+    tg:date <http://localhost:8000/resource/October_2003> ;
+    tg:followedby <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_A_Reader%27s_Companion_%282005%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:image "Great War 2003.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0007119526"@en ;
+    tg:pages "416"@en ;
+    tg:precededby <http://localhost:8000/resource/The_History_of_Middle-earth_Index_%282002%29> ;
+    tg:publisheruk <http://localhost:8000/resource/HarperCollins> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Tolkien and the Great War: The Threshold of Middle-earth"@en .
+
+<http://localhost:8000/resource/Tree_and_Leaf> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/28_May_1964> ;
+    tg:dateus <http://localhost:8000/resource/March_1965> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien_%281988_edition%29> ;
+    tg:followedby <http://localhost:8000/resource/Poems_and_Songs_of_Middle_Earth_%7B1967%29> ;
+    tg:format "Hardcover; paperback"@en ;
+    tg:illustrator <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:image "Tree and Leaf 1964 paperback.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048240133"@en ;
+    tg:pages "92"@en ;
+    tg:precededby <http://localhost:8000/resource/The_Adventures_of_Tom_Bombadil_%7B1962%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Tree and Leaf"@en .
+
+<http://localhost:8000/resource/Understanding_The_Lord_of_the_Rings> a schema:Book ;
+    tg:author "Neil D Isaacs, Rose A Zimbardo (Editors)"@en ;
+    tg:date <http://localhost:8000/resource/24_May> ;
+    tg:format "Hardcover"@en ;
+    tg:image "Understanding The Lord of the Rings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "978-0618422517"@en ;
+    tg:pages "294"@en ;
+    tg:publisher <http://localhost:8000/resource/Houghton_Mifflin_Company> ;
+    tg:title "Understanding ''The Lord of the Rings'': The Best of Tolkien Criticism"@en .
+
+<http://localhost:8000/resource/Unfinished_Tales> a schema:Book ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:dateuk <http://localhost:8000/resource/2_October_1980> ;
+    tg:dateus <http://localhost:8000/resource/18_November_1980> ;
+    tg:editor <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:followedby <http://localhost:8000/resource/The_Letters_of_J.R.R._Tolkien_%281981%29> ;
+    tg:format "Hardcover; paperback; deluxe-edition; audio-book"@en ;
+    tg:gallery <http://localhost:8000/resource/Unfinished_Tales/Publication_history_and_gallery> ;
+    tg:image "Unfinished Tales 1980.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0048231797"@en ;
+    tg:pages "472"@en ;
+    tg:precededby <http://localhost:8000/resource/Pictures_by_J.R.R._Tolkien_%7B1979%29> ;
+    tg:publisheruk <http://localhost:8000/resource/George_Allen_and_Unwin> ;
+    tg:publisherus <http://localhost:8000/resource/Houghton_Mifflin> ;
+    tg:title "Unfinished Tales<br/><small>of Númenor and Middle-earth</small>"@en .
+
+<http://localhost:8000/resource/Unsung_Heroes_of_The_Lord_of_the_Rings> a schema:Book ;
+    tg:author <http://localhost:8000/resource/Lynnette_Porter> ;
+    tg:date <http://localhost:8000/resource/30_March> ;
+    tg:format "Hardcover"@en ;
+    tg:image "Unsung Heroes of The Lord of the Rings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "0275985210"@en ;
+    tg:pages "224"@en ;
+    tg:publisher "Greenwood Publishing Group, Incorporated"@en ;
+    tg:title "Unsung Heroes of The Lord of the Rings"@en .
+
+<http://localhost:8000/resource/Walking_with_Bilbo> a schema:Book ;
+    tg:amazon "http://www.amazon.com/gp/product/1414301316/sr=8-1/qid=1145506555/ref=pd_bbs_1/102-6025778-4717761?%5Fencoding=UTF8"@en ;
+    tg:amazonprice "$9.99"@en ;
+    tg:author "Sarah Arthur"@en ;
+    tg:date <http://localhost:8000/resource/February_2005> ;
+    tg:format "Paperback"@en ;
+    tg:image "Walking with Bilbo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/book> ;
+    tg:isbn "1414301316"@en ;
+    tg:pages "224"@en ;
+    tg:publisher "Tyndale House Publishers"@en ;
+    tg:title "Walking with Bilbo:<br/><small>A Devotional Adventure Through The Hobbit</small>"@en .
+

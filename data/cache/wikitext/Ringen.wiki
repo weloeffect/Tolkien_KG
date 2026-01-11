@@ -1,0 +1,20 @@
+{{video game infobox
+| image=
+| name=Ringen
+| developer=Hansen<br/>Pål-Kristian Engstad<br/>Per Arne Engstad
+| publisher=
+| platform=[[wikipedia:Numerical control|CNC]]<ref name="Tolkien Games">{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/ringen.html|articlename=Ringen|dated=|website=Games|accessed=15 august 2010}}</ref><br/>[[wikipedia:Commodore 64|Commodore 64]]<ref name="Tolkien Games"/><br/>[[wikipedia:MS-DOS|MS-DOS]]<ref name="Tolkien Games"/>
+| releasedate=[[1979]]
+| genre=Text-adventure
+|}}'''Ringen''' is a Norwegian text-adventure video game written by Hansen and set in [[Moria]].<ref name="Tolkien Games"/> It was later converted in Mudformat (''[[VikingMUD]]'' and ''[[Genesis]]''), expanded and translated to English by Pål-Kristian Engstad and Per Arne Engstad.<ref name="Tolkien Games"/>
+
+==See also==
+* ''[[VikingMUD]]''
+* ''[[Genesis]]''
+
+{{References}}
+{{title|italics}}
+[[Category:CNC games]]
+[[Category:Commodore 64 games]]
+[[Category:MS-DOS games]]
+[[Category:Text-Adventure video games]]

@@ -1,0 +1,44 @@
+{{Poem infobox
+| title=Imram
+| other names=''The Ballad of Saint Brendan's Death''<br>''The Death of Saint Brendan''
+| written=Around [[1945]]
+| revised=Around [[1955]]
+| published=''[[Time and Tide (3 December 1955)|Time and Tide]]''<br>''[[Sauron Defeated]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Saint Brendan]], ''[[The Notion Club Papers]]'', [[Notion Club]]
+}}
+'''''Imram''''' (The Death of Saint Brendan) is a poem written by [[J.R.R. Tolkien]] and published in ''[[Time and Tide (3 December 1955)|Time and Tide]]'' on [[3 December]] [[1955]].<ref>{{CG|C}}, p. 480</ref> The title is Irish for "voyage"; ''[[Wikipedia:Immram|Immrama]]'' were [[Celtic]] tales about Irish explorers who sought the Land of Promise in the Atlantic.
+
+==Synopsis==
+In his deathbed, [[Saint Brendan]] is questioned by a disciple about his sea travels to the west. He does not remember much, save for a Cloud, a Tree and a Star. Sailing with his company, he had travelled for a year when they were covered by a Cloud. This came from a very high mountain that rose shoreless in the sea, the remnants of a [[Númenor|land]] of powerful kings. They kept sailing till the Cloud was left behind, reaching a beautiful [[Tol Eressëa|isle]]. Landing there, they crossed a silent dale and found a giant [[Galathilion|Tree]] with white leaves and a trunk as a tower. Brendan and his company felt they were in a dream and wished to remain there, but then the Tree shook. Leaves felt and a song from the [[Elves|Elvenkind]] was sung from high. Brendan's disciple asks him about the Star, and he explains that he saw it after they crossed a [[Straight Road|old road]] above the round world. The disciple insists on knowing what he saw beyond in the [[Aman|Living Land]], as it is said Brendan was the only one who visited it, but Brendan answers that if he wants to know that land full of flowers, "''in a boat then, brother, far afloat'' / ''you must labour in the sea,'' / ''and find for yourself things out of mind:'' / ''you will learn no more of me.''" Then Saint Brendan died and journed where no ship can return.
+
+==History of composition==
+Tolkien first composed the poem to be included in ''[[The Notion Club Papers]]'' ([[1945]]), in which [[Philip Frankley]] is the author and reads it to the [[Notion Club|Club]]. This causes amazement to [[Lowdham]], which comments the correlations of the poem with his mind exploration of the [[Atlantis-haunting|Atlantis]] mythos.<ref>{{SD|69}}, pp. 261-265</ref> As [[Christopher Tolkien]] comments, his father put a great effort in the composition of the poem before and after, as it is reflected in the several versions of the poem. The first text was titled ''The Ballad of St. Brendan's Death'', while the following versions were ''The Death of Saint Brendan''. Some of these versions were included in the narrative of different manuscripts of ''The Notion Club Papers''. Tolkien kept reworking the poem with the title ''Imram'' till it was published in ''Time and Tide'' in 1955. Christopher included the full poem in ''[[Sauron Defeated]]'', as it was hard to find.<ref>{{SD|Imram}}, pp. 295-296</ref>
+
+==First stanza==
+<poem style="font-style:italic; margin-left:20px;">
+At last out of the deep seas he passed,
+and mist rolled on the shore;
+under clouded moon the waves were loud,
+as the laden ship him bore
+to Ireland, back to wood and mire,
+to the tower tall and grey,
+where the knell of Cluian-ferta’s bell
+tolled in the green Galway.
+Where Shannon down to Lough Derg ran
+under a rainclad sky
+Saint Brendan came to his journey’s end
+to await his hour to die.</poem>
+
+==See also==
+* [[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+==External links==
+* "[http://dc.swosu.edu/mythlore/vol17/iss4/3/ Sailing West: Tolkien, the Saint Brendan Story, and the Idea of Paradise in the West]" by Norma Roche
+* [https://englewoodreview.org/poem-the-death-of-st-brendan-j-r-r-tolkien/ Poem: "The Death of St. Brendan" - J.R.R. Tolkien]
+
+{{references}}
+{{poems}}
+
+[[Category:Poems in The History of The Lord of the Rings]]
+
+[[fi:Imram]]

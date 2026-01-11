@@ -1,0 +1,187 @@
+{{video game infobox
+| image = Aragorn'as Quest - cover.jpg
+| name=''The Lord of the Rings: Aragorn's Quest''
+| developer=[[Headstrong Games]] (Wii),<br/>[[TT Fusion]] (other platforms)
+| publisher=[[Warner Bros. Interactive Entertainment]]
+| platform=[[wikipedia:Nintendo DS|Nintendo DS]], [[wikipedia:PlayStation 2|PlayStation 2]], [[wikipedia:PlayStation 3|PlayStation 3]], [[wikipedia:PlayStation Portable|PlayStation Portable]], [[wikipedia:Wii|Wii]]
+| releasedate=[[wikipedia:North America|NA]]: [[14 September|September 14]] [[2010]]<br/>[[wikipedia:Australasia|AU]]: [[6 October|October 6]] [[2010]]<br/>[[wikipedia:Europe|EU]]: [[29 October|October 29]] [[2010]]
+| genre=Third-person, "hack and slash", action adventure
+| modes=Single-player, two-player co-operative
+| rating=[[wikipedia:Australian Classification Board|ACB]]: PG<br/>[[wikipedia:Entertainment Software Rating Board|ESRB]]: E10+/T (PS3)<br/>[[wikipedia:Pan European Game Information|PEGI]]: 12+<br/>[[wikipedia:Unterhaltungssoftware Selbstkontrolle|USK]]: 12
+| distribution=Physical
+}}
+'''''The Lord of the Rings: Aragorn's Quest''''' is a third-person, action adventure video game in which the player fights through [[Middle-earth]] as [[Aragorn]]. The game was developed for the Nintendo DS, PlayStation Portable, PlayStation 2 and PlayStation 3 by [[TT Fusion]], and for the Wii by [[Headstrong Games]]. It was released on [[14 September|14]] [[September]], [[2010]].
+
+''Aragorn's Quest'' is the first officially-licensed game to be released by [[Warner Bros. Interactive Entertainment]], who took over the license from [[Electronic Arts]] to publish ''[[The Lord of the Rings]]''-related games. 
+
+
+==Plot==
+Set in the early [[Fourth Age]], 15 years after the destruction of the [[One Ring]] and downfall of [[Sauron]], [[Samwise Gamgee]] waits for the return of [[Aragorn]] to the [[Shire]] for a great party. As the [[Mayor of Michel Delving|Mayor]], Sam is in charge of arranging the festivities for King Elessar's arrival; in the mean-time, he regales his children with tales of Aragorn's exploits. (Cf. [[Aragorn]] and [[Arwen]] meeting [[Samwise Gamgee|Sam]] at [[Brandywine Bridge]] in {{FoA|15}}.)
+[[File:Aragorn's Quest - Sam and Frodo Gardner.jpg|thumb|200px|[[Samwise Gamgee|Sam]] and [[Frodo Gardner|Frodo]] in [[The Shire]]|left]]
+Sam's son, [[Frodo Gardner|Frodo Gamgee]], runs around [[Hobbiton]] completing tasks, whilst also re-living the Aragorn's adventures (as retold, not always perfectly accurately) by Sam.
+
+==Gameplay==
+The player controls [[Frodo Gardner|Frodo Gamgee]] in the hub world of the [[Shire]], where he can talk to people and perform simple tasks. When sitting down with his father, the player can control Aragorn in a fairy tale-like setting. Wii players can also control [[Gandalf]] as a second character.
+
+Aragorn will wield a sword, a shield, a bow and spears, and can mount a horse.
+
+===Controls===
+The controls on the Wii have been compared with those of Nintendo's [[wikipedia:The Legend of Zelda: Twilight Princess|The Legend of Zelda: Twilight Princess]],<ref name="Kotaku Review"/><ref name="1UP Review"/> with the analogue-stick being using to control the on-screen character, with swiping of the Wii Remote up, down or to the side makes Aragorn perform similar on-screen actions; the D-pad switches weapon (to bow-and-arrow and flaming torch, for example), and the Z-button locks on, and C looks around. The controls for the PlayStation 3 - which only works with [[wikipedia:PlayStation Move|PlayStation Move]] - is much the same as those for the Wii.
+
+The Nintendo DS version of the game uses rudimentary touch-screen controls (such as tracing a rune in order to open doors).<ref name="IGN Review" /> 
+
+===Multiplayer===
+[[File:Aragorn's Quest - Orcs.jpg|thumb|200px|right|[[Aragorn]] and [[Gandalf]] fighting [[orcs]]]]At any point (on the Wii and PlayStation 3), a second player can drop into the game as [[Gandalf]], and work co-operatively in order to complete the tasks. Gandalf wields his staff and can utilise powerful magic to defeat enemies, such as hitting enemies with lightning and shooting firebolts, as well as the ability to heal, and use his sword; Gandalf's magic is recharged with orbs from dead enemies. 
+
+When in the [[Shire]], a second player can also play as [[Elanor Gardner|Elanor]] (dressed as Gandalf) to help Frodo Gamgee complete the mini-quests in Hobbiton; the second player has the same magical abilities as Gandalf in the Aragorn quests.
+
+==Characters==
+===Playable===
+* [[Frodo Gardner|Frodo Gamgee]]
+* [[Aragorn]]
+* [[Gandalf]] - by a second player
+* [[Elanor Gardner|Elanor]] - by a second player
+
+===Non-playable ===
+* [[Arwen]]
+* [[Bilbo Baggins]]
+* [[Boromir]]
+* [[Elrond]]
+* [[Éomer]]
+* [[Éowyn]]
+* [[Frodo Baggins]]
+* [[Gamling]]
+* [[Gimli]]
+* [[Legolas]]
+* [[Merry Brandybuck]]
+* [[Merry Gardner]]
+* [[Pippin Gardner]]
+* [[Pippin Took]]
+* [[Rose Cotton]]
+* [[Samwise Gamgee]]
+* [[Théoden]]
+
+===Cast===
+Cast members are billed by name only; no roles are specified in the game's credits.
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Sean Astin]] || [[Samwise Gamgee]]<ref>[http://www.filmcrave.com FilmCrave], "[http://www.filmcrave.com/movie_news_story.php?id=23091 Samwise in The Hobbit? Sean Astin speaks about the rumors]", [[19 May|19]] [[May]] 2010 (accessed [[27 September|27]] [[September]] [[2010]])</ref>
+|-
+| [[John Rhys-Davies]] || [[Gimli]]<ref name="Joystiq">[http://www.joystiq.com Joystiq], "[http://www.joystiq.com/2010/09/10/john-rhys-davies-sean-astin-sign-up-for-aragorns-quest/ John Rhys-Davies, Sean Astin sign up for Aragorn's Quest]", [[10 September|10]] September 2010 (accessed [[27 September|27]] [[September]] [[2010]])</ref>
+|-
+| Deborah Baker, Jr. || Unspecified<ref name="YouTubeCredits"/>
+|-
+| [[Steve Blum]] || Unspecified<ref name="YouTubeCredits">"[http://www.youtube.com/watch?v=QZxeX7tYekQ Lord of the Rings Aragonr's Quest Walkthrough Black Gates pt 2 ]" (including game credits), [http://www.youtube.com YouTube] (accessed 23 March 2011)</ref>
+|-
+| [[Kieron Elliott]] || [[Pippin Took]]<ref>{{webcite|author=[[Kieron Elliott]]|articleurl=http://www.kieronelliott.net/Voice%20Over/|articlename=Voice Over|dated=|website=www.kieronelliott.net|accessed=12 February 2012}}</ref>
+|-
+| [[Chris Edgerly]] || Unspecified<ref name="YouTubeCredits"/>
+|-
+| [[Crispin Freeman]] || [[Legolas]]<ref name="YouTubeCredits"/>
+|-
+| [[Elan Garfias]] || [[Pippin Gardner|Pippin Gamgee]]<ref>"[http://www.imdb.com/name/nm2284098/resume Elan Garfias's resume]", [http://www.imdb.com IMDb] (accessed 23 March 2011)</ref>
+|-
+| [[Tom Kane]] || [[Gandalf]]/[[Gamling]]
+|-
+| [[Andy Pessoa]] || Unspecified<ref>"[http://www.imdb.com/name/nm2185248/resume Andy Pessoa's resume]", [http://www.imdb.com IMDb] (accessed 23 March 2011)</ref>
+|-
+| [[Jim Piddock]] || [[Elrond]]/[[Bilbo Baggins]]
+|-
+|Mary Mouser || [[Elanor Gardner]]
+|}
+
+Archive sounds from [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]] were used for many of the main characters. It is unclear whether [[Chris Edgerly]] provided additional lines for Aragorn as he did in previous games. But Crispin Freeman did replace Orlando Bloom as Legolas
+
+==Trailers==
+Since the first announcement in May 2009, Warner Bros. have periodically released trailers (and one interview) demonstrating various aspects of the gameplay. All video links are to [[wikipedia:YouTube|YouTube]], and times are in minutes:
+
+<table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;"><tr><td style="background: #F2E6CE;">'''Video'''</td><td style="background: #F2E6CE;">'''Length'''</td><td style="background: #F2E6CE;">'''Release Date'''</td><td style="background: #F2E6CE;">'''Description'''</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=pQc22PRMNW4 Debut Trailer]</td><td>1:05</td><td>c. [[29 May|29]] [[May]] [[2009]]</td><td>Displays Sam's story-telling and Aragorn's fighting prowess</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=vjpicDWu76U Trailer #2]</td><td>1:17</td><td>[[14 December|14]] [[December]] [[2009]]</td><td>Gameplay and, for the first time, two-player co-operative</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=q0yb_4B-uh8 Overland Trailer]</td><td>5:12<td>[[18 June|18]] [[June]] [[2010]]</td><td>Lengthy gameplay sequences</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=n2cH9zz5AIo Vignette]</td><td>1:57</td><td>[[10 August|10]] [[August]] [[2010]]</td><td>Action sequences of the [[Battle of the Pelennor Fields]]</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=sajrZ0Gcrvc Co-op Trailer]</td><td>1:24</td><td>c. [[26 August|26]] [[August]] [[2010]]</td><td>Co-op gameplay and tutorial, with controls</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=T5-OnjRgwOk Behind the Scenes]</td><td>2:09</td><td>[[10 September|10]] [[September]] [[2010]]</td><td>[[Sean Astin]] and [[John Rhys-Davies]] explain the game and their characters</td></tr>
+
+<tr><td>[http://www.youtube.com/watch?v=zBnGp4tP5hk Launch Trailer]</td><td>1:26</td><td>[[14 September|14]] [[September]] [[2010]]</td><td>Generic clips of gameplay and enemies (with an [[Oliphaunts|Oliphaunt]] and the [[Durin's Bane|Balrog]])</td></tr></table>
+
+==History and development==
+[[File:Aragorn's Quest - Troll3.jpg|thumb|200px|right|[[Aragorn]] fighting a [[troll]]]]In [[May]] [[2009]], it was announced that [[Warner Bros. Interactive Entertainment]] had taken over from [[Electronic Arts]] and entered into partnership with the [[Middle-earth Enterprises|Saul Zaentz Company]] and [[New Line Cinema]] (itself a subsidiary of [[Warner Bros.]]) to produce video games based on ''The Lord of the Rings'' [[The Lord of the Rings|books]] and [[The Lord of the Rings (film series)|films]].<ref name="Voodoo">[http://ve3d.ign.com Voodoo Extreme], "[http://ve3d.ign.com/articles/news/47438/The-Lord-Of-The-Rings-Aragorns-Quest-Officially-Announced The Lord of the Rings: Aragorn's Quest Officially Announced]", [[28 May|28]] [[May]] [[2009]] (accessed [[28 September|28]] [[September]] [[2010]])</ref> The game's title was initially leaked at [[wikipedia:Electronic Entertainment Expo|Electronic Entertainment Expo]] (more commonly known as "E3"), before being confirmed a week later by Warner Bros., "''accessible gameplay set in a friendly, colorful rendition of Middle-Earth. Players assume the role of Strider and embark on his greatest quests from The Lord of the Rings trilogy.''"<ref name="Softpedia">[http://www.softpedia.com Softpedia], "[http://news.softpedia.com/news/Warner-Bros-Has-Long-Term-Plans-for-Lord-of-the-Rings-113001.shtml Warner Bros. Has Long Term Plans for Lord of the Rings]", [[1 June|1]] [[June]] [[2009]] (accessed [[27 September|27]] [[September]] [[2010]])</ref> The press release promised a more family-friendly experience in which the player relives [[Aragorn]]'s adventures, as retold by [[Mayor of Michel Delving|Mayor]] [[Samwise Gamgee]], available on the Wii, Nintendo DS, PlayStation 2 and PlayStation Portable in the Fall 2009.<ref name="Shack News">[http://www.shacknews.com/ Shack News], "[http://www.shacknews.com/onearticle.x/58718 The Lord of the Rings: Aragorn's Quest Revealed]", [[20 May|20]] [[May]] [[2009]] (accessed [[27 September|27]] [[September]] [[2010]])</ref> Kotaku were luke-warm to the announcement of "''a kids' game''".<ref name="Kotaku kids">[http://www.kotaku.com Kotaku], "[http://kotaku.com/5263517/the-first-non+ea-lord-of-the-rings-game-isa-kids-game The First Non-EA Lord Of The Rings Game Is...A Kids Game]", [[20 May|20]] [[May]] [[2009]] (accessed [[28 September|28]] [[September]] [[2010]])</ref>
+
+{{blockquote|The Lord of the Rings franchise is world renowned for its captivating adventures, and we are creating new experiences in the game space designed to appeal to a wide array of consumer tastes from core to casual... The Lord of the Rings: Aragorn's Quest is the first of many different types of games we will be developing with the film and literary rights. It is also the first game allowing kids and their families to interact in their favorite locations and stories from The Lord of the Rings with accessible gameplay.|Martin Tremblay, President of [[Warner Bros. Interactive Entertainment]]<ref name="IGN Announce">[http://www.ign.com IGN], "[http://uk.wii.ign.com/articles/987/987602p1.html Warner Bros. Announces Lord of the Rings Game Franchise Partnership]", [[28 May|28]] [[May]] [[2009]] (accessed [[27 September|27]] [[September]] [[2010]])</ref>}}
+
+In August 2009, Warner Bros. announced that ''Aragorn's Quest'' had been delayed until Spring 2010, but no reason was given for the delay.<ref name="Shacknews Delay">[http://www.shacknews.com Shacknews], "[http://www.shacknews.com/onearticle.x/59936 The Lord of the Rings: Aragorn's Quest Delayed]", [[11 August|11]] [[August]] [[2009]] (accessed [[28 September|28]] [[September]] [[2010]])</ref><ref name="Kotaku Delay">[http://www.kotaku.com Kotaku], "[http://kotaku.com/5335571/another-game-delayed-to-spring-this-time-lord-of-the-rings Another Game Delayed To Spring, This Time Lord Of The Rings]", [[12 August|12]] [[August]] [[2009]] (accessed [[28 September|28]] [[September]] [[2010]])</ref> Come Spring 2010, however, no release date had been announced; on [[10 March|10]] [[March]] 2010 Warner Bros. informed [http://www.kotaku.com Kotaku] that ''Aragorn's Quest'' would be ported to the PlayStation 3, supporting PlayStation Move. Kotaku speculated that this why the game was being delayed, again, until Fall 2010.<ref name="Kotaku PS3">[http://www.kotaku.com Kotaku], "[http://kotaku.com/5490658/playstation-move-gets-its-first-wii-port PlayStation Move Gets Its First Wii Port]", [[10 May|10]] [[May]] 2010 (accessed [[28 September|28]] [[September]] [[2010]])</ref>
+
+==Reception==
+{{VG reviews
+| agg1=[http://www.gamerankings.com/ GameRankings]
+| agg1score=59.75%<ref name="GameRankings">[http://www.gamerankings.com/ GameRankings], "[http://www.gamerankings.com/wii/960403-the-lord-of-the-rings-aragorns-quest/index.html The Lord of the Rings: Aragorn's Quest]" (accessed [[25 November|25]] [[November]] [[2010]])</ref>
+| agg2=[http://www.metacritic.com Metacritic]
+| agg2score=56% <ref name="Metacritic">[http://www.metacritic.com Metacritic], "[http://www.metacritic.com/game/wii/the-lord-of-the-rings-aragorns-quest The Lord of the Rings: Aragorn's Quest] (accessed [[25 November|25]] [[November]] [[2010]])</ref>
+| rev1=[http://www.1up.com 1UP]
+| rev1score=C+ <ref name="1UP Review" />
+| rev2=[http://www.aeropause.com Aeropause]
+| rev2score=6.0 <ref name="Aeropause Review">[http://www.aeropause.com Aeropause], "[http://www.aeropause.com/2010/09/review-the-lord-of-the-rings-aragorns-quest-wii/ Review: The Lord of the Rings: Aragorn’s Quest (Wii)], [[16 September|16]] [[September]] [[2010]]</ref>
+| rev3=[http://reviews.cnet.com CNET]
+| rev3score=7.0 <ref name="CNET Review" />
+| rev4=[http://www.next-gen.biz Edge]
+| rev4score=5.0 <ref name="Edge Review">[http://www.next-gen.biz Edge] "[http://www.next-gen.biz/features/the-lord-of-the-rings-aragorns-quest-review The Lord Of The Rings: Aragorn's Quest Review]", [[30 September|30]] [[September]] 2010 (accessed [[4 October|4]] [[October]] [[2010]])</ref>
+| rev5=[http://www.gamerevolution.com GameRevolution]
+| rev5score=C- <ref name="GameRevolution Review">[http://www.gamerevolution.com GameRevolution], "[http://www.gamerevolution.com/review/wii/lotr-aragorns-quest The Lord of the Rings: Aragorn's Quest Review for the Wii]", [[28 September|28]] September 2010 (accessed [[29 September|29]] [[September]] [[2010]]</ref>
+| rev6=[http://www.gamespot.com GameSpot]
+| rev6score=7.0 <ref name="GameSpot Review" />
+| rev7=[http://www.gametrailers.com GameTrailers]
+| rev7score=6.1 <ref name="GameTrailers Review" />
+| rev8=[http://wii.gamezone.com GameZone]
+| rev8score=4.5 <ref name="GameZone Review">[http://wii.gamezone.com GameZone], "[http://wii.gamezone.com/reviews/item/the_lord_of_the_rings_aragorns_quest_review/ The Lord of the Rings: Aragorn’s Quest review], [[6 October|6]] October 2010 (accessed 25 November 2010)</ref>
+| rev9=[http://www.ign.com IGN]
+| rev9score=7.0 <ref name="IGN Review" />
+| rev10=[http://www.nintendopower.com/ Nintendo Power]
+| rev10score=55% <ref name="Nintendo Power Review">[http://www.nintendopower.com/ Nintendo Power], issue 260, [[November]] [[2010]], p. 88</ref>
+| rev11=[http://www.nintendoworldreport.com Nintendo World Report]
+| rev11score=5.0 <ref name="NWR Review">[http://www.nintendoworldreport.com Nintendo World Report], "[http://www.nintendoworldreport.com/review/24195 Review - Lord of the Rings: Aragorn's Quest]", [[2 October|2]] October 2010 (accessed [[4 October|4]] [[October]] [[2010]])</ref>
+| rev12=[http://www.officialnintendomagazine.co.uk/ Official Nintendo Magazine]
+| rev12score=58% <ref name="ONM Review">[http://www.officialnintendomagazine.co.uk/ Official Nintendo Magazine], issue 62, [[December]] [[2010]], pp. 80-1</ref>
+| rev13=[http://worthplaying.com Worthplaying]
+| rev13score=7.0 <ref name="Worthplaying Review">[http://worthplaying.com Worthplaying], "[http://worthplaying.com/article/2010/9/30/reviews/77222/Wii Review - 'The Lord of the Rings: Aragorn's Quest']", [[30 September|30]] [[September]] 2010 (accessed [[4 October|4]] [[October]] [[2010]])</ref>
+}}''The Lord of the Rings: Aragorn's Quest'' has received generally mixed reviews, with reviewers praising the sound quality and accessibility, but ultimately believing that the easiness of the game and the visuals hold it back from achieving the sort of sword-fighting ''[[The Lord of the Rings]]'' game that many would like to see. There is a general feeling amongst reviewers that ''Aragorn's Quest'' was an opportunity missed to make a truly great ''The Lord of the Rings'' action adventure hack and slash game.
+
+[http://www.1up.com 1UP] compared the controls of ''Aragorn's Quest'' to [[wikipedia:Nintendo|Nintendo]]'s [[wikipedia:The Legend of Zelda: Twilight Princess|Twilight Princess]], praising the varied gameplay and the game's accessibility, but complaining that the game's side-quests were too repetitive, the [[wikipedia:Wii|Wii]] controls were too simplistic and "''a bit iffy''", with the experience of the two-player co-op mode being ruined by lag.<ref name="1UP Review">[http://www.1up.com 1UP], "[http://www.1up.com/do/reviewPage?cId=3181508 The Lord of the Rings: Aragorn's Quest Review (Wii)]", [[21 September|21]] September 2010 (accessed [[27 September|27]] [[September]] [[2010]])</ref> Similarly, [http://www.gametrailers.com GameTrailers] said "''The bottom line is that combat is not fun, and enemies are typically a cakewalk.''" and that the Wii controls were a nuisance, as was the lack of camera control; they also thought that the voice acting was "''awkward''" (although the soundtrack "''fits right in''") and that the game looks "''drab''".<ref name="GameTrailers Review">[http://www.gametrailers.com GameTrailers], "[http://www.gametrailers.com/gamereview.php?id=11382 The Lord of the Rings: Aragorn's Quest Review], ''unknown date'' (accessed [[27 September|27]] [[September]] [[2010]])</ref>
+
+{{blockquote|the greatest strength of Aragorn's Quest comes not from its diverting but unspectacular combat, but the way it so accurately captures the atmosphere of the locations in the films and the resulting pleasure that comes from adventuring in these memorable Middle-earth locales.|[http://uk.gamespot.com/wii/adventure/lordoftheringsaragornsquest/review.html GameSpot Review]}}
+
+[[File:Aragorn's Quest - Edoras.jpg|thumb|left|200px|An array of characters]]However, [http://www.gamespot.com GameSpot], in a more positive review, said, "''The environments impress with their variety, attention to detail, and the way they so faithfully reflect the visual style of the films.''" but that ''Aragorn's Quest'' lacks challenge, with the Wii controls being "''imprecise''"; they wish that more attention-to-detail had been paid to enemies.<ref name="GameSpot Review">[http://www.gamespot.com GameSpot], "[http://uk.gamespot.com/wii/adventure/lordoftheringsaragornsquest/review.html The Lord of the Rings: Aragorn's Quest Review]", [[17 September|17]] September 2010 (accessed [[27 September|27]] [[September]] [[2010]])</ref> [http://www.ign.com IGN] thought the Wii version was far superior to the PlayStation 3 version of the game, but still suggested this was a game for just [[J.R.R. Tolkien]] aficionados as only they would be able to overlook the game's flaws; IGN also complained about the mixed visual style, but loved reliving moments from [[The Lord of the Rings (film series)|the films]].<ref name="IGN Review">[http://www.ign.com IGN] "[http://uk.wii.ign.com/articles/112/1122359p1.html The Lord of the Rings: Aragorn's Quest Review]", [[20 September|20]] September 2010 (accessed [[27 September|27]] [[September]] [[2010]])</ref>
+
+[http://reviews.cnet.com CNET] describes the storytelling as "''charming''"; they also found the motion-controls on the Wii "''frustrating''" but felt it didn't matter because defeating the "''very easy''" enemies was still "''satisfying''". CNET also said the ending of the game was an "''anti-climax''", but praised the environments: "''The environments impress with their variety, attention to detail, and the way they so faithfully reflect the visual style of the films.''<ref name="CNET Review">[http://reviews.cnet.com CNET], "[http://reviews.cnet.com/wii-games/the-lord-of-the/4505-9993_7-33667269.html#reviewPage1 The Lord of the Rings: Aragorn's Quest (Wii) - GameSpot editors' review]", [[16 September|16]] September 2010 (accessed [[29 September|29]] [[September]] [[2010]])</ref> Finally, [http://www.kotaku.com Kotaku] loved the game's film-based adventure, "''attractive''" visuals, variety of characters and film-based soundtrack, but absolutely hated the easiness of the game, claiming that one person could play the two-player co-op mode.<ref name="Kotaku Review">[http://www.kotaku.com Kotaku], "[http://kotaku.com/5642722/the-lord-of-the-rings-aragorns-quest-review-saurons-a-chump The Lord of The Rings: Aragorn's Quest Review: Sauron's A Chump]", [[20 September|20]] September 2010 (accessed [[27 September|27]] [[September]] [[2010]])</ref>
+
+'''In Short:''' reviewers enjoyed the graphical style and musical score, faithfully recreating the feel and atmosphere of the films (although some thought the mixed style was confused, and some thought the attention-to-detail was inconsistent), but felt that the Wii controls were frustratingly inaccurate and that enemies were far too easy. Though aimed primarily at families and younger gamers, reviewers were keen to point out that anyone could enjoy it, but it would appeal primarily film-fans who would be able to over-look the game's faults.
+
+==See also==
+* [[:Category:Images from The Lord of the Rings: Aragorn's Quest|Images from The Lord of the Rings: Aragorn's Quest]], for an extensive gallery of screenshots
+* ''[[The Lord of the Rings: War in the North]]'', another game from [[Warner Bros. Interactive Entertainment|Warner Bros.]], released in [[2011]]
+* ''[[The Lord of the Rings: Middle-Earth Defense]]'', a tower-defence game for the [[wikipedia:iPhone|iPhone]] and [[wikipedia:iPod Touch|iPod Touch]]
+
+==External links==
+* '''[http://www.aragornsquest.com/ Official website]'''
+
+{{references}}
+{{Videogames}}
+{{lordoftheringsfilms}}
+{{DEFAULTSORT:Lord of the Rings: Aragorn's Quest}}
+{{title|italics}}
+[[Category:Action games]]
+[[Category:Adventure games]]
+[[Category:Nintendo DS games]]
+[[Category:PlayStation 2 games]]
+[[Category:PlayStation 3 games]]
+[[Category:PlayStation Portable games]]
+[[Category:Warner Bros. Interactive games]]
+[[Category:Wii games]]

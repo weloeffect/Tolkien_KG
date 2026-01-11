@@ -1,0 +1,46 @@
+{{Mallorn
+| name=Mallorn 10
+| image = Mallorn 10.png
+| editor=Kevin Young
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=1976
+| format=A4 paperback
+| pages=46
+| issn=0308-6674
+}}
+'''''Mallorn'' 10''' is the tenth issue of the [[Mallorn (journal)|Mallorn journal]], published in [[1976]].
+==Contents==
+* Acknowledgements
+* Editorial 
+**By: Kevin Young
+* Article: The Hobbits
+**By: Kevin Young
+* Illustration: The Troll 
+**By: Bryan Talbot
+* Poem: The Tiger of Castleton Bay
+**By: John Whyllie
+* Article: Male Chauvinist Lions 
+**By: Jessica Kemball-Cook
+* Illustration: The Elf 
+**By: Bryan Talbot
+* Poem: The Farie Child of Crinan Moss 
+**By: John Whyllie
+* Story The Dwarf-wives' Tale part II 
+**By: [[Vera Chapman]]
+* Illustration: At night she slept by a little fire 
+**By: Adrian Cuthbert
+* Illustration: Ores 
+**By: Bryan Talbot
+* Poem: [[Riddle of Strider|All that is Gold Does Not Glitter]]
+** Illustration by: Lucy Matthews
+* Article Table-talk: a report on the After-dinner speeches at the [[1976]] Annual General Meeting
+* Illustration: Nazgul 
+**By: Bryan Talbot
+* Quiz On the Road to Mordor 
+**By: Jessica Kemball-Cook
+{{mallornnav|9|11|url=http://journals.tolkiensociety.org/mallorn/issue/view/11}}
+{{References}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 10}}
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,37 @@
+{{object infobox
+| name=West-gate of Bree
+| image=The Lord of the Rings Online - West-gate of Bree.jpg
+| caption=West-gate of Bree in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| location=West side of [[Bree]]
+| owner=[[Bree-landers]]
+| type=Gate
+| appearance=Facing a deep dike, within a thick hedge
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+The '''West-gate of Bree''' was the portal into [[Bree]] on the west side of the settlement.
+
+==Description==
+The West-gate was one of the two openings of the hedge that surrounded Bree, at the points where the [[East Road]] entered and exited the village. Being the westernmost opening to Bree, it looked towards [[the Shire]]. It was guarded by one [[Harry Goatleaf]] during the [[War of the Ring]],<ref name="Pony">{{FR|I9}}</ref> though he later joined with [[Bill Ferny]] and the followers of [[Saruman]].<ref>{{RK|VI7}}</ref> Since it is mentioned that the gate clanged when shut it apparently was made of metal.<ref name="Pony"/>
+
+==History==
+[[Frodo Baggins|Frodo]], [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]], and [[Samwise Gamgee|Sam]] arrived at the West-gate on [[29 September]] {{TA|3019}}<ref>{{App|Great}}</ref> well after dark.  Harry Goatleaf was sitting in a lodge beyond the gate but when the hobbits arrived he jumped up, fetched a lantern, and looked over the gate.  He questioned the travelers before allowing them entry.  After the hobbits left a dark figure climbed over the gate without Harry being aware of his entry.<ref name="Pony"/>
+
+Later [[Aragorn|Strider]] told the hobbits that [[Nazgûl|Black Riders]] had visited Harry Goatleaf at the West-gate on Monday<ref>{{FR|I10}}</ref> ([[27 September]]<ref>{{App|Shire}}</ref>).
+
+After the War of the Ring the four hobbits returned to Bree on their journey home.  They passed through the West-gate heading for the Shire on [[30 October]] {{TA|3019}}.<ref>{{App|Chief}}</ref>
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:The West Gate is one of the two main entrances to Bree-town. It is a major hub for stable-master travel to northern [[Eriador]] locations.
+
+{{references}}
+[[Category:Doors and gates]]
+[[fi:Briin länsiportti]]

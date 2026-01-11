@@ -1,0 +1,9 @@
+{{Events|image=Francesco Amadio - Grey Havens.jpg|event=Last Riding of the Keepers of the Rings|location=[[Woody End]], [[Grey Havens]]|date=[[22 September]], {{TA|3021}} to [[29 September]], {{TA|3021}}|result=All of the riders save [[Samwise Gamgee]] board the [[White Ship]] to [[Aman]] and leave [[Middle-earth]]|participants=[[Elrond]], [[Galadriel]], [[Bilbo Baggins]], [[Frodo Baggins]], [[Samwise Gamgee]], other [[High Elves]]}}
+
+The '''Last Riding of the Keepers of the Rings''' was the procession of [[Elrond]], [[Galadriel]], [[Bilbo Baggins]], and other [[Calaquendi|High Elves]] that rode westward to the [[Grey Havens]]<ref name="Grey">{{RK|VI9}}</ref> in [[September]] {{TA|3021}}. On [[22 September]] [[Frodo Baggins]] and [[Samwise Gamgee]] joined them in the [[Woody End]] of [[the Shire]] and on [[29 September]] the Riding came to the Grey Havens<ref>{{App|Chief}}</ref> where they found [[Gandalf]]. All of the riders save Sam then boarded a [[White Ship]]. At that time [[Peregrin Took]] and [[Meriadoc Brandybuck]] arrived and after the ship had sailed the three friends returned to the Shire. Those aboard the ship sailed to [[Aman]] and never returned to [[Middle-earth]].<ref name="Grey" />
+
+{{references}}
+[[Category:Events]]
+[[Category:Third Age]]
+[[de:Letzter Ritt der Verwahrer der Ringe]]
+[[fr:encyclo:evenements:3a:derniere chevauchee des porteurs des anneaux]]

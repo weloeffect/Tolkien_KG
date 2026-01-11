@@ -1,0 +1,23 @@
+{{scene
+|name=At the Green Dragon
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - At the Green Dragon.jpg
+|number=9 (extended edition only)
+|duration=1:26
+|characters=[[Frodo]], [[Sam]], [[Rosie Cotton]], [[Merry]], [[Pippin]]
+|event=[[Frodo]] visits the [[Green Dragon]].
+|previous=[[The Account of Isildur]]
+|next=[[The Shadow of the Past (scene)|The Shadow of the Past]]}}
+
+'''At the Green Dragon''' is the ninth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was not featured in the theatrical release of ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+==Synopsis==
+[[Frodo]] and [[Sam]] are at the [[Green Dragon]] inn in [[Bywater]]. [[Merry]] and [[Pippin]] are singing as well. Two older hobbits discuss rumors of strange creatures being seen in the [[Shire]] and fear the outbreak of a war. Sam pines after [[Rosie Cotton]]. Soon, the tavern closes and Frodo heads back to [[Bag End]].
+
+==Differences==
+
+The lyrics of Merry and Pippin's drinking song are adapted from two songs in ''[[The Fellowship of the Ring]]'': [[Ho! Ho! Ho! To the Bottle I Go]] from the chapter [[A Short Cut to Mushrooms]] and [[The Bath Song]] from [[A Conspiracy Unmasked]].
+
+This scene could be interpreted as a very loose adaptation of a conversation in [[The Shadow of the Past|Chapter 2]] of the ''The Fellowship of the Ring''. The book does depict unrest in the Shire as dwarves and other beings flee the growing power of [[Sauron]].
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|09]]

@@ -1,0 +1,32 @@
+{{object infobox
+| name=Hirilondë
+| image = David Greset - Hirilonde (from 'Aldarion and Erendis').jpg
+| caption="Hirilonde (from 'Aldarion and Erendis')" by [[:Category:Images by David Greset|David Greset]]
+| pronun=[[Quenya|Q]], {{IPA|[ˌhiriˈlonde]}}
+| othernames=''Turuphanto'' ([[Quenya|Q]])
+| location=[[Rómenna]] ([[Númenor]])
+| owner=[[Tar-Aldarion]]
+| type=Ship
+| appearance=
+| creator=[[Tar-Aldarion|Aldarion]] and the [[Guild of Venturers]]
+| created=completed by {{SA|877}}<ref name=notes/>
+| createdlocation=[[Rómenna]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+'''Hirilondë''', the "Haven-finder", was a ship built by [[Tar-Aldarion|Aldarion]] and the [[Guild of Venturers]] in the shipyards of [[Rómenna]], a seaport in [[Númenor]]. People wondered at its great size and called it '''Turuphanto''', the 'Wooden Whale'.<ref name=wife>{{UT|Wife}}</ref>
+
+Aldarion sailed with it to [[Middle-earth]] for the first time in {{SA|877}} and returned after five years, {{SA|882}}.<ref name=notes>{{UT|4a}}</ref>
+
+There was a custom among the [[Númenóreans]]: when one of their ships set sail over the sea, a woman, usually a relative to the captain, placed a branch of [[oiolairë]] as the [[Green Bough of Return]] at the prow, but [[Erendis]], Aldarion's wife, refused to either set the bough or send one for Hirilondë. Instead, the wife of his captain at that time placed one on the ship.<ref name=wife/>
+
+After Aldarion became [[King of Númenor]] and left towards Middle-earth once again, in {{SA|883}}, there was no Green Bough of Return on Hirilondë's prow. There stood the image of an [[eagle]] with golden beak and jewelled eyes, given to him by [[Círdan]] during his previous journeys to the [[Grey Havens]].<ref name="Wife">{{UT|Wife}}, ''The Further Course of the Narrative''</ref>
+{{references}}
+{{DEFAULTSORT:Hirilonde}}
+[[Category:Quenya names]]
+[[Category:Ships]]
+[[de:Hirilonde]]
+[[fr:encyclo/artefacts/navires/hirilonde]]
+[[fi:Hirilondë]]

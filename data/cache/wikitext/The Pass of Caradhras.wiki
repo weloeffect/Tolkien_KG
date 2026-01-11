@@ -1,0 +1,23 @@
+{{incomplete}}
+{{scene
+|name=The Pass of Caradhras
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - The Fellowship on Caradhras.png
+|number= 26 (theatrical) <br>
+         32 (extended)
+|duration=
+|event=The [[Fellowship]] attempt to cross [[Caradhras]]
+|characters=[[Fellowship of the Ring]], [[Saruman]]
+|previous=[[The Ring Goes South (scene)|The Ring Goes South]]
+|next=[[Moria (scene)|Moria]]
+}}
+'''The Pass of Caradhras''' is the twenty-sixth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-second of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+The [[Fellowship]] cross snowy mountains as they continue their journey after refusing to take the road south past [[Isengard]]. [[Frodo]] trips and falls a short way down the slope before [[Aragorn]] gets him to his feet. However, he notices the [[The One Ring|Ring]] is no longer around his neck. Him and Aragorn watch as [[Boromir]] picks it up from the snow and is entranced by it. "It is a strange fate that we should suffer so much fear and doubt over so small a thing," Boromir muses. However, he gives the Ring back to Frodo after being prompted to do so by Aragorn, who is ready to draw his sword. 
+
+The [[Crebain|crows]] who espied the Fellowship while they camped on their way south return to [[Isengard]]. [[Saruman]] learns from them that [[Gandalf]] plans to lead the Fellowship over [[Caradhras]]. He ponders whether Gandalf would risk "a more dangerous road" if the mountain defeats them. 
+
+The Fellowship struggle through the waist-deep snow. [[Legolas]] hears a fell voice; Gandalf confirms it to be Saruman before rock and ice fall from above. Gandalf tries to calm the wrath of the mountain, however Saruman is shown standing on the pinnacle of [[Orthanc]] chanting and bringing a storm to the mountain. Lightning strikes the top of the mountain, breaking off snow and ice which covers the Fellowship. They decide they cannot continue on this path; Boromir pushes to go to [[Minas Tirith]] via the [[Gap of Rohan]], while [[Gimli]] says they should go through [[Moria]]. In a voice-over, Saruman says Gandalf fears to go into Moria out of fear of what the [[Dwarves]] awoke — he describes it as ''shadow and flame''. Gandalf gives Frodo the choice of what path they should take. The hobbit decides they will go through Moria. "So be it," Gandalf says.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|32]]

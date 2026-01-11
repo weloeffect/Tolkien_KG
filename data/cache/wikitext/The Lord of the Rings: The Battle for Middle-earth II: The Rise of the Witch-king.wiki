@@ -1,0 +1,85 @@
+{{expansion}}
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{video game infobox
+| image = ROTWK.jpg
+| name=<small>The Lord of the Rings</small><br>The Battle for Middle-earth II<br><small>The Rise of the Witch-king</small>
+| developer=[[Electronic Arts]]
+| publisher=[[Electronic Arts]]
+| platform=Microsoft Windows, Xbox 360
+| releasedate=November 28, 2006
+| genre=Real-time strategy
+| modes=
+| rating=
+| distribution=
+}}
+'''The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king''' is a real-time strategy computer game published by Electronic Arts. It is the expansion pack to [[EA's The Battle for Middle-earth II|The Lord of the Rings: The Battle for Middle-earth II]], from the same company. It was announced during The San Diego Comic-Con of 2006.
+
+==Campaign==
+The campaign consists of seven levels and one epilogue where you play as the faction of Angmar, led by the [[Witch-king]]. The campaign is set in [[Angmar]] and [[Arnor]]. The story of the campaign begins with the Witch-king’s uniting of the [[Black Númenóreans]] and [[trolls]], led by the troll captain Rhogash, to create a massive army to fight against Arnor. The fortress of [[Carn Dûm]] is rebuilt and the lands of [[Rhudaur]] are attacked. There the hillman lord Hwaldar joins them, and they slay king [[Argeleb I]]. 
+
+The Witch-king attacks [[Amon Sûl]] and king [[Arveleg I]] flees with the [[Palantír]]. The Witch-king sends his lieutenant [[Morgomir]] to pursue him. Arveleg I destroys the seeing stone and the forces of Angmar gather the broken shards, which they use to harness power from.
+
+The armies of Angmar go to the [[Barrow Downs]] to seize the land and goad the forces of [[Cardolan]] into battle. They kill the prince of Cardolan and then the Elves of [[Lindon]], [[Rivendell]] and [[Lórien]] join forces and attack Carn Dûm. Angmar resists then sends Black Númenórean sorcerers to the Downs to corrupt the souls of the dead. The Arnorian captain Carthaen is killed and turned to a [[wight]] lord named Karsh.
+The Witch-king finally assaults the capital of [[Fornost]] and kills king [[Arvedui]]. He is victorious as the campaign ends. 
+
+''Epilogue''
+
+There is an optional epilogue you can play where Prince [[Eärnur]], [[Glorfindel]] and [[Elrond]] attack the Witch-king as he flees into the land of Angmar. They defeat him and the Witch-king flees from them. Glorfindel warns Eärnur not to pursue him and says that his doom is far off.
+
+==Differences from The Battle for Middle-earth II==
+There are several improvements. The main improvement is the new faction, [[Angmar]]. Other improvements to the game include the new [[Trolls|Olog-Hai]] class of custom hero, improvements to the existing factions, and new hero units. The three sub-classes of Olog-Hai are the Great Troll, the Troll in the previous game, the Snow Troll, and the Hill Troll. The Good and Evil campaigns have been replaced with the single Angmar campaign. There have also been numerous improvements to the War of the Ring and Skirmish battles.
+The hero units belong to all of the previous factions only. The hero units are listed as such: Zealots ([[Dwarves]]), Knights of Dol Amroth ([[Men]]), Noldor Warriors ([[Elves]]), Black Orcs ([[Mordor]]), [[Uruk-hai|Uruk Death Bringers]] ([[Isengard]]), and Fire Drake Broods ([[Orcs|Goblins]]). The hero units have a limit of only one to three allowed, depending on which type. Like the heroes, the hero units learn skills at certain levels, although not as many. They can heal like heroes, but if a single member dies, it will not respawn unless you either produce a new one or use the Heal power.
+
+==Differences Between the Game and the Literature==
+
+The majority of the game is accurate to the books, but a few new characters were created or named. A few events happen differently and the narrator for the game’s cutscenes has a slightly inaccurate pronunciation of some of the names. 
+
+*The game states the Witch-king came to Angmar during the reign of the eighth king. However, in the books, [[Malvegil]], was king when the Witch-king first arrived in S.A. 1300, and he was the sixth king of [[Arthedain]]. <ref name="eriador">{{App|Eriador}}</ref>
+*The game states that the regions near Angmar were the home of the Black Númenóreans. However, these men were never explicitly stated to have ventured so far north. The potential for them to be so far may have been based on Faramir’s discussion to Frodo and Sam about the history of [[Gondor]] and [[Númenor]] <ref>{{TT|Window}}</ref> {{rp|677}} or taking the arrival of “many evil men” in Appendix A to mean Black Númenóreans. <ref name="eriador" /> The game lists the units as Black Númenóreans or Thrall Masters.
+*The game has the Witch-king capture the already existing Black Númenórean factions in the north as well as the snow trolls and wolves. It is not known in the books his exact methods of raising the armies of Angmar. <ref name="eriador" />
+*In the game, Carn Dûm, the main fortress of the Witch-king <ref>{{UT|Index}}, entry ''Carn Dûm''</ref> was found at first in ruin. The Witch-king rebuilt it and made it the capital of Angmar. In the books, it is not certain if Carn Dûm existed before the Witch-king’s arrival or if he built it then.
+*The game has trolls as a large part of the Witch-king’s army. While it was probable that trolls could be part of his army, due to Angmar’s proximity to the [[Ettenmoors]], it was not directly stated. They could be a part of the “other fell creatures” mentioned in Appendix A. <ref name="eriador" />
+*The game gives a name to the evil lord of the hillman in Rhudaur <ref name="eriador" />, calling him Hwaldar. The game also states that Argeleb captured Hwaldar, but this was to set up the game’s level. Additionally, the game makes Hwaldar a leading commander of the Witch-king’s army.
+*The game states that the chief palantír of the north in Amon Sûl <ref name="eriador" /> was used by Arveleg I to resist the Witch-king for years. This is not stated in the books, but it is not impossible to have occurred.
+*The exact army tactics of the battle of Amon Sûl either differ or have their own strategies inserted. The game has [[Mallorn]] trees around the location that give magic powers to the structure. Also in the game, Arveleg I survives the assault and is the one to flee with the palantír. He is killed on the road instead, and after the Witch-king sends his lieutenant to recover the stone, the palantír is destroyed. Firstly, in the books, Arveleg I is killed in the assault. <ref name="eriador" /> Secondly, the Palantir may also have been too heavy to carry alone as Arveleg I did in the game. Lastly, the palantíri could not be destroyed by any weapon the men at that time possessed. <ref name="ut">{{UT|Palantiri}}</ref> Nor was that Palantir destroyed. <ref name="eriador" />
+*In the game, the black Númenóreans sorcerers gather and channel the power of the now broken palantír pieces.
+*The game makes no mention of Araphor, or his deeds. <ref name="eriador" />
+*The game has the elvish armies of Lindon, Rivendell and Lórien assault Carn Dûm itself. This was not explicitly stated in the books. Only that the elves held back Angmar for a while. <ref name="eriador" />
+*The game has Angmar’s troops come back to the Downs and reanimate those in the tombs to be wights. In the books, “evil spirts” come from out of Angmar and Rhudaur to enter in the deserted mounds, rather than be reanimated by Black Númenorean sorcerers. On the first mission, the game has prince of Cardolan killed at these downs. This could be the prince who’s tomb Frodo might have fallen into. During this time, a new character called Captain Carthaen comes to resist Angmar’s corruption of the barrow souls but is killed and turned into the wight lord Karsh to help in their battles. <ref name="eriador" />
+*The [[Great Plague]] that in the books comes from the South of Gondor <ref name="eriador" />, is not mentioned. The game states the Witch-king’s plague spread far over the lands, but this was likely a phrase of speech.
+*In the game, King Arvedui is killed in the battle of Fornost instead of later on a ship to the north as in the books. <ref name="eriador" />
+*In the epilogue of the game, Elrond accompanies Eärnur and Glorfindel to defeat the Witch-king as he flees. In the books, Elrond was not stated to have gone with them, but it is not impossible. There are also knights of [[Dol Amroth]] present at this battle in the game, despite there being no direct mention of them in the books at this battle. Eärnur was said however, to have been accompanied by great knights. <ref name="Appendix">{{App|A1iv}}</ref>
+*New characters include: the troll leader Rhogash, the Witch-king’s lieutenant Morgomir, and Prince Carthaen who becomes the wight Karsh.
+
+
+==Additional voice cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Role!!Actor
+|-
+|[[Arveleg I|Arveleg]]||[[Cam Clarke]]
+|-
+|[[Carthean]]/[[Karsh]]||[[Jason Connery]]
+|-
+|[[Azog]]||[[Rob Dean]]
+|-
+|[[Dáin Ironfoot]]||[[Bob Joles]]
+|-
+|Morgomir||[[Keith Ferguson]]
+|-
+|[[Hwaldar]]||[[Lloyd Sherr]]
+|-
+|}
+
+{{References}}
+{{Videogames}}
+{{title|italics}}
+
+{{DEFAULTSORT:Battle for Middle-earth II Rise of the Witch-king}}
+[[Category:EA Games]]
+[[Category:Microsoft Windows games]]
+[[Category:Real-time strategy games]]
+[[Category:Xbox 360 games]]
+[[Category:The Lord of the Rings: The Battle for Middle-earth (video game series)]]
+
+[[de:Die Schlacht um Mittelerde]]

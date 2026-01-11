@@ -1,0 +1,92 @@
+{{people infobox
+| name=Dunlendings
+| image = Turner Mohan - Men of Dunland.jpg
+| caption="Men of Dunland" by [[:Category:Images by Turner Mohan|Turner Mohan]]
+| pronun=
+| othernames=''Gwathuirim'' ([[Sindarin|S]])
+| origin=
+| location=[[Dunland]]
+| affiliation=[[Sauron]], [[Saruman]]
+| rivalry=[[Rohirrim]]
+| language=[[Dunlendish]]; some could speak "broken" [[Westron]].<ref>{{App|F1}}</ref>
+| members=[[Freca]], [[Wulf]], [[Squint-eyed southerner]]
+| lifespan=
+| distinctions=
+| height=
+| hair=Dark
+| skin=Dark
+| clothing=
+| weapons=
+}}
+
+'''Dunlendings''', also known as the '''Gwathuirim''', were the ferocious, tall and vicious [[men]] that lived in [[Dunland]], close to [[Rohan]]. Also called the ''Wild Men of Dunland'', they had long been enemies of the [[Rohirrim]], because they were jealous that the rich lands of the old [[Númenóreans|Númenórean]] province of Calenardhon were granted by the Gondorians to the Rohirrim instead of them.
+
+== History ==
+=== Origins ===
+{{seealso|Pre-Númenóreans}}
+The ancestors of the Dunlendings were also the ancestors of the [[Haladin]],<ref name="PM|Atani">{{PM|Atani}}, p. 314</ref> the second of the Three Houses of the [[Edain]] who were reclusive, kept separate from the [[House of Bëor|Bëorians]] or the [[House of Hador|Hadorians]] and their language was different from [[Taliska|those spoken]] by the other Edain.
+
+Those who remained in [[Eriador]], settled upon either side of the [[Gwathló]] or in the [[White Mountains|Ered Nimrais]]; especially those in [[Minhiriath]], were (as later [[Gondorian]] historians recognised) akin to the Haladin. 
+
+In the [[Second Age]] those peoples ranged over much of future [[Gondor]] and [[Eriador]], and dwelt in the forests of the shorelands. But the [[Númenóreans]] returning to [[Middle-earth]] treated them ruthlessly and devastated their forests. While the [[Men of the Mountains]] survived in isolated places, others (overcoming their fear of the Elves) fled from Minhiriath into [[Eryn Vorn]]; those from [[Enedhwaith]] took refuge in the eastern mountains that would become [[Dunland]].<ref>{{UT|6d}}</ref> Some moved even further north until they reached what became the [[Bree-land]], those were the [[Men of Bree]] who would be absorbed into [[Arnor]].
+
+===Third Age===
+[[File:John Howe - Dunlending.jpg|thumb|''Dunlending'' by [[John Howe]]]]
+Because of the Númenórean advance, those peoples, including the Dunlendings, remained bitter enemies of the [[West]].<ref name="PM|Atani"/> The hostility of the Dunlendings prevented the [[Dúnedain]] from populating permanent settlements in Enedhwaith except in the fortified town of [[Tharbad]].<ref name=note76>{{PM|XNotes}}, note 76</ref>
+
+While some of the [[Pre-Númenóreans]] were absorbed into the population of Gondor and Arnor, the Dunlendings remained unaffected, independent and even unfriendly to the Dúnedain, holding their own manners and [[Dunlendish|language]].<ref name="OfMen">{{App|Men}}, p. 1130</ref> However the Dunlendings also remained hostile to those with [[Orc]]-blood.<ref>{{UT|Hunt}}</ref> The Dunlendings also dwelled alongside the [[Stoors|Stoor]] Hobbits during their [[Wandering Days]] and the latter even formed a related language to theirs.<ref>{{App|Hobbits}}, p. 1130</ref>
+
+The Dunlendings suffered from the [[Great Plague]] less than other peoples owing to their isolation<ref name="OfMen"/> and were still found in the foothills of the Misty Mountains. By the time of the [[Ruling Stewards]] they ceased to be subjects of Gondor and, being surrounded by barbarous folk,<ref name="GC">{{UT|Galadriel}}</ref> they moved to settle the region of [[Calenardhon]] as Gondor ceased to man the garrisons during the [[Watchful Peace]].<ref name="Isen">{{UT|Isen}}</ref>
+
+Some Dunlendings approached the Gondorian fortress of [[Isengard|Angrenost]] that was manned by a small garrison led by a hereditary Gondorian chieftain, the [[Lord of Isengard]], and mingled with the Gondorians. With time the line of the original chieftains eventually failed.<ref name="Isen"/>
+
+=== Arrival of the Rohirrim ===
+[[Image:Angelo Montanini - Dunlendings.jpg|thumb|right|''Dunlendings'' by [[Angelo Montanini]]]]
+In {{TA|2510}} Gondor granted Calenardhon to the [[Éothéod]] who came from [[Rhovanion]] and the wild hillmen and herd-folk whom the Dunlendings viewed as competitors and usurpers. As the ensuing enmity did not concern the [[Stewards of Gondor]], the Dunlendings kept hostilities to the [[Rohirrim]] and attacked whenever the latter were weak or in trouble.<ref name="Isen"/>
+
+Because of their connections, the people of Isengard remained friendlier to the Dunlendings than to the 'wild Northmen', allowing them to settle in and around the [[Ring of Isengard]]. Eventually the Dunlendings seized control of the fortress and killed any of the ancient guards who didn't merge with them.<ref name="Isen"/> 
+
+[[Kings of Rohan|Kings]] [[Brego]] and [[Aldor]] drove the Dunlendings out of [[Rohan]] beyond the Isen until Enedhwaith. After the death of King Aldor, and as Isengard became more friendly to them, the Dunlendings passed and settled northern [[Westfold]], the mountain glens around the Ring, and southern eaves of [[Fangorn Forest]], becoming openly hostile.<ref name="Isen"/> In some places, the two peoples mingled in some peaceful circumstances; and the dark-haired Landlord [[Freca]] from the lands near [[Adorn]] had Dunlendish blood.<ref name="Mark">{{App|Mark}}</ref> 
+
+During the reign of King [[Déor]], they began raiding over the Isen; when it became clear that the raiders were coming from near Isengard, in {{TA|2710}} Déor led an expedition to the north. He found and defeated a host of Dunlendings, but discovered that Isengard was hostile. He was unable to drive them out as [[Egalmoth (Steward of Gondor)|Steward Egalmoth]] could not send help.<ref name="Isen"/> The occupation lasted through the reign of King [[Gram]] and they continued to raid and harass the Rohirrim.<ref name="Mark"/>
+
+===Usurpation===
+The worst of these incidents was when Freca's son, [[Wulf]], allied with the [[Corsairs of Umbar]] who were in turn stirred by [[Sauron]], keeping safe his properties at [[Adorn]]. Joining his kin from outside of Rohan with enemies of Gondor that had landed in the mouths of [[Lefnui]] and Isen, Rohan was invaded from the East, the Isen and Isengard, and finally Wulf took [[Edoras]] in {{TA|2758}}. Gondor, fighting Corsair fleets, could not help<ref name="Mark"/> as the people of Rohan survived the crisis due to the leadership of King [[Helm|Helm Hammerhand]], the usurping Dunlendings were reduced after the [[Long Winter]] and finished off by [[Fréaláf]]. The Rohirrim now kept a strong force in North Westfold.<ref name="Isen"/>
+
+Eventually many Dunlendings were found later in the Westfold of Rohan, until [[Folcwine]], aided by Gondor, reconquered it.<ref name="Mark"/> But the people remaining between [[Isen]] and [[Adorn]] were largely of mixed blood, and not loyal to Edoras.<ref name="Isen"/>
+
+The Dunlendings were employed by the [[wizard]] [[Saruman]] to serve Sauron's purposes by attacking and raiding the cities and settlements of Rohan. Since [[Gríma|Gríma Wormtongue]] had corrupted the mind of King [[Théoden]], the fighting men of the Rohirrim were absent for the most part. As a result, the Dunlendings easily overpowered the old men and young boys who remained.
+
+Wild Men were also present at the [[Battle of the Hornburg]] (Battle of Helm's Deep), as well as [[Half-orcs]], derived from [[Orcs]] and the [[Men]] of Dunland. The fighting was vicious, but the Dunlendings surrendered after [[Gandalf]] appeared. In contrast, the Orcs fled into the forest of [[Fangorn Forest|Fangorn]] and were destroyed by [[Huorns]].
+
+[[Saruman]]'s defeat at Isengard put a stop to Dunlending aggression in Rohan. However, the [[Battle of Bywater|Scouring of the Shire]] by Saruman, under the alias of [[Sharkey]], was carried out with the backing of a considerable number of Dunlendings.
+
+== Etymology ==
+''Dunlendings'' is a name in [[Rohanese]]<ref name=Dunlendings>{{HM|N}}, p. 755, entry "Dunlendings"</ref> (represented by [[Old English]]<ref>{{App|Translation}}, p. 1136</ref>) given to them by the [[Rohirrim]], which refers to the people's swarthy and dark-haired appearance.<ref name=OfMen>{{App|Men}}, p. 1130</ref> The name ''Dunlendings'' contains the [[Old English|English]] element ''dunn'',<ref name=OfMen/> which means "dark, dusky, dull-hued".<ref name=Dunlendings/><ref>{{HM|N}}, p. 769, entry "Dunland"</ref> The name appears to be derived from ''Dunland'' and the suffix ''-ings'', which denotes a people-group (as in ''[[Rohirrim|Eorlings]]'', ''[[Bardings]]'', ''[[Beornings]]'', etc.).
+
+A [[Sindarin]] name for the Dunlendings was '''''Gwathuirim'''''.<ref name=note76/> It is suggested that the name ''Gwathuirim'' contain the elements ''[[gwathui]]'' ("shadowy") + ''[[-rim]]'' ("people").<ref name=Eldamo>{{webcite|author=Paul Strack|articleurl=http://www.eldamo.org/content/words/word-391631781.html|articlename=S. ''Gwathuirim'' coll.|website=Eldamo|accessed=10 March 2022}}</ref>
+
+==Other versions of the legendarium==
+In an earlier draft of the chapter Flotsam and Jetsam Aragorn comments that the regiments of rather tall, dark-haired, not particularly evil-looking men that Merry watched coming from Isengard to attack Rohan are Dunlanders. Aragorn describes them as an upland folk from the west of the Misty Mountains, remnants of the old peoples that once dwelt in Rohan and all about to the north and south of the White Mountains (which were called Black Mountains in this earlier draft).<ref>{{WR|1|IV}}, p. 51 and p. 52</ref> In the earliest draft of the chapter the Muster of Rohan it is mentioned that the forgotten men who built [[Dunharrow]] went away to mingle with the people of Dunland or the folk of Lebennin. It is also mentioned that some folk reckoned as Rohirrim and that spoke the language of Rohan, but dark with grey eyes with the blood of the forgotten men in their veins lived at Dunharrow. In this earliest draft no Pûkel-men are mentioned.<ref>{{WR|3|II}}, (ii) The Muster of Rohan, draft A, p. 236</ref> In a later draft it is also mentioned that Dunlanders came to the muster at Dunharrow to fight against the forces of Sauron.<ref>{{WR|3|II}}, (ii) The Muster of Rohan, draft F, p. 247 and draft G. p. 249</ref> In an outline for Book Five some folk from Dunland come to Minas Tirith to join Gondor in the fight against Sauron.<ref>{{WR|3|II}}, (iii) Sketches for Book Five, p. 253</ref>
+
+==Inspiration==
+It is possible that the rivalry between the primitive Dunlendings and the blond-haired, pseudo-Anglo-Saxon Rohirrim who migrated into the lands neighbouring them was meant by Tolkien to be analogous to the real life conflicts that arose between the Anglo-Saxons in England and neighbouring [[Celtic]] peoples.
+
+This is supported by the fact that placenames of [[Bree-land]] like [[Bree]],<ref>{{HM|N}}, pp. 766 entry '''Bree'''</ref><ref>{{HM|UI}}, p. 16 entry ''Bree''</ref> [[Archet]]<ref>{{HM|N}}, p. 765 entry '''Archet'''</ref> and [[Combe]]<ref>{{HM|RC}}, p. 150</ref> are Celtic. The [[Stoors|Stoor]] [[Hobbits]] (who had stayed long in [[Dunland]]<ref>{{App|TA}}, entries for the year 1150 and ''c.'' 1630, pp. 1085</ref>), have Celtic elements in their names,<ref name=Translation>{{App|Translation}}, p. 1135</ref> such as [[Gorhendad Oldbuck|Gorhendad]]<ref>{{HM|RC}}, p. 115</ref> or [[Saradoc Brandybuck|Saradoc]].<ref>{{HM|RC}}, p. 422</ref><ref>{{FR|Hobbits}}, p. 6 "the folk of the Marish, and of Buckland, [...] came for the most part later into the Shire from south-away; and they sill had many peculiar names"</ref> Tolkien mentioned that the survival of traces of the older language of the Stoors and the Bree-men resembled the survival of Celtic elements in England.<ref name=Translation/>
+
+==Portrayals in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+[[File:The Lord of the Rings Online - Dunlendings.jpg|thumb|left|Men and Women of Dunland]]
+:The Dunlendings are not a unified entity, but rather a collection of clans named after their spirit animal (ox, boar, stag, falcon, dragon etc.) who often raid one another, with some weaker clans either enslaved or outright wiped out. Many wish to see all of Dunland unified as one and that dream was exploited by [[Saruman]], although not all clans joined with him and many oppose his influence either openly or in secret. Large clans span over multiple villages, and each village is led by a hereditary "Brenin" advised by a council of "Brehures". Most Dunlendings are simple farmers and herdsmen and their buildings are made of wood, straw and raw stone. All Dunlending men and women of age feature prominent facial tattoo markings.
+
+'''2024: ''[[The War of the Rohirrim]]'':'''
+:A deliberate distinction was made by the filmmakers between the "Dunlendings", men of the [[West-march]] who had Dunlendish ancestry but were on the same technological level as the [[Rohirrim]], and the "Wild Men" or the "Hill Tribes", much more rugged and less sophisticated inhabitants of [[Dunland]] proper. They are presented as distinct parts of [[Wulf]]'s army during the battle of [[Edoras]] and the siege of the [[Hornburg]].<ref name="Art Of">''[[The Art of The Lord of the Rings: The War of the Rohirrim]]''</ref>
+
+{{references}}
+[[Category:Dunlendings| ]]
+[[Category:Servants of Saruman]]
+[[Category:Servants of Sauron]]
+[[de:Dunländer]]
+[[fr:encyclo:peuples:hommes:dunlendings]]
+[[fi:Mustainmaalaiset]]
+[[pt-br:Terrapardenses]]

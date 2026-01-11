@@ -1,0 +1,38 @@
+{{journal
+| title=Other Minds 5
+| image=
+| editor=Hawke Robinson, [[Thomas Morwinsky]], Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=March [[2009]]
+| format=PDF
+| pages=35
+| issn=
+}}
+
+'''''Other Minds'' 5''' is the fifth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in March 2009.
+
+==Contents==
+* "Editorial: Back for good!"
+** By [[Thomas Morwinsky]]
+* "Tolkien and Transformational Thought"
+** By [[Michael Martinez]]
+* "Tolkien's Impact on Beowulf"
+** By Hawke
+* "Thoughts on Imladris, Part II"
+** By Thomas Morwinsky
+* "Minas Ithil Name Glossary"
+** By Chris Seeman, David Salo
+* "Mithril Miniatures and MERP"
+** By Chris Seeman
+* "Amending 'A Brief History of the Dwarven Mansions'"
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Appendix: Maps for Amending 'A Brief History of Dwarven Mansions'"
+
+*'''Artwork / Maps:'''
+** By: Hawke Robinson
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 05}}
+[[Category:Other Minds]]

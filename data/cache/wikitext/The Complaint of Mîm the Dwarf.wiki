@@ -1,0 +1,57 @@
+{{disambig-two|the poem|titular [[dwarf]]|[[Mîm]]}}
+{{Poem infobox
+| title=The Complaint of Mîm the Dwarf
+| other names=Mîms Klage
+| written=[[1961]] or [[1962]]
+| revised=1961 or 1962
+| published=''[[Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Mîm]]
+}}
+
+{{Quote|Still, he works: 'Tink-tink, grün und gelb, tink-tink, blau und weiß' ('Tink-tink, green and yellow, tink-tink, blue and white')|{{CG|2II}}<ref name=Guide>{{CG|2II}}, p. 261 (entry "''The Complaint of Mîm the Dwarf''")</ref>}}
+
+'''''The Complaint of Mîm the Dwarf''''' is a short poem accompanied by a more extensive prose text about the [[Petty-dwarves|petty-dwarf]] [[Mîm]], written by [[J.R.R. Tolkien]] and edited by [[Christopher Tolkien]]. The poem consists of twenty-six lines of verse, and then continues with seven paragraphs of prose, all of which comprises one fictional work. It is a tale about the aging Mîm, lonely and bitter, and how he struggles with not being able to forgive.<ref name=Guide/>
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:Under a mountain in a wild land
+:a cave opened paved with sand.
+:One evening Mîm stood by its door:
+:his back was bent and his beard was hoar;
+:long ways he had wandered homeless and cold,
+:the little dwarf Mîm, two hundred years old.<ref name=collectedpoems>{{CP|185}}, pp. 1305-6</ref></poem>
+
+== Prose synopsis ==
+One day, Mîm stopped for an hour and beheld the works he had created. He marvelled at them, that they had grown out of him, but were of him no more. He felt a great pride in his hard work, and the fire that was once within him, and that he had poured nearly all of himself into these works. They were a part of Mîm, and without them there would be little left of him.<ref name=Tale>''[[Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach]]'', ''Mîms Klage'', pp. 302-5</ref>
+
+Mîm further noticed that they were strewn all about—laying on the floor, piled in corners, or hanging on pegs—and devised a proper way to hoard them. He created a magnificent chest, filled with compartments and secret drawers, detailed with intricate [[dragons]] and ancient [[Dwarves]] with axes, and locked with a key bound by [[magic]]. With the closing of lid on the chest, which now contained his hoard of memories and bygone years, Mîm too closed his eyes and slept with his head upon it.<ref name=Tale/>
+
+Unaware of how long he slept, Mîm was awakened by choking smoke, even though his forge was cold. [[Men]] had found him, and set fire to his dwelling. They carried away all his ore, gems, and his great chest. Chased out with the jeering sounds of their mocking songs, Mîm fled his home, only able to save a sack of hand-tools, and a secret [[knife]] with [[Poisoned weapons|poisoned]] [[runes]] on its blade which he since frequently sharped, spitting on the cutting edge until it shone under the cruel [[stars]]. He begrudged those that took his work, making of them [[rings]] and artless ornaments, trading them for petty kingdoms and feigned friendships, and noting that there was power in the works of old [[Dwarves]] that drives people to madness.<ref name=Tale/>
+
+Mîm, now old and bitter, came to a refuge in the wild hills where he had to begin his work anew, seeking to catch an echo of his memories before they were lost forever. While his work was still good, the freshness was gone, and he could only glimpse the work he had once created, not that which he had once seen. Mîm understood that others thought of him as full of hate and malice, that he would bite and stab if approached, and for that he was shot at with arrows if he dared show his face to the [[Sun]]. He laments that if he could forgive, then perhaps he could still create shapes such as a leaf or a flower with dew, as it once shone at [[Tarn Aeluin]] in his youth, but that he cannot as embers still smouldered in his heart.<ref name=Tale/>
+
+== Background ==
+Tolkien wrote an early version of the first and second stanzas on a draft of ''[[The Mewlips]]'' in either [[1961]] or [[1962]]. [[Christina Scull]] and [[Wayne G. Hammond]] speculate that perhaps Tolkien became inspired to write a poem about Mîm while working on ''[[The Hoard]]'' and the "[[Preface]]" for ''[[The Adventures of Tom Bombadil]]''. In the first version, Mîm is three-hundred years old instead of two-hundred and mentions "[[gold]] and [[garnet]]" instead of "graven [[silver]] and twisted gold".<ref name=collectedpoems/>
+
+Sometime after finishing a first draft of the poem and prose text, Tolkien decided to revise it and made comments on changes to be made. His son, [[Christopher Tolkien]], made a typescript and revised the poem and prose text to include Tolkien's intended revisions, adding the title, ''The Complaint of Mîm the Dwarf'', in his private notes. After which, he provided it to Klett-Cotta to be translated.<ref name=collectedpoems/>
+
+In [[1987]], the original text was translated from English into German by [[Hans J. Schütz]] and first published as '''''Mîms Klage''''' on pages 302-5 of ''[[Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach]]'', the anniversary volume of the publishing firm Klett-Cotta. A one-paragraph summary of the poem and prose text was included in the second edition of ''[[The J.R.R. Tolkien Companion and Guide]]''.<ref name=Guide/>
+
+Hammond and Scull likely did not know the dating and the location of the manuscripts of the text until at least after [[2017]].<ref name=Guide/> Before then, it was believed to possibly have been written in or after the [[1950]]s because [[Tarn Aeluin]] first appeared as a term in ''[[The Grey Annals]]''<ref>{{CG|C}}, p. 377 (entry "Summer 1951-early 1952")</ref> and ''[[The Lay of Leithian Recommenced]]''.<ref>{{CG|C}}, p. 355 (entry "Late 1949-1950")</ref>
+
+In [[2024]], it was hinted in a blog post that the original poem would be included in ''[[The Collected Poems of J.R.R. Tolkien]]''<ref>{{webcite|author=[[Christina Scull]] and [[Wayne G. Hammond]]|articleurl=https://wayneandchristina.wordpress.com/2024/03/12/tolkiens-collected-poems/|articlename=Tolkien’s Collected Poems|dated=12 March 2024|website=HSBlog|accessed=28 August 2024}}</ref>.<ref>{{webcite|author=[[Christina Scull]] and [[Wayne G. Hammond]]|articleurl=https://wayneandchristina.wordpress.com/2024/04/21/tolkiens-collected-poems-update/|articlename=Tolkien’s Collected Poems Update|dated=21 April 2024|website=HSBlog|accessed=28 August 2024}}</ref> The poem's inclusion was eventually confirmed to be the case when Hammond and Scull leaked a PDF of their own book's table of contents.<ref>{{webcite|author=[[Christina Scull]] and [[Wayne G. Hammond]]|articleurl=https://wayneandchristina.wordpress.com/2024/08/24/beyond-bilbo/|articlename=‘Beyond Bilbo’|dated=24 August 2024|website=HSBlog|accessed=28 August 2024}}</ref> In September, the original English text was first published as entry 185 in ''The Collected Poems of J.R.R. Tolkien''.<ref name=collectedpoems/>
+
+== External links ==
+*{{webcite|author=[https://www.tolkienguide.com/profile/205 Éarendel]|articleurl=http://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=22957|articlename=Mîms Klage [The Complaint of Mîm the Dwarf]|dated=30 September 2019|website=Guide|accessed=15 May 2020}}
+*{{webcite|author=[https://forum.barrowdowns.com/member.php?u=18210 Huinesoron]|articleurl=https://forum.barrowdowns.com/showthread.php?t=19684|articlename=Mîms Klage / The Complaint of Mim the Dwarf|dated=24 February 2023|website=TBDDF|accessed=7 October 2024}}
+*{{webcite|author=[https://www.reddit.com/user/Helpful_Radish_8923/ Helpful_Radish_8923]|articleurl=https://www.reddit.com/r/tolkienfans/comments/1ikfaqn/the_complaint_of_m%C3%AEm_the_dwarf_an_attempted/?chainedPosts=t3_1ddm1nz|articlename=The Complaint of Mîm the Dwarf: an attempted ordering and analysis|dated=March 2025|website=Reddit|accessed=18 July 2025}}
+
+{{references}}
+
+{{poems}}
+
+{{DEFAULTSORT:Complaint of Mîm the Dwarf, The}}
+
+[[Category:Poems by J.R.R. Tolkien]]
+[[de:Mîms Klage]]
+[[fi:Mîms Klage]]

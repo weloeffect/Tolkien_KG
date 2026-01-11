@@ -1,0 +1,38 @@
+{{disambig-more|Cat|[[Cat (disambiguation)]]}}
+{{Poem infobox
+| title=Cat
+| image=Pauline Baynes - Animals.jpg
+| caption=Animals - Illustration by [[Pauline Baynes]]
+| written=likely [[1956]]
+| revised=before [[1962]]
+| published=''[[The Adventures of Tom Bombadil]]'',<br>''[[The Poetical Cat]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Cats]], [[Lions]], [[Pards]]
+}}
+
+'''''Cat''''' is a poem written by [[Sam Gamgee]] and recorded in the [[Red Book of Westmarch]], although at most he only touched up an older piece. [[Hobbits]] appear to have been fond of comic bestiary lore, of which this is an example.<ref>{{AB|Preface}}</ref>
+
+The poem contains two stanzas composed of alternating longer and shorter lines. It relies on assonance, the refrain of vowel sounds, to create internal rhyming.
+
+[[J.R.R. Tolkien|Tolkien]] wrote the poem for his [[Joan Anne Tolkien|granddaughter]] in [[1956]].<ref>{{AB|Intro}}</ref> He apparently made use in the poem of a device found in medieval bestiaries (several such manuscripts are kept by the [[Bodleian Library]] at [[Oxford]]): the pairing of [[lions]] and [[pards]].<ref>"[http://bestiary.ca/beasts/beast116.htm Pard]" at [http://bestiary.ca/ The Medieval Bestiary] (accessed 12 March 2011)</ref>
+
+It was published as the twelfth poem in ''[[The Adventures of Tom Bombadil]]'' (1962).<ref>{{AB|Cat}}</ref> The poem has also been published separately in the anthology ''[[The Poetical Cat]]'' (1995).
+
+==Poem excerpt==
+[[File:Pauline Baynes - Cat.jpeg|thumb|250px|right|"Cat" - Chapterhead illustration by [[Pauline Baynes]]]]
+<poem style="font-style:italic; margin-left:20px;">
+The fat cat on the mat
+   may seem to dream
+of nice mice that suffice
+   for him, or cream;
+but he free, maybe,</poem>
+
+==See also==
+* [[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{References}}
+{{poems}}
+
+{{title}}
+
+[[Category:Cats]]
+[[Category:Poems in The Adventures of Tom Bombadil]]

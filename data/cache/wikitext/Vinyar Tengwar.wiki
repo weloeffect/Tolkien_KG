@@ -1,0 +1,96 @@
+{{journal
+| name=Vinyar Tengwar<br><small>"Newsletters"</small>
+| image = Vinyar Tengwar.png
+| editor=[[Carl F. Hostetter]]
+| latest=[[Vinyar Tengwar 50|50]]
+| website=[https://www.elvish.org/VT/ Vinyar Tengwar]
+| publisher=[[Elvish Linguistic Fellowship]]
+| frequency=Irregular
+| format=Paperback (collected volumes)
+}}
+{{Quote|It had begun with a leaf caught in the wind, and it became a tree; and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.|Elvish Linguistic Fellowship}}
+
+'''''Vinyar Tengwar''''', or '''''VT''''' for short, is a linguistic journal published by the [[Elvish Linguistic Fellowship]], dedicated to the scholarly study of the invented languages of [[J.R.R. Tolkien]].
+
+The name ''Vinyar Tengwar'' is a [[Neo-Elvish|Neo-Quenya]] rendering of '''"Newsletters"''' as a loose compound of the neologism ''vinyar'' "news" (a noun plural from ''[[vinya]]'' "new", compare ''[[vanya]]'' "fair" and the clan of the ''[[Vanyar]]'') and the plural of the word ''[[tengwa]]'' "letter (of the alphabet)". Its accuracy is disputed, mostly due to the semantic difference between "letter of the alphabet" and "letter, mail, post".<ref>{{webcite|author=[[Helge Fauskanger|Helge K. Fauskanger]]|articleurl=https://folk.uib.no/hnohf/quenya.htm#Heading10|articlename=Quenya — the Ancient Tongue|website=Arda|accessed=2021-11-12}}</ref> 
+
+==History==
+''Vinyar Tengwar'' first appeared in [[1988]], at first edited by [[Jorge Quiñónez]] and later taken over by [[Carl F. Hostetter]]. It appeared  in bimonthly intervals at first, but after July [[1994]], issues appeared more irregularly, roughly once a year. This coincided with the greater frequency of publication of texts written by Tolkien himself; the journal is now dedicated primarily to such texts. Several of these texts were mentioned in volumes of ''[[The History of Middle-earth]]'', edited by [[Christopher Tolkien]], but not published in that series owing to their specialist or recondite nature.
+
+All 50 back issues are now collected and published in 5 volumes on print-on-demand.
+
+==List of issues==
+[[Image:Vinyar Tengwar Collected.jpg|thumb|right|175px|The Collected ''Vinyar Tengwar'' volume 1]]
+<div style="-moz-column-width: 200px; -webkit-column-width: 200px; column-width: 200px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
+* [[Vinyar Tengwar 1]]
+* [[Vinyar Tengwar 2]]
+* [[Vinyar Tengwar 3]]
+* [[Vinyar Tengwar 4]]
+* [[Vinyar Tengwar 5]]
+* [[Vinyar Tengwar 6]]
+* [[Vinyar Tengwar 7]]
+* [[Vinyar Tengwar 8]]
+* [[Vinyar Tengwar 9]]
+* [[Vinyar Tengwar 10]]
+* [[Vinyar Tengwar 11]]
+* [[Vinyar Tengwar 12]]
+* [[Vinyar Tengwar 13]]
+* [[Vinyar Tengwar 14]]
+* [[Vinyar Tengwar 15]]
+* [[Vinyar Tengwar 16]]
+* [[Vinyar Tengwar 17]]
+* [[Vinyar Tengwar 18]]
+* [[Vinyar Tengwar 19]]
+* [[Vinyar Tengwar 20]]
+* [[Vinyar Tengwar 21]]
+* [[Vinyar Tengwar 22]]
+* [[Vinyar Tengwar 23]]
+* [[Vinyar Tengwar 24]]
+* [[Vinyar Tengwar 25]]
+* [[Vinyar Tengwar 26]]
+* [[Vinyar Tengwar 27]]
+* [[Vinyar Tengwar 28]]
+* [[Vinyar Tengwar 29]]
+* [[Vinyar Tengwar 30]]
+* [[Vinyar Tengwar 31]]
+* [[Vinyar Tengwar 32]]
+* [[Vinyar Tengwar 33]]
+* [[Vinyar Tengwar 34]]
+* [[Vinyar Tengwar 35]]
+* [[Vinyar Tengwar 36]]
+* [[Vinyar Tengwar 37]]
+* [[Vinyar Tengwar 38]]
+* [[Vinyar Tengwar 39]]
+* [[Vinyar Tengwar 40]]
+* [[Vinyar Tengwar 41]]
+* [[Vinyar Tengwar 42]]
+* [[Vinyar Tengwar 43]]
+* [[Vinyar Tengwar 44]]
+* [[Vinyar Tengwar 45]]
+* [[Vinyar Tengwar 46]]
+* [[Vinyar Tengwar 47]]
+* [[Vinyar Tengwar 48]]
+* [[Vinyar Tengwar 49]]
+* [[Vinyar Tengwar 50]]
+</div>
+
+==See also==
+*[[Vinyar Tengwar/Previously unpublished contents|List of previously unpublished contents in ''VT'']]
+*''[[Parma Eldalamberon]]'', a sibling publication of ''Vinyar Tengwar''
+
+==External links==
+*[http://www.elvish.org/VT The official website]
+*[http://www.elvish.org/VT/shop.html ''Vinyar Tengwar'' web shop]
+*[http://www.elvish.org/errata/VT-Errata.pdf ''Vinyar Tengwar'' Errata]
+
+*[https://www.elvish.org/Tengwestie ''Tengwestië''], an online journal by E.L.F.
+*[https://www.elvish.org/articles A selection of articles] on Elvish languages
+
+{{References}}
+{{publishedmajorbooks}}
+{{title|italics}}
+[[Category:Journals]]
+[[Category:Publications by title]]
+[[Category:Vinyar Tengwar| ]]
+[[de:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar]]

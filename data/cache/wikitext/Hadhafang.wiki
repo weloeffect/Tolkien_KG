@@ -1,0 +1,50 @@
+{{adaptation}}
+{{object infobox
+| name=Hadhafang
+| image=Noble Collection - Hadhafang.jpg
+| caption=''Hadhafang'' as designed by [[The Noble Collection]]
+| pronun=
+| othernames=
+| location=[[Gondolin]]
+| owner=[[Idril]], [[Eärendil]], [[Elrond]], [[Arwen]]
+| type=Sword
+| appearance=
+| creator=[[Elves]]
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+| audio=
+| audiocaption=
+}}
+
+'''Hadhafang''' is a sword used by [[Elrond]] and [[Arwen]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'', and also by Elrond in ''[[The Hobbit: An Unexpected Journey]]'' and ''[[The Hobbit: The Battle of the Five Armies]]''. The sword and its history are not part of the original story, but were invented for the movies.
+
+Hadhafang is a curved, single-edged sword with an Elven inscription running along the length of the blade, and both the blade and the grip are decorated with golden plating. There are two small prongs sticking out from the blade, but the sword, like most Elven swords in the films, lacks a guard.{{Fact}}
+
+== History ==
+[[Wētā Workshop]] created Hadhafang, which, according to some official publicity material for the [[The Lord of the Rings: The Fellowship of the Ring|first film]] of [[Peter Jackson]]'s [[The Lord of the Rings (film series)|film trilogy]], once belonged to the [[Elves|Elven lady]] [[Idril]], who wed [[Tuor]], a [[Men|Man]]. She wielded it in [[Gondolin]] during the city's [[Fall of Gondolin|fall]]. She later passed it on to her son [[Eärendil]], who in turn passed it on to [[Elrond]].<ref name="Chapter">[[Chris Smith]] (2003), ''[[The Lord of the Rings: Weapons and Warfare]]'', p. 22</ref>
+
+Hadhafang was wielded by Elrond during the [[War of the Last Alliance|War]] of the [[Last Alliance of Elves and Men]] against the forces of the [[Dark Lord]] [[Sauron]] on the slopes of [[Mount Doom]]. Later, his daughter Arwen carried Hadhafang when she aided [[Frodo Baggins]] in his escape from the [[Nazgûl]].<ref>''[[The Lord of the Rings: The Fellowship of the Ring]]'' (2001)</ref><ref name="Chapter"/>
+
+The blade is inscribed with [[tengwar]] runes in [[Neo-Elvish|neo-]][[Sindarin]] that say ''Aen estar Hadhafang i chathol hen, thand arod dan i thang an i arwen''. This translates to "This blade is called Hadhafang, a noble defense against the enemy throng for a noble lady".<ref name="Chapter"/>
+
+== Etymology ==
+''Hadhafang'' (or '''''Haðafang''''') is mentioned as a [[Noldorin]] "sword-name" in entries ''[[SYAD]]'' and ''[[STAG]]'' of [[The Etymologies]]. Another dissimilated form given is ''Havathang''. It is said to be a cognate of [[Quenya]] ''[[Sangahyando]]'' ("throng-cleaver").<ref>{{LR|Etymologies}}</ref> The names have not been used by Tolkien in his stories, while ''[[Sangahyando]]'' was eventually used as a person's name, of a [[Corsairs|corsair of Umbar]].
+
+== Other versions ==
+In the original concept for the sword, the inscription contained an additional verse of text that read as follows: ''Idril i hel en aran Gond dolen'', which when translates to "Idril, daughter of the king of the [[Gondolin|Hidden Rock]]". This text was omitted from the final design for the sword due to a lack of space on the finished prop.<ref>{{webcite|author=[[Ryszard Derdzinski]] (editor)|articleurl=https://www.elvish.org/gwaith/movie_inscriptions.htm#arwensword|articlename=Sword Inscriptions#4. Arwen's Sword Inscription.|dated=13 May 2000|website=ELF|accessed=16 April 2025}}</ref>
+
+In "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]" from [[The Book of Lost Tales: Part Two|The Book of Lost Tales]], Tolkien does state that Idril bears a sword and uses it to save Elven-women and children in the great sack.<ref name="losttales">{{LT2|III}}</ref>
+
+In ''[[The Lord of the Rings Trading Card Game]]'', Arwen wielded a sword identified as '''''Gwemegil''''' ("maiden-sword"), derived from ''[[gwen]]'' ("maiden") + ''[[megil]]'' ("sword"). The blade is stated to have been "forged by the Elven-smiths of [[Rivendell]]" and possess enchantments which "ward off the forces of" Sauron.<ref>''[[The Lord of the Rings Trading Card Game]]'', [http://lotrtcgdb.com/pages/LOTR01047.html Gwemegil (1R47)]</ref> In a subsequent expansion, the sword was later identified to be the same sword as Hadhafang from the films, though mispelled as Hadafang. The flavor text on the card uses the translation of the inscription in the films.<ref>''[[The Lord of the Rings Trading Card Game]]'', [http://lotrtcgdb.com/pages/LOTR12018.html Hadafang (12R18)]</ref>
+
+{{references}}
+
+[[Category:Concepts from adaptations]]
+[[Category:Noldorin names]]
+
+[[de:Hadhafang]]
+[[fi:Hadhafang]]

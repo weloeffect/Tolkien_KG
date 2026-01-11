@@ -1,0 +1,26 @@
+{{mountain
+| image = J.R.R. Tolkien - Helm's Deep and the Hornburg.jpg
+| caption="Helm's Deep and the Hornburg" by [[J.R.R. Tolkien]]
+| name=Thrihyrne
+| location=at the head of the deep gorge of [[Helm's Deep]]
+| belongs=The [[White Mountains]]
+| description=mountain with three peaks with steep faces
+| othernames=
+| etymology=
+| events=
+| references=
+}}
+The '''Thrihyrne''' was a mountain with three peaks<ref name=UI>{{HM|UI}}, entry , '''Thrihyrne'''p. 412</ref> with steep faces that looked like jagged horns<ref name=Deep>{{TT|Deep}}, p. 527</ref> at the head of the deep gorge of [[Helm's Deep]]<ref name=UI/> on the northernmost arm of the [[White Mountains]].<ref name=Deep>{{TT|Deep}}, p. 527</ref>
+
+The Thrihyrne cast its shadow over the gorge of Helm's Deep.<ref>{{TT|Deep}}, p. 528</ref>
+
+==Etymology==
+''Thrihyrne'' is an [[Old English]] name,<ref name=RC>{{HM|RC}}, p. 412</ref> which probably means "Three Horns".<ref>{{webcite|author=|articleurl=https://thainsbook.minastirith.cz/mountains.html|articlename=Mountains|website=The Thain's Book|accessed=24 March 2024}} entry '''Thrihyrne'''</ref> It is a combination of ''thri'' ("three") and ''hyrne'' ("horn", "corner", "angle").<ref name=RC/>
+
+{{references}}
+[[Category:Old English names]]
+[[Category:Rohan]]
+[[Category:White Mountains]]
+[[de:Thrihyrne]]
+[[fr:encyclo/geographie/reliefs/montagnes blanches/thrihyrne]]
+[[fi:Kolmisarvi]]

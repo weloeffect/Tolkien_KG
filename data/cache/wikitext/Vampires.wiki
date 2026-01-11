@@ -1,0 +1,46 @@
+{{race infobox
+| name=Vampires
+| image = Liz Danforth - Vampire.jpg
+| caption="Vampire" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| origin=
+| location=[[Tol-in-Gaurhoth]]
+| affiliation=[[Morgoth]], [[Sauron]]
+| rivalry=
+| language=
+| people=
+| members=[[Thuringwethil]]
+| lifespan=
+| distinctions=bat-like creatues
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+'''Vampires''' were mysterious bat-like creatures in the service of [[Morgoth]] and of [[Sauron]]. The only vampire whose name is recorded in the annals of [[Arda]] is [[Sauron]]'s messenger, [[Thuringwethil]],<ref>{{LB|C12}}, line 3782</ref> but Sauron himself took the form of a vampire on at least one occasion, to flee [[Huan]].<ref>{{S|19}}</ref>
+
+{{Blockquote|A vampire shape with pinions vast<br/>
+''screeching leaped from the ground, and passed,''<br/>
+''its dark blood dripping on the trees''|[[J.R.R. Tolkien]]<ref>{{LB|C9}}, line 2820, p. 254</ref>}}
+
+==Portrayal in adaptations==
+'''[[1989]]: ''[[Middle-earth Role Playing]]'' (''[[Dark Mage of Rhudaur]]''):'''
+:Vampires are described as former [[Maiar|Maia]] patrons of normal bats, but corrupted by Morgoth and transformed into demons appearing as man-sized bats with "''the faces of hideous Men or Women''", having the ability to change shape.<ref>{{ICE|2012}}, p. 91</ref> A related creature is also envisioned, the ''Blood-wight'', which is an undead [[Men|Mannish]] shapechanger, draining blood from living beings.<ref>{{ICE|8013}}</ref>
+
+'''[[2007]]: ''[[The Lord of the Rings Online]]'':'''
+:A new creature created for the game, the Merrevail (singular, Morroval) appear to be based on Tolkien's vampires. They are fearsome bat-winged women with sharp talons. The males of the species are the Mervyl (singular, Morvul).
+
+==External links==
+*{{WP|Vampire}}
+
+{{References}}
+
+[[Category:Bats]]
+[[Category:Other races]]
+[[Category:Servants of Melkor]]
+[[Category:Servants of Sauron]]
+
+[[fi:Vampyyrit]]

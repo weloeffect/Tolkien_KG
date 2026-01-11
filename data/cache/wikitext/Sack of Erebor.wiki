@@ -1,0 +1,41 @@
+{{battle
+| name=Sack of Erebor
+| image = Lída Holubová - Smaug.jpg
+| conflict=Isolated event
+| date={{TA|2770}}
+| place=[[Lonely Mountain|Erebor]]
+| result=Destruction of the Kingdom under the Mountain,<br/> slaughter of thousands of Dwarves
+| side1=Dwarves, and Men
+| side2=[[Smaug]] the Dragon
+| commanders1=*King [[Thrór]]
+* Lord [[Girion]] of [[Dale]] †
+| commanders2=*Smaug
+| forces1=Unknown est. 5-10,000 Dwarves, and est. 1-4,000 [[Men of Dale]] 
+| forces2=Smaug the Dragon
+| casual1=Unknown but many, est. thousands of Dwarves (military and civilian), hundreds of Men including Girion
+| casual2=None
+}}
+
+The '''Sack of Erebor'''<ref>{{App|Durin}}</ref> occurred when [[Smaug]] attacked the [[Lonely Mountain]] and drove the [[Dwarves of Erebor]] from their capital.
+
+==Background==
+After the slaying of King [[Dáin I]] outside his [[Dáin's Halls|hall]] at the conclusion of the [[War of the Dwarves and Dragons]], the new King, Thrór, and his brother [[Grór]] abandoned the [[Grey Mountains]] for safer dwellings with most of their subjects. The king went to the Lonely Mountain (former seat of the Durin's throne), and Grór to the primary source of the Longbeards' iron supply, the [[Iron Hills]]. 
+Over the years the [[Dwarves of Erebor]] gained great renown throughout Middle-earth for the splendor of their halls, craftsmanship, and great stores of wealth. Word eventually reached Smaug the dragon, one of the great fire drakes who now dwelled in the Grey Mountains, who in his lust for treasure desired to take the mountain.<ref name="Party">{{H|1}}</ref>
+
+== The Battle ==
+One night in {{TA|2770}}, Smaug descended upon the mountain in flames, catching the Dwarves and [[Men of Dale]] off guard.  The warriors of the mountain came out of the [[Front Gate|great gate]] to engage the dragon, but all were killed.  Then Smaug attacked [[Dale]] whose warriors were all called to arms, and destroyed most of them.  He then returned to the mountain and routed the remaining Dwarves.  Afterwards he piled up all the gold within the mountain and made it his dwelling, emerging only ever so often to eat maidens from Dale which eventually caused its abandonment.<ref name="Party"/>
+
+== Aftermath ==
+In the end the [[Kingdom under the Mountain]] was destroyed, and likely thousands of Dwarves and several hundred people (including King [[Girion]]) of Dale were killed.  King [[Thrór]] himself along with his son [[Thráin|Thráin II]] barely escaped out of the [[Back Door|secret entrance]].  Most of the Dwarves who escaped fled to the [[Iron Hills]].<ref>{{UT|Erebor}}</ref>  
+
+With his family and a small company of followers, the King went into a homeless wandering southward but not before cursing Smaug.  It would be almost two hundred years before Thrór's grandson [[Thorin]] would return to the mountain to reclaim his home and treasure.
+
+== Portrayal in adaptations ==
+'''1967: [[The Hobbit (1967 film)|''The Hobbit'' (1967 film)]]:'''
+:The Sack of Erebor appears briefly in the prologue.
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':
+:The Sack of Erebor appears in the prologue of the film, with the events narrated by [[Bilbo Baggins]] as he writes his book ''[[There and Back Again]]''. Thorin participates in the failed defence of the Mountain, and Thráin loses the [[Arkenstone]] in the evacuation.
+
+{{references}}
+[[Category:Conflicts of the Third Age]]

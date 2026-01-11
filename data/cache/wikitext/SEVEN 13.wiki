@@ -1,0 +1,32 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 13
+| image=
+| editor=
+| illustrator=
+| date=[[1996]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229596|articlename=Vol. 13, 1996|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=120<ref name="jstor" />
+}}
+'''''SEVEN 13''''' is the thirteenth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[1996]].<ref name="jstor" />
+==Contents==
+*"G.K. Chesterton: Myth, Paradox, and the Commonplace"
+**By: Rolland Hein
+*"The Day Boy and the Night Girl"
+**By: Adrian Gunther
+*"Higher Dimensions: C.S. Lewis and Mathematics"
+**By: David L. Neuhouser
+*"Fantasy Set to Music: Donald Swann, C.S. Lewis, and J.R.R. Tolkien"
+**By: William Phemister
+*"Dorothy L. Sayer's 'Worship in the Anglican Church': A Presbyterian Response"
+**By: Mark A. Noll
+*"An Anglican Response"
+**By: Colin Buchanan 
+*Review Essay:
+**"Dorothy L.:A Dramatic Portrait of Dorothy L. Sayers"
+***By: Barbara Reynolds<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|12|14}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 13}}
+
+[[Category:SEVEN]]

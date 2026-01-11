@@ -1,0 +1,63 @@
+{{race infobox
+|name = Thrushes
+|image = Ted Nasmith - When the Thrush Knocks (II).jpg
+|caption = "When the Thrush Knocks" by [[Ted Nasmith]]
+|pronun = 
+|othernames = 
+|origin = 
+|location = [[Dale]]<br>[[Lake-town]]<br>[[Lonely Mountain|The Lonely Mountain]]
+|affiliation = 
+|rivalry = 
+|language = [[Thrush-language]]
+|people = 
+|members = [[Old thrush]]
+|lifespan = 
+|distinctions = 
+|height = 
+|hair = 
+|skin = 
+|clothing = 
+|weapons = 
+|gallery = thrushes
+}}
+'''Thrushes''' were large speckled birds with a special fondness for snails, whose shells they removed by breaking them against stones. The thrush that [[Bilbo Baggins]] and the [[Thorin and Company|Dwarves]] encountered on the [[Lonely Mountain]] was unusually large and nearly black with dark spots on its pale yellow breast.<ref name="Doorstep">{{H|Doorstep}}</ref>  [[Thorin]] stated that it was a member of an ancient breed, long lived and magical.<ref name="Inside">{{H|Inside}}</ref>
+
+In {{TA|2941}}<ref>{{App|TA}}</ref> the thrush on the Lonely Mountain was instrumental in the downfall of [[Smaug]].  On [[Thrór's Map]], the [[Moon-letters]] instructions said to "Stand by the grey stone when the thrush knocks" on [[Durin's Day]] to see the magic key-hole.<ref>{{H|Rest}}</ref>  Sure enough, when Durin's Day arrived this thrush knocked a snail on the grey stone in the small rocky alcove on the Mountain, which alerted the company to watch for the appearance of the keyhole and [[Back Door|secret door]].<ref name="Doorstep" />
+
+The [[Men of Dale]] once had a trick for understanding the thrush language. They used them as messengers to fly to the [[Lake-men|Men of the Lake]] and elsewhere. Some thrushes could understand the [[Westron|common tongue]].  Fortunately the thrush on the Mountain was one of these, for he was able to understand Bilbo's account of his talk with Smaug and hear about the bare patch on the [[Dragons|dragon]]'s breast.<ref name="Inside" />  On the night when Smaug attacked [[Lake-town|Esgaroth]] the thrush spoke to [[Bard]] and revealed the vulnerable part on the monster.  Bard was able to pierce the dragon with his arrow with this knowledge.<ref>{{H|Fire}}</ref>
+
+After the Dwarves and the Hobbit had escaped from the mountain to [[Ravenhill]] the thrush returned with the news of Smaug's demise.  Finding that none could understand his speech, the thrush left and brought back the raven [[Roäc]] who could translate the thrush's words.<ref>{{H|Gathering}}</ref>  After this exchange of information the thrush vanished from the scene.
+
+==Inspiration==
+In ''[[The Legend of Sigurd and Gudrún]]'', a raven and a [[Finches|finch]] speak two of the verses,<ref>{{HM|SG}}, pp. 116-117, 214-215</ref> reminiscent of the sentient thrushes and [[ravens]] in ''[[The Hobbit]]''.
+
+==Other versions of the legendarium==
+On the earliest version of Thrór's Map (called "Fimbulfambi's Map" by [[John D. Rateliff]] in ''[[The History of The Hobbit]]'' since that was Thrór's original designation) the [[Moon-letters]] said to "Stand by the grey stone when the ''crow'' knocks…".  This was soon changed to ''thrush''.<ref>{{HH|Pryftan}}, pp. 22-23</ref>
+
+==Portrayal in adaptations==
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Hobbit (1977 film) - The Old Thrush.png|[[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+File:Peter Pracownik - The Star (The Hobbit).jpeg|''[[The Hobbit Tarot]]''
+File:Paolo Puggioni - The Old Thrush.jpg|''[[The Lord of the Rings: The Card Game]]''
+File:The Hobbit - An Unexpected Journey - Thrush.png|''[[The Hobbit: An Unexpected Journey]]''
+File:Ted Nasmith - When the Thrush Knocks (II).jpg|''[[The Hobbit Card Game]]''
+File:The Hobbit - The Desolation of Smaug - Old Thrush.png|''[[The Hobbit: The Desolation of Smaug]]''
+</gallery>
+'''1968: ''[[The Hobbit (1968 radio series)]]'':'''
+:When the thrush informs Bard of Smaug's weakness, its speech is translated in English with a warbling voice.
+
+'''1979: ''[[The Hobbit (1979 radio series)]]'':'''
+:Once again, the thrush's speech is translated into English when he speaks to Bard.
+
+'''1982-97: ''[[Middle-earth Role Playing]]'':'''
+:Given gaming statistics, the Thrushes are among Radagast's principal agents and are friends of the Northmen. The thrush language, which can be learned by Elves and Men but not by Dwarves, is called "Throsel-tunge".<ref>{{ICE|2012}}</ref><ref>{{ICE|2016}}</ref>
+
+'''1977: ''[[The Hobbit (1977 film)]]'':'''
+:The Thrush goes with Bilbo into The Mountain. The Thrush later tells Bard of the dragon's weakness.
+
+'''2012-14: ''[[The Hobbit (film series)]]'':'''
+:Towards the end of ''An Unexpected Journey'', a thrush appears to the Dwarves and it is considered as a sign of hope. The bird flies to the Lonely Mountain and breaks an nut, which wakes Smaug. The same thrush, or another of its species, appears during ''The Desolation of Smaug'' where it knocks snails against the gray stone. However, the Thrush does not fly to Lake-town to inform Bard of Smaug's weakness like in the book, nor is Bard's family's ability to understand the Thrush's language ever addressed.
+{{References}}
+[[Category:Birds]]
+[[de:Drosseln]]
+[[fi:Rastaat]]

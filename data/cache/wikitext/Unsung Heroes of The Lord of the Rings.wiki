@@ -1,0 +1,19 @@
+{{book
+|title=Unsung Heroes of The Lord of the Rings
+| image = Unsung Heroes of The Lord of the Rings.jpg
+|author=[[Lynnette Porter]]
+|isbn=0275985210 
+|publisher=Greenwood Publishing Group, Incorporated
+|date=[[30 March|March 30]], [[2005]]
+|format=Hardcover
+|pages=224
+|}}
+
+'''''Unsung Heroes of The Lord of the Rings: From the Page to the Screen''''' is a 2005 book.
+
+== From the publisher ==
+{{blockquote|Most criticism of [[The Lord of the Rings]] trilogy emphasizes the most likely heroes in the tales - [[Aragorn]], [[Frodo Baggins|Frodo]], [[Gandalf]], and even [[Samwise Gamgee|Sam]], overlooking the women and more minor characters. Here, Lynnette Porter examines what we mean when we talk about heroes, and for the first time illustrates the heroic qualities that can be found in the less-celebrated characters in the Lord of the Rings books and movies. She takes a critical look at the importance of literary and cinematic heroes in general, emphasizing how [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]], [[Galadriel]], [[Éowyn|Eowyn]], [[Arwen]], [[Legolas]], and [[Gimli]] display essential characteristics of true heroes and ultimately showing that our attraction to and celebration of heroes does not have to be limited to the "leading man". Bringing together a discussion of both the books and the movies, Porter redirects the spotlight on these overlooked, yet much-beloved characters to illustrate the shift in the way the Western movie-going public identifies and glorifies heroes and shows how the roles they play, and the behaviors they display are worthy of our praise and admiration.}}
+{{title|italics}}
+[[Category:Film books]]
+[[Category:Publications by title]]
+[[Category:Scholarly books]]

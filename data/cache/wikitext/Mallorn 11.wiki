@@ -1,0 +1,53 @@
+{{Mallorn
+| name=Mallorn 11
+| image = Mallorn11.png
+| editor=Kevin Young
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[1977]]
+| format=A4 paperback
+| pages=48
+| issn=0308-6674
+}}
+'''''Mallorn'' 11''' is the eleventh issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[1977]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Kevin Young
+* Acknowledgements
+* Article: Niggle and Númenor
+** By: Joy Chant
+* Recipe: How to bake a Hobbit cake
+** By: Perry the Winkle
+* Article: Male Chauvinist Lions, part 2
+** By: Jessica Kemball-Cook
+* Poem: The Lion from the Nort
+** By: Kevin Young
+* Story: Celenar and the Milk-White Stag
+** By: Andrian Knighton
+* Puzzle: Solution to 'On the Road to Mordor' as appeared in [[Mallorn 10]]
+** By: Jessica Kemball-Cook
+* Profile: Vera Chapman
+* Article: A Elbereth Gilthoniel
+** By: [[Jim Allan]]
+* Poem: The Tyger
+** By: Joe R. Christopher
+* Artwork: The Hobbits, part 2
+** By: Kevin Young
+* Article: The Fall from Enchantment
+** By: Alex Bennett
+* Article: Tolkien the Rhymer
+** By: Jonathan McColl
+* Poem: [[The Road Goes Ever On (song)|The Road Goes Ever On and On]]
+** By: [[J.R.R. Tolkien]]
+
+* Inside Art
+** By: Lucy Matthews, Bryan Talbot, Adrian Cuthbert, Irene Dorowin, Anthony Watkins, Kevin Young
+
+{{mallornnav|10|12|url=http://journals.tolkiensociety.org/mallorn/issue/view/12/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 11}}
+[[Category:Mallorn (journal)]]
+[[Category:Publications with contribution by J.R.R. Tolkien]]

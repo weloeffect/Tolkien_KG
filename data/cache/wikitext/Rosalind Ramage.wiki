@@ -1,0 +1,26 @@
+{{Poem infobox
+| title=Rosalind Ramage
+| written=[[1963]]
+| revised=[[1964]]
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=Rosalind Ramage
+}}
+'''''Rosalind Ramage''''' refers to a [[Index:Poems by J.R.R. Tolkien|poem]] written by [[J.R.R. Tolkien]]. The poem was "''written for an American girl named Rosalind Ramage who had written Tolkien a fan letter in October [[1964]]''". Tolkien submitted the poem, together with "[[The Dragon's Visit]]" and "[[Once upon a Time]]", for publication in ''[[Winter's Tales for Children 1]]''. Due to lack of space, only the two latter poems were included in the children's anthology.<ref>{{webcite|author=[[Douglas A. Anderson]]|articleurl=http://tolkienandfantasy.blogspot.com/2013/07/the-mystery-of-lintips.html|articlename=The Mystery of Lintips|dated=22 July 2013|website=[http://tolkienandfantasy.blogspot.com/ Tolkien and Fantasy]|accessed=23 July 2013}}</ref> The facsimil of the letter with the poem was included in ''[[Tolkien: Maker of Middle-earth]]'',<ref>Catherine McIlwaine (ed.), ''[[Tolkien: Maker of Middle-earth]]'', "Poem, 'Rosalind Ramage'", pp. 96-97</ref> but the poem itself remained [[Index:Unpublished material|unpublished]] until it was included in ''[[The Collected Poems of J.R.R. Tolkien]]''.
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+One spring afternoon,
+like a baloon
+far Rosalind
+was blown by the wind,
+till she was high
+up in the sky.
+</poem>
+
+==See also==
+*[[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{references}}
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

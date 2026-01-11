@@ -1,0 +1,34 @@
+{{person infobox
+| image=Stuart D. Lee.png
+| name=Stuart D. Lee
+| born=[[3 February]] [[1966]]
+| died=
+| education=
+| occupation=
+| location=Oxford, England
+| website=
+}}
+'''Stuart D. Lee''' is a member of the English Faculty and Merton College, and Deputy [[wikipedia:Chief information officer|CIO]] at the [[University of Oxford]]. His research and teaching focus on Old English, World War One literature, and the fiction of [[J.R.R. Tolkien]].<ref>{{webcite|author=|articleurl=http://users.ox.ac.uk/~stuart/Site/About_Me.html|articlename=Dr Stuart D Lee|dated=|website=[http://www.english.ox.ac.uk/about-faculty/faculty-members/medieval/lee-dr-stuart Faculty of English]|accessed=20 July 2015}}</ref>
+
+==Bibliography, selected==
+===Books===
+* [[2005]]: ''[[The Keys of Middle-Earth]]'' (with [[Elizabeth Solopova]]). 2nd edition in [[2015]]
+* [[2014]]: ''[[A Companion to J.R.R. Tolkien]]'' (editor). 2nd edition in [[2022]]
+* [[2017]]: ''[[J. R. R. Tolkien (Routledge)|J. R. R. Tolkien]]'' (editor)
+
+===Articles===
+* [[2009]]: ''[[Tolkien Studies: Volume 6|''Tolkien Studies'': Volume 6]]''
+** "J.R.R. Tolkien and The Wanderer: From Edition to Application"
+* [[2018]]: ''[[Tolkien Studies: Volume 15|''Tolkien Studies'': Volume 15]]''
+** "Tolkien in Oxford' (BBC, 1968): A Reconstruction"
+*[[2022]]: ''[[The Great Tales Never End]]''
+** "A Milestone in BBC History? The 1955-56 Radio Dramatization of The Lord of the Rings"
+* ???: ''Festschrift'' (forthcoming)
+** "lagustreamas: J. R. R. Tolkien and 'The Battle of Maldon'"
+
+{{references}}
+{{DEFAULTSORT:Lee, Stuart D.}}
+[[Category:Academics]]
+[[Category:Authors]]
+[[Category:British people]]
+[[Category:People by name]]

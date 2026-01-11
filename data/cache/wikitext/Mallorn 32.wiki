@@ -1,0 +1,35 @@
+{{Mallorn
+| name=Mallorn 32
+| image = Mallorn32.jpg
+| editor=[[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+| artist=[[Pauline Baynes]]
+| printer=
+| date=September [[1995]]
+| format=A4 stapled paperback
+| pages=36
+| issn=0308-6674
+}}
+'''''Mallorn'' 32''' is the thirty-second issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1995]].
+
+==Contents==
+* '''Front Cover'''
+** By: [[Pauline Baynes]]
+* '''Editorial'''
+** By: [[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+* "And the Word was Made Flesh"
+** By: Clive Tolley
+* "The Fall from Grace"
+** By: Len Stanford
+* "An Ethnically Cleansed Faery? Tolkien and the Matter of Britain"
+** By: [[David Doughan]]
+* '''Ring Verses Competition'''
+* '''Letter'''
+* "Notes Toward a History of the Easterlings"
+** By: [[Ruth Lacon]]
+* '''Contributors'''
+* '''Inside Art'''
+** By: Ian Collier, Tom Sherry, [[Ruth Lacon]]
+{{mallornnav|31|33}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 32}}
+[[Category:Mallorn (journal)]]

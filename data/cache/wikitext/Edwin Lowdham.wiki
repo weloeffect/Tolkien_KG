@@ -1,0 +1,65 @@
+{{anglosaxon infobox
+| name=Edwin Lowdham
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[wikipedia:Pembrokeshire|Pembrokeshire]], [[wikipedia:Wales|Wales]]
+| affiliation=
+| language=[[wikipedia:English language|English]], [[Old English]]
+| birth=c. [[1889]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Oswin Lowdham]]
+| siblings=
+| spouse=
+| children=[[Alwin Arundel Lowdham]]
+| gender=Male
+| height=Tall
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Edwin Lowdham''' was the father of [[Alwin Arundel Lowdham]].
+
+== History ==
+Edwin was a wealthy man, and had a great passion for the sea. He spent a great deal of time sailing about [[wikipedia:Norway|Norway]], [[wikipedia:Scotland|Scotland]], [[wikipedia:Ireland|Ireland]], [[wikipedia:Iceland|Iceland]] and sometimes even going as far south as to the [[wikipedia:Azores|Azores]]. In [[1947]] he set sail in his ship the [[Éarendel]] with only three sailors accompanying him, and was never seen again.<ref name="Edwin">{{SD|2d}}, "Night 66"</ref>
+
+Later, his son Arundel found a manuscript written in [[Tengwar]] which contained an account of the [[Downfall of Númenor]] in [[Old English]] written by Edwin.<ref name="Edwin"/><ref>{{SD|2d}}, "Night 68"</ref>
+
+== Appearance ==
+He is described by his son as being large, tall, powerful and dark.<ref name="Edwin"/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | OSW |OSW=[[Oswin Lowdham]]<br /><small>''b. late [[wikipedia:19th century|19th century]]''</small>}}
+{{familytree | |!| |}}
+{{familytree | EDW |EDW='''EDWIN LOWDHAM'''<br /><small>''b. c. [[1889]]''</small>}}
+{{familytree | |!| |}}
+{{familytree | ALW |ALW=[[Alwin Arundel Lowdham]]<br /><small>''b. [[1938]]''</small>}}
+{{familytree/end}}
+
+== Etymology ==
+The name [[Wikipedia:Edwin|Edwin]] ([[Old English]]: [[Éadwine]]) contains the elements ''ead'' "bliss" (seen also in ''[[Éadig]]'') and ''wine'' "friend".<ref>{{webcite|website=Behind the Name|articlename=Edwin|articleurl=http://www.behindthename.com/name/edwin}}</ref>
+
+== See also ==
+*[[Amandil]]
+*[[Éadwine]]
+*[[Audoin Errol]]
+
+{{references}}
+{{DEFAULTSORT:Lowdham, Edwin}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:Mariners]]
+[[Category:The Notion Club Papers]]

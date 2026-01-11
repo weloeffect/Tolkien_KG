@@ -1,0 +1,56 @@
+{{mythlore
+|title=Mythlore 15
+| image = Mythlore_15.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=March [[1977]]
+|format=Paperback
+|pages=39
+}}
+
+'''''Mythlore'' 15''' ([https://dc.swosu.edu/mythlore/vol4/iss3/ Volume 4, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents ==
+
+====Articles====
+
+* Kocher, Paul. “The Tale of the Noldor.” 3-7.
+* Skinner, Veronica L. “Guinevere’s Role in the Arthurian Poetry of Charles Williams.” 9-11.
+* Brown, Judith. “The Pilgrimage from Deep Space.” 13-15.
+* Howard, Andrew. “''Till We Have Faces'' and Its Mythological and Literary Precursors.” 30-32.
+
+====Features====
+
+* GoodKnight, Glen. Editorial Note. 11.
+* McMenomy, Bruce. “Misconstruction.” Review of ''J.R.R. Tolkien: Architect of Middle-earth'' by Daniel Grotta-Kurska. 16-17.
+* Patterson, Nancy-Lou. “Art in Words and Pictures.” Review of ''The Fantastic in Literature'' by Eric S. Rabkin. 17-18.
+* Christopher, Joe R. “Poems.” Review of ''Feng: A Poem'' by John Wain, ''Wild Angels'' by Ursula K. Le Guin, and ''Aniara: A Review of Man in Time and Space'' by Harry Martinson. 18-20.
+* GoodKnight, Glen. Editorial. 11+.
+* GoodKnight, Glen. Some Photographs and Comments. 21+.
+* Letters. 23+.
+* Christopher, Joe R. “An Inklings Bibliography (4).” 33-38.
+* ''Mythprint''. 39.
+
+====Art====
+
+* A.V.G.: 16
+* Sarah Beach: 18, 19
+* Bonnie GoodKnight: 2, 7, 20, 30, 31
+* Glen GoodKnight Photographs: 21, 22
+* Annette Harper: cover, 5
+* Mary Hodge Calligraphy: 20
+* Michael Kucharski: 26, 27
+* R. Patrick McCabe: 17
+* Bruce McMenomy: back cover, 8
+* Thadara Ottobris: 24, 25
+* Valerie Protopapas: 12
+* Mike Workman: 20
+* Cover: Annette Harper, “Feanor with Palantir”
+* Page 5: Annette Harper, “The Death of Gil-Galad”
+* Page 12: Valerie Protopapas, “Angelic Waterfall from ''The Great Divorce''”
+{{mythlorenav|14|16}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 015}}
+
+[[Category:Mythlore]]

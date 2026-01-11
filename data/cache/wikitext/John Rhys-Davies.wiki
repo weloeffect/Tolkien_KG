@@ -1,0 +1,52 @@
+{{actor
+| image = John Rhys-Davies.jpg
+| caption = John Rhys-Davies
+| name = John Rhys-Davies
+| lifetime = [[5 May|May 5]], [[1944]]
+| played = [[Gimli]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2 = (Voice of) [[Treebeard]]
+| film2 = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0722636/ Profile]
+}}
+British actor '''John Rhys-Davies''' (born 1944) played [[Gimli]] and provided the voice for [[Treebeard]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]]. He had originally auditioned for the role of [[Denethor]].<ref>[[Brian Sibley|Sibley, Brian]]. [[The Lord of the Rings: Official Movie Guide]]. Houghton Mifflin (2001).</ref>
+
+==Quotes==
+{{quote|There is an energetic ferocity in Gimli that the film needs. It's often these minor characters who really have to impart a sense of energy and dynamism to a film so that the heroes can actually take their time to respond and be thoughtful and reflective.|John Rhys-Davies, Southland Times, October 12th, 2000}}
+
+==Roles==
+* [[2023]] - ''[[The Lord of the Rings: Return to Moria]]'' - Gimli
+* [[2010]] - ''[[The Lord of the Rings: Aragorn's Quest]]'' - Gimli
+* [[2004]] - ''[[The Lord of the Rings: The Battle for Middle-earth]]'' - Gimli, Treebeard
+* 2004 - ''[[The Lord of the Rings: The Third Age]]'' - Gimli
+* [[2003]] - ''[[The Lord of the Rings: The Return of the King]]'' - Gimli, Treebeard
+* 2003 - ''[[Beyond the Movie: The Return of the King]]'' - Narrator
+* 2003 - [[The Lord of the Rings: The Return of the King (video game)|''The Lord of the Rings: The Return of the King'' (video game)]] - Gimli
+* 2003 - ''The Lord of the Rings: The Return of the King (video game)'' trailer - Narrator
+* [[2002]] - ''[[The Lord of the Rings: The Two Towers]]'' - Gimli, Treebeard
+* 2002 - [[The Lord of the Rings: The Two Towers (video game)|''The Lord of the Rings: The Two Towers'' (video game)]] - Gimli
+* [[2001]] - ''[[The Lord of the Rings: The Fellowship of the Ring]]'' - Gimli
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+== External links ==
+* '''[https://www.therealjohnrhysdavies.com/ Official Site]'''
+* {{WP|John Rhys-Davies}}
+
+{{references}}
+
+{{DEFAULTSORT:Rhys-Davies, John}}
+[[Category:Actors and actresses]]
+[[Category:Narrators]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:John Rhys-Davies]]
+[[fi:John Rhys-Davies]]

@@ -1,0 +1,33 @@
+{{book
+|title=Reconsidering Tolkien
+| image = Reconsidering Tolkien.jpg
+|editor=[[Thomas M. Honegger]]
+|isbn=3905703009
+|publisher=[[Walking Tree Publishers]]
+|date=[[15 April]] [[2005]]
+|format=Paperback
+|pages=212
+| series=[[Cormarë Series]]
+| precededby=[[Recovery and Transcendence for the Contemporary Mythmaker]]
+| followedby=[[Tolkien and Modernity 1]]
+}}
+'''''Reconsidering Tolkien''''' is the eighth book of Walking Tree's ''[[Cormarë Series]]''. It is a collection of several essays.
+
+==Contents==
+* Marion Gymnich: "Reconsidering the Linguistics of Middle-earth: Invented Languages and Other Linguistic Features in J.R.R. Tolkien's The Lord of the Rings"
+* [[Eduardo Segura]] and Guillermo Peris: "Tolkien as Philo-Logist" 
+* [[Thomas M. Honegger]]: "Tolkien Through the Eyes of a Mediaevalist" 
+* Paul E. Kerry: "Thoughts on J.R.R. Tolkien's The Lord of the Rings and History" 
+* [[Nataša Tučev]]: "The Knife, the Sting and the Tooth: Manifestations of Shadow in The Lord of the Rings"
+* Jean-Christophe Dufau: "Mythic Space in Tolkien's Work"
+* Dirk Vanderbeke: "Language, Lore and Learning in The Lord of the Rings"
+* [[Martin Simonson]]: "The Lord of the Rings in the Wake of the Great War: War, Poetry, Modernism, and Ironic Myth"
+* [[Connie Veugen]]: "'A Man, lean, dark, tall': Aragorn Seen Through Different Media". This essay can be read ''[http://dare.ubvu.vu.nl/bitstream/1871/10975/1/Aragorn_Final.pdf here]''. 
+
+{{Cormarë}}
+
+==External links==
+* [http://www.proaktiva.ch/walkingtree/cormareBookInfo.php?number=8 Official product information]
+{{title|italics}}
+[[Category:Publications by title]]
+[[Category:Scholarly books]]

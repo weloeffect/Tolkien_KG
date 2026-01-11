@@ -1,0 +1,37 @@
+{{disambig-more|The One Ring|[[The One Ring (disambiguation)]]}}
+{{video game infobox
+| image = Oneringgamelogo.gif
+| name=The One Ring
+| developer=Microcosm
+| publisher=Microcosm
+| platform=PC
+| releasedate=[[6 November|November 6]], [[2009]]
+| genre=
+|}}
+'''The One Ring''' is a licensed game produced by Microcosm Games. It is published as a Facebook application.
+
+==Overview==
+Players take on the role of any of several heroes from ''[[The Lord of the Rings]]''. As the game progresses, their character will grow in power, improving their abilities, gaining companions, and finding new equipment.
+
+==Cast and Crew==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Paul Owens]] || Narrator, [[Bilbo Baggins]], [[Tom Bombadil]], [[Théoden]]
+|-
+| [[James Beaumont]] || Unspecified
+|-
+| [[Donna Griffiths]] || Unspecified
+|-
+| [[Steve Northy]] || Unspecified
+|-
+|}
+
+Game content written by John Davis, music by Helen Trevellion, Chris Knowles and Ben Walker.
+
+==External links==
+* '''[http://www.oneringgame.com Official website]'''
+* '''[http://apps.facebook.com/theonering Facebook application]''' (requires membership)
+{{title|italics}}
+[[Category:Online video games]]

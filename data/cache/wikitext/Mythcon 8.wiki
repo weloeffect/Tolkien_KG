@@ -1,0 +1,23 @@
+{{short description|1977 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 8
+| location=University of California-San Diego, La Jolla, California
+| organizer=[[Mythopoeic Society]]
+| dates=26-29 August [[1977]]
+| attendees=
+|next=[[Mythcon 9]]|previous=[[Mythcon 7]]}}
+'''Mythcon 8''' was the eighth annual [[Mythopoeic Society]] conference. 
+
+*'''Theme:''' The "Lesser" Works of [[J.R.R. Tolkien]]
+*'''Guest of Honor:''' [[Richard L. Purtill]] (Inklings scholar and fantasy author)
+*'''Chairman:''' Bruce McMenomy
+*'''Coordinators:''' Andy Howard and Sandi Howard
+
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-8.htm Mythcon 8 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 08}}
+[[Category:Mythcon]]

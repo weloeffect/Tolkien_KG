@@ -1,0 +1,23 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Margaret Organ-Kean
+| born=
+| died=
+| education=
+| occupation=Artist
+| location=West Seattle, USA
+| website=
+}}
+'''Margaret Organ-Kean''' is an American watercolour artist known for her work for [[Magic: The Gathering]]. She was contracted by [[Iron Crown Enterprises]] to create artwork for the [[Middle-earth Collectible Card Game]].<ref>{{Cite web|articleurl=https://web.archive.org/web/20120227182548/http://www.organ-kean.com/bio.html|articlename=Biography|website=[https://web.archive.org/web/20120227183614/http://www.organ-kean.com/index.html Artist's website] (archived)}}</ref>
+
+
+==See also==
+*[[:Category:Images by Margaret Organ-Kean|Images by Margaret Organ-Kean]]
+
+{{References}}
+{{DEFAULTSORT:Organ-Kean, Margaret}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

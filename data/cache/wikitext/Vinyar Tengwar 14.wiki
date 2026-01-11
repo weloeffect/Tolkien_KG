@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 14
+| image = Vinyar Tengwar 14.png
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=November [[1990]]
+| format=Paperback journal
+| pages=24
+}}
+'''''Vinyar Tengwar 14''''' is the fourteenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|13|15}}
+
+==Contents==
+* Cover: "Uglúk and Grishnákh" — Tom Loback
+* E.L.F. News
+* Letters to ''VT''
+* "''[[The War of the Ring]]'': A Linguistic Review" — Carl F. Hostetter
+* "The Elves at Koivienéni: A New Quenya Sentence"✫ — Christopher Gilson and Patrick H. Wynne
+* "The Fifth Battle" — Tom Loback
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 14}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 14]]

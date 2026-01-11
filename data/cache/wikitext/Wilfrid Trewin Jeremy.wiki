@@ -1,0 +1,63 @@
+{{anglosaxon infobox
+| name=Wilfrid Trewin Jeremy
+| people=[[wikipedia:English people|Englishman]]
+| image = Afalstein - Notion Club Papers - Jeremy.png
+| caption="Notion Club Papers - Jeremy" by [[:Category:Images by Afalstein|Afalstein]]
+| pronun=
+| othernames=
+| titles=
+| position=University Lecturer in [[wikipedia:English literature|English Literature]]
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1942]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=Implied to be a descendant of [[Voronwë (companion of Elendil)|Voronwë]], a [[Man]] of [[Númenor]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=Short
+| hair=Dark
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Wilfrid Trewin Jeremy''' (born in [[1942]]) was a member of the [[Notion Club]].
+
+== History ==
+Jeremy was a university lecturer in [[wikipedia:English literature|English literature]] who was educated at Corpus Christi. He specialized in Escapism, and has written books on the history and the criticism of ''Ghost-stories'', ''Time-travel'', and ''Imaginary Lands''.<ref>{{SD|2b}}</ref>
+
+During the discussions with other members of the Club, he was often trying to arouse interest in [[C.S. Lewis|Lewis]] and [[Charles Williams|Williams]]. He was the Club's "Lewis-expert", and knew all his works, and had given lectures on Lewis and Williams.<ref>{{SD|2cn}}</ref>
+
+In one of the meetings, Jeremy seemed to have started receiving visions of [[Númenor]] along with [[Alwin Arundel Lowdham|Lowdham]]. He became aware of the meaning of the word ''[[Sauron|Zigûr]]''. He became sick, and started speaking aloud many words in, to them, an unknown language, which turned out to be [[Adûnaic]]. A [[wikipedia:Great Storm of 1987|great storm]] came, and clouds in the shapes of the [[eagles]] covered the sky. Then he began to call Lowdham by a strange name, ''Nimruzīr'', and he in turn was named by Lowdham ''Abrazān''. Those were their names in Adûnaic: ''Nimruzīr'' standing for ''Alwin'' and ''Abrazān'' for ''Trewin''.<ref name="Storm">{{SD|2d}}, "Night 67"</ref>
+
+Later that night, he and Lowdham tormed out of [[Michael George Ramer|Ramer's]] rooms where they were having the meeting, and went on a journey, and returned after more than three months.<ref name="Storm"/><ref name="Return">{{SD|2d}}, "Night 69"</ref> On their journey, they began to experience strange dreams, going back in time all the way to the [[wikipedia:Anglo-Saxon England|Anglo-Saxon England]]. There, Jeremy, identified with a man named [[Tréowine]] son of [[Céolwulf]], and Lowdham, associated with one [[Ælfwine]] son of [[Éadwine]], arrived at [[wikipedia:Porlock|Porlock]] in [[wikipedia:Somerset|Somerset]]. There, Tréowine recited the poem ''[[King Sheave]]'', to the king [[wikipedia:Edward the Elder|Éadweard]].<ref name="Return"/>
+
+Around the year [http://en.wikipedia.org/wiki/915 915], in autumn, the [[wikipedia:Danes|Danes]] attacked Porlock. They were at first driven off and Ælfwine's company managed to capture a Danish [http://en.wikipedia.org/wiki/Knarr cnearr] at night. At dawn Tréowine was told by his closest friend, Ælfwine, he intended to sail off westward, perhaps to the country of the legendary king Sheaf. Tréowine agreed to accompany him at least as far as to [[wikipedia:Ireland|Ireland]]. They got two other companions: [[Ceola]] of [[wikipedia:Somerset|Somerset]] and [[Geraint]] of [[wikipedia:West Wales|West Wales]].<ref name="Seventy">{{SD|2d}}, "Night 70"</ref>
+
+Many days after they passed Ireland the voyagers were exhausted. A "dreamlike death" seemed to come over them, and soon they passed out. The last that is known of the journey is that Tréowine saw the world plunge down under them, while sailing the [[Straight Road]]. Later, Ælfwine found himself stranded on the beaches of [[Tol Eressëa]] where the [[Elves]] told him the stories of [[Valinor]] and [[Beleriand]], and Lowdham received also the visions of [[Númenor]] before and during its fall.<ref name="Seventy"/>
+
+At the end it is implied that Jeremy (as well as Tréowine) was a descendant of [[Voronwë (companion of Elendil)|Voronwë]], a man of Númenor and a companion of [[Elendil]] the Tall on his voyage to [[Middle-earth]]; and that was the reason of his vivid dreams concerning Númenor and its downfall.<ref name="Seventy"/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| VOR | |VOR=[[Voronwë (companion of Elendil)|Voronwë]]<br /><small>''b. late {{SA}}''</small>}}
+{{familytree| |:| | |}}
+{{familytree| |:| | |}}
+{{familytree| WIL | |WIL='''WILFRID TREWIN JEREMY'''<br /><small>''b. [[1942]]''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Jeremy, Wilfrid Trewin}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

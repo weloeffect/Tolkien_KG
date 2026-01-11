@@ -1,0 +1,63 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 37
+| image=
+| editor=
+| illustrator=
+| date=[[2020]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/e48514493|articlename=Vol. 37, 2020|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 37''''' is the thirty-seventh volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2020]].<ref name="jstor" />
+==Contents==
+*"Remembering Walter Hooper (1931-2020)"
+**By: Editorial Staff
+*Remembrances
+**"Colin Manlove and Stephen Prickett"
+***By: Kirstin Jeffrey Johnson
+**"Thomas Howard"
+***By: Marjorie Lamp Mead
+**"Jill Paton Walsh"
+***By: Kendra Juskus
+**"Richard C. West"
+***By: Laura Schmidt
+*"Sacramental Ontology in That Hideous Strength"
+**By: Toby F. Coley
+*"Futuristic Warnings in Owen Barfield's 'Night Operation'"
+**By: Tiffany Brooke Martin
+*"Edgar Allan Poe, Dorothy L. Sayers, and Detective Fiction"
+**By: Harry Lee Poe
+*"C.S. Lewis on Reason"
+**By: Josiah Peterson, Charlie W. Starr
+*"Notes on the Nature of Reason"
+**By: C.S. Lewis
+*"C.S. Lewis, Númenorean"
+**By: David Bratman
+*"Warren Lewis and the Lewis Papers"
+**By: Don W. King
+*Book Reviews:
+**"Review of Tolkien's Lost Chaucer by John Bowers"
+***By: Benjamin Weber
+**"Review of Choosing Community: Action, Faith, and Joy in the Work of Dorothy L. Sayers by Christine A. Colón"
+***By: Barbara Prescott
+**"Review of Dorothy L. Sayers, God, Hitler, and Lord Peter Wimsey: Selected Essays, Speeches, and Articles edited by Suzanne Bray"
+***By: David Llewellyn Dodds
+**"Review of Phantastes: Annotated Edition by George MacDonald, edited by John Pennington and Roderick McGillis"
+***By: Daniel Gabelman
+**"Review of Animals in the Writings of C.S. Lewis by Michael J. Gilmour"
+***By: Matthew Dickerson
+**"Review of Haunted Childhoods in George MacDonald by John Patrick Pazdziora"
+***By: Daniel Gabelman
+**"Review of The Theology of George MacDonald: The Child Against the Vampire of Fundamentalism by John R. de Jong"
+***By: Michael Wayne Wilhelm
+**"Review of Square Haunting: Five Women, Freedom, and London between the Wards by Francesca Wade"
+***By: Suzanne Bray
+**"Review of Tolkien's Modern Reading: Middle-earth Beyond the Middle-Ages by Holly Ordway"
+***By: Louis Markos
+**"Review of The World of J.R.R. Tolkien: The Place that Inspired Middle-earth by John Garth"
+***By: Laura Schmidt<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|36|38}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 37}}
+
+[[Category:SEVEN]]

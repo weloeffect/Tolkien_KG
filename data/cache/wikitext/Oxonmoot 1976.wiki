@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1976
+| location=The Welsh Poney, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=October 1st-3rd, 1976
+| attendees=
+}}
+
+{{oxonmoot|1975|1977}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

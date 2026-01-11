@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 15
+| image = Vinyar Tengwar 15.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=January [[1991]]
+| format=Paperback journal
+| pages=16
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 15''''' is the fifteenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|14|16}}
+
+==Contents==
+* Cover: "Mandos: ''Sinomë fëalya hiruva estë''." — Patrick H. Wynne<br>("In this place your spirit shall find rest.")
+* E.L.F. News
+* Letters to ''VT''
+
+* "Elvish Linguistic Terms" — Taum Santoski
+* "Thus Spake Fëanor" — Tom Loback
+* "''Essitalmar'': 'Misplaced Anger' or Plurals in the Sindarin Dialects" (column) — Tom Loback
+* "Transitions in Translations: 'Edition Shifting' in the German Hobbit, Part 2" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 15}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 15]]

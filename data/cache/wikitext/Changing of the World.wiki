@@ -1,0 +1,29 @@
+{{events
+| image = Ralph Damiani - The Sundering.jpg
+| event=Changing of the World
+| othernames=Breaking of the World<br/>Númenórean Catastrophe<ref>{{NM|P3xv}}</ref>
+| location=Between [[Númenor]] and [[Valinor|the West]], though all of [[Arda]] was affected
+| date={{SA|3319}}
+| result=Arda turned into a [[Bent World|round world]]
+| partof=[[Ilúvatar]]'s aid to the [[Valar]]
+| participants=Ilúvatar, Valar, [[Númenóreans]]
+| description=Ilúvatar's intervention in history that changed Arda from flat to round, making the West inaccessible to [[Men]]
+| references=
+|}}
+
+{{Quote|...malle téna lende númenna<br />ilya sí maller raikar...|[[Lament of Atalantë]]}}{{Fact}}
+
+The '''Changing of the World''' was the event in which [[Arda]] was transformed from a flat world into a [[Bent World|round planet]]. It occurred in {{SA|3319}}<ref>{{App|SA}}</ref> when [[Ilúvatar]] utterly [[Downfall of Númenor|destroyed]] the island of [[Númenor]] due to the deeds of [[Númenóreans|its people]].
+
+== History ==
+When the [[Númenóreans|Númenórean]] [[King of Númenor|King]] [[Ar-Pharazôn]] attacked [[Valinor]], the [[Valar]] relinquished their dominion over [[Arda]] and called upon Eru for help. Ilúvatar responded by creating an enormous rift between Númenor and the [[Aman|Blessed Realm]], into which Ar-Pharazôn's [[Great Armament|fleet]] and, ultimately, his land were swept. Meanwhile, the flat world bent back upon itself and met at this rift. The final result was a round planet of which [[Aman]] and [[Tol Eressëa]] were no longer a physical part. After the Changing of the World, only the [[Elves]] could find the [[Straight Road|Straight Way]] and reach the ancient [[Aman|West]] by ship.<ref>{{S|Akallabeth}}</ref>
+
+== Other versions of the legendarium ==
+{{Seealso|Round World version of the Silmarillion}}
+In Tolkien's latest writings published in the later volumes of ''[[The History of Middle-earth]]'', Arda was a round world from its beginning, and the idea of a flat world was instead an invention of the Númenóreans. Thus, in this alternate account, the world would not need to be bent at the time of Númenor's downfall and Aman's removal from the physical world.<ref>{{MR|Myths}}</ref>
+
+{{References}}
+[[Category:Events]]
+[[Category:Second Age]]
+[[de:Wandlung der Welt]]
+[[fi:Maailman muuttuminen]]

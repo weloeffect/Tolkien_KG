@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 29
+| image = Vinyar Tengwar 29.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=May [[1993]]
+| format=Paperback journal
+| pages=32
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 29''''' is the twenty-ninth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|28|30}}
+
+==Contents==
+* Cover: The "[[King's Letter]]", version "II" (facsimile)✫ — J.R.R. Tolkien
+* E.L.F. News
+
+* "The ''Tengwar'' Versions of the 'King's Letter'"✫ — Arden R. Smith
+* "''Vorwonwe Vanya Yondollo''" — Christopher Gilson
+* "Transitions in Translations: ''Erufu-go''" (column) — Arden R. Smith
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 29}}
+[[fi:Vinyar Tengwar 29]]
+[[Category:Vinyar Tengwar]]

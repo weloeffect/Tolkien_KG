@@ -1,0 +1,34 @@
+{{short description|7th Gate of Gondolin}}
+{{object infobox
+| name=Gate of Steel
+| image = David Greset - Seventh Gate of Gondolin.jpg
+| caption="Seventh Gate of Gondolin" by [[:Category:Images by David Greset|David Greset]]
+| pronun=
+| othernames=Great Gate, Last Gate, Seventh Gate
+| location=[[Orfalch Echor]]
+| owner=
+| type=Gate
+| appearance=A mighty fence of steel with seven wide beams, flanked by towers
+| creator=[[Maeglin]]
+| created=5th century, [[First Age]]
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+
+The '''Gate of Steel''', also known as the '''Great Gate''', was the seventh of the [[Seven Gates of Gondolin]].
+
+== History ==
+The Gate of Steel was the last gate both in order of entering and construction, having being built by [[Maeglin]] some centuries after the other six as an ultimate defence after the disaster of the [[Nirnaeth Arnoediad]]. Though all but impassable to an enemy, the Gate ultimately failed to prevent the [[Fall of Gondolin]].
+
+The gate was like a great steel fence across the Orfalch Echor. The fence had seven great needle-like pillars of steel and between these pillars there were seven cross-bars of steel and forty-nine vertical rods with heads like broad blades of spears. In the centre, above the midmost pillar, was raised a mighty image of the king-helm of [[Turgon]], the [[Crown of the Hidden Kingdom]], set about with diamonds. When [[Elemmakil]] struck the gate, rather than opening, the current [[Warden of the Great Gate]], [[Ecthelion]], rode from the north tower on a white horse with an esquire and a company of riders from both towers. The gate opened inward on either side of the pillar of the Crown. This gate followed the [[Gate of Gold]], and when [[Tuor]] and [[Voronwë]] went through, they came to a high sward that looked over [[Tumladen]]. A host of the army of [[Gondolin]] were stationed on either side. The host consisted of representatives from each of the guards of the Seven Gates, likely including members of [[Elemmakil|Elemmakil's]] own [[Dark Guard]]. The captains and chieftains of each Guard sat upon white and gray horses. As Tuor stood before them in the livery of [[Nevrast]], they gazed upon him since many of them were with [[Turgon]] when he first set his armor upon the [[High Seat of Vinyamar]].<ref>{{UT|Tuor}}, pp. 49-50</ref>
+
+{{references}}
+{{gondolin}}
+[[Category:Doors and gates]]
+
+[[de:Sieben Tore von Gondolin#Siebtes Tor]]
+[[fr:encyclo/geographie/villes tours et forteresses/beleriand/gondolin/porte d acier]]
+[[fi:Teräsportti]]

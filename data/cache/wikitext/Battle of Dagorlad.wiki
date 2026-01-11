@@ -1,0 +1,54 @@
+{{disambig-more|Battle of Dagorlad|[[Battle of Dagorlad (disambiguation)]]}}
+{{battle
+| image = The Lord of the Rings - The Fellowship of the Ring - Last Alliance.jpg
+|name=Battle of Dagorlad
+|conflict=[[War of the Last Alliance]]
+|date={{SA|3434}}
+|place=The plains of [[Dagorlad]] outside Mordor
+|result=Decisive victory for the Last Alliance
+|side1=[[Last Alliance of Elves and Men]]
+|side2=Hosts of [[Mordor]]
+|commanders1=
+*[[Gil-galad]]
+*[[Elendil]] 
+*[[Elrond]]
+*[[Oropher]] †
+*[[Amdír]] †
+|commanders2=[[Sauron]]
+|forces1=Great host of [[Dúnedain]]; [[Elves of Lindon]], [[Rivendell]], [[Elves of Mirkwood|Mirkwood]], and [[Galadhrim|Lothlórien]]; [[Dwarves of Khazad-dûm]]; beasts and birds
+|forces2=Great host of [[Orcs]], [[Men of Darkness|Evil Men]], some [[Dwarves]] of other Houses, and other evil creatures
+|casual1=Heavy: half of the [[Galadhrim]] army lost<ref name="Silvan Princes">{{UT|6b}}</ref>
+|casual2=Vast numbers, more than the allies
+|}}
+{{quote|It was a great battle. Tall Men with long swords, and terrible Elves, and Orcses shrieking. They fought on the plain for days and months at the Black Gates.|[[Gollum]] in ''[[The Two Towers]]'', "[[The Passage of the Marshes]]"}}
+The '''Battle of Dagorlad''' occurred in the year {{SA|3434|n}} of the [[Second Age]]. It was fought between the army of the [[Last Alliance of Elves and Men|Last Alliance]] under [[Gil-galad]] and [[Elendil]] and an army of [[Orcs]] and other creatures loyal to [[Sauron]]. The battle took place on the great, treeless, open plain of [[Dagorlad]], between the [[Dead Marshes]] and [[Cirith Gorgor]]. 
+
+==History==
+===Prelude===
+{{main|War of the Last Alliance}}
+The united host of Elves and Men crossed the [[Misty Mountains]] and marched south through the vale of [[Anduin]], where they were joined by the [[Silvan Elves]] led by [[Malgalad]]<ref group=note>In other texts published in ''[[Unfinished Tales]]'' this individual is named [[Amdír]].</ref> and [[Oropher]],<ref name="Silvan Princes" /> with a host from [[Moria|Khazad-dûm]].<ref name="Rings">{{S|Rings}}</ref>
+
+The Alliance entered the vast plain near the [[Black Gate]], where they were joined by Anárion's forces from the south, and confronted at last the black legions of Mordor.
+
+The Silvan Elves had little sympathy for the [[Sindar]] and [[Noldor]] that were led by Gil-galad. As a result, they were indisposed to place themselves under the supreme command of the [[High King of the Noldor]]. 
+
+===Battle===
+[[File:John Howe - The Battle of Dagorlad.jpg|thumb|left|''The Battle of Dagorlad'' by [[John Howe]]]]
+During preliminary skirmishing, the Silvan Elves defying Gil-galad's command, rashly charged against the numerous host of Mordor, before the King had given the order. The Silvans were valiant and doughty, but ill-equipped compared to their nobler kin. [[Oropher]] perished in the first onslaught while [[Malgalad]] and his troops were cut off and driven into the marshes where half of his host perished.<ref name="Silvan Princes"/> This area became known afterwards as the [[Dead Marshes]], because of the thousands of bodies buried there. This battle raged for months.<ref name=Passage>{{TT|IV2}}</ref> 
+
+Elendil and Gil-galad eventually gained the upper hand. Thus Elves and Númenóreans finally pushed the enemy hordes back towards the [[Black Gate]] and broke through [[Cirith Gorgor]].<ref name="Rings"/>
+
+===Aftermath===
+A great part of Sauron's soldiers were slain in this battle. The Alliance was able to enter Mordor, establish a camp upon the [[Plateau of Gorgoroth]] and lay the [[Siege of Barad-dûr]] itself. Nevertheless Sauron still had enough supplies to defend the fortress for seven more years, until the siege was so pressing that he himself came forth, which led to the battle on the slopes of Orodruin in which Sauron was defeated and [[the One Ring]] taken from him.<ref name="Rings"/>
+
+Oropher's son [[Thranduil]] survived the war and established his reign over the Silvan Elves in the [[Woodland Realm]].
+
+The slain were buried and their graves eventually were engulfed by the [[Dead Marshes]].<ref name=Passage/> 
+
+In the [[Third Age]], the Dagorlad was the site of several battles between [[Gondor]] and various [[Easterlings|Easterling]] armies, and the climactic [[Battle of the Morannon]]. 
+
+{{references|notes}}
+[[Category:Conflicts of the Second Age]]
+[[de:Schlacht auf der Dagorlad]]
+[[fr:encyclo:evenements:2a:guerres:bataille de dagorlad]]
+[[fi:Dagorladin taistelu]]

@@ -1,0 +1,32 @@
+{{Artist infobox
+| name=Daniel Reeve
+| image=
+| born=
+| died=
+| education=
+| style=
+| images=[[:Category:Images by Daniel Reeve|Images by Daniel Reeve]]
+| location=[[New Zealand]]
+| website=https://www.danielreeve.co.nz/
+}}
+'''Daniel Reeve''' is an artist, calligrapher, and cartographer who worked on [[The Lord of the Rings (film series)|''The Lord of the Rings'']] and ''[[The Hobbit (film series)|The Hobbit]]'' films, as well as ''[[The Lord of the Rings: The Rings of Power|The Rings of Power]]'' television series.
+
+Once a computer programmer, Reeve was a Tolkien fan and hobbyist who experimented with [[tengwar|Elvish calligraphy]] and maps. During the filming of the Trilogy, he was hired to produce all the maps, inscriptions, scrolls and other props that appear on-screen. Now Reeve works as a freelance artist.
+
+He has produced several Tolkien-inspired [[fonts]] and maps that appear in paraphernalia of the Lord of the Rings franchise. His maps were a part of ''[[The Lord of the Rings Roleplaying Game]]''.
+
+Reeve also worked in the production of the film adaptations of [[C.S. Lewis]]'s ''[[The Chronicles of Narnia]]''.
+
+==See also==
+[[:Category:Images by Daniel Reeve|Images by Daniel Reeve]]
+
+==External links==
+* [https://www.danielreeve.co.nz Official website]
+*[http://www.elvish.org/gwaith/movie_otherinscr.htm#khazad Examples] of inscriptions seen in the Trilogy, designed by Reeve
+*[http://www.elvish.org/gwaith/movie_scripts.htm Analysis] of the Tengwar mode devised and used by Reeve
+
+[[Category:Linguists|Reeve, Daniel]]
+[[Category:Artists|Reeve, Daniel]]
+[[Category:Cartographers|Reeve, Daniel]]
+[[Category:New Zealand people|Reeve, Daniel]]
+[[Category:People by name|Reeve, Daniel]]

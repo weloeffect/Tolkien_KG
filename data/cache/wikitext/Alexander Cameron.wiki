@@ -1,0 +1,46 @@
+{{anglosaxon infobox
+| name=Alexander Cameron
+| people=[[wikipedia:English people|Englishman]]
+| image=Afalstein - Notion Club Papers - Cameron.png
+| caption="Notion Club Papers - Cameron" by [[:Category:Images by Afalstein|Afalstein]]
+| pronun=
+| othernames=
+| titles=
+| position=Modern historian
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[Seventh Age 1935|1935]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Not being officially and formally a part of the [[Notion Club]]
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Alexander Cameron''' was an occasional member of the [[Notion Club]].
+
+== History ==
+Alexander Cameron was educated at Exeter and became a modern historian, especially interested in [[wikipedia:Spanish history|Spanish]] and [[wikipedia:South American history|South American]] history. His interests included collecting coins and stamps and playing a pianola.
+
+Other members do not seem to remember his being invited to join the Club, and he never signed the Club's records as was the habit among the other members.<ref name="List">{{SD|2b}}, p. 160</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Cameron, Alexander}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

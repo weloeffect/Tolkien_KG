@@ -1,0 +1,44 @@
+{{Noble House infobox
+| name=House of the Mole
+| image = Rondador - House of the Mole.png
+| caption=
+| othernames=Folk of the Mole
+| founder=
+| leader=[[Meglin]]
+| location=[[Gondolin]]
+| affiliation=[[Melko]]<br />[[House of the Harp]]
+| rivalry=[[House of the Wing]]
+| destroyed=Completely<br />[[Fall of Gondolin]]
+| language=
+| members=
+| race=[[Noldoli]]
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=Round caps of steel covered by moleskins and polished accoutrements that gleamed with a ruddy glow
+| weapons=Two-headed axes
+| heirlooms=
+}}
+<center>{{quote|He found a press of the Mole-folk about his door, and these were the grimmest and least good-hearted of folk that Meglin might get in that city.|''[[The Book of Lost Tales Part Two]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]"}}</center>
+
+The '''house of the Mole''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the elven city of [[Gondolin]]. Their story is recounted in an early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.
+
+==History==
+The house was founded and led by [[Meglin]]. They bore polished accoutrements that gleamed with a ruddy glow, yet without any emblem or design. Their round caps of steel were covered with moleskin. Most of its folk were quarrymen and ore delvers. In battle they wielded two-headed axes, like mattocks.<ref name=Gondolin>{{LT2|III}}</ref>{{rp|165,172}}
+
+Their lord Meglin had previously betrayed King [[Turgon]] and [[Gondolin]], allying with [[Melko]]. He knew of [[Idril's secret way]] and thought it led to the [[Way of Escape]], so before the battle he sent in secret some of his house to Melko, with instruction to set a guard about the outer side of that Way.<ref name=Gondolin/>{{rp|177}}
+ 
+When armies arrived at the northern gate and the [[Fall of Gondolin]] began, Meglin led his folk to [[Tuor]]'s house in the south of the city. There he tried to kill [[Eärendel]], but Tuor soon arrived with his [[folk of the Wing]]. However, a press of the Mole-folk was in front of the house, and these were the grimmest Noldoli that Meglin could get, doing nothing to stop their lord's treachery. Then the folk of the Wing attacked and the folk of the Mole were stricken asunder, so Tuor ran upon Meglin and killed him. Loyal to their lord, those from the House of the Mole turned upon his killer, but though they were numerous, they could not stand against the folk of the Wing and Tuor's wrath. The fight ended when all of them were "smitten and driven to fly into what dark holes they might, or flung from the walls".<ref name=Gondolin/>{{rp|177–8}}
+
+==Other names==
+Their [[Gnomish]] name was '''''Thlim Doldrin''''', while in [[Qenya]] they were simply known as '''''Noldarer'''''.<ref>{{PE|13}}, p. 104</ref>
+
+==Other versions of the legendarium==
+In the later version of the ''[[Quenta Noldorinwa]]'', there are only a few glimpses of Meglin's folk: It is told that he and "his secret following" were not happy with Eärendel's birth, that he was the master of the Gnomes who mined far from Gondolin, and that he went with few of his folk beyond the leaguer of the mountains.<ref>{{SM|Q16}}, p. 143</ref> Notice that this was the text used by [[Christopher Tolkien]] for the [[Of Tuor and the Fall of Gondolin|twenty-third chapter]] of his edition of ''[[The Silmarillion]]''.
+
+{{references}}
+{{HousesofGondolin}}
+[[Category:Twelve houses of the Gondothlim]]
+[[Category:Servants of Melkor]]
+[[de:Haus des Maulwurfs]]

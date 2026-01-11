@@ -1,0 +1,30 @@
+{{VTbox
+| title=Vinyar Tengwar 12
+| image = Vinyar Tengwar 12.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=July [[1990]]
+| format=Paperback journal
+| pages=24
+}}
+'''''Vinyar Tengwar 12''''' is the twelfth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|11|13}}
+
+==Contents==
+* Cover: "The Storming of Gondolin" — Tom Loback
+* E.L.F. News
+* Letters to ''VT''
+
+* "''Nólë i Meneldilo'': Lore of the Astronomer"✫ — Jorge Quiñónez and Ned Raggett
+* "''[[Narqelion]]'': A Translation by Paul Nolan Hyde" — Jorge Quiñónez
+* "Transitions in Translations: The If and When of the Dominion of Men" (column) — Arden R. Smith
+
+<small>✫ contains formerly unpublished material</small>
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 12}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 12]]

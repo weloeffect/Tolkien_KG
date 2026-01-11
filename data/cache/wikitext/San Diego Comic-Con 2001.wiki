@@ -1,0 +1,18 @@
+{{convention
+| image=
+| title=Comic-Con 2001
+| location=San Diego Convention Center
+| organizer=
+| dates=2001
+| attendees=
+|}}
+The '''San Diego Comic-Con: International''' is the largest comic convention in the world and always delights [[J.R.R. Tolkien]] fans by having numerous Tolkien-related collectibles and events. This 2001 convention was prior to the release of [[The Lord of the Rings: The Fellowship of the Ring]] and showcased a surge of movie-related collectibles.
+
+== External links ==
+* [http://www.comic-con.org/ Official Comic-Con website]
+* [http://www.theonering.net/perl/newsview/8/996133162 Frodo, Fun, and Final Thoughts (Review)]
+* [http://www.theonering.net/perl/newsview/8/995843409 Galleries at TheOneRing.net]
+
+{{comic-con|2001|2002}}
+
+[[Category:Conventions]]

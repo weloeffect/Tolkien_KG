@@ -1,0 +1,84 @@
+{{film infobox
+| image = The Peril to the Shire.jpg
+| caption = 
+| name = The Peril to the Shire
+| director = Douglas Dunklin
+| producer = Douglas Dunklin<br/>'''Assistant producers:'''<br/>Grace Dunklin and Aaron Brown
+| writer = '''Screenplay:'''<br/>Douglas Dunklin<br/>'''Based on the Writings of:'''<br/>[[J.R.R. Tolkien]]<br/>
+| narrator = 
+| starring = Grace Dunklin<br/>Samuel Dunklin<br/>Lauren Leak<br/>Aaron Brown<br/>Ethan Milukas<br/>Evan Stroud<br/>Zach Yokum<br/>Nick Yokum
+| music = [[Howard Shore]]<br/>[[Brobdingnagian Bards]]<br/>Lorenna Mckennit<br/>The Rogues<br/>Lauren Leak<br/>Mike and Leeaura Marcum<br/>J Michele Swartz<br/>Grace Dunklin
+| cinematography = Aaron Brown<br/>Zach Yokum
+| editing = Douglas Dunklin<br/>Grace Dunklin<br/>Aaron Brown<br/>Zach Yokum
+| studio = Pointy Stick Productions
+| distributor = None
+| released = [[12 June|June 12]], [[2007]]
+| runtime = approx. 210 minutes
+| country = United States
+| language = English
+| budget = 
+| website = [https://pointystickproductions.com/peril-to-the-shire/ Official website]|
+}}
+'''The Peril to the Shire''' is a [[:Category:Fan films|fan film]] written and directed by Douglas Dunklin, produced by Pointy Stick Productions.
+
+==Production Information==
+''The Peril to the Shire'' was created as an experience project by a group of home-schooled students and their families from Coweta and Fayette counties, Georgia.
+
+Written by Colonel Douglas Dunklin, the original screenplay explores a "what if" scenario based on ''[[The Lord of the Rings Appendices|The Appendices]]''. It was originally written as a Christmas present to his daughter in 2005.
+
+The project to turn it into a film started in March 2006, by gathering several friends and families and forming "Pointy Stick Productions". The film was completed in June 2007, and premiered to a private audience that same month.
+
+==Plot==
+The story takes place some four months after [[Frodo Baggins|Frodo]] left [[the Shire]] (December {{TA|3018}}); main players are [[Rose Cotton]] and her (original) cousin Hamfoot. On their road to [[Budgeford]], they come across a wounded Elf maid with a dire message.
+
+Rosie and her cousin, along with some friends set out to save the Shire from imminent destruction. The danger is far bigger than they could ever imagine
+
+==Characters==
+* [[Rose Cotton]]
+* Daisy, Lily, and Zinnia Burrows
+* Hamfoot "Hammie" Cotton
+* Malloriel
+* [[Fredegar Bolger|Fredegar "Freddy" Bolger]]
+* Halfred Bracegirdle
+* Bungo, Lungo, and Mungo Chubb
+* Hawkeye
+* Mrs. Bracegirdle
+* [[Samwise Gamgee]]
+* Naremir
+* Thengildur
+* Haldigund
+* Ironfist
+* Pudluk
+* Gorf
+
+==Crew==
+* Director: Douglas Dunklin
+* Writer: Douglas Dunklin
+* Concept art:
+**Rachel Brown
+**Grace Dunklin
+*Storyboards
+**Caitlin Clary
+**Sutton Milukas
+**Evan Stroud
+**Douglas Dunklin
+
+* Sindarin translators:
+**J. Michele Swartz
+**Lauren Leak
+
+==Reception==
+<!-- This is going to require some links, please -->
+{{quote|I had the real blessing of watching Peril to the Shire and I have to say I enjoyed it enormously! I can't believe the passion and devotion to Tolkien that was behind such a great undertaking.|"Patty" at ''theonering.net''}}
+
+{{quote|A well thought out storyline. I do like the what was the rest of the world was doing while the Fellowship was off gallivanting about tales. [...] The talents of your elvish singers and harpist also deserve recognition. Your credits [...] complete with popsicle wrangler [...] were a treat as well.|"Sevilodorf" at ''theonering.net''}}
+
+==Trailer==
+{{#ev: youtube|mBHF_KEUrgE|500}}
+
+==External links==
+* '''[https://pointystickproductions.com/peril-to-the-shire/ Official website]'''
+
+{{Fan films}}
+
+[[Category:Fan films|Peril to the Shire]]

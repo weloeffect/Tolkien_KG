@@ -1,0 +1,45 @@
+{{anglosaxon infobox
+| name=Ranulph Stainer
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Banker<br />Composer
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1936]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Producing an opera called ''[[Midas]]''
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ranulph Stainer''' (born in [[1936]]) was a member of the [[Notion Club]].
+
+== History ==
+Ranulph Stainer was educated at University College and professionally became an expert in banking and economics. Privately, however, he was devoted to the history and practice of music, and has composed several major and minor works, including one moderately successful opera: ''[[Midas]]''.<ref>{{SD|2b}}</ref>
+
+When [[Alwin Arundel Lowdham|Lowdham]] and [[Wilfrid Trewin Jeremy|Jeremy]] stormed out of [[Michael George Ramer|Ramer]]'s rooms during a Great Storm, in which they saw clouds in the shapes of the [[Eagles]],<ref>{{SD|2d}}, "Night 67"</ref> Stainer expressed doubts concerning the legitimacy of their actions, claiming that the entire event was staged.<ref>{{SD|2d}}, "Night 68"</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Stainer, Ranulph}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

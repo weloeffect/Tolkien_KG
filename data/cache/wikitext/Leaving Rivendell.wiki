@@ -1,0 +1,47 @@
+{{album
+| image = Leaving Rivendell album cover.png
+| title=Leaving Rivendell
+| type=Studio album
+| artist=Tolkien Ensemble
+| released=[[2005]]
+| recorded=
+| genre=Classical
+| length=	69:00
+| language=
+| label=
+}}
+'''''Leaving Rivendell''''' is the fourth album by the [[Tolkien Ensemble]].
+
+== Tracks listing ==
+
+# "Riddle of Strider (II)" (Caspar Reiff)
+# "Verse of the Rings (II)" (Caspar Reiff)
+# "Bregalad's Song" (Caspar Reiff)
+# "Legolas' Song of the Sea" (Caspar Reiff)
+# "Song of the Elves Beyond the Sea - Galadriel's Song of Eldamar (II)" (Caspar Reiff)
+# "Oliphaunt" (Peter Hall)
+# "Ents' Marching Song" (Peter Hall)
+# "Galadriel's Messages" (Caspar Reiff)
+# "Song of Eärendil" (Peter Hall)
+# "Song of Durin" (Peter Hall)
+# "Tom Bombadil's Song (III) I Had an Errand There..." (Peter Hall)
+# "Wight's Chant" (Peter Hall)
+# "Ho! Tom Bombadil (II)" (Peter Hall)
+# "Tom Bombadil's Song (IV)" (Caspar Reiff)
+# "Théoden's Battle Cry" (Caspar Reiff)
+# "At Théoden's Death" (Caspar Reiff)
+# "Snowmane's Epitaph" (Caspar Reiff)
+# "Burial Song of Théoden" (Caspar Reiff)
+# "Long List of the Ents, No. 2" (Peter Hall)
+# "Sam's Invocation of [[A Elbereth Gilthoniel|Elven Hymn to Elbereth Gilthoniel]]" (Peter Hall)
+# "Call to Arms of the Rohirrim" (Caspar Reiff)
+# "Eagle's Song" (Caspar Reiff)
+
+{{sequence
+ |prev=[[At Dawn in Rivendell]]
+ |next=[[Complete Songs and Poems]]
+ |list=[[Tolkien Ensemble]] discography
+}}
+
+{{title|italics}}
+[[Category:Albums]]

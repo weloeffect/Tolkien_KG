@@ -1,0 +1,18 @@
+:''This article is about the text adventure game. You may be looking for the [[Ring of Thrór]].''
+{{video game infobox
+| image = Thror's Ring-Video game.gif
+| name=Thror's Ring
+| developer=[[Eamon (video game)|Eamon]]
+| publisher=[[Eamon (video game)|Eamon]]
+| platform=[[wikipedia:Apple II series|Apple II series]]
+| releasedate=[[1986]]
+| genre=Text-Adventure
+}}'''''Thror's Ring''''' is a text-adventure, published by [[Eamon (video game)|Eamon]]<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/throrsring.html Tolkien Games] (retrieved 27 October 2010)</ref> and written by [[Tom Zuchowski]].<ref name="Tolkien Games"/><ref>[http://ifdb.tads.org/viewgame?id=4aj48odgyjcpsbmm The Interactive Fiction Database] (retrieved 27 October 2010)</ref>
+
+The objective of the game is to find [[Ring of Thrór|Thrór's Ring]] in the depths of [[Moria]].<ref name="Tolkien Games"/>
+
+{{References}}
+{{title|italics}}
+[[Category:Apple II series games]]
+[[Category:Eamon games]]
+[[Category:Text-Adventure video games]]

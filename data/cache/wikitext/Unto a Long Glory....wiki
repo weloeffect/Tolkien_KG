@@ -1,0 +1,48 @@
+{{Song
+| title = Unto a Long Glory...
+| album = [[Dol Guldur (album)|Dol Guldur]]
+| image = DolGuldur.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 9:37
+| track = 7
+| spotify = https://open.spotify.com/track/4WQ56677QclMHVKQMvqwCd
+| writer = [[J.R.R. Tolkien]], P.K.
+| next = [[Over Old Hills]]
+| previous = [[Wyrmvater Glaurung]]
+}}'''''Unto a Long Glory...''''' is the seventh track of the album [[Dol Guldur (album)|Dol Guldur]] by the band [[Summoning]].  Like the song [[The Passing of the Grey Company (song)|The Passing of the Grey Company]] from the album [[Minas Morgul (album)|Minas Morgul]], the lyrics reference [[Aragorn Takes the Paths of the Dead|Aragorn taking the Paths of the Dead]], including the [[Grey Company]], [[Stone of Erech]], and the [[Oathbreakers]].
+
+== Lyrics ==
+<poem style="font-style:italic; margin-left:20px;">
+The doom approaches the Dead awaken; 
+For the hour is come for the oathbreakers 
+At the stone of Erech they shall stand again 
+Hear there horn in hills enchants 
+Who shall call them 
+From grey twilight 
+Forgotten ones? 
+
+Out of doubt, out of dark 
+Hope rekindles, and hope in end 
+Over death, over dread 
+Over doom lifted 
+Out of loss, out of life 
+And out of doubt, out of dark 
+Over death, over dread 
+Out of loss, 
+Unto a long glory... 
+
+The heir of him to whom the oath they swore 
+From the North he shall come 
+And he shall pass the door 
+To the Paths of the Dead 
+
+Mourn not overmuch - mighty was the fallen 
+And war now calls us! 
+
+And hear there horn in hills ringing 
+Who shall call them 
+from grey twilight
+</poem>
+
+[[Category:Songs by Summoning]]

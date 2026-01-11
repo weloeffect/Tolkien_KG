@@ -1,0 +1,26 @@
+{{Collectible card
+| image=MEPR - Fatty Bolger.jpg
+| name=Fatty Bolger
+| caption=
+| game=meccg
+| type=Character
+| alignment=Hero
+| homesite=Bag End
+| artist=[[Christina Wald]] 
+| rarity=Promotional
+| number=TW485
+}}
+'''MEPR: Fatty Bolger''' is a [[Promotional MECCG cards|promotional game card]] from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]], depicting [[Fredegar Bolger]].
+
+==Card text==
+
+'''''Unique.''''' Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. 
+
+''"Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."'' '''''-LotRI'''''
+==Artwork==
+The artwork of the card was created by [[Christina Wald]].
+<gallery heights="280px">
+File:Christina_Wald_-_Fatty_Bolger.jpg|Full artwork
+</gallery>
+
+[[Category:MECCG character cards|Fatty Bolger]]

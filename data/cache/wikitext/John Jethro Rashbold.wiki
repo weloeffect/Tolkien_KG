@@ -1,0 +1,50 @@
+{{anglosaxon infobox
+| name=John Jethro Rashbold
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Undergraduate
+| location=[[Oxford]]
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1965]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''John Jethro Rashbold''' (born in [[1965]]) was a member of the [[Notion Club]].
+
+== History ==
+John Jethro Rashbold was an undergraduate at [[wikipedia:Magdalen College, Oxford|Magdalen College]] in [[Oxford]]. He was a classical scholar and an apprentice poet. He was introduced to the [[Notion Club]] by [[Philip Frankley]], to whom he was much attached.<ref>{{SD|2b}}</ref>
+
+== Inspiration ==
+The name ''Rashbold'' is a play on [[J.R.R. Tolkien]]'s own surname. It is a rough translation of ''Tolkien'' (from [[wikipedia:German language|German]] ''Toll-kühn'') which means "foolhardy".<ref>{{SD|2a}}</ref><ref>{{L|165}}</ref>
+
+==See also==
+*[[Professor Rashbold]]
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Rashbold, John Jethro}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

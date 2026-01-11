@@ -1,0 +1,74 @@
+{{album
+| image = The_Rarities_Archive.jpg
+| title=The Lord of the Rings: The Rarities Archive
+| type=Soundtrack
+| artist=[[Howard Shore]]
+| released=[[September 28]], [[2010]]
+| genre=
+| length=79:25
+| language=English
+| label=Howe Records
+}}
+'''''The Lord of the Rings: The Rarities Archive''''' is an album by [[Howard Shore]] comprising of mock-up, alternate, and previously unreleased versions of tracks from the score of ''[[The Lord of the Rings (film series)|The Lord of the Rings film series]]''.<ref>{{webcite|author=Doug Adams|articleurl=http://www.musicoflotr.com/2010/08/lord-of-rings-rarities-archive.html|articlename=The Lord of the Rings: The Rarities Archive|dated=August 12, 2010|website=The Music of the Lord of the Rings Films|accessed=September 20, 2021}}</ref> It was compiled for and bundled with the book ''[[The Music of the Lord of the Rings Films]]'' by author [[Doug Adams]].
+
+==Tracks==
+{{tracklist
+| collapsed       = 
+| headline        = 
+| extra_column    = 
+| total_length    = 79:25
+| title1 = Prologue: One Ring to Rule Them All (Alternate)
+| length1 = 5:56
+| title2 = The Shire/The Hobbits (Mock-up)
+| length2 = 2:00
+| title3 = Out From Bree (Theatrical Version & Alternate)
+| length3 = 4:04
+| title4 = Flight to the Ford (Alternate)
+| length4 = 4:04
+| title5 = Moria (Mock-up)
+| length5 = 1:44
+| title6 = The Fighting Uruk-hai (Alternate)
+| length6 = 1:47
+| title7 = The Argonath (Alternate)
+| length7 = 2:18
+| title8 = Gwenwin in în ("Arwen's Song" Alternate/Mock-up)
+| length8 = 2:02
+| title9 = Arwen's Song (Complete)
+| length9 = 2:11
+| title10 = Emyn Muil (Alternate)
+| length10 = 3:23
+| title11 = The Rohan Fanfare (Mock-up)
+| length11 = 3:09
+| title12 = The Eaves of Fangorn (Alternate)
+| length12 = 5:25
+| title13 = The Ent Theme (Mock-up)
+| length13 = 2:00
+| title14 = The Return of the King Trailer
+| length14 = 2:34
+| title15 = The Gondor Theme (Mock-up)
+| length15 = 2:18
+| title16 = The Muster of Rohan (Alternate)
+| length16 = 6:43
+| title17 = The Siege of Gondor (Alternate)
+| length17 = 3:13
+| title18 = Shieldmaiden of Rohan (Theatrical Version)
+| length18 = 2:00
+| title19 = Sammath Naur (Alternate)
+| length19 = 8:51
+| title20 = Frodo's Song ("Into the West" Alternate/Mock-up)
+| length20 = 2:23
+| title21 = Elanor (Alternate)
+| length21 = 1:30
+| title22 = In Conversation (Audio Interview Part 1), featuring "Roots and Beginnings" (alternate)
+| length22 = 5:05
+| title23 = In Conversation (Audio Interview Part 2), featuring "Frodo's Song" (alternate), played by Sir James Galway.
+| length23 = 4:27
+}}
+
+==External links==
+*[http://www.musicoflotr.com/2010/08/lord-of-rings-rarities-archive.html Announcement by Doug Adams]
+*[https://howerecords.com/the-lord-of-the-rings-rarities/ Listing on Howe Records]
+
+{{references}}
+[[Category:The Lord of the Rings (film series) soundtracks]]
+[[Category:songs (real-world)]]

@@ -1,0 +1,27 @@
+{{mountain
+| image = 
+| name=Amon Darthir
+| location=the range of [[Ered Wethrin]] separating [[Dor-lomin]] and [[Beleriand]]
+| belongs=the [[Ered Wethrin]]
+| description=
+| othernames=
+| etymology=Amon Darthis: ''[[amon]]'' - steep-sloped mountain + ''[[dartha]] - to wait
+| events=
+| references=
+| gallery=
+}}
+
+'''Amon Darthir''' was a mountain in the range of the [[Ered Wethrin]], the [[Ered Wethrin|Mountains of Shadow]] that separated [[Dor-lómin]] to the north from [[Beleriand]] to the south.<ref>{{CH|Map}}</ref> It stood near the house of [[Húrin]] in the south-east of Dor-lómin, and the springs of [[Nen Lalaith]] were among its northern slopes. The secret and difficult passes that ran beneath Amon Darthir's peak were the only way through the Ered Wethrin for many leagues in either direction.<ref>{{CH|4}}, p. 67</ref>
+
+==Etymology==
+Amon Darthir is [[Sindarin]]:
+*''[[amon]]'' 'steep-sloped mountain'
+*''[[dartha]]'' 'to wait'
+
+{{references}}
+[[Category:Beleriand]]
+[[Category:Mountains]]
+[[Category:Sindarin locations]]
+[[de:Amon Darthir]]
+[[fr:encyclo/geographie/reliefs/beleriand/amon darthir]]
+[[fi:Amon Darthir]]

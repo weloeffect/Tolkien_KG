@@ -1,0 +1,501 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%22Hobbit_Dinner%22_in_Rotterdam> a schema:WebPage ;
+    rdfs:label "\"Hobbit Dinner\" in Rotterdam"@en ;
+    schema:about <http://localhost:8000/resource/%22Hobbit_Dinner%22_in_Rotterdam> .
+
+<http://localhost:8000/page/Awakening_of_Men> a schema:WebPage ;
+    rdfs:label "Awakening of Men"@en ;
+    schema:about <http://localhost:8000/resource/Awakening_of_Men> .
+
+<http://localhost:8000/page/Awakening_of_the_Elves> a schema:WebPage ;
+    rdfs:label "Awakening of the Elves"@en ;
+    schema:about <http://localhost:8000/resource/Awakening_of_the_Elves> .
+
+<http://localhost:8000/page/Bilbo%27s_Farewell_Party> a schema:WebPage ;
+    rdfs:label "Bilbo's Farewell Party"@en ;
+    schema:about <http://localhost:8000/resource/Bilbo%27s_Farewell_Party> .
+
+<http://localhost:8000/page/Birthday_Toast> a schema:WebPage ;
+    rdfs:label "Birthday Toast"@en ;
+    schema:about <http://localhost:8000/resource/Birthday_Toast> .
+
+<http://localhost:8000/page/Breaking_of_the_Fellowship> a schema:WebPage ;
+    rdfs:label "Breaking of the Fellowship"@en ;
+    schema:about <http://localhost:8000/resource/Breaking_of_the_Fellowship> .
+
+<http://localhost:8000/page/Changing_of_the_World> a schema:WebPage ;
+    rdfs:label "Changing of the World"@en ;
+    schema:about <http://localhost:8000/resource/Changing_of_the_World> .
+
+<http://localhost:8000/page/Cormar%C3%AB> a schema:WebPage ;
+    rdfs:label "Cormarë"@en ;
+    schema:about <http://localhost:8000/resource/Cormar%C3%AB> .
+
+<http://localhost:8000/page/Council_of_Elrond> a schema:WebPage ;
+    rdfs:label "Council of Elrond"@en ;
+    schema:about <http://localhost:8000/resource/Council_of_Elrond> .
+
+<http://localhost:8000/page/Creation_of_the_Ainur> a schema:WebPage ;
+    rdfs:label "Creation of the Ainur"@en ;
+    schema:about <http://localhost:8000/resource/Creation_of_the_Ainur> .
+
+<http://localhost:8000/page/Downfall_of_Barad-d%C3%BBr> a schema:WebPage ;
+    rdfs:label "Downfall of Barad-dûr"@en ;
+    schema:about <http://localhost:8000/resource/Downfall_of_Barad-d%C3%BBr> .
+
+<http://localhost:8000/page/Downfall_of_N%C3%BAmenor> a schema:WebPage ;
+    rdfs:label "Downfall of Númenor"@en ;
+    schema:about <http://localhost:8000/resource/Downfall_of_N%C3%BAmenor> .
+
+<http://localhost:8000/page/Eruhantal%C3%AB> a schema:WebPage ;
+    rdfs:label "Eruhantalë"@en ;
+    schema:about <http://localhost:8000/resource/Eruhantal%C3%AB> .
+
+<http://localhost:8000/page/Exile_of_the_Noldor> a schema:WebPage ;
+    rdfs:label "Exile of the Noldor"@en ;
+    schema:about <http://localhost:8000/resource/Exile_of_the_Noldor> .
+
+<http://localhost:8000/page/Fall_of_Fingolfin> a schema:WebPage ;
+    rdfs:label "Fall of Fingolfin"@en ;
+    schema:about <http://localhost:8000/resource/Fall_of_Fingolfin> .
+
+<http://localhost:8000/page/Faring_Forth> a schema:WebPage ;
+    rdfs:label "Faring Forth"@en ;
+    schema:about <http://localhost:8000/resource/Faring_Forth> .
+
+<http://localhost:8000/page/Gates_of_Summer> a schema:WebPage ;
+    rdfs:label "Gates of Summer"@en ;
+    schema:about <http://localhost:8000/resource/Gates_of_Summer> .
+
+<http://localhost:8000/page/Great_Bear-dance> a schema:WebPage ;
+    rdfs:label "Great Bear-dance"@en ;
+    schema:about <http://localhost:8000/resource/Great_Bear-dance> .
+
+<http://localhost:8000/page/Great_Journey> a schema:WebPage ;
+    rdfs:label "Great Journey"@en ;
+    schema:about <http://localhost:8000/resource/Great_Journey> .
+
+<http://localhost:8000/page/Great_Plague> a schema:WebPage ;
+    rdfs:label "Great Plague"@en ;
+    schema:about <http://localhost:8000/resource/Great_Plague> .
+
+<http://localhost:8000/page/Great_Signal> a schema:WebPage ;
+    rdfs:label "Great Signal"@en ;
+    schema:about <http://localhost:8000/resource/Great_Signal> .
+
+<http://localhost:8000/page/High_feast> a schema:WebPage ;
+    rdfs:label "High feast"@en ;
+    schema:about <http://localhost:8000/resource/High_feast> .
+
+<http://localhost:8000/page/Last_Debate> a schema:WebPage ;
+    rdfs:label "Last Debate"@en ;
+    schema:about <http://localhost:8000/resource/Last_Debate> .
+
+<http://localhost:8000/page/Last_Riding_of_the_Keepers_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Last Riding of the Keepers of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Last_Riding_of_the_Keepers_of_the_Rings> .
+
+<http://localhost:8000/page/Leap_of_Beren> a schema:WebPage ;
+    rdfs:label "Leap of Beren"@en ;
+    schema:about <http://localhost:8000/resource/Leap_of_Beren> .
+
+<http://localhost:8000/page/Long_Winter> a schema:WebPage ;
+    rdfs:label "Long Winter"@en ;
+    schema:about <http://localhost:8000/resource/Long_Winter> .
+
+<http://localhost:8000/page/Mereth_Aderthad> a schema:WebPage ;
+    rdfs:label "Mereth Aderthad"@en ;
+    schema:about <http://localhost:8000/resource/Mereth_Aderthad> .
+
+<http://localhost:8000/page/Nost-na-Lothion> a schema:WebPage ;
+    rdfs:label "Nost-na-Lothion"@en ;
+    schema:about <http://localhost:8000/resource/Nost-na-Lothion> .
+
+<http://localhost:8000/page/Oath_of_F%C3%ABanor> a schema:WebPage ;
+    rdfs:label "Oath of Fëanor"@en ;
+    schema:about <http://localhost:8000/resource/Oath_of_F%C3%ABanor> .
+
+<http://localhost:8000/page/Quest_for_the_Silmaril> a schema:WebPage ;
+    rdfs:label "Quest for the Silmaril"@en ;
+    schema:about <http://localhost:8000/resource/Quest_for_the_Silmaril> .
+
+<http://localhost:8000/page/Second_Spring_of_Arda> a schema:WebPage ;
+    rdfs:label "Second Spring of Arda"@en ;
+    schema:about <http://localhost:8000/resource/Second_Spring_of_Arda> .
+
+<http://localhost:8000/page/Sleep_of_Yavanna> a schema:WebPage ;
+    rdfs:label "Sleep of Yavanna"@en ;
+    schema:about <http://localhost:8000/resource/Sleep_of_Yavanna> .
+
+<http://localhost:8000/page/Spring_of_Arda> a schema:WebPage ;
+    rdfs:label "Spring of Arda"@en ;
+    schema:about <http://localhost:8000/resource/Spring_of_Arda> .
+
+<http://localhost:8000/page/Standing_Silence> a schema:WebPage ;
+    rdfs:label "Standing Silence"@en ;
+    schema:about <http://localhost:8000/resource/Standing_Silence> .
+
+<http://localhost:8000/page/Three_Prayers> a schema:WebPage ;
+    rdfs:label "Three Prayers"@en ;
+    schema:about <http://localhost:8000/resource/Three_Prayers> .
+
+<http://localhost:8000/page/Unchaining_of_Melkor> a schema:WebPage ;
+    rdfs:label "Unchaining of Melkor"@en ;
+    schema:about <http://localhost:8000/resource/Unchaining_of_Melkor> .
+
+<http://localhost:8000/resource/%22Hobbit_Dinner%22_in_Rotterdam> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/28_March_1958> ;
+    tg:event "Hobbit-maaltijd"@en ;
+    tg:gallery "the Hobbit-maaltijd"@en ;
+    tg:image "J.R.R. Tolkien - Rotterdam Hobbit Dinner (1958).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3ARotterdam> ;
+    tg:othernames "Hobbit Dinner,<ref name=Bio>{{HM|Bio}}</ref><br>Hobbit Maaltijd,<br>Hobbit Meal"@en ;
+    tg:participants <http://localhost:8000/resource/J.R.R._Tolkien> .
+
+<http://localhost:8000/resource/Awakening_of_Men> a schema:Thing ;
+    tg:date "{{FA|1}}"@en ;
+    tg:description "The creation of Mankind"@en ;
+    tg:event "Awakening of Men"@en ;
+    tg:image "Šárka Škorpíková - First sunrise in Hildorien.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Hild%C3%B3rien> ;
+    tg:participants <http://localhost:8000/resource/Il%C3%BAvatar%2C_Men> ;
+    tg:partof <http://localhost:8000/resource/Il%C3%BAvatar%27s_plan_for_E%C3%A4> ;
+    tg:result <http://localhost:8000/resource/The_existence_of_Men_in_Arda> .
+
+<http://localhost:8000/resource/Awakening_of_the_Elves> a schema:Thing ;
+    tg:date "{{YT|1050}}"@en ;
+    tg:description "The creation of the Elves"@en ;
+    tg:event "Awakening of the Elves"@en ;
+    tg:image "Maria Awsejkowa - Lake Cuivienen (Children of the Stars).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Cuivi%C3%A9nen> ;
+    tg:participants "Eru, the Elves"@en ;
+    tg:partof <http://localhost:8000/resource/Il%C3%BAvatar> ;
+    tg:result <http://localhost:8000/resource/The_existence_of_Elves_in_Arda> .
+
+<http://localhost:8000/resource/Bilbo%27s_Farewell_Party> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/22_September_%7B%7BTA> ;
+    tg:event "Bilbo's Farewell Party"@en ;
+    tg:image "Livia Prima - Bilbo's Party.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Party_Field%2C_Hobbiton> ;
+    tg:othernames "Bilbo's Birthday Party"@en ;
+    tg:participants <http://localhost:8000/resource/%27%27See_Bilbo%27s_Farewell_Party%23Attendees> ;
+    tg:references <http://localhost:8000/resource/%27%27The_Fellowship_of_the_Ring%27%27%2C_%22A_Long-expected_Party%22> .
+
+<http://localhost:8000/resource/Birthday_Toast> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/Each_year_on_22_September> ;
+    tg:description "A small gathering honouring Bilbo's and Frodo's birthdays"@en ;
+    tg:event "\"Frodo's custom\""@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Bag_End%2C_Hobbiton%2C_The_Shire> ;
+    tg:participants <http://localhost:8000/resource/Shire-hobbits> ;
+    tg:references <http://localhost:8000/resource/%27%27The_Fellowship_of_the_Ring%27%27> ;
+    tg:result <http://localhost:8000/resource/Toasting_Bilbo_Baggins_and_Frodo_Baggins> .
+
+<http://localhost:8000/resource/Breaking_of_the_Fellowship> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/26_February%2C_%7B%7BTA> ;
+    tg:event "Breaking of the Fellowship"@en ;
+    tg:image "Matt Stewart - The Horn of Boromir.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Parth_Galen> ;
+    tg:partof <http://localhost:8000/resource/Quest_of_the_Ring> ;
+    tg:result <http://localhost:8000/resource/Disbanding_of_the_Fellowship_of_the_Ring> .
+
+<http://localhost:8000/resource/Changing_of_the_World> a schema:Thing ;
+    tg:date "{{SA|3319}}"@en ;
+    tg:description <http://localhost:8000/resource/Il%C3%BAvatar%27s_intervention_in_history_that_changed_Arda_from_flat_to_round%2C_making_the_West_inaccessible_to_Men> ;
+    tg:event "Changing of the World"@en ;
+    tg:image "Ralph Damiani - The Sundering.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Between_N%C3%BAmenor_and_Valinor> ;
+    tg:othernames "Breaking of the World<br/>Númenórean Catastrophe<ref>{{NM|P3xv}}</ref>"@en ;
+    tg:participants <http://localhost:8000/resource/Il%C3%BAvatar%2C_Valar%2C_N%C3%BAmen%C3%B3reans> ;
+    tg:partof <http://localhost:8000/resource/Il%C3%BAvatar%27s_aid_to_the_Valar> ;
+    tg:result <http://localhost:8000/resource/Arda_turned_into_a_Bent_World> .
+
+<http://localhost:8000/resource/Cormar%C3%AB> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/22_September_of_the_Fourth_Age> ;
+    tg:event "Cormarë"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Reunited_Kingdom> ;
+    tg:othernames "Ringday"@en ;
+    tg:partof <http://localhost:8000/resource/New_Reckoning_calendar> ;
+    tg:references <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%2C_%22Appendix_D%22> .
+
+<http://localhost:8000/resource/Council_of_Elrond> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/25_October%2C_%7B%7BTA> ;
+    tg:event "Council of Elrond"@en ;
+    tg:gallery "the Council of Elrond"@en ;
+    tg:image "Alan Lee - The Council of Elrond (detail).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:participants <http://localhost:8000/resource/Elrond%2C_counselors_of_Elrond_and_other_Elves%2C_Gandalf%2C_Men%2C_two_Hobbits%2C_Dwarves_from_Erebor> ;
+    tg:partof <http://localhost:8000/resource/Quest_of_the_Ring> ;
+    tg:result <http://localhost:8000/resource/Formation_of_the_Fellowship_of_the_Ring> .
+
+<http://localhost:8000/resource/Creation_of_the_Ainur> a schema:Thing ;
+    tg:event "Creation of the Ainur"@en ;
+    tg:image "Šárka Škorpíková - Eru Iluvatar (and the Ainur).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/The_Timeless_Halls> ;
+    tg:participants "Eru"@en ;
+    tg:partof <http://localhost:8000/resource/Il%C3%BAvatar> ;
+    tg:references <http://localhost:8000/resource/%27%27Ainulindal%C3%AB%27%27> ;
+    tg:result <http://localhost:8000/resource/The_existence_of_the_Ainur> .
+
+<http://localhost:8000/resource/Downfall_of_Barad-d%C3%BBr> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/25_March%2C_Third_Age_3019> ;
+    tg:event "Downfall of Barad-dûr"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Mordor> ;
+    tg:partof <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:result <http://localhost:8000/resource/Barad-d%C3%BBr> .
+
+<http://localhost:8000/resource/Downfall_of_N%C3%BAmenor> a schema:Thing ;
+    tg:date "{{SA|3319}}"@en ;
+    tg:description <http://localhost:8000/resource/Catastrophe_that_caused_N%C3%BAmenor_to_sink_into_the_Belegaer> ;
+    tg:event "Downfall of Númenor"@en ;
+    tg:gallery "the Downfall of Númenor"@en ;
+    tg:image "Alan Lee - Fall of Númenor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Primarily_Elenna%2C_but_affected_the_shores_of_Middle-earth> ;
+    tg:othernames <http://localhost:8000/resource/Fall_of_N%C3%BAmenor%3Cbr_/%3EDrowning_of_N%C3%BAmenor> ;
+    tg:participants <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans%2C_Valar%2C_Il%C3%BAvatar> ;
+    tg:partof <http://localhost:8000/resource/The_Changing_of_the_World> ;
+    tg:result <http://localhost:8000/resource/Destruction_of_N%C3%BAmenor%2C_exile_of_the_Faithful> .
+
+<http://localhost:8000/resource/Eruhantal%C3%AB> a schema:Thing ;
+    tg:caption "''Eruhantalë'' by David Greset"@en ;
+    tg:date "Yearly"@en ;
+    tg:event "Eruhantalë"@en ;
+    tg:gallery "Eruhantalë"@en ;
+    tg:image "David Greset - Eruhantalë.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:othernames "\"Thanksgiving to Eru\""@en .
+
+<http://localhost:8000/resource/Fall_of_Fingolfin> a schema:Thing ;
+    tg:date "{{FA|456}}"@en ;
+    tg:description "Duel between Morgoth and Fingolfin in which the former killed the latter"@en ;
+    tg:event "Fall of Fingolfin"@en ;
+    tg:gallery "the Fall of Fingolfin"@en ;
+    tg:image "Pete Amachree - Fingolfin challenges Morgoth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Gates_of_Angband> ;
+    tg:participants <http://localhost:8000/resource/Morgoth%2C_Fingolfin> ;
+    tg:partof <http://localhost:8000/resource/The_aftermath_of_the_Dagor_Bragollach> ;
+    tg:result <http://localhost:8000/resource/Fingolfin%27s_death%3B_transfer_of_High_King_of_the_Noldor> .
+
+<http://localhost:8000/resource/Faring_Forth> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/c._wikipedia%3A5th_century> ;
+    tg:description "An expedition from the Lonely Isle to rescue the Elves of the Great Lands"@en ;
+    tg:event "Faring Forth"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Tol_Eress%C3%ABa_%28Heath_of_the_Sky-roof%29%3Cbr_/%3EGreat_Lands_%28R%C3%B4s%29> ;
+    tg:participants <http://localhost:8000/resource/Elves_of_Tol_Eress%C3%ABa%3Cbr_/%3EIlkorindi> ;
+    tg:result "Utter defeat of the Elves, and their fading<br />Tol Eressëa anchored off the Great Lands, and overrun by Men, Orcs, etc."@en .
+
+<http://localhost:8000/resource/Gates_of_Summer> a schema:Thing ;
+    tg:event "Gates of Summer"@en ;
+    tg:image "Alystraea - Tarnin Austa, Gondolin.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:othernames "''Tarnin Austa'', ''Andonavestan''"@en ;
+    tg:participants <http://localhost:8000/resource/Gondolindrim> .
+
+<http://localhost:8000/resource/Great_Bear-dance> a schema:Thing ;
+    tg:date "Autumn"@en ;
+    tg:description <http://localhost:8000/resource/Spectacle_in_which_the_N%C3%BAmen%C3%B3reans_watch_a_group_of_Bears_perform_strange_and_curious_bear-dances_for_their_entertainment.> ;
+    tg:event "Great Bear-dance"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:othernames "Ruxotompalë"@en ;
+    tg:participants <http://localhost:8000/resource/Bears> ;
+    tg:result "Spectacle"@en .
+
+<http://localhost:8000/resource/Great_Journey> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/%7B%7BYT> ;
+    tg:description <http://localhost:8000/resource/Orom%C3%AB_leads_the_three_clans_of_Elves_westwards_through_Middle-earth_and_Belegaer.> ;
+    tg:event "Great Journey"@en ;
+    tg:image "Steamey - Orome.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Middle-earth%2C_Belegaer%2C_Valinor> ;
+    tg:othernames "Great March"@en ;
+    tg:participants <http://localhost:8000/resource/Valar_%28and_Osse%29%2C_Eldar> ;
+    tg:partof <http://localhost:8000/resource/Sundering_of_the_Elves> ;
+    tg:result <http://localhost:8000/resource/The_Eldar_reach_Valinor_and_found_Eldamar%3B_separation_of_Calaquendi_and_Moriquendi%3B_many_Teleri_remain_in_Rhovanion_and_Beleriand> .
+
+<http://localhost:8000/resource/Great_Plague> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/%7B%7BTA> ;
+    tg:description <http://localhost:8000/resource/Plague_from_Rh%C3%BBn%2C_spreading_north%2C_west%2C_and_then_north> ;
+    tg:event "Great Plague"@en ;
+    tg:image "Steven Cavallo - Plague.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Rh%C3%BBn%2C_Rhovanion%2C_Gondor%2C_Eriador> ;
+    tg:othernames "Dark Plague"@en ;
+    tg:participants <http://localhost:8000/resource/Sauron_%3Csmall%3E%28allegedly%29%3C/small%3E%2C_Easterlings%2C_Northmen%2C_Woodmen%2C_Kelvar%2C_Gondorians%2C_Dunlendings%2C_D%C3%BAnedain_of_Arnor%2C_Hobbits> ;
+    tg:result "Possibly hundreds of thousands of deaths"@en .
+
+<http://localhost:8000/resource/Great_Signal> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/10_March_%7B%7BTA> ;
+    tg:description "A violent red flash from Mordor<br />Blue lightning from Minas Morgul"@en ;
+    tg:event "Great Signal"@en ;
+    tg:image "Ralph Damiani - Before the Storm.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Mordor%2C_Minas_Morgul> ;
+    tg:partof <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:result <http://localhost:8000/resource/The_Morgul-host_of_Sauron_march> .
+
+<http://localhost:8000/resource/High_feast> a schema:Thing ;
+    tg:event "High feast"@en ;
+    tg:image "Marya Filatova - Harvest Festival.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Valinor> ;
+    tg:participants <http://localhost:8000/resource/Valar%2C_Maiar%2C_parts_of_the_Elves> ;
+    tg:partof <http://localhost:8000/resource/Worship_of_Il%C3%BAvatar> .
+
+<http://localhost:8000/resource/Last_Debate> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/March_16_%7B%7BTA> ;
+    tg:event "Last Debate"@en ;
+    tg:image "Alan Lee - The Last Debate.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Outside_Minas_Tirith> ;
+    tg:participants <http://localhost:8000/resource/Aragorn%2C_Imrahil%2C_Gandalf%2C_%C3%89omer%2C_Elladan%2C_Elrohir> ;
+    tg:partof <http://localhost:8000/resource/The_War_of_the_Ring> ;
+    tg:result <http://localhost:8000/resource/Creation_of_the_Army_of_the_West> .
+
+<http://localhost:8000/resource/Last_Riding_of_the_Keepers_of_the_Rings> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/22_September%2C_%7B%7BTA> ;
+    tg:event "Last Riding of the Keepers of the Rings"@en ;
+    tg:image "Francesco Amadio - Grey Havens.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Woody_End%2C_Grey_Havens> ;
+    tg:participants <http://localhost:8000/resource/Elrond%2C_Galadriel%2C_Bilbo_Baggins%2C_Frodo_Baggins%2C_Samwise_Gamgee%2C_other_High_Elves> ;
+    tg:result <http://localhost:8000/resource/All_of_the_riders_save_Samwise_Gamgee_board_the_White_Ship_to_Aman_and_leave_Middle-earth> .
+
+<http://localhost:8000/resource/Leap_of_Beren> a schema:Thing ;
+    tg:date "{{FA|465}}"@en ;
+    tg:event "Leap of Beren"@en ;
+    tg:image "Ted Nasmith - Beren's Leap.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Forest_of_Brethil> .
+
+<http://localhost:8000/resource/Long_Winter> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/November_%7B%7BTA> ;
+    tg:description "Long, cold winter; Rohan covered in snow for five months"@en ;
+    tg:event "Long Winter"@en ;
+    tg:image "R. Ward Shipman - Long Winter.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_Dunland%2C_Rohan> ;
+    tg:participants <http://localhost:8000/resource/Hobbits%2C_Dunlendings%2C_Rohirrim> ;
+    tg:result <http://localhost:8000/resource/Thousands_of_lives_lost_in_Rohan_and_The_Shire> .
+
+<http://localhost:8000/resource/Mereth_Aderthad> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/The_%27%27Mereth_Aderthad%27%27_by_Jenny_Dolfen> ;
+    tg:date "{{FA|20}}<ref>{{GA|72-3}}, p. 34-5</ref>"@en ;
+    tg:description "Feast"@en ;
+    tg:event "Mereth Aderthad"@en ;
+    tg:image "Jenny Dolfen - Mereth Aderthad.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:othernames "Feast of Reuniting"@en .
+
+<http://localhost:8000/resource/Nost-na-Lothion> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Fields_of_Gondolin%27%27_by_%3ACategory%3AImages_by_Sara_M._Morello> ;
+    tg:event "Nost-na-Lothion"@en ;
+    tg:image "Sara M. Morello - Fields of Gondolin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:othernames "Birth of Flowers"@en .
+
+<http://localhost:8000/resource/Oath_of_F%C3%ABanor> a schema:Thing ;
+    tg:date "{{YT|1495}}"@en ;
+    tg:event "Oath of Fëanor"@en ;
+    tg:gallery "the Oath of Fëanor"@en ;
+    tg:image "Ted Nasmith - The Oath of Fëanor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Great_Square%2C_Tirion> ;
+    tg:participants <http://localhost:8000/resource/House_of_F%C3%ABanor> ;
+    tg:partof <http://localhost:8000/resource/Exile_of_the_Noldor> ;
+    tg:result <http://localhost:8000/resource/Three_Kinslayings> .
+
+<http://localhost:8000/resource/Quest_for_the_Silmaril> a schema:Thing ;
+    tg:date "{{FA|465}}<ref name=\"GA 178\">{{GA|178}}</ref> to {{FA|466}}<ref name=\"GA 186\">{{GA|186}}</ref>"@en ;
+    tg:event "Quest for the Silmaril"@en ;
+    tg:image "Ted Nasmith - Transformed.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Doriath%2C_Nargothrond%2C_Tol-in-Gaurhoth%2C_Angband> ;
+    tg:participants <http://localhost:8000/resource/Beren%2C_L%C3%BAthien%2C_Huan%2C_Finrod_Felagund%2C_Edrahil%2C_and_nine_others> ;
+    tg:result <http://localhost:8000/resource/A_Silmaril_is_retrieved_from_Angband> .
+
+<http://localhost:8000/resource/Second_Spring_of_Arda> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/Occurred_with_the_beginning_of_the_Years_of_the_Sun> ;
+    tg:description <http://localhost:8000/resource/An_awakening_of_living_things_from_the_Sleep_of_Yavanna> ;
+    tg:event "Second Spring of Arda"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Arda> ;
+    tg:participants <http://localhost:8000/resource/Animals_and_plants> ;
+    tg:partof <http://localhost:8000/resource/Years_of_the_Trees> .
+
+<http://localhost:8000/resource/Sleep_of_Yavanna> a schema:Thing ;
+    tg:description "An event in which the creations of Yavanna fell silent for ages"@en ;
+    tg:event "Sleep of Yavanna"@en ;
+    tg:image "Lída Holubová - Nan Elmoth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Arda> ;
+    tg:othernames "Peace of Arda"@en ;
+    tg:participants <http://localhost:8000/resource/Animals_and_plants> ;
+    tg:partof <http://localhost:8000/resource/Years_of_the_Trees> .
+
+<http://localhost:8000/resource/Spring_of_Arda> a schema:Thing ;
+    tg:date "{{VY|1900}} - {{VY|3450|n}}"@en ;
+    tg:description "Time period in which Arda first became inhabited by natural life"@en ;
+    tg:event "Spring of Arda"@en ;
+    tg:image "Elena Kukanova - The Spring of Arda.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Arda> ;
+    tg:participants <http://localhost:8000/resource/Valar%2C_Maiar> ;
+    tg:partof <http://localhost:8000/resource/Days_before_days> .
+
+<http://localhost:8000/resource/Standing_Silence> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Standing_Silence%27%27_by_Catherine_Karina_Chmiel> ;
+    tg:description "Tradition"@en ;
+    tg:event "Standing Silence"@en ;
+    tg:image "Catherine Karina Chmiel - Standing Silence.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:participants <http://localhost:8000/resource/Gondorians> .
+
+<http://localhost:8000/resource/Three_Prayers> a schema:Thing ;
+    tg:date "Spring, midsummer, autumn"@en ;
+    tg:description <http://localhost:8000/resource/Ceremonies_in_which_the_N%C3%BAmen%C3%B3reans_ascended_the_Meneltarma_and_made_offerings_on_its_summit> ;
+    tg:event "Three Prayers"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:participants "Ruler of Númenor and his/her people"@en ;
+    tg:partof <http://localhost:8000/resource/Worship_of_Il%C3%BAvatar> .
+
+<http://localhost:8000/resource/Unchaining_of_Melkor> a schema:Thing ;
+    tg:date "{{YT|1400}}"@en ;
+    tg:event "Unchaining of Melkor"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/M%C3%A1hanaxar%2C_Valinor> ;
+    tg:participants <http://localhost:8000/resource/Melkor%2C_Manw%C3%AB%2C_Nienna%2C_Mandos%2C_other_Valar> ;
+    tg:partof <http://localhost:8000/resource/Noontide_of_Valinor> ;
+    tg:result <http://localhost:8000/resource/Melkor_pardoned%2C_allowed_limited_freedom_within_Valmar> .
+
+<http://localhost:8000/resource/Exile_of_the_Noldor> a schema:Thing ;
+    tg:date "{{YT|1495}}<ref>{{AA|129-150}}</ref> to {{YT|1500}}<ref>{{GA|52}}</ref>"@en ;
+    tg:event "Exile of the Noldor"@en ;
+    tg:image "Ted Nasmith - Fingolfin Leads the Host Across the Helcaraxë.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/events> ;
+    tg:location <http://localhost:8000/resource/Alqualond%C3%AB%2C_Helcarax%C3%AB%2C_Beleriand> ;
+    tg:othernames "Flight of the Noldor, Return of the Noldor"@en ;
+    tg:participants <http://localhost:8000/resource/Noldor_%28excluding_Finarfin_and_others%29> ;
+    tg:partof <http://localhost:8000/resource/Fall_of_the_Noldor> ;
+    tg:result "The Noldor reach Middle-earth and settle in Beleriand"@en .
+

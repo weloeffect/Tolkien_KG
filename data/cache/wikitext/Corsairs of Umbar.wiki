@@ -1,0 +1,72 @@
+{{people infobox
+| name=Corsairs of Umbar
+| image = John Howe - Corsairs 01.jpg
+| caption=Corsairs by [[John Howe]]
+| pronun=
+| othernames=
+| origin=Founded by the sons and supporters of [[Castamir|Castamir the Usurper]]
+| location=[[Umbar]]
+| affiliation=
+| rivalry=[[Gondorians]]
+| language=
+| members=[[Angamaitë]], [[Sangahyando]], [[Captain of the Haven]]
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+| gallery=Corsairs
+}}
+The '''Corsairs of Umbar''' were pirates that were based in the [[Umbar|Haven of Umbar]].
+
+==History==
+During the [[Kin-strife]], the defeated rebels of [[Castamir]] fled Gondor to Umbar — by this time Umbar became the hated enemy of Gondor and a welcome refuge for its enemies. Ever since they claimed [[Harondor|South Gondor]].<ref name="Gondor">{{App|Gondor}}</ref>
+
+They allied with the [[Haradrim]] against Gondor; in {{TA|1540}} King [[Aldamir]] was slain during that war.<ref name="ta">{{App|TA}}</ref>
+
+[[Angamaite]] and [[Sangahyando]], the descendants of Castamir, led the Corsairs to ravage [[Pelargir]], killing King [[Minardil]] who was there ({{TA|1634}}). In the following years, Gondor suffered by the [[Great Plague]] and Corsairs raided the Gondorian [[Outlands|coasts]] up to [[Anfalas]], until [[Umbardacil]] avenged Minardil's death, slew the last descendants of Castamir, drove away the Corsairs and retook Umbar ({{TA|1810}}).<ref name="Gondor" /><ref name="ta" /> 
+
+Eventually, Umbar was taken by the [[Haradrim]].<ref name="Gondor" />
+
+During the reign of Steward Cirion ({{TA|2489}}-{{TA|2567|n}}),<ref>{{App|South}}, ''Ruling Stewards'', year after Boromir and year after Cirion, p. 1039</ref> the Corsairs of Umbar attacked the coasts of Gondor.<ref>{{App|Gondor}}, ''The Stewards'', p. 1053</ref>
+
+In {{TA|2746}}, the Corsairs were involved in a conflict with the fifteenth [[Princes of Dol Amroth|Prince of Dol Amroth]] and killed him.<ref name="Elendil">{{PM|Elendil}}, ''The House of Dol Amroth'', entry for the 15th prince of Dol Amroth, p. 221</ref>
+
+The Corsairs took a long time to prepare a great fleet. In {{TA|2758}} three fleets sailed from Umbar and [[Harad]] and landed at many places along the coasts of Gondor and even at the mouth of the river [[Isen]]<ref name="Beren">{{App|Stewards}}, ''The Stewards'', entries about Steward Beren and Steward Beregond, p. 1054</ref> and in the mouth of the river [[Lefnui]].<ref name="Helm">{{App|Eorl}}, entries about King Helm, p. 1066</ref> The troops from Umbar and Harad supported the Dunlendings who were led by Wulf to invade Rohan from the west over the river Isen and down from Isengard.<ref name="Helm" /> Before the spring of {{TA|2759|n}}, [[Beregond (Steward of Gondor)|Beregond]] defeated the Corsairs of Umbar and the Men of Harad that had invaded Gondor and subsequently sent troops to Rohan to help the Rohirrim to defeat the invaders.<ref name="Beren" /> As a result the Dunleandings were driven from Rohan and from Isengard.<ref>{{App|Eorl}}, entries about King Fréaláf, p. 1067</ref> 
+
+In the time of [[Ecthelion II]], a man under his service known as [[Thorongil]], warned him that the Corsairs were a great peril for the [[Southern Fiefs]]. With a small fleet, Thorongil made a [[Surprise Attack on Umbar|surprise attack]], burning a great part of their ships and overthrowing the [[Captain of the Haven]].<ref name="Stewards">{{App|Stewards}}, ''The Stewards'', entries about Steward Ecthelion II, p. 1055</ref>
+
+During the [[Battle of the Pelennor Fields]], a fleet of Corsairs was raiding [[Lebennin]] when [[Aragorn]] captured their ships<ref>{{RK|Debate}}</ref> and rowed them to [[Minas Tirith]] to relieve the siege of the city.<ref name="pelennor">{{RK|Battle}}</ref>
+
+It is possible that the threat posed by the Corsairs of Umbar to the coastlands of Gondor and to sea traffic was completely subdued during the reign of King Elessar<ref>{{App|Gondor}}, entries about the reign of King Eldacar, p. 1047</ref> in a war between the forces of Gondor led by King Elessar supported by the cavalry of the Rohan led by King Éomer on the distant fields of the South.<ref>{{App|Mark}}, ''Third Line'', last paragraph, p. 1071</ref>
+
+==Culture==
+The corsairs's fleet included [[Wikipedia:Dromon|dromunds]], and ships with deep hulls and many oars and with black sails.<ref name="pelennor" /> Others were recognizable by their red sails, adorned with a black star or eye.<ref>{{webcite|website=TS|articleurl=http://www.tolkiensociety.org/2015/11/tolkiens-annotated-map-of-middle-earth-transcribed|articlename=Tolkien’s annotated map of Middle-earth transcribed|dated=10 November 2015|accessed=11 November 2015}}</ref>
+
+In the course of the [[Third Age]] Westron had become the native language of nearly all [[Men]] that lived within the borders of the old kingdom of [[Gondor]], including all along the coasts from Umbar northward and inland as far as the [[Ephel Dúath]]. At the time of the [[War of the Ring]] Westron was still the native tongue in this area.<ref name="F1">{{App|Languages}}, first and second paragraph, p. 1127</ref><ref>{{PM|Atani}}, penultimate paragraph and its preceeding paragraph</ref>
+
+==Inspiration==
+[[J.R.R. Tolkien]] described in his [[Guide to the Names in The Lord of the Rings|notes for the translation of names in ''The Lord of the Rings'' into other languages]] that the Corsairs "are imagined as similar to the Mediterranean corsairs: sea-robbers with fortified bases".<ref>{{HM|N}}, p. 755</ref>
+
+John Bowers suggests that the Corsairs of Umbar were inspired by the [[Wikipedia:Barbary Pirates|Pirates of the Barbary Coast]].<ref>[[John M. Bowers]], ''[[Tolkien's Lost Chaucer]]'' ([[2019]]), p. 170</ref> These pirates included the [[Wikipedia:Salé Rovers|pirates]] of [[Wikipedia:Republic of Salé|Salé]] in [[Wikipedia:Morocco|Morocco]]. In the 17th century thousands of muslims or former muslims fled from Spain to Salé where they established a republic that engaged in piracy and made raids in Spain and even on the coasts of England where they took members of the popluation with them as slaves.
+
+Myriam Librán-Moreno seems to see parallels between the Corsairs of Umbar and the conquest of Crete by the Arabs in A.D. 824, who established an emirate there with Crete becoming a center of Arab pirates in the Mediterranean that caused hardships for the Byzantine Empire.<ref>Myriam Librán-Moreno, Byzantium, New Rome! in Jason Fisher (editor), Tolkien and the Study of his Sources, McFarland & Company, Inc., 2011, p. 105</ref>
+
+J.R.R. Tolkien wrote on [[General Map of Middle-earth|his son's map of Middle-earth]] for [[Pauline Baynes]] that Umbar and the City of the Corsairs are approximately at the latitude of [[Wikipedia:Cyprus|Cyprus]] and that [[Minas Tirith]] is approximately at the latitude of [[Wikipedia:Ravenna|Ravenna]], but more to the east near [[Wikipedia:Belgrade|Belgrade]]. He wrote that these references are so that Pauline Baynes can roughly judge the climate and the fauna and flora for her [[A Map of Middle-earth|map of Middle-earth]]. In addition, he wrote in a [[Letter 294|letter to Charlotte and Denis Plimmer]] that the city of [[Pelargir]] is approximately at the latitude of ancient [[Wikipedia:Troy|Troy]]. Cyprus is approximately on the same latidue as [[Wikipedia:Carthage|Carthage]], an ancient city in northern Africa at the Mediterranean Sea and a historic enemy of the [[Wikipedia:Roman Empire|Roman Empire]], and as [[Wikipedia:Tangier|Tangier]], an ancient city in northwest Africa at the southern entrance to the Mediterranean Sea.
+
+
+==Portrayal in adaptations==
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Corsairs are from the [[Mordor]] faction, and are equipped with knives and fire-bombs.
+
+'''2014: ''[[The Lord of the Rings Online]]'':'''
+:The Corsairs were led by four brothers who falsely call themselves the Heirs of [[Castamir]]. These were Azruthor, Dolgimil, Azgarzôr, and the eldest Balakhôr the Scourge. The player negotiated with a Corsair named Jajax, who ended up siding with the player against the Heirs and their followers.
+{{references}}
+[[Category:Black Númenóreans]]
+[[Category:Haradrim]]
+[[Category:Men]]
+[[Category:Servants of Sauron]]
+[[de:Korsaren]]
+[[fi:Umbarin Merirosvot]]

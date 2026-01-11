@@ -1,0 +1,36 @@
+{{object infobox
+| name=Barrows
+| image = Ted Nasmith - Under the Spell of the Barrow-wight.jpg
+| caption="Under the Spell of the Barrow-wight" by [[Ted Nasmith]]
+| pronun=
+| othernames=
+| location=Most notably in [[Barrow-downs]]
+| owner=The rich among the dead
+| type=Burial chambers
+| appearance=Mounds ("barrows") in which the dead were placed with some of their wealth
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+'''Barrows''' were earthworks and burial chambers made by [[Men]].
+
+==History==
+The mounds of the [[Barrow-downs]] in [[Eriador]] were built in the later [[First Age]] by the ancestors of the [[Edain]] and their chieftains were buried there.
+
+In the late [[Second Age]] and afterwards, the [[Tyrn Gorthad]] lay within the bounds of [[Arnor]] and later of [[Cardolan]].  The [[Dúnedain of Arnor|Dúnedain of Cardolan]] used the barrows to bury their dead, such as the last prince of Cardolan, slain in the war of {{TA|1409}}. 
+
+The [[Witch-king]] of [[Angmar]], though, sent evil [[Barrow-wights|spirits]] to inhabit the Barrow-downs, and they became a place of horror.<ref name="Eriador">{{App|Eriador}}</ref>
+
+On [[28 September]] {{TA|3018}}<ref>{{App|Great}}</ref> [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]], [[Samwise Gamgee|Sam]], and [[Frodo Baggins|Frodo]] were captured by a [[Barrow-wights|Barrow-wight]] when they had wandered the downs after visiting [[Tom Bombadil]].  Within the barrow (believed by some to be that of the [[last prince of Cardolan]], also considering that Merry saw his last memories in dreams, even mentioning the "men of [[Carn Dûm]]"<ref name="Eriador"/><ref name="Eriador"/><ref>{{HM|RC}}, "Fog on the Barrow-downs", pp. 144-5; Index, 'Cardolan, [[Last prince of Cardolan|last prince of]]'</ref>) Frodo awoke to see his friends lying on the floor looking deathly pale. He heard a song or incantation and saw a long arm groping towards Sam. Seizing a sword, Frodo hewed off the hand of the arm, then began reciting the rhyme that Tom had taught the hobbits. Tom broke into the chamber and rescued the hobbits, banishing the wight.<ref>{{FR|I8}}</ref>
+
+==Etymology==
+A "barrow" (or "berrow"; from English beorg, berg, 'hill, mound') not to be confused with the wheeled vehicle, is a tumulus or other prehistoric grave-mound.<ref name="Nomen">{{HM|N}}, p. 766</ref>
+==Inspiration==
+Prehistorical burial mounds and stone circles are found all around Europe, creating a long tradition and superstitions. In some barrows the interred are found with gold and other precious things, which according to folklore are guarded by [[Wights]]. In [[Norse]] folklore such burial mounds are haunted by the [[undead]] known as ''[[Wikipedia:draugr|draugr]]''.<ref>{{AB|Comm}}</ref>
+{{references}}
+[[Category:Graves and tombs]]
+[[fi:Suuret haudat]]

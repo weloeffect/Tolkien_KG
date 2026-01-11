@@ -1,0 +1,62 @@
+{{Mallorn
+| name=Mallorn 12
+| image = Mallorn 12.jpg
+| editor=Kevin Young
+| artist=[[Pauline Baynes]]
+| printer=
+| date=[[1978]]
+| format=A4 stapled paperback
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 12''' is the twelfth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[1978]].
+
+The issue includes a review "Opinion of Priscilla Tolkien on The Biography" (pp.&nbsp;5–6) and a reprint of J.R.R. Tolkien's early poem "[[The Battle of the Eastern Field]]" (pp.&nbsp;24–28).<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=11180|articlename=Mallorn 12. 1978|dated=|website=TB|accessed=19 September 2013}}</ref> 
+
+==Contents==
+* Editorial
+** By: Kevin Young
+* Article: [[J.R.R. Tolkien: A Biography|The Biography]]
+** By: [[Priscilla Tolkien]]
+* Poem: Winter's Eve
+** By: Anne Etkin
+* Illustration: ''Morgoth''
+** By: Stephen Lines
+* Poem: The Nazgûl
+** By: Stuart Kelly
+* Article: Here Lies Gandalf
+** By: Archie Mercer
+* Illustration: ''Eärendil''
+** By: Helmut Pesch
+* Review: ''[[Sir Gawain and the Green Knight, Pearl and Sir Orfeo]]''
+** By: [[Paul H. Kocher|Paul Kocher]]
+* Poem: Willow Whispers
+** By: Perri Ellis
+* Illustration: ''Morgoth and the Silmarilli''
+** By: Peter Smyth
+* Poem: [[The Battle of the Eastern Field]]
+** By: [[J.R.R. Tolkien]]
+* Review: ''[[The Silmarillion]]''
+** By: [[Charles Noad]]
+* Short Story: The Changeling
+** By: Jim Johnstone
+* Criticism and Reply: A Dwarf-wives' Tale
+** By: Anthony Gunning
+** By: [[Vera Chapman]]
+* Review: Discovering New Worlds
+** By: Rosemary Haughton
+* Poem: Dragonsnore
+** By: Anne Etkin
+* Article: The Curse of the Petty-dwarves
+** By: Pat Masson
+* Illustration: Minas Tirith
+** By: John Trippick
+* Article: Whose Head on a Penny?
+**By: S. Ferguson
+
+{{mallornnav|11|13|url=http://journals.tolkiensociety.org/mallorn/issue/view/13/}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 12}}
+[[Category:Mallorn (journal)]]
+[[Category:Publications with contribution by J.R.R. Tolkien]]

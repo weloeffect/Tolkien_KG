@@ -1,0 +1,34 @@
+{{disambig-more|Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{board game infobox
+| image = Lord of the Rings board game.jpg
+| name=Lord of the Rings
+| designer=Reiner Knizia
+| publisher=[[Sophisticated Games]] (developer)
+| releasedate=[[2000]]
+| players=2-5
+| ages=12+
+}}
+'''Lord of the Rings''' is a board game designed by [[Reiner Knizia]] based on [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]''. The game was published in [[2000]] by Kosmos and [[Fantasy Flight Games]]. It features artwork by illustrator [[John Howe]].
+
+The board game is unusual in that it is a cooperative board game — each player plays a [[hobbits|hobbit]] in the party, and the party will succeed or fail as a group to destroy [[the One Ring]], thus winning or losing the game.
+
+==Gameplay==
+Game play is centered on advancement through series of scenarios corresponding to the adventures of the books. Players turn tiles and play cards in order to move forward, and collect and spend tokens to avoid advancement toward the Dark Lord [[Sauron]]. In dire situations, tokens may be spent to call for the assistance of [[Gandalf]], or the One Ring may be used to speed advancement at the cost of moving closer toward Sauron.
+
+Players are eliminated by being on the same space as Sauron or by being behind him.
+
+== Expansion Packs ==
+Three expansions currently exist, the '''Friends & Foes Expansion''', '''Sauron Expansion''', in which one player takes the role of Sauron and plays against all others, and a new expansion, '''Battlefields'''. It is commonly said by the players who use the expansions, that with each one you add to the main game, the more challenging the game becomes.
+
+== Limited Edition ==
+The game was also released in a "Limited Edition" version, limited to 250 German and 500 English copies. The set features a box signed by game designer Knizia and illustrator Howe, as well as an art print limited to 750 copies, created and signed by Howe. The game board and pieces are identical to the standard version, with the exception of pewter hobbit character pieces and a 22-kt. gold One Ring. List price for this version was approximately $300.
+
+== Awards ==
+* [[2001]] - '''[http://en.wikipedia.org/wiki/Spiel_des_Jahres  Spiel des Jahres]''', Special Award for Best Use of Literature in a Game.
+
+== External links ==
+* [http://en.wikipedia.org/wiki/Lord_of_the_Rings_%28board_game%29 Wikipedia article]
+*[http://boardgamegeek.com/boardgame/823/lord-of-the-rings Lord of the Rings] at [http://boardgamegeek.com/ BoardGameGeek]
+* [http://freespace.virgin.net/chris.lawson/rk/lotr/faq.htm Lord of the Rings Board Game FAQ] 
+{{title}}
+[[Category:Board games]]

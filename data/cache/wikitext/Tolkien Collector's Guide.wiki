@@ -1,0 +1,26 @@
+{{website
+| name=Tolkien Collector's Guide
+| image = Tolkien Collector's Guide logo.jpg
+| URL=https://www.tolkienguide.com
+| slogan=
+| commercial=
+| revenue=
+| type=
+| language=English
+| license=
+| articlecount=
+| registration=
+| owner=
+| creator=Jeremy Edmonds
+| keypeople=
+| launch=[[September 29]]th, [[2005]]<ref>{{webcite|author=|articleurl=https://mxtoolbox.com/SuperTool.aspx?action=a%3atolkienguide.com&run=toolpage|articlename=Whois Lookup|dated=|website=MxToolbox|accessed=May 25th, 2024}}</ref>
+| status=Active
+}}
+'''Tolkien Collector's Guide''', also known as TolkienGuide.com is a website devoted to the collecting of [[J.R.R. Tolkien|Tolkien]]-related materials, primarily books and fanzines. It was the winner of the [[The Tolkien Society Awards|2019 Tolkien Society award for Best Website]].
+
+{{references}}
+
+==External links==
+* [http://www.tolkienguide.com Official website]
+
+[[Category:Websites]]

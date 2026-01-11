@@ -1,0 +1,42 @@
+
+{{company infobox
+| name=
+| image = JRRT.jpeg
+| founded=[[1996]]<ref>{{webcite|author=Raphaëlle Rérolle|articleurl=https://www.lemonde.fr/culture/article/2012/07/05/tolkien-l-anneau-de-la-discorde_1729858_3246.html|articlename=Tolkien, The Ring of Discord|website=[https://www.lemonde.fr/ Le Monde]|accessed=2025}}</ref>
+| founder=[[Christopher Tolkien]]
+| location=[[Oxford]]
+| type=Legal organisation
+| keypeople=[[Christopher Tolkien]]<br/>[[Priscilla Tolkien]]<br/>[[Baillie Tolkien]]<br/>[[Michael George Tolkien]]
+| members=
+| subsidiaries=
+| products=
+| parent=
+| owner=
+| precededby=
+| succeededby=
+| website=[http://www.tolkienestate.com/ www.tolkienestate.com]
+}}
+The '''Tolkien Estate''' is the legal body which manages the copyrights of most of [[J.R.R. Tolkien]]'s works. It mainly holds the copyright over the literary texts. [[Christopher Tolkien]] and his sister, [[Priscilla Tolkien]], were executors. Current executors of the estate include Christopher's second wife [[Baillie Tolkien]] and Christopher's nephew [[Michael George Tolkien]]. Cathleen Blackburn of Manches & Co. has been the estate's solicitor for many years.
+
+The film and merchandise rights for ''[[The Lord of the Rings]]'' and ''[[The Hobbit]]'' were sold by J.R.R. Tolkien, and are currently owned by [[Middle-earth Enterprises]], formerly known as Tolkien Enterprises, a company currently controlled by [[Embracer Group]], while the television rights of these two books remained with Tolkien Estate.
+
+On [[13 November]] [[2017]], it was announced that [[Amazon Studios]] had acquired the television rights of ''The Lord of the Rings'' and ''The Hobbit'', committing to a [[The Lord of the Rings: The Rings of Power|multi-season television series]]. The series is not a direct adaptation of both of these novels, but instead it features stories that are set before the events of ''The Lord of the Rings''.<ref>{{webcite|author=Samuel Axon|articleurl=http://arstechnica.com/gaming/2017/11/amazon-will-run-a-multi-season-lord-of-the-rings-prequel-tv-series/|articlename=
+Amazon will run a multi-season Lord of the Rings prequel TV series
+|dated=13 November 2017|website=[http://arstechnica.com arstechnica]|accessed=22 March 2021}}</ref> [[Amazon.com Incorporated|Amazon]] said that the deal included the potential production for a spin-off series as well.<ref>{{webcite|author=Sandra Gonzalez,|articleurl=http://edition.cnn.com/2017/11/13//entertainment/lord-of-the-rings-tv-series-amazon/index.html|articlename=
+Amazon announces 'Lord of the Rings' TV show
+|dated=14 November 2017|website=[http://edition.cnn.com CNN Edition]|accessed=22 March 2021}}</ref> The press release referred to "previously unexplored stories based on J.R.R. Tolkien’s original writings". Amazon is the producer in conjunction with the Tolkien Estate itself, [[The Tolkien Trust]], [[HarperCollins]] and [[New Line Cinema]].<ref>{{webcite|articleurl=http://www.nytimes.com/2017/11/13/arts/television/lord-of-the-rings-series-amazon.html|articlename=‘Lord of the Rings’ Series Coming to Amazon|website=[https://www.nytimes.com/ New York Times]|accessed=13 November 2017}}</ref>
+
+==See also==
+* [[Lawsuits]]
+* [[Licensing]]
+
+{{references}}
+
+==External links==
+* '''[http://www.tolkienestate.com Official Website]'''
+* {{WP|Tolkien Estate|Tolkien Estate}}
+
+[[Category:British organizations]]
+[[Category:Organizations (real-world)]]
+[[de:Tolkien Estate]]
+[[fi:Tolkien Estate]]

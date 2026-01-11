@@ -1,0 +1,47 @@
+{{mythlore
+|title=''Mythlore'' 45, Volume 12, Issue 3
+| image = Mythlore 45.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Spring [[1986]]
+|format=Paperback
+|pages=63
+}}
+'''''Mythlore'' 45''' ([https://dc.swosu.edu/mythlore/vol12/iss3/ Volume 12, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+[[John D. Rateliff]]'s article "'And Something Yet Remains to Be Said': Tolkien and Williams" (pp.&nbsp;48–54) includes several unpublished texts by [[J.R.R. Tolkien|Tolkien]]: details of a brief annotation Tolkien made to a manuscript of ''[[The Lord of the Rings]]'' after a comment from [[Charles Williams]] (p.&nbsp;52); extract from a letter to Caroline Whitman Everett dated 24 June 1957 regarding Charles Williams (p.&nbsp;53); extract from [[Letter to Mother Mary Anthony|a letter to Mother Mary Anthony dated 12 April 1966]], also regarding Charles Williams (p.&nbsp;53).<ref>[http://www.tolkienbooks.net/php/details.php?reference=65875 Mythlore 45. Spring 1986] at [http://www.tolkienbooks.net/ TolkienBooks.net] (accessed 18 November 2011)</ref>
+
+==Contents==
+
+==== Articles ====
+
+* Schakel, Peter. “Dance as Metaphor and Myth in Lewis, Tolkien, and Williams.”
+* Beach, Sarah. “The Masque of the Silmarils [Drama].”
+* Bosky, Bernadette. “Grace and Goetia: Magic as Forced Compensation in All Hallows Eve.”
+* Musacchio, George. “C.S. Lewis’ A Grief Observed as Fiction.”
+* Deyo, Steven M. “Niggle's Leaves: The Red Book of Westmarch and Related Minor Poetry of J.R.R. Tolkien.”
+* Farrell, Eleanor M. “‘And Clove the Wind from Unseen Shores’: The Sea Voyage Motif in Imaginative Literature”
+* Rateliff, John D. “'And Something Yet Remains to Be Said': Tolkien and Williams.”
+* Thompson, George H. “Early Review of Books by J.R.R. Tolkien.”
+
+==== Features ====
+
+* GoodKnight, Glen and Diana Pavlac. Opening Remarks.
+* Kondratiev, Alexei.  “Tales Newly Told.”
+* Hyde, Paul Nolan. “Quenti Lambardillion.”
+* Speth, Lee. “Cavalier Treatment: The Figure of Simon.”
+* Letters.
+
+==== Reviews ====
+
+* ''The Lays of Beleriand.'' J.R.R. Tolkien, edited by Christopher Tolkien. Reviewed by Jessica Yates.
+* ''The Neverending Story.'' Michael Ende, translated from the German by Ralph Manheim. Reviewed by Thomas M. Egan.
+* ''The Magdalen Metaphysicals:'' Idealism and Orthodoxy at Oxford. James Patrick. Reviewed by Nancy-Lou Patterson.
+* ''Secret Gardens.'' Humphrey Carpenter. Reviewed by Nancy-Lou Patterson.
+* ''VII - An Anglo-American Literary Review. Volume 6.'' Dr. Barbara Reynolds, Dr. Clyde S. Kilby, and Dr. Beatrice Batson. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|44|46}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 045}}
+
+[[Category:Mythlore]]

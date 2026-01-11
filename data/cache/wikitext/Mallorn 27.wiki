@@ -1,0 +1,51 @@
+{{Mallorn
+| name=Mallorn 27
+| image = Mallorn27.jpg
+| editor=Denis Bridoux
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[September]] [[1990]]
+| format=A4 stapled paperback
+| pages=44
+| issn=0308-6674
+}}
+'''''Mallorn'' 27''' is the twenty-seventh issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1990]].
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Guidelines for contributors
+* Editorial
+** By: Denis Bridoux
+* "Uprooting the Golden Bough"
+** By: Iwan Rhys Morus
+* On Reading and Re-reading ''The Lord of the Rings''
+** By: [[Christina Scull]]
+* Poem: "''Snow''"
+** By: Valerie Sutton
+* The Religious Rituals of the Dúnedain of Gondor
+** By: Michael R. Hickman
+* "Melandir and Ithilwen: A Geste of True Love"
+** By: [[Alex Lewis]]
+* The Structure of ''The Hobbit''
+** By: [[John Ellison|John A. Ellison]]
+* Green Rocks: White Ship ''Oilima Markirya'' (The Last Ark)
+** By: [[Patricia Reynolds|Pat Reynolds]]
+* The Year's Review in Tolkienian Studies: "''[[The Treason of Isengard]]''"
+** By: [[Charles Noad|Charles E. Noad]]
+* The Year's Review in Tolkienian Studies: "''Fantasy Literature for Children and Young Adults: An Annotated Biography?''"
+** By: Jessica Yates
+* Reprint from ''Amon Hen 38'', April 1979: A Note on the Geography of the First Age
+** By: [[Charles Noad|Charles E. Noad]]
+* Mallorn Mail: Letters to the Editor
+* Poem: "''A Guiding Light!''"
+** By: Jonathan Houghton
+* Where to write
+* [[The Tolkien Society]]
+
+* Inside Art
+** By: Steve Lines, Valerie Sutton calligraphic, Mervyn Finlay, Vincent Price, Alan Bates, Lee Holloway
+
+{{Mallornnav|26|28}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 27}}
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,41 @@
+{{Song
+| title = Lugburz
+| album = [[Minas Morgul (album)|Minas Morgul]]
+| image = Summoning Minas Morgul.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 7:15
+| track = 2
+| next = [[The Passing of the Grey Company (song)|The Passing of the Grey Company]]
+| spotify = https://open.spotify.com/track/3T0P4YpI1MUSfae7YPXB0q
+| writer = Summoning
+}}'''''Lugburz''''' is the second track of the album [[Minas Morgul (album)|Minas Morgul]] by the band [[Summoning]]. The song name is taken from [[Barad-dûr|Lugbúrz]], meaning "''dark tower''" in the [[Black Speech]], referring to [[Barad-dûr]]. The lyrics directly quote the [[Cold be hand and heart and bone,|incantation]] chanted by a [[Barrow-wights|Barrow-wight]] who had trapped [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Peregrin Took|Pippin]] and [[Meriadoc Brandybuck|Merry]] in the [[Fog on the Barrow-downs]] chapter of [[The Fellowship of the Ring]].
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+Cold be hand and heart and bone, 
+and cold be sleep under stone: 
+never more to wake on stony bed, 
+never, till the sun fails and the moon is dead. 
+
+In the black wind the stars shall die, 
+and still on gold here let them lie, 
+till the dark lord lifts his hand 
+over dead sea and withered land 
+
+When the winter first begins to bite 
+and stones crack in the frosty night, 
+when pools are black and trees are bare, 
+it is evil in the wild to fare. 
+
+To lay down my will upon the Land, Lugburz 
+
+No sound disturbs this place of blackened souls 
+This winter walls of stone and ice behold thy might 
+Again I'm kneeling down to hear these strange tunes of war 
+Night, oh beloved night, your wisdom floats into my mind 
+and forms my thoughts of Middle-Earth 
+to build up a new mighty empire.
+</poem>
+{{title}}
+[[Category:Songs by Summoning]]

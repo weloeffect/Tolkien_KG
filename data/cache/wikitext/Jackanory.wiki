@@ -1,0 +1,54 @@
+{{film infobox
+| image=
+| name=Jackanory 3,000
+| director=[[Roger Singleton-Turner]]
+| producer=Anna Home, Angela Beeching
+| writer=[[Roger Singleton-Turner]]
+| narrator=
+| starring=
+| music= [[Alan Roper]]
+| cinematography= 
+| editing= 
+| distributor=
+| released=[[1 October|October 1]]-[[12 October|12]] [[1979]]
+| runtime=
+| country=England
+| language=English
+| budget= 
+| website= 
+| imdb_id= 0771799
+}}
+'''Jackanory''' is a children's television program on the [[BBC]], in which stories are read to children. Over the years, many actors provided the part of narrator, including [[Brian Blessed]], [[David Buck]], [[Judi Dench]], [[Marian Diamond]], [[Michael Hordern]], [[Martin Jarvis]], [[Ian McKellen]] and [[Prunella Scales]]. It was re-released on [[3 October]] [[2013]]; the boxset was illustrated by [[Jemima Catlin]].
+
+==The Hobbit==
+===Description===
+The 3,000th programme begins a special presentation in ten parts, with four storytellers, of ''The Hobbit''. In the search for dragon-guarded gold, [[Bilbo Baggins]] and [[Thorin and Company|13 dwarves]] encounter [[trolls]], [[Orcs|goblins]], [[elves]] and giant [[spiders]] - and many other adventures.<ref>Radio Times, Volume 225, No. 2916, [[27 September|September 27]], [[1979]]</ref>
+
+===Cast===
+*Narrator - Jan Francis
+*[[Bilbo Baggins]] - Bernard Cribbins
+*[[Gandalf]] - Maurice Denham
+*[[Thorin]] (many other parts) - David Wood<ref>''The Hobbit: Jackanory'', liner notes</ref>
+
+===Episodes===
+The ten episodes were aired on BBC1, on weekdays from 4:25 to 4:40 PM
+#[[1 October|October 1]]: ''An Unexpected Party''
+#[[2 October|October 2]]: ''Over Hill and Under Hill''
+#[[3 October|October 3]]: ''Riddles in the Dark''
+#[[4 October|October 4]]: ''Out of the Frying-Pan into the Fire''
+#[[5 October|October 5]]: ''Flies and Spiders''
+#[[8 October|October 8]]: ''Barrels Out of Bond''
+#[[9 October|October 9]]: ''Inside Information''
+#[[10 October|October 10]]: ''Fire and Water''
+#[[11 October|October 11]]: ''The Clouds Burst''
+#[[12 October|October 12]]: ''The Last Stage''
+
+According to David Wood, [[Tolkien Estate]] don't allow the release on VHS.<ref>''David Wood's Guestbook'', http://davidwood.org.uk/talk_to_david/index.php?permalink=true&entry=195 Acessed 06 May 2014</ref> 
+
+{{references}}
+
+==External links==
+*{{WP|Jackanory}}
+*[http://news.bbc.co.uk/2/hi/entertainment/8381207.stm Bernard Cribbins recalls his classics]
+
+[[Category:Films]]

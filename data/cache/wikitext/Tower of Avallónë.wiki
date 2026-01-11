@@ -1,0 +1,29 @@
+{{object infobox
+| name=Tower of Avallónë
+| image = Billy Mosig - Parting from Eressea.jpg
+| caption="Parting from Eressea" by Billy Mosig
+| pronun=
+| othernames=
+| location=[[Avallónë]]
+| owner=
+| type=Tower
+| appearance=
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+The '''Tower of Avallónë''' was raised to overlook the haven of [[Avallónë]] on the island of [[Tol Eressëa]]. There the ''[[Master-stone|Master Palantír]]'' was kept.  It is said that when a mariner sailed to [[Aman]] he saw the tower first of all on the horizon.<ref>''[[The Silmarillion]]'', [[Akallabêth]].  "''...the tower of Avallónë is the first sight that the mariner beholds when at last he draws nigh to the Undying Lands over the leagues of the Sea.''" [[Ballantine Books]] p. 310.</ref>
+
+The [[Elostirion-stone]], one of the ''[[palantíri]]'' erected in the tallest of the towers of [[Emyn Beraid]], could show the tower when used by King [[Elendil]].  This would comfort him when he longed for the West.<ref>''[[The Silmarillion]]'', [[Of the Rings of Power and the Third Age]].  "''[To Elostirion] Elendil would repair, and thence he would gaze out over the sundering seas, when the yearning of exile was upon him; and it is believed that thus he would at whiles see far away even the Tower of Avallónë upon Eressëa, where the Masterstone abode, and yet abides.''" Ballantine p. 350.</ref> 
+
+{{references}}
+
+[[Category:Tol Eressëa]]
+[[Category:Towers]]
+
+[[de:Avallóne#Hintergrund]]
+[[fi:Avallónën Torni]]

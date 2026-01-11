@@ -1,0 +1,36 @@
+{{film infobox
+| image = Ringers Lord of the Fans DVD (cover).jpg
+| caption = 
+| name=Ringers: Lord of the Fans
+| director=Carlene Cordova
+| producer=[[Cliff Broadway]], Carlene Cordova, Jeff Marchelletta, Tom DeSanto
+| writer=Cliff Broadway, Carlene Cordova 
+| narrator=[[Dominic Monaghan]]
+| starring=Various [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]] cast members
+| music=
+| cinematography= 
+| editing= 
+| distributor=Sony Pictures Home Entertainment
+| released=2005
+| runtime=97 minutes
+| country=USA
+| language=English
+| budget=
+| website=
+| imdb_id=0379473
+}}
+'''''Ringers: Lord of the Fans''''' is a [[2005]] film about the culture and fans behind ''[[The Lord of the Rings]]'' and [[J.R.R. Tolkien|Tolkien]]'s works.
+
+==Reception==
+The film received mixed reviews, generally disliked by fans of J.R.R. Tolkien{{Citation needed}} and praised by fans of [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]].{{Citation needed}} It is currently rated 6.2/10 on IMDB.
+
+==Reviews==
+*[http://efilmcritic.com/review.php?movie=11410&reviewer=392 Insert clichéd 'Bored of the Rings' joke here.] by David Cornelius.
+*[http://www.thecinemasource.com/movies/reviews/Ringers-The-Lord-of-the-Fans-DVD-review-1966-0.html Shoot me in the face and tell me when it’s all over.] by Andrew Casertano.
+*[http://www.ruthlessreviews.com/reviews.cfm/id/950/page/ringers__lord_of_the_fans.html The most terrifying documentary ever made] by Matt Cale.
+*[[User:Hyarion/Reviews/Ringers: Lord of the Fans|Review by Hyarion]].
+
+{{title|italics}}
+[[Category:Documentaries]]
+[[Category:Fan films]]
+[[fi:Ringers: Lord of the Fans]]

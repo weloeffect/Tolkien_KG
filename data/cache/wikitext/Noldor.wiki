@@ -1,0 +1,138 @@
+{{sources}}{{people infobox
+| name=Noldor
+| image = Jenny Dolfen - The Coming of Fingolfin.jpg
+| caption="The Coming of Fingolfin" by [[Jenny Dolfen]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈnoldor]}}/{{IPA|[ˈɲoldor]}}
+| othernames=''Tatyar'' ([[Quenya|Q]]), ''Golodhrim'', ''Gelydh'' (''Gódhellim'', ''Gódhil'') ([[Sindarin|S]]), ''Nómin'' ([[Taliska|T]]), ''Golug'' ([[Black Speech|BS]]), Deep Elves, Loremasters
+| location=[[Tirion]], [[Formenos]], [[Nevrast]], [[Hithlum]], [[Gondolin]], [[Nargothrond]], [[Dorthonion]], [[East Beleriand]], [[Lindon]], [[Eregion]], [[Lothlórien]], [[Imladris]]
+| affiliation=[[Union of Maedhros]], [[Host of the West]], [[Last Alliance]], [[Gwaith-i-Mirdain]], [[White Council]]
+| rivalry=
+| language=[[Quenya]], [[Sindarin]], [[Westron]]
+| members=Notable members include [[Finwë]], [[Fëanor]], [[Fingolfin]], [[Finarfin]], [[Maedhros]], [[Fingon]], [[Turgon]], [[Finrod]], [[Galadriel]], [[Gil-galad]], [[Celebrimbor]], [[Glorfindel]], among others.
+| lifespan=[[Immortal]]
+| distinctions=The greatest of the Elves in lore, craftsmanship, and warfare
+| height=Tall, typically 7 feet<ref>{{PM|Atani}}</ref>
+| hair=Usually dark (black or dark brown).<ref name="Eyes">{{PM|XINotes}}, Note 19, p. 357</ref> Occasionally golden,<ref>{{App|F2}}</ref><ref>{{PE|17}}, entry Q ''noldo'', p. 125</ref> and rarely silver<ref name="HairEye">{{MR|P3I6}}, p. 185</ref> or reddish brown.<ref name=Sons>{{PM|Feanor}}, p. 353</ref>
+| skin=Fair
+| clothing=
+| weapons= Often swords and shields
+}}
+{{quote|Next came the Noldor, a name of wisdom, the people of [[Finwë]]. They are the Deep Elves, the friends of [[Aulë]]; and they are renowned in song, for they fought and laboured long and grievously in the northern lands of old.|''[[Quenta Silmarillion]]'', "[[Of the Coming of the Elves and the Captivity of Melkor]]"}}
+The '''Noldor''', or '''Ñoldor''', were those of the second clan of the [[Elves]] who came to [[Aman]]. The Noldor were held to be the noblest of the Elves, and indeed of all peoples in [[Middle-earth]], in lore and in craftsmanship. In [[Valinor]], their wisdom and skill flourished exceedingly, and ever they hungered for deeper knowledge and greater mastery of the arts, so that in many matters they even outstripped their own teachers. They cherished also a love of words, and were ever shifting in speech, striving to devise names most fitting for all things. This rich inheritance of knowledge they later passed on to [[Men]] during their [[Exile of the Noldor|Exile]].
+
+Their first [[King of the Noldor|King]] was [[Finwë]], who was slain by [[Morgoth]]. In the wake of his death and the theft of the [[Silmarils|jewels]], Finwë’s son [[Fëanor]] led the Noldor in rebellion, vowing vengeance upon Morgoth. The war of the Noldor against Morgoth comprises many of the greatest tales of the [[First Age]].
+
+==Origins==
+According to legend, the clan was founded by [[Tata]], the second Elf to awake at [[Cuiviénen]]. With him were his spouse Tatië and their 54 companions, and this clan became known as the '''''Tatyar'''''. [[Finwë]], the first Ñoldo to come to [[Valinor]] with [[Oromë]], became their King, and led most of them to Valinor. Out of the original 56 Tatyar who awoke at Cuiviénen, 28 remained at the place of their awakening, becoming [[Avari]], while the other original 28 and their offspring continued on their [[Great Journey]].
+
+==History==
+===Elder Days===
+====In Valinor====
+[[File:Konstantin Zahariev - A Noldorin Prince.jpg|thumb|''A Noldorin Prince'' by Konstantin Zahariev]]
+The Noldor were accounted the greatest of the Elves and all the peoples in [[Middle-earth]] in lore and crafts. In Valinor, their knowledge and skill became great, and they had always a strong desire for more knowledge and skill in art, surpassing even their teachers in many things. The Noldor had also a love for words, and were changeful in speech, endeavouring to find suitable names for all things. They were beloved of [[Aulë]] the Smith, and were the first to discover and carve gems. Their chief dwelling-place was the city of [[Tirion]] upon [[Túna]].<ref name="Eldamar">{{S|5}}</ref> Among the wisest of the Noldor was [[Rúmil (elf of Tirion)|Rúmil]], creator of the first writing system and author of many books of lore.<ref name="Unchaining">{{S|6}}</ref> [[Fëanor]], son of Finwë and [[Míriel]], was the greatest of their craftsmen, "mightiest in skill of word and of hand",<ref name="Eldamar" /> and creator of the [[Silmarils]].<ref name="Silmarils">{{S|7}}</ref>
+
+[[Melkor]] harboured a hatred for the Elves, despising their joy and blaming them for his downfall, and he sought to deceive them by feigning friendship. The Noldor, eager for knowledge, listened to him most readily of the kindreds. So he went often among them, offering counsel, and the Noldor hearkened to him.<ref name="Unchaining" /> During this time, Fëanor created the Silmarils, and Melkor, desiring them greatly, sought ever to spread ideas and rumours among the Noldor. But amid his seemingly good advice, Melkor sowed lies to turn one House of the Noldor against another, and in the end the peace in Tirion was poisoned. After threatening his half-brother [[Fingolfin]], believing falsely that Fingolfin intended to usurp the throne, Fëanor was banished from Tirion by the [[Valar]]. With him went his [[Sons of Fëanor|seven sons]], and his father Finwë, King of the Noldor. Fingolfin remained behind as the ruler of the Noldor of Tirion.<ref name="Silmarils" />
+
+But Melkor had yet other designs to accomplish. Soon after, with the aid of [[Ungoliant]], he destroyed the [[Two Trees]],<ref>{{S|8}}</ref> and coming to [[Formenos]] he killed Finwë, stole the Silmarils, and departed from Aman. Fëanor, driven by grief and desiring vengeance, rebelled against the Valar by coming back into Tirion and making a speech before the Noldor, in which he persuaded them to leave Valinor, follow Melkor to [[Middle-earth]], and wage war against him for the recovery of the Silmarils. He swore a terrible [[Oath of Fëanor|oath]], as did his [[Sons of Fëanor|sons]], to pursue Melkor and reclaim the Silmarils at all costs. Fëanor then claimed the kingship of the Noldor since his father was dead. Although the greater part of the Noldor still held Fingolfin as their leader, they followed Fëanor into [[Exile of the Noldor|Exile]].<ref name="Exile">{{S|9}}</ref>
+
+====Exile====
+{{main|Exile of the Noldor}}
+Fëanor led the Noldor from Tirion, his host in the front, followed by the hosts of Fingolfin and [[Finarfin]]. He led them to Alqualondë, seeking to persuade the Teleri to join with the Noldor in rebellion. But the Teleri did not wish to depart with the Noldor, nor aid them with the providing of ships. Angered, Fëanor assembled his host, and they took the ships by force, committing the first [[Kinslaying at Alqualondë|kinslaying]]. The host of Fingolfin, coming upon the battle and mistakenly believing the Teleri had attacked the Noldor, joined in the struggle, and many of the Teleri were slain. Taking the ships, the Noldor continued their journey northwards. A messenger from the Valar came later and delivered the [[Doom of Mandos]], pronouncing judgement on the Noldor for the Kinslaying and rebellion and warning that if they proceeded their oath would betray them, and moreover they would be slain or tormented by grief. At this, some of the Noldor who had no hand in the Kinslaying, including [[Finarfin]] son of Finwë and [[Indis]], returned to Valinor, and the Valar forgave them. Other Noldor led by Fingolfin remained determined to leave Valinor for Middle-earth, not desiring to be separated from their kin and fearing the Valar's judgement, for some among them had participated in the kinslaying. Among those that continued were [[Fingon]], [[Turgon]], [[Finrod]], and [[Galadriel]].<ref name="Exile" />
+
+The Noldor suffered greatly during the cold journey, and began to mutter against Fëanor. Fearing treachery, Fëanor took his sons and those he deemed loyal to him, departing in the ships and crossing the sea to Middle-earth. He left behind those led by Fingolfin, his half-brother. Upon his arrival in Middle-earth, Fëanor had the ships burned. When the Noldor led by Fingolfin discovered their betrayal, they went farther north and crossed the sea at the treacherous [[Helcaraxë]], at the cost of many lives.<ref name="Exile" />
+
+====In Middle-earth====
+=====Arrival=====
+Fëanor's company encamped in the region of [[Mithrim]] and was soon attacked by the host of Morgoth. The battle became known as a [[Dagor-nuin-Giliath]], and was a great victory for the Noldor. But Fëanor rode too far from his host during the battle, pursuing the remnant of the [[Orcs]] in a vengeful mood. Several [[Balrogs]], including their Lord [[Gothmog (balrog)|Gothmog]], issued from [[Angband]] and fought him. Despite battling valiantly, Fëanor was mortally wounded and would have been captured and taken to Angband had it not been for the swift arrival of his sons. However, Fëanor died whilst being carried back to his own people.<ref name="Return">{{S|13}}</ref>
+
+Because Fëanor had taken the ships and left the Noldor led by his half-brother on the west side of the sea, much enmity remained between the Houses of the Noldor. The feud was at last settled when [[Fingon]], son of Fingolfin, saved [[Maedhros]], Fëanor's son, from Morgoth's imprisonment. Maedhros was due to succeed Fëanor, but he regretted his part in the Kinslaying and waived his claim to the kingship of the Noldor to his uncle Fingolfin, who became the first [[High King of the Noldor]] in Middle-earth. The [[House of Fëanor]] became known as ''the Dispossessed'' after this.<ref name="Return" />
+
+=====Kingdom of the Noldor=====
+[[File:Mysilvergreen - King Fingon and his lords.jpg|thumb|''King Fingon and his lords'' by [[:Category:Images by Mysilvergreen|Mysilvergreen]]]]
+In [[Beleriand]], the Noldor made alliance with the [[Sindar]]<ref name="Realms">{{S|14}}</ref> and later with the [[Edain]].<ref>{{S|17}}</ref> Fingolfin reigned long in the land of [[Hithlum]], and his younger son [[Turgon]] later ruled in his Hidden City of [[Gondolin]]. The Sons of Fëanor, under Maedhros, ruled the lands of [[East Beleriand]], while [[Finrod Felagund]], Finarfin's son, was the [[King of Nargothrond]].<ref name="Realms" />
+
+Fingolfin's reign was marked by warfare against Morgoth and in {{FA|60}}, after their victory in [[Dagor Aglareb]], the Noldor [[Siege of Angband|besieged Angband]], the fortress of Morgoth.<ref>{{GA|78}}</ref> Yet in {{FA|455}},<ref>{{GA|145}}</ref> the Siege was broken by Morgoth in the [[Dagor Bragollach]], and many of the Noldor were slain or scattered. Fingolfin rode in despair to Angband and challenged Morgoth to [[Fall of Fingolfin|single combat]]. He dealt Morgoth seven wounds but perished, and was succeeded by his eldest son [[Fingon]], who became the second [[High King of the Noldor]].<ref>{{S|18}}</ref>
+
+=====Demise=====
+In {{FA|472}},<ref>{{GA|219}}</ref> Maedhros [[Union of Maedhros|organised]] an attack on Morgoth and this led to the [[Nirnaeth Arnoediad]], the Battle of Unnumbered Tears. Betrayed by the new-come [[Easterlings]], the forces of the Noldor, Sindar and Edain were utterly defeated. Fingon the Valiant was slain; he was succeeded by his brother [[Turgon]] as the third [[High King of the Noldor]].<ref name="Nirnaeth">{{S|20}}</ref>
+
+Morgoth scattered the remaining forces of the [[Sons of Fëanor]], and in {{FA|495}}, [[Nargothrond]] was also defeated.<ref>{{GA|275}}</ref> Turgon had withdrawn to Gondolin which was kept hidden from both Morgoth and other Elves.<ref name="Nirnaeth" /> In {{FA|510}}, Gondolin was betrayed by [[Maeglin]] and [[Fall of Gondolin|sacked]].<ref>{{WJ|Years}}, p. 351</ref> During the attack, Turgon was killed; however, many of his [[Exiles of Gondolin|people escaped]] and found their way to the [[Mouths of Sirion]]. Turgon was the last surviving male descendant of Fingolfin, so [[Gil-galad]], great-grandson of Finarfin, became the fourth and last [[High King of the Noldor]] in Middle-earth.<ref>{{S|23}}</ref>
+
+Finally, the [[Host of the West]] came down to Middle-earth and in {{FA|545}} to {{FA|583|n}}, the [[War of Wrath]] was fought and Morgoth was cast into the Void.<ref name="End">{{WJ|Years}}, p. 346</ref><ref>{{S|24}}</ref> As a result of the cataclysmic war, Beleriand sank into the sea, except for a part of [[Ossiriand]] (Lindon),<ref>{{S|Akallabeth}}</ref> and a few [[Tol Morwen|islands]].<ref>{{S|22}}</ref> The defeat of Morgoth marked the end of the [[First Age]] and the start of the [[Second Age|Second]].<ref name="End" />
+
+===Second Age===
+Most of the Noldor sailed back to [[Tol Eressea]] at the end of the First Age; but some, like [[Galadriel]] daughter of Finarfin, or [[Celebrimbor]], grandson of Fëanor, refused the pardon of the Valar and remained in Middle-earth. Gil-galad, last heir of the kings of the Noldor in exile, and acknowledged as "High King of the Elves of the West",<ref name="SA">{{App|B}}</ref> founded a new kingdom at Lindon, and ruled throughout the Second Age, longer than any of his predecessors. 
+
+[[Gil-galad]]'s people were mainly Noldor<ref>{{PM|XNotes}}, Note 65</ref> (especially from [[Gondolin]], but also from the [[House of Finarfin|Houses of Finarfin]] and [[House of Fëanor|Fëanor]]); early in the [[Second Age]], most of the Noldor that remained in [[Middle-earth]] lived in Lindon.<ref name="SA" /> During this time, the few [[Exiles]] that remained also lived in Lindon.<ref>{{PM|Languages}}</ref> 
+
+In {{SA|750}}, some Noldor learned that [[mithril]] was found in [[Moria]] under the [[Misty Mountains]], so they went to [[Eregion]]. Because of their legacy as craftsmen, they were less unfriendly to the [[Dwarves]] than the Sindar. They became the [[Gwaith-i-Mírdain]] under [[Celebrimbor]] and formed the closest friendship ever between Elves and Dwarves.<ref name="SA" /> Although war soon befell Eriador along with Celebrimbor's death, remnants of Eregion, including many Noldor, either followed Elrond to establish Imladris or fled to [[Lothlórien]].
+
+Gil-galad perished in the War of the Alliance at the end of the Second Age, and so ended the High Kingship of the Noldor. He fathered no children; however, the line of the High-elven kings, including the High Kingship of the Noldor, was alone preserved in the descendants of [[Elros]] and [[Elrond]].<ref>{{App|A1i}}</ref>
+
+===Later history===
+After the fall of [[Gil-galad]] (during the time of the [[Kings of Arnor]]), there was still a remnant of the Noldor who dwelt at the [[Grey Havens]] of further inland in Lindon who constituted the largest population of Noldor remaining in [[Middle-earth]].<ref name="eriador">{{App|Eriador}}</ref> However, in Eriador, the chief dwelling of the Noldor was Imladris.<ref name="rings">{{S|Rings}}</ref>
+
+In the late [[Third Age]], the Noldor in Middle-earth were greatly diminished, as most had passed over the Sea.<ref>{{L|347}}</ref><ref>{{FR|I2}}</ref> If any remained in the early [[Fourth Age]], they were few.<ref name="eriador" />
+
+After the [[Dominion of Men]] was taken up by [[Aragorn II Elessar]], the last of the Noldor set sail from [[Mithlond]] and left Middle-earth forever.<ref name="rings" />
+
+==Rulers==
+{{main|King of the Noldor}}
+
+;In Valinor:
+The first two kings were not distinguished as being ''in Valinor'', since the entire population of the Noldor lived in Valinor at that time.
+
+#[[Finwë]], first King of the Noldor.
+#[[Fëanor]], first son of Finwë; claimed the title after his father's death.
+::[[Finarfin]], third son of Finwë, remained in [[Aman]] after the [[Exile of the Noldor]] and ruled the remnant of his people in [[Tirion]], although he never officialy claimed this title.
+
+;In Middle-earth
+::[[Fëanor]] nominally ruled in [[Middle-earth]] for a few months before his fall in the [[Dagor-nuin-Giliath]], although he never established a realm.
+#[[Fingolfin]], second son of Finwë; held to be the first '''[[High King of the Noldor]]''' by the majority of the Noldor after Maedhros son of Fëanor gave up his claims.
+#[[Fingon]], first son of Fingolfin.
+#[[Turgon]], second son of Fingolfin.
+#[[Gil-galad]], great-grandson of Finarfin.
+
+==Characteristics==
+The Noldor were the Second Clan of the Elves in both order and size, the other clans being the [[Vanyar]], a smaller group, and the [[Teleri]], a much larger one. The Noldor typically had grey eyes and dark hair, save for the members of the golden-haired [[House of Finarfin]].<ref>{{App|F2}}</ref><ref>{{PE|17}}, entry Q ''noldo'', p. 125</ref>
+
+From their beginning the Noldor (meaning "Those who Know") were always distinguished, by their knowledge of the things that are and were in this world, and by their desire to learn more.<ref>{{BL|Introduction}}</ref> They were the most skillful of these Clans, and were specially loved by [[Aulë]], from whom they learned many things, although less than they wanted to know. Their skills included the developing of their language, the building of great towers and halls, and gem extraction.<ref>{{MR|P3I5}}, p. 176 (see also the commentary on §40, p. 181)</ref> One of their most famous artefacts were the crystallic [[Fëanorian lamps]]; the craft to make them was lost to Middle-earth when they left.
+
+The Noldor were the proudest of the Elves; in the words of the [[Sindar]], they came to Middle-earth because "they needed room to quarrel in". It was this pride that Melkor used to turn the Houses of [[House of Fëanor|Fëanor]] and [[House of Fingolfin|Fingolfin]] against each other. The pride of the Noldor also led to their [[Fall of the Noldor|Fall]] and [[Exile of the Noldor|Exile]] (and their continued quarrels in Middle-earth, as noted by the Sindar).
+
+Of the three clans of the [[Eldar]] they are also the people who most favours swords and shields as their weapons.<ref>{{LR|Quenta}}, p. 215 footnote to §29</ref><ref>{{LR|Quenta}}, p. 228 footnote to §49</ref>
+
+The Sindar often called the Noldor '''''Lechind''''' (sing. '''''Lachend'''''), which meant 'flame-eyed' due to the piercing brightness of their eyes. This was the distinctive feature of all the [[Calaquendi|Elves that had dwelt in Aman]], whose eyes thus deeply impressed [[Úmanyar|those of Middle-earth]].<ref name="WJC" />{{rp|384}}
+
+==Etymology==
+'''Noldor''' is a [[Quenya]] name that meant "the Wise" (in the sense of possessing knowledge, not sagacity or sound judgment),<ref>{{S|Index}}, ''Noldor''</ref> derived from the [[Elvish]] [[Sundocarme|root]] [[NGOL]] ("knowledge, wisdom, lore").<ref name="WJC">{{WJ|C}}</ref>{{rp|383}} This name was given to the Second Clan by the others and was accepted and used as their regular and proper name by all the ''Eldarin'' members of the clan throughout their later history.<ref name="WJC" />{{rp|383}}
+
+Its singular form is '''''[[Noldo]]''''' and the adjective form is '''''Noldorin'''''.
+
+==Other names==
+The spelling ''Ñoldor'', rather than ''Noldor'', was often used by Tolkien in his later writings. The grapheme Ñ is used here to represent the phoneme [ŋ]—the velar nasal sound at the end of the English word ''sing''—rather than the palatal nasal [ɲ], as in the Spanish word ''año''. This is due to vacillation on whether or not initial [ŋ] (written ñ) from [ng] became [n] or not in [[Quenya]]. Even in earlier forms the name ''Ñoldo/Noldo'' came from the same [[Primitive Quendian]] stem *ñgolodō, which led to ''Ñoldo'' in [[Quenya]] and ''Golodh'' in [[Sindarin]]. 
+
+The Noldor were called '''''[[Golodhrim]]''''' (pron. {{IPA|[ɡɔ:ˈlɔð.rim]}}) by [[Sindarin]]-speakers and '''''Goldoi''''' by the [[Falmari]] of [[Aman]].<ref>{{S|Appendix}}, ''golodh''</ref> Both of these terms are cognates of the [[Quenya]] ''Noldor,'' meaning 'wise, learned ones'. The Sindarin singular '''''[[Golodh]]''''' ({{IPA|[ˈɡɔ.lɔð]}}) had the plural form '''''[[Gelydh]]''''' ({{IPA|[ˈɡɛ.lyð]}}, or in Gondorian pronunciation {{IPA|[ˈɡɛ.lið]}}, archaically '''''[[Gœlydh]]''''' {{IPA|[ˈɡø.lyð]}})<ref>{{S|Index}}, ''Golodhrim''</ref>. The class plural, '''''Golodhrim,''''' was used for the people as a whole.<ref name="WJA">{{WJ|A}}, p. 364</ref> Later the Sindar replaced these with '''''Gódhil''''' (sing. '''''Gódhel''''') or '''''Gódhellim''''' ({{IPA|[ɡoːˈðel.lim]}}), which, in turn, was a modernised form of ''Ódhil'' or ''Ódhellim'', Sindarin name for the [[Amanyar]].<ref name="WJA" />
+
+The Noldor were called the "'''Deep-elves'''", a loose translation of ''Noldor'', where 'deep' means 'wise, learned'.<ref>{{H|Flies}}</ref> Other names used for the Noldor included the Wise, the Golden, the Valiant, the Sword-elves, the Elves of the Earth, the Foes of Melkor, the Skilled of Hand, the Jewel-wrights, the Companions of Men, the Followers of Finwë<ref>{{MR|P3I3}}, p. 164</ref>, and Loremasters.<ref>[[J.R.R. Tolkien]], [[Christopher Tolkien]] (ed.), ''[[Unfinished Tales]]'', "Index", ''Noldor''</ref> It is also told that the Noldor were often called the Lispers by other native speakers of Quenya (such as the [[Vanyar]]), since the Noldor generally did not retain the sound "th" [θ] in their speech.<ref>{{PE|19}}, p. 34</ref>
+
+==Other versions of the legendarium==
+{{Main|Gnomes}}
+In the earliest versions of Tolkien's [[Legendarium]], the Noldor were called '<nowiki/>'''Noldoli'<nowiki/>''' or '<nowiki/>'''[[Gnomes]]''''. They were still called ''Gnomes'' in early editions of ''[[The Hobbit]]''. They were also the ones who spoke the language that later became [[Sindarin]] (then called ''Gnomish'' or ''Noldorin'').
+
+==See also==
+*[[Quenya]]
+*[[Exile of the Noldor]]
+*[[Kinslaying at Alqualondë]]
+*[[Fall of the Noldor]]
+*[[Doom of Mandos]]
+
+{{references}}
+{{elves}}
+[[Category:Elven peoples]]
+[[Category:Noldor| ]]
+[[Category:Quenya demonyms]]
+[[de:Noldor]]
+[[fr:encyclo/peuples/elfes/noldor]]
+[[fi:Noldor]]
+[[pt-br:Noldor]]

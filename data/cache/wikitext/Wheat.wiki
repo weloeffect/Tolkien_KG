@@ -1,0 +1,15 @@
+{{plant infobox
+| name=Wheat
+| image=The Lord of the Rings - The Fellowship of the Ring - Sam and Frodo in a wheat field.jpg
+| caption=Wheat field in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| pronun=
+| othernames=
+| location=[[Valinor]], [[Middle-earth]]
+| notablefor=
+| family=
+| appearance=
+}}
+'''Wheat''' was an important cereal crop, used especially to be milled into flour. It is recorded as growing tall and golden in the land of [[Valinor]], in the fields of [[Yavanna]].<ref>{{S|Darkening}}</ref>
+
+{{references}}
+[[Category:Plants]]

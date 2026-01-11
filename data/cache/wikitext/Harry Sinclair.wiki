@@ -1,0 +1,30 @@
+{{actor
+| image =
+| name = Harry Sinclair
+| lifetime = [[1959]]
+| played = [[Isildur]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0801625/ Profile]
+}}
+
+New Zealand director, actor and musician '''Harry Sinclair''' played [[Isildur]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''. He is a friend of [[Peter Jackson]], and was offered the role because he was the most corrupt-looking person Jackson knew. He had only one line, but because he did not sound as corrupt, it was dubbed by [[Hugo Weaving]]. 
+
+==Quotes==
+{{quote|It was great. I did some huge battle scenes, like 700 people on a mountainside. And the New Zealand Army were some of the extras. They'd yell 'CUT!' but some of these guys just kept hackin' away at each other.|Harry Sinclair, [http://movies.ign.com/articles/034/034286p1.html IGN Interview].}}
+
+==Roles==
+* [[2004]] - ''[[The Lord of the Rings: The Third Age]]'' - [[Isildur]] (archive footage)
+* [[2003]] - ''[[The Lord of the Rings: The Return of the King]]'' - Isildur
+* [[2001]] - ''[[The Lord of the Rings: The Fellowship of the Ring]]'' - Isildur
+
+== External links ==
+* {{WP|Harry Sinclair}}
+
+{{DEFAULTSORT:Sinclair, Harry}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Harry Sinclair]]
+[[fi:Harry Sinclair]]

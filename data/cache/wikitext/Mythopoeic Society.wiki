@@ -1,0 +1,43 @@
+{{company infobox
+| name=Mythopoeic Society
+| image=Mythopoeic Society logo.gif
+| founded=[[1967]]
+| founder=[[Glen H. GoodKnight]]
+| location=[[United States]]
+| type=Non-profit
+| keypeople=
+| members=
+| subsidiaries=
+| products=
+| parent=
+| owner=
+| precededby=
+| succeededby=
+| website=[https://www.mythsoc.org mythsoc.org]
+}}
+
+Founded in [[1967]], the '''Mythopoeic Society''' is a non-profit international literary and educational organization for the study, discussion, and enjoyment of fantastic and mythic literature, especially the works of [[J.R.R. Tolkien]], [[C.S. Lewis]], and [[Charles Williams]]. Membership in the Mythopoeic Society is open to all scholars, writers and readers of these literatures. The Mythopoeic Society also hosts a Tolkien and [[Inklings]]-focused annual conference called [[Mythcon]]. 
+
+==Publications==
+*''[[Mythlore]]'': main journal of the society, includes peer-reviewed articles on mythic and fantastic works.
+*''[[Mythprint]]'': newsletter with notices of activities of the society, book reviews and articles.
+*''[[The Mythic Circle]]'': collection of original fiction and poetry.
+
+==Awards==
+The Mythopoetic Society promotes several awards devoted to the [[Mythopoeia|mythopoietic ideas]], including both the literary creation and the scholarship studies:
+
+*Alexei Kondratiev Award for the best Student Paper
+*Mythopoeic Fantasy Award for Adult Literature
+*Mythopoeic Fantasy Award for Children’s Literature
+*Mythopoeic Scholarship Award in Inklings Studies
+*Mythopoeic Scholarship Award in Myth and Fantasy Studies
+
+From [[1971]] until [[1991]], the ''Mythopoeic Scholarship Award'' was a single award given for Inklings Studies; the second category of Myth and Fantasy Studies was established in [[1992]].
+
+==External links==
+*[https://www.mythsoc.org Official website]
+*[https://www.facebook.com/groups/61115826282/ Mythopoeia Facebook group]
+*{{WP|Mythopoeic Society}}
+[[Category:Tolkien Societies]]
+[[de:Mythopoeic Society]]
+[[fi:Mythopoeic Society]]

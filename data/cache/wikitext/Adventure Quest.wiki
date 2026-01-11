@@ -1,0 +1,22 @@
+{{expansion}}
+{{video game infobox
+| image = Adventure Quest - Opening screen.gif
+| name=Adventure Quest
+| developer=[[Level 9 Computing]]<ref name="Giant">[http://www.giantbomb.com/adventure-quest/61-19235/ Adventure Quest] at Giantbomb (retrieved 18 August 2010)</ref>
+| publisher=Level 9 Computing<ref name="Giant"/>
+| platform=[[wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:Atari 8-bit family|Atari 400]], ''BBC'', [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Lynx|Lynx]], [[wikipedia:Memotech|Memotech]],  [[wikipedia:MSX|MSX]], [[wikipedia:Nascom|Nascom]], [[wikipedia:Tangerine Computer System|Oric-1]], [[wikipedia:Sinclair ZX Spectrum|ZX Spectrum]] 
+| releasedate=[[1983]]
+| genre=Text-Adventure with Illustrations
+}}
+
+'''Adventure Quest''' is a Text-Adventure created by [[Pete Austin|Pete]], [[Mike Austin|Mike]] and [[Nick Austin]].<ref name="FAQ" /><ref name="El Anillo" /> It is the second part of [[The Middle-Earth Trilogy]].<ref name="FAQ">[http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 18 August 2010)</ref> 
+
+After its initial release, all names from [[J.R.R. Tolkien|Tolkien]]'s work were changed, though once the name [[Weathertop|Amon Sûl]] in ''Mount Lehw'' was accidentally not changed<ref name="Tolkien Games" />. It was then published together with [[Colossal Adventure|''Colossal Adventure'']] and ''[[Dungeon Adventure]]'' as ''[[Jewels of Darkness]]'' by [[wikipedia:Telecomsoft#Firebird|Firebird]] and [[wikipedia:Telecomsoft#Rainbird|Rainbird Software]].<ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=3 Meristation, El Anillo interactivo] p. 4 (retrieved 18 August 2010)</ref><ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/adventurequest.html Aventure Quest] at Tolkien Games (retrieved 18 August 2010)</ref>
+
+{{references}}
+{{title|italics}}
+[[Category:Amstrad CPC games]]
+[[Category:Atari 400 games]]
+[[Category:Commodore 64 games]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,21 @@
+{{short description|1970 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 1
+| location=Harvey Mudd College, Claremont, California
+| organizer=[[Mythopoeic Society]]
+| dates=4-7 September [[1970]]
+| attendees=
+|next=[[Mythcon 2]]}}
+'''Mythcon 1''' was the first annual [[Mythopoeic Society]] conference. 
+
+*'''Guest of Honor:''' [[Clyde S. Kilby|C.S. Kilby]] (Inklings scholar & curator)
+*'''Chairman:''' [[Glen GoodKnight]]
+
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-1.htm Mythcon 1 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 01}}
+[[Category:Mythcon]]

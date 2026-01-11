@@ -1,0 +1,28 @@
+{{VTbox
+| title=Vinyar Tengwar 36
+| image = Vinyar Tengwar 36.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=July [[1994]]
+| format=Paperback journal
+| pages=36
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 36''''' is the thirty-sixth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|35|37}}
+
+==Contents==
+* Cover: Marquette University MS Tolkien 3/8/2:5 verso (facsimile)✫ — J.R.R. Tolkien
+* E.L.F. News
+* Letters to ''VT''
+* "The ''Entu, Ensi, Enta'' Declension"✫ — Christopher Gilson
+* "Transitions in Translations: German Translations vs. Tolkien's 'Guide to Names', Part II - Names of Places and Names of Things" (column) — Arden R. Smith
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 36}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 37]]

@@ -1,0 +1,47 @@
+{{sources}} {{unnamed}}
+{{battle
+| name=Battle of the Gelion-Ascar stockade
+| image = Sara M. Morello - The rescue of the Haladin.jpg
+| conflict=[[Wars of Beleriand]]
+| date={{FA|375}}
+| place=[[Gelion-Ascar Stockade]], [[Dor Caranthir]] (Thargelion), [[Ossiriand]]
+| result=Victory for the Haladin and Noldor
+* Migration of the Haladin out from [[Thargelion]]
+* Haleth chosen as [[Chieftain of the Haladin]]| 
+side1=
+[[Haladin]]<br />
+[[Noldor]]
+| side2=Forces of [[Morgoth]]
+| commanders1=[[Haldad]] †<br />
+[[Haleth]]<br />
+[[Caranthir]]
+| commanders2=Unknown
+| forces1=Unknown
+| forces2=Unknown
+| casual1=Unknown but includes [[Haldar]], son of Haldad
+| casual2=Complete annihilation of the Orc-raid
+}}
+
+The '''battle of the Gelion-Ascar stockade''' was a battle fought about {{FA|375}} between the forces of [[Morgoth]] and the [[Haladin]] and later the [[Noldor]] under [[Caranthir]].<ref name="Men">{{S|17}}</ref>
+
+==Background==
+When [[Men]] first awoke in [[Hildórien]] [[Morgoth]] was made aware of their presence and he secretly departed [[Angband]] hoping to turn Men against the Eldar.<ref name="Men"/> However his plan was not wholly achieved.
+
+During the [[Long Peace]] the [[Secondborn]] began crossing over [[Ered Lindon]] and into [[Beleriand]], where they had been making contact with the [[Eldar]] living there. One group of these Men were the [[Haladin]] that dwelt in [[Thargelion]] after unfriendly meetings with the [[Green-elves]].<ref name="Men"/>
+
+==History==
+===Prelude===
+Morgoth, seeing as he failed to entirely estrange Elves and Men from each other, was filled with wrath and endeavoured to do as much harm to Men as possible. He sent an Orc-raid passing East to escape the leaguer, crossing Ered Lindon and back through the [[Dwarf-road]] in stealth. They entered into the southern woods of Caranthir’s land and fell upon the Haladin.
+
+===Battle===
+The Haladin at the time dwelt in homesteads far apart each other and were slow to unite to defend themselves. Among the men there was one named [[Haldad]], 'who was masterful and fearless' He gathered all the strong men, and they retreated between the [[Ascar]] and [[Gelion]] and built a [[Gelion-Ascar Stockade|stockade]] across them. Haldad led all his people that he could gather behind the stockade. The Orcs continued to attack the Haladin and besieged the stockade.
+
+[[Haldad]] led a sortie against the Orcs, and here he was slain along with his son [[Haldar]], who rushed out to save his father’s body from the Orcs. Haldad had a daughter named [[Haleth]], and like her father and her twin brother she was valiant and brave, and she now led the defence of the stockade.
+
+The Haladin were without hope, and some in desperation cast themselves in the rivers and were drowned. After seven days the Orcs prepared for their final assault on the stockade, until the music of trumpets were heard. Caranthir arrived with a Noldorin host from the North and attacked the Orcs, driving them into the rivers.
+
+===Aftermath===
+The Orc-raid was routed and Caranthir, seeing the valour of the Men and the potential as allies, offered Haleth and the Haladin land and protection further in the north. However, Haleth refused, as she was proud and unwilling to be guided or ruled. The Haladin were like-minded, and Haleth thanked Caranthir but declined. They gathered all that remained of their goods and people and left the shadow of the mountains, going west. Haleth was chosen as their chief and their people became known as the [[House of Haleth]]. 
+
+{{references}}
+[[Category:Conflicts of the First Age]]

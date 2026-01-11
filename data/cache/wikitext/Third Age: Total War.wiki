@@ -1,0 +1,87 @@
+{{disambig-more|Third Age|[[Third Age (disambiguation)]]}}
+{{video game infobox
+| image = Third Age - Total War - Wallpaper.jpg
+| caption = |Wallpaper of Third Age: Total War
+| name=Third Age: Total War
+| developer=
+| publisher=
+| platform=Microsoft Windows
+| releasedate=[[26 April|April 26]], [[2009]]
+| genre=Strategy
+|}}
+'''Third Age: Total War''' is a total conversion modification for the PC-game ''[[wikipedia:Medieval II: Total War|Medieval II: Total War]]'' by [[wikipedia:Sega|Sega]] that brings the world of [[Middle-earth]]. It changes the map of Europe, North Africa and the Middle East to an extensive historically accurate map of Middle-earth as it was in the [[Third Age]], while retaining the turn-based strategic gameplay and real-time battles of the original.
+
+A similar project had been ''[[The Lord of the Rings: Total War]]''.
+
+==The Map==
+[[Image:Third Age - Total War - Map.jpg|thumb|220px|left|The Map of Third Age: Total War]]
+The map includes 114 settlements taken straight from Middle-earth lore and completed with several [[fanon]] locations. Visit the wonders of Middle-earth, like the Two Towers, the [[Argonath]] or [[Durin's Tower]] and see all the unique locations of Middle-earth like [[Minas Tirith]], the [[Black Gate]] or [[Isengard]]. See the hills of [[Rohan]], the huge forest of the [[Mirkwood]] and the dark ash of [[Mordor]].
+
+==Gameplay==
+Like in the original game the modification allows the player to assume control of a faction and build a civilization, both economically and militarily in order to conquer other factions. Gameplay consists of controlling the faction's military, economic, and social systems in the large campaign map. During the player's turn, armies, fleets, and agents can be moved on the map. When an army engages another army, the player can choose to fight the battle personally in the battle mode, or automatically calculate the outcome.
+
+==Factions==
+[[Image:Third Age - Total War - Factions.jpg|thumb|220px|The Factions of Third Age: Total War]]
+The modification includes all important factions of the Third Age and all have their own culture. Every faction has its own strengths and weaknesses, benefits and disadvantages on the battle as well as the campaign map.
+
+=== Dúnedain Factions ===
+
+Factions with the [[Dúnedain]]-culture:
+
+* [[Gondor]]
+* [[Arnor]] (emerges from Eriador)
+
+=== Elvish Factions ===
+
+Factions with the [[Elves|Elvish]]-culture:
+
+* [[High Elves]]
+* [[Silvan Elves]]
+
+=== Northmen Factions ===
+
+Factions with the [[Northmen]]-culture:
+
+* [[Dale]]
+* [[Rohan]]
+* [[Eriador|Free Peoples of Eriador]]
+
+=== Dwarvish Factions ===
+
+Factions with the [[Dwarves|Dwarvish]]-culture:
+
+* [[Dwarves]]
+
+=== Followers of Sauron ===
+
+Factions with the "Followers of [[Sauron]]"-culture:
+
+* [[Mordor]]
+* [[Harad]]
+* [[Rhûn]]
+* [[Orcs of the Misty Mountains]]
+* [[Isengard]]
+* [[Gundabad|Orcs of Gundabad]]
+
+===Autonomous Regions===
+
+*[[Fangorn Forest|Fangorn]]
+*[[The Shire]]
+
+==Design==
+In order to reflect the world of Middle-earth as accurately as possible, there is an almost complete rework of the 2D and 3D design, including the menu, the interface, the symbols and pictures and much more. The unit design is based on visual references of [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]], completed with fictional units and artwork, all based on the lore of Middle-earth. To create an even deeper atmosphere, all cultures have a unique set of music and unit sounds and voices were completely changed for many factions. Lastly there is a huge amount of new videos, including the intro, the faction intros and many in-game events.
+
+==Trailer==
+
+<youtube>lky9diYN6Qo</youtube>
+
+==External Liks==
+*[http://www.moddb.com/mods/third-age-total-war MOD-DB site of Third Age: Total War]
+*[http://www.twcenter.net/forums/forumdisplay.php?f=654 Forum of the modification]
+
+==References==
+# [http://www.moddb.com/mods/third-age-total-war MOD-DB site of Third Age: Total War]
+# {{WP|Medieval II: Total War}}
+
+{{title|italics}}
+[[Category:Modifications]]

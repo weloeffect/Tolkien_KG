@@ -1,0 +1,44 @@
+{{mythlore
+|title=''Mythlore'' 56, Volume 15, Issue 2
+| image = Mythlore 56.jpg
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1988]]
+|format=Paperback
+|pages=67
+}}
+'''''Mythlore'' 56''' ([https://dc.swosu.edu/mythlore/vol15/iss2/ Volume 15, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]] and featuring a cover illustration by [[Patrick Wynne]].
+
+The article "Narqelion: A Single, Falling Leaf at Sun-fading" by [[Paul Nolan Hyde]] (reprinted in ''[[Vinyar Tengwar 6]]'') includes the full text of [[J.R.R. Tolkien]]'s poem '[[Narqelion]]' (4 lines were reproduced in [[Humphrey Carpenter]]'s ''[[J.R.R. Tolkien: A Biography]]'' in 1977). The poem is also reproduced in a computer tengwar font on the lower cover.<ref>''An Illustrated Tolkien Bibliography'' on Tolkienbooks.net</ref>
+
+==Contents==
+
+====Articles====
+
+*Le Guin, Ursula K. “Legends for a New Land: Guest of Honor Speech at the 19th Annual Mythopoeic Conference.”
+*Thompson, Kristin. “''The Hobbit'' as a Part of ''The Red Book of Westmarch''.”
+*Christopher, Joe R. “J.R.R. Tolkien: Narnian Exile - Part II.”
+*Attebery, Brian. “Reclaiming the Modern World for the Imagination: Guest of Honor Speech at the 19th Annual Mythopoeic Conference.”
+*Hood, Gwenyth. “Husbands and Gods as Shadowbrutes: Beauty and the Beast from Apuleius to C.S. Lewis.”
+*Yates, Jessica. “Roger Lancelyn Green: A Personal Memoir.”
+*Treloar, John L., S.J. “Tolkien and Christian Concepts of Evil: Apocalypse and Privation."
+
+====Features====
+
+*GoodKnight, Glen and Sarah Beach. Editorial Opening.
+*Christopher, Joe R. An Inklings' Bibliography (33).
+*Hyde, Paul Nolan. “Quenti Lambardillion.”
+*Kondratiev, Alexei. “Tales Newly Told.”
+*Letters.
+
+====Reviews====
+
+*''Jack: C.S. Lewis and His Times.'' George Sayer. Reviewed by Nancy-Lou Patterson.
+*''Mythical and Fabulous Creatures: A Source Book and Research Guide.'' Malcom South, ed. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|55|57}}
+{{references}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 056}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Mythlore]]

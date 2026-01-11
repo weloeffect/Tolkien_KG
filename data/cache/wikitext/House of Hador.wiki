@@ -1,0 +1,95 @@
+{{sources}}
+{{disambig-more|Hador|[[Hador (disambiguation)]]}}
+{{Noble House infobox
+| name=House of Hador
+| image = Quentandil - Hador device.png
+| caption= 
+| othernames='''House:'''<br>''Bar Hador'' ([[Sindarin|S]])<br />Third House of the Edain<br>'''People:'''<br>Edain of the North, Folk of Marach, Hadorians, Men of Dor-lómin, Men of Hador's House, Men of Hithlum, Men of the North, People of Hador, Stawheads<ref>{{CH|4}}, p. 68</ref>
+| founder=[[Marach]]
+| leader=Briefly the [[Lord of Dor-lómin|Lords of Dor-lómin]]
+| location=[[Estolad]], [[Hithlum]] (especially [[Dor-lómin]]), later [[Númenor]]
+| affiliation=[[House of Fingolfin]]
+| rivalry=
+| destroyed=Last formal leader of this people, [[Húrin Thalion]], ruled until {{FA|472}}, but descendants of this people survived down into the [[Fourth Age]]
+| language=[[Taliska]], [[Sindarin]]
+| members=[[Hador]], [[Galdor]], [[Huor]], [[Eärendil]], [[Elrond]]
+| race=[[Edain]]
+| distinctions=
+| height=Tall
+| hair=Mostly golden
+| skin=Fair
+| clothing=
+| weapons=
+| heirlooms=[[Dragon-helm of Dor-lómin]], [[Dramborleg]]
+| gallery=Hadorians
+}}
+
+The '''House of Hador''', also known as the '''Third House of the Edain''', was the last House of the [[Edain]] to cross the [[Ered Luin]] into [[Beleriand]] during the late [[First Age]]. 
+
+The followers of [[Marach]] and his descendants would become the '''Edain of the North''', '''Folk of Marach''', '''Hadorians''', '''Men of Dor-lómin''', '''Men of Hador's House''', '''Men of Hithlum''', '''Men of the North''', and the '''People of Hador'''. 
+==Origin==
+The [[Men]] of the folk of Marach descended from the tribes of Men who abandoned [[Hildórien]] for the [[West (disambiguation)|West]]. They were at war with the [[Men of Darkness|Men]] who fell under the [[Shadow]], and were pursued by them.<ref name="DM">{{PM|Atani}}</ref> They followed a road around northern [[Rhûn]] where they met some [[Dwarves]].<ref>{{WJ|Dwarves}}</ref> At the shores of the [[Sea of Rhûn]] a [[House of Bëor|small part was separated]]. The Greater Folk, the ancestors of the folk of Marach, came later in the north-east woods near the shores. They crafted boats and could sail the insland Sea, and seemed to have been related to the ancestors of the [[Northmen]].<ref>{{UT|Cirion}}</ref> 
+
+That folk was numerous and came in three hosts each around 2000 adult men. They crossed [[Eriador]] armed and equipped, with many [[horses]], some [[donkeys]] and flocks of [[sheep]] and [[goats]]. They reached the feet of the [[Ered Luin]] a year before all others but didn't attempt to find passes. Their mounted scouts attempted to find a way round them, and did so from the south.<ref name="DM" />
+
+In {{FA|313}}, the first host entered [[Beleriand]] from the south and were followed by the rest of the folk of Marach in the same year.<ref name="DM" /> They were the largest of the Houses and also the most warlike and they frightened the native [[Green-elves]] who inhabited the forested slopes of the mountains and so were bidden to progress to Estolad as the [[House of Bëor]] had done. Of all the Houses of the Edain the Hadorians remained longest in Estolad (perhaps due to the immense size of the House) but became close allies with the Noldorin [[House of Fingolfin]] who reigned in [[Hithlum]]. Under the rule of [[Magor]], grandson of Marach the House removed to the southern slopes of the [[Ered Wethrin]].
+
+==History==
+It was during the reign of Hador in {{FA|416}} though that the folk of Marach were finally granted permanent lands in the form of the fief of [[Dor-lómin]] within Hithlum. In recognition of the first lord of their new realm the House became known as the House of Hador. As a gift from his new lords, Hador was given the [[Dragon-helm of Dor-lómin|Dragon Helm]] by Fingon, which became a great heirloom of the House, borne by all its lords save Húrin. They enjoyed much splendor under the [[House of Fingolfin]], and their warriors held [[Eithel Sirion]] and fought beside the Noldor in the [[Wars of Beleriand]].
+
+Hador died during the [[Dagor Bragollach]] alongside his younger son [[Gundor]]. So Lordship of the House passed to Hador's older son [[Galdor (Lord of Dor-lómin)|Galdor]] leading the House of Hador in the troubled times that followed the Dagor Bragollach. During those times the House united with some of the folk of the [[House of Beor]] who had fled from [[Dorthonion]]. Galdor's wife was of the [[Haladin]] and their sons, [[Húrin]] and [[Huor]], were sent away to Brethil when they were lost and spent time with [[Turgon]] in [[Gondolin]]. Galdor himself was slain at [[Eithel Sirion]] in {{FA|462|n}}, thus Húrin became the third Lord of Dor-lómin. 
+
+During Húrin's tenure as lord, Hithlum was largely made safe, owing largely to the great reclamation of lost lands by the [[Union of Maedhros]] of which the men and elves of Hithlum were participants. This gathered steam until the plans were made for another assault on [[Morgoth]] in [[Angband]]- the battle that would become known as [[Nirnaeth Arnoediad]]. Húrin mustered all the men that Dor-lómin could provide to supplement Fingon's host in the west. The result was devastating for the House of Hador and their remnant covered the retreat of Turgon. They refused to leave and heroically drew up their lines behind [[Rivil]], killing hundreds of [[Orcs]] and [[Trolls]] before their entire host was killed to a man in a final last stand. 
+
+===Later history===
+Hithlum, defenceless and beaten was thus taken by the treacherous [[Swarthy Men]] who had been so instrumental in Morgoth's victory without any notable resistance of what remained of the people of the House of Hador.
+
+From this point the lives of the people of Hador became one of marginal slavery. The House of Hador fared badly under the [[Incomers]]; brutally suppressed, their lands were taken and their women forced into marriage with the new despot-lords of Hithlum. The nobility of the House went into hiding or killed trying to flee. Húrin's son and heir (and officially now Lord of the House) [[Túrin]] was too young to lead and so was sent away to [[Doriath]] for his safety by his [[Morwen|mother]] and Huor's son Tuor was only born the year of the Nirnaeth Arnoediad and so was similarly guarded; fostered by the [[Sindar|grey elves]] that still inhabited the mountains of [[Mithrim]]. Those that could escape in the years that followed did-so fleeing to those havens of the elves that still stood but the House of Hador ceased to be as a coherent entity in much the same manner as the [[House of Bëor]] had suffered in the aftermath of the Dagor Bragollach. 
+
+None the less, when the surviving Edain were granted the gift-land of [[Númenor]] the House of Hador was still the greatest in size of all the Houses and so made up the greater portion of the [[Númenóreans]].<ref name="Life">{{NM|P3xi}}, p. 317</ref>
+[[Hatholdir]] was a noble who was descendant of the House of Hador.<ref>{{UT|Wife}}</ref>
+
+It was believed in [[Gondor]] (somewhat inaccurately<ref name="DM" /><ref>{{PM|XNotes}}, #61</ref>) that some of the sons of the House who refused the call to [[Elenna]], became the direct ancestors of the [[Northmen]]; explaining thus the affinity the [[Rohirrim]] had with the [[Gondorians]].<ref>{{TT|IV5}}</ref>
+
+==Physical characteristics==
+[[File:ForeverMedhok - Hador.png|thumb|''Hador'' by [[:Category:Images by ForeverMedhok|ForeverMedhok]]]]
+The people of the House of Hador tended to be hardy and enduring in cold and distances, strong, tall, bold and steadfast (second to those of the First House), swift in body, with blue eyes, fair skin, and golden hair; they were noble and generous, ready in mind and quick to anger and laughter. There were some among them who were dark-haired (a trait sometimes inherited from the [[House of Beor]]).,<ref name="DM" />{{rp|307}}<ref>{{S|Men}}</ref> and those members showed an interest in crafts and lore.<ref>{{PM|XNotes}}, #43</ref> They were marked as being the tallest men inhabitants of Beleriand, even taller than the Elves.<ref>{{LR|Quenta}}, p. 276</ref> They were the largest of the Houses and also the most warlike.
+
+Their features and traits were such, that young members of the House were almost indistinguishable from the Eldar, a fact that was remembered in elven songs ever after. The swift fading of this condition was a grief and a mystery to the Eldar.<ref>{{PM|XNotes}}, #47</ref>
+
+Their language was closely related with that of the Folk of Bëor, but their dialect, the main dialect of [[Taliska]] which became [[Adûnaic]], was more uniform with fewer alien influences.<ref name="DM" /> As [[Elf-friends]] they also spoke [[Sindarin]].
+
+==Other names==
+The [[Sindarin]] name for "House of Hador" was '''''Bar Hador'''''.<ref>{{MR|P5I}}, p. 373. The first word appears in the [[lenition|lenited]] compound form ''e-mbar'' ("''of'' the House")</ref>
+
+==Genealogy==
+A dagger symbol '†' signifies those who did not die of old age. A name preceded by '#*' indicates a ruler of the house, with the number specifying the order.
+
+{{familytree/start}}
+{{familytree | | | | | | | | | | | MAR | | | | | | | | | | | | |MAR=1* [[Marach]]<br /><small>''{{FA|282}} - {{FA|376|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|.| | | | | | | | | | | |}}
+{{familytree | | | | | ZIM |y| MAL | | IML | | | | | | | | | | |ZIM=[[Zimrahin]]<br /><small>''unknown''</small>|MAL=2* [[Malach]]<br /><small>''{{FA|307|n}} - {{FA|398|n}}''</small>|IML=[[Imlach]]<br /><small>''b. {{FA|310|n}}''</small>}}
+{{familytree | | | | | |,|-|^|-|.| | | |!| | | | | | | | | | | |}}
+{{familytree | BEL |V| ADA | | MAG | | AML | | | | | | | | | | |BEL=[[Belemir]]<br /><small>''b. {{FA|339|n}}''</small>|ADA=[[Adanel]]<br /><small>''b. {{FA|339|n}}''</small>|MAG=3* [[Magor]]<br /><small>''b. {{FA|341|n}}''</small>|AML=[[Amlach]]<br /><small>''b. {{FA|337|n}}''</small>}}
+{{familytree | | | |:| | | | | |!| | | | | | | | | | | | | | | |}}
+{{familytree | | | BEO | | | | HAT | | | | | | | | | | | | | | |BEO=''<small>[[House of Bëor]]</small>''|HAT=4* [[Hathol]]<br /><small>''b. {{FA|365|n}}''</small>}}
+{{familytree | | | |:| | | | | |!| | | | | | | | | | | | | | | |}}
+{{familytree | | | | | | | | | HAD |y| GIL | | | | | | | | | | |HAD=5* [[Hador]]<br /><small>''{{FA|390|n}} - {{FA|455|n}}''</small>|GIL=[[Gildis]]<br /><small>''unknown''</small>}}
+{{familytree | | | | | |,|-|-|-|v|-|^|-|-|-|-|-|.| | | | | | | |}}
+{{familytree | HAL |V| GLO | | GAL |y| HAR | | GUN | | | | | | |HAL=[[Haldir (Chieftain of the Haladin)|Haldir]]<br /><small>''{{FA|414|n}} - {{FA|472|n}}''</small>|GLO=[[Glóredhel]]<br /><small>''{{FA|415|n}} - {{FA|472|n}}''</small>|GAL=6* [[Galdor (Lord of Dor-lómin)|Galdor]]<br /><small>''{{FA|417|n}} - {{FA|462|n}}''</small>|HAR=[[Hareth]]<br /><small>''b. {{FA|420|n}}''</small>|GUN=[[Gundor]]<br /><small>''{{FA|419|n}} - {{FA|455|n}}''</small>}}
+{{familytree | | | |:| | | | | | | |)|-|-|-|.| | | | | | | | | |}}
+{{familytree | | | HAL | | MOR |y| HUR | | HUO |y| RIA | | | | |HAL=<small>''[[House of Haleth]]''</small>|MOR=[[Morwen]]<br/><small>''{{FA|441|n}} - {{FA|501|n}}''</small>|HUR=7* [[Húrin]]<br /><small>''{{FA|441|n}} - {{FA|502|n}}''</small>|HUO=[[Huor]]<br /><small>''{{FA|444|n}} - {{FA|472|n}}</small>|RIA=[[Rían]]<br/><small>''{{FA|450|n}} - {{FA|472|n}}''</small>}}
+{{familytree | | | |:| |,|-|-|-|+|-|-|-|.| | | |!| | | | | | | |}}
+{{familytree | | | | | TUR | | LAL | | NIE | | TUO |y| IDR | | |TUR=[[Túrin]]<br/><small>''{{FA|464|n}} - {{FA|499|n}}''</small>|LAL=[[Lalaith]]<br/><small>''{{FA|466|n}} - {{FA|469|n}}''</small>|NIE=[[Nienor]]<br/><small>''{{FA|473|n}} - {{FA|499|n}}''</small>|TUO=[[Tuor]]<br/><small>''b. {{FA|472|n}}''</small>|IDR=[[Idril]]<br/><small>''b. {{YT}}''</small>}}
+{{familytree | | | | | |L|~|~|~|~|~|~|~|J| | | | | |!| | | | | |}}
+{{familytree | | | | | | | | | | | | | | | | | | | EAR |y| ELW |EAR=[[Eärendil]]<br/><small>''b. {{FA|503|n}}''</small>|ELW=[[Elwing]]<br/><small>''b. {{FA|503}}''</small>}}
+{{familytree | | | | | | | | | | | | | | | | | | | |,|-|^|-|.| |}}
+{{familytree | | | | | | | | | | | | | | | | | | | ROS | | RON |ROS=[[Elros]]<br/><small>''{{FA|532}} - {{SA|442}}''</small>|RON=[[Elrond]]<br/><small>''born {{FA|532}}''</small>}}
+{{familytree/end}}
+{{references}}
+[[Category:House of Hador| ]]
+[[Category:Mannish noble houses|Hador]]
+[[de:Haus Hador]]
+[[fr:encyclo:peuples:hommes:peuple de hador]]
+[[fi:Hadorin kansa]]
+[[fi:Hadorin Huone]]

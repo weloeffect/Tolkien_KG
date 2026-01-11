@@ -1,0 +1,42 @@
+{{book|
+title=A Gateway to Sindarin|
+image=A Gateway to Sindarin.jpg|
+author=[[David Salo]]|
+isbn=0874808006|
+publisher=University of Utah Press|
+date=October [[2004]]|
+format=Hardcover|
+pages= 550|
+amazon=http://www.amazon.com/gp/product/0874808006/ref=sr_11_1/102-6025778-4717761?%5Fencoding=UTF8|
+amazonprice=out of stock
+}}
+'''''A Gateway to Sindarin: A Grammar of an Elvish Language from J.R.R. Tolkien's''''' '''Lord of the Rings''' is a 2004 book by linguist [[David Salo]]. It reproduces all extant [[Sindarin]] fragments from published sources - both the easily available ones and the more obscure ones from linguistic journals such as ''[[Vinyar Tengwar]]'' and ''[[Parma Eldalamberon]]''. It follows other linguistic books like [[Ruth S. Noel]]'s ''[[The Languages of Tolkien's Middle-earth]]'' and [[Jim Allan]]'s ''[[An Introduction to Elvish]]'', although the book's initial popularity was largely due to Salo's involvement in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]].
+
+==From the publisher==
+{{blockquote| From the 1910s to the 1970s, author and linguist [[J.R.R. Tolkien]] worked at creating plausibly realistic languages to be used by the creatures and characters in his novels. Like his other languages, Sindarin was a new invention, not based on any existing or artificial language. By the time of his death, he had established fairly complete descriptions of two languages, the "elvish" tongues called [[Quenya]] and [[Sindarin]]. He was able to compose poetic and prose texts in both, and he also constructed a lengthy sequence of changes for both from an ancestral "proto-language," comparable to the development of historical languages and capable of analysis with the techniques of historical linguistics.
+
+In ''A Gateway to Sindarin'', David Salo has created a volume that is a serious look at an entertaining topic. Salo covers the grammar, morphology, and history of the language. Supplemental material includes a vocabulary, Sindarin names, a glossary of terms, and an annotated list of works relevant to Sindarin. What emerges is homage to Tolkien's scholarly philological efforts.}}
+
+==Cover design==
+The cover features a gateway, styled like the [[Doors of Durin]]. On the bow, Tengwar in [[Tengwar|Beleriandic mode]] read "Annon na Edhellen", which is a Neo-Sindarin translation of the book's title. On the bottom, an altered version of [[:File:J.R.R. Tolkien - Elwe Heraldic Device.jpg|Elu Thingol's heraldic device]] is shown. 
+
+==Critical reception==
+When released, [[Thorsten Renk]] described ''A Gateway to Sindarin'' as "''currently the best English book available on Sindarin''". However, he also noted that the work on the one hand might be inaccessible to learners of Sindarin (since Salo uses a very technical language), and on the other hand not very usable by linguists (because of Salo's "''lack of distinction between Tolkien-made and Salo-made historic forms'')".<ref>{{webcite|author=[[Thorsten Renk]]|articleurl=http://www.science-and-fiction.org/elvish/salo_discussion.html|articlename=David Salo: ''A Gateway to Sindarin''|dated=|website=[http://www.science-and-fiction.org/elvish/index.html Parma Tyelpelassiva]|accessed=29 July 2020}}</ref>
+
+There has been some criticism that the language described is not Sindarin, but an arbitrary fabrication of "[[Neo-Elvish|Neo-Sindarin]]". (see [[#Reviews by other linguists|reviews]])
+
+==Reviews by other linguists==
+*[https://tolkienlistsearch.herokuapp.com/message/5e9c3604acad32fd587a3920 Review] by [[Carl F. Hostetter]]
+*[https://tolkienlistsearch.herokuapp.com/message/5e9c3604acad32fd587a3925 Review] by [[Patrick H. Wynne]]
+*[https://tolkienlistsearch.herokuapp.com/message/5e9c3604acad32fd587a3934 Review] by [[Bertrand Bellet]]
+{{references}}
+
+==External links==
+*[[Elfling]] [https://tolkienlistsearch.herokuapp.com/message/5e9c3600df6700ce9c85c075 message] by David Salo about unattested words and corrigenda (archived) 
+<!--- Just in case, I give here the number of the original message: 36417 --->
+
+{{title|italics}}
+{{DEFAULTSORT:Gateway to Sindarin, A}}
+[[Category:Linguistic books]]
+[[Category:Publications by title]]
+[[fi:A Gateway to Sindarin]]

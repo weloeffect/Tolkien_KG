@@ -1,0 +1,26 @@
+{{events
+| image = Ralph Damiani - Before the Storm.png
+| event=Great Signal
+| othernames=
+| date=[[10 March]] {{TA|3019}}
+| location=[[Mordor]], [[Minas Morgul]]
+| result=The [[Morgul-host]] of [[Sauron]] march
+| partof=[[War of the Ring]]
+| participants=
+| description=A violent red flash from Mordor<br />Blue lightning from Minas Morgul
+| references=
+|}}
+The '''Great Signal''', as [[Gorbag]] the Orc called it,<ref>{{TT|IV10}}, p. 738</ref> occurred on [[10 March]] {{TA|3019}}.<ref name="Great">{{App|Great}}, p. 1093</ref> On that date, as [[Samwise Gamgee|Sam]] and [[Gollum]] urged the weary [[Frodo Baggins|Frodo]] to stand up and start climbing the [[Stairs of Cirith Ungol]], the ground shook and a vivid, violent red flash leapt up from within [[Mordor]], painting the clouds crimson, followed by a crack of thunder. The Signal was answered by [[Minas Morgul]]; blue lightning forked from the tallest tower and surrounding hills into the dark clouds.<ref name="Stairs">{{TT|IV8}}, pp. 705-6</ref>
+
+The Great Signal was the call for the armies of Mordor to begin the assault upon [[Minas Tirith]]. As the hobbits and Gollum watched the gates of Minas Morgul opened and an army came forth, led by the [[Witch-king|Lord of the Nazgûl]].<ref name="Stairs"/>
+
+==Portrayal in adaptations==
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:In Scene 16, "Minas Morgul", the Great Signal occurs just after Sam and Gollum have prevented Frodo from walking straight up the road to the gates of the city.  The eruption of light from Mordor happens off-screen in the form of an exploding sound and some light reflecting off Frodo, Gollum, Sam (the latter looking at it just before Minas Morgul reply) and nearby rocks; Minas Morgul signal consists of a swirling twister of luminous vapor shooting into the clouds above the central tower.  The scene cuts to Minas Tirith where [[Gandalf]] and [[Peregrin Took|Pippin]] witness the Signal.  Frodo, Sam, and Gollum rush back to the base of the stairs and hide behind an outcropping of rock.  Soldiers and citizens of Minas Tirith are shown silently reacting in alarm to the sight. The Lord of the Nazgûl appears on a [[fell beasts|Fell Beast]] and the [[Orcs]] march from the city.
+
+:In [[J.R.R. Tolkien]]'s text, the Great Signal happens three days ''after'' the lighting of the [[Warning beacons of Gondor]].  In the movie the sequence is reversed; in the morning after the Great Signal Gandalf sends Pippin climbing up to an unlit beacon looming over the City where he ignites it.
+
+{{references}}
+[[Category:Events]]
+[[Category:Third Age]]
+[[fi:Suuri merkki]]

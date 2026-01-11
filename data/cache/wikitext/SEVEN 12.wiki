@@ -1,0 +1,34 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 12
+| image=
+| editor=
+| illustrator=
+| date=[[1995]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229581|articlename=Vol. 12, 1995|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 12''''' is the twelfth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[1995]].<ref name="jstor" /> Volume 12 celebrates the 30th anniversary of the Wade Center.<ref name="vii">{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+==Contents==
+*"Wade Center 30th Anniversary"
+**By: Christopher W. Mitchell
+*"''Lilith'': A Dark Labyrinth Towards the Light"
+**By: Giorgio Spina
+*"Worship in the Anglican Church"
+**By: Dorothy L. Sayers
+*"Under the Mercy: An Introduction to Charles Williams"
+**By: Nancy E. Topolewski
+*"Creating and Re-creating Worlds with Words: The Religion and the Magic of Language in ''The Lord of the Rings''"
+**By: Mary Zimmer
+*"'Making the Poor Best of Dull Things': C.S. Lewis as Poet"
+**By: Don W. King
+*"The Image in the Mirror: Americans in Wimsey's Acquaintance"
+**By: Petra-Angela Wacker
+*Review Essay:
+**"The History of Middle-earth"
+***By: [[Wayne G. Hammond]] and [[Christina Scull]]<ref name="vii" />
+{{SEVENnav|11|13}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 12}}
+
+[[Category:SEVEN]]

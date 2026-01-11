@@ -1,0 +1,46 @@
+{{book
+| title=A Tolkien Bestiary
+| image = A Tolkien Bestiary.jpg
+| author=[[David Day]]
+| foreword=
+| introduction=
+| editor=
+| contributors=
+| translator=
+| illustrator=
+| publisher=Mitchell Beazley
+| publisherUK=
+| publisherUS=
+| date=[[1979]]
+| dateUK=
+| dateUS=
+| format=Hardcover, paperback
+| pages=288
+| isbn=0517120771
+| noisbn=
+| issn=
+| series=
+| precededby=
+| followedby=
+}}
+'''''A Tolkien Bestiary''''' is an A-Z guide to the flora and fauna of [[Middle-earth]], written by [[David Day]] and first published in [[1979]].
+
+The book contains monochrome and full-colour illustrations by Michael Foreman, Lidia Postma, Ian Miller, Allan Curless, Sue Porter, Victor Ambrus and John Davis.
+
+The book has been published under different titles, by different publishers, including:
+* '''''Guide to Tolkien's World: A Bestiary''''' (2002, 2010)
+* '''''Characters from Tolkien''''' (2001)
+
+==Reception==
+The book has been accused of containing extrapolations and thus deviating from [[J.R.R. Tolkien|Tolkien]]'s writings.<ref>{{webcite|author=Steuard Jensen|articleurl=http://tolkien.slimy.com/essays/DayBooks.html|articlename=Notes on David Day's Tolkien Books|dated=|website=FAQ|accessed=11 April 2012}}</ref>
+For example, there is a reference to "[[Wikipedia:Kraken|Kraken]]" referring to the [[Watcher in the Water]], but the word does not appear as a species in Tolkien's works.<ref>{{webcite|author=|articleurl=http://www.thetolkienforum.com/showthread.php?647-Tolkien-Bestiary|articlename=Tolkien Bestiary (forum thread)|dated=|website=[http://www.thetolkienforum.com/ The Tolkien Forum]|accessed=11 April 2012}}</ref>
+
+While [[Tolkien fandom|fans]] have argued that the book is less reliable as a [[J.R.R. Tolkien|Tolkien]] reference than similar works by [[Robert Foster]] and [[J.E.A. Tyler]], many are fond of its illustrations.<ref>{{webcite|author=|articleurl=http://www.lotrplaza.com/forum/forum_posts.asp?TID=215574&OB=DESC|articlename=A guide to Tolkien by David Day (forum thread)|dated=|website=[http://www.lotrplaza.com/forum/default.asp The Lord of the Rings Fanatics Plaza]|accessed=11 April 2012}}</ref>
+
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Tolkien Bestiary, A}}
+[[Category:Books by David Day]]
+[[Category:Publications by title]]
+[[Category:Reference books]]
+[[fi:Tolkienin maailma]]

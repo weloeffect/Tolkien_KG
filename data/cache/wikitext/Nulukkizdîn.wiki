@@ -1,0 +1,49 @@
+{{kingdom
+| image=
+| name=Nulukkizdîn
+| pronun=
+| othernames=
+| location=At the confluence of the [[Ringwil]] and the [[Narog]]
+| capital=
+| towns=
+| regions=
+| population=[[Petty-dwarves]]
+| language=[[Khuzdul]]
+| govern1=
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=
+| event1date=
+| event2=
+| event2date=
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=[[Nargothrond]]
+}}
+{{quote|...before the proud ones came from over the Sea, Dwarves delved the halls of Nulukkizdîn.|[[Mîm]]<ref name="S22">{{S|22}}</ref>}}
+
+'''Nulukkizdîn''' or '''Nulukkhizdīn''' was a hall of the [[Petty-dwarves]] on the river [[Narog]].
+
+==History==
+Nulukkizdîn was delved by Dwarves before the [[Elves]] were exiled from [[Valinor]]. Over the years, its population waned, and others were hunted to near-extinction by the Elves, who were unfamiliar with the Petty-dwarves. Nulukkizdîn was eventually abandoned, and repopulated by Elves. [[Finrod|Finrod Felagund]] founded [[Nargothrond]] in its stead. After Nargothrond fell to [[Glaurung]], the last Petty-dwarf, [[Mîm]], reclaimed it, but he was slain by [[Húrin]].<ref name="S22"/>
+
+==Etymology==
+Tolkien provided no translations of either '''Nulukkizdîn''' or '''Nulukkhizdīn'''. The last element is usually believed to be the [[Khuzdul]] root for "Dwarf", Kh-Z-D.<ref name="Ardalambion">[[Helge Fauskanger]], "[http://folk.uib.no/hnohf/khuzdul.htm Khuzdul]", published at ''[[Ardalambion]]''</ref> Whether this is a true Khuzdul word or a Petty-dwarvish dialect is unknown, but circumstantial evidence points to the latter option. The [[Angerthas Daeron]] and its specific Dwarven variation [[Angerthas Moria]], do not have a symbol for the letter ''Î''.<ref name="Angerthas">{{App|E2ii}}</ref> Other than in ''Nulukkizdîn'', it only appears in ''[[Khîm]]'' and ''Mîm'',<ref name="Ardalambion"/> the names of two Petty-dwarves.
+
+==Other versions of the legendarium==
+In ''[[The Silmarillion]]'', the name is spelled ''Nulukkizdîn''; however, [[Christopher Tolkien]] has noted that in the original manuscript, his father used the spelling '''Nulukkhizdīn'''. It replaced an earlier spelling '''Nulukkhizidûn'''.<ref>{{HM|WJ}}, "[[The Later Quenta Silmarillion]]", "Of the Siege of Angband"</ref>
+
+Tolkien's later notes on the origin of Nargothrond give a different Dwarvish name, '''Nar(u)kuthûn''', derived from a Dwarvish name of the [[Narog]], *''[[Naruka]]''. Tolkien includes the words "of Petty-dwarves" between parentheses behind the mention of its Dwarvish origin.<ref name="PE17">{{PE|17}}, page 47</ref> Whether Tolkien ever intended to replace ''Nulukkhizdīn'' with ''Nar(u)kuthûn'' is unknown.
+
+{{references}}
+{{DEFAULTSORT:Nulukkizdin}}
+[[Category:Khuzdul words]]
+[[Category:Cities, towns and villages]]
+[[Category:Dwarven realms]]

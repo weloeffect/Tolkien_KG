@@ -1,0 +1,25 @@
+{{Collectible card
+| image=METW - Galadriel.jpg
+| name=Galadriel
+| caption=
+| game=meccg
+| type=Character
+| alignment=Hero
+| homesite=[[METW: Lórien|Lórien]] 
+| artist=[[Angus McBride]]
+| rarity=Rare
+| number=TW041
+}}
+'''METW: Galadriel''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+'''''Note:''''' ''"Galadriel" refers to [[Galadriel]] in [[J.R.R. Tolkien]]'s [[legendarium]].''
+
+==Card text==
+
+'''''Unique.''''' When Galadriel is at Lórien, her controlling player may keep one more card than normal in his hand. 
+
+-3 marshalling points if eliminated. 
+
+''"Tall and white and fair...and beautiful beyond enduring, terrible, and worshipful."'' '''''-[[The Lord of the Rings|LotRII]]'''''
+
+[[Category:MECCG character cards|Galadriel]]

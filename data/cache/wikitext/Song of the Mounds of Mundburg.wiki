@@ -1,0 +1,31 @@
+{{Unnamed}}
+{{Poem infobox
+| title="We heard of the horns in the hills ringing,"
+| written=Between [[1938]] and [[1954]]
+| revised=Between 1938 and 1954
+| published=''[[The Return of the King]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Mounds of Mundburg]], [[Gondorians]], [[Rohirrim]], [[Battle of the Pelennor Fields]]
+}}
+
+The '''song of the Mounds of Mundburg''' was a song written by an unnamed poet of [[Rohan]] some years after the [[Battle of the Pelennor Fields]].  It was about those slain in the battle, those buried at the [[Mounds of Mundburg]].<ref>{{RK|V6}}</ref> Like most of the poems attributed to the Rohirrim, it is written in the old Germanic alliterative meter. It is much like the epic [[Welsh]] poem ''[http://en.wikipedia.org/wiki/Y_Gododdin Y Gododdin]'' in miniature form.
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+We heard of the horns in the hills ringing,
+the swords shining in the [[Gondor|South-kingdom]],
+Steeds went striding to the [[Stoningland]]
+as wind in the morning. War was kindled.
+There [[Théoden]] fell, Thengling mighty,
+to his [[Meduseld|golden halls]] and [[the Mark|green pastures]]
+in the [[Rohan|Northern fields]] never returning,
+high lord of the host.</poem>
+
+==See also==
+* [[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Return of the King]]
+[[Category:Songs]]

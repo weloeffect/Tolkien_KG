@@ -1,0 +1,42 @@
+{{actor
+| image = Dominic Monaghan.jpg
+| caption = |Dominic Monaghan
+| name=Dominic Monaghan
+| lifetime=[[8 December|December 8]], [[1976]]
+| played=[[Meriadoc Brandybuck]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]<br>
+| played2=[[Wrot]]
+| film2=''[[The Lord of the Rings: The War of the Rohirrim]]''
+| imdb=[http://www.imdb.com/name/nm0597480/ IMDb Profile]
+}}
+English actor '''Dominic Monaghan''' (born 1976 in Berlin, Germany) played [[Meriadoc Brandybuck|Meriadoc "Merry" Brandybuck]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]]. He is also the narrator of [[Ringers: Lord of the Fans]], a documentary about the influence of [[J.R.R. Tolkien]] in popular culture. In 2021, he and fellow ''Lord of the Rings'' actor [[Billy Boyd]] started the ''[[The Friendship Onion]]'' podcast, which includes stories from their time making the films.<ref>{{webcite|author=|articleurl=https://www.youtube.com/watch?v=PdkJHWPCRaU|articlename=The Friendship Onion (Teaser Trailer)|dated=4 May 2021|website=YouTube|accessed=6 August 2021}}</ref>
+
+==Quotes==
+{{Quote|I won't miss having to stand for two hours at 4:30 a.m. and have freezing cold glue applied to my feet. I won't miss two-hour drives to work or long, long, long days sitting in my trailer waiting...waiting...waiting. I won't miss one day off a week. I won't miss glue in my ears. But I would do it all again tomorrow.|Dominic Monaghan, E! Online Force of the Hobbit}}
+{{Quote|We work so well with [Peter Jackson] because Pete understands Hobbits so well. Because he is a Hobbit. He has so many Hobbit qualities to him.|Dominic Monaghan}}
+{{Quote|When the story begins, Merry is in the prime of life, he's having fun and he's well liked. He's really just one of the lads. Then, as the journey unfolds, he finds himself in situations where he has to look after people or make decisions that a hobbit would never normally have to make.|Dominic Monaghan, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+==External links==
+* [http://dommonghan.org/ The Dominic Monaghan Resource]
+* [http://www.imdb.com/name/nm0597480/ IMDb Profile]
+* [http://en.wikipedia.org/wiki/Dominic_Monaghan Wikipedia Profile]
+
+{{References}}
+{{DEFAULTSORT:Monaghan, Dominic}}
+[[Category:Actors and actresses]]
+[[Category:Narrators]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Lord of the Rings: The War of the Rohirrim cast]]
+
+[[de:Dominic Monaghan]]
+[[fi:Dominic Monaghan]]

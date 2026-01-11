@@ -1,0 +1,23 @@
+{{actor
+| image =
+| name = David Weatherly
+| lifetime = [[1 March|March 1]], [[1939]] - [[12 December]] [[2024]]
+| played = [[Barliman Butterbur]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0915750/ Profile]
+}}
+'''David John Weatherley''' (1939-2024) was a British-born New Zealand actor. He played [[Barliman Butterbur]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+== External links ==
+* '''[http://davidweatherley.com/ Official Website]'''
+* {{WP|David Weatherley (actor)|David Weatherley}}
+
+{{DEFAULTSORT:Weatherley, David}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:David Weatherley]]
+[[fi:David Weatherley]]

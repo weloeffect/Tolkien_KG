@@ -1,0 +1,43 @@
+{{Poem infobox
+| title=Bealuwérig
+| written=Possibly the 1930s
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Wikipedia:Lewis Carroll|Lewis Carroll]]'s [[Wikipedia:Jabberwocky|Jabberwocky]]
+}}
+
+{{Quote|Well, no wonder I couldn’t find the words in dictionaries.|[[Wayne G. Hammond]] in an interview with Dalya Alberge of The Guardian<ref name=interview>{{webcite|author=Dalya Alberge|articleurl=https://www.theguardian.com/books/article/2024/aug/24/beyond-bilbo-jrr-tolkiens-long-lost-poetry-to-be-published|articlename=Beyond Bilbo: JRR Tolkien’s long-lost poetry to be published|dated=24 August 2024|website=Guardian|accessed=29 August 2024}}</ref>}}
+
+'''''Bealuwérig''''' is a poem that was written by [[J.R.R. Tolkien]] in which he translated "[[Wikipedia:Lewis Carroll|Lewis Carroll]]'s famous nonsense poem [[Wikipedia:Jabberwocky|Jabberwocky]]"<ref name=interview/> into [[Old English]], making "up words to represent Carroll’s made-up words"<ref name=interview/> on a single manuscript.<ref name=collectedpoems>{{CP|A5}}</ref>
+
+== First stanza ==
+=== Old English ===
+<poem style="font-style:italic; margin-left:20px;">
+:Þa wæs swelswoloð. Slíðe tófas
+:gurron ⁊ gimbledon on græswǽfan;
+:mímsæde murnon morgengrófas,
+:⁊ hræðmóman hlúde grǽfon.<ref name=collectedpoems/></poem>
+
+=== Modern English ===
+<poem style="font-style:italic; margin-left:20px;">
+:There was burn-burning. The savage ''toves''
+:grunted and ''gimbled'' on the grass-''wabe'';
+:''mim''-fully mourned the morning-''groves'',
+:and the quick-''momes'' loudly ''grabe''.<ref name=collectedpoems/></poem>
+
+== Etymology ==
+''Bealuwérig'' is a name in Old English likely meaning "weary of evil" from ''bealu'' ("evil" and "harm, destruction, malice") and ''wérig'' ("weary, sad, unfortunate").<ref name=collectedpoems/> This etymology for the name made [[Wayne G. Hammond]] and [[Christina Scull]] think about Tolkien's [[The Tale of Beewolf Son of Echgethew|verse translation]]<ref>{{CP|88}}</ref> of ''[[Beowulf]]''.<ref name=collectedpoems/>
+
+''Bealuwearge'', or ''Bealuwearg'',<ref name=collectedpoems/> is a name meaning "malicious outlaw" in Old English, recalling "Tolkien's fell creature…, the ''[[Durin's Bane|Balrog]]'',…and the wolf-like beasts…called ''[[Wargs]]''".<ref name=interview/> In a list of [[Elvish]] names translated into Old English, ''Balrog'' is translated by Tolkien as ''Bealuwearg'' and ''Bealubróga''. The etymology of these words were noted by [[Christopher Tolkien]]<ref>{{webcite|author=[[Christina Scull]] and [[Wayne G. Hammond]]|articleurl=https://www.hammondandscull.com/addenda/collected_poems_by_date.html|articlename=Addenda and Corrigenda to ''The Collected Poems of J.R.R. Tolkien'' (2024) Arranged by Date#Prior to 24 December 2024|dated=17 September 2024|website=HS|accessed=22 September 2025}}, note to "p. 1404, l. 15"</ref> on page 209 in ''[[The Shaping of Middle-earth]]''.<ref name=collectedpoems/>
+
+== Background ==
+While it is not known when the poem was written, [[Wayne G. Hammond]] and [[Christina Scull]] theorized based on the handwriting that it was possibly written in the 1930s. After the poem was finished, Tolkien gave it to [[C.S. Lewis]] sometime before his death in [[1963]], after which, it came into the possession of [[Walter Hooper]].<ref name=collectedpoems/>
+
+In [[2023]], the [[Bodleian Library]] acquired the manuscript from Walter Hooper's estate by way of the Arts Council. Sometime while finalizing the general parts of a collection of Tolkien's poems, ''Bealuwérig'' came to the attention of Hammond and Scull. In their analysis of ''Bealuwérig'', they initially did not realize that it was a translation of Jabberwocky, "looking up words in Old English dictionaries, but could not find them".<ref name=interview/> Eventually, they did find out that the poem was a translation.<ref name=interview/> Though there was no way to include it with the other poems, they found it to be "too interesting not to present by itself as" Appendix V. [[Arden R. Smith]] assisted them with translating the poem.<ref name=collectedpoems/>
+
+In [[2024]], the translation was published in September as part of ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+{{references}}
+{{poems}}
+
+[[Category:Old English names]]
+[[Category:Poems by J.R.R. Tolkien]]

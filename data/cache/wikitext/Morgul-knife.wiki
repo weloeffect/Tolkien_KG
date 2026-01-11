@@ -1,0 +1,66 @@
+{{object infobox
+| name=Morgul-knife
+| image = Audrey Corman - Morgul-blade.png
+| caption="Morgul-blade" by [[:Category:Images by Audrey Corman|Audrey Corman]]
+| pronun=
+| othernames=
+| location=[[Weathertop]], [[Ford of Bruinen]], [[Rivendell]]
+| owner=[[Nazgûl]]
+| type=Dagger
+| appearance=Long, thin, and glowed with a pale light.
+| creator=
+| created=
+| createdlocation=
+| destroyer=[[Elrond]]
+| destroyed=[[20 October|20]]-[[24 October|24]] [[October]], {{TA|3018}}
+| destroyedlocation=[[Rivendell]]
+| notablefor=Injuring [[Frodo Baggins]]
+| gallery=the Morgul-knife
+}}
+
+A '''Morgul-knife''' was a magical dagger. The [[Witch-king]], the Lord of the [[Nazgûl]], used one such Morgul-knife to stab [[Frodo]] on [[Weathertop]].
+
+==History==
+[[File:Campbell White - Morgul-Knife.jpg|thumb|left|200px|''Morgul-knife'' by [https://www.campbellwhitedesign.com/ Campbell White]]]
+Morgul-knives were magical weapons, which remained in the wound of the victim and turned the victim into a [[Wraiths|wraith]] that was weaker than the Nazgûl and thus under the rule of the Nazgûl and of Sauron.<ref name="Meetings">{{FR|Meetings}}, p. 222"</ref>
+
+On 6 October {{TA|3018}},<ref>{{App|Great}}, entry for the year 3018, October 6, p. 1091</ref> during his journey to [[Rivendell]] with [[the One Ring]], [[Frodo]] was stabbed by the [[Witch-king|Lord of the Nazgûl']] with a Morgul-knife on [[Weathertop]]. The Morgul-knife that was used by the Lord of the Nazgûl was long and thin<ref name="Flight">{{FR|Flight}}, p. 198</ref> and glowed with a pale light.<ref>{{FR|Knife}}, p. 195</ref> It had an evil inscription on its hilt that was probably invisible for [[Men]].<ref name="Glorfindel">{{FR|Flight}}, pp. 209</ref> The point of the Morgul-knife had broken off<ref name="Flight" /> and had remained within the wound and was working inwards threatening to turn Frodo into a wraith.<ref name="Meetings" /> When Aragorn managed to drive away the Nazgûl, the Lord of the Nazgûl left behind his Morgul-knife. When dawn came the blade of the Morgul-knife seemed to melt in the growing light of the sun and vanished so that only its hilt was left. Aragorn collected leaves of the herb ''[[athelas]]'' and bathed the wound with water in which the leaves had been soaked. However, ''athelas'' only had limited power to ease the effects of the wound, because Frodo felt a lessening of the pain and the sense of frozen cold.<ref name="Flight" />
+
+When they met the Elf [[Glorfindel]] on 18 October {{TA|3018}},<ref>{{App|Great}}, entry for the year 3018, October 18, p. 1091</ref> he shuddered when he touched the hilt, but was able to see the evil inscription on it and to advise Aragorn to touch it as little as possible. Glorfindel declared that his healing skill was not sufficient to heal the wound of this weapon, but Frodo felt a lessening of the chill, an easing of the pain, warmth returned from his shoulder to his hand and the world seemed to grow lighter and he was able to see things better again.<ref name="Glorfindel" />
+
+After Frodo arrived in [[Rivendell]] on 20 October {{TA|3018}} [[Elrond]] was able to locate and remove the shard and to heal the wound in the night before Frodo woke up on October 24 {{TA|3018}}.<ref name="Meetings" />
+
+One year after the stabbing with the Morgul-knife<ref>{{App|Chief}}, entry for the year 3019, October 6, p. 1096</ref> the wound in Frodo's shoulder ached and the memory of darkness lay heavily on Frodo. Frodo's eyes seemed to neither see his companions nor the world around him. However, the pain and unease passed by the end of the next day.<ref>{{RK|Homeward}}, p. 989</ref>
+
+On the second anniversary of the stabbing with the Morgul-knife Frodo fell ill,<ref>{{App|Chief}}, entry for the year 3020, October 6, p. 1096</ref> turned very pale and seemed to look far away, but it passed and Frodo was quite normal again on the next day.<ref>{{RK|Havens}}, p. 1025</ref>
+
+Frodo's eventual departure over the sea to [[Tol Eressëa]] on 29 September {{TA|3021}}<ref>{{App|Chief}}, entry for the year 3021, September 29, p. 1096</ref> gave him a chance to be fully healed from his wounds.<ref>{{L|246}}</ref>
+
+==Etymology==
+''[[Morgul]]'' means "necromancy",<ref>{{HM|UI}}, entry ''Imlad Morgul'', p. 482</ref> "black arts" or "sorcery" in [[Sindarin]].<ref>{{PE|17}}, entry Q ''noldo'', p. 125</ref>
+
+==Portrayal in adaptations==
+===Morgul-knives in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Liz Danforth - Morgul-knife.jpg|''[[Middle-earth Collectible Card Game]]''
+File:The Lord of the Rings - The Fellowship of the Ring - Morgul Blade.jpg|''[[The Lord of the Rings: The Fellowship of the Ring]]''
+</gallery>
+'''1982-97: ''[[Middle-earth Role Playing]]'':'''
+:The enchanted Morgul-knife, wielded by the Ringwraiths, strikes as a short sword with many additional effects on a character.<ref>{{ICE|2010}}, p. 38</ref>
+
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:The "Morgul-knife" modifies a Nazgûl's prowess, and affects the corruption points of a character. "Morgul-blade" is a Permanent-event card, playable by a Ringwraith or a Ringwraith follower.
+
+'''2001-03: [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]:'''
+:Artist [[John Howe]] made the original design of the daggers of the Ringwraiths.<ref>[[Gary Russell]], ''[[The Art of The Fellowship of the Ring]]''</ref> They are straight, double-edged daggers with a prominent taper toward the tip. The crossguard is notably turned downward, with a couple of spikes protruding from the center line. It features a small pommel, also with decorative spikes.
+
+==See also==
+*[[Morgul-wound]]
+
+{{References}}
+
+{{Weapons}}
+
+[[Category:Knives]]
+
+[[fi:Morgulin veitsi]]

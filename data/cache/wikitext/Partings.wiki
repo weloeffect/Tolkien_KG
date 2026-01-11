@@ -1,0 +1,180 @@
+{{Incomplete}}
+{{episode infobox
+| name=Partings
+| image = The Lord of the Rings The Rings of Power - Partings.jpg
+| caption=
+| director=[[Wayne Che Yip]]
+| writer=[[Justin Doble]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[23 September]] [[2022]]
+| runtime=72 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=11609040
+| gallery=The Rings of Power (TV series)
+| previous=[[The Great Wave]]
+| next=[[Udûn (episode)|Udûn]]
+}}
+
+{{Quote|[[Elanor Brandyfoot|Nori]] questions her instincts; [[Elrond]] struggles to stay true to his oath; [[Halbrand]] weighs his destiny; The [[Men|Southlanders]] brace for attack.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Partings''' is the fifth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]'', released on [[23 September]], [[2022]].
+
+== Synopsis ==
+=== The Southlands ===
+=== Númenor ===
+=== Lindon ===
+=== The Harfoots ===
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Elanor "Nori" Brandyfoot]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Sara Zwangobani]] || [[Marigold Brandyfoot]]
+|-
+| [[Dylan Smith]] || [[Largo Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Beau Cassidy]] || [[Dilly Brandyfoot]]
+|-
+| [[Joseph Mawle]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Nazanin Boniadi]] || [[Bronwyn]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Ian Blackburn]] || [[Rowan (The Rings of Power)|Rowan]]
+|-
+| [[Geoff Morrell]] || [[Waldreg]]
+|-
+| [[Peter Tait]] || [[Tredwill]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Lloyd Owen]] || [[Elendil|Captain Elendil]]
+|-
+| [[Maxim Baldry]]|| [[Isildur]]
+|-
+| [[Trystan Gravelle]]|| [[Pharazôn]]
+|-
+| [[Ema Horvath]] || [[Eärien]]
+|-
+| [[Leon Wadham]] || [[Kemen (The Rings of Power)|Kemen]]
+|-
+| [[Charlie Vickers]] || [[Halbrand]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Cynthia Addai-Robinson]]|| [[Tar-Míriel|Queen Regent Míriel]]
+|-
+| [[Lenny Henry|Sir Lenny Henry]]|| [[Sadoc Burrows]]
+|-
+| [[Thusitha Jayasundera]] || [[Malva Meadowgrass|Malva]]
+|-
+| [[Maxine Cunliffe]] || [[Vilma]]
+|-
+| [[Anthony Crum]] || [[Ontamo]]
+|-
+| [[Alex Tarrant]] || [[Valandil (The Rings of Power)|Valandil]]
+|-
+| [[Ken Blackburn]] || [[Tar-Palantir]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Owain Arthur]] || [[Durin IV|Prince Durin IV]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High-King Gil-galad]]
+|-
+| [[Edith Poor]] || [[Mystics|The Nomad]]
+|-
+| [[Kali Kopae]] || [[Mystics|The Ascetic]]
+|-
+| [[Bridie Sisson]] || [[The Dweller]]
+|-
+| [[Edward Clendon]] || [[Grugzûk]]
+|-
+| [[Phil Vaughan]] || [[Guild of Weaponsmiths|Smithy]]
+|-
+| [[Mana Hira Davis]] || [[Númenóreans|Worker One]]
+|-
+| [[Winham Hammond|Winham "Mu" Hammond]] || [[Númenóreans|Worker Two]]
+|-
+| [[Ella Hope-Higginson]] || [[Mairen (The Rings of Power)|Mairen]]
+|-
+| [[Justin Doble]] || [[Númenóreans|Milky-Eyed Patron]]
+|-
+| [[Jed Brophy]]<br/>[[Luke Hawker]]<br/>[[Phil Grieve]]<br/>[[Robert Strange]] || [[Orcs]]
+|-
+| [[Michael Morris]] || [[Númenóreans|Guardsman One]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Carmel McGlone]] || [[Edda (The Rings of Power)|Edda]]
+|-
+| [[Kieran Milton]] || [[Númenóreans|Cavalry Soldier]]<ref>https://m.imdb.com/title/tt11609040/fullcredits/cast?ref_=tt_ov_st_sm</ref>
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+* Scene 6 - "[[Halflings]] don’t wear shoes as their feet have tough, leathery soles clad with thick curling hair, and they can bear the brunt of nearly any terrain. (Concerning Hobbits)"
+*Scene 8 - "Adar’s tolerance of the sun hints that he is not an orc – or not completely – for he seems to possess some of the gifts of the elves: Immortality and the ability to stand in the daylight without distress. His children, the orcs, avoid its painful glares by using sun-cloaks to keep its rays off their skin."
+* Scene 10 - "Númenor uses books instead of scrolls for the ease of transmitting information from one generation to the next. Originally, they wrote in the elven script, Tengwar, but over time it changed to accommodate their own language and became a unique script of its own."
+* Scene 20 - "Hungry Middle-earth [[wolves]] present one of the most terrifying of threats for Harfoots, who have few options for fighting back and their usual methods of hiding in plain sight don’t help against such predators."
+* Scene 24 - "Pharazôn is Míriel’s cousin, and the nephew of the present King. In Númenor, the law declares that the eldest child of the King, regardless of gender, will be their successor. (Appendix A)"
+* Scene 27 - "Lindon is a forested realm built alongside the firth of the River Lhûn, and borders the sea. What is built there feels nearly seamless with the nature encompassing it. (Appendix B)"
+* Scene 28 - "Save only Sauron himself, Balrogs were the deadliest servants of Morgoth – creatures of shadow and flame that even elves fear. (Book II, Chapter 7)"
+* Scene 29 - "The men and women of Númenor use the waters of the Sea to great effect – they’re so advanced that they have systems of canals and water-locks that crisscross the city. As such, a boat is never far away."
+* Scene 35 - "The capital of Númenor is built up, rather than out. The achievements of the Edain are built upon foundations the elves helped create – foundations that they replace with their constant push towards progress."
+* Scene 37 - "They are neither dwarves nor elven-smiths of Eregion, but even in terms of smithcraft the advancements of Númenor are the pinnacle of human achievements in the history of Middle-earth. In later days, their works in Middle-earth will seem to not be built by craft, but to be carved from the bones of the earth by the hands of giants. (Book V, Chapter 1)"
+* Scene 40 - "Under the domination of the Dark Powers, Men have often grown to worship the evil that rules over them, being so ensnared by the knowledge and power they offer. (Book V, Chapter 10)"
+* Scene 42 - "Long associated with the elves who garrison there, the [[Watchtower of Ostirith]] was nonetheless originally built by the humans who followed Morgoth. The elven occupation of it came as part of their constant vigilance for the return of evil – but it is whispered that the tower itself contains traces of a dark power created by Morgoth’s followers in the Elder Days."
+* Scene 44 - "[[Aulë]], the name the dwarves often evoke, is the name of their believed creator. In their hearts his ancient fire is said to still be burning. (Appendix F)"
+* Scene 47 - "Númenor’s arms and armour reflect the world they know – their armour is scaled like the sea-life that surrounds their island, and horses adorn their sword-hilts, with horse-hair tails on their helms."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+== External links ==
+* [https://rop.digitaltolkien.com/S1E5/ Partings] at ROP Data
+* [https://www.youtube.com/watch?v=C0NS3Gz7tdg&t=3838s&ab_channel=RingsandRealms Episode analysis on Rings & Realms] (with [[Corey Olsen]])
+* [https://bearmccreary.com/the-lord-of-the-rings-episode-105/ Scoring ''Partings''] by [[Bear McCreary]]
+
+{{references}}
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|05]]
+
+[[fi:Eroja (jakso)]]

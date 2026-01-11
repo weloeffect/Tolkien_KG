@@ -1,0 +1,19 @@
+{{book
+|title=Walking with Bilbo:<br/><small>A Devotional Adventure Through The Hobbit</small>
+| image = Walking with Bilbo.jpg
+|author=Sarah Arthur
+|publisher=Tyndale House Publishers
+|date=February [[2005]]
+|format=Paperback
+|pages=224
+|isbn=1414301316
+|amazon=http://www.amazon.com/gp/product/1414301316/sr=8-1/qid=1145506555/ref=pd_bbs_1/102-6025778-4717761?%5Fencoding=UTF8
+|amazonprice=$9.99
+}}
+'''Walking with Bilbo''' is a devotional book by Sarah Arthur.
+
+==From the publisher==
+{{blockquote|The author of Walking with Frodo takes readers on an adventure of faith with a new devotional that relates themes from [[J.R.R. Tolkien]]'s [[The Hobbit]] to living the [[Christianity|Christian life]]. Unlike the fateful quest [[Frodo Baggins|Frodo]] was asked to carry out, [[Bilbo Baggins]]'s journey came as an unexpected adventure. Readers will be reminded that God chooses us to be unlikely heroes in the adventure of life.}}
+{{title|italics}}
+[[Category:Publications by title]]
+[[Category:Religious books]]

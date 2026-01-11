@@ -1,0 +1,114 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Eighth_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Eighth of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Eighth_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/Fifth_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Fifth of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Fifth_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/Fourth_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Fourth of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Fourth_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/May_It_Be> a schema:WebPage ;
+    rdfs:label "May It Be"@en ;
+    schema:about <http://localhost:8000/resource/May_It_Be> .
+
+<http://localhost:8000/page/Middle-earth_Role_Playing_%282nd_edition%29> a schema:WebPage ;
+    rdfs:label "Middle-earth Role Playing (2nd edition)"@en ;
+    schema:about <http://localhost:8000/resource/Middle-earth_Role_Playing_%282nd_edition%29> .
+
+<http://localhost:8000/page/Ninth_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Ninth of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Ninth_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/Seventh_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Seventh of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Seventh_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/Shelob%27s_Lair_%28soundtrack%29> a schema:WebPage ;
+    rdfs:label "Shelob's Lair (soundtrack)"@en ;
+    schema:about <http://localhost:8000/resource/Shelob%27s_Lair_%28soundtrack%29> .
+
+<http://localhost:8000/page/Sixth_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Sixth of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Sixth_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/page/Third_of_the_Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Third of the Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Third_of_the_Nazg%C3%BBl> .
+
+<http://localhost:8000/resource/Eighth_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+
+<http://localhost:8000/resource/Fifth_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+
+<http://localhost:8000/resource/Fourth_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+
+<http://localhost:8000/resource/May_It_Be> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Bsong> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Bsong> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "OST"@en ;
+    tg:label2 "Complete Recordings"@en .
+
+<http://localhost:8000/resource/Middle-earth_Role_Playing_%282nd_edition%29> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Bbook> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Bbook> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Hardcover"@en ;
+    tg:label2 "Softcover"@en .
+
+<http://localhost:8000/resource/Ninth_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+
+<http://localhost:8000/resource/Seventh_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+
+<http://localhost:8000/resource/Shelob%27s_Lair_%28soundtrack%29> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Bsong> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Bsong> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "OST"@en ;
+    tg:label2 "Complete Recordings"@en .
+
+<http://localhost:8000/resource/Sixth_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+
+<http://localhost:8000/resource/Third_of_the_Nazg%C3%BBl> a schema:Thing ;
+    tg:content1 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:content2 <http://localhost:8000/resource/%7B%7Binfobox_character> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infoboxes> ;
+    tg:label1 "Iron Crown Enterprises"@en ;
+    tg:label2 "Decipher"@en .
+

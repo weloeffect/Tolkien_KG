@@ -1,0 +1,92 @@
+{{author infobox
+| image = Vera Chapman.jpg
+| name=Vera Chapman
+| born=[[8 May]], [[1898]]
+| died=[[14 May]], [[1996]]
+| education=
+| occupation=Author
+| location=[[United Kingdom]]
+| website=http://www.tolkiensociety.org
+}}
+'''Vera Ivy May Chapman''' (née '''Fogerty''') ([[8 May]], [[1898]] - [[14 May]], [[1996]], aged 98) was the founder of [[the Tolkien Society]], known by her pseudonym ''"Belladonna Took"''. She was also the author of several Arthurian, pseudo-historical and fantasy books.
+
+Vera was born in [[Bournemouth]] and lived in [[South Africa]], until she went to [[Oxford]]. She studied at Lady Margaret Hall, [[University of Oxford]] and was a student of Pr. [[Joseph Wright]]. In 1969, she founded [[The Tolkien Society]] of which she was Secretary from 1969 to 1976, and persuaded [[J.R.R. Tolkien]] to become the Society's Honorary President on June 27, 1972. 
+
+Vera wrote throughout her life, attempting to get published without success for many years, but this did not discourage her. Although she liked to say that she ''"had collected enough rejection slips to paper a whole room!"'' before she got her first book published, she never gave up. Her first novel, ''"The Green Knight"'', an Arthurian tale, was published in [[1975]], and she continued writing until her death in [[1996]]. Many of her stories remain unpublished, including a monumental ''"Fate of Jerusalem"'', a fantasy set during the time of the Crusades. Her best known character is the Abbess of Shaston, heroine of her published collection ''"The Notorious Abbess"'',  who also appears in ''The Fate of Jerusalem''.
+
+==Bibliography==
+===Articles===
+*[[1970]]: [[Mallorn 1|''Mallorn '' 1]]
+**"''Book Review of [[J.R.R. Tolkien (Catherine Stimpson)|“J.R.R. Tolkien”]]'', by Catherine R. Stimpson (Columbia Essays on Modern Writers, Columbia University Press"
+*[[1971]]: [[Mallorn 2|''Mallorn '' 2]]
+**"''Hippies or Hobbits''"
+*[[Mallorn 3|''Mallorn'' 3]]
+**"''The Religion of a Hobbit''"
+**"''Hippy Versus Hobbit, a reply to “On Behalf of the Half-Hippy''”, by A.R. (Faramir) Fallone, in Mallorn 2"
+*[[Mallorn 4|''Mallorn 4]]
+**"''Book review of “The Wood Beyond the World”'', by William Morris, reprinted in Ballantine Adult Fantasy Series"
+* [[1972]]: [[Mallorn 6|''Mallorn '' 6]]
+** "''Belladonna Goes to a Party'', recollection of a meeting with Tolkien, Rayner Unwin, and also Ian and Betty Ballantine, the American publishers"
+*[[1973]]: [[mallorn 7|''Mallorn '' 7]]
+**"''Namárië'', a personal recollection of Tolkien"
+*''[[Mallorn|Mallorn 1-6]]''
+**"''Belladonna's Postbag''"
+*''[[Mallorn 7]]''
+**"''Book review of “Curious Myths of the Middle Ages”'', by Sabine Baring-Gould"
+* [[1982]]: [[Amon Hen 54|''Amon Hen'' 54]]
+** " ''[[Shelob]] in North London''"
+** "''Beowulf''"
+* [[1982]]: [[Amon Hen 58|''Amon Hen'' 58]]
+** "''Yuletide Presents''"
+* [[1983]]: [[Amon Hen 63|''Amon Hen'' 63]]
+** "''Valhalla Revamped''"
+* [[1989]]: [[Amon Hen 100|''Amon Hen'' 100]]
+** "''Amon Hen, A History''" (with [[Brin Dunsire]])
+** "''Leaves from the Party Tree''"
+** "Books of My Childhood"
+*[[1992]]: ''[[Proceedings of the J.R.R. Tolkien Centenary Conference]]''
+** "''Reminiscences: Oxford in 1920, Meeting Tolkien and Becoming an Author at 77''"
+*[[2002]]: [[The Best of Amon Hen|''The Best of Amon Hen'' Part 2]]
+**"''Leaves from the Party Tree''"
+
+===Tolkien-related fiction===
+*[[1975]]: ''[[Mallorn 9]]''
+**"''A Dwarf  Wives' Tale, Part 1"''
+*[[1976]]: ''[[Mallorn 10]]''
+**"''A Dwarf  Wives' Tale, Part 2"''
+[[File:Kay Woollard - Belladonna running after Isengar in the Old Forest.jpg|200px|thumb|[[Kay Woollard]]'s illustration for Belladonna's story]]
+* Autumn [[1985]]: [[Weathertop 3|''Weathertop'' 3]]
+** "''Belladonna by Belladonna", part 1''
+* Autumn [[1986]]: [[Weathertop 4|''Weathertop'' 4]]
+**''"Belladonna by Belladonna", part 2''
+* Autumn [[1987]]: [[Weathertop 5|''Weathertop'' 5]]
+**''"Belladonna by Belladonna", part 3 and 4''
+
+===Non-Tolkien-related fiction===
+*[[1972]]: [[Mallorn 5|''Mallorn '' 5]]
+**"''Sir John de Creke, His Quest, Part 1 and 2"''
+
+==See also==
+*[[Letter to Vera Chapman and the Tolkien Society]] (letter from Tolkien)
+
+==External links==
+* [https://web.archive.org/web/20070208180112/http://www.tolkiensociety.org/ts_info/folk/vera-chapman.html Vera Chapman at Tolkien Society] Web Archive
+* {{WP|Vera Chapman}}
+* [https://www.fantasticfiction.co.uk/c/vera-chapman/ List of works at Fantastic Fiction]
+* [https://druidry.org/resources/vera-chapman Vera Chapman] at Druidry
+{{seq-start}}
+{{seq-head}}
+{{seq
+| pvac=None
+| prev=Position created
+| list=''Acting'' Chairman of [[the Tolkien Society]]
+| dates=[[29 January]] [[1970]] - [[20 November]] 1970
+| next=[[Keith Bridges]]
+}}
+{{seq-end}}
+{{tolkiensociety}}
+{{DEFAULTSORT:Chapman, Vera}}
+[[Category:Authors]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:Tolkien Society members]]

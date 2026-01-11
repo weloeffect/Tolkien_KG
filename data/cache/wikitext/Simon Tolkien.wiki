@@ -1,0 +1,90 @@
+{{Author infobox
+| image = Simon Tolkien.jpg
+| name=Simon Tolkien
+| born=[[12 January]] [[1959]]
+| died= 
+| education=[[wikipedia:Trinity College, Oxford|Trinity College]], [[University of Oxford|Oxford]]
+| occupation=Author, barrister
+| location=Southern California
+| website=[http://www.simontolkien.com/ SimonTolkien.com]
+}}
+
+'''Simon Mario Reuel Tolkien''' (born [[12 January]] [[1959]]) is the eldest son of [[Christopher Tolkien]] and grandson of [[J.R.R. Tolkien]]. He is the only child of Christopher's first marriage, to [[Faith Tolkien|Faith Faulconbridge]]. Since [[2011]], he has acted as a director of the [[Tolkien Estate]] along with [[Baillie Tolkien]], [[Michael George Tolkien]], and [[Steven Maier]].<ref>{{webcite|author=|articleurl=https://find-and-update.company-information.service.gov.uk/company/07842430/officers|articlename=The Tolkien Estate Limited|dated=|website=https://www.gov.uk|accessed=18 August 2022}}</ref>
+
+==Biography==
+Simon Tolkien studied modern history at [[wikipedia:Trinity College, Oxford|Trinity College]] in the [[University of Oxford]]. After which, he embarked on a fifteen-year career as a criminal lawyer and became a [[Wikipedia:Barrister|barrister]] in [[1994]].
+
+In [[1984]], he married Tracy Steinberg, who was Jewish.<ref>{{webcite|author=Sandee Brawarsky|articleurl=https://www.jta.org/2017/06/06/ny/hobbit-takes-on-terezin|articlename=J.R.R. Tolkien’s Jewish Great-Grandson Has A Play On Terezin|dated=6 June 6 2017|website=[https://www.jta.org/ Jewish Telegraphic Agency]|accessed=24 April 2025}}</ref> Steinberg owned and operated a vintage clothing store in Chelsea, London, called ''Steinberg & Tolkien'', which shut down in [[September]] of [[2007]]. Later, Tolkien moved to Southern California with his wife and their two children.<ref name=life>{{webcite|author=Andrew Hough|articleurl=http://www.telegraph.co.uk/culture/books/booknews/9686451/Simon-Tolkien-JRR-Tolkiens-grandson-admits-Lord-of-the-Rings-trauma.html|articlename=Simon Tolkien JRR Tolkien's grandson admits Lord of the Rings trauma|dated=18 November 2012|website=[http://www.telegraph.co.uk/ The Sunday Telegraph]|accessed=}}</ref>
+
+In [[January]] of [[2000]], Simon Tolkien began writing fiction.<ref name=life/> Tolkien's first novel, ''The Stepmother'' (published in the United States as ''Final Witness: A Novel''), was published in 2003. ''The Inheritance: A Novel'', his second book, was published on April 13, 2010 by Minotaur Books.
+
+Simon Tolkien disagreed with the then policy of his [[Tolkien Estate|grandfather's estate]] over the adaptations of his grandfather's works. As a result, he had a strained relationship with his father over that point,<ref>{{webcite|author=Devan Coggan|articleurl=http://news.bbc.co.uk/2/hi/entertainment/1697884.stm |articlename=Tolkien's son denies rift|dated=January 16, 2022 |accessed=January 29, 2023 |website=BBC}}</ref> however they subsequently reconciled.<ref>{{webcite|author=Devan Coggan|articleurl=https://www.theguardian.com/lifeandstyle/2012/nov/24/simon-tolkien-jrr-tolkien-hobbit|articlename='Being Tolkien's grandson blocked my writing ...'|dated=October 20, 2022 |accessed=January 29, 2023 |website=Guardian}}</ref>
+
+He was consulted on the development of the television series [[The Lord of the Rings: The Rings of Power]] and he helped develop its story and the character arcs. As a result, he is credited as a "series consultant".<ref name="SimonTolkien">{{webcite|author=Devan Coggan|articleurl=https://ew.com/tv/lord-of-the-rings-the-rings-of-power-simon-tolkien-series-consultant/|articlename=How Simon Tolkien helped guide 'The Lord of the Rings: The Rings of Power|dated=July 19, 2022|accessed=August 1, 2022|website=[https://ew.com/ Entertainment Weekly]}}</ref>
+
+==Family Tree==
+{{familytree/start}}
+{{familytree| | | | | | | | | | | JRR |y| EDB | | | | | | |JRR=[[J.R.R. Tolkien]]<br/><small>''[[1892]]-[[1973]]''|EDB=[[Edith Tolkien|Edith Bratt]]<br/><small>''[[1889]]-[[1971]]''}}
+{{familytree| |,|-|-|-|v|-|-|-|-|-|-|-|+|-|-|-|-|-|-|-|.| |}}
+{{familytree| JOT | | MIT | | FAI |y| CHT |y| BAT | | PRT |JOT=[[John Tolkien]]<br/><small>''[[1917]]-[[2003]]''|MIT=[[Michael Tolkien]]<br/><small>''[[1920]]-[[1984]]''|CHT=[[Christopher Tolkien]]<br/><small>'' [[1924]]-[[2020]]''|FAI=[[Faith Tolkien|Faith Faulconbridge]]<br/><small>''[[1928]]-[[2017]]''|BAT=[[Baillie Tolkien|Baillie Klass]]<br/><small>''b. [[1941]]''|PRT=[[Priscilla Tolkien]]<br/><small>''[[1929]]-[[2022]]''}}
+{{familytree| | | | | | | | | | | |!| | | |)|-|-|-|.| | | |}}
+{{familytree| | | | | | | TRS |y| SIT | | ADT | | RAT | | |SIT='''SIMON TOLKIEN'''<br/><small>''b. [[1959]]''|TRS=Tracy Steinberg|ADT=[[Adam Tolkien]]<br/><small>''b. [[1969]]''|RAT=[[Rachel Tolkien]]<br/><small>''b. [[1971]]''}}
+{{familytree| | | | | | | | | |!| | | | | | | | | | | | | |}}
+{{familytree| | | | | | | | | NIT | | | | | | | | | | | | |NIT=Nicholas Tolkien<br/><small>''b. [[1990]]''}}
+{{familytree/end}}
+
+==Bibliography==
+===Novels===
+* [[2003]]: ''The Stepmother'' (U.K.) / ''Final Witness: A Novel'' (U.S.)
+* [[2010]]: ''The Inheritance: A Novel''
+* [[2011]]: ''The King of Diamonds''
+* [[2012]]: ''Orders from Berlin: A Thriller''
+* [[2017]]: ''No Man's Land: A Novel''
+* [[2025]]: ''The Palace at the End of the Sea: A Novel''
+* [[2025]]: ''The Room of Lost Steps: A Novel''
+
+===Articles===
+[[File:J.R.R. Tolkien and Simon 2.jpg|J.R.R. and Simon Tolkien|right|thumb]]
+* [[2003]]: ''The Mail On Sunday''
+** "[http://www.simontolkien.com/mygrandfather My Grandfather]", 23 February 2003
+* [[2010]]: ''Huffington Post'', 26 April 2010 
+** "[[In My Grandfather's Footsteps]]" ([http://www.huffingtonpost.com/simon-tolkien/jrr-tolkiens-grandson-in_b_550097.html External link])
+* [[2022]]: ''[[J.R.R. Tolkien: The Art of the Manuscript]] (second edition)''
+** "The Art of the Manuscript"
+* [[2025]]: ''The Catholic Herald'', 9 October 2025
+** [https://thecatholicherald.com/article/a-world-without-god-or-state "Life without God: grandson of JRR Tolkien on how losing his own faith shaped his novels on Catholicism"]
+
+===Interviews===
+* [[2003]]: ''The Telegraph'', 23 February 2003
+** "[http://www.telegraph.co.uk/news/uknews/1422943/J-R-R-Tolkiens-grandson-cut-off-from-literary-inheritance.html J R R Tolkien's grandson 'cut off from literary inheritance']" (by Chris Hastings)
+* [[2010]]: Festival Art and Books Journal, issue 5 (May 2010)
+** "[https://www.festivalartandbooks.com/journal5hts/5intstolkein.html Interview with Simon Tolkien] " (by [[Alex Lewis]])
+* [[2010]]: WAMC Northeast Public Radio, 18 May 2010
+**"{{redlink|[Audio The Book Show #1139 - Simon Tolkien| http://wamc.org/post/book-show-1139-simon-tolkien]}}
+* [[2010]]: ''[[Mythprint]]'' vol. 47, no. 6
+**"[https://www.mythsoc.org/reviews/interview-simon-tolkien.htm Interview with Simon Tolkien]" (by [[Jason Fisher]])
+* [[2010]]: [[Mallorn 50|''Mallorn'' 50]]
+** "A man of mystery" (by [[Mike Foster]])
+* [[2012]]: ''The Telegraph'' 18 November 2012
+** "[http://www.telegraph.co.uk/culture/books/booknews/9686451/Simon-Tolkien-JRR-Tolkiens-grandson-admits-Lord-of-the-Rings-trauma.html Simon Tolkien JRR Tolkien's grandson admits Lord of the Rings trauma]" (by Andrew Hough)
+* [[2012]]: ''The Guardian'', 24 November 2012
+** "[http://www.theguardian.com/lifeandstyle/2012/nov/24/simon-tolkien-jrr-tolkien-hobbit  'Being Tolkien's grandson blocked my writing ..."] (by Joanna Moorhead)
+* [[2017]]: ''[[The Prancing Pony Podcast]]''
+** [https://theprancingponypodcast.com/2017/04/02/037-no-mans-land-an-interview-with-simon-tolkien/ No Man’s Land: An Interview with Simon Tolkien] (audio)
+* [[2025]]: ''Rock, Paper, Swords!'' Podcast
+** [https://www.youtube.com/watch?v=6waZocokC5s Simon Tolkien: Spanish Civil War Novels, Rings of Power & J.R.R. Tolkien’s Legacy]
+
+==External links==
+* '''[http://www.simontolkien.com/ Official Website]'''
+* {{WP|Simon Tolkien}}
+* [http://www.bbc.co.uk/oxford/films/2003/12/simon_tolkien.shtml The Lord of Confusion]
+
+{{references}}
+
+{{DEFAULTSORT:Tolkien, Simon}}
+[[Category:Authors]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:Tolkien Family]]
+[[de:Simon Tolkien]]
+[[fi:Simon Tolkien]]

@@ -1,0 +1,31 @@
+{{Poem infobox
+| title=Valedictory
+| other names=''From [[Wikipedia:Iffley|Iffley]]'',<br>''Oxenaford (of Gifeteslage gesewen)''
+| written=[[October]] of [[1911]]
+| revised=Before [[1915]]
+| published=''[[Stapeldon Magazine]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Wikipedia:Iffley|Iffley]]
+}}
+'''''Valedictory''''',<ref name=chronology>{{CG|Po}}, pp. 846, 857 (entries "''From the mamy-willow’d margin of the immemorial Thames''" and "''Valedictory''")</ref> or '''''Oxenaford (of Gifeteslage gesewen)''''',<ref name=collectedpoems>{{CP|10}}</ref> is a short poem about [[Oxford]] that was written by [[J.R.R. Tolkien]] in [[October]] of [[1911]].<ref name=reader>{{CG|RG}}, p. 333 (entry "From the Many-Willow’d Margin of the Immemorial Thames")</ref>
+
+== First stanza ==
+<poem style="font-style:italic; margin-left:20px;">
+:From the many-willowed margin of the immemorial Thames
+::Standing in a vale outcarven in a world-forgotten day
+:There is dimly seen uprising through the greenly veiléd stems
+::Many-mansioned tower-crownéd in its dreamy robe of grey
+:That strange city by the river agéd in the lives of men
+::Proudly wrapt in mystic memory overpassing human ken.<ref name=collectedpoems/></poem>
+
+== Background ==
+In the second half<ref name=chronology1911>{{CG|C}}, p. 29 (entry "Second half of October 1911")</ref> of October during the Michaelmas Term in 1911,<ref name=chronologyterm>{{CG|C}}, p. 28 (entry "Michaelmas Term 1911")</ref> Tolkien wrote a short untitled ode of two stanzas during his first undergraduate term at the [[University of Oxford]]. Tolkien later entitled it '''''From [[Wikipedia:Iffley|Iffley]]'''''. When Tolkien sent it to the ''[[Stapeldon Magazine]]'' to be published, the second stanza was lost by the editor. As such, in [[December]] of [[1913]],<ref name=chronology1913>{{CG|C}}, p. 47 (entry "December 1913")</ref> the first stanza was published without a title<ref name=chronology1913/> as no. twenty on page 11 in the magazine's fourth volume. Tolkien signed the poem with just his first initial. In a later revision on an unknown date, Tolkien made minor changes to the poem, including changing the title to ''Valedictory''.<ref name=reader/>
+
+In the spring of [[1915]],<ref name=collectedpoems/> Tolkien sent a copy of the poem to [[Christopher Wiseman]], who wrote back to him in [[April]].<ref name=chronology1915>{{CG|C}}, p. 64 (entry "Trinity Term 1915")</ref>
+
+In [[September]] of [[2024]], the poem was re-published as entry 10 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

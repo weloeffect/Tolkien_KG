@@ -1,0 +1,15 @@
+{{actor
+| image =
+| name = Peter Corrigan
+| lifetime = 
+| played = [[Otho Sackville-Baggins|Otho]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0992227/ Profile]
+}}
+'''Peter Russell Corrigan''' played [[Otho Sackville-Baggins]] in the [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|extended edition]] of ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+{{DEFAULTSORT:Corrigan, Peter}}
+[[Category:Actors and actresses]]
+[[Category:Australian people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]

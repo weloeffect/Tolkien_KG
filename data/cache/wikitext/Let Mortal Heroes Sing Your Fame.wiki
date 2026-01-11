@@ -1,0 +1,30 @@
+{{Album
+| title = Let Mortal Heroes Sing Your Fame
+| image = letmortal.jpg
+| type = Studio album
+| artist = [[Summoning]]
+| released = 31 October [[2001]]
+| genre = Black Metal
+| length = 56:23
+| language = English, [[Black Speech]]
+| label = Napalm Records
+| recorded = 
+}}'''''Let Mortal Heroes Since Your Fame''''' is the fifth full-length studio album by [[Summoning]] and was released in [[2001]]. This is the first Summoning album to make use of ''clean'' vocals and to make use of audio samples from radio productions of [[The Lord of the Rings]].<ref>{{Cite web|articleurl=https://www.metal-archives.com/albums/Summoning/Let_Mortal_Heroes_Sing_Your_Fame/115|articlename=Summoning - Let Mortal Heroes Sing Your Name Additional Notes|author=www.metalarchives.com|accessed=28 July 2024}}</ref> Many of the lyrics are taken from, or are influenced by, [[The Hobbit]].
+
+==Lineup==
+
+*Protector: ''Vocals (tracks 3, 4, 6-8), Drum Programming, Keyboards, Guitars''
+*Silenius: ''Vocals (tracks 2, 5, 8), Keyboards, Bass''
+
+==Track listing==
+#[[A New Power Is Rising]] – ''4:08''
+#[[South Away]] – ''6:04''
+#[[In Hollow Halls Beneath the Fells]] – ''8:56''
+#[[Our Foes Shall Fall]] – ''7:01''
+#[[The Mountain King's Return (song)|The Mountain King's Return]] – ''8:53''
+#[[Runes of Power]] – ''5:51''
+#[[Ashen Cold]] – ''6:16''
+#[[Farewell]] – ''9:19''
+
+{{title|italics}}{{References}}
+[[Category:Albums]]

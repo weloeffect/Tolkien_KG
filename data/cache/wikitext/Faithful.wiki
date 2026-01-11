@@ -1,0 +1,47 @@
+{{organization infobox
+| name=The Faithful
+| image = Ted Nasmith - The Ships of the Faithful.jpg
+| caption="The Ships of the Faithful" by [[Ted Nasmith]]
+| pronun=
+| othernames=[[Elendili]], Nimruzîrim, [[Elf-friends]]
+| founded=c. {{SA|2221}}
+| founder=
+| purpose=Faithful to the [[Eldar]] and [[Valar]]; opposed the [[King's Men]]
+| members=[[Amandil]], [[Tar-Palantir]], [[Elendil]]
+| location=[[Númenor]]
+| disbanded=
+| notablefor=Surviving the [[Downfall of Númenor]], and founding the [[Realms in Exile]]
+}}
+The '''Faithful''' ([[Quenya|Q.]] '''[[Elendili]]''', [[Adûnaic|A.]] '''Nimruzîrim''', both terms meaning "[[Elf-friends]]")<ref>{{PM|Akallabeth}}, §24, 25, p. 151</ref><ref>{{PE|17}}, entry S '''Dúnadan''', p. 18</ref> were those among the [[Númenóreans]] who remained loyal to the [[Valar]] and [[Ilúvatar]] throughout the history of [[Númenor]], and turned aside from the policies of the later [[King of Númenor|Kings of Númenor]] and the [[King's Men]].  
+
+Being the opposing party, the King's Men composed of the majority of the people, especially in the later part of the [[Second Age]], while the Faithful were a far smaller and increasingly oppressed group. The Faithful lived mostly on the west side of Númenor until [[Ar-Gimilzôr]], the twenty-third King, commanded them to move eastwards near [[Rómenna]].
+
+==Policies, beliefs and customs==
+The Faithful maintained the use of the [[Elvish|Elven tongues]] and welcomed the [[Elves]] of [[Tol Eressëa]] to their land, in spite of the growing hostility from the King's Men. The Faithful also respected and loved the Valar still, and made no attempt to speak against the [[Ban of the Valar|Ban]] that the Valar had set against the Númenóreans sailing into [[Aman|the West]]. Nevertheless, they "did not escape the affliction of their people" regarding the fear of Death that the [[Shadow]] had brought upon all the Númenóreans, and they were troubled by the fate of [[Men]]. Unlike the King's Men, though, the Faithful had chosen to believe the words of the [[messengers of the Valar]] and [[Estel|trust]] that death, called the [[Gift of Men]] by the Elves, was not an evil. It was in this choice that they differed most from the majority of the people of Númenor.
+
+Before the darkening of Númenor, the Númenóreans were permitted to climb the [[Meneltarma]], which was "sacred to the worship of Eru Ilúvatar,"<ref>{{UT|Numenor}}</ref> at will. Three times a year, the King would lead the people in a procession to the hallow on the mountain's summit and give a prayer of thanks to Ilúvatar. After the reign of Tar-Ancalimon, these processions ceased and "men went seldom any more to the Hallow." Ar-Pharazôn forbade any man to ascend to the summit on pain of death, "not even those of the Faithful who kept Ilúvatar in their hearts."<ref name="Akk">{{S|Akallabeth}}</ref>
+
+==History==
+===Early History===
+The Faithful became a party distinct from the King's Men during the reign of [[Tar-Ancalimon]] the fourteenth King ({{SA|2251}}),<ref>{{App|B1}}; note that the reference to [[Tar-Atanamir]] in the source is wrong. Cf. "[[The Line of Elros: Kings of Númenor]]", Note 10</ref> and insisted in keeping the old customs of their people. In later days, the Faithful looked to the [[Lords of Andúnië]] for guidance; held in high esteem by all the Númenóreans, the Lords kept their connection with the Faithful a secret for a long time, because they wished to use their power in the [[Council of the Sceptre|King's Council]] to steer the Kings to wiser courses of action. Nevertheless, the rulers of the isle became increasingly antagonistic to all those who were recognized to be members of the minority party.
+
+Like the King's Men, the Faithful also made settlements in [[Middle-earth]], most notably [[Pelargir]] ({{SA|2350}}),<ref name="sa">{{App|B1}}</ref> but unlike the trends of those days, the Faithful did not seek to subjugate the natives of the [[Middle-earth|Great Lands]]. Because of the coldness between the two parties, the Faithful built Pelargir far away from the colonies of the King's Men, which were a great distance to the south.<ref name="Akk" /> The Faithful also sailed northwards to [[Lindon]] to converse with the [[Elves of Lindon|Elves there]].
+
+===Treatment by the Later Kings of Númenor===
+The Kings of Númenor looked upon the Faithful and their continuing friendship with the Elves with increasing suspicion; they banned the use of the [[Eldarin]] tongues and eventually moved the Elf-friends to the east of the island so that they could no longer communicate with these "spies of the [[Valar]]". The Kings even kept them under surveillance to make sure they did nothing subversive. 
+[[File:Juliana Pinho - Faithful Family - Lindorie and Inzilbeth.png|thumb|left|''Faithful Family - Lindorie and Inzilbeth'' by Juliana Pinho]]
+The situation of the Faithful only became more bearable when Ar-Gimilzôr, who was the greatest enemy of the Elf-friends, married [[Inzilbêth]], one of the Faithful. His son, [[Tar-Palantir]], followed her faith and attempted to repent of the past actions of the Kings. He treated the Faithful kindly and allowed them to speak the Elven tongues again. But this caused a civil war of rebellion and strife.<ref name="sa" /> His daughter [[Tar-Míriel]] was also a Faithful and would follow his policies, but his nephew seized the [[Sceptre]] after his death and proclaimed himself King [[Ar-Pharazôn]]. Tar-Palantir's rule was only a minor break in what would become an increasingly cruel policy of oppression.
+
+Ar-Pharazôn did not immediately begin harassing the Faithful after he was secure in power; his attention was chiefly on [[Sauron]], who had begun to assail the settlements of the Númenóreans. Seeing that he could not defeat the Númenóreans by arms, Sauron decided to corrupt them to their destruction. The King brought Sauron to Númenor as a hostage, and it was then that the worst of the Faithful's misfortunes befell them.
+
+It was not long before Sauron had turned the hearts of most of the Númenóreans towards his counsels. As Ar-Pharazôn's life waned, he became desperate to escape death. Taking advantage of his fear, Sauron persuaded Ar-Pharazôn that Ilúvatar was a "phantom" invented by the Valar and [[Morgoth|Melkor]] was the "Lord of All" and "Giver of Freedom," who would prolong the King's life in exchange for worship in the form of human sacrifice. Thus, the King and the greater part of the Númenóreans turned to worship Melkor.<ref name="Akk" />
+
+Naturally, "it was most often from among the Faithful" that the Númenóreans chose their victims for these sacrifices. They never said that they killed the Faithful for not worshiping Melkor, however; instead the Númenóreans accused them of plotting against the King and the rest of the people of the land.<ref name="Akk" />
+
+===Escape from the Downfall===
+This cruel treatment lasted several decades until Ar-Pharazôn grew old and was in great fear of the approaching end of his life. Therefore he listened to Sauron's suggestion that he gather a massive [[Great Armament|Armament]] and sail to [[Aman]], land of the Valar, to claim everlasting life. When [[Amandil]] the last Lord of [[Andúnië]] heard this news, he knew that the Númenóreans would surely come to ruinous defeat in war against the Valar, and so he decided to make a preemptive voyage into the West to beg them for mercy and deliverance from Sauron. Before he left, he advised his son [[Elendil]] to furnish nine ships and anchor them off the east coast of Númenor and wait for what would happen next. After he sailed west, Amandil was never heard from again, but by taking his advice, Elendil and his sons survived the disastrous [[Downfall of Númenor]] that was the result of Ar-Pharazôn's war. A mighty wind took their ships eastward and swept them onto the shores of Middle-earth. There they set up the realms of [[Arnor]] and [[Gondor]]. These kingdoms were populated by both the descendants of the Faithful and indigenous Men of Middle-earth.
+
+{{references}}
+{{numenor}}
+[[Category:Faithful of Númenor| ]]
+[[Category:Organizations]]

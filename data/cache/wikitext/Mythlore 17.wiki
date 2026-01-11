@@ -1,0 +1,61 @@
+{{mythlore
+|title=Mythlore 17
+| image = Mythlore_17.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=May [[1978]]
+|format=Paperback
+|pages=47
+}}
+
+'''''Mythlore'' 17''' ([https://dc.swosu.edu/mythlore/vol5/iss1/ Volume 5, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents ==
+
+====Articles====
+
+* Walker, Steven L. "The War of the Rings Treelogy: An Elegy for Lost Innocence and Wonder." 3-5.
+* Howard, Thomas. "Charles Williams' Use of Arthurian Materials." 6-10.
+* Rosenberg, Jerome. "The Humanity of Sam Gamgee." 10-11.
+* Carter, Margaret L. "A Note on Moral Concepts in Lewis' Fiction." 35.
+* Christopher, Joe R. "Trying to Capture 'White Magic.'" 36-37.
+* Nelson, Marie. "Non-Human Speech in the Fantasy of C.S. Lewis, J.R.R. Tolkien, and Richard Adams." 37-39.
+
+====Features====
+
+* Letters. 12+.
+* GoodKnight, Glen H. Editorial: "Going On In the Great Dance." 25+.
+* Patterson, Nancy-Lou. "One Great Flower of Silver." Review of ''The Silmarillion'' by J.R.R. Tolkien. 27.
+* Patterson, Nancy-Lou. "Plums and Biscuits." Review of ''C.S. Lewis: An Annotated Checklist of Writings About Him and His Works'' by Joe R. Christopher and Joan K. Ostling. 29.
+* Patterson, Nancy-Lou. "Toward Pearl-Dust Shores." Review of ''A Speculation on the Silmarillion'' by Jim Allan. 29-30.
+* Christopher, Joe R. "Let Us Go a-Carrolling." Review of ''Lewis Carroll Observed'', edited by Edward Guiliano; ''The Rectory Magazine'', edited by Lewis Carroll; ''Lewis Carroll as I Knew Him'' by Isa Bowman. 29-30.
+* Some Tolkien Art. 31.
+* Comments on Some Photographs. 32+.
+* Christopher, Joe R. "An Inklings Bibliography (6)." 40-46.
+* ''Mythprint''. 47.
+
+====Poetry====
+
+* Paxson, Diana L. "The Baby and the Bird." 23+.
+* Boenig, Robert. "Bors Returning." 26.
+
+====Art====
+
+* Bonnie GoodKnight: cover, 2, 11; Photographs
+* Thadara Ottobris: 6, 7, 8, 9
+* Sarah Beach: 12, 13, 18, 19
+* Mark Badger: 15, 18
+* Tim Kirk: 27, 47
+* R. Patrick McCabe: 28
+* Robin McCabe: back cover
+* Peter Thorpe: 37
+* Cover: Bonnie GoodKnight, "Mandos giving the Doom of the Noldor from ''The Silmarillion''."
+* Back Cover: Robin McCabe, "Earendil on the ship Vingilot."
+* Page 17: Michael Logan, "Theoden."
+* Page 21: Elzabeth Best, "Flight to the Ford."
+* Page 24: Mark Badger, "Jill Eustace, and Puddleglum crossing the Giant's Bridge."
+{{mythlorenav|16|18}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 017}}
+
+[[Category:Mythlore]]

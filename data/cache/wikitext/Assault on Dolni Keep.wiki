@@ -1,0 +1,16 @@
+{{expansion}}
+{{video game infobox
+| image = Assault on Dolni Keep.png
+| name=Assault on Dolni Keep
+| developer=[[Eamon (video game)|Eamon]]
+| publisher=[[Eamon (video game)|Eamon]]
+| platform=[[wikipedia:Apple II series|Apple II]]
+| releasedate=[[1987]]<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/assault.html Tolkien Games] (retrieved 28 October 2010)</ref>
+| genre=Text-adventure
+}}'''''Assault on Dolni Keep''''' is a text-adventure  video game made by [[Tom Zuchowski]].<ref>[http://ifdb.tads.org/viewgame?id=rw9quntgskgb91gg The Interactive Fiction Database] (retrieved 28 October 2010)</ref> It is the sequel to ''[[Thror's Ring]]''.<ref name="Tolkien Games"/> Orcs have captured an Elf lord, and the player has to free him.<ref name="Tolkien Games"/>
+
+{{references}}
+{{title|italics}}
+[[Category:Apple II series games]]
+[[Category:Eamon games]]
+[[Category:Text-Adventure video games]]

@@ -1,0 +1,24 @@
+{{Poem infobox
+| title=The Last Ship
+| image=Pauline Baynes - The Last Ship.jpeg
+| caption="The Last Ship" by [[Pauline Baynes]]
+| other names=''Fíriel''
+| written=Before [[1933]]
+| revised=[[1961]]
+| published=''[[The Chronicle of the Convents of the Sacred Heart (Volume IV)|The Chronicle of the Convents of the Sacred Heart]]'',<br>''[[The Adventures of Tom Bombadil]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Fíriel (The Last Ship)|Fíriel]], [[Last Ship]]
+}}
+'''''The Last Ship''''' was a poem of the lore of [[the Shire]] originating in the [[Fourth Age]], and was probably derived from [[Gondor]].<ref>{{AB|Preface}}</ref>
+
+It spoke about a woman, [[Fíriel (The Last Ship)|Fíriel]], who was so beautiful that the [[Elves]] offered to carry her over the [[Straight Road]] to [[Valinor]], but she was unable to accompany them.<ref>{{AB|Ship}}</ref>
+
+==Other versions of the legendarium==
+The original version of the poem was originally called '''''Firiel''''' and was published in [[1934]] within [[The Chronicle of the Convents of the Sacred Heart (Volume IV)|''The Chronicle of the Convents of the Sacred Heart'' (Volume IV)]]. The poem was revised and given the name ''The Last Ship'' within ''[[The Adventures of Tom Bombadil]]'' in [[1962]].<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=13690|articlename=Chronicle. 1934|dated=|website=TB|accessed=14 August 2013}}</ref>
+
+==See also==
+* [[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{References}}
+{{poems}}
+{{DEFAULTSORT:Last Ship, The}}
+[[Category:Poems in The Adventures of Tom Bombadil]]

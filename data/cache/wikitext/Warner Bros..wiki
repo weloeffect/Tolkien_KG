@@ -1,0 +1,35 @@
+{{company infobox
+| name=Warner Bros.
+| image = Warner_Bros. (2019) logo.gif
+| founded=[[April 4]], [[1923]]
+| founder=Harry Warner, Albert Warner, Sam Warner and Jack L. Warner
+| location=Burbank, CA
+| type=Film and television studio
+| keypeople=
+| members=
+| subsidiaries=
+| products=
+| parent=
+| owner=
+| precededby=
+| succeededby=
+| website=https://www.warnerbros.com/
+}}
+'''Warner Bros.''' is a world-wide film and television American company based in Burbank, California, currently owned by Warner Bros. Discovery.
+
+Currently, the company has the distribution rights of [[The Hobbit (1967 film)|almost]] all licensed film adaptations of [[J.R.R. Tolkien|J.R.R. Tolkien's]] works.
+
+==Subsidiaries==
+* [[New Line Cinema]], film studio of [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+* [[Warner Bros. Games]], publisher of every Middle-earth related videogame since 2010.
+* [[Turbine]], former developers and publishers of ''[[The Lord of the Rings Online]]''.
+* [[Snowblind Studios]], developer of ''[[The Lord of the Rings: War in the North]]''.
+* [[Monolith Productions]], developer of ''[[Guardians of Middle-earth]]'', ''[[Middle-earth: Shadow of Mordor]]'' and ''[[Middle-earth: Shadow of War]]''.
+
+==External links==
+* {{WP|Warner Bros.}}
+* [http://www.warnerbros.com/ Official Site]
+
+[[Category:American businesses]]
+[[Category:Businesses]]
+[[de:Warner Bros.]]

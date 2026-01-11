@@ -1,0 +1,25 @@
+{{film infobox
+| image=Tolkien's Great War.jpg
+| name=Tolkien's Great War
+| director=Elliot Weaver, Zander Weaver
+| producer=Elliot Weaver, Zander Weaver
+| writer=
+| narrator=Zander Weaver
+| music=
+| cinematography= 
+| editing= 
+| distributor=Free Spirit Film & TV
+| released=[[30 November]] [[2014]]
+| runtime=32 minutes
+| country=UK
+| language=English
+| budget=
+| website=
+}}
+'''''Tolkien's Great War''''' is a [[2014]] documentary film about the experiences of [[J.R.R. Tolkien]] and his closest friends in the First World War. Made by two former pupils of [[King Edward's School]], Zander and Elliot Weaver, the film-makers interview [[John Garth]], Simon Stacey and Paul Golightly.
+
+==External links==
+*[http://kes.org.uk/about-us/history-of-the-school/king-edwards-school-great-war/tolkiens-great-war/ Tolkien's Great War documentary] at King Edward's School website
+
+{{title|italics}}
+[[Category:Documentaries]]

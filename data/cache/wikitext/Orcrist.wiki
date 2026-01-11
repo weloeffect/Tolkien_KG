@@ -1,0 +1,54 @@
+{{disambig-two|Thorin's sword|journal|[[Orcrist (journal)]]}}
+{{object infobox
+| name=Orcrist
+| image = Ted Nasmith - Orcrist, The Goblin Cleaver.jpg
+| caption="Orcrist, The Goblin Cleaver" by [[Ted Nasmith]]
+| pronun=
+| othernames=Biter
+| location=[[Gondolin]], [[Trollshaws]], [[Erebor]]
+| owner=[[Thorin]]
+| type=Sword
+| appearance=Sword with a jewelled hilt, glowed blue in the presence of Orcs
+| creator=
+| created=[[First Age]]
+| createdlocation=[[Gondolin]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=Being [[Thorin]]'s Blade
+}}
+{{Quote|This, Thorin, the runes name Orcrist, the Goblin-cleaver in the ancient tongue of Gondolin; it was a famous blade.|Elrond, "[[A Short Rest]]"}}
+'''Orcrist''' was an Elven sword, the mate of [[Glamdring]]. It had a decorated scabbard and a jewelled hilt. Like [[Glamdring]] and [[Sting]], the blade could detect the presence of Orcs and warn its bearer by glowing blue.
+
+Orcs called the blade '''Biter'''.<ref name=hill>{{H|Hill}}</ref> It had been crafted by the [[Elves]], who not only made it a valuable weapon, but also a feared one to their enemies, particularly among [[Orcs]] and other evil creatures.<ref name=rest>{{H|Rest}}</ref> 
+
+==History==
+As the "mate" to King [[Turgon]]'s sword Glamdring, Orcrist was likely borne by him, or a high ranking lord of the [[Gondolindrim]] in the King's entourage.  
+
+Orcrist "had killed hundreds of goblins in its time, when the fair elves of Gondolin hunted them in the hills or did battle before their walls".<ref name=hill/> During the [[Fall of Gondolin]], [[Rog]], [[Duilin of Gondolin|Duilin]], [[Egalmoth]], [[Tuor]] and [[Ecthelion]]'s houses defended at the gates before the walls. [[Ecthelion]] led a charge that resulted in the deaths of thousands of [[orcs]], which made his name a terror to their race, before fighting [[Gothmog (balrog)|Gothmog]].
+
+By the [[Third Age]] Orcrist and its mate were found and kept in a [[Trolls' cave]] in [[Eriador]]. [[Thorin and Company]], found and searched the cave early in the [[Quest of Erebor]], and [[Thorin]] [[Oakenshield]] obtained the weapon.<ref>{{H|Mutton}}</ref> [[Elrond]] identified the sword and Thorin promised to honor the sword and hoped to cleave Goblins once again<ref name=rest/> which he did when captured in [[Goblin-town]].<ref name=hill/>
+
+Thorin was disarmed when captured by the [[Elves of Mirkwood]] and Orcrist was kept there.<ref>{{H|8}}</ref> However after his death, [[Thranduil]] returned Orcrist and placed it upon Thorin's tomb under [[Lonely Mountain|Erebor]], and it "gleamed ever in the dark if foes approached".<ref>{{H|Return}}</ref>
+
+==Etymology==
+''Orcrist'' is [[Sindarin]] for "goblin-cleaver".<ref>{{HM|RC}}, p. 265</ref>
+[[File:The Hobbit (film series) - Thorin and Orcrist.jpg|thumb|right|Orcrist in [[The Hobbit (film series)|''The Hobbit'' (film series)]]]]
+In the ''[[The Etymologies|Etymologies]]'', the name ''Orchrist'' is said to be a "sword-name", related to [[Noldorin]] ''risto'' ("rend, rip"), derived from the [[Sundocarme|root]] RIS ("slash, rip").<ref>{{LR|Etymologies}}, p. 384</ref>
+
+==Portrayal in adaptations==
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:Thorin acquires Glamdring in the trolls' cave. Elrond recognizes the sword at first glance, and afterwards identifies Glamdring. The Goblins found Orcrist on Thorin after they captured the Dwarves and Bilbo and it was recognized by the guard who removes it from his person. Thorin's recovery of it is not depicted.
+
+'''2012-14: [[The Hobbit (film series)|''The Hobbit'' (film series)]]:''' 
+:As in the book, the sword is found in the trolls' cave and is identified as Orcrist by [[Elrond]] in [[Rivendell]]. It's designed as a straight, single-edged sword with a prominent recurve at the cutting edge. Its pommel consists of two prongs, and it possesses a half-guard (whereas most Elven swords in Jackson's films are shown without guards). The grip of the sword is fashioned from a dragon's tooth and the base of the blade contains the [[Sindarin]] inscription "NAGOL E-LYG" meaning "Tooth of-Snake [or dragon]".<ref>[[Jude Fisher]], ''[[The Hobbit: The Desolation of Smaug: Visual Companion]]'', p. 13</ref>
+
+:When it is discovered by the Goblins, the [[Great Goblin]] recognizes the sword, and claims that it sliced a thousand necks. Later, when Thorin and Company are captured by the Wood-elves, [[Legolas]] personally confiscates the sword, believing that Thorin Oakenshield had stolen it from his kinfolk. He then takes up the legendary weapon as his own, using it when [[Bolg]] and his stealth-Orcs raid Lake-town in search of the Dwarves, and during the Battle of the Five Armies, where he returns Orcrist to Thorin just in time for his final showdown with [[Azog| Azog the Defiler]].
+
+{{references}}
+{{Weapons}}
+[[Category:Sindarin names]]
+[[Category:Swords]]
+[[de:Orcrist]]
+[[fi:Orkrist]]
+[[fr:encyclo/artefacts/armes/orcrist]]

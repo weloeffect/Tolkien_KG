@@ -1,0 +1,35 @@
+{{disambig-two|the soundtrack|actual wizard|[[Saruman]]}}
+{{song
+| title=Saruman the White
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=4:09
+| track=Disc 1 Track 11
+| previous=[[The Passing of the Elves]]
+| next=[[A Shortcut to Mushrooms (soundtrack)|A Shortcut to Mushrooms]]
+| spotify=https://open.spotify.com/track/66uWLFYPcgkcLrsezpwM8w
+}}
+'''Saruman the White''' is the eleventh track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[03:24]  Ash Burz-Durbagu
+[03:28] Burzum ishi
+[03:31] Daghburz-ishi
+[03:35] makha
+[03:39] gulshu darulu
+[03:44] Ash
+[03:46] Burz
+[03:48] dur-
+[03:50] ba-
+[03:52] gu
+[03:54] bur-
+[03:57] zum
+[03:59] i-
+[04:00] shi
+</poem>
+
+{{DEFAULTSORT:1.11}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

@@ -1,0 +1,69 @@
+{{kingdom
+| name=Iron Hills
+| image=The Lord of the Rings Online - Iron Hills.jpg
+| pronun=
+| othernames=
+| location=East of the [[Lonely Mountain]], in northeastern [[Rhovanion]]
+| capital=
+| towns=
+| regions=
+| population=[[Durin's Folk]]
+| language=[[Khuzdul]], [[Westron]]
+| govern1=[[Lord of the Iron Hills]]
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=First Colonized
+| event1date=[[First Age]]
+| event2=Establishment of Lordship
+| event2date={{TA|2590}}
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+}}
+
+The '''Iron Hills''' were a range of great hills in the north-east of [[Rhovanion|Wilderland]].<ref name="Map">{{UT|Map}}</ref> The Hills were the source of the river [[Carnen]]<ref name="Map" /> and rich in iron<ref name="Relations">{{PM|Relations}}, p. 302</ref>. It was also home to a [[Dwarf realms|Dwarf-realm]] of the [[Durin's Folk|Longbeards]].<ref>{{H|Gathering}}</ref>
+
+Although the Iron Hills were rich in iron, they were probably not in [[gold]]; the [[Dwarves of the Iron Hills]], although prosperous, were not as wealthy as their other cousins (e.g. the [[Kingdom Under the Mountain]]).<ref name="Foster">{{HM|Guide}}, entry '''Iron Hills''', p. 212</ref>
+
+==History==
+===Early history===
+The [[Durin's Folk|Longbeard]] [[Dwarves]] of [[Moria|Khazad-dûm]] colonized the Iron Hills in the [[First Age]].<ref group=note>The existence of the Iron Hills in the First Age is confirmed by Tolkien's writings published in ''[[The Peoples of Middle-earth]]''. Before these writings were published, other authors speculated that the Iron Hills might have been a part of the [[Iron Mountains]] in the First Age and came into independent existence after the [[War of Wrath]]. See {{HM|AME}} p. 78 and [[Charles Noad]], "A Note on the Geography of the [[First Age]]" in [[Amon Hen 38|''Amon Hen'' 38]], p. 12.</ref> The Hills were their primary source of iron-ore,<ref name="Relations" />  and so the [[Old Forest Road|Dwarf-road of Mirkwood]] ran north-east to the Hills for the dwarf-traders and merchants between Khazad-dûm and the Hills.<ref>{{PM|XNotes}}, p. 323 (note 30)</ref>
+
+Also in the First Age, some Men who migrated out of the east—"laggard kindred" of the [[Edain]]—chose to settle in the lands between the Iron Hills and Mirkwood.<ref>{{PM|Atani}}, p. 306</ref>
+
+After [[Sauron]] destroyed [[Eregion]] in the [[Second Age]], the Longbeards sealed Khazad-dûm and Orcs took control of the northern Misty Mountains and the Grey Mountains. This cut off communications between the Iron Hills and Khazad-dûm for some time.<ref>{{PM|Relations}}, p. 306</ref>
+
+===Third Age===
+In {{TA|1981}} the last of the Dwarves living in Khazad-dûm fled from the [[Balrogs|Balrog]] who had slain kings [[Durin VI]] and [[Náin I]].<ref>{{App|TA}}, entry for the year 1981, p. 1087</ref> Most of those who escaped wandered to the north. [[Thráin I]], the son of Náin I, moved to the [[Lonely Mountain]] and established the [[Kingdom under the Mountain]] there.<ref>{{App|Durin}}, entry for Thráin I, p. 1072</ref> His son [[Thorin I]] moved from there to the far north to the [[Grey Mountains]] where most of [[Durin's Folk]] had settled, because the mountains were rich and had hardly been explored.<ref>{{App|Durin}}, entry for Thror I, p. 1072</ref>
+
+In {{TA|2570|n}} dragons began [[War of the Dwarves and Dragons|afflicting the dwarves in the north]] and in {{TA|2589|n}} King [[Dáin I]] was slain by a [[Cold-drakes|cold-drake]] outside [[Dáin's Halls|his hall]] in the Grey Mountains.<ref>{{App|TA}}, entry for the year 2589, p. 1087</ref> A short time afterwards most of Durin's Folk left the Grey Mountains.<ref name="Grór">{{App|Durin}}, entry for Grór, p. 1072</ref> In {{TA|2590|n}}<ref name="TA2590">{{App|TA}}, entry for the year 2590, p. 1087</ref> [[Grór]], the youngest son of Dáin,<ref name="Line">{{App|Durin}}, The Line of the Dwarves of Erebor, p. 1079</ref> left the Grey Mountains with many followers and established a Lordship in the Iron Hills<ref name="Grór" />. In the same year,<ref name="TA2590" /> [[Thrór]], the oldest son<ref name="Line" /> and heir of Dáin, and the rest of the Dwarves of the Grey Mountains moved back to the Lonely Mountain<ref name="Thrór">{{App|Durin}}, entry for Thrór, p. 1072</ref>.
+
+Over the next few centuries a large quantity of ore was traded between the Dwarves of Erebor and the Dwarves of the Iron Hills,<ref name="Thrór" /> until the dragon [[Smaug]] [[Sack of Erebor|destroyed]] the Kingdom under the Mountain and scattered the Longbeards who dwelt there<ref name="Thrór" /> in {{TA|2770|n}}<ref>{{App|TA}}, entry for the year 2770, p. 1088</ref>. Most of the survivors subsequently went to their kinsmen in the Iron Hills.<ref>{{App|Durin}}, entry for Thrór, footnote after "They went away south with their family.", p. 1072</ref>
+
+In {{TA|2799|n}}<ref>{{App|TA}}, entry for the year 2799, p. 1088</ref> the final battle of the [[War of the Dwarves and Orcs]] [[Battle of Azanulbizar|occurred in the Dimrill Dale]]. When reinforcements, led by [[Náin (son of Grór)|Náin]], arrived from the Iron Hills the battle turned in the favour of the dwarves. With the war over, Dáin led his people home where, after the death of Grór, he became the new [[Lord of the Iron Hills]].<ref>{{App|Durin}}, entry for Dáin II Ironfoot, p. 1075</ref>
+
+On March 15,{{TA|2941}}, [[Gandalf]] knew already that [[Sauron]] intended to attack [[Rivendell]] as soon as he felt to be strong enough. He also knew that only the Dwarves of the Iron Hills were there to oppose any attempt from the East to occupy [[Angmar]] and the northern passes over the [[Misty Mountains]].<ref>{{App|Durin}}, entry for Thorin II Oakenshield, p. 1078</ref>
+
+In {{TA|2941|n}}<ref>{{App|TA}}, entry for the year 2941, p. 1089</ref> Lord [[Dáin Ironfoot]] led his warriors in the [[Battle of Five Armies]] near Erebor<ref name="Dáin">{{App|Durin}}, entry for Dáin II Ironfoot, p. 1078</ref>. The battle was won, but Thorin was slain and Dáin became the new [[King under the Mountain]] and [[Kings of Durin's Folk|King of the Longbeards]] as Dáin II. He relocated to Erebor and re-established the Kingdom under the Mountain.<ref name="Dáin" /> The Iron Hills passed out of history after this relocation, but probably were not wholly deserted.<ref name="Foster" />
+
+==Portrayal in adaptations==
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:The Iron Hills are an area in the region of "The Dwarf-holds", ruled by "Lord Náin the Slakeless", brother of King [[Thorin Stonehelm]]. The hills and the scrub-land connecting to the [[Dale]]-lands are also known collectively as the "Ironfold". Settled by "Farin Blackmattock" in the First Age, the capital "Járnfast" was destroyed by the fall of [[Thangorodrim]] and afterwards rebuilt. During the time it features in the game, Járnfast has been damaged by tremors caused by [[Mount Doom]]'s recent eruption. It is also the site of a seal that confines a horde of [[nameless things]] in "The Howling Pit" below.
+
+==See also==
+*[[Dwarves of the Iron Hills]]
+*[[Lord of the Iron Hills]]
+
+==Notes==
+{{references}}
+[[Category:Dwarven realms]]
+[[Category:Hills]]
+[[Category:Mountain ranges]]
+[[Category:Rhovanion]]

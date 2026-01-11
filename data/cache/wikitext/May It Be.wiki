@@ -1,0 +1,66 @@
+{{Infoboxes
+|label1 = OST
+|content1 = {{song
+| title=May It Be
+| subtitle=Composed & performed by Enya
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Enya]], [[Wikipedia:Nicky Ryan|Nicky Ryan]], [[Wikipedia:Roma Ryan|Roma Ryan]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], [[Enya]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=4:17
+| track=18
+| previous=[[The Breaking Of The Fellowship (soundtrack)|The Breaking of the Fellowship]]
+| spotify=https://open.spotify.com/track/7LAJWSKK8JMIZAcblgUMS6
+}}
+|label2 = Complete Recordings
+|content2 = {{song
+| title=May It Be
+| subtitle=Composed & performed by Enya
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Enya]]
+| lyricist=[[Enya]], [[Wikipedia:Roma Ryan|Roma Ryan]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]], [[Enya]]
+| additionalcredits=Conducted by [[Howard Shore]], Produced by [[Wikipedia:Nicky Ryan|Nicky Ryan]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=3:32
+| track=Disc 3 Track 8
+| previous=[[The Road Goes Ever on ... Pt. 1|The Road Goes Ever On... Pt. 1]]
+| next=[[The Road Goes Ever On ... Pt. 2|The Road Goes Ever On... Pt. 2]]
+| spotify=https://open.spotify.com/track/1OQ8HS8ocbP4pwbbubdeJn
+}}
+}}
+'''May It Be''' is a song composed and sung by [[Enya]] for [[Peter Jackson|Peter Jackson's]] ''[[The Lord of the Rings: The Fellowship of the Ring]]'' with English and [[Quenya]] lyrics written by longtime Enya collaborator [[wikipedia:Roma Ryan|Roma Ryan]].<ref name="AnnotatedScore">[[Doug Adams]] ([[2006]]), ''The Annotated Score (Part I: The Fellowship of the Ring)'', p. 23</ref> It was nominated for the Academy Award for Best Song in [[2002]].
+
+It is the final track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' and the eighth track of the third disc of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]''.
+
+==Lyrics==
+<poem>
+May it be an evening star
+Shines down upon you
+May it be when darkness falls
+Your heart will be true
+You walk a lonely road
+Oh! How far you are from home
+
+Mornië utúlië ([[Quenya]] for "Darkness has come" mornië=darkness, utúlië=has come) 
+Believe and you will find your way
+Mornië alantië (Quenya for "Darkness has fallen" mornië=darkness, alantië=has fallen)
+A promise lives within you now
+
+May it be the shadow's call
+Will fly away
+May it be you journey on
+To light the day
+When the night is overcome
+You may rise to find the sun
+
+Mornië utúlië (Quenya for "Darkness has come")
+Believe and you will find your way
+Mornië alantië (Quenya for "Darkness has fallen")
+A promise lives within you now
+A promise lives within you now 
+</poem>
+{{references}}
+{{lordoftheringsfilms}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack|18]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings|3.08]]

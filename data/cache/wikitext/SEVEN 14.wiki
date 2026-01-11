@@ -1,0 +1,35 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 14
+| image=
+| editor=
+| illustrator=
+| date=[[1997]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229595|articlename=Vol. 14, 1997|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 14''''' is the fourteenth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[1997]].<ref name="jstor" />
+==Contents==
+*"Dorothy L. Sayers and the Oecumenical Penguin"
+**By: Giles Watson
+*"Dorothy L. Sayers and Aristotle"
+**By: Rosamond Kent Sprague
+*"Beyond Ideas: The Intrigue of the ''Lilith'' Manuscripts"
+**By: Rolland Hein
+*"Response to Dorothy L. Sayers's ''Worship in the Anglican Church''"
+**By: John Thurmer
+*"Disseminating Glory: Echoes of Charles Williams in the Works of T.S. Eliot"
+**By: Suzanne Bray
+*"Warren Lewis: Historian of the Inklings and of Seventeenth-Century France"
+**By: [[Richard C. West]]
+*"On Being a Ghost"
+**By: Jill Paton Walsh
+*"Christmas and Sport"
+**By: G.K. Chesterton (Introduction by Adam Schwartz)
+*"Authors on the Internet"
+**By: Anthony Palmer Dawson<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|13|15}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 14}}
+
+[[Category:SEVEN]]

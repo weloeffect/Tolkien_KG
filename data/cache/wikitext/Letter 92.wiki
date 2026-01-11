@@ -1,0 +1,19 @@
+{{letter infobox
+| #=92
+| to=[[Christopher Tolkien]]
+| date=[[18 December]] [[1944]]
+| subject=War, [[C.S. Lewis]]
+}}{{letter|92}}
+==Summary==
+Tolkien lamented his son's stay in the Royal Air Force, which he considered a modern [[wikipedia:Moloch|Moloch]] (in this sense, an institution demanding costly sacrifices). He then said that his wishes were in vain, and he still feared the "war-aircraft".<ref group="note">When Tolkien fought in [[World War I]], planes were used to strike fear into the troops in the trenches. Though their role had changed by 1944, Tolkien still held them in "special horror".</ref>
+
+He then discussed the writing plans of [[C.S. Lewis]] and himself. They were both writing at the time, and considered writing a book together.<ref group="note">It is not quite clear what books they were working on. [[Humphrey Carpenter|Carpenter]] and [[Christopher Tolkien]] suggest ''[[wikipedia:The Lion, the Witch and the Wardrobe|The Lion, the Witch and the Wardrobe]]'' for Lewis, and ''[[The Notion Club Papers]]'' for Tolkien. The book they planned to write together - ''Language and Human Nature'' - was never published.</ref>
+
+;In the expanded edition
+In the first paragraph Tolkien says that he is displeased with Christmas becoming wearisome and commercialized, and that he has a lot of letters to write. Then he complains about somethings in shops being too low-quality and pricey.
+
+{{notes}}
+{{letters}}
+{{DEFAULTSORT:Letter 092}}
+[[Category:Letters to Christopher Tolkien]]
+[[de:Brief 92]]

@@ -1,0 +1,57 @@
+{{mythlore
+|title=Mythlore 5
+| image = Mythlore_5.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1970]]
+|format=Paperback
+|pages=23
+}}
+
+'''''Mythlore'' 5''' ([https://dc.swosu.edu/mythlore/vol2/iss1/ Volume 2, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+==== Features ====
+
+* GoodKnight, Glen. "The Counsel of Elrond." 2.
+* Zuber, Bernie. "Across the Brandywine." 3.
+* Kuhl, Rand. "Lore of Logres: In Touch with Joy." Review of "On Fairy-stories" by J.R.R. Tolkien. 11.
+* "News of Special Events." 12+.
+* Zuber, Bernie. "World of Fanzines." 16+.
+* "Missives to Mythlore." 21+.
+* Editorial: "Learning from Tolkien." 23+.
+
+==== Fiction ====
+
+* Levy, Michael. "The Griffin." 10.
+
+==== Poetry ====
+
+* Warren, Eugene. "Utter East." 10.
+
+==== Articles ====
+
+* Juhren, Marcella. "The Ecology of Middle Earth." 4-6, 9.
+* GoodKnight, Glen. "The Social History of the Inklings: J.R.R. Tolkien, C.S. Lewis, Charles Williams, 1939-1945." 7-9.
+* Hannay, Margaret P. "The Mythology of ''Perelandra''." 14-16.
+* McKenzie, Sister Elizabeth. "Above All Shadows Rides The Sun." 18.
+* Peoples, Galen. "The Great Beast: Imagination in Harness." 19-20.Bernie Zuber: 5, 21, 31, 32, 40
+
+==== Art ====
+
+* George Barr: cover, 20, 22
+* Bonnie Bergstrom: 2, 4, 5, 6, 7, 8, 9, 10, 13, 18, 22
+* Katherine Cribbs: 16
+* Tim Kirk: cover, 12, 13, 14, 15, back cover
+* Bruce McMenomy: 9
+* Bernie Zuber: 10, 17, 19
+* Cover: George Barr, The first of Tolkien; Tim Kirk, His creatures
+* Back Cover: Tim Kirk, "Jadis showing the children Charn from ''The Magician's Nephew'' by C.S. Lewis"
+* Page 12: Wendy Fletcher, "The White Witch from ''The Lion, The Witch, and The Wardrobe'' by C.S. Lewis"
+* Page 17: Bernie Zuber, "Rivendell"
+{{mythlorenav|4|6}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 005}}
+[[Category:Mythlore]]

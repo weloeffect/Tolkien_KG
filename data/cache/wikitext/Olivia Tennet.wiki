@@ -1,0 +1,17 @@
+{{actor
+| image=
+| name=Olivia Tennet
+| lifetime=[[4 January|January 4]], [[1991]]
+| played=[[Freda]]
+| film=[[The Lord of the Rings: The Two Towers]]
+| played2=
+| film2=
+| imdb=[http://www.imdb.com/name/nm0855092/ Profile]
+}}'''Olivia Tennet''' is a New Zealand child actress. She played [[Freda]] in ''[[The Lord of the Rings: The Two Towers]]''.
+
+== External links ==
+* {{WP|Olivia Tennet}}
+
+[[Category:Actors and actresses|Tennet, Olivia]]
+[[Category:New Zealand people|Tennet, Olivia]]
+[[Category:People by name|Tennet, Olivia]]

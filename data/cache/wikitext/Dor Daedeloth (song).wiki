@@ -1,0 +1,42 @@
+{{Disambig-two|the song by [[Summoning]]|land of [[Morgoth]] in the [[First Age]]|[[Dor Daedeloth]]}}{{Song
+| title = Dor Daedeloth
+| album = [[Minas Morgul (album)|Minas Morgul]]
+| image = Summoning Minas Morgul.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 10:16
+| track = 11
+| spotify = https://open.spotify.com/track/51GWLLKjqU8AXyfyHfrXvp
+| writer = Summoning
+| previous = [[The Legend of the Master-Ring]]
+}}'''''Dor Daedeloth''''' is the eleventh and final track of the album [[Minas Morgul (album)|Minas Morgul]] by the band [[Summoning]]. The song name is taken from [[Dor Daedeloth]], the land of [[Morgoth]] in the [[First Age]]''.'' The lyrics reference the region itself, the [[Iron Mountains]], and the [[Ered Gorgoroth|Mountains of Terror]].
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+My heart for your word, Ered Engrin, 
+and watch your folk, tired and small 
+all hope lies in its last breath... 
+You won't fear us, for we won't bring you anything 
+but a fading spirit, 
+the essence of my frost cries... 
+
+frost and ice destroy... 
+
+My heart for your word, Dor Daedeloth, 
+You have seen the journey of time, and let us, 
+half mortal beings, take part of the truth 
+and the solitude of mankind, forewer... 
+
+Wherever we go, wherever we stand, silence 
+covers the blood soaken land, 
+and so we pass the mountains of Ered Gorgoroth. 
+
+Five shillvets are crossing the plains 
+to the wide open forests of the west 
+on and on they are travelling, in 
+the direction of Hithlum 
+called Nebelland, that made me 
+asking for eternity...
+</poem>
+{{title}}
+[[Category:Songs by Summoning]]

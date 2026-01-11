@@ -1,0 +1,38 @@
+{{journal
+| title=Other Minds 27
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=February [[2024]]
+| format=PDF
+| pages=94
+| issn=
+}}
+
+'''''Other Minds'' 27''' is the twenty-seventh issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in February 2024.
+
+==Contents==
+* "Editorial: A New Year!"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "The Chronicle of Curandir"
+** By Dale Davis
+* "The Rangers of the North"
+** By Thomas Morwinsky and Gabriele Quaglia
+* "Lord of the Rings Roleplaying 5E House Rule: Spellcasting"
+** By Charlie Bell
+* "The Gwaith-i-Luthryn"
+** By Thomas Morwinsky
+* "On a Knife's Edge"
+** By Andreas Erdmann
+* "Review: Tales from the Lone Lands"
+** By José Enrique Vacas de la Rosa
+
+*'''Artwork / Maps:'''
+** By: AnotherStranger-Me, [[Matěj Čadil]], Ralph Damiani, Liz Danforth, Dale Davis, Jenny Dolfen, Anke Eissmann, Wouter Florusse, Caspar David Friedrich, Kory Furhman, Raymond Gaustadness, Donato Giancola, John Howe, Lída Aegeri Holubová, Jowita, Olga Kukhtenkova, James Turner Mohan, Thomas Morwinsky, Ted Nasmith, Nolanos, Dan Pilla, John Emmanuel Shannon, Ari Suonpää
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 27}}
+[[Category:Other Minds]]

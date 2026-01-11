@@ -1,0 +1,65 @@
+{{rewrite}}
+{{people infobox
+| name=Galadhrim
+| image = Rebecca Guay - Galadhrim.jpg
+| caption="Galadhrim" by Rebecca Guay
+| pronun={{respell|gal|ath|rim}}
+[[Sindarin|S]], {{IPA|[ga'laðrim]}}
+| othernames=Elves of Lórien, Elves of Lórinand, Tree-people
+| origin=[[Silvan Elves]] of [[Lothlórien]]
+| location=[[Lothlórien]], [[East Lórien]]
+| affiliation=[[Last Alliance of Elves and Men]]
+| rivalry=
+| language=[[Silvan Elvish]], [[Sindarin]], [[Westron]]
+| members=[[Haldir]], [[Rúmil (Elf of Lórien)|Rúmil]], [[Orophin]], [[Amdír]], [[Amroth]], [[Nimrodel]], [[Mithrellas]], [[Celeborn]], [[Galadriel]]
+| lifespan=Immortal
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Galadhrim''' or '''Tree-people''' were [[Elves]], mostly [[Silvan Elves|Silvan]] in origin but also of [[Nandorin]] and [[Avarin]] descent, that inhabited the woods of [[Lothlórien]]. 
+
+==History==
+
+=== First Age ===
+Those among the [[Teleri|Telerin Elves]] who abandoned the [[Great Journey]] of the [[Eldar]] on the eastern side of the [[Misty Mountains]] became known as the [[Nandor]]. Many of these settled permanently in the forests to either side of the [[Vales of Anduin]], and they grew in number throughout the [[First Age]].<ref name="POME">{{PM|XNotes}}, Note 67, p. 329</ref> The folk of [[Lothlórien|Lórien]] on the west bank of the [[Anduin]] were neighbours and kin to those of [[Eryn Galen]] on the east bank.<ref name="Sindarin">{{UT|6b}}</ref> 
+
+===Second Age===
+Following the destruction of [[Beleriand]] and the [[War of Wrath]], most of the [[Noldor]]in exiles and remnants of the [[Sindar]] retreated to [[Lindon]]. The [[Valar]] invited these [[Elves]] to [[Aman]], but [[Amdír]], among many others, was unwilling and remained in Lindon.<ref name="Sindarin">{{UT|6b}}</ref> Amdír, along with his son [[Amroth]], established himself in [[Lórinand]], where he would lead the [[Silvan Elves]].<ref name="AaN">{{UT|Amroth}}</ref> He took over as their King, while another Sinda, [[Oropher]], became King of [[Mirkwood|Greenwood the Great]].<ref name="Sindarin">{{UT|6b}}</ref>
+
+During the [[Sack of Eregion]], Amroth led a force of Galadhrim and, together with [[Dwarves of Khazad-dûm]], attacked [[Sauron]]'s force from the rear, saving [[Elrond]] in the process. Survivors of [[Eregion]], including many [[Noldor]] and [[Sindar]], escaped into [[Khazad-dûm]] and were granted passage by their friends the [[Dwarves]], coming eventually through the [[Misty Mountains|Mountains]] to the woodlands that would long afterwards be called [[Lórien]].<ref name="Galadriel">{{UT|Concerning}}</ref>
+
+[[Galadriel]] and [[Celeborn]] departed from [[Rivendell|Imladris]] and went to the sparsely inhabited lands between the mouth of the [[Gwathló]] and [[Ethir Anduin]].<ref name="Galadriel" /> There they dwelt in [[Belfalas]], at [[Edhellond]],<ref name="Galadriel" /> near the place that was afterwards called [[Dol Amroth]]; and their company was swelled by [[Silvan Elves]] from [[Lórinand]].<ref name="Galadriel" />
+
+Under Amdir's leadership the people of Lórien prospered and their numbers grew. He later led an army of Galadhrim to the [[War of the Last Alliance]], where most of them, including Amdír himself, were slain in the [[Battle of Dagorlad]].
+
+===Third Age===
+The Galadhrim were now ruled by [[Amroth]], the son of Amdír. Around {{TA|1409}}, some Galadhrim passed over the [[Misty Mountains]] to join forces with [[Rivendell]] under [[Elrond]] against [[Angmar]]. Along with assistance with the [[Elves of Lindon]], they were successful in subduing the witch-kingdom for some time.<ref>{{App|Eriador}}</ref>
+
+Around {{TA|1980}} with the freeing of [[Durin's Bane|the Balrog]] in [[Moria]], many of the Galadhrim fled south to [[Edhellond]] and sailed over Sea to [[Valinor]]. Amroth grew weary of [[Middle-earth]] and wished to sail, but he drowned in the [[Bay of Belfalas]].<ref name="AaN" /><ref name="ta">{{App|TA}}</ref>
+
+In her wisdom Galadriel saw that Lórien would be a stronghold and a point of power to prevent the [[Shadow]] from crossing the Anduin, for the Galadhrim were hardy and valiant. However, they needed a ruler of greater strength and wisdom than they possessed. This is why Galadriel and [[Celeborn]] took up their permanent abode in Lórien and took charge of its governing. Under the leadership of Galadriel and Celeborn, the Galadhrim prospered and their skill grew.  
+
+During the [[War of the Ring]] the valour of the Galadhrim (with the power of Galadriel) defended their home against [[orcs]], who [[assaults on Lothlórien|attacked their woods]] and wrought destruction on its border. Soon thereafter, [[Sauron]] met his demise, and the Galadhrim with many boats crossed the [[Anduin]] to [[Fall of Dol Guldur|attack]] [[Dol Guldur]].
+===Fourth Age===
+After the departure of Galadriel to Aman and of Celeborn to [[Imladris]], only few of the Galadhrim remained in Lothlórien; many may have moved to [[East Lórien]] in [[Greenwood]] where the Silvan Elves remained untroubled during the early [[Fourth Age]].<ref>{{App|Great}}</ref>
+
+==Culture==
+The Galadhrim prospered and were instructed under their Sindarin rulers, and afterwards by [[Lord and Lady of Galadhrim|their Lord and Lady]]. They became proficient in making [[Lembas]], [[Elven rope]], Elven-cloaks, and many other crafts. They lived in [[telain]] built in the trees.
+
+They spoke [[Silvan Elvish]] and a dialect of Sindarin with an "accent".<ref>{{App|Elves}}</ref> Some, like [[Haldir]], but not all, could speak [[Westron]].
+
+==Etymology==
+''Galadhrim'' is a [[Sindarin]] name meaning "Tree-people". The name consists of ''[[galadh]]'' ("tree") + ''[[rim|rim(b)]]'' ("great number").<ref>{{PE|17}}, p. 50</ref><ref>[[J.R.R. Tolkien]], [[The Lord of the Rings]] p. 341</ref>
+
+In the first edition of ''[[The Lord of the Rings]]'', ''Galadhrim'' was spelt ''Galadrim''. In later editions, this was emended to the former, which [[J.R.R. Tolkien|Tolkien]] had decided was the correct Sindarin form.<ref>{{HM|RC}}, p. 305</ref>
+
+{{references}}
+[[Category:Elven peoples]]
+[[Category:Silvan Elves]]
+[[Category:Sindarin demonyms]]
+[[de:Galadhrim]]
+[[fi:Galadhrim]]

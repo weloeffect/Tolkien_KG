@@ -1,0 +1,32 @@
+{{Adaptation}}
+{{kingdom
+| image=
+| caption=
+| name=Hathor
+| pronun=
+| othernames=
+| location=The [[Mûmakan]]
+| capital=Tanith
+| towns=
+| regions=
+| population=
+| language=
+| govern1=King
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date=After {{SA|100}}
+| event2=
+| event2date=
+| event5=
+| event5date=
+| followedby=
+| map=[[File:Detailed Map of Mûmakan.jpeg|thumb|“Map of the Mûmakan” by Pete Fenlon, showing Hathor at the bottom right.]]
+}}In [[Middle-earth Role Playing]], '''Hathor''' was a kingdom in the [[Mûmakan]], founded sometime after {{SA|100}}.<ref name="timeline">{{ICE|2500}}, pp. 11-12</ref> Its monarch ruled from the capital city Tanith.<ref name="hathor">{{ICE|2500}}, p. 16</ref> Its inhabitants had blond hair and blue eyes, with fair skin tanned by the sun, leading scholars to believe they migrated from elsewhere. Their deep fear of the open sea meant that this likely happened over land.<ref name="hathorians">{{ICE|2500}}, pp. 14-15</ref>
+
+On 8 February {{TA|1703}}, the King of Hathor was assassinated by the Winds of Taurang, a group which acted on behalf of the [[Court of Ardor]].<ref name="timeline"/>
+{{references}}
+[[Category:Middle-earth Role Playing locations]]

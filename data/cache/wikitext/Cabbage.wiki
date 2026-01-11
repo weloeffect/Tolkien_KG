@@ -1,0 +1,25 @@
+{{plant infobox
+| name=Cabbage
+| image=Cabbage.png
+| caption=Cabbage in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| location=[[The Shire]]
+| notablefor=
+| family=''Brassicaceae''
+| appearance=A mass of leaves in a compact globular cluster
+}}
+{{quote|Elves and Dragons!  Cabbages and potatoes are better for me and you|[[Gaffer Gamgee|The Gaffer]]<ref>{{FR|Party}}</ref>}}
+
+'''Cabbage''' was a leafy green vegetable that grew in [[Middle-earth]]. It was apparently among the staple foods of the [[Hobbits]].
+
+==Portrayal in adaptations==
+
+'''2007: ''[[The Lord of the Rings Online: Shadows of Angmar]]'':'''
+
+Cabbages can be found through [[Eriador]] on cabbage fields. Players with the farmer-profession can produce cabbages also on vegetable fields.<ref>[[The Lord of the Rings Online]], ''Item: Cabbage Crop Recipe''</ref>
+
+==External links==
+*{{WP|Cabbage}}
+{{references}}
+[[Category:Plants]]

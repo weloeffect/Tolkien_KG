@@ -1,0 +1,26 @@
+{{Poem infobox
+| title=For W.H.A.
+| written=Around [[1967]]
+| published=''[[Shenandoah: A Tribute to Wystan Hugh Auden on his Sixtieth Birthday]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[W.H. Auden]]
+}}
+'''''For W.H.A.''''' is a poem written by [[J.R.R. Tolkien]] in parallel [[Old English|Old]] and Modern English. The poem is a "tardy tribute and token of thanks" to [[W.H. Auden]], on the occasion of his sixtieth birthday and to mirror Auden's "[[A Short Ode to a Philologist]]" published in ''[[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday]]'' (George Allen & Unwin, 1962).
+
+"For W.H.A." was first published in [[1967]] within ''[[Shenandoah: A Tribute to Wystan Hugh Auden on his Sixtieth Birthday|Shenandoah: The Washington and Lee University Review Vol. 18 No. 2]]''.
+
+Tolkien signed off the poem using an [[Old English]] form of his name, "Rægnold Hrædmóding".
+
+==Excerpt==
+<poem style="font-style:italic; margin-left:20px;"> 
+These lines about you I linked together,
+though weighted by years, Wystan my friend:
+a tardy tribute and token of thanks
+</poem>
+
+==See also==
+*[[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{references}}
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

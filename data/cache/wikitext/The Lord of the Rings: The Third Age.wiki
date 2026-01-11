@@ -1,0 +1,91 @@
+{{cleanup}}
+{{disambig-more|Third Age|[[Third Age (disambiguation)]]}}
+{{video game infobox
+| name=''The Lord Of the Rings: The Third Age''
+| image = The Lord of the Rings - The Third Age - cover.jpg
+| developer= EA Redwood Shores
+| publisher= [[Electronic Arts|EA Games]]
+| releasedate=[[wikipedia:North America|NA]]:[[2 November]], [[2004]]<br/> [[wikipedia:Europe|EU]]: [[12 November]], [[2004]]
+| platform=PlayStation 2, GameCube, Xbox, Game Boy Advance
+| language=English
+| distribution=
+| availability=
+| licensed=
+| genre=
+}}
+'''''The Lord of the Rings: The Third Age''''' is a 2004 role-playing game (RPG) by [[Electronic Arts|EA]] for Xbox, GameCube, PlayStation 2, and Game Boy Advance. It was the first of [[Electronic Arts]]' spin-off games, followed by the more popular [[The Lord of the Rings: The Battle for Middle-earth Anthology|''The Battle for Middle-earth'' series]]. It is a role-playing turn-based game; the characters can swap clothes, weapons, armors which they collect after fights or find in chests throughout their journey.
+
+==Synopsis==
+Though the Fellowship of Gandalf and that of Berethor will rarely meet, they will live rather similar events, as the fellowship of Gandalf. They will go to [[Rivendell]], [[Lothlórien]], [[Osgiliath]], [[Minas Tirith]] and [[Moria]], among others.
+
+===Plot===
+Berethor, Captain of the Citadel Guard of [[Gondor]], travels to [[Rivendell]] to find [[Boromir]]. On his way to Rivendell, he is attacked by a group of [[Nazgûl|Ringwraiths]] and almost killed, but is rescued by a female [[Elves|elf]] named Idrial, a servant of [[Galadriel]]. They share a vision of [[Gandalf]], who tells them that Boromir is traveling with the Fellowship, and that they are headed in the direction of [[Moria]]. On Berethor's way to Moria, he meets with Elegost, a [[Rangers of the north|Ranger]]. Following that, they meet the Dwarf Hadhod. After Boromir's death, the group is charged with helping what is left of the Fellowship to save the world of men in [[Middle-earth]]. 
+
+In another change to the plotline, they help Gandalf to slay the [[Durin's Bane|Balrog]] at the [[Bridge of Khazad-dûm]]. They continue through the land of [[Rohan]], meeting along the way Morwen, a lady of Rohan who has lost her family to Saruman's attacks, and Éaoden, a member of [[Théoden]]'s [[King's Company|Royal Guard]]. They arrive at [[Helm's Deep]] and aid Aragorn, Legolas and Gimli to fight off the [[Uruk-hai]] as they storm the fortress. After this they journey to [[Osgiliath]], and with the help of [[Faramir]], defeat [[Gothmog (Lieutenant of Morgul)|Gothmog]]. They eventually fight in [[Minas Tirith]] and finally help [[Éowyn]] defeat the [[Witch-king]] on the [[Pelennor Fields]].
+
+===Locations===
+[[File:The Lord of the Rings - The Third Age - battle.jpg|thumb|250px|Screenshot from the GameCube version.]] 
+*'''[[Eregion]]''': The first location the company visits. It is the land next to [[Rivendell]] on the way to the [[Misty Mountains]]. Some important sites to visit are the Elven outpost, the Elven sanctuary, and the Moria Western Gate. 
+
+*'''Western [[Moria]]''': The group travels through the halls of Moria, intent on reaching [[Balin's Tomb]], to meet up with the Fellowship. 
+
+*'''Eastern Moria''': The group finds and escapes Balin's Tomb. They make for the [[Bridge of Khazad-dûm]] to escape, killing nine [[Trolls]] of Moria. The area is left after defeating the [[Balrogs|Balrog]] (with [[Gandalf]]'s help). 
+
+*'''[[Eastemnet]] Gullies''': The group breaks upon this natural maze of rock and are assisted by [[Aranel (Elf)|Aranel]], an archer from [[Lothlorien]]. They proceed to find scattered [[Elves|Elf]] Scouts, who guard the borders of Rohan. The final battle is fought against a band of Uruk-hai Scouts who have captured a Rider of Rohan. 
+
+*'''Plains of [[Rohan]]''': The challenges in this vast plain primarily involve finding Rohan Soldiers. Near the beginning, the player meets Morwen, a warrior searching for her family. Once the soldiers are gathered, they travel to the village of Snowbourne, which is besieged by [[Uruk-hai]] and Dunlending Wildmen. The party activates switches to open the gates. They find [[Gríma|Gríma Wormtongue]] and do battle against him and his two Uruk Bodyguards. After traveling through a series of caves they find Morwen's family dead as well as the final party member, a Rohan Outrider named Éaoden. The "boss" is [[Sharku]], commander of [[Isengard]]'s [[Warg]] Riders. 
+
+*'''[[Helm's Deep]]''': The area begins with the party talking to various members of the Fellowship. Once night falls, a series of lengthy battles begin with [[Legolas]], [[Gimli]], and [[Aragorn]], battling Uruks that are invading the keep. They do such things as help Legolas keep the wall free of Uruks, help Gimli defend the breach in the wall, and help Aragorn hold the main gate. The exit battle is fought against trolls and Uruk Berserkers. Once left, the area can't be restored to the daytime version. 
+
+*'''[[Osgiliath]]''': The area begins with you fighting a series of set battles culminating with you fighting [[Gothmog (Lieutenant of Morgul)|Gothmog]], [[Orcs|Orc]] commander, for the first time (with [[Faramir]] by your side). Then you set about helping out Faramir's Rangers who are ill equipped at this sort of fighting, You soon meet Gothmog again but Faramir is still by your side. Soon after this Idrial is kidnapped and dropped on an island in the middle of the Osgiliath river. The next part of the game shows Idrial fighting by herself and the other five fighting their way through the sewers to save her. In the end only Berethor can reach Idrial in time and they both fight the [[Witch-king]], who has made a timely arrival to kill Idrial. During fighting, Berethor discovers he cannot hurt the Witch-king, as he still has a piece of Morgul Blade stuck inside him. After (painfully) removing it, the pair defeat the Witch-king and escape the city on a commandeered Orc landing raft. 
+
+*'''[[Minas Tirith]]''': The party has finally reached the City of Kings, and just in time to fight the city's invaders. The party has to fight its way up the city levels to the Throne Room at the top, to recover the Banner of [[Elendil]], to restore the morale of the defenders. Upon reaching the top level, the party witnesses [[Denethor]] (flaming) run screaming off the parapet. They then must fight the Witch-king again, with Gandalf's aid, to gain entry to the Throne Room. Inside the Throne Room, they fight a series of small battles with Orcs and [[Easterlings]] and finally retrieve the Banner, just in time for the [[Rohirrim]] to arrive on the [[Pelennor Fields]], to save the day. 
+
+*'''[[Pelennor Fields]]''': This area sees you fighting a new tougher type of orc and coming face to face with multiple [[mûmakil]] (at one point you have to face two at the same time). You aid [[Éowyn]] in fighting the dismounted Witch-king, and kill him. You also aid Aragorn fight off the remaining eight Nazgûl, with the help of the Army of the Dead. The final battle is even more non-canon than the rest: somehow the party has gotten to the top of [[Barad-dûr]] and must square off with the [[Eye of Sauron]] itself.
+
+==Features==
+* Play on the side of light or shadow. In an adventure that intersects the main plot points of the film trilogy, battle on the side of the Fellowship in their quest to save Middle-earth or unlock the evil missions where you fight on the side of Sauron.
+* Deep gameplay that expands all three films. Travel to familiar and unfamiliar places such as the Mines of Moria, Helm’s Deep, Pelennor Fields, Minas Tirith, and a host of unexpected locations like the White Mountains Plains.
+* Customize your hero or villain: Upgrade your character with an in-depth skill tree system where you can acquire unique skills in melee combat, ranged weaponry, defense, and magic.
+* Discover a vast array of weapons, armor and clothing, and other Middle-earth items.
+* Free-roaming gameplay. Explore, take on side quests, and uncover secret characters to join your party, or special weapons and items to boost your existing characters.
+* Fight alongside or against key characters from The Lord of the Rings such as [[Aragorn]], [[Gandalf]], [[Legolas]], [[Éowyn]], and [[Durin's Bane|the Balrog]].
+* New user-controlled cameras keep players aware of everything around them.
+* Voiceover from the original actors and assets from [[The Lord of the Rings (film series)|all three The Lord of the Rings films]].
+
+==Cast==
+Actors were not credited by role, and most of the actors listed under "movie talent" (thus, actors from the movies) did not add original material.However,thre are some new actors who are credited for their role in the video game.
+
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+|[[Ian McKellen]] || [[Gandalf]] (voice) / Narattor
+|-
+|[[Christopher Lee]] || [[Saruman]] (voice)
+|-
+|[[Chris Edgerly]] || Elegost (voice) / [[Aragorn]] (voice)
+|-
+|[[Lewis MacLeod]] || Hadhod (voice) / [[Sharku]] (voice)
+|-
+| Charles Martinet || Eaoden (voice) / [[Gimli]] (voice)
+|-
+| Rhys Lloyd || Berethor (voice) / Aranel (voice) / [[Gamling]] (voice)
+|-
+| Lori Phylips || Idrial (voice) / Morwen (voice)
+|-
+|}
+
+==External links==
+* '''[http://www.ea.com/official/lordoftherings/thethirdage/us/home.jsp Official website]'''
+{{Videogames}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Third Age}}
+[[Category:EA Games]]
+[[Category:Game Boy Advance games]]
+[[Category:GameCube games]]
+[[Category:PlayStation 2 games]]
+[[Category:Role-playing video games]]
+[[Category:Turn-based strategy games]]
+[[Category:Xbox games]]

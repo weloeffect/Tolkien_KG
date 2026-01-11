@@ -1,0 +1,57 @@
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Ailinel
+| image=
+| caption=
+| pronun=[[Quenya|Q]], {{IPA|[ˈa͡ɪlinel]}}
+| othernames=
+| titles=
+| position=
+| location=[[Númenor]]
+| affiliation=
+| language=[[Adûnaic]], [[Sindarin]] and [[Quenya]]
+| birth={{SA|712}}
+| birthlocation=
+| rule=
+| death=unknown (aged 87+)
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Tar-Meneldur]] and [[Almarian]]
+| siblings=[[Tar-Aldarion]] and [[Almiel]]
+| spouse=[[Orchaldor]]
+| children=[[Soronto]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ailinel''' was the second of the three children of [[Tar-Meneldur]] and [[Almarian]] of [[Númenor]].  Her older brother [[Tar-Aldarion|Aldarion]] later became King [[Tar-Aldarion]]; her younger sister was [[Almiel]].<ref name="Early">{{UT|earlier}}</ref>  Ailinel married [[Orchaldor]], who was descended from the [[House of Hador]] and they had a son named [[Soronto]].<ref name="Wife">{{UT|Wife}}</ref> 
+
+==Etymology==
+''Ailinel'' is a [[Quenya]] name. Its meaning is not glossed, but [[Helge Fauskanger]] suggests it means "Lake-woman" or something similar and consists of the elements ''[[ailin]]'' ("lake") + the feminine suffix ''[[-iel]]''.<ref>{{webcite|author=[[Helge Fauskanger]]|articleurl=https://folk.uib.no/hnohf/quen-eng.htm|articlename='''ailin'''|website=Quettaparma Quenyallo|accessed=26 January 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | ELE | | | | | | VEA | | | | | | |ELE=[[Tar-Elendil]]<br/><small>''{{SA|350|n}} - {{SA|751|n}}''</small>|VEA=[[Vëantur]]<br/><small>''b. {{SA|451|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|.| | | |!| | | | | | | |}}
+{{familytree | ELA |y| SIL | | ISI | | MEN |y| ALM | | | | HAT |ELA=[[Elatan]]<br/><small>''unknown''</small>|SIL=[[Silmariën]]<br/><small>''b. {{SA|521|n}}''</small>|ISI=[[Isilmë]]<br/><small>''b. {{SA|532|n}}''</small>|MEN=[[Tar-Meneldur]]<br/><small>''{{SA|543|n}} - {{SA|942|n}}''</small>|ALM=[[Almarian]]<br/><small>''unknown''</small>|HAT=[[Hatholdir]]<br/><small>''unknown''</small>}}
+{{familytree | | | |!| | | | | | | |,|-|-|-|+|-|-|-|.| | | |!| |}}
+{{familytree | | | VAL | | ERE |y| ALD | | ALM | | AIL |y| ORC |VAL=[[Valandil (Lord of Andúnië)|Valandil]]<br/><small>''b. {{SA|630|n}}''</small>|ERE=[[Erendis]]<br/><small>''{{SA|771|n}} - {{SA|985|n}}''</small>|ALD=[[Tar-Aldarion]]<br/><small>''{{SA|700|n}} - {{SA|1098|n}}''</small>|AIL='''AILINEL'''<br/><small>''b. {{SA|712|n}}''</small>|ORC=[[Orchaldor]]<br/><small>''unknown''</small>|ALM=[[Almiel]]<br/><small>''b. {{SA|729|n}}''</small>}}
+{{familytree | | | |:| | | | | |!| | | | | | | | | | | |!| | | |}}
+{{familytree | | | AND | | | | ANC |y| HAL | | | | | | SOR | | |AND=[[Lords of Andúnië|''Lords of<br/>Andúnië'']]|ANC=[[Tar-Ancalimë]]<br/><small>''{{SA|873|n}} - {{SA|1285|n}}''</small>|HAL=[[Hallacar]]<br/><small>''{{SA|852|n}} - {{SA|1211|n}}''</small>|SOR=[[Soronto]]<br/><small>''b. {{SA|799|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ANA | | | | | | | | | | | | |ANA=[[Tar-Anárion]]<br/><small>''{{SA|1003|n}} - {{SA|1404|n}}''</small>}}
+{{familytree/end}}
+{{References}}
+[[Category:House of Elros]]
+[[Category:Quenya names]]
+[[Category:Second Age characters]]
+[[Category:Númenóreans]]
+[[de:Ailinel]]
+[[fi:Ailinel]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/ailinel]]

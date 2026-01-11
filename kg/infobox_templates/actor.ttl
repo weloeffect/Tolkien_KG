@@ -1,0 +1,658 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Alan_Howard> a schema:WebPage ;
+    rdfs:label "Alan Howard"@en ;
+    schema:about <http://localhost:8000/resource/Alan_Howard> .
+
+<http://localhost:8000/page/Andy_Serkis> a schema:WebPage ;
+    rdfs:label "Andy Serkis"@en ;
+    schema:about <http://localhost:8000/resource/Andy_Serkis> .
+
+<http://localhost:8000/page/Billy_Boyd> a schema:WebPage ;
+    rdfs:label "Billy Boyd"@en ;
+    schema:about <http://localhost:8000/resource/Billy_Boyd> .
+
+<http://localhost:8000/page/Brent_McIntyre> a schema:WebPage ;
+    rdfs:label "Brent McIntyre"@en ;
+    schema:about <http://localhost:8000/resource/Brent_McIntyre> .
+
+<http://localhost:8000/page/Brian_Sergent> a schema:WebPage ;
+    rdfs:label "Brian Sergent"@en ;
+    schema:about <http://localhost:8000/resource/Brian_Sergent> .
+
+<http://localhost:8000/page/Bruce_Allpress> a schema:WebPage ;
+    rdfs:label "Bruce Allpress"@en ;
+    schema:about <http://localhost:8000/resource/Bruce_Allpress> .
+
+<http://localhost:8000/page/Bruce_Hopkins> a schema:WebPage ;
+    rdfs:label "Bruce Hopkins"@en ;
+    schema:about <http://localhost:8000/resource/Bruce_Hopkins> .
+
+<http://localhost:8000/page/Calum_Gittins> a schema:WebPage ;
+    rdfs:label "Calum Gittins"@en ;
+    schema:about <http://localhost:8000/resource/Calum_Gittins> .
+
+<http://localhost:8000/page/Cameron_Rhodes> a schema:WebPage ;
+    rdfs:label "Cameron Rhodes"@en ;
+    schema:about <http://localhost:8000/resource/Cameron_Rhodes> .
+
+<http://localhost:8000/page/Cate_Blanchett> a schema:WebPage ;
+    rdfs:label "Cate Blanchett"@en ;
+    schema:about <http://localhost:8000/resource/Cate_Blanchett> .
+
+<http://localhost:8000/page/Christopher_Lee> a schema:WebPage ;
+    rdfs:label "Christopher Lee"@en ;
+    schema:about <http://localhost:8000/resource/Christopher_Lee> .
+
+<http://localhost:8000/page/Craig_Parker> a schema:WebPage ;
+    rdfs:label "Craig Parker"@en ;
+    schema:about <http://localhost:8000/resource/Craig_Parker> .
+
+<http://localhost:8000/page/David_Weatherley> a schema:WebPage ;
+    rdfs:label "David Weatherley"@en ;
+    schema:about <http://localhost:8000/resource/David_Weatherley> .
+
+<http://localhost:8000/page/David_Wenham> a schema:WebPage ;
+    rdfs:label "David Wenham"@en ;
+    schema:about <http://localhost:8000/resource/David_Wenham> .
+
+<http://localhost:8000/page/Dominic_Monaghan> a schema:WebPage ;
+    rdfs:label "Dominic Monaghan"@en ;
+    schema:about <http://localhost:8000/resource/Dominic_Monaghan> .
+
+<http://localhost:8000/page/Elijah_Wood> a schema:WebPage ;
+    rdfs:label "Elijah Wood"@en ;
+    schema:about <http://localhost:8000/resource/Elijah_Wood> .
+
+<http://localhost:8000/page/Elizabeth_Moody> a schema:WebPage ;
+    rdfs:label "Elizabeth Moody"@en ;
+    schema:about <http://localhost:8000/resource/Elizabeth_Moody> .
+
+<http://localhost:8000/page/Harry_Sinclair> a schema:WebPage ;
+    rdfs:label "Harry Sinclair"@en ;
+    schema:about <http://localhost:8000/resource/Harry_Sinclair> .
+
+<http://localhost:8000/page/Hugo_Weaving> a schema:WebPage ;
+    rdfs:label "Hugo Weaving"@en ;
+    schema:about <http://localhost:8000/resource/Hugo_Weaving> .
+
+<http://localhost:8000/page/Ian_Holm> a schema:WebPage ;
+    rdfs:label "Ian Holm"@en ;
+    schema:about <http://localhost:8000/resource/Ian_Holm> .
+
+<http://localhost:8000/page/Ian_McKellen> a schema:WebPage ;
+    rdfs:label "Ian McKellen"@en ;
+    schema:about <http://localhost:8000/resource/Ian_McKellen> .
+
+<http://localhost:8000/page/Ian_Mune> a schema:WebPage ;
+    rdfs:label "Ian Mune"@en ;
+    schema:about <http://localhost:8000/resource/Ian_Mune> .
+
+<http://localhost:8000/page/Jed_Brophy> a schema:WebPage ;
+    rdfs:label "Jed Brophy"@en ;
+    schema:about <http://localhost:8000/resource/Jed_Brophy> .
+
+<http://localhost:8000/page/John_Bach> a schema:WebPage ;
+    rdfs:label "John Bach"@en ;
+    schema:about <http://localhost:8000/resource/John_Bach> .
+
+<http://localhost:8000/page/John_Noble> a schema:WebPage ;
+    rdfs:label "John Noble"@en ;
+    schema:about <http://localhost:8000/resource/John_Noble> .
+
+<http://localhost:8000/page/John_Rhys-Davies> a schema:WebPage ;
+    rdfs:label "John Rhys-Davies"@en ;
+    schema:about <http://localhost:8000/resource/John_Rhys-Davies> .
+
+<http://localhost:8000/page/Karl_Urban> a schema:WebPage ;
+    rdfs:label "Karl Urban"@en ;
+    schema:about <http://localhost:8000/resource/Karl_Urban> .
+
+<http://localhost:8000/page/Lawrence_Makoare> a schema:WebPage ;
+    rdfs:label "Lawrence Makoare"@en ;
+    schema:about <http://localhost:8000/resource/Lawrence_Makoare> .
+
+<http://localhost:8000/page/Liv_Tyler> a schema:WebPage ;
+    rdfs:label "Liv Tyler"@en ;
+    schema:about <http://localhost:8000/resource/Liv_Tyler> .
+
+<http://localhost:8000/page/Lori_Dungey> a schema:WebPage ;
+    rdfs:label "Lori Dungey"@en ;
+    schema:about <http://localhost:8000/resource/Lori_Dungey> .
+
+<http://localhost:8000/page/Mark_Ferguson> a schema:WebPage ;
+    rdfs:label "Mark Ferguson"@en ;
+    schema:about <http://localhost:8000/resource/Mark_Ferguson> .
+
+<http://localhost:8000/page/Marton_Csokas> a schema:WebPage ;
+    rdfs:label "Marton Csokas"@en ;
+    schema:about <http://localhost:8000/resource/Marton_Csokas> .
+
+<http://localhost:8000/page/Martyn_Sanderson> a schema:WebPage ;
+    rdfs:label "Martyn Sanderson"@en ;
+    schema:about <http://localhost:8000/resource/Martyn_Sanderson> .
+
+<http://localhost:8000/page/Megan_Edwards> a schema:WebPage ;
+    rdfs:label "Megan Edwards"@en ;
+    schema:about <http://localhost:8000/resource/Megan_Edwards> .
+
+<http://localhost:8000/page/Michael_Elsworth> a schema:WebPage ;
+    rdfs:label "Michael Elsworth"@en ;
+    schema:about <http://localhost:8000/resource/Michael_Elsworth> .
+
+<http://localhost:8000/page/Miranda_Otto> a schema:WebPage ;
+    rdfs:label "Miranda Otto"@en ;
+    schema:about <http://localhost:8000/resource/Miranda_Otto> .
+
+<http://localhost:8000/page/Noel_Appleby> a schema:WebPage ;
+    rdfs:label "Noel Appleby"@en ;
+    schema:about <http://localhost:8000/resource/Noel_Appleby> .
+
+<http://localhost:8000/page/Norman_Forsey> a schema:WebPage ;
+    rdfs:label "Norman Forsey"@en ;
+    schema:about <http://localhost:8000/resource/Norman_Forsey> .
+
+<http://localhost:8000/page/Olivia_Tennet> a schema:WebPage ;
+    rdfs:label "Olivia Tennet"@en ;
+    schema:about <http://localhost:8000/resource/Olivia_Tennet> .
+
+<http://localhost:8000/page/Orlando_Bloom> a schema:WebPage ;
+    rdfs:label "Orlando Bloom"@en ;
+    schema:about <http://localhost:8000/resource/Orlando_Bloom> .
+
+<http://localhost:8000/page/Peter_Corrigan> a schema:WebPage ;
+    rdfs:label "Peter Corrigan"@en ;
+    schema:about <http://localhost:8000/resource/Peter_Corrigan> .
+
+<http://localhost:8000/page/Peter_McKenzie> a schema:WebPage ;
+    rdfs:label "Peter McKenzie"@en ;
+    schema:about <http://localhost:8000/resource/Peter_McKenzie> .
+
+<http://localhost:8000/page/Sala_Baker> a schema:WebPage ;
+    rdfs:label "Sala Baker"@en ;
+    schema:about <http://localhost:8000/resource/Sala_Baker> .
+
+<http://localhost:8000/page/Sarah_McLeod> a schema:WebPage ;
+    rdfs:label "Sarah McLeod"@en ;
+    schema:about <http://localhost:8000/resource/Sarah_McLeod> .
+
+<http://localhost:8000/page/Sean_Astin> a schema:WebPage ;
+    rdfs:label "Sean Astin"@en ;
+    schema:about <http://localhost:8000/resource/Sean_Astin> .
+
+<http://localhost:8000/page/Sean_Bean> a schema:WebPage ;
+    rdfs:label "Sean Bean"@en ;
+    schema:about <http://localhost:8000/resource/Sean_Bean> .
+
+<http://localhost:8000/page/Stephen_Ure> a schema:WebPage ;
+    rdfs:label "Stephen Ure"@en ;
+    schema:about <http://localhost:8000/resource/Stephen_Ure> .
+
+<http://localhost:8000/page/Timothy_Bartlett> a schema:WebPage ;
+    rdfs:label "Timothy Bartlett"@en ;
+    schema:about <http://localhost:8000/resource/Timothy_Bartlett> .
+
+<http://localhost:8000/page/Viggo_Mortensen> a schema:WebPage ;
+    rdfs:label "Viggo Mortensen"@en ;
+    schema:about <http://localhost:8000/resource/Viggo_Mortensen> .
+
+<http://localhost:8000/page/William_Johnson> a schema:WebPage ;
+    rdfs:label "William Johnson"@en ;
+    schema:about <http://localhost:8000/resource/William_Johnson> .
+
+<http://localhost:8000/resource/Alan_Howard> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:imdb "[https://imdb.com/name/nm0397102/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/5_August__1937_-_14_February_2015> ;
+    tg:name "Alan Howard"@en ;
+    tg:played <http://localhost:8000/resource/Sauron_%28voice%29%2C%3Cbr%3EThe_One_Ring_%28voice%29> .
+
+<http://localhost:8000/resource/Andy_Serkis> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:film2 <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Andy Serkis.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0785227/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/20_April> ;
+    tg:name "Andy Serkis"@en ;
+    tg:played <http://localhost:8000/resource/Gollum> ;
+    tg:played2 <http://localhost:8000/resource/Witch-king_of_Angmar_%28voice%29> .
+
+<http://localhost:8000/resource/Billy_Boyd> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:film2 <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim%27%27> ;
+    tg:image "Billy Boyd.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0101710/ IMDb]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/28_August> ;
+    tg:name "Billy Boyd"@en ;
+    tg:played <http://localhost:8000/resource/Peregrin_Took> ;
+    tg:played2 <http://localhost:8000/resource/Shank> .
+
+<http://localhost:8000/resource/Brent_McIntyre> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm1098595/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:name "Brent McIntyre"@en ;
+    tg:played <http://localhost:8000/resource/Witch-king> .
+
+<http://localhost:8000/resource/Brian_Sergent> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:film2 <http://localhost:8000/resource/%27%27The_Hobbit%3A_The_Desolation_of_Smaug%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0785082/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/29_December_1959> ;
+    tg:name "Brian Sergent"@en ;
+    tg:played <http://localhost:8000/resource/Ted_Sandyman> ;
+    tg:played2 "\"Spiders\""@en .
+
+<http://localhost:8000/resource/Bruce_Allpress> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0021600/ IMDb Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/25_August_1930_-_23_April_2020> ;
+    tg:name "Bruce Allpress"@en ;
+    tg:played <http://localhost:8000/resource/Aldor_%28film_character%29> .
+
+<http://localhost:8000/resource/Bruce_Hopkins> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Two_Towers%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0394126/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/25_November_1955> ;
+    tg:name "Bruce Hopkins"@en ;
+    tg:played <http://localhost:8000/resource/Gamling> .
+
+<http://localhost:8000/resource/Calum_Gittins> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Two_Towers%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm1275727/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/16_July_1986> ;
+    tg:name "Calum Gittins"@en ;
+    tg:played <http://localhost:8000/resource/Haleth_%28film_character%29> .
+
+<http://localhost:8000/resource/Cameron_Rhodes> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0722397/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/1_August_1967> ;
+    tg:name "Cameron Rhodes"@en ;
+    tg:played <http://localhost:8000/resource/Farmer_Maggot> .
+
+<http://localhost:8000/resource/Cate_Blanchett> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Cate Blanchett.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0000949/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/14_May> ;
+    tg:name "Cate Blanchett"@en ;
+    tg:played <http://localhost:8000/resource/Galadriel> .
+
+<http://localhost:8000/resource/Christopher_Lee> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Christopher Lee.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0000489/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/27_May%2C_1922_-_7_June%2C_2015> ;
+    tg:name "Christopher Lee"@en ;
+    tg:played <http://localhost:8000/resource/Saruman> .
+
+<http://localhost:8000/resource/Craig_Parker> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%3A_The_Two_Towers%27%27> ;
+    tg:film2 <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:image "Craig Parker.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0662164/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/12_November_1970> ;
+    tg:name "Craig Parker"@en ;
+    tg:played <http://localhost:8000/resource/Haldir> ;
+    tg:played2 <http://localhost:8000/resource/Gothmog_%28Lieutenant_of_Morgul%29> .
+
+<http://localhost:8000/resource/David_Weatherley> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0915750/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/1_March> ;
+    tg:name "David Weatherly"@en ;
+    tg:played <http://localhost:8000/resource/Barliman_Butterbur> .
+
+<http://localhost:8000/resource/David_Wenham> a schema:Person ;
+    tg:1 "David Wenham"@en ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "David Wenham.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0920992/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/21_September> ;
+    tg:name "David Wenham"@en ;
+    tg:played <http://localhost:8000/resource/Faramir> .
+
+<http://localhost:8000/resource/Dominic_Monaghan> a schema:Person ;
+    tg:1 "Dominic Monaghan"@en ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:film2 <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_War_of_the_Rohirrim%27%27> ;
+    tg:image "Dominic Monaghan.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0597480/ IMDb Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/8_December> ;
+    tg:name "Dominic Monaghan"@en ;
+    tg:played <http://localhost:8000/resource/Meriadoc_Brandybuck> ;
+    tg:played2 <http://localhost:8000/resource/Wrot> .
+
+<http://localhost:8000/resource/Elijah_Wood> a schema:Person ;
+    tg:1 "Elijah Wood"@en ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Elijah Wood.jpg"@en ;
+    tg:imdb "[https://imdb.com/name/nm0000704/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/28_January> ;
+    tg:name "Elijah Wood"@en ;
+    tg:played <http://localhost:8000/resource/Frodo_Baggins> .
+
+<http://localhost:8000/resource/Elizabeth_Moody> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0600473/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/29_October_1939_-_12_January_2010> ;
+    tg:name "Elizabeth Moody"@en ;
+    tg:played <http://localhost:8000/resource/Lobelia_Sackville-Baggins> .
+
+<http://localhost:8000/resource/Harry_Sinclair> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0801625/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/1959> ;
+    tg:name "Harry Sinclair"@en ;
+    tg:played <http://localhost:8000/resource/Isildur> .
+
+<http://localhost:8000/resource/Hugo_Weaving> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Hugo Weaving.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0915989/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/4_April> ;
+    tg:name "Hugo Wallace Weaving"@en ;
+    tg:played <http://localhost:8000/resource/Elrond> .
+
+<http://localhost:8000/resource/Ian_Holm> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%281981_radio_series%29> ;
+    tg:film2 <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Ian Holm.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0000453/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/12_September> ;
+    tg:name "Ian Holm"@en ;
+    tg:played <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:played2 <http://localhost:8000/resource/Bilbo_Baggins> .
+
+<http://localhost:8000/resource/Ian_McKellen> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Ian McKellen.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0005212/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/25_May> ;
+    tg:name "Ian McKellen"@en ;
+    tg:played <http://localhost:8000/resource/Gandalf> .
+
+<http://localhost:8000/resource/Ian_Mune> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0612786/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/1941> ;
+    tg:name "Ian Mune"@en ;
+    tg:played <http://localhost:8000/resource/Shirriffs> .
+
+<http://localhost:8000/resource/Jed_Brophy> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Two_Towers%27%27> ;
+    tg:film2 <http://localhost:8000/resource/The_Hobbit_%28film_series%29> ;
+    tg:film3 <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Rings_of_Power%27%27> ;
+    tg:image "Jed Brophy.jpg"@en ;
+    tg:imdb "[https://www.imdb.com//name/nm0112400/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/29_October_1963> ;
+    tg:name "Jed Brophy"@en ;
+    tg:played <http://localhost:8000/resource/Snaga_%28orc_of_Isengard%29> ;
+    tg:played2 <http://localhost:8000/resource/Nori> ;
+    tg:played3 <http://localhost:8000/resource/Vrath> .
+
+<http://localhost:8000/resource/John_Bach> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0045324/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/5_June_1946> ;
+    tg:name "John Bach"@en ;
+    tg:played <http://localhost:8000/resource/Madril> .
+
+<http://localhost:8000/resource/John_Noble> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "John Noble.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0633604/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/20_August> ;
+    tg:name "John Noble"@en ;
+    tg:played <http://localhost:8000/resource/Denethor> .
+
+<http://localhost:8000/resource/John_Rhys-Davies> a schema:Person ;
+    tg:caption "John Rhys-Davies"@en ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:film2 <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "John Rhys-Davies.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0722636/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/5_May> ;
+    tg:name "John Rhys-Davies"@en ;
+    tg:played <http://localhost:8000/resource/Gimli> ;
+    tg:played2 <http://localhost:8000/resource/%28Voice_of%29_Treebeard> .
+
+<http://localhost:8000/resource/Karl_Urban> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Karl Urban.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0881631/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/7_June> ;
+    tg:name "Karl Urban"@en ;
+    tg:played <http://localhost:8000/resource/%C3%89omer> .
+
+<http://localhost:8000/resource/Lawrence_Makoare> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:film2 <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:film3 <http://localhost:8000/resource/%27%27The_Hobbit%3A_The_Desolation_of_Smaug%27%27> ;
+    tg:image "Lawrence Makoare.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0538692/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/20_March_1968> ;
+    tg:name "Lawrence Makoare"@en ;
+    tg:played <http://localhost:8000/resource/Lurtz%2C> ;
+    tg:played2 <http://localhost:8000/resource/Witch-king%2C_Gothmog_%28Lieutenant_of_Morgul%29> ;
+    tg:played3 <http://localhost:8000/resource/Bolg> .
+
+<http://localhost:8000/resource/Liv_Tyler> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Liv Tyler.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0000239/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/1_July> ;
+    tg:name "Liv Tyler"@en ;
+    tg:played <http://localhost:8000/resource/Arwen> .
+
+<http://localhost:8000/resource/Lori_Dungey> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0242256/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/1957> ;
+    tg:name "Lori Dungey"@en ;
+    tg:played <http://localhost:8000/resource/Mrs_Bracegirdle> .
+
+<http://localhost:8000/resource/Mark_Ferguson> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:image "Mark Ferguson.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0272527/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/28_February_1961> ;
+    tg:name "Mark Ferguson"@en ;
+    tg:played <http://localhost:8000/resource/Gil-galad> .
+
+<http://localhost:8000/resource/Marton_Csokas> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:image "Marton Csokas.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0190744/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/30_June> ;
+    tg:name "Marton Csokas"@en ;
+    tg:played <http://localhost:8000/resource/Celeborn> .
+
+<http://localhost:8000/resource/Martyn_Sanderson> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0761809/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/24_February_1938_-_14_October_2009> ;
+    tg:name "Martyn Sanderson"@en ;
+    tg:played <http://localhost:8000/resource/%22Harry_Goatleaf> .
+
+<http://localhost:8000/resource/Megan_Edwards> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm1104283/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/9_June_1963> ;
+    tg:name "Megan Edwards"@en ;
+    tg:played <http://localhost:8000/resource/Mrs_Proudfoot> .
+
+<http://localhost:8000/resource/Michael_Elsworth> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm1096480/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/12_June_1932> ;
+    tg:name "Michael Elsworth"@en ;
+    tg:played <http://localhost:8000/resource/%22Gondorians> .
+
+<http://localhost:8000/resource/Miranda_Otto> a schema:Person ;
+    tg:1 "Miranda Otto"@en ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Miranda Otto.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0001584/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/16_December> ;
+    tg:name "Miranda Otto"@en ;
+    tg:played <http://localhost:8000/resource/%C3%89owyn> .
+
+<http://localhost:8000/resource/Noel_Appleby> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0032370/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/5_April_1933_-_17_May_2007> ;
+    tg:name "Noel Appleby"@en ;
+    tg:played <http://localhost:8000/resource/Everard_Proudfoot> .
+
+<http://localhost:8000/resource/Norman_Forsey> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0286852/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/3_January_1937> ;
+    tg:name "Norman Forsey"@en ;
+    tg:played <http://localhost:8000/resource/Gaffer_Gamgee> .
+
+<http://localhost:8000/resource/Olivia_Tennet> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers> ;
+    tg:imdb "[http://www.imdb.com/name/nm0855092/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/4_January> ;
+    tg:name "Olivia Tennet"@en ;
+    tg:played <http://localhost:8000/resource/Freda> .
+
+<http://localhost:8000/resource/Orlando_Bloom> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Orlando Bloom.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0089217/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/13_January> ;
+    tg:name "Orlando Bloom"@en ;
+    tg:played <http://localhost:8000/resource/Legolas> .
+
+<http://localhost:8000/resource/Peter_Corrigan> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0992227/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:name "Peter Corrigan"@en ;
+    tg:played <http://localhost:8000/resource/Otho_Sackville-Baggins> .
+
+<http://localhost:8000/resource/Peter_McKenzie> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm1013159/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/10_August_1943_-_9_September_2023> ;
+    tg:name "Peter McKenzie"@en ;
+    tg:played <http://localhost:8000/resource/Elendil> .
+
+<http://localhost:8000/resource/Sala_Baker> a schema:Person ;
+    tg:caption "Sala Baker"@en ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:film2 <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Two_Towers%27%27> ;
+    tg:image "Sala Baker.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm1019674/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/22_September> ;
+    tg:name "Sala Baker"@en ;
+    tg:played <http://localhost:8000/resource/Sauron> ;
+    tg:played2 <http://localhost:8000/resource/Uruk-hai> .
+
+<http://localhost:8000/resource/Sarah_McLeod> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%3A_The_Return_of_the_King%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0572867/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/18_July_1971> ;
+    tg:name "Sarah McLeod"@en ;
+    tg:played <http://localhost:8000/resource/Rose_Cotton> .
+
+<http://localhost:8000/resource/Sean_Astin> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Sean Astin.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0000276/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/25_February_1971> ;
+    tg:name "Sean Astin"@en ;
+    tg:played <http://localhost:8000/resource/Samwise_Gamgee> .
+
+<http://localhost:8000/resource/Sean_Bean> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Sean Bean.jpg"@en ;
+    tg:imdb "[https://www.imdb.com/name/nm0000293/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/17_April> ;
+    tg:name "Sean Bean"@en ;
+    tg:played <http://localhost:8000/resource/Boromir> .
+
+<http://localhost:8000/resource/Stephen_Ure> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:film2 <http://localhost:8000/resource/The_Hobbit_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com/name/nm0881831/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/28_March_1958> ;
+    tg:name "Stephen Ure"@en ;
+    tg:played <http://localhost:8000/resource/Grishn%C3%A1kh%2C_Gorbag> ;
+    tg:played2 <http://localhost:8000/resource/Fimbul%2C_Grinnah> .
+
+<http://localhost:8000/resource/Timothy_Bartlett> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Hobbit_%28film_series%29> ;
+    tg:imdb "[https://www.imdb.com//name/nm0058910/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:name "Timothy Bartlett"@en ;
+    tg:played <http://localhost:8000/resource/Master_Worrywort> .
+
+<http://localhost:8000/resource/Viggo_Mortensen> a schema:Person ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%28film_series%29> ;
+    tg:image "Viggo Mortensen.jpg"@en ;
+    tg:imdb "[http://www.imdb.com/name/nm0001557/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/20_October> ;
+    tg:name "Viggo Mortensen"@en ;
+    tg:played <http://localhost:8000/resource/Aragorn> .
+
+<http://localhost:8000/resource/William_Johnson> a schema:Person ;
+    tg:film <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:imdb "[https://www.imdb.com/name/nm0424592/ Profile]"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/actor> ;
+    tg:lifetime <http://localhost:8000/resource/May_1924_%26ndash%3B_23_September_2016> ;
+    tg:name "William Johnson"@en ;
+    tg:played <http://localhost:8000/resource/Old_Noakes> .
+

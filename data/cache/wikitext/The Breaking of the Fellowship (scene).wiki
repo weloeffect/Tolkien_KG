@@ -1,0 +1,17 @@
+{{stub}}
+{{title}}
+{{scene
+| name = The Breaking of the Fellowship
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image =
+| number = 38 (theatrical)<br>
+           44 (extended)
+| duration =
+| event =
+| characters =
+| previous = [[Parth Galen (scene)|Parth Galen]]
+| next = [[The Departure of Boromir (scene)|The Departure of Boromir]]
+}}
+'''The Breaking of the Fellowship''' is the thirty-eighth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the forty-fourth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|44]]

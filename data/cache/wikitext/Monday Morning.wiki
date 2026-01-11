@@ -1,0 +1,34 @@
+{{Poem infobox
+| title=Monday Morning
+| other names=
+| written=Between [[September]] of [[1931]] and September of [[1934]]
+| revised=
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Tolkien Family]]''
+}}
+
+'''''Monday Morning''''' is a humorous<ref name=interview>{{webcite|author=Dalya Alberge|articleurl=https://www.theguardian.com/books/article/2024/aug/24/beyond-bilbo-jrr-tolkiens-long-lost-poetry-to-be-published|articlename=Beyond Bilbo: JRR Tolkien’s long-lost poetry to be published|dated=24 August 2024|website=Guardian|accessed=29 August 2024}}</ref> poem written by [[J.R.R. Tolkien]] in the early [[1930]]s "where everything goes wrong for him, from slipping on soap to falling down stairs"<ref name=interview/> one morning on a Monday.<ref name=collectedpoems>{{CP|122}}, pp. 857-62</ref>
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:On Monday morning all agree
+:that most annoying things can be.
+:Now I will tell you in this song
+:of one when everything went wrong.
+::The sun was early shining bright,
+:but not, of course, for my delight:
+:it woke the birds who woke mama,
+:who woke the boys, who woke papa;
+:it came and hit me in the eye,
+:though still I wished in bed to lie.<ref name=collectedpoems/></poem>
+
+== Background ==
+Sometime between [[September]] of [[1931]] and September of [[1934]], Tolkien wrote a long comedic poem that notably featured two characters who shared the names of [[Christopher Tolkien]] and [[Michael Tolkien]], though Tolkien subsequently changed the character names to James and Williams respectively.<ref name=collectedpoems/>
+
+In [[2024]], the poem was published in September as entry 122 of ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/> In their commentary to ''[[Rhyme]]'', [[Wayne G. Hammond]] and [[Christina Scull]] compare the "the account of successive crises and dramas" in the poem to ''Monday Morning''.<ref>{{CP|172}}, pp. 1251</ref> In their Addenda and Corrigenda, Hammond and Scull mention that on a "later re-reading" of the poem, the fifth and sixth lines caused them to think about two similar lines from [[Wikipedia:Lewis Carroll|Lewis Carroll]]'s ''[[Wikipedia:The Walrus and the Carpenter|The Walrus and the Carpenter]]''.<ref>{{webcite|author=[[Christina Scull]] and [[Wayne G. Hammond]]|articleurl=https://www.hammondandscull.com/addenda/collected_poems_by_date.html|articlename=Addenda and Corrigenda to ''The Collected Poems of J.R.R. Tolkien'' (2024) Arranged by Date#Prior to 24 December 2024|dated=17 September 2024|website=HS|accessed=22 September 2025}}, note to "p. 857"</ref>
+
+{{References}}
+
+{{Poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

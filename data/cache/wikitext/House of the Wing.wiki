@@ -1,0 +1,41 @@
+{{Noble House infobox
+| name=House of the Wing
+| image = Rondador - House of the Wing.png
+| caption=
+| othernames=Folk of the Wing<br />Bodyguard of Tuor
+| founder=[[Tuor]]
+| leader=
+| location=[[Gondolin]]
+| affiliation=
+| rivalry=[[House of the Mole]]
+| destroyed=
+| language=
+| members=[[Voronwë]], [[Hendor]]
+| race=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+| heirlooms=[[Dramborleg]]
+}}
+<center>{{quote|Like a crush of tempest the guard of the Wing were amid the men of the Mole, and these were stricken asunder.|''[[The Book of Lost Tales Part Two]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]"}}</center>
+
+The '''house of the Wing''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the elven city of [[Gondolin]]. Their story is recounted in an early version of the [[legendarium]] from ''[[The Book of Lost Tales]]''.
+
+==History==
+When [[Tuor]] came to [[Gondolin]], he introduced himself as a member of the [[house of the Swan]] (referring to a group of the Men of the North).<ref name=Gondolin>{{LT2|III}}</ref>{{rp|160}} He was accepted and loved by the [[Gondothlim]], and lived there for many years. When his wife [[Idril]], daughter of King [[Turgon]], felt that the city's ruin was near, she asked him to gather the most trustful among the Gondothlim and tell them about the [[Idril's secret way|secret way]] she had constructed. She would also ask her father to allow Tuor to have his own folk and become a proper lord.<ref name=Gondolin/>{{rp|171}}
+
+Idril's request was granted, "and the folk of the Wing was accounted the twelfth", in addition to the eleven extant houses of the Gondothlim.<ref name=Gondolin/>{{rp|174}} They wore wings of [[swans]] or [[gulls]] upon their helms, and Tuor's emblem of the '''White Wing''' was upon their shields. Its people were the stoutest folk of Gondolin,<ref name=Gondolin/>{{rp|172}} and apparently was one of the smaller houses, for those from the [[house of the Mole]] outnumbered them when they came to arms during the [[Fall of Gondolin]].<ref name=Gondolin/>{{rp|178}}
+
+When the siege of the city began, the first attack of the enemy was against the northern gate, so the treacherous [[Meglin]] led his folk of the Mole to Tuor's house in the southern part. Tuor and his soldiers reached the house, where Meglin was trying to kill [[Eärendel]], but both folks crashed together. Meglin was killed by Tuor, and the folk of the Wing rallied behind their lord against the folk of the Mole, scattering them despite being less in number. Then Tuor left [[Voronwë]] and some of his troops with [[Idril]] and took the rest to the battle in the north Gate.<ref name=Gondolin/>{{rp|177–8}}
+
+They joined the fight shortly after [[Ecthelion]] and his [[folk of the Fountain]] did, battling by their side. Their charge made the [[Orcs]] retreat almost back to the fallen gate, but suddenly the walls of that part of the city were cast down by dragons from outside. [[Iron Dragons]] came in, and a creature of fire with [[Balrogs]] upon it. Tuor stood against the beast, gathering his guard, and all of the [[House of the Heavenly Arch|Arch]] and the [[House of the Swallow|Swallow]] he could find. He and Ecthelion killed many Balrogs and Orc captains, but Ecthelion was wounded, so Tuor retreated, carrying him to the [[Square of the Folkwell]]. In that Square the guard of the Wing and other houses where scattered and regrouped to form a good battalion. Led by Tuor, all of them marched to the [[Square of the King]] to join the remnants of other houses.<ref name=Gondolin/>{{rp|180–2}}
+
+After the king ordered the [[Gondothlim]] to leave the city, Tuor and all who followed him went to his house to join the exiles and escape through [[Idril's secret way]]. There Tuor found Voronwë and knew that Idril had sent Eärendel ahead with most of her guard.<ref name=Gondolin/>{{rp|187}} Crossing the secret tunnel and most of [[Tumladin]], Tuor finally saw the rest of his men, including [[Hendor]], who carried his son Eärendel in his back. But these men around Eärendel were being chased and slain by Orcs, so Tuor shouted to them to stand, and ran to save them.<ref name=Gondolin/>{{rp|190}} Nothing more is told of the folk of the Wing, whose survivors had the same destiny as the other [[exiles of Gondolin]].
+
+{{references}}
+{{HousesofGondolin}} 
+[[Category:Twelve houses of the Gondothlim]]
+[[de:Haus des Flügels]]

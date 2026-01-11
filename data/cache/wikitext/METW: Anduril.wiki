@@ -1,0 +1,19 @@
+{{Collectible card
+| image=METW - Anduril.jpg
+| name=Anduril
+| caption=
+| game=meccg
+| type=Resource Permanent-event
+| alignment=Hero
+| artist=[[N. Taylor Blanchard]]
+| rarity=Rare
+| number=TW080
+}}
+'''METW: Andúril, the Flame of the West''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+
+==Card text==
+
+'''''Unique.''''' Sage only during the site phase at an untapped site where "Information" is playable. Tap the sage and the site. Sage makes a corruption check modified by -3. Keep sage tapped until Anduril, the Flame of the West is stored at a Haven [H]. Once stored, you may discard a stored reforging and place Anduril, the Flame of the West with Narsil. In addition to Narsil's effects, Anduril, the Flame of the West gives its bearer 4 marshalling points, +4 prowess (to a maximum of 11), +1 direct influence, and one more corruption point. Anduril, the Flame of the West may be tapped to untap a Dunadan character in the same company, but its bearer must make a corruption check modified by -1.
+
+[[Category:MECCG cards]]

@@ -1,0 +1,42 @@
+{{album
+| image = Mines of Moria (soundtrack).png
+| title=''The Lord of the Rings Online: Mines of Moria''
+| type=Soundtrack
+| artist=<br>[[Chance Thomas]]<br>[[Stephen DiGregorio]]
+| released=[[17 November]], [[2008]]
+| recorded=
+| genre=instrumental
+| length=1:01:30
+| language=English
+| label=[[Turbine]]
+}}
+
+'''''The Lord of the Rings Online: Mines of Moria''''' is the soundtrack to ''[[The Lord of the Rings Online: Mines of Moria]]''. The soundtrack was released as part of the special edition to the game. 
+
+==Contents==
+#The Hollin Gate ([[Chance Thomas]])
+#A Journey in the Dark (Chance Thomas)
+#Drums in the Deep (Chance Thomas)
+#Khazad-dûm (Chance Thomas)
+#In the Darkness Bind Them ([[Stephen DiGregorio]])
+#Mines of Mithril (Stephen DiGregorio)
+#The Golden Wood (Chance Thomas)
+#Archers of the Galadhrim (Chance Thomas)
+#They Are Coming... (Stephen DiGregorio)
+#Durin's Day (Stephen DiGregorio)
+#The Falls of Nimrodel (Chance Thomas)
+#Runes of Fire (Stephen DiGregorio)
+#We Cannot Get Out (Stephen DiGregorio)
+#The Black Pit (Stephen DiGregorio)
+#Flame of Udûn (Chance Thomas)
+#The Shadow Lies Upon His Tomb (Stephen DiGregorio)
+#Hour of Doom (Chance Thomas)
+
+==Reviews==
+The sound track to Mines of Moria has received positive reviews. ''Original Sound Version'' stated that this soundtrack "is superior to the film score."<ref>{{webcite|author=Patrick Gann|articleurl=http://www.originalsoundversion.com/digging-for-musical-gems-mines-of-moria-music-review/|articlename=Digging For Musical Gems: Mines of Moria Music (Review)|dated=14 January 2009|website=Engadget|accessed=25 August 2020}}</ref>
+
+{{references}}
+
+{{lotro}}
+{{title|italics}}
+[[Category:The Lord of the Rings Online soundtracks|mines of Moria]]

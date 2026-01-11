@@ -1,0 +1,13 @@
+{{letter infobox
+ |#=2
+ |to=[[Edith Bratt]]
+ |date=[[27 November]] [[1914]]
+ |subject=''[[Éalá Éarendel Engla Beorhtast|The Voyage of Éarendel the Evening Star]]''
+}}
+{{letter|2}}
+==Summary==
+Tolkien writes that he had a somewhat boring day drilling and attending classes (as part of the Officer's Training Corps). However, at a meeting of an Essasy Club: "''There was a bad paper but an interesting discussion. It was also composition meeting and I read '[[Éalá Éarendel Engla Beorhtast|Earendel]]' which was well criticised.''[[Category:Letters to Edith Tolkien]]
+{{letters}}
+[[de:Brief 2]]
+{{DEFAULTSORT:Letter 002}}
+[[Category:Letters to Edith Tolkien]]

@@ -1,0 +1,45 @@
+{{journal
+| title=Other Minds 11
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=January [[2011]]
+| format=PDF
+| pages=129
+| issn=
+}}
+
+'''''Other Minds'' 11''' is the eleventh issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in January 2011.
+
+==Contents==
+* "Editorial: A belated Chrismas and New Year's present!"
+** By [[Thomas Morwinsky]]
+* "Inside Information"
+** By Thomas Morwinsky
+* "Agazlam"
+** By Severin, Isildur's Heir
+* "Roleplaying Battles in Middle-earth"
+** By José Enrique Vacas de la Rosa
+* "Simplified System-Chronicles of Middle-earth"
+** By Daniel Vacaflores
+* "Moldewarp stats for LotRRPG"
+** By José Enrique Vacas de la Rosa
+* "Things a PC should know"
+** By Tom Davie
+* "The Tale of Years"
+** By Thomas Giessl
+* "Únati and Axani"
+** By Neville Percy
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Appendix A: Handout for 'Things a PC should know'"
+* "Appendix B: Character Sheet & Skill Listing for 'Simplified System-Chronicles of Middle-earth'"
+* "Table of Contents: Other Minds Magazine, Issues 1-11"
+
+*'''Artwork / Maps:'''
+** By: Catherine Karina Chmiel, [[John Howe]], Stephen Hickman, Jan Pospisil, Tuuliky
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 11}}
+[[Category:Other Minds]]

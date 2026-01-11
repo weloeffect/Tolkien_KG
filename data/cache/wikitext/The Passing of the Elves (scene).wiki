@@ -1,0 +1,28 @@
+{{stub}}{{scene
+|name=The Passing of the Elves
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Elves leaving Middle-earth.jpg
+|number=11 (extended edition only)
+|duration=1:40
+|event=[[Frodo]] and [[Sam]] see [[Wood-elves]] passing through the [[Shire]].
+|characters=[[Frodo]], [[Samwise]]
+|previous=[[The Shadow of the Past (scene)|The Shadow of the Past]]
+|next=[[Saruman the White (scene)|Saruman the White]]
+}}
+'''The Passing of the Elves''' is the eleventh scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was not featured in the theatrical release of ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+==Synopsis==
+
+[[Frodo]] and [[Sam]] are at a camping site in the forest in the evening. While Sam is cooking food over a fire, they hear [[Wood-elves]] singing in the distance and run to see them. The Elves are walking in a solemn procession on their way to the [[Grey Havens]]. Sam says it makes him sad that the Elves are leaving Middle-earth.
+
+Later, when Frodo and Sam have bedded down for the night, Sam complains about lying on the ground among tree roots, to Frodo's amusement.
+
+A [[Black Rider]] is briefly seen in an empty landscape of the [[Shire]]. In the theatrical edition of the film, this shot was included in [[The Shadow of the Past (scene)|The Shadow of the Past]].
+
+==Differences==
+
+This scene is not directly based on anything in ''[[The Fellowship of the Ring]]'', but may be inspired by the episode in the chapter [[Three is Company]] in which Frodo and his companions  meet a party of wood-elves led by [[Gildor]].<ref>{{FR|Three}}</ref> It is also said that Sam "believed he had once seen an Elf in the woods."<ref>{{FR|Shadow}}</ref> There is also a reference to the discomfort of sleeping on the ground: "Frodo woke up first, and found that a tree-root had made a hole in his back, and that his neck was stiff."<ref>{{FR|Three}}</ref>
+
+{{references}}
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|11]]

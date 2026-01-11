@@ -1,0 +1,805 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Journey_in_the_Dark_%28scene%29> a schema:WebPage ;
+    rdfs:label "A Journey in the Dark (scene)"@en ;
+    schema:about <http://localhost:8000/resource/A_Journey_in_the_Dark_%28scene%29> .
+
+<http://localhost:8000/page/A_Knife_in_the_Dark_%28scene%29> a schema:WebPage ;
+    rdfs:label "A Knife in the Dark (scene)"@en ;
+    schema:about <http://localhost:8000/resource/A_Knife_in_the_Dark_%28scene%29> .
+
+<http://localhost:8000/page/A_Long-expected_Party_%28scene%29> a schema:WebPage ;
+    rdfs:label "A Long-expected Party (scene)"@en ;
+    schema:about <http://localhost:8000/resource/A_Long-expected_Party_%28scene%29> .
+
+<http://localhost:8000/page/A_Short_Cut_to_Mushrooms_%28scene%29> a schema:WebPage ;
+    rdfs:label "A Short Cut to Mushrooms (scene)"@en ;
+    schema:about <http://localhost:8000/resource/A_Short_Cut_to_Mushrooms_%28scene%29> .
+
+<http://localhost:8000/page/At_the_Green_Dragon> a schema:WebPage ;
+    rdfs:label "At the Green Dragon"@en ;
+    schema:about <http://localhost:8000/resource/At_the_Green_Dragon> .
+
+<http://localhost:8000/page/At_the_Sign_of_The_Prancing_Pony_%28scene%29> a schema:WebPage ;
+    rdfs:label "At the Sign of The Prancing Pony (scene)"@en ;
+    schema:about <http://localhost:8000/resource/At_the_Sign_of_The_Prancing_Pony_%28scene%29> .
+
+<http://localhost:8000/page/Balin%27s_Tomb_%28scene%29> a schema:WebPage ;
+    rdfs:label "Balin's Tomb (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Balin%27s_Tomb_%28scene%29> .
+
+<http://localhost:8000/page/Bilbo%27s_Gifts> a schema:WebPage ;
+    rdfs:label "Bilbo's Gifts"@en ;
+    schema:about <http://localhost:8000/resource/Bilbo%27s_Gifts> .
+
+<http://localhost:8000/page/Boromir%27s_Sacrifice> a schema:WebPage ;
+    rdfs:label "Boromir's Sacrifice"@en ;
+    schema:about <http://localhost:8000/resource/Boromir%27s_Sacrifice> .
+
+<http://localhost:8000/page/Bucklebury_Ferry_%28scene%29> a schema:WebPage ;
+    rdfs:label "Bucklebury Ferry (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Bucklebury_Ferry_%28scene%29> .
+
+<http://localhost:8000/page/Caras_Galadhon_%28scene%29> a schema:WebPage ;
+    rdfs:label "Caras Galadhon (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Caras_Galadhon_%28scene%29> .
+
+<http://localhost:8000/page/Concerning_Hobbits_%28scene%29> a schema:WebPage ;
+    rdfs:label "Concerning Hobbits (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Concerning_Hobbits_%28scene%29> .
+
+<http://localhost:8000/page/Farewell_Dear_Bilbo> a schema:WebPage ;
+    rdfs:label "Farewell Dear Bilbo"@en ;
+    schema:about <http://localhost:8000/resource/Farewell_Dear_Bilbo> .
+
+<http://localhost:8000/page/Farewell_to_L%C3%B3rien_%28scene%29> a schema:WebPage ;
+    rdfs:label "Farewell to Lórien (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Farewell_to_L%C3%B3rien_%28scene%29> .
+
+<http://localhost:8000/page/Flight_to_the_Ford_%28scene%29> a schema:WebPage ;
+    rdfs:label "Flight to the Ford (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Flight_to_the_Ford_%28scene%29> .
+
+<http://localhost:8000/page/Following_the_Orcs> a schema:WebPage ;
+    rdfs:label "Following the Orcs"@en ;
+    schema:about <http://localhost:8000/resource/Following_the_Orcs> .
+
+<http://localhost:8000/page/Gilraen%27s_Memorial> a schema:WebPage ;
+    rdfs:label "Gilraen's Memorial"@en ;
+    schema:about <http://localhost:8000/resource/Gilraen%27s_Memorial> .
+
+<http://localhost:8000/page/Homage_to_Gandalf> a schema:WebPage ;
+    rdfs:label "Homage to Gandalf"@en ;
+    schema:about <http://localhost:8000/resource/Homage_to_Gandalf> .
+
+<http://localhost:8000/page/Keep_It_Secret%2C_Keep_It_Safe_%28scene%29> a schema:WebPage ;
+    rdfs:label "Keep It Secret, Keep It Safe (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Keep_It_Secret%2C_Keep_It_Safe_%28scene%29> .
+
+<http://localhost:8000/page/Lothl%C3%B3rien_%28scene%29> a schema:WebPage ;
+    rdfs:label "Lothlórien (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Lothl%C3%B3rien_%28scene%29> .
+
+<http://localhost:8000/page/Many_Meetings_%28scene%29> a schema:WebPage ;
+    rdfs:label "Many Meetings (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Many_Meetings_%28scene%29> .
+
+<http://localhost:8000/page/Moria_%28scene%29> a schema:WebPage ;
+    rdfs:label "Moria (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Moria_%28scene%29> .
+
+<http://localhost:8000/page/Parth_Galen_%28scene%29> a schema:WebPage ;
+    rdfs:label "Parth Galen (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Parth_Galen_%28scene%29> .
+
+<http://localhost:8000/page/Prologue%3A_A_Ring%27s_Tale> a schema:WebPage ;
+    rdfs:label "Prologue: A Ring's Tale"@en ;
+    schema:about <http://localhost:8000/resource/Prologue%3A_A_Ring%27s_Tale> .
+
+<http://localhost:8000/page/Prologue%3A_One_Ring_to_Rule_Them_All...> a schema:WebPage ;
+    rdfs:label "Prologue: One Ring to Rule Them All..."@en ;
+    schema:about <http://localhost:8000/resource/Prologue%3A_One_Ring_to_Rule_Them_All...> .
+
+<http://localhost:8000/page/Rivendell_%28scene%29> a schema:WebPage ;
+    rdfs:label "Rivendell (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Rivendell_%28scene%29> .
+
+<http://localhost:8000/page/Saruman_the_White_%28scene%29> a schema:WebPage ;
+    rdfs:label "Saruman the White (scene)"@en ;
+    schema:about <http://localhost:8000/resource/Saruman_the_White_%28scene%29> .
+
+<http://localhost:8000/page/The_Account_of_Isildur> a schema:WebPage ;
+    rdfs:label "The Account of Isildur"@en ;
+    schema:about <http://localhost:8000/resource/The_Account_of_Isildur> .
+
+<http://localhost:8000/page/The_Breaking_of_the_Fellowship_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Breaking of the Fellowship (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Breaking_of_the_Fellowship_%28scene%29> .
+
+<http://localhost:8000/page/The_Bridge_of_Khazad-d%C3%BBm_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Bridge of Khazad-dûm (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28scene%29> .
+
+<http://localhost:8000/page/The_Caverns_of_Isengard_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Caverns of Isengard (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Caverns_of_Isengard_%28scene%29> .
+
+<http://localhost:8000/page/The_Council_of_Elrond_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Council of Elrond (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Council_of_Elrond_%28scene%29> .
+
+<http://localhost:8000/page/The_Departure_of_Boromir_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Departure of Boromir (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Departure_of_Boromir_%28scene%29> .
+
+<http://localhost:8000/page/The_Departure_of_The_Fellowship> a schema:WebPage ;
+    rdfs:label "The Departure of The Fellowship"@en ;
+    schema:about <http://localhost:8000/resource/The_Departure_of_The_Fellowship> .
+
+<http://localhost:8000/page/The_Evenstar_%28The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_scene%29> a schema:WebPage ;
+    rdfs:label "The Evenstar (The Lord of the Rings: The Fellowship of the Ring scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Evenstar_%28The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_scene%29> .
+
+<http://localhost:8000/page/The_Fate_of_the_Ring> a schema:WebPage ;
+    rdfs:label "The Fate of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_Fate_of_the_Ring> .
+
+<http://localhost:8000/page/The_Fighting_Uruk-hai> a schema:WebPage ;
+    rdfs:label "The Fighting Uruk-hai"@en ;
+    schema:about <http://localhost:8000/resource/The_Fighting_Uruk-hai> .
+
+<http://localhost:8000/page/The_Great_River_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Great River (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Great_River_%28scene%29> .
+
+<http://localhost:8000/page/The_Midgewater_Marshes> a schema:WebPage ;
+    rdfs:label "The Midgewater Marshes"@en ;
+    schema:about <http://localhost:8000/resource/The_Midgewater_Marshes> .
+
+<http://localhost:8000/page/The_Mirror_of_Galadriel_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Mirror of Galadriel (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Mirror_of_Galadriel_%28scene%29> .
+
+<http://localhost:8000/page/The_Nazg%C3%BBl_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Nazgûl (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Nazg%C3%BBl_%28scene%29> .
+
+<http://localhost:8000/page/The_Pass_of_Caradhras> a schema:WebPage ;
+    rdfs:label "The Pass of Caradhras"@en ;
+    schema:about <http://localhost:8000/resource/The_Pass_of_Caradhras> .
+
+<http://localhost:8000/page/The_Passing_of_the_Elves_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Passing of the Elves (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Passing_of_the_Elves_%28scene%29> .
+
+<http://localhost:8000/page/The_Ring_Goes_South_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Ring Goes South (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Ring_Goes_South_%28scene%29> .
+
+<http://localhost:8000/page/The_Shadow_of_the_Past_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Shadow of the Past (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Shadow_of_the_Past_%28scene%29> .
+
+<http://localhost:8000/page/The_Shire_%28scene%29> a schema:WebPage ;
+    rdfs:label "The Shire (scene)"@en ;
+    schema:about <http://localhost:8000/resource/The_Shire_%28scene%29> .
+
+<http://localhost:8000/page/The_Spoiling_of_Isengard> a schema:WebPage ;
+    rdfs:label "The Spoiling of Isengard"@en ;
+    schema:about <http://localhost:8000/resource/The_Spoiling_of_Isengard> .
+
+<http://localhost:8000/page/The_Sword_that_Was_Broken> a schema:WebPage ;
+    rdfs:label "The Sword that Was Broken"@en ;
+    schema:about <http://localhost:8000/resource/The_Sword_that_Was_Broken> .
+
+<http://localhost:8000/page/Theoden_of_Rohan> a schema:WebPage ;
+    rdfs:label "Theoden of Rohan"@en ;
+    schema:about <http://localhost:8000/resource/Theoden_of_Rohan> .
+
+<http://localhost:8000/page/Very_Old_Friends> a schema:WebPage ;
+    rdfs:label "Very Old Friends"@en ;
+    schema:about <http://localhost:8000/resource/Very_Old_Friends> .
+
+<http://localhost:8000/resource/Boromir%27s_Sacrifice> a schema:Thing ;
+    tg:duration "0:49 (see below)"@en ;
+    tg:event <http://localhost:8000/resource/Death_of_Boromir%2C%3Cbr%3ECapture_of_Peregrin_Took> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> ;
+    tg:image "The Lord of the Rings (1978 film) - Borimir's Sacrifice.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Boromir's Sacrifice"@en ;
+    tg:next "Following the Orcs"@en ;
+    tg:number "24"@en ;
+    tg:previous "Borimir's Madness"@en .
+
+<http://localhost:8000/resource/Following_the_Orcs> a schema:Thing ;
+    tg:duration "5:12"@en ;
+    tg:event <http://localhost:8000/resource/Three_Hunters_chase_Orcs_through_Rohan> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> ;
+    tg:image "The Lord of the Rings (1978 film) - Following the Orcs.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Following the Orcs"@en ;
+    tg:next "Whiteskins Attack"@en ;
+    tg:number "25"@en ;
+    tg:previous "Borimir's Sacrifice"@en .
+
+<http://localhost:8000/resource/Homage_to_Gandalf> a schema:Thing ;
+    tg:duration "3:27"@en ;
+    tg:event <http://localhost:8000/resource/Arrival_at_Lothl%C3%B3rien> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Homage to Gandalf"@en ;
+    tg:next "Galadriel's Test"@en ;
+    tg:number "21"@en ;
+    tg:previous "Balrog Strikes"@en .
+
+<http://localhost:8000/resource/Prologue%3A_A_Ring%27s_Tale> a schema:Thing ;
+    tg:duration "3:41"@en ;
+    tg:event <http://localhost:8000/resource/forging_of_the_Rings_of_Power> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> ;
+    tg:image "The Lord of the Rings (1978 film) - Prologue.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Prologue: A Ring's Tale"@en ;
+    tg:next "Bilbo's Farewell"@en ;
+    tg:number "2"@en .
+
+<http://localhost:8000/resource/Theoden_of_Rohan> a schema:Thing ;
+    tg:duration "3:48"@en ;
+    tg:event <http://localhost:8000/resource/Arrival_at_Edoras> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings_%281978_film%29> ;
+    tg:image "The Lord of the Rings (1978 film) - Theoden of Rohan.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Theoden of Rohan"@en ;
+    tg:next "Gollum gets Touchy"@en ;
+    tg:number "31"@en ;
+    tg:previous "Back from the Abyss"@en .
+
+<http://localhost:8000/resource/Prologue%3A_One_Ring_to_Rule_Them_All...> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Sauron%2C_Isildur%2C_Elrond%2C_Gollum%2C_Bilbo_Baggins> ;
+    tg:duration """7:15 (theatrical)<br />
+          7:36 (extended)"""@en ;
+    tg:event <http://localhost:8000/resource/Creation_of_the_Rings_of_Power%2C_Last_Alliance%2C_Bilbo_finds_the_One_Ring> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Last Alliance.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Prologue: One Ring to Rule Them All..."@en ;
+    tg:next <http://localhost:8000/resource/Concerning_Hobbits_%28scene%29> ;
+    tg:number "1"@en .
+
+<http://localhost:8000/resource/The_Departure_of_Boromir_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Boromir%2C_Aragorn%2C_Legolas%2C_Gimli> ;
+    tg:event <http://localhost:8000/resource/The_death_of_Boromir> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Death of Boromir.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Departure of Boromir"@en ;
+    tg:next <http://localhost:8000/resource/The_Road_Goes_Ever_On..._%28scene%29> ;
+    tg:number """39 (theatrical)<br>
+           45 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Breaking_of_the_Fellowship_%28scene%29> .
+
+<http://localhost:8000/resource/A_Journey_in_the_Dark_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Frodo%2C_Aragorn%2C_Legolas%2C_Gimli%2C_Boromir%2C_Sam%2C_Merry%2C_Pippin> ;
+    tg:duration """04:55 (theatrical) <br>
+          06:30 (extended)"""@en ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_travel_through_Moria> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "A Journey in the Dark"@en ;
+    tg:next <http://localhost:8000/resource/Balin%27s_Tomb_%28scene%29> ;
+    tg:number """28 (theatrical) <br>
+        34 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Moria_%28scene%29> .
+
+<http://localhost:8000/resource/A_Knife_in_the_Dark_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:duration "4:40"@en ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Weathertop.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "A Knife in the Dark"@en ;
+    tg:next <http://localhost:8000/resource/The_Caverns_of_Isengard_%28scene%29> ;
+    tg:number """19 (extended edition)<br>
+           15 (theatrical cut)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Spoiling_of_Isengard> .
+
+<http://localhost:8000/resource/A_Long-expected_Party_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Bilbo_Baggins> ;
+    tg:duration """4:24 (theatrical edition)<br>
+          5:34 (extended edition)"""@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_gives_his_Farewell_Party_where_he_vanishes_suddenly.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Farewell party.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "A Long-expected Party"@en ;
+    tg:next <http://localhost:8000/resource/Farewell_Dear_Bilbo> ;
+    tg:number """4 (theatrical edition)<br />
+        5 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/Very_Old_Friends> .
+
+<http://localhost:8000/resource/A_Short_Cut_to_Mushrooms_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Sam%2C_Merry%2C_Pippin%2C_Nazg%C3%BBl> ;
+    tg:duration "3:51"@en ;
+    tg:event <http://localhost:8000/resource/A_Black_Rider_pursues_the_Hobbits_in_search_of_the_One_Ring> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - A Short Cut to Mushrooms.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "A Shortcut to Mushrooms"@en ;
+    tg:next <http://localhost:8000/resource/Bucklebury_Ferry_%28scene%29> ;
+    tg:number """10 (theatrical edition)<br />
+        13 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/Saruman_the_White_%28scene%29> .
+
+<http://localhost:8000/resource/At_the_Green_Dragon> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Sam%2C_Rosie_Cotton%2C_Merry%2C_Pippin> ;
+    tg:duration "1:26"@en ;
+    tg:event <http://localhost:8000/resource/Frodo_visits_the_Green_Dragon.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - At the Green Dragon.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "At the Green Dragon"@en ;
+    tg:next <http://localhost:8000/resource/The_Shadow_of_the_Past_%28scene%29> ;
+    tg:number "9 (extended edition only)"@en ;
+    tg:previous <http://localhost:8000/resource/The_Account_of_Isildur> .
+
+<http://localhost:8000/resource/At_the_Sign_of_The_Prancing_Pony_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Sam%2C_Merry%2C_Pippin%2C_Harry_Goatleaf> ;
+    tg:duration """5:57 (theatrical edition)<br>
+             6:01 (extended edition)"""@en ;
+    tg:event <http://localhost:8000/resource/The_hobbits_arrive_at_the_Prancing_Pony_and_meet_Aragorn.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - At the Sign of the Prancing Pony.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "At the Sign of the Prancing Pony"@en ;
+    tg:next <http://localhost:8000/resource/The_Nazg%C3%BBl_%28scene%29> ;
+    tg:number """12 (theatrical edition)<br>
+           15 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/Bucklebury_Ferry_%28scene%29> .
+
+<http://localhost:8000/resource/Balin%27s_Tomb_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Chamber of Mazarbul2.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Balin's Tomb"@en ;
+    tg:next <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28scene%29> ;
+    tg:number """29 (theatrical)<br>
+           35 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/A_Journey_in_the_Dark_%28scene%29> .
+
+<http://localhost:8000/resource/Bilbo%27s_Gifts> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Bilbo_Baggins> ;
+    tg:event <http://localhost:8000/resource/Frodo_obtains_Sting_and_the_Mithril-coat_from_Bilbo.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Bilbo's gifts.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Bilbo's Gifts"@en ;
+    tg:next <http://localhost:8000/resource/The_Departure_of_The_Fellowship> ;
+    tg:number """29 (extended)<br>
+           24 (theatrical)"""@en ;
+    tg:previous <http://localhost:8000/resource/Gilraen%27s_Memorial> .
+
+<http://localhost:8000/resource/Bucklebury_Ferry_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Samwise%2C_Merry%2C_Pippin%2C_Nazg%C3%BBl> ;
+    tg:duration "2:17"@en ;
+    tg:event <http://localhost:8000/resource/The_four_hobbits_escape_the_Black_Riders_across_the_Brandywine_River> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Bucklebury Ferry.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Bucklebury Ferry"@en ;
+    tg:next <http://localhost:8000/resource/At_the_Sign_of_The_Prancing_Pony_%28scene%29> ;
+    tg:number """11 (theatrical edition)<br>
+        14 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/A_Short_Cut_to_Mushrooms_%28scene%29> .
+
+<http://localhost:8000/resource/Caras_Galadhon_%28scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Motion Picture Trilogy - Caras Galadhon.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Caras Galadhon"@en ;
+    tg:next <http://localhost:8000/resource/The_Mirror_of_Galadriel_%28scene%29> ;
+    tg:number """32 (theatrical)<br>
+           38 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Lothl%C3%B3rien_%28scene%29> .
+
+<http://localhost:8000/resource/Concerning_Hobbits_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Bilbo_Baggins> ;
+    tg:duration "2:58"@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_writes_his_memoirs%2C_preparations_for_the_Birthday_Party> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "Three hobbits smoking.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Concerning Hobbits"@en ;
+    tg:next <http://localhost:8000/resource/The_Shire_%28scene%29> ;
+    tg:number "2 (extended edition only)"@en ;
+    tg:previous <http://localhost:8000/resource/Prologue%3A_One_Ring_to_Rule_Them_All...> .
+
+<http://localhost:8000/resource/Farewell_Dear_Bilbo> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Bilbo_Baggins> ;
+    tg:duration "4:24"@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_leaves_the_Shire%2C_leaving_the_One_Ring> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Farewell Dear Bilbo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Farewell Dear Bilbo"@en ;
+    tg:next <http://localhost:8000/resource/Keep_It_Secret%2C_Keep_It_Safe_%28scene%29> ;
+    tg:number """5 (theatrical edition)<br />
+           6 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/A_Long-expected_Party_%28scene%29> .
+
+<http://localhost:8000/resource/Farewell_to_L%C3%B3rien_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Galadriel%2C_Celeborn%2C_Fellowship_of_the_Ring> ;
+    tg:duration """00:52 (theatrical) <br>
+          05:22 (extended)"""@en ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_leave_Lothl%C3%B3rien> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Farewell to Lórien.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Farewell to Lórien"@en ;
+    tg:next <http://localhost:8000/resource/The_Great_River_%28scene%29> ;
+    tg:number """35 (theatrical) <br>
+        41 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Fighting_Uruk-hai> .
+
+<http://localhost:8000/resource/Flight_to_the_Ford_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Arwen%2C_Frodo_Baggins> ;
+    tg:duration "6:24"@en ;
+    tg:event <http://localhost:8000/resource/Arwen_takes_Frodo_Baggins> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings (film series) - Ford of Bruinen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Flight to the Ford"@en ;
+    tg:next <http://localhost:8000/resource/Rivendell_%28scene%29> ;
+    tg:number """21 (extended edition)<br>
+           17 (theatrical cut)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Caverns_of_Isengard_%28scene%29> .
+
+<http://localhost:8000/resource/Gilraen%27s_Memorial> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Aragorn%2C_Elrond> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings (film series) - Gilraen's grave.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Gilraen's Memorial"@en ;
+    tg:next <http://localhost:8000/resource/Bilbo%27s_Gifts> ;
+    tg:number "28 (extended edition only)"@en ;
+    tg:previous <http://localhost:8000/resource/The_Council_of_Elrond_%28scene%29> .
+
+<http://localhost:8000/resource/Keep_It_Secret%2C_Keep_It_Safe_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Frodo_Baggins> ;
+    tg:duration "2:13"@en ;
+    tg:event <http://localhost:8000/resource/Frodo_takes_possession_of_the_One_Ring.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Keep It Secret, Keep It Safe.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Keep It Secret, Keep It Safe"@en ;
+    tg:next <http://localhost:8000/resource/The_Account_of_Isildur> ;
+    tg:number """6 (theatrical edition)<br />
+        7 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/Farewell_Dear_Bilbo> .
+
+<http://localhost:8000/resource/Lothl%C3%B3rien_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Haldir%2C_Frodo_Baggins> ;
+    tg:duration """03:12 (theatrical)<br>
+             06:26 (extended)"""@en ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_encounters_the_Elves_of_Lothl%C3%B3rien.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Gimli and Frodo and Sam.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Lothlórien"@en ;
+    tg:next <http://localhost:8000/resource/Caras_Galadhon_%28scene%29> ;
+    tg:number """31 (theatrical)<br>
+           37 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28scene%29> .
+
+<http://localhost:8000/resource/Many_Meetings_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Gandalf%2C_Elrond%2C_Samwise_Gamgee> ;
+    tg:duration """3:29 (extended) <br /> 
+          3:31 (theatrical)"""@en ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Many meetings"@en ;
+    tg:next <http://localhost:8000/resource/The_Fate_of_the_Ring> ;
+    tg:number """23 (extended) <br /> 
+        19 (theatrical)"""@en ;
+    tg:previous <http://localhost:8000/resource/Rivendell_%28scene%29> .
+
+<http://localhost:8000/resource/Moria_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:duration """04:52 (theatrical)<br>
+             06:25 (extended)"""@en ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_enter_Moria.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Watcher in the Water.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Moria"@en ;
+    tg:next <http://localhost:8000/resource/A_Journey_in_the_Dark_%28scene%29> ;
+    tg:number """27 (theatrical)<br>
+           33 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Pass_of_Caradhras> .
+
+<http://localhost:8000/resource/Parth_Galen_%28scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Parth Galen"@en ;
+    tg:next <http://localhost:8000/resource/The_Breaking_of_the_Fellowship_%28scene%29> ;
+    tg:number """37 (theatrical)<br>
+           43 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Great_River_%28scene%29> .
+
+<http://localhost:8000/resource/Rivendell_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Gandalf%2C_Elrond%2C_Saruman_%28flashback_only%29%2C_Gwaihir_%28flashback_only%29> ;
+    tg:duration """2:00 (extended) <br /> 
+          2:06 (theatrical)"""@en ;
+    tg:event <http://localhost:8000/resource/Frodo_wakes_up_in_Rivendell_and_meets_Gandalf> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Gandalf and Frodo in Rivendell.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Rivendell"@en ;
+    tg:next <http://localhost:8000/resource/Many_Meetings_%28scene%29> ;
+    tg:number """22 (extended) <br /> 
+        18 (theatrical)"""@en ;
+    tg:previous <http://localhost:8000/resource/Flight_to_the_Ford_%28scene%29> .
+
+<http://localhost:8000/resource/Saruman_the_White_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Saruman> ;
+    tg:duration "4:36"@en ;
+    tg:event <http://localhost:8000/resource/Gandalf_is_captured_in_Orthanc_by_Saruman.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Saruman the White.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Saruman the White"@en ;
+    tg:next <http://localhost:8000/resource/A_Short_Cut_to_Mushrooms_%28scene%29> ;
+    tg:number """9 (theatrical edition)<br />
+        12 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Passing_of_the_Elves_%28scene%29> .
+
+<http://localhost:8000/resource/The_Account_of_Isildur> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Isildur_%28in_flashback%29%2C_Ringwraiths> ;
+    tg:duration "2:41"@en ;
+    tg:event <http://localhost:8000/resource/Gandalf_travels_to_Minas_Tirith_to_research_the_One_Ring%3B_the_Ringwraiths_search_for_%22Baggins%22.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - The Account of Isildur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Account of Isildur"@en ;
+    tg:next <http://localhost:8000/resource/At_the_Green_Dragon> ;
+    tg:number """7 (theatrical edition)<br />
+           8 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/Keep_It_Secret%2C_Keep_It_Safe_%28scene%29> .
+
+<http://localhost:8000/resource/The_Breaking_of_the_Fellowship_%28scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Breaking of the Fellowship"@en ;
+    tg:next <http://localhost:8000/resource/The_Departure_of_Boromir_%28scene%29> ;
+    tg:number """38 (theatrical)<br>
+           44 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Parth_Galen_%28scene%29> .
+
+<http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Frodo%2C_Aragorn%2C_Boromir%2C_Legolas%2C_Gimli%2C_Sam%2C_Merry%2C_Pippin%2C_Durin%27s_Bane> ;
+    tg:event <http://localhost:8000/resource/Gandalf_vs._Durin%27s_Bane> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Gandalf on the Bridge of Khazad-dûm.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Bridge of Khazad-dûm"@en ;
+    tg:next <http://localhost:8000/resource/Lothl%C3%B3rien_%28scene%29> ;
+    tg:number """30 (theatrical) <br>
+        36 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Balin%27s_Tomb_%28scene%29> .
+
+<http://localhost:8000/resource/The_Caverns_of_Isengard_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Saruman%2C_Gandalf> ;
+    tg:duration "2:30"@en ;
+    tg:event <http://localhost:8000/resource/Saruman_continues_construction_of_his_army.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - The Caverns of Isengard.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Caverns of Isengard"@en ;
+    tg:next <http://localhost:8000/resource/Flight_to_the_Ford_%28scene%29> ;
+    tg:number """20 (extended edition)<br>
+         16 (theatrical cut)"""@en ;
+    tg:previous <http://localhost:8000/resource/A_Knife_in_the_Dark_%28scene%29> .
+
+<http://localhost:8000/resource/The_Council_of_Elrond_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Elrond%2C_Gandalf%2C_Frodo_Baggins> ;
+    tg:event <http://localhost:8000/resource/The_Council_of_Elrond%3Cbr/%3EFormation_of_the_Fellowship_of_the_Ring> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Council of Elrond2.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Council of Elrond"@en ;
+    tg:next <http://localhost:8000/resource/Gilraen%27s_Memorial> ;
+    tg:number """27 (extended)<br>
+           23 (theatrical)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Evenstar_%28The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_scene%29> .
+
+<http://localhost:8000/resource/The_Departure_of_The_Fellowship> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Elrond%2C_Fellowship_of_the_Ring_%3Cbr_/%3E_Arwen> ;
+    tg:duration "01:17"@en ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_of_the_Ring_departs_Rivendell> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - The Departure of the Fellowship from Rivendell.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Departure of The Fellowship"@en ;
+    tg:next <http://localhost:8000/resource/The_Ring_Goes_South_%28scene%29> ;
+    tg:number "30 (extended)"@en ;
+    tg:previous <http://localhost:8000/resource/Bilbo%27s_Gifts> .
+
+<http://localhost:8000/resource/The_Evenstar_%28The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Evenstar"@en ;
+    tg:next <http://localhost:8000/resource/The_Council_of_Elrond_%28scene%29> ;
+    tg:number """22 (theatrical)<br>
+           26 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Sword_that_Was_Broken> .
+
+<http://localhost:8000/resource/The_Fate_of_the_Ring> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Elrond%2C_Gandalf> ;
+    tg:event <http://localhost:8000/resource/Elrond_and_Gandalf_discuss_what_should_be_done_with_The_One_Ring> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Elrond 3.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Fate of the Ring"@en ;
+    tg:next <http://localhost:8000/resource/The_Sword_that_Was_Broken> ;
+    tg:number """20 (theatrical) <br>
+         24 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Many_Meetings_%28scene%29> .
+
+<http://localhost:8000/resource/The_Fighting_Uruk-hai> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Fighting Uruk-hai"@en ;
+    tg:next <http://localhost:8000/resource/Farewell_to_L%C3%B3rien_%28scene%29> ;
+    tg:number """34 (theatrical)<br>
+           40 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Mirror_of_Galadriel_%28scene%29> .
+
+<http://localhost:8000/resource/The_Great_River_%28scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Great River"@en ;
+    tg:next <http://localhost:8000/resource/Parth_Galen_%28scene%29> ;
+    tg:number """36 (theatrical)<br>
+           42 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Farewell_to_L%C3%B3rien_%28scene%29> .
+
+<http://localhost:8000/resource/The_Midgewater_Marshes> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Sam%2C_Merry%2C_Pippin%2C_Aragorn> ;
+    tg:duration "1:37"@en ;
+    tg:event <http://localhost:8000/resource/The_hobbits_make_their_way_through_the_Midgewater_Marshes> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings (film series) - Midgewater crossing.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Midgewater Marshes"@en ;
+    tg:next <http://localhost:8000/resource/The_Spoiling_of_Isengard> ;
+    tg:number "17 (extended edition only)"@en ;
+    tg:previous <http://localhost:8000/resource/The_Nazg%C3%BBl_%28scene%29> .
+
+<http://localhost:8000/resource/The_Mirror_of_Galadriel_%28scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Rings - Frodo and the Mirror of Galadriel.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Mirror of Galadriel"@en ;
+    tg:next <http://localhost:8000/resource/The_Fighting_Uruk-hai> ;
+    tg:number """33 (theatrical)<br>
+           39 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/Caras_Galadhon_%28scene%29> .
+
+<http://localhost:8000/resource/The_Nazg%C3%BBl_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:duration """3:24 (theatrical edition)<br>
+          3:44 (extended edition)"""@en ;
+    tg:event <http://localhost:8000/resource/The_Nazg%C3%BBl> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings (film series) - Ringwraiths Enter Bree.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Nazgûl"@en ;
+    tg:next <http://localhost:8000/resource/The_Midgewater_Marshes> ;
+    tg:number """13 (theatrical edition)<br>
+        16 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/At_the_Sign_of_The_Prancing_Pony_%28scene%29> .
+
+<http://localhost:8000/resource/The_Pass_of_Caradhras> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Fellowship_of_the_Ring%2C_Saruman> ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_attempt_to_cross_Caradhras> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - The Fellowship on Caradhras.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Pass of Caradhras"@en ;
+    tg:next <http://localhost:8000/resource/Moria_%28scene%29> ;
+    tg:number """26 (theatrical) <br>
+         32 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Ring_Goes_South_%28scene%29> .
+
+<http://localhost:8000/resource/The_Passing_of_the_Elves_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo%2C_Samwise> ;
+    tg:duration "1:40"@en ;
+    tg:event <http://localhost:8000/resource/Frodo_and_Sam_see_Wood-elves_passing_through_the_Shire.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Elves leaving Middle-earth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Passing of the Elves"@en ;
+    tg:next <http://localhost:8000/resource/Saruman_the_White_%28scene%29> ;
+    tg:number "11 (extended edition only)"@en ;
+    tg:previous <http://localhost:8000/resource/The_Shadow_of_the_Past_%28scene%29> .
+
+<http://localhost:8000/resource/The_Ring_Goes_South_%28scene%29> a schema:Thing ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Ring Goes South"@en ;
+    tg:next <http://localhost:8000/resource/The_Pass_of_Caradhras> ;
+    tg:number """31 (extended)<br>
+           25 (theatrical)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Departure_of_The_Fellowship> .
+
+<http://localhost:8000/resource/The_Shadow_of_the_Past_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Frodo%2C_Sam%2C_Gollum> ;
+    tg:duration """9:06 (theatrical edition)<br />
+          8:45 (extended edition)"""@en ;
+    tg:event <http://localhost:8000/resource/Gandalf_sends_Frodo_and_Sam_on_their_journey._Gandalf_leaves_for_Isengard.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Sam and Frodo in a wheat field.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Shadow of the Past"@en ;
+    tg:next <http://localhost:8000/resource/The_Passing_of_the_Elves_%28scene%29> ;
+    tg:number """8 (theatrical edition)<br />
+        10 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/At_the_Green_Dragon> .
+
+<http://localhost:8000/resource/The_Shire_%28scene%29> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:duration """4:19 (theatrical edition)<br>
+          5:04 (extended edition)"""@en ;
+    tg:event <http://localhost:8000/resource/Gandalf_arrives_in_Hobbiton> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Hobbiton.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Shire"@en ;
+    tg:next <http://localhost:8000/resource/Very_Old_Friends> ;
+    tg:number """2 (theatrical edition)<br>
+        3 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/Concerning_Hobbits_%28scene%29> .
+
+<http://localhost:8000/resource/The_Spoiling_of_Isengard> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Saruman%2C_Sauron%2C_Gandalf> ;
+    tg:duration "1:42"@en ;
+    tg:event <http://localhost:8000/resource/Saruman_begins_the_process_of_creating_his_own_army.> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings (film series) - Saruman using Palantír.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Spoiling of Isengard"@en ;
+    tg:next <http://localhost:8000/resource/A_Knife_in_the_Dark_%28scene%29> ;
+    tg:number """18 (extended edition)<br>
+         14 (theatrical cut)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Midgewater_Marshes> .
+
+<http://localhost:8000/resource/The_Sword_that_Was_Broken> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Aragorn%2C_Boromir%2C_Arwen> ;
+    tg:event <http://localhost:8000/resource/Aragorn_voices_his_doubts_about_his_own_strength_and_fate> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Narsil Broken.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "The Sword that Was Broken"@en ;
+    tg:next <http://localhost:8000/resource/The_Evenstar_%28The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_scene%29> ;
+    tg:number """21 (theatrical) <br>
+        25 (extended)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Fate_of_the_Ring> .
+
+<http://localhost:8000/resource/Very_Old_Friends> a schema:Thing ;
+    tg:characters <http://localhost:8000/resource/Gandalf%2C_Bilbo_Baggins> ;
+    tg:duration """4:08 (theatrical edition)<br>
+          4:18 (extended edition)"""@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_discusses_his_plans_with_Gandalf_prior_to_the_Bilbo%27s_Farewell_Party> ;
+    tg:film <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Bilbo smoking.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/scene> ;
+    tg:name "Very Old Friends"@en ;
+    tg:next <http://localhost:8000/resource/A_Long-expected_Party_%28scene%29> ;
+    tg:number """3 (theatrical edition)<br />
+        4 (extended edition)"""@en ;
+    tg:previous <http://localhost:8000/resource/The_Shire_%28scene%29> .
+

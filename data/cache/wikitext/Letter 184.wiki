@@ -1,0 +1,16 @@
+{{letter infobox
+| #=184
+| to=Sam Gamgee
+| date=[[18 March]] [[1956]]
+| subject=[[Samwise Gamgee|Sam Gamgee]]
+}}{{letter|184}}
+==Summary==
+Following the [[The Lord of the Rings (1955 radio series)|1955 radio series]] of ''[[The Lord of the Rings]]'', a [[wikipedia:Tooting|Tooting]] resident named "Sam Gamgee" wrote to Tolkien on [[13 March]] [[1956]]. On [[18 March]], Tolkien replied. He explained his own origin of the name [[Gamgee Family|Gamgee]], and mentioned the Gamgee family of [[Birmingham]]. In his letter, Gamgee had already shown awareness of his family's name fame in [[wikipedia:Sampson Gamgee|the medical profession]]. Tolkien then asked for more information about the name, and offered a signed copy of ''The Lord of the Rings''.
+
+==Notes==
+* In an editorial note, further correspondence is mentioned. Gamgee wrote back with family information, and accepted the gift kindly.
+* In ''[[J.R.R. Tolkien: A Biography]]'', pages 224-225, this episode was also mentioned. It was followed by: "[l]ater he said: '''For some time I lived in fear of receiving a letter signed ''S. Gollum''. That would have been more difficult to deal with.'' '" It is unclear where this specific passage is from, but a very similar one appears in an unpublished letter to [[Rayner Unwin]] from [[21 March]] [[1956]]: ''"I hope I shan’t now get letters from S. Gollum, or [[Shagrat]]."''<ref>[[Catherine McIlwaine]], ''[[Tolkien: Maker of Middle-earth]]'' p.94</ref>
+* Gamgee's first letter from [[13 March]] [[1956]] is reproduced in ''[[Tolkien: Maker of Middle-earth]]''.
+{{letters}}
+{{references}}
+[[de:Brief 184]]

@@ -1,0 +1,28 @@
+{{VTbox
+| title=Vinyar Tengwar 16
+| image = Vinyar Tengwar 16.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=March [[1991]]
+| format=Paperback journal
+| pages=16
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 16''''' is the sixteenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|15|17}}
+
+==Contents==
+* Cover: "Melkor Descending into Arda" — Patrick H. Wynne
+* E.L.F. News
+* Letters to ''VT''
+
+* "The Associative: A 'Problematic' Quenya Noun Case Explained" — Patrick H. Wynne
+* "How Do You Say 'Answering Machine' in Quenya?" — Arden R. Smith
+* "Transitions in Translations: Elvish is Fin(n)ished" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 16}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 16]]

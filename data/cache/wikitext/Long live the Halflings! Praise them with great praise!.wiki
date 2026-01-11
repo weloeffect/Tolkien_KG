@@ -1,0 +1,50 @@
+{{unnamed}}
+{{Poem infobox
+| title="Long live the Halflings! Praise them with great praise!"
+| other names=
+| written=Between [[1938]] and [[1954]]
+| revised=Between [[1938]] and [[1954]]
+| published=''[[The Return of the King]]'',<br>''[[Sauron Defeated]]''
+| subject=[[Frodo Baggins]] and [[Samwise Gamgee]]
+}}
+
+"'''Long live the Halflings! Praise them with great praise!'''" is the first line of a [[Poems in The Lord of the Rings|chorus of praises and thanks]] sung in [[Westron]], [[Quenya]], and [[Sindarin]] by the [[Gondorians|Men]] of [[Gondor]] on the [[Field of Cormallen]], honoring the [[Ring-bearer]]s for their valiant efforts in the destruction of the [[One Ring]].<ref name=song>{{RK|Cormallen}}, pp. 951-7</ref>
+
+== Poem ==
+<poem style="font-style:italic; margin-left:20px;">
+Long live the Halflings! Praise them with great praise!
+Cuio i Pheriain anann! Aglar'ni Pheriannath!
+Praise them with great praise, Frodo and Samwise!
+Daur a Berhael, Conin en Annûn! Eglerio!
+Praise them!
+Eglerio!
+A laita te, laita te! Andave laituvalmet!
+Praise them!
+Cormacolindor, a laita tárienna!
+Praise them! The Ring-bearers, praise them with great praise!</poem>
+
+== Background ==
+In an early draft of the praise, [[J.R.R. Tolkien]] wrote the following:<ref name=early>{{SD|V}}, p. 47</ref>
+
+<poem style="font-style:italic; margin-left:20px;">
+Long live the Halflings! Praise them with great praise! Cuio i Pheriannath anann! Aglar anann! Praise them with great praise! Wilcuman, wilcutnan, Fróda and Samwís! Praise them! Uton herian holbytlan! A laita te, laita te. Andave laituvalmetl Praise them! The Ringbearers, praise them with great praise!<ref name=early/></poem>
+
+It was noted by [[Christopher Tolkien]] that this version included some [[Old English]] words in addition to Westron, Quenya, and Sindarin.<ref name=early/>
+
+In a letter to [[Rhona Beare]] on [[8 June]] in [[1961]], [[J.R.R. Tolkien]] explained that lines 2, 4, and 6 were in Sindarin while lines 7 and 9 were in Quenya. Tolkien's translations of the [[Elvish]] parts are listed below:<ref name=letter>{{L|230}}, p. 308</ref>
+
+<poem style="font-style:italic; margin-left:20px;">
+Line 2: "May the Halflings live long, glory to the Halflings"<ref name=letter/>
+Line 4: "Frodo and Sam, princes of the west, glorify (them)"<ref name=letter/>
+Line 6: "glorify (them)"<ref name=letter/>
+Line 7: "Bless them, bless them, long will we praise them"<ref name=letter/>
+Line 9: "The Ring bearers, bless (or praise) them to the height"<ref name=letter/></poem>
+
+According to Tolkien himself, this song marks the point of [[eucatastrophe]] in ''[[The Lord of the Rings]]'', bringing tears to his eyes as he wrote it.<ref name=miltonwaldman>{{L|131}}</ref>
+
+{{References}}
+
+[[Category:Poems in The Return of the King]]
+[[Category:Quenya texts]]
+[[Category:Sindarin texts]]
+[[Category:Songs]]

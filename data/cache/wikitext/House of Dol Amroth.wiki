@@ -1,0 +1,92 @@
+{{Noble House infobox
+| name=House of Dol Amroth
+| image = Rondador - House of Dol Amroth.png
+| othernames=
+| founder=Founded by [[Galador]], the son of [[Imrazôr]] [[the Númenórean]] and [[Mithrellas]] the [[Elf]]-maid
+| leader=[[Prince of Dol Amroth]]
+| location=[[Dol Amroth]], the chief city of [[Belfalas]]
+| affiliation=
+| rivalry=
+| destroyed=
+| language=[[Sindarin]], [[Westron]]
+| members=[[Angelimir]], [[Adrahil]], [[Imrahil]], [[Finduilas (wife of Denethor)|Finduilas]]
+| race=[[Dúnedain of the South]] (though with a trace of [[Elven]]-blood)
+| distinctions=
+| height=Tall
+| hair=Dark
+| skin=Pale
+| clothing=
+| weapons=
+| heirlooms=
+}}
+The '''House of Dol Amroth''' was a noble house of [[Gondor]] whose male heirs were the [[Princes of Dol Amroth]] descended from [[Galador]] the first prince.  Legend told that his father, [[Imrazôr]] [[the Númenórean]] married a [[Silvan Elves|Silvan Elf]] named [[Mithrellas]], and from that time forward the house and kin were noble by blood and fair in face and mind.<ref>{{PM|Elendil}}, ''The Line of Dol Amroth'', p. 221</ref>
+
+==Background and history==
+A family of [[Faithful]] from [[Númenor]] had ruled over the land of [[Belfalas]] since the [[Second Age]]. This family of [[Númenóreans]] were akin to the [[Lords of Andúnië]], being related to [[Elendil]] himself and thus ultimately descending from the [[House of Elros]].<ref name="Cirion">{{UT|Cirion}}, Note 39</ref> After the [[Downfall of Númenor]] they had been given the title ''Prince of Belfalas'' by [[High King (Dúnedain)|High King]] [[Elendil]]<ref name="Cirion"/> and their land, now a fief of [[Gondor]], was called [[Dor-en-Ernil]]. He granted this family a noble title, making them the hereditary Princes of Belfalas.
+
+One branch of their descendants removed to [[Lossarnach]].<ref name="Isen">{{UT|Isen}}</ref> [[Morwen Steelsheen]], a daughter of that family, married [[Thengel]] of [[Rohan]]. Through Morwen, both Thengel's heir [[Théoden]] and his grandson [[Éomer]] carried the blood of the ancient Princes of Belfalas.
+
+One of those princes, [[Adrahil (Captain of the Left Wing)|Adrahil]], fought under [[King of Gondor|King]] [[Ondoher]] against the [[Wainriders]].<ref>{{UT|Cirion}}</ref><ref group=note>Adrahil is mentioned as a "Prince of Dol Amroth" in the narrative, but this is anachronistic as the city was named Dol Amroth much later. Cf. [[Adrahil (Captain of the Left Wing)#Other versions of the legendarium]]</ref>
+
+==Genealogy==
+Showing the descendants of Galador, the first of the [[Princes of Dol Amroth]]. All information in the tree is from ''[[The Peoples of Middle-Earth]]'', "The Heirs of Elendil", either ''The Line of Dol Amroth'' or ''The House of Dol Amroth''.<ref>{{PM|Elendil}}, p. 221-223</ref>  The figures after the names are those of birth and death where recorded (when only one figure is shown it is marked as either the date of birth, 'b.').  A dagger symbol, '†' signifies those who did not die of old age.  A name preceded by '*' indicates one of the Princes of Dol Amroth.  A name in ''italics'' indicates a woman.
+
+{{familytree/start}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |ADR| | | | | | | | | | | | | | | |ADR=[[Adrahil (Captain of the Left Wing)|Adrahil]]<br/><small>''fl. 1944''</small>}}
+{{familytree | | | | | | | |:| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |IMR|y|MIT|IMR=[[Imrazôr]]<br/><small>''1950-2076''</small>|MIT=''[[Mithrellas]]''<br/><small>''fl. 1981''</small><ref group="note">Mithrellas was a companion of [[Nimrodel]] who was lost in the woods of [[Belfalas]] and harboured by Imrazôr, who wed her.</ref>}}
+{{familytree | | | | | | | |,|-|^|-|.| | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |GAL| |GIL| | | | | | | | | |GAL=* [[Galador]]<br/><small>''2004-2129''</small>|GIL=''[[Gilmith]]''}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |SEC| | | | | | | | | | | | | | | |SEC=* 2nd Prince<br/><small>''2060-2203''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |THI| | | | | | | | | | | | | | | |THI=* 3rd Prince<br/><small>''2120-2254''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |FOU| | | | | | | | | | | | | | | |FOU=* 4th Prince<br/><small>''2172-2299''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |FIF| | | | | | | | | | | | | | | |FIF=* 5th Prince<br/><small>''2225-2348''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |SIX| | | | | | | | | | | | | | | |SIX=* 6th Prince<br/><small>''2274-2400''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |SEV| | | | | | | | | | | | | | | |SEV=* 7th Prince<br/><small>''2324-2458''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |EIG| | | | | | | | | | | | | | | |EIG=* 8th Prince<br/><small>''2373-2498''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |NIN| | | | | | | | | | | | | | | |NIN=* 9th Prince<br/><small>''2418-2540''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |TEN| | | | | | | | | | | | | | | |TEN=* 10th Prince<br/><small>''2463-2582''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |ELE| | | | | | | | | | | | | | | |ELE=* 11th Prince<br/><small>''2505-2623''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |TWE| | | | | | | | | | | | | | | |TWE=* 12th Prince<br/><small>''2546-2660''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |THI| | | | | | | | | | | | | | | |THI=* 13th Prince<br/><small>''2588-2701''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |FOU| | | | | | | | | | | | | | | |FOU=* 14th Prince<br/><small>''2627-2733''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |FIF| | | | | | | | | | | | | | | |FIF=* 15th Prince<br/><small>''2671-2746'' †</small><br/><ref group="note">The 15th prince was slain by [[Corsairs of Umbar]].</ref>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |SIX| | | | | | | | | | | | | | | |SIX=* 16th Prince<br/><small>''2709-2799'' †</small><br/><ref group="note">The 16th prince was slain in battle.</ref>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |SEV| | | | | | | | | | | | | | | |SEV=* 17th Prince<br/><small>''2746-2859''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |EIG| | | | | | | | | | | | | | | |EIG=* 18th Prince<br/><small>''2785-2899''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |AGL| | | | | | | | | | | | | | | |AGL=* [[Aglahad]]<br/><small>''2827-2932''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |ANG| | | | | | | | | | | | | | | |ANG=* [[Angelimir]]<br/><small>''2866-2977''</small>}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |ADR| | | | | | | | | | | | | | | |ADR=* [[Adrahil]]<br/><small>''2917-3010''</small>}}
+{{familytree | |,|-|-|-|v|-|^|-|-|-|-|-|.| | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;|IVR| |FIN|~|DEN| |IMR| | | | | | | | | | |IVR=''[[Ivriniel]]''<br/><small>''b. 2947''</small>|FIN=''[[Finduilas (wife of Denethor)|Finduilas]]''<br/><small>''2950-2987'' †</small><br/><ref group="note">Finduilas was said to wither in [[Minas Tirith]] away from the sea and died very young.</ref>|DEN=[[Denethor|Denethor II]]|IMR=* [[Imrahil]]<br/><small>''2955-FoA 34''</small>}}
+{{familytree | | | | | | | |,|-|-|-|v|-|^|-|v|-|-|-|.| | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |ELP| |ERC| |AMR| |LOT|~|EOM|ELP=* [[Elphir]]<br/><small>''2987- FoA 67''</small>|ERC=[[Erchirion]]<br/><small>''b. 2990''</small>|AMR=[[Amrothos]]<br/><small>''b. 2994''</small>|LOT=''[[Lothíriel]]''<br/><small>''b. 2999''</small>|EOM=King [[Éomer]]<br/>of [[Rohan]]}}
+{{familytree | | | | | | | |!| | | | | | | | | | | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |ALP| | | | | | | | | | | | | | | |ALP=* [[Alphros]]<br/><small>''3017-FoA 95''</small>}}
+{{familytree/end}}
+
+{{references|notes}}
+[[Category:Gondorians]]
+[[Category:House of Valandil]]
+[[Category:Mannish noble houses|Dol Amroth]]
+[[Category:Princes of Dol Amroth]]

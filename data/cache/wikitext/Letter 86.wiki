@@ -1,0 +1,12 @@
+{{letter infobox
+| #=86
+| to=[[Christopher Tolkien]]
+| date=[[23 October]] [[1944]]
+| subject=Catholicism
+}}{{letter|86}}
+==Summary==
+Tolkien told Christopher that he was bored and tired, and then discussed the topic "blasphemy". He did not mind blasphemy against God, and cites [http://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=citation&book=Luke&chapno=23&startverse=33&endverse=35 Luke 23:34]. The Lord would not be pained by linguistic blasphemy (cursing), no matter how "wearisome, saddening and maddening" it was. Far worse would the Lord be pained by the offenses humans commit against one another. 
+{{letters}}
+{{DEFAULTSORT:Letter 086}}
+[[Category:Letters to Christopher Tolkien]]
+[[de:Brief 86]]

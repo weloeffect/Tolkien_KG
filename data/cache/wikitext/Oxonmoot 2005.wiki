@@ -1,0 +1,17 @@
+{{convention
+| image=
+| title=Oxonmoot 2005
+| location=St Peter's College, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=
+| attendees=120
+}}
+
+{{oxonmoot|2004|2006}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+**[http://www.tolkiensociety.org/oxon/2005/index.html Oxonmoot 2005 website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

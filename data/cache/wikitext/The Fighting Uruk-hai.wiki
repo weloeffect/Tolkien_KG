@@ -1,0 +1,22 @@
+{{scene
+| name = The Fighting Uruk-hai
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image =
+| number = 34 (theatrical)<br>
+           40 (extended)
+| duration =
+| event =
+| characters =
+| previous = [[The Mirror of Galadriel (scene)|The Mirror of Galadriel]]
+| next = [[Farewell to Lórien (scene)|Farewell to Lórien]]
+}}
+'''The Fighting Uruk-hai''' is the thirty-fourth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the fortieth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+In the tower of [[Orthanc]] in [[Isengard]], [[Saruman]] is telling [[Lurtz]] about how the [[Orcs]] came into being. Formerly elves, they were taken by the Dark Powers, tortured and mutilated into a terrible form of life, now perfected by Saruman as the [[Uruk-hai]]. He then asks Lurtz who he serves, and he answers, "Saruman."
+
+Under Isengard, the Uruk-hai are readying for war, painting their faces with the [[White Hand]] of Saruman, and arming and armoring themselves. Saruman gives them a rousing speech, to which the Uruk-hai cheer. He then turns to Lurtz, giving him the orders that [[Frodo Baggins|one of the halflings]] carries [[The One Ring|an item of great value]], and that they are to be brought to him alive and unspoiled. They are to kill the others.
+
+The orders given, Lurtz leads the Uruk-hai out of Isengard, beginning the hunt for the [[Fellowship of the Ring]].
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|40]]

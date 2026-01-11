@@ -1,0 +1,57 @@
+{{author infobox
+| image=
+| name=Pete Fenlon
+| born=[[1955]]
+| died=
+| education=History, Anthropology, Law
+| occupation=CEO
+| location=Charlottesville, VA
+| website=
+|}}
+'''Peter C. Fenlon, Jr.''' (born [[1955]]) is an American table-top game designer/author and illustrator. He was the former president and one of the founders of [[Iron Crown Enterprises]], and contributed extensively to the [[Middle-earth Role Playing]] game.
+
+In the late 1990s, Pete Fenlon and [[Coleman Charlton]], his long-time colleague from ICE, joined the Mayfair Game company.<ref>[http://www.mayfairgames.com/ Mayfair Games web site]</ref>
+
+==The Fenlon Style==
+[[File:Regional maps of MERP - Airyyn.png|thumb|alt=Infographic showing the regional maps included in each module of the Middle-earth Role Playing Game (MERP)|Infographic showing the regional maps included in each module of the Middle-earth Role Playing Game (MERP, 1st and 2nd edition) during the period 1982-1997. Most of the regional maps were designed by Pete Fenlon at the scale 1’’ = 20 miles. Infographic by [[User:Airyn|Airyn]] (2025).]]
+As an illustrator, Fenlon is especially known for his maps of [[Middle-earth]]. These were a large-scale map of the continent of Middle-earth (first released in [[1982]] as ''[[An Artist's Interpretation of Middle Earth]]'') and several smaller-scale maps of different regions of Middle-earth (most of whom were printed in ''[[Northwestern Middle-earth Map Set]]''). The smaller-scale maps were often included as separate color fold-outs with the [[Middle-earth Role Playing|MERP]] 1st Ed. modules. With MERP 2nd Ed., no new maps were released.
+
+Fenlon's maps have continued to have an explicit influence on later Middle-earth gaming cartographers (e.g., [[Thomas Morwinsky]] and [[Sampsa Rydman]]), and his continental map has been discussed and revised in the magazines ''[[Other Hands]]''<ref>''[[Other Hands]]'' July 2000</ref> and ''[[Other Minds]]''.<ref>''[[Other Minds]]'', issue 1 and issue 2</ref>
+
+The characteristical maps of Fenlon have even created an expression known as 'Fenlon Style maps'. In January 2008, the ''Cartographer's Annual'' released a Pete Fenlon style pack for use with ProFantasy Software cartography tools.<ref>[http://sub.profantasy.com/2008/january08.html The Cartographer's Annual Vol. 2] (external link)</ref>
+
+==Bibliography==
+
+Selected bibliography of works concerned with the legendarium of [[J.R.R. Tolkien]].
+
+* [[1982]]: ''[[An Artist's Interpretation of Middle Earth]]''
+* [[1984]]: ''[[Moria: The Dwarven City]]''
+* [[1984]]: ''[[Dagorlad and the Dead Marshes]]''
+* [[1986]]: ''[[Lords of Middle-earth: Vol. I]]''
+* [[1986]]: ''[[Lords of Middle-earth: Vol. II]]''
+* [[1989]]: ''[[Lords of Middle-earth: Vol. III]]''
+* [[1993]]: ''[[Valar and Maiar]]''
+* [[1993]]: ''[[Middle-earth Campaign Guide]]''
+* [[1994]]: ''[[Elves (book)]]''
+* [[1994]]: ''[[Creatures of Middle-earth (2nd edition)]]''
+* [[1994]]: ''[[Moria (1994 book)]]''
+* [[1994]]: ''[[Middle-earth Role Playing Poster Maps]]''
+* [[1994]]: ''[[Northwestern Middle-earth Map Set]]''
+* [[1995]]: ''[[Mirkwood (MERP)]]''
+* [[1997]]: ''[[Middle-earth: The Lidless Eye Companion]]''
+
+==See also==
+
+*[[:Category:Images by Pete Fenlon|Images by Pete Fenlon]]
+
+==External links==
+* {{WP|Pete Fenlon}}
+*Pete Fenlon at [http://www.boardgamegeek.com/boardgameartist/13034/pete-fenlon BoardGameGeek]
+
+{{references}}
+{{DEFAULTSORT:Fenlon, Pete}}
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:Cartographers]]
+[[Category:MERP contributors]]
+[[Category:People by name]]

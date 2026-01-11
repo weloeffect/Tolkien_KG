@@ -1,0 +1,25 @@
+{{person infobox
+| image=Bunhill Fields, London 26.JPG
+| caption=J.B. Tolkien's grave.
+| name=John Benjamin Tolkien (George's father)
+| born=[[June]] [[1752]]
+| died=[[27 January]] [[1819]]
+| education=
+| occupation=
+| location=[[United Kingdom]]
+| website=
+}}
+{{Disambig-more|John Tolkien|[[John Tolkien (disambiguation)]]}}
+'''John Benjamin Tolkien''' ([[June]] [[1752]] - [[27 January]] [[1819]]) was [[George Tolkien]]'s father, and J.R.R. Tolkien’s great-great-grandfather. He was born in Gdańsk (Danzig) in the Polish-Lithuanian Commonwealth and he emigrated to the United Kingdom after 1770. His wife and George's mother was [[Mary Wall]] ([[1746]] - [[16 March]] [[1837]]).<ref>{{webcite|author=[[Ryszard Derdziński]]|articleurl=http://tolkniety.blogspot.com/2017/05/john-benjamin-tolkien-1753-1819-summary.html|articlename=John Benjamin Tolkien (1752-1819): a summary|dated=20 May 2017|website=[http://tolkniety.blogspot.com/ tolkniety.blogspot.com]|accessed=22 November 2017}}</ref>
+
+John Benjamin Tolkien and his wife Mary are buried at Burnhill Fields in the same grave with [[Wikipedia:William Shrubsole|William Shrubsole]], an English musician and composer of the hymn-tune [http://www.hymnary.org/tune/miles_lane_shrubsole "Miles Lane"].
+
+==External links==
+*[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=60908895 John Benjamin Tolkien tumul]
+{{references}}
+{{DEFAULTSORT:Tolkien, John Benjamin}}
+[[Category:Tolkien Family]]
+[[Category:British people]]
+[[Category:Polish people]]
+[[Category:People by name]]
+[[de:John Benjamin Tolkien (1752)]]

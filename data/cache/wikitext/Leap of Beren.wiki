@@ -1,0 +1,26 @@
+{{events
+| image = Ted Nasmith - Beren's Leap.jpg
+| event=Leap of Beren
+| othernames=
+| location=[[Forest of Brethil]]
+| date={{FA|465}}
+| result=
+| partof=
+| participants=
+| description=
+| references=
+}}
+{{quote|Too soon; for there a spring<br />fiercer than tawny lion-king<br />maddened with arrows barbéd smart,<br />greater than any hornéd hart<br />that hounded to a gulf leaps o'er,<br />there Beren gave, and with a roar<br />leaped on Curufin|''[[Lay of Leithian]]'', [[Lay of Leithian Canto X|Canto X]], vv. 149-155<ref name="LB3">{{LB|3}}</ref>}}
+
+The '''Leap of Beren''' was one of the renowned acts carried out by [[Beren Erchamion]] during the [[First Age]]. This deed was undertaken by Beren to save [[Lúthien Tinúviel]] from the two [[Sons of Fëanor]], [[Celegorm]] and [[Curufin]]. It occurred during the [[Quest for the Silmaril]] in the [[Forest of Brethil]], and is detailed in the [[Of Beren and Lúthien|nineteenth chapter]] of the [[Quenta Silmarillion]] and [[Lay of Leithian Canto X|Canto X]] of the [[Lay of Leithian]].<ref name="LB3" />
+
+==History==
+After the rescue of [[Beren]] from [[Tol-in-Gaurhoth]] by [[Lúthien]] and [[Huan]], Hound of the [[Valar]], Beren and Lúthien travelled to the borders of Doriath, while Huan returned to his former master [[Celegorm]], one of the [[Sons of Fëanor]]. He and his brother [[Curufin]] were staying for a time in [[Nargothrond]], and had won the hearts of the people there, over [[Finrod Felagund]]. But many freed from thraldom returned from their bondage in Tol-in-Gaurhoth, and told of [[Finrod#Quest for the Silmaril|the death of Finrod Felagund]]. Many then turned against the two brothers and they were banished from that land. Thus they hoped to travel past Doriath towards [[Himring]], the dwelling of their brother [[Maedhros]], and Huan was with them.
+
+While Beren and Lúthien were walking in the Forest of Brethil near the borders of Doriath, the two brothers came upon them at unawares, ambushing them. Curufin swept up Lúthien into his saddle, and Celegorm made to trample Beren, but at that moment, Beren leaped from in front of the charging horse of Celegorm into the saddle of Curufin, throttling him. They both fell off the horse, which reared, and Lúthien was thrown onto the grass. The Leap of Beren is renowned amongst both [[Elves]] and [[Men]].<ref>{{S|19}}</ref>
+
+{{references}}
+
+[[Category:Events]]
+[[Category:First Age]]
+[[fi:Berenin hyppy]]

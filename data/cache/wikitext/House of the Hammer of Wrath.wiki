@@ -1,0 +1,43 @@
+{{Noble House infobox
+| name=House of the Hammer of Wrath
+| image = Rondador - House of the Hammer of Wrath.png
+| caption=
+| othernames=Folk of the Hammer of Wrath
+| founder=
+| leader=[[Rog]]
+| location=[[Gondolin]]
+| affiliation=
+| rivalry=
+| destroyed=Completely<br />[[Fall of Gondolin]]
+| language=
+| members=
+| race=[[Noldoli]]
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=Hammer and mace
+| heirlooms=
+}}
+<center>{{quote|And they won the greatest glory of all those fair houses in that struggle against doom.|''[[The Book of Lost Tales Part Two]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]"}}</center>
+
+The '''house of the Hammer of Wrath''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the Elven city of [[Gondolin]]. Their story is recounted in an early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''. 
+
+==History==
+[[File:Thomas Rouillard - House of the Hammer.jpg|200px|left|thumb|''House of the Hammer'' by [[:Category:Images by Thomas Rouillard|Thomas Rouillar]]]]
+Their lord was [[Rog]], and they were much recruited by [[Noldoli]] that escaped from [[Melko]]'s mines, who nursed a deep hatred for him and his [[Balrogs]]. They were great smiths and craftsmen, and revered [[Aulë]] more than any other [[Ainu]]. In battle they carried great maces like hammers, and heavy shields, for they had strong arms. Their device was the Stricken Anvil, and a hammer that smote sparks about it; this was set upon their shields in red, gold, and black iron.<ref name=Gondolin>{{LT2|III}}</ref>{{rp|174}}
+
+When [[Melko]] sent his armies to [[Fall of Gondolin|attack]] the city, the balrog [[Gothmog (balrog)|Gothmog]] led them to the northern gate, where the houses of the Hammer and [[House of the Tree|of the Tree]] were positioned. When the enemies opened a breach, both folks descended upon them.<ref name=Gondolin/>{{rp|176}} But later a great number of Balrogs and [[Iron Dragons]] climbed into the city, and Rog encouraged his people in a great voice:
+
+{{blockquote|Thereupon he lifted his mace, and its handle was long; and he made a way before him by the wrath of his onset even unto the fallen gate: but all the people of the Stricken Anvil ran behind him like a wedge, and sparks came from their eyes for the fury of their rage.}}
+
+The Noldoli still sing how their charge slew a great number of the serpents and Balrogs, being the first of [[Elves]] and [[Men]] alike to slay a Balrog. Gothmog counterattacked by cutting off their withdrawal to the city, but Rog realized this and knew they were lost, so he kept up the attack. Therefore, the house harried their front enemies until they reached [[Tumladin]]. There a [[fire-drake]] was loosed upon them, but they kept fighting, until all of them perished, "and it is yet sung that each man of the Hammer of Wrath took the lives of seven foemen to pay for his own.<ref name=Gondolin/>{{rp|178–9}}
+
+==Other names==
+They were called '''''Thlim Gothodrum''''' in [[Gnomish]] and '''''Kosartami''''' in [[Qenya]].<ref>{{PE|13}}, p. 104</ref>
+
+{{references}}
+{{HousesofGondolin}} 
+[[Category:Twelve houses of the Gondothlim]]
+[[de:Haus des Hammers des Zorns]]

@@ -1,0 +1,41 @@
+{{Dragon infobox
+| name=Lhamthanc
+| image=
+| caption=
+| othernames=Iamthanc
+| titles=
+| realm=
+| affiliation=
+| hoard=
+| birth=Unknown
+| birthlocation=
+| death=
+| deathlocation=
+| slayer=
+| type=
+| legs=
+| wings=
+| colour=
+}}
+
+'''Lhamthanc''', was the name of a [[Serpents|serpent]], about whom almost nothing is known except that they possess a serpent-name.<ref name=lhamthanc>{{LR|Etymologies}}, p. 388 (entry "STAK-")</ref> It is likely that in this case, the word serpent may actually be referring to one of the [[dragons]] of [[Morgoth]] since Tolkien often described dragons as worms and serpents and Lhamthanc is mentioned next to [[Gostir]] in ''[[The Etymologies]]''. Lhamthanc is not mentioned in any known story.
+
+== Etymology ==
+''Lhamthanc'' means "forked tongue" in [[Noldorin]], from ''lham(b)'' ("tongue") and ''thanc'' ("cleft, split"), as well as the root ''LAB'', meaning "lick".<ref name=lhamthanc/>
+
+== Other versions of the legendarium ==
+Lhamthanc was originally called '''''Iamthanc''''', an early Noldorin name meaning "snake, (lit) forked tongue", from ''lham(b)'' ("tongue") and ''thanc'' (" cleft, divided, split, cloven, forked, bifurcated; cleft, break, breach").<ref name=iamthanc>{{PE|13}}, pp. 154, 165</ref> However, Tolkien eventually settled on Lhamthanc for the name.<ref name=lhamthanc/>
+
+== Portrayal in adaptations ==
+=== ''Middle-earth Role Playing'' ===
+:Lhamthanc appears as a huge gray and white [[Cold-drakes|Cold-drake]] who possessed a forked tongue that was nine-feet long in the ''Creatures of Middle-earth'' supplement of ''[[Middle-earth Role Playing]]''. Lhamthanc was said to be the younger brother of [[Gostir]].
+
+{{references}}
+
+{{dragons}}
+
+[[Category:Dragons]]
+[[Category:Servants of Melkor]]
+[[Category:Noldorin names]]
+[[fi:Lhamthanc]]
+[[de:Lhamthanc]]

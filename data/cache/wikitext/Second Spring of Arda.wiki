@@ -1,0 +1,24 @@
+{{sources}}
+{{events
+|image=
+|event=Second Spring of Arda
+|othernames=
+|date=Occurred with the beginning of the [[Years of the Sun]]
+|location=[[Arda]]
+|result=
+|partof=[[Years of the Trees]]
+|participants=[[Animals]] and [[plants]]
+|description=An awakening of living things from the [[Sleep of Yavanna|Sleep]] placed on them by [[Yavanna]]
+|references= 
+}}
+The '''Second Spring of Arda''' was a period that followed the [[Sleep of Yavanna|Sleep]] of [[Yavanna]] after the destruction of the [[Two Trees]] of [[Valinor]] and the  [[Darkening of Valinor]].<ref>{{S|Darkening}}</ref><ref>{{AA}}</ref>
+
+Τhe [[Valar]] sent out two great vessels carry the [[Moon]] and [[Sun]] into the sky and bring light to all of [[Arda]].<ref>{{S|Sun}}</ref> With the first coming of sunlight to [[Middle-earth]], the Sleep of Yavanna ended, and the sleeping things across the world came to life once more and began to grow. Thus, this reawakening of life at the first rising of the Sun is the time known as the Second [[Spring of Arda]].<ref>{{S|Men}}</ref>
+
+==See also==
+* [[Spring of Arda]]
+
+{{references}}
+[[Category:Periods]]
+[[Category:Events]]
+[[fi:Ardan toinen kevät]]

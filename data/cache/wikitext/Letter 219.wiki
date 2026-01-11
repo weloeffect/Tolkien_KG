@@ -1,0 +1,15 @@
+{{letter infobox
+| #=219
+| to=Charles Lewis,<ref name=HS>{{CG|C}}, p. 551</ref> [[Allen and Unwin|Allen & Unwin]]
+| date=[[16 October]] [[1959]]<ref name=HS/>
+| subject=[[Cats]]
+}}{{letter|219}}
+==Summary==
+Allen & Unwin received a question from a [[cats|cat]] breeder who wanted to name her Siamese cats after characters in ''[[The Lord of the Rings]]''. Tolkien was never a cat person, and considered Siamese cats to belong to the fauna of [[Mordor]].
+==Note==
+The letter was wrongly dated 14 October in ''The Letters of J.R.R. Tolkien''.<ref name=HS/>
+{{references}}
+{{letters}}
+[[fi:Kirje 219]]
+[[de:Brief 219]]
+[[Category:Letters to Charles Lewis]]

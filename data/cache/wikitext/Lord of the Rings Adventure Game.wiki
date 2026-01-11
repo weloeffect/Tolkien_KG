@@ -1,0 +1,29 @@
+{{disambig-two|the game published by [[Iron Crown Enterprises|ICE]]|game published by [[Decipher]]|[[The Lord of the Rings Roleplaying Adventure Game]]}}
+{{Board game infobox
+| name=Lord of the Rings Adventure Game
+| image=ice_lotr.png
+| type=rpg
+| designer=	Jessica M. Ney and [[Pete Fenlon]]
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=[[1991]]
+| players=
+| ages=
+}}
+The '''Lord of the Rings Adventure Game''' (LOR or LoR) is a role-playing game based on the writings of J.R.R. Tolkien (specifically ''The Lord of the Rings'' and ''The Hobbit'') under license from Tolkien Enterprises. [[Iron Crown Enterprises]] published the game until they lost the license on 22 September 1999.<ref>{{webcite|author=|articleurl=http://rpggeek.com/rpgitem/61924/lord-of-the-rings-adventure-game|articlename=Lord of the Rings Adventure Game|dated=|website=[http://rpggeek.com/ RPGGeek.com]|accessed=2 December 2013}}</ref>
+
+== Publications ==
+*(1991) [[Lord of the Rings Adventure Game (Boxed Set)]]
+*(1991) [[Darker than the Darkness]]
+*(1993) [[Over the Misty Mountains Cold]]
+
+Two more sequel books were promised to be available (''Before the Goblins'' in 1993 and ''Greatest of the Forests'' in 1994), but never reached publication.<ref>{{webcite|author=|articleurl=http://www.icewebring.com/feedback-and-comments/|articlename=Feedback and Comments|dated=|website=[http://www.icewebring.com/ ICEWebRing.com]|accessed=2 December 2013}}</ref>
+
+== Further developments ==
+Brian Gross has created a fantasy RPG system called ''Middle-earth Adventure Game'' (MEAG), which is a generalization and expansion of the rules created by ICE for the [[Middle-earth Quest]] books and for the Lord of the Rings Adventure Game. MEAG is specifically designed for Middle-earth gaming with new role-players in mind.<ref>{{webcite|author=|articleurl=http://sites.google.com/site/ambarquenta/home/the-offical-games/meag|articlename=The Middle-Earth Adventure Game (MEAG)|dated=|website=[http://sites.google.com/site/ambarquenta/ The Heren Turambarion]|accessed=2 December 2013}}</ref>
+
+==External links==
+*[http://en.wikipedia.org/wiki/Lord_of_the_Rings_Adventure_Game Wikipedia LoR article]
+*[https://sites.google.com/site/ambarquenta/the-heren-turambarion/other-rpgs/the-middle-earth-adventure-game-meag MEAG Files]
+{{references}}
+{{rpg}}
+[[Category:Role playing games]]

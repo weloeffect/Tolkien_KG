@@ -1,0 +1,25 @@
+{{artist infobox
+| image=
+| name=Jef Murray
+| born=[[17 March]] [[1960]]
+| died=[[3 August]] [[2015]]
+| style=
+| images=
+| location=Decatur, Georgia
+| website=[http://www.jefmurray.com Official website]
+}}
+
+'''Jef Murray''' ([[17 March]] [[1960]] - [[3 August]] [[2015]]), employed by the Pitts Theology Library of [[Wikipedia:Emory University|Emory University]] in Atlanta, has painted and sketched numerous [[J.R.R. Tolkien|Tolkien]]-related images for publications such as the [[Amon Hen (journal)|''Amon Hen'' journal]], ''[[Parma Nölé]]'', and the [[Mallorn (journal)|''Mallorn'' journal]]. He has also had Tolkien-related work featured in the ''St. Austin Review'', a journal of Catholic culture.
+
+In 2009, Murray made the illustrations for [[Hilary Tolkien]]'s ''[[Black & White Ogre Country]]''.
+
+==See also==
+* [[:Category:Images by Jef Murray|Images by Jef Murray]]
+
+==External links==
+*"[http://www.tolkienlibrary.com/press/1169-interview-with-the-wizard-jef-murray.php Interview with the Wizard Jef Murray]" at [[Tolkien Library]]
+{{DEFAULTSORT:Murray, Jef}}
+[[Category:Artists]]
+[[Category:Tolkien Society members]]
+[[Category:American people]]
+[[Category:People by name]]

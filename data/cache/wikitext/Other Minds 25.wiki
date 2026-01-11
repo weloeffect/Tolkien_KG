@@ -1,0 +1,40 @@
+{{journal
+| title=Other Minds 25
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=December [[2021]]
+| format=PDF
+| pages=87
+| issn=
+}}
+
+'''''Other Minds'' 25''' is the twenty-fifth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in December 2021.
+
+==Contents==
+* "Editorial: News from Middle-earth"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "A Chief's Challenge - Ravens in the North Adventure #2"
+** By Andreas Erdmann
+* "The Making of FanlonMapFond"
+** By Christian
+* "The Hagavorl and the Borderers of Eredoriath ca. T.A. 861 - 1411"
+** By David Feeney
+* "Ringlann and north-western Palisor in the First Age"
+** By Gabriele Quaglia
+* "A TOR Guide to the Blue Mountains"
+** By Andrew Laubacher
+* "The Dwarf-city of Hargrod - Jewel of the Blue Mountains"
+** By Andrew Laubacher
+
+*'''Artwork / Maps:'''
+** By: Aegeri, Sergio Artigas, [[Matěj Čadil]], Liz Danforth, Jenny Dolfen, Encylopedia of Arda, Andreas Erdmann, Olanda Fong-Surdenas, David Feeney, Historic Environment Scotland, Jon Hodgson, [[John Howe]], Liiga Klavina, Kotorigaro, Joona Kujanen, [[Angus McBride]], Turner Mohan, Monaghan County, J G O'Donoghue, Pazirik Informatics, Peter Xavier Price, John Emanuel Shannon, Matthew Stewart, Alex Wendler
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 25}}
+[[Category:Other Minds]]

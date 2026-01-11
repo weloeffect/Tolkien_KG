@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 23
+| image = Vinyar Tengwar 23.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator= Adam Christensen and Christopher Gilson (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=May [[1992]]
+| format=Paperback journal
+| pages=28
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 23''''' is the twenty-third issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|22|24}}
+
+==Contents==
+* Cover: "''Alqalindele''" —  Adam Christensen, trans. Christopher Gilson
+* E.L.F. News
+* Letters to ''VT''
+
+* "ELFcon II Report" — Patrick H. Wynne
+* "''Taniquetil''" — trans. Christopher Gilson
+* "Words and Devices: Filling Up the Corners" (column) — Patrick H. Wynne and Carl F. Hostetter
+* "Transitions in Translations: Oops!" (column) — Arden R. Smith
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 23}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 23]]

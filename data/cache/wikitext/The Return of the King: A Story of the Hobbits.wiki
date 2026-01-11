@@ -1,0 +1,38 @@
+{{album
+| image=The Return of the King - A Story of the Hobbits.jpg
+| title=The Return of the King: A Story of the Hobbits
+| type=LP / CD
+| artist=Various
+| released=1980 (LP) / ? (CD)
+| recorded=
+| genre=Soundtrack
+| length=
+| language=English
+| label=[[Disney]]land / Vista
+}}
+'''The Return of the King: A Story of the Hobbits''' is the soundtrack of [[The Return of the King (1980 film)]], released in [[1980]] by [[Disney]]land / Vista. Originally produced on vinyl, a subsequent compact disc (CD) version was released.<ref>{{webcite|articleurl=https://www.monstersinmotion.com/cart/soundtrack-cd-item-list-qr-c-12_531/return-of-the-king-soundtrack-cd-1980-animated-film-p-11266.html|articlename=Return Of The King Soundtrack CD 1980 Animated Film|website=Monsters in Motion|accessed=7/9/2023}}</ref>
+
+==Tracks==
+* [[Bilbo's Birthday Party (1980 soundtrack)|Bilbo's Birthday Party]]
+* [[Samwise Finds Frodo]]
+* [[Minas Tirith Under Siege]]	
+* [[Lord Denethor Warns Gandalf]]	
+* [[Sam and Frodo with the Orcs]]	
+* [[The Battering Ram, Grond]]	
+* [[Theoden Arrives]]	
+* [[Nearing Mt. Doom/Gollum]]	
+* [[Eowyn's Revenge]]	
+* [[Aragorn's March]]	
+* [[The Crack of Doom (1980 soundtrack)|The Crack of Doom]]	
+* [[The Return of the King (1980 soundtrack)|The Return of the King]]
+
+==See also==
+* ''[[The Hobbit: The Complete Original Soundtrack]]''
+
+==External links==
+* [https://www.allmusic.com/album/return-of-the-king-1980-rankin-bass--mw0000957997 AllMusic.com Entry]
+
+{{References}}
+
+{{Title|italics}}
+[[Category:The Return of the King (1980 film) soundtrack| ]]

@@ -1,0 +1,755 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Adurant> a schema:WebPage ;
+    rdfs:label "Adurant"@en ;
+    schema:about <http://localhost:8000/resource/Adurant> .
+
+<http://localhost:8000/page/Aelin-uial> a schema:WebPage ;
+    rdfs:label "Aelin-uial"@en ;
+    schema:about <http://localhost:8000/resource/Aelin-uial> .
+
+<http://localhost:8000/page/Aldburg> a schema:WebPage ;
+    rdfs:label "Aldburg"@en ;
+    schema:about <http://localhost:8000/resource/Aldburg> .
+
+<http://localhost:8000/page/Almaida> a schema:WebPage ;
+    rdfs:label "Almaida"@en ;
+    schema:about <http://localhost:8000/resource/Almaida> .
+
+<http://localhost:8000/page/Almaren> a schema:WebPage ;
+    rdfs:label "Almaren"@en ;
+    schema:about <http://localhost:8000/resource/Almaren> .
+
+<http://localhost:8000/page/Alqualond%C3%AB> a schema:WebPage ;
+    rdfs:label "Alqualondë"@en ;
+    schema:about <http://localhost:8000/resource/Alqualond%C3%AB> .
+
+<http://localhost:8000/page/Aman> a schema:WebPage ;
+    rdfs:label "Aman"@en ;
+    schema:about <http://localhost:8000/resource/Aman> .
+
+<http://localhost:8000/page/Amon_Anwar> a schema:WebPage ;
+    rdfs:label "Amon Anwar"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Anwar> .
+
+<http://localhost:8000/page/Amon_D%C3%AEn> a schema:WebPage ;
+    rdfs:label "Amon Dîn"@en ;
+    schema:about <http://localhost:8000/resource/Amon_D%C3%AEn> .
+
+<http://localhost:8000/page/Amon_Ereb> a schema:WebPage ;
+    rdfs:label "Amon Ereb"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Ereb> .
+
+<http://localhost:8000/page/Amon_Hen> a schema:WebPage ;
+    rdfs:label "Amon Hen"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen> .
+
+<http://localhost:8000/page/Amon_Lanc> a schema:WebPage ;
+    rdfs:label "Amon Lanc"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Lanc> .
+
+<http://localhost:8000/page/Amon_Lhaw> a schema:WebPage ;
+    rdfs:label "Amon Lhaw"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Lhaw> .
+
+<http://localhost:8000/page/Amon_Obel> a schema:WebPage ;
+    rdfs:label "Amon Obel"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Obel> .
+
+<http://localhost:8000/page/Amon_R%C3%BBdh> a schema:WebPage ;
+    rdfs:label "Amon Rûdh"@en ;
+    schema:about <http://localhost:8000/resource/Amon_R%C3%BBdh> .
+
+<http://localhost:8000/page/An%C3%B3rien> a schema:WebPage ;
+    rdfs:label "Anórien"@en ;
+    schema:about <http://localhost:8000/resource/An%C3%B3rien> .
+
+<http://localhost:8000/page/Anach> a schema:WebPage ;
+    rdfs:label "Anach"@en ;
+    schema:about <http://localhost:8000/resource/Anach> .
+
+<http://localhost:8000/page/And%C3%BAni%C3%AB> a schema:WebPage ;
+    rdfs:label "Andúnië"@en ;
+    schema:about <http://localhost:8000/resource/And%C3%BAni%C3%AB> .
+
+<http://localhost:8000/page/Andram> a schema:WebPage ;
+    rdfs:label "Andram"@en ;
+    schema:about <http://localhost:8000/resource/Andram> .
+
+<http://localhost:8000/page/Androth> a schema:WebPage ;
+    rdfs:label "Androth"@en ;
+    schema:about <http://localhost:8000/resource/Androth> .
+
+<http://localhost:8000/page/Anduin> a schema:WebPage ;
+    rdfs:label "Anduin"@en ;
+    schema:about <http://localhost:8000/resource/Anduin> .
+
+<http://localhost:8000/page/Anfalas> a schema:WebPage ;
+    rdfs:label "Anfalas"@en ;
+    schema:about <http://localhost:8000/resource/Anfalas> .
+
+<http://localhost:8000/page/Anfauglith> a schema:WebPage ;
+    rdfs:label "Anfauglith"@en ;
+    schema:about <http://localhost:8000/resource/Anfauglith> .
+
+<http://localhost:8000/page/Angband> a schema:WebPage ;
+    rdfs:label "Angband"@en ;
+    schema:about <http://localhost:8000/resource/Angband> .
+
+<http://localhost:8000/page/Angle> a schema:WebPage ;
+    rdfs:label "Angle"@en ;
+    schema:about <http://localhost:8000/resource/Angle> .
+
+<http://localhost:8000/page/Ann%C3%BAminas> a schema:WebPage ;
+    rdfs:label "Annúminas"@en ;
+    schema:about <http://localhost:8000/resource/Ann%C3%BAminas> .
+
+<http://localhost:8000/page/Araman> a schema:WebPage ;
+    rdfs:label "Araman"@en ;
+    schema:about <http://localhost:8000/resource/Araman> .
+
+<http://localhost:8000/page/Archet> a schema:WebPage ;
+    rdfs:label "Archet"@en ;
+    schema:about <http://localhost:8000/resource/Archet> .
+
+<http://localhost:8000/page/Ard-galen> a schema:WebPage ;
+    rdfs:label "Ard-galen"@en ;
+    schema:about <http://localhost:8000/resource/Ard-galen> .
+
+<http://localhost:8000/page/Arda> a schema:WebPage ;
+    rdfs:label "Arda"@en ;
+    schema:about <http://localhost:8000/resource/Arda> .
+
+<http://localhost:8000/page/Argonath> a schema:WebPage ;
+    rdfs:label "Argonath"@en ;
+    schema:about <http://localhost:8000/resource/Argonath> .
+
+<http://localhost:8000/page/Armenelos> a schema:WebPage ;
+    rdfs:label "Armenelos"@en ;
+    schema:about <http://localhost:8000/resource/Armenelos> .
+
+<http://localhost:8000/page/Aros> a schema:WebPage ;
+    rdfs:label "Aros"@en ;
+    schema:about <http://localhost:8000/resource/Aros> .
+
+<http://localhost:8000/page/Arossiach> a schema:WebPage ;
+    rdfs:label "Arossiach"@en ;
+    schema:about <http://localhost:8000/resource/Arossiach> .
+
+<http://localhost:8000/page/Arvernien> a schema:WebPage ;
+    rdfs:label "Arvernien"@en ;
+    schema:about <http://localhost:8000/resource/Arvernien> .
+
+<http://localhost:8000/page/Ascar> a schema:WebPage ;
+    rdfs:label "Ascar"@en ;
+    schema:about <http://localhost:8000/resource/Ascar> .
+
+<http://localhost:8000/page/Avall%C3%B3n%C3%AB> a schema:WebPage ;
+    rdfs:label "Avallónë"@en ;
+    schema:about <http://localhost:8000/resource/Avall%C3%B3n%C3%AB> .
+
+<http://localhost:8000/page/Avathar> a schema:WebPage ;
+    rdfs:label "Avathar"@en ;
+    schema:about <http://localhost:8000/resource/Avathar> .
+
+<http://localhost:8000/page/Bag_End> a schema:WebPage ;
+    rdfs:label "Bag End"@en ;
+    schema:about <http://localhost:8000/resource/Bag_End> .
+
+<http://localhost:8000/page/Bagshot_Row> a schema:WebPage ;
+    rdfs:label "Bagshot Row"@en ;
+    schema:about <http://localhost:8000/resource/Bagshot_Row> .
+
+<http://localhost:8000/page/Bamfurlong> a schema:WebPage ;
+    rdfs:label "Bamfurlong"@en ;
+    schema:about <http://localhost:8000/resource/Bamfurlong> .
+
+<http://localhost:8000/page/Barad-d%C3%BBr> a schema:WebPage ;
+    rdfs:label "Barad-dûr"@en ;
+    schema:about <http://localhost:8000/resource/Barad-d%C3%BBr> .
+
+<http://localhost:8000/page/Barad_Eithel> a schema:WebPage ;
+    rdfs:label "Barad Eithel"@en ;
+    schema:about <http://localhost:8000/resource/Barad_Eithel> .
+
+<http://localhost:8000/page/Barad_Nimras> a schema:WebPage ;
+    rdfs:label "Barad Nimras"@en ;
+    schema:about <http://localhost:8000/resource/Barad_Nimras> .
+
+<http://localhost:8000/page/Baranduin> a schema:WebPage ;
+    rdfs:label "Baranduin"@en ;
+    schema:about <http://localhost:8000/resource/Baranduin> .
+
+<http://localhost:8000/page/Bay_of_Balar> a schema:WebPage ;
+    rdfs:label "Bay of Balar"@en ;
+    schema:about <http://localhost:8000/resource/Bay_of_Balar> .
+
+<http://localhost:8000/page/Ethir_Anduin> a schema:WebPage ;
+    rdfs:label "Ethir Anduin"@en ;
+    schema:about <http://localhost:8000/resource/Ethir_Anduin> .
+
+<http://localhost:8000/page/Isle_of_Balar> a schema:WebPage ;
+    rdfs:label "Isle of Balar"@en ;
+    schema:about <http://localhost:8000/resource/Isle_of_Balar> .
+
+<http://localhost:8000/page/Middle-earth> a schema:WebPage ;
+    rdfs:label "Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/Middle-earth> .
+
+<http://localhost:8000/page/Tarn_Aeluin> a schema:WebPage ;
+    rdfs:label "Tarn Aeluin"@en ;
+    schema:about <http://localhost:8000/resource/Tarn_Aeluin> .
+
+<http://localhost:8000/resource/Adurant> a schema:Place ;
+    tg:description "Southernmost of the seven rivers of Ossiriand"@en ;
+    tg:image "Christopher Tolkien - Ossiriand.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Laiquendi%3B_Beren%2C_L%C3%BAthien%2C_Dior> ;
+    tg:location <http://localhost:8000/resource/Beleriand%2C_Ossiriand> ;
+    tg:name "Adurant"@en ;
+    tg:regions <http://localhost:8000/resource/Island%3A_Tol_Galen> ;
+    tg:type "River"@en .
+
+<http://localhost:8000/resource/Aelin-uial> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Finrod_and_Turgon_at_the_Meres_of_Twilight%22_by_Peter_Xavier_Price> ;
+    tg:description "Marshy mazes of creeks and lakes"@en ;
+    tg:events <http://localhost:8000/resource/Dreams_of_Turgon_and_Finrod> ;
+    tg:image "Peter Xavier Price - Finrod and Turgon at the Meres of Twilight.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Iathrim> ;
+    tg:location <http://localhost:8000/resource/Meeting_of_Aros_and_Sirion> ;
+    tg:name "Aelin-uial"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Umboth_Muilin%27%27_%28Sindarin> ;
+    tg:pronun "{{respell|eye|lin|oo-i|al}}"@en ;
+    tg:type "Marshes"@en .
+
+<http://localhost:8000/resource/Aldburg> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Theoden_in_the_Aldburg%2C_Eastfold%22_by_%3ACategory%3AImages_by_Steamey> ;
+    tg:created <http://localhost:8000/resource/c._26th_century_of_the_Third_Age> ;
+    tg:image "Steamey - Theoden in the Aldburg, Eastfold.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Rohirrim> ;
+    tg:location <http://localhost:8000/resource/The_Folde%2C_Rohan> ;
+    tg:name "Aldburg"@en ;
+    tg:type "Town"@en .
+
+<http://localhost:8000/resource/Almaida> a schema:Place ;
+    tg:destroyed <http://localhost:8000/resource/Presumably_during_the_Downfall_of_N%C3%BAmenor> ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:location <http://localhost:8000/resource/Bay_of_And%C3%BAni%C3%AB%2C_N%C3%BAmenor> ;
+    tg:name "Almaida"@en ;
+    tg:type "Town"@en .
+
+<http://localhost:8000/resource/Almaren> a schema:Place ;
+    tg:created "{{VY|1900}}"@en ;
+    tg:description <http://localhost:8000/resource/Large_green_island%2C_fairest_land_during_the_Days_before_days> ;
+    tg:destroyed "{{VY|3450}}"@en ;
+    tg:events <http://localhost:8000/resource/Spring_of_Arda%3Cbr%3EWedding_of_Tulkas_and_Nessa> ;
+    tg:image "Sage - Almaren.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Valar_and_Maiar> ;
+    tg:location <http://localhost:8000/resource/In_the_centre_of_the_Great_Lake_in_early_Middle-earth> ;
+    tg:name "Almaren"@en ;
+    tg:othernames "\"Isle of Almaren\""@en ;
+    tg:type "Island"@en .
+
+<http://localhost:8000/resource/Alqualond%C3%AB> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Alqualonde%22_by_%3ACategory%3AImages_by_Thomas_Rouillard> ;
+    tg:created "{{YT|1162}}"@en ;
+    tg:description "Seaside city of pearl and mother-of-pearl"@en ;
+    tg:events <http://localhost:8000/resource/First_Kinslaying> ;
+    tg:image "Thomas Rouillard - Alqualonde.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Falmari> ;
+    tg:location <http://localhost:8000/resource/The_shores_of_Aman%2C_beside_Belegaer%2C_between_the_Calacirya_and_Araman> ;
+    tg:name "Alqualondë"@en ;
+    tg:othernames "\"Swanhaven\""@en ;
+    tg:pronun "{{respell|al-kwa|lon|deh}}"@en ;
+    tg:type "City"@en .
+
+<http://localhost:8000/resource/Aman> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Shores_of_Valinor%22_by_Ted_Nasmith> ;
+    tg:created "Between {{VY|3450}} & {{VY|3500|n}}"@en ;
+    tg:destroyed "{{SA|3319}}"@en ;
+    tg:events <http://localhost:8000/resource/Darkening_of_Valinor%3Cbr/%3EFlight_of_the_Noldor%3Cbr/%3EDestruction_of_the_Great_Armament%3Cbr/%3EChanging_of_the_World> ;
+    tg:image "Ted Nasmith - The Shores of Valinor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Valar%2C_Maiar%2C_Vanyar%2C_Noldor%2C_Teleri> ;
+    tg:location <http://localhost:8000/resource/West_of_Belegaer%2C_east_of_Ekkaia> ;
+    tg:name "Aman"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Avon%27%27_%28Sindarin> ;
+    tg:regions <http://localhost:8000/resource/Araman%2C_Avathar%2C_Eldamar%2C_Gardens_of_L%C3%B3rien%2C_Halls_of_Mandos%2C_Tol_Eress%C3%ABa%2C_Valinor> ;
+    tg:towns <http://localhost:8000/resource/Valimar_%28capital%29%3Cbr/%3EAlqualond%C3%AB%2C_Avallon%C3%AB%2C_Formenos%2C_Ilmarin%2C_Tirion> ;
+    tg:type "Continent"@en .
+
+<http://localhost:8000/resource/Amon_Anwar> a schema:Place ;
+    tg:caption "\"The Path to Amon Anwar\" by Matěj Čadil"@en ;
+    tg:description <http://localhost:8000/resource/Seventh_Warning_beacons_of_Gondor> ;
+    tg:image "Matěj Čadil - The Path to Amon Anwar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/In_the_central_White_Mountains_overlooking_Gondor_and_Rohan> ;
+    tg:name "Amon Anwar"@en ;
+    tg:othernames "Eilenaer, the Halifirien"@en ;
+    tg:type "Mountain"@en .
+
+<http://localhost:8000/resource/Amon_D%C3%AEn> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Amon_D%C3%AEn%22_by_L%C3%ADda_Holubov%C3%A1> ;
+    tg:description <http://localhost:8000/resource/First_Warning_beacons_of_Gondor> ;
+    tg:image "Lída Holubová - Amon Din.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/East_of_the_Dr%C3%BAadan_Forest> ;
+    tg:name "Amon Din"@en ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/Amon_Ereb> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Amon_Ereb%22_by_Peter_Xavier_Price> ;
+    tg:description "Standing alone hill and military base"@en ;
+    tg:events <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:image "Peter Xavier Price - Amon Ereb.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Noldor> ;
+    tg:location "East Beleriand; West Eriador?"@en ;
+    tg:name "Amon Ereb"@en ;
+    tg:othernames "''Ereb''"@en ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/Amon_Hen> a schema:Place ;
+    tg:caption "\"Amon Hen\" by Scott Peery"@en ;
+    tg:description "Fortified (later ruined) hill"@en ;
+    tg:events <http://localhost:8000/resource/Breaking_of_the_Fellowship> ;
+    tg:image "Scott Peery - Amon Hen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Gondorians> ;
+    tg:location <http://localhost:8000/resource/Emyn_Muil%2C_west_bank_of_Nen_Hithoel_opposite_Amon_Lhaw> ;
+    tg:name "Amon Hen"@en ;
+    tg:othernames "Hill of Sight, Hill of the Eye"@en ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/Amon_Lanc> a schema:Place ;
+    tg:description "Treeless summit"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Silvan_Elves> ;
+    tg:location <http://localhost:8000/resource/Mirkwood> ;
+    tg:name "Amon Lanc"@en ;
+    tg:pronun "{{respell|ah|mon}} {{respell|l|ah|nk}}"@en ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/Amon_Lhaw> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Seat_of_Hearing%22_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:image "Matěj Čadil - The Seat of Hearing.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Gondorians_%28formerly%29%2C%3Cbr/%3EOrcs> ;
+    tg:location <http://localhost:8000/resource/Emyn_Muil%2C_across_the_Nen_Hithoel_opposite_Amon_Hen> ;
+    tg:name "Amon Lhaw"@en ;
+    tg:othernames "Hill of Hearing"@en ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/Amon_Obel> a schema:Place ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/House_of_Haleth> ;
+    tg:location <http://localhost:8000/resource/Within_the_Brethil> ;
+    tg:name "Amon Obel"@en ;
+    tg:towns <http://localhost:8000/resource/Ephel_Brandir> ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/Amon_R%C3%BBdh> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22T%C3%BArin_and_his_Band_are_Led_to_Amon_R%C3%BBdh%22_by_Ted_Nasmith> ;
+    tg:description <http://localhost:8000/resource/Tall%2C_steep_hill_topped_with_red_seregon> ;
+    tg:events <http://localhost:8000/resource/Sack_of_Bar-en-Danwedh> ;
+    tg:image "Ted Nasmith - Túrin and his Band are Led to Amon Rûdh.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Petty-dwarves%2C_and_Gaurwaith> ;
+    tg:location <http://localhost:8000/resource/South_of_the_Teiglin%3B_Dor-C%C3%BAarthol> ;
+    tg:name "Amon Rûdh"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Sharbhund%27%27_%28Khuzdul> ;
+    tg:pronun "{{respell|ah|mon}} {{respell|rooth}}"@en ;
+    tg:type "Hill"@en .
+
+<http://localhost:8000/resource/An%C3%B3rien> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/An%C3%B3rien_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:description <http://localhost:8000/resource/The_royal_lands_around_Minas_Tirith> ;
+    tg:events <http://localhost:8000/resource/Siege_of_Gondor%2C_Battle_of_the_Pelennor_Fields> ;
+    tg:image "The Lord of the Rings Online - Anórien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Primarily_Gondorians_%28A_remnant_of_the_Dr%C3%BAedain_lived_in_the_Dr%C3%BAadan_Forest%29> ;
+    tg:location <http://localhost:8000/resource/North_of_the_White_Mountains%2C_between_the_Mering_Stream_in_the_west_and_Minas_Tirith_in_the_east> ;
+    tg:name "Anórien"@en ;
+    tg:regions <http://localhost:8000/resource/Dr%C3%BAadan_Forest%2C_Firien_Wood> ;
+    tg:towns <http://localhost:8000/resource/Osgiliath%2C_Minas_Anor_%28later_Minas_Tirith%29> ;
+    tg:type "Region/fief"@en .
+
+<http://localhost:8000/resource/Anach> a schema:Place ;
+    tg:description "\"hard and dangerous road\""@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Orcs_of_Morgoth%2C_foul_unknown_beasts> ;
+    tg:location <http://localhost:8000/resource/Between_Ered_Gorgoroth_and_the_Crissaegrim> ;
+    tg:name "Pass of Anach"@en ;
+    tg:othernames "Anach"@en ;
+    tg:type "Valley"@en .
+
+<http://localhost:8000/resource/And%C3%BAni%C3%AB> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Andunie%22_by_%3ACategory%3AImages_by_David_Greset> ;
+    tg:destroyed <http://localhost:8000/resource/%7B%7BSA> ;
+    tg:image "David Greset - Andunie.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans%2C_later_the_Faithful> ;
+    tg:location <http://localhost:8000/resource/Andustar_in_western_N%C3%BAmenor> ;
+    tg:name "Andúnië"@en ;
+    tg:pronun "{{respell|an|doo|nee-eh}}"@en ;
+    tg:type "City/Port"@en .
+
+<http://localhost:8000/resource/Andram> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Andram%22_by_%3ACategory%3AImages_by_%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1> ;
+    tg:description "a long wall"@en ;
+    tg:image "Šárka Škorpíková - Andram.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Stretching_across_south_Beleriand_from_Taur-en-Faroth_to_Ramdal> ;
+    tg:name "Andram"@en ;
+    tg:type "steep terrain"@en .
+
+<http://localhost:8000/resource/Androth> a schema:Place ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Sindar_and_Edain> ;
+    tg:location <http://localhost:8000/resource/Mountains_of_Mithrim> ;
+    tg:name "Androth"@en ;
+    tg:type "Caves"@en .
+
+<http://localhost:8000/resource/Anduin> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Great_River_Anduin%22_by_%3ACategory%3AImages_by_Gianna_Michele_Kaye> ;
+    tg:gallery "the Anduin"@en ;
+    tg:image "Gianna Michele Kaye - The Great River Anduin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Middle-earth%2C_east_of_the_Misty_Mountains_and_the_White_Mountains%3Cref%3EChristopher_Tolkien%2C_The_West_of_Middle-earth_at_the_End_of_the_Third_Age%3C/ref%3E> ;
+    tg:name "Anduin"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Anduin%C3%AB%27%27_%28Quenya> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:regions <http://localhost:8000/resource/North_Undeep> ;
+    tg:type "River"@en .
+
+<http://localhost:8000/resource/Anfalas> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/Anfalas_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:description <http://localhost:8000/resource/Western_Gondor_between_Lefnui_and_Morthond> ;
+    tg:image "The Lord of the Rings Online - Anfalas.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Gondorians> ;
+    tg:name "Anfalas"@en ;
+    tg:othernames "Langstrand, Andafalasse"@en ;
+    tg:type "Region"@en .
+
+<http://localhost:8000/resource/Anfauglith> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Anfauglith%22_by_Peter_Xavier_Price> ;
+    tg:created <http://localhost:8000/resource/%7B%7BFA> ;
+    tg:description "Large, dry, dusty plain"@en ;
+    tg:image "Peter Xavier Price - Anfauglith.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/South_of_Ered_Engrin%2C_west_of_Ered_Luin%2C_north-west_of_Lothlann%2C_east_of_Ered_Wethrin> ;
+    tg:name "Anfauglith"@en ;
+    tg:othernames <http://localhost:8000/resource/Formerly_known_as_%27%27Ard-galen%27%27%3Cbr_/%3E%27%27Dor-nu-Fauglith%27%27> ;
+    tg:pronun "{{respell|an|fowg|lith}}"@en ;
+    tg:type "Desert"@en .
+
+<http://localhost:8000/resource/Angband> a schema:Place ;
+    tg:caption "\"Beren and Luthien flee Angband\" by Pete Amachree"@en ;
+    tg:created <http://localhost:8000/resource/Between_%7B%7BVY> ;
+    tg:description "Dark underground fortress"@en ;
+    tg:destroyed <http://localhost:8000/resource/%7B%7BFA> ;
+    tg:image "Pete_Amachree_-_Beren_and_Luthien_flee_Angband.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Morgoth%2C_Sauron%2C_Balrogs%2C_Orcs_and_%3ACategory%3AServants_of_Melkor> ;
+    tg:location <http://localhost:8000/resource/Ered_Engrin%2C_beneath_Thangorodrim> ;
+    tg:name "Angband"@en ;
+    tg:type "Fortress"@en .
+
+<http://localhost:8000/resource/Angle> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/Angle_of_Mitheithel_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:description "Triangular area between two rivers"@en ;
+    tg:events <http://localhost:8000/resource/Division_of_Arnor%3Cbr_/%3EMigration_of_the_Stoors> ;
+    tg:image "The Lord of the Rings Online - Angle.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Rhudaur%2C_between_the_Hoarwell_and_Bruinen> ;
+    tg:name "Angle"@en ;
+    tg:type "Region"@en .
+
+<http://localhost:8000/resource/Ann%C3%BAminas> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Ann%C3%BAminas%22_by_Ted_Nasmith> ;
+    tg:created "{{SA|3320}}"@en ;
+    tg:image "Ted Nasmith - Annúminas.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Arnorians> ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_southern_shores_of_Lake_Evendim> ;
+    tg:name "Annúminas"@en ;
+    tg:pronun "{{respell|ahn|noo|mee-nas}}"@en ;
+    tg:type "City"@en .
+
+<http://localhost:8000/resource/Araman> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Curse_of_Mandos%22_by_%3ACategory%3AImages_by_Lourdes_Velez> ;
+    tg:description "Cold mountainous wasteland"@en ;
+    tg:events <http://localhost:8000/resource/Doom_of_Mandos> ;
+    tg:image "Lourdes Velez - The Curse of Mandos.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Northern_Aman%2C_east_of_the_Pel%C3%B3ri_and_adjacent_to_the_Helcarax%C3%AB> ;
+    tg:name "Araman"@en ;
+    tg:regions <http://localhost:8000/resource/Oiom%C3%BAr%C3%AB%2C_Haerast> ;
+    tg:type "Region"@en .
+
+<http://localhost:8000/resource/Archet> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/Archet_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:image "The Lord of the Rings Online - Archet.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/In_Bree-land_northeast_of_Bree_on_the_edge_of_the_Chetwood_in_Eriador> ;
+    tg:name "Archet"@en ;
+    tg:type "Village"@en .
+
+<http://localhost:8000/resource/Ard-galen> a schema:Place ;
+    tg:caption "\"Peaceful Years - Aegnor\" by Marya Filatova"@en ;
+    tg:description "Large, green grassy plain"@en ;
+    tg:destroyed <http://localhost:8000/resource/%7B%7BFA> ;
+    tg:image "Marya Filatova - Peaceful Years - Aegnor.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/South_of_Ered_Engrin%2C_west_of_Ered_Luin%2C_north-west_of_Lothlann%2C_east_of_Ered_Wethrin> ;
+    tg:name "Ard-galen"@en ;
+    tg:othernames <http://localhost:8000/resource/Later_known_Anfauglith_and_Dor-nu-Fauglith> ;
+    tg:type "Plain"@en .
+
+<http://localhost:8000/resource/Arda> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Ambarkanta_Map%22_%28coloured%29_by_J.R.R._Tolkien> ;
+    tg:created "{{VY|1}} or earlier"@en ;
+    tg:description <http://localhost:8000/resource/A_habitable_round_mass_of_land%2C_water_and_airs_under_the_Sun%2C_Moon_and_stars.> ;
+    tg:events <http://localhost:8000/resource/%27%27See%3A_%3ACategory%3AEvents%27%27> ;
+    tg:image "Ambarkanta Map V upscale.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Ainur%2C_Elves%2C_Men%2C_Dwarves%2C_%3ACategory%3ARaces> ;
+    tg:location <http://localhost:8000/resource/Within_E%C3%A4> ;
+    tg:name "Arda"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27A%C3%BE%C4%81raphel%C5%ABn%27%27_%28Valarin> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:regions <http://localhost:8000/resource/Aman_%28including_Valinor%29%2C_Middle-earth_%28including_Beleriand%29%2C_Dark_Land%2C_N%C3%BAmenor%2C_Land_of_the_Sun> ;
+    tg:type "The World"@en .
+
+<http://localhost:8000/resource/Argonath> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Argonath%22_by_John_Howe> ;
+    tg:created "Soon after {{TA|1248}}"@en ;
+    tg:description <http://localhost:8000/resource/Gigantic_figures_of_Isildur_and_An%C3%A1rion> ;
+    tg:gallery "the Argonath"@en ;
+    tg:image "John Howe - The Argonath.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Northern_end_of_Nen_Hithoel%2C_both_sides_of_Anduin> ;
+    tg:name "The Argonath"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Argonad%27%27_%28Sindarin%29%3Cbr_/%3EPillars_of_the_Kings%2C_Gates_of_Argonath%2C_Gates_of_the_Kings%2C_Gates_of_Gondor> ;
+    tg:type "Statues/Monuments"@en .
+
+<http://localhost:8000/resource/Armenelos> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Armenelos_the_golden%22_by_%3ACategory%3AImages_by_Ralph_Damiani> ;
+    tg:created <http://localhost:8000/resource/Early_Second_Age> ;
+    tg:description <http://localhost:8000/resource/Capital_of_N%C3%BAmenor> ;
+    tg:destroyed <http://localhost:8000/resource/%7B%7BSA> ;
+    tg:image "Ralph Damiani - Armenelos.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:location <http://localhost:8000/resource/Arandor%2C_nigh_Meneltarma> ;
+    tg:name "Armenelos"@en ;
+    tg:othernames <http://localhost:8000/resource/The_Golden%2C_City_of_the_Kings%2C_%27%27Arminal%C3%AAth%27%27_%28Ad%C3%BBnaic> ;
+    tg:pronun "{{respell|ar|men|eh-los}}"@en ;
+    tg:type "City"@en .
+
+<http://localhost:8000/resource/Aros> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Aros%22_by_%3ACategory%3AImages_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:description "Reddish-coloured river"@en ;
+    tg:image "Matěj Čadil - Aros.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Flowing_from_Himlad_around_Doriath_to_the_Sirion> ;
+    tg:name "Aros"@en ;
+    tg:type "River"@en .
+
+<http://localhost:8000/resource/Arossiach> a schema:Place ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/River_Aros%2C_north_of_Doriath> ;
+    tg:name "Arossiach"@en ;
+    tg:othernames "Fords of Aros"@en ;
+    tg:type "Ford"@en .
+
+<http://localhost:8000/resource/Arvernien> a schema:Place ;
+    tg:description <http://localhost:8000/resource/Coastal_region_of_Bay_of_Balar> ;
+    tg:image "Christopher Tolkien - Bay of Balar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Noldor%2C_Falathrim> ;
+    tg:location <http://localhost:8000/resource/In_Beleriand%2C_south_of_Narog_and_west_of_Sirion> ;
+    tg:name "Arvernien"@en ;
+    tg:regions <http://localhost:8000/resource/Cape_Balar%2C_Nimbrethil> ;
+    tg:type "Region"@en .
+
+<http://localhost:8000/resource/Ascar> a schema:Place ;
+    tg:events <http://localhost:8000/resource/Battle_of_Sarn_Athrad> ;
+    tg:image "Christopher Tolkien - Ossiriand.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Between_Thargelion_and_Ossiriand> ;
+    tg:name "Ascar"@en ;
+    tg:othernames <http://localhost:8000/resource/Rathl%C3%B3riel> ;
+    tg:type "River"@en .
+
+<http://localhost:8000/resource/Avall%C3%B3n%C3%AB> a schema:Place ;
+    tg:caption "\"Haven of the Eldar\" by Frédéric Bennett"@en ;
+    tg:description "Island port with a great tower and harbour"@en ;
+    tg:image "Frédéric Bennett - Haven of the Eldar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Eldar> ;
+    tg:location <http://localhost:8000/resource/Eastern_shore_of_Tol_Eress%C3%ABa> ;
+    tg:name "Avallónë"@en ;
+    tg:othernames "Haven of the Eldar<ref>{{App|Numenor}}</ref>"@en ;
+    tg:type "City and port"@en .
+
+<http://localhost:8000/resource/Avathar> a schema:Place ;
+    tg:caption "\"Unlight\" by Lady Elleth"@en ;
+    tg:description "Dark strip of land"@en ;
+    tg:image "Lady Elleth - Unlight.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Ungoliant> ;
+    tg:location <http://localhost:8000/resource/South-eastern_region_of_Aman%2C_east_of_the_Pel%C3%B3ri> ;
+    tg:name "Avathar"@en ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:type "Region"@en .
+
+<http://localhost:8000/resource/Bag_End> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Hall_at_Bag-End%22_by_J.R.R._Tolkien%2C_coloured_by_H.E._Riddett> ;
+    tg:created "Around {{SR|1280}}"@en ;
+    tg:description "The most luxurious hobbit-hole in the local area"@en ;
+    tg:events <http://localhost:8000/resource/An_Unexpected_Party%3Cbr_/%3EScouring_of_the_Shire> ;
+    tg:image "J.R.R. Tolkien - The Hall at Bag-End, Residence of B. Baggins Esquire (Colored by H.E. Riddett).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Baggins_Family%2C_Gardner_Family> ;
+    tg:location <http://localhost:8000/resource/Hobbiton%2C_The_Shire> ;
+    tg:name "Bag End"@en ;
+    tg:type <http://localhost:8000/resource/Smials> .
+
+<http://localhost:8000/resource/Bagshot_Row> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Hill%3A_Hobbiton-across-the-Water%22_by_J.R.R._Tolkien> ;
+    tg:events <http://localhost:8000/resource/Saruman%27s_Ruffians> ;
+    tg:image "J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water (Colored).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Hobbits> ;
+    tg:location <http://localhost:8000/resource/Hobbiton_Hill%2C_The_Shire> ;
+    tg:name "Bagshot Row"@en ;
+    tg:othernames <http://localhost:8000/resource/New_Row> ;
+    tg:type <http://localhost:8000/resource/Row_of_hobbit-holes> .
+
+<http://localhost:8000/resource/Bamfurlong> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%27%27Maggot%27s_Farm%27%27_by_Tim_Kirk> ;
+    tg:description <http://localhost:8000/resource/Home_of_the_Maggot_Family%2C_notable_for_mushrooms> ;
+    tg:gallery "Bamfurlong"@en ;
+    tg:image "Tim Kirk - Maggot's Farm.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Hobbits> ;
+    tg:location <http://localhost:8000/resource/Marish> ;
+    tg:name "Bamfurlong"@en ;
+    tg:type "Farm"@en .
+
+<http://localhost:8000/resource/Barad-d%C3%BBr> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Barad-d%C3%BBr%22_by_J.R.R._Tolkien> ;
+    tg:created "c. {{SA|1000}}"@en ;
+    tg:description "Gargantuan tower"@en ;
+    tg:destroyed "{{TA|3019}}"@en ;
+    tg:events <http://localhost:8000/resource/Siege_of_Barad-dur%2C_Downfall_of_Barad-d%C3%BBr> ;
+    tg:image "J.R.R. Tolkien - Barad-dur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Sauron%2C_Nazg%C3%BBl%2C_Orcs> ;
+    tg:location <http://localhost:8000/resource/North-western_Mordor%2C_on_the_Plateau_of_Gorgoroth> ;
+    tg:name "Barad-dûr"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Lugburz%27%27_%28Black_Speech> ;
+    tg:rebuilt "{{TA|2942}}-{{TA|2953|n}}"@en ;
+    tg:type "Tower"@en .
+
+<http://localhost:8000/resource/Barad_Eithel> a schema:Place ;
+    tg:caption "\"Barad Eithel\" by Matěj Čadil"@en ;
+    tg:events <http://localhost:8000/resource/Nirnaeth_Arnoediad> ;
+    tg:image "Matěj Čadil - Barad Eithel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Noldor> ;
+    tg:location <http://localhost:8000/resource/Ered_Wethrin> ;
+    tg:name "Barad Eithel"@en ;
+    tg:pronun "{{respell|bah|rad}} {{respell|ay|thel}}"@en ;
+    tg:type "Fortress"@en .
+
+<http://localhost:8000/resource/Barad_Nimras> a schema:Place ;
+    tg:caption "\"Barad Nimras\" by Matěj Čadil"@en ;
+    tg:created "{{FA|65}}"@en ;
+    tg:description "White tower overlooking the sea"@en ;
+    tg:destroyed <http://localhost:8000/resource/%7B%7BFA> ;
+    tg:image "Matěj Čadil - Barad Nimras.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Noldor_%28Elves_of_Nargothrond%29_and/or_Falathrim> ;
+    tg:location <http://localhost:8000/resource/Falas%2C_west_of_Eglarest> ;
+    tg:name "Barad Nimras"@en ;
+    tg:type "Tower"@en .
+
+<http://localhost:8000/resource/Baranduin> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Brandywine%22_by_Jef_Murray> ;
+    tg:description "Long, golden-brown river"@en ;
+    tg:image "Jef Murray - Brandywine.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:location <http://localhost:8000/resource/Eriador> ;
+    tg:name "Baranduin"@en ;
+    tg:othernames "''Brandywine'', ''Branda-nîn'', ''Bralda-hîm''"@en ;
+    tg:pronun "{{respell|ba|ran|doo-een}}"@en ;
+    tg:regions <http://localhost:8000/resource/Buckland%2C_The_Shire%2C_Arthedain%2C_Cardolan%2C_Minhiriath> ;
+    tg:type "River"@en .
+
+<http://localhost:8000/resource/Bay_of_Balar> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/Map_drawn_by_Christopher_Tolkien_showing_the_Bay_of_Balar> ;
+    tg:description <http://localhost:8000/resource/Large_bay_including_the_Isle_of_Balar> ;
+    tg:image "Christopher Tolkien - Bay of Balar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Falathrim> ;
+    tg:location <http://localhost:8000/resource/South_of_Arvernien%2C_off_of_Belegaer> ;
+    tg:name "Bay of Balar"@en ;
+    tg:type "Bay"@en .
+
+<http://localhost:8000/resource/Ethir_Anduin> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/A_map_showing_Ethir_Anduin_from_The_Return_of_the_King_%281980_film%29> ;
+    tg:events <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:image "The Return of the King (1980 film) - Ethir Anduin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Nandor%2C_later_Men> ;
+    tg:location <http://localhost:8000/resource/South_of_Lebennin_in_Gondor%2C_leading_into_the_Bay_of_Belfalas> ;
+    tg:name "Ethir Anduin"@en ;
+    tg:othernames "Mouths of Anduin"@en ;
+    tg:type "River delta"@en .
+
+<http://localhost:8000/resource/Isle_of_Balar> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/Map_drawn_by_Christopher_Tolkien_showing_the_Bay_of_Balar> ;
+    tg:description <http://localhost:8000/resource/Large_islands%2C_eastern_tip_of_what_was_Tol_Eress%C3%ABa> ;
+    tg:image "Christopher Tolkien - Bay of Balar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Eldar%2C_Edain> ;
+    tg:location <http://localhost:8000/resource/South-west_of_the_Bay_of_Balar%2C_on_edge_of_Belegaer> ;
+    tg:name "Isle of Balar"@en ;
+    tg:type "Island"@en .
+
+<http://localhost:8000/resource/Middle-earth> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Map_of_Middle-earth%22_by_John_Howe> ;
+    tg:events <http://localhost:8000/resource/Sleep_of_Yavanna%2C_Battle_of_the_Powers%2C_Great_March%2C_Battles_of_Beleriand> ;
+    tg:image "John Howe - The Map of Middle-earth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Men%2C_Elves%2C_Dwarves%2C_Orcs%2C_Hobbits%2C_Ents%2C_others> ;
+    tg:location <http://localhost:8000/resource/Arda%2C_east_of_Belegaer> ;
+    tg:name "Middle-earth"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ennorath%27%27%2C_%27%27Endor%27%27> ;
+    tg:regions <http://localhost:8000/resource/The_Westlands_%28Beleriand%2C_Rohan%2C_Gondor%2C_Arnor%2C_Mordor%2C_Rhovanion%2C_Forodwaith%29%2C_Harad%2C_Rh%C3%BBn%2C_Cuivi%C3%A9nen%2C_Hildorien%2C_others> ;
+    tg:type "Continent"@en .
+
+<http://localhost:8000/resource/Tarn_Aeluin> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Aeluin%22_by_Elena_Kukanova> ;
+    tg:description "A lake of clear waters with wild heaths about it"@en ;
+    tg:events <http://localhost:8000/resource/Massacre_at_Tarn_Aeluin> ;
+    tg:gallery "Tarn Aeluin"@en ;
+    tg:image "Elena Kukanova - Aeluin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/location_infobox> ;
+    tg:inhabitants <http://localhost:8000/resource/Barahir_and_his_XII_B%C3%ABorings> ;
+    tg:location <http://localhost:8000/resource/Eastern_Dorthonion%2C_south-west_of_Ladros> ;
+    tg:name "Tarn Aeluin"@en ;
+    tg:othernames "Aeluin"@en ;
+    tg:pronun "{{respell|eye|loo-een}}"@en ;
+    tg:type "Lake"@en .
+

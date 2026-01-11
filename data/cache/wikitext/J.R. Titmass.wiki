@@ -1,0 +1,53 @@
+{{modernpeople infobox
+| name=J.R. Titmass
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=Historian of Oxford<ref>{{SD|Index2}}, entry for "Titmass, J.R."</ref>
+| position=Historian
+| location=[[Oxford]]
+| affiliation=
+| language=[[wikipedia:English language|English]]
+| birth=Sometime before [[2012]]
+| birthlocation=[[Earth]]
+| rule=
+| death=Sometime after [[2014]]
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| family=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+| audio=
+| audiocaption=
+}}
+
+'''J.R. Titmass''' was a [[Man]] who lived in [[wikipedia:Great Britain|Britain]] during the early [[wikipedia:21st century|21st century]].<ref name="Foreword">{{SD|2b}}, p. 156</ref>
+
+== History ==
+Mr. J.R. Titmass was a famous "historian of [[wikipedia:20th century|twentieth-century]] [[Oxford]]". When Mr. [[Howard Green]], the school clerk of the [[wikipedia:Examination Schools|Examination Schools]] in Oxford found the disordered bundle of [[The Notion Club Papers]] in the basement, Titmass assisted him in deciphering the papers in any way that he could. Indeed, it was Titmass who discovered that the name "[[Nicholas Guildford]]", used by the reporter of the [[Notion Club]], was in origin derived from ''[[The Owl and the Nightingale]]'',<ref name="intro">{{SD|2a}}, p. 149</ref> a medieval dialogue that was once read in Oxford.<ref name="Foreword"/>
+
+After the publication of the first edition of the papers at an unknown date, Titmass informed Green that he couldn't "find any record in the" [[1940]]s of any of the other names given in the Papers. As a result, Green changed his view, writing in his Second Edition foreword in [[2014]] that he now assumed that if any such club existed at that period, the names would have to be pseudonyms.<ref>{{SD|2b}}, ''Note to the Second Edition'', pg. 158</ref>
+
+== Other versions of the legendarium ==
+In an early version of the Foreword, J.R. Titmass's original surname was '''Titmouse''' before [[J.R.R. Tolkien]] changed this to Titmass.<ref name="intro"/>
+
+{{references}}
+
+{{DEFAULTSORT:Titmass, J.R.}}
+
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

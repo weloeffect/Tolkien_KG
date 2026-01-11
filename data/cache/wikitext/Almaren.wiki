@@ -1,0 +1,43 @@
+{{location infobox
+| name=Almaren
+| image=Sage - Almaren.png
+| caption=
+| pronun=
+| othernames="Isle of Almaren"
+| location=In the centre of the [[Great Lake]] in early [[Middle-earth]]
+| type=Island
+| description=Large green island, fairest land during the [[Days before days]]
+| regions=
+| towns=
+| inhabitants=[[Valar]] and [[Maiar]]
+| created={{VY|1900}}
+| destroyed={{VY|3450}}
+| events=[[Spring of Arda]]<br>Wedding of [[Tulkas]] and [[Nessa]]
+}}
+The '''Isle of Almaren''', commonly called '''Almaren''', was a large island in the center of early [[Arda]].
+
+==Geography==
+Almaren was located in the center of the [[Great Lake]], which was in turn at the center of [[Middle-earth]]. As the seas and lands were symmetrical, the island was the midmost point of all [[Arda]].
+
+==History==
+In the {{VY|1500}} since the coming of many of the [[Valar]] to Arda, another Vala came to the aid of [[Manwë]]. This was [[Tulkas]] the Strong who caused [[Melkor]] to abandon Middle-earth, causing the end of the [[First War]].<ref name="Annal">{{MR|P2a}}</ref> In the peace that followed, the Valar were able to bring order to the seas and lands,<ref>{{S|Days}}</ref> and it may have been that Almaren was created at that time.
+
+By {{VY|1900}} [[Aulë]] had wrought the [[Two Lamps]], [[Illuin]] and [[Ormal]], and [[Varda]] had given them hallowed fire that lit Arda and brought living things to life. Almaren certainly did exist by this time, for being between the Two Lamps all things grew richest and fairest upon the island and the Valar made their dwelling there (though they were often abroad upon their business).
+
+When at last the Valar were content, Manwë ordained a great feast upon the isle in {{VY|3400}}.  At the feast Tulkas wed [[Nessa]] and then slept, for he was weary with his labors in the ordering of Arda. Seeing his chance, Melkor and his host surmounted the [[Walls of the Night]] and began the delving of [[Utumno]] in the north. His coming marred the [[Spring of Arda]], turning many living things sick, rotted, or corrupted. The Valar then knew that Melkor was returned, but did not know his hiding-place.  
+
+In {{VY|3450}}, Melkor came forth in war and cast down the Two Lamps. Their destruction broke the lands and roiled the seas. The dwelling of the Valar upon Almaren was utterly destroyed and the island and the Great Lake disappeared in the tumult.<ref name="Annal"/>
+
+==Etymology==
+''Almaren'' is clearly [[Quenya]], but it is never glossed. ''[[The Etymologies]]'' had the [[Qenya]] words ''almarë'' ("blessedness") and ''almarea'' ("blessed"),<ref>{{LR|Etymologies}}, entry "[[GALA]]"</ref> which might be related.
+
+{{references}}
+{{ainur}}
+[[Category:Ainur realms]]
+[[Category:Islands]]
+[[Category:Middle-earth]]
+[[Category:Quenya locations]]
+
+[[de:Almaren]]
+[[fi:Almaren]]
+[[fr:encyclo/geographie/eaux/iles/almaren]]

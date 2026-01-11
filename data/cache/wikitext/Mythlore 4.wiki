@@ -1,0 +1,54 @@
+{{mythlore
+|title=Mythlore 4
+| image = Mythlore_4.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=October, [[1969]]
+|format=Paperback
+|pages=58
+}}
+
+'''''Mythlore''''' 4 [https://dc.swosu.edu/mythlore/vol1/iss4/ (Volume 1, Issue 4)] is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+=== Articles ===
+
+* Kuhl, Rand. "Owen Barfield in Southern California." 8+.
+* Hannay, Margaret P. "The Mythology of ''Out of the Silent Planet''." 11-14.
+* Ring, David. "Report on Westercon XXII." 15+.
+* Carnell, Corbin. "C.S. Lewis: An Appraisal." 18+.
+* "Bilbo and Frodo's Birthday Party, reported by Elrond Peredhil." 21.
+* Juhren, Marcella. "Mileage in Middle Earth." 22.
+* McMenomy, Bruce. "Song of Joy." 41+.
+* Wilson, Simone. "The Empire of Charles Williams." 50-53. 
+
+=== Features ===
+
+* GoodKnight, Glen. "The Council of Elrond." 2+.
+* Zuber, Bernie. "Across the Brandywine." 4+.
+* Ballif, Sandra. "A Sindarin-Quenya Dictionary, More or Less, Listing All Elvish Words Found in ''The Lord of the Rings'', ''The Hobbit'', and ''The Road Goes Ever On'' by J.R.R. Tolkien (Part 3)." 23-26.
+* "Missives to Mythlore." 27+.
+* Zuber, Bernie. "World of Fanzines." 38+.
+* Kuhl, Rand. "Lore of Logres: Arrows from a Twisted Bow: Misunderstanding Tolkien." Review of ''Understanding Tolkien and The Lord of the Rings'' by William Ready." 45-49.
+* Editorial: "Chronlogical Snobbery." 56+.
+
+=== Art ===
+
+* Alpajpuri: 35 (lettering: 4, 15, 22, 45, 50, 56)
+* George Barr: 7, 14, 42, 44, 53, 55
+* Bonnie Bergstrom: cover, 2, 8, 16, 22, 29, 30, 33, 34, 36, 37, 58
+* Ron Cobb: 20
+* Katherine Cribbs: back cover
+* Dick Flinchbaugh: 28
+* Rudy Haigopian: 37
+* Tim Kirk: 11, 12, 13, 27, 30, 35, 51, 56
+* Bruce McMenomy: 3, 23, 54, 55 (lettering: 17)
+* Bernie Zuber: 5, 21, 31, 32, 40
+* Cover: Bonnie Bergstrom, "Leaf by Niggle"
+* Back Cover: Katherine Cribbs, "Thrain II after Moria"
+{{mythlorenav|3|5}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 004}}
+[[Category:Mythlore]]

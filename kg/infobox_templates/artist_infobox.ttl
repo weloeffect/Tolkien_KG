@@ -1,0 +1,488 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1> a schema:WebPage ;
+    rdfs:label "Šárka Škorpíková"@en ;
+    schema:about <http://localhost:8000/resource/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1> .
+
+<http://localhost:8000/page/Alan_Lee> a schema:WebPage ;
+    rdfs:label "Alan Lee"@en ;
+    schema:about <http://localhost:8000/resource/Alan_Lee> .
+
+<http://localhost:8000/page/Anke_Ei%C3%9Fmann> a schema:WebPage ;
+    rdfs:label "Anke Eißmann"@en ;
+    schema:about <http://localhost:8000/resource/Anke_Ei%C3%9Fmann> .
+
+<http://localhost:8000/page/Ant%C3%B3nio_Quadros> a schema:WebPage ;
+    rdfs:label "António Quadros"@en ;
+    schema:about <http://localhost:8000/resource/Ant%C3%B3nio_Quadros> .
+
+<http://localhost:8000/page/Catherine_Karina_Chmiel> a schema:WebPage ;
+    rdfs:label "Catherine Karina Chmiel"@en ;
+    schema:about <http://localhost:8000/resource/Catherine_Karina_Chmiel> .
+
+<http://localhost:8000/page/Cor_Blok> a schema:WebPage ;
+    rdfs:label "Cor Blok"@en ;
+    schema:about <http://localhost:8000/resource/Cor_Blok> .
+
+<http://localhost:8000/page/Daniel_Govar> a schema:WebPage ;
+    rdfs:label "Daniel Govar"@en ;
+    schema:about <http://localhost:8000/resource/Daniel_Govar> .
+
+<http://localhost:8000/page/Daniel_Reeve> a schema:WebPage ;
+    rdfs:label "Daniel Reeve"@en ;
+    schema:about <http://localhost:8000/resource/Daniel_Reeve> .
+
+<http://localhost:8000/page/Denis_Gordeev> a schema:WebPage ;
+    rdfs:label "Denis Gordeev"@en ;
+    schema:about <http://localhost:8000/resource/Denis_Gordeev> .
+
+<http://localhost:8000/page/Donato_Giancola> a schema:WebPage ;
+    rdfs:label "Donato Giancola"@en ;
+    schema:about <http://localhost:8000/resource/Donato_Giancola> .
+
+<http://localhost:8000/page/Elena_Kukanova> a schema:WebPage ;
+    rdfs:label "Elena Kukanova"@en ;
+    schema:about <http://localhost:8000/resource/Elena_Kukanova> .
+
+<http://localhost:8000/page/Emily_Austin> a schema:WebPage ;
+    rdfs:label "Emily Austin"@en ;
+    schema:about <http://localhost:8000/resource/Emily_Austin> .
+
+<http://localhost:8000/page/Eric_Fraser> a schema:WebPage ;
+    rdfs:label "Eric Fraser"@en ;
+    schema:about <http://localhost:8000/resource/Eric_Fraser> .
+
+<http://localhost:8000/page/Frank_Frazetta> a schema:WebPage ;
+    rdfs:label "Frank Frazetta"@en ;
+    schema:about <http://localhost:8000/resource/Frank_Frazetta> .
+
+<http://localhost:8000/page/H.E._Riddett> a schema:WebPage ;
+    rdfs:label "H.E. Riddett"@en ;
+    schema:about <http://localhost:8000/resource/H.E._Riddett> .
+
+<http://localhost:8000/page/Heinz_Edelmann> a schema:WebPage ;
+    rdfs:label "Heinz Edelmann"@en ;
+    schema:about <http://localhost:8000/resource/Heinz_Edelmann> .
+
+<http://localhost:8000/page/Inger_Edelfeldt> a schema:WebPage ;
+    rdfs:label "Inger Edelfeldt"@en ;
+    schema:about <http://localhost:8000/resource/Inger_Edelfeldt> .
+
+<http://localhost:8000/page/Jef_Murray> a schema:WebPage ;
+    rdfs:label "Jef Murray"@en ;
+    schema:about <http://localhost:8000/resource/Jef_Murray> .
+
+<http://localhost:8000/page/Jemima_Catlin> a schema:WebPage ;
+    rdfs:label "Jemima Catlin"@en ;
+    schema:about <http://localhost:8000/resource/Jemima_Catlin> .
+
+<http://localhost:8000/page/Jenny_Dolfen> a schema:WebPage ;
+    rdfs:label "Jenny Dolfen"@en ;
+    schema:about <http://localhost:8000/resource/Jenny_Dolfen> .
+
+<http://localhost:8000/page/John_Howe> a schema:WebPage ;
+    rdfs:label "John Howe"@en ;
+    schema:about <http://localhost:8000/resource/John_Howe> .
+
+<http://localhost:8000/page/Justin_Gerard> a schema:WebPage ;
+    rdfs:label "Justin Gerard"@en ;
+    schema:about <http://localhost:8000/resource/Justin_Gerard> .
+
+<http://localhost:8000/page/Klaus_Ensikat> a schema:WebPage ;
+    rdfs:label "Klaus Ensikat"@en ;
+    schema:about <http://localhost:8000/resource/Klaus_Ensikat> .
+
+<http://localhost:8000/page/L%C3%ADda_Holubov%C3%A1> a schema:WebPage ;
+    rdfs:label "Lída Holubová"@en ;
+    schema:about <http://localhost:8000/resource/L%C3%ADda_Holubov%C3%A1> .
+
+<http://localhost:8000/page/Livia_Rusz> a schema:WebPage ;
+    rdfs:label "Livia Rusz"@en ;
+    schema:about <http://localhost:8000/resource/Livia_Rusz> .
+
+<http://localhost:8000/page/M%C3%A1rio_Braga> a schema:WebPage ;
+    rdfs:label "Mário Braga"@en ;
+    schema:about <http://localhost:8000/resource/M%C3%A1rio_Braga> .
+
+<http://localhost:8000/page/Margrethe_II_of_Denmark> a schema:WebPage ;
+    rdfs:label "Margrethe II of Denmark"@en ;
+    schema:about <http://localhost:8000/resource/Margrethe_II_of_Denmark> .
+
+<http://localhost:8000/page/Maria_Isabel_Braga> a schema:WebPage ;
+    rdfs:label "Maria Isabel Braga"@en ;
+    schema:about <http://localhost:8000/resource/Maria_Isabel_Braga> .
+
+<http://localhost:8000/page/Mat%C4%9Bj_%C4%8Cadil> a schema:WebPage ;
+    rdfs:label "Matěj Čadil"@en ;
+    schema:about <http://localhost:8000/resource/Mat%C4%9Bj_%C4%8Cadil> .
+
+<http://localhost:8000/page/Miriam_Ellis> a schema:WebPage ;
+    rdfs:label "Miriam Ellis"@en ;
+    schema:about <http://localhost:8000/resource/Miriam_Ellis> .
+
+<http://localhost:8000/page/Pauline_Baynes> a schema:WebPage ;
+    rdfs:label "Pauline Baynes"@en ;
+    schema:about <http://localhost:8000/resource/Pauline_Baynes> .
+
+<http://localhost:8000/page/Peter_Chuklev> a schema:WebPage ;
+    rdfs:label "Peter Chuklev"@en ;
+    schema:about <http://localhost:8000/resource/Peter_Chuklev> .
+
+<http://localhost:8000/page/Peter_Pracownik> a schema:WebPage ;
+    rdfs:label "Peter Pracownik"@en ;
+    schema:about <http://localhost:8000/resource/Peter_Pracownik> .
+
+<http://localhost:8000/page/Ralph_Damiani> a schema:WebPage ;
+    rdfs:label "Ralph Damiani"@en ;
+    schema:about <http://localhost:8000/resource/Ralph_Damiani> .
+
+<http://localhost:8000/page/Roger_Garland> a schema:WebPage ;
+    rdfs:label "Roger Garland"@en ;
+    schema:about <http://localhost:8000/resource/Roger_Garland> .
+
+<http://localhost:8000/page/Ryszard_Derdzi%C5%84ski> a schema:WebPage ;
+    rdfs:label "Ryszard Derdziński"@en ;
+    schema:about <http://localhost:8000/resource/Ryszard_Derdzi%C5%84ski> .
+
+<http://localhost:8000/page/Soni_Alcorn-Hender> a schema:WebPage ;
+    rdfs:label "Soni Alcorn-Hender"@en ;
+    schema:about <http://localhost:8000/resource/Soni_Alcorn-Hender> .
+
+<http://localhost:8000/page/Spiros_Gelekas> a schema:WebPage ;
+    rdfs:label "Spiros Gelekas"@en ;
+    schema:about <http://localhost:8000/resource/Spiros_Gelekas> .
+
+<http://localhost:8000/page/Ted_Nasmith> a schema:WebPage ;
+    rdfs:label "Ted Nasmith"@en ;
+    schema:about <http://localhost:8000/resource/Ted_Nasmith> .
+
+<http://localhost:8000/page/The_Brothers_Hildebrandt> a schema:WebPage ;
+    rdfs:label "The Brothers Hildebrandt"@en ;
+    schema:about <http://localhost:8000/resource/The_Brothers_Hildebrandt> .
+
+<http://localhost:8000/resource/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1> a schema:Person ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Czech Republic"@en ;
+    tg:name "Šárka Škorpíková"@en .
+
+<http://localhost:8000/resource/Alan_Lee> a schema:Person ;
+    tg:born <http://localhost:8000/resource/20_August%2C_1947> ;
+    tg:image "Alan Lee.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Alan_Lee> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Dartmoor, Devon, UK"@en ;
+    tg:name "Alan Lee"@en ;
+    tg:style "Realistic/Romantic"@en .
+
+<http://localhost:8000/resource/Anke_Ei%C3%9Fmann> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1977_in_Dillenburg%2C_Germany> ;
+    tg:image "Anke Eißmann.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Anke_Ei%C3%9Fmann> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Weimar, Germany"@en ;
+    tg:name "Anke Katrin Eißmann"@en ;
+    tg:website "anke.edoras-art.de"@en .
+
+<http://localhost:8000/resource/Ant%C3%B3nio_Quadros> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_June%2C_1933> ;
+    tg:died <http://localhost:8000/resource/2_July_1994> ;
+    tg:image "Antonio quadros.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Portugal"@en ;
+    tg:name "António Quadros"@en ;
+    tg:style "Comics"@en .
+
+<http://localhost:8000/resource/Catherine_Karina_Chmiel> a schema:Person ;
+    tg:image "Catherine Karina Chmiel.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Catherine_Karina_Chmiel> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Poland"@en ;
+    tg:name "Katarzyna Karina Chmiel-Gugulska"@en ;
+    tg:style "Realistic/Comics"@en .
+
+<http://localhost:8000/resource/Cor_Blok> a schema:Person ;
+    tg:born "The Hague, Netherlands, 1934<ref name = \"About\">''Cor Blok'', [https://web.archive.org/web/20220117163428/http://www.corblok.com/sample-page/ Cor Blok, his art and his legacy]</ref>"@en ;
+    tg:died "May 5, 2021<ref name = \"Obituary\">''Inside Eko'', [https://web.archive.org/web/20210518111427/https://insideeko.com/cor-blok-death-obituary-cor-blok-dead-passed-away-2/ Cor Blok Death – Obituary | Cor Blok Dead – Passed Away]</ref>"@en ;
+    tg:education "Royal Academy of Fine Arts, Antwerp<ref>''Tolkien Library'', [https://tolkienlibrary.com/press/937-interview-cor-blok-tolkien-calendar-2011.php Interview with Cor Blok about the Tolkien Calendar 2011] by Pieter Collier</ref>"@en ;
+    tg:image "Cor Blok.png"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Cor_Blok> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Amsterdam, Netherlands<ref name = \"About\"></ref>"@en ;
+    tg:name "Cor Blok"@en ;
+    tg:style "Minimalist"@en ;
+    tg:website "[https://web.archive.org/web/20220202162850/http://www.corblok.com/ http://www.corblok.com/]"@en .
+
+<http://localhost:8000/resource/Daniel_Govar> a schema:Person ;
+    tg:image "Daniel Govar.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Daniel_Govar> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AUSA> ;
+    tg:name "Daniel Govar"@en ;
+    tg:website "[https://www.danielgovar.com Official website]"@en .
+
+<http://localhost:8000/resource/Daniel_Reeve> a schema:Person ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Daniel_Reeve> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/New_Zealand> ;
+    tg:name "Daniel Reeve"@en ;
+    tg:website "https://www.danielreeve.co.nz/"@en .
+
+<http://localhost:8000/resource/Denis_Gordeev> a schema:Person ;
+    tg:born <http://localhost:8000/resource/3_April%2C_1964> ;
+    tg:education <http://localhost:8000/resource/Wikipedia%3AMoscow_Surikov_State_Academic_Institute_of_Fine_Arts> ;
+    tg:image "Denis Gordeev.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AMos%D1%81ow> ;
+    tg:name "Denis Gordeev"@en .
+
+<http://localhost:8000/resource/Donato_Giancola> a schema:Person ;
+    tg:born <http://localhost:8000/resource/7_March_1967> ;
+    tg:image "Donato Giancola.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Donato_Giancola> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:name "Donato Giancola"@en ;
+    tg:website "[https://donatoarts.com/ Official website]"@en .
+
+<http://localhost:8000/resource/Elena_Kukanova> a schema:Person ;
+    tg:born <http://localhost:8000/resource/28_December_1979> ;
+    tg:image "Elena Kukanova 2013.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Elena_Kukanova> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3ARussia> ;
+    tg:name "Elena Kukanova"@en ;
+    tg:style "Realistic"@en .
+
+<http://localhost:8000/resource/Emily_Austin> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "USA"@en ;
+    tg:name "Emily Austin"@en ;
+    tg:website "[https://emilyaustindesign.com/ official website]"@en .
+
+<http://localhost:8000/resource/Eric_Fraser> a schema:Person ;
+    tg:born <http://localhost:8000/resource/11_June> ;
+    tg:died <http://localhost:8000/resource/15_November> ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Eric_Fraser> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "UK"@en ;
+    tg:name "Eric Fraser"@en .
+
+<http://localhost:8000/resource/Frank_Frazetta> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_February> ;
+    tg:caption <http://localhost:8000/resource/Frank_Frazetta_%26_Ralph_Bakshi> ;
+    tg:died <http://localhost:8000/resource/10_May> ;
+    tg:image "Frank Frazetta & Ralph Bakshi.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "United States"@en ;
+    tg:name "Frank Frazetta"@en .
+
+<http://localhost:8000/resource/H.E._Riddett> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1905> ;
+    tg:died <http://localhost:8000/resource/1990> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "England, UK"@en ;
+    tg:name "H.E. Riddett"@en .
+
+<http://localhost:8000/resource/Heinz_Edelmann> a schema:Person ;
+    tg:born <http://localhost:8000/resource/20_June> ;
+    tg:died <http://localhost:8000/resource/21_July> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:name "Heinz Edelmann"@en .
+
+<http://localhost:8000/resource/Inger_Edelfeldt> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1956> ;
+    tg:image "Inger Edelfeldt.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Inger_Edelfeldt> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Sweden"@en ;
+    tg:name "Inger Edelfeldt"@en .
+
+<http://localhost:8000/resource/Jef_Murray> a schema:Person ;
+    tg:born <http://localhost:8000/resource/17_March_1960> ;
+    tg:died <http://localhost:8000/resource/3_August_2015> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Decatur, Georgia"@en ;
+    tg:name "Jef Murray"@en ;
+    tg:website "[http://www.jefmurray.com Official website]"@en .
+
+<http://localhost:8000/resource/Jemima_Catlin> a schema:Person ;
+    tg:born <http://localhost:8000/resource/27_October_1986%3Cref%3E%7B%7Bwebcite> ;
+    tg:education <http://localhost:8000/resource/wikipedia%3AArts_University_Bournemouth> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Dorchester, UK"@en ;
+    tg:name "Jemima Catlin"@en ;
+    tg:website "[http://www.jemimacatlin.com/ Jemima Catlin]"@en .
+
+<http://localhost:8000/resource/Jenny_Dolfen> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1975> ;
+    tg:image "Jenny Dolfen.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Jenny_Dolfen> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AGermany> ;
+    tg:name "Jenny Dolfen"@en ;
+    tg:style "Watercolour"@en ;
+    tg:website "https://goldseven.wordpress.com/"@en .
+
+<http://localhost:8000/resource/John_Howe> a schema:Person ;
+    tg:born <http://localhost:8000/resource/21_August%2C_1957> ;
+    tg:image "John Howe.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3ASwitzerland> ;
+    tg:name "John Howe"@en ;
+    tg:website "[http://www.john-howe.com/ John-Howe.com]"@en .
+
+<http://localhost:8000/resource/Justin_Gerard> a schema:Person ;
+    tg:image "Justin Gerard.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Georgia, United States"@en ;
+    tg:name "Justin Gerard"@en ;
+    tg:website "[https://www.gallerygerard.com Official website]"@en .
+
+<http://localhost:8000/resource/Klaus_Ensikat> a schema:Person ;
+    tg:born <http://localhost:8000/resource/16_January> ;
+    tg:image "Klaus Ensikat.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Berlin, Germany"@en ;
+    tg:name "Klaus Ensikat"@en .
+
+<http://localhost:8000/resource/L%C3%ADda_Holubov%C3%A1> a schema:Person ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_L%C3%ADda_Holubov%C3%A1> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Czech Republic"@en ;
+    tg:name "Lída Aegeri Holubová"@en .
+
+<http://localhost:8000/resource/Livia_Rusz> a schema:Person ;
+    tg:born <http://localhost:8000/resource/28_September> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:name "Livia Rusz"@en ;
+    tg:style "Comics"@en .
+
+<http://localhost:8000/resource/M%C3%A1rio_Braga> a schema:Person ;
+    tg:born <http://localhost:8000/resource/14_July%2C_1921> ;
+    tg:died <http://localhost:8000/resource/1_October%2C_2016> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Portugal"@en ;
+    tg:name "Mário Braga"@en .
+
+<http://localhost:8000/resource/Margrethe_II_of_Denmark> a schema:Person ;
+    tg:born <http://localhost:8000/resource/16_April> ;
+    tg:image "Margrethe II of Denmark.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Margrethe_II_of_Denmark> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Denmark"@en ;
+    tg:name "Margrethe II of Denmark"@en ;
+    tg:style "Tolkienesque"@en .
+
+<http://localhost:8000/resource/Maria_Isabel_Braga> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1919> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Portugal"@en ;
+    tg:name "Maria Isabel Morna Braga"@en .
+
+<http://localhost:8000/resource/Mat%C4%9Bj_%C4%8Cadil> a schema:Person ;
+    tg:born <http://localhost:8000/resource/5_December> ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Prague, Czech Republic"@en ;
+    tg:name "Matěj Čadil"@en ;
+    tg:style "traditional art"@en ;
+    tg:website "https://www.patreon.com/matejcadil"@en .
+
+<http://localhost:8000/resource/Miriam_Ellis> a schema:Person ;
+    tg:image "Miriam Ellis - Ar Bóithrín na Smaointe (On the Little Bye-Roads of Thought).jpeg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Miriam_Ellis> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "America"@en ;
+    tg:name "Miriam Ellis"@en ;
+    tg:style "Traditional art"@en ;
+    tg:website "https://www.miriamellis.com"@en .
+
+<http://localhost:8000/resource/Pauline_Baynes> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_September_1922> ;
+    tg:died <http://localhost:8000/resource/1_August_2008> ;
+    tg:image "Pauline Baynes.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Pauline_Baynes> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "England"@en ;
+    tg:name "Pauline Baynes"@en .
+
+<http://localhost:8000/resource/Peter_Chuklev> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1936> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Sofia, Bulgaria"@en ;
+    tg:name "Peter Chuklev"@en .
+
+<http://localhost:8000/resource/Peter_Pracownik> a schema:Person ;
+    tg:born <http://localhost:8000/resource/19_October%2C_1951%3Cref_name_%3D_%22BookBio%22%3EThe_Enchanted_World_of_Peter_Pracownik_-_Biography%3C/ref%3E%3Cbr%3EWikipedia%3ASouthmead> ;
+    tg:died "August 15,<ref name = \"Memorial\">[https://seattlein2025.org/memberships/in-memoriam/ Seattle Worldcon - In Memorial]</ref> 2024<ref name = \"Death\">[https://glastonbury.nub.news/news/local-news/glastonbury-mourns-the-loss-of-artist-peter-pracownik-whose-work-captured-the-towns-mystical-spirit-237785 Glastonbury mourns the loss of artist Peter Pracownik, whose work captured the town's mystical spirit]</ref>"@en ;
+    tg:education <http://localhost:8000/resource/wikipedia%3AList_of_schools_in_Somerset%23Primary_and_first_schools> ;
+    tg:image "Peter Pracownik.png"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Peter_Pracownik> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/wikipedia%3ANorth_Cornwall> ;
+    tg:name "Peter Pracownik"@en ;
+    tg:style "New Age/Fantasy"@en ;
+    tg:website "[https://web.archive.org/web/20180426100649/http://www.peterpracownik.com/index.html peterpracownik.com]"@en .
+
+<http://localhost:8000/resource/Ralph_Damiani> a schema:Person ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "São Paulo, Brazil"@en ;
+    tg:name "Ralph Damiani"@en ;
+    tg:website "[https://ralphdamianiart.com Official website]"@en .
+
+<http://localhost:8000/resource/Roger_Garland> a schema:Person ;
+    tg:born <http://localhost:8000/resource/28_February%2C_1950> ;
+    tg:died <http://localhost:8000/resource/26_October%2C_2017> ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Roger_Garland> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:name "Roger Garland"@en ;
+    tg:style "Fantasy"@en ;
+    tg:website "http://www.lakeside-gallery.com/"@en .
+
+<http://localhost:8000/resource/Ryszard_Derdzi%C5%84ski> a schema:Person ;
+    tg:born <http://localhost:8000/resource/20_February_1974> ;
+    tg:image "Ryszard Derdziński.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Ryszard_Derdzi%C5%84ski> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Poland"@en ;
+    tg:name "Ryszard Derdziński"@en ;
+    tg:website "http://tolkniety.blogspot.com"@en .
+
+<http://localhost:8000/resource/Soni_Alcorn-Hender> a schema:Person ;
+    tg:education <http://localhost:8000/resource/wikipedia%3AGlasgow_School_of_Art> ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Soni_Alcorn-Hender> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Portugal"@en ;
+    tg:name "Soni Alcorn-Hender"@en ;
+    tg:website "[http://www.bohemianweasel.com Bohemian Weasel]"@en .
+
+<http://localhost:8000/resource/Spiros_Gelekas> a schema:Person ;
+    tg:born <http://localhost:8000/resource/July_4%2C_1979> ;
+    tg:image "Spiros_Gelekas.png"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Spiros_Gelekas> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AGreece> ;
+    tg:name "Spiros Gelekas"@en ;
+    tg:website "https://www.spirosgelekas.com/"@en .
+
+<http://localhost:8000/resource/Ted_Nasmith> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1956%2C_Goderich%2C_Ontario%2C_Canada> ;
+    tg:image "Ted Nasmith.jpg"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_Ted_Nasmith> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:location "Toronto, Canada"@en ;
+    tg:name "Ted Nasmith"@en ;
+    tg:style "Luminism, Victorian neoclassical"@en ;
+    tg:website "http://www.tednasmith.com"@en .
+
+<http://localhost:8000/resource/The_Brothers_Hildebrandt> a schema:Person ;
+    tg:born <http://localhost:8000/resource/23_January> ;
+    tg:died <http://localhost:8000/resource/Greg%3A_October_31%2C_2024%3Cbr%3ETim%3A_11_June> ;
+    tg:image "The Brothers Hildebrandt.png"@en ;
+    tg:images <http://localhost:8000/resource/%3ACategory%3AImages_by_The_Brothers_Hildebrandt> ;
+    tg:infoboxTemplate <http://localhost:8000/template/artist_infobox> ;
+    tg:name "The Brothers Hildebrandt"@en ;
+    tg:website "[http://www.brothershildebrandt.com/ The Brothers Hildebrandt]<br>[https://timhildebrandt.net/ Tim Hildebrandt]"@en .
+

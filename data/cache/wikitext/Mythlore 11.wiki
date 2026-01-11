@@ -1,0 +1,45 @@
+{{mythlore
+|title=Mythlore 11
+| image = Mythlore_11.jpeg
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=[[1976]]
+|format=Paperback
+|pages=31
+}}
+
+'''''Mythlore'' 11''' ([https://dc.swosu.edu/mythlore/vol3/iss3/ Volume 3, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+====Articles====
+
+* Lloyd, Paul M. "The Role of Warfare and Strategy in ''The Lord of the Rings''." 3-7.
+* Christopher, Joe R. "Climbing Jacob's Ladder: A Heirarchical Approach to Imagistic Mysticism." 10-19.
+* Walton, Evangeline. "Celtic Myth in the Twentieth Century." 19-22.
+* Patterson, Nancy-Lou. "Homo Monstrousus: Lloyd Alexander's Gurgi and the Shadow Figures of Fantastic Literature." 24-8.
+* Bisenicks, Dainis. "Finder of the Welsh Gods." 29-31.
+
+====Features====
+
+* Ellwood, Gracia Fay. Poem. 8.
+* Missives to Mythlore. 22.
+* Chapman, Ed. "The Not-World." Review of ''The Not-World'' by Thomas Burnett Swann. 23-24.
+* Notes on This Issue. 28.
+
+====Art====
+
+* Joe R. Christopher: 24, 25, 26, 27
+* Edith Crowe: 5, 30
+* Inger Edelfeldt: cover
+* Bonnie GoodKnight: 28, back cover
+* Annette Harper: 4, 31
+* Barbara Mann: 2
+* Valerie Protopapas: 11, 13, 16, 21
+* Paul Rauber: 6
+* Christine Smith: 8, including calligraphy
+{{mythlorenav|10|12}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 011}}
+[[Category:Mythlore]]

@@ -1,0 +1,23 @@
+{{board game infobox
+| image = LOTR FOTR TrickTakingGame.webp
+| name=The Fellowship of the Ring – Trick-Taking Game
+| designer=Bryan Bornmueller
+| publisher=[[Office Dog Games]]
+| releasedate=[[2024]]
+| players=1-4
+| ages=10+
+}}
+'''The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game''' is a cooperative card game for one to four players. Similar to classic trick-taking games like Bridge and Spades, players play cards matching a lead suit along with characters with unique abilities to get through one of eighteen unique scenarios. Features art by [[Elaine Ryan]] and [[Samuel R. Shimota]].
+
+==From the publisher==
+Follow the key story beats of the iconic fantasy tale by [[J. R. R. Tolkien]], starting with [[Bilbo Baggins]]’ [[Bilbo's Farewell Party|Eleventy-First birthday party]] in [[Bag End]]. Players are taken through eighteen total chapters chronologically, focusing on big story moments and the beloved literary characters among them. Each chapter introduces new challenges, characters, and items; slowly revealing cards that build toward the forming of [[The Fellowship]]. Story cards are used at the beginning of each chapter, featuring actual text from the book, to set the mood as you begin your adventure.
+
+Middle-earth awaits!
+
+
+==External links==
+* '''[https://www.officedoggames.com/game/the-fellowship-of-the-ring-trick-taking-game/ Official Site]'''
+* [https://boardgamegeek.com/boardgame/429293/the-lord-of-the-rings-the-fellowship-of-the-ring-t Board Game Geek Profile]
+{{Navbox cards}}
+{{title|italics}}
+[[Category:Card games]]

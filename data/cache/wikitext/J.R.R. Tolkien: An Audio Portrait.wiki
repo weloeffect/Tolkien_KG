@@ -1,0 +1,19 @@
+{{audiobook infobox
+| title=<small>J.R.R. Tolkien: An Audio Portrait of the Author of The Hobbit and The Lord of the Rings</small>
+| image=Tolkien Audio Portrait.png
+| work=
+| author=
+| narrator=[[Brian Sibley]]
+| coverart=
+| publisher=BBC Audiobooks Ltd 
+| date=[[12 November]] [[2001]]
+| format=Audio Cassette
+| runtime=
+| isbn=0563536918
+}}
+'''''J.R.R. Tolkien: An Audio Portrait of the Author of The Hobbit and The Lord of the Rings''''' is a compilation of radio and TV archive material from the 60s and 70s featuring interviews with [[J.R.R. Tolkien]], his relatives and colleagues in which he talks about his books, life as an academic, correspondence received from fans and his views on the 20th century.
+
+This audiobook features parts of an interview conducted with Tolkien for the documentary ''[[Tolkien in Oxford]]''.<ref>[[Wayne G. Hammond]] and [[Christina Scull]] (2006), ''[[The J.R.R. Tolkien Companion and Guide]]: Reader's Guide'', p. 824</ref>
+{{References}}
+{{title|italics}}
+[[Category:Audiobooks]]

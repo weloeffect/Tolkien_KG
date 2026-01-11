@@ -1,0 +1,54 @@
+{{Poem infobox
+| title=The Battle of the Eastern Field
+| other names=
+| written=Before [[March]] of [[1911]]
+| revised=After [[March]] of [[1911]]
+| published=''[[King Edward's School Chronicle]]'',<br>''[[Mallorn 12]]'',<br>''[[Mallorn 13]]'',<br> ''[[Mallorn 46]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Wikipedia:Rugby|Rugby match]]
+}}
+
+'''''The Battle of the Eastern Field''''' is a poem written by [[J.R.R. Tolkien]] sometime before [[March]] of [[1911]] about a rugby match when he was still at [[Wikipedia:King Edward's School|King Edward's School]] in Birmingham.<ref name=chronology1911>{{CG|I}}, p. 23 (entry "''March 1911''")</ref> It is notably the first<ref name=tolkienstudies>{{TS|10}}, Volume X, "In Memoriam: Maggie Burns"</ref> poem that Tolkien published.<ref name=guide>{{CG|2II}}, entry "''The Battle of the Eastern Field''")</ref>
+
+==Preface and first stanza==
+<poem style="font-style:italic; margin-left:20px;">
+[On Friday March 31st I came across this curious fragment in the waste paper basket, in the Prefects' room. Much of it was so blotted that I could not decipher it. I publish it with emendations of my own. G.A.B.]
+I
+Ho, rattles sound your warnote!
+Ho, trumpets loudly bray!
+The clans will strive and gory writhe
+Upon the field to-day.
+To-day the walls and blackboards
+Are hung with flaunting script,
+From Atlas on the staircase
+To Bogey’s darkling crypt.
+Each knight is robed in scarlet,
+Or clad in olive green;
+A gallant crest upon each breast
+Is proudly heaving seen.
+While flows our Yellow River,
+While stands the great Pavil,
+That Thursday in the Lenten Term
+Shall be a beanfest still.<ref name=collectedpoems>{{CP|6}}</ref></poem>
+
+==Background==
+[[File:The King Edward's School Chronicle Vol. 25 No. 186 1911.jpg|250px|thumb|The King Edward's School Chronicle]]
+
+It is unknown exactly when Tolkien wrote the poem or whether any earlier versions survive, but it is possible that he wrote it in the same year that the poem was published.<ref name=collectedpoems/>
+
+In [[March]] of [[1911]], ''The Battle of the Eastern Field'' was first published as entry 186 in the 26th issue of the ''[[King Edward's School Chronicle]]'' on pages 22–26. The mock author's notes published with the poem were signed with the pseudonym '''G.A.B.''', possibly short for '''Gabriel''', Tolkien's schoolboy nickname.<ref name=guide/>
+
+Sometime shortly after the poem was published, Tolkien made an annotated copy that he signed with his initials.<ref name=collectedpoems/>
+
+In [[1978]], the poem was reprinted in ''[[Mallorn 12]]'' on pages 24-28.<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=11180|articlename=''[[Mallorn 12]]''. 1978|dated=|website=TB|accessed=19 September 2013}}</ref> In an article published in ''[[Mallorn 13]]'' in [[1979]], the poem was first identified by Jessica Yates as being a parody of '[[Wikipedia:Lays of Ancient Rome/The Battle of the Lake Regillus|The Battle of Lake Regillus]]' from [[wikipedia:Thomas Babington Macaulay, 1st Baron Macaulay|Thomas Babbington Macaulay]]'s 1842<ref name=collectedpoems/> ''[http://www.theotherpages.org/poems/rome.html The Lays of Ancient Rome]''.<ref>''[[Mallorn 13]]'', "''The Battle of the Eastern Field'': A Commentary" by Jessica Yates, p. 5</ref> In the autumn<ref name=guide/> of [[2008]], the poem was reprinted again in ''[[Mallorn 46]]'' on pages 20-22 with commentary by Maggie Burns.<ref name=tolkienstudies/> In [[2017]], the first four lines were reprinted in the second edition ''[[The J.R.R. Tolkien Companion and Guide]]''.<ref name=guide/>
+
+In [[September]] of [[2024]], the poem was included as entry 6 in ''[[The Collected Poems of J.R.R. Tolkien]]'' along with Tolkien's annotated copy.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+{{DEFAULTSORT:Battle of the Eastern Field, The}}
+
+[[Category:Poems by J.R.R. Tolkien]]
+
+[[fi:The Battle of the Eastern Field]]

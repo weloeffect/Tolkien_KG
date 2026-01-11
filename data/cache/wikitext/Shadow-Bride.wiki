@@ -1,0 +1,21 @@
+{{Poem infobox
+| title=Shadow-Bride
+| other names=''The Shadow Man''
+| written=[[1933]] or [[1934]]
+| revised=[[1961]] or [[1962]]
+| published=''[[Annual of Our Lady's School (1936)|'Annual' of Our Lady's School, Abingdon]]'',<br>''[[The Adventures of Tom Bombadil]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Red Book of Westmarch]]
+}}
+'''''Shadow-Bride''''' is a nonsense [[Hobbit]] poem that was among those written in the margins of the [[Red Book]].<ref>{{AB|Preface}}</ref>[[File:Eva Zahradníková - Shadow-bride.jpg|thumb|right|150px|''Shadow-bride'' by [[:Category:Images by Eva Zahradníková|Eva Zahradníková]]]]
+
+It was published in ''[[The Adventures of Tom Bombadil]]''.<ref>{{AB|Bride}}</ref>
+
+An earlier version of the poem, entitled "'''The Shadow Man'''", was published in the [[Annual of Our Lady's School (1936)|''Annual'' of Our Lady's School (1936)]].<ref>{{webcite|author=[[Wayne Hammond]], [[Christina Scull]]|articleurl=http://wayneandchristina.wordpress.com/2013/06/16/tolkien-notes-8/|articlename=Tolkien Notes 8|dated=16 June 2013|website=[http://wayneandchristina.wordpress.com/ Wayneandchristina.wordpress.com]|accessed=16 June 2013}}</ref>
+
+== See also ==
+*[[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{references}}
+{{poems}}
+[[Category:Poems in The Adventures of Tom Bombadil]]
+[[fi:Varjomorsian]]

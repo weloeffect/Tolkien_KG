@@ -1,0 +1,15 @@
+{{letter infobox
+| #=304
+| to=[[Clyde S. Kilby]]
+| date=[[4 June]] [[1968]]
+| subject=Retirement
+}}{{letter|304}}
+==Summary==
+After his retirement, Tolkien went to live [[Woodridings|on the south coast]] of England to avoid [[Tolkien fandom|fans]]. He informed [[Clyde S. Kilby]] that [[Allen and Unwin|Allen & Unwin]] would forward all his mail, and only a select few would know the actual address. 
+==Notes==
+* It is not implied whether Dr. Kilby was among the selected few, but it can be inferred he was not. 
+* The address was 19, Lakeside Road, BH13 6 in Poole. The house was known as [[Woodridings]].
+* The letter was only partially published in ''The Letters of J.R.R. Tolkien''; for other published excerpts cf. [[Letter to Clyde S. Kilby (4 June 1968)]].
+{{letters}}
+[[de:Brief 304]]
+[[Category:Letters to Clyde S. Kilby]]

@@ -1,0 +1,128 @@
+{{race infobox
+| name=Ents
+| image = John Howe - Ents.jpg
+| caption="Ents" by [[John Howe]]
+| pronun=
+| othernames=''Onodrim'' ([[Sindarin|S]])<br />''Onyalië''([[Quenya|Q]]) <br />Shepherds of the Trees, Wood-demons
+| origin=Created by [[Ilúvatar]] at [[Yavanna]]'s request
+| location=[[Eriador]], [[East Beleriand]], [[Fangorn Forest]], [[Treegarth of Orthanc]]
+| affiliation=
+| rivalry=[[Trolls]]
+| language=[[Entish]], [[Elvish]], [[Westron]]
+| people=
+| members=[[Treebeard]], [[Quickbeam]], [[Leaflock]],<ref name=tt474>{{TT|Treebeard}}, p.474</ref>[[Skinbark]],<ref name=tt474/> [[Beechbone]],<ref>{{TT|Flotsam}}, p. 568</ref> [[Fimbrethil]]<ref>{{TT|Treebeard}}, p. 476</ref>
+| lifespan=Unknown, but obviously very longeval
+| distinctions=Tree-like appearance
+| height=Very tall; several yards/meters
+| hair=
+| skin=Earthy colors
+| clothing=
+| weapons=
+}}
+The '''Ents''' were sentient, humanoid beings created at the request of [[Yavanna]] to protect the trees from other creatures, particularly Dwarves,<ref>{{S|1}}</ref> and thus were called "Shepherds of the Trees".<ref name=tt549>{{TT|Road}}, p. 549</ref>
+ 
+==History==
+===Origins===
+The Ents were the most ancient living creatures surviving in [[Middle-earth]] in the [[Third Age]].<ref name=lp/><ref>{{L|131}}</ref> The Ents are a free people of their own kind, very similar in origin to the Dwarves.<ref group=note>See [[Eagles#Origin and nature|Eagles: Origin and nature]] for more details.</ref> In fact, "when Yavanna discovered the mercy of Eru to Aulë in the matter of the Dwarves, she besought Eru (through Manwë) asking him to give life" to the Ents, so that "the Ents were either souls sent to inhabit trees, or else that slowly took the likeness of trees owing to their inborn love of trees".<ref name=L247>{{L|247}}</ref><ref name=aule>{{S|Aule}}</ref>
+
+Ents are the Shepherds of the Trees, as far as they were desired by Yavanna to protect the forests from [[Orcs]], Dwarves and other perils.<ref name=aule/> The males were devoted to [[Oromë]] while the [[Entwives]] to Yavanna.<ref name=L247/> They were created around the same time [[Awakening of the Elves|as the Elves]].<ref name=guide>{{HM|Guide}}, entry "Ents"</ref> The [[Eldar]] of the [[First Age]]<ref group="note">Possibly Eldar of the [[Great March]].</ref> loved to talk to everything and had tales of teaching the trees to talk. They gave them the desire to speak and taught them [[Elvish]].<ref name=lp>{{App|Other}}</ref> [[Treebeard]] said the Elves "curing the Ents of their dumbness" was a great gift that could not be forgotten.<ref name=treebeard>{{TT|III4}}</ref>
+
+Before even [[Morgoth]] returned to the North the first Ents were not as wise or strong as in later times. They developed a language, [[Entish]], which was much simpler back then, and had very small knowledge of other [[languages]].<ref name=L247/>
+
+=== Rise and decline ===
+As [[Elrond]] said "''Time was once when a squirrel could carry a nut from tree to tree from Rivendell to the Great Sea...''".<ref>{{FR|Council}}</ref> Nearly all of [[Eriador]] was one huge forest and part of the Entish domain. Some Ents passed into [[East Beleriand]] and perhaps [[Tasarinan]].<ref name=treebeard/> An Ent-host showed up near [[Dolmed]] and helped [[Beren]] against the [[Dwarves of Nogrod]] who [[battle in the Thousand Caves|sacked]] [[Doriath]] and slew King [[Thingol]]; the Dwarves were driven to the shadow woods of [[Blue Mountains|Ered Lindon]] and no-one managed to exit.<ref>{{L|248}}</ref><ref>{{S|Doriath}}</ref>
+
+[[File:Luca Bonatti - Farewell to Fangorn.jpg|left|thumb|''Farewell to Fangorn'' by [[:Category:Images by Luca Bonatti|Luca Bonatti]]]]
+There used to be ''[[Entwives]]'', but during the [[First Age|First]] or the [[Second Age]]s they started to move farther away from the Ents because they liked to plant and control small things like vegetables, grass and flowers while the male Ents tended the larger trees of the great forest.<ref name=guide/> The Entwives passed the [[Anduin]] and went to the region that would later become the [[Brown Lands]]. After Morgoth was overthrown, their gardens blossomed and they taught [[Men]] agriculture who honoured them.<ref name=treebeard/> 
+
+But a time came in the [[Second Age]] when these immense forests were cut by the [[Númenóreans]]<ref>{{UT|Aldarion}}</ref> or destroyed in the calamitous [[War of the Elves and Sauron]] during the 17th century of that Age. The shrinking of the forest solidified their separation from the Entwives. The Fangorn Forest was just the Eastern End of that immense forest, and one of its small remnants. The gardens of the Entwives were destroyed by [[Sauron]], and they disappeared. The Ents looked for them in vain and it is sung by the Ents that one day they will find each other but there is very scarce hope that they survived.<ref name="L|144">{{L|144}}</ref>
+
+In the [[Third Age]], the [[Fangorn Forest]] was apparently the only place Ents still inhabited, although the Ent-like [[Huorns]] may still have survived elsewhere, as in the [[Old Forest]]. The Ents grew old without hope of having [[Entings]] without the Entwives. Some grew 'treeish' and ceased moving or speaking.<ref name=guide/> 
+
+[[Halfast Gamgee]] reportedly encountered a "Tree-man" near [[the Shire]].<ref>{{FR|Shadow}}</ref> However, it was never learned whether the "Tree-Man" was an Ent, an Entwife, or just a story.
+
+=== Last March ===
+[[File:John Howe - The Ents Destroy Isengard.jpg|thumb|''The Ents Destroy Isengard'' by [[John Howe]]]]
+{{quote|The Ents are going to war!|[[Treebeard]]}}
+About {{TA|2950}},{{fact}}[[Saruman]]'s armies began harassing the few remaining Ents and cutting down large numbers of their trees. During the [[War of the Ring]] the Ents&mdash;usually a very patient, deliberate people&mdash;were spurred by [[Meriadoc Brandybuck]] and [[Peregrin Took]]. They convened an ''[[Entmoot]]'', a meeting of the Ents at [[Derndingle]].<ref name=treebeard/>
+
+After lengthy deliberation (though from the perspective of the Ents, this was very quick action), they marched on Saruman's fortress at [[Isengard]]: the last march of the Ents.  They were led by Treebeard, the oldest Ent, and accompanied by the [[Hobbits]] Merry and Pippin. They [[Battle of Isengard|destroyed Isengard]] in an all-out assault and trapped Saruman in the tower of [[Orthanc]]. They flooded [[Nan Curunír]] and transformed it into a forested area which they called [[Treegarth of Orthanc]].<ref>{{TT|Voice}}</ref>
+
+Not only that, but a few days later, they defended [[Rohan]] when [[Eastemnet]] was invaded by hostile forces.<ref>{{App|Great}}</ref>
+
+Following the reunification of [[Arnor]] and [[Gondor]], Treegarth became a part of the [[Reunited Kingdom]] and [[Aragorn|King Elessar]] declared it an Entish realm, granting the Ents complete self-governance.<ref name=partings>{{RK|Partings}}</ref>
+
+The Ents remained in Fangorn where they probably dwindled in the following [[Ages]],<ref name=guide/> but [[Galadriel]] wished to Treebeard that they would meet again in Tasarinan, when Beleriand is lifted again from the waves, in [[Arda Healed|Spring]].<ref name=partings/>
+
+==Characteristics==
+[[File:Ted Nasmith - The Tree Shepherds.jpg|right|thumb|''The Tree Shepherds'' by [[Ted Nasmith]]]]
+Ents were 14-foot tall creatures like humanoid trees with very thick skin resembling tree bark. They resembled the trees that they shepherded. An individual Ent more or less resembled the specific species of tree that they typically guarded or honoured, to the point of the personality one might expect from that tree.<ref name=guide/> Thus they varied in height and size, colouring, and in number of fingers and toes. For example, [[Quickbeam]] guarded [[Rowans|rowan]] trees and thus looked very much like a rowan.
+
+There were trees that were awake or half-awake, and some were ''entish'' and Ents could awake or talk with some of them. Treebeard aroused some [[Huorns]] to destroy Isengard.<ref>{{TT|Flotsam}}</ref>
+
+Ents were dwelling in [[Ent-houses]] and were nourished by [[Ent-draughts]]. They were [[immortality|immortal]] (although they could be damaged or killed with sufficient force) and along with it, they were deliberate and slow in thought, decision and action. Their slow, long-winded language reflected this; of other languages they preferred [[Quenya]], which they also spoke in an agglutinating, long-winded way like Entish.
+
+However, once aroused, they possessed great strength, which resembled the age-long action of trees accelerated, crushing rocks and moving earth in seconds.<ref name=guide/> Though susceptible to pain, their thick skin made them very difficult to harm with metal weapons<ref>{{TT|Flotsam}}, p. 567</ref> (they are much more vulnerable to fire). Treebeard boasted that they were much more powerful than [[Trolls]], which [[Morgoth]] supposedly made as imitations of the Ents (he compares this with how [[Orcs]] were an imitation of [[Elves]]).<ref name=tt486>{{TT|Treebeard}}, p. 486</ref>
+
+The length of an ent-stride was about 4 feet. With about 2.2 strides per second, an Ent could cover a speed of about 6 miles per hour<ref>Tolkien's calculations in [[Marquette]] paper MSS 4/2/19{{fact}}</ref>
+
+==Etymology==
+{{seealso|etten}}
+''Ent'' is supposed to represent a name for a member of this race in the languages of the [[Vales of Anduin]], including in the language of Rohan.<ref name=Nomenclature>{{HM|N}}, entry '''Ent''', p. 756</ref>
+
+The word ''Ent'' is derived from [[Old English]] ''[[wiktionary:ent#Old English|ent]]'', meaning "giant", although the Ents were unrelated to the [[giants]] or the [[Wikipedia:Jötunn|jotuns]] from Germanic mythology.<ref name=Nomenclature/><ref>{{HM|SG}}, "Appendix C: Old English Poem of Attila", p. 376 (note 17)</ref> It has been noted that ''ent'' "probably means some kind of giant", but that the exact usage or meaning of the word in Old English is unknown.<ref>[[Michael D.C. Drout]], "[http://oenewsletter.org/OEN/archive.php/essays/drout37_3/ An Anglo-Saxonist Gets his Fifteen Minutes: or, what happens when the media briefly pay attention]" at [http://www.oenewsletter.org/OEN/index.php ''Old English Newsletter'' Online] (accessed 10 March 2011)</ref> Tolkien wrote in [[Letter 163|a letter]] to [[W.H. Auden]] that the Ents "owe their name to the ''eald enta geweorc'' of Anglo-Saxon, and their connexion with stone", in reference to a line meaning "the old creations of giants" from the Anglo-Saxon poem ''[https://en.wikipedia.org/wiki/The_Wanderer_(Old_English_poem) The Wanderer]''.<ref name=":0" />
+
+==Other names==
+The [[Sindarin]] name for Ents,<ref name=Words>{{PE|17}}, entry S '''Onodrim''', p. 83</ref><ref>{{HM|N}}, entry '''Ent''', p. 757</ref> as a race,<ref name="L|144"/><ref name=L168>{{L|168}}</ref> is '''''Onodrim'''''<ref>{{TT|Riders}}, p. 442</ref><ref>{{TT|White}}, p. 499</ref><ref>{{App|Other}}, p. 1130</ref> ("Ent-folk"),<ref name=Words/> and as individuals ''Onod'' (pl. ''Enyd'').<ref name=L168/>
+
+The [[Quenya]] name of the Ents is possibly '''''Onyalië''''', with the individual being *''[[Onya]]''.<ref name=onyalia>[http://web.archive.org/web/20160309231539/http://pa2rick.com/langlab/anaxartaron.html Analysis] of the phrase ''[[Anaxartaron Onyalië]]'' by [[Patrick H. Wynne]]</ref>
+
+Saruman referred to the Ents as Wood-Demons.<ref>{{TT|Voice}}, p. 582</ref>
+
+==Inspiration==
+At several points, Tolkien specifically stated that the Ents were a spontaneous invention while writing [[Treebeard (chapter)]], without any recollection of previous thought or premeditation.<ref name=L247>{{L|247}}</ref><ref>{{L|162}}</ref><ref>{{L|180}}</ref> 
+
+In another point, Tolkien admitted that the Ents perhaps had a remote influence from the animate trees of the Fairy Land in [[George MacDonald]]'s ''[[Phantastes]]''.<ref>[[J.R.R. Tolkien]], "[[Letter to L.M. Cutts]]" (letter), ''[[Sotheby's English Literature, History, Fine Bindings, Private Press Books, Children's Books, Illustrated Books and Drawings 10 July 2003]]''</ref> In [[Letter 163|a letter]] to [[W.H. Auden]], Tolkien wrote that he did not consciously invent the Ents, but felt that, looking back, they were "composed of philology, literature, and life", and noted that they were perhaps borne from his own frustration with [[wikipedia:William Shakespeare|Shakespeare]]'s ''[[wikipedia:Macbeth|Macbeth]]'': "Their part in the story is due, I think, to my bitter disappointment and disgust from schooldays with the shabby use made in Shakespeare of the coming of 'Great Birnam wood to high Dunsinane hill'".<ref name=":0">{{L|163}}</ref>
+
+==Portrayal in adaptations==
+<center><gallery perrow="4">
+File:The Lord of the Rings - The Two Towers - Treebeard.jpeg|<center>[[Treebeard]] from [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+File:Jeff Murchie - Ent.png|<center>''[[The Lord of the Rings Online]]''
+</gallery></center>
+
+'''2001-03: [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]:'''
+:Ents in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]] were portrayed as, perhaps, more tree-ish than in the books. For example, the books describe them as having smooth skin;<ref>{{TT|Treebeard}}, p. 480</ref> the movie has them with skin like thick and rough bark. In the movie adaptation, the Ents at the Entmoot decide that this is "not our war", despite strong protest from Merry.  The scene is also shorter, cutting out [[Bregalad]] completely; Treebeard is the only Ent who is named and speaks on screen.
+
+:Treebeard is about to take them north to the border, when Pippin insists that they go South instead, because "''the closer we are to danger, the farther we are from harm''". This "does not make sense" to Treebeard, but he does as they ask, and sees the ruin and destruction that Saruman has wrought on southern Fangorn.  Treebeard then calls the Ents to battle with his booming Ent-call, and they appear out of the forest as if they had been standing there waiting for it. That they do not know the borders of their own forest is another possible logical gap. But others have accepted Jackson's technique as valid, because of the seemingly minor actions of Merry and Pippin throughout The Two Towers.
+
+'''2003: [[The Lord of the Rings: The Return of the King (video game)|''The Lord of the Rings: The Return of the King'' (video game)]]:'''
+:Multiple Ents make appearances during the Fangorn Forest mission, destroying Saruman's Uruks fleeing from [[Helm's Deep]], although as non-playable characters.
+
+'''2003: ''[[The Lord of the Rings: War of the Ring|Sierra's War of the Ring]]'':'''
+:A Summoned Ent is the strongest magic power available to the Free Peoples; an Ent's strength is equal only to the [[Balrogs|Balrog]] on the Evil site.
+
+'''2004: ''[[The Lord of the Rings: The Battle for Middle-earth]]'':'''
+:In the storyline missions, Ents are assisting Merry and Pippin in the escape from the Uruks as well as destroying Isengard concurrent with the Battle of Helm's Deep. In the skirmish mode, Ents can be summoned both as a "Magic" power by all free peoples and as permanent units by the Rohan faction.
+
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Ents are units of the Elven faction and can be summoned in battles. 
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Before the release of the ''[[The Lord of the Rings Online: Rise of Isengard|Rise of Isengard]]'' expansion, the only Ent appearing in the game was the one called Longbough, who could be found in the Eavespires in [[Evendim]].<ref>[http://lotro-wiki.com/index.php/Longbough Longbough] at [http://lotro-wiki.com/index.php/Main_Page Lotro-wiki.com] (accessed 23 September 2011)</ref> The ''Rise of Isengard'' expansion and subsequent updates introduced more Ent characters, among them [[Quickbeam]], Gnarlstump, Thickbark, Greylimb, and Twistroot. A creature similar to Ents is called ''Bog-lurker'', said to have assisted the Ents in shepherding the trees.<ref>[http://lorebook.lotro.com/wiki/Monster:Bog-lurker Monster: Bog-lurker] at [http://lorebook.lotro.com/wiki/Lorebook_home Lorebook.Lotro.com] (accessed 23 September 2011)</ref>
+
+'''2009: ''[[The Lord of the Rings: Conquest]]'':'''
+:Ents are featured in the game as playable characters, with their appearance being based on that of [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]].
+
+'''2013: ''[[Lego The Lord of the Rings: The Video Game]]'':'''
+:The role of the Ents is largely the same as in the film series. Notably, to accommodate two-player gameplay, Merry is carried by an unidentified second Ent during the Last March of the Ents instead of by Treebeard with Pippin.
+
+'''2024: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:Season 2 introduces the Ent [[Snaggleroot]] and the Entwife [[Winterbloom]].
+
+{{references|notes}}
+{{ents}}
+[[Category:Incarnates]]
+[[Category:Races]]
+[[de:Ents]]
+[[fr:encyclo/peuples/ents/ents]]
+[[fi:Entit]]

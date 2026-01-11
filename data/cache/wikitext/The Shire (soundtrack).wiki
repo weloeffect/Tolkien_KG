@@ -1,0 +1,18 @@
+{{disambig-more|Shire|[[Shire (disambiguation)]]}}
+{{song
+| title=The Shire
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=2:29
+| track=Disc 1 Track 2
+| previous=[[Prologue: One Ring to Rule Them All]]
+| next=[[Bag End (soundtrack)|Bag End]]
+| spotify=https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD
+}}
+'''The Shire''' is the second track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+{{title}}
+{{DEFAULTSORT:1.02}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

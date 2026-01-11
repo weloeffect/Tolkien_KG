@@ -1,0 +1,833 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/A_Conspiracy_Unmasked> a schema:WebPage ;
+    rdfs:label "A Conspiracy Unmasked"@en ;
+    schema:about <http://localhost:8000/resource/A_Conspiracy_Unmasked> .
+
+<http://localhost:8000/page/A_Journey_in_the_Dark> a schema:WebPage ;
+    rdfs:label "A Journey in the Dark"@en ;
+    schema:about <http://localhost:8000/resource/A_Journey_in_the_Dark> .
+
+<http://localhost:8000/page/A_Knife_in_the_Dark> a schema:WebPage ;
+    rdfs:label "A Knife in the Dark"@en ;
+    schema:about <http://localhost:8000/resource/A_Knife_in_the_Dark> .
+
+<http://localhost:8000/page/A_Long-expected_Party> a schema:WebPage ;
+    rdfs:label "A Long-expected Party"@en ;
+    schema:about <http://localhost:8000/resource/A_Long-expected_Party> .
+
+<http://localhost:8000/page/A_Short_Cut_to_Mushrooms> a schema:WebPage ;
+    rdfs:label "A Short Cut to Mushrooms"@en ;
+    schema:about <http://localhost:8000/resource/A_Short_Cut_to_Mushrooms> .
+
+<http://localhost:8000/page/A_Short_Rest> a schema:WebPage ;
+    rdfs:label "A Short Rest"@en ;
+    schema:about <http://localhost:8000/resource/A_Short_Rest> .
+
+<http://localhost:8000/page/A_Thief_in_the_Night> a schema:WebPage ;
+    rdfs:label "A Thief in the Night"@en ;
+    schema:about <http://localhost:8000/resource/A_Thief_in_the_Night> .
+
+<http://localhost:8000/page/A_Warm_Welcome> a schema:WebPage ;
+    rdfs:label "A Warm Welcome"@en ;
+    schema:about <http://localhost:8000/resource/A_Warm_Welcome> .
+
+<http://localhost:8000/page/Ainulindal%C3%AB> a schema:WebPage ;
+    rdfs:label "Ainulindalë"@en ;
+    schema:about <http://localhost:8000/resource/Ainulindal%C3%AB> .
+
+<http://localhost:8000/page/An_Unexpected_Party> a schema:WebPage ;
+    rdfs:label "An Unexpected Party"@en ;
+    schema:about <http://localhost:8000/resource/An_Unexpected_Party> .
+
+<http://localhost:8000/page/At_the_Sign_of_the_Prancing_Pony> a schema:WebPage ;
+    rdfs:label "At the Sign of the Prancing Pony"@en ;
+    schema:about <http://localhost:8000/resource/At_the_Sign_of_the_Prancing_Pony> .
+
+<http://localhost:8000/page/Barrels_Out_of_Bond> a schema:WebPage ;
+    rdfs:label "Barrels Out of Bond"@en ;
+    schema:about <http://localhost:8000/resource/Barrels_Out_of_Bond> .
+
+<http://localhost:8000/page/Farewell_to_L%C3%B3rien> a schema:WebPage ;
+    rdfs:label "Farewell to Lórien"@en ;
+    schema:about <http://localhost:8000/resource/Farewell_to_L%C3%B3rien> .
+
+<http://localhost:8000/page/Fire_and_Water> a schema:WebPage ;
+    rdfs:label "Fire and Water"@en ;
+    schema:about <http://localhost:8000/resource/Fire_and_Water> .
+
+<http://localhost:8000/page/Flies_and_Spiders> a schema:WebPage ;
+    rdfs:label "Flies and Spiders"@en ;
+    schema:about <http://localhost:8000/resource/Flies_and_Spiders> .
+
+<http://localhost:8000/page/Flight_to_the_Ford> a schema:WebPage ;
+    rdfs:label "Flight to the Ford"@en ;
+    schema:about <http://localhost:8000/resource/Flight_to_the_Ford> .
+
+<http://localhost:8000/page/Fog_on_the_Barrow-downs> a schema:WebPage ;
+    rdfs:label "Fog on the Barrow-downs"@en ;
+    schema:about <http://localhost:8000/resource/Fog_on_the_Barrow-downs> .
+
+<http://localhost:8000/page/Helm%27s_Deep_%28chapter%29> a schema:WebPage ;
+    rdfs:label "Helm's Deep (chapter)"@en ;
+    schema:about <http://localhost:8000/resource/Helm%27s_Deep_%28chapter%29> .
+
+<http://localhost:8000/page/In_the_House_of_Tom_Bombadil> a schema:WebPage ;
+    rdfs:label "In the House of Tom Bombadil"@en ;
+    schema:about <http://localhost:8000/resource/In_the_House_of_Tom_Bombadil> .
+
+<http://localhost:8000/page/Inside_Information> a schema:WebPage ;
+    rdfs:label "Inside Information"@en ;
+    schema:about <http://localhost:8000/resource/Inside_Information> .
+
+<http://localhost:8000/page/Lothl%C3%B3rien_%28chapter%29> a schema:WebPage ;
+    rdfs:label "Lothlórien (chapter)"@en ;
+    schema:about <http://localhost:8000/resource/Lothl%C3%B3rien_%28chapter%29> .
+
+<http://localhost:8000/page/Many_Meetings> a schema:WebPage ;
+    rdfs:label "Many Meetings"@en ;
+    schema:about <http://localhost:8000/resource/Many_Meetings> .
+
+<http://localhost:8000/page/Not_at_Home> a schema:WebPage ;
+    rdfs:label "Not at Home"@en ;
+    schema:about <http://localhost:8000/resource/Not_at_Home> .
+
+<http://localhost:8000/page/On_the_Doorstep> a schema:WebPage ;
+    rdfs:label "On the Doorstep"@en ;
+    schema:about <http://localhost:8000/resource/On_the_Doorstep> .
+
+<http://localhost:8000/page/Out_of_the_Frying-Pan_into_the_Fire> a schema:WebPage ;
+    rdfs:label "Out of the Frying-Pan into the Fire"@en ;
+    schema:about <http://localhost:8000/resource/Out_of_the_Frying-Pan_into_the_Fire> .
+
+<http://localhost:8000/page/Over_Hill_and_Under_Hill> a schema:WebPage ;
+    rdfs:label "Over Hill and Under Hill"@en ;
+    schema:about <http://localhost:8000/resource/Over_Hill_and_Under_Hill> .
+
+<http://localhost:8000/page/Queer_Lodgings> a schema:WebPage ;
+    rdfs:label "Queer Lodgings"@en ;
+    schema:about <http://localhost:8000/resource/Queer_Lodgings> .
+
+<http://localhost:8000/page/Riddles_in_the_Dark> a schema:WebPage ;
+    rdfs:label "Riddles in the Dark"@en ;
+    schema:about <http://localhost:8000/resource/Riddles_in_the_Dark> .
+
+<http://localhost:8000/page/Roast_Mutton> a schema:WebPage ;
+    rdfs:label "Roast Mutton"@en ;
+    schema:about <http://localhost:8000/resource/Roast_Mutton> .
+
+<http://localhost:8000/page/Strider_%28chapter%29> a schema:WebPage ;
+    rdfs:label "Strider (chapter)"@en ;
+    schema:about <http://localhost:8000/resource/Strider_%28chapter%29> .
+
+<http://localhost:8000/page/The_Breaking_of_the_Fellowship> a schema:WebPage ;
+    rdfs:label "The Breaking of the Fellowship"@en ;
+    schema:about <http://localhost:8000/resource/The_Breaking_of_the_Fellowship> .
+
+<http://localhost:8000/page/The_Bridge_of_Khazad-d%C3%BBm> a schema:WebPage ;
+    rdfs:label "The Bridge of Khazad-dûm"@en ;
+    schema:about <http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm> .
+
+<http://localhost:8000/page/The_Clouds_Burst> a schema:WebPage ;
+    rdfs:label "The Clouds Burst"@en ;
+    schema:about <http://localhost:8000/resource/The_Clouds_Burst> .
+
+<http://localhost:8000/page/The_Council_of_Elrond> a schema:WebPage ;
+    rdfs:label "The Council of Elrond"@en ;
+    schema:about <http://localhost:8000/resource/The_Council_of_Elrond> .
+
+<http://localhost:8000/page/The_Departure_of_Boromir> a schema:WebPage ;
+    rdfs:label "The Departure of Boromir"@en ;
+    schema:about <http://localhost:8000/resource/The_Departure_of_Boromir> .
+
+<http://localhost:8000/page/The_Gathering_of_the_Clouds> a schema:WebPage ;
+    rdfs:label "The Gathering of the Clouds"@en ;
+    schema:about <http://localhost:8000/resource/The_Gathering_of_the_Clouds> .
+
+<http://localhost:8000/page/The_Great_River> a schema:WebPage ;
+    rdfs:label "The Great River"@en ;
+    schema:about <http://localhost:8000/resource/The_Great_River> .
+
+<http://localhost:8000/page/The_King_of_the_Golden_Hall> a schema:WebPage ;
+    rdfs:label "The King of the Golden Hall"@en ;
+    schema:about <http://localhost:8000/resource/The_King_of_the_Golden_Hall> .
+
+<http://localhost:8000/page/The_Last_Stage> a schema:WebPage ;
+    rdfs:label "The Last Stage"@en ;
+    schema:about <http://localhost:8000/resource/The_Last_Stage> .
+
+<http://localhost:8000/page/The_Mirror_of_Galadriel> a schema:WebPage ;
+    rdfs:label "The Mirror of Galadriel"@en ;
+    schema:about <http://localhost:8000/resource/The_Mirror_of_Galadriel> .
+
+<http://localhost:8000/page/The_Old_Forest> a schema:WebPage ;
+    rdfs:label "The Old Forest"@en ;
+    schema:about <http://localhost:8000/resource/The_Old_Forest> .
+
+<http://localhost:8000/page/The_Return_Journey> a schema:WebPage ;
+    rdfs:label "The Return Journey"@en ;
+    schema:about <http://localhost:8000/resource/The_Return_Journey> .
+
+<http://localhost:8000/page/The_Riders_of_Rohan> a schema:WebPage ;
+    rdfs:label "The Riders of Rohan"@en ;
+    schema:about <http://localhost:8000/resource/The_Riders_of_Rohan> .
+
+<http://localhost:8000/page/The_Ring_Goes_South> a schema:WebPage ;
+    rdfs:label "The Ring Goes South"@en ;
+    schema:about <http://localhost:8000/resource/The_Ring_Goes_South> .
+
+<http://localhost:8000/page/The_Road_to_Isengard> a schema:WebPage ;
+    rdfs:label "The Road to Isengard"@en ;
+    schema:about <http://localhost:8000/resource/The_Road_to_Isengard> .
+
+<http://localhost:8000/page/The_Shadow_of_the_Past> a schema:WebPage ;
+    rdfs:label "The Shadow of the Past"@en ;
+    schema:about <http://localhost:8000/resource/The_Shadow_of_the_Past> .
+
+<http://localhost:8000/page/The_Uruk-hai> a schema:WebPage ;
+    rdfs:label "The Uruk-hai"@en ;
+    schema:about <http://localhost:8000/resource/The_Uruk-hai> .
+
+<http://localhost:8000/page/The_White_Rider> a schema:WebPage ;
+    rdfs:label "The White Rider"@en ;
+    schema:about <http://localhost:8000/resource/The_White_Rider> .
+
+<http://localhost:8000/page/Three_is_Company> a schema:WebPage ;
+    rdfs:label "Three is Company"@en ;
+    schema:about <http://localhost:8000/resource/Three_is_Company> .
+
+<http://localhost:8000/page/Treebeard_%28chapter%29> a schema:WebPage ;
+    rdfs:label "Treebeard (chapter)"@en ;
+    schema:about <http://localhost:8000/resource/Treebeard_%28chapter%29> .
+
+<http://localhost:8000/resource/A_Conspiracy_Unmasked> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/25_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Meriadoc_Brandybuck> ;
+    tg:image "Abe Papakhian - A Conspiracy Unmasked.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Crickhollow> ;
+    tg:next "The Old Forest"@en ;
+    tg:number "5"@en ;
+    tg:previous "A Short Cut to Mushrooms"@en ;
+    tg:title "A Conspiracy Unmasked"@en .
+
+<http://localhost:8000/resource/A_Journey_in_the_Dark> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:caption <http://localhost:8000/resource/%22West_Gate_of_Moria%22_by_J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/13_January> ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_of_the_Ring> ;
+    tg:image "J.R.R. Tolkien - West Gate of Moria.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Mines_of_Moria> ;
+    tg:next "The Bridge of Khazad-dûm"@en ;
+    tg:number "16"@en ;
+    tg:perspective <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:previous "The Ring Goes South"@en ;
+    tg:title "A Journey in the Dark"@en .
+
+<http://localhost:8000/resource/A_Knife_in_the_Dark> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/30_September-6_October_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Fredegar_Bolger> ;
+    tg:image "Ted Nasmith - Fire on Weathertop.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Crickhollow%2C_Bree%2C_and_Weathertop> ;
+    tg:next "Flight to the Ford"@en ;
+    tg:number "11"@en ;
+    tg:previous "Strider (chapter)"@en ;
+    tg:title "A Knife in the Dark"@en .
+
+<http://localhost:8000/resource/A_Long-expected_Party> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/22_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Bilbo_Baggins_throws_his_111st_birthday_party%3B_Gandalf_arrives_in_Hobbiton%3B_Frodo_Baggins_inherits_the_One_Ring.> ;
+    tg:image "Inger Edelfeldt - A Long Expected Party.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Shire> ;
+    tg:next "The Shadow of the Past"@en ;
+    tg:number "1"@en ;
+    tg:previous "Prologue Concerning Hobbits, and other matters"@en ;
+    tg:title "A Long-expected Party"@en .
+
+<http://localhost:8000/resource/A_Short_Cut_to_Mushrooms> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/25_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Andy Smith - Bamfurlong.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:next "A Conspiracy Unmasked"@en ;
+    tg:number "4"@en ;
+    tg:previous "Three is Company"@en ;
+    tg:title "A Short Cut to Mushrooms"@en .
+
+<http://localhost:8000/resource/A_Short_Rest> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/c._29_May%E2%80%94Midyear%27s_Day%2C_%7B%7BTA> ;
+    tg:events <http://localhost:8000/resource/Thorin_and_Company_reach_Rivendell._Elrond_deciphers_Thr%C3%B3r%27s_Map_and_identifies_their_swords.> ;
+    tg:image "J.R.R. Tolkien - Riding down into Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Trollshaws%2C_Rivendell> ;
+    tg:name "A Short Rest"@en ;
+    tg:next "Over Hill and Under Hill"@en ;
+    tg:number "3"@en ;
+    tg:previous "Roast Mutton"@en .
+
+<http://localhost:8000/resource/A_Thief_in_the_Night> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_Baggins> ;
+    tg:image "Ted Nasmith - The Arkenstone.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Dale> ;
+    tg:next "The Clouds Burst"@en ;
+    tg:number "16"@en ;
+    tg:previous "The Gathering of the Clouds"@en ;
+    tg:title "A Thief in the Night"@en .
+
+<http://localhost:8000/resource/A_Warm_Welcome> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/22_September%E2%80%94c._6_October_%7B%7BTA> ;
+    tg:event "Thorin and Company arrive to Lake-town and spend 2 weeks"@en ;
+    tg:image "J.R.R. Tolkien - Lake Town.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Forest_River%2C_Lake-town> ;
+    tg:next "On the Doorstep"@en ;
+    tg:number "10"@en ;
+    tg:previous "Barrels Out of Bond"@en ;
+    tg:title "A Warm Welcome"@en .
+
+<http://localhost:8000/resource/Ainulindal%C3%AB> a schema:Thing ;
+    tg:book "The Silmarillion"@en ;
+    tg:caption <http://localhost:8000/resource/%27%27Ainulindale%27%27_by_%3ACategory%3AImages_by_Alystraea> ;
+    tg:date <http://localhost:8000/resource/Music_of_the_Ainur> ;
+    tg:event <http://localhost:8000/resource/Creation_of_the_Ainur> ;
+    tg:image "Alystraea - Ainulindale.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Arda> ;
+    tg:next "Valaquenta"@en ;
+    tg:number "1"@en ;
+    tg:title "Ainulindalë"@en .
+
+<http://localhost:8000/resource/An_Unexpected_Party> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:caption <http://localhost:8000/resource/%22One_Morning_Early_in_the_Quiet_of_the_World%22_by_J.R.R._Tolkien> ;
+    tg:centre "53,25"@en ;
+    tg:date <http://localhost:8000/resource/25_April%E2%80%9426_April_%7B%7BTA> ;
+    tg:editor "on"@en ;
+    tg:event <http://localhost:8000/resource/Gandalf_meets_Bilbo_Baggins%3B_the_next_day_Dwarves_visit_his_Smials> ;
+    tg:fullscreen "on"@en ;
+    tg:geojson "The West of Middle-earth at the End of the Third Age"@en ;
+    tg:height "150"@en ;
+    tg:image "J.R.R. Tolkien - One Morning Early in the Quiet of the World.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Bag_End> ;
+    tg:map """{{#display_map: 
+image layers=File:Christopher Tolkien - The West of Middle-earth.png"""@en ;
+    tg:next "Roast Mutton"@en ;
+    tg:number "1"@en ;
+    tg:previous "The Hobbit Preface"@en ;
+    tg:scrollzoom "off"@en ;
+    tg:static "true"@en ;
+    tg:title "An Unexpected Party"@en ;
+    tg:width "auto"@en ;
+    tg:written <http://localhost:8000/resource/Late_1920s> ;
+    tg:zoom "4"@en .
+
+<http://localhost:8000/resource/At_the_Sign_of_the_Prancing_Pony> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/29_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Ted Nasmith - At the Sign of the Prancing Pony.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Prancing_Pony> ;
+    tg:next "Strider (chapter)"@en ;
+    tg:number "9"@en ;
+    tg:previous "Fog on the Barrow-downs"@en ;
+    tg:title "At the Sign of the Prancing Pony"@en .
+
+<http://localhost:8000/resource/Barrels_Out_of_Bond> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/Late_August%E2%80%9422_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Bilbo_helps_Thorin_and_Company_escape_the_Elvenking%27s_dungeons.> ;
+    tg:image "J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (II).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Elvenking%27s_Halls%2C_Forest_River> ;
+    tg:map <http://localhost:8000/resource/File%3AJ.R.R._Tolkien_-_Map_-_Barrels_out_of_bond.png> ;
+    tg:next "A Warm Welcome"@en ;
+    tg:number "9"@en ;
+    tg:previous "Flies and Spiders"@en ;
+    tg:title "Barrels Out of Bond"@en .
+
+<http://localhost:8000/resource/Farewell_to_L%C3%B3rien> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/16_February_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/After_receiving_gifts_from_Galadriel%2C_the_Fellowship_of_the_Ring> ;
+    tg:image "Anke Eißmann - The phial of Galadriel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Lothl%C3%B3rien> ;
+    tg:next "The Great River"@en ;
+    tg:number "20"@en ;
+    tg:previous "The Mirror of Galadriel"@en ;
+    tg:title "Farewell to Lórien"@en .
+
+<http://localhost:8000/resource/Fire_and_Water> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:caption <http://localhost:8000/resource/%22Death_of_Smaug%22_by_J.R.R._Tolkien> ;
+    tg:event <http://localhost:8000/resource/Smaug_descends_upon_Lake-town> ;
+    tg:image "J.R.R. Tolkien - Death of Smaug.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Esgaroth> ;
+    tg:next "The Gathering of the Clouds"@en ;
+    tg:number "14"@en ;
+    tg:previous "Not at Home"@en ;
+    tg:title "Fire and Water"@en .
+
+<http://localhost:8000/resource/Flies_and_Spiders> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/19_July%E2%80%94late_August%3Cref%3E%22A_few_leaves_came_rustling_down_to_remind_them_that_outside_autumn_was_coming_on%22%3C/ref%3E_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Thorin_and_Company_traverse_Mirkwood%2C_encounter_Spiders_and_eventually_are_arrested_by_Thranduil.> ;
+    tg:image "Ted Nasmith - The Spiders of Mirkwood.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Mirkwood_%28Enchanted_River%2C_Elvenking%27s_Halls%29> ;
+    tg:map <http://localhost:8000/resource/File%3AJ.R.R._Tolkien_-_Wilderland_map_%28Mirkwood%29.png> ;
+    tg:next "Barrels Out of Bond"@en ;
+    tg:number "8"@en ;
+    tg:previous "Queer Lodgings"@en ;
+    tg:title "Flies and Spiders"@en .
+
+<http://localhost:8000/resource/Flight_to_the_Ford> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/6_October> ;
+    tg:event <http://localhost:8000/resource/Glorfindel_helps_Frodo_Baggins> ;
+    tg:image "Ted Nasmith - At the Ford.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Ford_of_Bruinen> ;
+    tg:next "Many Meetings"@en ;
+    tg:number "12"@en ;
+    tg:previous "A Knife in the Dark"@en ;
+    tg:title "Flight to the Ford"@en .
+
+<http://localhost:8000/resource/Fog_on_the_Barrow-downs> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/28_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Paul Raymond Gregory - Fog on the Barrow Downs.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Barrow-downs> ;
+    tg:next "At the Sign of the Prancing Pony"@en ;
+    tg:number "8"@en ;
+    tg:previous "In the House of Tom Bombadil"@en ;
+    tg:title "Fog on the Barrow-Downs"@en .
+
+<http://localhost:8000/resource/Helm%27s_Deep_%28chapter%29> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/3_March_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/The_Battle_of_the_Hornburg_is_won_by_Th%C3%A9oden%3B_Saruman%27s_forces_are_defeated.> ;
+    tg:image "John Howe - Helm's Deep.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Helm%27s_Deep> ;
+    tg:map <http://localhost:8000/resource/%3Cimagemap%3E%0AFile%3ALotrProject_-_Helm%27s_Deep_%28chapter%29_-_Map.png> ;
+    tg:next "The Road to Isengard"@en ;
+    tg:number "7"@en ;
+    tg:previous "The King of the Golden Hall"@en ;
+    tg:title "Helm's Deep"@en .
+
+<http://localhost:8000/resource/In_the_House_of_Tom_Bombadil> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/26_September> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Anke Eißmann - In the house of Tom Bombadil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Old_Forest> ;
+    tg:next "Fog on the Barrow-downs"@en ;
+    tg:number "7"@en ;
+    tg:previous "The Old Forest"@en ;
+    tg:title "In the House of Tom Bombadil"@en .
+
+<http://localhost:8000/resource/Inside_Information> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/Durin%27s_Day_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Bilbo_Baggins_enters_Erebor_and_converses_with_Smaug.> ;
+    tg:image "J.R.R. Tolkien - Conversation with Smaug (large).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Back_Door%2C_Great_Hall_of_Thr%C3%A1in%2C_Lonely_Mountain> ;
+    tg:next "Not at Home"@en ;
+    tg:number "12"@en ;
+    tg:previous "On the Doorstep"@en ;
+    tg:title "Inside Information"@en .
+
+<http://localhost:8000/resource/Lothl%C3%B3rien_%28chapter%29> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/15_January> ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_of_the_Ring> ;
+    tg:image "Catherine Chmiel - Lorien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Lothl%C3%B3rien> ;
+    tg:next "The Mirror of Galadriel"@en ;
+    tg:number "18"@en ;
+    tg:perspective <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:previous "The Bridge of Khazad-dûm"@en ;
+    tg:title "Lothlórien"@en .
+
+<http://localhost:8000/resource/Many_Meetings> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/24_October_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Donato Giancola - Rivendell - Recovery.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:next "The Council of Elrond"@en ;
+    tg:number "13"@en ;
+    tg:previous "Flight to the Ford"@en ;
+    tg:title "Many Meetings"@en .
+
+<http://localhost:8000/resource/Not_at_Home> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_finds_the_Arkenstone%3Cbr_/%3EThorin_gives_a_shirt_of_mithril_to_Bilbo%3Cbr_/%3EThorin_and_Company_escape_the_Lonely_Mountain> ;
+    tg:image "Donato Giancola - The Arkenstone.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Great_Hall_of_Thr%C3%A1in%3Cbr_/%3EGreat_Chamber_of_Thr%C3%B3r%3Cbr_/%3EErebor%3Cbr_/%3EDesolation_of_the_Dragon> ;
+    tg:next "Fire and Water"@en ;
+    tg:number "13"@en ;
+    tg:previous "Inside Information"@en ;
+    tg:title "Not at Home"@en .
+
+<http://localhost:8000/resource/On_the_Doorstep> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/c._October_7%E2%80%94Durin%27s_Day_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Thorin_and_Company_reach_Erebor> ;
+    tg:image "J.R.R. Tolkien - The Back Door.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Lake-town%2C_River_Running%2C_ruins_of_Dale%2C_Ravenhill%2C_Lonely_Mountain> ;
+    tg:map <http://localhost:8000/resource/File%3AJ.R.R._Tolkien_-_Map_-_Doorstep_route.png> ;
+    tg:next "Inside Information"@en ;
+    tg:number "11"@en ;
+    tg:previous "A Warm Welcome"@en ;
+    tg:title "On the Doorstep"@en .
+
+<http://localhost:8000/resource/Out_of_the_Frying-Pan_into_the_Fire> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/Mersday> ;
+    tg:event <http://localhost:8000/resource/Thorin_and_Company_escape_Goblin-town_and_are_taken_by_the_Eagles> ;
+    tg:image "J.R.R. Tolkien - Bilbo woke with the early sun in his eyes.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Goblin-gate%2C_Eagle%27s_Eyrie> ;
+    tg:next "Queer Lodgings"@en ;
+    tg:number "6"@en ;
+    tg:previous "Riddles in the Dark"@en ;
+    tg:title "Out of the Frying-Pan into the Fire"@en .
+
+<http://localhost:8000/resource/Over_Hill_and_Under_Hill> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/Midyear%27s_Day%E2%80%9410_July_%7B%7BTA> ;
+    tg:events <http://localhost:8000/resource/Thorin_and_Company_ascent_the_Misty_Mountains_and_are_captured_by_goblins> ;
+    tg:image "J.R.R. Tolkien - The Mountain-path.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Rivendell%2C_Misty_Mountains%2C_Goblin-town> ;
+    tg:next "Riddles in the Dark"@en ;
+    tg:number "4"@en ;
+    tg:previous "A Short Rest"@en ;
+    tg:title "Over Hill and Under Hill"@en .
+
+<http://localhost:8000/resource/Queer_Lodgings> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/13_July> ;
+    tg:event <http://localhost:8000/resource/Thorin_and_Company_are_hosted_by_Beorn> ;
+    tg:image "J.R.R. Tolkien - Beorn's Hall.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Eagle%27s_Eyrie%2C_Carrock%2C_Beorn%27s_Hall%2C_Forest_Gate> ;
+    tg:map <http://localhost:8000/resource/File%3AJ.R.R._Tolkien_-_Wilderland_map_%28Carrock%29.png> ;
+    tg:next "Flies and Spiders"@en ;
+    tg:number "7"@en ;
+    tg:previous "Out of the Frying-Pan into the Fire"@en ;
+    tg:title "Queer Lodgings"@en .
+
+<http://localhost:8000/resource/Riddles_in_the_Dark> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/10_July> ;
+    tg:event <http://localhost:8000/resource/Bilbo_finds_The_One_Ring_and_meets_Gollum> ;
+    tg:image "David T. Wenzel - Bilbo finds the One Ring.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Gollum%27s_lake> ;
+    tg:names "Riddles in the Dark"@en ;
+    tg:next "Out of the Frying-Pan into the Fire"@en ;
+    tg:number "5"@en ;
+    tg:previous "Over Hill and Under Hill"@en ;
+    tg:title "Riddles in the Dark"@en .
+
+<http://localhost:8000/resource/Roast_Mutton> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:date <http://localhost:8000/resource/27_April> ;
+    tg:event <http://localhost:8000/resource/Quest_of_Erebor_begins%3B_Thorin_and_Company_encounter_the_three_Trolls%3B_they_discover_Glamdring%2C_Orcrist_and_Sting> ;
+    tg:image "J.R.R. Tolkien - The Three Trolls are turned to Stone (Colored by H.E. Riddett).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Bag_End%2C_Bywater%2C_Bree-land_%28not_mentioned%29%2C_Trollshaws> ;
+    tg:next "A Short Rest"@en ;
+    tg:number "2"@en ;
+    tg:previous "An Unexpected Party"@en ;
+    tg:title "Roast Mutton"@en .
+
+<http://localhost:8000/resource/Strider_%28chapter%29> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/29_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Matt Stewart - Strider.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Prancing_Pony> ;
+    tg:next "A Knife in the Dark"@en ;
+    tg:number "10"@en ;
+    tg:previous "At the Sign of the Prancing Pony"@en ;
+    tg:title "Strider"@en .
+
+<http://localhost:8000/resource/The_Breaking_of_the_Fellowship> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/26_February_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "John Howe - Good Sense Revolts.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Amon_Hen_and_the_Anduin> ;
+    tg:next "The Departure of Boromir"@en ;
+    tg:number "22"@en ;
+    tg:perspective <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:previous "The Great River"@en ;
+    tg:title "The Breaking of the Fellowship"@en .
+
+<http://localhost:8000/resource/The_Bridge_of_Khazad-d%C3%BBm> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:caption <http://localhost:8000/resource/%22The_Shadow_and_the_Flame%22_by_%3ACategory%3AImages_by_Martin_Mottet> ;
+    tg:date <http://localhost:8000/resource/15_January_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Gandalf_is_pulled_into_a_chasm_by_Durin%27s_Bane%3B_the_Fellowship_of_the_Ring> ;
+    tg:image "Martin Mottet - The Shadow and the Flame.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Mines_of_Moria> ;
+    tg:next "Lothlórien (chapter)"@en ;
+    tg:number "17"@en ;
+    tg:perspective <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:previous "A Journey in the Dark"@en ;
+    tg:title "The Bridge of Khazad-dûm"@en .
+
+<http://localhost:8000/resource/The_Clouds_Burst> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:event <http://localhost:8000/resource/The_Battle_of_the_Five_Armies_begins%3B_Bilbo_is_hit_in_the_head_with_a_rock.> ;
+    tg:image "Alan Lee - The Battle of the Five Armies.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Ravenhill> ;
+    tg:next "The Return Journey"@en ;
+    tg:number "17"@en ;
+    tg:previous "A Thief in the Night"@en ;
+    tg:title "The Clouds Burst"@en .
+
+<http://localhost:8000/resource/The_Council_of_Elrond> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/25_October_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/The_Council_of_Elrond_is_held%3B_Frodo_Baggins> ;
+    tg:image "Peter Xavier Price - The Lord of Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:next "The Ring Goes South"@en ;
+    tg:number "14"@en ;
+    tg:perspective <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:previous "Many Meetings"@en ;
+    tg:title "The Council of Elrond"@en .
+
+<http://localhost:8000/resource/The_Departure_of_Boromir> a schema:Thing ;
+    tg:audio "<spotify>track/1TQt4HebQk9BOLBiYh6XMz</spotify>"@en ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/26_February_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Aragorn%2C_Legolas%2C_and_Gimli_discover_that_Boromir_has_died%3B_they_send_him_down_the_Anduin> ;
+    tg:image "Ted Nasmith - The Last Words of Boromir.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Amon_Hen> ;
+    tg:next "The Riders of Rohan"@en ;
+    tg:number "1"@en ;
+    tg:perspective <http://localhost:8000/resource/Aragorn> ;
+    tg:previous "The Breaking of the Fellowship"@en ;
+    tg:title "The Departure of Boromir"@en .
+
+<http://localhost:8000/resource/The_Gathering_of_the_Clouds> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:event <http://localhost:8000/resource/Bard_confronts_Thorin_at_the_Front_Gate.> ;
+    tg:image "Alan Lee - The Gathering of the Clouds.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Dale%2C_Erebor%2C_Front_Gate> ;
+    tg:next "A Thief in the Night"@en ;
+    tg:number "15"@en ;
+    tg:previous "Fire and Water"@en ;
+    tg:title "The Gathering of the Clouds"@en .
+
+<http://localhost:8000/resource/The_Great_River> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/17_February> ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_of_the_Ring> ;
+    tg:image "Ralph Damiani - Across Middle-earth - The Great River.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Anduin> ;
+    tg:next "The Breaking of the Fellowship"@en ;
+    tg:number "21"@en ;
+    tg:previous "Farewell to Lórien"@en ;
+    tg:title "The Great River"@en .
+
+<http://localhost:8000/resource/The_King_of_the_Golden_Hall> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/2_March_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Gandalf_comes_to_the_Meduseld> ;
+    tg:image "Angelo Montanini - Theoden and Eowyn.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Edoras> ;
+    tg:map <http://localhost:8000/resource/%3Cimagemap%3E%0AFile%3ALotrProject_-_The_King_of_the_Golden_Hall_-_Map.png> ;
+    tg:next "Helm's Deep (chapter)"@en ;
+    tg:number "6"@en ;
+    tg:previous "The White Rider"@en ;
+    tg:title "The King of the Golden Hall"@en .
+
+<http://localhost:8000/resource/The_Last_Stage> a schema:Thing ;
+    tg:book "The Hobbit"@en ;
+    tg:event <http://localhost:8000/resource/Bilbo_Baggins> ;
+    tg:image "J.R.R. Tolkien - The Hall at Bag-End.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Rivendell%3Cbr_/%3EThe_Wild%3Cbr_/%3EThe_Shire> ;
+    tg:number "19"@en ;
+    tg:previous "The Return Journey"@en ;
+    tg:title "The Last Stage"@en .
+
+<http://localhost:8000/resource/The_Mirror_of_Galadriel> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/15_February_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_of_the_Ring> ;
+    tg:image "Alan Lee - The Mirror of Galadriel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Lothl%C3%B3rien> ;
+    tg:next "Farewell to Lórien"@en ;
+    tg:number "19"@en ;
+    tg:perspective <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:previous "Lothlórien (chapter)"@en ;
+    tg:title "The Mirror of Galadriel"@en .
+
+<http://localhost:8000/resource/The_Return_Journey> a schema:Thing ;
+    tg:1 "left"@en ;
+    tg:2 "thumb"@en ;
+    tg:book "The Hobbit"@en ;
+    tg:image "Darrell Sweet - The Death of Thorin Oakenshield.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Ravenhill_and_Dale> ;
+    tg:next "The Last Stage"@en ;
+    tg:number "18"@en ;
+    tg:previous "The Clouds Burst"@en ;
+    tg:title "The Return Journey"@en .
+
+<http://localhost:8000/resource/The_Riders_of_Rohan> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/30_February_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Aragorn%2C_Legolas%2C_and_Gimli_search_for_their_companions_and_meet_%C3%89omer.> ;
+    tg:image "Allen Morris - The Road to Rohan.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Rohan> ;
+    tg:next "The Uruk-hai"@en ;
+    tg:number "2"@en ;
+    tg:previous "The Departure of Boromir"@en ;
+    tg:title "The Riders of Rohan"@en .
+
+<http://localhost:8000/resource/The_Ring_Goes_South> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/25_October_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/The_Fellowship_of_the_Ring_is_formed%3B_Frodo_Baggins_sets_out_for_Mordor.> ;
+    tg:image "Ted Nasmith - The Company Attempts the Pass of Caradhras.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Eregion> ;
+    tg:next "A Journey in the Dark"@en ;
+    tg:number "15"@en ;
+    tg:previous "The Council of Elrond"@en ;
+    tg:title "The Ring Goes South"@en .
+
+<http://localhost:8000/resource/The_Road_to_Isengard> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/4_March> ;
+    tg:event <http://localhost:8000/resource/King_Th%C3%A9oden_and_Gandalf_ride_to_Isengard_and_meet_Meriadoc_Brandybuck> ;
+    tg:image "Ted Nasmith - The Riders of Rohan.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Isengard> ;
+    tg:map <http://localhost:8000/resource/%3Cimagemap%3E%0AFile%3ALotrProject_-_Helm%27s_Deep_%28chapter%29_-_Map.png> ;
+    tg:next "Flotsam and Jetsam"@en ;
+    tg:number "8"@en ;
+    tg:previous "Helm's Deep (chapter)"@en ;
+    tg:title "The Road to Isengard"@en .
+
+<http://localhost:8000/resource/The_Shadow_of_the_Past> a schema:Thing ;
+    tg:1 "250px"@en ;
+    tg:2 "<nowiki>]]</nowiki>"@en ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Gandalf_tells_Frodo_Baggins> ;
+    tg:image "Matt Stewart - The Shadow of the Past.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Bag_End> ;
+    tg:next "Three is Company"@en ;
+    tg:number "2"@en ;
+    tg:previous "A Long-expected Party"@en ;
+    tg:title "The Shadow of the Past"@en ;
+    tg:written <http://localhost:8000/resource/1938> .
+
+<http://localhost:8000/resource/The_Uruk-hai> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/27_February> ;
+    tg:event <http://localhost:8000/resource/Meriadoc_Brandybuck> ;
+    tg:image "Inger Edelfeldt - Pippin and Merry Captured by Orcs.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Rohan> ;
+    tg:next "Treebeard (chapter)"@en ;
+    tg:number "3"@en ;
+    tg:perspective <http://localhost:8000/resource/Peregrin_Took> ;
+    tg:previous "The Riders of Rohan"@en ;
+    tg:title "The Uruk-hai"@en .
+
+<http://localhost:8000/resource/The_White_Rider> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:date <http://localhost:8000/resource/1_March_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Aragorn%2C_Gimli%2C_and_Legolas_meet_Gandalf_after_his_transformation.> ;
+    tg:image "Peter Xavier Price - The White Rider.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Fangorn_Forest> ;
+    tg:next "The King of the Golden Hall"@en ;
+    tg:number "5"@en ;
+    tg:previous "Treebeard (chapter)"@en ;
+    tg:title "The White Rider"@en .
+
+<http://localhost:8000/resource/Three_is_Company> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/23_September> ;
+    tg:event <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:image "Peter Xavier Price - Meeting with the Elves.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Shire> ;
+    tg:next "A Short Cut to Mushrooms"@en ;
+    tg:number "3"@en ;
+    tg:previous "The Shadow of the Past"@en ;
+    tg:title "Three is Company"@en .
+
+<http://localhost:8000/resource/Treebeard_%28chapter%29> a schema:Thing ;
+    tg:book "The Two Towers"@en ;
+    tg:caption <http://localhost:8000/resource/%22Treebeard_and_the_Entmoot%22_by_Ted_Nasmith> ;
+    tg:date <http://localhost:8000/resource/29_February> ;
+    tg:event <http://localhost:8000/resource/Peregrin_Took> ;
+    tg:image "Ted Nasmith - Treebeard and the Entmoot.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/Fangorn_Forest> ;
+    tg:next "The White Rider"@en ;
+    tg:number "4"@en ;
+    tg:previous "The Uruk-hai"@en ;
+    tg:title "Treebeard"@en .
+
+<http://localhost:8000/resource/The_Old_Forest> a schema:Thing ;
+    tg:book "The Fellowship of the Ring"@en ;
+    tg:date <http://localhost:8000/resource/26_September_%7B%7BTA> ;
+    tg:event <http://localhost:8000/resource/Old_Man_Willow_attacks_the_Hobbits%3B_Tom_Bombadil_saves_them_with_his_song.> ;
+    tg:image "Roger Garland - Tom Bombadil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/chapter> ;
+    tg:location <http://localhost:8000/resource/The_Old_Forest> ;
+    tg:next "In the House of Tom Bombadil"@en ;
+    tg:number "6"@en ;
+    tg:previous "A Conspiracy Unmasked"@en ;
+    tg:title "The Old Forest"@en .
+

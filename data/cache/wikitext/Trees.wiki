@@ -1,0 +1,30 @@
+{{plant infobox
+| name=Trees
+| image=Colin C. Throm - Trees of the Dark Forest.jpg
+| caption=''Trees of the Dark Forest'' by [[Colin C. Throm]].
+| pronun=
+| othernames=
+| location=
+| notablefor=
+| family=
+| appearance=
+}}
+'''Trees''' were the tallest of the ''[[olvar]]'' of [[Yavanna]], plentiful throughout [[Middle-earth]] and formed [[:Category:Forests|forests]]. Although the trees were ''olver'', some trees were animate, like the [[Huorns]]. There was also the [[:Portal:Characters|race]] known as [[Ents]], herders of the trees. 
+
+Trees, being living things, were never regarded as gender-neutral in the [[Eldarin|High-elven tongue]].<ref>{{PE|14}}, pp. 44, 73</ref>
+
+==Inspiration==
+[[File:Jrrt 1972 tree.jpg|thumb|left|The last photograph of J.R.R. Tolkien]]
+{{quote|During the first year of the boy’s [Tolkien’s] life Arthur Tolkien made a small grove of cypresses, firs, and cedars. Perhaps this had something to do with the deep love of trees that would develop in Ronald.|[[J.R.R. Tolkien: A Biography]]}}
+
+Trees were of special importance to Tolkien - in his short story "[[Leaf by Niggle]]", which in a sense was an elaborate allegory explaining his own creative process, the protagonist, Niggle, spends his life painting a single Tree.
+
+==See also==
+* [[Laocoon]]
+* [[:Category:Trees]]
+* [[:Category:Images of trees]]
+* [[:Category:Ents]]
+
+{{references}}
+
+[[Category:Trees|*]]

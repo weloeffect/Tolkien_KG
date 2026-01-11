@@ -1,0 +1,99 @@
+{{book
+| title=Morgoth's Ring
+| image = Morgoth's Ring 1993.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[HarperCollins]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[23 September]] [[1993]]
+| dateUS=[[14 December]] 1993
+| format=Hardcover; paperback
+| pages=480
+| isbn=0261103040
+| precededby=[[Sauron Defeated]] (1992)
+| followedby=[[The War of the Jewels]] (1994)
+}}
+'''''Morgoth's Ring''''', published in [[1993]], is the tenth volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+This volume, along with the subsequent ''[[The War of the Jewels]]'', provides detailed writings and editorial commentary pertaining to Tolkien's cosmology that eventually would become the published ''[[The Silmarillion]]''. This volume mentions a few characters excluded elsewhere, including [[Findis]] and [[Irimë]], the daughters of [[Finwë]].
+
+The title of this volume comes from a statement in one of Tolkien's essays:
+:"''Just as Sauron concentrated his power in the [[One Ring]], Morgoth dispersed his power into the very matter of [[Arda]], thus the whole of Middle-earth was Morgoth's Ring.''"
+
+==Contents==
+*Foreword
+
+*'''Part One: [[Ainulindalë (Morgoth's Ring)|Ainulindalë]]'''
+
+*'''Part Two:  [[The Annals of Aman]]'''
+
+*'''Part Three: [[The Later Quenta Silmarillion|The Later ''Quenta Silmarillion'']]'''
+**The First Phase
+***I. "[[Of the Valar]]"
+***II. "Of Valinor and the Two Trees"
+***III. "Of the Coming of the Elves"
+***IV. "Of Thingol and Melian"
+***V. "Of Eldanor and the Princes of the Eldalië"
+***VI. "Of the Silmarils and the Darkening of Valinor"
+***VII. "Of the Flight of the Noldor"
+***VIII. "Of the Sun and Moon and the Hiding of Valinor"
+**The Second Phase
+***"The Valaquenta"
+***"The Earliest Version of the Story of Finwë and Míriel"
+***"[[Laws and Customs among the Eldar]]"
+***"Later Versions of the Story of Finwë and Míriel"
+***"Of Fëanor and the Unchaining of Melkor"
+***"Of the Silmarils and the Unrest of the Noldor"
+***"Of the Darkening of Valinor"
+***"Of the Rape of the Silmarils"
+***"Of the Thieves' Quarrel"
+
+*'''Part Four: [[Athrabeth Finrod ah Andreth]]'''
+
+*'''Part Five: [[Myths Transformed]]'''
+
+*Appendix: Synopsis of the Texts
+
+*Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book X reads:
+
+:"''In this book are given many of the later writings of John Ronald Reuel Tolkien concerning the history of the [[Elder Days]] from the [[Music of the Ainur]] to the [[Nurtalë Valinóreva|Hiding of Valinor]]; here much is told of the [[Sun]] and [[Moon]]; of the immortal [[Eldar]] and the death of the [[Atani]]; of the beginning of the Orcs and of the evil power of Melkor, the Morgoth, the Black Foe of the World.''"
+
+==From the publisher==
+{{blockquote|The first of two companion volumes which documents the later writing of ''The Silmarillion'', Tolkien's epic tale of war.<br>
+After the ''The Lord of the Rings'' was at last achieved, J.R.R. Tolkien turned his attention once again to "the Matter of the Elder Days". The text of [[The Annals of Aman]], the "Blessed Land" in the far West, is given in full; while in writings hitherto unknown is seen the nature of the problems that Tolkien explored in his later years, as new and radical ideas, portending upheaval in the old narratives, emerged at the heart of the mythology, and as the destinies of Men and Elves, mortals and immortals, became of central significance, together with a vastly enlarged perception of the evil of Melkor, the Shadow upon Arda.<br>
+The second part of this history of the later ''Silmarillion'' is concerned with developments in the legends of Beleriand after the completion of ''The Lord of the Rings''.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Morgoth's Ring 1993.png|1993 hardcover
+File:Morgoth's Ring (HC1994).png|1994 paperback
+File:Morgoth's Ring (HC2002).jpeg|2002 & 2015 paperback
+File:Morgoth's Ring (HC2010).png|2010 hardcover
+File:Morgoth's Ring 2024.jpeg|2024 paperback
+File:Morgoth's Ring hc 2024.jpg|2024 hardcover
+</gallery>
+*[[HarperCollins]] hardcover ([[1993]]), pp.&nbsp;480. ISBN 0261103040
+*[[HarperCollins]] paperback ([[1994]]), ISBN 0261103008 - (cover art by [[John Howe]])
+**1994 paperback edition, reset in [[2002]], then in [[2015]]
+*[[HarperCollins]] hardcover ([[2010]]), ISBN 0007365349
+**2015 paperback edition, 31st impression ([[2024]])
+*[[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #4)
+
+==External links==
+*[http://www.tolkienbooks.net/php/home-contents.php#x A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+[[de:Morgoth's Ring]]
+[[fr:tolkien/biblio/home10]]
+[[fi:Morgoth's Ring]]

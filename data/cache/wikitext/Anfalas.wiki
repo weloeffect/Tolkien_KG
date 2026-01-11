@@ -1,0 +1,39 @@
+{{location infobox
+| name=Anfalas
+| image=The Lord of the Rings Online - Anfalas.jpg
+| caption=Anfalas in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=Langstrand, Andafalasse
+| location=
+| type=Region
+| description=Western Gondor between [[Lefnui]] and [[Morthond]]
+| regions=
+| towns=
+| inhabitants=[[Gondorians]]
+| created=
+| destroyed=
+| events=
+}}
+'''Anfalas''', or '''Langstrand''', was a coastal fief<ref>{{HM|UI}}, entry ''Gondor'', p. 17</ref> between the rivers [[Lefnui]] and [[Morthond]] south of the [[Pinnath Gelin]] in the southwest of [[Gondor]].<ref>{{FR|Map}}</ref>
+
+==History==
+It is not known when Anfalas became a part of the kingdom of Gondor. It is possible that it became a part of Gondor when king [[Tarannon Falastur]] extended the borders of Gondor along the coasts west of the [[Ethir Anduin]].<ref>{{App|Gondor}}, entry for King Tarannon, p. 1044</ref>
+
+During the reign of King [[Telumehtar Umbardacil|Telumehtar]] the [[Corsairs of Umbar]] raided the coasts of Gondor as far as the Anfalas. As a consequence, King Telumehtar assembled his troops, conquered Umbar by storm<ref>{{App|Gondor}}, entry for King Telumehtar, p. 1048</ref> in {{TA|1810}} and drove out the Corsairs.<ref>{{App|TA}}, entry for the year 1810, p. 1086</ref>
+
+During the [[War of the Ring]] [[Golasgil]], the lord of Anfalas, led a long line of men of many sorts from Anfalas, hunters, herdsmen and men from little villages, which except the men of his household were scantily equipped from Anfalas to defend [[Minas Tirith]] in the [[Battle of the Pelennor Fields]].<ref>{{RK|MT}}, p. 770</ref>
+
+==Etymology==
+''Anfalas'' is a [[Sindarin]] name,<ref name=PE>{{PE|17}}, entry S ''Anfalas'', p. 97</ref> which means "Long Beach".<ref>{{VT|42a}}, entry  '''''Lefnui''''', p. 15</ref> It consists of the elements ''[[and]]''<ref>{{S|Elements}}, entry ''an(d)''</ref> and ''[[falas]]'' ("beach", "strand").<ref name=PE/><ref>{{PE|17}}, entry Q '''falmalinnar''', p. 73</ref><ref>{{S|Elements}}, entry ''falas''</ref> It is also translated as '''''Andafalasse''''' in [[Quenya]]<ref>{{PE|17}}, entry Q '''Sindarin''', p. 135</ref> and '''''Langstrand''''' in [[Westron]] ("translated" into English).<ref name=N>{{HM|N}}, entry '''Langstrand''', p. 773</ref> [[J.R.R. Tolkien|Tolkien]] noted that the shortening of ''long'' to ''lang'' is very frequent in English place-names.<ref name=N/>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Anfalas map.jpg|thumb|right|Map of Anfalas in''[[The Lord of the Rings Online]]'' ]]
+'''2023: ''[[The Lord of the Rings Online]]'':'''
+:Added with the ''Corsairs of Umbar'' expansion, Anfalas has an arid coastal climate. Lord Golasgil ruled Anfalas from the the town of Lond Cirion, with the only other major settlements of Anfalas being a fishing town of Melgobas and Barad Faen located under one of the [[Beacons of Gondor]].
+
+{{References}}
+[[Category:Regions of Gondor]]
+[[Category:Sindarin names]]
+[[de:Anfalas]]
+[[fr:encyclo:geographie:regions:gondor:anfalas]]
+[[fi:Anfalas]]

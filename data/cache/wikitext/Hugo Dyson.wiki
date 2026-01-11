@@ -1,0 +1,26 @@
+{{author infobox
+| image = Hugo_dyson.jpg
+| name=Hugo Dyson
+| born=[[7 April]] [[1896]]
+| died=[[6 June]] [[1975]]
+| education=
+| occupation=Scholar
+| location=England
+| website=
+|}}
+'''Hugo Victor Dyson Dyson''' was a fellow [[Inklings|Inkling]] with [[J.R.R. Tolkien]]. He helped Tolkien persuade [[C.S. Lewis]] to (active) [[Christianity]].
+
+He much preferred talk to readings at Inklings meetings and is remembered by [[Christopher Tolkien]] as "lying on the couch, and lolling and shouting and saying, 'Oh God, no more Elves'" during reading of ''The Lord of the Rings''.<ref>[[Christopher Tolkien]] in ''[[J.R.R.T.: A Film Portrait of J.R.R. Tolkien]]''</ref>
+
+==Further reading==
+*"Hugo Dyson: Inkling, Teacher, ''Bon Vivant''", by [[David Bratman]]. ''[[Mythlore]]'' 21:4 (whole [[Mythlore 82|no. 82]]) (Winter 1997): 19-34.
+
+==External links==
+* {{WP|Hugo Dyson}}
+{{references}}
+{{inklings}}
+{{DEFAULTSORT:Dyson, Hugo}}
+[[Category:Authors]]
+[[Category:British people]]
+[[Category:Inklings]]
+[[Category:People by name]]

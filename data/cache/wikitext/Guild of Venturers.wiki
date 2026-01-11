@@ -1,0 +1,32 @@
+{{Organization infobox
+| name=Guild of Venturers
+| image = Steamey - Aldarion and Erendis.jpg
+| caption="Aldarion and Erendis" by [[:Category:Images by Steamey|Steamey]]
+| pronun=
+| othernames=''Uinendili'' ([[Quenya|Q]])
+| founded={{SA|750}}
+| founder=Great Captain [[Tar-Aldarion|Aldarion]]
+| purpose=Exploring the seas and the coasts of [[Middle-earth]]
+| members=[[Númenóreans]]
+| location=[[Eämbar]]
+| disbanded=
+| notablefor=
+}}
+
+The '''Guild of Venturers''' was a brotherhood of mariners and seamen formed by the Great Captain [[Tar-Aldarion|Aldarion]] in the year {{SA|750}}.<ref>{{UT|Wife}}, Notes, ''Chronology''</ref> 
+
+== History ==
+The Guild had no fixed guildhouse on land, but was based instead on the ship ''[[Eämbar]]'', that had been built for the purpose. ''Eämbar'' was sailed at times to different harbours of [[Númenor]], but was normally anchored off the island of [[Tol Uinen]] in the bay of [[Rómenna]]. The sailors of the Guild went much farther than this, though, steering their vessels east across the [[Belegaer|Great Sea]] to the distant shores of [[Middle-earth]]. There, they visited [[Gil-galad]] in [[Lindon]], and explored the coastlands into the far south.<ref name=Wife>{{UT|Wife}}</ref>
+
+They were called '''''Uinendili''''', the "Lovers of [[Uinen]]", the [[Maia]] of the [[Seas]].<ref name=Wife>{{UT|Wife}}</ref>{{rp|176}}
+
+== Portrayal in adaptations ==
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]:'''
+:'''9 September: ''[[Adar (episode)|Adar]]'':'''
+::While the guild itself is referred to as the '''Sea Guard'''. it functions in a similar fashion, being made up of the [[Men]] of [[Númenor]] who love [[Belegaer]]. Any cadet seeking admission into the guild must pass the '''Sea Trial''', or else be banished from being admitted. After every voyage, the [[Sail Master]] leads the cadets in praising the sea saying that "''the sea is always right!''".
+
+{{references}}
+{{numenor}}
+[[Category:Organizations]]
+[[de:Gilde der Wagemutigen]]
+[[fi:Laivamiesten Kilta]]

@@ -1,0 +1,64 @@
+{{Board game infobox
+| name=
+| image=The-Lord-of-the-Rings-Roleplaying-Logo-White.png
+| caption=
+| type=rpg
+| designer=
+| publisher=[[Free League Publishing|Free League]]
+| releasedate=[[2023]]
+| players=
+| ages=
+}}
+'''''The Lord of the Rings Roleplaying''''' is a tabletop role-playing game published by [[Free League Publishing]] in collaboration with Sophisticated Games, released in May 2023. It is set in the [[Third Age 2965|year 2965 of the Third Age]], 24 years after the events of [[The Hobbit]].<ref name="homepage">{{webcite|articlename=The Lord of the Rings™ Roleplaying |articleurl=https://freeleaguepublishing.com/games/the-lord-of-the-rings-roleplaying/|website=Free League Publishing|accessed=28 July 2025}}</ref>
+
+Like its predecessor [[Adventures in Middle-earth]], the game is an adaptation of the world-building established in [[The One Ring (role-playing game)|The One Ring]] to the 5th edition rule-set of [[Dungeons and Dragons]].
+
+== Gameplay ==
+
+When adapting the ''Dungeons and Dragons'' rule-set, made possible through the [[Wikipedia:Open Game License|Open Game License]], many choices had to be made. The more subtle magic of Middle Earth meant eschewing classic ''Dungeons and Dragons'' classes like Wizards and Sorcerers. <ref name="wargamer">{{webcite|articlename=Why Lord of the Rings 5e exists, according to its designer|articleurl=https://www.wargamer.com/lord-of-the-rings-roleplaying/designer-interview|website=Wargamer|accessed=28 July 2025}}</ref> The entire basic rule-set is not reproduced, however. Players are expected to be familiar with the ''Dungeons and Dragons'' sourcebooks.<ref name="rpgbot">{{webcite|articlename=Lord of the Rings Roleplaying 5e – A Review |articleurl=https://rpgbot.net/lord-of-the-rings-roleplaying-5e-a-review/|website=RPGBOT|accessed=28 July 2025}}</ref>
+
+While adopting most things already established for ''Adventures in Middle-earth'', the the designers were more ambitious this time around, generally bringing the game closer to ''The One Ring''. They also rebalanced the classes, now known as '''callings'''.<ref name="wargamer"/><ref name="rpgbot"/> The games are run by a '''loremaster''', which is the equivalent of a dungeon master in ''Dungeons and Dragons''.
+
+== Published Materials ==
+
+=== Core Edition ===
+
+The '''Core Rules''' constitute an illustrated 240-page hardcover volume containing everything necessary to begin adventures in Middle-earth. Included are six heroic cultures from [[Eriador]], six classes, enemies to fight, and rules to play.<ref name="shop">{{webcite|articlename=Free League Publishing Online Shop: Homepage|articleurl=https://freeleaguepublishing.com/shop/the-lord-of-the-rings/|website=Free League Publishing|accessed=16 June 2025}}</ref>
+
+A '''Starter Set''' with condensed rules and a set of dice is also available. It centres around the adventure ''Over Hill and Under Hill'', complete with  pre-generated heroes and cardboard stand-up figures.<ref name="shop"/>
+
+=== Expansions ===
+
+'''Shire Adventures''' serves as an introductory supplement.<ref name="shop"/>
+
+It is divided into two chapters:
+# '''Regarding the Shire''' fleshes out the farthings of the Shire and its surroundings. Events and gossip tables, based on the throw of the dice, serve to add details to specific adventures.<ref>{{LOTR5E|Shire}}, pp. 7-56</ref>
+# '''The Conspiracy of the Red Book''' consists of five adventures. Also provided are seven pre-generated heroes. The initial offering are [[Drogo Baggins]], [[Paladin Took II]], [[Rorimac Brandybuck]], [[Primula Brandybuck]], [[Esmeralda Took]], and [[Lobelia Bracegirdle]]. Later on, [[Bilbo Baggins]] becomes available.<ref>{{LOTR5E|Shire}}, pp. 90-103</ref> [[Balin]] is mentioned as an eighth character, but no character sheet is actually included.<ref>{{LOTR5E|Shire}}, p. 58</ref>
+
+'''Ruins of Eriador''' expands the available setting material with a 127-page exploration of southern Eriador.<ref name="shop"/>
+
+It includes three chapters:
+# '''Fog Over Eriador''' has detailed maps and descriptions of [[Tharbad]] and its inhabitants. The rest of the chapter covers [[Swanfleet]], [[Lond Daer]], the Dwarf-Halls of Harmelt, the Lone-lands of [[Minhiriath]], [[Eryn Vorn]], and the ruins of [[Cardolan]].<ref>{{LOTR5E|Ruins}}, pp. 7-31</ref>
+# '''A Gathering Storm''' describes the threats players can face: [[Black Númenóreans]], agents of the [[White Hand]] (who can hinder or help the players), and raiders from [[Dunland]].<ref>{{LOTR5E|Ruins}}, pp. 34-53</ref>
+# '''Landmarks''' finally lists twelve landmarks, among which the [[White Towers]], [[Weathertop]] and [[Mount Gram]], .<ref>{{LOTR5E|Ruins}}, pp. 56-123</ref>
+
+'''Tales from Eriador''' collects six adventures that can be played individually, but also connect into an overarching story. The supplement includes illustrations by Antonio De Luca and detailed maps by Francesco Mattioli and Niklas Brandt.<ref name="shop"/>
+
+'''Moria: Shadow of Khazad-dûm''', published in December 2024, delves into the depths of [[Khazad-dûm]], set in the years before [[Balin's folk|Balin's doomed expedition]]. The book fleshes out Moria, and offers loremasters the tools to craft both one-shot adventures and long campaigns.<ref name="shop"/>
+
+'''Keepers of the Elven-rings''', released in April 2025, focuses on the Elven realms of [[Lórien]], [[Rivendell]], and [[Lindon]]. The book is divided into three chapters:
+
+# '''Where the West-elves Still Linger''' describes the political and social structures of the Elven realms, including profiles of key figures like [[Galadriel]], [[Elrond]], and [[Círdan]]<ref name="keepers">{{webcite|articlename=Free League Publishing Online Shop: Keepers of the Elven-rings|articleurl=https://freeleaguepublishing.com/shop/the-lord-of-the-rings/keepers-of-the-elven-rings/|website=Free League Publishing|accessed=16 June 2025}}</ref><ref>{{webcite|articlename=The Dragon's Trove Online Shop|articleurl=https://www.dragonstrove.com/products/keepers-of-the-elven-rings-5e|website=The Dragon's Trove - New & Used Role Playing Games|accessed=16 June 2025}}</ref>
+# '''The Days Darken''' outlines [[Sauron]]'s schemes against the Elves through events and adversaries.<ref name="keepers"/>
+# '''Landmarks''' catalogues twelve significant locations across Middle-earth both from the books, such as the Gardens of Lórien, and original creations such as the Tower of the Sea in Lindon.<ref name="keepers"/>
+
+The appendix introduces rules for creating '''High Elves''' and '''Wood-elves''', expanding player options. Notably, it includes guidelines for '''Elf-lords''', who can progress to 20th level for more grand adventures.<ref>{{webcite|articlename=Free League Publishing Releases Elven Expansion for The One Ring RPG and 5E|articleurl=https://lotroplayers.com/2025/04/24/free-league-publishing-releases-elven-expansion-for-the-one-ring-rpg-and-5e/|website=LOTRO Players|accessed=16 June 2025}}</ref>
+
+=== Accessories ===
+
+The '''Loremaster's Screen & Rivendell Compendium''' bundles an accessory with a compendium about Rivendell. The landscape-format screen features artwork on the side facing the players, while the interior contains tables for quick references. It serves to conceal the loremaster's notes from the players. The accompanying Rivendell Compendium includes maps of the valley and house, descriptions of notable inhabitants including Elrond as a potential patron, and new rules for creating High Elf player characters.<ref name="shop"/>
+
+{{references}}
+{{rpg}}
+{{title|italics}}
+[[Category:Role playing games]]

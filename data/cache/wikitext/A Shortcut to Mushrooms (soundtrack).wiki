@@ -1,0 +1,33 @@
+{{song
+| title=A Shortcut to Mushrooms
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=4:07
+| track=Disc 1 Track 12
+| previous=[[Saruman the White]]
+| next=[[Strider (soundtrack)|Strider]]
+| spotify=https://open.spotify.com/track/6QOeqsx5lpJvJ0a6jhqNvS
+}}
+'''A Shortcut to Mushrooms''' is the twelfth track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[01:47]  nê
+[01:50] pâm
+[01:53] nêd
+
+[03:12] Nêbâ
+[03:15] bîtham
+[03:16] magâ
+[03:18] nanê
+[03:21] Bârî
+[03:24] 'n î
+[03:26] dô Ni
+[03:28] dir nêd
+[03:30] aglar
+</poem>
+{{title}}
+{{DEFAULTSORT:1.12}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

@@ -1,0 +1,88 @@
+{{anglosaxon infobox
+| name=Alwin Arundel Lowdham
+| people=[[wikipedia:English people|Englishman]]
+| image = Afalstein - The Notion Club Papers.jpg
+| caption="The Notion Club Papers" by [[:Category:Images by Afalstein|Afalstein]]
+| pronun=
+| othernames=''Arry''
+| titles=
+| position=Lecturer in [[wikipedia:English language|English Language]]
+| location=[[Oxford]]
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]], [[Old English|Anglo-Saxon]], [[wikipedia:Icelandic language|Icelandic]]
+| birth=[[1938]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Writer of comic of satirical verses
+| house=
+| parentage=[[Edwin Lowdham]]<br />Also implied to have been a descendant of [[Elendil]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=Tall
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+{{quote|Well, I'm a philologist, which means a misunderstood man.|Lowdham about himself in [[The Notion Club Papers Part Two|''The Notion Club Papers'']], "Night 66"}}
+
+'''Alwin Arundel Lowdham''' (born in [[1938]] and educated at B.N.C.,<ref group=note>Although ''The Notion Club Papers'' have dates on them which puts them mostly in the 1980s, the "Notes to the Second Edition" mentions the contradictory evidence in dating the manuscripts, and an alternative date is presented: they may have been written in the 1940s.</ref>), nicknamed "Arry", was a [[Man]] living in the [[wikipedia:20th century|20th century]] [[wikipedia:England|England]]. He was a lecturer in [[wikipedia:English language|English language]] and a member of the [[Notion Club]], a literary discussion group based in [[Oxford]].<ref name="Foreword">{{SD|2b}}</ref>
+
+== History ==
+=== Early history ===
+In [[1947]], when Arundel was nine years old, his father [[Edwin Lowdham|Edwin]], along with three other sailors, went off in his ship [[Éarendel]] into the [[wikipedia:Atlantic ocean|Atlantic]] and never returned. After he had left, the young Lowdham began to take interest in languages, especially [[Anglo-Saxon]] and [[wikipedia:Icelandic language|Icelandic]].<ref name="Edwin">{{SD|2d}}, "Night 66"</ref>
+
+=== The Notion Club ===
+In [[2012]], [[Howard Green]], a School Clerk, found a disordered bundle of papers on the top of one of a number of sacks of waste paper in the basement of the Examination Schools at Oxford. They were loosely tied with a red string and on the outer sheet was inscribed in large Lombardic capitals: '''NOTION CLUB PAPERS'''. Later, it was discovered that the papers reported approximately one hundred meetings of a certain discussion group. The meetings took place between c. [[1980]] and [[1990]], and Lowdham was one of its members.<ref name="Foreword"/>
+
+During those meetings, many of the members reported having strange dreams, in which it seemed to them that they traveled through space or time.<ref>{{SD|2c}}</ref><ref name="Two">{{SD|2d}}</ref> In several of such dreams, Lowdham managed to capture certain words and phrases of two unknown languages. As it turned out, it was a description of the [[Downfall of Númenor]] in both [[Quenya]] and [[Adûnaic]].<ref name="Two"/>
+
+In the subsequent meetings, he began to receive not only aural, but also visual stimuli describing that event. During a meeting that took place on [[12 June]], [[1987]], labeled ''Night 67'', a great storm hit England, and strange clouds in the shapes of [[eagles]] hovered above Oxford.<ref>{{SD|2d}}, "Night 67"</ref> After that night, he and one of his fellow members, [[Wilfrid Trewin Jeremy]], went missing and were only later heard from by a letter where it was found that they were on a journey across the country.<ref>{{SD|2d}}, "Night 68"</ref>
+
+=== Ælfwine and Tréowine ===
+He and Jeremy returned to Oxford just one day before the next meeting, which took place on [[25 September]], 1987. At that meeting, Lowdham described a dream in which he went back to the [[wikipedia:Anglo-Saxon England|Anglo-Saxon England]], to [[wikipedia:Porlock|Porlock]]. In that dream, he identified himself with a man named [[Ælfwine]], and was bidden by the king [[wikipedia:Edward the Elder|Éadweard]] to sing before his throne. But instead of speaking what he had in mind for such an occasion, he commenced a song in which he put forth his love of the sea. At that, many of those in the hall who knew him well started laughing, not wanting any more of his songs concerning the sea. But the king's [[wikipedia:Thegn|thegn]] [[wikipedia:Odda, Ealdorman of Devon|Odda]], reprimanded them. A while later, a man named [[Tréowine]] son of [[Céolwulf]], who was identified with Jeremy, started reciting a poem, ''[[Lay of King Sheave|King Sheave]]'', about the legendary Lombardic [[wikipedia:Sceafa|king]].<ref>{{SD|2d}}, "Night 69"</ref>
+
+Around the year [http://en.wikipedia.org/wiki/915 915], in autumn, the [[wikipedia:Danes|Danes]] attacked Porlock. They were at first driven off and Ælfwine's company managed to capture a Danish [http://en.wikipedia.org/wiki/Knarr cnearr] at night. At dawn Ælfwine told to his closest friend, Tréowine, he intended to sail off westward, perhaps to the country of the legendary king Sheaf. Tréowine agreed to accompany him at least as far as to [[wikipedia:Ireland|Ireland]]. They got two other companions: [[Ceola]] of [[wikipedia:Somerset|Somerset]] and [[Geraint]] of [[wikipedia:West Wales|West Wales]].<ref name="Seventy">{{SD|2d}}, "Night 70"</ref>
+
+Many days after they passed Ireland the voyagers were exhausted. A "dreamlike death" seemed to come over them, and soon they passed out. The last that is known of the journey is that Tréowine saw the world plunge down under them, while sailing the [[Straight Road]]. Later, Ælfwine found himself stranded on the beaches of [[Tol Eressëa]] where the [[Elves]] told him the stories of [[Valinor]] and [[Beleriand]], and Lowdham received also the visions of [[Númenor]] before and during its fall.<ref name="Seventy"/>
+
+At the end it is implied that Lowdham (as well as Ælfwine) was a descendant of [[Elendil]] himself, and that was the reason of his [[Atlantis-haunting|vivid dreams concerning Númenor and its downfall]].<ref name="Seventy"/> From Lowdham comes, also, the greatest source of the information on the Adûnaic language.<ref>{{SD|3vi}}</ref>
+
+== Etymology ==
+The name ''Alwin'' is a modernized version of the [[Old English]] name ''Ælfwine'', and its meaning is ''"[[Elf-friend]]"''<ref name="Edwin"/> (which is also the meaning of the name ''Elendil''). For ''Arundel'' see [[Eärendil#Names and Etymology]].
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| ELE | |ELE=[[Elendil]]<br /><small>''{{SA|3119}} - {{SA|3441|n}}</small>}}
+{{familytree| |:| | |}}
+{{familytree| |:| | |}}
+{{familytree| OSW | |OSW=[[Oswin Lowdham]]<br /><small>''b. late [[wikipedia:19th century|19th century]]''</small>}}
+{{familytree| |!| | |}}
+{{familytree| EDW | |EDW=[[Edwin Lowdham]]<br /><small>''b. c. [[1889]]''</small>}}
+{{familytree| |!| | |}}
+{{familytree| ALW | |ALW='''ALWIN ARUNDEL LOWDHAM'''<br /><small>''b. [[1938]]''</small>}}
+{{familytree/end}}
+
+== Inspiration ==
+[[Hugo Dyson]], a member of the [[Inklings]], was alike to the character of Lowdham, in that he was loud and tended to make jokes at inappropriate times, but in other aspects he was the antithesis of Dyson, namely in his learning and interests.<ref>{{SD|2a}}</ref>
+
+== See also ==
+* [[Ælfwine]]
+* [[Eärendil]]
+* "[[I've got a very Briny Notion]]"
+* "''[[Kadō zigūrun zabathān unakkha]]''"
+* "''[[O sauron túle nukumna]]''"
+
+{{references|notes}}
+{{notionclub}}
+{{DEFAULTSORT:Lowdham, Alwin Arundel}}
+[[Category:Characters from the later Ages]]
+[[Category:Chroniclers of Arda]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

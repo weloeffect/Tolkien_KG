@@ -1,0 +1,97 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Dwar of Waw
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Donato Giancola - Dwar of Waw - One of the Nine Wraiths.jpg
+| caption=''“Dwar the Ringwraith”'' by [[Donato Giancola]]
+| pronun=
+| othernames=Dog-lord
+| titles=King of Waw
+| position=Third of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1949}}
+| birthlocation=Horm, Waw
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| hair=
+| clothing=Reinforced cloth armour<br>Wolf's head helmet<ref name=ICE>{{ICE|8003}}, pp. 86-87</ref>
+| eyes=Pale hazel<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>War-dancer<br>Air-cleaver
+| height=6 ft 4 in<ref name=ICE/>
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Nelya
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=The Black Hunter
+| titles=
+| position=Third of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=Black horse
+}}
+}}
+The '''Third of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Dwar of Waw'', a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>{{ICE|3340}}, p. 14</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] [[Nelya]]'' ([[Quenya|Q.]] Third Nazgûl), and assigning the epithet of ''Black Hunter''.<ref>{{LOTRTCGW|Ulaire Nelya, Black Hunter (12C177)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+==Backstory in Middle-earth Role Playing==
+'''Dwar''' was born as ''Dendra Dwar'' in {{SA|1949}} in Horm on the island of [[Waw]]. His father was a fisherman and his mother died in childbirth. In {{SA|1965}}, his home was attacked by the K'prur people from the neighbouring kingdom of Hent. His father was mortally wounded, and Dwar vowed revenge. He left his home and traveled to the mainland realm of the Wôlim, where he became a skilled warrior and scout. In {{SA|1969}}, he began studying ancient magical arts and became a Mage.
+
+In {{SA|1980}}, Dwar returned to Waw as the Lord of Dogs. With a small group of warriors and a pack of warhounds, he retook the citadel of Alk Waw from the K'prur. He became the High-lord of the isle, ruling without convening the traditional Elder Councils. The island became known as the Isle of Dogs. He used his growing power and a newly built fleet to plunder coastal towns and conquer neighbouring islands, incorporating them into his kingdom.
+
+At the height of his power, he accepted a [[Nine Rings|Ring of Power]] from [[Sauron]], and withdrew from public life. His armies successfully conquered Hent while his nephew became the new Lord of Dogs. Dwar ruled his kingdom from the shadows, manipulating his heirs for the next 252 years.
+
+In {{SA|2250}}, Dwar left Waw and moved to Sauron's fortress, [[Barad-dûr]], where he bred war-wolves. He fled back to Waw when Sauron was captured by the [[Númenóreans]], but returned to Mordor after the [[Downfall of Númenor]] to continue his work. Many of his creations were slaughtered in the [[War of the Last Alliance]], and he passed into the shadows.
+
+Dwar reappeared around {{TA|1050}}, briefly residing with Sauron in [[Dol Guldur]] before returning to Waw. For the next 589 years, he ruled there from the shadows. He was recalled to the West in {{TA|1640}} to help prepare Mordor for Sauron's return. He continued his work breeding war-hounds and participated in the capture of [[Minas Morgul|Minas Ithil]].
+
+During the [[Watchful Peace]], Dwar followed Sauron eastward and was contested by the [[Blue Wizards]]. He returned to Mordor in {{TA|2941}} to help rebuild Barad-dûr.
+
+During the [[War of the Ring]], Dwar rode with the Black Riders in search of the [[The One Ring|One Ring]]. After his fruitless search, he joined the remaining wraiths at the [[Battle of the Morannon]], where he perished with Sauron's defeat.<ref name=ICE/>
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have possessed the following weapons:
+*'''War-dancer''': A falchion made of [[Metals_in_Middle-earth_Role_Playing#Ogamur|ithilnaur]] and inlaid with white gold and pearl. A dagger was sheathed in the hilt, with the falchion's pearl-tipped pommel being its end.<ref>{{ICE|2010}},  p. 49</ref>
+* '''Air-cleaver''': A gé or killing-[[wikipedia:bolas|bola]]. This enchanted Braric weapon was made of silvery [[Metals_in_Middle-earth_Role_Playing#Ogamur|ogamur]].<ref>{{ICE|2010}},  p. 15</ref>
+{{References}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 3}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

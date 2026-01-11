@@ -1,0 +1,18 @@
+{{Board game infobox
+| name=Magic: The Gathering &#124; The Hobbit
+| image=Magic_The_Gathering_The_Hobbit.png
+| type=ccg
+| designer=
+| publisher=[[Wizards of the Coast]]
+| releasedate=[[August]] [[2026]]
+| players=
+| ages=
+}}
+'''Magic: The Gathering | The Hobbit''' is an expansion for the [[Magic: The Gathering]] collectible card game, set to be released August 2026 under the '''Magic: The Gathering Universes Beyond''' sub-brand. It was [https://magic.wizards.com/en/news/announcements/everything-announced-for-magic-the-gathering-in-2026#TheHobbit announced at MagicCon Atlanta 2025] and will be the second Lord of the Rings themed expansion for the card game, the first being [[The Lord of the Rings: Tales of Middle-earth]], initially released on June 20, 2023. 
+
+==External links==
+*'''[https://magic.wizards.com/en/products/the-hobbit Official product website]'''
+{{stub}}
+{{references}}
+{{Navbox cards}}
+[[Category:Card games]]

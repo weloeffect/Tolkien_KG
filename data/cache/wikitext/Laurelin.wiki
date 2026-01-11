@@ -1,0 +1,58 @@
+{{disambig-two|the Golden Tree of [[Valinor]]|[[mellyrn]] planted by [[Samwise Gamgee]]|[[Golden Tree]]}}
+{{object infobox
+| name=Laurelin
+| image = Ralph Damiani - Laurelin.jpg
+| caption="Laurelin" by Ralph Damiani
+| pronun={{respell|low|re-lin}}
+| othernames=''Tulukhedelgorūs'' ([[Valarin|V]]) <br/>''Culúrien'' ([[Quenya|Q]]) <br/>''Galadlóriel'' ([[Sindarin|S]]) <br/>See [[Laurelin#Other names|Other names]]
+| location=[[Ezellohar]]
+| owner=
+| type=Tree/source of light
+| appearance=Gold-trimmed leaves
+| creator=[[Yavanna]]
+| created=V.Y. 3450–3500
+| createdlocation=
+| destroyer=[[Morgoth|Melkor]] and [[Ungoliant]]
+| destroyed={{YT|1495}}
+| destroyedlocation=
+| notablefor=
+}}
+'''Laurelin''' was the '''Golden Tree''' of [[Aman]], the female mate of [[Telperion]], and the younger of the [[Two Trees of Valinor]]. Laurelin had gold-trimmed leaves and her dew was collected by [[Varda]] in [[Wells of Varda|her Wells]].<ref name="BegDays" />
+
+==History==
+Laurelin was created by the [[Valar|Valier]] [[Yavanna]] and [[Nienna]] on the hill of [[Ezellohar]], where the Tree shed her light on the realm of [[Valinor]] in the long years before the making of the [[Sun]] and [[Moon]]. Laurelin, the younger of the Two Trees, flowered second after [[Telperion]], and bloomed during the latter part of each Valian day.<ref name="BegDays">{{S|1}}</ref>
+[[File:Álvaro Fernández González - The Twilight of Laurelin.jpg|thumb|left|"The Twilight of Laurelin" by [[:Category:Images by Álvaro Fernández González|Álvaro Fernández González]]]]
+
+Laurelin was destroyed by [[Morgoth|Melkor]], who used the giant spider spirit [[Ungoliant]] to his evil purpose during the theft of the [[Silmarils]], which caused the [[Darkening of Valinor]].<ref>{{S|8}}</ref> However, through the power of Nienna and Yavanna, Laurelin produced a single fiery fruit before she died. This golden fire was set in a vessel made by [[Aulë]] and his people, and was steered through [[Ilmen]] by the [[Maiar|Maia]] [[Arien]], making the [[Sun]].<ref name="OfSun">{{S|11}}</ref> 
+
+In the [[First Age]], [[Turgon]] made images of the Two Trees that stood in his court of [[Gondolin]], and the one made in memory of Laurelin was called [[Glingal]].<ref>{{S|15}}</ref>
+
+==Etymology==
+''Laurelin'' is said to mean "Song of Gold".<ref name="SI" /> The name ''Laurelin'' appears to be [[Quenya]] and contains ''[[laurë]]'' ("gold") and ''[[lind]]ë'' ("song").<ref name="SI" /><ref name="Ety">{{LR|Etymologies}}, pp. 358, 368</ref>
+
+==Other names==
+'''''Culúrien''''', likely containing the [[Quenya]] elements ''[[KUL|cul-]]'' ("golden-red")<ref>{{S|Appendix}}, entry ''cul-''</ref> and ''riende'' ("garland").<ref>{{Cite web|articleurl=https://eldamo.org/content/words/word-2409511645.html?neo|articlename=Culúrien|author=Paul Strack|accessed=27 Nov 2024}}</ref> Robert Ireland suggests it might rather contain ''úr'' ("fire, heat"), while the suffix is uncertain.<ref>{{webcite|articleurl=http://www.quicksilver899.com/Tolkien/SILM/SILM_CE.html|articlename=Silmarillion Dictionary C-E|author=Robert Ireland|website=[http://www.quicksilver899.com/Tolkien/Tolkien_Dictionary.html A Tolkien Dictionary]|accessed=20 August 2020}}</ref>
+
+'''''Malinalda''''' ("Tree of Gold"),<ref name="SI">{{S|Index}}</ref> composed of the words ''malina'' ("yellow, of golden colour") + ''[[alda]]'' ("tree").<ref>{{S|Appendix}}, entries ''alda'', ''[[mal-]]''</ref><ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-3600949199.html|articlename=Q. ''Malinalda'' pn.|website=Eldamo|accessed=30 June 2020}}</ref>
+
+In [[The Later Quenta Silmarillion|The Later ''Quenta Silmarillion'']] manuscript, the Sindarin name of Laurelin is '''''Galadlóriel'''''. In a footnote to the same page three other Sindarin names of Laurelin are given: '''''Glewellin''''' ("song of gold", the same as Laurelin), '''''Lasgalen''''' ("green of leaf"<ref>Cf. also ''[[Eryn Lasgalen]]'', "Wood of Greenleaves".</ref>), '''''Melthinorn''''' ("tree of gold").<ref>{{MR|P3I2}}, p. 155</ref>
+
+The [[Valarin]] name of Laurelin was '''''Tulukhedelgorūs'''''.<ref>{{WJ|AD1}}, p. 401</ref>
+
+==Other versions of the legendarium==
+{{expansion}}
+[[Vána]] named the tree '''''Lindeloksë''''' ("singing cluster").<ref>{{LT1|III}}, p. 72</ref>
+
+Among the early names of Laurelin was ''Glingal'' ([[Noldorin]], emmended from ''Glingol''), which was later used for the [[Glingal|golden tree of Gondolin]].<ref>{{LB|1d}}, pp. 80-81</ref>
+
+==Inspiration==
+On a note referred to Laurelin's ''spilth'', [[Tolkien]] explains it is meant to indicate that the tree is founded on the [[:Wikipedia:Laburnum|laburnum]] as described by [[Francis Thompson]] in a poem:<ref>{{MR|P3I2}}, p. 157-158</ref>
+{{blockquote|Mark yonder, how the long laburnum drips<br />its jocund spilth of fire, its honey of wild flame!|''[http://www.gutenberg.org/files/1731/1731-h/1731-h.htm Sister Songs]'', "The Proem"}}
+
+{{references}}
+[[Category:Quenya names]]
+[[Category:Trees]]
+[[Category:Valinor]]
+[[de:Laurelin]]
+[[fr:encyclo/biologie/flore/laurelin]]
+[[fi:Laurelin]]

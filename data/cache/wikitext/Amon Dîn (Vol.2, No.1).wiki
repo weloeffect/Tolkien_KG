@@ -1,0 +1,15 @@
+{{journal
+| title=''Amon Dîn'' (Vol.2, No.1)
+| image=
+| editor=
+| illustrator=
+| publisher=Englewood: The Tolkien Society of Treewood
+| date=[[21 January]] [[1973]]
+| format=Magazine
+| pages=
+| issn=
+}}
+'''''Amon Dîn'' (Vol.2, No.1)''' is an issue of the fanzine ''[[Amon Dîn (magazine)|Amon Dîn]]''. Reproduced in the magazine (p.&nbsp;2) is [[Letter to Randy Trimmer|a letter to Randy Trimmer]] from [[J.R.R. Tolkien]].<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=55600|articlename=Amon Dîn. January 1973|dated=|website=TB|accessed=7 January 2012}}</ref><ref>{{CG|C}}, p. 753</ref>
+{{References}}
+{{title|italics}}
+[[Category:Fanzines]]

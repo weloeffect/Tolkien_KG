@@ -1,0 +1,20 @@
+{{scene
+| name = Bilbo's Gifts
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Bilbo's gifts.jpeg
+| number = 29 (extended)<br>
+           24 (theatrical)
+|duration=
+| event = Frodo obtains [[Sting]] and the [[Mithril-coat]] from Bilbo.
+| characters = [[Bilbo Baggins|Bilbo]], [[Frodo Baggins|Frodo]]
+| previous = [[Gilraen's Memorial]]
+| next = [[The Departure of The Fellowship]]
+}}
+'''Bilbo's Gifts''' is the twenty-fourth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the twenty-eighth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+Before [[Frodo Baggins|Frodo]] sets off, [[Bilbo Baggins|Bilbo]] gives him gifts for his journey. Bilbo unsheathes his sword, [[Sting]], and gives it to a somewhat awestruck Frodo, telling him that ''"the blade glows blue when [[Orcs]] are around"''. Bilbo follows this with the gift of his [[Mithril-coat]], telling Frodo it is ''"as light as a feather, and as hard as a [[Dragons|dragon]]’s scale"''. As Frodo unbuttons his shirt to put on the [[mithril]]-coat, Bilbo glimpses the [[The One Ring|Ring]]:, and tells Frodo he would like to hold it one last time. Frodo begins buttoning up his shirt, and seeing the opportunity passing, Bilbo lashes out at Frodo, who recoils. Realising what he has just done, he draws back in shame and apologises to Frodo, who comforts him. 
+==Differences==
+In the book, Bilbo does not lash out at Frodo after seeing the Ring. After giving Frodo Sting and the mithril-coat, he starts singing a song.<ref>{{FR|South}}, pp. 277-9</ref>
+{{references}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|29]]

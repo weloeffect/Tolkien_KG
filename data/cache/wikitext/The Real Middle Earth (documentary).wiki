@@ -1,0 +1,45 @@
+{{film infobox
+| image = The Real Middle Earth.jpg
+| caption = 
+| name=The Real Middle Earth
+| director=Scott Price
+| producer=Luke McLaughlin
+| writer=
+| narrator=[[Ian Holm]]
+| starring=
+| music=Matt Morris and Graeme Rowland
+| cinematography= 
+| editing= 
+| distributor=Multi Media Arts
+| released=2003
+| runtime=58 minutes
+| country=UK
+| language=English
+| budget=
+| website=
+| imdb_id=2249678
+}}
+'''''The Real Middle Earth''''' is a [[2003]] documentary about the locations and landscapes of [[J.R.R. Tolkien|Tolkien]]'s works, and the potential sources behind them. The documentary is narrated by [[Ian Holm]], who played [[Bilbo Baggins]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' films]].
+
+==Summary==
+
+The documentary explores the locations and events in Tolkien's life that influenced his works, and his languages. Looking at Tolkien's upbringing in [[Warwickshire]] and [[Birmingham]], the documentary looks into the [[wikipedia:West Midlands (region)|West Midlands]] region of England - the former kingdom of [[wikipedia:Mercia|Mercia]] - and how locations inspired his vision of [[the Shire]]. The documentary also looks into Tolkien's time at [[Oxford]], his experience in the [[First World War]], and his visits to [[wikipedia:Stonyhurst College|Stonyhurst College]]. 
+==Original press release==
+{{blockquote|The Real Middle-Earth is a brand new documentary that uncovers the real places that inspired The Lord of the Rings.<br/><br/>Sir Ian Holm (Fellowship of the Ring, Alien, The Borrowers) narrates a fascinating exploration into a world that, although imaginary, seems so solid we pore over its maps and contemplate journeys made from one place to another.<br/><br/>Is this because the foundations of fantastic [[Middle-earth|Middle-Earth]] were laid on the bedrock of factual places?<br/><br/>Was there a shire to inspire the Shire? What shaped the darker and more troubled lands beyond its borders? How did European languages fuse in Tolkien's mind to create a vocabulary that evokes extraordinary places and heroic adventure?<br/><br/>The quest for The Real Middle-Earth takes us to England's west midlands, to Warwick and Oxford, to an ancient Lancashire school, to Saxon burial sites and many other places, including the real [[Dead Marshes]], otherwise known as the Great War battlefields of [[Battle of the Somme|the Somme]].<br/><br/>The Real Middle-Earth is 58 minutes long. There are also 50 minutes of extras on the DVD, including a profile of the official The Lord of the Rings mapmaker and a look behind the scenes at the prosthetics teams behind some of the LOTR movies' special effects.}}
+
+==Contributors==
+* [[Helen Armstrong]], [[Tolkien Society]] scholar
+* Peter Bennett, [[wikipedia:River Cole, West Midlands|River Cole]] Conservation Group
+* Ian Collier, Tolkien Society scholar
+* [[Patrick Curry]], author of ''[[Defending Middle-earth]]''
+* [[John Garth]], author of ''[[Tolkien and the Great War]]''
+* Janet Graffius, Curator of Stonyhurst College Museum
+* Jonathan Hewatt, Stonyhurst College
+* Peter Leather, lecturer at University of Birmingham in Birmingham's history
+
+==External links==
+
+*[http://www.janson.com/rights/the-real-middle-earth The Real Middle Earth] at Janson, current distributors
+{{title|italics}}
+[[Category:Documentaries]]
+[[fi:The Real Middle-earth (Documentary)]]

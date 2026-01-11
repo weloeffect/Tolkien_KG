@@ -1,0 +1,23 @@
+{{actor
+| image =
+| name = John Bach
+| lifetime = [[5 June]] [[1946]]
+| played = [[Madril]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0045324/ Profile]
+}}
+'''John Bach''' (born [[5 June|June 5]], [[1946]]) is a Welsh-born New Zealand actor. He played [[Madril]] in ''[[The Lord of the Rings: The Two Towers]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''.
+
+His surname is pronounced "Baitch". 
+
+==External links==
+* {{WP|John Bach}}
+
+{{DEFAULTSORT:Bach, John}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:John Bach]]

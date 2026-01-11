@@ -1,0 +1,20 @@
+{{incomplete}}
+{{disambig-more|Sir Gawain and the Green Knight|[[Sir Gawain and the Green Knight (disambiguation)]]}}
+{{Poem infobox
+| title=Sir Gawain and the Green Knight
+| other names=
+| written=Fourteenth-century
+| revised=Around [[1923]]; between [[1947]] and [[1953]]
+| published=''[[Sir Gawain and the Green Knight (edition)|Sir Gawain and the Green Knight]]'',<br>[[Sir Gawain and the Green Knight, Pearl and Sir Orfeo]]''
+| subject={{WP|Sir Gawain and the Green Knight}}
+}}
+[[File:John Howe - Sir Gawain and the Green Knight.jpg|thumb|200px|''Sir Gawain and the Green Knight'' by [[John Howe]]]]
+'''''Sir Gawain and the Green Knight''''' is a fourteenth-century English poem translated, amongst others, by [[J.R.R. Tolkien]]. It is a chivalric romance written in Middle English alliterative verse that follows Sir Gawain, King Arthur's nephew, after he accepts a challenge from the Green Knight, a Celtic figure, to a beheading game. The beheading game is a common trope in Celtic Myths, in which a stranger arrives at the court of a noble or king and challenges a hero to an exchange of blows in which the hero may, if they choose to accept the challenge, cut off the stranger's head, though the price for that is that the stranger may then cut of the hero's head. 
+
+The '''Sir Gawain and the Green Knight''' manuscript additionally includes three religious texts called ''[[Pearl]]'', ''Cleanness'', and ''Patience''.
+
+{{title}}
+{{poems}}
+
+[[Category:Mythology]]
+[[Category:Manuscripts]]

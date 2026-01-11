@@ -1,0 +1,41 @@
+{{mythlore
+|title=''Mythlore'' 43, Volume 12, Issue 1
+| image = Mythlore 43.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Autumn [[1985]]
+|format=Paperback
+|pages=63
+}}
+'''''Mythlore'' 43''' ([https://dc.swosu.edu/mythlore/vol12/iss1/ Volume 12, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+==Contents==
+
+==== Articles ====
+
+* Sammons, Margaret. “Tolkien On Fantasy in Smith of Wootton Major.”
+* Yandell, Steven. “The Trans-cosmic Journeys in The Chronicles of Narnia.”
+* Rawls, Melanie. “Arwen, Shadow Bride.”
+* Egan, Thomas. “Tolkien and Chesterton: Some Analogies.”
+* Kocher, Paul. “Ilúvatar and The Secret Fire.”
+* Ryan, J. S. “Saruman, ‘Sharkey,’ and Suruman: Analogous Figures of Eastern Ingenuity and Cunning.”
+* Patterson, Nancy-Lou. “Letters From Hell: The Symbolism of Evil in The Screwtape Letters.”
+* Thompson, George H. “Early Review of Books by J.R.R. Tolkien: Part III.”
+
+==== Features ====
+
+* GoodKnight, Glen. Editor's Notes: A Milestone.
+* Beach, Sarah. “Mythopoesis.”
+* Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics.”
+
+==== Reviews ====
+
+* ''Boxen''. C. S. Lewis, edited by Walter Hooper. Reviewed by Nancy-Lou Patterson.
+* ''The Discovery of King Arthur''. Geoffrey Ashe. Reviewed by Sarah Beach.
+* ''Letters to Children.'' C.S. Lewis, edited by Lyle W. Dorsett and Marjorie Lamp Mead. Reviewed by Nancy-Lou Patterson.
+* ''C.S. Lewis and the Search for Rational Religion.'' John Beversluis. Reviewed by Nancy-Lou Patterson. 
+* ''Pleasures Forevermore — The Theology of C.S. Lewis.'' John Randolph Willis, SJ. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|42|44}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 043}}
+
+[[Category:Mythlore]]

@@ -1,0 +1,20 @@
+{{letter infobox
+| #=56
+| to=[[Christopher Tolkien]]
+| date=[[1 March]] [[1944]]
+| subject=[[Inklings]]
+}}{{letter|56}}
+==Summary==
+Christopher Tolkien was in an RAF training camp in [[South Africa]] since January, and his father wrote regularly.
+
+The fragment had three trivial subjects. Tolkien started his letter telling about the return of the "Useless Quack", [[Robert Havard]], who had joined the Navy medical corps and was on leave in [[Oxford]]. He then told of [[C.S. Lewis]] and the inaccuracy of the press (concerning Mr. Lewis), and closed the letter with a remark about the weather. 
+
+;In the expanded edition
+in the first paragraph Tolkien shows delight that he has received airgraph messages from Christopher, and wonders whether he will visit Bloemfontein, where Tolkien was born.
+
+Tolkien ends the letter with "God bless you."
+
+{{letters}}
+{{DEFAULTSORT:Letter 056}}
+[[Category:Letters to Christopher Tolkien]]
+[[de:Brief 56]]

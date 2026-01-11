@@ -1,0 +1,46 @@
+{{Adaptation}}
+{{organization infobox
+| name=Court of Ardor
+| image=Gail McIntosh - The Court of Ardor.jpeg
+| caption=“The Court of Ardor” by [[Gail McIntosh]], depicting the sorceress Rilia (a citadel-ruler) and the demon Mourfuin
+| pronun=
+| othernames=
+| founded=Early Second Age
+| founder=
+| purpose=Destroying the Sun and Moon
+| members=Valmorgûl, Ardana, Morthaur, Mourfuin
+| location=[[Mûmakan]]
+| disbanded={{TA|1705}}
+| notablefor=
+}}In [[Middle-earth Role Playing]], The '''Court of Ardor''' was an evil organization in [[Mûmakan]] fanatically dedicated to [[Morgoth]]'s plan to destroy the Sun and Moon, continuing these efforts long after he was overthrown.<ref name="history">{{ICE|2500}}, pp. 11-12</ref> It is the titular subject of [[The Court of Ardor]] module.
+
+==History== 
+===First Age===
+Some Elves, the first inhabitants of the region, were seduced or tricked by servants of Morgoth into swearing oaths to perform certain tasks in return for power and wisdom. Elven lords who resisted formed the Guild of Elements in {{FA|50}}.<ref name="history"/>
+
+Among the corrupted Elves were the twins both named Fëatur, who appeared almost identical, and had served Morgoth in [[Angband]]. After the [[Two Trees of Valinor]] were destroyed, the male Fëatur repented and died. The Valar returned him to Middle-earth, charged to combat the Court as his penance. His sister was unaware, however, simply believing that he escaped from whatever predicament was believed that have caused his death.<ref>{{ICE|2500}}, pp. 17</ref>
+
+Hating the Sun and Moon, in {{FA|60}} the corrupted astrologer Ardana was tasked by Morgoth with destroying them. She had been deluded into seeing them as evil entities that blotted out [[Varda|Elbereth]]'s stars, and explained her mission in such terms to other Elves.
+
+It was when she encountered the [[Noldo]] Morthaur in {{FA|150}} that she finally decided on the way to achieve her goal, for Morthaur was familiar with the way [[Ungoliant]]'s [[Unlight]] permeated the gems she had belched out after Morgoth fed them to her. Morgoth gave the pair the eight largest of such gems. The ritual they envisioned also required the blood of a [[Valar|Vala]]. For this purpose, Ardana would bear a daughter fathered through unknown means by Morgoth.
+
+Over the following 250 years, the Court built a main Citadel, and eight other fortresses around the bay of Shaan-Ta-Rhûn to serve as their power bases. The eight rulers of these citadels and the main citadel's warden [[Tantûrak|Valmorgûl]], formed the Ardor Council, together with Ardana, Morthaur, and Mourfuin the Demon.
+
+Resistance spread as well, with the Guild of Elements allying with the Three of Ty-Ar-Rana and the Starseer Conclave into the Luingon alliance around {{FA|300}}.
+
+In {{FA|507}}, Ardana gave birth to twins instead of a single child. The boy Moran falsely appeared dead, and was spirited away by a healer to the male Fëatur, who put him into a magical sleep after hearing a prophecy related to him. The girl, Morelen, was raised in the dark arts ignorant of the fate intended for her.
+
+The ritual was aborted in {{FA|570}}, after Morelen unexpectedly disappeared. Three of the eight gems of Unlight were stolen by the Luingon alliance, who attacked the Citadel. Shortly after, the overthrow of Morgoth in the [[War of Wrath]] threw the Court into disarray, as many of their magical artefacts tied to Morgoth were rendered inert. Ardana and Morthaur fled to the East.<ref name="history"/>
+
+===Second Age===
+The Guild of Elements established outposts around {{SA|300}} to monitor the abandoned citadels of the Court, but by {{SA|1000}} the watch had failed. Ardana and Morthaur returned to the Citadel, and by {{SA|1300}} they had grown to power again, and even managed to reforge a lesser version one of their treasured artefacts, Ardana's deck of magical cards.
+
+When [[Sauron]] returned to Mordor after the [[Downfall of Númenor]], he perceived the power of the Court and forced his will upon it.<ref name="history"/> 
+===Third Age===
+In {{TA|1100}}, the Court managed to recapture the first of three gems. When a Ringwraith showed up in {{TA|1264}} to demand a new alliance, the Court stalled for time, realizing Sauron's weakness. A second gem was then retrieved in {{TA|1408}}. The guild reawakened Moran from his magical sleep in {{TA|1680}}, believing his aid would be needed to stop a second attempt at the ritual.
+
+This second attempt at the ritual occurred on 8 August {{TA|1705}}, the day of an eclipse over the Citadel.<ref name="history"/> This attempt failed, either through the action of a company of heroes, or through the intervention of Sauron himself, who accepted no rivals. Whichever was the case, this was the final end of the Court.<ref>{{ICE|2500}}, p. 52</ref>
+{{References}}
+
+[[Category:Concepts from adaptations]]
+[[Category:MERP]]

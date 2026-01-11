@@ -1,0 +1,55 @@
+{{Mallorn
+| name=Mallorn 13
+| image = Mallorn13.jpg
+| editor=[[Susan Rule]]
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[1979]]
+| format=A4 stapled paperback
+| pages=34
+| issn=0308-6674
+}}
+'''''Mallorn'' 13''' is the thirteenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[1979]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: [[Susan Rule]]
+*"The Battle of the Eastern Field": A Commentary
+** By: Jessica Yates
+* 'Galadriel'
+** By: Ruud Verkerk
+* Review of ''An Introduction to Elvish''
+** By: [[Tom Shippey]]
+* 'Trees'
+** By: Ruud Verkerk
+* Mallorn Crossword
+** By: Michael Henry
+* Gimli's Axe
+** By: [[Jonathan Simons]]
+* The Specula of Middle-earth
+** By: [[Brin Dunsire]]
+* "My Preciousss!"
+** By: Al. Hall
+* Lament
+** By: Isobel Robins
+* Not an Orderly Narrator
+** By: Pat Masson
+* Crossword Solution
+* On the French Translations of Tolkien's Works
+** By: Denis Bridoux
+* A Changeling's Words to Mrs V. Chapman
+** By: Gordon MacLellan
+* A Chronology of the First Age
+** By: C. Tolley
+* Pegasus
+** By: Gordon MacLellan
+
+* Inside Art
+** By: Lucy Matthews, Steve Pillinger
+
+{{mallornnav|12|14|url=http://journals.tolkiensociety.org/mallorn/issue/view/14/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 13}}
+[[Category:Mallorn (journal)]]

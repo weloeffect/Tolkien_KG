@@ -1,0 +1,100 @@
+{{disambig-two|Easterlings of the Second and Third Age|Easterlings of the First Age|[[Easterlings (First Age)]]}}
+{{people infobox
+| name=Easterlings
+| image = John Howe - Easterlings.jpg
+| caption="Easterlings" by [[John Howe]]
+| pronun=
+| othernames=Folk of the East
+| origin=
+| location=lands east of and including [[Rhûn]]; [[Rhovanion]]; [[March of Maedhros]]; [[Hithlum]]
+| affiliation=[[Morgoth]]<br>[[Sauron]]
+| rivalry=
+| language=
+| members=[[Khamûl]], [[Easterlings (First Age)]] ([[Brodda]], [[Lorgan]], [[Ulfang]], [[Uldor]], [[Ulfast]], [[Ulwarth]], [[Bór]], [[Borlach]], [[Borlad]], [[Borthand]])
+| lifespan=
+| distinctions=Use of the war-wagons ([[Wainriders]] and [[Balchoth]])
+| height=
+| hair=Dark
+| skin=Swarthy in the [[First Age]]
+| clothing=
+| weapons=
+}}
+
+The '''Easterlings''' were [[Men]] who lived in the [[East]] of [[Middle-earth]], and mostly served the [[Dark Lord|Dark Powers]]. They were frequent enemies of the [[Free peoples|Free Peoples]]. 
+
+==History==
+===First Age===
+In the late [[First Age]], Men [[Awakening of Men|awoke]] in [[Hildórien]] in the [[East]]. Early on, some of them were corrupted by [[Morgoth]], prompting others (the [[Edain]]) to migrate westwards.<ref name="dm">{{PM|Dwarves}}</ref>
+
+Centuries later, after [[Dagor Bragollach]], tribes of [[Men]] joined the Edain in [[Beleriand]], long after their arrival. These [[Easterlings (First Age)|Swarthy Men]] (q.v.) came from the east, probably [[Eriador]] and were also called "Easterlings". Two of their leaders were [[Bór]] and [[Ulfang]].<ref>{{S|Fingolfin}}</ref>
+
+===Second Age===
+In the [[Second Age]] [[Sauron]] escaped the judgment of the [[Valar]] and continued his former master's work, turning the Men of the [[East]] and [[South]] to evil and dominating them. Under the authority of the Dark Lord, many towns and walls of stone were built, and those under his influence became numerous and armed with iron. To these men, Sauron was feared as a king and god.<ref name="dm" /><ref name="rings">{{S|Rings}}</ref> 
+
+During the [[Dark Years]] Sauron dominated most of the [[Westlands]], also urging men from the East to go to the west for loot. Those troubled the [[Northmen]] who waged a war against them and the [[orcs]]. When Sauron was driven back to [[Mordor]], he continued his expansions eastwards gaining servants and worshippers.<ref name="dm" /><ref>{{UT|Amroth}}</ref>
+
+At some point during the Dark Years, Sauron gave [[Nine Rings|one of the]] [[Rings of Power]] to [[Khamûl]], an Easterling lord<ref name="Black">{{UT|Black}}</ref> with which he gained power and prestige among his people, becoming a mighty lord and sorcerer, until he became a [[wraith]].<ref name="rings" />
+
+===Third Age===
+[[File:Easterling.jpg|thumb|An Easterling in [[The Lord of the Rings: The Battle for Middle-earth II]], design originally from [[The Lord of the Rings: The Two Towers]]]]
+After Sauron's defeat in the [[War of the Last Alliance]], these "Wild Men" were released by his tyranny but they still had [[Darkness (concept)|darkness]] in their hearts. Evil and restless, they battled against each other and some withdrew to the hated west.<ref>{{UT|6b}}</ref> Thus they encountered the lands of [[Gondor]] and since then, tribes brought trouble periodically with several attacks and migrations. Even [[Northmen]] often assailed Gondor for a long time.<ref>{{TT|IV5}}</ref>
+
+They first enter the records of [[Gondor]] in {{TA|490}}<ref name="ta">{{App|TA}}</ref> attacking Gondor from the plains between the [[Sea of Rhûn]] and the [[Ash Mountains]]. [[Tarostar]] managed a first victory against them in {{TA|500}}<ref name="ta" /> for which he became known as "Rómendacil". In {{TA|541}} they took revenge against him, but [[Turambar (King of Gondor)|Turambar of Gondor]] destroyed the horde and conquered a new territory in [[Rhûn]] for Gondor.<ref name="gondor" />
+
+In the following centuries the Easterlings cease, while Gondor was free to extend its borders to [[South Gondor|the south]]. 
+
+However, beyond the borders of Gondor, some "invaders from the East", no doubt moved by Sauron,<ref>{{PM|XNotes}}, #60</ref> came to [[Rhovanion]] harassing the Northmen, occupying [[Greenwood]] and traversing it, coming to the [[Vales of Anduin]]. These moves coincided with the coming of the [[Shadow]] of [[Dol Guldur]], and these were the causes that drove the [[Hobbits]] to [[Eriador|the west]] around {{TA|1000}}.<ref>{{PM|Atani}}</ref>
+
+In the days of [[Narmacil I]] the Easterlings resumed their attacks, even some greedy Northmen joined them. In {{TA|1248}} an Easterling army marched in the lands between [[Rhovanion]] and the Sea of Rhûn. Forces from Gondor - aided by Northmen of Rhovanion - defeated them and destroyed their camps and settlements east of the Inland Sea.<ref name="gondor" />
+
+After this defeat the Easterlings disappeared from the Gondorian records for some period, during which Gondor was again occupied with the south and the [[Corsairs of Umbar]].
+
+===The Wainriders===
+During that time emissaries of Sauron instigated tribes of Easterlings to form the confederacy known as the '''[[Wainriders]]''' (q.v.) who would trouble the Kingdom and the Northmen.<ref name="gondor">{{App|Gondor}}</ref> 
+
+Gondor was weakened by the [[Great Plague]] and the Wainriders defeated the Gondorian army in {{TA|1856}}, raided the lands of [[Rhovanion]] and enslaved its people. Some of these lands were eventually reclaimed by King [[Calimehtar (King of Gondor)|Calimehtar]]. 
+
+In {{TA|1944}}, the Wainriders, allied with the [[Haradrim]] of [[Near Harad]] and the [[Variags]] of [[Khand]], managed a [[Disaster of the Morannon|brief victory]] against Gondor, despite the assistance by the [[Éothéod]]. They were eventually [[Battle of the Camp|defeated in their camp]] while celebrating their victory.  
+
+After this defeat the might of the Wainriders was broken although still held Rhovanion, and they retreated east. Most importantly, King [[Ondoher]] and both his sons were slain in that assault, an event that led to the extinction for the line of the [[Kings of Gondor]]. 
+
+In {{TA|2063}} the Necromancer (who was actually Sauron) retreated from [[Dol Guldur]] for some centuries. That period was known as the [[Watchful Peace]] for the [[Westlands]], but during that time Sauron retreated to the East and managed to create a strong alliance between the various tribes of Easterlings.
+
+===The Balchoth===
+The '''[[Balchoth]]''' were a fierce race southeast of [[Mirkwood]], under orders of [[Dol Guldur]]<ref name="A1ivS">{{App|A1ivS}}</ref> and no doubt related to the [[Wainriders]].<ref name="cirion" /> In {{TA|2510}} they and [[Orcs]] overran the plains of [[Calenardhon]] and almost destroyed the army of Steward [[Cirion]], but were defeated by the [[Éothéod]].<ref name="A1ivS" /><ref name="cirion">{{UT|Cirion}}</ref>
+
+In {{TA|2545}} some Easterlings renewed their attacks and entered the new-founded [[Rohan]]. [[Eorl]] fell fighting them in [[the Wold]], but his son [[Brego]] drove them out.<ref>{{App|Mark}}</ref> In [[Third Age 2758|T.A. 2758]] Rohan was again attacked by Easterlings, but they perished or withdrew in the spring of [[Third Age 2759|T.A. 2759]] due to great floods in the [[Entwash Vale|vale of Entwash]] after heavy snowfalls of the [[Long Winter]].<ref name=":0" />
+
+During these struggles Sauron reclaimed Mordor unnoticed in {{TA|2941}}.
+
+===War of the Ring===
+Easterlings from regions beyond the Sea of Rhûn<ref>{{HM|N}}, entry Easterlings, p. 755</ref> fought in the [[War of the Ring]] serving Mordor alongside the [[Haradrim]] and [[Variags]]. They appeared in the [[Battle of the Pelennor Fields]]. 
+
+Around the same time, Sauron sent an army of Easterlings north to invade the [[Kingdom of Dale]]. They were temporarily victorious at the [[Battle of Dale]], but could not take the [[Gate of Erebor]]. After the fall of Sauron on [[25 March]], the Easterlings' morale dropped, and the defenders were able to break the siege.<ref>{{app|Great}}</ref> 
+
+In the [[Fourth Age]] some Easterlings were subdued by [[Aragorn|King Elessar]] and King [[Éomer]].<ref name=":0">{{App|Eorl}}</ref>
+
+==Culture==
+The Easterlings were in general more primitive than [[Gondor]]. They were motivated by [[Sauron]] to hate Gondor and seek its riches. 
+
+Troops mentioned in the Easterling forces aiding Sauron in the Third Age included swordsmen, spearmen, mounted archers, and [[chariots]] ridden by chieftains.<ref>[[J.R.R. Tolkien]], ''[[The Lord of the Rings]]'', ''[[The Fellowship of the Ring]]'', "[[The Breaking of the Fellowship]]"</ref>
+
+Some like the Wainriders and the Balchoth had large chariots, wagons and wains which they used to run their foes down, as well as live in and used to fortify their camps.<ref name="cirion" /> Easterlings of a previously unknown type that participated in the [[Siege of Gondor|siege of Minas Tirith]] and the [[battle of the Pelennor Fields]] were bearded like [[dwarves]] and used great [[axes]].<ref>[[J.R.R. Tolkien]], ''[[The Lord of the Rings]]'', ''[[The Return of the King]]'', "[[The Siege of Gondor]]"</ref><sup>,</sup><ref>{{RK|V6}}</ref>
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:The Men collectively referred to as Easterlings by the Free Peoples of the West are portrayed as several clans distinct in appearance that are only united by the might of [[Sauron]]. The '''Khundolar''' Easterlings attack the [[Wold]] of [[Rohan]] from the [[Brown Lands]] and also fight on Sauron's side at the [[Battle of the Morannon]]. The '''Jangovar''' Easterlings attack [[Dale]] and the [[Lonely Mountain]] in the north, and after Sauron's defeat the remainder of that army continues to linger in those lands. The '''Sûhalar''' Easterlings are shorter in stature and armed with axes, to the point where some mistake them for [[dwarves]], their armies participate in the [[Siege of Minas Tirith]].
+
+:The '''Chayasír''' Easterlings are craftsmen and tradesmen with no love for Sauron and take no part in the [[War of the Ring]]. However, on the [[25 March|same day]] when [[The One Ring]] was destroyed, an unknown calamity had taken place in [[Rhûn]], and in the weeks afterwards streams of Chayasír refugees begin arriving into the [[Iron Hills]] and the [[Dale]]-lands. The men and dwarves of those lands had only just won a bloody war against the Easterlings and hold a great deal of both prejudice and outward hostility towards them, despite the Chayasír seeing themselves as having nothing in common with the Jangovar who fought in that war. None of the refugees would speak in detail about what exactly had happened in Rhûn, other than it is absolutely impossible for any of the Easterlings, soldiers of refugees, to go back.
+
+==See also==
+*[[:Category:Images of Easterlings|Images of Easterlings]]
+
+{{references}}
+
+[[Category:Men]]
+[[Category:Easterlings]]
+[[Category:Servants of Melkor]]
+[[Category:Servants of Sauron]]
+[[de:Ostlinge]]
+[[fi:Itäläiset]]

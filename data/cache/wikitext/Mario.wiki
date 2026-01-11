@@ -1,0 +1,16 @@
+{{Expansion}}
+{{video game infobox
+| image = Mario-LOTR.png
+| name=Mario
+| developer=''Harold Bronfleth'' (Version 1) and ''Herbert Grosser'' (Version 2)<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/mario.html Mario] at Tolkien Games (retrieved 4 September 2010)</ref>
+| publisher=Unkown
+| platform=[[wikipedia:Commodore 64|Commodore 64]]
+| releasedate=[[1984]]
+| genre=Parody
+|}}
+'''''Mario''''' is a German illustrated Text-Adventure and parody which is based on ''[[The Fellowship of the Ring]]''. All names are changed.<ref name="Tolkien Games"/> It covers chapter 4 and 5 of Book 2 of ''[[The Fellowship of the Ring]]''.<ref>[http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 4 September 201)</ref>
+
+{{references}}
+{{title|italics}}
+[[Category:Parodies]]
+[[Category:Text-Adventure video games]]

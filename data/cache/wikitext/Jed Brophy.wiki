@@ -1,0 +1,50 @@
+{{actor
+| image = Jed Brophy.jpg
+| name = Jed Brophy
+| lifetime = [[29 October]] [[1963]]
+| played = [[Snaga (orc of Isengard)|Snaga]], [[Sharku]]
+| film = ''[[The Lord of the Rings: The Two Towers]]''
+| played2 = [[Nori]]
+| film2 = [[The Hobbit (film series)|''The Hobbit'' (film series)]]
+| played3 = [[Vrath]]
+| film3 = ''[[The Lord of the Rings: The Rings of Power]]''
+| imdb = [https://www.imdb.com//name/nm0112400/ Profile]
+}}
+'''Jed Brophy''' (b. [[29 October|October 29]], [[1963]]) is a New Zealand actor. Often cast by [[Peter Jackson]] in his works, he is mainly known for portraying [[Nori]] in [[The Hobbit (film series)|''The Hobbit'' film series]]. He also played many roles in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]], though he was only credited for the second film. His children, [[Sadwyn Brophy|Sadwyn]] and Riley, also appeared in the films; the former as [[Eldarion]] and the latter as a Hobbit child.
+
+In June [[2007]], he and 14 other actors filed [https://us.imdb.com/news/ni0058227/ a lawsuit] against [[New Line Cinema]] over merchandising royalties.<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2007/06/01/23983-actors-join-to-sue-new-line-over-lotr-merchandising/|articlename=Actors join to sue New Line over LOTR merchandising|dated=1 June 2007|website=TORN|accessed=3 December 2024}}</ref> The action was settled out of court in October [[2008]].<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2008/10/08/30205-new-zealand-actors-settle-out-of-court-with-new-line-cinema/|articlename=New Zealand actors settle out of court with New Line|dated=8 October 2008|website=TORN|accessed=3 December 2024}}</ref>
+
+==Roles==
+* [[2001]]: ''[[The Lord of the Rings: The Fellowship of the Ring]]'' – [[Wandering Companies|Wandering Company elf]], [[Nazgûl|Black Rider]], Hobbit at Bilbo's party
+* [[2002]]: ''[[The Lord of the Rings: The Two Towers]]'' – [[Snaga (orc of Isengard)|Snaga]], Rohan soldier at [[Fords of Isen|Isen]], [[Sharku]]
+* [[2003]]: ''[[The Lord of the Rings: The Return of the King]]'' – [[Witch-king|Witch-king's]] armourer, Orc
+* [[2003]]: ''[[Cameras in Middle-earth]]'' – Himself
+* [[2003]]: ''[[Home of the Horselords]]'' – Himself
+* [[2004]]: ''[[The Lord of the Rings: The Third Age]]'' – Sharku (archive footage)
+* [[2012]]: ''[[Lego The Lord of the Rings: The Video Game]]'' – Sharku (archive footage)
+* [[2012]]: ''[[The Hobbit: An Unexpected Journey]]'' – [[Nori]]
+* [[2013]]: ''[[The Hobbit: The Desolation of Smaug]]'' – Nori
+* [[2013]]: ''[[New Zealand: Home of Middle-earth]]'' - Himself
+* [[2014]]: ''[[Lego The Hobbit: The Video Game]]'' – Nori (archive footage)
+* [[2014]]: ''[[The Hobbit: The Battle of the Five Armies]]'' – Nori
+* [[2015]]: ''[[Recruiting the Five Armies]]''  - Himself
+* [[2022]]: ''[[The Lord of the Rings: The Rings of Power]]'' – [[Vrath]] / Tavern Orc / Hunter Orc
+
+==See also==
+{{video|youtube=https://www.youtube.com/watch?v=u4QRQ6VbYVE}}
+
+== External links ==
+* {{WP|Jed Brophy}}
+
+{{References}}
+
+{{DEFAULTSORT:Brophy, Jed}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Hobbit (film series) cast]]
+[[Category:The Rings of Power (TV series) cast]]
+
+[[de:Jed Brophy]]
+[[fi:Jed Brophy]]

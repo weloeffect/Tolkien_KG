@@ -1,0 +1,33 @@
+{{Infoboxes
+|label1=OST
+|content1={{song
+| title=Shelob's Lair
+| album=[[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=4:07
+| track=11
+| previous=[[Andúril (soundtrack)|Anduril]]
+| next=[[Ash and Smoke]]
+| spotify=https://open.spotify.com/track/2JzuB2RsCTditjUfWfECI0
+}}
+|label2=Complete Recordings
+|content2={{song
+| title=Shelob's Lair
+| album=[[The Lord of the Rings: The Return of the King - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| writer=Howard Shore, [[Philippa Boyens]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Return_of_the_King_-_The_Complete_Recordings.jpg
+| duration=8:53
+| track=Disc 2 Track 13
+| previous=[[The Siege of Gondor (soundtrack)|The Siege of Gondor]]
+| next=[[Merry's Simple Courage (soundtrack)|Merry's Simple Courage]]
+| spotify=https://open.spotify.com/track/51Om1IzCnoRv1gLJSwQdkm
+}}
+}}
+'''Shelob's Lair''' is the eleventh track of ''[[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack]]'' and the thirteenth track of disc two of ''[[The Lord of the Rings: The Return of the King - The Complete Recordings]]'' by [[Howard Shore]].
+{{title}}
+[[Category:The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack|11]]
+[[Category:The Lord of the Rings: The Return of the King - The Complete Recordings|2.13]]

@@ -1,0 +1,66 @@
+{{band
+| image = Avathar.png
+| name=
+| origin=Ojakkala, Finland
+| genre=Black metal, [[Tolkien metal]]
+| years=2000-present
+| label=None
+| website=[http://www.facebook.com/avatharFIN/ Facebook page]
+| members=Witch king<br/>Scatha<br/>Dragon Hunter<br/>Anfauglir<br/>Khamûl<br/>Ar-Pharazôn
+| formermembers=Jonna Piittala<br/>Daeron<br/>Thalion<br/>Emerwen<br/>Iina<br/>Finduilas<br/>Von Blofeld<br/>Bolg<br/>Dain<br/>Miriel<br/>Dim
+}}
+'''Avathar''' is a Finnish black metal band whose works are inspired by the writings of [[J.R.R. Tolkien]]. They name Austrian black metal band [[Summoning]] as one of their main musical influences.
+
+=== History ===
+Inspired by the works of Tolkien, Avathar were founded in [[2000]] as a two-man project of Witch king and Scatha.<ref>{{webcite|articleurl=http://www.metalsoundscapes.com/archives/26977/avathar-released-new-album|articlename=AVATHAR released new album|dated=23 January 2019|accessed=17 March 2019|website=[http://www.metalsoundscapes.com Metal Soundscapes]}}</ref> 
+
+Their work is inspired by the Austrian black metal band [[Summoning]], however their work makes greater use of keyboards and vocals, and the approach to their is in creating soundtracks.<ref>{{webcite|articleurl=http://www.metal-archives.com/reviews/Avathar/Shadows/71739/|articlename=Avathar - Shadows - Reviews|dated=6 August 2008|accessed=17 March 2019|website=[http://www.metal-archives.com/ Metal Archives]}}</ref> 
+
+== Discography ==
+
+<table class="TGtable sortable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse;"><tr><th style="background: #F2E6CE;">Release date</th><th style="background: #F2E6CE;">Name</th><th style="background: #F2E6CE;">Type</th><th style="background: #F2E6CE;">Tracks</th><th style="background: #F2E6CE;">Length</th></tr>
+<tr><td>[[2003]]</td><td>''The Shadows''</td><td>Demo</td><td>6</td><td>28.30</td></tr>
+<tr><td>[[2004]]</td><td>'''''Shadows'''''</td><td>Full-length</td><td>13</td><td>65.00</td></tr>
+<tr><td>[[2004]]</td><td>'''''Where Light and Shadow Collide'''''</td><td>Full-length</td><td>9</td><td>51.35</td></tr>
+<tr><td>[[2005]]</td><td>''A Storm Coming''</td><td>Demo</td><td>4</td><td>22.02</td></tr>
+<tr><td>[[2006]]</td><td>''Where Wicked Winds Blow''</td><td>Demo</td><td>4</td><td>20.58</td></tr>
+<tr><td>[[2007]]</td><td>''Beyond the Spheres of the Mortal World''</td><td>EP</td><td>5</td><td>30.16</td></tr>
+<tr><td>[[2008]]</td><td>''To the Halls of Await''</td><td>Demo</td><td>4</td><td>21.53</td></tr>
+<tr><td>[[2008]]</td><td>''From the Other Side''</td><td>Demo</td><td>4</td><td>24.33</td></tr>
+<tr><td>[[2008]]</td><td>''For What Dwells Behind the Mist''</td><td>Demo</td><td>2</td><td>12.44</td></tr>
+<tr><td>[[2009]]</td><td>''Forlorn''</td><td>Demo</td><td>3</td><td>24.00</td></tr>
+<tr><td>[[2010]]</td><td>''Dark Paths''</td><td>Demo</td><td>3</td><td>15.19</td></tr>
+<tr><td>[[2019]]</td><td>'''''Bûrgulu kû-ghâra'''''</td><td>Full-length</td><td>13</td><td>90.24</td></tr>
+</table>
+
+== Line-up ==
+;Current members<ref>{{webcite|website=[http://www.facebook.com Facebook]|articleurl=http://www.facebook.com/pg/avatharFIN/about/?ref=page_internal|articlename=Avathar/FIN - About|dated=24 October 2018|accessed=17 March 2019}}</ref>
+* Witch king (Harri Hyytiäinen) - bass <small>(2000-2007)</small>, vocals <small>(2000–present)</small>
+* Scatha - synth <small>(2000–present)</small>
+* Dragon Hunter - guitar <small>(2007–present)</small>
+* Anfauglir - bass <small>(2011–present)</small>
+* Khamûl - drums <small>(2013–present)</small>
+* Ar-Pharazôn - synth <small>(2014–present)</small>
+
+;Former members<ref>{{webcite|articleurl=http://www.metal-archives.com/bands/Avathar/33707|articlename=Avathar|accessed=17 March 2019|website=[http://www.metal-archives.com/ Metal Archives]}}</ref><ref>{{webcite|articleurl=http://www.spirit-of-metal.com/en/band/Avathar_(FIN)|articlename=Avathar (FIN)|accessed=17 March 2019|website=[http://www.spirit-of-metal.com Spirit of Metal]}}</ref>
+* Jonna Piittala - vocals <small>(2003)</small>
+* Daeron - guitar <small>(2005-2007)</small>, drums <small>(2007-2011)</small>
+* Thalion - drums <small>(2005-2007)</small>
+* Emerwen - keyboard <small>(2005-2009)</small>
+* Iina - vocals <small>(2006)</small>
+* Finduilas - vocals <small>(2006-2009)</small>
+* Von Blofeld- vocals <small>(2007)</small>
+* Bolg - bass <small>(2007-2011)</small>
+* Dain - guitar <small>(2007-2016)</small>
+* Miriel - vocals <small>(2009-2011)</small>
+* Dim - drums <small>(2011-2013)</small>
+
+==External links==
+* '''[http://www.facebook.com/avatharFIN/ Facebook]'''
+* '''[http://www.youtube.com/channel/UCIuMOUn6pd9S1CGuZPOI6aQ Youtube]'''
+* '''[https://myspace.com/avatharinvarjot Myspace]'''
+* '''[https://avathar.bandcamp.com/ Bandcamp]'''
+{{references}}
+{{title}}
+[[Category:Bands]]
+[[Category:Black metal]]

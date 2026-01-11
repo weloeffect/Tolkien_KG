@@ -1,0 +1,61 @@
+{{Mallorn
+| name=Mallorn 53
+| image = Mallorn53.jpg
+| editor=[[Henry Gee]]
+| artist=[[Ted Nasmith]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Spring 2012
+| format=A4 stapled paperback, glossy
+| pages=48
+| issn=0308-6674
+}}
+'''''Mallorn'' 53''' is the fifty-third issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Spring [[2012]]. This was the last issue to be published biannually; the journal returned to its annual format with [[Mallorn 54|''Mallorn'' 54]] coming out a year later in Spring [[2013]].
+
+==Contents==
+* '''Cover Art'''
+** By: [[Ted Nasmith]]
+* '''Guest Editorial'''
+** "An Elrond by any other name"
+*** By: [[Kristine Larsen]]
+* '''Letters to the Editor'''
+** "Tolkien's Nobel prize"
+***By: Troels Forchhammer
+* '''Reviews'''
+** "On the origin of ideas": ''[[Tolkien and the Study of His Sources]]''
+*** By: [[Janet Brennan Croft]]
+** "Visions of Middle-earth": ''[[A Tolkien Tapestry]]''
+*** By: Daniel Howick
+** "Life during wartime": ''[[Tolkien and the Peril of War]]''
+*** By: Becky Hitchin
+** "The year in perspective:" [[Tolkien Studies: Volume 9|''Tolkien Studies: An Annual Scholarly Review'', Volume VIII 2011]]
+*** By: Troels Forchhammer
+** "Telling tales": ''Among Others''
+*** By: [[Patricia Reynolds|Pat Reynolds]]
+** "Exploring the blind spots": ''[[The Lord of the Rings: War in the North]]''
+*** By: Harley J. Sims
+** "Sought in translation": ''C.S. Lewis's Lost Aeneid: Arms and the Exile''
+*** By: Sharron Sarthou
+* '''Commentary'''
+** "What made J.R.R. Tolkien tick and why was he called 'Reuel'? The importance of Tolkien biography"
+*** By: [[Colin Duriez]]
+** "From Dunne to Desmond: disembodied time travel in Tolkien, Stapledon and ''Lost''"
+*** By: [[Kristine Larsen]]
+** "Going back: time travel in Tolkien and E. Nesbit"
+*** By: Virginia Luling
+*Fiction
+** "Ten-thousand moons of howling"
+*** By: Gareth Owens
+** "Riders of the last orc"
+*** By: Lynn Forest-Hill
+** "Dark trails"
+*** By: Mark Ridge
+* '''Well, I'm Back'''
+** "Meriadoc and the matter of Rohan"
+*** By: [[David Doughan]]
+* '''Inside Art'''
+** By: Lorenzo Daniele, [[Jef Murray]], [[Cor Blok]], Ted Nasmith, Rick J. Ritchie, John Gilbey
+
+{{mallornnav|52|54}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 53}}
+[[Category:Mallorn (journal)]]

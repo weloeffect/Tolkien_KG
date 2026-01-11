@@ -1,0 +1,44 @@
+{{journal
+| title=Other Minds 24
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=January [[2021]]
+| format=PDF
+| pages=78
+| issn=
+}}
+
+'''''Other Minds'' 24''' is the twenty-fourth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in January 2021.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Blood in the Waters"
+** By Christoph Hardebusch
+* "Fourth Age of Middle-earth"
+** By Viel Nast
+* "Ravens and Crows"
+** By Thomas Morwinsky
+* "TOR Guide to the Lands of Lindon"
+** By Andrew Laubacher
+* "The Sisters and the Sea"
+** By Andrew Laubacher
+* "The Haunted Lake - A Shire Adventure"
+** By Andrew Laubacher
+* "Of Ghosts and Goblins"
+** By Christoph Hardebusch
+* "A Mass Abduction"
+** By Andreas Erdmann
+
+*'''Artwork / Maps:'''
+** By: Aegeri, Sergio Artigas, [[Matěj Čadil]], Andreas Canals, Liz Danforth, [[Anke Eißmann]], Marya Filatova, Wouter Florusse, [[John Howe]], Liiga Klavina, Anna Kulisz, Janka Lateckova, Turner Mohan, Abe Papakhian, Jereme Peabody, Ludwig Pietsch, Jan Pospisil, Peter Xavier Price, John Emanuel Shannon, Sarka Skorpikova, Aari Suonpää, Ulla Thynell, Markus Weber
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 24}}
+[[Category:Other Minds]]

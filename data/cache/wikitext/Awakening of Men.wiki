@@ -1,0 +1,23 @@
+{{expansion}}
+{{events
+| image = Šárka Škorpíková - First sunrise in Hildorien.png
+| event=Awakening of Men
+| othernames=
+| location=[[Hildórien]]
+| date={{FA|1}}
+| result=The existence of [[Men]] in [[Arda]]
+| partof=[[Ilúvatar]]'s plan for [[Eä]]
+| participants=Ilúvatar, [[Men]]
+| description=The creation of Mankind
+| references=
+|}}
+The '''Awakening of Men''' was the stirring of the first [[Men]], in the far eastern land of [[Hildórien]], towards the end of the [[First Age]], when the [[Years of the Sun]] began. They were awakened by [[Ilúvatar]], when the first Sun rose in the West.<ref>{{S|12}}</ref>
+
+==Other versions of the legendarium==
+In the early ''[[The Book of Lost Tales]]'', the Men awoke thanks to the [[Elves|Elf]] [[Nuin]], who discovered them sleeping in an enclosed valley of the East called [[Murmenalda]], the Vale of Sleep.<ref>{{LT1|X}}</ref> Accidentally he stirred a sleeper, overcome with curiosity, and he woke the first pair of [[Men]], right before the first rising of the [[Sun]] from the [[West]]. Their names were [[Ermon]] and [[Elmir]]. Nuin also taught them [[Ilkorin|speech]], and thus was the '''Father of Speech'''.<ref>{{LT1|Xn}}</ref>
+
+In the [[Round World version of the Silmarillion]] of c. [[1955]], the awakening of Men is proposed to be much earlier, sometime between the [[Awakening of the Elves]] and the [[Battle of the Powers]] ({{YT|1050}} - {{YT|1100}}).<ref>{{MR|Myths}}</ref> In a draft published in ''[[The Nature of Middle-earth]]'', the date is given as {{YT|1075}} (which is of course by no means final desision).<ref>{{NM|Awaking}}, p. 43</ref>
+{{references}}
+[[Category:Events]]
+[[Category:First Age]]
+[[fi:Ihmiset#Ihmisten herääminen]]

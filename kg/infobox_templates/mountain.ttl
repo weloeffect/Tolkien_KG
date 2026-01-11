@@ -1,0 +1,84 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%C3%8Drensaga> a schema:WebPage ;
+    rdfs:label "Írensaga"@en ;
+    schema:about <http://localhost:8000/resource/%C3%8Drensaga> .
+
+<http://localhost:8000/page/Caradhras> a schema:WebPage ;
+    rdfs:label "Caradhras"@en ;
+    schema:about <http://localhost:8000/resource/Caradhras> .
+
+<http://localhost:8000/page/Celebdil> a schema:WebPage ;
+    rdfs:label "Celebdil"@en ;
+    schema:about <http://localhost:8000/resource/Celebdil> .
+
+<http://localhost:8000/page/Hyarmentir> a schema:WebPage ;
+    rdfs:label "Hyarmentir"@en ;
+    schema:about <http://localhost:8000/resource/Hyarmentir> .
+
+<http://localhost:8000/page/Mindolluin> a schema:WebPage ;
+    rdfs:label "Mindolluin"@en ;
+    schema:about <http://localhost:8000/resource/Mindolluin> .
+
+<http://localhost:8000/page/Thrihyrne> a schema:WebPage ;
+    rdfs:label "Thrihyrne"@en ;
+    schema:about <http://localhost:8000/resource/Thrihyrne> .
+
+<http://localhost:8000/resource/%C3%8Drensaga> a schema:Place ;
+    tg:belongs <http://localhost:8000/resource/The_White_Mountains> ;
+    tg:caption <http://localhost:8000/resource/J.R.R._Tolkien_-_%27%27Starkhorn%2C_Dwimorberg_and_Irensaga%27%27> ;
+    tg:description "Saw-toothed mountain"@en ;
+    tg:events <http://localhost:8000/resource/Arrival_of_King_Th%C3%A9oden_at_Dunharrow> ;
+    tg:image "J.R.R. Tolkien - Starkhorn, Dwimorberg and Irensaga.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mountain> ;
+    tg:location <http://localhost:8000/resource/North_of_the_Dwimorberg_over_looking_the_Firienfeld> ;
+    tg:name "Írensaga"@en .
+
+<http://localhost:8000/resource/Caradhras> a schema:Place ;
+    tg:belongs <http://localhost:8000/resource/the_Misty_Mountains> ;
+    tg:caption <http://localhost:8000/resource/%22The_Anger_of_the_Mountain%22_by_Ted_Nasmith> ;
+    tg:events <http://localhost:8000/resource/Capture_of_Celebr%C3%ADan%3Cbr_/%3EAttempt_of_Fellowship_of_the_Ring_to_cross_Misty_Mountains> ;
+    tg:image "Ted Nasmith - The Anger of the Mountain.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mountain> ;
+    tg:location <http://localhost:8000/resource/above_Moria> ;
+    tg:name "Caradhras"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Redhorn%27%27_%28Westron> .
+
+<http://localhost:8000/resource/Celebdil> a schema:Place ;
+    tg:belongs <http://localhost:8000/resource/the_Misty_Mountains> ;
+    tg:etymology <http://localhost:8000/resource/Celebdil%3A_%27%27celeb%27%27_-_silver%2C_%27%27dil%27%27_-_horn%3Cbr_/%3EZirakzigil%3A_%27%27zirak%27%27_-_spike%2C_%27%27zigil%27%27_-_silver> ;
+    tg:events <http://localhost:8000/resource/Battle_of_the_Peak> ;
+    tg:gallery "Celebdil"@en ;
+    tg:image "John Howe - Zirak-zigil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mountain> ;
+    tg:location <http://localhost:8000/resource/above_Moria> ;
+    tg:name "Celebdil"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Silvertine%27%27_%28Westron%29%2C_%27%27Zirakzigil%27%27_%28Khuzdul%29> .
+
+<http://localhost:8000/resource/Hyarmentir> a schema:Place ;
+    tg:belongs <http://localhost:8000/resource/The_Pel%C3%B3ri> ;
+    tg:description "One of the tallest mountain peaks of Aman"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mountain> ;
+    tg:location <http://localhost:8000/resource/Southeastern_Aman> ;
+    tg:name "Mount Hyarmentir"@en ;
+    tg:references <http://localhost:8000/resource/%27%27The_Silmarillion%27%27> .
+
+<http://localhost:8000/resource/Mindolluin> a schema:Place ;
+    tg:belongs <http://localhost:8000/resource/White_Mountains> ;
+    tg:events <http://localhost:8000/resource/finding_of_a_sapling_of_the_White_Tree> ;
+    tg:image "Alan Lee - Mindolluin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mountain> ;
+    tg:location <http://localhost:8000/resource/above_Minas_Tirith> ;
+    tg:name "Mindolluin"@en .
+
+<http://localhost:8000/resource/Thrihyrne> a schema:Place ;
+    tg:belongs <http://localhost:8000/resource/The_White_Mountains> ;
+    tg:caption <http://localhost:8000/resource/%22Helm%27s_Deep_and_the_Hornburg%22_by_J.R.R._Tolkien> ;
+    tg:description "mountain with three peaks with steep faces"@en ;
+    tg:image "J.R.R. Tolkien - Helm's Deep and the Hornburg.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mountain> ;
+    tg:location <http://localhost:8000/resource/at_the_head_of_the_deep_gorge_of_Helm%27s_Deep> ;
+    tg:name "Thrihyrne"@en .
+

@@ -1,0 +1,21 @@
+{{expansion}}
+{{video game infobox
+| image = Colossal Adventure - 1.gif
+| name=Colossal Adventure
+| developer=[[Level 9 Computing]]<ref name="Giant">[http://www.giantbomb.com/dungeon-adventure/61-3541/ Giant Bomb] (retrieved 17 August 2010)</ref>
+| publisher=Level 9 Computing<ref name="Giant"/>
+| platform=[[wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:Atari 8-bit family|Atari 400]], ''BBC'', [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Lynx|Lynx]], [[wikipedia:Memotech|Memotech]],  [[wikipedia:MSX|MSX]], [[wikipedia:Nascom|Nascom]], [[wikipedia:Tangerine Computer System|Oric-1]], [[wikipedia:Sinclair ZX Spectrum|ZX Spectrum]]
+| releasedate=[[1983]]
+| genre=Text-Adventure
+}}
+'''''Colossal Adventure''''' is a Text-Adventure written by [[Pete Austin|Pete]], [[Mike Austin|Mike]] and [[Nick Austin]]<ref name="Tolkien Games" /><ref name="FAQ" /><ref name="El Anillo" /> and is part of ''[[The Middle-Earth Trilogy]]''.<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/colossal.html Colossal Adventure] at Tolkien Games (retrieved 17 August 2010)</ref> 
+
+The game is based on the [[wikipedia:Colossal Cave Adventure|Colossal Cave Adventure]] by [[William Crowther]] and [[Don Woods]].<ref name="FAQ">[http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 17 August 2010)</ref> This game covers the events of ''[[The Lord of the Rings]]''. Later, all names from [[J.R.R. Tolkien|Tolkien]]'s work were changed and it was published (together with ''[[Adventure Quest]]'' and ''[[Dungeon Adventure]]'') as ''[[Jewels of Darkness|The Jewels of Darkness]]'' by [[wikipedia:Telecomsoft#Firebird|Firebird]] and [[wikipedia:Telecomsoft#Rainbird|Rainbird Software]].<ref name="Tolkien Games" /><ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=3 Meristation, El Anillo interactivo] p. 4 (retrieved 17 August 2010)</ref>
+
+{{references}}
+{{title|italics}}
+[[Category:Amstrad CPC games]]
+[[Category:Atari 400 games]]
+[[Category:Commodore 64 games]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

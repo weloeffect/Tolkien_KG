@@ -1,0 +1,49 @@
+{{band
+| image = Rush.jpg
+| name=Rush
+| origin=Canada
+| genre=Prog rock
+| years=1968-2015
+| label=
+| website=[http://rush.com rush.com]
+| members=L-R: Geddy Lee, Neil Peart, Alex Lifeson
+| formermembers=
+}}
+'''Rush''' was a Canadian prog-rock band, which in its longest-standing lineup consisted of drummer and principal lyricist [[wikipedia:Neil Peart|Neil Peart]], bassist and singer [[wikipedia:Geddy Lee|Geddy Lee]], and guitarist [[wikipedia:Alex Lifeson|Alex Lifeson]]. The trio released two songs based on Tolkien's writings.
+
+==Rivendell==
+"Rivendell" is the sixth and last track on Rush's February [[1975]] album, [https://en.wikipedia.org/wiki/Fly_by_Night_(album) ''Fly by Night'']. A ballad, it tells of the beauties and peace afforded the weary traveller while staying in [[Rivendell]].
+
+The lyrics were penned by Peart, and the music was composed by Lee, who sang and (according to conjecture) played the acoustic guitar part as well.
+
+===Lyrics excerpt===
+<poem style="font-style:italic; margin-left:20px;">Elfin songs and endless nights
+Sweet wine and soft relaxing lights
+Time will never touch you
+Here in this enchanted place
+
+You feel there's something calling you
+You're wanting to return
+To where the misty mountains rise and friendly fires burn
+A place you can escape the world
+Where the dark Lord cannot go
+Peace of mind and sanctuary by loud water's flow<ref>[https://lyrics.lyricfind.com/lyrics/rush-rivendell Lyrics of "Rivendell"] on lyricfind.com (retrieved 26 April 2024)</ref>
+</poem>
+
+==The Necromancer==
+"The Necromancer" is the fourth track on the band's third studio album, [https://en.wikipedia.org/wiki/Caress_of_Steel ''Caress of Steel''], which was released in September of [[1975]]. The epic 12-minute track, with three distinct sections, features lyrics by Peart and music by Lee and Lifeson.
+
+===Lyrics excerpt===
+<poem style="font-style:italic; margin-left:20px;">Brooding in the tower
+Watching over his lands
+Holding ev'ry creature
+Helplessly they stand<ref>[https://lyrics.lyricfind.com/lyrics/rush-the-necromancer-into-darkness-under-the-shadow-return-of-the-prince Lyrics of "The Necromancer"] on lyricfind.com (retrieved 26 April 2024)</ref>
+</poem>
+
+==External links==
+* '''[http://www.rush.com Official website]'''
+* {{WP|Rush (band)}}
+{{references}}
+[[Category:Bands]]
+[[Category:Rock music]]
+[[Category:Canadian people]]

@@ -1,0 +1,99 @@
+{{book
+| title=Bilbo's Last Song (at the Grey Havens)
+| image = Last Song 1974.png
+| author=[[J.R.R. Tolkien]]
+| illustrator=[[Pauline Baynes]]
+| publisherUK=[[Unwin Hyman]]
+| publisherUS=[[Houghton Mifflin]]
+| date=Poster: [[26 November]] [[1974]]<br>Book: December [[1990]]
+| format=Poster; hardcover; paperback
+| pages=32
+| isbn=0044407289
+| precededby=[[The Road Goes Ever On: A Song Cycle]] {1968)
+| followedby=[[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo]] {1975)
+}}
+'''''Bilbo's Last Song (at the Grey Havens)''''' is a poem written by [[J.R.R. Tolkien]]. It is sung by [[Bilbo Baggins]] at the [[Grey Havens]] as he is about to leave [[Middle-earth]]. Chronologically this places it at the very end of ''[[The Return of the King]]'', the last volume of ''[[The Lord of the Rings]]'', although it was written later than the books and never included in them.
+
+The poem first appeared as posters (60×40&nbsp;cm) in November [[1974]], illustrated by [[Pauline Baynes]], published by Allen & Unwin.
+
+The first book edition was published in [[1990]], illustrated by the same artist. It is a 32-page full colour picture-book, each double page containing two lines of the poem, with almost fifty of Baynes's paintings.
+
+The poem was included in the second edition of ''[[The Road Goes Ever On (book)|The Road Goes Ever On]]'', set to music by [[Donald Swann]], in [[1978]].
+
+==Background==
+It was originally a composition in Old Norse, entitled ''Vestr um haf'' ("West over sea"), written as early as 1920s. In [[1968]], after [[Joy Hill]], Tolkien's secretary, rediscovered it in a pile of books, Tolkien gave it to her as a gift for her assistance in the setting up of his new office.
+
+After Tolkien's death in [[1973]], Hill showed the poem to [[Donald Swann]], who liked the poem so much that he set it to music and included it in the second edition of ''[[The Road Goes Ever On (book)|The Road Goes Ever On]]'' in [[1978]].<ref>{{RGEO|Bilbo}}</ref> The poem was also illustrated by [[Pauline Baynes]], and published as a poster on [[26 November]] [[1974]]. 
+
+The song was included in the BBC Radio 4 adaptation of ''[[The Lord of the Rings]]'' (1981), with music by Stephen Oliver. The first verse is chanted by John Le Mesurier as Bilbo, the second omitted, and the third sung by a boy soprano.
+
+In 1996 the song was recorded by the [[Unquendor|Dutch Tolkien Society]] band [[The Hobbitons]], with permission from the [[Tolkien Estate]], for their CD ''J.R.R. Tolkien's Songs from Middle-earth''.<ref>{{webcite|website=[http://web.archive.org/web/20021210152658/http://home.wxs.nl/~hobbiton/home.html The Hobbitons] (via [http://www.archive.org Internet Archive]) |articlename=Our CD|articleurl=http://web.archive.org/web/20021207123849/home.wxs.nl/~hobbiton/OURCD.HTM|accessed=27 May 2014}}</ref>
+
+The copyright of the poem was given by Tolkien to Hill together with the poem itself. Upon her death in 1991, Hill gave the copyright to the [[Wikipedia:Order of the Holy Paraclete|Order of the Holy Paraclete]]. Baynes's illustrations for ''Bilbo's Last Song'' were not included in the bequeathing to the Order, but were given the [[Wikipedia:Williams-Exeter Programme at Oxford|Williams-Exeter Programme at Oxford]] upon her death in 2008.<ref>{{webcite|author=[[Wayne G. Hammond]], [[Christina Scull]]|articleurl=http://groups.yahoo.com/neo/groups/mythsoc/conversations/messages/25132|articlename=Bilbo's Last Song and the Order of the Holy Paraclete (message 25132)|dated=7 March 2014|website=Mythsoc|accessed=16 March 2014}}</ref>
+
+==The poem==
+<poem style="font-style:italic; margin-left:20px;">
+'''Bilbo's Last Song'''
+<small>(At the Grey Havens)</small>
+
+Day is ended, dim my eyes,
+but journey long before me lies.
+Farewell, friends! I hear the call.
+The ship's beside the stony wall.
+Foam is white and waves are grey;
+beyond the sunset leads my way.
+Foam is salt, the wind is free;
+I hear the rising of the Sea.
+
+Farewell, friends! The sails are set,
+the wind is east, the moorings fret.
+Shadows long before me lie,
+beneath the ever-bending sky,
+but islands lie behind the Sun
+that I shall raise ere all is done;
+lands there are to west of West,
+where night is quiet and sleep is rest.
+
+Guided by the Lonely Star,
+beyond the utmost harbour-bar
+I'll find the havens fair and free,
+and beaches of the Starlit Sea.
+Ship, my ship! I seek the West,
+and fields and mountains ever blest.
+Farewell to Middle-Earth at last.
+I see the Star above your mast!
+</poem>
+
+==Publication history and gallery==
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Last Song 1974.png |1974 poster
+File:Last Song 1990 1992.png ‎|1990 hardcover & 1992 paperback
+File:Last Song 1992 private.png ‎|1992 private print
+File:Last Song 2002.jpeg ‎|2002 hardcover
+File:Last Song 2012.jpeg ‎|2012 paperback
+</gallery>
+* [[George Allen and Unwin]], poster ([[1974]])
+* [[Unwin Hyman]], hardcover ([[1990]]), pp.&nbsp;32. ISBN 0044407289
+* Red Fox/Arrow Books, paperback ([[1992]]) ISBN 0099910209
+* Albert House Press, pamphlet in card cover ([[1992]])
+* Hutchinson hardcover ([[2002]]), pp.&nbsp;32. ISBN 0091884888
+* [[HarperCollins]] paperback ([[2012]]), pp.&nbsp;32. ISBN 0375823735
+
+==See also==
+*[[Letter to Joy Hill (28 October 1971)]]
+
+==External links==
+*[https://www.youtube.com/watch?v=Xp6nmOjqXAo ''Bilbo's Last Song'' sang by Donald Swann, 1975] at Youtube.com
+*[https://tolkienlibrary.com/booksbytolkien/bilbolastsong/description.htm Review of the book] at Tolkienlibrary.com
+
+{{references}}
+{{poems}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Poems by J.R.R. Tolkien]]
+[[Category:Poetry books]]
+[[Category:Publications by title]]
+
+[[de:Bilbos Abschiehdslied]]
+[[fi:Bilbon viimeinen laulu]]

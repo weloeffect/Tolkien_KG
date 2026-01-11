@@ -1,0 +1,47 @@
+{{mythlore
+|title=Mythlore 37
+| image = Mythlore 37.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1984]]
+|format=Paperback
+|pages=55
+}}
+'''''Mythlore'' 37''' ([https://dc.swosu.edu/mythlore/vol10/iss3/ Volume 10, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles ====
+
+* Hall, Robert A., Jr. “Silent Commands? Frodo and Gollum at the Cracks of Doom.”
+* Stoddard, William. “A Critical Approach to Fantasy with Application to The Lord of the Rings.”
+* Callaway, David. “Gollum: A Misunderstood Hero.”
+* Bartlett, Sally. “Invasion from Eternity: Time and Myth in Middle-earth.”
+* Kocher, Paul H. “The Drúedain.”
+* Donahue, Thomas S. “A Linguist Looks at Tolkien's Elvish.”
+* Patterson, Nancy-Lou. “Beneath That Ancient Roof: The House as Symbol in Dorothy L. Sayers' Busman's Honeymoon.”
+* Walker, R.C. “The Little Kingdom: Some Considerations and a Map.”
+
+==== Poetry ====
+
+* Jurich, Marilyn. “Still Another Definition of Poetry.”
+
+==== Features ====
+
+* GoodKnight, Glen. Editorial.
+* Christopher, Joe R. An Inklings' Bibliography (26).
+* Beach, Sarah. “Mythopoesis.”
+* Letters.
+
+==== Reviews ====
+
+* ''Star Wars, Episode VI: Return of the Jedi.'' Lucasfilm, 20th Century Fox. Reviewed by Benjamin Urrutia.
+* ''And God Came In.'' Lyle W. Dorsett. Reviewed by Nancy-Lou Patterson.
+* ''Charles Williams, Poet of Theology.'' Glen Cavaliero. Reviewed by Nancy-Lou Patterson.
+* ''VII: An Anglo-American Literary Review.'' Vol. 4. Reviewed by Nancy-Lou Patterson.
+* ''A Reference Guide.'' Ruth Tanis Youngberg, Dorothy L. Sayers. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|36|38}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 037}}
+[[Category:Mythlore]]

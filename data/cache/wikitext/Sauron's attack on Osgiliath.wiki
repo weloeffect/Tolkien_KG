@@ -1,0 +1,51 @@
+{{Unnamed}}
+{{disambig-more|Battle of Osgiliath|[[Battle of Osgiliath (disambiguation)]]}}
+{{battle
+|name=Sauron's assault on Osgiliath
+|image=
+|conflict=[[War of the Ring]]
+|date=[[20 June]] {{TA|3018}}<ref name="AppB3">{{App|B3}}</ref>
+|place= The ruins of [[Osgiliath]] and its last bridge
+|result=Victory for [[Sauron]], fall of the eastern half of Osgiliath, allowing the [[Nazgûl]] to hunt for the Ring
+|side1=[[Gondor]]
+|side2=[[Mordor]]
+|commanders1=
+* [[Boromir]]
+* [[Faramir]]
+|commanders2=
+* [[Sauron]]
+* The [[Witch-king]]
+|forces1=Unknown, [[Gondorians]]
+|forces2=Unknown, forces of Mordor, [[Easterlings]], [[Haradrim]]
+|casual1=Unknown 
+|casual2=Unknown
+}}
+{{wotr}}
+'''Sauron's assault on Osgiliath''' occurred on 20 June, {{TA|3018}}, and was later recognized as the beginning of the [[War of the Ring]].
+==History==
+===Prelude===
+For many years (since {{TA|2901}}) the land of [[Ithilien]] had been held by Sauron's forces, but he had not breached the [[Anduin]] to attack deeper into Gondor, biding his time as he marshaled his strength.<ref name="hunt" /> By the end of the Age, Sauron had gathered all he could from the [[Rings of Power]] and started searching for [[the One Ring]] in [[Anduin]]. In {{TA|2951}} he declared himself openly, gathered forces and fortified [[Mordor]].<ref name="AppB3" />
+
+In {{TA|3009|n}} [[Gollum]] was captured after he had ventured into [[Mordor]] and the Dark Lord learned that his Ring was in [[the Shire]], a location unknown to him. Gollum was released from Mordor in {{TA|3017|n}} and was soon taken by [[Aragorn]] in the [[Dead Marshes]].<ref name="AppB3" /> His capture alarmed Sauron, causing him to send the [[Nazgûl]] out to attack the deserted ruins of [[Osgiliath]] and hunt for the Ring. Sauron had two purposes in making this assault: First, to test the strength and preparedness of [[Denethor]] (which was found to be greater than he hoped); and second (and more importantly) to make the appearance of the Nazgûl seem to be only part of his war policy against [[Gondor]], in order to conceal from the [[Wise]] their mission to hunt for [[the One Ring]].<ref name="hunt">{{UT|Hunt}}</ref>
+
+Days before the attack, the sons of Denethor, [[Boromir]] and [[Faramir]], had a [[Seek for the Sword that was broken|prophetic dream]].<ref name="council" />
+===Battle===
+At the [[Council of Elrond]], [[Boromir]] recounted this battle as a sudden attack in which the men of Gondor were outnumbered by the forces of Mordor with their allies, the [[Easterlings]] and [[Haradrim]].  However, he attributed Gondor's defeat to a power that had not been felt before, issuing from a great black horseman.  Only a remnant of Gondor's eastern force survived.  The last bridge across the [[Anduin]] was defended by a company led by Boromir and [[Faramir]] until the structure was destroyed.  Only the two brothers and two others survived by swimming.<ref name="council">{{FR|Council}}</ref>
+
+After the eastern portion of Osgiliath was taken and the bridge broken, Sauron broke off the assault, ordering the Nazgûl to begin their search for the Ring.<ref name="hunt" />
+===Aftermath===
+[[Mirkwood]] was raided on the same day, probably in a scheduled attack, as the captured [[Gollum]] found an opportunity to escape during the chaos.<ref name="AppB3" />
+
+The battle allowed the Black Riders to set forth and search for the One Ring in the west. 
+
+News of the defeat and the [[Black Shadow]] reached [[Eriador]] and the borders of [[the Shire]] by the end of [[June]]. [[Gandalf]] had an uneasy feeling when he got those messages and when he talked with refugees from the South he felt that they had a fear of which they didn't talk.<ref name="council" />
+
+It was the first conflict of the War of the Ring. Sauron found Denethor's forces stronger than he expected.<ref name="hunt" /> For months thereafter Sauron continued to amass his forces in Mordor preparing for a full assault against Gondor.<ref>{{TT|IV4}}</ref> However when he discovered the [[Heir of Isildur]], his plans were altered<ref>{{RK|V2}}</ref> and proceeded hastily with his ready forces; [[Faramir's defence of Osgiliath|another skirmish occurred in Osgiliath]] leading up to the [[Siege of Gondor]].
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Two Towers - Boromir in Osgiliath.png|thumb|Boromir raises a flag of Gondor.]] 
+'''2002: [[The Lord of the Rings: The Two Towers (extended edition)|''The Lord of the Rings: The Two Towers'' (extended edition)]]:'''
+:In the extended edition, [[Faramir]] has [[Sons of the Steward|a flashback]] of himself and [[Boromir|his brother]] in Osgiliath in the aftermath of a victorious battle; unlike in the book, the Gondorians here successfully fended off Sauron's forces and a multitude of soldiers (whereas in the book there was a handful of survivors) shout while Boromir is on a high wall and raises the [[standard of Elendil]]. As the soldiers celebrate their victory with ale, [[Denethor|Denethor II]] brought up the matter of [[the One Ring]] and sent Boromir to [[Rivendell]], expressing his trust and preference to him rather than Faramir. This scene seems to explain Faramir's treatment of [[Frodo Baggins|Frodo]] in the movie, as he intends to deliver the Ring to Denethor hoping to be seen in a better light.
+
+{{References}}
+[[Category:Conflicts of the War of the Ring]]

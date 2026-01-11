@@ -1,0 +1,50 @@
+{{anglosaxon infobox
+| name=Gerard Manface
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Lawyer and Mountaineer
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=Unknown wife
+| children=Many children
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+Sir '''Gerard Manface''' was a member of the [[Notion Club]].
+
+== History ==
+Sir Gerard Manface was educated at All Souls and became a lawyer by occupation. His main hobby was mountaineering and he was well traveled. He had many children, for whom he wrote many unpublished books and tales. He was a special friend of [[Philip Frankley]], though he was not resident in [[Oxford]] and seldom appeared at the [[Notion Club]].<ref>{{SD|2b}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| GER |y| WIF |GER='''GERARD MANFACE'''<br /><small>''b. [[wikipedia:20th century|20th century]]''</small>|WIF=''unknown<br />wife''}}
+{{familytree| | | |!| | | |}}
+{{familytree| | | CHI | | |CHI=''many<br />children''}}
+{{familytree/end}}
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Manface, Gerard}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

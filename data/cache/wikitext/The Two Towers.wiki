@@ -1,0 +1,90 @@
+{{disambig-more|Two Towers|[[Two Towers (disambiguation)]]}}
+{{book
+|title=The Two Towers
+|image=The Lord of the Rings 1954-v2.png
+|author=[[J.R.R. Tolkien]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|date=[[11 November]] [[1954]] (UK)<br>[[21 April]] [[1955]] (US)
+|format=Hardcover; paperback; deluxe-edition; audio-book
+|pages=352
+|precededby=[[The Fellowship of the Ring]] (1954)
+|followedby=[[The Return of the King]] (1955)
+}}
+'''''The Two Towers''''' is the second of three volumes in ''[[The Lord of the Rings]]''. It is preceded by ''[[The Fellowship of the Ring]]'' and followed by ''[[The Return of the King]]''. 
+
+''The Two Towers'' was originally released on [[11 November]] [[1954]] in the United Kingdom. 3,250 copies were printed in the first UK edition, with another 1,000 for the American edition.
+
+==Title and structure==
+[[File:J.R.R. Tolkien - The Two Towers.jpg|thumb|right|200px|Tolkien's design for the dust-jacket of ''The Two Towers'' as submitted to Allen & Unwin.]]
+Tolkien intended ''The Lord of the Rings'' to be published as one volume and believed that it was naturally divided into six "books." However, at the urging of his publishers, [[Allen and Unwin]], he agreed to release the work in three volumes to be sold separately. Even so, Tolkien considered the division into three volumes to be artificial and was dissatisfied that the "not really related" Books III and IV would have be published together.<ref name="l136">{{L|136}}</ref> 
+
+On 24 March [[1953]], Tolkien wrote to [[Rayner Unwin]] with ideas for the titles of each volume. At that time, he suggested that each volume be named for the two books it contained. For the middle volume, this was "''The Lord of the Rings'' Vol. II: ''The Treason of Isengard'', and ''The Ring goes East''." As an alternative in case Unwin found the previous to be unsuitable, Tolkien suggested "''The Ring in the Shadow''."<ref name="l136" />
+
+A galley proof of the combined table of contents for the three volumes of ''The Lord of the Rings'' from around that time includes a list of contents that gives the title of the middle volume as "Vol. II ''The Treason of Isengard'' and ''The Journey of the Ring-bearers''," being a combination of the then-current draft titles for Books III and IV.<ref name="l136n">{{L|136}}, note 1</ref><ref>{{HM|RC}}, p. xxxii</ref> None of these individual book titles would ultimately be used, but decades later, "''[[The Treason of Isengard]]''" was recycled as the title of the seventh volume of ''[[The History of Middle-earth]]''.
+
+On 28 July 1953, Unwin wrote to Tolkien proposing that the overall title ''The Lord of the Rings'' be abandoned and that the second volume be named either "''The Ring in the Shadow''" or "''The Shadow and the Ring''."<ref name="hs">{{webcite|author=[[Wayne G. Hammond]] & [[Christina Scull]]|articleurl=https://www.hammondandscull.com/papers/Hammond_Scull_Scholars_Forum.html#r50|articlename=Truth or Consequences: A Cautionary Tale of Tolkien Studies|website=HS|accessed=6 January 2022}}, footnote 50</ref> Tolkien replied on 8 August 1953, stating his opposition to having individual volume titles without an overall title. By that time, Tolkien had forgotten the volume titles he had sent in his letter of 24 March, and made a new suggestion of "''The Shadow Lengthens''" for volume two.<ref name="l139">{{L|139}}</ref>
+
+Finally, on [[17 August]] 1953, Unwin met with Tolkien in person; later that day, Tolkien wrote to Unwin, partially to summarize and put to paper the results of their discussion. This letter contains Tolkien's final suggestions that the overall title ''The Lord of the Rings'' be retained and that volume two be titled ''The Two Towers''.<ref name="OneForty">{{L|140}}</ref> Hammond & Scull note that it is unclear as to whether these volume names were first suggested by Tolkien or Unwin.<ref name=hs/>
+
+At that time, the identities of the titular towers themselves were unclear in Tolkien's mind. In his letters<ref name=OneForty/> and sketches,<ref name=hs/> Tolkien considered several sets of towers, including [[Minas Tirith]] and the [[Barad-dûr]], and even the possibility of leaving the matter ambiguous. Most pairs from a set of five towers in the story could plausibly fit the title: [[Tower of Cirith Ungol|Cirith Ungol]], [[Orthanc]], Minas Tirith, Barad-dûr, and [[Minas Morgul]].
+
+Tolkien settled on the final identities of the towers no later than 23 February [[1954]], on which date he sent to Allen and Unwin this note, which appears at the end of most editions of ''The Fellowship of the Ring'':<ref name=hs/>
+{{blockquote|The second part is called THE TWO TOWERS, since the events recounted in it are dominated by ORTHANC, the citadel of Saruman, and the fortress of MINAS MORGUL that guards the secret entrance to Mordor.}}
+
+Tolkien produced an illustration depicting these towers for the volume's dust jacket. He sent it to Allen and Unwin on 23 March [[1954]], but it would ultimately go unused, as Tolkien and the publishers agreed to use variants of the ''Fellowship'' illustration for the dust jackets of all three volumes.<ref name=hs/>
+
+;Structure
+Because ''The Two Towers'' is the central portion of a longer work, its structure differs from that of a conventional novel. It begins and ends abruptly, without introduction to the characters, explanations of major plot elements or a satisfying conclusion. The first section follows the divergent paths of several important figures from ''The Fellowship of the Ring'', but tells nothing of its central character, on whose fate so much depends, enabling the reader to share in the suspense and uncertainty of the characters themselves. The narrative of the second part returns to the hero's quest to destroy the evil that threatens the world. While the first section tells of an epic battle, the struggles in much of the second section are internal.
+
+==Synopsis — Book III==
+[[Hobbits]] [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] escape from the [[Orcs]] who captured them when the orcs themselves are attacked by the Riders of Rohan. Merry and Pippin head into nearby Fangorn Forest where they encounter treelike giants called [[Ents]]. These guardians of the forest generally keep to themselves, but are moved to oppose the menace posed to the trees by the [[Wizards|wizard]] [[Saruman]], who has been chopping down trees in the forest to fuel fires for his furnaces.
+
+[[Aragorn]], Gimli the [[Dwarves|Dwarf]] and Legolas the [[Elves|Elf]], tracking Merry and Pippin, come across the riders of rohan who tell them that they attacked the orcs and left no survivors. However, Strider is able to find small prints and they follow these into Fangorn, where they meet a white wizard who they at first believe to be Saruman, but who turns out to be their wizard friend [[Gandalf]], whom they believed had perished in the mines of [[Moria]]. He tells them of his fall into the abyss, his battle to the death with the [[balrogs|Balrog]] and his reawakening. The four ride to [[Edoras]] and persuade King [[Théoden]] that his people are in danger. In the process, Saruman's agent in Edoras, [[Gríma|Gríma Wormtongue]], is expelled from the city. Aragorn, Gimli and Legolas then travel to the defensive fortification [[Helm's Deep]] while Gandalf goes north in search of Éomer's men in Rohan to bring as reinforcements. At Helm's Deep, they resist an onslaught of Orcs and Men sent by Saruman, and Gandalf arrives the next morning with the Riders of Rohan just in time. The fleeing orcs run into a forest of Huorn half-tree, half-ent creatures and none escape. Aragorn, Gimli, Legolas, Gandalf and the Rohan army then head to Saruman's stronghold in Isengard.
+
+There, they reunite with Merry and Pippin and find the city overrun by Ents, who have flooded it with the nearby river, and the central tower of Orthanc besieged, with Saruman in it. After giving Saruman a chance to repent, Gandalf casts him out of the order of wizards. Wormtongue throws something from a window at Gandalf and those with him. This turns out to be one of the ''[[palantíri]]''. Pippin, unable to resist the urge, looks into it and has an encounter with Sauron. Gandalf and Pippin then head for Minas Tirith in preparation for the upcoming war.
+
+===Book III chapters===
+[[File:J.R.R. Tolkien - Orthanc I.jpg|200px|thumb|''Orthanc'' by [[J.R.R. Tolkien]]]]
+*'''I · [[The Departure of Boromir]]''' — An uncertain and troubled Aragorn finds Boromir wounded with with many orc-arrows; Boromir tells him that orcs had taken Merry and Pippin alive. Boromir dies, and Aragorn, Legolas, and Gimli send his body down the stream on a 'funeral boat.' After much debate, the 'Three Hunters' set forth to track the [[Uruk-hai]] who had captured Merry and Pippin, rather than pursuing Frodo and Sam, who were making their way to Mordor. 
+*'''II · [[The Riders of Rohan]]''' — They follow the trail of the orcs and find several clues as to what happened with the hobbits, then meet a company of [[Rohirrim]] led by [[Éomer]], who tell them that the orcs were destroyed and none were left alive. They camp near the site of the orc massacre.
+*'''III · [[The Uruk-hai]]''' — This chapter begins further back in time, telling the story of Merry and Pippin being captured by the orcs, who are led by [[Uglúk]] from Saruman's army, and [[Grishnákh]] from Mordor. The two sides of orcs are constantly arguing. The orcs camp near Fangorn, and Grishnakh attempts to take the hobbits away with him. The hobbits escape as Grishnákh is killed from an arrow. They flee into Fangorn Forest as the orcs are attacked by the men of Rohan.
+*'''IV · [[Treebeard (chapter)|Treebeard]]''' — Merry and Pippin meet Treebeard the Ent, who calls an Entmoot, a gathering of Ents in Derndingle. The hobbits meet another ent, [[Quickbeam]]. The ents decide at the entmoot after three days, to attack Isengard.
+*'''V · [[The White Rider]]''' — The chapter goes back to the story of Aragorn, Legolas and Gimli, who discover signs that the hobbits escaped the orcs into the forest. They meet an old man, who they at first presume to be Saruman, but who turns out to be Gandalf. They set off for Edoras.
+*'''VI · [[The King of the Golden Hall]]''' — The four of them reach Edoras and talk with King Théoden. Wormtongue is kicked out of the city. Théoden gives Gandalf the horse [[Shadowfax]].
+*'''VII · [[Helm's Deep (chapter)|Helm's Deep]]''' — Aragorn, Legolas and Gimli are at Helm's Deep with the Rohan army, defending the people of Rohan from attack by the army of Saruman.
+*'''VIII · [[The Road to Isengard]]''' — They travel to Isengard, and see that it has been destroyed. At Isengard they find Merry and Pippin.
+*'''IX · [[Flotsam and Jetsam]]''' — Merry and Pippin tell the story of how the ents attacked Isengard, in amongst the ruins or 'flotsam and jetsam' of the city. 
+*'''X · [[The Voice of Saruman]]''' — Saruman has a very persuasive voice, which he almost uses to persuade Théoden and the others until Gandalf casts him from the order of wizards. Wormtongue throws the palantir of Orthanc from the tower, which misses Gandalf, and is picked up by Pippin.
+*'''XI · [[The Palantír]]''' — Pippin picks up the ''Palantir'' and is seen by Sauron. Gandalf explains the origin of the ''Palantir''; Gandalf sets off with Pippin for Minas Tirith, riding on Shadowfax.
+
+==Synopsis — Book IV==
+Frodo and Sam discover [[Gollum]] stalking them as they try to reach [[Mount Doom]] to destroy [[the One Ring]]. Gollum hopes to reclaim the Ring. Sam loathes and distrusts him, but Frodo pities him. Gollum promises to lead them to a secret entrance to Mordor and for a time appears to be a true ally. They first stop at the Black gate of Mordor, where Gollum persuades them not to go in, where they would have been surely caught.  They head south into Ithilien, and are captured by [[Faramir]], the brother of Boromir. Faramir learns from Frodo of his brother, with Faramir expressing his belief that Boromir is dead. Frodo tells of the plan to destroy the ring, and Faramir allows them to go on their way. Gollum leads them into the lair of [[Shelob]], an enormous spiderlike creature, who inflicts her poisonous bite on Frodo. Sam resolves to finish the quest himself and takes the Ring. But when Orcs take Frodo's body, he follows them and learns that Frodo is not dead but unconscious and now their prisoner. The last line of the book is "Frodo was alive but taken by the enemy."
+
+===Book IV chapters===
+*'''I · [[The Taming of Sméagol]]''' — Gollum joins Frodo and Sam, after Sam captures him.
+*'''II · [[The Passage of the Marshes]]''' — They pass through the [[Dead Marshes]].
+*'''III · [[The Black Gate is Closed]]''' — They reach the gate of Mordor, Gollum persuades them not to go in, and to head south.
+*'''IV · [[Of Herbs and Stewed Rabbit]]''' — They reach the pleasant country of [[Ithilien]]. Title refers to the rabbits Gollum catches that Sam cooks; the smoke from the fire causes them to be seen by men of Gondor led by Faramir, and they witness an attack on a Southron army, and an [[Oliphaunts|Oliphaunt]]. 
+*'''V · [[The Window on the West]]''' — Frodo and Sam are captured by Faramir's men and they are blindfolded on their way to [[Henneth Annûn]]. Frodo tells Faramir of his brother Boromir's part in the Fellowship.
+*'''VI · [[The Forbidden Pool]]''' — Faramir shows Frodo they have found Gollum at the Forbidden pool. Frodo saves him from being shot by Faramir's men.
+*'''VII · [[Journey to the Cross-Roads]]''' — Frodo, Sam and Gollum leave Faramir. They travel to the crossroad of the road east between [[Osgiliath]] and [[Minas Morgul]], and the north-south road from the Black Gate to the southlands.
+*'''VIII · [[The Stairs of Cirith Ungol]]''' — They witness an army leaving Minas Morgul.
+*'''IX · [[Shelob's Lair (chapter)|Shelob's Lair]]''' — encounter with Shelob the spider.
+*'''X · [[The Choices of Master Samwise]]''' — Frodo is taken by the orcs. Sam listens to the orcs talking about him, which is how he finds out that he is still alive, having thought that Frodo had been killed by Shelob.
+
+==Adaptations==
+A trailer for ''[[The Lord of the Rings: The Two Towers|The Two Towers film]]'' interprets the title as referring to the alliance between Orthanc and Barad-dûr.<ref>[https://www.youtube.com/watch?v=cvCktPUwkW0 Lord of the Rings: The Two Towers - Trailer] (Galadriel: "There is a union now between the Two Towers: Barad-dûr, fortress of the Dark Lord Sauron; and Orthanc, stronghold of the Wizard Saruman.")</ref>
+
+Some of the events of ''The Two Towers'' were depicted in a 1978 film of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'' by [[Ralph Bakshi]] and the 2002 ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' by [[Peter Jackson]]. Both films abandoned the parallel storytelling of the book in favour of a more chronological presentation. The first chapter from the book actually appears at the end of Jackson's ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]''. Later events of ''The Two Towers'' were filmed for Jackson's ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''. Various games also adapt ''The Two Towers'', including online role-playing games like ''[[The Two Towers MUD]]'' and graphically-oriented console games.
+
+{{references}}
+{{lotr}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Two Towers, The}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:The Lord of the Rings chapters]]
+[[Category:Publications by title]]
+[[de:Die Zwei Türme]]
+[[fi:Kaksi tornia]]

@@ -1,0 +1,21 @@
+{{board game infobox
+| image = LotR DfME CardGame 2024.webp
+| name=The Lord of the Rings: Duel for Middle-earth
+| designer=Antoine Bauza, Bruno Cathala
+| publisher=[[Repos Production]]
+| releasedate=[[2024]]
+| players=2
+| ages=10+
+}}
+'''The Lord of the Rings: Duel for Middle-earth''' is a two-player card game, re-implementing the popular [https://www.rprod.com/en/games/7-wonders-duel 7 Wonders Duel] with the Lord of the Rings license. It features art by [[Vincent Dutrait]].
+
+==From the publisher==
+An Epic Duel for the Fate of [[Middle-earth]]! In The Lord of the Rings - Duel for Middle-earth, two players face off to determine the fate of Middle-earth. One player embodies the [[Fellowship of the Ring]], seeking to protect the free peoples and destroy the [[One Ring]], while the other plays as [[Sauron]], attempting to capture [[Frodo]] and [[Sam]] and overwhelm Middle-earth with his evil hordes. 
+
+
+==External links==
+* '''[https://www.rprod.com/en/games/duel-for-middle-earth Official Site]'''
+* [https://boardgamegeek.com/boardgame/421006/the-lord-of-the-rings-duel-for-middle-earth Board Game Geek Profile]
+{{Navbox cards}}
+{{title|italics}}
+[[Category:Card games]]

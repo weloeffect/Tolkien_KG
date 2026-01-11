@@ -1,0 +1,361 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Alliance_of_Dwarves_and_Men> a schema:WebPage ;
+    rdfs:label "Alliance of Dwarves and Men"@en ;
+    schema:about <http://localhost:8000/resource/Alliance_of_Dwarves_and_Men> .
+
+<http://localhost:8000/page/Army_of_the_Southern_Dragon> a schema:WebPage ;
+    rdfs:label "Army of the Southern Dragon"@en ;
+    schema:about <http://localhost:8000/resource/Army_of_the_Southern_Dragon> .
+
+<http://localhost:8000/page/Army_of_the_West> a schema:WebPage ;
+    rdfs:label "Army of the West"@en ;
+    schema:about <http://localhost:8000/resource/Army_of_the_West> .
+
+<http://localhost:8000/page/Barahir%27s_outlaws> a schema:WebPage ;
+    rdfs:label "Barahir's outlaws"@en ;
+    schema:about <http://localhost:8000/resource/Barahir%27s_outlaws> .
+
+<http://localhost:8000/page/Council_of_the_Sceptre> a schema:WebPage ;
+    rdfs:label "Council of the Sceptre"@en ;
+    schema:about <http://localhost:8000/resource/Council_of_the_Sceptre> .
+
+<http://localhost:8000/page/Court_of_Ardor> a schema:WebPage ;
+    rdfs:label "Court of Ardor"@en ;
+    schema:about <http://localhost:8000/resource/Court_of_Ardor> .
+
+<http://localhost:8000/page/Dark_Guard> a schema:WebPage ;
+    rdfs:label "Dark Guard"@en ;
+    schema:about <http://localhost:8000/resource/Dark_Guard> .
+
+<http://localhost:8000/page/Entmoot> a schema:WebPage ;
+    rdfs:label "Entmoot"@en ;
+    schema:about <http://localhost:8000/resource/Entmoot> .
+
+<http://localhost:8000/page/Faithful> a schema:WebPage ;
+    rdfs:label "Faithful"@en ;
+    schema:about <http://localhost:8000/resource/Faithful> .
+
+<http://localhost:8000/page/Fellowship_of_the_Ring> a schema:WebPage ;
+    rdfs:label "Fellowship of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/Fellowship_of_the_Ring> .
+
+<http://localhost:8000/page/Gaudrim> a schema:WebPage ;
+    rdfs:label "Gaudrim"@en ;
+    schema:about <http://localhost:8000/resource/Gaudrim> .
+
+<http://localhost:8000/page/Gaurwaith> a schema:WebPage ;
+    rdfs:label "Gaurwaith"@en ;
+    schema:about <http://localhost:8000/resource/Gaurwaith> .
+
+<http://localhost:8000/page/Guards_of_the_Citadel> a schema:WebPage ;
+    rdfs:label "Guards of the Citadel"@en ;
+    schema:about <http://localhost:8000/resource/Guards_of_the_Citadel> .
+
+<http://localhost:8000/page/Guild_of_Venturers> a schema:WebPage ;
+    rdfs:label "Guild of Venturers"@en ;
+    schema:about <http://localhost:8000/resource/Guild_of_Venturers> .
+
+<http://localhost:8000/page/Guild_of_Weaponsmiths> a schema:WebPage ;
+    rdfs:label "Guild of Weaponsmiths"@en ;
+    schema:about <http://localhost:8000/resource/Guild_of_Weaponsmiths> .
+
+<http://localhost:8000/page/Gwaith-i-M%C3%ADrdain> a schema:WebPage ;
+    rdfs:label "Gwaith-i-Mírdain"@en ;
+    schema:about <http://localhost:8000/resource/Gwaith-i-M%C3%ADrdain> .
+
+<http://localhost:8000/page/Host_of_the_West_%28Arnor%29> a schema:WebPage ;
+    rdfs:label "Host of the West (Arnor)"@en ;
+    schema:about <http://localhost:8000/resource/Host_of_the_West_%28Arnor%29> .
+
+<http://localhost:8000/page/King%27s_Men> a schema:WebPage ;
+    rdfs:label "King's Men"@en ;
+    schema:about <http://localhost:8000/resource/King%27s_Men> .
+
+<http://localhost:8000/page/Last_Alliance_of_Elves_and_Men> a schema:WebPage ;
+    rdfs:label "Last Alliance of Elves and Men"@en ;
+    schema:about <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> .
+
+<http://localhost:8000/page/Thorin_and_Company> a schema:WebPage ;
+    rdfs:label "Thorin and Company"@en ;
+    schema:about <http://localhost:8000/resource/Thorin_and_Company> .
+
+<http://localhost:8000/page/Union_of_Maedhros> a schema:WebPage ;
+    rdfs:label "Union of Maedhros"@en ;
+    schema:about <http://localhost:8000/resource/Union_of_Maedhros> .
+
+<http://localhost:8000/page/White_Council> a schema:WebPage ;
+    rdfs:label "White Council"@en ;
+    schema:about <http://localhost:8000/resource/White_Council> .
+
+<http://localhost:8000/page/Wizards> a schema:WebPage ;
+    rdfs:label "Wizards"@en ;
+    schema:about <http://localhost:8000/resource/Wizards> .
+
+<http://localhost:8000/resource/Alliance_of_Dwarves_and_Men> a schema:Organization ;
+    tg:disbanded "c. {{SA|1695}}"@en ;
+    tg:founded <http://localhost:8000/resource/Early_Second_Age> ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:members <http://localhost:8000/resource/Northmen%2C_Longbeards> ;
+    tg:name "Alliance of Dwarves and Men"@en .
+
+<http://localhost:8000/resource/Army_of_the_Southern_Dragon> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%E2%80%9CWarlord%27s_Challenge%E2%80%9D_by_Angus_McBride%2C_depicting_Warlord_Sangarunya> ;
+    tg:founded "Late Second Age"@en ;
+    tg:founder "Wyatan"@en ;
+    tg:image "Angus McBride - Warlord's Challenge.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Ny_Chennacatt> ;
+    tg:members "Wyatan, Utchû, Sangarunya"@en ;
+    tg:name "Army of the Southern Dragon"@en ;
+    tg:othernames "Army of the Burning Sun <small>(mutiny)</small>"@en ;
+    tg:purpose <http://localhost:8000/resource/Conquering_the_lands_of_the_Yellow_Mountains> .
+
+<http://localhost:8000/resource/Army_of_the_West> a schema:Organization ;
+    tg:caption "The Army of the West at the Battle of the Morannon by Ted Nasmith"@en ;
+    tg:disbanded <http://localhost:8000/resource/8_May_%7B%7BTA> ;
+    tg:founded <http://localhost:8000/resource/16_March_%7B%7BTA> ;
+    tg:image "Ted Nasmith - The Shadow of Sauron.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:members <http://localhost:8000/resource/Aragorn%2C_Gandalf%2C_Gimli%2C_Legolas%2C_Pippin%2C_Elladan%2C_Elrohir%2C_%C3%89omer%2C_Knights_of_Dol_Amroth%2C_Rohirrim%2C_Rangers_of_the_North> ;
+    tg:name "Army of the West"@en ;
+    tg:notablefor <http://localhost:8000/resource/Fighting_the_Battle_of_the_Morannon> ;
+    tg:othernames "Host of the West"@en ;
+    tg:purpose "March on the Black Gate"@en .
+
+<http://localhost:8000/resource/Barahir%27s_outlaws> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22At_Tarn_Aeluin%22_by_Ted_Nasmith> ;
+    tg:disbanded "{{FA|460}}"@en ;
+    tg:founded "c. {{FA|455}}"@en ;
+    tg:founder <http://localhost:8000/resource/Barahir> ;
+    tg:image "Ted Nasmith - At Tarn Aeluin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Dorthonion> ;
+    tg:members <http://localhost:8000/resource/Beren%2C_eleven_others> ;
+    tg:name "Barahir's outlaws"@en ;
+    tg:purpose <http://localhost:8000/resource/Opposing_Morgoth_in_Dorthonion> .
+
+<http://localhost:8000/resource/Council_of_the_Sceptre> a schema:Organization ;
+    tg:disbanded <http://localhost:8000/resource/Likely_during_the_Downfall_of_N%C3%BAmenor> ;
+    tg:founder <http://localhost:8000/resource/Kings_of_N%C3%BAmenor> ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:name "Council of the Sceptre"@en ;
+    tg:othernames <http://localhost:8000/resource/King%27s_Council_of_N%C3%BAmenor> ;
+    tg:purpose "Advising the King on multiple matters of state"@en .
+
+<http://localhost:8000/resource/Court_of_Ardor> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%E2%80%9CThe_Court_of_Ardor%E2%80%9D_by_Gail_McIntosh%2C_depicting_the_sorceress_Rilia_%28a_citadel-ruler%29_and_the_demon_Mourfuin> ;
+    tg:disbanded "{{TA|1705}}"@en ;
+    tg:founded "Early Second Age"@en ;
+    tg:image "Gail McIntosh - The Court of Ardor.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/M%C3%BBmakan> ;
+    tg:members "Valmorgûl, Ardana, Morthaur, Mourfuin"@en ;
+    tg:name "Court of Ardor"@en ;
+    tg:purpose "Destroying the Sun and Moon"@en .
+
+<http://localhost:8000/resource/Dark_Guard> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22He_Beheld_a_Vision_of_Gondolin_Amid_the_Snow%22_by_Ted_Nasmith> ;
+    tg:image "Ted Nasmith - He Beheld a Vision of Gondolin Amid the Snow.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Cavern_near_the_Outer_Gate%3Cbr%3EHigh_sward_overlooking_Tumladen> ;
+    tg:members <http://localhost:8000/resource/Elemmakil> ;
+    tg:name "Dark Guard"@en ;
+    tg:othernames "Outer Guard<br>Guard"@en ;
+    tg:purpose <http://localhost:8000/resource/Guarding_the_Gate_of_Wood> .
+
+<http://localhost:8000/resource/Entmoot> a schema:Organization ;
+    tg:caption "\"Entmoot\" by Darrell Sweet"@en ;
+    tg:founder <http://localhost:8000/resource/Treebeard> ;
+    tg:gallery "Entmoots"@en ;
+    tg:image "Darrell Sweet - Entmoot.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Derndingle_in_Fangorn_Forest> ;
+    tg:members <http://localhost:8000/resource/Treebeard%2C_Bregalad%2C_Beechbone> ;
+    tg:name "Entmoot"@en ;
+    tg:notablefor <http://localhost:8000/resource/Ents%23The_March_of_the_Ents> ;
+    tg:purpose <http://localhost:8000/resource/Discussion_for_Ents> .
+
+<http://localhost:8000/resource/Faithful> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22The_Ships_of_the_Faithful%22_by_Ted_Nasmith> ;
+    tg:founded "c. {{SA|2221}}"@en ;
+    tg:image "Ted Nasmith - The Ships of the Faithful.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/Amandil%2C_Tar-Palantir%2C_Elendil> ;
+    tg:name "The Faithful"@en ;
+    tg:notablefor <http://localhost:8000/resource/Surviving_the_Downfall_of_N%C3%BAmenor%2C_and_founding_the_Realms_in_Exile> ;
+    tg:othernames <http://localhost:8000/resource/Elendili%2C_Nimruz%C3%AErim%2C_Elf-friends> ;
+    tg:purpose <http://localhost:8000/resource/Faithful_to_the_Eldar_and_Valar%3B_opposed_the_King%27s_Men> .
+
+<http://localhost:8000/resource/Fellowship_of_the_Ring> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22The_Fellowship_of_the_Ring%22_by_Peter_Xavier_Price> ;
+    tg:disbanded <http://localhost:8000/resource/22_August_%7B%7BTA> ;
+    tg:founded <http://localhost:8000/resource/18_December_%7B%7BTA> ;
+    tg:gallery "the Fellowship of the Ring"@en ;
+    tg:image "Peter Xavier Price - The Fellowship of the Ring.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:name "Fellowship of the Ring"@en ;
+    tg:othernames "Company of the Ring"@en ;
+    tg:purpose <http://localhost:8000/resource/Escort_the_One_Ring_to_Mount_Doom> .
+
+<http://localhost:8000/resource/Gaudrim> a schema:Organization ;
+    tg:image "The Rings of Power (TV series) - Gaudrim.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Caras_Gaer_in_Rh%C3%BBn> ;
+    tg:members <http://localhost:8000/resource/Br%C3%A2nk%2C_Kilta%2C_other_Easterlings> ;
+    tg:name "Gaudrim"@en ;
+    tg:purpose <http://localhost:8000/resource/Serving_the_Dark_Wizard_as_mercenaries> .
+
+<http://localhost:8000/resource/Gaurwaith> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22T%C3%BArin_Among_the_Outlaws%22_by_Alan_Lee> ;
+    tg:disbanded <http://localhost:8000/resource/%7B%7BFA> ;
+    tg:image "Alan Lee - Túrin Among the Outlaws.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Forest_of_Brethil%2C_Amon_R%C3%BBdh%2C_Dor-C%C3%BAarthol> ;
+    tg:members <http://localhost:8000/resource/Forweg%2C_T%C3%BArin> ;
+    tg:name "Gaurwaith"@en ;
+    tg:othernames "the Outlaws"@en ;
+    tg:pronun "{{respell|gour|weyeth}}"@en .
+
+<http://localhost:8000/resource/Guards_of_the_Citadel> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%27%27Fountain_Guard%27%27_by_%3ACategory%3AImages_by_Tom_Romain> ;
+    tg:image "Tom Romain - Fountain Guard.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:members <http://localhost:8000/resource/Beregond%2C_among_others> ;
+    tg:name "Guards of the Citadel"@en ;
+    tg:notablefor <http://localhost:8000/resource/Only_soldiers_allowed_to_wear_livery_of_the_heirs_of_Elendil> ;
+    tg:purpose <http://localhost:8000/resource/Protecting_the_Citadel_of_Gondor> .
+
+<http://localhost:8000/resource/Guild_of_Venturers> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22Aldarion_and_Erendis%22_by_%3ACategory%3AImages_by_Steamey> ;
+    tg:founded "{{SA|750}}"@en ;
+    tg:founder <http://localhost:8000/resource/Great_Captain_Tar-Aldarion> ;
+    tg:image "Steamey - Aldarion and Erendis.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/E%C3%A4mbar> ;
+    tg:members <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:name "Guild of Venturers"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Uinendili%27%27_%28Quenya> ;
+    tg:purpose <http://localhost:8000/resource/Exploring_the_seas_and_the_coasts_of_Middle-earth> .
+
+<http://localhost:8000/resource/Guild_of_Weaponsmiths> a schema:Organization ;
+    tg:disbanded <http://localhost:8000/resource/Likely_during_the_Downfall_of_N%C3%BAmenor> ;
+    tg:founder <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:name "Guild of Weaponsmiths"@en ;
+    tg:purpose "Preserving the craft of sword making."@en .
+
+<http://localhost:8000/resource/Gwaith-i-M%C3%ADrdain> a schema:Organization ;
+    tg:caption "\"Celebrimbor\" by Angus McBride"@en ;
+    tg:disbanded "{{SA|1697}}"@en ;
+    tg:founded "{{SA|750}}"@en ;
+    tg:founder <http://localhost:8000/resource/Celebrimbor> ;
+    tg:gallery "the Gwaith-i-Mírdain"@en ;
+    tg:image "Angus McBride - Celebrimbor.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Headquartered_at_the_House_of_the_M%C3%ADrdain_in_Ost-in-Edhil%2C_Eregion> ;
+    tg:members <http://localhost:8000/resource/Mainly_Noldor> ;
+    tg:name "Gwaith-i-Mírdain"@en ;
+    tg:notablefor <http://localhost:8000/resource/Forging_the_Rings_of_Power> ;
+    tg:othernames "Mírdain, People of the Jewel-smiths"@en ;
+    tg:pronun "{{respell|gweyeth|ee|mear|deyen}}"@en .
+
+<http://localhost:8000/resource/Host_of_the_West_%28Arnor%29> a schema:Organization ;
+    tg:disbanded "{{TA|1975}}"@en ;
+    tg:founded "c. {{TA|1973}}"@en ;
+    tg:founder <http://localhost:8000/resource/Cirdan_and_E%C3%A4rnur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/The_Host_was_drawn_from_all_parts_of_the_Westlands> ;
+    tg:members <http://localhost:8000/resource/Men_of_Arnor%2C_Gondorians%2C_Northmen%2C_Elves_of_Lindon%2C_and_possibly_Shire-hobbits%3Cref_name%3Dgondor%3E%7B%7BApp> ;
+    tg:name "Host of the West (Arnor)"@en ;
+    tg:notablefor <http://localhost:8000/resource/Defeating_Angmar_and_the_Witch-King> ;
+    tg:purpose <http://localhost:8000/resource/To_save_the_North-kingdom> .
+
+<http://localhost:8000/resource/King%27s_Men> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%27%27The_Temple_of_Sauron%27%27_by_Alan_Lee> ;
+    tg:disbanded "{{SA|3319}}"@en ;
+    tg:founded "c. {{SA|2221}}"@en ;
+    tg:image "Alan Lee - The Temple of Sauron.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/Most_later_King_of_N%C3%BAmenor> ;
+    tg:name "The King's Men"@en ;
+    tg:notablefor <http://localhost:8000/resource/Bringing_about_the_Downfall_of_N%C3%BAmenor> ;
+    tg:othernames "King's Folk, King's Party"@en ;
+    tg:purpose <http://localhost:8000/resource/Supporting_the_king._Later_opposing_the_Ban_of_the_Valar> .
+
+<http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22The_Last_Alliance%22_by_Jenny_Dolfen> ;
+    tg:disbanded "{{SA|3441}}"@en ;
+    tg:founded "{{SA|3430}}"@en ;
+    tg:founder <http://localhost:8000/resource/Gil-galad_and_Elendil> ;
+    tg:gallery "the Last Alliance"@en ;
+    tg:image "Jenny Dolfen - The Last Alliance.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Imladris%2C_drawn_from_all_parts_of_northwestern_Middle-earth> ;
+    tg:members <http://localhost:8000/resource/D%C3%BAnedain%3B_Elves_of_Lindon%2C_Rivendell%2C_Elves_of_Mirkwood> ;
+    tg:name "Last Alliance of Elves and Men"@en ;
+    tg:notablefor <http://localhost:8000/resource/Defeating_Sauron> ;
+    tg:purpose <http://localhost:8000/resource/Prevent_conquest_by_Sauron> .
+
+<http://localhost:8000/resource/Thorin_and_Company> a schema:Organization ;
+    tg:caption "\"The Dwarfs\" by Frank Rivolli"@en ;
+    tg:disbanded "{{TA|2941}}"@en ;
+    tg:founded "{{TA|2941}}"@en ;
+    tg:founder <http://localhost:8000/resource/Thorin> ;
+    tg:image "Frank Rivolli - The Dwarfs.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:members <http://localhost:8000/resource/Thorin%2C_Balin%2C_Dwalin%2C_F%C3%ADli%2C_K%C3%ADli%2C_Dori%2C_Nori%2C_Ori%2C_%C3%93in%2C_Gl%C3%B3in%2C_Bifur%2C_Bofur%2C_Bombur_and_Bilbo_Baggins> ;
+    tg:name "Thorin and Company"@en ;
+    tg:notablefor <http://localhost:8000/resource/Re-establishment_of_the_Kingdom_under_the_Mountain%2C_bringing_about_the_death_of_Smaug> ;
+    tg:purpose <http://localhost:8000/resource/Reclamation_of_the_Lonely_Mountain%2C_and_recovery_of_Dwarven_wealth%2C_including_the_Arkenstone> .
+
+<http://localhost:8000/resource/Union_of_Maedhros> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22The_Battle_of_Unnumbered_Tears%22_by_Alan_Lee> ;
+    tg:disbanded "{{FA|472}}"@en ;
+    tg:founded "{{FA|468}}"@en ;
+    tg:founder <http://localhost:8000/resource/Maedhros> ;
+    tg:image "Alan Lee - The Battle of Unnumbered Tears.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location "North Beleriand"@en ;
+    tg:members <http://localhost:8000/resource/Dwarves_of_Belegost%2C_Easterlings_%28First_Age%29> ;
+    tg:name "Union of Maedhros"@en ;
+    tg:notablefor <http://localhost:8000/resource/Ended_in_the_disaster_known_as_the_Nirnaeth_Arnoediad> ;
+    tg:purpose <http://localhost:8000/resource/Unite_the_peoples_of_Beleriand_against_Morgoth> .
+
+<http://localhost:8000/resource/White_Council> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/The_White_Council_in_%27%27The_Hobbit%3A_An_Unexpected_Journey%27%27> ;
+    tg:disbanded "{{TA|2953}}<ref name=\"AppBTA\"/>"@en ;
+    tg:founded "{{SA|1701}} (first)<ref name=\"UT|Concerning\">{{UT|Concerning}}, p. 254, note 10</ref><br>{{TA|2463}} (later)<ref name=\"AppBTA\">{{App|TA}}</ref>"@en ;
+    tg:founder <http://localhost:8000/resource/Galadriel%3Cref_name%3DMirror%3E%7B%7BFR> ;
+    tg:gallery "the White Council"@en ;
+    tg:image "The Hobbit - An Unexpected Journey - The White Council meets.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:members <http://localhost:8000/resource/Saruman%2C_Gandalf%2C_Galadriel%2C_Elrond%2C_C%C3%ADrdan> ;
+    tg:name "White Council"@en ;
+    tg:notablefor <http://localhost:8000/resource/Attack_on_Dol_Guldur> ;
+    tg:othernames "Council of the Wise<ref name=\"SRings\">{{S|Rings}}</ref>"@en ;
+    tg:purpose <http://localhost:8000/resource/To_co-ordinate_the_resistance_to_Sauron> .
+
+<http://localhost:8000/resource/Wizards> a schema:Organization ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AAngel_Falto_-_The_Istari.jpg> ;
+    tg:disbanded "{{TA|3021}}"@en ;
+    tg:founded "c. {{TA|1000}}"@en ;
+    tg:founder <http://localhost:8000/resource/Manw%C3%AB> ;
+    tg:image "Angel Falto - The Istari.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/organization_infobox> ;
+    tg:location <http://localhost:8000/resource/Orthanc_%28Saruman%29%3Cbr/%3ERhosgobel_%28Radagast%29%3Cbr%3ERh%C3%BBn_and_Harad_%28Blue_Wizards%29> ;
+    tg:members <http://localhost:8000/resource/Saruman%2C_Gandalf%2C_Radagast%2C_Alatar%2C_Pallando> ;
+    tg:name "Order of Wizards"@en ;
+    tg:notablefor <http://localhost:8000/resource/Bringing_about_the_final_defeat_of_Sauron_%28mostly_by_Gandalf%29> ;
+    tg:othernames <http://localhost:8000/resource/Heren_Istarion%2C_%27%27Istari%27%27_%28Quenya> ;
+    tg:purpose <http://localhost:8000/resource/The_help_the_Free_peoples_to_resist_Sauron> .
+

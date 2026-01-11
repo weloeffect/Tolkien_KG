@@ -1,0 +1,31 @@
+{{adaptation}}
+{{Dragon infobox
+| image=Rob Alexander - Bairanax At Home.jpg
+| caption = ''“Bairanax at Home”'' by [[Rob Alexander]]
+| name=Bairanax
+| othernames=
+| titles=The Bear Hunter
+| location=[[Grey Mountains]]
+| affiliation=
+| hoard=
+| birth=
+| birthlocation=
+| death=
+| deathlocation=
+| slayer=
+| type=[[Cold-drakes|Cold-drake]]
+| legs=Yes
+| wings=Yes
+| colour=Brownish-red
+}}
+
+'''Bairanax''' the “Bear-hunter” was a [[Cold-drake]] in the [[Grey Mountains]]. He was invented by [[Iron Crown Enterprises]] for ''[[Middle-earth Role Playing]]''. He has brownish-red scales and measures fifty-five feet in length.
+
+When he escaped the doom of Angband as a young dragon, a North Bear almost killed him. This instilled a deep hatred of bears into the dragon. Likewise, [[Northmen|Northman]] Bear-cults view him as their ancient enemy. Beyond Bears, Bairanax has a rivalry with the dragon [[Lomaw]].
+
+The lair of Bairanax was situated in the caves at Ovir Hollow, surrounded by a flower-filled moat, somewhere in the southern Grey Mountains.<ref name=creatures>{{ICE|2012}}, pp. 106-107</ref> 
+
+{{references}}
+
+[[Category:Dragons from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

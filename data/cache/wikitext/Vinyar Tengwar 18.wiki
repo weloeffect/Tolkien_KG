@@ -1,0 +1,31 @@
+{{VTbox
+| title=Vinyar Tengwar 18
+| image = Vinyar Tengwar 18.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=July [[1991]]
+| format=Paperback journal
+| pages=38
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 18''''' is the eighteenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|17|19}}
+
+==Contents==
+* Cover: "Gandalf at the Library of Minas Tirith" — Patrick H. Wynne
+* E.L.F. News
+* Letters to ''VT''
+
+* "The Death of Glaurung — trans. Patrick H. Wynne
+* "''[[Ainulindalë]]'': 'The Great Music of the Ainur', Part 1" — trans. Craig Marnock
+* "Counting Limits" — Bill Welden
+* "Words and Devices: Harping on a Theme" (column) — Patrick H. Wynne and Carl F. Hostetter
+* "''Essitalmar'': The Horror, the Horror..." (column) — Tom Loback
+* "Transitions in Translations: I'm a Troll Man" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 18}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 18]]

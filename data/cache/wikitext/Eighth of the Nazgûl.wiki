@@ -1,0 +1,94 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Ren
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Romas Kukalis - Ren the Ringwraith.jpeg
+| caption=''“Ren the Ringwraith”'' by [[Romas Kukalis]]
+| pronun=
+| othernames=the Unclean<br>the Insane<br>the Illusionist<br>Fire King
+| titles=King of Chey Sart
+| position=Eighth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1969}}
+| birthlocation=[[Chey Sart]] 
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=5 ft 10 in<ref name=ICE>{{ICE|8003}}, pp. 94-95</ref>
+| hair=
+| eyes=Black<ref name=ICE/>
+| clothing=Red and white robes<br>Helmet shaped like his father's head<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>Burning Blade<br>Believers' Bane
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Toldëa
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=The Black Shadow
+| titles=
+| position=Eighth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| weapons=
+| steed=Black horse
+}}
+}}
+The '''Eighth of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Ren the Unclean'', a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>{{ICE|3340}}, p. 45</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] Toldëa'' ([[Quenya|Q.]] Eighth Nazgûl), and assigning the epithet of ''Black Shadow''.<ref>{{LOTRTCGW|Ulaire Toldea, Black Shadow (12U180)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+
+==Backstory in Middle-earth Role Playing==
+'''Ren''' was born in [[Chey Sart]] in {{SA|1969}} and grew up near the magical Springs of Fog, where he trained as an illusionist. He married a woman named Elyen and they had two children. For four years, he lived a peaceful life, composing a book on enchantments.
+
+This tranquil period ended in {{SA|1998}}, when a plague swept through his homeland. Ren barely survived the illness, but it left him with a twisted mind, instilling in him the delusion that he was the ''Fire King'', a son of the volcano Ulk Chey Sart. His sanity slowly eroded, and his horrified wife tried in vain to find a cure.
+
+At the end of {{SA|1999}}, Ren gathered a cult of followers and declared himself the Overlord of the Chey. He ruthlessly subjugated the tribes in his regio, and by the end of the next year, he had become the King of the Chey in truth.
+
+[[Sauron]], observing Ren's ruthless march, saw great potential in the mad enchanter. In {{SA|2001}}, Ren accepted a [[Nine Rings|Ring of Power]], becoming the eighth King to fall under Sauron’s sway.”
+
+Non-believers were purged, including his own family, and the population of the tribes fell to half of what it had been before the Plague. Ren led two great expansions between {{SA|2155}} and {{SA|3261}}, using a system of horse-roads and garrison holds to consolidate his conquests.
+
+After the [[Downfall of Númenor]], he joined his master in [[Mordor]], where he passed into shadows as Sauron was overthrown in the [[War of the Last Alliance]].
+
+Ren reappeared around {{TA|1050}}, re-establishing his volcanic hold and expanding it into a great underground citadel. In {{TA|1235}}, he began subjugating neighbouring tribes, unifying them in {{TA|1264}}. He ruled under the moniker of the Fire King to hide his identity, bringing a period of prosperity to the Chey people.
+
+During the [[War of the Ring]], Ren rode with the Black Riders in search of the One Ring. Afterwards, he organized Mordor's main army from [[Barad-dûr]] and then fought at the [[Battle of the Morannon]], where he perished with Sauron's defeat.<ref name=ICE/>
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have possessed the following weapons:
+*'''Burning Blade''': A [[galvorn]] two-handed sword, with a red edge. Its hilt was made of red copper and the guard of golden [[Stones_in_Middle-earth_Role_Playing#Laen|laen]].<ref>{{ICE|2010}},  p. 20</ref>
+* '''Believers' Bane''': An enchanted composite bow.<ref>{{ICE|2010}},  p. 19</ref>
+{{References}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 8}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

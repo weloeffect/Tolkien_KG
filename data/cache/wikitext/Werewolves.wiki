@@ -1,0 +1,56 @@
+{{disambig-more|wolf|[[Wolf (disambiguation)]]}}
+{{race infobox
+| name=Werewolves
+| image = The White Council - Werewolf.jpg
+| caption=Werewolf from ''[[The Lord of the Rings: The White Council]]''
+| pronun=
+| othernames=
+| origin=
+| location=[[Angband]], [[Tol-in-Gaurhoth]]
+| affiliation=[[Morgoth]], [[Sauron]]
+| rivalry=[[Elves]], [[Dogs]]
+| language=
+| people=
+| members=[[Carcharoth]], [[Draugluin]]
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+'''Werewolves''' were servants of [[Sauron]], fell beasts ([[wolves]]) inhabited by dreadful spirits that Sauron had imprisoned in their bodies.<ref name=S19>{{S|19}}</ref>
+==History==
+Werewolves were created (or a least corrupted from some other form) by [[Sauron]], who was their master, and who took the shape of a great [[Wolves|wolf]] himself at least once.<ref name=S19>{{S|19}}</ref>
+
+The first werewolf was [[Draugluin]], and the greatest was [[Carcharoth]], the guardian of [[Angband]], a descendant of Draugluin as all other werewolves were.
+
+In the ''[[The Grey Annals|Grey Annals]]'' it is told that "creatures that walked in wolf-shapes" entered [[Beleriand]] in the [[Valian Years|Valian Year]] 1330.<ref>{{GA|26}}, p. 12</ref>
+
+Although not appearing as such in the known written records of [[Arda]] during the [[Second Age|Second]] and [[Third Age|Third]] Ages, Gandalf mentioned the werewolves as being among Sauron's servants in the late Third Age, along with [[orcs]], [[trolls]], [[wargs]], and [[wraiths]].<ref>{{FR|Meetings}}</ref>
+ 
+==Other names==
+
+In [[Sindarin]], werewolves were called ''gaurhoth'' (sing. ''[[gaur]]'').<ref>{{S|Index}}</ref><ref>{{S|Appendix}}</ref><ref>{{PE|21}}, p. 57</ref> The [[Quenya]] name was ''[[nauro]]''.<ref>{{PE|19}}, p. 106</ref>
+
+==Portrayal in adaptations==
+[[File:Mark Evans - Werewolves.jpg|thumb|right|''Werewolves'' in ''[[The Lord of the Rings Roleplaying Game|LotRRPG]]'']]
+'''1982-1997: ''[[Middle-earth Role Playing]]'':'''
+:Classified as Undead Beings, the Werewolves are either bred from Wolves or Wargs. They cannot transform themselves into Men, although they can alter shape into being able to stand upright (while remaining Wolf-like).<ref>{{ICE|2012}}, p. 130</ref>
+
+'''2002-5: ''[[The Lord of the Rings Roleplaying Game]]'':'''
+:Werewolves can change between Man-form (hairy, muscular folk) and Warg-form (surpassing the size and ferocity of the largest Wargs).<ref>{{D|Fell}}, pp. 52-53</ref>
+
+==See also==
+*[[:Category:Images of Werewolves|Images of Werewolves]]
+
+==External links==
+*{{WP|Werewolf}}
+{{references}}
+{{wolves}}
+[[Category:Werewolves| ]]
+[[Category:Wolves]]
+[[Category:Servants of Melkor]]
+[[Category:Servants of Sauron]]
+[[fi:Ihmissudet]]

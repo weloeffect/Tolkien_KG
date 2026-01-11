@@ -1,0 +1,37 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 4
+| image=
+| editor=
+| illustrator=
+| date=March [[1983]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229571|articlename=Vol. 4, March 1983|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 4''''' is the fourth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in March [[1983]].<ref name="jstor" />
+==Contents==
+*"A Note on Scientific and Theological Enterprises"
+**By: A.R. Peacocke
+*"What is Truth? An Open Letter to Kathleen Nott"
+**By: D.J. Taylor
+*"C.S. Lewis on the Desolation of Devalued Science"
+**By: Bruce R. Reichenbach
+*"George MacDonald and Dreams of the Other World"
+**By: David Holbrook
+*"The Symbolism of the Key in Chesterton's Work"
+**By: Christiane d'Haussy
+*"Chesterton and Tolkien: the Road to Middle-earth"
+**By: Thomas M. Egan
+*"Charles Williams and Arthur Edward Waite"
+**By: Elisabeth Brewer
+*"Charles Williams's Christmas Novel: ''The Greater Trumps''"
+**By: Charles Huttar
+*"Seeing and Knowing: The Epistemology of C.S. Lewis's ''Till We Have Faces''"
+**By: Peter J. Schakel
+*"''Gaudy Night'': An Investigation of Truth"
+**By: Donald G. Marshall<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|3|5}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 04}}
+
+[[Category:SEVEN]]

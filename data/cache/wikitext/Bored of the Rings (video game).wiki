@@ -1,0 +1,22 @@
+{{expansion}}
+{{disambig-more|Bored of the Rings|[[Bored of the Rings (disambiguation)]]}}
+{{video game infobox
+| image = Bored-1-.jpg
+| name=Bored of the Rings
+| developer=[[Delta 4 Software]] (briefly), [[Silver Soft]], [[CRL Group PLC]], [[Zenobi Software]]
+| publisher=[[Delta 4 Software]]
+| platform=[[wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:BBC Micro|BBC B]], [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Sinclair QL|Sinclair QL]], [[wikipedia:ZX Spectrum|ZX Spectrum]]
+| releasedate=[[1985]]
+| genre=Text-Adventure with illustrations
+}}
+'''''Bored of the Rings''''' is a 1985 video game published for several platforms,  influenced by the novel [[Bored of the Rings (book)|of the same name]]. It is the first of the series ''[[Hairy Toes]]'',<ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=4 Meristation, El Anillo Interactivo] p. 5 (retrieved 21 September 2010)</ref> the other part is ''[[The Boggit]]''.<ref name="El Anillo"/> It was written with The Quill.<ref name="Spectrum">[http://www.worldofspectrum.org/infoseekid.cgi?id=0006036 Bored of the Rings] at [[Wikipedia:World of Spectrum|World of Spectrum]] (retrieved 21 September 2010)</ref>
+
+==Gameplay==
+Unlike the book, character names are more reminiscent of the original work. ''Grandalf'' is [[Gandalf]], ''Bimbo'' is [[Bilbo Baggins]] and ''Fordo'' is [[Frodo Baggins]], among others. The game is divided into four parts; unlocking a new part requires a password received at the end of the previous part.<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/bored.html Bored of the Rings] at Tolkien Games (retrieved 21 September 2010)</ref> The game is only playable in a single player mode.<ref name="Spectrum"/> The authors of the game are [[Fergus McNeill]],<ref name="Spectrum"/><ref name="Tolkien Games"/> [[Judith Child]]<ref name="Tolkien Games"/> and [[Ian Willis]].<ref name="Tolkien Games"/> 
+
+{{References}}
+{{title|italics}}
+[[Category:Amstrad CPC games]]
+[[Category:Commodore 64 games]] 
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

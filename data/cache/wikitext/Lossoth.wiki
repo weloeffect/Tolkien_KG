@@ -1,0 +1,51 @@
+{{people infobox
+| name=Lossoth
+| image = Liz Danforth - Lossoth.jpg
+| caption="[[:File:Liz Danforth - Lossoth.jpg|Lossoth]]" by [[Liz Danforth]]
+| pronun=
+| othernames=Snowmen
+| origin=Descendants of the [[Forodwaith (people)|Forodwaith]]
+| location=[[Cape of Forochel]], occasionally northern [[Blue Mountains]]
+| affiliation=
+| rivalry=
+| language=[[Westron]]<br/>Language of the Lossoth{{Fact}}
+| members=
+| lifespan=Shorter than Númenórean
+| distinctions=Primitive culture adapted to the cold climate of the [[Northern Waste]]
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+The '''Lossoth''', also called the '''Snowmen of Forochel''',<ref name=SApp>{{S|Appendix}} (entry ''hoth'')</ref> were [[Men]], remnant of the [[Forodwaith (people)|Forodwaith]], the ancient people from the northern lands of [[Middle-earth]].
+
+==History==
+The Lossoth are a remnant of the ancient people of Forodwaith, about whom not much can be known. It can be assumed that the Lossoth flourished well outside the Númenórean sphere of influence, and they suffered from [[Angmar]], causing their remnants to retreat.<ref name=lalaith>{{webcite|website=Lalaith|author=[[Andreas Moehn]]|articlename=The Lossoth and the Forodwaith|articleurl=http://lalaith.vpsurf.de/Tolkien/Lossoth.html}}</ref> They were afraid of the [[Witch-king]], and they believed he could control elements like frost and thaw. At some point, the Lossoth had retreated to the [[Forochel|Cape of Forochel]], inaccessible to hostile peoples who harassed them.<ref name="Eriador"/>
+
+They entered history near the end of the second millennium of the Third Age, when [[Arvedui]], last [[King of Arthedain]], fled into the north to escape his kingdom's destruction and the Lossoth gave him their aid. In {{TA|1975}},<ref>{{App|TA}}</ref> when an elven-ship came to rescue him, the exiled King rewarded the Lossoth for their friendship with the [[Ring of Barahir]]. His hosts sensed approaching disaster, and warned Arvedui not to board the ship. Against their advice he did so, and indeed a great storm overwhelmed the vessel and the last King of Arthedain was lost in the cold waters of the far north.<ref name="Eriador"/>
+
+In the later Third Age, the [[Rangers of the North]] learned from the Lossoth the fate of the ship, and also paid to buy back the Ring of Barahir.<ref name="Eriador"/>
+
+==Culture==
+The Lossoth lived mainly on the Cape of Forochel that enclosed the [[Icebay of Forochel]], but in winter the Bay was frozen over, and they could camp around its southern rim at the feet of the [[Blue Mountains]]. They had a culture well adapted to their icy existence, constructing houses in the snow (possibly similar to igloos), and travelling on sleds and bone skates. Despite this comfortable existence, the Lossoth had a very primitive culture. They were afraid of the weapons that Arvedui and his men had, did not value jewels and could not understand sailing boats.<ref name="Eriador">{{App|Eriador}}</ref>
+
+An isolated and unfriendly people, they must have had some limited contact with other peoples of the [[Westlands]], as they apparently knew some [[Westron]].<ref name=lalaith/>
+
+==Etymology==
+''Loss(h)oth'' is [[Sindarin]] and consists of ''[[loss]]'' ("snow") + ''[[hoth]]''.<ref name=SApp/>
+
+[[Andreas Moehn]] suggests that the word is a collective name, from an outsider's point of view, without knowledge of any tribes or variance of cultures. It seems to be derogatory, as highlighted by the (usually pejorative) ending ''hoth''.<ref name=SApp/><ref name=lalaith/><ref>{{UT|Cirion}} (Note 24)</ref>
+
+==Portrayals in adaptations==
+[[File:The Lord of the Rings Online - Lossoth.jpg|thumb|left|A typical Lossoth male]]
+'''2008: ''[[The Lord of the Rings Online: Shadows of Angmar]]'''''
+:The Lossoth appear in the zone of the Ice-Bay of Forochel introduced in April [[2008]]. The Lossoth skate on ice and push sledges, and have the ability to tame and ride to war on mammoths. Many aspects of their language, culture, and appearance seem to be derived from or inspired by that of the Finnish, Sami, and Inuit peoples. They call themselves the ''Lumi-väki''. Their chieftain is Yrjänä, who rules from the Great Lodge of Sûri-kylä.
+
+{{references}}
+[[Category:Men]]
+[[Category:Sindarin demonyms]]
+[[de:Lossoth]]
+[[fr:encyclo/peuples/hommes/lossoth]]
+[[fi:Lossoth]]

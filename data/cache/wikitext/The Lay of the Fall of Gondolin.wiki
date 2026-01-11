@@ -1,0 +1,49 @@
+{{Poem infobox
+| title=The Lay of the Fall of Gondolin
+| other names=
+| written=Early [[1920]]s<ref name=guide>{{CG|2|2RGI}}, entry "''The Lay of the Fall of Gondolin''"</ref>
+| revised=
+| published= ''[[The Lays of Beleriand]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Gondolin]]
+}}
+
+'''''The Lay of the Fall of Gondolin''''' is the name of a poem that was written by [[J.R.R. Tolkien]].<ref name="LB">{{LB|2c}}</ref>{{rp|144}}
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+:Thither Tuor son of Fengel came out of the dim land
+:that the Gnomes have called Dor-Lómin, with Bronweg at his hand,
+:who fled from the Iron Mountains and had broken Melko’s chain
+:and cast his yoke of evil, of torment and bitter pain;
+:who alone most faithful-hearted led Tuor by long ways
+:through empty hills and valleys by dark nights and perilous days,
+:till his blue lamp magic-kindled, where flow the shadowy rills
+:beneath enchanted alders, found that Gate beneath the hills,
+:the door in dark Dungorthin that only the Gnome-folk knew.<ref name="LB">{{LB|2c}}</ref></poem>
+
+==Comparative example==
+{{blockquote|Rejoice that ye have found it, for behold before you the City of Seven Names where all who war with Melko may find hope.'<br>Then said Tuor: 'What be those names?' And the chief of the Guard made answer: 'Tis said and 'tis sung: "Gondobar am I called and Gondothlimbar, City of Stone and City of the Dwellers in Stone (...)|''[[The Book of Lost Tales 2]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]", p. 158}}
+{{blockquote|<poem>Rejoice that ye have found it and rest from endless war,
+For the seven-naméd city 'tis that stands upon the hill,
+Where all who strive with Morgoth find hope and valour still.'
+'What be those names,' said Tuor, 'for I come from long afar?'
+'’Tis said and ’tis sung,' one answered, '"My name is Gondobar
+and Gondothlimbar also, the City hewn of Stone,
+The fortress of the Gnome-folk who dwell in Halls of Stone (...)</poem>|The Lay of the Fall of Gondolin}}
+
+==Background==
+In the early [[1920]]s<ref name=guide/> possibly between [[1921]] at the earliest and [[1925]] at the latest,<ref name=collectedpoems>{{CP|66}}, pp. 478-9</ref> [[J.R.R. Tolkien]] wrote a long poem in rhyming couplets<ref name=guide/> during his time at the [[University of Leeds]] which he entitled ''The Lay of the Fall of Gondolin''. It was suspected by [[Christopher Tolkien]] that it was Tolkien's first attempt of versification of the matter from the ''[[Lost Tales]]'' before he began writing in alliterative verse.<ref name="LB">{{LB|2c}}</ref>{{rp|144}}
+
+A few verses from the lay were published for the first time in the chapter "[[Poems Early Abandoned]]" of ''[[The Lays of Beleriand]]'' because Christopher Tolkien stated that the poem had nothing to add to the [[The Fall of Gondolin (chapter)|Tale of the Fall of Gondolin]] and that the metrical form may not have been suitable to Tolkien.<ref name="LB">{{LB|2c}}</ref>{{rp|145}} The poem may not have been "conceived on a large scale" since the enemy appears "already within" the first 130 lines.<ref name="LB">{{LB|2c}}</ref>{{rp|144–5}} Unlike in the Lost Tale where [[Tuor]]'s father is [[Peleg]], this version refers to his father as Fengel. Like in other alliterated poems, such as ''[[The Lay of the Children of Húrin]]'', [[Fingolfin]] is the father of [[Turgon]] and [[Aredhel|Isfin]]; [[Finwë]] is, however, called [[Gelmir]].<ref name="LB">{{LB|2c}}</ref>{{rp|146–7}}
+
+In [[2024]], the full text of ''The Lay of the Fall of Gondolin'' was published for the first time as entry 66 in ''[[The Collected Poems of J.R.R. Tolkien]]''. With the full text, two main changes can be drawn from the Lost Tale. It seems that the house where Eärendil was born was built in the eastern walls. In the Tale, Tuor's house was situated in the southern walls. This change may add plausibility to the tunnel that Idril made, in relation to the flight of the exiles to [[Cristhorn]], which was later situated in the north of the Encircling Mountains. Another detail not present in the Tale would be the location of Meglin's capture in the hills near Cristhorn.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+{{DEFAULTSORT:Lay of the Fall of Gondolin, The}}
+
+[[Category:Poems in The Lays of Beleriand]]
+
+[[fi:The Lay of the Fall of Gondolin]]

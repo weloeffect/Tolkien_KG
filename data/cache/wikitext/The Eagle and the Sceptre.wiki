@@ -1,0 +1,122 @@
+{{incomplete}}
+{{episode infobox
+| name= The Eagle and the Sceptre
+| image =
+| caption=
+| director=[[Louise Hooper]]<br/>[[Charlotte Brändström]]
+| writer=[[Helen Shang]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[29 August]] [[2024]]
+| runtime=66 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=27580490
+| gallery=The Rings of Power (TV series)
+| previous=[[Where the Stars are Strange]]
+| next=[[Eldest (episode)|Eldest]]
+}}
+
+{{Quote|[[Isildur]] and an old [[Berek|friend]] reunite. [[Arondir]] grapples with change. [[Tar-Míriel|Míriel]] faces rising [[King's Men|opposition]]. [[Annatar]] counsels [[Celebrimbor]].|Official Synopsis, [[Amazon Studios]]}}
+
+'''The Eagle and the Sceptre''' is the eleventh episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the third episode of the second season and it was released on [[29 August]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Lloyd Owen]] || [[Elendil|Captain Elendil]]
+|-
+| [[Maxim Baldry]] || [[Isildur]]
+|-
+| [[Trystan Gravelle]] || [[Ar-Pharazôn|Pharazôn]]
+|-
+| [[Cynthia Addai-Robinson]] || [[Tar-Míriel|Queen Regent Míriel]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Sophia Nomvete]] || [[Disa]]
+|-
+| [[Owain Arthur]] || [[Durin IV]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Alex Tarrant]] || [[Valandil (The Rings of Power)|Valandil]]
+|-
+| [[Ema Horvath]] || [[Eärien]]
+|-
+| [[Leon Wadham]] || [[Kemen (The Rings of Power)|Kemen]]
+|-
+| [[William Keen|Will Keen]] || [[Belzagar (The Rings of Power)|Lord Belzagar]]
+|-
+| [[Samuel Hazeldine|Sam Hazeldine]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Nia Towle]] || [[Estrid]]
+|-
+| [[Kevin Eldon]] || [[Narvi]]
+|-
+| [[Robert Strange]] || [[Khrudge]] / [[Glûg]]
+|-
+| [[Jonny James]]|| [[Orcs|Ravager Orc]] / [[Orcs|Wall Orc]]
+|-
+| [[Ken Blackburn]] || [[Tar-Palantir]]
+|-
+| [[William Chubb]] || [[High Priest]]
+|-
+| [[Kirsty Hoiles]] || [[Niluzôr]]
+|-
+| [[Benjamin Walker]] || Voice of [[Damrod (The Rings of Power)|Damrod]], the [[Hill-troll]]
+|-
+| [[Peter Temple]] || [[Men|Old Man]]
+|-
+| [[Alli Ryan]] || [[Men|Madwoman]]
+|-
+| [[Nazanin Boniadi]] || [[Bronwyn]]
+|-
+| [[Gabriel Akuwudike]] || [[Hagen]]
+|-
+| [[Murray McArthur]] || [[Ammred]]
+|-
+| [[Mihir Pandya]] || [[Men|One Eyed Wildman]]
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|11]]

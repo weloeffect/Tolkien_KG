@@ -1,0 +1,52 @@
+{{location infobox
+| name=Amon Lhaw
+| image=Matěj Čadil - The Seat of Hearing.jpg
+| caption="The Seat of Hearing" by [[Matěj Čadil]]
+| pronun=
+| othernames=Hill of Hearing
+| location=[[Emyn Muil]], across the [[Nen Hithoel]] opposite [[Amon Hen]]
+| type=Hill
+| description=
+| regions=
+| towns=
+| inhabitants=[[Gondorians]] (formerly),<br/>[[Orcs|Spies of Mordor]]
+| created=
+| destroyed=
+| events=
+}}
+
+'''Amon Lhaw''', also called the '''Hill of Hearing''', was one of the three peaks above the [[Rauros|Rauros-falls]], where [[Nen Hithoel]] was drained.<ref name=greatriver>{{FR|II9}}</ref>
+
+== Description ==
+Amon Lhaw towered among the [[Emyn Muil]] on the eastern banks of the [[Anduin]] opposite [[Amon Hen]], which lay upon the western bank. Between these two peaks was the island hill of [[Tol Brandir]].<ref name=greatriver/>
+
+Amon Lhaw may possibly have been a little "over 1,000 feet" according to a [[1959]] letter that [[J.R.R. Tolkien]] wrote to a reader about the height of Amon Hen.<ref>{{HM|RC}}, entry "the summit of Amon Hen", p. 350. From Waterfield's Catalogue 157, ''Modern Literature'', 1995, item 427.</ref>
+
+== History ==
+Amon Lhaw was first fortified "in the days of the great kings" according to [[Aragorn]], though the precise dating is unspecified.<ref name=greatriver/> The hill was fortified before the time of the [[Stewards of Gondor|Stewards]], which meant that by the year {{TA|3019}}, the fortifications were at a minimum 969 years old. One likely possibility is that the hill was fortified at the same time as the [[Argonath]], which was built after [[Rómendacil II|Minalcar]] defeated the [[Easterlings]] in the year {{TA|1248}} but before the end of his reign in the year {{TA|1366}}.<ref>{{App|A}}</ref>
+
+At one time Amon Lhaw had been part of the [[North March]]<ref>{{TT|Window}}</ref> of [[Gondor]] and a high seat<ref name=breaking>{{FR|II10}}</ref> was built there upon which [[Men]] kept watch. By the time of the [[War of the Ring]] however, it had long since fallen under the influence of [[Mordor]], as spies often roamed there. Such spies may have been [[Orcs]].<ref name=greatriver/>
+
+In the year 3019, following the [[Breaking of the Fellowship]] at [[Parth Galen]], [[Frodo Baggins]] and [[Samwise Gamgee]] took a boat and paddled across [[Nen Hithoel]]. They landed upon the southern slopes of Amon Lhaw where there was a shelving shore.<ref name=breaking/>
+
+== Etymology ==
+''Amon Lhaw'' is [[Sindarin]], and translates as "Hill of Hearing", or "Hill of Ears",<ref>{{webcite|author=[[Paul Strack]]|articleurl=https://eldamo.org/content/words/word-3220373299.html|articlename=S. Amon Lhaw loc.|dated=|website=Eldamo|accessed=}}</ref> from ''[[amon]]'' ("hill") and ''[[lhaw]]'' ("ears").<ref>{{PE|17}}, p. 62</ref>
+
+== Other versions of the legendarium ==
+In his drafts, Tolkien first wrote that Amon Lhaw was fortified "in the days of [[Isildur]]" instead of "in the days of the great kings". He also originally gave Amon Lhaw the [[Quenya]] name '''''Larmindon''''' ("Listen Tower")<ref>{{webcite|author=[[Paul Strack]]|articleurl=https://eldamo.org/content/words/word-3103547467.html|articlename=ᴹQ. Larmindon loc.|dated=|website=Eldamo|accessed=}}</ref>.<ref>{{TI|River}}, p. 364</ref>
+
+At the top of a draft entitled "Trotter on Amon Hen", Tolkien wrote "many experimental [[Elvish]] names" such as '''''Llawhen''''', '''''Amon Tirlaw''''', '''''Lhawdir''''', '''''Lasthen''''', '''''Henlas''''', and '''''Hendlas'''''. However, all of these names were struck through in favor of Amon Lhaw and Amon Hen.<ref>{{TI|Boromir}}, p. 387 (note 4)</ref>
+
+== Portrayal in adaptations ==
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Amon Lhaw briefly appears in [[Peter Jackson]]'s [[2001]] [[The Lord of the Rings: The Fellowship of the Ring|film adaptation]] of Tolkien's ''[[The Fellowship of the Ring]]'', though it is not named.
+
+[[File:The Lord of the Rings Online - Amon Lhaw.jpg|thumb|left|250px|Amon Lhaw in ''[[The Lord of the Rings Online]]'']]
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+:Amon Lhaw can be seen in detail from Amon Hen but is not accessible, just like the rest of [[Nen Hithoel]]'s east shore.
+
+{{References}}
+[[Category:Hills]]
+[[Category:Sindarin locations]]
+[[de:Amon Lhaw]]
+[[fi:Amon Lhaw]]

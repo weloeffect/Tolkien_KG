@@ -1,0 +1,23 @@
+{{plant infobox
+| name=Seregon
+| image=
+| caption=
+| pronun={{respell|seh|reh-gon}}
+| othernames=Stone's Blood
+| location=[[Amon Rûdh]]
+| notablefor=
+| family=
+| appearance=Plant with blood-red flowers
+}}
+'''Seregon''' was a plant that grew in rocky soil and produced blood-red flowers, which gave it its name. ''Seregon'' was noted as the one plant that mantled the otherwise barren head of [[Amon Rûdh]].<ref name="Mim">{{CH|7}}</ref>
+
+In the [[First Age]], [[Túrin|Túrin Turambar]] was the captain of the [[Gaurwaith]], an outlaw band, that was seeking a new lair when they captured [[Mîm]] the [[Petty-dwarves|Petty-dwarf]].  In return for his life Mîm led the [[Men]] to his home, which was carved into the summit of [[Amon Rûdh]].  As they approached the secret hideout from the north, sunlight from the west illuminated the hill and its rich, red flowers, causing the outlaw [[Andróg]] to exclaim, "See! There is blood on the hill-top".<ref name="Mim"/>
+
+Mîm later betrayed Túrin and his followers to a party of [[Orcs]].  The Orcs attacked the hideout and killed all but Túrin and his elf-friend [[Beleg]].  The blood of the rest of the outlaws flowed out upon the ''seregon''.<ref>{{S|Turin}}</ref>
+
+==Etymology==
+The name ''seregon'' means "blood of stone" in [[Sindarin]]<ref>{{S|Index}}</ref> (from ''[[sereg]]'' = "blood" and ''[[gond]]'' = "stone").<ref>{{PE|17}}, p. 184</ref>
+
+{{references}}
+[[Category:Flowers]]
+[[Category:Sindarin names]]

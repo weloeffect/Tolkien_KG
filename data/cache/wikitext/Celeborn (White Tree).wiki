@@ -1,0 +1,46 @@
+{{disambig-more|White Tree|[[White Tree (disambiguation)]]}}
+{{plant infobox
+| name=Celeborn
+| image=
+| caption=
+| pronun=
+| othernames="White Tree"
+| location=[[Tol Eressëa]]
+| notablefor=
+| family=Seedling of [[Galathilion]]
+| appearance=
+}}
+{{Pronounce|Celeborn.mp3|Ardamir}}
+'''Celeborn''' was the name of the '''White Tree''' that flourished in [[Tol Eressëa]]. It was a seedling of the tree [[Galathilion]], which in turn had been made in image of [[Telperion]], the eldest of the [[Two Trees of Valinor]].<ref>{{S|Princes}}</ref>
+
+Celeborn was an ancestor to [[Nimloth of Númenor]]<ref>{{S|Akallabeth}}</ref> which is in turn ancestor to the [[White Tree of Gondor|White Trees of Gondor]].<ref>{{FR|II2}}</ref>
+
+==Etymology==
+''[[Celeb]]'' is Sindarin for "silver", while ''[[orn]]'' is "tree"; its name means "Tree of Silver".<ref>{{S|Index}}</ref><ref>{{S|Appendix}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | |TEL| | | | | LAU=[[Laurelin]]|TEL=[[Telperion]]<br><small>Destroyed by [[Morgoth]] and [[Ungoliant]]</small>}}
+{{familytree | | | | | | | | | }}
+{{familytree | | | |GAL| | | | | GAL=[[Galathilion]] on [[Túna]]<br><small>Made in the image of Telperion</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |CEL| | | CEL=Celeborn of [[Tol Eressëa]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |NIM| | | NIM=[[Nimloth (tree)|Nimloth]] of [[Númenor]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G1| | | | |G1=<small>[[White Tree of Gondor#First White Tree|First Tree of Gondor]] ([[Minas Ithil]])<br>{{SA|3320}} - {{SA|3429|n}} (planted by [[Isildur]])</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G2| | | | |G2=<small>[[White Tree of Gondor#Second White Tree|Second Tree of Gondor]] ([[Minas Anor]])<br>{{TA|2}} - {{TA|1636|n}} (planted by Isildur)</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G3 | | | | |G3=<small>[[White Tree of Gondor#Third White Tree|Third Tree of Gondor]] ([[Minas Tirith]])<br>{{TA|1640}} - {{TA|2872|n}} (planted by [[Tarondor (King of Gondor)|Tarondor]])</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G4 | | | | |G4=<small>[[White Tree of Gondor#Fourth White Tree|Fourth Tree of Gondor]] (Minas Tirith)<br>Since {{TA|3019}} (planted by [[Aragorn|Elessar]])</small>}}
+{{familytree/end}}
+
+{{references}}
+{{title}}
+[[Category:Trees]]
+[[Category:Pronounced articles]]
+[[de:Celeborn (Baum)]]
+[[fr:encyclo:biologie:flore:celeborn]]
+[[fi:Celeborn (puu)]]

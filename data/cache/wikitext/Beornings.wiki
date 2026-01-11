@@ -1,0 +1,81 @@
+{{people infobox
+| name=Beornings
+| image = Angelo Montanini - Beornings.jpg
+| caption="[[:File:Angelo Montanini - Beornings.jpg|Beornings]]" by Angelo Montanini
+| pronun=
+| othernames=
+| origin=
+| location=Upper [[Vales of Anduin]]
+| affiliation=
+| rivalry=[[Orcs of the Misty Mountains]]
+| language=[[Westron]]
+| members=[[Beorn]], [[Grimbeorn]]
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+'''Beornings''' were a people that lived east of [[Rivendell]]<ref name="Beornings">{{HM|UI}}, entry ''land of the Beornings'', p. 351</ref> between the [[Misty Mountains]] and [[Mirkwood]]<ref name="FRII1">{{FR|Meetings}}, p. 228</ref> in the upper [[Vales of Anduin]]<ref name="OfMen">{{App|Men}}, p. 1129</ref> on both sides of the river [[Anduin]].<ref name="Beornings" />
+
+==History==
+The Beornings were [[Northmen]], and as such descended from the [[Edain]] of the [[First Age]] or from their close kin.<ref name="OfMen" /> Specifically, they were close akin to the [[Éothéod]] (the ancestors of the [[Rohirrim]]),<ref name="OfMen" /><ref>{{TT|Riders}}, p. 369</ref> who were most nearly akin to the [[House of Hador|third people of the Edain]].<ref>{{UT|8e}}, note 4</ref>
+
+After the [[Battle of Five Armies]] and the decimation of the [[Orcs of the Misty Mountains]], many Northmen gathered around [[Beorn]] who became a great chief. It is possible that they were named Beornings, because they were descendants of people whose chief was Beorn.<ref name="H18">{{H|18}}</ref><ref>{{FR|Meetings}}, p. 229 "Grimbeorn the Old, son of Beorn, was now the lord of many sturdy men" and "like Beorn of old they are not over fond of dwarves"</ref><ref group="note">The narrative is not clear whether Beorn belonged to the people of the Beornings, or whether the Beornings were the people of his descendants from {{TA|2492}}.</ref>
+
+The Beornings kept open the passages of the [[Ford of Carrock]] and the [[High Pass]] in return for high tolls, likely keeping the paths clear of evil creatures such as [[Orcs]] and [[Wolves]].<ref name="FRII1" /><ref>{{TI|Galadriel}}, p. 248</ref>
+
+In the events leading up to the [[War of the Ring]], the Beornings helped [[Aragorn]], who was taking [[Gollum]] to Mirkwood, to cross the [[Anduin]] near the [[Carrock]].<ref>{{UT|Other}}, text B, second paragraph</ref>
+
+During the War of the Ring, [[Grimbeorn]], son of Beorn, was the lord of the Beornings.<ref name="FRII1" /> It is possible that [[Sauron]]'s forces had attacked them in early {{TA|3019}}, because [[Frodo Baggins]] saw the land of the Beornings aflame when he wore the [[The One Ring|One Ring]] on the Seat of Seeing upon [[Amon Hen]]<ref>{{FR|Breaking}}, p. 400</ref> on 26 February {{TA|3019}}.<ref>{{App|Great}}, entry for Februar 26 of the year 3019, p. 1092</ref>
+
+After the War of the Ring, the Beornings and the [[Woodmen]] were given the central [[Eryn Lasgalen]] between the [[Mountains of Mirkwood]] and the [[Narrows of the Forest]] by [[Thranduil]] and [[Celeborn]].<ref>{{App|Great}}, p. 1094</ref>
+
+==Characteristics==
+The language of the Beornings was closely related to [[Rohanese]] and the [[language of Dale]], and more distantly related to [[Adûnaic]] and to its descendant the [[Westron|Common Speech]].<ref name="OfMen" /><ref>{{PM|Languages}}, manuscript F 2 § 14, p. 34</ref> They also spoke the [[Westron|Common Speech]] as a second language of intercourse.<ref>{{App|Languages}}, last paragraph, p. 1127</ref><ref>[[Letter to Leila Keene and Pat Kirke]] (cf. ''[[The Peoples of Middle-earth]]'', p. 72)</ref>
+
+Through many generations, the descendants of Beorn were like him [[skin-changers]], able to take the shape of a [[bears|bear]].<ref group="note">Since it is unknown if all Beornings came from the line of Beorn, one can only guess if this was valid for all the Beornings.</ref> Some of Beorn's descendants were grim like him and even "bad", but none of them matched Beorn in size and strength.<ref name="H18" />
+
+The Beornings seemed to have shared a dislike for [[Dwarves]],<ref name="FRII1" /><ref>{{H|7}}: [Beorn speaking:] "I am not over fond of dwarves"</ref> perhaps related to the latter's praise of metals and the former's disinterest in it.<ref>{{H|7}}: "[The Dwarves] spoke most of gold and silver and jewels and the making of things by smith-craft, and Beorn did not appear to care for such things: there were no things of gold or silver in his hall, and few save the knives were made of metal at all".</ref>
+
+They were known as great bakers, famous for their [[honey-cakes]] (which could feed travelers similarly to the ''[[lembas]]'') although they were reluctant to share them with travelers around the time of the War of the Ring.<ref>{{FR|Farewell}}, p. 369</ref>
+
+==Etymology==
+*''[[Beorn#Etymology|beorn]]'' + ''[[-ings]]''
+
+==Portrayal in adaptations==
+===Beornings in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The One Ring (role-playing game) - Beorning.jpg|A Beorning in ''[[The One Ring (role-playing game)|The One Ring]]''
+</gallery>
+'''2011-: [[The One Ring (role-playing game)|''The One Ring'' (role-playing game)]]:'''
+
+:Beornings are one of the playable cultures. The game describes them as rough Men, sometimes outlaws, gathered under the banner of Beorn. One of their cultural Virtues is the ability to take control of a 'spirit animal' whilst sleeping, a talent taught to some Beornings by Beorn himself.<ref>{{TOR|Adventures}}, pp. 41-6</ref>
+
+'''2013: [[The Hobbit: The Desolation of Smaug]]:'''
+:Beorn tells [[Thorin and Company]] that in the past Azog hunted him and his people for sport and that, as a result, few of his kind are left. It is one of his prime motivations to help them in [[Quest of Erebor|their Quest]].
+
+'''2014: [[The Lord of the Rings Online]]:'''
+:The ancestors of the Beornings were taught the art of [[Skin-changers|skin-changing]] as a gift by [[Radagast]] the Brown, "master of shapes and hues". Evil men jealous of this gift captured a skin-changer and tortured him until he gave the secret away. Hearing of this, Radagast grieved and changed the gift so it could no longer be taught, only passed down to progeny. But the two new [[Skin-changer]] tribes - "Gauredain", men of the wolf, and "Ungoledain", men of the spider, - persisted and remained the most bitter enemies of the Beornings, even moreso than the [[goblins]].
+
+:In the present day, Beornings live in and around the [[Vales of Anduin]]. Outside [[Beorn's Hall|Beorninghús]] they have two notable settlements: Limlók, a village to the north, and Vegbár, a toll-collecting station on the road to the [[Misty Mountains]]. Other Beornings live in the wild in small groups or by themselves, as far north as the [[Grey Mountains]], but even those who have little to no contact with their kin to the south still acknowledge [[Grimbeorn]] as their chieftain. All Beornings have a special love for honey-cakes, dedicating a large amount of attention and effort to their baking.
+
+:The Beornings were made playable in 2014, uniquely combining the race and the class. They can transform into the shape of the bear at will and perform skills in both man- and bear-form. The player's character is the youngest child of [[Grimbeorn]] who is sent by their sire to deliver a message to [[Strider]] from [[Radagast]] and takes on the adventuring life. Other Beornings also travel away from their home on various errands, ranging from the [[Lone-lands]] in the west to the [[Elvenking's Halls]] in the east and as far south as the river [[Limlight]].
+
+==See also==
+*[[:Category:Images of Beornings|Images of Beornings]]
+
+==External links==
+*[http://middle-earth.xenite.org/2014/11/05/what-kind-of-army-did-the-beornings-maintain/ What Kind of Army did the Beornings Maintain?] by [[Michael Martinez]]
+
+{{references|n}}
+
+[[Category:Beornings]]
+[[Category:Demonyms]]
+[[Category:Northmen]]
+
+[[de:Beorninger]]
+[[fr:encyclo:peuples:hommes:beornides]]
+[[fi:Beorningit]]

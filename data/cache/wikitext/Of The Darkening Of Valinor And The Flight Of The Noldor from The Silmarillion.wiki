@@ -1,0 +1,33 @@
+{{audiobook infobox
+| title=Of The Darkening Of Valinor And The Flight Of The Noldor
+| image=Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion.jpg
+| work=''[[The Silmarillion]]''
+| author=[[J.R.R. Tolkien]]
+| narrator=[[Christopher Tolkien]]
+| coverart=[[J.R.R. Tolkien]]
+| publisher=[[HarperCollins|Caedmon Records]]
+| publisherUK=
+| publisherUS=
+| date=[[1978]]
+| dateUK=
+| dateUS=
+| format=LP Record
+| runtime=
+| isbn=51579
+| noisbn=
+| series=
+| precededby=
+| followedby=
+| audio=
+}}
+'''''Of The Darkening Of Valinor And The Flight Of The Noldor''''' is a double sided LP record comprising readings of excerpts from ''[[The Silmarillion]]'', read by [[Christopher Tolkien]]. Side 1 includes readings of Chapter Eight ''[[Of the Darkening of Valinor]]'' and the start of Chapter Nine ''[[Of the Flight of the Noldor]]''. Side 2 completes ''Of the Flight of the Noldor''.
+==Side One, Read By Christopher Tolkien (28:56)==
+* '''[[Of the Darkening of Valinor]]''' (Chapter Eight)
+* '''[[Of the Flight of the Noldor]]''' (Chapter Nine) (beginning)
+
+
+
+==Side Two, Read By Christopher Tolkien (31:29)==
+* '''[[Of the Flight of the Noldor]]''' (Chapter Nine) (conclusion)
+{{title|italics}}
+[[Category:Audiobooks]]

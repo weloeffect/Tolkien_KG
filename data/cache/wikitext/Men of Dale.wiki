@@ -1,0 +1,47 @@
+{{disambig-more|Dale|[[Dale (disambiguation)]]}}
+{{people infobox
+| name=Men of Dale
+| image = Eric David Anderson - Men of Dale.jpg
+| caption="[[:File:Eric David Anderson - Men of Dale.jpg|Men of Dale]]" by Eric David Anderson
+| pronun=
+| othernames=Dale-men, Bardings
+| origin=[[Northmen]]
+| location=[[Dale]], [[Esgaroth]]
+| affiliation=[[Dwarves of Erebor]]
+| rivalry=
+| language=[[language of Dale]], [[Westron]]
+| members=[[Girion]], [[Bardings]] ([[Bard]], [[Brand]])
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Men of Dale''',<ref name="Meetings">{{FR|Meetings}}, p. 229</ref><ref>{{App|Writing}}, p. 1117</ref>, '''Dale-men'''<ref>{{FR|Farewell}}, p. 369</ref> or '''Bardings'''<ref name="Meetings"/><ref>{{TT|Riders}}, p. 431</ref> were Men who dwelt in [[Dale]].
+
+==History==
+There was a folk of [[Northmen]] by the Mountain [[Erebor]] already by {{TA|1856}}. That year, that folk was joined by other Northmen who fled from the wide plains between [[Mirkwood]] and the [[River Running]] after the disastrous defeat of the [[Battle of the Plains]].<ref>{{UT|Northmen}}</ref>
+
+More [[Northmen]] gradually came up the River Running from the south after King [[Thrór]] reestablished the [[Kingdom under the Mountain]] in Erebor<ref name="Party">{{H|Party}}</ref> in {{TA|2590}}<ref>{{App|TA}}, entry for the year 2590, p. 1087</ref>.
+
+There those Northmen built the town of Dale.<ref name="Party"/> The town shared in the prosperity of the [[Dwarves]] and it was governed by the [[Lord of Dale]].<ref>{{H|Fire}}</ref>
+
+In {{TA|2770|n}}, during the time of [[Girion]], [[Smaug]] descended upon the Dwarf-kingdom.<ref>{{App|TA}}, entry for the year 2770, p. 1088</ref> The Men fielded warriors against him but could not prevent the [[Sack of Erebor]]. After that, the dragon would crawl out of the [[Front Gate]] of the Mountain by night and carry away people (especially maidens) to eat. The remaining population soon fled and the deserted city fell into ruins.<ref name="Party"/>
+
+Many went to dwell on the [[Long Lake]] with the [[Lake-men]], including the last descendant of Girion, [[Bard]]. After the town of Dale was rebuilt by Bard and Bard became the [[King of Dale]] in {{TA|2944}},<ref>{{App|TA}}, entry for the year 2944, p. 1089</ref> its people were known as [[Bardings]]<ref name="Meetings"/>.
+
+==Culture==
+The Men of Dale flourished with trade with the [[Dwarves of Erebor]].
+
+They spoke [[Westron]] and their own [[language of Dale|language]].
+
+{{references}}
+
+[[Category:Northmen]]
+[[Category:Men of Dale]]
+
+[[de:Menschen von Thal]]
+[[fr:encyclo/peuples/hommes/hommes de dale]]
+[[fi:Laakson ihmiset]]

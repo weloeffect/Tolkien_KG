@@ -1,0 +1,30 @@
+{{mythlore
+|title=Mythlore 2
+| image = Mythlore 2.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=April, [[1969]]
+|format=Paperback
+|pages=54
+}}
+'''''Mythlore'' 2''' [https://dc.swosu.edu/mythlore/vol1/iss2/ (Volume 1, Issue 2)] is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+* GoodKnight, Glen. "The Counsel of Elrond." 4.
+* Rioux, Gerald. "The Elvish New Year Picnic." 6.
+* Zuber, Bernie. "Across the Brandywine." 11.
+* Barcznak, Christopher. "Ring of Power" (poem). 13.
+* Duriez, Colin. "Leonardo, Tolkien, and Mr. Baggins." 18.
+* Trimble, Karen. "Rohan" (poem). 29.
+* Kuhl, Rand. "To Charles Williams" (poem). 29.
+* Zuber, Bernie. "World of Fanzines." 30.
+* Ballif, Sandra. "A Sindarin-Quenya Dictionary, More or Less, Listing All Elvish Words Found in ''The Lord of the Rings'', ''The Hobbit'', and ''The Road Goes Ever On'' by J.R.R. Tolkien (Part 2)." 33-36.
+* Spradley, Mark. "The Simple Prince" (an original story). 37.
+* Brenion, Fred. "Rape of the Hobbit." Review of ''Come to Middle Earth—An Original Musical''. 44+.
+* Kuhl, Rand. "Lore of Logres: Music Hath Charms ..." Review of ''The Silver Trumpet'', by Owen Barfield. 45-48.
+* "Missives to ''Mythlore''." 49.
+{{mythlorenav|1|3}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 002}}
+[[Category:Mythlore]]

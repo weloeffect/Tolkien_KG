@@ -1,0 +1,33 @@
+{{Events
+| image=
+| event=Great Bear-dance
+| othernames=Ruxotompalë
+| date=Autumn
+| location=[[Númenor]]
+| result=Spectacle
+| partof=
+| participants=[[Bears|Primarily black bears]]
+| description=Spectacle in which the [[Númenóreans]] watch a group of [[Bears]] perform strange and curious bear-dances for their entertainment.
+}}
+
+The '''Great Bear-dance''' ([[Quenya|Q.]] '''Ruxotompalë''') of [[Tompollë]] was an annual event in [[Númenor]].
+
+== History ==
+The Great Bear-dance was held during the autumn season within the region of the [[Forostar]] where a great concourse would be assembled at Tompollë. This dance was the most famous of the bear-dances, which the [[bears]], mostly black bears, performed to the delight of their human friends. The spectacle gathered many people from all across the island due to it being shortly after the [[Eruhantalë]]. During these dances, as many as fifty or more bears might show up and participate. The slow and dignified motions that the bears made often appeared astonishingly comic to those not accustomed to them. Despite the sight, no [[Númenóreans|Númenórean]] that was admitted to the event voiced open laughter, which angered and alarmed the bears since they could not understand it.<ref>{{NM|P3xiii}}, pp. 334-5</ref>
+
+== Legacy ==
+Though the annual Great Bear-dance ended with the [[Downfall of Númenor]], the ordinary Bear-dances lived on into the [[Third Age]]. According to [[Gandalf]], bears of various sizes east of the [[Misty Mountains]] occasionally gather outside of [[Beorn's Hall]] for a "''regular bears' meeting''" where they dance "''from dark to nearly dawn''".<ref>{{H|7}}</ref> It is possible that this dance could be related in some way to the Great Bear-dance.
+
+== Other versions of the legendarium ==
+The [[Quenya]] name for the Great Bear-dance was first typed by [[Tolkien]] as '''''ruxopandalë''''',<ref>{{NM|P3xiii}}, "Notes", p. 341, note 2</ref> but was then changed to ''ruxotompalë''. The form ''ruxöalë'' was an editorial error.<ref>{{webcite|author=[[Carl F. Hostetter]]|articleurl=https://elvish.org/errata/NoMe-Errata.pdf|articlename=''The Nature of Middle-earth'', Addenda and Corrigenda|website=elvish.org|accessed=23 September 2024}}</ref><ref>{{NM|P3xiii}}, p. 335</ref>
+
+Originally, the laughter of [[Men]] was "''a sound that the bears resented''" outright, rather than just being a sound that they simply could not understand.<ref>{{NM|P3xiii}}, "Notes", p. 341, note 3</ref>
+
+In the index of ''[[The Nature of Middle-earth]]'', the Great Bear-dance is spelled as the "''Great Bear Dance''",<ref>{{NM|Index}}, entry "Tompollë"</ref> whether this was intentional or a mistake is unknown.
+
+{{References}}
+
+{{Numenor}}
+
+[[Category:Festivals and feasts]]
+[[Category:Númenor]]

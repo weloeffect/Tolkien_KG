@@ -1,0 +1,25 @@
+{{actor
+| image =
+| name = Peter McKenzie
+| lifetime = [[10 August]] [[1943]] - [[9 September]] [[2023]]
+| played = [[Elendil]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb= [https://www.imdb.com/name/nm1013159/ Profile]
+}}
+'''Peter Leo McKenzie''' ([[10 August]] [[1943]] - [[9 September]] [[2023]]<ref>[https://notices.nzherald.co.nz/nz/obituaries/nzherald-nz/name/peter-mckenzie-obituary?id=53081848 Peter McKENZIE Obituary] (New Zealand Herald 13.9.2023); [https://www.findagrave.com/memorial/262257802/peter-leo-mckenzie Peter Leo McKenzie] (Find a Grave).</ref>) was a New Zealand horse trainer and breeder and a part-time actor.<ref>[https://www.racecafe.co.nz/forums/index.php?/topic/101342-peter-mckenzie-rip/ Peter McKenzie RIP] (rdytdy, Race Cafe 12.9.2023).</ref> He played [[Elendil]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+Peter McKenzie was the father of [[Bret McKenzie]].
+
+{{references}}
+
+== External links ==
+* {{WP|Peter McKenzie (actor)|Peter McKenzie}}
+
+{{DEFAULTSORT:McKenzie, Peter}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Peter McKenzie]]
+[[fi:Peter McKenzie]]

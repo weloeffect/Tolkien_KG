@@ -1,0 +1,40 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{video game infobox
+| image = LOTR-vol1-SNES1.png
+| name=''J.R.R. Tolkien's The Lord of the Rings, Vol. I''
+| developer=
+| publisher=[[Interplay Productions]], [[Electronic Arts]]
+| platform=[[wikipedia:Super Nintendo Entertainment System|SNES]]
+| releasedate=[[1994]]
+| genre=
+|}}'''''J.R.R. Tolkien's The Lord of the Rings, Vol. I''''' is a video game produced by [[Interplay Productions]] for the Super Nintendo Entertainment System.
+
+==Gameplay==
+While the game is playable in single-player mode, up to four players can be added with the use of the Super Multitap peripheral. The game is also Super NES Mouse compatible.
+
+The player begins the game as [[Frodo Baggins]], with the remaining members of the [[Fellowship of the Ring|Fellowship]] becoming playable throughout the game (with the exception of [[Boromir]]). Upon death, playable characters are permanently unusable for the rest of the game.
+
+Gameplay revolves around exploring large environments to collect items and return them to non-playable characters. It also contains action role-playing game elements, with players able to engage in combat with an assortment of foes.
+
+==Plot==
+The game follows the the first part of ''[[The Fellowship of the Ring]],'' beginning [[the Shire]] during [[Bilbo's Birthday Party]] and progressing through [[Bree]] and [[Rivendell]]. The game ends with a fight between the [[Fellowship of the Ring|Fellowship]] and the [[Balrogs|Balrog]] in the [[Moria|Mines of Moria]].<ref name="Gamefaqs">[http://www.gamefaqs.com/snes/588449-jrr-tolkiens-the-lord-of-the-rings-volume-1/reviews/review-47922 Gamefaqs], The OTHER Lord of the Rings game (retrieved 18 March 2011)</ref>
+
+Although the game is entitled "''The Lord of the Rings, Vol. 1''", no sequel was ever released due to poor reviews.
+
+==Reviews==
+Reception of the game was largely negative, and it was widely criticized for its meandering gameplay and "lengthy and boring" fetch quests<ref name="1UP">[http://www.1up.com/reviews/lord-rings-volume-1 1up], The Lord of the Rings Volume 1 SNES Review (retrieved 18 March 2011)</ref> 
+
+Based on 24 reviews of the game at GameFAQs.com, the game received an average rating of 4.875 out of 10.<ref name="Gamefaqs" /> Many reviewers cite the game's structure and poor A.I. which causes characters to wander off, get stuck in scenery, and die. It was also criticized for its large and labyrinthine environments, causing players to get lost and not know what their next objective was.
+
+==See also==
+*''[[J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 video game)|J.R.R. Tolkien's The Lord of the Rings, Vol. I]]'' for the [[wikipedia:Personal Computer|PC]].
+*''[[J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers|J.R.R. Tolkien's The Lord of the Rings, Vol. II]]'' for the [[wikipedia:Super Nintendo Entertainment System|SNES]].
+
+==External links==
+*{{WP|J.R.R. Tolkien's The Lord of the Rings, Vol. I}}
+
+{{References}}
+{{Videogames}}
+{{title|italics}}
+[[Category:Interplay Productions games]]
+[[Category:Super Nintendo Entertainment System games]]

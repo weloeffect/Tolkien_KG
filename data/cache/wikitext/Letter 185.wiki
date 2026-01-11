@@ -1,0 +1,16 @@
+{{letter infobox
+| #=185
+| to=[[Christopher Tolkien|Christopher]] and [[Faith Faulconbridge|Faith]]
+| date=[[19 March]] [[1956]]
+| subject=[[Letter 184]]
+}}{{letter|185}}
+==Summary==
+Tolkien commented on [[Letter 184]], from a Sam Gamgee of [[wikipedia:Tooting|Tooting]]. He then said that though Tooting might sound [[Hobbits|hobbit]]-like, it was very un-Shirelike. 
+
+The last fragment of the letter commented on [[Allen and Unwin|Allen & Unwin]]'s prognosis for book sales, extremely good news.  
+
+==Notes==
+In ''[[J.R.R. Tolkien: A Biography]]'', pages 224-225, the event of Letter 184 was also mentioned. It was followed by: "[l]ater he said: 'For some time I lived in fear of receiving a letter signed ''S. Gollum''. That would have been more difficult to deal with." It is likely that this passage was from this letter.
+{{letters}}
+[[Category:Letters to Christopher Tolkien]]
+[[de:Brief 185]]

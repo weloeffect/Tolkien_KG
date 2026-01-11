@@ -1,0 +1,40 @@
+{{object infobox
+| name=Belthronding
+| image = Elena Kukanova - Beleg 2.jpg
+| caption="Beleg" by [[:Category:Images by Elena Kukanova| Elena Kukanova]]
+| pronun={{respell|bel|thron|ding}}
+| othernames=
+| location=[[Doriath]], [[Dor-Cúarthol]], [[Taur-nu-Fuin]]
+| owner=[[Beleg]]
+| type=Weapon
+| appearance=Bow made of black yew-wood
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+'''Belthronding''' was a mighty [[Bows|bow]], made of black yew-wood, that was carried by the most mighty archer of the [[First Age]], [[Beleg]] Strongbow of [[Doriath]]. To it he owed his own [[Epessë|epithet]], ''Cúthalion'' ("Strongbow"). 
+
+With it, he long defended the borders of King [[Thingol]], and when he left [[Doriath]] in search of his friend [[Túrin]], he took it with him. When he found him, together, from the halls of [[Mîm]] in [[Amon Rûdh]], they founded the realm of [[Dor-Cúarthol]] - the Land of Bow and Helm - with him being the 'Bow'. 
+
+When the pair were betrayed to the [[Orcs]], Beleg went to free his friend, but in a tragic turn of fate Túrin mistook him for a foe, and slew him. Overcome with grief, Túrin dug a grave for Beleg's body, and he buried Belthronding beside its late owner.<ref>{{S|Turin}}</ref>
+
+==Etymology==
+''Belthronding'' is [[Ilkorin]], and it is never glossed, being a compound of ''bel'' ("strength") + ''thrôn'' ("stiff, hard") and ''ding'' (an onomatopoeic sound).<ref>{{LR|Etymologies}}, entries "[[BEL]]", "DING"</ref>
+
+==See also==
+*[[Dailir]]
+
+{{references}}
+{{weapons}}
+
+[[Category:Bows]]
+[[Category:Ilkorin names]]
+[[Category:Sindarin names]]
+
+[[de:Belthronding]]
+[[fr:encyclo:artefacts:armes:belthronding]]
+[[fi:Belthronding]]

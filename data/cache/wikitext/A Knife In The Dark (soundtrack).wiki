@@ -1,0 +1,18 @@
+{{song
+| title=A Knife in the Dark
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=3:34
+| track=7
+| previous=[[At The Sign Of The Prancing Pony (soundtrack)|At the Sign of the Prancing Pony]]
+| next=[[Flight To The Ford (soundtrack)|Flight to the Ford]]
+| spotify=https://open.spotify.com/track/5GsMJInonlNJWpYEqrmGRQ
+}}
+'''A Knife In The Dark''' is the seventh track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. It is played during the period of time during the [[Ambush at Weathertop]].
+
+The track begins with hinting at the [[Nazgûl|Black Rider]] theme, with slow, low brass notes that quickly join all the brass in a quick Black Rider rhythm that begins to escalate.  The chorus begins to sing the theme quietly, but they begin to crescendo as they expand the length of the chords.  This grows for some time, until by a minute into the track they are singing loudly and fully.  The theme, reaching a high point, seems to die and fade away, ending in the recognizable long, low, sinister note on low brass.  But suddenly the [[Isengard]] theme plays, with its trademark five/four rhythm.  It goes through the full cycle before, at first quietly, a boy's choir begins to sing.  It gradually grows louder and drowns out the Isengard theme.  A boy soloist begins to sing the "Hope" theme, softly and beautifully, accompanied in the background by mid-range brass playing softly and regally.  As his voice rises to the finish, the Isengard theme cuts back in, louder than before, with some variation on the original notes.  This stops suddenly, with only reed and strings playing long, soft notes, and the piece ends.
+{{title}}
+{{DEFAULTSORT:07}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

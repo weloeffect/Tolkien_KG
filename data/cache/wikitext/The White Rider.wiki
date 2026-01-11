@@ -1,0 +1,29 @@
+{{disambig-two|the chapter from [[The Two Towers]]|scene from [[The Lord of the Rings: The Two Towers]]|[[The White Rider (scene)]]}}
+{{chapter
+| image=Peter Xavier Price - The White Rider.jpg
+| title=The White Rider
+| book=The Two Towers
+| number=5
+| event=[[Aragorn]], [[Gimli]], and [[Legolas]] meet [[Gandalf]] after his transformation.
+| date=[[1 March]] {{TA|3019|n}}
+| location=[[Fangorn Forest]]
+| previous=Treebeard (chapter)
+| next=The King of the Golden Hall
+}}
+
+'''The White Rider''' is the fifth chapter of the first book in ''[[The Two Towers]]''.
+
+==Summary==
+The story now returns to the three travelers hunting for their lost companions. They found a leaf from [[Lothlórien|Lórien]] and crumbs of food in the grass, as well as pieces of cut cord. They also found an [[Orcs|Orc]] knife. They followed the [[Hobbits|Hobbit]] footprints up to [[Treebeard]]'s rock wall and when they climbed up to the top they once more saw an old man who had appeared earlier.
+
+The old man came to them and reveals himself to be [[Gandalf]]. He told them that the old man they had seen earlier had not been him but [[Saruman]]. He also told them that their missing Hobbit friends have gone with the [[Ents]] to [[Isengard]], to fight Saruman. He told [[Aragorn]] that he must go to their aid.
+
+He told them what had happened when he had fallen into the abyss with the [[Balrogs|Balrog]] [[Durin's Bane]]. Gandalf had held on to the enemy's heel and the Balrog had taken him up to the highest peak from where Gandalf had flung the Balrog to its death. [[Gwaihir]], who had been sent by Lady [[Galadriel]], had found Gandalf there. He had been taken to [[Lothlórien]], where he had been clad in white and healed. Lady Galadriel's messages of caution were given to the three and they set off.
+
+The White Rider (Gandalf) then summoned [[Shadowfax]], his horse, which he had taken from [[Théoden]] along with two others. Gandalf set [[Gimli]] on his own horse and they rode off toward the halls of Théoden, [[Éomer]]'s king.
+==Composition==
+The chapter was probably completed by the early summer of [[1942]].<ref>{{CG|CG}}, p. xxiv</ref>
+{{references}}
+[[fi:Valkoinen ratsastaja (TSH)]]
+{{DEFAULTSORT:White Rider}}
+[[Category:The Two Towers chapters]]

@@ -1,0 +1,58 @@
+{{Adaptation}}
+{{kingdom
+| image=
+| caption=
+| name=Urd
+| pronun=
+| othernames=
+| location=The far north
+| capital=
+| towns=
+| regions=
+| population=
+| language=
+| govern1=Matriarchs <small>(before {{SA|1992}})</small>
+| govern2=King <small>(after {{SA|1992}})</small>
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=
+| event1date=
+| event2=
+| event2date=
+| followedby=
+| map=[[File:Map of Urd and surrounding lands.jpeg|thumb|Excerpt from [[Pete Fenlon]]'s “[[An Artist's Interpretation of Middle Earth]]”, showing Urd and surrounding lands such as Uab]]
+}}In [[Middle-earth Role Playing]], '''Urd''' was a cold and rocky region in the far north of Middle-earth, at the southern edges of the [[Iron Mountains]]. 
+
+It was inhabited mostly by [[Men]] called the Urdor (Urd. “Sons of Urd”), who spoke Urdorin.<ref name="map">{{EndorMap|Urd}}</ref> They take their name from their progenitor Urd, a Father of Men who bowed down before [[Morgoth]].<ref name="Urdor">{{ICE|2025}}, pp. 43-44</ref> Some [[Umli]], called half-dwarves by the Urdor who hunted them, also lived in the higher reaches.<ref name="map"/>
+
+The Urdor generally hunted and trapped near the taiga Forest of Dír in western Urd, while spending winters in clan centers by the Urd Rush river.<ref name="map"/> In times of war, which were near-constant under the rule of [[Sixth of the Nazgûl|Hoarmûrath]], the Urdor had a war-host, largely consisting of war-sleds drawn by snow bears, which was known to the [[Lossoth]] as the ''Rekijoukko'' (Sled-horde).<ref name="Urdor"/>
+
+==History==
+Urd, a Father of Men, had bowed down to Morgoth and persecuted those who did not worship his master. Several centuries after Urd's death, his descendants reformed and lived under benevolent matriarchs.<ref name="Urdor"/>
+
+When matriarch Emûrath of Uab, leader of most Urd clans, died in the Umli Wars of {{SA|1962}}-{{SA|1975|n}}, she was succeeded by her daughter Amûrath. Amûrath's brother Hoarmûrath, influenced by his relationship with southern [[Avari]] elves, wished for the clans to expand militarily, against his sister's wishes. He was ordered into exile, which he refused. After his followers slew his sister, he proclaimed himself the first King of Urd. With the support of elves and war-hungry bands, he got rid of the Urd Priestesses and was acknowledged as Lord of the Urdor in {{SA|1992}}. By {{SA|1997}}, he had conquered most of the region, and in {{SA|1999}} he turned on his elven allies. Crushing defeats made Hoarmûrath seek help from [[Sauron]].<ref name="nazgul">{{ICE|8003}}, p.88</ref>
+
+Empowered by a [[Nine Rings|Ring of Power]], Hoarmûrath defeated the elves in the War in the Woods ({{SA|2002}}-{{SA|2053|n}}).<ref name="nazgul"/> Under his leadership, Urd also became infamous for the Urdic Invasions targetting the people of Forodwaith, pushing them westward. On Sauron's orders to hunt down all those who refused to acknowledge Sauron's dominion, the Urdor scoured those lands, enslaving or killing those they encountered.<ref>{{ICE|2025}}, p. 12</ref><ref>{{ICE|2025}}, p. 21</ref> The invasions only stopped after the [[War of the Last Alliance]], but would resume after the founding of [[Angmar]] in {{TA|1276}}. It was in this that that an Urdic colony would be established in Angmar as well.<ref>{{ICE|2025}}, pp. 15-17</ref>
+
+By {{TA|1640}}, the returned Hoarmûrath had strengthened the Kingdom of Urd again.<ref name="nazgul"/>
+
+==Surrounding lands==
+Beyond Urd were several coastal lands, many of which were sparsely inhabited.
+=== Angclax ===
+'''Angclax''' was a coastal region to the east of Urd and to the south of Uab. Its inhabitants, the Angcla clansmen, were distantly related to the Lossoth.<ref>{{EndorMap|Angclax}}</ref>
+===Avikangsdar===
+'''Avikangsdar''' was a cold and mostly uninhabited tundra that once formed part of eastern Angband. It was located to the north-west of Urd and to the west of Uab.<ref>{{EndorMap|Avikangsdar}}</ref>
+===Ôm===
+'''Ôm''' was cold land south of Uax with only a few inhabitants.<ref>{{EndorMap|Om}}</ref>
+===Sharthax===
+'''Sharthax''' was a coastal region on peninsula southeast of Urd. Its indigenous Shartha tribesman relied on the ocean to survive.<ref>{{EndorMap|Sharthax}}</ref>
+===Uab===
+'''Uab''' was a mostly uninhabited coastal region north of Angclax. Only a few Umli hunters dwelled there.<ref>{{EndorMap|Uab}}</ref>
+===Uax===
+'''Uax''' was a coastal region east of Uab. Beyond Umli hunters, the region was home to ice-trolls and snow-orcs.<ref>{{EndorMap|Uax}}</ref>
+===Uul===
+'''Uul''' was a vale formed by a collapsed volcano, south of Sharthax. It was surrounded by hills and taiga.<ref>{{EndorMap|Uul}}</ref>
+{{references}}
+[[Category:Middle-earth Role Playing locations]]

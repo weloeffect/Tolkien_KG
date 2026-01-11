@@ -1,0 +1,43 @@
+{{object infobox
+| name=Nenya
+| image = J.R.R. Tolkien - Nenya.jpg
+| caption=Nenya by [[J.R.R. Tolkien]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈneɲa]}}
+| othernames=Ring of Adamant, Ring of Water, The White Ring
+| location=[[Eregion]], [[Lothlórien]]
+| owner=[[Celebrimbor]], [[Galadriel]]
+| type=Ring
+| appearance=Made of ''[[mithril]]'' and set with a white stone of adamant
+| creator=[[Celebrimbor]]
+| created=c. between {{SA|1500}} and {{SA|1590|n}}
+| createdlocation=[[Eregion]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+
+'''Nenya''' was one of the [[Rings of Power]], specifically one of the "[[Three Rings]] for the Elven Kings under the sky". Also known as the '''Ring of Adamant'''<ref name="Mirror">{{FR|Mirror}}, pp. 365-366</ref> and the '''Ring of Water''',<ref name="Rings">{{S|Rings}}</ref> it was made of ''[[mithril]]'' and set with a white stone<ref name="Havens">{{RK|Havens}}, p. 1028</ref> of adamant.<ref name="Rings" />
+
+==History==
+Nenya was made by [[Celebrimbor]] of [[Eregion]] alone,<ref name="Rings" /> between c. {{SA|1500}}<ref>{{App|SA}}, entry for the year 1500, p. 1083</ref> and c. {{SA|1590|n}},<ref>{{App|SA}}, entry for the year 1590, p. 1083</ref> along with the other two Elven Rings, [[Narya]] and [[Vilya]]. After Celebrimbor discovered that [[Sauron]] had forged [[the One Ring]] in {{SA|1600}},<ref>{{App|SA}}, entry for the year 1600, p. 1083</ref> he went to [[Lothlórien]] to seek the counsel of [[Galadriel]]. They were unwilling to destroy the Rings, so Galadriel advised Celebrimbor to keep them hidden, unused, and dispersed far from Eregion. Celebrimbor followed this counsel, first by giving Nenya to Galadriel. The power of this Ring strengthened and beautified the realm of Lothlórien, but it also increased Galadriel's desire for the [[Belegaer|Sea]] and return to the [[Undying Lands|West]].<ref>{{UT|Concerning}}</ref>
+[[File:Ted Nasmith - Galadriel.jpg|thumb|left|''Galadriel'' by [[Ted Nasmith]]]]
+The ring wielded by Galadriel was not normally visible. On [[15 February]] {{TA|3019}},<ref>{{App|Great}}, entry for the year 3019, February 15, p. 1092</ref> [[Frodo Baggins]] saw Nenya on Galadriel's finger, for it could not be hidden from the [[Ring-bearers|Ring-bearer]]. [[Samwise Gamgee]] told Galadriel he only "saw a star through your fingers".<ref name="Mirror" /><ref group="note">This comment appeared in many editions of ''[[The Fellowship of the Ring]]'' as "finger"—which sounds more magical, since it suggests that her finger had somehow become transparent—but ''[[The Treason of Isengard]]'', ch. 13, note 34, mentioned it as an error.</ref>
+
+Nenya's power was preservation, protection, and concealment from evil. After the destruction of the One Ring and the defeat of Sauron, its power faded along with the other Rings of Power. Galadriel bore Nenya on a ship from the [[Grey Havens]] into the [[Aman|West]], accompanied by the other two Elven Rings and their bearers.<ref name="Havens" /> With Nenya gone, the magic and beauty of Lothlórien also faded and it was gradually depopulated, until by the time [[Arwen]] came there to die in {{FoA| 121}}, it was deserted and in ruins.<ref>{{App|Tale}}, p. 1063</ref>
+
+==Etymology==
+The name is [[Quenya]] from ''[[nén]]'' ("water")<ref>{{S|Appendix}}, entry ''nen''</ref>  + ''[[-ya]]'' (adjective suffix).
+
+==Other versions of the legendarium==
+In an early version of ''[[The Lord of the Rings]]'' Nenya was known as [[Eär|Ëar]], the [[Quenya]] word for Sea. <ref>excerpt from MS. Tolkien, 3/1/12. published in {{HM|RC}}, "The Grey Haven", p. 671</ref>{{references|note}}
+{{rings}}
+
+{{#related:Narya}}
+
+[[Category:Rings and jewels]]
+[[Category:Quenya adjectives]]
+[[Category:Quenya names]]
+[[de:Nenya]]
+[[fr:encyclo/artefacts/bijoux/anneaux/nenya]]
+[[fi:Nenya]]

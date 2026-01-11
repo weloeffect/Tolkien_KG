@@ -1,0 +1,180 @@
+{{Incomplete}}
+{{episode infobox
+| name=Adrift
+| image = The Lord of the Rings The Rings of Power - Adrift.jpg
+| caption=
+| director=[[J. A. Bayona]]
+| writer=[[Gennifer Hutchison]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[1 September]] [[2022]]
+| runtime=67 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=10582302
+| gallery=The Rings of Power (TV series)
+| previous=[[A Shadow of the Past]]
+| next=[[Adar (episode)|Adar]]
+}}
+
+{{Quote|[[Galadriel]] finds a new [[Halbrand|ally]]; [[Elrond]] faces a cold reception from an old [[Durin IV|friend]]; [[Elanor Brandyfoot|Nori]] endeavors to help a [[The Stranger|Stranger]]; [[Arondir]] searches for answers while [[Bronwyn]] warns her [[Tirharad|people]] of a [[Orcs|threat]]."|Official Synopsis, [[Amazon Studios]]}}
+
+'''Adrift''' is the second episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]'', released on [[2 September]], [[2022]].
+
+==Synopsis==
+===The Harfoots===
+[[Poppy Proudfellow|Poppy]] finds [[Elanor Brandyfoot]] at the crater, and they strenuously relocate the sleeping [[The Stranger|Stranger]] with a cart. When he awakes, Elanor struggles to communicate with him. Unsettled, he suddenly causes great winds with his voice, and utters strange words Elanor cannot interpret. Back at home, [[Largo Brandyfoot|Largo]] injures his ankle putting up a canopy.
+
+Later in the episode, at evening, Poppy and Elanor meet with the Stranger again. They offer their help, unsure if he understands them. With telekinetic powers, he breaks open Poppy's firefly-lantern, and as the fireflies disperse, he speaks to them, entranced as the fly around. Then he arranges them into a certain constellation against the night sky, which Elanor believes to be a clue to find The Stranger's home. The fireflies drop dead afterwards.
+
+===The Southlands===
+In the fresh ruins of Hordern, where no survivors are present, [[Arondir]] and [[Bronwyn]] find and enter the burnt house of her friends [[Ciaran]] and [[Hana]]. Arondir goes alone into a tunnel below ground, leading from the house. By an underground pool, within the hour, he is suddenly seized into the dark by an unknown foe.
+
+Back at Waldreg's tavern in [[Tirharad]], Bronwyn tries to convince the folk to spread the news of Hordern, but with no luck. At Bronwyn's house, Theo discovers beneath their floor-boards a long-hidden [[Orcs|Digger Orc]] (whose noise Theo had believed was caused by mice) just as Bronwyn returns home. As the Digger Orc emerges, they hide from him, and then desperately try to kill him. She manages to behead the Digger Orc. With his head, Bronwyn goes and convinces the town-folk to seek safety and relocate to the [[Watchtower of Ostirith]], the local outpost.
+
+Theo privately inspects the strange weapon he had found with Rowan in the prior episode, and then embarks with his mother, as all citizens of Tirharad exit the town with their belongings toward Ostirith.
+
+===Eregion and Khazad-dûm===
+[[Elrond]] goes and meets [[Celebrimbor]] at [[Ost-in-Edhil]], capital of [[Eregion]], and marvels at [[Fëanor|Fëanor's hammer]], which was used to craft the [[Silmarils]]. Celebrimbor tells of his own new ambitions, requesting that Elrond assist him in attaining the means to build a specialized forge-tower, necessary for crafting things of real power. For this they go to [[Khazad-dûm]] to enlist the aid of the [[Dwarves]]. In Khazad-dûm, Elrond invokes the [[Rite of Sigin-tarâg]] to earn [[Durin IV|Prince Durin]]'s favor in the Dwarven test of endurance. He looses the test, but convinces him to hear his proposal. He joins Durin and his wife, [[Disa]], for dinner, and tells his proposal off-screen.
+
+Durin later relays the proposal to King [[Durin III]], his father, who is untrusting, and cautious against the notion of cooperation between Dwarves and Elves. In the same room, Durin III opens a chest, and the two observe a precious shiny object within, blocked from view.
+
+===The Sea===
+Swimming back to [[Middle-earth]], Galadriel encounters a raft of stranded human mariners frightened of a nearby nameless thing known as the worm that had wrecked their ship. Among them are [[Halbrand]], Eamon, and Abigail. The worm soon finds them and destroys the raft, and Galadriel escapes with Halbrand only. Heading east, Halbrand questions Galadriel's business at sea, and after an argument, she is gratified to learn from him that Orcs are indeed still active on Middle-earth, as they had driven Halbrand from his home in the [[Mordor|Southlands]]. At dusk, the waters turn stormy, and Galadriel nearly drowns before Halbrand rescues her.
+
+In the last moment of the episode, an unknown ship the next morning finds Galadriel and Halbrand wearily sleeping on their raft.
+
+==Cast==
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Elanor "Nori" Brandyfoot]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Lenny Henry|Sir Lenny Henry]] || [[Sadoc Burrows]]
+|-
+| [[Thusitha Jayasundera]] || [[Malva Meadowgrass|Malva]]
+|-
+| [[Sara Zwangobani]] || [[Marigold Brandyfoot]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Nazanin Boniadi]] || [[Bronwyn]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Owain Arthur]] || [[Durin IV|Prince Durin IV]]
+|-
+| [[Dylan Smith]] || [[Largo Brandyfoot]]
+|-
+| [[Maxine Cunliffe]] || [[Vilma]]
+|-
+| [[Charlie Vickers]] || [[Halbrand]]
+|-
+| [[Berynn Schwerdt]] || [[Eamon (The Rings of Power)|Eamon]]
+|-
+| [[Virginie Laverdure]] || [[Abigail]]
+|-
+| [[Jane Montgomery Griffiths]] || [[Astrid (The Rings of Power)|Astrid]]
+|-
+| [[Sophia Nomvete]] || [[Disa|Princess Disa]]
+|-
+| [[Geoff Morrell]] || [[Waldreg]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Peter Tait]] || [[Tredwill]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Megan Lilly Wilding]] || [[Dwarves|Dwarf Guard]]
+|-
+| [[Paul Ballard]] || [[Dwarves|Sour-Faced Dwarf]]
+|-
+| [[Travis Graham]] || [[Dwarves|Beady-Eyed Dwarf]]
+|-
+| [[Paula Nazarski]] || [[Harfoots|Malva's Sister]]
+|-
+| [[Rosalie Button]] || [[Men|Survivor On Raft #1]]
+|-
+| [[Matt Bennett]] || [[Men|Survivor On Raft #2]]
+|-
+| [[Justin Doble]] || [[Men|Milky-Eyed Southlander]]
+|-
+| [[Nathan Mennis]] || [[Orcs|Digger Orc]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Unknown actor || [[Gamli]]
+|-
+| Unknown actor || [[Gerda]]
+|}
+
+==Trivia==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* '''Scene 2''' - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]]', where the intrepid traveler may journey to discover even farther horizons."
+* '''Scene 3''' - "There is music to be found everywhere in [[Middle-earth]]: From the rushing of the [[rivers]], to the voices of [[Ents]], to the minstrels of [[elves]] and [[dwarves]], [[men]] and [[halflings]] - song is woven throughout all the world's cultures and even the land itself."
+* '''Scene 9''' - "Given their diminutive size, halflings called humans 'the Big Folk', and did their best to avoid crossing paths with them, thanks in part to their impressive knack for disappearing swiftly and silently. (Concerning Hobbits)"
+* '''Scene 12''' - "[[Eregion]] is the newest elven realm in Middle-earth, to the west of the [[Misty Mountains]]. It was founded in the early [[Second Age]] by the [[Noldor]], [[High Elves]] especially known for their craftsmanship. ([[Appendix B]])."
+* '''Scene 13''' - "This door is the original [[West-gate]] of [[Khazad-dum]]. On it are carved inscriptions in [[Cirth]], a runic alphabet originally derived by the elves, but adapted for dwarven purposes to carve their language into stone. ([[Appendix E]])"
+* '''Scene 15''' - "Dwarves are shorter than elves and men, but they are tough, thrawn, laborious, and famously lovers of stone, gems, and all things created by craft. (Appendix F)"
+* '''Scene 17''' - "Despite (or perhaps because of) the difficulties of an itinerant life and challenges of finding their next meal, halflings have a deep love of food and an undoubtedly adventurous appetite. They'd eat six meals a day if they could. (Concerning Hobbits)"
+* '''Scene 22''' - "The [[Great Sea]], or The [[Sundering Seas]], divides the [[Undying Lands]] from Middle-earth - where there are still [[nameless things]] in the deepest places of the world. (Book III, Chapter 5)"
+* '''Scene 25''' - "Elves and Dwarves have traditionally held many grievances against one another; embers of the dwarves' grudge against the elves lingers even from the [[Elder Days]]. (Appendix F)"
+* '''Scene 28''' - "Like all of [[Khazad-dum]], [[Durin]]'s home is carved straight out of the mountain rock it's buried deep within, upheld by stone pillars. Gold and jewels are used generously, as there is no lack of such riches here, and magnificent lanterns keep the dark at bay. (Book II, Chapter 4)"
+* '''Scene 29''' - "The Men of Middle-earth can be known to fear and misdoubt elves, yet they often know little of them. (Book IV, Chapter 5)"
+* '''Scene 32''' - "[[Arondir]]'s armor is typical of his garrison of [[Silvan elves]], filled with natural influences of their many loves. The ring on his thumb bears the inscription: "May Your Arrows Sing" in [[Sindarin]]."
+* '''Scene 34''' - "There are many kinds of orcs of differing sizes, best suited for specific purposes. They were first bred by the [[Dark Power of the North]] in the [[Elder Days]]. (Appendix F)"
+* '''Scene 36''' - "Though immortal and hardy of body, elves may still die by injury and unnatural causes - including drowning."
+* '''Scene 38''' - "The stars are especially beloved by the elves, who revere the [[Vala]] [[Elbereth]] (also called [[Varda]]), but all the cultures of Middle-earth have attributed constellations to the heavens above. (Book II, Chapter 8)"
+
+==Production==
+
+==Deviations from the Source Material ==
+Galadriel encounters a raft with humans on board close to the area where she jumped from her ship. They say they are survivors of a shipwreck, and were presumably attempting to sail to Valinor. Humans were forbidden from trying to sail to Valinor by the Valar themselves, and often disappeared or were put under penalty of death if they tried to go there. Galadriel does not seem to know about this, however and just thinks it is normal to encounter humans in the Sundering Seas. 
+
+She meets a stranger by the name of Halbrand who says he was the ruler of an area known as "The Southlands". This region in the series is in the same area as what will become known as [[Mordor]]. However, in the source material it is stated in Tolkien's late writings that Mordor was already a desolate wasteland noted for volcanic activity before the Second Age, and may already have been called Mordor which means "black land" because of that.<ref>J.R.R Tolkien, Christopher Tolkien ed. The History of Middle Earth Volume 12, ''The Peoples of Middle Earth. "''Part XIII: Late Writings"</ref> 
+
+The Southlands are never mentioned in the source material, and were apparently invented for the series as were all the characters who live there. It would have made no sense for Sauron, who was hiding for most of the Second Age, to pick a densely populated region with like the Southlands as his base: especially since Elves already patrolled the region. He picked Mordor because it was already a desolate, volcanic wasteland.  
+
+Harfoots are said to be "proto-Hobbits" or an ancestor of Hobbits, but The Fellowship of the Ring novel lists them as a one of three breeds of Hobbits, without any indication that they arose before the other two breeds.<ref name=":0">J.R.R Tolkien, ''The Fellowship of the Ring'', Prologue: Part 1 "Concerning Hobbits"</ref> There is also no clear indication of the presence of Hobbits in Middle Earth before the Second Age.  
+
+The protaganist's name. "Nori" is a shortened form of "Elinor". Elinor was the name of Samwise Gamgee's daughter as noted in ''The Lord of the Rings'' and some of Tolkien's later writings. It is of Sindarin derivation. It is unclear how and why one of the Harfoots, who are noted to be a reclusive species who fear strangers would have encountered Elves or become familiar enough with Sindarin to give their child a name in that language. In fact, the Prologue to the ''Fellowship of the Ring'' notes that the Harfoots "had much to do with Dwarves in ancient times" but does not mention any association with Elves or other Sindarin speakers.<ref name=":0" /> 
+
+==Reception==
+
+== External links ==
+* [https://rop.digitaltolkien.com/S1E2/ Adrift] at ROP Data
+* [https://www.youtube.com/watch?v=wEuYPD_VttE&t=122s&ab_channel=RingsandRealms Analysis of the first two episodes on Rings & Realms] (with [[Corey Olsen]])
+* [https://bearmccreary.com/the-lord-of-the-rings-episode-102/ Scoring ''Adrift''] by [[Bear McCreary]]
+
+{{references}}
+{{rop-episodes}}
+
+[[Category:The Rings of Power (TV series) episodes|02]]
+[[fi:Tuuliajolla (jakso)]]

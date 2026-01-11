@@ -1,0 +1,22 @@
+{{short description|1975 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 6
+| location=Scripps College, Claremont, California
+| organizer=[[Mythopoeic Society]]
+| dates=15-18 August [[1975]]
+| attendees=
+|previous=[[Mythcon 5]]|next=[[Mythcon 7]]}}
+'''Mythcon 6''' was the sixth annual [[Mythopoeic Society]] conference. 
+
+*'''Theme:''' The Fictional Worlds of C.S. Lewis
+*'''Guests of Honor:''' Walter Hooper (Lewis scholar & executor) and Ed Meskys (former Thain of the [[Tolkien Society of America]])
+*'''Chairman:''' Bruce McMenomy
+
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-6.htm Mythcon 6 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 06}}
+[[Category:Mythcon]]

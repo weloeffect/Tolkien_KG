@@ -1,0 +1,15 @@
+{{Actor
+| image =
+| name = Megan Edwards
+| lifetime = [[9 June]] [[1963]]
+| played = [[Mrs Proudfoot]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb = [https://www.imdb.com/name/nm1104283/ Profile]
+}}
+'''Megan Edwards''' ([[9 June|June 9]], [[1963]]) is a [[New Zealand]] actress. She played [[Mrs Proudfoot]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+{{DEFAULTSORT:Edwards, Megan}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]

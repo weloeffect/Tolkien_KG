@@ -1,0 +1,31 @@
+{{battle
+| name=Hunting of the Wolf
+| image=Alan Lee - The Hunting of the Wolf.jpg
+| conflict=[[Quest for the Silmaril]]
+| date=[[First Age 466]]
+| place=[[Neldoreth]]
+| result=[[Carcharoth]] is slain, [[Beren]] and [[Huan]] are slain, the [[Silmaril]] is recovered
+| side1=
+| side2=
+| commanders1=
+| commanders2=
+| forces1=[[Thingol]], [[Mablung]], [[Beleg]], [[Beren]], [[Huan]]
+| forces2=[[Carcharoth]]
+| casual1=[[Beren]], [[Huan]]
+| casual2=[[Carcharoth]]
+}}
+The '''Hunting of the Wolf''' is the confrontation between a party of [[Iathrim]] and [[Carcharoth]], forming the final adventure of the [[Quest of the Silmaril]].
+
+==History==
+At the gates of [[Angband]], the mighty wolf [[Carcharoth]] had bitten [[Beren]]'s hand from his wrist, and with it the [[Silmarils|Silmaril]] it held. The Silmaril was a hallowed jewel, and burned the innards of the evil monster. In searing pain, the wolf blindly chased through [[Beleriand]] and, breaking the [[Girdle of Melian]], roamed madly through the lands of [[Doriath]].
+[[Image:Ted Nasmith - Huan's Leap.jpg|thumb|left|''Huan's Leap'' by [[Ted Nasmith]]]]
+King [[Thingol]] set out to hunt the wolf with the greatest of his warriors. With him went [[Mablung|Mablung of the Heavy Hand]], [[Beleg|Beleg Cúthalion]], Beren Erchamion and [[Huan]] the Hound of Valinor. They found Carcharoth under the eaves of [[Neldoreth]], drinking beneath a waterfall of the River [[Esgalduin]]. Eventually, after a mighty battle, Huan slew Carcharoth, but both he and Beren were mortally wounded.
+
+The Silmaril was recovered from the wolf's belly and given to Beren, who gave it to Thingol in turn before dying, fulfilling thus the Quest. The survivors carried the bodies and the jewel back to [[Menegroth]].<ref>{{S|Beren}}</ref> 
+
+Later, the jewel was fastened in the [[Nauglamír]].<ref>{{S|Doriath}}</ref> [[Eärendil]] would also bear the jewel as he sailed to [[Aman]] and that, according to legend, became the [[Star of Earendil|Evening and the Morning Star]].<ref>{{S|Earendil}}</ref>
+
+{{References}}
+
+[[Category:Events]]
+[[Category:First Age]]

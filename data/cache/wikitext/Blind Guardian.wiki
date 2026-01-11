@@ -1,0 +1,36 @@
+{{band
+| image = Blind Guardian.png
+| name=
+| origin=Krefeld, Germany
+| genre=Power metal, speed metal, progressive metal
+| years=1984-present
+| label=No Remorse, Virgin, Century Media, Nuclear Blast
+| website=[http://www.blind-guardian.com/ www.blind-guardian.com]
+| members=[[Hansi Kürsch]]<br/>André Olbrich<br/>Marcus Siepen<br/>Frederik Ehmke
+| formermembers=Thomas "Thomen" Stauch<br/>Markus Dörk<br/>Christof Theißen<br/>Peter Frey
+}}
+'''Blind Guardian''' is a power metal band formed in the mid-1980s in Krefeld, Germany. The band takes inspiration from fantasy authors as well as traditional legends and epics. The 1998 album ''[[Nightfall in Middle-Earth]]'', most notably, is a concept album based on Tolkien's ''[[The Silmarillion]]''.
+
+Beyond projects that came to fruition, the band was at some point under negotiations for soundtrack work for [[The Lord of the Rings (film series)|''The Lord of the Rings'' film trilogy]]. They had also planned to release ''The Lord of the Rings'' orchestral music around [[2008]].<ref name="high">{{Webcite|articleurl=https://web.archive.org/web/20120402213457/http://www.highwiredaze.com/blind.htm|articlename=A New Twist in the Blind Guardian Legacy (Interview)|website=[https://web.archive.org/web/20120321083852/http://highwiredaze.com/ Highwire Daze]|accessed=27 June 2025}} (archived)</ref>
+
+==Discography, selected==
+*'''Studio Albums'''
+**''Battalions of Fear'' (1988)
+**''Tales from the Twilight World'' (1990)
+**''Imaginations From the Other Side'' (1995)
+***[[Imaginations from the other Side|''Imaginations from the Other Side (song)'']]
+**''[[Nightfall in Middle-Earth]]'' (1998)
+*'''Singles'''
+**''[[Mirror Mirror]]'' (1998)
+
+==See also==
+*[[:Category:Songs by Blind Guardian|Songs by Blind Guardian]]
+{{references}}
+==External links==
+*{{WP|Blind Guardian}}
+*[http://blind-guardian.com Official Site]
+*[https://www.facebook.com/blindguardian Official Facebook Page]
+[[Category:Bands]]
+[[Category:Heavy metal]]
+
+[[de:Blind Guardian]]

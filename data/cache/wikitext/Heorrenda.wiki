@@ -1,0 +1,100 @@
+{{anglosaxon infobox
+| name=Heorrenda
+| image=
+| caption=
+| people=[[wikipedia:Angles (tribe)|Angle]]
+| pronun=
+| othernames=''Heruven'' ([[Qenya|Q]])<br />''Herwent'' ([[Gnomish|G]])
+| titles=
+| position=
+| location=[[Tol Eressëa]] ([[Tavrobel]])
+| affiliation=
+| language=
+| birth=[[wikipedia:5th century|5th century AD]]<ref name="Her">{{LT1|In}}, pp. 23-4</ref>
+| birthlocation=[[Tol Eressëa]]
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Eriol]] ([[Men|Man]]) & [[Naimi]]<sup>[[Heorrenda#Genealogy|NB]]</sup> ([[Elves|Elf]])
+| siblings=[[Hendwine]]<sup>[[Heorrenda#Genealogy|NB]]</sup> (brother)<br />[[Hengest]] & [[Horsa]] (half-brothers)
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Heorrenda''' was a son of a [[Men|Man]] [[Eriol]] and an [[Elf]] [[Naimi]],<ref group="note">In one of the texts associated with ''[[The Book of Lost Tales]]'', Heorrenda's mother is named [[Nelmir]], and he also has a brother called [[Hendwine]].</ref><ref name=Hen>{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text X'', p. 17</ref> according to the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.<ref name="Ers">{{LT2|VI}}, outline '''10''', p. 290</ref>
+
+== History ==
+Heorrenda was born in Tol Eressëa,<ref name="Ers"/> and, according to one text, it was he who completed the ''[[Golden Book]]'', in which were written the histories of the [[Elves]], that was kept in Tol Eressëa.<ref>{{LT2|VI}}, outline '''11''', p. 290</ref>
+
+After the [[Faring Forth]],<ref group="note">According to another text, Heorrenda accompanied his father Eriol in his return from Tol Eressëa to the [[Great Lands]]. In that text, it was Eriol himself who hastened the Faring Forth, and thus ultimately doomed it.</ref><ref>{{LT2|VI}}, outline '''14''', p. 294</ref> the disastrous attempt by the [[Elves]] of Tol Eressëa to save their [[Ilkorindi|kin]] in the Great Lands which resulted in their total defeat and eventual fading, evil Men invaded Tol Eressëa, now anchored near the coast of the Great Lands.<ref name="Hay"/>
+
+Afterwards however, Heorrenda, alongside his half-brothers [[Hengest]] and [[Horsa]], led what would become the [[wikipedia:English people|English]] people and conquered Tol Eressëa, after which it became known as [[wikipedia:England|England]].<ref name="Hay">{{LT2|VI}}, p. 293</ref> There, he would settle in what was once the village of [[Tavrobel]], now called ''Gréata Hægwudu'', and which would eventually become known as the village of [[wikipedia:Great Haywood|Great Haywood]].<ref>{{LT2|VI}}, outline '''13''', pp. 291-2</ref>
+
+He, his half-brothers, and the English people as a whole, would ultimately be the only group of [[Men]] to remain friendly to the Elves, and to keep the "true tradition of the [[Elves|fairies]]".<ref name="Hay"/>
+
+== Etymology ==
+The name ''Heorrenda'' is in [[Old English]] and of uncertain meaning.
+
+It is found in old Germanic poetry (such as the Old English poem ''[[Déor (poem)|Déor]]'') and the first element has been interpreted as ''heorra'' meaning "a hinge, cardinal point"; an etymological connection with the Latin ''corvus'' and Greek ''korax'' (both meaning "raven") has been proposed, possibly in the sense of a pick used to play a stringed instrument, with ''Heorrenda'' meaning "minstrel".<ref name=Hen/>
+
+== Other names ==
+Heorrenda was also known as '''''Heruven''''' in [[Qenya]], with '''''Herwent''''' being its [[Gnomish]] equivalent. These two names were most likely phonological imitations of the name ''Heorrenda'' instead of being translations of its meaning.
+
+The first element of ''Heruven'' is probably ''[[heru]]'' ("lord"), while the second element of ''Herwent'' is most likely ''[[gwent]]/gwenn/gwen'' ("large, big; fine") - hence ''Heruven'' and ''Herwent'' might mean "great lord".<ref name=Hen/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | WOD | | | | | | | | | | | | | | | | | | | | | | |WOD=[[wikipedia:Odin|Wóden]]<ref name="Her"/>}}
+{{familytree | | | |:| | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | |:| | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | HED | | | | | | | | | | | | | | TUL | | | | VAL |HED=[[Heden]]|TUL=[[Tulkastor]]|VAL=[[Valwë]]}}
+{{familytree | |,|-|^|-|.| | | | | | | | | | | |,|-|^|-|.| | | |!| |}}
+{{familytree | BEO | | EOH | | | | | | | | | | SIB | | VAI |~| LIN |BEO=[[Beorn (son of Heden)|Beorn]]<br /><small>''d. [[wikipedia:5th century|5th century]]''</small>|EOH=[[Eoh]]<br /><small>''d. [[wikipedia:5th century|5th century]]''</small>|SIB=''unknown<br />sibling''|VAI=[[Vairë (wife of Lindo)|Vairë]]|LIN=[[Lindo]]}}
+{{familytree | | | | | |!| | | | | | | | | | | |!| | | | | | | | | |}}
+{{familytree | CWE |y| ERI |~|~|~|~|y|~|~|~|~| NAI | | | | | | | | |CWE=[[Cwén]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|ERI=[[Eriol]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|NAI=[[Naimi]]*}}
+{{familytree | |,|-|^|-|.| | | |,|-|^|-|.| | | | | | | | | | | | | |}}
+{{familytree | HEN | | HOR | | HEO | | HED | | | | | | | | | | | | |HEN=[[Hengest]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HOR=[[Horsa]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HEO='''HEORRENDA'''<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HED=[[Hendwine]]*<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>}}
+{{familytree/end}}
+
+<nowiki>*</nowiki> The name of Hendwine's mother is not Naimi but ''[[Nelmir]]'' in the text on which the basis of his inclusion is founded upon - neither is her relation to Lindo and Vairë elaborated on.<ref name=Hen/>
+
+== Other versions of the legendarium ==
+In some of the later notes, '''Heorrenda''', called "the harper", is described as being the son of [[Ælfwine]] and [[Earissë]], the daughter of [[Lindo]]. Here he has a brother called [[Hlúdwine]].<ref>{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text XI'', p. 18</ref>
+
+=== Later etymology ===
+In these texts, the Qenya name for ''Heorrenda'' is '''''Heruvendo''''' ('''''Horwin''''' being its Gnomish equivalent). 
+
+As with the earlier names ([[Heorrenda#Etymology|see above]]) ''Heruvendo'' likewise seems to be a phonological imitation of ''Heorrenda'', corresponding even more closely than ''Heruven''.<ref name=Lus>{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text XII'', p. 18</ref>
+
+However, the first element ''Hor-'' in ''Horwin'' cannot be cognate with ''Heru-'' in ''Heruvendo''. It is possible that ''Horwin'' might have been a slip for '''''Herwin''''', though in the old German poem ''[http://en.wikipedia.org/wiki/Kudrun Kudrun]'', the form ''Horund'' (or ''Horant'') appears for the name ''Heorrenda'', which might have inspired the Gnomish name of ''Horwin''.<ref name=Lus/>
+
+=== Later genealogy ===
+{{familytree/start}}
+{{familytree | | | LIN |y| VAI |LIN=[[Lindo]]|VAI=[[Vairë (wife of Lindo)|Vairë]]}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | AEL |y| EAR | | |AEL=[[Ælfwine]]|EAR=[[Earissë]]}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | HEO | | HLU | | |HEO='''HEORRENDA'''|HLU=[[Hlúdwine]]}}
+{{familytree/end}}
+
+== Inspiration ==
+The name ''Heorrenda'' appears in the Old English poem ''Déor'', where Heorrenda was a bard that has supplanted Déor, another bard and the main character of the poem, in their lord's favour.
+
+In some of [[Tolkien]]'s lectures on the poem ''[[Beowulf (poem)|Beowulf]]'', he named the unknown author of the poem as ''Heorrenda''.<ref>{{LT2|VIb}}, p. 323</ref>
+
+{{references|notes}}
+[[Category:Angles]]
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Chroniclers of Arda]]
+[[Category:Old English names]]
+[[Category:Rulers in Tol Eressëa]]

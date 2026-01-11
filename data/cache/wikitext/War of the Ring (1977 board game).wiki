@@ -1,0 +1,17 @@
+{{board game infobox
+| image = War of the Ring (1977) box.webp
+| name=War of the Ring 
+| designer=
+| publisher=
+| releasedate=
+| players=
+| ages=
+}}
+'''War of the Ring''' is a board game based on ''[[The Lord of the Rings]]''. It is a game in which you may play as either the Dark Player ([[Sauron]]), The Free People, or in a three player game with [[Saruman]]. It was released in [[1977]], and is now difficult to find inexpensively. It can be played in different versions, you can play the Character Game, in which the focus is primarily upon the characters described in the Lord of The Rings. This option is much simpler to understand and to play well. The other way in which you can play the game is in Campaign mode. This version allows you not only to control the characters described in The Lord of The Ring, but also the various armies and nations that were involved as well.    
+
+==External links==
+* [https://boardgamegeek.com/boardgame/2228/war-ring Entry at Board Game Geek]
+
+[[Category:Board games]]
+
+{{DEFAULTSORT:War_of_the_Ring_(1977_board_game)}}

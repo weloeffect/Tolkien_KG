@@ -1,0 +1,42 @@
+{{journal
+| title=Other Minds 21
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=August [[2019]]
+| format=PDF
+| pages=119
+| issn=
+}}
+
+'''''Other Minds'' 21''' is the twentyfirst issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in August 2019.
+
+==Contents==
+* "Editorial: Summer in Middle-earth"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "The History of Mount Gundabad"
+** By Thomas Morwinsky
+* "MERP-TOR Conversion Rules"
+** By José Enrique Vacas de la Rosa
+* "The History of Angmar"
+** By Thomas Morwinsky
+* "Middle-earth in Miniature V: The Orces"
+** By José Enrique Vacas de la Rosa
+* "The Missing Kids of Bree"
+** By Andreas Erdmann
+* "Creatures of Middle-earth: Werewolves (S. Gaur)"
+** By: Thomas Morwinsky
+* "Clash of the Viglundings"
+** By: David Cole
+
+*'''Artwork / Maps:'''
+** By: Aegeri, [[Antti Autio]], Sergio Artigas, Onur Bakar, [[Anke Eißmann]], Elroi, Andreas Erdmann, Wouter Florusse, Olanda Fong-Surdenas, Caspar David Friedrich, Donato Giancolla, Gin Hardiarso, [[John Howe]], Jowita, Pierre Joubert, Liiga Klavina, Joona Kujanen, J. Lazarus, [[Angus McBride]], Turner Mohan, Jan Pospíšil, Bunny Powell, Peter Xavier Price, Matthew Stewart, Ari Suonpää, Tuuliky, José Enrique Vacas de la Rosa
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 21}}
+[[Category:Other Minds]]

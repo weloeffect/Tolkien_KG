@@ -1,0 +1,87 @@
+{{war
+| previous=[[Battle of the Powers]]
+| next=[[War of the Elves and Sauron]]
+| image=[[File:Janka Latečková - Bloody storm.jpg|300px]]
+| name=Wars of Beleriand
+| place=Throughout [[Beleriand]] and the lands northward
+| result=Victory for the [[Elves]] and allies
+*Expulsion of [[Morgoth]] from [[Arda]]
+*Destruction of most of [[Beleriand]]
+*[[Elves]] migrate [[West]] or settle [[Lindon]]
+*[[Edain]] migrate to [[Númenor]] soon thereafter
+| battles=[[First Battle]], [[Dagor-nuin-Giliath]], [[Dagor Aglareb]], [[Dagor Bragollach]], [[Nirnaeth Arnoediad]], [[War of Wrath]]
+| begin={{YT|1497}}
+| end={{FA|587}}
+| side1=[[Host of the Valar|Host of the West]]<br>[[Noldor]]<br>[[Sindar]]<br>[[Nandor]]<br>[[Edain]]<br>[[Easterlings]]<br>[[Dwarves of the Blue Mountains|Dwarves]]
+| side2=Forces of [[Morgoth]]<br>[[Easterlings]] 
+| commanders1=
+[[Eönwë]] 
+<br>[[Eärendil]]
+<br>[[Ingwion]]
+<br>[[Thingol]]
+<br>[[Círdan]]
+<br>[[Denethor (son of Lenwë)|Denethor]] †
+<br>[[Fëanor]] †
+<br>[[Maedhros]]
+<br>[[Fingolfin]] †
+<br>[[Fingon]] †
+<br>[[Turgon]] †
+<br>[[Finrod]] †
+<br>[[Azaghâl]] †
+| commanders2=
+[[Morgoth]]
+<br>[[Sauron]]
+<br>[[Ancalagon]] †
+<br>[[Gothmog (balrog)|Gothmog]] †
+<br>[[Glaurung]] †
+<br>[[Ulfang]] †
+}}
+{{quote|The [[Silmarils|Jewels]] were coveted by [[Morgoth]] the Enemy, who stole them and, after destroying the [[Two Trees|Trees]], took them to [[Middle-earth]], and guarded them in his great fortress of [[Thangorodrim]]. Against the will of the [[Valar]] [[Fëanor]] forsook the [[Blessed Realm]] and went in exile to Middle-earth, leading with him a great part of his people; for in his pride he purposed to recover the Jewels from Morgoth by force. Thereafter followed the hopeless war of the [[Eldar]] and the [[Edain]] against [[Thangorodrim]], in which they were at last utterly defeated.|''[[The Lord of the Rings]]'', [[Appendix A]], "The Númenorean Kings", "Númenor"}} 
+
+The '''Wars of Beleriand''',<ref>{{S|Sindar}}</ref><ref>{{S|Return}}</ref><ref>{{S|Beleriand}}</ref> also known as the '''War of the [[Great Jewels]]'''<ref>{{App|Men}}, p. 1128</ref> or the '''War of the Jewels'''<ref>{{S|Akallabeth}}</ref><ref>{{UT|12c}}, note 7</ref><ref>{{MR|P5VII}}, Notes on motives in the Silmarillion (i)</ref> and referred to by [[Elrond]] as the '''Goblin-wars''',<ref>{{H|Rest}}</ref> were a series of great conflicts throughout the [[Elder Days]] pertaining of the vain attempts of the [[Noldor]] to reclaim the [[Silmarils]] from the Dark Lord [[Morgoth]]. 
+
+From his mighty fortress of [[Angband]], Morgoth used this base from which to launch his attacks on the peoples of [[Beleriand]]. While the Noldor had some victories, the [[Doom of Mandos]] always hung over their efforts. 
+
+==Major Battles==
+The following are the major battles listed chronologically:
+
+#The '''[[First Battle]]''' was fought before the [[Noldor]] arrived, and was fought by the [[Sindar]], [[Laiquendi]], and [[Dwarves of the Blue Mountains]].
+#The '''[[Dagor-nuin-Giliath]]''', or ''Battle-under-Stars'', fought by the Noldor following [[Fëanor]] and his [[Sons of Fëanor|Seven Sons]].
+#*Following this battle the [[Battle of the Lammoth]] was fought by the host of [[Fingolfin]].
+#The '''[[Dagor Aglareb]]''', or ''Glorious Battle'', which led to the [[Siege of Angband]].
+#*Various minor battles were fought during the Siege which are not counted among the majors, such as the first [[Assaults on Hithlum|Assault on Hithlum]], the [[Battle of the Gelion-Ascar Stockade]], and an attempt to [[First Age 402|breach the Pass of Aglon]]
+#The '''[[Dagor Bragollach]]''', or ''Battle of Sudden Flame'', in which [[Ard-galen]] burned and many Noldor, including [[High King of the Noldor|King]] [[Fingolfin]], were slain.
+#*[[Battle of the Pass of Aglon]], where the [[Sons of Fëanor]] had to retreat towards [[Himring]].
+#*[[Massacre at Tarn Aeluin]], in which the [[House of Bëor]] was destroyed.
+#The '''[[Nirnaeth Arnoediad]]''' or ''Battle of Unnumbered Tears'', in which the [[Union of Maedhros]] was utterly broken by Morgoth.
+#*[[Fall of the Falas]], in which the havens of [[Brithombar]] and [[Eglarest]] were sacked and fell, took place after the Nirnaeth.
+#*[[Sack of Bar-en-Danwedh]], in which the [[Gaurwaith]] were destroyed and [[Dor-Cúarthol]] lost.
+#*[[Battle of Tumhalad]], followed by the [[Sack of Nargothrond]], where the city was destroyed by [[Glaurung]] and his [[Orcs]].
+#*[[Fall of Gondolin]], in which Morgoth's hosts besieged and destroyed the Noldor and their citadel of [[Gondolin]], killing King [[Turgon]].
+#The '''[[War of Wrath]]''', which defeated Morgoth, ended the [[First Age]] of [[Arda]], and destroyed most of Beleriand.
+
+==See also==
+There were other parallel conflicts where [[Morgoth]] was not involved, but were directly or indirectly connected to the main War, and the [[Silmarilli]]:
+*The '''[[Kinslaying]]s''', three conflicts caused by the [[House of Fëanor]] against other Elves to claim the Silmarilli:
+**The [[Kinslaying at Alqualondë]] (the only conflict not happening in Beleriand)
+**The [[Second Kinslaying]]
+**The [[Third Kinslaying]]
+*A brief conflict involving the Dwarves coveting the [[Nauglamir]]:
+**The [[battle in the Thousand Caves]]
+**The [[Battle of Sarn Athrad]]
+
+==Portrayal in adaptations==
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:'''1 September: ''[[A Shadow of the Past]]'':'''
+::During [[Galadriel|Galadriel's]] summarization of the [[First Age]], [[Finrod]] is seen fighting in the Wars of Beleriand against [[Orcs]] and other servants of [[Morgoth]]. During the war, Finrod shouted two [[Quenya]] phrases to his fellow [[Elves]]: "''Valaron kalanen''" ("By the [[Light of Valinor|light]] of the [[Valar]]!") and "''Firuvantë''" ("[[Orcs|They]] will die!"). Galadriel mentions that he vowed to destroy "''Morgoth's most devoted servant: [[Sauron|a cruel and cunning sorcerer]]''".
+:'''30 September: ''[[Udûn (episode)|Udûn]]'':'''
+::After the collapse of the [[Watchtower of Ostirith]] and before the defence of [[Tirharad]], [[Arondir]] references the end of the Wars of Beleriand in his attempt to boast the morale of the [[Pre-Númenóreans|Southlanders]].
+
+{{references}}
+
+{{warsofbeleriand}}
+
+[[Category:Conflicts of the First Age]]
+[[Category:Wars]]
+
+[[fi:Beleriandin Taistelut]]

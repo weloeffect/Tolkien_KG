@@ -1,0 +1,79 @@
+{{events
+| image = Ted Nasmith - The Oath of Fëanor.jpg
+| event=Oath of Fëanor
+| othernames=
+| location=[[Great Square]], [[Tirion]]
+| date={{YT|1495}}
+| result=Three [[Kinslaying]]s
+| partof=[[Exile of the Noldor]]
+| participants=[[House of Fëanor]]
+| description=
+| references=
+| gallery=the Oath of Fëanor
+}}
+{{qtlisten|Their Oath shall drive them, and yet betray them, and ever snatch away the very treasures that they have sworn to pursue.||[[Doom of Mandos]] in ''[[Quenta Silmarillion]]'', "[[Of the Flight of the Noldor]]"|Christopher Tolkien - Oath.wav}}
+
+The '''Oath of Fëanor''' was a dreadful irrevocable oath taken by [[Fëanor]] and [[Sons of Fëanor|his seven sons]] to pursue any in [[Arda]] who may take and withhold from them any of the [[Silmarils]]. It was taken following his [[Speech of Fëanor|great speech]] urging the Noldor to leave Aman and return to [[Middle-earth]].
+
+==History==
+Fëanor and his Sons swore in the name of [[Ilúvatar]] that they would not rest until the three [[Silmarils]] were in their hands, and to make war on any who withheld them. 
+
+At the time the Oath was sworn, [[Morgoth]] held all three of the Silmarils, having stolen them from Fëanor's stronghold at [[Formenos]]. Driven by the unbreakable Oath, Fëanor led the greater part of the [[Noldor]] out of [[Aman]] and back to [[Middle-earth]], in hopeless pursuit of the [[Dark Lord]]. Fëanor himself was mortally wounded by [[Balrogs]] in the Noldor's first assault. From that time on, while Morgoth held the three Silmarils in his [[Iron Crown]], the [[Elves of Beleriand]] were bound by a common enemy.
+
+The true danger of the Oath was revealed after [[Beren]] and [[Lúthien]] recovered one of the three Silmarils from the depths of [[Angband]]. Thereupon, the Sons of Fëanor made war upon the other Elves of Beleriand for the recovery of the Jewel. They attacked and destroyed the kingdom of [[Doriath]], killing [[Thingol]]'s Heir [[Dior]]. When the Silmaril escaped them there, they discovered that it was held at the [[Mouths of Sirion]] by Dior's daughter [[Elwing]]; again they attacked, and again the Silmaril escaped them. Carried out to sea by the power of [[Ulmo]], Elwing brought it to her husband [[Eärendil]], and they sailed with it back into the West.
+
+That Silmaril was lost to Fëanor's sons, but two more remained on Morgoth's Crown. After the [[War of Wrath]] and Morgoth's defeat at the end of the [[First Age]], just two of the original oath-takers survived, Fëanor's eldest sons [[Maedhros]] and [[Maglor]]. The former put forth a plan that the latter reluctantly accepted.  They stole the Silmarils from the camp of the victorious host, but because of the evils they had committed in recovering them, they found that they could no longer touch the holy Jewels without enduring searing pain. In despair, Maedhros threw himself and his Silmaril into the depths of the Earth, while Maglor cast his into the deep ocean. Maglor was the last of the oath-takers, and was said to wander the shores of the world lamenting his pain and loss.
+
+==The Oath==
+[[File:Jenny Dolfen - The Oath of Feanor.jpg|thumb|250px|''The Oath of Feanor'' by [[Jenny Dolfen]]]]
+
+{{blockquote|Be he foe or friend, be he foul or clean,<br />
+brood of Morgoth or bright Vala,<br />
+Elda or Maia or Aftercomer,<br />
+Man yet unborn upon Middle-earth,<br />
+neither law, nor love, nor league of swords,<br />
+dread nor danger, not Doom itself,<br />
+shall defend him from Fëanor, and Fëanor's kin,<br />
+whoso hideth or hoardeth, or in hand taketh,<br />
+finding keepeth or afar casteth<br />
+a Silmaril. This swear we all:<br />
+death we will deal him ere Day's ending,<br />
+woe unto world's end! Our word hear thou,<br />
+Eru Allfather! To the everlasting<br />
+Darkness doom us if our deed faileth.<br />
+On the holy mountain hear in witness<br />
+and our vow remember, Manwë and Varda!|''The Annals of Aman'', §134 (Morgoth's Ring, p. 112)}}
+
+==Other versions of the legendarium==
+The first mention of the Oath in the [[legendarium]] is given in the unfinished "[[Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind|Gilfanon's Tale]]",<ref>{{LT1|X}}, pp. 238, 240</ref> and was not sworn by Fëanor, but his Seven Sons when they came to Middle-earth.
+
+In an abandoned poem called "[[The Flight of the Noldoli from Valinor]]" (1920s), the Oath of Fëanor is given words for first time.<ref name=Flight>{{LB|2a}}, p. 135</ref>
+
+{{blockquote|Be he friend or foe&nbsp;&nbsp; or foul offspring<br />
+of Morgoth Bauglir,&nbsp;&nbsp; be he mortal dark<br />
+that in after days&nbsp;&nbsp; on earth shall dwell,<br />
+shall no law nor love&nbsp;&nbsp; nor league of Gods,<br />
+no might nor mercy,&nbsp;&nbsp; not moveless fate,<br />
+defend him for ever&nbsp;&nbsp; from the fierce vengeance<br />
+of the sons of Fëanor,&nbsp;&nbsp; whoso seize or steal<br />
+of finding keep&nbsp;&nbsp; the fair enchanted<br />
+globes of crystal &nbsp;&nbsp; whose glory dies not,<br />
+the Silmarils.&nbsp;&nbsp; We have sworn for ever!|"The Flight of the Noldoli from Valinor", vv. 132-141}}
+
+The words of the Oath in the main section come from the ''[[Annals of Aman]]''<ref>{{MR|P2m}}, p. 112</ref> but in the published ''[[Silmarillion]]'' there is only a narrative description of the Oath.<ref>{{S|9}}</ref>
+
+==Inspiration==
+Tolkien remarked{{fact}} that it was an oath which should never have been taken, reflecting on the Biblical passage ([https://www.biblegateway.com/passage/?search=James%205:12&version=ESV James 5:12]) concerning such oaths.
+
+==External links==
+* [http://www.elvish.org/gwaith/mrezac.htm A Quenya translation] by Milan Rezac
+
+{{references}}
+{{poems}}
+
+[[Category:First Age]]
+[[Category:Noldor]]
+[[Category:Oaths and prophecies]]
+[[Poems by J.R.R. Tolkien]]
+[[de:Eid Feanors]]
+[[fi:Fëanorin vala]]

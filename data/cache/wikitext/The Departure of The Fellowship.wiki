@@ -1,0 +1,20 @@
+{{incomplete}}
+{{scene
+|name=The Departure of The Fellowship
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - The Departure of the Fellowship from Rivendell.png
+|number=30 (extended)
+|duration=01:17
+|event=The [[Fellowship of the Ring]] departs [[Rivendell]]
+|characters=[[Elrond]], [[Fellowship of the Ring]] <br /> [[Arwen]]
+|previous=[[Bilbo's Gifts]]
+|next=[[The Ring Goes South (scene)|The Ring Goes South]]
+}}
+'''The Departure of the Fellowship''' is the thirtieth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was not featured in the theatrical release of ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+==Synopsis==
+With the [[Fellowship of the Ring]] ready to depart [[Rivendell]], [[Elrond]] re-iterates the [[Frodo|Ring-bearer's]] quest is for [[Mount Doom]] and that there is no obligation for those travelling with him to go further than they wish. He bids them blessings for their journey and [[Gandalf]] then tells [[Frodo]] they are ready to leave. The hobbit looks around somewhat nervously as he asks "[[Mordor]] Gandalf, is it left or right?" In response, the wizard tells him "Left". 
+
+[[Aragorn]] shares a last long look with [[Arwen]] before he gives her a slight nod and smile and follows the rest of the [[Fellowship]] over the bridge out of Rivendell.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|30]]

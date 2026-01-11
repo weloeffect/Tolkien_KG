@@ -1,0 +1,61 @@
+{{infobox character
+| people=[[Vanyar|Vanya]]
+| name= Amárië
+| image=Marya Filatova - Amarie of the Vanyar.jpg
+| caption="Amarie of the Vanyar" by [[Marya Filatova]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Valinor]]
+| affiliation=
+| language=[[Vanyarin]]
+| birth=During {{YT}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=[[Finrod]] (lover)
+| children=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Amárië''' ([[Quenya|Q]], pron. {{IPA|[aˈmari.e]}}) was a [[Vanyar]]in [[Elves|Elf]] who was loved by [[Finrod]].
+
+Finrod, son of [[Finarfin]], was a [[Noldor]]in prince who met Amárië in [[Valinor]]. Although in love with one another, they did not marry, and Amárië did not follow Finrod into exile to [[Beleriand]].<ref name="S-Noldor">{{S|Noldor}}</ref> According to ''[[The Grey Annals]]'', this was because she was not permitted.<ref name="GA-1">{{GA|109}}</ref> Following Finrod's death at the hands of [[Sauron]] during the [[Quest for the Silmaril]], he was brought back to life and lives with Amárië in Valinor.<ref name="GA-2">{{GA|180}}</ref>
+
+==Etymology==
+The name is not given an interpretation within the legendarium. [[Helge Fauskanger]] suggests that this [[Quenya]] name is perhaps derived from ''mára'' "good".<ref>{{webcite|author=[[Helge Fauskanger]]|articleurl=http://folk.uib.no/hnohf/quen-eng.htm|articlename=English-Quenya Wordlist (Quettaparma Quenyanna)|dated=|website=Arda}}</ref> 
+
+Another possibility is that the name includes the element ''[[mar]]'', "home"<ref name="EOA">{{webcite|articleurl=http://www.glyphweb.com/arda/a/amarie.html|articlename=Amarië|website=EoA}}</ref> [[Ruth S. Noel]] makes a similar interpretation and defines ''Amárië'' as "Of the Home".<ref name="LOTME">[[Ruth S. Noel]], ''[[The Languages of Tolkien's Middle-earth]]'' (revised edition), p. 108</ref>
+
+==Other versions of the legendarium==
+According to a version of the [[legendarium]] following the completion of ''[[The Lord of the Rings]]'', [[Felagund]] had a wife named '''[[Meril]]''' who went with him into exile and bore the [[Elven life cycle#Early_life|child]] [[Gil-galad]]. She was sent away by Felagund along with their son to her [[Falathrim|own folk]] at [[Eglorest]] in the [[Havens of the Falas]] during the [[Dagor Bragollach]], due to Felagund fearing "that all strong places were doomed to fall at last before the might of [[Morgoth]]".<ref name="WJ">{{WJ|Ruin}}, p. 242</ref> This was later changed so that Finrod had no child - with Gil-galad becoming the son of [[Orodreth]], Finrod's nephew - and Amárië remaining in Aman.<ref name="PM">{{PM|Shibboleth}}, p. 349</ref>
+
+==See also==
+* [[:Category:Images of Amarië|Images of Amarië]]
+* [[Elenwë]]
+
+{{references}}
+
+{{DEFAULTSORT:Amarie}}
+
+[[Category:Calaquendi]]
+[[Category:Characters in The Silmarillion]]
+[[Category:First Age characters]]
+[[Category:Quenya names]]
+[[Category:Vanyar]]
+
+[[de:Amarië]]
+[[fr:encyclo/personnages/elfes/vanyar/amarie]]
+[[fi:Amárië]]

@@ -1,0 +1,40 @@
+{{Song
+| title = Nightshade Forests
+| album = [[Dol Guldur (album)|Dol Guldur]]
+| image = DolGuldur.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 10:49
+| track = 2
+| spotify = https://open.spotify.com/track/14AyFDYGsP6cAz89NNJ0oT
+| writer = [[J.R.R. Tolkien]], P.K.
+| next = [[Elfstone (song)|Elfstone]]
+| previous = [[Angbands Schmieden]]
+}}'''''Nightshade Forests''''' is the second track of the album [[Dol Guldur (album)|Dol Guldur]] by the band [[Summoning]]. The song name is taken from [[Taur-nu-Fuin (disambiguation)|Taur-nu-Fuin]], the name given to the forest of [[Dorthonion]] after it fell into darkness in the [[First Age]], and the dark forest of [[Mirkwood]] in the [[Third Age]]. Like the song [[Lugburz (song)|Lugburz]] from the album [[Minas Morgul (album)|Minas Morgul]], the lyrics directly reference the [[Cold be hand and heart and bone,|incantation]] chanted by a [[Barrow-wights|Barrow-wight]] who had trapped [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Peregrin Took|Pippin]] and [[Meriadoc Brandybuck|Merry]] in the [[Fog on the Barrow-downs]] chapter of [[The Fellowship of the Ring]].
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+And in the glade a light was seen 
+Of stars and shadows shimmering 
+Immortal maiden elven-wise... 
+Long was the way through iron halls and darkling doors 
+
+And woods of nightshade morrowless 
+Elven-wise dance with me... 
+Cold be hand, heart and bone 
+And cold be my sleep under stone 
+Never more I'll wake on a snowy bed 
+Never - 'til the sun fails and the moon is dead 
+
+In the black winds the stars shall die 
+And still on gold here let them lie 
+'Til the dark lord lifts his hand 
+Over dead seas and withered land 
+
+And I'll fly away... 
+Where I dwell none can say 
+For into darkness fell my star 
+In Mordor where the shadows are
+</poem>
+
+[[Category:Songs by Summoning]]

@@ -1,0 +1,11 @@
+{{letter infobox
+| #=242
+| to=[[Allen and Unwin]]
+| date= [[28 November]] [[1962]]
+| subject=''[[The Adventures of Tom Bombadil]]''
+}}{{letter|242}}
+==Summary==
+Following the publication of ''[[The Adventures of Tom Bombadil]]'' six days earlier, two reviews had been published: one by ''The Times Literary Supplement'', and one in ''The Listener''. Both were positive, but Tolkien thought both reviewers started out not wanting to be amused. He remained puzzled as to why "if a 'professor' shows any knowledge of his professional techniques it must be 'waggery', but if a writer shows, say, knowledge of law or law-courts it is held interesting and creditable."
+{{letters}}
+[[Category:Letters to Stanley Unwin]]
+[[de:Brief 242]]

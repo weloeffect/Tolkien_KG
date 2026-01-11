@@ -1,0 +1,56 @@
+{{sources}}
+{{Noble House infobox
+| name=House of Fingolfin
+| image = Quentandil - Fingolfin device.png
+| caption=
+| othernames=
+| founder=[[Fingolfin]]
+| location=[[Tirion]], [[Hithlum]], [[Nevrast]], [[Gondolin]], [[Mouths of Sirion]]
+| affiliation=[[House of Finwë]], [[Union of Maedhros]]
+| rivalry=
+| destroyed=
+| language=[[Exilic Quenya]]<br />[[Sindarin]]
+| members=
+| race=[[Noldor]]
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=[[Ringil]]
+| heirlooms=
+| gallery=the House of Fingolfin
+}}
+The '''House of Fingolfin''' were the descendants and followers of [[Fingolfin]], second son of [[Finwë]]. They held the [[High King of the Noldor|High Kingship of the Noldor]] during the late [[First Age]].
+
+==History==
+Fingolfin was accounted [[High King of the Noldor]] after [[Maedhros]] bestowed the Kingship to him, in gratitude for his son [[Fingon]] rescuing him from [[Thangorodrim]] and as compensation for the acts of [[Fëanor|his father]] against him.<ref>{{S|Return}}</ref>
+
+During the early years of the [[Exile of the Noldor]], the House of Fingolfin held the lands to the northwest of [[Beleriand]]: [[Hithlum]], [[Nevrast]] and [[Gondolin]]. Of these, the city of Gondolin held until {{FA|510}}, but Hithlum was overrun by [[Morgoth]] in the [[Nirnaeth Arnoediad]], where Fingon was slain (Fingolfin had already met his end in the [[Dagor Bragollach]]).<ref>{{S|Fifth}}</ref> The remnant of the House, including Fingon's son [[Gil-galad|Ereinion Gil-galad]], were succoured by [[Círdan]] in the [[Grey Havens]].
+
+After the Nirnaeth, [[Tuor]] son of [[Huor]] was sent as a messenger to [[Turgon]] in [[Gondolin]], and there wedded Turgon's daughter [[Idril]]. Thus was the blood of [[Men]] introduced into the House, and the descendants of their line were named half-elven, given the choice of whether they were to considered [[Men]] or [[Elves]].<ref>{{cite DTP|S QS.24.015}}</ref>All these descendants chose to be considered among the [[Firstborn]], except [[Elrond]]'s brother [[Elros]] (who became the first King of [[Númenor]] and was a direct ancestor of [[Aragorn|Aragorn Elessar]]), and Elrond's daughter [[Arwen]] (Queen to Aragorn at the end of the [[Third Age]]).
+
+After the [[Fall of Gondolin]], the survivors of the House lived as exiles at the [[Mouths of Sirion]] or in the [[Falas]], until [[Eärendil]], descendant of Fingolfin's second son Turgon, sailed into the West to seek the aid of the [[Valar]], who overthrew Morgoth in the [[War of Wrath]] in c. {{FA|583}}.<ref>{{S|Earendil}}</ref>
+
+The House of Fingolfin was probably no more as an entity; the only known descendants were the two [[Half-elven]] sons of [[Eärendil]]; [[Elrond]] and [[Elros]], the patriarch of the [[Men|Mannish]] [[House of Elros]] and the [[Kings of Númenor]].
+
+==Genealogy==
+{{familytree/start}}
+{{familytree| | FIN |y| IND | | | | | | | | | | | | | | | | |FIN=[[Finwë]]<br /><small>''d. {{YT|1495}}''</small>|IND=[[Indis]]<br /><small>''b. {{YT}}''</small>}}
+{{familytree| | | | |!| | | | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | FNG |y| ANA | | | | | | |FNG='''FINGOLFIN'''<br /><small>''{{YT|1190}} - {{FA|456}}''</small>|ANA=[[Anairë]]<br /><small>''b. {{YT}}''</small>}}
+{{familytree| |,|-|-|-|v|^|-|-|-|-|-|-|v|-|-|-|-|-|-|-|.| |}}
+{{familytree| FIN | | TUR |y| ELE | | ARE |y| EOL | | ARG|FIN=[[Fingon]]<br /><small>''{{YT|1260}} - {{FA|472}}''</small>|ARE=[[Aredhel]]<br /><small>''{{YT|1362}} - {{FA|400}}''</small>|TUR=[[Turgon]]<br /><small>''{{YT|1300}} - {{FA|510}}''</small>|ELE=[[Elenwë]]<br /><small>''d. {{YT|1500}}''</small>|EOL=[[Eöl]]<br /><small>''d. {{FA|400}}''</small>|ARG=[[Argon]]<br /><small>''d. {{FA|1}}''</small>}}
+{{familytree| | | | | | | |!| | | | | | | |!| | | | | | | |}}
+{{familytree| | | TUO |y| IDR | | | | | | MAE | | | | | ||MAE=[[Maeglin]]<br /><small>''{{FA|320}} - {{FA|510|n}}''</small>|IDR=[[Idril]]<br /><small>''b. {{YT}}''</small>|TUO=[[Tuor]]<br /><small>''b. {{FA|472}}''</small>}}
+{{familytree| | | | | |!| | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | | EAR | | | | | | | | | | | | | | | ||EAR=[[Eärendil]]<br /><small>''b. {{FA|503}}''</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+The last High King of the Noldor, Ereinion Gil-galad, remained in Middle-earth. Despite having been listed as the son of Fingon in the published ''Silmarillion'', Christopher Tolkien later commented that it would have been better if he would have left Gil-Galad's parentage obscure in the published ''Silmarillion''.<ref>{{PM|XI5}}</ref>
+
+{{notes}}
+{{references}}
+[[Category:Elven noble houses]]
+[[Category:House of Fingolfin| ]]

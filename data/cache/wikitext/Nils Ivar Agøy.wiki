@@ -1,0 +1,35 @@
+{{person infobox
+| image=Nils Ivar Agøy 2.png
+| name=Nils Ivar Agøy
+| born=
+| died=
+| education=
+| occupation=Professor of Modern History
+| location=Norway
+| website=
+}}
+'''Nils Ivar Agøy''' is Professor of Modern History at the University of South-Eastern Norway in Bø i Telemark (Norway),<ref>https://www.usn.no/om-usn/kontakt-oss/tilsette/nils-ivar-agoy</ref> and co-founder of the [[Norwegian Tolkien Society]]. He translated ''[[The Hobbit]]'', ''[[The Silmarillion]]'', ''[[Unfinished Tales]]'' and ''[[The Children of Húrin]]'' into Norwegian (Bokmål). He has written many articles on Tolkien and wrote ''[[Mytenes mann|Mytenes mann: J.R.R. Tolkien og hans forfatterskap]]'' ([[2003]]) and edited the volume ''[[Between Faith and Fiction|Between Faith and Fiction: Tolkien and the Powers of His World]]'' ([[1998]]). He has also given lectures at numerous Tolkien events in recent decades.
+
+==Bibliography, selected==
+===Books===
+*[[1998]]: ''[[Between Faith and Fiction|Between Faith and Fiction: Tolkien and the Powers of His World]]'' (editor)
+*[[2003]]: ''[[Mytenes mann|Mytenes mann: J.R.R. Tolkien og hans forfatterskap]]''
+===Articles===
+* [[1983]]: [[Mallorn 20|''Mallorn'' 20]]
+** "''[[Mr. Bliss]]'': The Precursor of a Precursor?"
+*[[1995]]: ''[[Proceedings of the J.R.R. Tolkien Centenary Conference]]''
+** "Quid Hinieldus cum Christo? - New Perspectives on Tolkien's Theological Dilemma and his Sub-Creation Theory" 
+*[[2008]]: ''[[Lembas Extra: Proceedings of the 5th Unquendor Lustrum]]''
+**"Things to remember when translating Tolkien"
+*[[2008]]: ''[[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference]]''
+**"Why Is Tolkien So Popular?"
+* [[2013]]: [[Tolkien Studies: Volume 10|''Tolkien Studies'': Volume 10]]
+**"Vague or Vivid?: Descriptions in ''The Lord of the Rings''"
+
+{{references}}
+{{DEFAULTSORT:Agoy, Nils Ivar}}
+[[Category:Authors]]
+[[Category:JRRTE contributors]]
+[[Category:Norwegian people]]
+[[Category:People by name]]
+[[Category:Translators]]

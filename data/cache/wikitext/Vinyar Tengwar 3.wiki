@@ -1,0 +1,25 @@
+{{VTbox
+| title=Vinyar Tengwar 3
+| image = Vinyar Tengwar 3.jpg
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=January [[1989]]
+| format=Paperback journal
+| pages=12
+}}
+'''''Vinyar Tengwar 3''''' is the third issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|2|4}}
+
+==Contents==
+* Cover — [[Patrick H. Wynne]]
+* Letters to ''VT''
+
+* "Conversational Quenya?" — Margaret Dean
+* "Orc Talk" — [[Tom Loback]]
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 03}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 3]]

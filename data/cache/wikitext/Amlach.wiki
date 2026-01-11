@@ -1,0 +1,63 @@
+{{infobox character
+| people=[[Edain|Adan]]
+| name=Amlach
+| image=Juliana Pinho - Adanel and Amlach.png
+| caption=Amlach (right) in "Adanel and Amlach" by [[:Category:Images by Juliana Pinho|Juliana Pinho]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=[[Mannish]] dialect
+| birth={{FA|337}}
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Hador|House of Marach]]
+| parentage=[[Imlach]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Amlach''' (born {{FA|337}}) was the son of [[Imlach]] and a member of the [[House of Hador|House of Marach]].<ref>{{WJ|West}}</ref>
+
+==History==
+In the years after they crossed the [[Blue Mountains]] into [[Beleriand]], the [[Men]] who would become known as the [[Edain]] dwelt mainly in encampments at [[Estolad]], south of [[Nan Elmoth]]. There, they were divided into two factions: the [[Elf-friend]]s, who argued that Men should ally themselves with the [[Eldar]] against [[Morgoth]], and the dissenters who wished to leave the war to the Elves. 
+
+Around {{FA|369}} a council was held to debate the issue, and "Amlach" spoke forcefully against joining the [[Eldar]] in their war. After the council, though, it was discovered that Amlach had not even been present, and the speaker had been an emissary of Morgoth that had taken on his form. Amlach's anger at this deceit caused him to join the party of the Elf-friends, and he went north to [[Himring]] to enter the service of the Elf-lord [[Maedhros]].<ref>{{S|West}}</ref>
+
+==Etymology==
+Amlach appears to be a [[Sindarin]] name, though its meaning is not entirely certain.  A possibility is "Uprising Flame" (from ''[[am]]'' = "up, upwards" and ''[[lhach|lach]]'' = "flame (leaping)").
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | | | MAR | | |MAR=[[Marach]]<br /><small>''{{FA|282}} - {{FA|376|n}}''</small>}}
+{{familytree| | | | | |,|-|^|-|.| |}}
+{{familytree| ZIM |y| MAL | | IML |ZIM=[[Zimrahin]]<br /><small>''unknown''</small>|MAL=[[Malach]]<br /><small>''{{FA|307|n}} - {{FA|398|n}}''</small>|IML=[[Imlach]]<br /><small>''b. {{FA|310|n}}''</small>}}
+{{familytree| |,|-|^|-|.| | | |!| |}}
+{{familytree| ADA | | MAG | | AML |ADA=[[Adanel]]<br /><small>''b. {{FA|339|n}}''</small>|MAG=[[Magor]]<br /><small>''b. {{FA|341|n}}''</small>|AML='''AMLACH'''<br /><small>''b. {{FA|337|n}}''</small>}}
+{{familytree| | | | | |!| | | | | |}}
+{{familytree| | | | | HAT | | | | ||HAT=[[Hathol]]<br /><small>''b. {{FA|365|n}}''</small>}}
+{{familytree| | | | | |!| | | | | |}}
+{{familytree| | | | | HAD | | | | |HAD=[[Hador]]<br /><small>''{{FA|390|n}} - {{FA|455|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+[[Category:Characters in The Silmarillion]]
+[[Category:First Age characters]]
+[[Category:House of Hador]]
+[[Category:Sindarin names]]
+[[de:Amlach]]
+[[fi:Amlach]]
+[[fr:encyclo/personnages/hommes/1a/peuple de hador/amlach]]

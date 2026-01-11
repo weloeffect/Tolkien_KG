@@ -1,0 +1,196 @@
+{{Incomplete}}
+{{disambig-more|Adar|[[Adar (disambiguation)]]}}
+{{episode infobox
+| name=Adar
+| image = The Lord of the Rings The Rings of Power - Adar.jpg
+| caption=
+| director=[[Wayne Che Yip]]
+| writer=[[Jason Cahill]]<br/>[[Justin Doble]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[9 September]] [[2022]]
+| runtime=69 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=11609034
+| gallery=The Rings of Power (TV series)
+| previous=[[Adrift]]
+| next=[[The Great Wave]]
+}}
+
+{{Quote|[[Arondir]] finds himself a captive; [[Galadriel]] and [[Halbrand]] explore a legendary [[Númenor|kingdom]]; [[Elendil]] is given a new assignment; [[Nori]] faces the consequences.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Adar''' is the third episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]'', released on [[9 September]], [[2022]].
+
+==Synopsis==
+===The Southlands===
+[[Arondir]] finds himself taken to an [[Orc]]s enslavement camp in trenches somewhere in the [[Mordor|Southlands]], where many other humans and Elves, including Médhor and Revion, had been brought after capture. After Revion argues with the taskmasters Lurka and Vrath about a tree that the Orcs want felled, a leader of the camp, Magrot, offers the Elves water before abruptly killing Médhor in jest as he just so happened to be the last to drink the water.
+
+At the end of the episode, Arondir, Revion, and a few others attempt a rebellion in the trench, tripping the taskmasters with their chains. Arondir saves Revion from a warg that is loosed upon them and impales Magrot in the neck with a tree-root, but Revion is shot to death after briefly climbing free out of the camp. Their attempt is quelled, and while Arondir is pinned to the ground, Lurka tells another Orc to summon Adar. Before the credits, Adar comes out as Orcs bow to him and chant his name, while his face is seen in a blur.
+
+===Númenor===
+[[Galadriel]] and [[Halbrand]] find themselves on a ship captained by [[Elendil]], headed toward [[Númenor]]. They travel up the river [[Siril]] and arrive at the capital city of [[Armenelos]]. At the city's high palace, they meet [[Tar-Míriel|Queen Regent Míriel]] and her chief advisor [[Ar-Pharazôn|Chancellor Pharazôn]], amid a large company of other [[Númenóreans]], presumably the [[Council of the Sceptre]]. Galadriel and Halbrand introduce themselves, and Míriel refuses to allow the two - particularly an [[Elves|Elf]] - passage back to [[Middle-earth]] as Galadriel requests.
+
+Elendil is reluctant to let Galadriel escape Númenor when she tells him she is set on doing so, but the two establish friendship. He takes her to the kingdom's [[Hall of Lore]], where Galadriel discovers that the sigil of Sauron she had seen is in fact an abstract, sideview map of the Southlands, which Sauron intends to make into a new, committed realm. This realm would be located within the Southlands.
+
+A young [[Isildur]], Elendil's son, is seen on a ship at sea near the island, training as a naval cadet with his friends Valandil and Ontamo, and others to get into the [[Guild of Venturers|Sea Guard]]. During their current voyage, the Sail Master's son, [[Imrahil (The Rings of Power)|Imrahil]], is rescued from being blown overboard.
+
+After briefly trying and failing to get an apprenticeship with a smithy, Halbrand attempts to steal a guild crest from a man named Tamar. When Tamar and three other men confront him to take back the crest, Halbrand defeats them all in a street fight and is then arrested. At the prison, later, Galadriel tries convincing Halbrand again to accompany her to Middle-earth in order to redeem their blood-lines, as Sauron's endurance is the fault of the Elves who had warred against Morgoth, and of Halbrand's [[Ulfang|ancestors]] who were Morgoth's allies.
+
+===The Harfoots===
+The evening before the [[Harfoots]]' next migration, from the [[Norfield Glen]] to an orchard called the [[Grove]], [[The Stranger]] accidentally exposes himself to them while they are gathered commemorating their dead. Shocked at this, and angry at [[Elanor Brandyfoot|Nori's]] secret-keeping, the Harfoots confer what to do. Nori speaks out against their law concerning strangers and the outside world. On account of her youth, [[Sadoc Burrows]] forgives her deeds.
+
+In the back of caravan the next day, departing from the woods, [[Largo Brandyfoot|Largo]] and [[Marigold Brandyfoot]] finally let the Stranger come along with them after he helps the family with their wagon.
+
+==Cast==
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Augustus Prew]] || [[Médhor]]
+|-
+| [[Simon Merrells]] || [[Revion|Watchwarden Revion]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Charlie Vickers]] || [[Halbrand]]
+|-
+| [[Lloyd Owen]] || [[Elendil|Captain Elendil]]
+|-
+| [[Cynthia Addai-Robinson]]|| [[Tar-Míriel|Queen Regent Míriel]]
+|-
+| [[Trystan Gravelle]]|| [[Pharazôn]]
+|-
+| [[Maxim Baldry]]|| [[Isildur]]
+|-
+| Anthony Crum || [[Ontamo]]
+|-
+| Alex Tarrant || [[Valandil (The Rings of Power)|Valandil]]
+|-
+| [[Ema Horvath]] || [[Eärien]]
+|-
+| [[Lenny Henry|Sir Lenny Henry]]|| [[Sadoc Burrows]]
+|-
+| [[Beau Cassidy]] || [[Dilly Brandyfoot]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Elanor "Nori" Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Sara Zwangobani]] || [[Marigold Brandyfoot]]
+|-
+| [[Dylan Smith]] || [[Largo Brandyfoot]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Thusitha Jayasundera]] || [[Malva Meadowgrass|Malva]]
+|-
+| [[Maxine Cunliffe]] || [[Vilma]]
+|-
+| [[Joseph Mawle]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Jed Brophy]] || [[Vrath]]
+|-
+| Michael Morris || [[Númenóreans|Guardsman One]]
+|-
+| Antonio Te Maioha || [[Sail Master]]
+|-
+| Edward Clendon || [[Lurka]]
+|-
+| Luke Hawker || [[Magrot]]
+|-
+| Robert Strange || [[Orcs|Other Orc]]
+|-
+| Phil Grieve || [[Bazur]]
+|-
+| Preston O'Brien || [[Númenóreans|Guardsman Two]]
+|-
+| Phil Vaughan || [[Guild of Weaponsmiths|Smithy]]
+|-
+| [[Jason Hood]] || [[Tamar (The Rings of Power)|Tamar]]
+|-
+| Mana Hira Davis || [[Númenóreans|Worker One]]
+|-
+| Winham "Mu" Hammond || [[Númenóreans|Worker Two]]
+|-
+| Gabe Wright || [[Númenóreans|Messenger]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Amand Weaver || [[Men|Imprisoned Farmer]]<ref>https://m.imdb.com/title/tt11609034/fullcredits/cast?ref_=tt_ov_st_sm</ref>
+|-
+| Unknown actor || [[Imrahil (The Rings of Power)|Imrahil]]
+|-
+| Unknown horse || [[Berek]]
+|-
+| Ken Blackburn || [[Tar-Palantir]] (Off-camera, but in-scene)
+|}
+
+==Trivia==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+* Scene 6 - "Once slaves of the Dark Power themselves, [[orcs]] have been known to enslave even their own kind, and have often forced their conquered enemies into hard labor at their cruel hands. (Book VI, Chapter 2)"
+* Scene 14 - "The central wharf of [[Númenor]]'s capital city is towered over by a statue of [[Earendil]] the Mariner, the [[half-elven]] savior of [[Middle-earth]] in the [[Elder Days]] and the forebear of this human kingdom's royal line. (Appendix A)"
+* Scene 17 - "The ancestors of the [[Númenóreans]] were called the [[Edain]] - the men and women who first went west in [[Middle-earth]]. They were the allies of the [[elves]] in the [[First Age]] war against [[Morgoth]]. ([[Appendix A]])"
+* Scene 20 - "[[Númenóreans]] are mariners of great renown, and lords of many ships on their island, which is also called [[Elenna]]. but they are forbidden from sailing [[west]] out of sight of their own shores, by the [[Ban of the Valar]], to prevent them from seeking the [[Undying Lands]] themselves. ([[Appendix F]]; [[Appendix A]])"
+* Scene 23 - "It is a mark of evil things that came in the [[Great Darkness]] that they cannot abide the [[Sun]]. Some [[orcs]] can endure its light better than others, but they all hate it and only seldom will they journey in the open while the Sun shines. (Book III, Chapter 4)"
+* Scene 25 - "[[Silvan]] elves hold a great love for trees, delighting in their wood and life within them, often watching them grow from acorns to ruinous old age. Given enough time, they say they might even hear the voices of the [[trees]] and understand their thoughts. (Book III, Chapter 8)"
+* Scene 30 - "in contrast to the "lesser Men" or "low Men" who remained in [[Middle-earth]], the [[Númenóreans]] were gifted a life-span far greater than their cousins who were left behind - up to three times a normal human lifetime, in earlier days. ([[Appendix A]])"
+* Scene 33 - "[[Elros]], the first king of [[Númenor]] who ruled under the name [[Tar-Minyatur]], was a half-elf like his brother [[Elrond]]. But when given the choice by the [[Valar]], he chose mortality and a human life. ([[Appendix A]])"
+* Scene 35 - "[[Halflings]] delight in parties, and the Harvest Festival is a tradition meant to help the [[Harfoots]] prepare for the arduous migration that lies ahead."
+* Scene 38 - "[[Harfoots]] use a pictographic "writing" system that uses symbols to convey meanings that can help to note important natural rhythms and tabulations which help them better prepare for future migrations."
+* Scene 39 - "The wide-world is always around the [[Harfoots]]. They're vulnerable and unable to fence out the many dangers that exist for a small-sized creature like themselves."
+* Scene 40 - "[[Sadoc Burrows]] is the [[Harfoot]]'s Trailfinder and leads the caravan. He uses his unique Star-book, passed down through the generations, to guide the [[Harfoots]] on the right course from one seasonal haven to the next."
+* Scene 44 - "The [[Númenóreans]] love of the [[Sea]] extends to all elements of their culture. The statue in the center of this chamber is a personification of the Sea itself - as this was not, originally, a dungeon, but rather reappropriated as one sometime in the past."
+* Scene 46 - "Everything the [[Harfoots]] own, they make or find and then carry with them inside their carts - their most valued possessions."
+* Scene 48 - "[[Wargs]] are akin to [[wolves]], and are closely aligned with the [[orcs]] and the Darkness they serve. (Book II, Chapter 4)."
+
+==Production==
+
+==Deviations from Source Material ==
+The ship that was shown at the very end of Episode 2 proves to be captained by Elendil. As in the last Episode, it is extremely unlikely humans would have been present in the part of the Sundering Seas where Elendil found Galadriel and Halbrand on the raft. The [[Númenóreans]] (the race to whom he belongs) were specifically forbidden from sailing so far West from their home that they could not see the shore. This prohibition was known as the [[Ban of the Valar]], which Elendil may have been in contravention of. 
+
+Other deviations from the source material pertaining to Númenor include: 
+
+* Míriel not knowing who Elendil was, when the source material notes they were, in fact, cousins and had known one another since childhood. In fact, Elendil's father was a member of her father's royal Council. 
+* Míriel was never Regent because her father Tar-Palantir was the reigning monarch until his death. 
+* Míriel speaks of a tradition which says that the White Tree of [[Nimloth (tree)|Nimloth]] would shed blossoms as a sign of the Valar's displeasure. No such tradition is mentioned in the source material. It is also worthy of note that in the books, the White Tree bore fruit, not blossoms. 
+* There is no indication in the source material that Galadriel ever travelled to Númenor. She also can be heard telling the people that the Elves gave the island to men.  This is incorrect: the Valar themselves created the Island of Númenor, drawing it out of the sea as a gift to men for their bravery in opposing Morgoth during the First Age. 
+
+==== Other People, Places and Things ====
+There is no indication in the source material that a stranger , possibly one of the Istari, landed in a meteorite and was found by Hobbits in the Second Age. Where references do exist to any the persons known as Wizards appearing on Middle Earth at this time, they always came among the Elves or among Men, and for a specific purpose. (See History of Middle Earth, Volume XII, "Late Writings".<ref>J.R.R Tolkien, Christopher Tolkien ed. The History of Middle Earth Vol XII: ''The Peoples of Middle Earth'' "Part XIII Late Writings".</ref>
+
+It is unlikely that Durin III and Durin IV were actually father and son as shown in the show, since they lived many hundreds of years apart. Durin III recieved one of the original Rings of Power given to the Dwarves, and Durin IV was alive at the time of the War of the Last Alliance, which happened over 1700 years later. Given that the average lifespan for Dwarves was just over 200 years, the former was a distant ancestor of the latter.  
+
+==Reception==
+* [https://www.rottentomatoes.com/tv/the_lord_of_the_rings_the_rings_of_power/s01/e03 Rotten Tomatoes Reviews]
+
+{{references}}
+== External links ==
+* [https://rop.digitaltolkien.com/S1E3/ Adar] at ROP Data
+* [https://www.youtube.com/watch?v=4Hc4iK_t1Ek Episode analysis on Rings & Realms] (with [[Corey Olsen]])
+* [https://bearmccreary.com/the-lord-of-the-rings-episode-103/ Scoring ''Adar''] by [[Bear McCreary]]
+
+{{rop-episodes}}
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|03]]

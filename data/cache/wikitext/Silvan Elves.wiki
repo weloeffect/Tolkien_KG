@@ -1,0 +1,66 @@
+{{people infobox
+| name=Silvan Elves
+| image = Kay Woollard - Wood-Elves.jpg
+| caption="Wood-Elves" by [[Kay Woollard]]
+| pronun=
+| othernames=Wood-elves, ''Tawarwaith'' ([[Sindarin|S]])
+| origin=[[Nandor]] who remained in the woodlands of the [[Vales of Anduin]]
+| location=[[Lothlórien]], [[Greenwood the Great]], [[Ithilien]], [[Edhellond]], [[Belfalas]]
+| affiliation=[[Last Alliance of Elves and Men]]
+| rivalry=[[Dwarves]]
+| language=[[Silvan Elvish]], [[Sindarin]], [[Westron]]
+| members=[[Nimrodel]], [[Mithrellas]], [[Galion]], [[Haldir]], [[Rúmil (Elf of Lórien)|Rúmil]], [[Orophin]]
+| lifespan=Immortal
+| distinctions=Secretive, lovers of the forests and animals, less wise and more dangerous than other [[Eldar]]
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Silvan Elves''' ([[Sindarin|S.]] '''''Tawarwaith'''''), or the '''Wood-elves''', were the reclusive, forest-dwelling [[Elves]] of [[Middle-earth]]. In the late [[Third Age]], the Silvan Elves mostly belonged either to the [[Galadhrim]] or to the [[Elves of Mirkwood]].<ref name="SE-UTa"/>
+
+==Background==
+{{main|Nandor}}
+The Silvan Elves were descendants of the [[Nandor]] - and thus in origin part of the [[Teleri]] - who had lingered in the [[Vales of Anduin]] during the [[Great Journey]] of the [[Eldar]] in the [[Elder Days]]. The Silvan Elves hid themselves in their woodland realms beyond the [[Misty Mountains]] and became a scattered folk hardly distinguishable from [[Avari]], the Dark Elves.<ref name="SE-UTa">{{UT|6a}}</ref> While some of the Nandor continued to [[Eriador]] and later entered [[Beleriand]], they remained in the Vales of Anduin, and from these latter originated the Silvan Elves.<ref name="SE-UTa"/>
+
+It is also told that the some of the western [[Avari]], dwelling in Eriador and the Vales of Anduin, were friendly to the [[Eldar]], and came to merge with the Wood-elves. These were [[Nelyar]]in Avari ([[Penni]]), and therefore remotely akin to the Nandor and Sindar.<ref group=note>It is not known if this merge occurred during the [[Elder Days]], or during the [[Second Age|Second]] or [[Third Age]]s.</ref><ref>{{WJ|C}}, pp. 381, 410</ref>
+
+In the early [[Second Age]], many [[Teleri]], survivors of [[Doriath]] and [[Ossiriand]], left [[Lindon]] to establish woodland realms among the Silvan Elves.<ref name=rings>{{S|Rings}}</ref> It was before the building of the [[Dark Tower]] in c. {{SA|1000}} that the [[Sindar]] made this migration.<ref name=SA>{{App|SA}}</ref> 
+
+==History==
+===Greenwood the Great===
+{{main|Elves of Mirkwood}}
+In the early [[Second Age]], [[Oropher]] of [[Doriath]] (father of [[Thranduil]] and grandfather of [[Legolas]]) along with few other [[Sindar]] came to [[Greenwood the Great]], east of the [[Misty Mountains]]. There, he became the King of the Silvan Elves east of Anduin and established the [[Woodland Realm]] in {{SA|750}}.<ref>{{PM|Second}}, p. 174</ref> The culture of the Silvan folk was rude and rustic in comparison to the [[Beleriand]]ic culture of the Sindar but soon enough, the Sindar had merged with the Silvan Elves and adopted their language, taking names of Silvan form and style.<ref name="Sindarin Princes">{{UT|6b}}</ref>
+
+Although the Silvan Elves initially dwelt in the south of the Wood,<ref name="Sindarin Princes"/> centred around [[Amon Lanc]],<ref name="Note 14"/> they constantly retreated northwards (thrice in the [[Second Age]])<ref name="Note 14">{{UT|Gladden}}, note 14</ref> and after the [[Shadow]] had fallen upon [[Mirkwood]] by the mid-[[Third Age]], the Silvan Elves dwelt in the far north-east of the forest. Their king, [[Thranduil]] (the son of [[Oropher]], who was slain in the [[War of the Last Alliance]]), built an [[Elvenking's Halls|underground fortress]] for himself and his people inspired by [[Thingol]]'s [[Menegroth]] in the far [[Elder Days]].<ref name="Sindarin Princes"/>
+
+===Lothlórien===
+{{main|Galadhrim}}
+Little is known of their early history save that in the [[Second Age]], they were ruled by a [[Sindar]]in prince named [[Amdír]]. After the destruction of [[Eregion]] in {{SA|1697}}, many of its exiles, both [[Noldor]] and [[Sindar]], escaped through [[Khazad-dûm]] into the east, and had joined the Silvan Elves of Lórien and mingled with them.<ref name="Galadriel">{{UT|Concerning}}</ref>
+
+[[Amdír]] was lost in the [[War of the Last Alliance]] so his son, [[Amroth]], succeeded to his kingship. During his reign, [[Durin's Bane]] was unleashed in [[Khazad-dûm]] and many of Lórien's people fled south to [[Edhellond]]. [[Amroth]] himself was among them, and he was drowned in the [[Bay of Belfalas]]. It was at this time that [[Galadriel]] and [[Celeborn]] became the [[Lord and Lady of Lórien]].<ref name=ta>{{App|TA}}</ref>
+
+===Later history===
+Although both Silvan realms were invaded in the [[War of the Ring]], the fall of [[Sauron]] ushered in a long peace whence the Silvan Elves in the now-cleansed [[Eryn Lasgalen]] long remained untroubled. Now the Silvan Elves once again dwelt in the south of the Wood, but these were [[Elves of Lórien]] who crossed the [[Anduin]] to live in a new realm named [[East Lórien]]. Though the original land of [[Lothlórien]] faded after the passing of [[Galadriel]] and [[Celeborn]], the Silvan Elves of the Wood lived peacefully under their trees for many long years.<ref group=note>It is not clear if most [[Galadhrim]] either followed [[Galadriel]] and later [[Celeborn]] or just migrated to [[East Lórien]]; however, it is said that "[[Celeborn]] took the southern wood below the [[Narrows]], and named it [[East Lórien]]."</ref><ref>{{App|Great}}</ref>
+
+==Etymology==
+The English adjective ''[[Wiktionary:silvan|silvan]]'' means "of, characteristic of, or consisting of woods or forests" or "living or located in woods or forests".<ref>"[http://dictionary.reference.com/browse/silvansilvan]" at [http://dictionary.reference.com Dictionary.reference.com](Collins English Dictionary; accessed 17 July 2011)</ref>
+
+==Other names==
+An [[Elvish]] name for the Silvan Elves was '''''Tawarwaith'''''<ref>{{UT|6a}}, p. 256</ref>. It has been suggested that ''Tawarwaith'' is a [[Sindarin]] name, consisting of ''tawar'' (wood, forest) + ''[[gwaith]]''(people).<ref>[http://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_namesCompound Sindarin Names in Middle-earth] at [http://www.tolkiendil.comTolkiendil.com] (accessed 17 July 2011)</ref><ref>[[DidierWillis]], [http://www.jrrvf.com/hisweloke/sindar/online/english.htmlHiswelókë's Sindarin Dictionary] at [http://www.jrrvf.com/haut.shtml Jrrvf.com](accessed 17 July 2011)</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Fellowship of the Ring - Elves leaving Middle-earth.jpg|thumb|Elves leaving Middle-earth in {{fotree}}]]
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':''' 
+:In the scene known as "[[The Passing of the Elves]]", [[Frodo]] and [[Sam]] have a meal when Frodo hears Elves in the distance, which, according to Frodo are "Wood-elves", who travel to the [[Grey Havens]] and leave Middle-earth. 
+
+{{elves}}
+{{references|note}}
+[[Category:Elven peoples]]
+[[Category:Moriquendi]]
+[[Category:Silvan Elves| ]]
+
+[[de:Waldelben]]
+[[fr:encyclo/peuples/elfes/teleri/tawarwaith]]
+[[fi:Tawarwaith]]

@@ -1,0 +1,100 @@
+{{disambig-more|Palantír|[[Palantir (disambiguation)]]}}
+{{sources}}
+{{object infobox
+| name=Palantíri
+| image = John Howe - Saruman's Palantir.jpg
+| caption="Saruman's Palantir" by [[John Howe]]
+| pronun={{respell|pa-lan|tea|ree}}
+| othernames=
+| location=Various locations in [[Middle-earth]]
+| owner=[[Elendil]] and his line, [[Ruling Stewards]], [[Saruman]], [[Sauron]]
+| type=Seeing stones
+| appearance=Smooth, round, dark stones
+| creator= [[Noldor]] (possibly [[Fëanor]])<ref>{{TT|Palantir}}</ref>
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+| gallery=palantíri
+}}
+{{Quote|Each ''palantír'' replied to each, but all those in [[Gondor]] were ever open to the view of [[Osgiliath]].  Now it appears that, as the [[Orthanc|rock of Orthanc]] has withstood the storms of time, so there the ''palantír'' of that tower has remained.  But alone it could do nothing but see small images of things far off and days remote.  Very useful, no doubt, that was to [[Saruman]]; yet it seems that he was not content.  Further and further abroad he gazed, until he cast his gaze upon [[Barad-dûr]].  Then he was caught!|[[Gandalf]] in ''[[The Two Towers]]'', "[[The Palantír]]"}}
+The '''''palantíri''''' (sometimes translated as "Seeing Stones") were stones that could be used in communication with one another, and also to see many things across the face of the world.  When its master looked in it, they could communicate with other Stones and anyone who might be looking into them. People of great power could manipulate the Stones to see virtually any part of the world. 
+
+==History==
+===Origin and early history===
+The ''palantíri'' were probably made by [[Fëanor]] in the [[Uttermost West]].<ref name="S|Index">{{S|Index}}</ref> Many ''palantíri'' were made; the exact number is unknown. A [[Master-stone]] was in the [[Tower of Avallónë]]. The [[Eldar]] brought some of them to [[Amandil]] to comfort the [[Faithful]], as the [[Shadow]] fell upon [[Númenor]] and they couldn't visit them any more.<ref name="rings" />
+
+[[Elendil]] took seven ''palantíri'' with him in his flight to [[Middle-earth]] upon the [[Downfall of Númenor]]. When the [[Realms in Exile]] were formed in {{SA|3320}}, they were distributed to seven different locations:<ref>{{App|B1}}</ref> Elendil kept three in [[Arnor]], and four were given to his sons in [[Gondor]].<ref name="rings">{{S|Rings}}</ref> They were used largely for mental communication ([[ósanwe]]), but also to see what was occurring throughout the respective realms, and to know the plans of their enemies. Their existence was never common knowledge, and no one was allowed easy access to them save for kings and rulers, appointed wardens, or by royal command.
+
+===Third Age and beyond===
+One by one the stones vanished from public knowledge or were lost. The [[Osgiliath-stone]] fell into [[Anduin]] during the [[Kin-strife]] and burning of that city in {{TA|1437}}. When [[Arvedui]], [[King of Arnor]], was shipwrecked and his line ended in {{TA|1975|n}}, he drowned with the ''palantíri'' of [[Amon Sûl-stone|Amon Sûl]] and [[Annúminas-stone|Annúminas]], the only communicating stones of Arnor. When [[Minas Ithil]] [[Second Fall of Minas Ithil|fell]] in {{TA|2002|n}}, its [[Ithil-stone|stone]] was assumed destroyed in general.  The wiser and more foresighted men of Gondor decided that in case Sauron had seized the Stone, they would stop using the [[Anor-stone]] to prevent any contact with the [[Dark Lord]]. As the [[Elostirion-stone]] was locked away and could not answer the other stones anyway, the only remaining stone was the [[Orthanc-stone]], which became useless to the Gondorians. When [[Beren (Steward of Gondor)|Beren]] gave [[Saruman]] the deserted but secure [[Orthanc]] in {{TA|2759|n}}, he likely assumed that Saruman, head of the leading order against Sauron, would keep it safe.<ref name="ut" />
+
+Several of these hidden or lost stones came to light during the [[War of the Ring]]. Previous to this, Saruman used his ''palantír'' to gain knowledge, and eventually was ensnared through it by Sauron. Thus, the above war was greatly affected by these stones. Later, in the final weeks of the War, its rightful master [[Aragorn|Aragorn II]] wrested it to his will, so that it no longer had a connection with the stolen Ithil stone.<ref>{{RK|Company}}</ref>
+
+The second ''palantír'' to be revealed was that of Minas Anor. Denethor, too, had glanced toward Mordor with it, but his great hate of incarnate evil and power of will prevented him from being snared, though it taxed him greatly. However, he saw only what Sauron wanted him to see, and partially because of this he eventually committed suicide in the darkest hour. It is said that afterwards, anyone of weaker will who looked into it would see only the writhing hands of Denethor in his final agony.<ref>{{RK|Pyre}}</ref>
+
+The final fate of most of the stones is unknown. The Elostirion-stone was taken west with the [[Ring-bearers]] in {{TA|3021|n}} of the [[Third Age]], severing the last link of [[Middle-earth]] to [[Valinor]]. The stones of Anor and Orthanc are believed to have been reinstated in the [[Reunited Kingdom]] and used officially once more. The Ithil-stone may have been destroyed in the fall of Barad-dûr, but it is also possible that it too was found and reused in the Reunited Kingdom. Whether or not the other three lost stones were ever found is never indicated; the Osgiliath-stone may have rolled into the Sea, or it may have lain still in the Anduin. The stones of Arnor, however, were lost in the frozen seas of [[Forochel]], and therefore it is highly unlikely that they could ever be recovered.
+
+==Timeline==
+[[File:Matěj Čadil - The Palantir of Elostirion.jpg|thumb|''The Palantir of Elostirion'' by [[Matěj Čadil]]]]
+*{{SA|3319}} - [[Downfall of Númenor]]; seven Stones are taken to [[Middle-earth]] by the [[Faithful]].
+*{{TA|861}} - Division of [[Arnor]]; the [[Amon Sûl-stone]] is contested by [[Arthedain]], [[Cardolan]] and [[Rhudaur]].
+*{{TA|1409}} -  The watchtower of [[Weathertop|Amon Sûl]] is destroyed by [[Angmar]]'s forces; the Amon Sûl-stone is taken to [[Fornost Erain]].
+*{{TA|1437}} - Burning of [[Osgiliath]]; the [[Osgiliath-stone]] falls into [[Anduin]].
+*{{TA|1974}} - Fall of [[Arthedain]]; [[Arvedui]] salvages the Amon Sûl and [[Annúminas-stone]]s and takes them with him.
+*{{TA|1975}} - Amon Sûl and Annúminas-stones sink in [[Forochel]].
+*{{TA|2002}} - Sauron seizes the [[Ithil-stone]]. Gondorians stop using the [[Anor-stone]] and [[Orthanc-stone]].
+*{{TA|2759}} - [[Saruman]] assumes the Orthanc-stone.
+*c. {{TA|3000}} - Saruman is corrupted by the Stone.
+*{{TA|3019}} - The Stone is thrown by [[Gríma|Wormtongue]]; [[Aragorn]] twists the stone to his will.
+*{{TA|3021}} - The [[Elostirion-stone]] is taken West on the [[White Ship]].
+
+==The Stones==
+[[File:Peter Pracownik - Seven of Cups (LOTR).jpg|thumb|250px|right|The Seven Palantíri - Art by [[Peter Pracownik]]]]
+*The '''[[Master-stone]]''' was not one of the seven, but remained in the [[Tower of Avallónë]] in [[Tol Eressëa]]. It was the master stone. It apparently could not communicate with the stones of [[Middle-earth]], or at least is not mentioned having done so.
+
+*The '''[[Osgiliath-stone]]''' was the largest stone among the seven, and chief among them. It was placed in a prominent building in [[Osgiliath]], the capital city of the kingdom of [[Gondor]]. The ceiling of its chamber was painted to resemble a starry sky, and gave its name (''[[ost]]-[[gil]]iath'', the [[Dome of Stars]]) to the city itself. It was too large for one man to carry.<ref name="ut" />
+
+*The '''[[Elostirion-stone]]''', also known as the '''[[Elendil Stone]]''', was placed by [[Elendil]] in the tower of [[Elostirion]] in the [[Emyn Beraid]], just west of [[The Shire]]. The tower and stone were maintained and guarded by [[Círdan]] and the [[Lindon]]-[[elves]].  Elendil used it to look back along the [[Straight Road]] to [[Eressëa]] and even the [[Tower of Avallónë]] and the [[Master-stone]], and though it is indicated that he tried, he could not see the fallen Númenor. It could not be used in communication with the other stones, and was unique in this respect.
+
+*The '''[[Amon Sûl-stone]]''' was placed in the watch-tower of [[Weathertop|Amon Sûl]]. It was the largest and most powerful of the [[Arnor]]ian ''palantíri'' and the one most used in communication with [[Gondor]]. Like the Osgiliath-stone, it "could not be lifted by one man."<ref name="ut" />
+
+*The '''[[Annúminas-stone]]''' was also placed in Arnor, in the city of [[Annúminas]].
+
+*The '''[[Ithil-stone]]''' was placed in [[Minas Ithil]], in the mountains that came to be known as the [[Ephel Dúath]].  When [[Second Fall of Minas Ithil|Minas Ithil fell]] to the [[Nazgûl]], the Ithil-stone was taken to [[Barad-dûr]] and used by [[Sauron]].
+
+*The '''[[Orthanc-stone]]''' was placed in the great tower built by the [[Dúnedain]] in the Second Age at the southern end of the [[Misty Mountains]], [[Orthanc]].  It fell into the hands of the wizard [[Saruman]], who used it to garner information on his neighbors and their activities.  The stone was also partially responsible for Saruman's fall from grace, as he was using it when he came upon [[Sauron]], and was ensnared by him.  After the [[War of the Ring]], the Orthanc-stone remained in the custody of the Kings of Gondor in the [[Fourth Age]].
+
+*The '''[[Anor-stone]]''' was placed at [[Minas Anor]], later renamed [[Minas Tirith]] and made the capital of [[Gondor]].  It was kept an unused secret by the Ruling Stewards until it was ultimately used by Steward [[Denethor|Denethor II]] to watch his land, and he eventually even challenged Sauron in a battle of wills.  Denethor did not become corrupted, but the great effort of will that this required of him led him to age quickly.  [[Denethor]] was holding the stone when he committed suicide on a funeral pyre, and after this, only people of exceeding power could see in it anything other than two flaming hands.
+
+==Characteristics==
+===Appearance===
+They were perfect spheres, appearing to be made of solid glass or deep black crystal.  The smallest stones were one foot in diameter; the larger stones too large for a single man to bear. They were unbreakable save, some thought, by the fires of [[Orodruin]].<ref name="ut">{{UT|Palantiri}}</ref>
+
+===Usage===
+[[File:The Lord of the Rings (film series) - Saruman using Palantír.jpg|250px|thumb|Saruman with a ''palantír'' from Peter Jackson's ''The Lord of the Rings'']]The purpose of the stones in general was dual: to communicate with one another, and to see afar.<ref name="ut" /> Stones were linked with each other and each could reveal what was near another stone, but those of strong will and mind could direct their gaze anywhere, both in space and [[time]] (only towards the past).<ref name="rings" />
+
+All the stones save for the Elostirion-stone could be used in communication with one another, although the bigger and more powerful stones were favoured for this use over long distances.  The great Osgiliath-stone could spy on communication by the lesser stones, and a few others apparently also had special abilities.  The stones' gaze could penetrate beyond any solid object, such as into deep caverns, but required light to see anything.  A technique called ''[[shrouding]]'' was used when something was to be kept secret from any possible watchers using the stones. Knowledge of this technique was lost in time, although Sauron probably knew of it.<ref name="ut" />
+
+The user or "surveyor" of a ''palantír'' would first assure himself that the stone was oriented properly.  Usually the stones were held firmly so that this did not have to occur at each viewing.  Then the surveyor would take up a position facing the direction he would want to look; for instance, if he wished to look west, he would stand on the eastern side of the stone.  The major stones, however, could be rotated, and thus did not require moving about.  The stones were apparently controlled by will power; although chance largely dictated precisely upon what the gaze of the stones lay, the surveyor could manipulate and shift the gaze by merely concentrating, even when not touching the stone.  This concentrating, however, was quite taxing, and so was not generally used save in urgent situations.  Zooming in could be accomplished through the same methods, and standing three feet away from the stone achieved the best clarity and widest scope.  Stronger and more skilled surveyors could generally see more easily and with less difficulty than others.<ref name="ut" />
+
+To communicate with another stone, the viewer would orient himself and look toward the location of that stone, and the two stones would automatically connect with one another unless one was being used in another conversation. The surveyor would transmit his thoughts to the other stone by thinking, but the person on the other end would hear it in his head. The surveyor and his contact would see one another, but sounds could not be transmitted save through the above method of thought.<ref name="ut" />
+
+The stones were generally placed in bowls or depressions in tables of black marble, oriented through trial and error so that the poles of the stone aligned with the centre of the world. The kings usually appointed deputies to look in the stone regularly, or on command, or in times of emergency. Others not authorized by the king could use them, but it took a great amount of willpower, and things were often less clear.<ref name="ut" />
+
+==Etymology==
+The name '''''palantír''''' (pl. '''''palantíri''''') is [[Quenya]], meaning "Far-seer",<ref>{{webcite|author=[[Helge Fauskanger]]|articleurl=http://folk.uib.no/hnohf/quen-eng.htm|articlename=Quettaparma Quenyallo|dated=|website=Arda|accessed=14 October 2013}}</ref> containing the elements ''[[palan]]'' ("far and wide") + ''[[tir]]'' ("to watch over").<ref>{{S|Appendix}}, ''palan''</ref> It is translated as 'those that watch from afar'.<ref name="S|Index" />
+
+The [[Sindarin]] name for the seeing-stones is '''''Gwahaedir'''''.<ref>{{PM|Second}}, p. 186, note 15</ref>
+
+==Inspiration==
+The Palantír of Orthanc appeared in a draft of the story unexpectedly. Tolkien already had in his mind the [[Rhymes of Lore|rhyme]] "''[[Seven Stars]] and seven stones and one [[White Tree]]''" and associated it with one of the "seven stones".<ref>{{HM|RC}}, p. xxiv</ref><ref>{{L|163}}, p. 217</ref>
+{{References}}
+{{Palantiri}}
+{{DEFAULTSORT:Palantiri}}
+[[Category:Palantíri| ]]
+[[de:Palantíri]]
+[[fr:encyclo/artefacts/palantiri]]
+[[fi:Palantíri]]

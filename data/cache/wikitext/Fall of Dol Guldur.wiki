@@ -1,0 +1,41 @@
+{{unnamed}}
+{{disambig-more|The Fall|[[The Fall (disambiguation)]]}}
+{{battle
+| name=Fall of Dol Guldur
+| image = Ralph Damiani - The cleansing of Dol Guldur.jpg
+| conflict=[[War of the Ring]]
+| date=Began on [[28 March|March 28]] and ended sometime before [[6 April|April 6]], [[Third Age 3019|TA 3019]]
+| place=[[Dol Guldur]]
+| result=Victory for the [[Elves of Lórien|Elves]]
+*Destruction of [[Dol Guldur]]
+*Cleansing of [[Mirkwood]]
+*Partitioning of the [[Eryn Lasgalen|Forest]]
+| side1=[[Galadhrim]]
+| side2=Forces of [[Sauron]]
+| commanders1=[[Celeborn]]<br>[[Galadriel]]
+| commanders2=Unknown
+| forces1=Unknown
+| forces2=Unknown
+| casual1=Unknown
+| casual2=Unknown
+|}}
+{{wotr}}
+The '''Fall of Dol Guldur''' was the epic conflict that culminated the [[Rhovanion]] campaign of the [[War of the Ring]]. 
+
+==History==
+===Prelude===
+In [[March]] of {{TA|3019}}, Sauron directed his armies in [[Dol Guldur]] to assail the [[Elves of Lórien]] and the [[Woodland Realm]] as part of his northern campaign in the [[War of the Ring]]. These armies made three assaults across the [[Anduin]] against [[Lórien]]. Although grievous harm was done to the borders of the forest, all these attacks were driven back for the valour of the [[Galadhrim]] was great and the power that lay in the woods was far too powerful to be overcome unless [[Sauron]] had come there himself.<ref name=great>{{App|Great}}</ref>
+
+Upon the destruction of the [[One Ring]] that same day, the [[Shadow]] of [[Sauron]] was lifted from the hearts of his enemies and fear and despair fell upon his servants and allies.<ref name=great />
+
+=== Battle===
+On [[28 March]], [[Celeborn]] led the host of [[Galadhrim]] across the [[Anduin]] on many boats and took Dol Guldur.<ref>{{App|Chief}}</ref> After taking the fortress, [[Galadriel]] threw down its walls and laid bare its pits, cleansing the forest.<ref name=great />
+
+=== Aftermath ===
+On [[6 April|April 6]] Celeborn and [[Thranduil]] met in the midst of the forest and renamed it [[Eryn Lasgalen]], the "Wood of Green Leaves."  Celeborn took the land south of [[the Narrows]] for himself and named it [[East Lórien]], while Thranduil took all the forest north of the [[Mountains of Mirkwood]]. They gave the middle of the wood to the [[Beornings]] and [[Woodmen]].<ref name=great />
+
+==See also==
+*[[Attack on Dol Guldur]]
+
+{{references}}
+[[Category:Conflicts of the War of the Ring]]

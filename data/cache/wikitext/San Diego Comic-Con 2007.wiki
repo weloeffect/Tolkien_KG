@@ -1,0 +1,15 @@
+{{convention
+| image=
+| title=Comic-Con 2007
+| location=San Diego Convention Center
+| organizer=
+| dates=July 26th-29th, 2007
+| attendees=
+|}}
+
+==See also==
+* [[San Diego Comic-Con]]
+
+{{comic-con|2006|2008}}
+
+[[Category:Conventions]]

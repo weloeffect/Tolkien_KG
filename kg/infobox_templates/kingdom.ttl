@@ -1,0 +1,915 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Angmar> a schema:WebPage ;
+    rdfs:label "Angmar"@en ;
+    schema:about <http://localhost:8000/resource/Angmar> .
+
+<http://localhost:8000/page/Arnor> a schema:WebPage ;
+    rdfs:label "Arnor"@en ;
+    schema:about <http://localhost:8000/resource/Arnor> .
+
+<http://localhost:8000/page/Arthedain> a schema:WebPage ;
+    rdfs:label "Arthedain"@en ;
+    schema:about <http://localhost:8000/resource/Arthedain> .
+
+<http://localhost:8000/page/Belegost> a schema:WebPage ;
+    rdfs:label "Belegost"@en ;
+    schema:about <http://localhost:8000/resource/Belegost> .
+
+<http://localhost:8000/page/Buckland> a schema:WebPage ;
+    rdfs:label "Buckland"@en ;
+    schema:about <http://localhost:8000/resource/Buckland> .
+
+<http://localhost:8000/page/Cardolan> a schema:WebPage ;
+    rdfs:label "Cardolan"@en ;
+    schema:about <http://localhost:8000/resource/Cardolan> .
+
+<http://localhost:8000/page/Chey_Sart> a schema:WebPage ;
+    rdfs:label "Chey Sart"@en ;
+    schema:about <http://localhost:8000/resource/Chey_Sart> .
+
+<http://localhost:8000/page/Ciryatanor> a schema:WebPage ;
+    rdfs:label "Ciryatanor"@en ;
+    schema:about <http://localhost:8000/resource/Ciryatanor> .
+
+<http://localhost:8000/page/Dale> a schema:WebPage ;
+    rdfs:label "Dale"@en ;
+    schema:about <http://localhost:8000/resource/Dale> .
+
+<http://localhost:8000/page/Dor-C%C3%BAarthol> a schema:WebPage ;
+    rdfs:label "Dor-Cúarthol"@en ;
+    schema:about <http://localhost:8000/resource/Dor-C%C3%BAarthol> .
+
+<http://localhost:8000/page/Dor_Daedeloth> a schema:WebPage ;
+    rdfs:label "Dor Daedeloth"@en ;
+    schema:about <http://localhost:8000/resource/Dor_Daedeloth> .
+
+<http://localhost:8000/page/Doriath> a schema:WebPage ;
+    rdfs:label "Doriath"@en ;
+    schema:about <http://localhost:8000/resource/Doriath> .
+
+<http://localhost:8000/page/Eregion> a schema:WebPage ;
+    rdfs:label "Eregion"@en ;
+    schema:about <http://localhost:8000/resource/Eregion> .
+
+<http://localhost:8000/page/Gondolin> a schema:WebPage ;
+    rdfs:label "Gondolin"@en ;
+    schema:about <http://localhost:8000/resource/Gondolin> .
+
+<http://localhost:8000/page/Gondor> a schema:WebPage ;
+    rdfs:label "Gondor"@en ;
+    schema:about <http://localhost:8000/resource/Gondor> .
+
+<http://localhost:8000/page/Hathor> a schema:WebPage ;
+    rdfs:label "Hathor"@en ;
+    schema:about <http://localhost:8000/resource/Hathor> .
+
+<http://localhost:8000/page/Hithlum> a schema:WebPage ;
+    rdfs:label "Hithlum"@en ;
+    schema:about <http://localhost:8000/resource/Hithlum> .
+
+<http://localhost:8000/page/Iron_Hills> a schema:WebPage ;
+    rdfs:label "Iron Hills"@en ;
+    schema:about <http://localhost:8000/resource/Iron_Hills> .
+
+<http://localhost:8000/page/Kingdom_under_the_Mountain> a schema:WebPage ;
+    rdfs:label "Kingdom under the Mountain"@en ;
+    schema:about <http://localhost:8000/resource/Kingdom_under_the_Mountain> .
+
+<http://localhost:8000/page/Koronand%C3%AB> a schema:WebPage ;
+    rdfs:label "Koronandë"@en ;
+    schema:about <http://localhost:8000/resource/Koronand%C3%AB> .
+
+<http://localhost:8000/page/L%C3%B3rien_%28Valinor%29> a schema:WebPage ;
+    rdfs:label "Lórien (Valinor)"@en ;
+    schema:about <http://localhost:8000/resource/L%C3%B3rien_%28Valinor%29> .
+
+<http://localhost:8000/page/Lindon> a schema:WebPage ;
+    rdfs:label "Lindon"@en ;
+    schema:about <http://localhost:8000/resource/Lindon> .
+
+<http://localhost:8000/page/March_of_Maedhros> a schema:WebPage ;
+    rdfs:label "March of Maedhros"@en ;
+    schema:about <http://localhost:8000/resource/March_of_Maedhros> .
+
+<http://localhost:8000/page/Mordor> a schema:WebPage ;
+    rdfs:label "Mordor"@en ;
+    schema:about <http://localhost:8000/resource/Mordor> .
+
+<http://localhost:8000/page/Moria> a schema:WebPage ;
+    rdfs:label "Moria"@en ;
+    schema:about <http://localhost:8000/resource/Moria> .
+
+<http://localhost:8000/page/N%C3%BAmenor> a schema:WebPage ;
+    rdfs:label "Númenor"@en ;
+    schema:about <http://localhost:8000/resource/N%C3%BAmenor> .
+
+<http://localhost:8000/page/Nargothrond> a schema:WebPage ;
+    rdfs:label "Nargothrond"@en ;
+    schema:about <http://localhost:8000/resource/Nargothrond> .
+
+<http://localhost:8000/page/Nevrast> a schema:WebPage ;
+    rdfs:label "Nevrast"@en ;
+    schema:about <http://localhost:8000/resource/Nevrast> .
+
+<http://localhost:8000/page/Nogrod> a schema:WebPage ;
+    rdfs:label "Nogrod"@en ;
+    schema:about <http://localhost:8000/resource/Nogrod> .
+
+<http://localhost:8000/page/Nulukkizd%C3%AEn> a schema:WebPage ;
+    rdfs:label "Nulukkizdîn"@en ;
+    schema:about <http://localhost:8000/resource/Nulukkizd%C3%AEn> .
+
+<http://localhost:8000/page/Ossiriand> a schema:WebPage ;
+    rdfs:label "Ossiriand"@en ;
+    schema:about <http://localhost:8000/resource/Ossiriand> .
+
+<http://localhost:8000/page/Realms_in_Exile> a schema:WebPage ;
+    rdfs:label "Realms in Exile"@en ;
+    schema:about <http://localhost:8000/resource/Realms_in_Exile> .
+
+<http://localhost:8000/page/Reunited_Kingdom> a schema:WebPage ;
+    rdfs:label "Reunited Kingdom"@en ;
+    schema:about <http://localhost:8000/resource/Reunited_Kingdom> .
+
+<http://localhost:8000/page/Rhudaur> a schema:WebPage ;
+    rdfs:label "Rhudaur"@en ;
+    schema:about <http://localhost:8000/resource/Rhudaur> .
+
+<http://localhost:8000/page/Rivendell> a schema:WebPage ;
+    rdfs:label "Rivendell"@en ;
+    schema:about <http://localhost:8000/resource/Rivendell> .
+
+<http://localhost:8000/page/Rohan> a schema:WebPage ;
+    rdfs:label "Rohan"@en ;
+    schema:about <http://localhost:8000/resource/Rohan> .
+
+<http://localhost:8000/page/Tant%C3%BBrak> a schema:WebPage ;
+    rdfs:label "Tantûrak"@en ;
+    schema:about <http://localhost:8000/resource/Tant%C3%BBrak> .
+
+<http://localhost:8000/page/Thorin%27s_hall> a schema:WebPage ;
+    rdfs:label "Thorin's hall"@en ;
+    schema:about <http://localhost:8000/resource/Thorin%27s_hall> .
+
+<http://localhost:8000/page/Urd> a schema:WebPage ;
+    rdfs:label "Urd"@en ;
+    schema:about <http://localhost:8000/resource/Urd> .
+
+<http://localhost:8000/page/Valinor> a schema:WebPage ;
+    rdfs:label "Valinor"@en ;
+    schema:about <http://localhost:8000/resource/Valinor> .
+
+<http://localhost:8000/page/Waw> a schema:WebPage ;
+    rdfs:label "Waw"@en ;
+    schema:about <http://localhost:8000/resource/Waw> .
+
+<http://localhost:8000/page/Westmarch> a schema:WebPage ;
+    rdfs:label "Westmarch"@en ;
+    schema:about <http://localhost:8000/resource/Westmarch> .
+
+<http://localhost:8000/page/Woodland_Realm> a schema:WebPage ;
+    rdfs:label "Woodland Realm"@en ;
+    schema:about <http://localhost:8000/resource/Woodland_Realm> .
+
+<http://localhost:8000/resource/Angmar> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Carn_D%C3%BBm> ;
+    tg:caption <http://localhost:8000/resource/%22Ranging_in_Angmar%22_by_Donato_Giancola> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "''c. ''{{TA|1300}}"@en ;
+    tg:event2 "Destroyed"@en ;
+    tg:event2date "{{TA|1975}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Witch-king> ;
+    tg:image "Donato Giancola - Ranging in Angmar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/North-east_of_Eriador%2C_north-west_of_the_Vales_of_Anduin> ;
+    tg:name "Angmar"@en ;
+    tg:population <http://localhost:8000/resource/Orcs%2C_Men> ;
+    tg:pronun <http://localhost:8000/resource/%3AFile%3AAngmar.mp3> .
+
+<http://localhost:8000/resource/Arthedain> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Fornost_Erain> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{TA|861}}"@en ;
+    tg:event2 "Abandoned"@en ;
+    tg:event2date "{{TA|1974}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Arthedain> ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/Western_Eriador%3B_west_of_Baranduin_and_the_Weather_Hills> ;
+    tg:name "Arthedain"@en ;
+    tg:population <http://localhost:8000/resource/D%C3%BAnedain%2C_Hobbits> ;
+    tg:precededby <http://localhost:8000/resource/Arnor> ;
+    tg:towns <http://localhost:8000/resource/Ann%C3%BAminas%2C_Bree%2C_Hobbiton> .
+
+<http://localhost:8000/resource/Belegost> a schema:Place ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "Between {{YT|1050}}<ref>{{WJ|One}}, entry for the year VY 1050, §3</ref><br>and {{YT|1250}}<ref name=Grey>{{WJ|One}}, entry for the year 1250, §19</ref><ref name=Sindar>{{S|Sindar}}</ref><ref>{{VT|48a}} \"...which had certainly been founded long ago ... before the coming of the exiled Noldor, probably before the Eldar of the Great Journey ever reached Beleriand\", p. 24</ref>"@en ;
+    tg:event2 "Destroyed"@en ;
+    tg:event2date "{{FA|587}}"@en ;
+    tg:event3 "Abandoned"@en ;
+    tg:event3date "{{SA|40}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Khazad-D%C3%BBm> ;
+    tg:govern1 <http://localhost:8000/resource/Lord_of_Belegost> ;
+    tg:image "Mark Fisher - Belegost.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Blue_Mountains%2C_north-east_of_Dolmed> ;
+    tg:name "Belegost"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Gabilgathol%27%27_%28Khuzdul> ;
+    tg:population <http://localhost:8000/resource/Dwarves_of_Belegost> .
+
+<http://localhost:8000/resource/Buckland> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Bucklebury> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{TA|2340}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Master_of_Buckland> ;
+    tg:image "Mark Fisher - Buckland.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Bucklandish_%28variant_of_Hobbitish%29> ;
+    tg:location <http://localhost:8000/resource/Between_the_Baranduin> ;
+    tg:name "Buckland"@en ;
+    tg:population <http://localhost:8000/resource/Hobbits%2C_mostly_Brandybuck_Family> ;
+    tg:towns <http://localhost:8000/resource/Breredon%2C_Crickhollow%2C_Haysend%2C_Newbury%2C_Standelf> .
+
+<http://localhost:8000/resource/Cardolan> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/Cardolan_in_The_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II%3A_The_Rise_of_the_Witch-king> ;
+    tg:event1 "Dissolution of Arnor"@en ;
+    tg:event1date "{{TA|861}}"@en ;
+    tg:event2 "Abandoned"@en ;
+    tg:event2date "{{TA|1636}}"@en ;
+    tg:govern1 "King of Cardolan"@en ;
+    tg:govern2 <http://localhost:8000/resource/last_prince_of_Cardolan> ;
+    tg:image "Cardolanrotwk.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin%2C_Hobbitish> ;
+    tg:location <http://localhost:8000/resource/Southern_Eriador%3B_south_of_the_East_Road_between_the_Baranduin> ;
+    tg:name "Cardolan"@en ;
+    tg:population <http://localhost:8000/resource/D%C3%BAnedain%3Cbr%3EHobbits> ;
+    tg:precededby <http://localhost:8000/resource/Arnor> ;
+    tg:regions <http://localhost:8000/resource/Minhiriath> ;
+    tg:towns <http://localhost:8000/resource/Tharbad> .
+
+<http://localhost:8000/resource/Chey_Sart> a schema:Place ;
+    tg:govern1 "Fire King <small>(after {{SA|2000}})</small>"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/West_of_the_Ered_Harmal_and_Khand> ;
+    tg:map <http://localhost:8000/resource/File%3AMap_of_Chey_Sart.jpeg> ;
+    tg:name "Chey Sart"@en .
+
+<http://localhost:8000/resource/Ciryatanor> a schema:Place ;
+    tg:capital "Marath Carnadúnê"@en ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{SA|1904}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Ascension_of_the_Fifth_of_the_Nazg%C3%BBl> ;
+    tg:event2date "{{SA|1919}}"@en ;
+    tg:event3 "Allegiance to Númenor renounced"@en ;
+    tg:event3date "{{SA|2250}}"@en ;
+    tg:event4 "Storm King defeated, capital razed"@en ;
+    tg:event4date "{{SA|2280}}"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/Between_Tulwang_and_S%C3%AErayn> ;
+    tg:map <http://localhost:8000/resource/File%3AMap_of_Tulwang_and_Ciryatandor.jpeg> ;
+    tg:name "Ciryatanor"@en ;
+    tg:othernames <http://localhost:8000/resource/Anbalukkh%C3%B4r_%28Ad%C3%BBnaic> .
+
+<http://localhost:8000/resource/Dale> a schema:Place ;
+    tg:capital "merry town of Dale"@en ;
+    tg:event1 <http://localhost:8000/resource/Men_settle_in_Dale> ;
+    tg:event1date "before {{TA|1856}}"@en ;
+    tg:event2 "town of Dale built"@en ;
+    tg:event2date "around {{TA|2590}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Sack_of_Erebor> ;
+    tg:event3date "{{TA|2770}}"@en ;
+    tg:event4 "kingdom of Dale established"@en ;
+    tg:event4date "{{TA|2944}}"@en ;
+    tg:event5 <http://localhost:8000/resource/Battle_of_Dale> ;
+    tg:event5date <http://localhost:8000/resource/17_March%2C_%7B%7BTA> ;
+    tg:govern1 <http://localhost:8000/resource/Lord_of_Dale_%28early%29> ;
+    tg:govern2 <http://localhost:8000/resource/King_of_Dale_%28later%29> ;
+    tg:image "Matěj Čadil - Dale.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/language_of_Dale%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Valley_between_two_arms_of_the_Lonely_Mountain_in_Rhovanion%3Cbr%3ERealm_-_Far_south_and_east_of_Lake-town%3Cref_name%3D%22Meetings%22%3E%7B%7BFR> ;
+    tg:name "Dale"@en ;
+    tg:population <http://localhost:8000/resource/Men_of_Dale> ;
+    tg:settlements <http://localhost:8000/resource/possibly_Lake-town_%28later%29%3Cref_name%3D%22Meetings%22/%3E> .
+
+<http://localhost:8000/resource/Dor-C%C3%BAarthol> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Echad_i_Sedryn> ;
+    tg:caption <http://localhost:8000/resource/%22Two_Captains_-_Guardians_of_Amon_Rudh%22_by_%3ACategory%3AImages_by_Maria_Awsejkowa> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{FA|487}}"@en ;
+    tg:event2 "Destroyed"@en ;
+    tg:event2date "{{FA|489}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Two_Captains%3Cref%3E%7B%7BCH> ;
+    tg:image "Maria Awsejkowa - Two Captains - Guardians of Amon Rudh.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Sindarin%2C_and_Taliska> ;
+    tg:location <http://localhost:8000/resource/Between_the_Taeglin%2C_the_Nivrim> ;
+    tg:name "Dor-Cúarthol"@en ;
+    tg:othernames "Land of Bow and Helm"@en ;
+    tg:population <http://localhost:8000/resource/Dwarves%2C_Elves%2C_and_Men> ;
+    tg:regions <http://localhost:8000/resource/Talath_Dirnen_%28shared_with_Nargothrond%29%3Cbr%3ELand_around_Amon_R%C3%BBdh%3Cbr%3EPossibly_the_Moors_of_the_Nibin-noeg> ;
+    tg:towns <http://localhost:8000/resource/Methed-en-glad%3Cbr_/%3EBar-erib> .
+
+<http://localhost:8000/resource/Dor_Daedeloth> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Angband> ;
+    tg:caption <http://localhost:8000/resource/%22Thangorodrim%22_by_%3ACategory%3AImages_by_Jonathan_Guzi> ;
+    tg:event1 "Established"@en ;
+    tg:event1date "Before {{YT|1090}}"@en ;
+    tg:event2 "Destroyed"@en ;
+    tg:event2date <http://localhost:8000/resource/%7B%7BFA> ;
+    tg:govern1 <http://localhost:8000/resource/Morgoth_as_the_Dark_Lord> ;
+    tg:govern2 <http://localhost:8000/resource/Sauron_as_his_Lieutenant> ;
+    tg:govern3 <http://localhost:8000/resource/Gothmog_%28balrog%29> ;
+    tg:image "Jonathan Guzi - Thangorodrim.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/Far_north_of_Middle-earth> ;
+    tg:name "Dor Daedeloth"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Dor-na-Daerachas%27%27_%28Sindarin> ;
+    tg:population <http://localhost:8000/resource/Balrogs%2C_Orcs%2C_Werewolves%2C_and_other_creatures%3Cbr_/%3EEnslaved_Noldor> ;
+    tg:precededby <http://localhost:8000/resource/Utumno> .
+
+<http://localhost:8000/resource/Doriath> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Menegroth> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{YT|1152}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Menegroth_constructed> ;
+    tg:event2date "{{YT|1300}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Girdle_of_Melian_established> ;
+    tg:event3date "{{YT|1497}}"@en ;
+    tg:event4 <http://localhost:8000/resource/Dior> ;
+    tg:event4date "{{FA|503}}"@en ;
+    tg:event5 <http://localhost:8000/resource/Ruin_of_Doriath> ;
+    tg:event5date "{{FA|506}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Doriath> ;
+    tg:image "Christopher Tolkien - Map of Doriath.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Doriathrin> ;
+    tg:location <http://localhost:8000/resource/Forests_in_central_Beleriand> ;
+    tg:name "Doriath"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Eglador%27%27_%28Sindarin> ;
+    tg:population <http://localhost:8000/resource/Primarily_Iathrim_%28Many_Haladin_if_including_Brethil%29> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:regions <http://localhost:8000/resource/Neldoreth%2C_Region%2C_Nivrim%2C__Arth%C3%B3rien%2C_Brethil%2C_Nan_Elmoth> .
+
+<http://localhost:8000/resource/Gondor> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Osgiliath_%28%7B%7BSA> ;
+    tg:caption <http://localhost:8000/resource/%22Minas_Tirith%22_by_%3ACategory%3AImages_by_Abe_Papakhian> ;
+    tg:currency <http://localhost:8000/resource/tharni%2C_castar> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{SA|3320}}"@en ;
+    tg:event2 "Independence"@en ;
+    tg:event2date "{{TA|2}}"@en ;
+    tg:event3 <http://localhost:8000/resource/First_Ruling_Steward> ;
+    tg:event3date "{{TA|2050}}"@en ;
+    tg:event4 <http://localhost:8000/resource/Rohan%26nbsp%3Bformed> ;
+    tg:event4date "{{TA|2510}}"@en ;
+    tg:event5 "Kings return"@en ;
+    tg:event5date <http://localhost:8000/resource/1_May%2C_%7B%7BTA> ;
+    tg:followedby <http://localhost:8000/resource/Reunited_Kingdom> ;
+    tg:govern1 <http://localhost:8000/resource/Kings_of_Gondor> ;
+    tg:govern2 <http://localhost:8000/resource/Later_Ruling_Steward> ;
+    tg:govern3 <http://localhost:8000/resource/Council_of_Gondor> ;
+    tg:holiday <http://localhost:8000/resource/Cormar%C3%AB_%28Fourth_Age%29> ;
+    tg:image "Abe Papakhian - Minas Tirith.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_N%C3%BAmen%C3%B3rean_Sindarin%2C_Quenya> ;
+    tg:location <http://localhost:8000/resource/Lands_around_the_White_Mountains%2C_west_of_Mordor> ;
+    tg:name "Gondor"@en ;
+    tg:othernames "Kingdom of the South, The South-kingdom, Stoningland"@en ;
+    tg:population <http://localhost:8000/resource/Primarily_Gondorians_%28Belfalas_was_inhabited_by_Elves_for_some_time%29> ;
+    tg:precededby <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:regions <http://localhost:8000/resource/An%C3%B3rien%2C_Ithilien%2C_Lossarnach%2C_Lebennin%2C_South_Gondor_%28contested%29%2C_Belfalas%2C_Lamedon%2C_Anfalas%2C_Enedwaith_%28shared_with_Arnor%29%3Cbr/%3EFormerly%3A_Calenardhon> ;
+    tg:towns <http://localhost:8000/resource/Pelargir%2C_Calembel%2C_Dol_Amroth%2C_Erech%2C_Linhir%3Cbr/%3EFormerly%3A_Minas_Morgul> .
+
+<http://localhost:8000/resource/Hathor> a schema:Place ;
+    tg:capital "Tanith"@en ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "After {{SA|100}}"@en ;
+    tg:govern1 "King"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/The_M%C3%BBmakan> ;
+    tg:map <http://localhost:8000/resource/File%3ADetailed_Map_of_M%C3%BBmakan.jpeg> ;
+    tg:name "Hathor"@en .
+
+<http://localhost:8000/resource/Hithlum> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Barad_Eithel> ;
+    tg:event1 "Noldor arrive"@en ;
+    tg:event1date "{{YT|1497}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Fingolfin_becomes_High_King_of_the_Noldor> ;
+    tg:event2date "{{FA|5}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Defeat_of_the_Noldor> ;
+    tg:event3date "{{FA|472}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Fingolfin> ;
+    tg:govern2 <http://localhost:8000/resource/Later_Fingon> ;
+    tg:image "Peter Xavier Price - Hithlum.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/North-western_Beleriand%2C_within_the_Ered_Wethrin> ;
+    tg:name "Hithlum"@en ;
+    tg:othernames <http://localhost:8000/resource/Quenya> ;
+    tg:population <http://localhost:8000/resource/Primarily_Elves_%28Sindar_and_Noldor%29%2C_but_Dor-l%C3%B3min_was_latterly_occupied_by_Men> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:regions <http://localhost:8000/resource/Dor-l%C3%B3min%2C_Mithrim> .
+
+<http://localhost:8000/resource/Iron_Hills> a schema:Place ;
+    tg:event1 "First Colonized"@en ;
+    tg:event1date <http://localhost:8000/resource/First_Age> ;
+    tg:event2 "Establishment of Lordship"@en ;
+    tg:event2date "{{TA|2590}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Lord_of_the_Iron_Hills> ;
+    tg:image "The Lord of the Rings Online - Iron Hills.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/East_of_the_Lonely_Mountain%2C_in_northeastern_Rhovanion> ;
+    tg:name "Iron Hills"@en ;
+    tg:population <http://localhost:8000/resource/Durin%27s_Folk> .
+
+<http://localhost:8000/resource/Kingdom_under_the_Mountain> a schema:Place ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{TA|1999}}"@en ;
+    tg:event2 "Abandoned"@en ;
+    tg:event2date "{{TA|2210}}"@en ;
+    tg:event3 "Reclaimed"@en ;
+    tg:event3date "{{TA|2590}}"@en ;
+    tg:event4 "Lost&nbsp;to&nbsp;Smaug"@en ;
+    tg:event4date "{{TA|2770}}"@en ;
+    tg:event5 "Reclaimed"@en ;
+    tg:event5date "{{TA|2941}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/King_under_the_Mountain> ;
+    tg:image "Jef Murray - The Lonely Mountain 2.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Khuzdul> ;
+    tg:location <http://localhost:8000/resource/The_Lonely_Mountain> ;
+    tg:name "Kingdom under the Mountain"@en ;
+    tg:othernames "The Dwarf-kingdom, Erebor, Lonely Mountain, Mountain Kingdom"@en ;
+    tg:population <http://localhost:8000/resource/Dwarves_of_Erebor> ;
+    tg:precededby <http://localhost:8000/resource/Moria> .
+
+<http://localhost:8000/resource/Koronand%C3%AB> a schema:Place ;
+    tg:capital "Korlan"@en ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "Around {{SA|100}}"@en ;
+    tg:govern1 "Senate"@en ;
+    tg:govern2 "King of Korlan <small>(briefly)</small>"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/M%C3%BBmakan> ;
+    tg:map <http://localhost:8000/resource/File%3ADetailed_Map_of_M%C3%BBmakan.jpeg> ;
+    tg:name "Koronandë"@en .
+
+<http://localhost:8000/resource/L%C3%B3rien_%28Valinor%29> a schema:Place ;
+    tg:event1 <http://localhost:8000/resource/Sleeping_of_M%C3%ADriel> ;
+    tg:govern1 <http://localhost:8000/resource/Irmo_and_Est%C3%AB> ;
+    tg:image "Olga Kukhtenkova - Este.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/Aman> ;
+    tg:name "Lórien"@en ;
+    tg:population <http://localhost:8000/resource/Valar%2C_Maiar_and_many_spirits> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:regions <http://localhost:8000/resource/L%C3%B3rellin> .
+
+<http://localhost:8000/resource/March_of_Maedhros> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Himring> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{FA|7}}"@en ;
+    tg:event2 "Defeated"@en ;
+    tg:event2date "By {{FA|540}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Maedhros> ;
+    tg:image "Turner Mohan - The March of Maedhros.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/North-eastern_Beleriand> ;
+    tg:name "March of Maedhros"@en ;
+    tg:population <http://localhost:8000/resource/Noldor> .
+
+<http://localhost:8000/resource/Mordor> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Barad-d%C3%BBr> ;
+    tg:event1 "Established"@en ;
+    tg:event1date "c. {{SA|1000}}"@en ;
+    tg:event2 "Defeated"@en ;
+    tg:event2date "{{SA|3441}}"@en ;
+    tg:event3 "Nazgûl return"@en ;
+    tg:event3date "{{TA|1980}}"@en ;
+    tg:event4 "Sauron returns"@en ;
+    tg:event4date "{{TA|2941}}"@en ;
+    tg:event5 "Defeated"@en ;
+    tg:event5date "{{TA|3019}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Gondor_%28until_the_Great_Plague%29%3Cbr%3ESauron%3Cbr%3Elater_ruled_by_his_freed_slaves> ;
+    tg:image "Ted Nasmith - Across Gorgoroth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Black_Speech%2C_Orkish> ;
+    tg:location <http://localhost:8000/resource/Within_Ered_Lithui_and_Ephel_D%C3%BAath> ;
+    tg:name "Mordor"@en ;
+    tg:othernames <http://localhost:8000/resource/Dark_Land%2C_%27%27Narg%C3%BBn%27%27_%28Khuzdul> ;
+    tg:population <http://localhost:8000/resource/Orcs%2C_Trolls%2C_Nazg%C3%BBl%2C_Men%2C_other_creatures_of_Evil> ;
+    tg:regions <http://localhost:8000/resource/Nurn%2C_Plateau_of_Gorgoroth> ;
+    tg:towns <http://localhost:8000/resource/Minas_Morgul%2C_Carchost%2C_Narchost%2C_Tower_of_Cirith_Ungol%2C_Durthang> .
+
+<http://localhost:8000/resource/Nogrod> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Nogrod%22_by_%3ACategory%3AImages_by_L%C3%ADda_Holubov%C3%A1> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "Between {{YT|1050}}<br>and {{YT|1250}}<ref name=\"Sindar\"/><ref name=\"ReferenceA\">{{VT|48a}}, p. 24 (\"...which had certainly been founded long ago ... before the coming of the exiled Noldor, probably before the Eldar of the Great Journey ever reached Beleriand\")</ref>"@en ;
+    tg:event2 "Destroyed"@en ;
+    tg:event2date "{{FA|587}}"@en ;
+    tg:event3 "Abandoned"@en ;
+    tg:event3date "{{SA|40}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Khazad-D%C3%BBm> ;
+    tg:govern1 <http://localhost:8000/resource/Lord_of_Nogrod> ;
+    tg:image "Lída Holubová - Nogrod.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Blue_Mountains%2C_south-east_of_Dolmed> ;
+    tg:name "Nogrod"@en ;
+    tg:othernames <http://localhost:8000/resource/Hollowbold%2C_Khuzdul> ;
+    tg:population <http://localhost:8000/resource/Dwarves_of_Nogrod> .
+
+<http://localhost:8000/resource/Rhudaur> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22View_of_Rhudaur%22_by_Ted_Nasmith> ;
+    tg:event1 "Foundation"@en ;
+    tg:event1date "{{TA|861}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Allied_with_Angmar> ;
+    tg:event2date "By {{TA|1349}}"@en ;
+    tg:image "Ted Nasmith - View of Rhudaur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Between_the_Weather_Hills_and_the_Misty_Mountains> ;
+    tg:name "Rhudaur"@en ;
+    tg:population <http://localhost:8000/resource/Primarily_Men_of_Arnor> ;
+    tg:precededby <http://localhost:8000/resource/Arnor> .
+
+<http://localhost:8000/resource/Rohan> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Edoras%2C_earlier_Aldburg> ;
+    tg:caption <http://localhost:8000/resource/%22Edoras%22_by_Jef_Murray> ;
+    tg:event1 "Formed"@en ;
+    tg:event1date "{{TA|2510}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Rohan> ;
+    tg:image "Jef Murray - Edoras.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Rohanese%2C_Westron%2C_Khuzdul> ;
+    tg:location <http://localhost:8000/resource/From_Fangorn_Forest_to_White_Mountains%2C_between_the_Isen_and_the_Entwash> ;
+    tg:name "Rohan"@en ;
+    tg:othernames "Riddermark"@en ;
+    tg:population <http://localhost:8000/resource/Rohirrim%3Cbr%3E_few_Dwarves> ;
+    tg:precededby <http://localhost:8000/resource/Calenardhon> ;
+    tg:regions <http://localhost:8000/resource/Eastemnet%2C_Westemnet%2C_Eastfold%2C_Folde%2C_Westfold%2C_The_Wold%2C_West-march> ;
+    tg:towns <http://localhost:8000/resource/Aldburg%2C_Dunharrow%2C_Grimslade%2C_Hornburg%2C_Upbourn%2C_Underharrow> .
+
+<http://localhost:8000/resource/Tant%C3%BBrak> a schema:Place ;
+    tg:capital "Sarûl"@en ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{SA|1300}}"@en ;
+    tg:event2 "Independence"@en ;
+    tg:event2date "{{SA|2040}}"@en ;
+    tg:govern1 "Royal governor <small>(before independence)</small>"@en ;
+    tg:govern2 "King <small>(after independence)</small>"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/Southern_M%C3%BBmakan> ;
+    tg:map <http://localhost:8000/resource/File%3ADetailed_Map_of_M%C3%BBmakan.jpeg> ;
+    tg:name "Tantûrak"@en ;
+    tg:othernames "Lond Hallacar"@en .
+
+<http://localhost:8000/resource/Thorin%27s_hall> a schema:Place ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{TA|2802}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Kingdom_Under_the_Mountain> ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Durin%27s_Folk> ;
+    tg:image "The Lord of the Rings Online - Thorin's Halls.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Khuzdul> ;
+    tg:location <http://localhost:8000/resource/Southern_Blue_Mountains%2C_beyond_the_Lh%C3%BBn> ;
+    tg:name "Thorin's hall"@en ;
+    tg:population <http://localhost:8000/resource/Durin%27s_Folk> .
+
+<http://localhost:8000/resource/Urd> a schema:Place ;
+    tg:govern1 "Matriarchs <small>(before {{SA|1992}})</small>"@en ;
+    tg:govern2 "King <small>(after {{SA|1992}})</small>"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location "The far north"@en ;
+    tg:map <http://localhost:8000/resource/File%3AMap_of_Urd_and_surrounding_lands.jpeg> ;
+    tg:name "Urd"@en .
+
+<http://localhost:8000/resource/Valinor> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/M%C3%A1hanaxar> ;
+    tg:event1 <http://localhost:8000/resource/Arrival_of_the_Eldar> ;
+    tg:event1date "{{YT|1133}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Darkening_of_Valinor> ;
+    tg:event2date "{{YT|1495}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Hiding_of_Valinor> ;
+    tg:event3date "{{YT|1500}}"@en ;
+    tg:event4 <http://localhost:8000/resource/Voyage_of_E%C3%A4rendil> ;
+    tg:event4date "{{FA|542}}"@en ;
+    tg:event5 <http://localhost:8000/resource/Changing_of_the_World> ;
+    tg:event5date "{{SA|3319}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Valar> ;
+    tg:holiday <http://localhost:8000/resource/High_feast> ;
+    tg:image "Ted Nasmith - Varda and Manwë in Valinor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Valarin%2C_Quenya_%28including_Telerin%29> ;
+    tg:location <http://localhost:8000/resource/Aman%2C_west_of_the_Pel%C3%B3ri> ;
+    tg:name "Valinor"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Valin%C3%B3r%C3%AB%27%27_%28Quenya> ;
+    tg:population <http://localhost:8000/resource/Valar%2C_Maiar%2C_Vanyar%2C_Noldor> ;
+    tg:precededby <http://localhost:8000/resource/Almaren> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:regions <http://localhost:8000/resource/Halls_of_Mandos%2C_Gardens_of_L%C3%B3rien%2C_Pastures_of_Yavanna%2C_Woods_of_Orom%C3%AB%2C_Taniquetil> ;
+    tg:towns <http://localhost:8000/resource/Valimar%2C_Ilmarin> .
+
+<http://localhost:8000/resource/Waw> a schema:Place ;
+    tg:event1 "Settled"@en ;
+    tg:event1date <http://localhost:8000/resource/1st-2nd_C._Second_Age> ;
+    tg:event2 "Reconquered by Dwar"@en ;
+    tg:event2date "{{SA|1982}}"@en ;
+    tg:event3 "Independence from Lóchas Drûs"@en ;
+    tg:event3date "{{TA|1617}}"@en ;
+    tg:govern1 "Council of Elders <small>(traditional)</small>"@en ;
+    tg:govern2 "Dog-king <small>(after {{SA|1982}})</small>"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:location <http://localhost:8000/resource/Near_L%C3%B3chas_Dr%C3%BBs> ;
+    tg:map <http://localhost:8000/resource/File%3AMap_of_L%C3%B3chas_Dr%C3%BBs_and_Waw.jpeg> ;
+    tg:name "Waw"@en ;
+    tg:othernames "Isle of Dogs"@en ;
+    tg:population "Wôlim"@en ;
+    tg:settlements "Horm"@en .
+
+<http://localhost:8000/resource/Westmarch> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Undertowers> ;
+    tg:caption <http://localhost:8000/resource/%22Fairbairn_family> ;
+    tg:event1 <http://localhost:8000/resource/Gifted_to_the_Shire> ;
+    tg:event1date "{{FoA|31}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/Warden_of_Westmarch> ;
+    tg:image "Miriam Ellis - The Fairbairns of Westmarch.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Hobbitish> ;
+    tg:location <http://localhost:8000/resource/Western_Eriador%2C_between_the_Far_Downs_and_the_Tower_Hills> ;
+    tg:name "Westmarch"@en ;
+    tg:population <http://localhost:8000/resource/Hobbits> .
+
+<http://localhost:8000/resource/Woodland_Realm> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/The_Elvenking%27s_Halls_from_the_early_Third_Age> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date <http://localhost:8000/resource/%7B%7BSA> ;
+    tg:govern1 <http://localhost:8000/resource/Oropher> ;
+    tg:govern2 <http://localhost:8000/resource/Later_Thranduil> ;
+    tg:image "Alan Lee - Gandalf's Farewell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Silvan_Elvish%2C_Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Various_locations_within_Greenwood_the_Great%3B_by_the_end_of_the_Third_Age%2C_they_settled_in_the_far_northeast_of_the_Greenwood_the_Great> ;
+    tg:name "Woodland Realm"@en ;
+    tg:othernames <http://localhost:8000/resource/Northern_Mirkwood%3Cref_group%3D%22note%22%3EThough_geographically_%22Northern_Mirkwood%22_might_refer_to_a_wide_tract_of_the_Greenwood> ;
+    tg:population <http://localhost:8000/resource/Elves_of_Mirkwood> .
+
+<http://localhost:8000/resource/Eregion> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Ost-in-Edhil> ;
+    tg:caption <http://localhost:8000/resource/%22The_Fellowship_in_Hollin%22_by_Donato_Giancola> ;
+    tg:event1 "Foundation"@en ;
+    tg:event1date "{{SA|750}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Three_Rings_made> ;
+    tg:event2date "{{SA|1590}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Sack_of_Eregion> ;
+    tg:event3date "{{SA|1697}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Rivendell> ;
+    tg:govern1 <http://localhost:8000/resource/Lord_of_Eregion> ;
+    tg:image "Donato Giancola - The Fellowship in Hollin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Sindarin> ;
+    tg:location <http://localhost:8000/resource/The_far_southeast_of_Eriador%2C_directly_to_the_west_of_Khazad-d%C3%BBm> ;
+    tg:name "Eregion"@en ;
+    tg:othernames "Hollin"@en ;
+    tg:population <http://localhost:8000/resource/Elves_of_Eregion> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> .
+
+<http://localhost:8000/resource/Gondolin> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Gondolin%22_by_Alan_Lee> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{FA|64}}"@en ;
+    tg:event2 "Constructed"@en ;
+    tg:event2date "{{FA|116}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Fall_of_Gondolin> ;
+    tg:event3date "{{FA|510}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Gondolin> ;
+    tg:image "Alan Lee - Gondolin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Quenya> ;
+    tg:location <http://localhost:8000/resource/North_of_Beleriand%3B_in_Tumladen%2C_surrounded_by_the_Echoriad> ;
+    tg:name "Gondolin"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ondolind%C3%AB%27%27_%28Quenya> ;
+    tg:population <http://localhost:8000/resource/Gondolindrim> ;
+    tg:precededby <http://localhost:8000/resource/Nevrast> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> .
+
+<http://localhost:8000/resource/Lindon> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Lindon%22_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:event1 "Foundation"@en ;
+    tg:event1date "{{SA|1}}<ref name=SA>{{App|SA}}</ref>"@en ;
+    tg:govern1 <http://localhost:8000/resource/Gil-galad> ;
+    tg:govern2 <http://localhost:8000/resource/Later_C%C3%ADrdan> ;
+    tg:image "Matěj Čadil - Lindon.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Nandorin%2C_Quenya%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/West_of_the_Blue_Mountains> ;
+    tg:name "Lindon"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ossiriand%27%27%3B_the_remnant_was_known_as_Lindon_after_the_First_Age> ;
+    tg:population <http://localhost:8000/resource/Elves_of_Lindon> ;
+    tg:precededby <http://localhost:8000/resource/Ossiriand> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:regions <http://localhost:8000/resource/Forlindon%2C_Harlindon> ;
+    tg:towns <http://localhost:8000/resource/Mithlond%2C_Forlond%2C_Harlond_%28Lindon%29> .
+
+<http://localhost:8000/resource/Moria> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22The_Eastern_Arches%22_by_Alan_Lee> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "Between {{YT|1050}}<br>and {{YT|1300}}<ref name=Sindar>{{S|Sindar}}</ref>"@en ;
+    tg:event2 "Abandoned"@en ;
+    tg:event2date "{{TA|1981}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Reclaimed_by_Balin> ;
+    tg:event3date "{{TA|2989}}"@en ;
+    tg:event4 "Colony destroyed"@en ;
+    tg:event4date "{{TA|2994}}"@en ;
+    tg:event5 "Refounded"@en ;
+    tg:event5date "After {{FoA|171}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Lonely_Mountain> ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Khazad-d%C3%BBm> ;
+    tg:govern2 <http://localhost:8000/resource/Lord_of_Moria_%28%7B%7BTA> ;
+    tg:image "Alan Lee - The Eastern Arches.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Middle_of_the_Misty_Mountains%2C_beneath_Celebdil%2C_Caradhras_and_Fanuidhol> ;
+    tg:name "Moria"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Khazad-d%C3%BBm%27%27_%28Khuzdul> ;
+    tg:population <http://localhost:8000/resource/Primarily_Dwarves_of_Khazad-d%C3%BBm> .
+
+<http://localhost:8000/resource/Nargothrond> a schema:Place ;
+    tg:capital "Nargothrond"@en ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{FA|52}}"@en ;
+    tg:event2 "Constructed"@en ;
+    tg:event2date "{{FA|102}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Fall_of_Nargothrond> ;
+    tg:event3date "{{FA|495}}"@en ;
+    tg:govern1 <http://localhost:8000/resource/King_of_Nargothrond> ;
+    tg:image "Jonathan Guzi - Nargothrond.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Quenya> ;
+    tg:location <http://localhost:8000/resource/West_Beleriand> ;
+    tg:name "Nargothrond"@en ;
+    tg:population <http://localhost:8000/resource/Elves_of_Nargothrond> ;
+    tg:precededby <http://localhost:8000/resource/Nulukkizd%C3%AEn> ;
+    tg:regions <http://localhost:8000/resource/Taur-en-Faroth%3Cbr/%3ETalath_Dirnen_%28shared_with_Dor-C%C3%BAarthol%3Cbr/%3ETumhalad> .
+
+<http://localhost:8000/resource/Nevrast> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Vinyamar> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "After {{YT|1497}}"@en ;
+    tg:event2 "Abandoned"@en ;
+    tg:event2date "{{FA|116}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Gondolin> ;
+    tg:govern1 <http://localhost:8000/resource/Turgon> ;
+    tg:image "Christopher Tolkien - Nevrast.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Quenya> ;
+    tg:location <http://localhost:8000/resource/West_Beleriand%2C_south-west_of_Hithlum> ;
+    tg:name "Nevrast"@en ;
+    tg:population <http://localhost:8000/resource/Noldor/Sindarin_Elves> .
+
+<http://localhost:8000/resource/Nulukkizd%C3%AEn> a schema:Place ;
+    tg:followedby <http://localhost:8000/resource/Nargothrond> ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Khuzdul> ;
+    tg:location <http://localhost:8000/resource/At_the_confluence_of_the_Ringwil_and_the_Narog> ;
+    tg:name "Nulukkizdîn"@en ;
+    tg:population <http://localhost:8000/resource/Petty-dwarves> .
+
+<http://localhost:8000/resource/Ossiriand> a schema:Place ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{YT|1350}}"@en ;
+    tg:event2 <http://localhost:8000/resource/Arrival_of_Beren_and_L%C3%BAthien> ;
+    tg:event2date "{{FA|469}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Destruction_of_Beleriand> ;
+    tg:event3date "{{FA|587}}"@en ;
+    tg:event4 <http://localhost:8000/resource/Foundation_of_Lindon> ;
+    tg:event4date "{{SA|1}}<ref name=Rings>{{S|Rings}}</ref>"@en ;
+    tg:followedby <http://localhost:8000/resource/Lindon> ;
+    tg:govern1 <http://localhost:8000/resource/Denethor_%28son_of_Lenw%C3%AB%29> ;
+    tg:image "Christopher Tolkien - Ossiriand.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Nandorin%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Eastern_Beleriand%2C_between_the_Ered_Luin_and_Gelion> ;
+    tg:name "Ossiriand"@en ;
+    tg:othernames <http://localhost:8000/resource/Land_of_Seven_Rivers%2C_Lindon> ;
+    tg:population <http://localhost:8000/resource/Green-elves> ;
+    tg:regions <http://localhost:8000/resource/Dor_Firn-i-Guinar> .
+
+<http://localhost:8000/resource/Realms_in_Exile> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/%27%27%27Arnor%27%27%27%3Cbr%3EAnn%C3%BAminas%2C_later_Fornost%3Cbr_/%3E%27%27%27Gondor%27%27%27%3Cbr%3EOsgiliath%2C_later_Minas_Tirith> ;
+    tg:caption <http://localhost:8000/resource/%22The_Pillars_of_the_Kings%22_by_Ted_Nasmith> ;
+    tg:currency <http://localhost:8000/resource/tharni%2C_castar%3Cref%3E%7B%7BPM> ;
+    tg:event1 "Established"@en ;
+    tg:event1date "{{SA|3320}}"@en ;
+    tg:event2 "Divided"@en ;
+    tg:event2date "{{TA|2}}"@en ;
+    tg:event3 "Attempt to reunify"@en ;
+    tg:event3date "{{TA|1944}}"@en ;
+    tg:event4 "Reunited"@en ;
+    tg:event4date <http://localhost:8000/resource/1_May%2C_%7B%7BTA> ;
+    tg:govern1 <http://localhost:8000/resource/High_King_%28D%C3%BAnedain%29> ;
+    tg:holiday <http://localhost:8000/resource/Cormar%C3%AB> ;
+    tg:image "Ted Nasmith - The Pillars of the Kings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_N%C3%BAmen%C3%B3rean_Sindarin%2C_Quenya%2C_Hobbitish> ;
+    tg:location <http://localhost:8000/resource/Arnor_and_Gondor> ;
+    tg:name "Realms in Exile"@en ;
+    tg:othernames "Kingdoms of the Dúnedain, Númenórean Realms, Two Kingdoms<ref>{{VT|42a}}, p. 6</ref>"@en ;
+    tg:population <http://localhost:8000/resource/Men_of_Arnor%2C_Gondorians%2C_Hobbits%2C_Bree-land> ;
+    tg:precededby <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:regions <http://localhost:8000/resource/%27%27%27Arnor%27%27%27%3Cbr%3EArthedain%2C_Cardolan%2C_Rhudaur%2C_Shire%3Cbr%3E%27%27%27Gondor%27%27%27%3Cbr%3EAnfalas%2C_An%C3%B3rien%2C_Belfalas%2C_Dorwinion%2C_Enedwaith_%28shared_with_Arnor%29%2C_Ithilien%2C_Lamedon%2C_Lebennin%2C_Lossarnach%2C_South_Gondor> ;
+    tg:towns <http://localhost:8000/resource/%27%27%27Arnor%27%27%27%3Cbr%3EBree%2C_Fornost_Erain%2C_Michel_Delving%2C_Tharbad%3Cbr%3E%27%27%27Gondor%27%27%27%3Cbr%3ECalembel%2C_Dol_Amroth%2C_Erech%2C_Linhir%2C_Pelargir%2C_Umbar> .
+
+<http://localhost:8000/resource/Rivendell> a schema:Place ;
+    tg:caption <http://localhost:8000/resource/%22Rivendell%22_by_J.R.R._Tolkien> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{SA|1697}}"@en ;
+    tg:event2 <http://localhost:8000/resource/First_Siege_of_Imladris> ;
+    tg:event2date "{{SA|1697}} - {{SA|1700|n}}"@en ;
+    tg:event3 <http://localhost:8000/resource/Second_Siege_of_Imladris> ;
+    tg:event3date "c. TA 1400"@en ;
+    tg:event4 <http://localhost:8000/resource/Council_of_Elrond> ;
+    tg:event4date <http://localhost:8000/resource/25_October%2C_%7B%7BTA> ;
+    tg:event5 "Abandoned"@en ;
+    tg:event5date "By {{FoA|120}}<ref name=\"Tale\">{{App|Tale}}</ref>"@en ;
+    tg:govern1 <http://localhost:8000/resource/Lord_of_Rivendell> ;
+    tg:image "J.R.R. Tolkien - Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/A_hidden_valley_beneath_the_western_Misty_Mountains_in_Eriador> ;
+    tg:name "Rivendell"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Imladris%27%27_%28Sindarin> ;
+    tg:population <http://localhost:8000/resource/Primarily_Elves> ;
+    tg:precededby <http://localhost:8000/resource/Eregion> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> .
+
+<http://localhost:8000/resource/Reunited_Kingdom> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Ann%C3%BAminas_%28Arnor%29%3Cbr%3EMinas_Tirith_%28Gondor%29%3Cref_name%3D%22Elendil%22%3E%7B%7BPM> ;
+    tg:currency <http://localhost:8000/resource/tharni%2C_castar%3Cref%3E%7B%7BPM> ;
+    tg:event1 "Established"@en ;
+    tg:event1date <http://localhost:8000/resource/1_May%2C_%7B%7BTA> ;
+    tg:govern1 <http://localhost:8000/resource/High_King_%28D%C3%BAnedain%29> ;
+    tg:govern2 <http://localhost:8000/resource/Council_of_Gondor%3Cref_name%3D%22politics%22/%3E> ;
+    tg:holiday <http://localhost:8000/resource/Cormar%C3%AB> ;
+    tg:image "Sage - Reunited Kingdom.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_N%C3%BAmen%C3%B3rean_Sindarin%2C_Quenya%2C_Hobbitish> ;
+    tg:location <http://localhost:8000/resource/Arnor_and_Gondor%3Cref_name%3D%22Appendix_A_Third_Line%22%3E%7B%7BApp> ;
+    tg:name "Reunited Kingdom"@en ;
+    tg:population <http://localhost:8000/resource/Primarily_Men_%28many_Hobbits_in_the_Shire_and_Bree-land%29> ;
+    tg:precededby <http://localhost:8000/resource/Arnor%2C_Gondor> ;
+    tg:regions <http://localhost:8000/resource/%27%27%27Arnor%27%27%27%3Cbr%3EArthedain%2C_Cardolan%2C_Rhudaur%3Cbr%3E%27%27%27Gondor%27%27%27%3Cbr%3EAnfalas%2C_An%C3%B3rien%2C_Belfalas%2C_Dorwinion%2C_Enedwaith_%28shared_with_Arnor%29%2C_Ithilien%2C_Lamedon%2C_Lebennin%2C_Lossarnach%2C_South_Gondor> ;
+    tg:towns <http://localhost:8000/resource/%27%27%27Arnor%27%27%27%3Cbr%3EBree%2C_Bywater%2C_Fornost_Erain%2C_Hobbiton%2C_Michel_Delving%2C_Tuckborough%3Cbr%3E%27%27%27Gondor%27%27%27%3Cbr%3ECalembel%2C_Dol_Amroth%2C_Erech%2C_Linhir%2C_Pelargir%2C_Umbar> .
+
+<http://localhost:8000/resource/Arnor> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Ann%C3%BAminas%2C_later_Fornost_Erain> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{SA|3320}}"@en ;
+    tg:event2 "Divided"@en ;
+    tg:event2date "{{TA|861}}"@en ;
+    tg:event3 "Abandoned"@en ;
+    tg:event3date "{{TA|1974}}"@en ;
+    tg:event4 "Re-formed"@en ;
+    tg:event4date <http://localhost:8000/resource/1_May%2C_%7B%7BTA> ;
+    tg:followedby <http://localhost:8000/resource/Reunited_Kingdom> ;
+    tg:govern1 <http://localhost:8000/resource/Kings_of_Arnor> ;
+    tg:govern2 "Council of Arnor"@en ;
+    tg:image "Stephen_Raw_-_Middle-earth_map_(1_of_4).png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin%2C_Quenya%2C_Hobbitish> ;
+    tg:location <http://localhost:8000/resource/Most_of_Eriador> ;
+    tg:name "Arnor"@en ;
+    tg:othernames "Kingdom of the North, the Lost Realm, the North-kingdom, the Northern Kingdom, the North-realm"@en ;
+    tg:population <http://localhost:8000/resource/Arnorians%3Cbr%3EMiddle_Men%3Cbr%3EHobbits%3Cbr%3EFew_Elves> ;
+    tg:precededby <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:regions <http://localhost:8000/resource/Arthedain%2C_Cardolan%2C_Rhudaur> ;
+    tg:towns <http://localhost:8000/resource/Lond_Daer%2C_Tharbad%2C_Bree%2C_Hobbiton> .
+
+<http://localhost:8000/resource/N%C3%BAmenor> a schema:Place ;
+    tg:capital <http://localhost:8000/resource/Armenelos> ;
+    tg:event1 "Founded"@en ;
+    tg:event1date "{{SA|32}}"@en ;
+    tg:event2 "Destroyed"@en ;
+    tg:event2date "{{SA|3319}}"@en ;
+    tg:followedby <http://localhost:8000/resource/Realms_in_Exile> ;
+    tg:govern1 <http://localhost:8000/resource/King_of_N%C3%BAmenor> ;
+    tg:govern2 <http://localhost:8000/resource/Council_of_the_Sceptre> ;
+    tg:holiday <http://localhost:8000/resource/Three_Prayers%3A%3Cbr_/%3EErukyerm%C3%AB%2C_Erulaital%C3%AB%2C_Eruhantal%C3%AB> ;
+    tg:image "John Howe - Numenor.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/kingdom> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_N%C3%BAmen%C3%B3rean_Sindarin%2C_Quenya> ;
+    tg:location <http://localhost:8000/resource/In_Belegaer%2C_between_Middle-earth_and_Aman> ;
+    tg:name "Númenor"@en ;
+    tg:othernames <http://localhost:8000/resource/Westernesse%3Cbr%3E%27%27N%C3%BAmen%C3%B3r%C3%AB%27%27%2C_%27%27Andor%27%27%2C_%27%27Elenna%27%27_%28Quenya> ;
+    tg:population <http://localhost:8000/resource/Primarily_N%C3%BAmen%C3%B3reans_%28Few_Dr%C3%BAedain_briefly_lived_on_the_island%29> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:regions <http://localhost:8000/resource/Forostar%2C_Andustar%2C_Hyarnustar%2C_Hyarrostar%2C_Orrostar%2C_Mittalmar%2C_Emeri%C3%AB%2C_N%C3%ADsimaldar> ;
+    tg:towns <http://localhost:8000/resource/And%C3%BAni%C3%AB%2C_Eldalond%C3%AB%2C_R%C3%B3menna%2C_Ondosto%2C_Nindamos> .
+

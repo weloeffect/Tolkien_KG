@@ -1,0 +1,26 @@
+{{disambig-more|Hengest|[[Hengest and Horsa (disambiguation)]]}}
+{{Poem infobox
+| title=Hengest
+| other names=
+| written=Probably around [[April]] of [[1930]]
+| revised=
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Hengest and Horsa|Hengest]], ''[[Finn and Hengest: The Fragment and the Episode|Finn and Hengest]]''
+}}
+'''''Hengest''''' is a poem written by [[J.R.R. Tolkien]] about [[Hengest and Horsa|Hengest]], one of the two legendary leaders of the Anglo-Saxon invasion of Britain in the [[wikipedia:5th century|5th century AD]]<ref>{{LT1|In}}, pp. 23-4</ref>. The poem was possibly written around April of 1930, when Tolkien gave his earliest lecture on ''Finn and Hengest''. The poem was published for the first time as entry 118 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems>{{CP|118}}</ref>
+
+== First stanza ==
+<poem style="font-style:italic; margin-left:20px;">
+:O mighty sun, who hath thee now in thrall?
+:The wind is keen and snow is over all,
+:the sea is frozen and the waves stand still,
+:and ships are idle, and my heart is chill.<ref name=collectedpoems/></poem>
+
+== Etymology ==
+''Hengest'' is a name in [[Old English]] meaning "stallion".<ref name=etymology>{{PE|15}}, "[[Early Runic Documents]]", p. 91</ref>
+
+{{References}}
+{{poems}}
+
+[[Category:Old English names]]
+[[Category:Poems by J.R.R. Tolkien]]

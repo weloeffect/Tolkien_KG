@@ -1,0 +1,246 @@
+{{rewrite}}
+{{sources}}
+{{race infobox
+| name=Orcs
+| image = John Howe - In Mordor.jpg
+| caption="In Mordor" by [[John Howe]]
+| pronun=
+| othernames=Goblins, Stonefaces,<ref name=monstersnote>{{MC|6}}, p. 220 (note 11)</ref> ''Orkor'' ([[Quenya|Q]]) or ''Yrch'' ([[Sindarin|S]]), ''[[Glamhoth]]'' ([[Sindarin|S]]), ''Rakhās'' ([[Khuzdul|K]])
+| origin=Disputed; ''see [[Orcs/Origin]]''
+| location=[[Utumno]], [[Angband]], [[Mordor]], [[Misty Mountains]],  [[Angmar]], [[Mount Gundabad]], [[High Pass]], [[Dol Guldur]], [[Isengard]], [[Rhûn]]
+| affiliation=[[Morgoth]], [[Sauron]]
+| rivalry=[[Free peoples|Free Peoples of Middle-earth]]
+| language=[[Black Speech]]; numerous [[Orkish]] languages; corrupted [[Westron]]
+| people=[[Uruk-hai]], [[Goblin-men]], [[Half-orcs]], [[Hobgoblins]], [[Orcs of the Misty Mountains|Mountain Orcs]], [[Eastern Orcs]], [[Orcs of Mordor|Mordor Orcs]], [[Orcs of Isengard|Isengard Orcs]]
+| members=[[Othrod]], [[Azog]], [[Bolg]], [[Gorbag]], [[Great Goblin]], [[Grishnákh]]
+| lifespan=Compared to [[Men]] without a [[Númenóreans|Númenórean]] ancestry (some breeds, at least)<ref name="Myths_X"/>{{rp|418}}
+| distinctions=Evil footsoldiers of the [[Dark Lord|Enemy]]; preferred darkness
+| height=Short<ref>{{FR|II5}} The "huge" orc-chieftain is described as "almost man high"</ref>
+| hair=
+| skin=Sallow,<ref name="L|210">{{L|210}}</ref> black<ref>{{RK|Shadow}}</ref>
+| clothing=
+| weapons=
+}}
+{{Quote|You must dig swift and deep, if you wish to hide from Orcs.|[[Legolas]] to [[Pippin]] in ''[[The Fellowship of the Ring]]'', "[[Lothlórien (chapter)|Lothlórien]]"}}
+
+'''Orcs''' (or Orcses<ref name=Passage>{{TT|IV2}}</ref> ) were a race of humanoid creatures best known for their service as footsoldiers and slaves to the [[Dark Lord]]s of Middle-earth. Even when not in thralldom to an evil master, Orcs rarely if ever had non-violent interactions with [[Elves]], [[Men]], or [[Dwarves]]. They were known by many names by the various peoples of Middle-earth.
+
+Elves considered the Orcs as the [[Incarnate|Incarnate creatures]] just like themselves, Men, Dwarves,<ref name="Myths_X">{{MR|P5X}}</ref>{{rp|415}}<ref>{{WJ|Quendi}}</ref>{{rp|359}} and [[Ents]].<ref>{{NM|Impulse}}</ref>
+
+==History==
+===First Age===
+{{Main|Orcs/Origin}}
+[[File:Anna Kulisz - The vilest deed of Melkor.jpg|thumb|left|''The vilest deed of Melkor'' by [[:Category:Images by Anna Kulisz|Anna Kulisz]]]]
+The true origin of the Orcs as a race of sentient creatures was a matter of heavy debate among the [[Wise]] and [[Lambengolmor|loremasters]] of [[Tol Eressëa|Eressëa]]. However, all agreed that they would not have come to be without the [[Arda Marred|corrupting]] influence of [[Morgoth]].<ref>{{App|Other}}, p. 1131</ref>
+
+The first documented appearance of Orcs was in {{YT|1330}}, when the [[Sindar]] observed a variety of "evil creatures" roaming [[Beleriand]] that included Orcs, [[Wolves]], and "other fell beings of shadow." Small numbers of these evil creatures, thought to be scouting parties, had entered Beleriand over passes in the mountains as well as through the southern forests. In light of this new threat, [[Thingol]] commissioned the Dwarves of [[Nogrod]] and [[Belegost]] to craft arms for the Sindar, which they used to drive away the evil creatures and restore the peace.<ref>{{GA|26-27}}</ref> Around this time the Dwarves told the Sindar that these "fell beasts" came from the ruins of [[Angband]], and that they could also be found east of the [[Blue Mountains]], where they troubled the Elves who dwelt there.<ref>{{GA|25}}</ref> 
+
+When the first [[Dark Lord]] returned to Middle-earth in {{YT|1495}}, he rebuilt Angband from ruins and raised the triple peaks of [[Thangorodrim]] to defend it. At this time, Morgoth found fresh hosts readied by Sauron, for the Orcs had kept breeding under the command of his yet-devoted lieutenant.<ref name="Myths_X" />{{rp|415–422}} The Enemy's hordes of beasts, [[demons]], and Orcs left Angband in {{YT|1497}} to assault the Sindar in the [[First Battle of Beleriand]] and the Noldor in the [[Dagor-nuin-Giliath]]. The Elves were victorious in both battles, and few of the Orcs returned to Angband.<ref>{{S|Sindar}}</ref> The Orcs' other major engagement was the [[Battle of the Lammoth]], where they were also defeated by [[Fingolfin]] and his host.<ref>{{PM|Shibboleth}}, p. 345</ref>
+
+During the last six centuries of the [[First Age]], as the core force of Morgoth, hundreds of thousands of Orcs were bred in [[Angband]] to participate in the [[Battles of Beleriand]] and thus fought in the [[Dagor Aglareb]], [[Dagor Bragollach]], [[Nirnaeth Arnoediad]], [[Fall of Nargothrond|Sack of Nargothrond]], [[Fall of Gondolin]], and finally in the [[War of Wrath]], where they were almost extinguished.<ref>{{S|Earendil}}</ref> Those that survived the defeat of Morgoth fled east of the Blue Mountains and hid probably in the northern reaches of the [[Misty Mountains|Hithaeglir]] near [[Angmar]] or the [[Grey Mountains]].
+[[File:John Howe - Orc Swordsman.jpg|thumb|''Orc Swordsman'' by [[John Howe]]]]
+Nonetheless, even before this time, the [[Eastern Orcs|Orcs living east]] remained outside Morgoth's reach ever since he made the fortress of Angband a seat of his power and thus ruled themselves, though they squabbled amongst themselves as much as they troubled both kinds of the [[Children of Ilúvatar]].<ref name="Cuv">{{NM|P3xviii}}, p. 370</ref>
+
+===Second Age===
+After the [[War of Wrath]], numerous Orcs who formerly belonged to Morgoth and escaped Morgoth's vanquishment, were now leaderless and reckless, but still armed and cruel. They turned to [[Rhovanion]] to the East and started harassing the lands occupied by [[Dwarves]] and [[Northmen]].<ref>{{PM|XNotes}} #28</ref> To cope with this danger, the two formed the [[Alliance of Dwarves and Men]]<ref name="relations">{{PM|Relations}}</ref>
+
+Around the year {{SA|1000}} Sauron reappeared, took the land of [[Mordor]] as his realm and started the construction of [[Barad-dûr]]. His servants among Orc-kind were at this time of northern stock. It was not only until later that he gathered all of their foul race under his command - as long as he went among the Elves in a fair visage, the long-autonomous [[Eastern Orcs]] resented him.<ref name="Cuv">{{NM|P3xviii}}, p. 370</ref>  Still for a long time Sauron's minions did not play an important role, for the Dark Lord had chosen a more subtle way to bring the Free Peoples under his sway through guileful trickery, whose chief personification were the [[Rings of Power]].
+
+When Sauron invaded [[Eriador]] in {{SA|1695}}, hordes of Orcs invaded the mountains again. [[Gundabad]] was [[Fall of Mount Gundabad|taken]] and [[Ered Mithrin]] was raided. It was not only Orcs the Alliance fought but also other savage [[Easterlings]].<ref name="relations" />
+
+During the [[War of the Elves and Sauron]], in {{SA|1700}}, Orcs formed the main power of Sauron's host. Despite the immeasurable number of Orcs, the Dark Lord was defeated by the united hosts of Elves and [[Númenóreans]]. Still Sauron was powerful east of the [[Misty Mountains]] and the Orcs that inhabited the mountains and the eastern lands multiplied.
+
+When Sauron was finally driven back from Eriador in {{SA|1701}}, the Alliance ended. The Longbeards [[Dwarves of Moria|of Khazad-dûm]] and [[Dwarves of the Iron Hills|of the Iron Hills]] were cut off for some time since the Orcs now infested the Grey Mountains.<ref name="relations" /><ref>{{PM|Dwarves}}, p. 305</ref>
+
+Finally, Orcs were the core force of the Dark Lord's legions during the [[War of the Last Alliance]], and fought in great battles such as the [[Battle of Dagorlad]] and the [[Siege of Barad-dûr]].
+
+===Third Age===
+[[File:Richard Sullivan - Orc.jpg|thumb|left|''Orc'' by [[:Category:Images by Richard Sullivan|Richard Sullivan]]]]
+During the [[Third Age]], Orcs were once more the standard troops of Sauron, both in [[Mordor]] and in [[Dol Guldur]]. The Enemy's great vassals- such as the [[Witch-king of Angmar]] and the corrupted [[Wizard]] [[Saruman]] in [[Isengard]] - made use of the Orcs as the backbone of their forces.  
+
+In [[Angmar]], Orcs fought for the Witch-king in [[Angmar War|his campaign]] against the realm of [[Arnor]]. Years later, they invaded [[Eriador]] under the remote leadership of the Necromancer (Sauron). 
+
+The Orcs of the Misty Mountains, one of the few Orkish societies who enjoyed more autonomy despite still paying homage to the Necromancer (Sauron), and their chieftain [[Azog]] started out the [[War of the Dwarves and Orcs]], and after their vanquishment they retreated in their caves. They appeared again in {{TA|2941}}, when the [[Battle of Five Armies]] took place, suffering yet another terrible defeat with the loss of the spawn of Azog, [[Bolg]]. 
+
+Both for the Dark Lord's war on [[Rohan]] and for his own interests regarding the [[Ring-bearer]], the Wizard Saruman began to assemble Orcs into his own army in [[Isengard]] - these troops were gathered from amidsts the tribes of the Misty Mountains, which were supplemented by others he bred, some being crossed with Men. The [[Orcs of Isengard]] fought in the early-mid battles of the [[War of the Ring]], such as the [[First Battle of the Fords of Isen|First]] and [[Second Battle of the Fords of Isen|Second Battles of the Fords of Isen]], but were crushed or scattered at the [[Battle of the Hornburg]]. 
+
+The [[Orcs of Mordor]] fought in major battles during the War of the Ring, such as the [[Battle of the Pelennor Fields]], but the majority of Mordor's forces were destroyed or scattered at the [[Battle of the Morannon]]. Sporadic fighting in the following weeks led to the Orcs finally being driven out of the western end of Mordor, though it is unclear how many Orcs the Dark Lord had in his armies, and it is also unclear how many survived after his defeat. 
+
+The Orcs in [[Dol Guldur]] remained in [[Mirkwood]] until the [[Fall of Dol Guldur]], one of the last battles of the War of the Ring.
+
+===Later history===
+The fate of the Orcs after the Third Age is unknown. Though many of the Dark Lord's footsoldiers fought on and were slain in the weeks following the Battle of the Morannon, the true number of Sauron's hosts is unclear, as are the numbers of Orcs not within Mordor that may still inhabit the rest of Middle-earth. It is at least known that the Orcs of Moria either fled or were slain by the Fourth Age, as it is mentioned that the Dwarves managed to retake Moria and the mines within it.
+
+==Characteristics==
+===Culture===
+[[File:Jan Pospíšil - Orc Army.jpg|thumb|''Orc Army'' by [[:Category:Images by Jan Pospíšil|Jan Pospíšil]]]]
+Orcs were pitiless and took pleasure in all kinds of cruel and wicked acts; they did evil deeds for their own amusement, purely for the sport of it. Their fractious and vicious natures made them unreliable servants – when outside their master's reach, Orcs would often disobey their commands or fight amongst themselves, to the detriment of their master's designs.<ref name="Myths_X" />{{rp|418}}
+
+In battle, Orcs fought with reckless ferocity and delighted in the slaughter and torture of their foes. However, many had a cowardly nature and were often regarded as inferior to the soldiers of Men, Elves, and Dwarves, though far more expendable.{{fact}} Orcs also proved themselves adept at taming and riding [[Wolves]] and [[Wargs]], an ability harnessed by the Dark Lords for their armies.
+
+The corruption inherent to Orc being made them virtually powerless to resist the domination of a greater will – at first, this was Morgoth's, later Sauron's. While under such domination, Orcs were reduced to an "ant-like life." This was most plainly seen under Sauron's tyranny, as he operated on a smaller scale than did Morgoth and his foes were far weaker than the Noldor of the Elder Days.<ref name="Myths_X" />{{rp|419}} The Orkish people thus cycled between periods of unity when they had a Dark Lord to unite them, and disunity when there was no Dark Lord. 
+
+After the War of Wrath, the Orcs were confused and dismayed without Morgoth, and were easily scattered by their enemies. In the millennia after his defeat and banishment from Arda, they were without a leader and degenerated into small, quarrelsome tribes hiding in wild places, such as the [[Misty Mountains]] and the [[Mountains of Angmar]]. In this state, Orcs remained a threat to travelers and isolated settlements, and when united could pose a regional threat, but without a unifying will they could never become the menace they were under a Dark Lord.
+
+Even when united, the Orcs were consumed with petty rivalries and hatreds. Each time he rose as Dark Lord, Sauron had to contend with many tribes of "wild" Orcs who spoke many tongues and had become accustomed to independence. To meld these disparate, mutually despised groups into a coherent force and prevent them from slaying each other, Sauron had to keep their hatred focused on an outside enemy: the Men and Elves of the West. In this he was highly successful: the Orcs he pressed into his direct service in his trained armies were so completely dominated by his will that they would die for him on command without hesitation.<ref name="Myths_X" />{{rp|420}}
+
+===Lifespan===
+Orcs appear to have been by nature short-lived compared with the span of Men of higher race, such as the Edain. This was not well understood in the Elder Days however, as Morgoth had many immortal [[Maiar]] servants and those whose business it was to direct the Orcs would assume similar bodily shape, though greater and more terrible. That gave rise to histories which speak of Great Orcs, or Orc-captains which were not slain and reappeared in battle for years far longer than the lifespan of Men.<ref name="Myths_X" />{{rp|523}}
+
+There is, in any case, a hint for a long lifespan in the story of two of the most famous Orc-chieftains: Azog and Bolg. Bolg, being the son of Azog, was the chieftain of the Orcs who attacked Erebor in the Battle of Five Armies in {{TA|2941}}. Azog himself was killed in the Battle of Azanulbizar in {{TA|2799}}, so Bolg was at least 142 years old.
+
+===Appearance===
+Orcs were described as smaller in stature than Men on average, strong but crooked in frame and bow-legged. One "huge orc-chieftain" was described as "almost Man-high", but some must have been of a similar size to Hobbits (Frodo and Sam succeeded in disguising themselves as Orcs in Mordor). Their overall appearance varied: they had long arms and fanged mouths; Tolkien describes them as "swart" or "sallow", although one in Mordor is "black-skinned" and others are described generally as "black" (possibly not a reference to skin colour).
+
+Orkish blood's colour was probably black.<ref>{{H|Burst}}: "''The rocks were stained black with goblin blood.''"</ref>
+
+===Abilities & Behavior===
+Orcs of the mountains would often not venture very far from their homes unless they had to look for new homes, went to war or went on raids to get food or slaves. In such raids they would often obtain the help of Wargs with whom they then shared the plunder.<ref name="Pan">{{H|Pan}}</ref>
+
+Orcs made no works of beauty, but created many clever things. When they took the trouble they were capable at tunneling and mining, surpassed only by the most skilled Dwarves, but they were usually dirty and untidy.<ref>{{H|Hill}}</ref> Orcs were unafraid of fire<ref name="Pan" /> but shunned water and did not willingly go near the sea except in great need.<ref>{{S|Beleriand}}</ref>
+
+===Kinds of Orcs===
+*[[Eastern Orcs]]
+*[[Snaga]]
+*[[Orc-hunters]]
+*[[Orcs of Mordor]]
+*[[Orcs of the Misty Mountains]]
+*[[Orcs of Isengard]]
+*[[Half-orcs]] (and [[Goblin-men]])
+*[[Uruk-hai]]
+*[[Hobgoblins]]
+
+===Orcs and goblins===
+[[File:Darek Zabrocki - Goblins.jpg|thumb|250px|''Goblins'' by [[:Category:Images by Darek Zabrocki|Darek Zabrocki]]]]
+The term ''goblin'' was used primarily in ''[[The Hobbit]]'' but also in ''[[The Lord of the Rings]]'' where it is used synonymously with "Orc".<ref>{{HM|RC}}, p. 24</ref> It is said to be a translation of ''Orc'' in a note on languages and runic letters in ''[[The Hobbit]]''.
+{{blockquote|Orc is not an English word. It occurs in one or two places but is usually translated goblin|''[[The Hobbit]]''}}
+{{blockquote|There were four goblin-soldiers of greater stature [...] Upon their shields they bore [...] a small white hand in the centre of the black field|''[[The Two Towers]]'', "[[The Departure of Boromir]]"}}
+
+==Etymology==
+{{quote|The word as far as I am concerned actually derived from [[Old English]] ''orc'', demon, but only because of its phonetic suitability.|[[J.R.R. Tolkien]] in [[Letter 144]]}}
+===Orc===
+The word '''''Orc''''' is said to be the "''form of the name that other races had for this foul people as it was in the [[Rohanese|language of Rohan]]''".<ref name="App|F1iv" />
+
+In his late, post-''Lord of the Rings'' writings, Tolkien preferred the spelling '''''Ork'''''.<ref>{{HM|PM}}</ref>
+
+It also is "supposed to be the CS[Common Speech] name of these creatures at that time".<ref name="Nomenclature">{{HM|N}}</ref>
+
+The statement may be ambiguous due to Tolkien's use of the term Common Speech for both Westron and English. But Tolkien continued to say "It should therefore according to the system be translated into E[English]. or the LT[Language of Translation]. It was translated 'goblin' in The H.[Hobbit]".<ref name="Nomenclature" /> This may suggest it is a genuine Westron word, which Tolkien kept untranslated because he liked the sound of it: "In any case orc seemed to me, and seems, in sound a good name for these creatures. It should be retained."<ref name="Nomenclature" />
+
+Fictionally, it is then possibly derived from 'orch', the [[Sindarin]] word for Orc. The original sense of the word seems to be "bogey", "bogeyman", that is, something that provokes fear, as seen in the Quenya cognate ''urko'', pl. ''urqui''.<ref>{{HM|WJ}} Quendi and Eldar</ref>
+
+Tolkien derived the word ''orc'' from [[Old English]] believing it refers to a kind of evil spirits,<ref name="L144" /> which in turn is thought to derive from Latin ''Orcus'' "Hades", although Tolkien doubted this etymology.<ref>{{LE|290a}}</ref> He also thought it survives in the modern language for sea-beasts,<ref>{{HM|N}}, p. 762</ref> such as the [[Wikipedia:Orca Whale|Orca Whale]].
+
+''Orc'' is an [[Old English]] word that refers mainly to a kind of metal cup (from Latin ''Urceus'').<ref group="note">The word ''Orc'' occurs twice in ''[[Beowulf (poem)|Beowulf]]''.</ref> However, in an 11th century glossary, this entry was conflated with another entry which refers to evil giants such as ''[[Wikipedia:Jötunn|þyrs]]'' and other monsters, also glossed in Latin as ''Orcus''. This merge of the two entries made many philologists of the previous centuries, like Tolkien, to believe that ''Orc'' was an actual Old English word that refers to any kind of evil creature from the underworld.<ref>Bosworth and Toller's ''An Anglo-Saxon Dictionary'' (1898), corrected in later editions</ref>
+
+The word ''Orcnéas'' is once found only in ''[[Beowulf (poem)|Beowulf]]'' (lines 112-113) and is cited as an example of the word "Orc" in Old English text. Actually its meaning is not clear, and it is thought to refer to corpses (''néas'') from the Underworld.
+
+==="Orcs" in Tolkien's languages===
+Tolkien said that one of the reason of choosing "Orc" over "Goblin" was the similarity with his fictional languages.<ref name="WJAC">{{WJ|AC}}, pp. 389-91</ref> Indeed most [[Elvish]], [[Mannish]] and other words for Orc, are similar to the English word.
+
+The basic [[Primitive Quendian]] [[Sundocarme|root]], from which the words for Orc derive, is [[RUKU]] (said to refer to any "bogey" that scared the Elves):<ref name="WJAC" />
+
+*[[Quenya]] '''''orco'''''<ref name="PE17_47" /> (pl. '''''Orkor'''''<ref>{{GA|27}}, p. 12</ref><ref>{{HM|MR}}, pp. 74, 194</ref>); [[Exilic Quenya]] '''''urko''''' (pl. '''''orkor''''' and '''''orqui''''')<ref name="WJAC" />
+*[[Sindarin]]: '''''orch'''''/'''''Orch''''' (pl. '''''yrch'''''/'''''Yrch''''', class pl. '''''Orchoth'''''/'''''orchoth'''''<ref group="note">''Orchoth'' is likely a compound of ''orch'' + ''[[hoth]]''.</ref>);<ref name="App|F1iv" /><ref name="L144" /><ref name="WJAC" /><ref name="PE17_47" /><ref name="PE17_52-4" /> '''''[[glamhoth]]'''''
+*[[Nandorin]]: '''''ūriʃ'''''<ref name="PE17_52-4">{{PE|17}}, pp. 52-4</ref>
+
+*[[Adûnaic]]: '''''urku''''', '''''urkhu'''''<ref name="WJAC" />
+*[[Westron]]: '''''orka''''',<ref name="PE17_47">{{PE|17}}, p. 47</ref> possibly '''orc''' <ref name="Nomenclature" />
+*[[Black Speech]]: '''''[[Uruk-hai#Etymology|uruk]]'''''<ref name="App|F1iv">{{App|F1iv}}</ref><ref name="L144">{{L|144}}</ref><ref name="WJAC" /><ref name="PE17_47" />
+*[[Khuzdul]]: '''''Rukhs''''' (pl. '''''Rakhās'''''), possibly derived from an unknown [[Avarin]] word of the same meaning<ref name="WJAC" /><ref group="note">''Rukhs'' appears to contain the radical R-Kh-S.<!-- this note needs to be clarified: what is a radical? add internal link to something? --></ref>
+*[[Drúadan language]]: '''''gorgûn''''' ("orc-folk"; the form ''gorgûn'' is perhaps plural of an unknown singular form),<ref name="PE17_99">{{PE|17}}, p. 99</ref><ref>{{RK|V5}}</ref> which is possibly derived from the Elvish words<ref name="WJAC" />
+
+In the earliest versions of [[Qenya]], Tolkien had words such as "'''Ork (orq-)''' pl. '''Orqi''' and fem. "'''orqindi'''".<ref>{{Webcite|articlename=Ork|website=Parf Edhellen|accessed=24 July 2024|articleurl=https://www.elfdict.com/wt/505683}}</ref>
+
+In [[Noldorin]], the earlier version of Sindarin, the word for Orc is the same: ''orch'' (pl ''yrch'').<ref name="LR379">{{LR|Etymologies}}, p. 379 (entry for ÓROK)</ref><ref>{{MR|P3I7}}, p. 195</ref><ref>{{MC|Secret}}, p. 217</ref> The [[Gnomish]] word for "one of a tribe of the orcs. a goblin" is said to be '''''Gong'''''.<ref name="PE|11">{{PE|11}}, p. 41</ref>
+
+*''See also: [[Entish]] ''[[burárum]]
+
+===Goblin===
+''[[Wiktionary:goblin|Goblin]]'' is a folk word which according to ''The Concise Oxford Dictionary of Current English'' is probably derived from the Anglo-French ''[[Wiktionary:gobelin|gobelin]]'' a diminutive of ''gobel'' (cf. ''[[Wiktionary:kobold|kobold]]''). William D.B. Loos notes that ''goblin'' is a Romance-derived word, unlike other Germanic words preferred by [[J.R.R. Tolkien|Tolkien]].<ref>William D.B. Loos, [http://tolkien.slimy.com/tfaq/EnemyMisc.html#Orcs Enemies and Miscellaneous: What was the relationship between Orcs and Goblins?] at [http://tolkien.slimy.com/tfaq/ The Tolkien Frequently Asked Questions List] (accessed 3 July 2011)</ref>
+
+==="Goblin" in Tolkien's languages===
+In the [[The Etymologies|''Etymologies'']], the Elvish names used to translate "goblin" derive from root [[RUKU#Other versions|ÓROK]] and are:<ref name="LR379" />
+
+*[[Quenya]]: '''''orko''''' (pl. '''''orqi''''')
+*[[Noldorin]]: ''orch'' (pl ''yrch'', archaic ''yrchy''<ref>{{VT|46a}}, p. 7</ref>)
+*[[Nandorin|Danian]]: '''''urc''''' (pl. '''''yrc''''')
+*[[Doriathrin]]: '''''urch''''' (pl. '''''urchin''''')
+
+In an early linguistic writing, Tolkien translated the [[Gnomish]] word ''Gong'' as "one of a tribe of the orcs. a goblin."<ref name="PE|11" />
+
+==Other versions of the legendarium==
+{{Main|Orcs/Origin}}
+
+==Controversy==
+Tolkien's Orcs have been a subject of criticism of [[racism]]. Tolkien described Orcs as "squat, broad, flat-nosed, sallow-skinned, with wide mouths and slant eyes: in fact degraded and repulsive versions of the (to Europeans) least lovely Mongol-types".<ref name="L|210">{{L|210}}</ref>
+
+==Other writings==
+In ''[[The Father Christmas Letters]]'', goblins appear as the enemies of [[Father Christmas]] and the [[Red Elves]].
+
+==Portrayal in adaptations==
+===Orcs===
+===Orcs in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings (1978 film) - Orcs.jpg|Orcs in [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+File:The Return of the King (1980 film) - Orcs.jpg|Orcs in [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]
+File:The Lord of the Rings - The Return of the King - Gothmog with troops.jpg|Orcs in ''[[The Lord of the Rings (film series)]]''
+File:The Lord of the Rings- The Treason of Isengard - Ork.jpg|Concept art of an orc in ''[[The Lord of the Rings: The Treason of Isengard]]''
+File:The Lord of the Rings War in the North - Orc3.jpg|An Orc in [[Fornost]] in ''[[The Lord of the Rings: War in the North]]''
+</gallery>
+
+'''2001-2003: [[Pán prsteňov (2001-2003 Slovak radio series)|''Pán prsteňov'' (2001-2003 Slovak radio series)]]:'''
+:Due to timing and certain legal issues, the radio series uses the term ''skirt'' (pron. "skeert") and ''skirti'' for an "orc" and "orcs" (a neologism derived from the Czech translation's ''skřet'', ''skřeti'', "goblins"). Some of the orc characters are credited, e.g. [[Grishnakh]] in ''The Two Towers'' is portrayed by Eduard Vitek, and in ''The Return of the King'', a Mordor orc commander whipping a disguised Frodo and Sam into shape is played by Jozef Šimonovič.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Orc-kind is a genus that includes the species of Orcs, Goblins, [[Hobgoblins]], [[Half-orcs]], [[Boggarts]], [[Bugans]] and [[Uruk-hai]].
+
+:Orcs are very common in Middle-earth. They are about the size of a man with a hunchback, though some of the sub-races are of larger or smaller stature.
+
+'''2011: ''[[The Lord of the Rings: War in the North]]'':'''
+:Orcs are first seen in [[Fornost]], where they immediately attack [[Eradan (video game character)|Eradan]], [[Andriel]] and [[Farin (video game character)|Farin]] as they near the citadel.<ref name="Main">[[The Lord of the Rings: War in the North]], Chapter 1: Fornost, ''Main Gate''</ref> ''Orc warriors'' are stronger then normal Orcs. Some Orcs have been taught [[Magic|sorcery]] by [[Agandaûr]], these are known as ''Orc Sorcerers'''
+
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:'''30 September: ''[[Udûn (episode)|Udûn]]'':'''
+::[[Adar (The Rings of Power)|Adar]] reveals to [[Galadriel]] that he was one of the [[Moriondor]] and that he supposedly "split open" [[Sauron]] for needlessly sacrificing his Uruk "children" in his pursuit of a power over flesh. During the interrogation, Galadriel and Adar philosophically debate on whether or not Orcs, or Uruks as Adar prefers, are worthy of life. The debate is left open-ended and Adar orchestrates the eruption of [[Mount Doom|Orodruin]], destroying [[Tirharad]] and turning the [[Mordor|Southlands into Mordor]] in order to give his "children" a home where they did not have to fear the [[Sun]].
+
+===Goblins===
+===Goblins in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Hobbit (1977 film) - Goblins.jpg|Goblins in [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+File:The Lord of the Rings War in the North - Goblins1.jpg|Goblins in the pits of [[Fornost]] in ''[[The Lord of the Rings: War in the North]]''
+File:The Hobbit - An Unexpected Journey - Goblins.jpg|Goblins in ''[[The Hobbit (film series)|''The Hobbit'' (film series)]]''
+</gallery>
+
+'''2003: ''[[The Lord of the Rings: War of the Ring]]'':'''
+:Goblins have been made clearly distinct from Orcs.
+
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Goblins have been made clearly distinct from Orcs.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Goblins are a separate race and can be found in [[Evendim]], [[the Shire]], [[Ered Luin]], [[Bree-land]], [[Lone-lands]], [[North Downs]], [[Misty Mountains]], [[Angmar]] and [[Moria]]. They are small in stature; a little shorter than [[Hobbits]]. In contrast, Orcs are about the size of [[Men]]. Goblins are also weaker than the orcs.
+
+'''2011: ''[[The Lord of the Rings: War in the North]]'':'''
+:Goblins first appear in [[Fornost Erain]], where they attack [[Eradan (video game character)|Eradan]], [[Andriel]] and [[Farin (video game character)|Farin]] immediately when they reach the city.<ref name="Main" /> Goblins are weaker than Orcs.
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:Goblins are again made clearly distinct from Orcs in the film series. They are lesser relatives of Orcs; they are smaller (the very large Great Goblin notwithstanding), less powerful, and generally have pale, diseased skin, riddled with warts.
+
+'''2014: ''[[The Hobbit: The Battle of the Five Armies]]'':'''
+:A band of "Goblin mercenaries" appear on [[Ravenhill]] during the [[Battle of Five Armies]], but are taken care of by the Dwarves without much trouble.
+
+==See also==
+*[[Gongs]], evil beings obscurely related to Orcs that appeared within ''[[The Book of Lost Tales]]''.<ref>{{LT2|Index}}, entry "Gongs"</ref>
+*[[:Category:Images of Goblins|Images of Goblins]]
+
+{{references|note}}
+[[Category:Incarnates]]
+[[Category:Orcs| ]]
+[[Category:Races]]
+[[Category:Servants of Melkor]]
+[[Category:Servants of Saruman]]
+[[Category:Servants of Sauron]]
+[[de:Orks]]
+[[fr:encyclo/peuples/orques/orques]]
+[[fi:Örkit]]

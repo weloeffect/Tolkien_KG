@@ -1,0 +1,50 @@
+{{anglosaxon infobox
+| name=Professor Rashbold
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[wikipedia:Pembroke|Pembroke]]
+| affiliation=
+| language=[[wikipedia:English language|English]], [[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+Professor '''Rashbold''' was a [[Man]] living in the [[wikipedia:20th century|20th century]] [[wikipedia:England|England]].
+
+== History ==
+Rashbold transliterated and translated the [[Edwin Lowdham]]'s manuscript on the behest of [[Michael George Ramer]]. The text was in [[Old English]] written in [[Tengwar]]. It described the [[Downfall of Númenor]].<ref name="Night"/>
+
+He was described by [[Alwin Arundel Lowdham|Lowdham]] as a "grumpy old bear".<ref name="Night">{{SD|2d}}, "Night 68"</ref>
+
+== Inspiration ==
+The name ''Rashbold'' is a pun on [[J.R.R. Tolkien]]'s own surname, being a translation from [[wikipedia:German language|German]] ''Toll-kühn'' (meaning "foolhardy").<ref>{{SD|2a}}</ref><ref>{{L|165}}</ref>
+
+==See also==
+*[[John Jethro Rashbold]]
+
+{{references}}
+{{DEFAULTSORT:Rashbold, Professor}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

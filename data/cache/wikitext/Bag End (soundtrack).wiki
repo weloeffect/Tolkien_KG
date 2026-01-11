@@ -1,0 +1,30 @@
+{{song
+| title=Bag End
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=4:35
+| track=Disc 1 Track 3
+| previous=[[The Shire (soundtrack)|The Shire]]
+| next=[[Very Old Friends (soundtrack)|Very Old Friends]]
+| spotify=https://open.spotify.com/track/4qaxeVzW69AqS6HHeMZaYC
+}}
+'''Bag End''' is the third track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]]. The lyrics are based on the poem [[The Road Goes Ever On (song)#The Lord of the Rings|The Road Goes Ever On]] from ''[[The Fellowship of the Ring]]''
+
+==Lyrics==
+<poem>
+[0:04 - 0:38]
+(humming)
+Down from the door where it began.
+(humming)
+And I must follow, if I can,
+
+The Road goes ever on and on
+Down from the door where it began.
+Now far ahead the Road has gone,
+And I must follow, if I can,
+</poem>
+{{title}}
+{{DEFAULTSORT:1.03}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

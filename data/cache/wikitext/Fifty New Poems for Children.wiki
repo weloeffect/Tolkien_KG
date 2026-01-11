@@ -1,0 +1,30 @@
+{{book
+| title=Fifty New Poems for Children: An Anthology Selected from Books Recently Published by Basil Blackwell
+| image = Fifty New Poems for Children 1st Edition 1922 HB.jpg
+| author=
+| editor=
+| contributors="[[J.R.R. Tolkien|J.R.R. Tolkein]]"
+| illustrator=C. T. Nightingale
+| publisher=Basil Blackwell
+| date=?[[1922]] (see [[#Publication history|publication history]])
+| format=Hardback
+| pages=63
+| isbn=
+| noisbn=
+| issn=
+}}
+'''''Fifty New Poems for Children: An Anthology Selected from Books Recently Published by Basil Blackwell''''' is a book which includes [[J.R.R. Tolkien]]'s poem "[[Goblin Feet]]" (erroneously attributed to "J.R.R. [[Tolkein]]"), which had previously been published in ''[[Oxford Poetry|Oxford Poetry 1915]]''. It also contains the poem "Romance" by E. F. A. Geach, which [[Douglas A. Anderson]] has suggested as a possible inspiration for "[[The Road Goes Ever On (song)|The Road Goes Ever On]]," various versions of which are included in ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]''.<ref name="AH">{{HM|AH}}, p. 360</ref>
+
+==Publication history==
+Although the book does not give a publication date, 1922 has been assumed.<ref name="AH"/> However, [[Pieter Collier]] has dated it as [[1924]].<ref>{{webcite|author=[[Pieter Collier]]|articleurl=http://www.tolkienlibrary.com/dmiller/000454.htm|articlename=#000454 - Fifty New Poems for Children|website=TL|accessed=31-December-2012}}</ref> It contains pieces published in 1922 and a copy with a January 1923 dated inscription has been seen. The British Library catalogues also list it as 1922, and the book was advertised in the ''Asiatic Review'' (April 1922).{{fact}}
+
+It was reprinted in [[1924]] and [[1929]], and American editions have been seen published by Bretano’s (undated) and Appleton & Co. (1924).{{fact}}
+
+==External links==
+*[http://www.tolkienlibrary.com/dmiller/000454.htm Fifty New Poems for Children] at [http://www.tolkienlibrary.com/ Tolkien Library]
+
+{{references}}
+{{title|italics}}
+[[Category:Books with contribution by J.R.R. Tolkien]]
+[[Category:Poetry books]]
+[[Category:Publications by title]]

@@ -1,0 +1,25 @@
+{{Collectible card
+| image=METW - Moria.jpg
+| name=Moria
+| caption=
+| game=meccg
+| type=Site
+| alignment=Hero
+| region=Redhorn Gate
+| artist=[[Kevin Ward]]
+| rarity=Fixed3
+| number=TW406
+}}
+'''METW: Moria''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+'''''Note:''''' ''"Moria" refers to [[Moria]] of [[J.R.R. Tolkien]]'s [[legendarium]].''
+
+==Card text==
+
+*'''''Nearest Haven:''''' [[METW: Lórien|Lórien]]
+*'''''Playable:''''' Items (minor, major, greater, gold ring) 
+*'''''Automatic-attacks:''''' Orcs - 4 strikes with 7 prowess
+
+''"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels..."'' '''''-[[The Lord of the Rings|LotRII]]'''''
+
+[[Category:MECCG site cards|Moria]]

@@ -1,0 +1,24 @@
+{{artist infobox
+| image=
+| name=Eric Fraser
+| born=[[11 June|June 11]], [[1902]]
+| died=[[15 November|November 15]], [[1983]]
+| style=
+| images=[[:Category:Images by Eric Fraser|Gallery]]
+| location=UK
+| website=
+|}}
+
+'''Eric George Fraser''' ([[11 June|June 11]], [[1902]] – [[15 November|November 15]], [[1983]]) was a British illustrator and graphic artist.
+
+A specialist in illustrating classic scenes from mythology (such as [[Beowulf (poem)|Beowulf]] fighting the dragon) and classic medieval scenes, Fraser also illustrated [[J.R.R. Tolkien]]'s books, such as the Folio Society edition of ''[[The Lord of the Rings]]'' in 1977 and the Folio Society edition of ''[[The Hobbit]]'' in 1979.<ref>''[[The Annotated Hobbit: Revised and Expanded Edition]]''</ref>
+
+==External links==
+*{{WP|Eric Fraser}}
+*[http://briansibleysblog.blogspot.co.uk/2013/04/drrawn-to-rings.html Drawn to the Rings] by [[Brian Sibley]]
+
+{{references}}
+
+[[Category:Artists|Fraser, Eric]]
+[[Category:British people|Fraser, Eric]]
+[[Category:People by name|Fraser, Eric]]

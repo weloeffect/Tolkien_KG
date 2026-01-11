@@ -1,0 +1,48 @@
+{{disambig-more|Lórien|[[Lórien (disambiguation)]]}}
+{{kingdom
+| image=Olga Kukhtenkova - Este.jpg
+| name=Lórien
+| pronun=[[Quenya|Q]], {{IPA|[ˈloːri.en]}}
+| othernames=
+| location=[[Aman]]
+| capital=
+| towns=
+| regions=[[Lórellin]]
+| population=[[Valar]], [[Maiar]] and many spirits
+| language=
+| govern1=[[Irmo]] and [[Estë]]
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Sleeping of [[Míriel]]
+}}
+'''Lórien''' was a place in [[Valinor]] and the home of [[Irmo]] and [[Estë]]. Due to his close association with the gardens, Irmo is more commonly referred to as ''Lórien''.
+
+==History==
+Lórien was the most beautiful place in [[Arda]] with silver [[willows]], flowers, and lakes. One of those lakes was named [[Lórellin]].<ref>{{HM|Guide}}, p. 239</ref>
+
+It was inhabited by singing [[nightingales]] and many [[spirits]] who served [[Irmo]] and [[Estë]].<ref>{{S|10}}</ref> The [[Eldar]], the [[Maiar]], and even the [[Valar]] visited the gardens of Lórien to rest and be refreshed by its fountains.<ref>{{S|Vala}}</ref> [[Tilion]] used to dream by the pools of [[Estë]] beneath the silver light of [[Telperion]],<ref>{{S|11}}</ref> and [[Melian]] used to sing there when the lights of the [[Two Trees]] mingled.<ref>{{S|4}}</ref> Before departing for [[Middle-earth]], Melian also tended to the trees that flowered there.<ref>{{S|IIb}}</ref>
+
+After giving birth to [[Fëanor]], [[Míriel]] grew weary of her earthly life. She laid down to rest in Lórien and released her ''[[fëa]]''. [[Manwë]] ordered that her body be tended by the spirits there, and [[Finwë]] waited for her to awaken for many years.<ref>{{S|6}}</ref> Eventually, she refused to return, and the vigil to maintain her ''[[hröa]]'' was no longer required.
+
+==Etymology==
+The name of the place apparently contains the element ''lor-'' related to "slumber" and "dream".<ref>{{webcite|author=[[Helge Fauskanger]]|articleurl=http://folk.uib.no/hnohf/quen-eng.htm|articlename=Quettaparma Quenyallo|dated=December 25, 2008|website=Arda|accessed=}}</ref>
+
+==Other versions of the legendarium==
+Irmo's dwellings were built south of the mountains of [[Aman]]. [[Aulë]] had created Irmo's halls from mist beyond [[Avathar]] gathered from the shadowy seas. The halls of Irmo were great and dimly lit, and the expansive gardens came near to the roots of [[Telperion]]. "His sprites sang wonderfully in these gardens and the scent of nightflowers and the songs of sleepy nightingales filled them with great loveliness."<ref name=Irmo/> Poppies also grew there, which Irmo used in enchantments. [[Yavanna]] had given Irmo a great many yew trees, cedars, and pines that "exuded drowsy odours in the dusk," and these trees grew near deep pools of water. Glowworms crept about the borders of the pools, and "Varda had set stars within their depths for the pleasure of Lórien."<ref name=Irmo/> 
+
+Within his gardens, a ring of tall, shadowy [[Cypresses|cypress trees]] surrounded the deep cauldron ''Silindrin'', which held the collected dew of Teleperion. It was set upon a bed of pearls, and while its light remained, he could descry many visions.<ref name=Irmo>{{LT1|III}}</ref>
+
+==See also==
+*[[:Category:Images of Lórien (Valinor)|Images of Lórien]]
+{{references}} 
+{{valardwellings}}
+{{title}}
+{{DEFAULTSORT:Lorien}}
+[[Category:Gardens]]
+[[Category:Valinor]]
+[[de:Lórien (Valinor)]]
+[[fr:encyclo/personnages/ainur/valar/lorien]]
+[[fi:Lórien (Valinor)]]

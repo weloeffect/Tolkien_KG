@@ -1,0 +1,54 @@
+{{Mallorn
+| name=Mallorn 58
+| image = Mallorn58.png
+| editor=Rosalinda Haddon
+| artist=[[Soni Alcorn-Hender]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Winter 2017
+| format=A4 stapled paperback, glossy
+| pages=48
+| issn=	0308-6674
+}}
+'''''Mallorn'' 58''' is the fifty-eighth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in Winter [[2017]]. 
+
+==Contents==
+* '''Cover Art'''
+** "The Old Forest"
+*** By: [[Soni Alcorn-Hender]]
+* '''Editorial'''
+*** By: Rosalinda Haddon
+* '''Articles'''
+** "The Harrowing of Hell Motif in Tolkien’s Legendarium"
+*** By: Robert Steed
+** "All Tales May Come True: Tolkien’s Creative Mysticism"
+*** By: John Carswell
+** "‘Servant, indeed!’: Bilbo Baggins, independent contractor"
+*** By: Murray Smith
+** "Tolkien, Eucatastrophe, and the Rewriting of Medieval Legend"
+*** By: Jane Beal 
+** "The Voice of Beorn: How Language Moralizes the Monstrous"
+*** By: Garrett Senney
+** "On Tolkien’s Presentation of Distributism through the Shire"
+*** By: Jay Atkins 
+** "And What about Zanzibar? Or An Adult Fairy Tale Concerning Tolkien's Biographical Legend"
+*** By: Nancy Bunting
+** "Eighteenth-Century Gothic Fiction and the Terrors of Middle-earth"
+*** By: Terranova 
+* '''Submissions'''
+** Letters to the Editor
+** Guide for Authors
+* '''Poetry'''
+** "The Journey"
+*** By: Julia Baranova
+** "Frodo's Farewell
+*** By: Angela Woolsey
+* '''Reviews'''
+** ''[[The Fellowship: The Literary Lives of the Inklings]]''
+*** By: Kusumita Pederson
+* '''Inside Art'''
+** By: [[Soni Alcorn-Hender]], John Cockshaw, Tsvetelina Krumova, and Gordon Palmer
+
+{{mallornnav|57|59}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 58}}
+[[Category:Mallorn (journal)]]

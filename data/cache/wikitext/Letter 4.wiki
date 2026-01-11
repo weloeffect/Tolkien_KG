@@ -1,0 +1,12 @@
+{{letter infobox
+ |#=4
+ |to=[[Edith Bratt]]
+ |date=[[2 March]] [[1916]]
+ |subject=[[Quenya]]
+}}{{letter|4}}
+==Summary==
+After a miserable drizzling afternoon, bored with old military lecture-notes, Tolkien stated he has been working on his "[[Qenya|nonsense fairy language]]". He told [[Edith Bratt|Edith]] he longs to work on it but he holds himself back because he believes it "such a mad hobby".
+{{letters}}
+[[de:Brief 4]]
+{{DEFAULTSORT:Letter 004}}
+[[Category:Letters to Edith Tolkien]]

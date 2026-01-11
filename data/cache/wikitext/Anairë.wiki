@@ -1,0 +1,67 @@
+{{infobox character
+| people=[[Noldor|Noldo]]
+| name=Anairë
+| image=Marya Filatova - Anaire.jpg
+| caption="Anaire" by [[Marya Filatova]]
+| pronun=[[Quenya|Q]], {{IPA|[aˈna͡ɪre]}}
+| othernames=
+| titles=
+| position=
+| location=[[Valinor]]
+| affiliation=
+| language=[[Quenya]]
+| birth=during the [[Years of the Trees]]
+| brithlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Fingolfin]] (by marriage)
+| parentage=
+| siblings=
+| spouse=[[Fingolfin]]
+| children=[[Fingon]], [[Turgon]], [[Aredhel]] and [[Argon]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Anairë''' was the wife of [[Fingolfin]]. 
+
+== History ==
+Little is known about her except that she was a Noldo, who did not leave [[Aman]] due to her close friendship with [[Eärwen]], [[Finarfin]]'s wife. She had four children with Fingolfin: [[Fingon]], [[Turgon]], [[Aredhel]] and [[Argon]].<ref name=PM>{{PM|XI4}}, pp. 344-345</ref>
+
+==Etymology==
+The name ''Anairë'' means "Holiest" in [[Quenya]]: ''[[an-]]'' (superlative prefix) + ''[[airë]]'' ("holy").<ref>{{PM|Notes}}, p. 365, note 45</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| MIR |y| FIN |y| IND | | | | | | | | | | | | | | | | |FIN=[[Finwë]]<br /><small>''d. {{YT|1495}}''</small>|IND=[[Indis]]<br /><small>''b. {{YT}}''</small>|MIR=[[Míriel]]<br /><small>''d. {{YT|1170}}''</small>}}
+{{familytree| | | |!| | | |)|-|-|-|v|-|-|-|-|-|-|-|v|-|-|-|.| | | |}}
+{{familytree| | | FEA | | FDS | | FNG |y| ANA | | IRM | | FIR | | |FEA=[[Fëanor]]<br /><small>''{{YT|1169}} - {{YT|1497|n}}''</small>|FDS=[[Findis]]<br /><small>''b. {{YT}}''</small>|FNG=[[Fingolfin]]<br /><small>''{{YT|1190}} - {{FA|456}}''</small>|ANA='''ANAIRË'''<br /><small>''b. {{YT}}''</small>|IRM=[[Írimë]]<br /><small>''b. {{YT}}''</small>|FIR=[[Finarfin]]<br /><small>''b. {{YT|1230}}''</small>}}
+{{familytree| |,|-|-|-|v|-|-|-|-|-|-|-|+|-|-|-|-|-|-|-|.| |}}
+{{familytree| FIN | | TUR |y| ELE | | ARE |y| EOL | | ARG|FIN=[[Fingon]]<br /><small>''{{YT|1260}} - {{FA|472}}''</small>|ARE=[[Aredhel]]<br /><small>''{{YT|1362}} - {{FA|400}}''</small>|TUR=[[Turgon]]<br /><small>''{{YT|1300}} - {{FA|510}}''</small>|ELE=[[Elenwë]]<br /><small>''d. {{YT|1500}}''</small>|EOL=[[Eöl]]<br /><small>''d. {{FA|400}}''</small>|ARG=[[Argon]]<br /><small>''d. {{FA|1}}''</small>}}
+{{familytree| | | | | | | |!| | | | | | | |!| | | | | | | |}}
+{{familytree| | | TUO |y| IDR | | | | | | MAE | | | | | ||MAE=[[Maeglin]]<br /><small>''{{FA|320}} - {{FA|510|n}}''</small>|IDR=[[Idril]]<br /><small>''b. {{YT}}''</small>|TUO=[[Tuor]]<br /><small>''b. {{FA|472}}''</small>}}
+{{familytree| | | | | |!| | | | | | | | | | | | | | | | | |}}
+{{familytree| | | | | EAR | | | | | | | | | | | | | | | ||EAR=[[Eärendil]]<br /><small>''b. {{FA|503}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In ''[[The Silmarillion]]'', [[Fingolfin]] is given three children, but his wife is not mentioned in the genealogy.
+
+In later name revisions, circa 1970, the name ''Alairë'' was given to the wife of [[Turgon]], and it was later changed to ''Anairë''. However, "the substitution of [[Elenwë]] in ''The Silmarillion'' was based on the Elvish genealogies of 1959."<ref name=Maeglin/> In that text, Anairë was defined as a [[Vanya]] who remained in the city of [[Tirion]] upon [[Túna]], but it was later corrected to the version which had Elenwë 'who perished in the Ice'. Anairë, which was written on the same table for the same time period as Elenwë, was noted as the wife of Fingolfin, with the note that she 'remained in Aman'.<ref name=Maeglin>{{WJ|Maeglin}}</ref>{{rp|323}}
+
+{{references}}
+{{DEFAULTSORT:Anaire}}
+[[Category:Calaquendi]]
+[[Category:First Age characters]]
+[[Category:Noldor]]
+[[Category:Quenya names]]
+[[de:Anairë]]
+[[fi:Anairë]]
+[[fr:encyclo/personnages/elfes/noldor/anaire]]

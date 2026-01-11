@@ -1,0 +1,237 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Angmar_conflict> a schema:WebPage ;
+    rdfs:label "Angmar conflict"@en ;
+    schema:about <http://localhost:8000/resource/Angmar_conflict> .
+
+<http://localhost:8000/page/Battle_of_the_Powers> a schema:WebPage ;
+    rdfs:label "Battle of the Powers"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Powers> .
+
+<http://localhost:8000/page/Battles_of_Beleriand> a schema:WebPage ;
+    rdfs:label "Battles of Beleriand"@en ;
+    schema:about <http://localhost:8000/resource/Battles_of_Beleriand> .
+
+<http://localhost:8000/page/Corsair_wars> a schema:WebPage ;
+    rdfs:label "Corsair wars"@en ;
+    schema:about <http://localhost:8000/resource/Corsair_wars> .
+
+<http://localhost:8000/page/First_War> a schema:WebPage ;
+    rdfs:label "First War"@en ;
+    schema:about <http://localhost:8000/resource/First_War> .
+
+<http://localhost:8000/page/Kin-strife> a schema:WebPage ;
+    rdfs:label "Kin-strife"@en ;
+    schema:about <http://localhost:8000/resource/Kin-strife> .
+
+<http://localhost:8000/page/Wainrider/Balchoth_War> a schema:WebPage ;
+    rdfs:label "Wainrider/Balchoth War"@en ;
+    schema:about <http://localhost:8000/resource/Wainrider/Balchoth_War> .
+
+<http://localhost:8000/page/War_of_the_Dwarves_and_Dragons> a schema:WebPage ;
+    rdfs:label "War of the Dwarves and Dragons"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Dwarves_and_Dragons> .
+
+<http://localhost:8000/page/War_of_the_Dwarves_and_Orcs> a schema:WebPage ;
+    rdfs:label "War of the Dwarves and Orcs"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Dwarves_and_Orcs> .
+
+<http://localhost:8000/page/War_of_the_Elves_and_Sauron> a schema:WebPage ;
+    rdfs:label "War of the Elves and Sauron"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Elves_and_Sauron> .
+
+<http://localhost:8000/page/War_of_the_Last_Alliance> a schema:WebPage ;
+    rdfs:label "War of the Last Alliance"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Last_Alliance> .
+
+<http://localhost:8000/page/War_of_the_Ring> a schema:WebPage ;
+    rdfs:label "War of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Ring> .
+
+<http://localhost:8000/resource/Angmar_conflict> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/First_attack_on_Amon_S%C3%BBl%2C_fall_of_Cardolan%2C_fall_of_Amon_S%C3%BBl%2C_Second_Siege_of_Imladris> ;
+    tg:begin "{{TA|1356}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2A_Argeleb_I%E2%80%A0%0A%2A_Arveleg_I%E2%80%A0%0A%2A_Araval%0A%2A_Araphor%0A%2A_Arvedui_%0A%2A_E%C3%A4rnur%0A%2A_Frumgar%0A%2A_C%C3%ADrdan%0A%2A_Elrond%0A%2A_Glorfindel> ;
+    tg:commanders2 <http://localhost:8000/resource/%2A_Witch-king_of_Angmar> ;
+    tg:end "{{TA|1974}} (fighting finally ended in {{TA|1977}})"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "Angmar conflict"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:place <http://localhost:8000/resource/Throughout_Eriador_and_the_upper_Vales_of_Anduin> ;
+    tg:previous <http://localhost:8000/resource/War_of_the_Last_Alliance> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Free_Peoples%0A%2AFall_of_Arnor%0A%2ADestruction_of_Angmar%0A%2ARemaining_Northern_D%C3%BAnedain_become_Rangers_of_the_North%0A%2AThe_E%C3%B3the%C3%B3d_settle_the_upper_Vales_of_Anduin> ;
+    tg:side1 <http://localhost:8000/resource/Men_of_Arnor%3Cbr%3EGondorians%3Cbr%3EMen_of_the_Vales_of_Anduin%3Cbr%3EE%C3%B3the%C3%B3d%3Cbr%3EForces_of_Rivendell%3Cbr%3EGaladhrim%3Cbr%3EElves_of_Lindon%3Cbr%3EShire-hobbits> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Angmar> .
+
+<http://localhost:8000/resource/Battles_of_Beleriand> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/First_Battle%2C_Dagor-nuin-Giliath%2C_Dagor_Aglareb%2C_Dagor_Bragollach%2C_Nirnaeth_Arnoediad%2C_War_of_Wrath> ;
+    tg:begin "{{YT|1497}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/E%C3%B6nw%C3%AB_%0A%3Cbr%3EE%C3%A4rendil%0A%3Cbr%3EIngwion%0A%3Cbr%3EThingol%0A%3Cbr%3EC%C3%ADrdan%0A%3Cbr%3EDenethor_%28son_of_Lenw%C3%AB%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Morgoth%0A%3Cbr%3ESauron%0A%3Cbr%3EAncalagon_%E2%80%A0%0A%3Cbr%3EGothmog_%28balrog%29> ;
+    tg:end "{{FA|587}}"@en ;
+    tg:image <http://localhost:8000/resource/File%3AJanka_Late%C4%8Dkov%C3%A1_-_Bloody_storm.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "Wars of Beleriand"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Elves_and_Sauron> ;
+    tg:place <http://localhost:8000/resource/Throughout_Beleriand_and_the_lands_northward> ;
+    tg:previous <http://localhost:8000/resource/Battle_of_the_Powers> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Elves_and_allies%0A%2AExpulsion_of_Morgoth_from_Arda%0A%2ADestruction_of_most_of_Beleriand%0A%2AElves_migrate_West_or_settle_Lindon%0A%2AEdain_migrate_to_N%C3%BAmenor_soon_thereafter> ;
+    tg:side1 <http://localhost:8000/resource/Host_of_the_Valar> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth%3Cbr%3EEasterlings> .
+
+<http://localhost:8000/resource/Corsair_wars> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/Battle_of_Pelargir%2C_Surprise_Attack_on_Umbar> ;
+    tg:begin "{{TA|1448}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Eldacar_%28King_of_Gondor%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Angamait%C3%AB%0A%3Cbr%3ESangahyando%0A%3Cbr%3ECaptain_of_the_Haven_%E2%80%A0> ;
+    tg:end <http://localhost:8000/resource/Reign_of_Aragorn_II_Elessar> ;
+    tg:image <http://localhost:8000/resource/Image%3AAngus_McBride_-_Corsairs.gif> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "Corsair wars"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:place <http://localhost:8000/resource/The_coastal_lands_of_the_Bay_of_Belfalas> ;
+    tg:previous <http://localhost:8000/resource/Kin-strife> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Gondorians%0A%2ACorsair_state_subdued%3Cref_name%3D%22annals%22%3E%7B%7BApp> ;
+    tg:side1 <http://localhost:8000/resource/Gondorians> ;
+    tg:side2 <http://localhost:8000/resource/Corsairs_of_Umbar%3Cbr%3EHaradrim> .
+
+<http://localhost:8000/resource/First_War> a schema:Event ;
+    tg:battles "Many and various"@en ;
+    tg:begin "{{VY|1}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Manw%C3%AB> ;
+    tg:commanders2 <http://localhost:8000/resource/Melkor> ;
+    tg:end "{{VY|1500}}"@en ;
+    tg:image <http://localhost:8000/resource/File%3AStefan_Meisl_-_Melkor.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "First War with Melkor"@en ;
+    tg:next <http://localhost:8000/resource/Battle_of_the_Powers> ;
+    tg:place "All of Arda"@en ;
+    tg:previous "None"@en ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Valar%2C_Formation_of_Arda> ;
+    tg:side1 "Valar and Maiar"@en ;
+    tg:side2 <http://localhost:8000/resource/Melkor_and_%C3%9Amaiar> .
+
+<http://localhost:8000/resource/Kin-strife> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/Burning_of_Osgiliath%2C_Battle_of_the_Crossings_of_Erui%2C_Siege_of_Pelargir> ;
+    tg:begin "{{TA|1432}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Eldacar_%28King_of_Gondor%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Castamir_%E2%80%A0> ;
+    tg:end "{{TA|1447}}"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "Kin-strife"@en ;
+    tg:next <http://localhost:8000/resource/Corsair_Wars> ;
+    tg:place <http://localhost:8000/resource/Fought_in_the_eastern_lands_of_Gondor%2C_most_notably_in_Osgiliath_and_Pelargir> ;
+    tg:previous <http://localhost:8000/resource/War_of_the_Last_Alliance> ;
+    tg:result <http://localhost:8000/resource/Victory_for_Eldacar_and_his_followers%0A%2ALine_of_Eldacar_restored%0A%2AMany_Northmen_emigrate_to_Gondor%0A%2AUmbar_secedes_under_Corsair_rule> ;
+    tg:side1 <http://localhost:8000/resource/Gondorians_%28loyalists%29%3Cbr%3ENorthmen_of_Rhovanion> ;
+    tg:side2 <http://localhost:8000/resource/Gondorians_%28rebels%29> .
+
+<http://localhost:8000/resource/Wainrider/Balchoth_War> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/Battle_of_the_Plains%2C_Second_Battle_of_Dagorlad%2C_Disaster_of_the_Morannon%2C_Battle_of_the_Camp%2C_Battle_of_the_Field_of_Celebrant> ;
+    tg:begin "{{TA|1851}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/R%C3%B3mendacil_I> ;
+    tg:commanders2 "Unknown Easterling commanders"@en ;
+    tg:end "{{TA|2510}}"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "Wainrider/Balchoth war"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:place <http://localhost:8000/resource/Gondor%2C_Rhovanion%2C_Dagorlad%2C_both_banks_of_Anduin> ;
+    tg:previous <http://localhost:8000/resource/Corsair_Wars> ;
+    tg:result "Decisive victory for Gondor and the Éothéod"@en ;
+    tg:side1 <http://localhost:8000/resource/Gondorians%2C_%C3%89oth%C3%A9od> ;
+    tg:side2 <http://localhost:8000/resource/Easterling_forces%3A_Wainriders_and_Balchoth> .
+
+<http://localhost:8000/resource/War_of_the_Dwarves_and_Dragons> a schema:Event ;
+    tg:begin "{{TA|2570}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/N%C3%A1in_II%3Cbr%3ED%C3%A1in_I%E2%80%A0%3Cbr%3EFr%C3%B3r%E2%80%A0> ;
+    tg:end "{{TA|2589}}"@en ;
+    tg:image <http://localhost:8000/resource/File%3AKevin_Ward_-_Cold-drake.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "War of the Dwarves and Dragons"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Dwarves_and_Orcs> ;
+    tg:place <http://localhost:8000/resource/Grey_Mountains> ;
+    tg:previous <http://localhost:8000/resource/Wainrider/Balchoth_War> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Dragons%0A%2AMost_of_Durin%27s_Folk_leave_the_Grey_Mountains%0A%2AThr%C3%B3r_re-establishes_the_Kingdom_Under_the_Mountain%0A%2AGr%C3%B3r_establishes_the_lordship_of_the_Iron_Hills> ;
+    tg:side1 <http://localhost:8000/resource/Durin%27s_Folk> ;
+    tg:side2 <http://localhost:8000/resource/Dragons> .
+
+<http://localhost:8000/resource/War_of_the_Dwarves_and_Orcs> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/Sacking_of_Mount_Gundabad%2C_Battle_of_Azanulbizar> ;
+    tg:begin "{{TA|2793}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Thr%C3%A1in_II%3Cbr%3EThorin%3Cbr%3EN%C3%A1in_%28son_of_Gr%C3%B3r%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Azog_%E2%80%A0> ;
+    tg:end "{{TA|2799}}"@en ;
+    tg:image <http://localhost:8000/resource/Image%3AMikel_Janin_-_Battle_of_Azanulbizar.jpeg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "War of the Dwarves and Orcs"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:place <http://localhost:8000/resource/Beneath_the_Misty_Mountains%2C_from_Gundabad_southward_to_Moria> ;
+    tg:previous <http://localhost:8000/resource/War_of_the_Dwarves_and_Dragons> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Dwarves%0A%2ADurin%27s_Folk_settle_the_Ered_Luin%0A%2AOrcs_settle_the_White_Mountains_and_trouble_Rohan_thereafter> ;
+    tg:side1 <http://localhost:8000/resource/Durin%27s_Folk%3Cbr%3EDwarves_of_other_Houses> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_the_Misty_Mountains> .
+
+<http://localhost:8000/resource/Battle_of_the_Powers> a schema:Event ;
+    tg:begin "{{YT|1090}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Manw%C3%AB%3Cbr_/%3EOrom%C3%AB%3Cbr_/%3ETulkas> ;
+    tg:commanders2 <http://localhost:8000/resource/Melkor%3Cbr_/%3ESauron> ;
+    tg:end "{{YT|1099}}"@en ;
+    tg:image <http://localhost:8000/resource/File%3AAntonio_Vinci_-_Tulkas.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "Battle of the Powers"@en ;
+    tg:next <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:place <http://localhost:8000/resource/Across_the_northern_parts_of_Middle-earth%2C_passing_eastward_from_its_northwestern_coasts> ;
+    tg:previous <http://localhost:8000/resource/First_War> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_the_Valar%0A%2AChaining_of_Melkor%0A%2ARuin_of_Utumno_and_Angband%0A%2AShape_of_Middle-earth_changed%0A%2AThe_Great_Journey_begins_shortly_after> ;
+    tg:side1 <http://localhost:8000/resource/Forces_of_the_Valar> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Melkor> .
+
+<http://localhost:8000/resource/War_of_the_Elves_and_Sauron> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/Sack_of_Eregion%2C_First_Siege_of_Imladris%2C_Battle_of_the_Gwathl%C3%B3> ;
+    tg:begin "{{SA|1693}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Gil-galad%3Cbr_/%3ECelebrimbor_%E2%80%A0%3Cbr_/%3EElrond%3Cbr_/%3ECeleborn%3Cbr_/%3EAmroth%3Cbr_/%3ETar-Minastir> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron> ;
+    tg:end "{{SA|1701}}"@en ;
+    tg:image <http://localhost:8000/resource/File%3APeter_Xavier_Price_-_Celebrimbor%27s_Death.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "War of the Elves and Sauron"@en ;
+    tg:next <http://localhost:8000/resource/War_of_the_Last_Alliance> ;
+    tg:place <http://localhost:8000/resource/Throughout_Eriador%2C_but_centred_on_the_land_of_Eregion> ;
+    tg:previous <http://localhost:8000/resource/War_of_Wrath> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Elves_and_allies%0A%2AEregion_destroyed%0A%2ASauron_defeated_and_driven_from_Eriador%0A%2AFounding_of_Imladris> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Eregion%3Cbr_/%3EElves_of_Lindon%3Cbr_/%3EElves_of_L%C3%B3rinand%3Cbr_/%3EN%C3%BAmen%C3%B3reans%3Cbr_/%3EDwarves_of_Khazad-d%C3%BBm> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/War_of_the_Last_Alliance> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/First_Fall_of_Minas_Ithil%2C_An%C3%A1rion%27s_defence_of_Osgiliath%2C_Battle_of_Dagorlad%2C_Siege_of_Barad-d%C3%BBr> ;
+    tg:begin "{{SA|3429}}"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Gil-galad%E2%80%A0_%0A%3Cbr%3EC%C3%ADrdan%0A%3Cbr%3EElrond%0A%3Cbr%3EOropher_%E2%80%A0_%0A%3Cbr%3EThranduil%0A%3Cbr%3EAmd%C3%ADr_%E2%80%A0%0A%3Cbr%3EElendil_%E2%80%A0_%0A%3Cbr%3EIsildur_%0A%3Cbr%3EAn%C3%A1rion_%E2%80%A0> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron> ;
+    tg:end "{{SA|3441}}"@en ;
+    tg:image <http://localhost:8000/resource/File%3AMatt_DeMino_-_Sauron_-_War_of_the_Last_Alliance.png> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "War of the Last Alliance"@en ;
+    tg:next <http://localhost:8000/resource/Angmar_War> ;
+    tg:place <http://localhost:8000/resource/Mordor_and_the_lower_Vales_of_Anduin> ;
+    tg:previous <http://localhost:8000/resource/War_of_the_Elves_and_Sauron> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Last_Alliance%0A%2AFall_of_Sauron%0A%2ALoss_of_the_One_Ring%0A%2ADecline_of_Elvendom_in_Middle-earth_and_the_Men_of_Arnor> ;
+    tg:side1 <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/War_of_the_Ring> a schema:Event ;
+    tg:battles <http://localhost:8000/resource/Sauron%27s_attack_on_Osgiliath%2C_Battles_of_the_Fords_of_Isen%2C_Battle_of_Isengard%2C_Battle_of_the_Hornburg%2C_Assaults_on_Lothl%C3%B3rien%2C_Faramir%27s_defence_of_Osgiliath%2C_Battle_of_the_Pelennor_Fields%2C_Battle_under_the_trees%2C_Battle_of_the_Morannon%2C_Fall_of_Dol_Guldur%2C_Battle_of_Dale%2C_Battle_of_Bywater> ;
+    tg:begin <http://localhost:8000/resource/20_June_%7B%7BTA> ;
+    tg:commanders1 <http://localhost:8000/resource/Gandalf_%E2%80%A0_%28resurrected%29%0A%3Cbr%3EAragorn%0A%3Cbr%3EDenethor_%E2%80%A0_%0A%3Cbr%3EImrahil%0A%3Cbr%3ETh%C3%A9oden_%E2%80%A0%0A%3Cbr%3E%C3%89omer%0A%3Cbr%3EBrand_%E2%80%A0_%0A%3Cbr%3ED%C3%A1in_II_Ironfoot_%E2%80%A0_%0A%3Cbr%3EThranduil_%0A%3Cbr%3EGaladriel%0A%3Cbr%3ECeleborn> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron_%E2%80%A0_%0A%3Cbr%3ESaruman_%E2%80%A0%0A%3Cbr%3EWitch-king_%E2%80%A0%0A%3Cbr%3EKham%C3%BBl_%E2%80%A0> ;
+    tg:end <http://localhost:8000/resource/3_November_%7B%7BTA> ;
+    tg:image <http://localhost:8000/resource/File%3ATed_Nasmith_-_Thus_Came_Aragorn.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/war> ;
+    tg:name "War of the Ring"@en ;
+    tg:place <http://localhost:8000/resource/Northwestern_Middle-earth> ;
+    tg:previous <http://localhost:8000/resource/Corsair_Wars> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Free_Peoples_%0A%2ADestruction_of_the_One_Ring_and_Sauron__%0A%2AReunited_Kingdom> ;
+    tg:side1 <http://localhost:8000/resource/Army_of_the_West> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_Mordor%3Cbr%3EOrcs_of_Dol_Guldur%3Cbr%3EOrcs_of_the_Misty_Mountains%3Cbr%3EOrcs_of_Isengard%3Cbr%3EEasterlings%3Cbr%3EHaradrim%3Cbr%3ECorsairs_of_Umbar%3Cbr%3EVariags%3Cbr%3EDunlendings> .
+

@@ -1,0 +1,53 @@
+{{Mallorn
+| name=Mallorn 17
+| image = Mallorn17.jpg
+| editor=[[Susan Rule]] (editor)<br/>Steve Pillinger (assistant editor)
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[October]] [[1981]]
+| format=A4 stapled paperback
+| pages=36
+| issn=0308-6674
+}}
+'''''Mallorn'' 17''' is the seventeenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in October [[1981]].
+
+==Contents==
+* ''Cover Illustration''
+** By: [[Pauline Baynes]]
+* Editorials
+** By: [[Susan Rule]]
+** By: Steve Pillinger
+* Questionnaire Results
+** By: Steve Pillinger
+* The Choices of Master Sibley
+** By: [[Brian Sibley]]
+* Mandala Symblism in ''The Lord of the Rings'': A First Approach
+** By: [[Johan Vanhecke]]
+* Art: 'Boromir'
+** By: Dave Cooper
+* ''River-Woman's Lament''
+** By: Sara Pickering
+* Mithril
+** By: William Maddox
+* Tolkien's Influence upon Lewis
+** By: Pilar San José and Gregory Starkey
+* Art: 'Faramir and Eowyn'
+** By: Ley Holloway
+* Review of ''[[The Letters of J.R.R. Tolkien]]''
+** By: [[Charles Noad]]
+* Art: 'Dragon Rampant'
+** By: Neil Loughran
+* "[[Letter to Justin Arundale|A Letter from J.R.R.T.]]" 
+** By: Michael Lightowlers
+* "''The Dream''" 
+** By: Margaret Thomson
+* "''The Unicorn''" 
+** By: Mark Allaby
+
+* Inside Art
+** Stephen Lines, Margaret Thomson, Lucy Matthews, Christopher Hellman, [[Kay Woollard]], Sara Fletcher, Geraint Rees
+
+{{mallornnav|16|18|url=http://journals.tolkiensociety.org/mallorn/issue/view/18/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 17}}
+[[Category:Mallorn (journal)]]

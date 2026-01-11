@@ -1,0 +1,56 @@
+{{stub}}
+{{anglosaxon infobox
+| name=Audoin Errol
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Alboin|Alboin Errol]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Audoin Errol''' was the son of [[Alboin|Alboin Errol]].<ref>{{LR|Lost}}, pp. 45-6</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| OSW |OSW=[[Oswin Errol]]}}
+{{familytree| |!| |}}
+{{familytree| ALB |ALB=[[Alboin]]}}
+{{familytree| |!| |}}
+{{familytree| AUD |AUD='''AUDOIN'''}}
+{{familytree/end}}
+
+== Etymology ==
+The name (Modern English: [[Wikipedia:Edwin|Edwin]]) contains the elements ''ead'' "bliss" (seen also in ''[[Éadig]]'') and ''wine'' "friend".<ref>{{webcite|website=Behind the Name|articlename=Edwin|articleurl=http://www.behindthename.com/name/edwin}}</ref>
+
+== See also ==
+*[[Amandil]]
+*[[Éadwine]]
+*[[Edwin Lowdham]]
+
+{{references}}
+{{DEFAULTSORT:Errol, Audoin}}
+[[Category:English people (in-universe)]]
+[[Category:The Lost Road]]

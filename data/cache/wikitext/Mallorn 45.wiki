@@ -1,0 +1,63 @@
+{{Mallorn
+| name=Mallorn 45
+| image = Mallorn45.jpg
+| editor=[[Henry Gee]]
+| artist=[[Jef Murray]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Spring 2008
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 45''' is the forty-fifth issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Spring [[2008]]. Mallorn 45 was the first issue to be published since [[Mallorn 44]] in [[August]] [[2006]] due to the change of editor and overhaul of the publication; it was the first Mallorn to be published biannually. 
+
+==Contents==
+* '''Cover Art'''
+** By: [[Jef Murray]]
+* '''Guest Editorial'''
+** "An Encyclopedia of Ignorance"
+*** By: [[Tom Shippey]]
+* '''Letters to the Editor'''
+* '''Reviews'''
+** "You Get What You Pay For": ''[[Tolkien Studies: Volume 4|Tolkien Studies IV]]''
+*** By: [[David Doughan]]
+** "Beowulf, The Real Story": ''[[wikipedia:Beowulf (2007 film)|Beowulf film]]''
+*** By: [[Henry Gee]]
+** "The Wonderbra of Lothlórien": ''[[The Lord of the Rings Musical|The Lord of the Rings: the Stage Musical]]''
+*** By: Laura Marples
+** "Journeys into Faërie": ''Explore Fairy Traditions''
+*** By: [[Patricia Reynolds|Pat Reynolds]]
+** "Northern Venture": ''[[wikipedia:The Golden Compass (film)|The Golden Compass film]]''
+*** By: [[Patricia Reynolds|Pat Reynolds]]
+** "A Morbid, Malignant Masterpiece": ''[[The Children of Húrin]]''
+*** By: Mike Foster
+** "Medieval Manoeuvres": ''[[The Keys of Middle-earth]]''
+*** By: John Damon
+** "In The Matter Of Roots": ''[[Roots and Branches]]''
+* '''Commentary'''
+** "Women, Oxford and Tolkien"
+*** By: [[David Doughan]]
+** "Demons, Choices and Grace in ''The Lord of the Rings''
+*** By: Chad Chrisholm
+** "Tolkien's Birmingham"
+*** By: [[Robert S. Blackham|Bob Blackham]]
+** "John Ronald's Schooldays"
+*** By: [[Maggie Burns]]
+** "([[Varda|V]])[[Arda Marred]] - The Evolution of the [[Queen of the Stars]]"
+*** By: [[Kristine Larsen]]
+* '''Fiction'''
+** ''White Arrays''
+*** By: Lynn Forest-Hill
+** ''Mayan Wayfinding''
+*** By: Brenda Cooper
+** ''Across The Sea of No Return''
+*** By: Gareth Caradoc Owens
+* '''Well, I'm Back'''
+** "Word Margic"
+*** By: Cecilla Dart-Thornton
+* '''Back Cover'''
+** By: [[Colleen Doran]]
+{{mallornnav|44|46}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 45}}
+[[Category:Mallorn (journal)]]

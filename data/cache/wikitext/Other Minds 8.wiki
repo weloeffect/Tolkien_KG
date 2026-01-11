@@ -1,0 +1,41 @@
+{{journal
+| title=Other Minds 8
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=November [[2009]]
+| format=PDF
+| pages=39
+| issn=
+}}
+
+'''''Other Minds'' 8''' is the eighth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in November 2009.
+
+==Contents==
+* "Editorial: Surprise!"
+** By [[Thomas Morwinsky]]
+* "A Sense of Magic"
+** By Neville Percy
+* "Sense of Magic"
+** By Neville Percy
+* "Between Canon and Dogma - Human Magic in Middle-earth"
+** By Daniel Vacaflores
+* "A Journey in the Dark"
+** By Daniel Vacaflores
+* "The Ways of Magic"
+** By Daniel Vacaflores
+* "The Nine Nazgûl"
+** By António Simões
+* "The Age of Sauron - Preview"
+** By Padraig Timmins
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Appendix A: Timeline for 'The Nine Nazgûl'"
+
+*'''Artwork / Maps:'''
+** By: Marc Holmes, Thomas Morwinsky, [[Ted Nasmith]]
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 08}}
+[[Category:Other Minds]]

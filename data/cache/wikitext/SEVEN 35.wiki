@@ -1,0 +1,54 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 35
+| image=
+| editor=
+| illustrator=
+| date=[[2018]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/e48506927|articlename=Vol. 35, 2018|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=134<ref name="jstor" />
+}}
+'''''SEVEN 35''''' is the thirty-fifth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2018]].<ref name="jstor" />
+==Contents==
+* "The Story of Prince Lucio: G.K. Chesterton and the Visual Imagination"
+** By: Danny Gabelman and Jeremiah Mercurio
+* "Augustine and C.S. Lewis on Friendship"
+** By: Walter Hansen
+* "Charles Williams and Friendship"
+** By: Sørina Higgins
+* "Hugo Dyson: A Roaring Cataract of Nonsense"
+** By: Joel Heck
+* "Sayers's Use of Secondary Sources in ''The Man Born to be King''"
+** By: Kathryn Wehr
+* "Warnie at War (1914-1918)"
+** By: Don W. King
+* "C.S. Lewis: An Exploration Through His Letters"
+** By: Henry Hyunsuk Kim
+* Review Essays:
+** "A Critical Moment in Lewis Gender Studies"
+*** By: Brenton Dickieson
+** "Echoes of the Eternal in C.S. Lewis's Fiction"
+*** By: Brenton Dickieson
+* Book Reviews:
+** "Review of ''A Well of Wonder: Essays on C.S. Lewis, J.R.R. Tolkien, and the Inklings'' by Clyde S. Kilby, edited by Loren Wilkinson and Keith Call"
+*** By: Joel Heck
+** "Review of ''Dimensions of Madeleine L'Engle: New Critical Approaches'' edited by Suzanne Bray"
+*** By: James E. Beitler III
+** "Review of ''Owen Barfield: Philosophy, Poetry, and Theology'' by Michael Vincent Di Fuccia"
+*** By: Edwin Woodruff Tait
+** "Review of ''The Magician's Twin: C.S. Lewis on Science, Scientism and Society'' edited by John G. West"
+*** By: Robert Bishop
+** "Review of ''The Inklings and King Arthur: J.R.R. Tolkien, Charles Williams, C.S. Lewis, and Owen Barfield on the Matter of Britain'' edited by Sørina Higgins"
+*** By: David Llewellyn Dodds
+** "Review of ''ABCs of Christian Life: The Ultimate Anthology of the Prince of Paradox, excerpts by G.K. Chesterton, foreword by Peter Kreeft''"
+*** By: Brett H. Speakman
+* Book Notes:
+** ''Detecting Wimsey: Papers on Dorothy L. Sayers's Detective Fiction''
+*** By: Nancy-Lou Patterson
+** ''J.R.R. Tolkien: Romanticist and Poet''
+*** By: Julian Eilmann<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|34|36}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 35}}
+
+[[Category:SEVEN]]

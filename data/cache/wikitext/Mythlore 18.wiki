@@ -1,0 +1,63 @@
+{{mythlore
+|title=Mythlore 18
+| image = Mythlore_18.gif
+|editor=Gracia Fay Ellwood
+|publisher=[[Mythopoeic Society]]
+|date=Autumn [[1978]]
+|format=Paperback
+|pages=47
+}}
+
+'''''Mythlore'' 18''' ([https://dc.swosu.edu/mythlore/vol5/iss2/ Volume 5, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles====
+
+* Geer, Caroline. “Land of Faerie: The Disappearing Myth.” 3-5.
+* Chapman, Edgar L. “The Shaman as Hero and Spiritual Learer: Richard Adams’ Mythmaking in ''Watership Down'' and ''Shardik''.” 7-11.
+* Lynch, James. “The Literary Banquet and the Eucharistic Feast: Tradition in Tolkien.” 13-14.
+* Chard, Jean Marie. “Some Elements of Myth and Mysticism in C.S. Lewis’ Novel ''Till We Have Faces''.” 15-18.
+* Kreig, Laurence J. “Levels of Symbolic Meaning in ''Pearl''.” 21-23.
+* Hasty, Mara. “How the Isle of Ransom Reflects an Actual Icelandic Setting.” 24.
+* Bailey, Mark. “The Honour and Glory of a Mouse: Reepicheep of Narnia.” 35-36, 46.
+* Haykin, Michael. “A Note on Charles Williams’ ''The Place of the Lion''.” 37-38.
+* Russell, Mariann. “‘The Northern Literature’ and the Ring Trilogy.” 41-42.
+
+====Features====
+
+* Letters. 25+.
+* Colvin, George. “Good Work — and Great Fun.” Review of Middle Earth (game). 30-31.
+* Patterson, Nancy-Lou. “Sarehole to Shire: The Definitive Tolkien.” Review of ''J.R.R. Tolkien: A Biography'' by Humphrey Carpenter; ''The Longing for a Form: Essays on the Fiction of C.S. Lewis'', edited by Peter J. Schakel. 31-33.
+* Speth, Lee. “Review.” Review of ''Wonderful Wizard, Marvelous Land'' by Raylyn Moore. 33, 36, 46.
+* Ellwood, Gracia Fay. Editorial. 38+.
+* Christopher, Joe R. “An Inklings Bibliography (7).” 43-46.
+* GoodKnight, Glen H. Founder’s Focus. 46.
+
+====Poetry====
+
+* Haynes, Renee. “The High Towers of Lorraine.” 6.
+* Christopher, Joe R. “Endymion.” 19.
+* Ellwood, Gracia Fay. “Star Calls.” 46.
+
+====Art====
+
+* Patrick Dengate: 23
+* Charlie Dye: 14, 29
+* Bonnie GoodKnight: 11, 24, 27, 39
+* Annette Harper: cover, 12, 32
+* Mary Ann Hodge: 46; Calligraphy: 6
+* Michael Logan: 30
+* R. Patrick McCabe: 20, 34, back cover
+* Thadara Ottobris: 16, 17, 18, 31, 38, 40
+* Diana Paxson: 25, 26, 42
+* Kelley Wickham: 28
+* Cover: Annette Harper, “Galadriel.”
+* Back Cover: R. Patrick McCabe, “The Lord Brandoch Daha of Demonland.”
+* Page 20: R. Patrick McCabe, “Queen Sophonisba.”
+* Page 32: Annette Harper, “The Conception of Merlin.”
+{{mythlorenav|17|19}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 018}}
+
+[[Category:Mythlore]]

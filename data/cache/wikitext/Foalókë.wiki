@@ -1,0 +1,33 @@
+{{Dragon infobox
+| image = Rodrigo Machado - Foalókë.png
+| caption=''Foalókë'' by [[Rodrigo Machado]] for [[Tolkien Gateway]]
+| name=Foalókë
+| othernames=
+| realm=
+| hoard=
+| birth=
+| death=
+| deathlocation=
+| slayer=
+| type=
+| legs=
+| wings=
+| colour=
+}}
+'''Foalókë''' is a type of [[dragon]]. The name is only attested in [[Words, phrases and passages in The Lord of the Rings|a manuscript]] without context, so although it clearly means "breath-dragon",<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-2876201031.html|articlename=Q. ''foalócë'' n.|website=Eldamo|accessed=1 March 2020}}</ref> it is unclear what kind of breath it means. If the trait referred to breathing fire or cold, then it was another name for [[dragons]].
+
+==Etymology==
+The word is [[Quenya]], ''[[foa]]'' ("breath") + ''[[lókë]]''.<ref>{{PE|Eldarin}}, p. 181</ref>
+
+==Other versions of the legendarium==
+The name was first conceived for "a serpent that guarded a treasure", as back then the [[Qenya]] word ''foa'' referred to "hoard".<ref>{{PE|12}}, p. 38</ref> The [[Gnomish]] form was ''Fuithlug'' ("a dragon (who guards treasure)").<ref>{{LT2|Appendix}}, p. 340</ref> The name was mainly applied to the dragon [[Glaurung#Other versions of the Legendarium|Glórund]].<ref>{{LT2|II}}, ''passim''</ref>
+
+==See also==
+*''[[Turambar and the Foalókë]]'', a story also known as ''Turumart and the Fuithlug'' in Gnomish.
+*[[Urulókë]]
+
+{{references}}
+
+[[Category:Dragons]]
+[[Category:Quenya nouns]]
+[[Category:Qenya nouns]]

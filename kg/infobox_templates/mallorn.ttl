@@ -1,0 +1,793 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Mallorn_10> a schema:WebPage ;
+    rdfs:label "Mallorn 10"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_10> .
+
+<http://localhost:8000/page/Mallorn_11> a schema:WebPage ;
+    rdfs:label "Mallorn 11"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_11> .
+
+<http://localhost:8000/page/Mallorn_12> a schema:WebPage ;
+    rdfs:label "Mallorn 12"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_12> .
+
+<http://localhost:8000/page/Mallorn_13> a schema:WebPage ;
+    rdfs:label "Mallorn 13"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_13> .
+
+<http://localhost:8000/page/Mallorn_14> a schema:WebPage ;
+    rdfs:label "Mallorn 14"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_14> .
+
+<http://localhost:8000/page/Mallorn_15> a schema:WebPage ;
+    rdfs:label "Mallorn 15"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_15> .
+
+<http://localhost:8000/page/Mallorn_16> a schema:WebPage ;
+    rdfs:label "Mallorn 16"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_16> .
+
+<http://localhost:8000/page/Mallorn_17> a schema:WebPage ;
+    rdfs:label "Mallorn 17"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_17> .
+
+<http://localhost:8000/page/Mallorn_18> a schema:WebPage ;
+    rdfs:label "Mallorn 18"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_18> .
+
+<http://localhost:8000/page/Mallorn_19> a schema:WebPage ;
+    rdfs:label "Mallorn 19"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_19> .
+
+<http://localhost:8000/page/Mallorn_20> a schema:WebPage ;
+    rdfs:label "Mallorn 20"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_20> .
+
+<http://localhost:8000/page/Mallorn_21> a schema:WebPage ;
+    rdfs:label "Mallorn 21"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_21> .
+
+<http://localhost:8000/page/Mallorn_22> a schema:WebPage ;
+    rdfs:label "Mallorn 22"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_22> .
+
+<http://localhost:8000/page/Mallorn_23> a schema:WebPage ;
+    rdfs:label "Mallorn 23"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_23> .
+
+<http://localhost:8000/page/Mallorn_24> a schema:WebPage ;
+    rdfs:label "Mallorn 24"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_24> .
+
+<http://localhost:8000/page/Mallorn_25> a schema:WebPage ;
+    rdfs:label "Mallorn 25"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_25> .
+
+<http://localhost:8000/page/Mallorn_26> a schema:WebPage ;
+    rdfs:label "Mallorn 26"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_26> .
+
+<http://localhost:8000/page/Mallorn_27> a schema:WebPage ;
+    rdfs:label "Mallorn 27"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_27> .
+
+<http://localhost:8000/page/Mallorn_28> a schema:WebPage ;
+    rdfs:label "Mallorn 28"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_28> .
+
+<http://localhost:8000/page/Mallorn_29> a schema:WebPage ;
+    rdfs:label "Mallorn 29"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_29> .
+
+<http://localhost:8000/page/Mallorn_30> a schema:WebPage ;
+    rdfs:label "Mallorn 30"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_30> .
+
+<http://localhost:8000/page/Mallorn_31> a schema:WebPage ;
+    rdfs:label "Mallorn 31"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_31> .
+
+<http://localhost:8000/page/Mallorn_32> a schema:WebPage ;
+    rdfs:label "Mallorn 32"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_32> .
+
+<http://localhost:8000/page/Mallorn_34> a schema:WebPage ;
+    rdfs:label "Mallorn 34"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_34> .
+
+<http://localhost:8000/page/Mallorn_35> a schema:WebPage ;
+    rdfs:label "Mallorn 35"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_35> .
+
+<http://localhost:8000/page/Mallorn_36> a schema:WebPage ;
+    rdfs:label "Mallorn 36"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_36> .
+
+<http://localhost:8000/page/Mallorn_37> a schema:WebPage ;
+    rdfs:label "Mallorn 37"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_37> .
+
+<http://localhost:8000/page/Mallorn_38> a schema:WebPage ;
+    rdfs:label "Mallorn 38"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_38> .
+
+<http://localhost:8000/page/Mallorn_39> a schema:WebPage ;
+    rdfs:label "Mallorn 39"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_39> .
+
+<http://localhost:8000/page/Mallorn_40> a schema:WebPage ;
+    rdfs:label "Mallorn 40"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_40> .
+
+<http://localhost:8000/page/Mallorn_41> a schema:WebPage ;
+    rdfs:label "Mallorn 41"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_41> .
+
+<http://localhost:8000/page/Mallorn_42> a schema:WebPage ;
+    rdfs:label "Mallorn 42"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_42> .
+
+<http://localhost:8000/page/Mallorn_43> a schema:WebPage ;
+    rdfs:label "Mallorn 43"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_43> .
+
+<http://localhost:8000/page/Mallorn_44> a schema:WebPage ;
+    rdfs:label "Mallorn 44"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_44> .
+
+<http://localhost:8000/page/Mallorn_45> a schema:WebPage ;
+    rdfs:label "Mallorn 45"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_45> .
+
+<http://localhost:8000/page/Mallorn_46> a schema:WebPage ;
+    rdfs:label "Mallorn 46"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_46> .
+
+<http://localhost:8000/page/Mallorn_47> a schema:WebPage ;
+    rdfs:label "Mallorn 47"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_47> .
+
+<http://localhost:8000/page/Mallorn_48> a schema:WebPage ;
+    rdfs:label "Mallorn 48"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_48> .
+
+<http://localhost:8000/page/Mallorn_49> a schema:WebPage ;
+    rdfs:label "Mallorn 49"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_49> .
+
+<http://localhost:8000/page/Mallorn_5> a schema:WebPage ;
+    rdfs:label "Mallorn 5"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_5> .
+
+<http://localhost:8000/page/Mallorn_50> a schema:WebPage ;
+    rdfs:label "Mallorn 50"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_50> .
+
+<http://localhost:8000/page/Mallorn_51> a schema:WebPage ;
+    rdfs:label "Mallorn 51"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_51> .
+
+<http://localhost:8000/page/Mallorn_52> a schema:WebPage ;
+    rdfs:label "Mallorn 52"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_52> .
+
+<http://localhost:8000/page/Mallorn_53> a schema:WebPage ;
+    rdfs:label "Mallorn 53"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_53> .
+
+<http://localhost:8000/page/Mallorn_54> a schema:WebPage ;
+    rdfs:label "Mallorn 54"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_54> .
+
+<http://localhost:8000/page/Mallorn_55> a schema:WebPage ;
+    rdfs:label "Mallorn 55"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_55> .
+
+<http://localhost:8000/page/Mallorn_56> a schema:WebPage ;
+    rdfs:label "Mallorn 56"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_56> .
+
+<http://localhost:8000/page/Mallorn_57> a schema:WebPage ;
+    rdfs:label "Mallorn 57"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_57> .
+
+<http://localhost:8000/page/Mallorn_58> a schema:WebPage ;
+    rdfs:label "Mallorn 58"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_58> .
+
+<http://localhost:8000/page/Mallorn_59> a schema:WebPage ;
+    rdfs:label "Mallorn 59"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_59> .
+
+<http://localhost:8000/resource/Mallorn_10> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date "1976"@en ;
+    tg:editor "Kevin Young"@en ;
+    tg:format "A4 paperback"@en ;
+    tg:image "Mallorn 10.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 10"@en ;
+    tg:pages "46"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_11> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/1977> ;
+    tg:editor "Kevin Young"@en ;
+    tg:format "A4 paperback"@en ;
+    tg:image "Mallorn11.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 11"@en ;
+    tg:pages "48"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_12> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/1978> ;
+    tg:editor "Kevin Young"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn 12.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 12"@en ;
+    tg:pages "52"@en .
+
+<http://localhost:8000/resource/Mallorn_13> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/1979> ;
+    tg:editor <http://localhost:8000/resource/Susan_Rule> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn13.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 13"@en ;
+    tg:pages "34"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_14> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/1980> ;
+    tg:editor <http://localhost:8000/resource/Susan_Rule> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn14.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 14"@en ;
+    tg:pages "34"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_15> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1980> ;
+    tg:editor <http://localhost:8000/resource/Susan_Rule> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn15.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 15"@en ;
+    tg:pages "34"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_16> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/May_1981> ;
+    tg:editor <http://localhost:8000/resource/Susan_Rule_%28editor%29%3Cbr/%3ESteve_Pillinger_%28assistant_editor%29> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn16.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 16"@en ;
+    tg:pages "34"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_17> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/October_1981> ;
+    tg:editor <http://localhost:8000/resource/Susan_Rule_%28editor%29%3Cbr/%3ESteve_Pillinger_%28assistant_editor%29> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn17.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 17"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_18> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/June_1982> ;
+    tg:editor "Jenny Curtis"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn18.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 18"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_19> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/December_1982> ;
+    tg:editor "Jenny Curtis"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn19.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 19"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_20> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1983> ;
+    tg:editor "Jenny Curtis"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn20.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 20"@en ;
+    tg:pages "32"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_21> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/June_1984> ;
+    tg:editor "Jenny Curtis"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn21.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 21"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_22> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/April_1985> ;
+    tg:editor "Jenny Curtis"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn22.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 22"@en ;
+    tg:pages "44"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_23> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/Summer_1986> ;
+    tg:editor "Denis Bridoux"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn 23.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 23"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_24> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1987> ;
+    tg:editor "Denis Bridoux"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn24.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 24"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_25> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1988> ;
+    tg:editor "Denis Bridoux"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn25.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 25"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_26> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1989> ;
+    tg:editor "Denis Bridoux"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn26.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 26"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_27> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1990> ;
+    tg:editor "Denis Bridoux"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn27.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 27"@en ;
+    tg:pages "44"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_28> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1991> ;
+    tg:editor <http://localhost:8000/resource/David_Doughan> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn28.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 28"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://hanwayprint.com/ Hanway Print Centre]"@en .
+
+<http://localhost:8000/resource/Mallorn_29> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/August_1992> ;
+    tg:editor <http://localhost:8000/resource/David_Doughan> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn29.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 29"@en ;
+    tg:pages "60"@en ;
+    tg:printer "PrintDesign, Chester"@en .
+
+<http://localhost:8000/resource/Mallorn_30> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1993> ;
+    tg:editor <http://localhost:8000/resource/John_Ellison_and_Patricia_Reynolds> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn30.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 30"@en ;
+    tg:pages "58"@en ;
+    tg:printer "[http://www.nbr-print.co.uk/ New Bradwell Reprographics]"@en .
+
+<http://localhost:8000/resource/Mallorn_31> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/December_1994> ;
+    tg:editor <http://localhost:8000/resource/John_Ellison_and_Patricia_Reynolds> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn31.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 31"@en ;
+    tg:pages "60"@en ;
+    tg:printer "[http://www.centurionpress.net/ Centurion Press]"@en .
+
+<http://localhost:8000/resource/Mallorn_32> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1995> ;
+    tg:editor <http://localhost:8000/resource/Patricia_Reynolds> ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:image "Mallorn32.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 32"@en ;
+    tg:pages "36"@en .
+
+<http://localhost:8000/resource/Mallorn_34> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/December_1996> ;
+    tg:editor <http://localhost:8000/resource/Patricia_Reynolds> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn34.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 34"@en ;
+    tg:pages "44"@en .
+
+<http://localhost:8000/resource/Mallorn_35> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_1997> ;
+    tg:editor <http://localhost:8000/resource/Patricia_Reynolds> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn35.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 35"@en ;
+    tg:pages "60"@en .
+
+<http://localhost:8000/resource/Mallorn_36> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/November_1998> ;
+    tg:editor <http://localhost:8000/resource/Patricia_Reynolds> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn36.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 36"@en ;
+    tg:pages "64"@en .
+
+<http://localhost:8000/resource/Mallorn_37> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/December_1999> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn37.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 37"@en ;
+    tg:pages "42"@en .
+
+<http://localhost:8000/resource/Mallorn_38> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/January_2001> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn38.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 38"@en ;
+    tg:pages "40"@en .
+
+<http://localhost:8000/resource/Mallorn_39> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/September_2001> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn39.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 39"@en ;
+    tg:pages "44"@en .
+
+<http://localhost:8000/resource/Mallorn_40> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/November_2002> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn40.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 40"@en ;
+    tg:pages "52"@en .
+
+<http://localhost:8000/resource/Mallorn_41> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/July_2003> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn41.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 41"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_42> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/August_2004> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn42.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 42"@en ;
+    tg:pages "60"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_43> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/July_2005> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn43.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 43"@en ;
+    tg:pages "64"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_44> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Pauline_Baynes> ;
+    tg:date <http://localhost:8000/resource/August_2006> ;
+    tg:editor "Len Sanford"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn44.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 44"@en ;
+    tg:pages "64"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_45> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date "Spring 2008"@en ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn45.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 45"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_46> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ruth_Lacon> ;
+    tg:date "Autumn 2008"@en ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn46.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 46"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_47> a schema:Thing ;
+    tg:artist "Becky Hitchin"@en ;
+    tg:date <http://localhost:8000/resource/Spring_2009> ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn47.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 47"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_48> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date <http://localhost:8000/resource/Autumn_2009> ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn48.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 48"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_49> a schema:Thing ;
+    tg:artist "Sue Wookey"@en ;
+    tg:date <http://localhost:8000/resource/Spring_2010> ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn49.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 49"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_5> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/1972> ;
+    tg:editor <http://localhost:8000/resource/Vera_Chapman> ;
+    tg:image "Mallorn 5.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 5"@en ;
+    tg:pages "30"@en ;
+    tg:printer "\"Fred\""@en .
+
+<http://localhost:8000/resource/Mallorn_50> a schema:Thing ;
+    tg:artist "Lorenzo Daniele"@en ;
+    tg:date <http://localhost:8000/resource/Autumn_2010> ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn50.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 50"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_51> a schema:Thing ;
+    tg:artist "Becky Hitchin"@en ;
+    tg:date <http://localhost:8000/resource/Spring_2011> ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn51.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 51"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_52> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ted_Nasmith> ;
+    tg:date <http://localhost:8000/resource/Autumn_2011> ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn52.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 52"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_53> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ted_Nasmith> ;
+    tg:date "Spring 2012"@en ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn53.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 53"@en ;
+    tg:pages "48"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_54> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ted_Nasmith> ;
+    tg:date "May 2013"@en ;
+    tg:editor <http://localhost:8000/resource/Henry_Gee> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn54.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 54"@en ;
+    tg:pages "52"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_55> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date "Winter 2014"@en ;
+    tg:editor <http://localhost:8000/resource/Helen_Armstrong> ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn55.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 55"@en ;
+    tg:pages "48"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_56> a schema:Thing ;
+    tg:artist "Tomás Hijo"@en ;
+    tg:date "Winter 2015"@en ;
+    tg:editor "Rosalinda Haddon"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn56.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 56"@en ;
+    tg:pages "48"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_57> a schema:Thing ;
+    tg:artist "John Cockshaw"@en ;
+    tg:date "Winter 2016"@en ;
+    tg:editor "Rosalinda Haddon"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn57.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 57"@en ;
+    tg:pages "44"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_58> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Soni_Alcorn-Hender> ;
+    tg:date "Winter 2017"@en ;
+    tg:editor "Rosalinda Haddon"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn58.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 58"@en ;
+    tg:pages "48"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Mallorn_59> a schema:Thing ;
+    tg:artist "John Cockshaw"@en ;
+    tg:date "Winter 2018"@en ;
+    tg:editor "Rosalinda Haddon"@en ;
+    tg:format "A4 stapled paperback, glossy"@en ;
+    tg:image "Mallorn59.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/mallorn> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn 59"@en ;
+    tg:pages "68"@en ;
+    tg:printer "[http://www.printedword.co.uk/ The Printed Word], Horsham, UK"@en .
+

@@ -1,0 +1,58 @@
+{{infobox character
+| people=[[Sindar|Sinda]]
+| name=Annael
+| image=Svirina Vera - Rian gives Tuor to Annael.jpg
+| caption="Rían gives Tuor to Annael" by [[:Category:Images by Svirina Vera|Svirina Vera]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Mithrim]], [[Androth]], [[Mouths of Sirion]]
+| affiliation=
+| language=[[Sindarin]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=fostered [[Tuor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}} 
+'''Annael''' was a [[Sindar|Sinda]] of the [[Elves of Mithrim]] in the [[First Age]].
+
+==History==
+Annael was the leader of a small group of Grey-elves at Mithrim, having the [[swan]] as his [[Heraldry|token]].<ref name="Tuor">{{UT|Tuor}}, pp. 17-25</ref>
+
+The Sindar of [[Hithlum]] joined the [[Union of Maedhros]], but after the disastrous [[Nirnaeth Arnoediad]], Annael was the only Sinda who returned.
+
+While [[Rían]] was hosted by the Grey-elves at [[Lake Mithrim]] during the birth of her son [[Tuor]], she asked them to foster him, as she wished to part in search of her husband [[Huor]]. Annael explained to her how Huor had died, and she left to die at the [[Hill of the Slain]].<ref name="Tuor" /><ref>{{S|Turin}}</ref> Thus Annael became the foster-father of Tuor during his early years.<ref name="Quenta">{{S|Gondolin}}</ref>
+
+As years passed, in order to seek refuge from [[Easterlings (First Age)|Easterlings]] and [[Orcs]], Annael led his small group of people to the caves of [[Androth]]. When Tuor was sixteen years of age, Annael had to prevent him from going to fight against the enemies of [[House of Hador|his House]], [[Foresight|foreseeing]] that [[Morgoth|Morgoth's]] power would not be defeated until [[Thangorodrim]] [[War of Wrath|was overthrown]], and that they had to march South to [[Annon-in-Gelydh]], which was built by [[Turgon]] long ago. Tuor was much intrigued by the name of Turgon and wished to meet him, but Annael told him how well hidden Turgon's [[Gondolin|realm]] was.<ref name="Tuor" />
+
+Despite having parted in secret from Androth, Annael's people were located and ambushed by a large force of Orcs and Easterlings. The Elves were all scattered, and Tuor was captured. However, Annael and many of his folk escaped [[Dor-lómin]] and joined [[Círdan]] in the [[Mouths of Sirion|distant south]] of [[Beleriand]].<ref name="Tuor" /><ref name="Quenta" />
+
+==Etymology==
+''Annael'' is clearly [[Sindarin]], but it is never glossed. It may contain the [[Quenya]]/[[Sindarin]] elements ''[[anna]]'' ("gift") and ''[[el]]'' ("star").
+
+{{References}}
+[[Category:Characters in The Children of Húrin]]
+[[Category:Characters in The Silmarillion]]
+[[Category:First Age characters]]
+[[Category:Moriquendi]]
+[[Category:Sindar]]
+[[Category:Sindarin names]]
+[[de:Annael]]
+[[fr:encyclo/personnages/elfes/teleri/sindar/annael]]
+[[fi:Annael]]

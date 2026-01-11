@@ -1,0 +1,196 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%C3%9Argost> a schema:WebPage ;
+    rdfs:label "Úrgost"@en ;
+    schema:about <http://localhost:8000/resource/%C3%9Argost> .
+
+<http://localhost:8000/page/Ancalagon> a schema:WebPage ;
+    rdfs:label "Ancalagon"@en ;
+    schema:about <http://localhost:8000/resource/Ancalagon> .
+
+<http://localhost:8000/page/Bairanax> a schema:WebPage ;
+    rdfs:label "Bairanax"@en ;
+    schema:about <http://localhost:8000/resource/Bairanax> .
+
+<http://localhost:8000/page/Chrysophylax> a schema:WebPage ;
+    rdfs:label "Chrysophylax"@en ;
+    schema:about <http://localhost:8000/resource/Chrysophylax> .
+
+<http://localhost:8000/page/Drogoth> a schema:WebPage ;
+    rdfs:label "Drogoth"@en ;
+    schema:about <http://localhost:8000/resource/Drogoth> .
+
+<http://localhost:8000/page/Foal%C3%B3k%C3%AB> a schema:WebPage ;
+    rdfs:label "Foalókë"@en ;
+    schema:about <http://localhost:8000/resource/Foal%C3%B3k%C3%AB> .
+
+<http://localhost:8000/page/Glaurung> a schema:WebPage ;
+    rdfs:label "Glaurung"@en ;
+    schema:about <http://localhost:8000/resource/Glaurung> .
+
+<http://localhost:8000/page/Gostir> a schema:WebPage ;
+    rdfs:label "Gostir"@en ;
+    schema:about <http://localhost:8000/resource/Gostir> .
+
+<http://localhost:8000/page/Itangast> a schema:WebPage ;
+    rdfs:label "Itangast"@en ;
+    schema:about <http://localhost:8000/resource/Itangast> .
+
+<http://localhost:8000/page/Lhamthanc> a schema:WebPage ;
+    rdfs:label "Lhamthanc"@en ;
+    schema:about <http://localhost:8000/resource/Lhamthanc> .
+
+<http://localhost:8000/page/Scatha> a schema:WebPage ;
+    rdfs:label "Scatha"@en ;
+    schema:about <http://localhost:8000/resource/Scatha> .
+
+<http://localhost:8000/page/Smaug> a schema:WebPage ;
+    rdfs:label "Smaug"@en ;
+    schema:about <http://localhost:8000/resource/Smaug> .
+
+<http://localhost:8000/resource/%C3%9Argost> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%C3%9Argost_from_%27%27The_Lord_of_the_Rings%3A_War_in_the_North%27%27> ;
+    tg:colour "Black"@en ;
+    tg:image "Úrgost - The Lord of the Rings War in the North.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:legs "Yes"@en ;
+    tg:name "Úrgost"@en ;
+    tg:realm <http://localhost:8000/resource/Grey_Mountains_%28formerly%29%3Cbr%3ECarn_D%C3%BBm> ;
+    tg:type <http://localhost:8000/resource/%27%27Urul%C3%B3k%C3%AB%3B_fire-drake%27%27%3Cref_name%3D%22Index%22%3E%7B%7BS> ;
+    tg:wings "Yes"@en .
+
+<http://localhost:8000/resource/Ancalagon> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:birth "After {{FA|510}}"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Angband> ;
+    tg:caption <http://localhost:8000/resource/%22War_of_Wrath%3A_Ancalagon_the_Black%22_by_%3ACategory%3AImages_by_Donato_Giancola> ;
+    tg:colour "Black"@en ;
+    tg:death "c. {{FA|587}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/War_of_Wrath> ;
+    tg:image "Donato Giancola - War of Wrath - Ancalagon the Black.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:legs "Yes"@en ;
+    tg:name "Ancalagon"@en ;
+    tg:slayer <http://localhost:8000/resource/E%C3%A4rendil> ;
+    tg:titles "The Black"@en ;
+    tg:type <http://localhost:8000/resource/Fire-drakes> ;
+    tg:wings "Yes"@en .
+
+<http://localhost:8000/resource/Bairanax> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27%E2%80%9CBairanax_at_Home%E2%80%9D%27%27_by_Rob_Alexander> ;
+    tg:colour "Brownish-red"@en ;
+    tg:image "Rob Alexander - Bairanax At Home.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:legs "Yes"@en ;
+    tg:location <http://localhost:8000/resource/Grey_Mountains> ;
+    tg:name "Bairanax"@en ;
+    tg:titles "The Bear Hunter"@en ;
+    tg:type <http://localhost:8000/resource/Cold-drakes> ;
+    tg:wings "Yes"@en .
+
+<http://localhost:8000/resource/Chrysophylax> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Farmer_Giles_of_Ham%22_by_Alan_Lee> ;
+    tg:hoard "In the mountains, composed of gold, silver, rings, necklaces, jewels, diamonds, and more"@en ;
+    tg:image "Alan Lee - Farmer Giles of Ham.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:legs "Four"@en ;
+    tg:name "Chrysophylax Dives"@en ;
+    tg:titles "The Rich"@en ;
+    tg:type <http://localhost:8000/resource/Fire-drakes> ;
+    tg:wings "Yes"@en .
+
+<http://localhost:8000/resource/Drogoth> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Eye_of_Sauron> ;
+    tg:death "{{TA|3018}} or {{TA|3019|n}}"@en ;
+    tg:image "The Lord of the Rings The Battle for Middle-earth II - Drogoth1.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:name "Drogoth"@en ;
+    tg:realm <http://localhost:8000/resource/Blue_Mountains%2C_Withered_Heath%3Cref_name%3D%22Heath%22%3EThe_Lord_of_the_Rings%3A_The_Battle_for_Middle-earth_II%2C_Evil_Campaign%2C_Chapter_6%3A_Withered_Heath%3C/ref%3E> ;
+    tg:type <http://localhost:8000/resource/Fire-drakes> .
+
+<http://localhost:8000/resource/Foal%C3%B3k%C3%AB> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Foal%C3%B3k%C3%AB%27%27_by_Rodrigo_Machado_for_Tolkien_Gateway> ;
+    tg:image "Rodrigo Machado - Foalókë.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:name "Foalókë"@en .
+
+<http://localhost:8000/resource/Glaurung> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:birth "First emerged in {{FA|260}}"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Angband> ;
+    tg:caption <http://localhost:8000/resource/%22The_End_of_Glaurung%22_by_%3ACategory%3AImages_by_Coliandre> ;
+    tg:colour "Golden"@en ;
+    tg:death "{{FA|499}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/Cabed-en-Aras> ;
+    tg:hoard <http://localhost:8000/resource/Treasure_of_Finrod> ;
+    tg:image "Coliandre - The End of Glaurung.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:legs "Yes"@en ;
+    tg:name "Glaurung"@en ;
+    tg:people <http://localhost:8000/resource/Dragons> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:realm <http://localhost:8000/resource/Nargothrond> ;
+    tg:slayer <http://localhost:8000/resource/T%C3%BArin> ;
+    tg:titles <http://localhost:8000/resource/Father_of_Dragons%3Cbr%3EGreat_Worm%3Cbr%3EThe_Golden%3Cbr%3EKing_of_Nargothrond> ;
+    tg:type <http://localhost:8000/resource/Fire-drakes> ;
+    tg:wings "No"@en .
+
+<http://localhost:8000/resource/Gostir> a schema:Thing ;
+    tg:birth "Unknown"@en ;
+    tg:caption <http://localhost:8000/resource/%27%27Gostir%27%27_by_%3ACategory%3AImages_by_George_Sukhoff> ;
+    tg:image "George Sukhoff - Gostir.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:name "Gostir"@en ;
+    tg:othernames "Gorsthir"@en .
+
+<http://localhost:8000/resource/Itangast> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27%E2%80%9CItangast_at_Home%E2%80%9D%27%27_by_Liz_Danforth> ;
+    tg:colour "Blue-black"@en ;
+    tg:hoard "Sulthol"@en ;
+    tg:image "Liz Danforth - Itangast at Home.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:location <http://localhost:8000/resource/Grey_Mountains> ;
+    tg:name "Itangast"@en ;
+    tg:titles "Guest-eater"@en ;
+    tg:type <http://localhost:8000/resource/Fire-drakes> .
+
+<http://localhost:8000/resource/Lhamthanc> a schema:Thing ;
+    tg:birth "Unknown"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:name "Lhamthanc"@en ;
+    tg:othernames "Iamthanc"@en .
+
+<http://localhost:8000/resource/Scatha> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Long-worms%3Cref_name%3Dappendix/%3E> ;
+    tg:caption <http://localhost:8000/resource/%22The_Slaying_of_Scatha%22_by_%3ACategory%3AImages_by_Wouter_Florusse> ;
+    tg:colour "Grey<ref name=collectedpoems1>{{CP|177}}, first version</ref> with a white belly<ref name=collectedpoems/>"@en ;
+    tg:death <http://localhost:8000/resource/20th_or_21st_century_of_the_Third_Age> ;
+    tg:hoard <http://localhost:8000/resource/Dwarves> ;
+    tg:image "Wouter Florusse - The Slaying of Scatha.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:location <http://localhost:8000/resource/Grey_Mountains%3Cref_name%3Dappendix%3E%7B%7BApp> ;
+    tg:name "Scatha"@en ;
+    tg:slainby <http://localhost:8000/resource/Fram%3Cref_name%3Dappendix/%3E> ;
+    tg:titles "The Worm"@en ;
+    tg:type <http://localhost:8000/resource/Cold-drakes> ;
+    tg:wings "No<ref name=collectedpoems/>"@en .
+
+<http://localhost:8000/resource/Smaug> a schema:Thing ;
+    tg:birth <http://localhost:8000/resource/Presumably_born_in_the_3rd_millennium_of_the_Third_Age%3Cref_name%3D%22H12%22/%3E> ;
+    tg:caption <http://localhost:8000/resource/%22Conversation_with_Smaug%22_by_J.R.R._Tolkien> ;
+    tg:colour "Red-golden"@en ;
+    tg:death "{{TA|2941}}<ref name=\"AppB2\">{{App|B2}}</ref>"@en ;
+    tg:deathlocation <http://localhost:8000/resource/Lake-town%3Cref_name%3D%22H14%22%3E%7B%7BH> ;
+    tg:hoard <http://localhost:8000/resource/Treasure_of_Thr%C3%B3r%2C_including_the_Arkenstone%3Cref_name%3D%22AppA3%22/%3E> ;
+    tg:image "J.R.R. Tolkien - Conversation with Smaug (large).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/dragon_infobox> ;
+    tg:legs "Yes"@en ;
+    tg:name "Smaug"@en ;
+    tg:othernames <http://localhost:8000/resource/Smaug_the_Golden%3Cbr/%3ELord_Smaug_the_Impenetrable%3Cbr/%3ETr%C4%81gu%3Cbr/%3E%28%27%27%23Other_names> ;
+    tg:realm <http://localhost:8000/resource/Lonely_Mountain> ;
+    tg:slayer <http://localhost:8000/resource/Bard%3Cref_name%3D%22H14%22/%3E> ;
+    tg:type <http://localhost:8000/resource/Fire-drakes> ;
+    tg:wings "Yes"@en .
+

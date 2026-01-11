@@ -1,0 +1,27 @@
+{{VTbox
+| title=Vinyar Tengwar 39
+| image = Vinyar Tengwar 39.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=July [[1998]]
+| format=Paperback journal
+| pages=36
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 39''''' is the thirty-ninth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|38|40}}
+
+==Contents==
+* E.L.F. News
+
+* "From ''[[Quendi and Eldar]]'', Appendix D"✫ — J.R.R. Tolkien, ed. Carl F. Hostetter
+* "''[[Ósanwe-kenta]]'': 'Enquiry into the Communication of Thought'"✫ — J.R.R. Tolkien, ed. Carl F. Hostetter
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 39}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 39]]

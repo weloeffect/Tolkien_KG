@@ -1,0 +1,25 @@
+{{disambig-more|Battle of Five Armies|[[Battle of Five Armies (disambiguation)]]}}
+{{board game infobox
+| image = BoFA BoardGame 2014.webp
+| name=Battle of Five Armies
+| designer=Roberto Di Meglio, Marco Maggi, Francesco Nepitello
+| publisher=[[ARES Games]]
+| releasedate=[[2014]]
+| players=2
+| ages=12+
+}}
+'''Battle of Five Armies''' is a war game published by [[ARES Games]] in 2014, enabling two players to re-enact the events of the [[Battle of the Five Armies]], as written about in [[The Hobbit]].
+==From the publisher==
+The Battle of Five Armies is back! The epic game that recreates the fierce struggle witnessed by [[Bilbo Baggins]] at the end of his quest to the [[Lonely Mountain]] is back in a revised edition.
+
+The Battle of Five Armies is a two-players game that allows you to re-create the epic conclusion of The Hobbit, the world-renowned masterpiece by J.R.R. Tolkien. The Shadow player commands the armies of [[Bolg]], the King of the Goblins of [[Mount Gundabad]], while the Free Peoples player is in control of [[Men]], [[Dwarves]], and [[Elves]], led by [[Gandalf]] to fend off the goblin army.
+
+Based on the acclaimed mechanics first used in the [[War of the Ring: Second Edition (2011 board game)|War of the Ring board game]], The Battle of Five Armies merges action dice and event cards, to make each game a unique experience. The system has been further enhanced by the addition of the “Fate Track” mechanic, handling the arrival of the allies and the triggering of special events. The Battle of Five Armies includes 126 plastic figures, with all the main characters of the battle, and many more top-quality components.
+
+
+==External links==
+* '''[https://www.aresgames.eu/games/war-of-the-ring-line/the-battle-of-five-armies# Official Site]'''
+* [https://boardgamegeek.com/boardgame/135219/the-battle-of-five-armies Board Game Geek Profile]
+{{references}}
+{{title}}
+[[Category:Board games]]

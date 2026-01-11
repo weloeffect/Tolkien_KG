@@ -1,0 +1,33 @@
+{{video game infobox
+| image = Shadowfax (videogame) - cover.gif
+| name=Shadowfax
+| developer=[[Mike Singleton]]<br/>Sean Logan (ZX Spectrum)
+| publisher=[[Postern]]
+| platform=[[wikipedia:BBC B|BBC B]]<br/>[[wikipedia:Commodore 64|Commodore 64]]<br/>[[wikipedia:VIC 20|VIC-20]]<br/>[[wikipedia:ZX Spectrum|ZX Spectrum]]
+| releasedate=[[1982]]
+| genre=[[wikipedia:Arcade game|Arcade]] action<ref>{{webcite|author=|articleurl=http://www.worldofspectrum.org/infoseek.cgi?regexp=^Shadowfax$&pub=^Postern+Ltd$|articlename=Shadowfax|dated=|website=[[wikipedia:World of Spectrum|World of Spectrum]]|accessed=29 december 2014}}</ref>
+|}}
+{{blockquote|I don't know how many got sold, but I got about £6,000 in royalties! I mean it was about the best rate of pay I've ever had!''
+|Mike Singleton<ref name="interview">{{webcite|author=Roger Kean|articleurl=http://www.crashonline.org.uk/14/singletn.htm|articlename=I BET TOLKIEN DID THE SAME|dated=|website=[http://www.crashonline.org.uk/ Crash Online]|accessed=29 december 2014}}</ref>}}
+
+'''Shadowfax''' is a commercial, unlicensed arcade action video game released in [[1982]].<ref name="Tolkien Games">{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/shadowfax.html|articlename=Shadowfax|dated=|website=Games|accessed=14 august 2011}}</ref> The primary designer was [[Mike Singleton]], who later worked on [[Interplay Productions|Interplay]]'s ''[[J.R.R. Tolkien's War in Middle Earth]]''.<ref>{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/wime.html|articlename=War in Middle-Earth|dated=|website=Games|accessed=4 december 2014}}</ref><ref>{{webcite|author=|articleurl=http://tolkiengateway.net/w/index.php?title=Mike_Singleton&action=edit|articlename=Mike Singleton|dated=|website=[[wikipedia:World of Spectrum|World of Spectrum]]|accessed=29 december 2014}}</ref><ref>{{webcite|author=José M. Fernández|articleurl=http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=5|articlename=El Anillo interactivo|dated=17 january 2012|website=[http://www.meristation.com Meristation]|accessed=29 december 2014}}</ref>
+==Design==
+The graphics of the moving horses came from ''Computer Race'', an earlier game by Mike Singleton (which was cancelled due to the United Kingdom's betting laws), and were in fact taken from the photos of [[wikipedia:Eadweard Muybridge|Eadweard Muybridge]].<ref name="interview"/>
+
+==Gameplay==
+The player is [[Gandalf]], riding on [[Shadowfax]]; the objective is to kill the chasing [[Nazgûl]] with lightning.<ref name="Tolkien Games"/><ref>{{webcite|author=|articleurl=http://www.giantbomb.com/shadowfax/61-9892/|articlename=Shadowfax|dated=|website=[http://www.giantbomb.com GiantBomb]|accessed=14 august 2010}}</ref>
+
+== See also ==
+* [[:Category:Images from Shadowfax (video game)|Images from Shadowfax]]
+
+== External links ==
+* [http://www.lysator.liu.se/tolkien-games/entry/shadowfax.html Shadowfax] at [http://www.lysator.liu.se Tolkien Games]
+
+{{references}}
+{{title|italics}}
+[[Category:Action games]]
+[[Category:Arcade games]]
+[[Category:BBC B games]]
+[[Category:Commodore 64 games]]
+[[Category:VIC-20 games]]
+[[Category:ZX Spectrum games]]

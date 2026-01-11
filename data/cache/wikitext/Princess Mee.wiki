@@ -1,0 +1,46 @@
+{{Poem infobox
+| title=Princess Mee
+| other names=''Princess Nî'',<br>''Mægden Ní Owéne Dohtor'',<br>''Princess Nî daughter of Osse and Ônen'',<br>''The Princess Ní''
+| written=[[1915]]
+| revised=Around [[1961]]
+| published= ''[[Leeds University Verse 1914-24]]'',<br>''[[The Adventures of Tom Bombadil]]'',<br>''[[Poems and Songs of Middle Earth]]'',<br>''[[The J.R.R. Tolkien Audio Collection]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Elves]], [[Hobbits]], [[Mee|Nî]], [[Ossë|Osse]], [[Uinen|Ônen]]
+}}
+'''''Princess Mee''''' is a nonsense [[Hobbit]] poem that was among those written in the margins of the [[Red Book of Westmarch]].<ref>{{AB|Preface}}</ref>
+
+== First stanza ==
+<poem style="font-style:italic; margin-left:20px;">
+Little Princess Mee
+Lovely was she
+As in elven-song is told:
+She had pearls in hair
+All threaded fair;
+Of gossamer shot with gold
+Was her kerchief made,
+And a silver braid
+Of stars above her throat.
+Of moth-web light
+All moonlit-white
+She wore a woven coat,
+And round her kirtle
+Was bound a girdle
+Sewn with diamond dew.<ref name=poem>{{AB|Mee}}</ref>
+</poem>
+
+== Background ==
+The first draft of the poem was dated [[9 July]] [[1915]] and entitled '''''Mægden Ní Owéne Dohtor'''''<ref name=collectedpoems>{{CP|32}}</ref> and '''''Princess Nî'''''. A revised version entitled '''''The Princess Ní''''' was published in [[1924]] within ''[[Leeds University Verse 1914-24]]'' (p.&nbsp;58).<ref>{{CG|C}}, p. 853</ref> The name probably refers to the [[Celtic]] feminine patronymic ''ní''.<ref name=ab>{{AB|Comm}}</ref>
+
+The poem was one of those Tolkien rediscovered, refurbished and revised around [[1961]] while preparing ''[[The Adventures of Tom Bombadil]]'', where it was published as ''Princess Mee''.<ref name=poem/>
+
+The poem derives from ''The Princess Ní'', a poem Tolkien wrote in his youth, and one of those he refurbished and revised while preparing ''[[The Adventures of Tom Bombadil]]''.<ref name=ab/>
+
+== See also ==
+* [[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{references}}
+{{poems}}
+
+[[Category:Poems in The Adventures of Tom Bombadil]]
+
+[[de:Prinzessin Ich-Mi]]
+[[fi:Prinsessa Mie (runo)]]

@@ -1,0 +1,10 @@
+{{letter infobox
+| #=175
+| to=Molly Waldron
+| date=[[30 November]] [[1955]]
+| subject=[[The Lord of the Rings (1955 radio series)]]
+}}{{letter|175}}
+==Summary==
+Tolkien commented on the first episodes of the [[The Lord of the Rings (1955 radio series)|radio adaptation]] of ''[[The Lord of the Rings]]'' that was airing at the time. Tolkien was less than happy. He called [[Norman Shelley]]'s portrayal of [[Tom Bombadil]] "dreadful", but worse was that [[Goldberry]] was identified as his daughter, and the [[Old Man Willow|Willowman]] as an ally of [[Mordor]].
+{{letters}}
+[[de:Brief 175]]

@@ -1,0 +1,34 @@
+{{battle
+| name=Battle of the Plains
+| image = Olanda Fong-Surdenas - Easterling.jpg
+| conflict=[[Wainrider/Balchoth War]]
+| date={{TA|1856}}
+| place=Plains south of Mirkwood
+| result=Victory for the Wainriders
+| side1=Gondor, Northmen (pre-Éothéod)
+| side2=Wainriders
+| commanders1=Narmacil II †
+| commanders2=Unknown Wainrider commander
+| forces1=
+| forces2=
+| casual1=Severe
+|casual2=Probably moderate
+|}}
+The '''Battle of the Plains''' was fought in {{TA|1856}}, in which the armies of [[Gondor]] and their allies the [[Northmen]] faced the invading [[Wainriders]].
+
+== Prior to the Battle ==
+Prior to the battle, in the winter of {{TA|1635}},<ref name="Cirion">{{UT|Northmen}}</ref> the [[Great Plague]] arrived by dark winds in the northwest of [[Middle-earth]].  The heaviest impact struck the kingdoms of  [[Rhovanion]], which lost half of its people, and Gondor, where in {{TA|1636}} it killed many thousands of its people as well.<ref name="TA">{{App|TA}}</ref>  They were slow to recover; but fortunately, their weaknesses went untested for decades.<ref name="Cirion"/>  The [[Easterlings]] had also been afflicted, so that the enemies of Gondor struck mainly from the south, or were maritime raiders.  But when the Wainriders invasions began in {{TA|1851}},<ref name="TA"/> they involved Gondor in wars that lasted for nearly a hundred years. In these conflicts, the Northmen bore the brunt of the first assaults.<ref name="Cirion"/>
+
+== The Battle ==
+In {{TA|1856}} King [[Narmacil II]] of Gondor took a great army north to the plains south of [[Mirkwood]], and gathered together all that he could of the scattered remnants of the Northmen.  The Wainriders descended upon this combined force from the north and northeast.  Narmacil II was defeated, and he himself was slain in the battle as well as [[Marhari]] leader of the Northmen, who died fighting in the rearguard. The remnant of Gondor's army retreated over [[Dagorlad]] into [[Ithilien]].<ref name="Cirion"/>
+
+== Aftermath and Repercussions ==
+The battle was a disaster for [[Gondor]].  The king was slain, and the lands east of the river [[Anduin]] were abandoned, save Ithilien.  Narmacil was succeeded by his son [[Calimehtar (King of Gondor)|Calimehtar]].  However, the forces of Gondor did inflict enough damage to the Wainriders to prevent any deeper incursion into Gondor; instead the invaders completed their conquest of Rhovanion.<ref name="Cirion"/>
+
+As for the Northmen, a few fled over the river [[River Running|Celduin]] and merged with the [[Men of Dale|People of Dale]] (with whom they were akin), some took refuge in Gondor, and others were gathereed under the leadership of [[Marhwini]] son of Marhari.  Marhwini led his people north between Anduin and Mirkwood, eventually settling east of the Great River in the [[Vales of Anduin]] between the [[Carrock]] and the [[Gladden Fields]].<ref>{{UT|8e}}, Note 8</ref>  They were joined by many fugitives who came through Mirkwood.  This was the birth of the [[Éothéod]], though no news of this reached Gondor for many years.  Most of the Northmen were reduced to servitude, and all their former lands were occupied by the Wainriders.<ref name="Cirion"/>
+
+{{references}}
+[[Category:Conflicts of the Third Age]]
+[[de:Schlacht auf den Ebenen]]
+[[fr:encyclo:evenements:3a:guerres:bataille des plaines]]
+[[fi:Tasankojen Taistelu]]

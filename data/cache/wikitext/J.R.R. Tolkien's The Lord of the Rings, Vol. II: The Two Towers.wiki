@@ -1,0 +1,32 @@
+{{disambig-more|Two Towers|[[Two Towers (disambiguation)]]}}
+{{video game infobox
+| image = LOTR-vol2-boxart.png
+| name=''J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers''
+| developer=[[Interplay Productions]], [[Silicon & Synapse]]
+| publisher=[[Interplay Productions]]
+| platform=PC, [[wikipedia:MS-DOS|MS-DOS]], [[wikipedia:Amiga|Amiga]] (never released)
+| releasedate=Spring [[1993]]
+| genre=
+|}}
+'''''J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers''''' is a PC game by [[Interplay Productions]].<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/lotr2.html The Lord of the Rings, Vol. II: The Two Towers] at Tolkien Games (retrieved 5 February 2011)</ref><ref>[http://www.giantbomb.com/jrr-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers/61-15954/ The Lord of the Rings, Vol. II: The Two Towers] at GiantBoomb (retrieved 5 February 2011)</ref><ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=GEN&id=2254&idj=&idp=&tipo=art&c=1&pos=7 Meristation, El Anillo interactivo] p. 8 (retrieved 5 February 2011)</ref><ref name="IMDB">[http://www.imdb.com/title/tt0406042/ The Lord of the Rings, Vol. II: The Two Towers] at IMDB (retrieved 5 February 2011)</ref><ref name="Moby">[http://www.mobygames.com/game/jrr-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers The Lord of the Rings, Vol. II: The Two Towers] at Moby Games (retrieved 5 February 2011)</ref> A version for the [[wikipedia:Amiga|Amiga]] was developed as well by [[Silicon & Synapse]] but was eventually cancelled.<ref name="Tolkien Games"/><ref name="El Anillo"/>
+
+==Production==
+''The Lord of the Rings, Vol. II: The Two Towers'' followed the first part, ''[[The Lord of the Rings, Vol. I (1990 computer game)|The Lord of the Rings, Vol. I]]''<ref name="Tolkien Games"/> and chronicles the events of [[The Two Towers|the second tome]].<ref name="El Anillo"/> A third game was originally also planned, covering ''[[The Return of the King]]'', but it never came to be.<ref name="Tolkien Games"/>
+
+The game was designed by [[Mark Whittlesey]] and [[Scott Bennie]],<ref name="Tolkien Games"/><ref name="IMDB"/> who chose to retain most of the story and also mixed in elements from [[J.R.R. Tolkien|Tolkien]]'s other works.<ref name="El Anillo"/>
+
+==Gameplay==
+The gameplay was copied from the first game,<ref name="El Anillo"/> but made considerably easier. Unlike its predecessor, there is no fixed character: several characters are playable,<ref name="Moby"/> each with a selection of weapons.
+
+The game also featured an [[wikipedia:Automap|automapping]] system, and the scale was reduced to improve player orientation.
+
+==See also==
+* ''[[J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 computer game)|J.R.R. Tolkien's The Lord of the Rings, Vol. I]]'' for the [[wikipedia:Personal Computer|PC]].
+* ''[[J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)|J.R.R. Tolkien's The Lord of the Rings, Vol. I]]'' for the [[wikipedia:SNES|SNES]]
+
+{{references}}<small>
+* Alfred C. Giovetti, "The Two Towers: The Lord of the Rings, Volume II", published in ''[[wikipedia:Compute!|Compute!]]'', Vol. 15 Issue 1 (January 1993), pages 136-7</small>
+{{Videogames}}
+{{title|italics}}
+[[Category:DOS games]]
+[[Category:Interplay Productions games]]

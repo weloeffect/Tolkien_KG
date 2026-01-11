@@ -1,0 +1,27 @@
+{{VTbox
+| title=Vinyar Tengwar 9
+| image = Vinyar Tengwar 9.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=January [[1990]]
+| format=Paperback journal
+| pages=16
+}}
+'''''Vinyar Tengwar 9''''' is the ninth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|8|10}}
+
+==Contents==
+* Cover: "Galadriel" — Patrick H. Wynne
+* E.L.F. News
+* Letters to ''VT''
+
+* "A Linguistic Review of ''[[The Treason of Isengard]]''" — Jorge Quiñónez
+* "Notes Toward a Translation of 'Luthien’s Song'" — Patrick H. Wynne
+* "Transitions in Translations: Danish Appendectomies" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 09}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 9]]

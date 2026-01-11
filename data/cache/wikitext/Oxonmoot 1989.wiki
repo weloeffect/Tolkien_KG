@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1989
+| location=Oxford Town Hall, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 22nd-24th, 1989
+| attendees=
+}}
+
+{{oxonmoot|1988|1990}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

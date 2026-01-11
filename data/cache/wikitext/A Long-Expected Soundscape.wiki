@@ -1,0 +1,25 @@
+{{album
+| image = A Long-Expected Soundscape.jpg
+| title=''A Long-Expected Soundscape''
+| type=Soundtrack
+| artist=A Long-Expected Soundscape
+| released=[[2022]] - [[2023]]
+| recorded=
+| genre=
+| length=200+ hours
+| language=English
+| label=
+}}
+'''A Long-Expected Soundscape''' is an audio project created by Jordan Rannells, designed as a 3D audio dramatization of ''[[The Lord of the Rings]].'' It can also be used as a chapter-by-chapter accompaniment as people read the books. It can also be synchronized with the audiobooks read by [[Andy Serkis]] and [[Rob Inglis]]. '''A Long-Expected Soundscape''' encompasses layers of sound FX, ambient nature environmental sounds, and an original score.
+
+The track titles match the titles of the book. 
+
+==Audio Sample==
+<youtube>1Mjxw_x6Th0</youtube>
+
+==External links==
+*[https://jordanrannells.com/shop/p/a-long-expected-soundscape-pre-order Official store]
+*[https://www.kickstarter.com/projects/expectedsoundscape/a-long-expected-soundscape Kickstarter]
+
+{{title|italics}}
+[[Category:Soundtracks]]

@@ -1,0 +1,58 @@
+{{kingdom
+| image=
+| name=Arthedain
+| pronun=
+| othernames=
+| location=Western [[Eriador]]; west of [[Baranduin]] and the [[Weather Hills]]
+| capital=[[Fornost Erain|Fornost]]
+| towns=[[Annúminas]], [[Bree]], [[Hobbiton]]
+| regions=
+| population=[[Dúnedain]], [[Hobbits]]
+| language=[[Westron]]
+| govern1=[[King of Arthedain]]
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=[[Arnor]]
+| event1=Founded
+| event1date={{TA|861}}
+| event2=Abandoned
+| event2date={{TA|1974}}
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+}}
+{{Pronounce|Arthedain.mp3|Ardamir}}
+'''Arthedain''' was one of the three realms of the [[Dúnedain of Arnor|Dúnedain of the North]] created from the fragmentation of the kingdom of [[Arnor]]. After the death of Arnor's King [[Eärendur (King of Arnor)|Eärendur]], his sons divided the realm into the kingdoms of Arthedain, [[Rhudaur]] and [[Cardolan]].
+
+==Description==
+Arthedain lay primarily between the [[Lhûn]] and the [[Baranduin|Brandywine]] in northwestern [[Eriador]]. However, it also claimed the land north of the [[East Road]] from the [[Brandywine Bridge]] to the [[Weather Hills]].<ref name="Eriador">{{App|Eriador}}</ref> Notable features within Arthedain were the [[Hills of Evendim]], [[Lake Evendim]], [[North Downs]], [[Tower Hills]], [[Far Downs]], [[White Downs]], [[the Shire]], [[Annúminas]], and [[Fornost Erain]].<ref>{{UT|Map}}</ref>
+
+==History==
+After the tenth king of Arnor, Eärendur, died in {{TA|861}},<ref name="TA">{{App|TA}}</ref> dissensions between his sons fractured the realm. Arnor was divided into Arthedain, Rhudaur and Cardolan. The line of [[Isildur]] was maintained in Arthedain, but in Rhudaur and Cardolan the line faded quickly. Arthedain retained [[Weathertop]] and [[Amon Sûl-stone|its]] ''[[Palantíri|Palantír]]'' as well as [[Annúminas-stone|two]] [[Elostirion-stone|others]], which led to contention between the three kingdoms.<ref name="Eriador"/>
+
+When [[Malvegil]] of Arthedain became king in {{TA|1272|n}}<ref name="North">{{App|North}}</ref> [[Orcs]] began to trouble the region.<ref>{{PM|Elendil}}</ref> Around {{TA|1300}}, the [[Witch-king]] founded the kingdom of [[Angmar]] north of the [[Ettenmoors]], soon to become the foe of Arthedain.<ref name="TA"/>
+
+After Malvegil, his son [[Argeleb I]] reclaimed lordship over all of Arnor since Rhudaur and Cardolan had no living descendants of Isildur.  Rhudaur refused this claim and allied with Angmar.<ref name="Eriador"/>  Argeleb I fell in battle with Rhudaur in {{TA|1356|n}}.<ref name="TA"/>  His son, [[Arveleg I]], avenged his father by retaking the Weather Hills, aided by [[Lindon]] and Cardolan.  However, a great host issued from Angmar in {{TA|1409}}, invading Arthedain and taking Weathertop. King Arveleg I was slain, as well as the [[last prince of Cardolan]] (later interred in the Barrow-downs).<ref>{{HM|RC}}, "Fog on the Barrow-downs", pp. 144-5; Index, 'Cardolan, [[Last prince of Cardolan|last prince of]]'</ref> Rhudaur was occupied by Angmar and Cardolan was ravaged.<ref name="Eriador"/>
+
+In {{TA|1601|n}} two [[Fallohides|Fallohide]] brothers, [[Marcho]] and [[Blanco]], crossed the Brandywine with many [[Hobbits]] and, with the permission of King [[Argeleb II]], established [[the Shire]].<ref>{{FR|Hobbits}}</ref> The Hobbits and the remaining [[Men]] in Arthedain suffered losses in the [[Great Plague]] of {{TA|1636|n}}.<ref name="TA"/>
+
+In {{TA|1974|n}}<ref name="TA"/> the Witch-king invaded Arthedain, capturing Fornost and driving most of the few Dúnedain across the Lhûn. King [[Arvedui]] held out for awhile in the [[North Downs]] until he and his guard were driven north.<ref name="Eriador"/>  Although the realm of Angmar was crushed at the [[Battle of Fornost]] in {{TA|1975|n}},<ref name="TA"/> the realm of Arthedain also came to an end and its lands remained mostly empty (except for the Shire) and its people became [[Rangers of the North|Rangers]]; until the [[Reunited Kingdom|reestablishment]] of the northern kingdom under king [[Aragorn|Elessar]] at the end of the [[Third Age]].
+
+==Etymology==
+''Arthedain'' is a [[Sindarin]] name. Its meaning is not glossed, but Paul Strack and Wayne G. Hammond and Cristina Scull suggest that it means "Realm of the Edain" and is a compound of a form ''arth'' of ''arthor'' ("realm") and the plural ''edain'' of ''[[adan]]'' ("Man (as a race)").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1491413941.html|articlename=S. ''Arthedain'' loc.|website=Eldamo|accessed=08 February 2022}}</ref><ref>{{HM|RC}}, p. 690</ref>
+
+{{references}}
+[[Category:Arnor]]
+[[Category:Eriador]]
+[[Category:Sindarin locations]]
+[[Category:Mannish realms]]
+ 
+[[de:Arthedain]]
+[[fi:Arthedain]]
+[[fr:encyclo/geographie/royaumes/arthedain]]

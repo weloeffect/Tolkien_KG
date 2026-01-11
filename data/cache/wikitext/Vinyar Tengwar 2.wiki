@@ -1,0 +1,26 @@
+{{VTbox
+| title=Vinyar Tengwar 2
+| image = Vinyar Tengwar 2.jpg
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=November [[1988]]
+| format=Paperback journal
+| pages=16
+}}
+'''''Vinyar Tengwar 2''''' is the second issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|1|3}}
+
+==Contents==
+* Cover: "Halls of the Elven-king" — Tom Loback
+* Letters to ''VT''
+
+* "Evidence of Grammatical Gender in the Quenya of the '[[A Secret Vice|Secret Vice]]' Poems, and Present Thoughts on Past Tenses" — Patrick H. Wynne
+* "An Elvish Astronomical Catalog" — Jorge Quiñónez
+* "A Linguistic Review of J.R.R. Tolkien's ''[[The Return of the Shadow]]''" — Jorge Quiñónez
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 02}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 2]]

@@ -1,0 +1,55 @@
+{{Mallorn
+| name=Mallorn 43
+| image = Mallorn43.png
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=[[July]] [[2005]]
+| format=A4 stapled paperback, glossy
+| pages=64
+| issn=0308-6674
+}}
+'''''Mallorn'' 43''' is the forty-third issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[July]] [[2005]].
+
+==Contents==
+* '''Front Cover'''
+** By: [[Pauline Baynes]]
+* '''About [[The Tolkien Society]]'''
+* '''Editorial'''
+** By: Len Sanford
+
+* '''Virtual History:''' ''[[Arnor]]: the [[Númenóreans|Numenorean]] inheritance; Chapter 3: Nendor and the Enedre''
+** By: Majorie Willetts
+
+* '''Reviews:''' "Traitors and translators: three German versions of ''[[The Lord of the Rings]]''
+** By: Susanne Stopfel
+
+* "The road goes ever on: [[J.R.R. Tolkien|Tolkien]]'s use of the 'Journey' motive in reconstructing ''The Lord of the Rings''"
+** By: [[John Ellison]]
+* "Botanical notes on the [[Mallorn]]"
+** By: Beth Russell
+* "Arthur and [[Aragorn]]: Arthurian influence in ''The Lord of the Rings''"
+** By: Richard J. Finn
+* "A history of song: The transmission of memory in [[Middle-earth]]"
+** By: Michael Cunningham
+* "Tolkien's women (and men): the films and the book"
+** By: [[Jane Chance]]
+* "[[Gandalf]] as torturer: the ticking bomb terrorist and due process in J.R.R. Tolkien's ''The Lord of the Rings''"
+** By: Adam Rosman
+* "Merry in focus: On Ring fever, having adventures, being overlooked, and not getting left behind"
+** By: Hilary Longstaff
+* "Tolkien's Burning Briar - an astronomical explanation"
+** By: [[Kristine Larsen]]
+* "Perspectives on reality in ''The Lord of the Rings'': Part II - Nature, beauty and death"
+** By: Gerardo Barajas Garrido
+
+*'''About the authors'''
+*'''Back Cover:''' ''The Hobbits come to [[Minas Morgul]]''
+** By: [[John Ellison]]
+
+*'''Inside Art'''
+** By: Lorenzo Daniele, [[John Ellison]], [[Katrin Kunde]], [[Jef Murray]], [[Jill Thwaites]] and [[Kay Woollard]]
+{{mallornnav|42|44}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 43}}
+[[Category:Mallorn (journal)]]

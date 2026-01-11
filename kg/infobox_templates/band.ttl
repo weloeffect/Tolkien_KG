@@ -1,0 +1,254 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Avathar_%28band%29> a schema:WebPage ;
+    rdfs:label "Avathar (band)"@en ;
+    schema:about <http://localhost:8000/resource/Avathar_%28band%29> .
+
+<http://localhost:8000/page/Battlelore> a schema:WebPage ;
+    rdfs:label "Battlelore"@en ;
+    schema:about <http://localhost:8000/resource/Battlelore> .
+
+<http://localhost:8000/page/Black_Jade> a schema:WebPage ;
+    rdfs:label "Black Jade"@en ;
+    schema:about <http://localhost:8000/resource/Black_Jade> .
+
+<http://localhost:8000/page/Blind_Guardian> a schema:WebPage ;
+    rdfs:label "Blind Guardian"@en ;
+    schema:about <http://localhost:8000/resource/Blind_Guardian> .
+
+<http://localhost:8000/page/Burzum_%28band%29> a schema:WebPage ;
+    rdfs:label "Burzum (band)"@en ;
+    schema:about <http://localhost:8000/resource/Burzum_%28band%29> .
+
+<http://localhost:8000/page/Cirith_Gorgor_%28band%29> a schema:WebPage ;
+    rdfs:label "Cirith Gorgor (band)"@en ;
+    schema:about <http://localhost:8000/resource/Cirith_Gorgor_%28band%29> .
+
+<http://localhost:8000/page/Clamavi_De_Profundis> a schema:WebPage ;
+    rdfs:label "Clamavi De Profundis"@en ;
+    schema:about <http://localhost:8000/resource/Clamavi_De_Profundis> .
+
+<http://localhost:8000/page/Cruachan> a schema:WebPage ;
+    rdfs:label "Cruachan"@en ;
+    schema:about <http://localhost:8000/resource/Cruachan> .
+
+<http://localhost:8000/page/Glass_Hammer> a schema:WebPage ;
+    rdfs:label "Glass Hammer"@en ;
+    schema:about <http://localhost:8000/resource/Glass_Hammer> .
+
+<http://localhost:8000/page/InfuseR> a schema:WebPage ;
+    rdfs:label "InfuseR"@en ;
+    schema:about <http://localhost:8000/resource/InfuseR> .
+
+<http://localhost:8000/page/Land_of_Mordor> a schema:WebPage ;
+    rdfs:label "Land of Mordor"@en ;
+    schema:about <http://localhost:8000/resource/Land_of_Mordor> .
+
+<http://localhost:8000/page/Rush> a schema:WebPage ;
+    rdfs:label "Rush"@en ;
+    schema:about <http://localhost:8000/resource/Rush> .
+
+<http://localhost:8000/page/Summoning> a schema:WebPage ;
+    rdfs:label "Summoning"@en ;
+    schema:about <http://localhost:8000/resource/Summoning> .
+
+<http://localhost:8000/page/The_Fellowship_%28band%29> a schema:WebPage ;
+    rdfs:label "The Fellowship (band)"@en ;
+    schema:about <http://localhost:8000/resource/The_Fellowship_%28band%29> .
+
+<http://localhost:8000/page/The_Hobbitons> a schema:WebPage ;
+    rdfs:label "The Hobbitons"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbitons> .
+
+<http://localhost:8000/page/The_Lonely_Mountain_Band> a schema:WebPage ;
+    rdfs:label "The Lonely Mountain Band"@en ;
+    schema:about <http://localhost:8000/resource/The_Lonely_Mountain_Band> .
+
+<http://localhost:8000/page/Tolkien_Ensemble> a schema:WebPage ;
+    rdfs:label "Tolkien Ensemble"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Ensemble> .
+
+<http://localhost:8000/page/Wind_Rose> a schema:WebPage ;
+    rdfs:label "Wind Rose"@en ;
+    schema:about <http://localhost:8000/resource/Wind_Rose> .
+
+<http://localhost:8000/resource/Avathar_%28band%29> a schema:Thing ;
+    tg:formermembers "Jonna Piittala<br/>Daeron<br/>Thalion<br/>Emerwen<br/>Iina<br/>Finduilas<br/>Von Blofeld<br/>Bolg<br/>Dain<br/>Miriel<br/>Dim"@en ;
+    tg:genre <http://localhost:8000/resource/Black_metal%2C_Tolkien_metal> ;
+    tg:image "Avathar.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "None"@en ;
+    tg:members "Witch king<br/>Scatha<br/>Dragon Hunter<br/>Anfauglir<br/>Khamûl<br/>Ar-Pharazôn"@en ;
+    tg:origin "Ojakkala, Finland"@en ;
+    tg:website "[http://www.facebook.com/avatharFIN/ Facebook page]"@en ;
+    tg:years "2000-present"@en .
+
+<http://localhost:8000/resource/Battlelore> a schema:Thing ;
+    tg:formermembers "Miika Kokkola<br/>Patrik Mennander<br/>Tommi Havo<br/>Gorthaur"@en ;
+    tg:genre "Epic Metal"@en ;
+    tg:image "Battlelore.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "Napalm Records"@en ;
+    tg:members "Kaisa Jouhki<br/>Tomi Mykkänen<br/>Jussi Rautio<br/>Jyri Vahvanen<br/>Timo Honkanen<br/>Maria<br/>Henri Vahvanen"@en ;
+    tg:origin "Lappeenranta, Finland"@en ;
+    tg:website "[http://www.battlelore.net www.battlelore.net]"@en ;
+    tg:years <http://localhost:8000/resource/1999-present> .
+
+<http://localhost:8000/resource/Black_Jade> a schema:Thing ;
+    tg:formermembers "Warbringer<br/>Dagaz<br/>God of Pain"@en ;
+    tg:genre <http://localhost:8000/resource/%3ACategory%3ABlack_metal> ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "Black Tower"@en ;
+    tg:members "Naragarth"@en ;
+    tg:name "Black Jade"@en ;
+    tg:origin "Switzerland (Zeiningen, Aargau)"@en ;
+    tg:website "[http://www.myspace.com/blackjadeswiss Official Myspace]"@en ;
+    tg:years <http://localhost:8000/resource/2000-present> .
+
+<http://localhost:8000/resource/Blind_Guardian> a schema:Thing ;
+    tg:formermembers "Thomas \"Thomen\" Stauch<br/>Markus Dörk<br/>Christof Theißen<br/>Peter Frey"@en ;
+    tg:genre "Power metal, speed metal, progressive metal"@en ;
+    tg:image "Blind Guardian.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "No Remorse, Virgin, Century Media, Nuclear Blast"@en ;
+    tg:members <http://localhost:8000/resource/Hansi_K%C3%BCrsch%3Cbr/%3EAndr%C3%A9_Olbrich%3Cbr/%3EMarcus_Siepen%3Cbr/%3EFrederik_Ehmke> ;
+    tg:origin "Krefeld, Germany"@en ;
+    tg:website "[http://www.blind-guardian.com/ www.blind-guardian.com]"@en ;
+    tg:years "1984-present"@en .
+
+<http://localhost:8000/resource/Burzum_%28band%29> a schema:Thing ;
+    tg:formermembers "Varg Vikernes - all instruments"@en ;
+    tg:genre "Black metal, dark ambient"@en ;
+    tg:image "Burzum Logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "Deathlike Silence<br>Cymophane<br>Misanthropy<br>Byelobog"@en ;
+    tg:origin "Bergen, Norway"@en ;
+    tg:website "[http://www.burzum.org burzum.org] [http://www.thuleanperspective.com thuleanperspective.com]"@en ;
+    tg:years "1990-1999, 2009-present"@en .
+
+<http://localhost:8000/resource/Cirith_Gorgor_%28band%29> a schema:Thing ;
+    tg:genre <http://localhost:8000/resource/%3ACategory%3ABlack_metal> ;
+    tg:image "Cirith Gorgor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members "Levithmong, Marchosias, Valtyr"@en ;
+    tg:name "Cirith Gorgor"@en ;
+    tg:origin "The Netherlands"@en ;
+    tg:website "[http://www.cirithgorgor.nl/ www.cirithgorgor.nl]"@en ;
+    tg:years "1993-present"@en .
+
+<http://localhost:8000/resource/Clamavi_De_Profundis> a schema:Thing ;
+    tg:genre "Classical"@en ;
+    tg:image "Clamavi de profundis.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:name "Clamavi De Profundis"@en ;
+    tg:sample "<spotify>track/6RvoGBTNw4N3V7FXNWH32x</spotify>"@en ;
+    tg:years "2013-pressent"@en .
+
+<http://localhost:8000/resource/Cruachan> a schema:Thing ;
+    tg:genre "folk metal"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:name "Cruachan"@en ;
+    tg:website "https://www.cruachanireland.com/"@en ;
+    tg:years "1992-pressent"@en .
+
+<http://localhost:8000/resource/Glass_Hammer> a schema:Thing ;
+    tg:genre "Progressive Rock"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members <http://localhost:8000/resource/%27%27%23Current_formation> ;
+    tg:name "Glass Hammer"@en ;
+    tg:origin "Chattanooga, Tennessee"@en ;
+    tg:website "[http://www.glasshammer.com www.glasshammer.com ]"@en ;
+    tg:years "1992-present"@en .
+
+<http://localhost:8000/resource/InfuseR> a schema:Thing ;
+    tg:caption "Manos \"InfuseR\" Psarros"@en ;
+    tg:genre "Modern epic metal, Symphonic metal, Power metal"@en ;
+    tg:image "InfuseR Narsil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "Independent"@en ;
+    tg:members "Manos \"InfuseR\" Psarros"@en ;
+    tg:name "InfuseR"@en ;
+    tg:origin "Athens, Greece"@en ;
+    tg:website "[https://infusergr.bandcamp.com/ InfuseR on Bandcamp]"@en ;
+    tg:years "1996–present"@en .
+
+<http://localhost:8000/resource/Land_of_Mordor> a schema:Thing ;
+    tg:genre "heavy/progressive/power/death metal"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members "Gonzalo Abellán<br/>Raimon Santiago<br/>Pedro Vazquez<br/>Alex Yuste<br/>Javier Ortiz"@en ;
+    tg:name "Land of Mordor"@en ;
+    tg:origin "Spain"@en ;
+    tg:website "[http://www.myspace.com/landofmordorofficial/ Official Myspace]"@en ;
+    tg:years "2001-present"@en .
+
+<http://localhost:8000/resource/Rush> a schema:Thing ;
+    tg:genre "Prog rock"@en ;
+    tg:image "Rush.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members "L-R: Geddy Lee, Neil Peart, Alex Lifeson"@en ;
+    tg:name "Rush"@en ;
+    tg:origin "Canada"@en ;
+    tg:website "[http://rush.com rush.com]"@en ;
+    tg:years "1968-2015"@en .
+
+<http://localhost:8000/resource/Summoning> a schema:Thing ;
+    tg:formermembers "Trifixion<br/>Pazuzu"@en ;
+    tg:genre <http://localhost:8000/resource/Black_metal%2C_Tolkien_metal> ;
+    tg:image "Summoning.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "Napalm Records"@en ;
+    tg:members "Protector<br/>Silenius"@en ;
+    tg:name "Summoning"@en ;
+    tg:origin "Vienna, Austria"@en ;
+    tg:website "[http://www.summoning.info/ www.summoning.info]"@en ;
+    tg:years "1993-present"@en .
+
+<http://localhost:8000/resource/The_Fellowship_%28band%29> a schema:Thing ;
+    tg:genre "World Music"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members <http://localhost:8000/resource/Carvin_Knowles> ;
+    tg:name "The Fellowship"@en ;
+    tg:years "1990"@en .
+
+<http://localhost:8000/resource/The_Hobbitons> a schema:Thing ;
+    tg:1 "formermembers"@en ;
+    tg:genre "Folk"@en ;
+    tg:image "Songs from Middle-earth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members <http://localhost:8000/resource/Unquendor> ;
+    tg:name "The Hobbitons"@en ;
+    tg:origin "The Netherlands"@en ;
+    tg:website "[http://web.archive.org/web/*/http://home.wxs.nl/~hobbiton/home.html The Hobbitons] (via [http://www.archive.org Internet Archive])"@en ;
+    tg:years "1996"@en .
+
+<http://localhost:8000/resource/The_Lonely_Mountain_Band> a schema:Thing ;
+    tg:genre "Folk"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:name "The Lonely Mountain Band"@en ;
+    tg:website "[http://lonelymountainband.com/ Official Website]"@en ;
+    tg:years "2008-present"@en .
+
+<http://localhost:8000/resource/Tolkien_Ensemble> a schema:Thing ;
+    tg:formermembers <http://localhost:8000/resource/Christopher_Lee> ;
+    tg:genre "Classical, Folk"@en ;
+    tg:image "Tolkien Ensemble (with Christopher Lee).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:label "ClassicO, Membran, Decca"@en ;
+    tg:members <http://localhost:8000/resource/Caspar_Reiff%2C_Peter_Hall%2C_Signe_Asmussen%2C_%C3%98yvind_Ougaard%2C_Katja_Nielsen%2C_Morten_Ryelund_S%C3%B8rensen> ;
+    tg:name "Tolkien Ensemble"@en ;
+    tg:origin "Denmark"@en ;
+    tg:website "[http://tolkien-ensemble.net tolkien-ensemble.net]"@en ;
+    tg:years "1995-2013"@en .
+
+<http://localhost:8000/resource/Wind_Rose> a schema:Thing ;
+    tg:formermembers "Alessio Consani<br/>Daniele Visconti"@en ;
+    tg:genre "power metal, dwarf metal, symphonic metal"@en ;
+    tg:image "WindRoseBand.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/band> ;
+    tg:members "Francesco Cavalieri<br/>Claudio Falconcini<br/>Federico Meranda<br/>Cristiano Bertocchi<br/>Federico Gatti"@en ;
+    tg:origin "Pisa, Italy"@en ;
+    tg:website "[https://www.windroseofficial.com/ www.windroseofficial.com]"@en ;
+    tg:years "2009 - present"@en .
+

@@ -1,0 +1,36 @@
+{{journal
+| title=Other Minds 1
+| image=
+| editor=Hawke Robinson, [[Thomas Morwinsky]], Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=July [[2007]]
+| format=PDF
+| pages=49
+| issn=
+}}
+
+'''''Other Minds'' 1''' is the first issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in July 2007.
+
+==Contents==
+* "Editorial"
+** By Hawke Robinson, [[Thomas Morwinsky]] 
+* "Opinion"
+** By W.A. Hawke Robinson
+* "The Battle Over Role Playing Gaming"
+** By W.A. Hawke Robinson
+* "Mapping Arda"
+** By Thomas Morwinsky, Stéphane Hoerlé, Gabriele Quaglia, Oliver Schick, Christian Schröder
+* "Of Barrow-wights - Part One" 
+** By Neville Percy
+* "Magic in Middle-earth"
+** By Chris Seeman
+* "Thoughts on Imladris - Part One"
+** By Thomas Morwinsky
+* "Fineprint"
+* "Creative Commons Licence"
+* "Appendix: Maps for 'Mapping Arda'"
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 01}}
+[[Category:Other Minds]]

@@ -1,0 +1,34 @@
+{{board game infobox
+| image = Risk- The Lord of the Rings Trilogy Edition.png
+| name=''Risk: The Lord of the Rings Trilogy Edition''
+| designer=Stephen Baker
+| publisher=Hasbro
+| releasedate=[[2003]]
+| players=2−4
+| ages=9+
+}}
+'''''Risk: The Lord of the Rings Trilogy Edition''''' is a modification of ''[[wikipedia:Risk (game)|Risk]]'', published in [[2003]] by Hasbro. It serves as merchandise to [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]] and follows the earlier ''[[Risk: The Lord of the Rings: The Middle-earth Conquest Game]]''.
+
+The detailed gameboard reflects a complete map of [[Middle-earth]] including the [[Gondor]], [[Mordor]], and [[Haradwaith]] territories, areas that had not appeared in ''The Middle-earth Conquest Game''.
+
+==From the publisher==
+
+In this expanded edition of RISK The Lord of the Rings Trilogy edition you will find: 
+*The detailed gameboard reflects a complete map of Middle-Earth including the Gondor, Mordor, and Haradwaith territories.
+*Includes materials from the entire Lord of the Rings film trilogy.
+*Additional Territory cards.
+*Additional Battalions.
+*Additional Adventure Cards.
+*Alternate ways to play including special rules for alliance team play.
+
+==See also==
+
+*''[[Risk: The Lord of the Rings: The Middle-earth Conquest Game]]''
+*''[[Risk: The Lord of the Rings: Gondor and Mordor]]''
+
+==External links==
+* [http://www.lordoftheringsrisk.com/index.html Website for the game]
+* [http://boardgamegeek.com/boardgame/8107/risk-the-lord-of-the-rings-trilogy-edition Risk: The Lord of the Rings Trilogy Edition] at [http://boardgamegeek.com/ BoardGameGeek]
+* {{WP|Risk: The Lord of the Rings Trilogy Edition}}
+
+[[Category:Board games]]

@@ -1,0 +1,50 @@
+{{chapter
+| title=An Unexpected Party
+| image=J.R.R. Tolkien - One Morning Early in the Quiet of the World.png
+| caption="One Morning Early in the Quiet of the World" by [[J.R.R. Tolkien]]
+| book=The Hobbit
+| number=1
+| length=
+| written=Late [[1920]]s
+| event=[[Gandalf]] meets [[Bilbo Baggins]]; the next day [[Dwarves]] visit his [[Smials|smial]].
+| date=[[25 April]]—[[26 April]] {{TA|2941}}<ref>{{UT|Erebor}}</ref>
+| location=[[Bag End]]
+| perspective=
+| previous=The Hobbit Preface
+| next=Roast Mutton
+| map={{#display_map: 
+image layers=File:Christopher Tolkien - The West of Middle-earth.png 
+| geojson=The West of Middle-earth at the End of the Third Age
+| editor=on
+| zoom=4
+| height=150
+| width=auto
+| scrollzoom=off
+| centre=53,25
+| fullscreen=on
+| static=true
+}}
+}}
+{{Quote|In a hole in the ground there lived a hobbit.}}
+'''An Unexpected Party''' is the first chapter of ''[[The Hobbit]]''. The chapter's title would later be referenced in the first chapter of ''[[The Lord of the Rings]]'': "[[A Long-expected Party]]".
+
+==Summary==
+[[Hobbits]], the narrator explains, are little people, roughly half the size of humans, with thick hair on their feet, round bellies, and a love of good food, comfort, and security. Though some hobbits live in houses, they traditionally live in holes in the ground. The holes are not dank and smelly but comfortable, cozy underground dwellings with all the amenities of their aboveground counterparts. The hole occupied by the hobbit known as [[Bilbo Baggins]] is called [[Bag End]]. It is quite a pleasant dwelling, with comfortable furniture and a well-stocked kitchen, nestled in a snug little village under a hill.
+
+Bilbo's ancestry is somewhat noble by hobbit standards: his father was from the well-to-do, conventional Baggins family, but his mother was from the [[Took Family|Tooks]], a wealthy, eccentric family infamous for their unhobbitlike tendency to go on adventures. Despite his Took blood, however, Bilbo prefers to stay at home and live a quiet life.
+
+[[File:Matěj Čadil - Good Morning.jpg|thumb|''Good Morning'' by [[Matěj Čadil]]]]
+On the day the story begins, Bilbo is enjoying a pipe outside his front door when an old man with a long cloak and a staff arrives. After the old man introduces himself, Bilbo recognizes him as the [[Wizards|wizard]] [[Gandalf]], who has created spectacular fireworks displays on holidays in Hobbiton, but Bilbo still looks on the old wizard with a suspicious eye. When Gandalf asks if Bilbo would be interested in going on an adventure, Bilbo declines and quickly excuses himself. He invites the wizard to come over for [[tea]] the next day but only so as not to seem rude—in reality, he wants nothing to do with Gandalf and his adventures. He later forgets to schedule his tea with Gandalf on his [[Engagement Tablet]].
+
+When the doorbell rings the next afternoon,<ref>[[26 April|April 26]], {{TA|2941}}</ref> Bilbo assumes it is Gandalf. To his surprise, a dwarf named [[Dwalin]] pushes past him and promptly sits down to eat. Soon, other [[dwarves]] begin to arrive, and as Bilbo’s neat little home becomes crowded with dwarves, Bilbo becomes increasingly confused and annoyed. At last, Gandalf arrives with the head dwarf, [[Thorin]]. The thirteen dwarves and the wizard nearly clean out Bilbo’s pantry before finally settling down to discuss their business.
+[[File:Abe Papakhian - An Unexpected Party.jpg|thumb|''An Unexpected Party'' by [[:Category:Images by Abe Papakhian|Abe Papakhian]]]]
+It soon becomes clear that Gandalf has volunteered Bilbo to be a "burglar" for the dwarves on their adventure. The hobbit protests, and the dwarves grumble that the soft little hobbit does not seem suited to their adventure. Gandalf, however, is certain that Bilbo is useful, and insists that there is more to the hobbit than meets the eye.
+
+The wizard then brings out an old [[Thrór's Map|map of a great mountain]] and points to a mysterious [[Back Door|secret entrance]], a door to which Thorin holds the key. Bilbo demands some clarification about the point of the whole expedition. Thorin explains that his grandfather, [[Thrór]], mined the mountain shown on the map and discovered a wealth of gold and jewels. Thrór then became [[King under the Mountain]], but his fantastic treasure attracted unwanted attention. Before long, the dragon [[Smaug]] came and killed or scattered all of Thrór's people. The dragon has been guarding the treasure ever since. Thorin and the dwarves are out to reclaim their rightful inheritance, even though they are unsure of what to do with Smaug when they find him.
+
+Bilbo suspects that the dwarves want him to play a part in slaying the dragon. Although his Baggins side would like nothing better than to sit at home with his pipe, the Took influence in him fuels his curiosity about the adventure, and he is reluctantly excited by the tales of dragons and treasure and great battles. After looking at the map and discussing the adventure with the company, the hobbit makes up beds for all his guests and then spends the night in troubled dreams.
+
+{{References}}
+[[Category:The Hobbit chapters|Unexpected Party]]
+[[de:Eine unvorhergesehene Gesellschaft]]
+[[fi:Odottamaton juhla]]

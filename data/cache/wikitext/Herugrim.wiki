@@ -1,0 +1,60 @@
+{{short description|Sword of Théoden}}
+{{object infobox
+|name = Herugrim
+|image = Randy Gallegos - Herugrim, Sword of Rohan - Sword of Hearth and Home.jpg
+|caption = "Herugrim, Sword of [[Rohan]]: Sword of Hearth and Home" by [[:Category:Images by Randy Gallegos|Randy Gallegos]]
+|pronun = 
+|othernames = 
+|location = [[Edoras]]
+|owner = [[Théoden]], [[Gríma|Gríma Wormtongue]]
+|type = [[:Category:Swords|Sword]]
+|appearance = Long
+|creator = 
+|created = 
+|createdlocation = 
+|destroyer = 
+|destroyed = 
+|destroyedlocation = 
+|notablefor = 
+|audio = 
+|audiocaption = 
+}}
+'''Herugrim''' was the sword of [[Théoden]] King of [[Rohan]].
+
+==History==
+When Gandalf and his companions arrived at [[Meduseld]] on March 2, {{TA|3019}},<ref>{{App|Great}}, entry for the year 3019, March 2, p. 1093</ref> the sword was in the custody of Théoden's traitorous counsellor [[Gríma|Gríma Wormtongue]]. After being healed by [[Gandalf]], Théoden reclaimed the sword,<ref>{{TT|King}}, pp. 514-9</ref> and rode with it to the [[Battle of the Hornburg]] and the [[Battle of the Pelennor Fields|Battle of Pelennor Fields]].
+
+==Etymology==
+''Herugrim'' is an [[Old English]] name meaning "Very fierce or cruel, savage".<ref>{{webcite|website=[http://www.bosworthtoller.com/ Bosworth-Toller Anglo-Saxon Dictionary]|articleurl=https://bosworthtoller.com/18834|articlename=heoru-grim|accessed=31 October 2023}}</ref><ref>{{HM|RC}}, p. 408</ref> It has been noted that ''herugrim'' is in the [[Wikipedia:Mercian dialect|Mercian dialect]] of [[Old English]] (the spelling of the "standard" [[Wikipedia:West Saxon dialect (Old English)|West Saxon dialect]] would have been ''heorugrim'').<ref>[[Tom Shippey]], ''[[The Road to Middle-earth]]'', Chapter 4 A Cartographic Plot, The horses of the Mark, footnote after "All the Riders' names and language are Old English, as many have noted;", p. 112</ref><ref>{{HM|RC}}, p. 372</ref> ''Heorugrim'' occurs in line 1564 of ''Beowulf,'' as an adjective applied to the hero in his fight with Grendel's mother; Tolkien translated it as "fell".<ref>{{Beowulf|B}} p. 58</ref>
+
+==Other versions of the Legendarium==
+In the original draft of [[Helm's Deep (chapter)|Helm's Deep]], Théoden is specifically noted as having used Herugrim in the [[Battle of the Hornburg]]. It is said "Theoden dismounted and fought among his guard. Herugrim sang a song that has long been silent."<ref>{{WR|1|II}}</ref>
+
+==Portrayal in adaptations==
+===Herugrim in adaptations===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:Noble Collection - Herugrim.jpg|[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+File:Lego The Lord of the Rings - The Video Game - Herugrim.png|''[[Lego The Lord of the Rings: The Video Game]]''
+File:Jason Ward - Herugrim.jpg|''[[The Lord of the Rings: The Card Game]]''
+File:Randy Gallegos - Herugrim, Sword of Rohan - Sword of Hearth and Home.jpg|''[[The Lord of the Rings: Tales of Middle-earth]]''
+</gallery>
+'''[[1993]]''': ''[[J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers]]'':'''
+:Herugrim can be found in [[Meduseld]].<ref>''The CRPG Addict'' [https://crpgaddict.blogspot.com/2019/03/the-two-towers-bored-of-rings.html The Two Towers: Bored of the Rings] by CRPG Addict, March 5 2019</ref>
+
+'''[[2002]]: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:After [[Théoden]] is healed by [[Gandalf]], the [[Wizards|Wizard]] remarks that "Your fingers would remember their old strength better if they grasped your sword." [[Háma]] steps forward and offers Herugrim. Théoden pulls it out of the scabbard and holds it.
+
+'''[[2012]]: ''[[Lego The Lord of the Rings: The Video Game]]'':'''
+:The scene in which [[Théoden]] reclaims his sword is replicated.
+
+'''[[2015]]''': ''[[The Lord of the Rings: The Card Game]]'':'''
+:2015's ''The Treason of Saruman'' expansion includes a Herugrim card, illustrated by Jason Ward.
+
+'''[[2023]]''': ''[[The Lord of the Rings: Tales of Middle-earth]]'':'''
+:Herugrim is depicted on the ''Herugrim, Sword of Rohan: Sword of Hearth and Home'' card, illustrated by [[:Category:Images by Randy Gallegos|Randy Gallegos]].
+{{References}}
+{{Weapons}}
+[[Category:Swords]]
+[[de:Herugrim]]
+[[fr:encyclo/artefacts/armes/herugrim]]
+[[fi:Herugrim]]

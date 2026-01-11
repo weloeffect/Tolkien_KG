@@ -1,0 +1,30 @@
+{{chapter
+| title=The Gathering of the Clouds
+| book=The Hobbit
+| image=Alan Lee - The Gathering of the Clouds.jpg
+| number=15
+| event=[[Bard]] confronts [[Thorin]] at the [[Front Gate]].
+| location=[[Dale]], [[Erebor]], [[Front Gate]]
+| previous=Fire and Water
+| next=A Thief in the Night
+}}
+
+'''The Gathering of the Clouds''' is the 15th chapter of ''[[The Hobbit]]''.
+
+==Summary==
+
+When morning came, [[Thorin and Company]] noticed a large gathering of birds in the sky; [[Bilbo]] espied the thrush from the mountain-side destroyed earlier by Smaug. 
+[[Balin]] told Bilbo of the great friendship that used to exist between the ravens and the people of [[Thror]], and that ravens would often bring secret news to the dwarves in exchange for rewards. Bilbo learned that a pair of wise ravens, old [[Carc]] and his wife, used to live nearby. 
+Upon hearing this, the thrush flew away and returned with a very old raven — [[Roäc]], son of Carc. 
+Roäc spoke to [[Thorin]] and Balin in the common tongue, telling of tidings from the south speaking of the death of [[Smaug]] at the hands of the men of [[Esgaroth]]. When they heard this, the dwarves were overjoyed. 
+But Roäc cautioned Thorin that while the treasure may be his for the moment, the tales of the death of Smaug, and the riches of Thror in the [[Lonely Mountain]] had travelled far. Elves, men, and carrion birds were approaching the mountain, hoping for a share in the spoils. Roäc counselled Thorin to trust not the [[Master of Lake-town]], but instead to trust [[Bard]], the slayer of Smaug, and that to see peace would cost him a large share of gold. 
+But Thorin was prideful, saying that no thieves would share in the gold. He asked Roäc to send messages to his kin led by [[Dain]] in the [[Iron Hills]] to come to their aid. As Roäc left, the dwarves returned to the mountain, where, over the next few days, they worked to fortify the only remaining entrance to the mountain: the [[Front Gate]]. During this time, they learned from the ravens that the [[Elves of Mirkwood|Elves]] had joined the men at [[Lake-town]]. 
+
+One morning, the dwarves saw a company of elves and men approaching the mountain from the south. From behind the stone walls the dwarves had reared in front of the entrance, Thorin spoke, asking ''"who are you, arriving as if for war?"'' But the newcomers said nothing, and returned to their camp. Soon the [[Thorin and Company|Company]] heard the pleasant sounds of Elven harps, and Bilbo longed to escape the cavernous halls under the mountain and join in the Elven pleasantries. In response, the dwarves took up their instruments and began to sing songs pleasing to Thorin. But Bilbo was dismayed, for he perceived their talk and their songs to be too like to war-mongering.<!-- clumsy sentence --> 
+
+The next morning, another company of elves and men approached the fortified Front Gate. [[Bard]] strode forth speaking of his joy at finding the dwarves alive, but also of his puzzlement at Thorin's decision to confine himself inside the mountain. He explained that much of the wealth of his forebear, [[Girion]] of [[Dale]], was mingled in the dragon-hoard, and that the people of Esgaroth were living in sorrow and ruin following the [[Fire and Water|attack of Smaug]]. 
+However, long hours in the dragon hoard had created in Thorin a lust for gold, and he replied that ''"the treasure was not his that his evil deeds should be ammended with a share of it"''. At this, banner-bearers for the men of the Lake cried forth, issuing an ultimatum to Thorin that he give at least a twelfth of the share of the treasure to Bard to restore Esgaroth. In his rage, Thorin shot an arrow at the speaker, striking his shield. Thus, the mountain was besieged by elves and men. A darkness had overcome Thorin in his greed for gold which most of the others shared, save [[Bombur]], [[Fíli]], and [[Kíli]], and Bilbo most of all. 
+
+
+[[Category:The Hobbit chapters|Gathering of the Clouds]]
+[[fi:Pilvet kerääntyvät]]

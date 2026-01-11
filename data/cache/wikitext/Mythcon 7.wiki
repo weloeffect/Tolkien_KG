@@ -1,0 +1,23 @@
+{{short description|1976 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 7
+| location=Westbridge Conference Center, Sacramento, California
+| organizer=[[Mythopoeic Society]]
+| dates=13-16 August [[1976]]
+| attendees=
+|previous=[[Mythcon 6]]|next=[[Mythcon 8]]}}
+'''Mythcon 7''' was the seventh annual [[Mythopoeic Society]] conference. 
+
+*'''Theme:''' Arthurian Elements in [[Charles Williams|Williams]], [[C.S. Lewis|Lewis]], and [[J.R.R. Tolkien|Tolkien]]
+*'''Guest of Honor:''' Thomas Howard (Inklings scholar)
+*'''Chairman:''' Bruce McMenomy
+*'''Coordinator:''' Mary Morman
+
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-7.htm Mythcon 7 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 07}}
+[[Category:Mythcon]]

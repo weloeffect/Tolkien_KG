@@ -1,0 +1,59 @@
+{{film infobox
+| image=J.R.R.T. - A Film Portrait of J.R.R. Tolkien.jpg
+| name=J. R. R. T. : A Portrait of J.R.R. Tolkien
+| director= Derek Bailey
+| producer=
+| writer=
+| narrator=Judi Dench
+| music=
+| starring= [[J.R.R. Tolkien]] (archival footage) <br> [[Christopher Tolkien]]<br> [[Tom Shippey]] <br>[[John Tolkien]]<br> [[Robert Murray]]<br>  [[Margrethe II of Denmark|Queen Margrethe II of Denmark]]<br> [[Baillie Tolkien]]<br>[[Rayner Unwin]] <br> [[Priscilla Tolkien]]<br>  [[Verlyn Flieger]]
+| cinematography= 
+| editing=
+| distributor=
+| released=1992, 1996
+| runtime=110 minutes
+| country=England
+| language=English
+| budget=
+| website=
+}}
+
+'''''J.R.R.T.: A Portrait of J.R.R. Tolkien''''' is a [[1992]] documentary, narrated by [[wikipedia:Judi Dench|Judi Dench]], and produced Landseer Productions to celebrate the centenary of [[J.R.R. Tolkien]]'s birth. It features archive footage and audio recordings of J.R.R. Tolkien, and interviews with three of his children [[Priscilla Tolkien|Priscilla]], [[John Tolkien|John]], and [[Christopher Tolkien|Christopher]]. It also includes interviews with [[Baillie Tolkien]], [[Robert Murray]], [[Margrethe II of Denmark|Queen Margrethe II of Denmark]], [[Rayner Unwin]], [[Tom Shippey]], and [[Verlyn Flieger]]. 
+
+== Release ==
+The original [[1992]] release of the documentary had a runtime of around an hour. In [[1996]], a videocassete version of the documentary was released under the title ''"J.R.R.T.: A Film Portrait of J.R.R. Tolkien"'' and had a runtime of almost 110 minutes. <ref> [[Douglas A. Anderson]], ''Christopher Tolkien: A Bibliography'', in ''[[Tolkien's Legendarium| Tolkien's Legendarium: Essays on the History of Middle-earth]]'', pp. 251-252</ref> 
+
+== Credits ==
+{| class="wikitable"
+|-
+|'''Narrator''' || Judi Dench
+|- 
+|'''Production Assistant''' || Naseem Nathoo
+|- 
+|'''Rostrum Camera''' || Ken Morse
+|- 
+|'''Assistant Editor''' || Lucy Capewell
+|- 
+|'''Sound''' || Roger di Vito
+|- 
+| ||Nigel Davis
+|- 
+|'''Dubbing Mixer''' || Colin Martin
+|- 
+|'''Cameras''' || Nick Gifford
+|- 
+| ||Barry Noakes
+|- 
+|'''Editor''' || Francesca Ross
+|- 
+|'''Director''' || Derek Bailey
+|- 
+|'''Producer''' || Helen Dickinson
+|}
+
+==External links==
+* [http://www.imdb.com/title/tt0297196/ IMDb profile]
+* [https://www.tolkienestate.com/audio-visual/visual/ Clips from the documentary on the Tolkien Estate website]
+{{references}}
+{{title|italics}}
+[[Category:Documentaries]]

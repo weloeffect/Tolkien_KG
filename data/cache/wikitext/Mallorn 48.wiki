@@ -1,0 +1,69 @@
+{{Mallorn
+| name=Mallorn 48
+| image = Mallorn48.jpg
+| editor=[[Henry Gee]]
+| artist=[[Jef Murray]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Autumn [[2009]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 48''' is the forty-eighth issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Autumn [[2009]].
+
+==Contents==
+* '''Cover Art'''
+** ''Gates of Moria'' 
+*** By: [[Jef Murray]]
+* '''Editorial'''
+** "Tolkien of the Many Names"
+*** By: [[John Garth]]
+* '''Reviews'''
+** "A year in study": ''[[Tolkien Studies: Volume 6]]''
+*** By: [[Henry Gee]]
+** "Views of a lost world": ''[[Black & White Ogre Country|Black & White Ogre Country: The Lost Tales of Hilary Tolkien]]''
+*** By: [[John Garth]]
+** "Tales of the past": ''[[The Legend of Sigurd and Gudrún]]''
+*** By: Joel Franz
+** "A taste of foreign country": ''Paths of Exile''
+*** By: [[David Doughan]]
+** "Hunting [[Peter Jackson]]": ''[[The Hunt for Gollum]]''
+*** By: Chad Chrisholm
+** "What's in a name?": ''[[The Tolkien Name in History]]'', ''[[The Suffield Name in History]]'' and ''The Origins of [[J.R.R. Tolkien|JRR Tolkien]] in [[Bloemfontein]]''
+*** By: [[Patricia Reynolds|Pat Reynolds]]
+* '''Commentary'''
+** "The desire of a tale-teller"
+*** By: [[Maggie Burns]]
+** "[[Frodo Baggins|Frodo]] as the scapegoat child of [[Middle-earth]]"
+*** By: Lynn Whitaker
+** "The [[Stone of Erech]] and the Black Stone of Ka'aba: meteorite or 'meteor-wrong'?"
+*** By: [[Kristine Larsen]]
+** "Questing for 'Tygers': a historical archaeological landscape invesiation of J.R.R. Tolkien's real Middle-earth"
+*** By: Paul H. Vigor
+* '''Poetry'''
+** "Dawn of [[the Wold]]s of [[Rohan]]"
+*** By: Carol Brownlow
+** "[[Sarehole Mill|Sarehole]] Dreams ([[Tom Bombadil]] Alive and Well)"
+*** By: Jodi Storer
+** "[[Cuiviénen|Cuivienen]]"
+*** By: Carol Brownlow
+* '''Obituary'''
+** "David Eddings (1931-2009)"
+*** By: Becky Hitchin
+* '''Fiction'''
+** "Royal blood"
+*** By: Shelly Li
+** "Wisdom"
+*** By: Ben Gribbin
+* '''Well, I'm back'''
+** "[[Rivendell]] Reality"
+*** By: John Gilbey
+* '''Back Cover'''
+** By: John Gilbey
+* '''Inside Art'''
+** By: Phyllis Berka, John Gilbey, Becky Hitchen, Glendon Mellow and Jef Murray
+
+{{mallornnav|47|49}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 48}}
+[[Category:Mallorn (journal)]]

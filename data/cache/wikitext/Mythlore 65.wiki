@@ -1,0 +1,44 @@
+{{mythlore
+|title=''Mythlore'' 65, Volume 17, Issue 3
+| image = Mythlore 65.jpg
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Spring [[1991]]
+|format=Paperback
+|pages=67
+}}
+'''''Mythlore'' 65''' ([https://dc.swosu.edu/mythlore/vol17/iss3/ Volume 17, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]] and featuring a cover illustration by [[Patrick Wynne]]. The issue reprints an article by [[Christopher Gilson]] and Patrick Wynne from [[Vinyar Tengwar 14|''Vinyar Tengwar'' 14]]: 'The Elves at Koivienéni: A New Quenya Sentence'.  This includes a previously unpublished [[Quenya]] sentence found in a manuscript at [[Marquette University]].<ref>''An Illustrated Tolkien Bibliography'' on Tolkienbooks.net</ref>
+
+==Contents==
+
+====Articles====
+
+* Hostetter, Carl F. “Over Middle-earth Sent Unto Men: On the Philological Origins of Tolkien's Eärendel Myth.”
+* GoodKnight, Glen H., Joe R. Christopher, Alexei Kondratiev, and Diana L. Paxson. “The Inklings in America.”
+* Thorson, Stephen. “Lewis and Barfield on Imagination: Part II.”
+* Gilson, Christopher, and Patrick Wynne. “The Elves at Koivienéni: A New Quenya Sentence.”
+* Louis, M. K. “Arthurian Wantons: Language, Lust, and Time in Victorian Poetry and Drama.”
+* Hyde, Paul Nolan. “A Comprehensive Index of Proper Names and Phrases in ''The Hobbit''.”
+* Le Guin, Ursula K., Todd Barton, Margaret Chodos-Irvine, and George Hersh. “The Making of ''Always Coming Home''.”
+
+====Features====
+
+* GoodKnight, Glen. Editorial Introduction: War and Priorities.
+* Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography.
+* Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics - Pointing With An Index Finger: ‘Five feet high with door and three may walk abreast’.”
+* Letters.
+
+====Reviews====
+
+* ''Outline of Romantic Theology.'' Charles Williams. Reviewed by Nancy-Lou Patterson.
+* ''The Saga of Volsungs: The Norse Epic of Sigurd the Dragon Slayer.'' Intro and Translation by Jesse L. Byock. Reviewed by Nancy-Lou Patterson.
+* ''Children and Their Books: A Celebration of the Work of Iona and Peter Opie.'' Ed. Gillian Avery and Julia Briggs. Reviewed by Pat Reynolds.
+* ''The C.S. Lewis Handbook.'' Colin Duriez. Reviewed by Glen GoodKnight.
+* ''Let There Be Light. Ill.'' Pauline Baynes. Reviewed by Glen GoodKnight.
+* ''The Encyclopedia of Witches and Witchcraft.'' Rosemary Ellen Guiley. Reviewed by David Bratman.
+{{mythlorenav|64|66}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 065}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Mythlore]]

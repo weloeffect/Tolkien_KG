@@ -1,0 +1,27 @@
+{{company infobox
+| name=Wizards of the Coast
+| image=
+| founded=[[1973]]
+| founder=Gary Gygax & Don Kaye
+| location=
+| type=
+| keypeople=
+| members=
+| subsidiaries=
+| products=[[Dungeons and Dragons]], [[Battle of the Five Armies (board game)|Battle of the Five Armies]], [[Dragon Magazine]]
+| parent=
+| owner=
+| precededby=
+| succeededby=[[Wizards of the Coast]]
+| website=
+}}
+'''TSR, Inc.''' was a gaming company, founded in [[1973]]. Their most famous product was [[Dungeons and Dragons]], though they also published [[Battle of the Five Armies (board game)|The Battle of the Five Armies]] board game and [[Dragon Magazine]]. Both games came under legal scrutiny in [[1977]] for unlicensed use of rights held by [[Tolkien Enterprises]].<ref>{{Cite web|articleurl=https://www.enworld.org/threads/q-a-with-gary-gygax.22566/page-149|articlename=Q&A with Gary Gygax|author=Gygax|website=[https://www.enworld.org En World]|dated=2003}}</ref><ref>[[Michael D.C. Drout|Drout]]; "[[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment|J.R.R. Tolkien Encyclopedia]]", p. 229</ref>
+
+After [[Iron Crown Enterprises]] got into trouble with its [[Tolkien Quest]] series, Tolkien Enterprises approached TSR about the license. TSR was by that time making most money with its tie-in novels, leading [[Wikipedia:Lorraine Williams|Lorraine Williams]], who then owned the company, to instead primarily aim for the ability to publish sequels. As [[John D. Rateliff]] puts it: ''“Lorraine wanted all the rights to create fiction, and computer games, and calendars, and spin-offs. Everything except publishing the books themselves.''” Seeking to obtain permission from the [[Tolkien Estate]], Rateliff was sent to England around [[1992]] to negotiate with [[Christopher Tolkien]]. Nothing came out of it, however.<ref>Ben Riggs (2022), ''A Secret History of Dungeons & Dragons'', pp. 147-151</ref>
+
+Deep in debt by the 1990s, TSR was acquired by [[Wizards of the Coast]] in [[1997]].
+
+{{References}}
+==External links==
+*[[wikipedia:TSR,_Inc.|Wikipedia article]]
+[[Category:American businesses]]

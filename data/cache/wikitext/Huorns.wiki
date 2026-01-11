@@ -1,0 +1,62 @@
+{{race infobox
+| name=Huorns
+| image = Gail McIntosh - Huorn.jpg
+| caption="Huorn" by [[:Category:Images by Gail McIntosh|Gail McIntosh]]
+| pronun=
+| othernames=
+| origin=[[Trees]] and [[Ents]]
+| location=[[Fangorn Forest]]
+| affiliation=[[Ents]]
+| rivalry=
+| language=
+| people=
+| members=
+| lifespan=
+| distinctions=Semi-sapient, tree-like creatures
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+'''Huorns''' were creatures much like [[Ents]]. However, although they were sentient and capable of feeling and perceiving things, they did not appear to be fully sapient. 
+
+==History==
+
+The origin of the Huorns is unknown. It is not clear if Huorns were Ents that had become tree-like, or trees that had become Entish. Perhaps both varieties existed, though the [[Hobbits|Hobbit]] [[Meriadoc Brandybuck]] believed the former was true.<ref name="Flotsam">{{TT|Flotsam}}</ref> Either way it is obvious they were part way between trees and Ents.<ref>[[David Day]] (1996), ''[[A Tolkien Bestiary]]'', p. 142</ref>
+
+In the [[Third Age]], the Huorns lived in [[Fangorn Forest]],<ref name="Flotsam" /> though it is possible that the trees of the [[Old Forest]], especially [[Old Man Willow]], were Huorns as well.
+
+During the [[War of the Ring]], Huorns were aroused by [[Treebeard]] to destroy [[Nan Curunír]].<ref name="Flotsam" /> Gandalf saw the shadow of these Huorns, as he rode with the host from [[Edoras]] to [[Hornburg]].<ref>{{HM|Scheme}}, p. 412</ref><ref>{{TT|III7}}</ref> Directed by the Ents, the Huorns also helped the [[Rohirrim]] to fight the [[Orcs]] at the [[Battle of the Hornburg]].<ref name="Flotsam" />
+
+==Characteristics==
+
+Huorns had great power and could wrap themselves in shadow. When angry, they were able to move with great speed. The Huorns further had voices, as they could speak with the Ents. When no Ents looked after them, the Huorns were "''queer and wild''", a threat to the [[Free peoples]].<ref name="Flotsam" />
+
+==Etymology==
+
+''Huorns'' is a name in the Ent's "short language", given to those creatures because "they still have voices, and can speak with the Ents", according to Merry's account.<ref name="Flotsam" />
+
+In drafts texts they received other names such as ''Galbedirs'', ''Lamorni'' and ''Ornómar'' or ''Ornómi'', with the meaning of "Talking Trees"<ref>{{WR|1|IV}}</ref>. But it is not certain whether the name ''Huorns'' carried that meaning on.
+
+It does have the [[Sindarin]] element ''[[orn]]'' "tall tree", and in an etymological Tolkien gave its first element as derived from ''hō'', with a gloss of uncertain reading: it might be "speak, show" or "spirit, shadow", and could be related to other words associated with "heart".<ref>{{PE|17}}, p. 86</ref> So, ''Huorn'' could mean "speaking tree" or "tree with a spirit" or "with a heart". The first element might also be related to the [[Sundocarme|root]] ''[[KHUG]]'' "bark, bay".<ref>{{HM|RC}}, p. 425</ref>.
+
+==Portrayal in adaptations==
+[[Image:Huorns (MERP).jpg|thumb|''Huorns'' in [[Middle-earth Role Playing|MERP]]]]
+'''1982-97: ''[[Middle-earth Role Playing]]'':'''
+:Huorns are classified as Animate Plants (Monsters). The evil, "blackhearted" ones, went away from Fangorn Forest and the protection of the Ents and settled in Mirkwood. Huorns eat living beings, and they come in as many different forms as trees do. Old Man Willow is a Huorn of the Old Forest.<ref>{{ICE|2012}}</ref>
+
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:Huorn is an Awakened Plant (Creature), able to inflict one strike on a player.
+
+==External links==
+*{{webcite|author=[[Mark Fisher]]|articleurl=https://www.glyphweb.com/arda/h/huorns.html|articlename=Huorns|dated=17 May 2003|website=EoA|accessed=10 September 2025}}
+
+{{references}}
+
+[[Category:Other races]]
+[[Category:Trees]]
+
+[[de:Huorns]]
+[[fr:encyclo/peuples/ents/huorns]]
+[[fi:Huornit]]

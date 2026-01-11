@@ -1,0 +1,48 @@
+{{Mallorn
+| name=Mallorn 42
+| image = Mallorn42.jpg
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=[[August]] [[2004]]
+| format=A4 stapled paperback, glossy
+| pages=60
+| issn=0308-6674
+}}
+'''''Mallorn'' 42''' is the forty-second issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[August]] [[2004]].
+
+==Contents==
+* Front Cover
+** By: [[Pauline Baynes]]
+* About [[the Tolkien Society]]
+* Editorial
+** By: Len Sanford
+* Reasons for ''not'' liking Tolkien
+** By: Caroline Galwey
+* [[Treebeard]]'s roots in medieval European tradition
+** By: Edward Pettit
+* Fiction: ''Seeing things''
+** By: Lynn Forest-Hill
+* 'And one White Tree': the cosmological cross and the ''arbor vitae'' in ''[[The Lord of the Rings]]'' and ''[[The Silmarillion]]''
+** By: Christopher T Vaccaro
+* Reviews: [[Peter Jackson]]'s '[[The Lord of the Rings: The Return of the King|The Return of the King]]' and the Trilogy
+** By: [[Charles Noad]]
+** By: [[John Ellison]]
+** By: Susanne Stopfel
+** By: Kensington Prallop
+* Warm beds and good: sex and libido in Tolkien's writing
+** By: Ty Rosenthal
+* The chronology of Middle-earth
+** By: Tony Steele
+* The morality of military leadership in JRR Tolkien's ''[[The Lord of the Rings]]''
+** By: [[Janet Brennan Croft]]
+* Perspectives on reality in ''Lord of the Rings''
+** By: Gerado Barajos Garrido
+* About the authors
+* Inside Art
+** By: [[Kay Woollard]], Lorenzo Daniele, [[Jef Murray]], Lynn Forest-Hill, [[Octo Kwan]], [[John Ellison]]
+
+{{mallornnav|41|43}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 42}}
+[[Category:Mallorn (journal)]]

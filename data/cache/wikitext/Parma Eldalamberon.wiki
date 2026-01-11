@@ -1,0 +1,89 @@
+{{journal
+| name=Parma Eldalamberon<br><small>"The Book of Elven-tongues"</small>
+| image = Parma Eldalamberon 6.png
+| editor=[[Christopher Gilson]], [[Arden R. Smith]], [[Carl F. Hostetter]] and others
+| latest=[[Parma Eldalamberon 23|23]]
+| website=[http://www.eldalamberon.com/ Eldalamberon]
+| publisher=Issue 1-5: [[Mythopoeic Society]]<br> Since issue 6: [[Elvish Linguistic Fellowship]]
+| frequency=Irregular
+| format=Paperback, print on demand
+}}
+{{quote|Just consider the splendour of the words! . . . What a pondering of alternatives within one’s choice before the final decision in favour of the daring and unusual prefix, so personal, so attractive; the final solution of some element in a design that had hitherto proved refractory.|J.R.R. Tolkien, ''A Secret Vice''}}
+
+'''''Parma Eldalamberon''''', '''''Parma''''', or '''''PE''''' for short, is a linguistic journal dedicated to the scholarly study of the invented languages of [[J.R.R. Tolkien]]. It was first published by the [[Mythopoeic Society]], then by the [[Elvish Linguistic Fellowship]] since issue 6.
+
+The name ''Parma Eldalamberon'' is a [[Neo-Quenya]] rendering of '''"The Book of Elven-tongues"''', which is consist of ''[[parma]]'' ("book"), ''[[elda]]'' ("Elf"), and ''[[lambë]]'' ("tongue, language"). However, like with ''Vinyar Tengwar'', the rendering is questionable as ''[[Parma Eldalamberon 18|PE 18]]'' gives the genitive plural of ''lambë'' as ''lambion''<ref>{{PE|18}}, pp. 8, 71</ref> instead of ''lamberon''.
+
+==History==
+''Parma Eldalamberon'' was started in [[1971]], as an irregular periodical published by the Mythopoeic Linguistic Fellowship (M.L.F.) of the [[Mythopoeic Society]]. The first editor was [[Paula Marmor]]. It ran for five issues, ending in [[1977]], but resulted in the landmark book ''[[An Introduction to Elvish]]''. Of that book Paula Marmor was co-author, several other co-authors, [[Bill Welden]], [[Christopher Gilson]], [[Lawrence J. Krieg]], and editor [[Jim Allan]], were regular contributors to ''Parma'' and parts of it had grown from their articles in the journal. The publication of ''[[The Silmarillion]]'', ''[[Unfinished Tales]]'', and ''[[The Letters of J.R.R. Tolkien]]'' made most of the discussions outdated, however, and the project was shelved.
+
+Another regular contributor was [[Robert Foster]], who had already published his ''Guide to Middle-earth'', which he revised and extended to ''[[The Complete Guide to Middle-earth]]'' after the publication of ''The Silmarillion''.
+
+Six years later, in [[1983]], Chris Gilson revived ''Parma''. He kept the original name, despite the fact that the increase in Quenya material gave the correct translation as ''Parma Eldalambion''. Gilson published ''Parma'' outside the Linguistic Fellowship,<ref>[[David Doughan]], "Book Reviews: Parma Eldalamberon 6", in: [[Quettar]] 21 ([[November]] [[1984]]), p. 8</ref> but after the [[Elvish Linguistic Fellowship]] (E.L.F.) was founded it became associated with that organisation.
+
+In [[1991]], [[Christopher Tolkien]] approved of ''Parma'' publishing original text by Tolkien, especially the long linguistic texts for which he could find no place in ''[[The History of Middle-earth]]''.<ref>[[Christopher Gilson]], "Foreword", in: [[Parma Eldalamberon 11|''Parma Eldalamberon'' 11]] ([[1995]]), p. 2</ref>
+
+In the meantime, ''[[Vinyar Tengwar]]'' also started publishing Tolkien's original texts. Now, they are both edited by more or less the same team, and ''Parma'' specializes in the longer wordlists, while ''Vinyar Tengwar'' publishes Tolkien's essays.<ref>[[David Bratman]], "Posthumous Publications", in: ''[[J.R.R. Tolkien Encyclopedia]]'' (edited by [[Michael D.C. Drout]]), p. 547-8</ref>
+
+==List of issues==
+<div style="-moz-column-width: 400px; -webkit-column-width: 400px; column-width: 400px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
+* [[1971]]: [[Parma Eldalamberon 1|''Parma Eldalamberon'' 1]]
+* [[1972]]: [[Parma Eldalamberon 2|''Parma Eldalamberon'' 2]]
+* [[1973]]: [[Parma Eldalamberon 3|''Parma Eldalamberon'' 3]]
+* [[1974]]: [[Parma Eldalamberon 4|''Parma Eldalamberon'' 4]]
+* [[1977]]: [[Parma Eldalamberon 5|''Parma Eldalamberon'' 5]]
+* [[1983]]: [[Parma Eldalamberon 6|''Parma Eldalamberon'' 6]]
+* [[1988]]: [[Parma Eldalamberon 7|''Parma Eldalamberon'' 7]]
+* [[1989]]: [[Parma Eldalamberon 8|''Parma Eldalamberon'' 8]]
+* [[1990]]: [[Parma Eldalamberon 9|''Parma Eldalamberon'' 9]]
+* [[1994]]: [[Parma Eldalamberon 10|''Parma Eldalamberon'' 10]]
+
+Since issue 11, the journal has been dedicated to publishing Tolkien's original materials:
+* [[1995]]: [[Parma Eldalamberon 11|''Parma Eldalamberon'' 11]]:
+** ''I·Lam na·Ngoldathon: The Grammar and Lexicon of The Gnomish Tongue''
+* [[1998]]: [[Parma Eldalamberon 12|''Parma Eldalamberon'' 12]]:
+** ''Qenyaqetsa: The Qenya Phonology and Lexicon''
+* [[2001]]: [[Parma Eldalamberon 13|''Parma Eldalamberon'' 13]]:
+** ''The Alphabet of Rúmil and Early Noldorin Fragments''
+* [[2003]]: [[Parma Eldalamberon 14|''Parma Eldalamberon'' 14]]:
+** ''Early Qenya and Valmaric''
+* [[2004]]: [[Parma Eldalamberon 15|''Parma Eldalamberon'' 15]]:
+** ''Sí Qente Feanor and Other Elvish Writings''
+* [[2006]]: [[Parma Eldalamberon 16|''Parma Eldalamberon'' 16]]:
+** ''Early Elvish Poetry and Pre-Fëanorian Alphabets''
+* [[2007]]: [[Parma Eldalamberon 17|''Parma Eldalamberon'' 17]]:
+** ''Words, Phrases, and Passages in Various Tongues in The Lord of the Rings''
+* [[2009]]: [[Parma Eldalamberon 18|''Parma Eldalamberon'' 18]]:
+** ''Tengwesta Qenderinwa and Pre-Fëanorian Alphabets, Part 2''
+* [[2010]]: [[Parma Eldalamberon 19|''Parma Eldalamberon'' 19]]:
+** ''Quenya Phonology''
+* [[2012]]: [[Parma Eldalamberon 20|''Parma Eldalamberon'' 20]]:
+** ''The Qenya Alphabet''
+* [[2013]]: [[Parma Eldalamberon 21|''Parma Eldalamberon'' 21]]:
+** ''Qenya Noun Structure''
+* [[2015]]: [[Parma Eldalamberon 22|''Parma Eldalamberon'' 22]]:
+** ''The Feanorian Alphabet, Part 1; Quenya Verb Structure''
+* [[2024]]: [[Parma Eldalamberon 23|''Parma Eldalamberon'' 23]]:
+** ''The Feanorian Alphabet, Part 2; Eldarin Pronouns''
+</div>
+==Future and back issues==
+It is known that PE 24 is in the works, and its publication should not be too far off. For back issues, though most are currently out of print, they are slowly put for print-on-demand publication.<ref>{{webcite|author=[[Carl F. Hostetter]]|articleurl=https://www.reddit.com/r/tolkienfans/comments/plp345/comment/hccoe5x/?utm_source=share&utm_medium=web2x&context=3|articlename=I am Carl Hostetter, editor of The Nature of Middle-earth. Ask Me Anything!|dated=|website=[https://www.reddit.com/r/tolkienfans/ Reddit /r/tolkienfans]|accessed=19 September 2024}}</ref>
+
+==See also==
+* ''[[Vinyar Tengwar]]'', a sibling publication of ''Parma Eldalamberon''
+
+==External links==
+* [http://www.eldalamberon.com/ The official website]
+* [https://dc.swosu.edu/parma/ Issues 1-5] at SWOSU Digital Commons
+* [https://www.elvish.org/errata/Parma-Errata.pdf ''Parma Eldalamberon'' Errata]
+* [https://tolkienbooks.net/php/languages.php List of previously unpublished contents in ''VT'' and ''PE''] at TolkienBooks.net
+
+{{References}}
+{{publishedmajorbooks}}
+{{title|italics}}
+[[Category:Journals]]
+[[Category:Parma Eldalamberon| ]]
+[[Category:Publications by title]]
+[[de:Parma Eldalamberon]]
+[[fr:tolkien/biblio/pe]]
+[[fi:Parma Eldalamberon]]

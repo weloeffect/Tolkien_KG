@@ -1,0 +1,113 @@
+{{author infobox
+| image = Carl F. Hostetter.png
+| name=Carl F. Hostetter
+| born=[[6 August]] [[1965]]
+| died=
+| education=
+| occupation=Computer scientist, Tolkien scholar
+| location=
+| website=
+|}}{{quote|I didn't start the E.L.F., I didn't launch [[Vinyar Tengwar|VT]], I don't edit [[Parma Eldalamberon|Parma]], and I'm not the chief editor of Tolkien's linguistic papers; I just do my part. Mostly, I'm just the one tenacious/stupid enough to act as a human target for the team, and for the fullness and reality of Tolkien's linguistic inventions.|Carl F. Hostetter, [http://groups.yahoo.com/group/elfling-d/message/686 Elfling-d message 686]}}
+'''Carl Franklin Hostetter''' ([[6 August|August 6]], [[1965]]) is a [[wikipedia:NASA|NASA]] computer scientist and [[J.R.R. Tolkien|Tolkien]] scholar who is a key figure of the [[Elvish Linguistic Fellowship]].
+==Principal writing and editing==
+Hostetter is the author of numerous articles on [[Languages|Tolkienian linguistics]], and the editor of two journals on the subject, ''[[Vinyar Tengwar]]'' (print) and ''[[Tengwestië (journal)|Tengwestië]]'' (online).
+
+Together with [[Christopher Gilson]], [[Arden R. Smith]], [[Bill Welden]], and [[Patrick H. Wynne]] (called by some the "[[Elfconner]]s"), he has been engaged by [[Christopher Tolkien]] in the ordering, editing, and publishing of [[J.R.R. Tolkien]]'s writings concerning his invented languages, which have been published as ''[[Parma Eldalamberon]]'' numbers 11 through 22 (and continuing) and in ''Vinyar Tengwar''.
+
+Hostetter edited ''[[The Nature of Middle-earth]]'', which includes unpublished writings by Tolkien, as well as writings originally published in ''Vinyar Tengwar'' and ''[[La Feuille de la Compagnie 3]]''.<ref>{{webcite|author=|articleurl=https://tolkienista.com/2021/07/16/from-linguistics-to-metaphysics-interview-with-carl-f-hostetter-editor-of-the-new-book-by-j-r-r-tolkien/|articlename=From Linguistics to Metaphysics: interview with Carl F. Hostetter, editor of the new book by J.R.R. Tolkien|dated=16 July 2021|website=Tolkienista|accessed=6 September 2021}}</ref> 
+==Mailing-lists==
+Hostetter has also contributed to various mailing-lists dedicated to Tolkien's languages, including [[Tolklang]] and [[Elfling]]. After a (still ongoing) dispute with [[David Salo]] and [[Helge Fauskanger]],{{Citation needed}} he set up [[Lambengolmor (mailing list)|Lambengolmor]] and Elfling-d.
+==Online presence==
+Hostetter posts online ([https://www.instagram.com/aelfwine/ instagram], [https://thehalloffire.net/forum/ TheHallOfFire.net], [https://www.tolkienguide.com/profile/247 TolkienGuide], etc.) under the username [[Aelfwine]].
+==Awards==
+*[[2002]]: '''[[Mythopoeic Society|Mythopoeic Scholarship Award for Inklings Studies]]''', ''[[Tolkien's Legendarium|Tolkien's Legendarium: Essays on the History of Middle-earth]]'' (co-editor with [[Verlyn Flieger]])
+*[[2022]]: '''[[Tolkien Society Awards|Tolkien Society Award]]: Best Book''', [[The Nature of Middle-earth]]
+==Bibliography==
+===Books (as editor)===
+*[[2000]]: ''[[Tolkien's Legendarium]]'' (editor, with [[Verlyn Flieger]])
+*[[2021]]: ''[[The Nature of Middle-earth]]'' (editor)
+===Articles===
+*[[1990]]: ''[[Vinyar Tengwar 14]]''
+**"''The War of the Ring'': A Linguistic Review"
+*[[1991]]: [[Mythlore 65|''Mythlore'' 65]]
+**"Over Middle-earth Sent unto Men: On the Philological Origins of Tolkien's Eärendil Myth"
+*[[1992]]: ''[[Vinyar Tengwar 21]]''
+**"''Sí man i·yulmar n(g)win enquatuva''"
+*[[1992]]: ''[[Vinyar Tengwar 24]]''
+**"Sauron Defeated: A Linguistic Review"
+**"'Verbs, Syntax! Hooray!': A Preliminary Assessment of Adunaic Grammar" (with [[Patrick H. Wynne]])
+*[[1992]]: ''[[Vinyar Tengwar 25]]''
+**"An Adunaic Dictionary" (with [[Patrick H. Wynne]])
+*[[1992]]: ''[[Vinyar Tengwar 26]]''
+**"Uglúk to the Dung-pit"
+*[[1993]]: [[Amon Hen 122|''Amon Hen'' 122]]
+**"Settled Spells"
+*[[1993]]: ''[[Vinyar Tengwar 28]]''
+**"The Bodleian Declensions" (J.R.R. Tolkien, edited with [[Christopher Gilson]] and [[Patrick H. Wynne]])
+*[[1993]]: ''[[Vinyar Tengwar 31]]''
+**"The 'King's Letter': An Historical and Comparative Analysis"
+*[[1994]]: ''[[Vinyar Tengwar 34]]''
+**"''Morgoth's Ring'': A Linguistic Review - Part I" (with [[Patrick H. Wynne]])
+*[[1994]]: ''[[Vinyar Tengwar 35]]''
+**"''Morgoth's Ring'': A Linguistic Review - Part II" (with [[Patrick H. Wynne]])
+*[[1995]]: ''[[Proceedings of the J.R.R. Tolkien Centenary Conference]]''
+**"A Mythology for England" (with [[Arden R. Smith]])
+*[[1995]]: ''[[Parma Eldalamberon 11]]''
+**"The Grammar and Lexicon of the Gnomish Tongue" (J.R.R. Tolkien, edited with [[Christopher Gilson]], [[Patrick H. Wynne]], and [[Arden R. Smith]])
+*[[1998]]: ''[[Parma Eldalamberon 12]]''
+**"Qenyaqetsa: The Qenya Phonology and Lexicon" (J.R.R. Tolkien, edited with [[Christopher Gilson]], [[Patrick H. Wynne]], and [[Arden R. Smith]]
+*[[1998]]: ''[[Vinyar Tengwar 39]]''
+**"From ''Quendi & Eldar'', Appendix D" (editor)
+**"''Ósanwe-kenta''" (editor)
+*[[2000]]: ''[[Tolkien's Legendarium|Tolkien's Legendarium: Essays on The History of Middle-earth]]''
+**"Three Elvish Verse Modes: ''Ann-thennath'', ''Minlamad thent / estent'', and ''Linnod''" (with [[Patrick H. Wynne]])
+*[[2000]]:  ''[[Vinyar Tengwar 41]]''
+**"Etymological Notes on the Ósanwe-kenta" (editor)
+**"From ''The Shibboleth of Fëanor''" (editor)
+**"Notes on ''Óre''" (editor)
+*[[2001]]:  ''[[Vinyar Tengwar 42]]''
+**"The Rivers and Beacon Hills of Gondor" (editor)
+*[[2002]]: ''[[Vinyar Tengwar 43]]''
+**"'Words of Joy': Five Catholic Prayers in Quenya (Part One)" (J.R.R. Tolkien, edited with [[Patrick H. Wynne]] and [[Arden R. Smith]])
+*[[2002]]: ''[[Vinyar Tengwar 44]]''
+**"'Words of Joy': Five Catholic Prayers in Quenya (Part Two)" (J.R.R. Tolkien, edited with [[Patrick H. Wynne]] and [[Arden R. Smith]])
+*[[2003]]: ''[[Parma Eldalamberon 14]]''
+**"Early Qenya Grammar" (J.R.R. Tolkien, edited with [[Bill Welden]])
+*[[2003]]: ''[[Vinyar Tengwar 45]]''
+**"Addenda and Corrigenda to the ''Etymologies'' - Part One" (J.R.R. Tolkien, edited with [[Patrick H. Wynne]])
+*[[2004]]: ''[[Vinyar Tengwar 46]]''
+**"Addenda and Corrigenda to the ''Etymologies'' - Part Two" (J.R.R. Tolkien, edited with [[Patrick H. Wynne]])
+*[[2004]]: ''[[Tolkien Studies: Volume 1]]''
+**"Sir Orfeo: A Middle English Version By J.R.R. Tolkien"
+*[[2006]]: ''[[The Lord of the Rings 1954-2004]]''
+**"[http://www.elvish.org/articles/EASIS.pdf Elvish as She Is Spoke]"
+*[[2006]]: ''[[Parma Eldalamberon 16]]''
+**"Early Elvish Poetry" (J.R.R. Tolkien, edited with [[Christopher Gilson]] and [[Bill Welden]])
+**"Qenya Conjugations" (J.R.R. Tolkien, edited with [[Christopher Gilson]])
+*[[2007]]: ''[[Tolkien Studies: Volume 4]]'', April
+**"[http://www.academia.edu/5084766/Tolkienian_Linguistics_The_First_Fifty_Years Tolkienian Linguistics: The First Fifty Years]"
+*[[2007]]: [[Vinyar Tengwar 49|''Vinyar Tengwar'', Number 49]], June
+**"Five Late Quenya Volitive Inscriptions" by [[J.R.R. Tolkien]] (editor)
+*[[2009]]: ''[[Tolkien Studies: Volume 6]]''
+**"[[Fate and Free Will]]" (editor)
+*[[2013]]: ''[[Vinyar Tengwar 50]]''
+**"The 'Túrin Wrapper'" (editor)
+*[[2018]]: ''[[Tolkien: Maker of Middle-earth]]''
+**"Inventing Elvish"
+*[[2022]]: ''[[The Great Tales Never End]]''
+**"Editing the Tolkienian Manuscript"
+==External links==
+*[https://www.reddit.com/r/tolkienfans/comments/plp345/i_am_carl_hostetter_editor_of_the_nature_of/ Reddit AMA]
+*[https://www.youtube.com/watch?v=prc20Ncjd3I Interview with Voice of Geekdom on YouTube]
+
+{{references}}
+{{DEFAULTSORT:Hostetter, Carl F.}}
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:Computer scientists]]
+[[Category:Editors]]
+[[Category:Linguists]]
+[[Category:JRRTE contributors]]
+[[Category:People by name]]
+[[de:Carl F. Hostetter]]
+[[fi:Carl F. Hostetter]]

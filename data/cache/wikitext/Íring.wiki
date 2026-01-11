@@ -1,0 +1,66 @@
+{{anglosaxon infobox
+| name=Íring
+| image=
+| caption=
+| people=[[wikipedia:Irish people|Irishman]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Íwerin]]<br />[[wikipedia:England|England]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Ír]]
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Íring''' was the son of King [[Ír]] of [[Íwerin]], according to the early version of the [[legendarium]] associated with ''[[The Book of Lost Tales]]''.<ref name=Iri>{{PE|15}}, "[[Early Runic Documents]]", ''ER1d: Fourth page'', p. 96</ref>
+
+== History ==
+Íring was commissioned by an [[wikipedia:Anglo-Saxons|Anglo-Saxon]] King [[Watol]] to build a road through his lands, which he had done in the span of seven years. However, the sons of Watol, the [[Wætlingas]], were angered by his arrogance, and therefore wagered that they could build an even better road in only three years.
+
+Therefore, Íring asked his father Ír for help, and, since Ír was allied with the [[Orcs]] of Íwerin, he sent "all kinds of secret evils" in order to stop the progress of the Wætlingas.
+
+Finally however, when three years had passed, Íring, "despairing of his wager", killed the sons of Watol.
+
+Presumably trying to redress the situation, Íring was allowed by the god [[wikipedia:Odin|Wóden]] (i.e. [[Manweg]])<ref group=note>''Manweg'' is a [[Gnomish]] form of ''Manwë''.</ref> to build a road out of star-dust "across the heavens" running parallel to Íringesweg, the road that he had built.
+
+That [[wikipedia:Milky Way|heavenly road]] later became known as the ''[[wikipedia:Watling Street|Watling Street]]'', in the honour of the Wætlingas, but it was also known as ''Íringesweg'' as well, so that Íring's "name shall not fade".<ref name=Iri/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | IRE |IRE=[[Ír]]}}
+{{familytree | |!| |}}
+{{familytree | IRI |IRI='''ÍRING'''}}
+{{familytree/end}}
+
+== Inspiration ==
+The story of Íring building a road in the heavens, afterwards named after the Wætlingas ''Wæclinga-strǽt'' (that is, the Watling Street), was an attempt by [[Tolkien]] to provide an answer, through his own [[legendarium|mythology]], to an etymological issue concerning the Watling Street.
+
+According to the English chronicler [[wikipedia:Florence of Worcester|Florence of Worcester]], the sons of Watol built the Watling Street in the year [[wikipedia:1013|1013 AD]]; there, Florence of Worcester also said that the name ''Watling Street'' was afterwards applied to the Milky Way.
+
+Tolkien, however, argued that the ''original'' meaning of the [[Old English]] ''Wæclinga-strǽt'' (Watling Street) referred to the Milky Way, and it was only following the [[wikipedia:Anglo-Saxon settlement of Britain|Anglo-Saxon invasion]] of [[wikipedia:Great Britain|Britain]] that the term ''Wæclinga-strǽt'' was applied to the old [[wikipedia:Roman Empire|Roman]] road running from [[wikipedia:Dover|Dover]] to [[wikipedia:Chester|Chester]].
+
+The name ''Íringesweg'' (or ''Iringes weg'') was another Old English name for the Milky Way which Tolkien wanted to incorporate into his mythology at this point.<ref>{{PE|15}}, "[[Early Runic Documents]]", ''Commentary on ER1'', p. 100</ref>
+
+{{references|notes}}
+{{DEFAULTSORT:Iring}}
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Men]]
+[[Category:Old English names]]

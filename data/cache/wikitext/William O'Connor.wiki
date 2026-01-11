@@ -1,0 +1,21 @@
+{{person infobox
+| image=
+| caption=
+| name= William M. O’Connor
+| born=[[22 September]] [[1970]]
+| died=[[31 January]] [[2018]]
+| education=
+| occupation=Artist, author
+| location=
+| website=
+}}
+'''William O’Connor''' ([[21 May]] [[1951]] - [[31 January]] [[2018]]) was an American author and fantasy artist.<ref name=CCGA>{{CCGA|entry=O’Connor, William M.}}, p. 192</ref><ref>{{Cite web|articleurl=https://web.archive.org/web/20180204124017/http://nthfh.com/tribute/details/1959/William-O-Connor/obituary.html|articlename=Obituary of William O'Connor|website=Nolan & Taylor-Howe Funeral Home (archived)}}</ref> He was contracted by [[Iron Crown Enterprises]] to create artwork for the [[Middle-earth Collectible Card Game]].
+==See also==
+*[[:Category:Images by William O'Connor|Images by William O’Connor]]
+==External links==
+* {{WP|William O'Connor (artist)}}
+{{References}}
+{{DEFAULTSORT:O’Connor, William M.}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

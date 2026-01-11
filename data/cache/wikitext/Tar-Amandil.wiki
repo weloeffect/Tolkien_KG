@@ -1,0 +1,85 @@
+{{disambig-two|the third [[King of Númenor|King]] of [[Númenor]]|the father of [[Elendil]]|[[Amandil]]}}
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Tar-Amandil
+| image=
+| caption=
+| pronun=
+| othernames=''Ar-Aphanuzîr'' ([[Adûnaic|A]])
+| titles=[[King of Númenor]]
+| position=
+| location=[[Númenor]]
+| affiliation=
+| language=[[Adûnaic]], [[Sindarin]] and [[Quenya]]
+| birth={{SA|192}}<ref name=Tar-Amandil>{{UT|Kings}}, entry III ''Tar-Amandil''</ref>
+| birthlocation=
+| rule={{SA|442}}<ref name=Vardamir>{{UT|Kings}}, entry II ''Vardamir Nólimon''</ref> - {{SA|590|n}} (''de facto'')<br/>{{SA|443}}<ref name=Vardamir/> - {{SA|590|n}} (''de jure'')<ref name=Tar-Amandil/>
+| death={{SA|603}}<ref name=Tar-Amandil/>
+| deathlocation=
+| age=411
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Vardamir]]<ref name=Tar-Amandil/>
+| siblings=[[Aulendil (son of Vardamir)|Aulendil]], [[Nolondil]] and [[Vardilmë]]<ref name=earlier>{{UT|earlier}}</ref>
+| spouse=
+| children=[[Eärendur (son of Tar-Amandil)|Eärendur]], [[Tar-Elendil|Elendil]] and [[Mairen]]<ref name=earlier/>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Tar-Amandil''' was the third [[King of Númenor|King]] of [[Númenor]]. He ruled de-facto for 148 years, from 442 to 590 of the [[Second Age]]. Tar-Amandil was legally the third King, but actually its second ruler.<ref name=Tar-Amandil/> His father, [[Vardamir|Vardamir Nólimon]], declined to take the [[Sceptre]] upon the death of his own father, [[Elros|Elros Tar-Minyatur]], and was only a titular King that was deemed to have reigned one year.<ref name=Vardamir/>
+
+Tar-Amandil had three children: two sons, [[Tar-Elendil|Elendil]] and [[Eärendur (son of Tar-Amandil)|Eärendur]]; and a daughter, [[Mairen]].<ref name=earlier/> Just as his father had yielded the Sceptre before his death, Tar-Amandil abdicated in 590<ref name=Tar-Amandil/> and was succeeded by his eldest son Elendil, who would rule as [[Tar-Elendil]].<ref name=earlier/> This tradition of renouncing the Sceptre a few years before death was observed by most of the rulers of Númenor until [[Tar-Atanamir]].<ref>{{UT|Kings}}, entry XIII ''Tar-Atanamir the Great''</ref>
+
+== Etymology ==
+''Amandil'' is [[Quenya]]. The name is glossed to mean "Lover of Aman".<ref>{{S|Index}}</ref> According to Paul Strack, the name is a compound of ''[[Aman]]'' ("Blessed Realm") and ''[[-ndil|-(n)dil]]'' ("friend, lover, devoted to").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-2943820837.html|articlename=Q. ''Amandil'' m.|website=Eldamo|accessed=12 December 2021}}</ref> Like all the rulers of Númenor who took their royal names in Quenya, Amandil added the prefix ''tar-'' ("high") to his name when he received the Sceptre.<ref>{{UT|Kings}}, first paragraph and entry I to XXV</ref>
+
+The [[Adûnaic]] version of his name is '''''Aphanuzîr''''',<ref>{{SD|3iiic}}, p. 389</ref> which Paul Strack suggests probably means "Bliss-friend".<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-2313573009.html|articlename=Ad. ''Aphanuzîr'' m.|website=[http://eldamo.org/index.html Eldamo - An Elvish Lexicon]|accessed=5 October 2019}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | ELR | | | | | | | | | | |ELR=[[Elros|Elros Tar-Minyatur]]<br/><small>''{{FA|532}} - {{SA|442}}''</small>}}
+{{familytree | | | | | | | | | | | |,|-|^|-|v|-|-|-|v|-|-|-|.| |}}
+{{familytree | | | | | | | | | | | VAR | | TIN | | MAN | | ATA |VAR=[[Vardamir|Vardamir Nólimon]]<br/><small>''{{SA|61}} - {{SA|471|n}}''</small>|TIN=[[Tindómiel]]<br/><small>''after {{SA|61|n}}''</small>|MAN=[[Manwendil]]<br/><small>''after {{SA|61|n}}''</small>|ATA=[[Atanalcar]]<br/><small>''after {{SA|61|n}}''</small>}}
+{{familytree | | | | | | | | | | |,|^|-|-|v|-|-|-|v|-|-|-|.| | |}}
+{{familytree | | | | | | | | | | AMA | | VAR | | AUL | | NOL | |AMA='''TAR-AMANDIL'''<br/><small>''{{SA|192|n}} - {{SA|603|n}}''</small>|VAR=[[Vardilmë]]<br/><small>''b. {{SA|203|n}}''</small>|AUL=[[Aulendil (son of Vardamir)|Aulendil]]<br/><small>''b. {{SA|213|n}}''</small>|NOL=[[Nolondil]]<br/><small>''b. {{SA|222|n}}''</small>}}
+{{familytree | | | | | | | | | |,|^|-|-|v|-|-|-|.| | | | |!| | |}}
+{{familytree | | | | | | | | | ELE | | EAR | | MAI | | | AXA | |ELE=[[Tar-Elendil]]<br/><small>''{{SA|350|n}} - {{SA|751|n}}''</small>|EAR=[[Eärendur (son of Tar-Amandil)|Eärendur]]<br/><small>''b. {{SA|361|n}}''</small>|MAI=[[Mairen]]<br/><small>''b. {{SA|377|n}}''</small>|AXA=[[Axantur]]<br/><small>''b. {{SA|395|n}}''</small>}}
+{{familytree | |,|-|-|-|v|-|-|-|(| | | |!| | | | | | | | |!| | |}}
+{{familytree | SIL | | ISI | | MEN | | CAL | | | | | | | CEM | |SIL=[[Silmariën]]<br/><small>''b. {{SA|521|n}}''</small>|ISI=[[Isilmë]]<br/><small>''b. {{SA|532|n}}''</small>|MEN=[[Tar-Meneldur]]<br/><small>''{{SA|543|n}} - {{SA|942|n}}''</small>|CAL=[[Caliondo]]<br/><small>''{{SA|512|n}} - {{SA|900|n}}''</small>|CEM=[[Cemendur (son of Axantur)|Cemendur]]<br/><small>''b. {{SA|575|n}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In the twelfth note to a text written around [[1959]] and published in ''[[The Nature of Middle-earth]]'', it is said that either the slow maturity of the [[Half-elven]], or the "choice of kindred"<ref name=Nature>{{NM|P1xi}}</ref>{{rp|78}} extended to the third generation, suggesting that Tar-Amandil, and [[Eldarion]], were among the Half-elven.<ref name=Nature/>{{rp|82}} However, this was changed to the second generation in the actual text.<ref name=Nature/>{{rp|78}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=numenorean
+| house=[[House of Elros]]
+| born={{SA|192}}
+| died={{SA|603}}
+}}
+{{seq
+| prev=[[Vardamir Nólimon]]
+| list=3rd [[King of Númenor]]
+| dates={{SA|443}} - {{SA|590|n}}
+| next=[[Tar-Elendil]]
+}}
+{{seq-end}}
+
+{{numenorkings}}
+{{DEFAULTSORT:TarAmandil}}
+[[Category:House of Elros]]
+[[Category:Rulers of Númenor]]
+[[Category:Second Age characters]]
+[[Category:Númenóreans]]
+[[de:Tar-Amandil]]
+[[fi:Tar-Amandil]]
+[[fr:/encyclo/personnages/hommes/2a/numenoreens/tar-amandil]]

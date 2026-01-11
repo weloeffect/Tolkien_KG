@@ -1,0 +1,141 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Basil_Bunting_and_J.R.R._Tolkien> a schema:WebPage ;
+    rdfs:label "Basil Bunting and J.R.R. Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Basil_Bunting_and_J.R.R._Tolkien> .
+
+<http://localhost:8000/page/Essential_Tolkien> a schema:WebPage ;
+    rdfs:label "Essential Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Essential_Tolkien> .
+
+<http://localhost:8000/page/J.R.R._Tolkien%3A_An_Audio_Portrait> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien: An Audio Portrait"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien%3A_An_Audio_Portrait> .
+
+<http://localhost:8000/page/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion> a schema:WebPage ;
+    rdfs:label "Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion"@en ;
+    schema:about <http://localhost:8000/resource/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion> .
+
+<http://localhost:8000/page/Pearl_and_Sir_Orfeo_%28audiobook%29> a schema:WebPage ;
+    rdfs:label "Pearl and Sir Orfeo (audiobook)"@en ;
+    schema:about <http://localhost:8000/resource/Pearl_and_Sir_Orfeo_%28audiobook%29> .
+
+<http://localhost:8000/page/The_Children_of_H%C3%BArin_%28audiobook%29> a schema:WebPage ;
+    rdfs:label "The Children of Húrin (audiobook)"@en ;
+    schema:about <http://localhost:8000/resource/The_Children_of_H%C3%BArin_%28audiobook%29> .
+
+<http://localhost:8000/page/The_J.R.R._Tolkien_Audio_Collection> a schema:WebPage ;
+    rdfs:label "The J.R.R. Tolkien Audio Collection"@en ;
+    schema:about <http://localhost:8000/resource/The_J.R.R._Tolkien_Audio_Collection> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_%281981_radio_series%29> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings (1981 radio series)"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_%281981_radio_series%29> .
+
+<http://localhost:8000/page/The_Spoken_Word%3A_British_Writers> a schema:WebPage ;
+    rdfs:label "The Spoken Word: British Writers"@en ;
+    schema:about <http://localhost:8000/resource/The_Spoken_Word%3A_British_Writers> .
+
+<http://localhost:8000/resource/Basil_Bunting_and_J.R.R._Tolkien> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/1980> ;
+    tg:format "Audio Cassette"@en ;
+    tg:image "Basil Bunting and J.R.R. Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:publisheruk "London: BBC Cassettes (BBC Study Tapes)"@en ;
+    tg:publisherus "Jeffrey Norton Publishers, Suite L600, 96 Broad St., Guilford, CT 06437. Audio-Forum Label<ref>{{webcite|author=|articleurl=http://web.archive.org/web/20101130103437/http://www.tolkiencollector.com/pages/record0085.html|articlename=BBC Interview - Tolkien with Denis Gueroult|dated=30 November 2010|website=tolkiencollector.com (archived)|accessed=25 April 2014}}</ref>"@en ;
+    tg:title "Basil Bunting and J.R.R. Tolkien"@en .
+
+<http://localhost:8000/resource/Essential_Tolkien> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/6_November_2007> ;
+    tg:format "Audio CD"@en ;
+    tg:image "Essential_tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "978-0061376498"@en ;
+    tg:narrator <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:publisher "Caedmon"@en ;
+    tg:runtime "1 hour"@en ;
+    tg:title "Essential Tolkien"@en .
+
+<http://localhost:8000/resource/J.R.R._Tolkien%3A_An_Audio_Portrait> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/12_November_2001> ;
+    tg:format "Audio Cassette"@en ;
+    tg:image "Tolkien Audio Portrait.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "0563536918"@en ;
+    tg:narrator <http://localhost:8000/resource/Brian_Sibley> ;
+    tg:publisher "BBC Audiobooks Ltd"@en ;
+    tg:title "<small>J.R.R. Tolkien: An Audio Portrait of the Author of The Hobbit and The Lord of the Rings</small>"@en .
+
+<http://localhost:8000/resource/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion> a schema:Thing ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:coverart <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:date <http://localhost:8000/resource/1978> ;
+    tg:format "LP Record"@en ;
+    tg:image "Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "51579"@en ;
+    tg:narrator <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:publisher <http://localhost:8000/resource/HarperCollins> ;
+    tg:title "Of The Darkening Of Valinor And The Flight Of The Noldor"@en ;
+    tg:work <http://localhost:8000/resource/%27%27The_Silmarillion%27%27> .
+
+<http://localhost:8000/resource/Pearl_and_Sir_Orfeo_%28audiobook%29> a schema:Thing ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:coverart <http://localhost:8000/resource/John_Howe> ;
+    tg:date <http://localhost:8000/resource/18_August_1997> ;
+    tg:format "Audio cassette (2 tapes)"@en ;
+    tg:image "Pearl and Sir Orfeo (audiobook).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "978-0001053748"@en ;
+    tg:narrator "Terry Jones"@en ;
+    tg:publisher "HarperCollins Audiobooks"@en ;
+    tg:runtime "ca 2 hours"@en ;
+    tg:title "Pearl and Sir Orfeo"@en .
+
+<http://localhost:8000/resource/The_Children_of_H%C3%BArin_%28audiobook%29> a schema:Thing ;
+    tg:audio "<spotify>show/26pyQgpQKBPJtJIF1lEd4O</spotify>"@en ;
+    tg:author <http://localhost:8000/resource/J.R.R._Tolkien> ;
+    tg:coverart <http://localhost:8000/resource/Alan_Lee> ;
+    tg:date <http://localhost:8000/resource/2007> ;
+    tg:format "Audio CD"@en ;
+    tg:image "The Children of Hurin Audiobook.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "9780007263455"@en ;
+    tg:narrator <http://localhost:8000/resource/Christopher_Tolkien_and_Christopher_Lee> ;
+    tg:publisher <http://localhost:8000/resource/HarperCollins> ;
+    tg:title "The Children of Húrin"@en ;
+    tg:work <http://localhost:8000/resource/%27%27The_Children_of_H%C3%BArin%27%27> .
+
+<http://localhost:8000/resource/The_J.R.R._Tolkien_Audio_Collection> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/October_2nd%2C_2001> ;
+    tg:format "CD's"@en ;
+    tg:image "The J.R.R. Tolkien Audio Collection cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "9780694525706"@en ;
+    tg:narrator <http://localhost:8000/resource/J.R.R._Tolkien%2C_Christopher_Tolkien> ;
+    tg:publisher "Caedmon"@en ;
+    tg:runtime "4 hours and 10 minutes"@en ;
+    tg:title "The J.R.R. Tolkien Audio Collection"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_%281981_radio_series%29> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/Michael_Hordern%2C_John_Le_Mesurier_and_Ian_Holm%2C_as_Gandalf%2C_Bilbo_Baggins> ;
+    tg:date <http://localhost:8000/resource/Original_Airing%3A_8_March_%E2%80%93_30_August_1981%3Cbr_/%3EAudio_CD%3A_1_December%2C_1999> ;
+    tg:format "Radio broadcast"@en ;
+    tg:image "Hordern, LeMesurier, Holm 1981 lotr.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "978-0553456530"@en ;
+    tg:runtime "13 hours"@en ;
+    tg:title "The Lord of the Rings"@en .
+
+<http://localhost:8000/resource/The_Spoken_Word%3A_British_Writers> a schema:Thing ;
+    tg:date <http://localhost:8000/resource/23_October_2008> ;
+    tg:format "3 CD set with booklet"@en ;
+    tg:image "Spoken_word.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/audiobook_infobox> ;
+    tg:isbn "978 0 7123 0541 9"@en ;
+    tg:publisher "BBC Audiobooks Ltd"@en ;
+    tg:runtime "214 minutes"@en ;
+    tg:title "The Spoken Word: British Writers"@en .
+

@@ -1,0 +1,36 @@
+{{Poem infobox
+| title=Noel
+| written=Before [[1936]]
+| published=''[[Annual of Our Lady's School (1936)|'Annual' of Our Lady's School, Abingdon]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Christianity]], [[Christ]]
+}}
+
+'''''Noel''''' is the title of a poem that was written by [[J.R.R. Tolkien]].<ref name=name>{{webcite|author=[[Wayne Hammond]], [[Christina Scull]]|articleurl=http://wayneandchristina.wordpress.com/2013/06/16/tolkien-notes-8/|articlename=Tolkien Notes 8|dated=16 June 2013|website=[http://wayneandchristina.wordpress.com/ Wayneandchristina.wordpress.com]|accessed=19 April 2014}}</ref>
+
+==First stanza==
+<poem style="font-style:italic; margin-left:20px;">
+:Grim was the world and grey last night;
+::The moon and stars were fled,
+:The hall was dark without song or light.
+::The fires were fallen dead.
+:The wind in the trees was like to the sea,
+::And over the mountains' teeth
+:It whistled bitter-cold and free,
+::As a sword leapt from its sheath.<ref name=collectedpoems/></poem>
+
+==Background==
+[[File:Annual of Our Lady's School (Vol.12).jpg|thumb|right|300px|Contents page from Vol.12 of the [[Annual of Our Lady's School (1936)]]]]
+
+''Noel'' was published together with the poem ''[[Shadow-Bride|The Shadow Man]]'' in the [[Annual of Our Lady's School (1936)|''Annual'' of Our Lady's School]] in [[1936]]. According to [[Wayne G. Hammond]] and [[Christina Scull]], who discovered the poem in [[2013]], it is a "directly [[Christianity|Christian]] poem, celebrating the birth of [[Christ]]".<ref name=name/>
+
+In [[2024]], the poem was re-published in September as entry 148 of ''[[The Collected Poems of J.R.R. Tolkien]]'', where Hammond and Scull likened the poem's mood to "an English winter" and compared it to Christina Rossetti's 'A Christmas Carol' from 1872.<ref name="collectedpoems">{{CP|148}}</ref>
+
+==Portrayal in adaptations==
+The poem, entitled '''''Noël''''', was set to a Gregorian Chant and sung by the men's vocal ensemble [https://www.floriani.org/ Floriani] on the occasion of 2024's Christmas.<ref>{{webcite|author=Floriani Sacred Music|articleurl=https://www.youtube.com/watch?v=Q0zxCz_0omU|articlename=J.R.R. Tolkien’s Lost Christmas Poem | Noël|dated=24 December 2024|website=[https://m.youtube.com/ YouTube]|accessed=}}</ref><ref>{{webcite|author=Floriani Sacred Music|articleurl=https://courses.floriani.org/downloads/10075285-3b80-4ea1-91b6-e2ea8dd1d13a|articlename=Noël EP|dated=24 December 2024|website=[https://courses.floriani.org/ Floriani - Media Platform]|accessed=}}</ref>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Christianity]]
+[[Category:Poems by J.R.R. Tolkien]]

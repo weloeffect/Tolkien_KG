@@ -1,0 +1,51 @@
+{{Mallorn
+| name=Mallorn 31
+| image = Mallorn31.jpg
+| editor=John Ellison and [[Patricia Reynolds]]
+| artist=[[Pauline Baynes]]
+| printer=[http://www.centurionpress.net/ Centurion Press]
+| date=[[December]] [[1994]]
+| format=A4 stapled paperback
+| pages=60
+| issn=0308-6674
+}}
+'''''Mallorn'' 31''' is the thirty-first issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in December [[1994]].
+
+==Contents==
+* '''Cover Art'''
+** Mallorn tree
+*** By: [[Pauline Baynes]]
+* '''Editorial'''
+** By: [[John Ellison]] and [[Patricia Reynolds]]
+* '''Articles'''
+** Reappraising Gawain
+*** By: John Matthews
+** Bells and Bell-ringing in Middle-earth
+*** By: Martin Hardgrave
+** "Before Defended Walls": Hill-forts and Fortified Sites in northern Eriador in the Second and Third Ages
+*** By: [[John Ellison]]
+** Turin Turambar and the Tale of the Fosterling
+*** By: Marie Barnfield
+** The Economy and Economic History of Gondor
+*** By: [[Ruth Lacon]]
+** J.I.M Stewart, J.B. Timbermill and J.R.R. Tolkien
+*** By: Jessica Yates
+* '''Reviews'''
+** ''[[Scholarship and Fantasy]]''
+*** By: [[John Ellison]]
+** ''A Tribute to J.R.R. Tolkien''
+*** By: [[John Ellison]]
+** ''Inklings''
+*** By: [[John Ellison]]
+** ''[[Tolkien's Ring]]''
+*** By: Rikki Breem
+** ''[[The War of the Jewels]]''
+*** By: [[Charles Noad]]
+* '''Contributors'''
+* '''Inside Art'''
+** By: J. Ellison, A. Fiddy
+
+{{mallornnav|30|32}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 31}}
+[[Category:Mallorn (journal)]]

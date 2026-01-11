@@ -1,0 +1,10 @@
+{{letter infobox
+| #=303
+| to=Nicholas Thomas
+| date=[[6 May]] [[1968]]
+| subject=[[Sarehole Mill]]
+}}{{letter|303}}
+==Summary==
+Tolkien briefly described the importance of [[Sarehole Mill]] and its miller in Tolkien's youth, stating that the miller and his son were characters of wonder and terror. 
+{{letters}}
+[[de:Brief 303]]

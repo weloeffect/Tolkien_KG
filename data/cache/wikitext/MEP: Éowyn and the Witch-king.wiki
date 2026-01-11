@@ -1,0 +1,14 @@
+{{puzzle infobox
+| title=Éowyn & the Witch-king
+| image=Middle-earth Puzzles - Eowyn and the Witch-king.jpg
+| artist=[[Angus McBride]]
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=[[1997]]
+| pieces=500
+| size=49&nbsp;cm x 36&nbsp;cm
+| ice=30503
+| edition=Unlimited
+}}
+'''MEP: Éowyn and the Witch-king''' is a jigsaw puzzle in the ''[[Middle-earth Puzzles]]'' series, released in 1997 by [[Iron Crown Enterprises]]. This puzzle uses art originally created for the ''[[Middle-earth Collectible Card Game]]''.
+
+[[Category:Puzzles]]

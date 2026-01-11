@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1975
+| location=The Welsh Poney, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 5th-7th, 1975
+| attendees=
+}}
+
+{{oxonmoot|1974|1976}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

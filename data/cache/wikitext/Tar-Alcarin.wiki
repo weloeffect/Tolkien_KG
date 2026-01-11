@@ -1,0 +1,79 @@
+{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Tar-Alcarin
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=[[King of Númenor]]
+| position=
+| location=[[Númenor]]
+| affiliation=[[King's Men]]
+| language=[[Adûnaic]], [[Sindarin]] and [[Quenya]]
+| birth={{SA|2406}}<ref name=Tar-Alcarin>{{UT|Kings}}, entry XVII ''Tar-Alcarin''</ref>
+| birthlocation=
+| rule={{SA|2637}} - {{SA|2737|n}} (''de jure'')<ref name=Tar-Vanimelde>{{UT|Kings}}, entry XVI ''Tar-Vanimeldë''</ref><br/>{{SA|2657}} - {{SA|2737|n}} (''de facto'')<ref name=Tar-Alcarin/>
+| death={{SA|2737}}<ref name=Tar-Alcarin/>
+| deathlocation=
+| age=331
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Tar-Vanimeldë]] and [[Tar-Anducal|Herucalmo]]<ref name=Tar-Vanimelde/>
+| siblings=
+| spouse=
+| children=[[Tar-Calmacil]]<ref name=Tar-Calmacil>{{UT|Kings}}, entry XVIII ''Tar-Calmacil''</ref>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Tar-Alcarin''' was the seventeenth [[King of Númenor]].<ref name=Tar-Alcarin/>
+
+== History ==
+Tar-Alcarin was the son of [[Ruling Queen of Númenor|Ruling Queen]] [[Tar-Vanimeldë]] and [[Herucalmo]], a descendant of [[Tar-Atanamir]].  When Tar-Vanimeldë died in {{SA|2637}}, Herucalmo took the [[Sceptre]] for his own and assumed the name Tar-Anducal.  Tar-Alcarin had to wait for twenty years until his father died before he could become the rightful King.  "Tar-Anducal" being an usurper was not reckoned in the Line of Kings as the seventeenth ruler of [[Númenor]].<ref name=Tar-Vanimelde/>
+
+== Etymology ==
+''Alcarin'' is a [[Quenya]] name. It means "the Glorious".<ref>{{App|Gondor}}, first paragraph, second sentence</ref><ref>{{PE|17}}, p. 24</ref> Paul Strack explains that ''Alcarin'' is the shortened form of ''alcarin(qua)''.<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-1016580549.html|articlename=Q. ''Alcarin'' m.|website=Eldamo|accessed=25 December 2021}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | TEL | | | | |TEL=[[Tar-Telemmaitë]]<br/><small>''{{SA|2136|n}} - {{SA|2526|n}}''</small>}}
+{{familytree | |!| | | | | |}}
+{{familytree | VAN |y| HER |VAN=[[Tar-Vanimeldë]]<br/><small>''{{SA|2277|n}} - {{SA|2637|n}}''</small>|HER=[[Tar-Anducal]]<br/><small>''{{SA|2286|n}} - {{SA|2657|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ALC | | |ALC='''TAR-ALCARIN'''<br/><small>''{{SA|2406|n}} - {{SA|2737|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | CAL | | |CAL=[[Tar-Calmacil]]<br/><small>''{{SA|2516|n}} - {{SA|2825|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ARD | | GIM |ARD=[[Tar-Ardamin]]<br/><small>''{{SA|2618|n}} - {{SA|2899|n}}''</small>|GIM=[[Gimilzagar]]<br/><small>''b. {{SA|2630|n}}''</small>}}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=numenorean
+| house=[[House of Elros]]
+| born={{SA|2406}}
+| died={{SA|2737}}
+}}
+{{seq
+| prev=[[Tar-Vanimeldë]] (''de jure'')<br/>[[Tar-Anducal]] (''de facto'')
+| list=17th [[King of Númenor]]
+| dates={{SA|2637}} - {{SA|2737|n}} (''de jure'')<br/>{{SA|2657}} - {{SA|2737|n}} (''de facto'')
+| next=[[Tar-Calmacil]]
+}}
+{{seq-end}}
+
+{{numenorkings}}
+{{DEFAULTSORT:TarAlcarin}}
+[[Category:House of Elros]]
+[[Category:King's Men]]
+[[Category:Rulers of Númenor]]
+[[Category:Second Age characters]]
+[[Category:Númenóreans]]
+[[de:Tar-Alcarin]]
+[[fi:Tar-Alcarin]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/tar-alcarin]]

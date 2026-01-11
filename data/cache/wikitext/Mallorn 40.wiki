@@ -1,0 +1,49 @@
+{{Mallorn
+| name=Mallorn 40
+| image = Mallorn40.jpg
+| editor=Len Sanford
+| artist=[[Pauline Baynes]]
+| printer=
+| date=November [[2002]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 40''' is the fortieth issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in November [[2002]].
+
+==Contents==
+* Cover Art
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Len Sanford
+* Fiction: ''The nine herbs charm''
+** By: Lynn Forest-Hill
+* J.R.R. Tolkien's moral imagination
+** By: Gary L. Willhite, John R. D. Bell
+* Tolkien's Marian vision of [[Middle-earth]]
+** By: Donald P. Richmond
+* The Hamletian Hobbit
+** By: Laura Marples
+* Reviews: [[Peter Jackson]]'s '[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]'
+** By: [[Charles Noad]]
+** By: Christine Davidson
+** By: Chris Garbowski
+** By: [[John Ellison]]
+** By: Susanne Stopfel
+* [[Treebeard]]'s voice
+** By: [[John Ellison]]
+* [[The Lord of the Rings]] and the Four Loves
+** By: Dale Nelson
+* Binary issues and feminist issues in LOTR
+** By: Dale Nelson
+* J.R.R. Tolkien's use of an Old English charm
+** By: Edward Pettit
+* The Ring: an essay on Tolkien's mythology
+** By: Håken Arvidsson
+* Artwork
+** By: Lorezno Daniele, [[John Ellison]], Lynn Forest-Hill, Natasha Gorton, [[Kay Woollard]]
+
+{{mallornnav|39|41}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 40}}
+[[Category:Mallorn (journal)]]

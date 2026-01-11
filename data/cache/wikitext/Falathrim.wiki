@@ -1,0 +1,56 @@
+{{people infobox
+| name=Falathrim
+| image = Liz Danforth - Falathrim.png
+| caption=Falathrim by Liz Danforth
+| pronun=
+| othernames=Elves of the [[Falas]]
+| origin=[[Teleri]] persuaded by [[Ossë]] to remain by the [[Sea]] in [[Middle-earth]]
+| location=The [[Havens of the Falas]]: [[Brithombar]] and [[Eglarest]] (occupied the western shorelands of [[Beleriand]], around the mouths of the Rivers [[Brithon]] and [[Nenning]])
+| affiliation=
+| rivalry=
+| language=[[Falathrin]]
+| members=[[Círdan]], [[Voronwë]]
+| lifespan=Immortal
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Falathrim''' were the shoreland Elves of the western shores of the [[Middle-earth]] who took [[Círdan]] as their lord from the beginning. They dwelt mainly in the ancient havens of [[Eglarest]] and [[Brithombar]] of the [[Falas]], and their last home on Middle-earth before finally leaving for the Undying Lands was the [[Grey Havens]]. 
+
+==History==
+The [[Teleri]] were the most numerous Elven clan and for this reason they were led by two brothers, [[Elwë]] and [[Olwë]] in the [[Great Journey]] to [[Aman]]. They were also the most slow and reluctant and many turned back or stayed behind. When Elwë became lost in [[Beleriand]], many of his people refused to carry on until he had been found; those were named [[Eglath]], the forsaken.
+
+It was Olwë who led the rest to the shores of Beleriand. As they lingered at the [[Bay of Balar]] they were befriended and taught by [[Ulmo]]'s vassal, the [[Maia]] [[Ossë]]. When Ulmo returned with the [[Tol Eressea|floating island]] to take the bulk of the Teleri to the West, Ossë convinced some of them to forsake Valinor and the other Elves and stay behind with him.<ref>{{S|Princes}}</ref> 
+
+These became the Falathrim, and their leader was [[Nowë]],<ref name="LastWritingsN">{{PM|Last}}, "Círdan", note 30</ref> kin of both Elwë and Olwë, who stayed behind despite his great eagerness to see the [[light of Valinor]].<ref name=Cirdan>{{PM|Last}}, Círdan</ref> He was later known as Círdan. The Falathrim settled on Beleriand's western shores, building themselves Havens at [[Brithombar]] and [[Eglarest]] and became the first builders and sailors of ships in [[Middle-earth]]'s history. 
+
+When Elwë returned, he established the Kingdom of [[Doriath]], claiming overlordship of all Beleriand as King Elu Thingol. The Falathrim, along with the Eglath, were considered [[Sindar]], and found many pearls that they sent to him as gifts.<ref>{{S|Sindar}}</ref> 
+
+After the [[Return of the Noldor]], the Elves of the Falas became fast in friendship with the [[Noldor|Deep Elves]]. Círdan attended the [[Mereth Aderthad]] with many of his people, where he swore oaths of friendship.<ref>{{S|Beleriand}}</ref> With [[Finrod]]'s aid, the Havens of the Falas were strengthened and rebuilt. The Elves of the Havens enjoyed peaceful relations with all the [[Elves of Beleriand]], and were particularly closely allied with the people of [[Nargothrond]]. As one of the most remote peoples from [[Morgoth]]'s forces in [[Angband]], the other Elvish lords would often send their children to the Elves of the Havens for safekeeping.
+
+They fought beside the [[Noldor]], too: in the [[Second assault on Hithlum]], their mariners rescued High King [[Fingon]] from overwhelming hordes in [[Hithlum]]. After the [[Nirnaeth Arnoediad]], Morgoth sent his hosts to besiege them, and both the Havens were overthrown. Most of the Elves of the Falas perished in the [[fall of the Falas]], or were captured, but Círdan escaped. With his surviving followers and the young [[Gil-galad|Ereinion Gil-galad]], who was at that time lodging with the people of the Havens, he sailed southwards, and settled for a time on the [[Isle of Balar]] maintaining a haven. 
+
+As [[Morgoth]]'s power overwhelmed the Eldar (perhaps soon after the Nirnaeth), some "seafaring Sindar from the west havens" fled with 3 small ships to the east. They ended up at the confluence of [[Morthond]] and [[Ringló]]. There they established [[Edhellond]] and were eventually joined by their Telerin kin, [[Silvan Elves]] from the north.<ref>{{PM|XNotes}}, #67</ref><ref>{{PM|Atani}}</ref>
+
+During the [[War of Wrath]], Círdan and Gil-galad sailed east to [[Lindon]] where Cirdan founded the [[Grey Havens]] on the newly formed [[Gulf of Lhûn]], and the remnant of the Elves of the Havens must surely have accompanied him.
+
+==Etymology==
+''Falathrim'' is a [[Sindarin]] name, which means "people of the foaming shore".<ref name=Cirdan/> It is a combination of the element ''[[falas]]''<ref>{{S|Elements}}, entry ''falas''</ref> ("beach", "shore", "strand", "surf(line)") and probably the element ''[[rim]]'' ("host", "great number", "people (of one kind or origin)").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3766094569.html|articlename=S. ''Falathrim'' coll.|website=Eldamo|accessed=18 May 2024}}</ref>
+
+In one text, the names '''[[Falmari]]''' (Quenya) and '''Falathrim''' (Sindarin) both refer to the people of [[Círdan]] in [[Beleriand]]<ref name=Cirdan/> however elsewhere and in the published ''[[Silmarillion]]'', the Quenya name refers to those in Valinor,<ref name=p3i3>{{MR|P3I3}}</ref><ref name=index>{{S|Index}}</ref> and the Sindarin name to those of the [[Falas]].<ref name=index/>
+
+==Other names==
+The people of Círdan retained their name as Teleri and were known in [[Sindarin]] as '''Telir''' or '''Telerrim'''.<ref name=Cirdan/>
+
+Another name for the Falathrim was the '''Egladhrim''', or the '''Eglain''', a [[Sindarin]] name meaning "The Forsaken". While originally used as a name for the [[Sindar]] by themselves, it came to refer only to the Elves of the Falas, as distinguished from the "inland Elves" of Beleriand.<ref>{{WJ|Quendi}}, pp. 365, 379-80</ref>
+
+{{References}}
+[[Category:Elven peoples]]
+[[Category:Moriquendi]]
+[[Category:Sindar]]
+[[Category:Sindarin demonyms]]
+[[de:Falathrim]]
+[[fi:Falathrim]]

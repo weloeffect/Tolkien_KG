@@ -1,0 +1,49 @@
+{{Mallorn
+| name=Mallorn 30
+| image = Mallorn30.jpg
+| editor=John Ellison and [[Patricia Reynolds]]
+| artist=[[Pauline Baynes]]
+| printer=[http://www.nbr-print.co.uk/ New Bradwell Reprographics]
+| date=[[September]] [[1993]]
+| format=A4 stapled paperback
+| pages=58
+| issn=0308-6674
+}}
+'''''Mallorn'' 30''' is the thirtieth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1993]].
+
+==Contents==
+* '''Cover Art'''
+** Mallorn tree
+*** By: [[Pauline Baynes]]
+* '''Editorial'''
+** By: [[John Ellison]] and [[Patricia Reynolds]]
+* '''Erratum'''
+* '''Articles'''
+** English and Welsh
+*** By: [[David Doughan]]
+** The Earliest Days of [[Gondor]]
+*** By: [[Ruth Lacon]]
+** ''[[The Hobbit]]'' and [[J.R.R. Tolkien|Tolkien]]'s Other Pre-war Writings
+*** By: [[John D. Rateliff|John Rateliff]] and [[Christina Scull]]
+** Tolkien's Art
+*** By: [[John Ellison]]
+** It Bore Me Away
+*** By: [[Helen Armstrong]]
+* '''Reviews'''
+** ''[[The Tolkien Collector]]''
+*** By: [[René van Rossenberg]]
+** ''[[Morgoth's Ring]]''
+*** By: [[Charles Noad|Charles E. Noad]]
+** The Dream of Getting Lost: ''Hobbin'' (Faroese translation of ''The Hobbit'')
+*** By: Hanus Andreassen
+** ''J.R.R. Tolkien: Life and Legend''
+*** By: [[Christina Scull]]
+* '''Letters'''
+* '''Contributors'''
+* '''Inside Art'''
+** By: Ivan Bilibin, Valdemar Dalsgaard and Johan Hendrik, [[John Ellison]], [[Ruth Lacon]] 
+
+{{mallornnav|29|31}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 30}}
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,64 @@
+{{album
+| image = A Night in Rivendell.jpg
+| title=An Evening in Rivendell
+| type=Studio album
+| artist=Tolkien Ensemble
+| released=[[2000]]
+| recorded=
+| genre=Classical
+| length=54:16
+| language=
+| label=ClassicO
+}}
+'''''A Night In Rivendell''''' is the second album by the Danish group [[Tolkien Ensemble]], released in April [[2000]]. It features songs composed to the lyrics found in [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]'' and forms the second part of what was to become a complete musical interpretation of all lyrics in the book (a project given approval by both the [[Tolkien Estate]] and [[HarperCollins]]).
+
+The album features cover art by [[Margrethe II of Denmark]].
+
+== Track listing ==
+
+#"A Rhyme of Lore"
+#"Gandalf's Song of Lórien"
+#"Lament of the Rohirrim"
+#"Frodo's Lament for Gandalf"
+#"Bilbo's Song"
+#"Gollums Song/Riddle"
+#"Lament for Boromir"
+#"[[O! Wanderers in the shadowed land#Portrayal in adaptations|Song in the Woods]]"
+#"The Fall of Gil-galad"
+#"Lament for Théoden"
+#"Song of the Mounds of Mundborg"
+#"Elven Hymn to Elbereth Gilthoniel, [[A Elbereth Gilthoniel]]..."
+
+==Credits==
+
+*Peter Hal - vocal, guitar, mandolin, Penny-whistle, Frodo and Sam
+*Caspar Reiff - guitar
+*Morten Ryelund Sørensen - violin
+*Øyvind Ougaard - Accordion
+*Morten Ernst Lassen - Aragorn
+*Signe Asmussen - voice of Rivendell and Galadriel
+*Mads Thiemann - Bilbo
+*Ulrik Cold - Gandalf
+*Kurt Ravn - Legolas
+*Povl Dissing - Gollum
+*Gabriella Persson - Bassoon
+*Torben H. S. Svendsen - Double-bass
+*Kresten Stubbe Teglbjerg - Piano
+*Francis norén - voices
+*Morten Kramp - voices
+*String quartet: Morten Ryelund, Mette Tjærby, Jørgen Eyvind Hansen and Dorthe Buch-Andersen
+*The Chamber Choir Hymnia conducted by Flemming Windekilde
+
+*Musical Director: Morten Ryelund Sørensen
+*Producers: Caspar Reiff, Peter Hall and Morten Ryelund Sørensen
+*Engineering: Hans Nielsen and Viggo Mangor
+*Cover Illustration: Queen Margrethe II of Denmark
+*Cover Design: Dan Eggers and Connie B. Berentzen
+
+{{sequence
+ |prev=[[An Evening in Rivendell]]
+ |next=[[At Dawn in Rivendell]]
+ |list=[[Tolkien Ensemble]] discography
+}}
+{{title|italics}}
+[[Category:Albums]]

@@ -1,0 +1,20 @@
+{{Unnamed}}
+{{plant infobox
+| name=Brambles
+| image=Liz Danforth - Brambles of Mordor.png
+| caption="Brambles of Mordor" by [[Liz Danforth]]
+| pronun=
+| othernames=
+| location=[[Mordor]]
+| notablefor=
+| family=
+| appearance=Tough and thorny
+}}
+'''Brambles of [[Mordor]]''' were ugly plants with shrivelled leaves, maggot-filled buds, and sharp thorns that [[Samwise Gamgee|Sam Gamgee]] exclaimed, "must be a foot long." Some of their thorns were long and sharp, meaning they could puncture very deeply, while others were barbed, making them suited for rending the flesh if one tried to walk through them.  They sprawled over the land like coils of steel wire. As Sam remarked, he hadn't thought that any plants actually grew in Mordor, but upon learning they did, the brambles were exactly what he expected.<ref>{{RK|VI2}}</ref>
+
+==Portrayal in adaptations==
+'''1984-1997: ''[[Middle-earth Role Playing]]''''' 
+:The brambles are given the name '''''Kargîjak''''' ([[Sindarin|S.]] ''Aegmor'', [[Quenya|Q.]] ''Mornaica''), as well as ''Tears of Blood'' when in bloom. They're described as having a short growing season (lasting only for the month of [[Víressë|Gwirith]]), in which its bitter red berries ripen. These were used in Orkish healing pastes, which treated wounds but also stung and left scarring. Because of their thorns, they're sometimes cultivated to protect fortresses.<ref>{{ICE|3112}}, p. 13</ref><ref>{{ICE|2026}}, p. 89</ref>
+
+{{references}}
+[[Category:Plants]]

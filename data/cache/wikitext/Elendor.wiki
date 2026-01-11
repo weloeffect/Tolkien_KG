@@ -1,0 +1,44 @@
+{{video game infobox
+| image=
+| name=Elendor
+| developer=
+| publisher=
+| platform=[[wikipedia:Personal Computer|Personal Computer]]
+| releasedate=October [[1991]]
+| genre=[[wikipedia:MUSH|MUSH]], [[wikipedia:Role-playing game#Electronic media|RPG]]
+|}}
+
+'''Elendor''' is a [[wikipedia:MUSH|MUSH]] (Multi-User Shared Hallucination) server based on [[J.R.R. Tolkien]]'s writings, especially ''[[The Lord of the Rings]]''.<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/elendor.html Elendor] at Tolkien Games (retrieved 8 January 2011)</ref><ref>[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=7 Meristation, El Anillo interactivo] p. 8 (retrieved 8 January 2011)</ref><ref name="Elendor-home">[http://www.elendor.net/index.php/Main_Page The Official Elendor Site] (retrieved 8 January 2011)</ref> Users create characters according to the theme of the books, depending on the culture and race of choice. The purpose is to create a role-playing environment as close as possible to Tolkien's [[Middle-earth]].
+
+Established in October [[1991]], Elendor is the oldest and most popular Tolkien-based MUSH on the internet.<ref name="Tolkien Games"/><ref name="Elendor-home"/> As of May [[2005]], the number of registered users in the game was over 2,000. Middle-earth from [[Belegaer]] to the [[Sea of Rhûn]] can be visited,<ref name="Elendor-ascalades">[http://www.elendor.net/index.php/Accolades The Official Elendor Site, Ascalades] (retrieved 8 January 2011)</ref> there are different descriptions for different times at the day and seasons.<ref name="Elendor-ascalades"/>
+
+==Characters==
+
+New players can be either a [[Dwarves|Dwarf]], [[Elves|Elf]], [[Hobbits|Hobbit]], [[Men]] or [[Orcs|Orc]].<ref name="Elendor-home"/> As IC (In-Character) and OOC (Out of Character) rank are established, players may get chances to play other races. A full list of races can be found below:
+
+* "Araurak" ([[Half-Orcs]])<ref>[http://www.elendor.net/index.php/Category:Arauruk_Cultures The Official Elendor Site, Araurak cultures] (retrieved 8 January 2011)</ref>
+* "Beijabar" (Shapechangers, including the [[Beornings]])<ref>[http://www.elendor.net/index.php/Category:Beijabar_Cultures The Official Elendor Site, Beijabar cultures] (retrieved 8 January 2011)</ref>
+* [[Dragons]] (only playable by Administrators and game designers)<ref>[http://www.elendor.net/index.php/Category:Dragon_Cultures The Official Elendor Site, Dragon cultures] (retrieved 8 January 2011)</ref>
+* [[Dúnedain|Dúnadan]]
+* [[Dwarves|Dwarf]]
+* [[Eagles|Eagle]]
+* [[Elves|Elf]]
+* [[Ents|Ent]]
+* [[Half-elves|Half-Elf]]
+* [[Hobbits|Hobbit]]
+* [[Maiar|Maia]]
+* [[Men|Human]]
+* [[Nazgûl]]
+* [[Olog-hai]]
+* Raugdhrog ([[Wargs]])<ref>[http://www.elendor.net/index.php/Category:Raugdhrog_Cultures The Official Elendor Site, Raugdhrog cultures] (retrieved 8 January 2011)</ref>
+* [[Trolls|Trol]]
+* [[Uruks|Uruk]]
+* [[Uruk-hai]]
+
+==External links==
+*[http://www.elendor.net/ Elendor MUSH Homepage]
+
+{{References}}
+{{title|italics}}
+[[Category:MUSH]]
+[[Category:Role-playing video games]]

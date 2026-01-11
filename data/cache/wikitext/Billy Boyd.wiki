@@ -1,0 +1,47 @@
+{{actor
+| image = Billy Boyd.jpg
+| name=Billy Boyd
+| lifetime=[[28 August|August 28]], [[1968]]
+| played=[[Peregrin Took]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2=[[Shank]]
+| film2=''[[The Lord of the Rings: The War of the Rohirrim]]''
+| imdb=[http://www.imdb.com/name/nm0101710/ IMDb]
+}}
+
+Scottish actor '''Billy Boyd''' (born [[1968]]) played [[Peregrin Took|Peregrin "Pippin" Took]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]]. An accomplished singer, he wrote and sung the dirge "[[The Edge of Night]]" for ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'', which is featured during [[Faramir|Faramir's]] hopeless charge to [[Osgiliath]]. He also wrote and sung "[[The Last Goodbye]]" for ''[[The Hobbit: The Battle of the Five Armies]]''.
+
+In 2003, when ''The Return of the King'' was released, Boyd also starred in [http://www.imdb.com/title/tt0311113/ Master and Commander: The Far Side of the World]. Both films ended up being nominated for the Academy Award for Best Picture.
+
+Boyd and fellow ''Lord of the Rings'' actor [[Dominic Monaghan]] started the ''[[The Friendship Onion]]'' podcast in 2021, which includes stories from their time making the films.<ref>{{webcite|author=|articleurl=https://www.youtube.com/watch?v=PdkJHWPCRaU|articlename=The Friendship Onion (Teaser Trailer)|dated=4 May 2021|website=YouTube|accessed=6 August 2021}}</ref>
+
+==Quotes==
+{{Quote|I wasn't into Tolkien at school really. But the story is timeless, the themes that it touches on are contained in cultures all around the world. The innocent on a quest, the pretender, an inanimate object that holds evil - it's really strange that these themes are there in so many different countries' folklore.|Billy Boyd, [http://www.bbc.co.uk/films/2002/12/14/billy_boyd_two_towers_interview.shtml BBC]}}
+
+{{Quote|I think his part in the story – as well as reminding people that the hobbits are basically fun at the core and are good, good people – his story is about maturing, and a young man in war and how he deals with those horrors. In watching this kind of naïve, innocent little creature who then is kind of scarred by these wars that go around and how that affects him.|Billy Boyd on his character, [http://movies.ign.com/articles/393/393444p1.html IGN.com]}}
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+==External links==
+* '''[http://www.billyboyd.net/ Official Website]'''
+* {{WP|Billy Boyd}}
+* [http://www.imdb.com/name/nm0101710/ Billy Boyd] at IMDb
+
+{{References}}
+{{DEFAULTSORT:Boyd, Billy}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:Singers]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Lord of the Rings: The War of the Rohirrim cast]]
+
+
+[[de:Billy Boyd]]
+[[fi:Billy Boyd]]

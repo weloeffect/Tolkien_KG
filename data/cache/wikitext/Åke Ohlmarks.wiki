@@ -1,0 +1,63 @@
+{{author infobox
+| image=
+| name=Åke Joel Ohlmarks
+| born=[[3 June]] [[1911]]
+| died=[[6 June]] [[1984]]
+| education=
+| occupation=Translator, author
+| location=
+| website=
+|}}
+
+'''Åke Joel Ohlmarks''' ([[1911]]-[[1984]]) was a Swedish author, translator and historian of religion. He translated nine of Tolkien's works into Swedish and credited himself with publishing the first biography on Tolkien in the world.
+
+==Ohlmarks and Tolkien==
+[[File:Åke Ohlmarks (Aftonbladet).jpg|thumb|right|Interview with Ohlmarks in ''Aftonbladet'', entitled "Tolkien was a lousy writer" (early 1980s).]]
+Ohlmarks' translation of ''The Lord of the Rings'' (''Sagan om ringen'', ''Sagan om de två tornen'' and ''Sagan om konungens återkomst'', collectively known as ''[[Härskarringen]]'') was considered very bad by Tolkien. By [[1957]] Tolkien had seen his draft and was dissatisfied, replying with criticism and a list of changes to be made soon.<ref>{{HM|RC}}, p. lxxxi</ref> Tolkien expressed a strong dislike in Letters [[Letter 228|228]] and [[Letter 229|229]]. Because of his experience with the Swedish and [[Max Schuchart|Dutch translations]], Tolkien even wrote ''[[Guide to the Names in The Lord of the Rings]]'' to prevent further wrongdoing in translations.<ref>{{HM|RC}}, pp. 750-1</ref>
+
+Several authors have pointed out that Ohlmarks' translation incorporated badly translated names, injection of adjectives and adverbs, and an archaic and poetic style not found in the original work. Above all else, it has been claimed that there are many errors based on insufficient knowledge of English.<ref>{{webcite|author=Martin Andersson|articleurl=http://sswftapa.blogspot.com/2007/01/lord-of-errors-or-who-really-killed.html|articlename=Lord of the Errors or, Who Really Killed the Witch-King?|dated=22 January 2007|website=[http://sswftapa.blogspot.com/ Sword & Sorcery and Weird Fiction Terminus amateur press association]|accessed=1 January 2012}}</ref><ref name=Beregond>[[Anders Stenström|Beregond, Anders Stenström]], "Tolkien in Swedish Translation: from ''Hompen'' to ''Ringarnas herre''", in ''[[Translating Tolkien: Text and Film]]'' (ed. [[Thomas M. Honegger]]), pp. 115-124</ref><ref>Ingvar Svensson, ''[[Tolkiens Midgård|Tolkiens Midgård: en uppslagsbok]]'', p. 4</ref>
+
+Not all comments on Ohlmarks' translation have been critical. Tolkien himself noted Ohlmarks' exemplary translation of ''Middle-earth'' to ''Midgård'' (similarly derived from ''[[Wiktionary:middangeard|middan-geard]]'', the "old 'mythological' name"), and his rendering of ''[[Marigold Gamgee#Etymology|Marigold]]'' into ''Majagull Ringblom'' (retaining its English sense as both a flower-name referring to the golden colour and personal name).<ref>{{HM|N}}, pp. 760, 774</ref> [[Anders Stenström]] has noted some other cases, where Ohlmarks' knowledge of Old Norse language and literature enabled him able to make a good translation of certain names.<ref name=Beregond/>
+
+However, the negative critique outweighed the positive.<ref name=Beregond/> In the 1970s, Ohlmarks became enraged when [[Christopher Tolkien]] wrote that he would only allow a Swedish translation of ''[[The Silmarillion]]'' if Ohlmarks was not connected to it.<ref>Åke Ohlmarks, ''[[Tolkiens arv]]'', p. 121</ref>
+
+Two years before his death, Ohlmarks blamed Swedish [[Tolkien fandom|Tolkien fans]] for a fire to his house, and wrote ''[[Tolkien och den svarta magin]]'', "Tolkien and the Black Magic". In it, he concocted a conspiracy theory that claimed Tolkien, and [[The Tolkien Society]], practised black magic and Nazi occultism.<ref>Åke Ohlmarks, ''[[Tolkien och den svarta magin]]'', ''passim''</ref>
+
+In [[2004]], a new Swedish translation of ''The Lord of the Rings'', made by [[Erik Andersson]], was published.<ref name=Beregond/>
+
+==Bibliography==
+Selected bibliography of works concerned with J.R.R. Tolkien.
+===Books===
+*[[1972]]: ''[[Sagan om Tolkien]]''
+*[[1976]]: ''[[Tolkien-lexikon]]''
+*[[1978]]: ''[[Tolkiens arv]]''
+*[[1982]]: ''[[Tolkien och den svarta magin]]''
+*[[1983]]: ''[[Stora frågesportboken|Stora frågesportboken: Rolig läsning för blivande allvetare]]''
+
+===Translations===
+* ''[[Härskarringen]]'' (''[[The Lord of the Rings]]'')
+** [[1959]]: ''Sagan om ringen'' (''[[The Fellowship of the Ring]]'')
+** [[1960]]: ''Sagan om de två tornen'' (''[[The Two Towers]]'')
+** [[1961]]: ''Sagan om konungens återkomst'' (''[[The Return of the King]]'')
+* [[1961]]: ''Gillis Bonde från Ham'' (''[[Farmer Giles of Ham]]'')
+* [[1971]]: ''Ringens värld'' (''[[The Lord of the Rings Appendices|The Appendices]]'')
+* [[1972]]: ''Tom Bombadills äventyr'' (''[[The Adventures of Tom Bombadil]]'')
+* [[1972]]: ''Träd och blad'' (''[[Tree and Leaf]]'')
+* [[1973]]: ''Tolkiens sagovärld: en vägledning'' ([[Paul H. Kocher]], ''[[Master of Middle-earth|Master of Middle-earth: the fiction of J.R.R. Tolkien]]'')
+* [[1975]]: ''[[Om Beowulfsagan]]''
+* [[1976]]: ''Breven från jultomten''  (''[[The Father Christmas Letters]]'')
+* [[1978]]: ''J.R.R. Tolkien: en biografi'' ([[Humphrey Carpenter]], ''[[J.R.R. Tolkien: A Biography]]'') [poems translated by Ohlmarks; text transl. by [[Disa Törngren]]]
+* [[1980]]: ''Tolkien bestiarium'' ([[David Day]], ''[[A Tolkien Bestiary]]'')
+
+==External links==
+* {{WP|Åke Ohlmarks}}
+* ''[http://sswftapa.blogspot.com/2007/01/lord-of-errors-or-who-really-killed.html Lord of the Errors]'', an article about the translation of ''The Lord of the Rings''
+{{references}}
+{{SweTr}}
+
+[[de:Åke Ohlmarks]]
+[[Category:Authors|Ohlmarks, Ake]]
+[[Category:Translators|Ohlmarks, Ake]]
+[[Category:Tolkien criticism|Ohlmarks, Ake]]
+[[Category:Swedish people|Ohlmarks, Ake]]
+[[Category:People by name|Ohlmarks, Ake]]

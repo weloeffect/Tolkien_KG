@@ -1,0 +1,77 @@
+{{short_description|10th chapter of the first book of The Fellowship of the Ring}}
+{{disambig-more|Strider|[[Strider (disambiguation)]]}}
+{{Quote|If by life or death I can save you, I will.|[[Aragorn]]}}
+{{chapter
+| image=Matt Stewart - Strider.jpg
+| title=Strider
+| book=The Fellowship of the Ring
+| number=10
+| event=[[Frodo Baggins|Frodo]] meets [[Strider (Aragorn)|Strider]].
+| date=[[29 September]] {{TA|3018|n}}
+| location=[[The Prancing Pony]]
+| previous=At the Sign of the Prancing Pony
+| next=A Knife in the Dark
+}}
+
+'''Strider''' is the tenth chapter of the first book in ''[[The Fellowship of the Ring]]''. The main characters are [[Aragorn|Strider]], [[Frodo Baggins]] and [[Barliman Butterbur]].
+
+The chapter tells of a conversation between Frodo and Strider,  Barliman Butterbur's delivery of [[Gandalf]]'s letter, Strider's promise to protect the [[Hobbit|Hobbits]], and the spotting of a [[Black Rider]] in [[Bree]].
+
+Central to the chapter, Frodo's discussion with Strider signifies the unfolding of a larger destiny for the Hobbits, as their paths are revealed to be intertwined with greater events in Middle-earth.  Frodo's growing sense of caution illustrates the challenge of discerning friend from foe in a world increasingly filled with danger and deception. Strider, who reveals himself as Aragorn, offers guidance and protection to the Hobbits, a suggestion of the trustworthy leadership critical in the challenges ahead.
+
+==Overview==
+The chapter begins where the [[At the Sign of the Prancing Pony|preceding chapter]] ends. 
+
+Frodo, [[Samwise Gamgee|Sam]] and [[Peregrin Took|Pippin]] returned to the [[Prancing Pony]]'s parlour to find [[Meriadoc Brandybuck|Merry]] gone. They kindled the fire, only to discover that Strider had surreptitiously entered the room with them.
+
+===Strider's advice===
+Strider offered Frodo information and advice. In return, he asked that the Hobbits allow him to accompany them until such time that he decided to leave. Frodo asked to know more about Strider before he makes his decision. Strider was pleased with the demand, finding it very prudent.
+
+Strider checked the door to make sure no one was listening in. He revealed that he had seen the Hobbits with [[Tom Bombadil]], and observed them entering Bree. He'd also heard Frodo warning the others to call him "Underhill" instead of "Baggins", which piqued Strider's curiosity since he had been specifically waiting for a "Frodo Baggins" coming from [[The Shire]]. Frodo attempted to make excuses, but Strider seemed to know a great deal about Frodo's "secret", claiming that he has a strong interest in ensuring that the secret doesn't get out. Strider added that he had spotted two Black Riders passing through Bree earlier.
+
+Frodo laments having left the Hobbits' room at all that evening, and casts aspersions on [[Barliman Butterbur]] for convincing him to go to the common-room. Strider vouches for Barliman's credibility, and acknowledges that he, himself, must look very suspicious as well.
+
+Strider again chided Frodo for [[At_the_Sign_of_the_Prancing_Pony#Frodo's_troubled_performance|earlier]] putting on [[The One Ring]], hinting that it would draw more Black Riders to Bree. He warned Frodo about [[Bill Ferny]], the local who'd slipped out of the common-room together with the suspicious southern visitor after Frodo's accident with the Ring:
+
+{{quote|He would sell anything to anybody; or make mischief for amusement.|[[Strider]] on [[Bill Ferny]]}}
+
+Strider explained that he would be a great asset for navigating out of Bree, since the Hobbits would have to avoid the road at all costs. Sam advised against this, warning that Strider may be planning to lead the Hobbits into a trap. Frodo considered this and rejected Strider's offer, but pressed Strider to reveal more about himself. Strider once again seemed pleased that Frodo was erring on the side of caution.
+
+===Barliman's advice===
+The conversation was cut short when Barliman Butterbur entered, at which Strider retreated into the shadows. Barliman said that he  remembered what he had previously forgotten; he was to expect a Hobbit named "Baggins" going under the pseudonym "Underhill". He gave a description of Frodo as told to him by [[Gandalf]], whom he claimed as his friend, and apologised deeply, saying that Gandalf had instructed him to send a letter to [[Hobbiton]], which he forgot to do - only the Hobbits' arrival that night jogged his memory. He added that Gandalf asked him to assist "Baggins" if he ever turned up, and to ask no questions of him.
+
+Barliman mentioned that Frodo may be in trouble, on account of dark men asking questions about him around Bree. He said that two of these dark men arrived the previous Monday and terrified his assistant. Barliman had turned them away, but they continued snooping around [[Bree-land]] for answers.
+
+Barliman warned Frodo that Strider had also been asking questions about him. Strider then stepped out of the shadows, alarming Barliman, who still insisted that Frodo shouldn't trust the [[Ranger]]. Barliman implored Frodo to stay in Bree, but Strider advised strongly against this, revealing that the Black Riders come from a land called "[[Mordor]]", a name which Butterbur recognised with great alarm.
+
+Strider asks Barliman to forget the name "Baggins". Barliman agrees, but warns that the rumor will get out quickly either way. He promises that he and his assistants will guard the inn that night, and will not let any Black Riders in.
+
+===Gandalf's letter===
+Barliman left the parlour, after which Frodo opened the letter from Gandalf and read it to himself. In the letter, Gandalf instructed Frodo to leave The Shire before July {{TA|3018}} and make for [[Rivendell]]. He asked Frodo to leave a message for him with Barliman Butterbur in case they hadn't regrouped first. He vouched for both Barliman and Strider; however he bid Frodo make sure that he encountered the ''real'' Strider, whose true name is Aragorn, adding a riddle that might help:
+
+{{quote|All that is gold does not glitter,<br/>&nbsp;&nbsp;&nbsp;Not all those who wander are lost;<br/>The old that is strong does not wither,<br/>&nbsp;&nbsp;&nbsp;Deep roots are not reached by the frost.<br/>From the ashes a fire shall be woken,<br/>&nbsp;&nbsp;&nbsp;A light from the shadows shall spring;<br/>Renewed shall be blade that was broken,<br/>&nbsp;&nbsp;&nbsp;The crownless again shall be king.|The [[Riddle of Strider]]}}
+
+The letter was signed with Gandalf's [[Angerthas]] rune for "G".
+
+Frodo passed the letter to Sam and Pippin. He chided Strider about not revealing that he was Gandalf's friend to begin with. Strider answered that Frodo wouldn't have believed him. He also said he wanted to make sure Frodo was who he claimed to be, first. Finally, he confided that he'd secretly hoped Frodo would trust him even without knowing he was Gandalf's friend.
+
+Sam was still suspicious of Strider, suggesting he could've killed the real one and taken his place. Strider replied that if he'd wanted to take The One Ring, he could've done so immediately. With that, he sprang to his feet and put a hand on the hilt of his sword, appearing suddenly as a great danger to the Hobbits. He quickly relaxed, however, revealing his full name as Aragorn son of [[Arathorn II|Arathorn]], and pledging his life to Frodo's protection.  Finally, Frodo accepted Strider's offer to serve as their guide.
+
+{{quote|You have frightened me several times tonight, but never in the way that servants of the Enemy would, or so I imagine. I think one of his spies would — well, seem fairer and feel fouler, if you understand.|[[Frodo Baggins]] to [[Aragorn]]}}
+
+At this, Strider quoted the [[Riddle of Strider]], which Frodo recognized from Gandalf's letter. Strider said that the riddle was connected to his real name. He pulled out his sword, showing that it was indeed broken. He claimed it would soon be time to reforge the sword, as the Riddle foretold.
+
+===Merry's warning of danger===
+Strider said he would lead the Hobbits to [[Weathertop]], halfway between Bree and Rivendell. When Frodo asked about Gandalf's whereabouts, Strider replied that he did not know. He told of how he'd come with Gandalf to the area in the previous Spring, and had last seen him on [[1 May]], {{TA|3018}}, at [[Sarn Ford]]. At the time, Gandalf was still expecting Frodo to leave The Shire in September. Thinking that Frodo was safe with Gandalf, Strider went off to take care of another errand. He later met [[Gildor Inglorion]], who told him that Frodo had left the Shire. Frodo worried that Gandalf might have been hurt by the Black Riders, but Strider reassured him that Gandalf is much more powerful than the Hobbits know him to be.
+
+Merry, whose absence had worried Pippin, then returned together with Barliman's assistant, [[Nob]]. He warned the others that he had seen a Black Rider in Bree. Feeling an unexplained urge, he tried following it as it slinked away, but lost it near the south gate. He heard fell voices whispering in the dark, and turned quickly to run back to the inn, but was suddenly knocked out from behind. Nob then explained that he was sent out by Barliman to scout the area, and found Merry with two dark figures looming over him. Nob shouted at the figures, but they disappeared before he could identify them. Nob added that the event occurred very near Bill Ferny's house.
+
+Strider speculated that Merry had been struck with the "Black Breath", confirming that the Riders were indeed in Bree, and that Bill Ferny and the southerner must have tipped them off. He also suspected [[Harry Goatleaf|Harry the gatekeeper]]'s involvement. He didn't believe the Riders would attack the inn just yet, and would instead gather their forces, preferring to attack once the Hobbits left Bree.
+
+Strider advised the Hobbits not to return to their rooms. Instead, Nob ruffles up their clothes and placed them in the Hobbits' beds, under the blankets, to simulate their sleeping bodies. Nob returned to his guard duties while Strider and the Hobbits barred themselves inside the parlour, shuttering the windows. They set up mattresses around the hearth and slept, with Strider propped up in a chair against the door.
+
+==External links==
+*[http://www.zarkanya.net/Tolkien/BreeEvents.htm Rough time-line of events in Bree, September 29, SR 1418] by Alcuin
+{{title}}
+[[Category:The Fellowship of the Ring chapters]]
+[[fi:Konkari (TSH)]]

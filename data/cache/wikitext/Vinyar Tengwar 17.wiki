@@ -1,0 +1,27 @@
+{{VTbox
+| title=Vinyar Tengwar 17
+| image = Vinyar Tengwar 17.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=May [[1991]]
+| format=Paperback journal
+| pages=26
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 17''''' is the seventeenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|16|18}}
+
+==Contents==
+* Cover: "Radagast" — Patrick H. Wynne
+* Letters to ''VT''
+
+* "Words and Devices: Apologia" (column) — Carl F. Hostetter and Patrick H. Wynne
+* "''Essitalmar'': Quenya Rag" (column) — Tom Loback
+* "Transitions in Translations: Who's Afraid of the Big, Bad Gollum?" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 17}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 17]]

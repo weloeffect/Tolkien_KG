@@ -1,0 +1,41 @@
+{{events
+| image = Lída Holubová - Nan Elmoth.jpg
+| event=Sleep of Yavanna
+| othernames=Peace of Arda
+| date=
+| location=[[Arda]]
+| result=
+| partof=[[Years of the Trees]]
+| participants=[[Animals]] and [[plants]]
+| description=An event in which the creations of Yavanna fell silent for ages
+| references= 
+}}
+
+The '''Sleep of Yavanna''' was a period of the very ancient times of [[Arda]], marked by darkness and stillness of nature.
+
+==Background==
+The two great [[Two Lamps|Lamps]] of the [[Valar]] which were giving light to the World during the [[Spring of Arda]] were destroyed by [[Morgoth|Melkor]] along with the Valar's dwellings on [[Almaren]], driving them away into the [[Uttermost West|West]].<ref name=s1>{{S|1}}</ref> Thus the [[Middle-earth|Great Lands]] were left in darkness, and [[Yavanna]] protected the creatures living there by setting them to sleep and they did not grow or age until light should come again.<ref name=c3>{{S|3}}</ref> However, some forests seem to keep growing even in that darkness: when [[Thingol]] and [[Melian]] fell in their enraptured spell, "the trees of [[Nan Elmoth]] grew tall and dark before they spoke any word".<ref>{{S|Thingol}}</ref>
+
+==History==
+While the Valar were preparing the bliss of [[Valinor]] bathed in the light of the [[Two Trees of Valinor|Two Trees]], [[Middle-earth]] was in darkness and silence, and fell beasts of hideous form multiplied in [[Utumno]]. It was [[Ulmo]] who did not forsake the Outer Lands and kept the earth alive. Yavanna also came healing the hurts of Melkor, and [[Orome]] hunted monsters, and kept the shadows at bay while blowing the [[Valaróma]], albeit temporarily.<ref name=s1/>
+
+It was during the Sleep of Yavanna when [[Aulë]] in his impatience created the [[Fathers of the Dwarves|Seven Fathers]] of the [[Dwarves]] under the mountains of [[Middle-earth]]. As Middle-earth was dark and dangerous, Aulë made his children robust and sturdy.<ref>{{S|2}}</ref>
+
+[[Varda]] created new [[stars]] and the [[Elves]] awoke. Only Dwarves and Elves roamed Middle-earth which was lit only by the stars, and most creatures were sleeping.<ref name=c3/> Most life could be found in [[Doriath]] under the guidance of [[Melian]] and in the North where [[Orcs]] and other creatures of the [[Morgoth|Enemy]] multiplied.<ref>{{HM|Guide}}, entry "Sleep of Yavanna".</ref>
+
+After the [[Long Night]], it was the rising of the [[Sun]] that finally returned light to Middle-earth and a [[Second Spring of Arda]].
+
+==See also==
+*[[Years of the Trees]]
+
+{{references}}
+{{seq-start}}
+{{seq
+| prev=[[Spring of Arda]]
+| list=Major events of [[Middle-earth]]
+| dates={{VY|3450}} - {{FA|1}}
+| next=[[Second Spring of Arda]]
+}}
+{{seq-end}}
+[[Category:Periods]]
+[[fi:Yavannan uni]]

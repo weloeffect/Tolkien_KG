@@ -1,0 +1,43 @@
+{{disambig-two|the poem about [[Ælfwine]]|poem with a similar name to the earlier version|''[[Nameless Land]]''}}
+{{Poem infobox
+| title=The Song of Ælfwine on seeing the uprising of Eärendil
+| other names=The Nameless Land,<br>Ælfwine's Song calling upon Eärendel,<br>The Song of Ælfwine (on seeing the uprising of Eärendel)
+| written=May [[1924]]
+| revised=August 1924, 1936 or 1936, 1950s<ref name=collectedpoems>{{CP|74}}</ref>
+| published=''[[Realities: An Anthology of Verse]]'',<br>''[[The Lost Road and Other Writings]]'',<br>''[[Tolkien's Legendarium: Essays on The History of Middle-earth]]'',<br>
+| subject=[[Ælfwine]], [[Eärendil]], [[Tol Eressëa]], [[Straight Road]]
+}}
+
+'''''The Song of Ælfwine on seeing the uprising of Eärendil''''' is a poem that was written by [[J.R.R. Tolkien]].<ref name=lostroad>{{LR|P1III3}}, ''Note on the poem 'The Nameless Land' and its later form'', pp. 98-104</ref> The poem was published in [[1987]] within ''[[The Lost Road and Other Writings]]''.<ref name=lostroad/> Three of the five stanzas of the latest version were reprinted in [[David Bratman]]'s article "The Literary Value of ''The History of Middle-earth''" on pages 79–80 within ''[[Tolkien's Legendarium|Tolkien's Legendarium: Essays on The History of Middle-earth]]'' in [[2000]].<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=13320|articlename=Tolkien's Legendarium. 2000|dated=|website=Tolkienbooks.net|accessed=30 December 2011}}</ref>
+
+== Prose note of the last version ==
+''[[Ælfwine]] ([[Elf-friends|Elf-friend]]) was a seaman of [[England]] of old who, being driven out to sea from the coast of [[Íverin|Erin]] [ancient name of Ireland], passed into the deep waters of the [[Valinor|West]], and according to legend by some strange chance or grace found the '[[Straight Road|straight road]]' of the [[Elves|Elvenfolk]] and came at last to the [[Tol Eressëa|Isle of Eressëa]] in [[Undying Lands|Elvenhome]]. Or maybe, as some say, alone in the waters, hungry and athirst, he fell into a trance and was granted a vision of that isle as it once had been, ere a [[West-wind]] arose and drove him back to [[Middle-earth]]. Of no other man is it reported that he ever beheld Eressëa the fair. Ælfwine was never again able to rest for long on land, and sailed the western seas until his death. Some say that his ship was wrecked upon the west shores of Erin and there his body lies; others say that at the end of his life he went forth alone into the deeps again and never returned.''<ref name=lostroad/>
+:''It is reported that before he set out on his last voyage he spoke these verses:<ref name=lostroad/>
+<poem style="font-style:italic; margin-left:20px;">
+::þus cwæð Ælfwine Wídlást Éadwines sunu:
+:::Fela bið on Westwegum werum uncúðra,
+:::wundra and wihta, wlitescéne land,
+:::eardgeard ælfa and ésa bliss.
+:::Lýt ænig wát hwylc his langoð síe
+:::þám þe eftsíðes eldo getwæfeð.<ref name=notionclub>{{SD|66}}, p. 244</ref>
+</poem>
+''There is many a thing in the west of the world unknown to men; marvels and strange beings, [a land lovely to look on,] the dwelling place of the Elves and the bliss of the [[Gods]]. Little doth any man know what longing is his whom old age cutteth off from return.''<ref name=notionclub/>
+
+== Background ==
+=== ''The Nameless Land'' ===
+Tolkien first wrote '''''The Nameless Land''''' at a house on Darnley Road in Leeds in May of 1924.<ref>''[[J.R.R. Tolkien: A Biography]]'', p. 107</ref> The poem was first published by the Swan Press; London, Gay and Hancock Ltd. in 1927 within ''[[Realities: An Anthology of Verse]]'' on pages 24 and 25. The poem was inspired by the medieval poem ''[[Pearl]]''.<ref name=lostroad/>
+
+=== ''The Song of Ælfwine (on seeing the uprising of Eärendel)'' ===
+Sometime during the writing of ''[[The Lost Road]]'', Tolkien revised ''The Nameless Land'', changing the title of the poem to '''''Ælfwine's Song calling upon Eärendel''''' and again to '''''The Song of Ælfwine (on seeing the uprising of Eärendel)''''', an "Intermediate Version".<ref name=lostroad/>
+
+=== Further revisions ===
+The “Intermediate Version” was followed by two more versions and then a final version which was written either in conjunction with ''[[The Notion Club Papers]]'' and the poem ''[[Imram]]'', or in the period after ''[[The Lord of the Rings]]'' was published.<ref name=lostroad/>
+
+== See also ==
+*''[[The Song of Eriol]]''
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The History of The Lord of the Rings]]

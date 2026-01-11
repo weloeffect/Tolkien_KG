@@ -1,0 +1,21 @@
+{{board game infobox
+| image = HftR BoardGame 2017.webp
+| name=Hunt for the Ring
+| designer=Marco Maggi, Gabriele Mari, Francesco Nepitello
+| publisher=[[ARES Games]]
+| releasedate=[[2017]]
+| players=2-5
+| ages=12+
+}}
+'''Hunt for the Ring''' is a hidden movement/deduction game published by [[ARES Games]] in 2017, retelling the journey of [[Frodo]] and the [[Hobbits]] as they make their way to [[Rivendell]] with [[The One Ring]], as told in the [[The Fellowship of the Ring]].
+
+==From the publisher==
+The game is a battle of wits and takes you upon a new journey across Middle–earth. One player must bring Frodo Baggins — the [[Ringbearer]] — and his Hobbit friends from their home in the [[Shire]] to the sanctuary of Rivendell, where the fate of the One Ring will be decided. Using secrecy and the help of powerful allies, the Ringbearer must escape the chase of the [[Nazgûl]], the terrible Ringwraiths, controlled by up to four other players. The Ringwraith players work together to find Frodo and recover the Ring for their [[Sauron|Dark Lord]], while the Ringbearer secretly tracks his path first from [[Hobbiton]] to [[Bree]], then from Bree to Rivendell, on a double–sided game board.
+
+
+==External links==
+* '''[https://www.aresgames.eu/games/war-of-the-ring-line/hunt-for-the-ring Official Site]'''
+* [https://boardgamegeek.com/boardgame/216070/hunt-for-the-ring Board Game Geek Profile]
+{{references}}
+{{title}}
+[[Category:Board games]]

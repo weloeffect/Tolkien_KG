@@ -1,0 +1,26 @@
+{{location infobox
+| name=Almaida
+| image=
+| caption=
+| pronun=
+| othernames=
+| location=[[Bay of Andúnië]], [[Númenor]]
+| type=Town
+| description=
+| regions=
+| towns=
+| inhabitants=[[Númenóreans]]
+| created=
+| destroyed=Presumably during the [[Downfall of Númenor]]
+| events=
+}}
+'''Almaida''' was a shoreland town that apparently lay on the [[Bay of Andúnië]] in the north-western region of [[Númenor]] known as the [[Andustar]]. It seems to have been built a little further westward along the bay than the main city of [[Andúnië]] itself, but little more can be said of Almaida. 
+
+==Etymology==
+The name is only known from a single [[Númenórë (map)‎|sketch-map of Númenor]], where it is unintelligible, and is never mentioned elsewhere.<ref name=UT>{{UT|Introduction}}, p. 7</ref> The name is apparently [[Quenya]] but also it is incompatible with Quenya phonology as the sound ''d'' does not occur in Quenya names outside "nd", "rd" and "ld".<ref group=note>A similar problem is seen with the word ''[[Aldudénië]]'' from ''[[The Silmarillion]]''</ref> It has been suggested that the actual word was misread by [[Christopher Tolkien]].<ref>{{webcite|articleurl=http://elfling.midgardsmal.com/index.php?topic=103489.0|articlename=Númenor Place-Names|website=[http://elfling.midgardsmal.com Elfling]}}</ref>
+
+{{references|note}}
+{{numenor}}
+[[Category:Andustar]]
+[[Category:Cities, towns and villages]]
+[[fi:Almaida]]

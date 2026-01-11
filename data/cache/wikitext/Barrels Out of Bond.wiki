@@ -1,0 +1,25 @@
+{{chapter
+|image=J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (II).jpg
+|previous=Flies and Spiders
+|next=A Warm Welcome
+|number=9
+|map=[[File:J.R.R. Tolkien - Map - Barrels out of bond.png|thumb|centre]]
+|date=Late [[August]]—[[22 September]] {{TA|2941}}
+|book=The Hobbit
+|title=Barrels Out of Bond
+|location=[[Elvenking's Halls]], [[Forest River]]
+|event=Bilbo helps [[Thorin and Company]] escape the Elvenking's dungeons.
+}}
+'''Barrels Out of Bond''' is the 9th chapter of ''[[The Hobbit]]''.
+
+==Summary==
+[[File:J.R.R. Tolkien - The Elvenking's Gate (II).jpg|thumb|180px|left|"[[Thranduil|The Elvenking]]'s Gate" by [[J.R.R. Tolkien]]]]
+Following their capture by the [[Elves of Mirkwood|Wood-elves]], [[Thorin]] and the Dwarves are imprisoned on the orders of the [[Thranduil|Elvenking]] ([[Thranduil]], father of [[Legolas]]), with Thorin in the deepest, darkest dungeon. [[Bilbo Baggins|Bilbo]] - who uses his [[the One Ring|magic ring]] to escape capture - once again proves his usefulness by conveying secret messages between the dwarves. The gates to the caves are sealed by magic; sometimes he is able to slip out with hunting parties but he spends a miserable life in the deepest, darkest corners of the palace.
+
+One day, while wandering about, Bilbo discovers that the gates are not the only way out of the caves: a stream flowed through the lowest regions of the palace although the exit was blocked with a portcullis. As there were no vines in [[Mirkwood]], the [[Elves]] drank wines that "''were brought from far away, from their kinsfolk in the South, or from the vineyards of Men in distant lands''"; the empty wine barrels were floated back down the stream to [[Lake-town]], from where the wine came. 
+
+One night, [[Galion]], the butler and the chief guard sneak downstairs to the wine cellars to drink of the wine; they get drunk, and fall asleep. Bilbo, still invisible, spots his opportunity: he steals the keys and sets the Dwarves free.
+
+Bilbo stuffs them into the empty wine barrels, padding them with straw and drilling air holes in the barrels. The elves float the barrels down the river; the plan came close to ruin when the elves almost open the barrels due to their weight, however, the dwarves successfully escape to Lake-town.
+[[Category:The Hobbit chapters]]
+[[fi:Tynnyrikyydillä tyrmästä]]

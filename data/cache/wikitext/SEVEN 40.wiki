@@ -1,0 +1,54 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 40
+| image=
+| editor=
+| illustrator=
+| date=[[2024]]<ref name="vii">{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/issue/view/142|articlename=Volume 40 (2024)|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=14 August 2025}}</ref>
+| format=Paperback journal
+| pages=
+}}
+'''''SEVEN 40''''' is the fourtieth and most current volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2024]].<ref name="vii" />
+==Contents==
+*"Joy Davidman's Unpublished Letters: August 16 to December 19, 1952"
+**By: Joy Davidman Lewis and Don W. King
+*"Language, Consciousness, and the Recovery of Human Meaning"
+**By: Owen Barfield and Sarah O'Dell
+*"Shakespeare on (and in) the Margins: C.S. Lewis's Engagement with Shakespeare"
+**By: Sarah R.A. Waters
+*"The Poetry of Conduct: Sanctification in George Herbert and C.S. Lewis"
+**By: Kristine A. Wolberg
+*"A 'Diagram of Love Himself': Reading C.S. Lewis's The Four Loves as Spiritual Practice"
+**By: Toby F. Coley
+*"The Historical Perspective: Gleanings from C.S. Lewis's Personal Library"
+**By: K. Alan Snyder and Jamin Metcalf
+*Remembrances
+**"Father Ian Boyd, CSB"
+***By: Father Daniel Callam, CSB, and Adam Schwartz
+**"Aidan Mackey"
+***By: Elise Peterson and Marjorie Lamp Mead
+**"Peter Schakel"
+***By: Elise Peterson and Charles Huttar
+*Book Reviews
+**"Review of What Barfield Thought by Landon Loftin and Max Leyf"
+***By: David Willey
+**"Review of Freud's Last Session (Film), directed by Matt Brown"
+***By: Harry Lee Poe
+**"Review of the Wade Annotated Edition of The Man Born to Be King by Dorothy L. Sayers, annotations by Kathryn Wehr"
+***By: Carolyn Weber
+**"Review of Gifted Amateurs by David Bratman"
+***By: Giovanni Carmine Costabile
+**"Review of The Battle of Maldon Together with The Homecoming of Beorhtnoth by J.R.R. Tolkien, edited by Peter Grybauskas"
+***By: David Llewellyn Dodds
+**"Review of Tolkien's Faith by Holly Ordway"
+***By: Joel Scandrett
+*Booknotes
+**"Something Has Gone Crack": New Perspectives on J.R.R. Tolkien in the Great War
+***By: Chloe DuBois
+**The Fall of Númenor
+***By: Joel D. Ruark<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|39|40}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 40}}
+
+[[Category:SEVEN]]

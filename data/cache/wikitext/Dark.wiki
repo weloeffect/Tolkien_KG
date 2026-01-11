@@ -1,0 +1,41 @@
+{{Poem infobox
+| title=Dark
+| other names=''Copernicus v. Ptolemy'',<br>''Copernicus and Ptolemy'',<br>''Þéostru''
+| written=[[21 December]] of [[1914]]
+| revised=[[8 March]] of [[1915]],<br>Between [[1917]] and [[1924]]
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Wikipedia:Ptolemy|Ptolemy]], [[Wikipedia:Nicolaus Copernicus|Nicolaus Copernicus]]
+}}
+'''''Dark'''''<ref name=chronology>{{CG|Po}}, p. 843 (entries "''Copernicus and Ptolemy''" and "''Dark''")</ref>, or '''''Þéostru''''',<ref name=collectedpoems>{{CP|20}}, pp. 114-9</ref> is a lyric<ref name=collectedpoems/> poem that was written by [[J.R.R. Tolkien]] in [[December]] of [[1914]].<ref name=chronology1914>{{CG|C}}, p. 58 (entry "21 December 1914")</ref>
+
+''Dark'' describes the night sky and [[Earth]]'s cosmological place in it. The two alternate titles refer to [[Wikipedia:Ptolemy|Ptolemy]], the ancient mathematician who proposed the geocentric model of the solar system which remained popular for centuries, and [[Wikipedia:Nicolaus Copernicus|Nicolaus Copernicus]], who first proposed the heliocentric model, and the tensions that arose between adherants to the two models afterwards, especially the Catholic Church. Tolkien apparently found some interest in this matter.<ref name=collectedpoems/>
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:The sun is gone, and all the Earth is dark
+:and hushed; the bow of her great sable breast
+:stands curvëd and huge against the farthest skirts
+:of that black canopy that roofs us in —
+:its height is markëd only by the Stars,<ref name=collectedpoems/></poem>
+
+== Background ==
+On [[21 December]] of 1914, Tolkien wrote the first version of a poem which he entitled ''Dark''.<ref name=chronology1914/>
+
+Possibly<ref name=collectedpoems/> on [[8 March]] of [[1915]], Tolkien rewrote the poem and renamed it to '''''Copernicus v. Ptolemy''''' before rewriting it again and changing the name to '''''Copernicus and Ptolemy'''''.<ref name=collectedpoems/> In this version, Tolkien gave the poem the [[Old English]] name ''Þéostru'' ("Darkness").<ref name=collectedpoems/> Tolkien eventually revised this version,<ref name=collectedpoems/> before sending this version along with ''[[Wood-sunshine]]''<ref name=reader>{{CG|RG}}, p. 1106 (entry "Wiseman, Christopher Luke")</ref> and ''[[As Two Fair Trees]]''<ref name=reader/> to his friends [[Christopher Wiseman]] and [[Geoffrey Bache Smith]].<ref name=chronology1915>{{CG|C}}, p. 60 (entry "8 March 1915")</ref>
+
+On [[25 March]], Smith sent a letter to Tolkien, noting his approval of the poem.<ref name=chronology25>{{CG|C}}, p. 62 (entry "?25 March 1915")</ref> In the afternoon<ref name=chronologytrinity>{{CG|C}}, p. 64 (entry "Trinity Term 1915")</ref> of [[25 April]], Wiseman discussed Tolkien’s poems with [[Robert Quilter Gilson]],<ref name=chronologytrinity/> before sending a letter to Tolkien with comments on the poem, referring to it as '''''Copernicus & Ptolemy'''''.<ref name=reader/>
+
+Wiseman later sent Tolkien more comments on the poem.<ref name=chronology1917>{{CG|C}}, p. 102 (entry "1 September, 7 and 10 October 1917")</ref>
+
+At some date between [[1917]] and [[1924]], Tolkien made a final revision of the poem, changing the name to ''Dark''.<ref name=collectedpoems/>
+
+In [[2024]], the full poem was published for the first time in [[September]] as entry 20 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+== See also ==
+* [[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+{{References}}
+
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

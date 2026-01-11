@@ -1,0 +1,41 @@
+{{disambig-two|the [[Index:Poems by J.R.R. Tolkien|poem]]|titular [[Turtle-fish]]|[[Fastitocalon]]}}
+{{Poem infobox
+| title=Fastitocalon
+| image=Pauline Baynes - Fastitocalon Chapterhead.jpeg
+| caption="Fastitocalon" by [[Pauline Baynes]]
+| other names=
+| written=Before [[June]] of [[1927]]
+| revised=[[1961]] or [[1962]]<ref name=CG>{{CG|2II}}, entry "Fastitocalon"</ref>
+| published=''[[Stapeldon Magazine]]'',<br>''[[The Adventures of Tom Bombadil]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Fastitocalon]], [[Turtle-fish]]
+}}
+'''''Fastitocalon''''' is a poem written by [[J.R.R. Tolkien]] published in ''[[The Adventures of Tom Bombadil]]'' that was attributed to [[Samwise Gamgee]], who based it on "an older piece of the comic bestiary lore" which [[Hobbits]] like.<ref name=preface>{{ATB|Preface}}, p. 7</ref> The central character is [[Fastitocalon]], the last of the [[Turtle-fish]], and the setting is [[Middle-earth]].<ref name=poem>{{AB|Fastitocalon}}</ref>
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+Look, there is Fastitocalon!
+An island good to land upon,
+      Although 'tis rather bare.
+Come, leave the sea! And let us run,
+Or dance, or lie down in the sun!
+      See, gulls are sitting there!
+                       Beware!<ref name=poem/></poem>
+
+==Etymology==
+''Fastitocalon'' derives from the word ''astitocalon'' of the [[Hobbitish|Shire-speech]] (rendered in modern English), which itself is an alteration or corruption of the [[Elvish|High-Elven]] ''Aspido-chelōne'' (rendered in Greek, meaning "turtle with a round shield (of hide)"), and "the F was put on by the versifier simply to make the name alliterate".<ref name=letter>{{L|255}}; see also "[[Letter to Eileen Elgar (5 March 1964)]]" (letter)</ref>
+
+==Inspiration==
+[[J.R.R. Tolkien]] was inspired by an [[Old English]] bestiary, appearing in the [[Wikipedia:Exeter Book|Exeter Book]]. The idea of giant marine turtles ultimately derives from Eastern myths, and in the European versions the monster is often confused with whales.<ref name=letter/>
+
+==Background==
+An early version of the poem was published together with ''[[Oliphaunt (poem)|Iumbo, or Ye Kinde of ye Oliphaunt]]'' as '''''[[Adventures in Unnatural History and Medieval Metres, being the Freaks of Fisiologus]]''''' in ''[[The Stapeldon Magazine#June 1927|''The Stapeldon Magazine]]'', Oxford, vol. 7, no. 40 in June 1927 on pages 123-7.<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=13290|articlename=Stapeldon Magazine. 1927|dated=|website=TB|accessed=6 April 2014}}</ref><ref name=commentary>{{AB|Comm}}, pp. 224-7</ref>
+
+{{references}}
+
+{{poems}}
+
+{{title}}
+
+[[Category:Poems in The Adventures of Tom Bombadil]]
+
+[[fi:Fastitocalon]]

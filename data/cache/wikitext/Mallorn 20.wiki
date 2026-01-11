@@ -1,0 +1,53 @@
+{{Mallorn
+| name=Mallorn 20
+| image = Mallorn20.jpg
+| editor=Jenny Curtis
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[September]] [[1983]]
+| format=A4 stapled paperback
+| pages=32
+| issn=0308-6674
+}}
+'''''Mallorn'' 20''' is the twentieth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1983]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Jenny Curtis
+* Before Puck - the Púkel-men and the ''pūca''
+** By: [[John Ryan|J.S. Ryan]]
+* Lay in Reply to the Half-elven's Song
+** By: Stephen Allcroft
+* Book Review: ''[[Finn and Hengest]]''
+** By: Kathleen Herbert
+* Art: 'Gandalf meets Radagast'
+** By: Dave Cooper
+* The Geography and Economy of Númenor
+** By: Ted Crawford
+* ''A Doom of Iron''
+** By: Michael Burgess
+* Book Review: ''[[The Monsters and the Critics|The Monsters and the Critics and other essays]]''
+** By: [[Charles Noad]]
+* 'The Tale of Beren and Lúthien'
+** By: Iwan Rhys Morus
+* Quenta Findagillo
+** By: [[Brin Dunsire]]
+* ''[[Mr. Bliss]]'': The Precursor of a Precursor?
+** By: [[Nils Ivar Agøy]]
+* Book Review: ''[[The Road to Middle-Earth]]''
+** By: Jessica Yates
+* ''Aragorn's Hymn to Caras Galadhon''
+** By: Steven Quayle
+* Guidelines for ''Mallorn'' contributors
+* Where to Write
+* [[The Tolkien Society]]
+
+* Inside Art
+** By: Steve Lines, Timo Raittila, Dave Cooper, Tony Curtis
+
+{{mallornnav|19|21|url=http://journals.tolkiensociety.org/mallorn/issue/view/21/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 20}}
+[[Category:Mallorn (journal)]]

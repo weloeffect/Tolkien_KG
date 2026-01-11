@@ -1,0 +1,27 @@
+{{VTbox
+| title=Vinyar Tengwar 35
+| image = inyar Tengwar 35.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=May [[1994]]
+| format=Paperback journal
+| pages=32
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 35''''' is the thirty-fifth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|34|36}}
+
+==Contents==
+* Cover: Title page of the ''[[Atanatarion]]'' — Carl F. Hostetter
+* E.L.F. News
+
+* "ELFcon IV Report" — Patrick H. Wynne
+* "''[[Morgoth's Ring]]'': A Linguistic Review, Part II" — Carl F. Hostetter and Patrick H. Wynne
+* "Transitions in Translations: German Translations vs. Tolkien's 'Guide to Names', Part I - Names of Persons and Peoples" (column) — Arden R. Smith
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 35}}
+[[fi:Vinyar Tengwar 35]]
+[[Category:Vinyar Tengwar]]

@@ -1,0 +1,54 @@
+{{location infobox
+| name=Amon Rûdh
+| image=Ted Nasmith - Túrin and his Band are Led to Amon Rûdh.jpg
+| caption="Túrin and his Band are Led to Amon Rûdh" by [[Ted Nasmith]]
+| pronun={{respell|ah|mon}} {{respell|rooth}}
+| othernames=''Sharbhund'' ([[Khuzdul|K]]), Bald Hill
+| location=South of the [[Teiglin]]; [[Dor-Cúarthol]]
+| type=Hill
+| description=Tall, steep hill topped with red [[seregon]]
+| regions=
+| towns=
+| inhabitants=[[Petty-dwarves]], and [[Gaurwaith]]
+| created=
+| destroyed=
+| events=[[Sack of Bar-en-Danwedh]]
+}}
+'''Amon Rûdh''' was a hill in [[West Beleriand]] that for a time served as the base of [[Túrin]] and [[Gaurwaith|his outlaws]] after they seized it from the [[Petty-dwarf]] [[Mîm]].
+
+==Geography==
+Amon Rûdh stood upon the eastern edge of the [[Moors_of_the_Nibin-noeg|high moorlands]],<ref>{{UT|2n}}</ref>{{rp|note 16}} south of the [[Forest of Brethil]] and the [[Teiglin]] in [[West Beleriand]] during the [[First Age]].<ref>{{S|Map}}</ref> 
+
+It was a hill of stone which rose to a height of a thousand feet. On its lower slopes were thickets of ''[[aeglos (plant)|aeglos]]'' but only deep red ''[[seregon]]'' flowers grew on top, giving it the appearance of being covered with blood.<ref name="Mim">{{CH|7}}</ref>
+
+==History==
+At one time Amon Rûdh supported a settlement of Petty-dwarves in caves that could have housed a hundred or more. It had a main and secondary hall with many other chambers and passageways. There was a hidden smoke-shaft for the hearth and chambers with axes and other gear.  However the Petty-dwarves had dwindled in number until only [[Mîm]] and his sons [[Ibun]] and [[Khîm]] lived in hilltop hideaway.
+
+Mîm was captured by a group of outlaws led by Túrin and forced to reveal the location of his refuge, which was then called '''''[[Bar-en-Danwedh]]''''', the ''"House of Ransom"''. Previously, it had been known as '''''Bar-en-Nibin-noeg''''', the "House of the Petty Dwarves". When it was discovered that Khîm, who had been shot at, had actually been killed, Túrin repented and offered his services to the Dwarf, who from then on tolerated the presence of the outlaws.
+
+Amon Rûdh became the base of operations for the outlaws and with the arrival of [[Beleg]], it became the heart of the area known as ''[[Dor-Cúarthol]]'', the "Land of Bow and Helm" (referring to the Two Captains, Beleg and Túrin), a center of resistance against the forces of [[Morgoth]]. Eventually Túrin's location was discovered, and the outlaws were destroyed by [[Orcs]], and the hilltop was covered with blood in truth.<ref name="Mim"/>
+
+Amon Rûdh was lost under the [[Belegaer|sea]] with the destruction of [[Beleriand]] during the [[War of Wrath]] at the end of the First Age.
+
+==Etymology==
+''Amon Rûdh'' means "Bald Hill" in [[Sindarin]], from ''[[amon]]'' ("hill") and ''[[rûdh]]'' ("bald").<ref name="Mim"/>
+
+'''''Sharbhund''''' means "Bald Hill" in [[Khuzdul]], ''[[bund]]'' being the word for "head".<ref>{{TI|Ring}}, p. 174</ref>
+
+The first element meaning "bald" would be *''shar(a)h''. The cluster ''-rbh-'' could be the result of metathesis (from *''sharhbund'').<ref>''[http://www.forodrim.org/daeron/md_khuzdul.html An analysis of Dwarvish]'' by Magnus Åberg</ref>
+
+== Earlier versions of the Legendarium ==
+
+The name of Amon Rûdh was changed many times. It was called ''Amon Carab'' which means 'Hill of the Hat', ''Amon Garabel'', ''Carabel'', ''Amon Nardol'', ''Nardol''  ; ''Amon Rhûg'' which means 'the Bald Hill'<ref>{{WJ|11}}, p.187, Section (27)</ref>.
+
+{{Pronounce|Amon Rudh.mp3|Ardamir}}
+{{references}}
+{{DEFAULTSORT:Amon Rudh}}
+[[Category:Beleriand]]
+[[Category:Hills]]
+[[Category:Sindarin locations]]
+[[Category:Dwarven realms]]
+
+[[de:Amon Rûdh]]
+[[fi:Amon Rûdh]]
+[[fr:encyclo/geographie/reliefs/beleriand/amon rudh]]

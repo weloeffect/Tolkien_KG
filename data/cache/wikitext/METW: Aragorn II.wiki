@@ -1,0 +1,25 @@
+{{Collectible card
+| image=METW - Aragorn II.jpg
+| name=
+| caption=
+| game=meccg
+| type=Character
+| alignment=Hero
+| homesite=[[METW: Bree|Bree]]
+| artist=[[Angus McBride]]
+| rarity=Fixed1
+| number=TW009
+}}
+'''METW: Aragorn II''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+'''''Note:''''' ''"Aragorn II" refers to the character [[Aragorn|Aragorn II]] from [[J.R.R. Tolkien]]'s [[legendarium]].''
+
+==Card text==
+
+'''''Unique.''''' +2 direct influence against the [[METW: Rangers of the North|Rangers of the North]] faction. 
+
+-3 marshalling points if eliminated. 
+
+''"All that is gold does not glitter, Not all those who wander are lost..."'' '''''-[[The Lord of the Rings|LotRI]]'''''
+
+[[Category:MECCG character cards|Aragorn II]]

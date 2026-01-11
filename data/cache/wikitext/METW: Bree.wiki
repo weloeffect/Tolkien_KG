@@ -1,0 +1,27 @@
+{{Collectible card
+| image=METW - Bree.jpg
+| name=Bree
+| caption=
+| game=meccg
+| type=Site
+| alignment=Hero
+| region=[[METW: Arthedain]]
+| artist=[[Randy Gallegos]]
+| rarity=Fixed1
+| number=TW371
+}}
+'''METW: Bree''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+'''''Note:''''' ''"Bree" refers to [[Bree]] in [[J.R.R. Tolkien]]'s legendarium.''
+
+==Card text==
+
+'''''Nearest Haven:''''' [[METW: Rivendell|Rivendell]]
+
+''"Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."'' '''''-LotRI'''''
+
+==Related cards==
+
+*[[MELE: Bree]]
+
+[[Category:MECCG site cards|Bree]]

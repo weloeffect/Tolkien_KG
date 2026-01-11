@@ -1,0 +1,37 @@
+{{Song
+| title = Ungolianth
+| album = [[Minas Morgul (album)|Minas Morgul]]
+| image = Summoning Minas Morgul.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 6:37
+| track = 7
+| spotify = https://open.spotify.com/track/3ZoBELPiTpaRrpGP2Zxnql
+| writer = Summoning
+| previous = [[Orthanc (song)|Orthanc]]
+| next = [[Dagor Bragollach (song)|Dagor Bragollach]]
+}}'''''Ungolianth''''' is the seventh track of the album [[Minas Morgul (album)|Minas Morgul]] by the band [[Summoning]]. The song name is a misspelling of the mother of Spiders, [[Ungoliant]]. The lyrics reference Ungoliant, as well as her dwelling place [[Avathar]], and the Dark Lord [[Morgoth]] after he has claimed the [[Silmarils]].
+
+== Lyrics ==
+<poem style="font-style:italic; margin-left:20px;">
+Come to me lady of a foreign shore 
+to pass on your knowledge to me, 
+interrupt these peacefull lands with your odem of pestilence 
+Your lifeform is living in the deepest twilight, 
+the depths of Avathar. 
+
+Your odem goes down the green rivers and 
+high up to the blue skies, to the wide open forests and 
+mountains so high, far away to the unknown and 
+at last to destroy the two trees of life on 
+the hills of [[Ezellohar]]... 
+
+So high my throne, so cold as ice 
+it makes my blue eyes turn red 
+and this red covers my stronghold [[Angband]] 
+as a shadow fog to keep it unseen... 
+The Silmaril now covers my crown 
+
+Keep away Ungolianth...
+</poem>
+[[Category:Songs by Summoning]]

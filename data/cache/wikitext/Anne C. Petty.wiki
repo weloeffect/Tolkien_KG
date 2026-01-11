@@ -1,0 +1,49 @@
+{{author infobox
+| image=
+| name=Anne C. Petty
+| born=
+| died=[[21 July]] [[2013]]
+| education=[[wikipedia:Florida State University|Florida State University]], Ph.D. in English
+| occupation=Scholar, author
+| location=Florida Gulf Coast
+| website=[http://www.annepetty.com/main.html AnnePetty.com]
+|}}
+
+'''Anne C. Petty''' ([[21 May]] [[1945]]<ref>{{webcite|articleurl=https://www.legacy.com/obituaries/thewakullanews/obituary.aspx?n=dr-anne-c-petty&pid=166134173&fhid=17969|articlename=Dr. Anne C. Petty Obituary|dated=30 July 2013|website=Legacy.com|accessed=10 May 2021}}</ref> — [[21 July]] [[2013]]<ref>{{webcite|author=Jessica Burke, Anthony Burdge|articleurl=http://groups.yahoo.com/group/mythsoc/message/24549|articlename=Passing of a MythSoc Award Finalist|dated=22 July 2013|website=Mythsoc|accessed=22 July 2013}}</ref>), Ph.D., was a [[J.R.R. Tolkien|Tolkien]] scholar specializing in Mythology and Finnish folkore. She was also an author, and wrote several books and articles on Tolkien. Petty was a regular speaker at conventions like Dragon*Con and [[The One Ring Celebration]]. 
+
+==Bibliography==
+===Books===
+* [[1979]]/[[2002]]: ''[[One Ring to Bind Them All: Tolkien's Mythology]]''
+* [[2003]]: ''[[Tolkien in the Land of Heroes]]''
+* 200?: ''[[Dragons of Fantasy]]''
+
+===Articles===
+* [[2000]]: ''[[J.R.R. Tolkien (Modern Critical Views)]]''
+** "Tolkien's Prelude (The Hobbit)"
+* [[2004]]: ''[[Tolkien Studies: Volume 1]]''
+** "Identifying England's Lönnrot"
+* [[2006]]: ''[[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]]'', entries
+** Allegory
+** Finland: Literary Sources
+** Folklore
+** On Translating Beowulf
+* [[2007]]: ''[[Tolkien and Shakespeare: Essays on Shared Themes and Language]]'' (edited by [[Janet Brennan Croft]])
+** "Shakespearean Catharsis in J.R.R. Tolkien's Fiction,"
+* [[2009]]: ''[[Tolkien and Religion]]'' (edited by [[Paul Kerry]])
+** "Mythic Iconography in Middle-earth"
+* [[2009]]: ''Good Dragons are Rare – An Inquiry into Literary Dragons East and West'' (edited by [[Thomas M. Honegger]] and Fanfan Chen)
+** "J.R.R. Tolkien's Dragons: The Evolution of Glaurung and Smaug"
+* [[2011]]: ''[[Light Beyond All Shadow|Light Beyond All Shadow: Religious Experience in Tolkien's Work]]''
+**"Reflections of Christendom in the Mythopoeic Iconography of Middle-Earth"
+
+==External links==
+* '''[http://www.annepetty.com/ Official website]'''
+* [http://greenbooks.theonering.net/turgon/files/061304.html Interview] at [http://greenbooks.theonering.net/ GreenBooks]
+* [http://www.herenistarion.org/parmanole/PettyInterview.html Interview] at [[North East Tolkien Society|Heren Istarion]]
+
+{{references}}
+{{DEFAULTSORT:Petty, Anne C.}}
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:JRRTE contributors]]
+[[Category:People by name]]

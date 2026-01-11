@@ -1,0 +1,46 @@
+{{mythlore
+|title=Mythlore 13
+| image = Mythlore_13.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=September [[1976]]
+|format=Paperback
+|pages=39
+}}
+
+'''''Mythlore'' 13''' ([https://dc.swosu.edu/mythlore/vol4/iss1/ Volume 4, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+====Articles====
+
+* Lense, Edward. “Sauron Is Watching You: The Role of the Great Eye in the Lord of the Rings.” 3-6.
+* Barfield, Owen. “Some Reflections on ''The Great Divorce'' of C.S. Lewis.” 7-8.
+* Christopher, Joe R. “Dorothy L. Sayers and the Inklings.” 8-9.
+* Rose, Ellen Cronan. “A Briefing for Briefing: Charles Williams’ ''Descent into Hell'' and Doris Lessing’s ''Briefing for a Descent into Hell''.” 10-13.
+* Hannay, Margaret P. “”Surprised by Joy”: C.S. Lewis’ Changing Attitudes toward Women.” 15-20.
+
+====Features====
+
+* Patterson, Nancy-Lou. “Tolkien and the Silmarillion.” Review of ''Tolkien and the Silmarillion'' by Clyde S. Kilby. 21. 
+* Colvin, George. “A Farrago of Fantasy.” Review of ''The Compleat Enchanter'' by L. Sprague de Camp and Fletcher Pratt, ''Gerfalcon'' by Leslie Barringer, and ''Golden Wings and Other Stories'' by William Morris. 22-23.
+* Christopher, Joe R. “Rites of a Rosicrucian Mystic.” Review of ''J.R. Evelyn Underhill (1875-1941): An Introduction to Her Life and Writings'' by Christopher Armstrong.
+* Letters. 26+.
+* Christopher, Joe R. “An Inklings Bibliography (2).” 33-38.
+
+====Art====
+
+* Unknown: 3, 14, 18, 31, 32
+* Annette Harper: cover, 10, 13
+* Michael Kucharski: 26, 27, 28, 29
+* Barry Kent MacKay: back cover
+* Barbara Mann: 22, 24
+* Valerie Protopapas: 30
+* Peter Thorpe: 32
+* Cover: Annette Harper, Unknown
+* Back Cover: Barry Kent McKay, The Future Mrs. Bultitude
+{{mythlorenav|12|14}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 013}}
+[[Category:Mythlore]]

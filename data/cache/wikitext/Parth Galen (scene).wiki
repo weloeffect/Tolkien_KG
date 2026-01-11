@@ -1,0 +1,17 @@
+{{stub}}
+{{title}}
+{{Disambig-more|Parth Galen|[[Parth Galen (disambiguation)]]}}{{scene
+| name = Parth Galen
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image =
+| number = 37 (theatrical)<br>
+           43 (extended)
+| duration =
+| event =
+| characters =
+| previous = [[The Great River (scene)|The Great River]]
+| next = [[The Breaking of the Fellowship (scene)|The Breaking of the Fellowship]]
+}}
+'''Parth Galen''' is the thirty-seventh scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the forty-third of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|43]]

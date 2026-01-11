@@ -1,0 +1,18 @@
+{{song
+| title=Flight to the Ford
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=4:14
+| track=8
+| previous=[[A Knife In The Dark (soundtrack)|A Knife in the Dark]]
+| next=[[Many Meetings (soundtrack)|Many Meetings]]
+| spotify=https://open.spotify.com/track/3oZKVe0QVMArW3QgaER8rs
+}}
+'''Flight To The Ford''' is the eighth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. It is played during the escape of [[Arwen]] and [[Frodo Baggins|Frodo]] to the Fords of [[Rivendell]].
+
+It begins with a soft female voice singing, accompanied by other female voices.  The pattern is slow, tender, but also dignified, signifying Arwen's theme (played only three times in the entire film).  As the strings and brass take over, the theme begins to quicken, and the distant sounds of a harp are heard.  It begins to sound like the pre-Many Meetings theme, with its strings in the background and solo clarinet.  The strings begin to play more loudly, but still slowly, when suddenly the music breaks into a theme of suspense and danger, with high strings and low brass, and the ever-sinister gong.  The approach of the Black Rider theme is felt, as the mid-brass slowly climbs higher and higher.  The beat is now loud and steady, and, as always the Black Rider theme comes in suddenly, and loudly with chorus.  It soon ends in a fortissimo of trumpets vying for dominance.  A single trumpet rises above the confusion as the others fade out, playing a distinct theme.  The gong smashes again, and the strings play a single low note quickly and vibrato.  Arwen's theme comes in again for the second time, but it begins on strings, and when the vocals come in they are hardly noticeable.  The theme closes.
+{{title}}
+{{DEFAULTSORT:08}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

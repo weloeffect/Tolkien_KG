@@ -1,0 +1,20 @@
+{{artist infobox
+| image=
+| name=Peter Chuklev
+| born=[[1936]]
+| died=
+| style=
+| images=
+| location=Sofia, Bulgaria
+| website=
+|}}
+
+'''Peter Chuklev''' (born [[1936]]) is a Bulgarian illustrator. Graduated from the Art Academy in Sofia in 1960, he has been a teacher at the National Art Academy since 1964 and professor of printmaking since 1993.<ref>[http://www.lessedra.com/japan-project/petar%20Chuklev.htm Profile on Lessedra Art Gallery], as of June 5, 2010.</ref> 
+
+Working primarily in the area of printmaking, illustration, and drawing, Chuklev made the illustrations for the 1979 version of the 1975 Bulgarian edition of ''[[The Hobbit]]''.<ref>''[[The Annotated Hobbit: Revised and Expanded Edition]]''</ref>
+
+{{references}}
+{{DEFAULTSORT:Chuklev, Peter}}
+[[Category:Artists]]
+[[Category:Bulgarian people]]
+[[Category:People by name]]

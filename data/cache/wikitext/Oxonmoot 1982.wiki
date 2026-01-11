@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1982
+| location=Cotswold Lodge Hotel, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 24th-26th, 1982
+| attendees=
+|}}
+
+{{oxonmoot|1981|1983}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

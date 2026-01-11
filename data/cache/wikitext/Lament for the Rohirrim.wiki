@@ -1,0 +1,75 @@
+{{unnamed}}
+{{Poem infobox
+| title="Where now the horse and the rider? Where is the horn that was blowing?"
+| other names=
+| written=Between [[February]] and midsummer of [[1942]]
+| revised=Between [[1942]] and [[1954]]
+| published=''[[The Two Towers]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Eorl]]
+}}
+
+"'''Where now the horse and the rider? Where is the horn that was blowing?'''" is the first line of a [[Poems in The Lord of the Rings|poem]] written by [[J.R.R. Tolkien]] about [[Eorl]].
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+Where now the horse and the rider? Where is the horn that was blowing? 
+Where is the helm and the hauberk, and the bright hair flowing? 
+Where is the hand on the harpstring, and the red fire glowing? 
+Where is the spring and the harvest and the tall corn growing?<ref name=lotr>{{TT|III6}}, p. 508</ref></poem>
+
+== History ==
+A forgotten poet of [[Rohan]] had originally written it about [[Eorl the Young]] and his horse [[Felaróf]] long before the [[War of the Ring]].<ref name=lotr/>
+
+In the year {{TA|3019}}, [[Aragorn]] sang a lament to characterize the [[Rohirrim]] as he, [[Gandalf]], [[Legolas]], and [[Gimli]] approached [[Edoras]]. He originally chanted it in [[Rohanese]]. After Legolas commented that the sound of the words resembled the land of Rohan, Aragorn recited his translation of it.<ref name=lotr/>
+
+== Other versions of the legendarium ==
+The earliest version of the poem, which may have been written "between [[February]] and midsummer" of [[1942]], "seems to be" more about "Eorl’s ride from the North" than the passing of time.<ref name=collectedpoems>{{CP|166}}</ref> Subsequently in the next manuscript,<ref name=collectedpoems/> Tolkien utilized the style of ''[[Wikipedia:The Wanderer|The Wanderer]]'',<ref name=collectedpoems/> which used a convention called ''[[Wikipedia:Ubi sunt|Ubi sunt]]''.<ref name=companion>{{HM|RC}}, p. 399</ref>
+
+In a revision to the earliest versions of the chapter "[[The King of the Golden Hall]]", Tolkien wrote the verse that Aragorn utters into the story, though Eorl is referred to as "the Old" rather than "the Young".<ref name=early>{{TI|King}}, p. 443</ref>
+
+== Inspiration ==
+In a note to an early draft, [[Christopher Tolkien]] wrote that the verse echoes line 92 of ''The Wanderer'', an [[Old English]] poem.<ref name=note>{{TI|King}}, p. 449 (note 8)</ref>
+
+It is possible that the first two lines of Aragorn's were inspired by the poem because it contains the words "[[mathom]]-giver" and "[[theoden]]".<ref>[[Stuart Lee]] & [[Elizabeth Solopova]], ''[[The Keys of Middle-earth]]'' (Second edition), "The Lord of the Rings", pp. 273-4</ref>
+{|
+|-
+| <poem style="font-style:italic; margin-left:20px;">
+'''Hwær cwom mearg?  Hwær cwom mago?'''
+Hwær cwom '''maþþumgyfa?'''
+Hwær cwom symbla gesetu?
+Hwær sindon seledreamas?
+Eala beorht bune!
+Eala byrnwiga!
+Eala '''þeodnes''' þrym!
+Hu seo þrag gewat,
+'''genap under nihthelm,'''
+swa heo no wære.
+</poem>
+|| 
+<poem style="font-style:italic; margin-left:20px;">
+'''Where is the horse gone? Where the warrior?'''
+Where is the treasure-giver?
+Where are the seats at the feast?
+Where are the revels in the hall?
+Alas for the bright cup!
+Alas for the mailed warrior!
+Alas for the splendour of the prince!
+How that time has passed away,
+'''dark under the cover of night,'''
+as if it never were.
+</poem>
+|}
+
+== Portrayal in adaptations ==
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Before the beginning of the [[Battle of the Hornburg|Battle]] of [[Helm's Deep]], [[Théoden]] recites some lines of the poem, lamenting how alone the Rohirrim stand. <blockquote>Where is the horse and the rider?<br/>Where is the horn that was blowing?<br/>They have passed like rain on the mountains,<br/>like wind in the meadow.<br/>The days have gone down in the West,<br/>behind the hills... into Shadow.</blockquote>
+:The remaining lines are sung in Old English on the score in the background in the above and other scenes.
+
+== External links ==
+*{{webcite|author=Clamavi De Profundis|articleurl=https://www.youtube.com/watch?v=2YTBgFmK_bs|articlename=The Lament for the Rohirrim - Clamavi De Profundis|dated=31 March 2018|website=YT|accessed=}}
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Two Towers]]

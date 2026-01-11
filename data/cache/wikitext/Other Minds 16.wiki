@@ -1,0 +1,39 @@
+{{journal
+| title=Other Minds 16
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=September [[2016]]
+| format=PDF
+| pages=122
+| issn=
+}}
+
+'''''Other Minds'' 16''' is the sixteenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in September 2016.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Middle-earth in miniature II: Dwarves"
+** By José Enrique Vacas de la Rosa
+* "Review: Tales from Wilderland"
+** By Thomas Morwinsky
+* "Review: Heart of the Wild"
+** By José Enrique Vacas de la Rosa
+* "Umbar, Khand & Near Harad - Cultural Gazetteer"
+** By Tom Davie
+* "The Population of Gondor and Rohan"
+** By: Thomas Morwinsky
+* "Appendix" (Full-scale maps for ''The Population of Gondor and Rohan'')
+
+*'''Artwork / Maps:'''
+** By: [[Antti Autio]], [[Matěj Čadil]], [[Anke Eißmann]], Caspar David Friedrich, Jon Hodgson, [[John Howe]], Thomas Jedrusek, Milek Makubiec, Turner Mohan, [[Thomas Morwinsky]], [[Ted Nasmith]], Abe Papakhian, Jan Pospíšil, [[Peter Xavier Price]], Sampsa Rydman
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 16}}
+[[Category:Other Minds]]

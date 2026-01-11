@@ -1,0 +1,68 @@
+{{disambig-two|the father of [[Ælfwine]]|seventh [[King of Rohan]]|[[Déor]]}}
+{{anglosaxon infobox
+| name=Déor
+| image=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=[[Minstrels|Minstrel]]
+| location=[[Lionesse]]<br />[[Kortirion#Other versions of the legendarium|Kortirion]]
+| affiliation=
+| language=[[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=[[Éadgifu]]
+| children=[[Ælfwine]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Déor''' was an [[wikipedia:English people|English]] [[Minstrels|minstrel]],<ref name="Min"/> and the father of [[Ælfwine]], according to the early version of the [[legendarium]] in the text called ''[[Ælfwine of England]]'' from ''[[The Book of Lost Tales]]''.<ref name="Deo"/>
+
+== History ==
+Déor came from somewhere in the south of [[Luthany|Lúthien]], though he also spent some time in [[Lionesse]] where he met his wife, whom he called [[Éadgifu]].
+
+Later, he moved to the city of [[Kortirion#Other versions of the legendarium|Kortirion]],<ref group="note">Kortirion was the [[Qenya|Elvish]] name of the town of [[wikipedia:Warwick|Warwick]].</ref><ref>{{LT2|VI}}, outline '''30''', p. 310</ref> ruled by the [[Prince of Gwar]] called [[Óswine (prince of Gwar)|Óswine]], for he wished to be close to the [[Elves]], who still lived around the city since Óswine was friendly to them. There, Éadgifu gave birth to their son Ælfwine, who inherited her mother's unquenchable longing for the sea.<ref name="Deo"/>
+
+However, while Ælfwine was still a boy, a fierce people called the [[Forodwaith (The Book of Lost Tales)|Forodwaith]] (i.e. [[wikipedia:Vikings|Vikings]]) attacked Kortirion and laid siege to it, during which Déor died leading a "desperate sally" before the walls,<ref name="Deo">{{LT2|VIb}}, p. 313-4</ref> slain by [[Orm]] the sea-captain of the Forodwaith.<ref>{{LT2|VIb}}, p. 318</ref>
+
+== Etymology ==
+The name ''Déor'' is in [[Old English]], meaning "brave, bold".<ref>{{HM|RC}}, p. 643</ref>
+
+In one occurrence, the character was called ''Heorrenda'' before being changed back to ''Déor''.<ref>{{LT2|VIb}}, ''Changes made to names, and differences in names, in the texts of Ælfwine of England'', p. 334</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | DEO |y| EAD |DEO='''DÉOR'''|EAD=[[Éadgifu]]|}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ÆLF | | |ÆLF=[[Ælfwine]]|}}
+{{familytree/end}}
+
+== Inspiration ==
+The character of Déor was probably inspired by the Old English poem ''[[Déor (poem)|Déor]]'', which also features a minstrel as the eponymous main character. However, according to [[Christopher Tolkien]], the only link between the two characters is their name.<ref name="Min">{{LT2|VIb}}, p. 323</ref>
+
+== See also ==
+*[[Éadwine]], the father of Ælfwine in the later [[legendarium]]
+*[[Eoh]], the father of [[Eriol]] in the earlier legendarium
+
+{{references|notes}}
+{{title}}
+{{DEFAULTSORT:Deor (father of Ælfwine)}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Minstrels]]
+[[Category:Old English names]]

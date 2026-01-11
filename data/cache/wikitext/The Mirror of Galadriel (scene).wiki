@@ -1,0 +1,32 @@
+{{disambig-more|Mirror of Galadriel|[[Mirror of Galadriel (disambiguation)]]}}
+{{title}}
+{{scene
+| name = The Mirror of Galadriel
+| film = [[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Rings - Frodo and the Mirror of Galadriel.png
+| number = 33 (theatrical)<br>
+           39 (extended)
+| duration =
+| event =
+| characters =
+| previous = [[Caras Galadhon (scene)|Caras Galadhon]]
+| next = [[The Fighting Uruk-hai]]
+}}
+'''The Mirror of Galadriel''' is the thirty-third scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-ninth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+While resting in Caras Galadhon, [[Frodo Baggins|Frodo]] suddenly snaps awake, and sees [[Galadriel]] walking by. Frodo rises, quietly slips past the other sleeping hobbits, and follows her. She enters a garden with a pedestal in the middle, takes a pitcher, and fills it up with water from a nearby fountain. She turns and sees Frodo entering the garden.
+
+Galadriel asks if he will look into the mirror, and Frodo asks what he will see if he does. Galadriel explains that even the wisest cannot know, for the mirror shows many things -- things that were, things that are, and things that have not yet come to pass. She pours the water into the bowl on the pedestal and steps back. Frodo approaches and looks into the water.
+
+At first he only sees his own reflection, but then the images shift. He gets glimpses of the other members of the [[Fellowship of the Ring]]. then of [[Bag End]] and [[The Shire]]. Suddenly, the image shifts to the Shire in flames, orcs attacking and enslaving the hobbits, and Bag End left in ruins. 
+
+Suddenly, the [[Eye of Sauron]] fills the mirror. Frodo cannot look away, [[The One Ring]] slipping out of his shirt and dangling over the mirror in front of the Eye. Frodo finally grabs the ring and pulls himself away, falling to the ground.
+
+Galadriel explains that she saw what Frodo saw, explaining that he saw a vision of the future if he failed to destroy the Ring. Speaking into Frodo's mind, she talks about the [[Breaking of the Fellowship]] and how [[Boromir|"he"]] will try to take The Ring. One by one, the Ring will destroy them all. Frodo holds out the ring, offering it to Galadriel, who changes.
+
+{{quote|You offer it to me freely. I do not deny that my heart has greatly desired this. In place of a Dark Lord, you would have a queen, not dark, but beautiful and terrible as the dawn! Treacherous as the sea! Stronger than the foundations of the earth! All shall love me and despair!|Galadriel, facing the temptation of The One Ring}}
+
+Galadriel suddenly reverts to her former self, feeling relief that she has "passed the test." Frodo expresses doubt of his abilith to do this alone, but Galadriel remins him that being a [[Ring-bearers|Ring-bearer]] is to be alone, revealing her own [[Rings of Power|Ring of Power]], [[Nenya]]. Frodo admits that he now knows what he has to do, but is afraid to do it. Galadriel encourages him that even the smallest person can change the course of the future.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|39]]

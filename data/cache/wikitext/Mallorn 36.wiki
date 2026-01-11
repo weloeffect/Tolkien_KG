@@ -1,0 +1,55 @@
+{{Mallorn
+| name=Mallorn 36
+| image = Mallorn36.jpg
+| editor=[[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+| artist=[[Pauline Baynes]]
+| printer=
+| date=November [[1998]]
+| format=A4 stapled paperback, glossy
+| pages=64
+| issn=0308-6674
+}}
+'''''Mallorn'' 36''' is the thirty-sixth issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in November [[1998]].
+
+==Contents==
+* '''Cover Art'''
+** By: [[Pauline Baynes]]
+* '''Editorial'''
+** By: [[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+* '''Articles'''
+** There Are Two People In This Marriage
+*** By: [[Helen Armstrong]]
+** ''The Lord of the Rings Tarot Deck'': Not necessarily Middle-Earth
+*** By: Charlie Betz
+** "The Men of the Land"
+*** By: Daniel Timmons
+** Understanding Frodo's Decision to Depart
+*** By: Karyn Milos
+** "Too Deeply Hurt"
+*** By: Karyn Milos
+** A Pre-History of Hobbits
+*** By: [[Ruth Lacon]]
+** A fiftieth anniversary walk (or There and Back Again, an academics' day out)
+*** By: [[Alex Lewis]]
+** Two letters by [[J.R.R. Tolkien]]
+** Tolkien's World and Wagner's: the music of language and the language of music
+*** By: [[John Ellison]]
+** Fanfare for the Common Man
+*** By: Len Sandford
+** The Lord of the Rings: a myth for modern English''men''
+*** By: Margarita Carretero González
+* '''Reviews'''
+** ''The making of modern children's literature: J.R.R. Tolkien''
+*** By: [[Michael George Tolkien|Michael Tolkien]]
+** ''Fantasy Fiction and Welsh Myth: Tales of Belonging''
+*** By: [[Patricia Reynolds]]
+** ''[[A Question of Time|A Question of Time: J.R.R. Tolkien's Road to Faërie]]''
+*** By: [[John Ellison]]
+* '''Contributors'''
+* '''Inside Art'''
+** By: Tom Sherry, Kay Wollard, [[John Ellison]], Sergei Iukhimov
+{{mallornnav|35|37}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 36}}
+[[Category:Mallorn (journal)]]
+[[Category:Publications with contribution by J.R.R. Tolkien]]

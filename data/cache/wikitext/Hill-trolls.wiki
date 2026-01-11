@@ -1,0 +1,42 @@
+{{race infobox
+| name=Hill-trolls
+| image=John Howe - Hill Troll.jpg
+| caption=''Hill Troll'' by [[John Howe]]
+| pronun=
+| othernames=
+| origin=
+| location=
+| affiliation=
+| rivalry=
+| language=
+| people=
+| members=
+| lifespan=
+| distinctions=
+| height=Taller than [[men]]
+| hair=
+| skin=
+| clothing=
+| weapons=Hammers
+}}
+'''Hill-trolls''' were a variety of [[trolls|troll]] adapted for life among hills and moorland. 
+==History==
+[[Aragorn|Aragorn's]] grandfather [[Arador]] was slain by hill-trolls in the [[Coldfells]], north of [[Rivendell]].<ref>{{App|A1v}}</ref>
+
+A company of these creatures were among the armies that [[Sauron]] loosed from the [[Morannon]] in the [[Battle of the Morannon]].<ref name=RKV10>{{RK|V10}}</ref>
+==Characteristics==
+In appearance they were man-like, but larger, and seem to have been covered with hard scales. They were fearsome and vicious, bellowing like beasts as they stormed into battle, and beating their enemies down with great hammers.<ref name=RKV10/>
+==Portrayal in adaptations==
+[[File:Andrew Goldhawk - Hill Trolls.jpg|thumb|[[Andrew Goldhawk]] - ''Hill Trolls'']]
+
+'''1982-97: ''[[Middle-earth Role Playing]]'':'''
+: Hill Trolls (Sindarin ''Teregemyn'')<ref>{{ICE|8060}}, p. 11</ref> are among the most common of the Troll breeds. They are usually nine to twelve feet tall.<ref>{{ICE|8004}}</ref>
+
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:"Hill Trolls" is a Troll Faction, and "Hill-troll" is a Minion Character.
+{{References}}
+
+[[Category:Trolls]]
+[[Category:Servants of Sauron]]
+[[de:Hügeltrolle]]
+[[fi:Mäkipeikot]]

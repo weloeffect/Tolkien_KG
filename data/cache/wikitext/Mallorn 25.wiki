@@ -1,0 +1,47 @@
+{{Mallorn
+| name=Mallorn 25
+| image = Mallorn25.jpg
+| editor=Denis Bridoux
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[September]] [[1988]]
+| format=A4 stapled paperback
+| pages=36
+| issn=0308-6674
+}}
+'''''Mallorn'' 25''' is the twenty-fifth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1988]].
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Guidelines for contributors
+* Editorial
+** By: Denis Bridoux
+* LotR: The BBC Radio 4 Serial
+** By: James Kearney
+* Poem: "''Unicorn''"
+** By: Sara Pickering
+* Book Review: "''[[The Lost Road and Other Writings]]''"
+** By: [[Charles Noad]]
+* Whose Ring Is It Anyway?
+** By: K.C. Fraser
+* Gríma the Wormtongue: Tolkien and His Sources
+** By: [[John D. Rateliff|John Rateliff]]
+* Poem: "''Upon a Lost and Windswept Shore''"
+** By: Lynne Elson
+* The Tolkien Formation: a ''Lively'' Example
+** By: [[John Ryan|J.S. Ryan]]
+* "''The Survivor''"
+** By: [[Kay Woollard]]
+* The Draining of Moria
+** By: Michael Percival
+* Mallorn Mail: Letters to the Editor
+* Where to write
+* [[The Tolkien Society]]
+
+*Inside Art
+** By: Steve Lines, [[Ted Nasmith]], Sara Pickering, Edward Holmes, Lynne Elson, [[Kay Woollard]], Lee Holloway
+
+{{Mallornnav|24|26}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 25}}
+[[Category:Mallorn (journal)]]

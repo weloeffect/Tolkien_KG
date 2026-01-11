@@ -1,0 +1,46 @@
+{{mythlore
+|title=''Mythlore'' 69, Volume 18, Issue 3
+| image = Mythlore 69.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Summer [[1992]]
+|format=Paperback
+|pages=79
+}}
+'''''Mythlore'' 69''' ([https://dc.swosu.edu/mythlore/vol18/iss3/ Volume 18, Issue 3]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+The article "[[Gondolinic Runes]]" by [[Paul Nolan Hyde]] includes a facsimile of a manuscript by [[J.R.R. Tolkien]] followed by a lengthy analysis (a response to the article was published in [[Mythlore 70|''Mythlore'' 70]], by [[Carl F. Hostetter]]).<ref>[http://www.tolkienbooks.net/php/languages.php Languages and Alphabets] at [http://www.tolkienbooks.net Tolkienbooks.net] (accessed 27 August 2011)</ref>
+
+==Contents==
+
+====Articles====
+
+* Manganiello, Dominic. “The Neverending Story: Textual Happiness in ''The Lord of the Rings''.”
+* Graff, Eric S. “The Three Faces of Faërie in Tolkien's Shorter Fiction: Niggle, Smith, and Giles.”
+* Mathews, Richard. “The Edges of Reality in Tolkien's Tale of Aldarion and Erendis.”
+* GoodKnight, Glen H. “Tributes to J.R.R. Tolkien.”
+* GoodKnight, Glen H. “J.R.R. Tolkien in Translation.”
+
+====Features====
+
+* GoodKnight, Glen H. Editorial Introduction: In This Issue.
+* Christopher, Joe. R., and Wayne G. Hammond. An Inklings Bibliography (46).
+* Reynolds, Trevor. Index to J.R.R. Tolkien in ''Mythlore'' Issues 1-69.
+* Hyde, Paul Nolan. “Quenti Lambardillion.”
+* Kondratiev, Alexei. “Tales Newly Told.”
+* Letters.
+* Callahan, Bg, Patrick Wynne, Paula DiSante, and Sarah Beach. “Artists' Comments.”
+* Mythlore Staff. “The Mythopoeic Society.”
+
+====Reviews====
+
+* ''Sauron Defeated.'' J.R.R. Tolkien; Ed. Christopher R. Tolkien. Reviewed by Paul Nolan Hyde.
+* ''The Lord of the Rings.'' J.R.R. Tolkien; Illust. Alan Lee. Reviewed by Glen GoodKnight.
+* ''The Tolkien Family Album.'' John and Priscilla Tolkien. Reviewed by Nancy-Lou Patterson.
+* ''J.R.R. Tolkien, Master of Fantasy.'' David R. Collins. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|68|70}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 069}}
+
+[[Category:Mythlore]]

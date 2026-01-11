@@ -1,0 +1,33 @@
+{{artist infobox
+| image=Miriam Ellis - Ar Bóithrín na Smaointe (On the Little Bye-Roads of Thought).jpeg
+| name=Miriam Ellis
+| born=
+| died=
+| style=Traditional art
+| images=[[:Category:Images by Miriam Ellis|Images by Miriam Ellis]]
+| location=America
+| website=https://www.miriamellis.com
+}}
+'''Miriam Ellis''' is an an American artist. Her paintings have appeared in numerous publications, including [[The Tolkien Society|The Tolkien Society's]] ''[[Translating and Illustrating Tolkien]]'' edited by Will Sherwood, [[Mallorn (journal)|Mallorn magazine]], [[Amon Hen (journal)|''Amon Hen'' Magazine]], the [[Beyond Bree|''Beyond Bree'' calendar]], [[Tolkien Collector's Guide|The Tolkien Collector's Guide]], [[Nerd of the Rings]], and In Deep Geek. Her main inspirations are Tolkien's themes of recovery, escape, and consolation, and a lifelong love of hobbits.<ref>{{Cite web|articleurl=https://holymoot.org/presenters/|articlename=HOLY MOOT – Presenters|accessed=2025-03-10}}</ref>
+
+==Published artwork==
+===books===
+*[[2025]]: [[The Art of Mercy in Middle-earth: Paintings Inspired by Tolkien’s Legendarium]]
+===Cover art===
+*
+===Featured===
+*
+
+==See also==
+*[[:Category:Images by Miriam Ellis|Images by Miriam Ellis]]
+
+==External links==
+*[https://www.miriamellis.com '''Official website''']
+
+{{references}}
+{{DEFAULTSORT:Ellis, Miriam}}
+
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]
+[[fi:Miriam Ellis]]

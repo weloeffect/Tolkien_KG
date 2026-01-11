@@ -1,0 +1,36 @@
+{{battle
+|name=Battle of the Gwathló
+|image=
+|conflict=[[War of the Elves and Sauron]]
+|date={{SA|1701}}<ref>{{App|SA}}</ref>
+|place=Near [[Tharbad]], [[Eriador]]
+|result=Decisive victory for the Elves and Númenóreans
+|side1=[[Elves of Lindon]]<br />
+[[Númenor]]
+|side2=Forces of [[Sauron]]
+|commanders1=[[Gil-galad]]<br />
+[[Tar-Minastir|Minastir]]<br />
+[[Ciryatur]]
+|commanders2=[[Sauron]]
+|forces1=Unknown
+|forces2=Unknown
+|casual1=Unknown
+|casual2=Heavy<ref name="Galad">{{UT|Galadriel}}</ref>
+}}
+The '''Battle of the Gwathló''' was the final battle of the [[War of the Elves and Sauron]], fought between the forces of Sauron and the combined forces of [[Gil-galad]] and [[Tar-Minastir|Minastir]]. It ended in a serious defeat for the Dark Lord forcing him to retreat to [[Mordor]].
+
+==Background==
+In {{SA|1695}} [[Gil-galad]], the [[High King of the Noldor|High King]] in [[Lindon]], requested aid from [[Númenor]] when [[Sauron]] invaded [[Eriador]]. [[Tar-Minastir|Minastir]], the [[King's Heir|heir]]<ref>{{UT|Kings}}, entry X ''Tar-Telperien''</ref><ref name=Delay>{{NM|P3xviii}}</ref><ref group=note>His aunt Queen [[Tar-Telperiën]] only surrendered the sceptre in [[Second Age 1731]]. In addition the chapter XVIII Note on the Delay of Gil-galad and the Númenóreans in The Nature of Middle-earth mentions "the great host of Minastir" instead of "the great host of Tar-Minastir".</ref> of Queen [[Tar-Telperiën]], sent a fleet commanded by the admiral [[Ciryatur]], but it was delayed until {{SA|1700}}, by which time the beleaguered [[Elves]] and Númenóreans (that were already in Lindon before the invasion) were barely holding the line of the River [[Lhûn]]. The arrival of the Númenórean fleet immediately changed the balance of forces such that Sauron's host was driven back with heavy casualties.<ref name="Galad"/>
+
+==History==
+===Prelude===
+After being defeated at Lhûn, Sauron retreated with his host to [[Sarn Ford]], the crossing on the [[Baranduin]], and suffered another defeat. He further retreated southwards to [[Tharbad]] where more of his forces joined him after coming up from the south-east. Unbeknownst to Sauron, Ciryatur also had more forces at his disposal and sent part of his fleet at the [[Lond Daer|small Númenórean harbour]] at the mouth of the [[Gwathló]].<ref name="Galad"/>
+
+===Battle===
+This new contingent fell upon Sauron's rear from the south-west while Gil-galad's Elves and the other Númenóreans attacked from the north. Sauron's army was completely routed and he barely escaped himself.<ref name="Galad"/>
+
+===Aftermath===
+Sauron and his small remaining forces fled across the [[Isen]] but were caught in eastern [[Calenardhon]]. Only a small bodyguard was left when Sauron escaped to [[Dagorlad]]. Gil-galad moved north to lift the [[First Siege of Imladris|siege of Imladris]] and [[Eriador]] was cleared of the enemy. Eriador had peace for many years but the humiliation inflicted on Sauron made him determined to seek vengeance upon Númenor. [[Rivendell|Imladris]] became the new Elvish stronghold in eastern Eriador as [[Eregion]] was never rebuilt. Elrond became Gil-galad's vice-regent and received the ring [[Vilya]].<ref name="Galad"/>
+{{References|n}}
+[[Category:Conflicts of the Second Age]]
+[[fi:Gwathlón taistelu]]

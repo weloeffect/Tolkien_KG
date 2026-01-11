@@ -1,0 +1,44 @@
+{{mythlore
+|title=''Mythlore'' 99/100, Volume 26, Issue 1/2
+| image = Mythlore 99-100.jpg
+|editor=[[Janet Brennan Croft]]
+|publisher=[[Mythopoeic Society]]
+|date=Fall/Winter [[2007]]
+|format=Paperback
+|pages=218
+}}
+'''''Mythlore'' 99/100''' ([https://dc.swosu.edu/mythlore/vol26/iss1/ Volume 26, Issue 1/2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents ==
+
+==== Articles ====
+
+* Huttar, Charles A. "'Deep Lies the Sea-Longing': Inklings of Home."
+* Glyer, Diana Pavlac. "The Centre of the Inklings: Lewis? Williams? Barfield? Tolkien?"
+* Campbell, Ethan, and Robert Jackson. "'Good, Not Safe': Structure vs. Chaos in Narnia and the Writing Workshop."
+* Seddon, Eric. "''Letters to Malcolm'' and the Trouble with Narnia: C.S. Lewis, J.R.R. Tolkien, and Their 1949 Crisis."
+* Nikakis, Karen Simpson. "Sacral Kingship: Aragorn as the Rightful and Sacrificial King in ''The Lord of the Rings''."
+* Sabo, Deborah. "Archaeology and the Sense of History in J.R.R. Tolkien's Middle-Earth."
+* Birns, Nicholas. "The Enigma of Radagast: Revision, Melodrama, and Depth."
+* Berman, Ruth. "Tolkien as a Child of ''The Green Fairy Book''."
+* Head, Hayden. "Imitative Desire in Tolkien's Mythology: A Girardian Perspective."
+* Bruce, Alexander M. "Maldon and Moria: On Byrhtnoth, Gandalf, and Heroism in ''The Lord of the Rings''."
+* Smith, Melissa. "At Home and Abroad: Éowyn's Two-fold Figuring as War Bride in ''The Lord of the Rings''."
+* Christopher, Joe R. "Pagan Beliefs in ''The Serpent's Tooth''."
+* McInnis, Gilbert. "Nazis, Mythology, and Totalitarian Minds in Kurt Vonnegut's ''Mother Night''."
+
+==== Features ====
+
+* Croft, Janet Brennan. Editorial.
+
+==== Reviews ====
+
+* ''Milton, Spenser, and the Chronicles of Narnia: Literary Sources for C.S. Lewis's Novels.'' Elizabeth Baird Hardy. Reviewed by Charles A. Huttar.
+* ''C.S. Lewis: Life, Works, and Legacy.'' Edited by Bruce L. Edwards. Reviewed by Jason Fisher.
+* ''The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community.'' Diana Pavlac Glyer. Reviewed by Andrew Lazo.
+* ''Roots and Branches: Selected Papers on Tolkien.'' Tom Shippey. Reviewed by Jason Fisher.
+{{mythlorenav|97/98|101/102}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 099/100}}
+
+[[Category:Mythlore]]

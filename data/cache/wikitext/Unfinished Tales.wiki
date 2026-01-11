@@ -1,0 +1,95 @@
+{{book
+|title=Unfinished Tales<br/><small>of Númenor and Middle-earth</small>
+| image = Unfinished Tales 1980.png
+|author=[[J.R.R. Tolkien]]
+|editor=[[Christopher Tolkien]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|dateUK=[[2 October]] [[1980]]
+|dateUS=[[18 November]] 1980
+|format=Hardcover; paperback; deluxe-edition; audio-book
+|pages=472
+|isbn=0048231797
+|precededby=[[Pictures by J.R.R. Tolkien]] {1979)
+|followedby=[[The Letters of J.R.R. Tolkien]] (1981)
+|gallery=[[Unfinished Tales/Publication history and gallery|Publication history and gallery]]
+}}
+
+{{quote|They say it is the first step that costs the effort. I do not find it so. I am sure I could write unlimited 'first chapters'. I have indeed written many.|J.R.R. Tolkien on writing ''[[A Long-expected Party]]'', and on his tendency to abandon and revisit his writings.<ref>{{L|23}}</ref>}}
+
+'''''Unfinished Tales of Númenor and Middle-earth''''', or simply '''''Unfinished Tales''''', is a collection of stories and essays by [[J.R.R. Tolkien]] that were never completed during his lifetime, but were edited by his son [[Christopher Tolkien]] and published in [[1980]].
+
+Many of the tales within are retold in ''[[The Silmarillion]]'', albeit in modified forms; the work also contains a summary of the events of ''[[The Lord of the Rings]]'' told from a less personal perspective.
+
+==Overview==
+Unlike ''[[The Silmarillion]]'', also published posthumously (in [[1977]]), for which the narrative fragments were modified to connect into a consistent and coherent work, the ''Unfinished Tales'' are presented as Tolkien left them, with little more than names changed (the author having had a confusing habit of trying out different names for a character while writing a draft). Thus some of these are incomplete stories, while others are collections of information about [[Middle-earth]]. Each tale is followed by a long series of notes explaining inconsistencies and obscure points.
+
+As with ''The Silmarillion'', Christopher Tolkien edited and published ''Unfinished Tales'' before he had finished his study of the materials in his father's archive. ''Unfinished Tales'' provides more detailed information about characters, events and places mentioned only briefly in ''[[The Lord of the Rings]]''. Versions of such tales, including the origins of [[Gandalf]] and the other [[Istari]] (Wizards), the death of [[Isildur]] and the loss of the [[One Ring]] in the [[Gladden Fields]], and the founding of the kingdom of [[Rohan]], help expand knowledge about Middle-earth.
+
+Of particular note is the tale of [[Tar-Aldarion]] and [[Erendis]], the only known story of [[Númenor]] before its fall. A map of Númenor, the only one Tolkien ever made, is included in the book.
+
+The commercial success of ''Unfinished Tales'' demonstrated that the demand for Tolkien's stories several years after his death was not only still present but growing. Encouraged by the result, Christopher Tolkien embarked upon the more ambitious twelve-volume work entitled ''[[The History of Middle-earth]]'' which encompasses nearly the entire corpus of his father's writings about Middle-earth.
+
+==Contents==
+* Introduction
+
+* '''Part One: The [[First Age]]'''
+** I. "[[Of Tuor and His Coming to Gondolin]]"
+** II. "[[Narn i Hîn Húrin]]: The Tale of the Children of Húrin" 
+*** Appendix
+
+* '''Part Two: The [[Second Age]]'''
+** I. "[[A Description of the Island of Númenor]]"
+*** [[:File:Christopher Tolkien - Numenore.png|''Map of Númenor'']]
+** II. "[[Aldarion and Erendis]]: The Mariner's Wife"
+** III. "[[The Line of Elros: Kings of Númenor]]"
+** IV. "[[The History of Galadriel and Celeborn]] and of Amroth King of Lórien"
+*** Appendices
+
+* '''Part Three: The [[Third Age]]'''
+** I. "[[The Disaster of the Gladden Fields]]"
+*** Appendix: Númenórean Linear Measures
+** II. "[[Cirion and Eorl and the Friendship of Gondor and Rohan]]"
+*** (i) The Northmen and the Wainriders
+*** (ii) The Ride of Eorl
+*** (iii) Cirion and Eorl
+*** (iv) The Tradition of Isildur
+** III. "[[The Quest of Erebor]]"
+*** Appendix: Note on the texts, and extracts from the earlier version
+** IV. "[[The Hunt for the Ring]]"
+*** (i) Of the Journey of the Black Riders according to the account that Gandalf gave to Frodo
+*** (ii) Other Versions of the Story
+*** (iii) Concerning Gandalf, Saruman and the Shire
+** V. "[[The Battles of the Fords of Isen]]"
+*** Appendix
+
+* '''Part Four'''
+** I. "[[The Drúedain]]"
+** II. "[[The Istari]]"
+** III. "[[The Palantíri]]"
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the title page, it reads:
+
+:"''In this book of unfinished tales by John Ronald Reuel Tolkien which was brought together by Christopher Reuel Tolkien his son are told many things of men and elves in Numenor and in Middle-Earth, from the Elder Days in [[Beleriand]] to the War of the Ring and an account is given of the Druedain, the Istari, and the Palantiri.''"
+
+==Publication history and gallery==
+:''Please see [[Unfinished Tales/Publication history and gallery|Publication history and gallery]].''
+
+==See also==
+* ''[[The Silmarillion]]''
+* ''[[The History of Middle-earth]]'' series
+
+{{references}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Fiction books]]
+[[Category:Publications by title]]
+[[Category:Posthumous publications]]
+[[de:Nachrichten aus Mittelerde]]
+[[fi:Keskeneräisten tarujen kirja]]
+[[fr:/tolkien/biblio/cli]]

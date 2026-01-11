@@ -1,0 +1,41 @@
+{{anglosaxon infobox
+| name=Jonathan Gow
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=Professor
+| location=[[Oxford]]
+| affiliation=
+| language=[[wikipedia:English language|English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Jonathan Gow''' was a professor in [[Oxford]]. After [[Wilfrid Trewin Jeremy]] had become a lecturer, he gave a series of lectures with the title of ''Public-house School'' (as he himself dubbed it), about an Oxford-based literary discussion group.<ref name="Gow">{{SD|2c}}, "Night 61"</ref>
+
+But professor Gow had puffed and boggled at the title. Therefore Jeremy had offered to change it to ''Lewis and Carolus, or the Oxford Looking-glass'', or ''Jack and the Beanstalk'' but that did not smooth matters.<ref name="Gow"/>
+
+{{references}}
+{{DEFAULTSORT:Gow, Jonathan}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

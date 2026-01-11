@@ -1,0 +1,35 @@
+{{Album
+| title = Minas Morgul
+| image = Summoning Minas Morgul.jpg
+| type = Studio album
+| artist = [[Summoning]]
+| released = 1 October [[1995]]
+| label = Napalm Records
+| language = English
+| length = 01:07:49
+| genre = Black Metal
+}}
+
+'''''Minas Morgul''''' is the second full-length album by [[Summoning]] and was released in [[1995]]. The name is a reference to the fallen city of [[Minas Morgul]], formerly the twin city of [[Minas Tirith]] called Minas Ithil.  Despite being released after [[Lugburz (album)|Lugburz]], fans often call this album the band's debut album due to a change in direction leading to the "Summoning-sound" of [[Tolkien metal]].<ref name=":0">{{Cite web|articleurl=https://napalmrecords.com/english/minas-morgul-cd.html|articlename=Summoning - Minas Morgul|author=Napalm Records|accessed=25 July 2024}}</ref> The cover artwork is taken from the Roger Taylor novel ''The Call of the Sword''.<ref name=":0" />
+
+==Lineup==
+
+*Protector: ''Vocals, Guitars, Keyboards''
+*Silenius: ''Bass, Keyboards, Vocals''
+
+==Track listing==
+
+#Soul Wandering - ''2:32''
+#[[Lugburz (song)|Lugburz]] – ''7:14''
+#[[The Passing of the Grey Company (song)|The Passing of the Grey Company]] - ''9:16''
+#[[Morthond (song)|Morthond]] - ''6:44''
+#Marching Homewards - ''8:11''
+#[[Orthanc (song)|Orthanc]] - ''1:39''
+#[[Ungolianth]] - ''6:37''
+#[[Dagor Bragollach (song)|Dagor Bragollach]] - ''5:05''
+#[[Through the Forest of Dol Guldur]] – ''4:47''
+#[[The Legend of the Master-Ring]] – ''5:27''
+#[[Dor Daedeloth (song)|Dor Daedeloth]] – ''10:16''
+{{title|italics}}{{References}}
+[[Category:Albums]]
+<references />

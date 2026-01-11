@@ -1,0 +1,165 @@
+{{disambig-more|Fellowship of the Ring|[[The Fellowship of the Ring (disambiguation)]]}}
+{{book
+|title=The Fellowship of the Ring
+|image=The Lord of the Rings 1954-v1.png
+|author=[[J.R.R. Tolkien]]
+|publisherUK=[[Allen & Unwin|George Allen & Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|date=[[29 July]] [[1954]] (UK)<br>[[21 October]] [[1954]] (US)
+|format=Hardcover; paperback; deluxe-edition; audio-book
+|pages=423
+|followedby=[[The Two Towers]] (1954)
+}}
+'''''The Fellowship of the Ring''''' is the first of three volumes in ''[[The Lord of the Rings]]''. It is followed by ''[[The Two Towers]]'' and ''[[The Return of the King]]''. 
+
+''The Fellowship of the Ring'' was originally released on [[29 July]] [[1954]] in the United Kingdom (3000 copies; plus 1500 for the American edition).<ref>{{HM|RC}}, p. xxxv</ref>
+
+While Tolkien intended the work to be published in one volume, and believing that it was naturally divided into six "books", [[Allen & Unwin]] announced it would be more practical to be released in three volumes. Initially Tolkien proposed the title '''''The Shadow Grows'''''<ref name=l136>{{L|136}}</ref> and then '''''[[The Return of the Shadow]]'''''<ref>{{L|139}}</ref>
+
+The volume begins with a [[The Lord of the Rings Foreword|Foreword]] and a [[Prologue (The Lord of the Rings)|Prologue]]. The narrative is divided into two books, Book I and II, tentatively titled by Tolkien as ''The Ring Sets out'' and ''The Ring Goes South''<ref name=l136/> which have only published in the [[The Lord of the Rings Millennium Edition|Millennium edition]]; other abandoned titles were ''The First Journey'' and ''The Journey of the Nine Companions''.<ref>{{HM|RC}}, p. xxxii</ref>
+==Publication history==
+Quickly after publication, because of the success of the book, new printings were ordered to satisfy the demand. While the printer kept the metal type standing for more impressions, he failed to do so for the ''Fellowship''; when more copies were needed, the volume was quickly reset to appear identical to the original condition, but without notifying anyone, and no new proofreading was done; as such previously corrected typographic errors were reverted and new ones introduced.<ref>{{HM|RC}}, p. xxxix</ref> Around 60 of them have passed through unnoticed even up to the [[2002]] editions.<ref>{{HM|RC}}, p. xli</ref>
+
+==Synopsis — Book I==
+[[Image:J.R.R. Tolkien - The Fellowship of the Ring.jpg|thumb|right|200px|Tolkien's preliminary design for the dust-jacket of ''The Fellowship of the Ring''.]]
+The first book sets the stage for the adventure and follows [[Frodo Baggins]] as he flees from his home in [[The Shire]] to escape the minions of the Dark Lord [[Sauron]]. Sauron seeks [[the One Ring]] that will allow him to control the Bearers of the nineteen Lower Rings and control the three major races of Middle-earth: the Elves, the Men and the Dwarves. The One Ring has been inherited by Frodo who finds himself unwittingly in the midst of a struggle for world domination.
+
+The beginning of the first chapter in the book begins quite lightly, following on from ''[[The Hobbit]]'' which is more of a children's story than ''The Lord of the Rings''. It begins with [[Bilbo Baggins]] celebrating his 111th (or eleventy first, as it is called) birthday, on the same day that Frodo celebrates his 33rd birthday. (His 'coming of age') At the birthday party, Bilbo disappears after his speech, to the surprise of all. Frodo later learns about the ring which he had used to make himself invisible, and also to some of its darker powers.
+
+Heeding the advice of the wizard [[Gandalf]], Frodo leaves his home, taking the Ring with him. He hopes to reach [[Rivendell]], where he will be safe from Sauron, and where those wiser than he can decide what to do about the Ring.
+
+In his journey he is accompanied by three [[Hobbits|Hobbit]] friends, [[Peregrin Took|Pippin]], [[Meriadoc Brandybuck|Merry]], and [[Samwise Gamgee|Sam]]. From the start they are pursued by Black Riders, the [[Nazgûl|Ringwraith]]s who serve Sauron. Narrowly escaping these and other dangers and meeting other interesting characters en route (e.g, [[Tom Bombadil]]) they eventually come to [[Bree]], where they meet [[Aragorn|Strider]], another friend of Gandalf who leads them the rest of the way to Rivendell, through further hardships. Frodo is stabbed upon the mountain of [[Weathertop]] by the chief of the Nazgûl, with a 'morgul blade' - as part of the knife stays inside him, he gets sicker on the rest of the journey. They also pass the trolls which had been turned to stone, as is told in ''[[The Hobbit]]''. Eventually, they find Glorfindel in the wastes, who directs them to Rivendell. Yet before they can reach there, they are found again by the Ringwraiths, who pursue Frodo to the [[Ford of Bruinen]]. Frodo defies them, but the Ringwraiths begin to advance. Yet before they can reach Frodo, a great flood comes and washes them away. Frodo then finally loses consciousness...
+
+===Book I chapters===
+*'''I · [[A Long-expected Party]]''' — details Bilbo and Frodo's birthday party, the chapter ends with Bilbo leaving [[the Shire]].
+*'''II · [[The Shadow of the Past]]''' — Gandalf tells Frodo the true nature of the Ring, and how it must be taken to Mordor and destroyed. Sam, who has been listening at the window, is told to accompany Frodo.
+*'''III · [[Three is Company]]''' — Frodo sells [[Bag End]], and officially is going to move to a house at Crickhollow in the area beyond [[Bucklebury]] in [[Buckland]]. He actually plans to disappear without causing too much of a fuss. Frodo, Sam and Pippin set out through the South Farthing of the Shire towards Buckland, and encounter a Black Rider. They also meet [[Gildor]] the Elf, with other elves.
+*'''IV · [[A Short Cut to Mushrooms]]''' — They meet [[Farmer Maggot]] from taking a short cut, and he gives them some of his prized mushrooms. Merry joins them at the end.
+*'''V · [[A Conspiracy Unmasked]]''' — Takes place at Frodo's new house at Crickhollow. The title refers to Frodo about to tell Merry and Pippin about his quest, whom he had previously believed not to know about it, and they tell him that they had known much of it all along. They also meet [[Fredegar Bolger|Fatty Bolger]]. Frodo decides to leave the next day through the Old Forest, as it is an unexpected direction, rather than travelling on the roads.
+*'''VI · [[The Old Forest]]''' — Although trying to avoid it, the hobbits get lost and travel to the River Withywindle, the "queerest part of the whole wood". Merry and Pippin are trapped inside [[Old Man Willow]] and are freed only when [[Tom Bombadil]] arrives.
+*'''VII · [[In the House of Tom Bombadil]]''' — Tom knows much about the hobbits, and even tries on the Ring, yet it does not have any effect on him — it does not make him invisible. Frodo tries on the Ring then to see if it 'works', and Tom Bombadil is also able to see Frodo while he has the Ring on.
+*'''VIII · [[Fog on the Barrow-downs]]''' — Travelling through the [[Barrow-downs]], the hobbits are imprisoned by Barrow-wights in a barrow, from which they are rescued again by Tom Bombadil. The hobbits are given daggers from the treasure in the barrow.
+*'''IX · [[At the Sign of the Prancing Pony]]''' — The hobbits reach [[the Prancing Pony]] inn at Bree, where Frodo uses a false name, Underhill. Later, after singing a song on a table, he trips and accidentally puts the Ring on his finger, disappearing, which causes a commotion.
+*'''X · [[Strider (chapter)|Strider]]''' — Strider, who had at first seemed menacing, turns out to be friendly. The innkeeper, Barliman Butterbur, gives Frodo a letter from Gandalf, which tells him that Strider is a friend of Gandalf's and that his real name is Aragorn.
+*'''XI · [[A Knife in the Dark]]''' — The hobbits set out with Strider from Bree on foot after their ponies had bolted when Black Riders arrived at the inn at night, who had also attacked the beds which they were supposed to be staying in, though Strider had them stay in another room. They buy a pony to carry their luggage from Bill Ferny. They pass through the [[Midgewater Marshes]], and reach Weathertop, just off the Road. There they are attacked at night by five Black Riders, Frodo puts on the Ring to escape them, and is stabbed in the left shoulder by the Witch-King, the captain of the Black Riders.
+*'''XII · [[Flight to the Ford]]''' — Aragorn takes the hobbits off the Road and into the Wild to avoid pursuit by the Black Riders. They return to the Road to cross the Last Bridge over the Hoarwelll and Aragorn finds a beryl in the middle of the bridge. They go back into the Wild. They come across the three trolls turned into stone in ''The Hobbit''. Eventually, they return to the Road in order to reach the Ford of Bruinen. They meet the Elf [[Glorfindel]] from Rivendell, who has been searching for them. He places Frodo on his [[Asfaloth|white horse Asfaloth]] and hurries them towards Rivendell. When they are almost to the Ford of Bruinen, they are ambushed by the Black Riders. Asfaloth carries Frodo across the Ford. The Black Riders are washed away in a flood over the Ford.
+
+==Synopsis — Book II==
+Book II chronicles Frodo's stay at Rivendell, where a plan is hatched to destroy the Ring in [[Mordor]]. At first, Frodo meets his uncle [[Bilbo Baggins]] whom he had not seen since he left Hobbiton much earlier. Frodo sets forth from Rivendell with eight companions: two Men, [[Aragorn]] and [[Boromir]], son of the Steward of the land of [[Gondor]]; an Elven prince, [[Legolas]]; Frodo's old friend and powerful wizard, Gandalf; [[Gimli]] the Dwarf; and Frodo's original three hobbit companions.  These Nine Walkers were chosen to represent all the free races of Middle-earth and as a balance to the Nine Riders.  They were also accompanied by [[Bill the Pony]], whom Strider and the Hobbits acquired in Bree as a pack horse.  Their attempt to cross the [[Misty Mountains]] is foiled by heavy snow, so they are forced to take a path under the mountains via [[Moria]], an ancient [[Dwarves|Dwarf]] kingdom, now full of [[Orcs]] and other evil creatures, where Gandalf falls into the abyss after battling a [[Balrogs|Balrog]]. 
+
+The remaining eight members of the Fellowship then spend some time in the elf-haven of [[Lothlórien]], where they receive [[Gifts of Galadriel|gifts]] from the elf queen [[Galadriel]] that in many cases prove useful later in the quest. They leave Lórien by river, but Frodo begins to realize the Ring is having a malevolent effect on some members of the party, especially Boromir, who tries to take the ring from Frodo. In the process, Frodo puts on the ring to escape him. Later Boromir is attacked by orcs while trying to defend Merry and Pippin. This book ends when Frodo and Sam depart secretly for [[Mordor]] and the Fellowship of the Ring [[Breaking of the Fellowship|dissolves]].
+
+[[File:J.R.R. Tolkien - Mazarbul page 1.jpg|200px||thumb|Page I of the [[Book of Mazarbul]] read by Gandalf, drawn by [[J.R.R. Tolkien]]]]
+
+===Book II chapters===
+*'''I · [[Many Meetings]]''' — After awakening from a sleep for four days, Frodo meets Gandalf and Bilbo again, as well as [[Glóin]] the dwarf from ''The Hobbit'', Elrond and others.
+*'''II · [[The Council of Elrond]]''' — A council attended by many people; Gandalf tells the story of his escape from Saruman; they decide that the ring must be destroyed and Frodo offers to take it to Mordor.
+*'''III · [[The Ring goes South]]''' — The nine members of the fellowship travel south through [[Eregion|Hollin]]; they try to take the road over the mountain Caradhras but are forced to turn back.
+*'''IV · [[A Journey in the Dark]]''' — After confronting a pack of [[Wargs]] during the night, they travel to the gates of Moria, where they have to deal with a tentacled [[water-monster]] in the lake in front of it. Gandalf eventually opens the doors using a magic word. They reach the tomb of [[Balin]].
+*'''V · [[The Bridge of Khazad-dûm]]''' — Attacked by orcs and trolls, the Fellowship tries to make their way to the bridge of Khazad-dûm, but Gandalf falls during a confrontation with a [[Durin's Bane|Balrog]] on the bridge.
+*'''VI · [[Lothlórien (chapter)|Lothlórien]]''' — The company meets the elves of Lothlórien. The elves reluctantly agree to let Gimli the dwarf pass. Haldir takes Frodo to the hill of [[Cerin Amroth]].
+*'''VII · [[The Mirror of Galadriel]]''' — The company meets [[Celeborn]] and [[Galadriel]]. Frodo is shown the mirror of Galadriel.
+*'''VIII · [[Farewell to Lórien]]''' — The elves give them cloaks, elf bread and other gifts; they leave Lothlórien on boats down the Great River.
+*'''IX · [[The Great River]]''' — they notice Gollum following them down the river on a log; they reach the falls of Rauros, where they must choose between travelling on the east or west bank of the river to pass the falls.
+*'''X · [[The Breaking of the Fellowship]]''' — They arrive at the lawn of Parth Galen; they still face the choice of whether to go east or west; Boromir tries to take the Ring from Frodo, who puts it on to escape him; Other members of the company split up trying to find Frodo. Frodo and Sam go across the river and head east.
+
+==Characters appeared==
+<div style="-moz-column-width: 300px; -webkit-column-width: 300px; column-width: 300px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
+# [[Bilbo Baggins]]
+# [[Frodo Baggins]]
+# [[Gerontius Took|The Old Took]] (mentioned only)
+# [[Gaffer Gamgee|Hamfast "Gaffer" Gamgee]]
+# [[Old Noakes|Old Noakes of Bywater]]
+# [[Daddy Twofoot]]
+# [[Sandyman]]
+# [[Drogo Baggins]] (mentioned only)
+# [[Primula Brandybuck]] (mentioned only)
+# [[Samwise Gamgee]]
+# [[Gandalf|Gandalf the Grey]]
+# Three unnamed Dwarves (see: [[Nar (companion of Bilbo)|Nar]], [[Anar (Dwarf)|Anar]], [[Hannar]])
+# [[Otho Sackville-Baggins]]
+# [[Lobelia Sackville-Baggins]]
+# [[Odo Proudfoot]]
+# [[Rorimac Brandybuck]]
+# [[Esmeralda Took]]
+# [[Meriadoc Brandybuck]]
+# [[Dora Baggins]]
+# [[Adelard Took]]
+# [[Hugo Bracegirdle]]
+# [[Angelica Baggins]]
+# [[Milo Burrows]]
+# [[Ted Sandyman]]
+# [[Sauron]] (mentioned only)
+# [[Elendil]] (mentioned only)
+# [[Gil-galad]] (mentioned only)
+# [[Isildur]] (mentioned only)
+# [[Khamûl]] (mentioned only, unnamed)
+# [[Nazgûl]]
+# [[Déagol]] (mentioned only)
+# [[Gollum]]
+# [[Folco Boffin]]
+# [[Fredegar Bolger]]
+# [[Peregrin Took]]
+# [[Lotho Sackville-Baggins]]
+# [[Gildor|Gildor Inglorion]]
+# [[Farmer Maggot]]
+# [[Mrs Maggot]]
+# Farmer Maggot's Children
+# [[Gorhendad Oldbuck]] (mentioned only)
+# [[Old Man Willow]]
+# [[Tom Bombadil]]
+# [[Goldberry]]
+# [[Barrow-wights]]
+# [[Barliman Butterbur]]
+# [[Nob]]
+# [[Bob]]
+# [[Aragorn]]
+# [[Lúthien]] (mentioned only)
+# [[Beren]] (mentioned only)
+# [[William]], [[Bert]] and [[Tom]] (statues only)
+# [[Glorfindel]]
+# [[Elrond]]
+# [[Arwen]]
+# [[Radagast|Radagast the Brown]]
+# [[Saruman]]
+# [[Boromir]]
+# [[Legolas]]
+# [[Glóin]]
+# [[Gimli]]
+# [[Dwalin]] (mentioned only)
+# [[Dori]] (mentioned only)
+# [[Nori]] (mentioned only)
+# [[Bifur]] (mentioned only)
+# [[Bofur]] (mentioned only)
+# [[Bombur]] (mentioned only)
+# [[Dáin Ironfoot]] (mentioned only)
+# [[Óin]] (mentioned only)
+# [[Galdor (elf of the Havens)|Galdor]]
+# [[Círdan]] (mentioned only)
+# [[Erestor]]
+# [[Arathorn II|Arathorn]] (mentioned only)
+# [[Gwaihir]] (mentioned only)
+# [[Thranduil]] (mentioned only)
+# [[Durin I|Durin]] (mentioned only)
+# [[Balin]] (tomb and mentioned only)
+# [[Ori]] (mentioned only)
+# [[Haldir]]
+# [[Rúmil (elf of Lórien)|Rúmil]]
+# [[Orophin]]
+# [[Celeborn]]
+# [[Galadriel]]
+# [[Uglúk]]
+</div>
+
+==External links==
+* [http://www.gradesaver.com/ClassicNotes/Titles/fellowship/shortsumm.html Detailed summary and analysis of ''The Fellowship of the Ring'']
+{{references}}
+{{lotr}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Fellowship of the Ring, The}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:The Lord of the Rings chapters]]
+[[Category:Publications by title]]
+[[de:Die Gefährten]]
+[[fi:Sormuksen ritarit]]

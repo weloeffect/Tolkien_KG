@@ -1,0 +1,28 @@
+{{stub}}
+{{disambig-more|Moria|[[Moria (disambiguation)]]}}
+{{video game infobox
+| image = Moria (videogame) - cover.jpg
+| name=Moria
+| developer=Mike Howard (ZX-Spectrum)<ref name="Tolkien Games">{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/moria.html|articlename=Moria|dated=|website=Games|accessed=14 august 2010}}</ref><br/>Adrian Sheppard (Oric-1)<ref name="Tolkien Games"/> 
+| publisher=[[Severn Software]]<ref name="Tolkien Games"/>
+| platform=[[wikipedia:Commodore 64|Commodore 64]]<br/>[[wikipedia:Oric-1|Oric-1]]<br/>[[wikipedia:ZX Spectrum|ZX-Spectrum]]
+| releasedate=[[1982]]
+| genre=[[wikipedia:Role-playing games|RPG]], [[wikipedia:Interactive fiction|Text-Adventure]]
+|}}
+:''Not to be confused with the MUD [[The Dungeons of Moria (video game)]]''
+
+'''Moria''' is an illustrated, role-playing text-adventure video game set in [[Moria]].<ref name="Tolkien Games"/><ref>{{webcite|author=Fredrik Ekman|articleurl=http://www.faqs.org/faqs/tolkien/games/|articlename=List of computer games and MUDs with a Tolkien theme (long)|dated=|website=[http://www.faqs.org faqs.org]|accessed=16 august 2010}}</ref> The objective of the game is to find [[Ring of Thrór|Durin's Ring]].<ref name="Tolkien Games"/> Although commercial, it was not licensed by the [[Tolkien Estate]] or the [[Middle-earth Enterprises|Tolkien Enterprises]].<ref name="Tolkien Games"/>
+
+==See also==
+* [[The Dungeons of Moria (video game)|The Dungeons of Moria]], another RPG set in Moria
+
+==External links==
+* [http://www.lysator.liu.se/tolkien-games/entry/moria.html Moria] at [http://www.lysator.liu.se Tolkien Games]
+
+{{references}}
+{{title|italics}}
+[[Category:Commodore 64 games]]
+[[Category:Oric-1 games]]
+[[Category:Role-playing video games]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

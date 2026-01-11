@@ -1,0 +1,24 @@
+{{letter infobox
+| #=190
+| to=[[Rayner Unwin]]
+| date=[[3 July]] [[1956]]
+| subject=[[Translations]]
+}}{{letter|190}}
+==Summary==
+Tolkien had been sent a list of [[Translated names|translations]] to the nomenclature for the first translation of ''[[The Lord of the Rings]]'', into Dutch by [[Max Schuchart]]. Tolkien wrote that he objected to translations of personal nomenclature; [[the Shire]] was based on (or, as he called it himself, "a parody of") rural England; plus, the toponymy of the Shire was wholly different from that of the Netherlands.
+
+Concerning the map "''[[A Part of the Shire]]''", Tolkien thought translating it to "''Een deel von ''(sic)'' 'The Shire<nowiki>'</nowiki>''" sufficient. By not translating the [[The Lord of the Rings Appendices|Appendices]], the Translator (this word was capitalized throughout the letter) got himself into problems; Anglo-Saxon was not like Dutch, as Schuchart had translated, it was related to English. 
+
+Tolkien sent back a letter containing a detailed commentary, and suggested leaving the maps untranslated, and leave personal nomenclature alone as much as possible. He could provide a list of etymologies that could be included. 
+
+Tolkien's most important demand was that the word [[Hobbits|hobbit]] stayed unaltered; no more "[[Hompen]]". 
+
+He closed this letter with an apology for his rigidity, but translations into French of [[wikipedia:Beatrix Potter|Beatrix Potter]] had turned out not so well. For example, [[wikipedia:The Tale of Mrs. Tiggy-Winkle|Mrs. Tiggywinkle]] became ''Poupette à l'épingle''.
+
+==Notes==
+* Schuchart did translate the placenames.
+* ''Poupette à l'épingle'' means as much as "Puppet on a pin". 
+* To show that translating Shirenames was not necessary, Tolkien translated several Dutch cities into English. There are two puzzling forms: ''Hedge'', a translation of ''<nowiki>'</nowiki>s Gravenhage'', instead of *''Count's Hedge'' (this city is commonly known as [[wikipedia:The Hague|The Hague]]), and ''Applethorn'', a literal translation of ''[[wikipedia:Apeldoorn|Apeldoorn]]'', where *''Appledores'' would be more correct.  
+{{letters}}
+[[Category:Letters to Rayner Unwin]]
+[[de:Brief 190]]

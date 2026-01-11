@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 1995
+| location=University College, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 15th-17th, 1995
+| attendees=
+}}
+
+{{oxonmoot|1994|1996}}
+
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

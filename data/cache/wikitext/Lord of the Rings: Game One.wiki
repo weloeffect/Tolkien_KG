@@ -1,0 +1,28 @@
+{{expansion}}
+{{video game infobox
+| image = Gameone-1-.jpg
+| name=Lord of the Rings: Game One<br/>The Fellowship of the Rings Software Adventure
+| developer=[[Melbourne House|Beam Software]]
+| publisher=[[Melbourne House]] (Lord of the Rings: Game One), [[Addison-Wesley]] (The Fellowship of the Rings Software Adventure), [[Guild Publishing]] (re-released)<ref>[http://www.worldofspectrum.org/infoseek.cgi Lord of the Rings: Game One] at [[wikipedia:World of Spectrum|World of Spectrum]] (retrieved 26 September 2010)</ref>
+| platform=[[wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:Amstrad PCW|Amstrad PCW]], [[wikipedia:BBC Micro|BBC B]], [[wikipedia:Commodore 64|Commodore 64]], Dragon, [[wikipedia:ZX Spectrum|ZX Spectrum]], (Lord of the Rings: Game One) and [[wikipedia:Apple II|Apple II]], [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Macintosh|Macintosh]], [[wikipedia:MS-DOS|MS-DOS]] (The Fellowship of the Ring Software Adventure)
+| releasedate=[[1985]]
+| genre=Illustrated Text-Adventure
+|}}
+'''''Lord of the Rings: Game One''''' (published in North America as '''''The Fellowship of the Rings Software Adventure''''') is the sequel of ''[[The Hobbit (1982 video game)|The Hobbit]]''.<ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=4 Meristation, El Anillo interactivo] p. 5 (retrieved 26 September)</ref> It is divided in two parts and has also a beginner's game.<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/lotr-gameone.html Lord of the Rings: Game One] at Tolkien Games (retrieved 26 September 2010)</ref> ''Lord of the Rings: Game One'' is a part of "[[The Tolkien Trilogy]]"<ref name="El Anillo"/><ref name="Tolkien Games"/> and "[[The Tolkien Software Adventure Series]]".<ref name="Tolkien Games"/> It was licensed by the [[Tolkien Estate]].<ref name="Tolkien Games"/>
+
+Included in the initial release was a paperback copy of ''[[The Fellowship of the Ring]]''.<ref name="Tolkien Games"/>
+
+Playable characters include [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Pippin Took|Pippin]] and [[Merry Brandybuck|Merry]].
+
+== External links ==
+* [http://www.tolkienshop.com/contents/en-uk/d73.html Lord of the Rings: Game One at Tolkien Shop]
+
+{{Videogames}}
+{{references}}
+{{title|italics}}
+[[Category:Amstrad CPC games]]
+[[Category:Apple Macintosh games]]
+[[Category:Commodore 64 games]]
+[[Category:Melbourne House games]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

@@ -1,0 +1,40 @@
+{{disambig-two|a festival honoring [[Frodo Baggins]] within the [[legendarium]]|series of books published by [[Walking Tree Publishers]]|[[Cormarë Series]]}}
+
+{{events
+| image=
+| event=Cormarë
+| othernames=Ringday
+| location=[[Reunited Kingdom]]
+| date=[[22 September]] of the [[Fourth Age]]
+| result=
+| partof=[[New Reckoning]] calendar
+| participants=
+| description=
+| references=''[[The Return of the King]]'', "[[Appendix D]]"
+}}
+
+'''Cormarë''' ([[Quenya|Q.]]'''Ringday''') was a festival honoring the birthday of [[Frodo Baggins]], destroyer of [[the One Ring]].
+
+== History ==
+In [[Aragorn]] the [[King Elessar]]'s [[New Reckoning]] calendar, 30 [[Yavannië]] was made a festival in honor of the [[Ring-bearer]], since it corresponded with Frodo's birthday, [[22 September]] in the [[Shire Calendar]]. Except in leap-years 30 Yavannië corresponded with 21 September in the Shire Calendar (due to its [[Overlithe]] leap-day at midsummer), so the New Reckoning's leap-day was inserted between ''Yavannië'' and its [[Enderi]] and Frodo's birthday feast was doubled in leap-years.<ref>{{App|D2}}</ref> It's not clear if the last day of the month of ''Yavannië'' was still referred to as "30 Yavannië", or if this day, and the leap-day, were simply called ''Cormarë''.
+
+== Etymology ==
+''Cormarë'' is a [[Quenya]] word glossed as "Ringday", apparently being a compound of ''[[corma]]'' ("ring")<ref>{{webcite|author=[[Helge Fauskanger]]|articleurl=http://folk.uib.no/hnohf/eng-quen.rtf|articlename=English-Quenya Wordlist (Quettaparma Quenyanna)|dated=|website=Arda|accessed=25 June 2011}}</ref> and the suffixal form of ''[[ré]]'' ("day").<ref>{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-1614948635.html|articlename=Q. ''Cormarë'' pn.|website=[[Eldamo]]|accessed=13 September 2022}}</ref>
+
+== Outside the legendarium ==
+22 September is a popular "ceremonial" date for founding [[:Category:Tolkien Societies|Tolkien societies]]. [[Unquendor]] (the Netherlands), [[Eredain]] (Switzerland), [[Imladris, Danmarks Tolkienforening|Imladris]] (Denmark) and several others were founded on this day. Another ceremonial day is [[3 January]], the birthday of [[J.R.R. Tolkien]]. 
+
+Among [[Tolkien fandom|fans]], 22 September is also commonly observed as the [[Hobbit Day]].
+
+== External links ==
+* [http://www.americantolkiensociety.org/hobbit_day_and_tolkien_week.htm Hobbit Day and Tolkien Week]
+
+{{References}}
+
+{{DEFAULTSORT:Cormare}}
+[[Category:Calendars]]
+[[Category:Festivals and feasts]]
+[[Category:Fourth Age]]
+[[Category:Quenya nouns]]
+[[de:Neue Zeitrechnung#Beschreibung]]
+[[fi:Cormarë]]

@@ -1,0 +1,54 @@
+{{short description|One of the three Elven rings}}
+{{object infobox
+| name=Narya
+| image = J.R.R. Tolkien - Narya.jpg
+| caption=Narya by [[J.R.R. Tolkien]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈnarʲa]}}
+| othernames=The Red Ring, The Ring of Fire, The Third Ring
+| location=[[Eregion]], [[Lindon]], later various
+| owner=[[Celebrimbor]], [[Círdan]], [[Gandalf]]
+| type=Ring
+| appearance=Set with a ruby;<ref>{{S|Rings}}</ref> "the stone upon it was red as fire"<ref>{{RK|Havens}}</ref>
+| creator=[[Celebrimbor]]
+| created=c. {{SA|1590}}<ref name="SA">{{App|SA}}</ref>
+| createdlocation=[[Eregion]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+
+'''Narya''', the '''Ring of Fire''' or '''Red Ring''', was one of the [[Rings of Power]], specifically one of the "[[Three Rings]] for the Elven Kings under the sky".
+
+==History==
+Created by [[Celebrimbor]] after ''Annatar'' had left [[Eregion]], it was free of Annatar's ([[Sauron]]'s) influence due to the fact that the Elves hid their three rings from him upon discerning his intent, but it was still bound to [[the One Ring]]. 
+
+In ''[[The Lord of the Rings]]'' and ''[[The Silmarillion]]'', Gil-galad receives only [[Vilya]], while Círdan receives Narya from the very beginning. In the [[Third Age]], Círdan gave the ring to [[Gandalf]] for his labours.<ref name="TA">{{App|TA}}</ref> 
+
+According to the ''[[Unfinished Tales]]'', at the start of the [[War of the Elves and Sauron]] Celebrimbor gave Narya together with the Ring [[Vilya]] to [[Gil-galad]], High King of the [[Noldor]]. Gil-galad entrusted Narya to his lieutenant [[Círdan]], Lord of the Havens of [[Grey Havens|Mithlond]], who kept it after Gil-galad's death.<ref>{{UT|Concerning}}</ref> 
+
+{{blockquote|Take this ring, master, [...] for your labours will be heavy; but it will support you in the weariness that you have taken upon yourself. For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.|[[Círdan]] the Shipwright<ref name="TA"/>}}
+
+==Etymology==
+The name ''Narya'' is [[Quenya]], deriving from the elements ''[[nár]]'' ("fire as an element")<ref>{{S|Appendix}}, entry ''nár''</ref>  + ''[[-ya]]'' (adjective suffix).
+
+==Other versions of the legendarium==
+
+In an early version of ''[[The Lord of the Rings]]'' Narya was known as [[Kemen]], the [[Quenya]] word for Earth. <ref>excerpt from MS. Tolkien, 3/1/12. published in {{HM|RC}}, "The Grey Haven", p. 671</ref>
+
+==Portrayal in adaptations==
+===Films===
+'''2014: [[The Hobbit: The Battle of the Five Armies|''The Hobbit: The Battle of the Five Armies'']]:'''
+:In the extended edition of the film, Gandalf is revealed to have worn the magically concealed Narya when he enters [[Dol Guldur]]. The [[Keeper of the Dungeons]] is preparing to remove Gandalf’s hand to deliver the ring to Sauron when [[Galadriel]] appears and stops him.
+
+==External links==
+*[http://jonathansmcintosh.wordpress.com/2015/01/07/lord-of-the-rings-as-narya-the-ring-of-fire/ “Lord of the Rings” as Narya, the Ring of Fire] by Jonathan McIntosh
+
+{{references}}
+{{rings}}
+[[Category:Rings and jewels]]
+[[Category:Quenya names]]
+[[Category:Quenya adjectives]]
+[[de:Narya]]
+[[fr:encyclo/artefacts/bijoux/anneaux/narya]]
+[[fi:Narya]]

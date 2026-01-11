@@ -1,0 +1,93 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Hoarmûrath of Dír
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Liz Danforth - Hoarmûrath of Dír.jpeg
+| caption=''“Hoarmûrath of Dír”'' by [[Liz Danforth]]
+| pronun=
+| othernames=Ice King<br>the Cold One
+| titles=King of [[Urd]]
+| position=Sixth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1954}}
+| birthlocation=[[Urd|Forest of Dír]]
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=6 ft 1 in<ref name=ICE>{{ICE|8003}}, pp. 88-89</ref>
+| hair=
+| eyes=Blue<ref name=ICE/>
+| clothing=[[Cold-drakes|Cold-drake]]-skin robes<br>Ice-bear helm<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>Snow Hammer<br>Hue Changer
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Enquëa
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=Black Threat
+| titles=
+| position=Sixth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| steed=Black horse
+}}
+}}
+The '''Sixth of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Hoarmûrath'', a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>[[Middle-earth: The Wizards]]</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] Enquëa'' ([[Quenya|Q.]] Sixth Nazgûl), and assigning the epithet of ''Black Threat''.<ref>{{LOTRTCGW|Ulaire Enquea, Black Threat (12R175)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+
+==Backstory in Middle-earth Role Playing==
+'''Hoarmûrath''' was born in {{SA|1954}} in the [[Urd|Forest of Dír]], among the Urdar clans of hunters and trappers. His mother was their matriarch until her death in war, after which his sister became queen. As the queen’s brother, Hoarmûrath held a high position within his society.
+
+His close relationship with the [[Avari]] of the south, who taught him magic and power, put him at odds with Urd traditions. When he proposed to wage war for territory, his sister instead ordered him exiled. A struggle ensued, and Hoarmûrath's retainers slew his sister. To avoid punishment, he declared himself the first King of Urd. With the aid of the Avari, he crushed all opposition and became the Lord of the Urdar in {{SA|1992}}.
+
+Hoarmûrath expanded his dominion rapidly, , ruling much of the land between the Northern Seas, but his alliance with the Avari soured when he coveted their immortality and wealth. In {{SA|1999}}, he turned on them, but the Avari were victorious in two great battles. In desperation, Hoarmûrath sought help from [[Sauron]]. The Dark Lord sent [[Khamûl]] with a [[Nine Rings|Ring of Power]]. In {{SA|2000}}, Hoarmûrath accepted and became the sixth King to fall under Sauron's sway.
+
+Invigorated by his Ring, Hoarmûrath led a renewed and successful campaign against the Avari. He styled himself as the Lord of the North and ruled as a client-king for Sauron for over two hundred years. In {{SA|2250}}, having secured his kingdom and his succession, he was summoned to Mordor by Sauron to help prepare to counter the growing might of [[Númenor]]. For the next thousand years, he oversaw the construction of defences around Udûn, including the Gates of Mordor, though he still visited his own kingdom.
+
+He fled back to Urd after Númenor's invasion in {{SA|3261}} but returned to Mordor after the [[Downfall of Númenor|Downfall]]. He led campaigns in Rhovanion and commanded the northern flank in the invasion of Ithilien. He passed into shadows as Sauron was overthrown in the [[War of the Last Alliance]]. 
+
+Hoarmûrath reappeared around {{TA|1050}}, and by {{TA|1640}} had rebuilt his kingdom. He joined the other Nazgûl in Mordor and made his lair in the abandoned castle of [[Durthang]]. He later participated in the capture of [[Minas Morgul|Minas Ithil]] in {{TA|2002}}.
+
+During the [[War of the Ring]], he rode with the Black Riders in search of the [[The One Ring|One Ring]]. He was one of the Ringwraiths who fought in the [[Battle of the Pelennor Fields|Battle of Pelennor Fields]], later joining the remaining wraiths at the [[Battle of the Morannon]], where he perished with Sauron's defeat.<ref name=ICE/>
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have possessed the following weapons:
+*'''Snow Hammer''': A war mattock made of clear [[Stones_in_Middle-earth_Role_Playing#Laen|laen]], inlaid with drake-horn.<ref>{{ICE|2010}},  p. 44</ref>
+* '''Hue Changer''': A [[Woods_in_Middle-earth_Role_Playing#Dírwood|dírwooden]] spear which can change colour.<ref>{{ICE|2010}},  p. 34</ref>
+{{References}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 6}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

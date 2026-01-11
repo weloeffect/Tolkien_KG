@@ -1,0 +1,36 @@
+{{location infobox
+| name=Avathar
+| image=Lady Elleth - Unlight.jpg
+| caption="Unlight" by Lady Elleth
+| pronun=[[Quenya|Q]], {{IPA|[ˈaβaθar]}})
+| othernames=
+| location=South-eastern region of [[Aman]], east of the [[Pelóri]]
+| type=Region
+| description=Dark strip of land
+| regions=
+| towns=
+| inhabitants=[[Ungoliant]]
+| created=
+| destroyed=
+| events=
+}}
+
+'''Avathar''' was the land in the south-eastern part of [[Aman]], south of [[Valinor]]. It formed a dark strip of land at the feet of the [[Pelóri]] Mountains. It seems to have been totally deserted and forgotten and in ancient times [[Ungoliant]] made her home there.<ref>{{S|Darkening}}</ref>
+==Etymology==
+In "The Later [[Quenta Silmarillion]]" section of ''[[Morgoth's Ring]]'', [[J.R.R. Tolkien|Tolkien]] translates Avathar as "The Shadows" in "ancient" [[Quenya]];<ref>{{MR|P3II7}}, p. 284</ref> this translation also appears in ''[[The Silmarillion]]''.<ref>{{S|Index}}, ''Avathar''</ref>
+
+However, in the "[[Quendi and Eldar]]", Tolkien states that Avathar has no [[Elvish]] translation, meaning that it must have been adapted from its [[Valarin]] name.<ref>{{WJ|AD1}}, p. 404</ref> (however, in the Index to that book it still says "The Shadows" in a short description<ref>{{WJ|Index}}</ref>)
+==Other versions of the legendarium==
+In early versions of ''[[The Silmarillion]]'', <!-- an in-line quote to specific chapters. -->the region where Ungoliant dwelt prior to the Darkening of Valinor was called ''Arvalin''.<ref>{{GA|105}}</ref>
+
+==See also==
+*[[Araman]] - the analogous area in the north
+*[[Sindanórie]]
+
+{{References}}
+[[Category:Aman]]
+[[Category:Quenya locations]]
+
+[[de:Avathar]]
+[[fi:Avathar]]
+[[fr:encyclo/geographie/regions/aman/avathar]]

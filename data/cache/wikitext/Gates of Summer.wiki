@@ -1,0 +1,30 @@
+{{events
+| image = Alystraea - Tarnin Austa, Gondolin.png
+| event=Gates of Summer
+| othernames=''Tarnin Austa'', ''Andonavestan''
+| location=[[Gondolin]]
+| date=
+| result=
+| partof=
+| participants=[[Gondolindrim]]
+| description=
+| references=
+}}
+
+The '''Gates of Summer''' was a great feast held in [[Gondolin]] when the [[Gondolindrim]] sang as the [[Sun]] rose. 
+
+It was upon the morning of this feast that [[Morgoth]]'s armies attacked the city, beginning the infamous [[Fall of Gondolin]].<ref>{{S|23}}</ref><ref>{{SM|Q16}}, p. 144</ref>
+
+==Other versions of the legendarium==
+In early versions of the [[legendarium]], more details are provided about the feast: '''Tarnin Austa''' (meaning "Gates of Summer" in [[Gnomish]], the first version of later [[Sindarin]]) was held on the eve of the first day of summer. It was custom to begin a solemn ceremony at midnight, continuing it until dawn of Tarnin Austa.  The [[Gondothlim]] did not speak from midnight to daybreak, but upon the rising of the [[Sun]] they would burst into ancient songs, with choirs standing upon the eastern wall. At that time the city was filled with silver lamps, and lights of jewelled colours hung on the branches of the new-leaved trees.<ref>{{HM|LT2}}, pp. 172, 211, 347</ref>
+
+In the early 1920s as Tolkien continued to evolve his ideas of [[Gnomish]] phonology, vocabulary, and plural-formation, he changed the name of the festival to ''Ternin Awest''<ref name="PE13">{{PE|13}}</ref>{{rp|153}} (or ''Ennyn Awest'') in the Noldorin Word-lists, with the festival's [[Qenya]] name being ''Andonavestan''.<ref name="PE13" />{{rp|143}} In his c. 1923 Noldorin Dictionary, Tolkien further emended ''Ternin'' to ''Teirn'',<ref name="PE13" />{{rp|160}} reflecting his next conception for pluralizing ''[[tarn]]'' ("gate").<ref name="PE13" />{{rp|153}}
+
+{{references}}
+
+{{gondolin}}
+
+[[Category:Festivals and feasts]]
+[[Category:Gondolin]]
+
+[[fi:Kesänportti]]

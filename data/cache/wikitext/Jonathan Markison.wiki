@@ -1,0 +1,41 @@
+{{expansion}}
+{{anglosaxon infobox
+| name=Jonathan Markison
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=Master of St. Cuthbert's Hall
+| position=Monk
+| location=[[Oxford]]
+| affiliation=The [[Notion Club]] and the Order of Saint Benedict (O.S.B.)
+| language=[[wikipedia:English language|English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Polymathy
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+[https://en.wikipedia.org/wiki/Don_(honorific)#Religion Dom] '''Jonathan Markison''' was a member of the [[Notion Club]]. He was educated at New College,<ref>{{SD|2b}}</ref> and was a monk whose polymathy extended to knowledge of Germanic origins.<ref>{{SD|2a}}</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Markison, Jonathan}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

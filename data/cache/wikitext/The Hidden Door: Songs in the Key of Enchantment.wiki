@@ -1,0 +1,123 @@
+{{short description|Music album by Ted Nasmith}}
+{{album
+| image = The Hidden Door - Songs in the Key of Enchantment.jpg
+| title=The Hidden Door: Songs in the Key of Enchantment
+| type=studio album
+| artist=<br>[[Ted Nasmith]]
+| released=[[2007]]
+| recorded=
+| genre=Folk
+| length=
+| language=English
+| label=
+}}
+'''''The Hidden Door: Songs in the Key of Enchantment''''' is the first music album by artist [[Ted Nasmith]]. It was released in [[2007]] with original art created by Nasmith for its cover art.<ref name="BandCamp">{{webcite|articleurl=https://tednasmith.bandcamp.com/album/the-hidden-door-songs-in-the-key-of-enchantment|articlename=The Hidden Door: Songs in the Key of Enchantment|dated=|website=[https://bandcamp.com Bandcamp]|accessed=6 February 2023}}</ref><ref name="HiddenDoorArt">{{webcite|articleurl=https://www.tednasmith.com/other/the-hidden-door/|articlename=The Hidden Door|dated=|website=[https://www.tednasmith.com Ted Nasmith]|accessed=7 February 2023}}</ref>
+
+==Track listing==
+{{tracklist
+| collapsed       = 
+| headline        = 
+| extra_column    = 
+| total_length    = 
+
+| all_writing     = 
+| all_lyrics      = 
+| all_music       = 
+
+| writing_credits = 
+| lyrics_credits  = 
+| music_credits   = 
+
+| title1          = Leaving the Shire
+| note1           = 
+| writer1         = 
+| lyrics1         = 
+| music1          = 
+| extra1          = 
+| length1         = 04:33
+
+| title2          = Where Beauty Dwells
+| note2           = 
+| writer2         = 
+| lyrics2         = 
+| music2          = 
+| extra2          = 
+| length2         = 05:00
+
+| title3         = To the Sea
+| note3          = 
+| writer3        = 
+| lyrics3        = 
+| music3         = 
+| extra3         = 
+| length3        = 04:08
+
+| title4         = A King There Was
+| note4          = 
+| writer4        = 
+| lyrics4        = 
+| music4         = 
+| extra4         = 
+| length4        = 03:43
+
+| title5         = River Daughter
+| note5          = 
+| writer5        = 
+| lyrics5        = 
+| music5         = 
+| extra5         = 
+| length5        = 02:22
+
+| title6         = When Evening in the Shire Was Grey 
+| note6          = 
+| writer6        = 
+| lyrics6        = 
+| music6         = 
+| extra6         = 
+| length6        = 03:31
+
+| title7         = Rainbows in the Sun
+| note7          = 
+| writer7        = 
+| lyrics7        = 
+| music7         = 
+| extra7         = 
+| length7        = 03:39
+
+| title8         = To the Woody End 
+| note8          = 
+| writer8        = 
+| lyrics8        = 
+| music8         = 
+| extra8         = 
+| length8        = 06:45
+
+| title9         = Dying Embers
+| note9          = 
+| writer9        = 
+| lyrics9        = 
+| music9         = 
+| extra9         = 
+| length9        = 05:03
+
+| title10         = Beruthiel
+| note10          = 
+| writer10        = 
+| lyrics10        = 
+| music10         = 
+| extra10         = 
+| length10        = 06:50
+
+| title11         = The Hidden Door
+| note11          = 
+| writer11        = 
+| lyrics11        = 
+| music11         = 
+| extra11         = 
+| length11        = 05:11
+}}
+==External links==
+*[https://www.tednasmith.com/music/ Ted Nasmith's official music page]
+{{references}}
+{{title|italics}}
+[[Category:Albums]]

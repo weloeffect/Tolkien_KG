@@ -1,0 +1,43 @@
+{{location infobox
+| name=Bagshot Row
+| image=J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water (Colored).jpg
+| caption="The Hill: Hobbiton-across-the-Water" by [[J.R.R. Tolkien]]
+| pronun=
+| othernames=[[New Row]]
+| location=[[Hobbiton Hill]], [[The Shire]]
+| type=Row of [[hobbit-holes]]
+| description=
+| regions=
+| towns=
+| inhabitants=[[Hobbits]]
+| created=
+| destroyed=
+| events=[[Saruman]]'s [[Ruffians|Ruffian]] occupation
+}}
+'''Bagshot Row''' was the row of [[Hobbit-holes]] that were delved into [[Hobbiton Hill]] beneath [[Bag End]]. The [[Gamgee Family]] lived at Number 3, Bagshot Row.<ref>{{FR|I1}}</ref> Their neighbour was [[Daddy Twofoot]].<ref group=note>It is not mentioned whether he lived at Number 2 or Number 4.</ref> The dwellings had gardens and earthwalls made of the earth removed during the excavation of Bag End.<ref name=nom/>
+
+During the [[War of the Ring]] and the occupation of [[the Shire]], [[Saruman]] had it torn up, and it had become a yawning sand and gravel pit.  After the [[Battle of Bywater]] the destruction was replaced by a new row called, simply, [[New Row]] (in the town of [[Bywater]] it became a joke to refer to it as Sharkey's End).<ref>{{RK|VI8}}</ref>
+==Etymology==
+It was so named because the earth removed in excavating Bag End was ''shot'' over the edge of the sudden fall in the hillside onto the ground.<ref name=nom>{{HM|N}}, p. 765</ref>
+==Portrayal in adaptations==
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Bagshot Row is much longer than described in the book; numbers run up to ten. 
+* 1 Bagshot Row: [[Bag End]]
+* 2 Bagshot Row: [[Daddy Twofoot]]
+* 3 Bagshot Row: The Gamgees
+* 4 Bagshot Row: [[Milo Burrows]]
+* 5 Bagshot Row: [[Proudfoot Family|The Proudfeet]]
+* 6 Bagshot Row: Halfast Hornblower
+* 8 Bagshot Row: [[Hugo Bracegirdle]]
+* 10 Bagshot Row: [[Fredegar Bolger|Fredregar ''(sic)'' Bolger]]
+:Numbers 7 and 9, inhabited by [[Folco Boffin]] and [[Robin Smallburrow]], are inexplicably located on the "Water Road" and the "Hill Road". 
+
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:In a deviation from the book, [[Samwise Gamgee|Sam]] and [[Rose Cotton|Rosie]] still live at Number 3.
+{{references|note}}
+[[Category:The Shire]]
+[[Category:Roads and streets]]
+
+[[de:Beutelhaldenweg]]
+[[fi:Repunreuna]]
+[[fr:encyclo:geographie:routes:chemin des trous-du-talus]]

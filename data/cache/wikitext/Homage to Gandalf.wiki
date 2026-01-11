@@ -1,0 +1,54 @@
+{{scene
+| image=
+| name=Homage to Gandalf
+| film=[[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+| number=21
+| duration=3:27
+| event= Arrival at [[Lothlórien]]
+| previous= Balrog Strikes
+| next= Galadriel's Test
+|}}
+
+'''''Homage to Gandalf''''' is the Twenty-first scene of [[The Lord of the Rings (1978 film)|the 1978 film ''The Lord of the Rings]]''. 
+
+==Synopsis==
+After [[Gandalf]] has fallen down with [[Durin's Bane|the Balrog]], [[Aragorn]] commands the [[Fellowship of the Ring|Company]] out of [[Moria]]. As he tends the wounds of [[Samwise Gamgee|Sam]] and [[Frodo Baggins|Frodo]], he discovers the latter's ''[[mithril]]'' vest. Frodo mentions hearing [[Gollum|flapping feet]], and the Fellowship are quick to conclude that it cannot be an [[orcs|orc]]. Aragorn assures him that whatever it is, it will not follow them where they are going: Lothlórien. Upon hearing that name, [[Boromir]] protests, speaking of the stories of the place that go around in [[Gondor]]. 
+
+[[Galadriel]] and [[Celeborn]] welcome the Fellowship, and inform them that they already know of Gandalf's fall and Frodo's quest. Elves sing a sad song to ''Mithrandir'', and Aragorn and Frodo briefly discuss their memories of him. Frodo is a bit surprised upon hearing so much of Mithrandir and his many names: in the Shire, he was just Gandalf. Aragorn tells him that that was probably the name the Wizard was fondest of. 
+
+The Fellowship rests in Lothlórien, practising their fighting, sleeping, and picking flowers. [[Legolas]] and [[Gimli]] start to bond.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Boromir]] || [[Michael Graham Cox]]
+|-
+| [[Aragorn]] || [[John Hurt]]
+|-
+| [[Samwise Gamgee]] || [[Michael Scholes]] (voice), [[Billy Barty]]
+|-
+|[[Frodo Baggins]] || [[Christopher Guard]] (voice), [[Sharon Baird]]
+|-
+| [[Galadriel]] || [[Annette Crosbie]]
+|-
+| [[Celeborn]] || Uncredited
+|-
+| [[Legolas]] || [[Anthony Daniels]]
+|-
+| [[Gimli]] || No lines
+|-
+| [[Peregrin Took|Pippin]] || No lines
+|-
+| [[Meriadoc Brandybuck|Merry]] || No lines
+|}
+
+==Differences from the source material==
+* Galadriel and Celeborn are already aware of Gandalf's fall, because "the forests told [them]". 
+
+==Errors==
+* As in the previous scene, Merry and Pippin's hair is miscoloured blond.
+* Celeborn is pronounced Seleborn.
+
+[[Category:The Lord of the Rings (1978 film) scenes]]

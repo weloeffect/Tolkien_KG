@@ -1,0 +1,19 @@
+{{book
+| title=The Philosophy of Tolkien
+| image = The Philosophy of Tolkien.jpg
+| author=Peter J. Kreeft
+| publisher=Ignatius Press
+| date=October [[2005]]
+| format=Paperback
+| pages=237
+| isbn=1586170252
+}}
+'''''The Philosophy of Tolkien: The Worldview Behind The Lord of the Rings''''' investigates philosophical themes in [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]''.
+
+== From the publisher ==
+{{blockquote|While nothing can equal or replace the adventure in reading Tolkien’s masterwork, ''The Lord of the Rings'', Peter Kreeft says that the journey into its underlying philosophy can be another exhilarating adventure.Thus, Kreeft takes the reader on a voyage of discovery into the philosophical bones of [[Middle-earth]]. He organizes the philosophical themes in ''The Lord of the Rings'' into 50 categories, accompanied by over 1,000 references to the text of Lord. Since many of the great questions of philosophy are included in the 50-theme outline, this book can also be read as an engaging introduction to philosophy. For each of the philosophical topics in Lord, Kreeft presents tools by which they can be understood.}}
+
+{{title|italics}}
+{{DEFAULTSORT:Philosophy of Tolkien}}
+[[Category:Philosophy books]]
+[[Category:Publications by title]]

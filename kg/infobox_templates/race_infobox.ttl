@@ -1,0 +1,463 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Ainur> a schema:WebPage ;
+    rdfs:label "Ainur"@en ;
+    schema:about <http://localhost:8000/resource/Ainur> .
+
+<http://localhost:8000/page/Barrow-wights> a schema:WebPage ;
+    rdfs:label "Barrow-wights"@en ;
+    schema:about <http://localhost:8000/resource/Barrow-wights> .
+
+<http://localhost:8000/page/Dragons> a schema:WebPage ;
+    rdfs:label "Dragons"@en ;
+    schema:about <http://localhost:8000/resource/Dragons> .
+
+<http://localhost:8000/page/Dwarves> a schema:WebPage ;
+    rdfs:label "Dwarves"@en ;
+    schema:about <http://localhost:8000/resource/Dwarves> .
+
+<http://localhost:8000/page/Eagles> a schema:WebPage ;
+    rdfs:label "Eagles"@en ;
+    schema:about <http://localhost:8000/resource/Eagles> .
+
+<http://localhost:8000/page/Elves> a schema:WebPage ;
+    rdfs:label "Elves"@en ;
+    schema:about <http://localhost:8000/resource/Elves> .
+
+<http://localhost:8000/page/Ents> a schema:WebPage ;
+    rdfs:label "Ents"@en ;
+    schema:about <http://localhost:8000/resource/Ents> .
+
+<http://localhost:8000/page/Fell_beasts> a schema:WebPage ;
+    rdfs:label "Fell beasts"@en ;
+    schema:about <http://localhost:8000/resource/Fell_beasts> .
+
+<http://localhost:8000/page/Giants> a schema:WebPage ;
+    rdfs:label "Giants"@en ;
+    schema:about <http://localhost:8000/resource/Giants> .
+
+<http://localhost:8000/page/Gongs> a schema:WebPage ;
+    rdfs:label "Gongs"@en ;
+    schema:about <http://localhost:8000/resource/Gongs> .
+
+<http://localhost:8000/page/Half-orcs> a schema:WebPage ;
+    rdfs:label "Half-orcs"@en ;
+    schema:about <http://localhost:8000/resource/Half-orcs> .
+
+<http://localhost:8000/page/Hill-trolls> a schema:WebPage ;
+    rdfs:label "Hill-trolls"@en ;
+    schema:about <http://localhost:8000/resource/Hill-trolls> .
+
+<http://localhost:8000/page/Horses> a schema:WebPage ;
+    rdfs:label "Horses"@en ;
+    schema:about <http://localhost:8000/resource/Horses> .
+
+<http://localhost:8000/page/Huorns> a schema:WebPage ;
+    rdfs:label "Huorns"@en ;
+    schema:about <http://localhost:8000/resource/Huorns> .
+
+<http://localhost:8000/page/Men> a schema:WebPage ;
+    rdfs:label "Men"@en ;
+    schema:about <http://localhost:8000/resource/Men> .
+
+<http://localhost:8000/page/Mermaids> a schema:WebPage ;
+    rdfs:label "Mermaids"@en ;
+    schema:about <http://localhost:8000/resource/Mermaids> .
+
+<http://localhost:8000/page/Nazg%C3%BBl> a schema:WebPage ;
+    rdfs:label "Nazgûl"@en ;
+    schema:about <http://localhost:8000/resource/Nazg%C3%BBl> .
+
+<http://localhost:8000/page/Ogres> a schema:WebPage ;
+    rdfs:label "Ogres"@en ;
+    schema:about <http://localhost:8000/resource/Ogres> .
+
+<http://localhost:8000/page/Orcs> a schema:WebPage ;
+    rdfs:label "Orcs"@en ;
+    schema:about <http://localhost:8000/resource/Orcs> .
+
+<http://localhost:8000/page/Spiders> a schema:WebPage ;
+    rdfs:label "Spiders"@en ;
+    schema:about <http://localhost:8000/resource/Spiders> .
+
+<http://localhost:8000/page/Sprites> a schema:WebPage ;
+    rdfs:label "Sprites"@en ;
+    schema:about <http://localhost:8000/resource/Sprites> .
+
+<http://localhost:8000/page/Sylphs> a schema:WebPage ;
+    rdfs:label "Sylphs"@en ;
+    schema:about <http://localhost:8000/resource/Sylphs> .
+
+<http://localhost:8000/page/Thrushes> a schema:WebPage ;
+    rdfs:label "Thrushes"@en ;
+    schema:about <http://localhost:8000/resource/Thrushes> .
+
+<http://localhost:8000/page/Trolls> a schema:WebPage ;
+    rdfs:label "Trolls"@en ;
+    schema:about <http://localhost:8000/resource/Trolls> .
+
+<http://localhost:8000/page/Vampires> a schema:WebPage ;
+    rdfs:label "Vampires"@en ;
+    schema:about <http://localhost:8000/resource/Vampires> .
+
+<http://localhost:8000/page/Wargs> a schema:WebPage ;
+    rdfs:label "Wargs"@en ;
+    schema:about <http://localhost:8000/resource/Wargs> .
+
+<http://localhost:8000/page/Werewolves> a schema:WebPage ;
+    rdfs:label "Werewolves"@en ;
+    schema:about <http://localhost:8000/resource/Werewolves> .
+
+<http://localhost:8000/resource/Ainur> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/Ainulindale_by_%3ACategory%3AImages_by_Anna_Kulisz> ;
+    tg:clothing <http://localhost:8000/resource/Fana> ;
+    tg:image "Anna Kulisz - Ainulindale.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Valarin%2C_Quenya%2C_Sindarin%2C_Khuzdul%2C_Black_Speech%2C_Westron%2C_etc.> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Timeless_Halls%2C_Arda%2C_Almaren%2C_Aman> ;
+    tg:members <http://localhost:8000/resource/Melkor%2C_Manw%C3%AB%2C_Ulmo%2C_Varda%2C_Aul%C3%AB%2C_Yavanna%2C_Mandos%2C_Sauron%2C_Gothmog%2C_Gandalf%2C_Saruman> ;
+    tg:name "Ainur"@en ;
+    tg:origin <http://localhost:8000/resource/Creation_of_the_Ainur> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ayan%C3%BBz%27%27_%28Valarin> ;
+    tg:people <http://localhost:8000/resource/Valar%2C_Maiar> ;
+    tg:pronun "{{IPA|[ˈaɪnur]}}"@en .
+
+<http://localhost:8000/resource/Barrow-wights> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Sauron%3Cbr%3EWitch-king> ;
+    tg:caption <http://localhost:8000/resource/%22Barrow-Wights%22_by_John_Howe> ;
+    tg:distinctions "Shadowy figures with a pale, icy light gleaming from their eyes; icy touch; deep, hollow and cold voice"@en ;
+    tg:image "John Howe - Barrow-Wights.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/The_Barrow-downs> ;
+    tg:name "Barrow-wights"@en ;
+    tg:weapons "Magic"@en .
+
+<http://localhost:8000/resource/Dragons> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:caption <http://localhost:8000/resource/%22%27%27hringboga_heorte_gef%C3%BDsed%27%27%22_by_J.R.R._Tolkien> ;
+    tg:image "J.R.R. Tolkien - Dragon.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Various_Mannish_and_Elvish_tongues%3Cref%3EJ.R.R._Tolkien%2C_%22Letter_to_Leila_Keene_and_Pat_Kirke%22_%28Letters_not_published_in_The_Letters_of_J.R.R._Tolkien> ;
+    tg:lifespan "\"Long and slow\"<ref>{{S|13}}</ref>"@en ;
+    tg:location <http://localhost:8000/resource/Angband%2C_Nargothrond%2C_Grey_Mountains%2C_Lonely_Mountain> ;
+    tg:members <http://localhost:8000/resource/Glaurung%2C_Ancalagon%2C_Scatha%2C_Smaug> ;
+    tg:name "Dragons"@en ;
+    tg:origin <http://localhost:8000/resource/Morphed_by_Morgoth_in_Angband> ;
+    tg:othernames "\"Great worms\""@en ;
+    tg:people <http://localhost:8000/resource/Fire-drakes%2C_Cold-drakes%2C_%3Cbr%3ELong-worms%2C_Sea-serpents> .
+
+<http://localhost:8000/resource/Dwarves> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Alliance_of_Dwarves_and_Men%3Cbr_/%3EUnion_of_Maedhros%3Cbr_/%3ELast_Alliance_of_Elves_and_Men%3Cbr_/%3EFellowship_of_the_Ring%3Cbr_/%3EThorin_and_Company> ;
+    tg:caption <http://localhost:8000/resource/%22A_bunch_of_dwarves%22_by_%3ACategory%3AImages_by_Alarie> ;
+    tg:distinctions "Stocky; bearded; never bald; especially hardy and loyal; notoriously stubborn"@en ;
+    tg:hair "Blond, brown, black, blue<ref>{{cite DTP|H 01.026}}</ref>, red, and (when older) grey or white{{fact}}"@en ;
+    tg:height "At least 4 feet (1.22 m)<ref>{{NM|P2vi}}, ''Heights'', p. 195</ref>"@en ;
+    tg:image "Alarie - A bunch of dwarves.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%3Cbr_/%3EWestron%3Cbr_/%3ESindarin%3Cref_name%3D%22S10%22%3E%7B%7BS> ;
+    tg:lifespan <http://localhost:8000/resource/%27%27%23Lifespan> ;
+    tg:location <http://localhost:8000/resource/Khazad-d%C3%BBm%3Cbr_/%3EBelegost%3Cbr_/%3ENogrod%3Cbr_/%3EAmon_R%C3%BBdh%3Cbr_/%3ENulukkizd%C3%AEn%3Cbr_/%3EErebor%3Cbr_/%3EIron_Hills%3Cbr_/%3EAglarond%3Cbr_/%3EGrey_Mountains_%28incl._D%C3%A1in%27s_hall%29%3Cbr_/%3EBlue_Mountains_%28incl._Thorin%27s_hall%29%3Cbr_/%3EGundabad%3Cbr_/%3ERh%C3%BBn_%28possibly_the_Orocarni%29> ;
+    tg:members <http://localhost:8000/resource/Durin%2C_Gimli%2C_Thorin%2C_D%C3%A1in_Ironfoot%2C_Azagh%C3%A2l%2C_M%C3%AEm%2C_Balin> ;
+    tg:name "Dwarves"@en ;
+    tg:origin <http://localhost:8000/resource/Descended_from_the_seven_Fathers_of_the_Dwarves_created_by_Aul%C3%AB> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Khaz%C3%A2d%27%27_%28Khuzdul> ;
+    tg:people <http://localhost:8000/resource/%27%27%27Clans%3A%27%27%27%3Cbr/%3ELongbeards%2C_Firebeards%2C_Broadbeams%2C_Ironfists%2C_Stiffbeards%2C_Blacklocks%2C_Stonefoots%3Cbr/%3E%27%27%27Cultures%3A%3Cbr%3E%27%27%27Dwarves_of_Belegost%2C_Dwarves_of_Erebor%2C_Dwarves_of_Khazad-d%C3%BBm%2C_Dwarves_of_the_Grey_Mountains%2C_Dwarves_of_Nogrod%2C_Dwarves_of_the_Blue_Mountains%2C_Dwarves_of_the_Iron_Hills%2C_Petty-dwarves> ;
+    tg:rivalry <http://localhost:8000/resource/Elves%3Cbr_/%3EDragons%3Cbr_/%3EOrcs> ;
+    tg:weapons "Often axes, swords, bows, mattocks"@en .
+
+<http://localhost:8000/resource/Eagles> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Manw%C3%AB> ;
+    tg:caption <http://localhost:8000/resource/%22Bilbo_woke_with_the_early_sun_in_his_eyes%22_by_J.R.R._Tolkien> ;
+    tg:image "J.R.R. Tolkien - Bilbo woke with the early sun in his eyes.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Sindarin%2C_Westron> ;
+    tg:lifespan "Unknown, but obviously very longeval<ref name=P1>{{WJ|P1}} p. 68</ref><ref group=note>Since Gwaihir and Landroval were said to have helped Thorondor in the escape of Beren and Lúthien ({{FA|466}}) and they were both alive at the time of the War of the Ring ({{TA|3019}}) that would make them at least 6,584 years old.</ref>"@en ;
+    tg:location <http://localhost:8000/resource/Taniquetil%3Cbr/%3ECrissaegrim%3Cbr/%3EMeneltarma%3Cbr/%3EEagle%27s_Eyrie> ;
+    tg:members <http://localhost:8000/resource/Thorondor%2C_Great_Eagle%2C_Gwaihir%2C_Landroval%2C_Meneldor%2C_Witnesses_of_Manw%C3%AB> ;
+    tg:name "Eagles"@en ;
+    tg:origin <http://localhost:8000/resource/Unknown_%28see_Eagles%23Origin_and_nature> .
+
+<http://localhost:8000/resource/Elves> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Vanyar%22_by_%3ACategory%3AImages_by_Janka_Late%C4%8Dkov%C3%A1> ;
+    tg:hair "Black, brown, blond, red, and silver"@en ;
+    tg:height "Tall"@en ;
+    tg:image "Janka Latečková - Vanyar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Various_Elvish_languages%2C_most_notably_Quenya_and_Sindarin%3B_Westron> ;
+    tg:lifespan <http://localhost:8000/resource/Arda%27s_existence%3B_near_immortality> ;
+    tg:location <http://localhost:8000/resource/Cuivi%C3%A9nen%2C_Tirion%2C_Taniquetil%2C_Formenos%2C_Alqualond%C3%AB%2C_Tol_Eress%C3%ABa%2C_Doriath%2C_Falas%2C_Hithlum%2C_Ossiriand%2C_Vinyamar%2C_Nargothrond%2C_Gondolin%2C_Edhellond%2C_Mouths_of_Sirion%2C_Isle_of_Balar%2C_Lindon%2C_Eldalond%C3%AB%2C_Eregion%2C_Lothl%C3%B3rien%2C_Rivendell%2C_Mirkwood%2C_Ithilien> ;
+    tg:members <http://localhost:8000/resource/Ingw%C3%AB%2C_Thingol%2C_Finw%C3%AB%2C_F%C3%ABanor%2C_Fingolfin%2C_Gil-galad%2C_Galadriel%2C_Finrod%2C_Sons_of_F%C3%ABanor%2C_L%C3%BAthien%2C_Fingon%2C_Turgon%2C_Idril%2C_Maeglin%2C_C%C3%ADrdan%2C_Celeborn%2C_Celebrimbor> ;
+    tg:name "Elves"@en ;
+    tg:origin <http://localhost:8000/resource/Firstborn_of_the_Children_of_Il%C3%BAvatar> ;
+    tg:othernames "People of the Stars, Firstborn, Elder Children of Ilúvatar"@en ;
+    tg:people <http://localhost:8000/resource/Vanyar%2C_Noldor%2C_Teleri%2C_Sindar%2C_Nandor%2C_Silvan_Elves> ;
+    tg:rivalry <http://localhost:8000/resource/Orcs%2C_Dwarves> ;
+    tg:skin "Pale, occasionally ruddy"@en ;
+    tg:weapons "Typically swords and bows"@en .
+
+<http://localhost:8000/resource/Fell_beasts> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Nazg%C3%BBl> ;
+    tg:caption <http://localhost:8000/resource/%22Nazgul%22_by_John_Howe> ;
+    tg:distinctions "A long neck and vast pinions"@en ;
+    tg:hair "None"@en ;
+    tg:image "John Howe - Nazgul 01.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:lifespan <http://localhost:8000/resource/%22Older_world%22_-_Third_Age> ;
+    tg:location <http://localhost:8000/resource/Mordor> ;
+    tg:name "Fell beasts"@en ;
+    tg:othernames "Nazgûl-birds, Black Wings, hell-hawks"@en ;
+    tg:skin "Webbed and plain"@en ;
+    tg:weapons "Horned fingers, claws, and a beak"@en .
+
+<http://localhost:8000/resource/Giants> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Giants%22_by_Angus_McBride> ;
+    tg:height "Large"@en ;
+    tg:image "Angus McBride - Giants.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/%27%27Possibly%27%27_Westron> ;
+    tg:location <http://localhost:8000/resource/Misty_Mountains%3Cref_name%3D%22Hill%22/%3E%3Cbr_/%3E%27%27Possibly%27%27_White_Mountains%3Cref%3EJ.R.R._Tolkien%2C_%27%27Guide_to_the_Names_in_The_Lord_of_the_Rings> ;
+    tg:members <http://localhost:8000/resource/%27%27Possibly%27%27_Tarlang%3Cref_name%3D%22Tarlang%22/%3E> ;
+    tg:name "Giants"@en ;
+    tg:othernames "''stone-giants''<ref name=\"Queer\"/>"@en .
+
+<http://localhost:8000/resource/Gongs> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/%C3%9Avanimor> ;
+    tg:distinctions <http://localhost:8000/resource/Evil_footsoldiers_of_the_Dark_Lord> ;
+    tg:height "Bent back<!--Don't want to remove as it is worth mentioning under physical descriptions but this isn't exactly a very helpful height descriptor-->"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Melkian> ;
+    tg:lifespan "Unknown"@en ;
+    tg:location <http://localhost:8000/resource/Angband> ;
+    tg:name "Gongs"@en ;
+    tg:origin <http://localhost:8000/resource/Created_by_Morgoth> ;
+    tg:othernames "False-fairies, Goblins, Kaukareldar"@en ;
+    tg:rivalry <http://localhost:8000/resource/Elves%2C_Gnomes%2C_Men> .
+
+<http://localhost:8000/resource/Half-orcs> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Saruman> ;
+    tg:caption <http://localhost:8000/resource/%22Greater_Half-orcs%22_by_Steve_Otis> ;
+    tg:distinctions <http://localhost:8000/resource/Orc> ;
+    tg:hair "Dark hair<ref name=desc/>"@en ;
+    tg:height <http://localhost:8000/resource/Men> ;
+    tg:image "Steve Otis - Greater Half-orcs.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:location <http://localhost:8000/resource/Dunland%2C_Isengard> ;
+    tg:name "Half-orcs"@en ;
+    tg:skin <http://localhost:8000/resource/Wiktionary%3ASallow> .
+
+<http://localhost:8000/resource/Hill-trolls> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Hill_Troll%27%27_by_John_Howe> ;
+    tg:height <http://localhost:8000/resource/Taller_than_men> ;
+    tg:image "John Howe - Hill Troll.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:name "Hill-trolls"@en ;
+    tg:weapons "Hammers"@en .
+
+<http://localhost:8000/resource/Horses> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Valar%2C_Rohan> ;
+    tg:caption "''Wild Horses'' by Pamela Shanteau"@en ;
+    tg:gallery "horses"@en ;
+    tg:image "Pamela Shanteau - Wild Horses.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:location <http://localhost:8000/resource/Aman%2C_Middle-earth> ;
+    tg:members <http://localhost:8000/resource/Arod%2C_Arroch%2C_Asfaloth%2C_Felar%C3%B3f%2C_Firefoot%2C_Hasufel%2C_Lightfoot%2C_Nahar%2C_Rochallor%2C_Roheryn%2C_Shadowfax%2C_Snowmane%2C_Windfola> ;
+    tg:name "Horses"@en ;
+    tg:othernames "''Roch''"@en .
+
+<http://localhost:8000/resource/Huorns> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Ents> ;
+    tg:caption <http://localhost:8000/resource/%22Huorn%22_by_%3ACategory%3AImages_by_Gail_McIntosh> ;
+    tg:distinctions "Semi-sapient, tree-like creatures"@en ;
+    tg:image "Gail McIntosh - Huorn.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:location <http://localhost:8000/resource/Fangorn_Forest> ;
+    tg:name "Huorns"@en ;
+    tg:origin <http://localhost:8000/resource/Trees_and_Ents> .
+
+<http://localhost:8000/resource/Mermaids> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Nenseld%C3%AB_the_Wingild_in_Middle-earth_Collectible_Card_Game> ;
+    tg:hair "\"blossom-white hair\""@en ;
+    tg:image "Ted Nasmith - Nenseldë the Wingild.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:lifespan "Immortal"@en ;
+    tg:members <http://localhost:8000/resource/Uinen> ;
+    tg:name "Mermaids"@en ;
+    tg:othernames "''water spirits'', ''foam-maidens'', ''foam-fays'', ''foam-riders'', ''nymphs''"@en ;
+    tg:people "''Oarni'', ''Falmaríni'', ''Wingildi'', ''Nindari''"@en .
+
+<http://localhost:8000/resource/Ogres> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:caption <http://localhost:8000/resource/%22Ogre%22_by_The_Brothers_Hildebrandt> ;
+    tg:height "Large"@en ;
+    tg:image "The Brothers Hildebrandt - Ogre.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:members <http://localhost:8000/resource/Fluithuin> ;
+    tg:name "Ogres"@en ;
+    tg:people "''Hongwir'', ''Sarqindi''"@en .
+
+<http://localhost:8000/resource/Spiders> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Ungoliant> ;
+    tg:caption <http://localhost:8000/resource/%22Spiders_of_Mirkwood%22_by_John_Howe> ;
+    tg:gallery "spiders"@en ;
+    tg:image "John Howe - Spiders of Mirkwood.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/Avathar%2C_Ered_Gorgoroth%2C_Nan_Dungortheb%2C_Torech_Ungol%2C_Ephel_D%C3%BAath%2C_Eastern_hills%2C_Dol_Guldur%2C_and_Mirkwood> ;
+    tg:members <http://localhost:8000/resource/%22%27%27Miserable_mates%27%27%22_and_Shelob> ;
+    tg:name "Spiders"@en ;
+    tg:people "\"''Lesser broods''\" and \"''spiders of Nan Dungortheb''\""@en ;
+    tg:skin "Black or grey"@en .
+
+<http://localhost:8000/resource/Sprites> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Lindion%22_by_%3ACategory%3AImages_by_Ron_Miller> ;
+    tg:image "Ron Miller - Lindion.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location "meads, woods, valleys, mountains"@en ;
+    tg:members <http://localhost:8000/resource/Sacha%2C_Tethil%2C_Tinfang> ;
+    tg:name "Sprites"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27fays%27%27%2C_%27%27brownies%27%27%2C_%27%27pixies%27%27%2C_%27%27leprawns%27%27> ;
+    tg:people "''Nermir'', ''Tavari'', ''Nandini'', ''Orossi''"@en .
+
+<http://localhost:8000/resource/Sylphs> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Manw%C3%AB> ;
+    tg:caption <http://localhost:8000/resource/%22Sylph_dancing_in_the_evening_sky%22_by_Jenny_Dolfen> ;
+    tg:image "Jenny Dolfen - Sylph dancing up in the evening sky.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:lifespan "Immortal"@en ;
+    tg:members <http://localhost:8000/resource/Ilinsor> ;
+    tg:name "Sylphs"@en ;
+    tg:othernames "''air-spirits''"@en ;
+    tg:people "''Mánir'', ''Súruli''"@en .
+
+<http://localhost:8000/resource/Thrushes> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22When_the_Thrush_Knocks%22_by_Ted_Nasmith> ;
+    tg:gallery "thrushes"@en ;
+    tg:image "Ted Nasmith - When the Thrush Knocks (II).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Thrush-language> ;
+    tg:location <http://localhost:8000/resource/Dale%3Cbr%3ELake-town%3Cbr%3ELonely_Mountain> ;
+    tg:members <http://localhost:8000/resource/Old_thrush> ;
+    tg:name "Thrushes"@en .
+
+<http://localhost:8000/resource/Vampires> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth%2C_Sauron> ;
+    tg:caption <http://localhost:8000/resource/%22Vampire%22_by_Liz_Danforth> ;
+    tg:distinctions "bat-like creatues"@en ;
+    tg:image "Liz Danforth - Vampire.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:location <http://localhost:8000/resource/Tol-in-Gaurhoth> ;
+    tg:members <http://localhost:8000/resource/Thuringwethil> ;
+    tg:name "Vampires"@en .
+
+<http://localhost:8000/resource/Wargs> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Sauron%2C_Orcs> ;
+    tg:caption <http://localhost:8000/resource/%22Wargs%22_by_John_Howe> ;
+    tg:image "John Howe - Wargs.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:location <http://localhost:8000/resource/Anduin_Vale%2C_Misty_Mountains> ;
+    tg:name "Wargs"@en ;
+    tg:othernames "Wild Wolves"@en .
+
+<http://localhost:8000/resource/Werewolves> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth%2C_Sauron> ;
+    tg:caption <http://localhost:8000/resource/Werewolf_from_%27%27The_Lord_of_the_Rings%3A_The_White_Council%27%27> ;
+    tg:image "The White Council - Werewolf.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:location <http://localhost:8000/resource/Angband%2C_Tol-in-Gaurhoth> ;
+    tg:members <http://localhost:8000/resource/Carcharoth%2C_Draugluin> ;
+    tg:name "Werewolves"@en ;
+    tg:rivalry <http://localhost:8000/resource/Elves%2C_Dogs> .
+
+<http://localhost:8000/resource/Men> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Felagund_Among_B%C3%ABor%27s_Men%22_by_Ted_Nasmith> ;
+    tg:distinctions <http://localhost:8000/resource/Gift_of_Men> ;
+    tg:hair "Black, brown, chestnut, blond, auburn, red, and (when older) grey or white"@en ;
+    tg:height <http://localhost:8000/resource/D%C3%BAnedain_-_6%274%22_%28average%29%3Cref_name%3DGaladriel%3E%7B%7BUT> ;
+    tg:image "Ted Nasmith - Felagund Among Bëor’s Men.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Taliska%2C_Ad%C3%BBnaic%2C_Sindarin%2C_Rohanese%2C_Westron%2C_Quenya> ;
+    tg:lifespan <http://localhost:8000/resource/Original_Men_before_the_Tale_of_Adanel> ;
+    tg:location <http://localhost:8000/resource/Hild%C3%B3rien%2C_Beleriand%2C_N%C3%BAmenor%2C_Gondor%2C_Arnor%2C_Rohan%2C_Dunland%2C_Harad%2C_Khand%2C_Forochel%2C_Rh%C3%BBn%2C_Rhovanion> ;
+    tg:members <http://localhost:8000/resource/B%C3%ABor%2C_Hador%2C_Barahir%2C_Beren%2C_H%C3%BArin%2C_Morwen%2C_T%C3%BArin%2C_Ni%C3%ABnor%2C_Tuor%2C_Elros%2C_Ar-Pharaz%C3%B4n%2C_Elendil%2C_Isildur%2C_Bard%2C_Denethor%2C_Boromir%2C_Faramir%2C_Th%C3%A9oden%2C_%C3%89omer%2C_%C3%89owyn%2C_Aragorn> ;
+    tg:name "Men"@en ;
+    tg:origin <http://localhost:8000/resource/Children_of_Il%C3%BAvatar> ;
+    tg:othernames "Atani, Secondborn, Hildor, Apanónar"@en ;
+    tg:people <http://localhost:8000/resource/House_of_B%C3%ABor> ;
+    tg:rivalry <http://localhost:8000/resource/Orcs> ;
+    tg:skin "Fair, pale, sallow, ruddy, tan, dark tan, light brown, dark brown, black"@en ;
+    tg:weapons "Swords, knives, bows, axes, spears"@en .
+
+<http://localhost:8000/resource/Nazg%C3%BBl> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Sauron> ;
+    tg:caption <http://localhost:8000/resource/%27%27The_Hunt_for_the_Ring%27%27_by_John_Howe> ;
+    tg:clothing "Black robes"@en ;
+    tg:distinctions "Without physical form"@en ;
+    tg:height "Man-high"@en ;
+    tg:image "John Howe - The Hunt for the Ring.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Black_Speech%2C_Westron> ;
+    tg:lifespan "Indefinite"@en ;
+    tg:location <http://localhost:8000/resource/Mordor%2C_Angmar%2C_Dol_Guldur%2C_Minas_Morgul> ;
+    tg:members <http://localhost:8000/resource/Witch-king%2C_Kham%C3%BBl%2C_%22F%22> ;
+    tg:name "Nazgûl"@en ;
+    tg:origin <http://localhost:8000/resource/Men_who_received_the_Nine_Rings%3B_corrupted_by_Sauron> ;
+    tg:othernames <http://localhost:8000/resource/Ringwraiths%2C_the_Black_Riders%2C_the_Nine%2C_%27%27%C3%9Alairi%27%27_%28Quenya> ;
+    tg:weapons <http://localhost:8000/resource/Morgul-knife> .
+
+<http://localhost:8000/resource/Orcs> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth%2C_Sauron> ;
+    tg:caption <http://localhost:8000/resource/%22In_Mordor%22_by_John_Howe> ;
+    tg:distinctions <http://localhost:8000/resource/Evil_footsoldiers_of_the_Dark_Lord> ;
+    tg:height "Short<ref>{{FR|II5}} The \"huge\" orc-chieftain is described as \"almost man high\"</ref>"@en ;
+    tg:image "John Howe - In Mordor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Black_Speech%3B_numerous_Orkish_languages%3B_corrupted_Westron> ;
+    tg:lifespan <http://localhost:8000/resource/Compared_to_Men_without_a_N%C3%BAmen%C3%B3reans> ;
+    tg:location <http://localhost:8000/resource/Utumno%2C_Angband%2C_Mordor%2C_Misty_Mountains%2C__Angmar%2C_Mount_Gundabad%2C_High_Pass%2C_Dol_Guldur%2C_Isengard%2C_Rh%C3%BBn> ;
+    tg:members <http://localhost:8000/resource/Othrod%2C_Azog%2C_Bolg%2C_Gorbag%2C_Great_Goblin%2C_Grishn%C3%A1kh> ;
+    tg:name "Orcs"@en ;
+    tg:origin <http://localhost:8000/resource/Disputed%3B_%27%27see_Orcs/Origin%27%27> ;
+    tg:othernames <http://localhost:8000/resource/Goblins%2C_Stonefaces%2C%3Cref_name%3Dmonstersnote%3E%7B%7BMC> ;
+    tg:people <http://localhost:8000/resource/Uruk-hai%2C_Goblin-men%2C_Half-orcs%2C_Hobgoblins%2C_Orcs_of_the_Misty_Mountains> ;
+    tg:rivalry <http://localhost:8000/resource/Free_peoples> ;
+    tg:skin "Sallow,<ref name=\"L|210\">{{L|210}}</ref> black<ref>{{RK|Shadow}}</ref>"@en .
+
+<http://localhost:8000/resource/Trolls> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Originally_Morgoth%3B_later_Sauron> ;
+    tg:caption <http://localhost:8000/resource/%22The_Three_Trolls_are_turned_to_Stone%22_by_J.R.R._Tolkien_%28coloured_by_H.E._Riddett%29> ;
+    tg:distinctions "Strong beasts with limited intellect"@en ;
+    tg:height "Large; some being at least twelve feet tall (3.66 meters and above)<ref name=feet/>"@en ;
+    tg:image "J.R.R. Tolkien - The Three Trolls are turned to Stone (Colored by H.E. Riddett).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Black_Speech_%28Olog-hai%29%3Cbr/%3EDebased_form_of_Westron> ;
+    tg:lifespan "Unknown"@en ;
+    tg:location <http://localhost:8000/resource/Beleriand%3Cbr/%3ESouthern_Mirkwood%3Cbr/%3EMordor%3Cbr/%3EEttenmoors%3Cbr/%3ETrollshaws%3Cbr/%3EMoria> ;
+    tg:members <http://localhost:8000/resource/William_Huggins%3Cbr/%3ETom%3Cbr/%3EBert> ;
+    tg:name "Trolls"@en ;
+    tg:origin <http://localhost:8000/resource/Devised_or_corrupted_by_Morgoth_in_the_First_Age_%28believed_by_Treebeard_to_be_%22made_in_mockery%22_of_Ents%29> ;
+    tg:othernames <http://localhost:8000/resource/%27%27torog%27%27_%28Sindarin> ;
+    tg:people <http://localhost:8000/resource/%27%27%23Types_of_Trolls> ;
+    tg:rivalry <http://localhost:8000/resource/Ents> ;
+    tg:skin "Dark, with greenish scales"@en .
+
+<http://localhost:8000/resource/Ents> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Ents%22_by_John_Howe> ;
+    tg:distinctions "Tree-like appearance"@en ;
+    tg:height "Very tall; several yards/meters"@en ;
+    tg:image "John Howe - Ents.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/race_infobox> ;
+    tg:language <http://localhost:8000/resource/Entish%2C_Elvish%2C_Westron> ;
+    tg:lifespan "Unknown, but obviously very longeval"@en ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_East_Beleriand%2C_Fangorn_Forest%2C_Treegarth_of_Orthanc> ;
+    tg:members <http://localhost:8000/resource/Treebeard%2C_Quickbeam%2C_Leaflock%2C%3Cref_name%3Dtt474%3E%7B%7BTT> ;
+    tg:name "Ents"@en ;
+    tg:origin <http://localhost:8000/resource/Created_by_Il%C3%BAvatar_at_Yavanna%27s_request> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Onodrim%27%27_%28Sindarin> ;
+    tg:rivalry <http://localhost:8000/resource/Trolls> ;
+    tg:skin "Earthy colors"@en .
+

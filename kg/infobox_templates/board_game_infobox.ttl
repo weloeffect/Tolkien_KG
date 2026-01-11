@@ -1,0 +1,598 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Adventures_in_Middle-earth> a schema:WebPage ;
+    rdfs:label "Adventures in Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/Adventures_in_Middle-earth> .
+
+<http://localhost:8000/page/Battle_of_the_Five_Armies_%28board_game%29> a schema:WebPage ;
+    rdfs:label "Battle of the Five Armies (board game)"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Five_Armies_%28board_game%29> .
+
+<http://localhost:8000/page/Dungeons_and_Dragons> a schema:WebPage ;
+    rdfs:label "Dungeons and Dragons"@en ;
+    schema:about <http://localhost:8000/resource/Dungeons_and_Dragons> .
+
+<http://localhost:8000/page/Hunt_for_the_Ring_%282017_board_game%29> a schema:WebPage ;
+    rdfs:label "Hunt for the Ring (2017 board game)"@en ;
+    schema:about <http://localhost:8000/resource/Hunt_for_the_Ring_%282017_board_game%29> .
+
+<http://localhost:8000/page/J.R.R._Tolkien%27s_Lord_of_the_Rings> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien's Lord of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien%27s_Lord_of_the_Rings> .
+
+<http://localhost:8000/page/Lord_of_the_Rings%3A_The_Confrontation> a schema:WebPage ;
+    rdfs:label "Lord of the Rings: The Confrontation"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Rings%3A_The_Confrontation> .
+
+<http://localhost:8000/page/Lord_of_the_Rings%3A_The_Duel_%28board_game%29> a schema:WebPage ;
+    rdfs:label "Lord of the Rings: The Duel (board game)"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Rings%3A_The_Duel_%28board_game%29> .
+
+<http://localhost:8000/page/Lord_of_the_Rings_%28board_game%29> a schema:WebPage ;
+    rdfs:label "Lord of the Rings (board game)"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Rings_%28board_game%29> .
+
+<http://localhost:8000/page/Lord_of_the_Rings_Adventure_Game> a schema:WebPage ;
+    rdfs:label "Lord of the Rings Adventure Game"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Rings_Adventure_Game> .
+
+<http://localhost:8000/page/Lord_of_the_Rings_Trivia_Game> a schema:WebPage ;
+    rdfs:label "Lord of the Rings Trivia Game"@en ;
+    schema:about <http://localhost:8000/resource/Lord_of_the_Rings_Trivia_Game> .
+
+<http://localhost:8000/page/Magic%3A_The_Gathering> a schema:WebPage ;
+    rdfs:label "Magic: The Gathering"@en ;
+    schema:about <http://localhost:8000/resource/Magic%3A_The_Gathering> .
+
+<http://localhost:8000/page/Magic%3A_The_Gathering_-_The_Hobbit> a schema:WebPage ;
+    rdfs:label "Magic: The Gathering - The Hobbit"@en ;
+    schema:about <http://localhost:8000/resource/Magic%3A_The_Gathering_-_The_Hobbit> .
+
+<http://localhost:8000/page/Middle-earth_Collectible_Card_Game> a schema:WebPage ;
+    rdfs:label "Middle-earth Collectible Card Game"@en ;
+    schema:about <http://localhost:8000/resource/Middle-earth_Collectible_Card_Game> .
+
+<http://localhost:8000/page/Middle-earth_Role_Playing> a schema:WebPage ;
+    rdfs:label "Middle-earth Role Playing"@en ;
+    schema:about <http://localhost:8000/resource/Middle-earth_Role_Playing> .
+
+<http://localhost:8000/page/Middle-earth_Strategy_Battle_Game> a schema:WebPage ;
+    rdfs:label "Middle-earth Strategy Battle Game"@en ;
+    schema:about <http://localhost:8000/resource/Middle-earth_Strategy_Battle_Game> .
+
+<http://localhost:8000/page/Riddle_of_the_Ring> a schema:WebPage ;
+    rdfs:label "Riddle of the Ring"@en ;
+    schema:about <http://localhost:8000/resource/Riddle_of_the_Ring> .
+
+<http://localhost:8000/page/Risk%3A_The_Lord_of_the_Rings%3A_Gondor_and_Mordor> a schema:WebPage ;
+    rdfs:label "Risk: The Lord of the Rings: Gondor and Mordor"@en ;
+    schema:about <http://localhost:8000/resource/Risk%3A_The_Lord_of_the_Rings%3A_Gondor_and_Mordor> .
+
+<http://localhost:8000/page/Risk%3A_The_Lord_of_the_Rings%3A_The_Middle-earth_Conquest_Game> a schema:WebPage ;
+    rdfs:label "Risk: The Lord of the Rings: The Middle-earth Conquest Game"@en ;
+    schema:about <http://localhost:8000/resource/Risk%3A_The_Lord_of_the_Rings%3A_The_Middle-earth_Conquest_Game> .
+
+<http://localhost:8000/page/Risk%3A_The_Lord_of_the_Rings_Trilogy_Edition> a schema:WebPage ;
+    rdfs:label "Risk: The Lord of the Rings Trilogy Edition"@en ;
+    schema:about <http://localhost:8000/resource/Risk%3A_The_Lord_of_the_Rings_Trilogy_Edition> .
+
+<http://localhost:8000/page/The_Battle_of_Five_Armies_%281984_board_game%29> a schema:WebPage ;
+    rdfs:label "The Battle of Five Armies (1984 board game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Battle_of_Five_Armies_%281984_board_game%29> .
+
+<http://localhost:8000/page/The_Battle_of_Five_Armies_%282005_board_game%29> a schema:WebPage ;
+    rdfs:label "The Battle of Five Armies (2005 board game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Battle_of_Five_Armies_%282005_board_game%29> .
+
+<http://localhost:8000/page/The_Battle_of_Five_Armies_%282014_board_game%29> a schema:WebPage ;
+    rdfs:label "The Battle of Five Armies (2014 board game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Battle_of_Five_Armies_%282014_board_game%29> .
+
+<http://localhost:8000/page/The_Fellowship_of_the_Ring_%28board_game%29> a schema:WebPage ;
+    rdfs:label "The Fellowship of the Ring (board game)"@en ;
+    schema:about <http://localhost:8000/resource/The_Fellowship_of_the_Ring_%28board_game%29> .
+
+<http://localhost:8000/page/The_Hobbit_Adventure_Boardgame> a schema:WebPage ;
+    rdfs:label "The Hobbit Adventure Boardgame"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_Adventure_Boardgame> .
+
+<http://localhost:8000/page/The_Lonely_Mountain> a schema:WebPage ;
+    rdfs:label "The Lonely Mountain"@en ;
+    schema:about <http://localhost:8000/resource/The_Lonely_Mountain> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Adventure_to_Mount_Doom> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Adventure to Mount Doom"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Adventure_to_Mount_Doom> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Duel_for_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Duel for Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Duel_for_Middle-earth> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Fate_of_the_Fellowship> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Fate of the Fellowship"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Fate_of_the_Fellowship> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Journeys_in_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Journeys in Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Journeys_in_Middle-earth> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_Tales_of_Middle-earth> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: Tales of Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Tales_of_Middle-earth> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Card_Game> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Card Game"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Card_Game> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_%E2%80%93_Trick-Taking_Game> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_%E2%80%93_Trick-Taking_Game> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings%3A_The_Two_Towers%3A_The_Set_of_Four_Games> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings: The Two Towers: The Set of Four Games"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers%3A_The_Set_of_Four_Games> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Adventure_Book_Game> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Adventure Book Game"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Adventure_Book_Game> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Roleplaying> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Roleplaying"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Roleplaying> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Roleplaying_Game> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Roleplaying Game"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Roleplaying_Game> .
+
+<http://localhost:8000/page/The_Lord_of_the_Rings_Trading_Card_Game> a schema:WebPage ;
+    rdfs:label "The Lord of the Rings Trading Card Game"@en ;
+    schema:about <http://localhost:8000/resource/The_Lord_of_the_Rings_Trading_Card_Game> .
+
+<http://localhost:8000/page/The_One_Ring_%28role-playing_game%29> a schema:WebPage ;
+    rdfs:label "The One Ring (role-playing game)"@en ;
+    schema:about <http://localhost:8000/resource/The_One_Ring_%28role-playing_game%29> .
+
+<http://localhost:8000/page/The_Siege_of_Minas_Tirith> a schema:WebPage ;
+    rdfs:label "The Siege of Minas Tirith"@en ;
+    schema:about <http://localhost:8000/resource/The_Siege_of_Minas_Tirith> .
+
+<http://localhost:8000/page/War_of_the_Ring%3A_Second_Edition_%282011_board_game%29> a schema:WebPage ;
+    rdfs:label "War of the Ring: Second Edition (2011 board game)"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Ring%3A_Second_Edition_%282011_board_game%29> .
+
+<http://localhost:8000/page/War_of_the_Ring%3A_The_Card_Game> a schema:WebPage ;
+    rdfs:label "War of the Ring: The Card Game"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Ring%3A_The_Card_Game> .
+
+<http://localhost:8000/page/War_of_the_Ring_%281977_board_game%29> a schema:WebPage ;
+    rdfs:label "War of the Ring (1977 board game)"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Ring_%281977_board_game%29> .
+
+<http://localhost:8000/page/War_of_the_Ring_%282004_board_game%29> a schema:WebPage ;
+    rdfs:label "War of the Ring (2004 board game)"@en ;
+    schema:about <http://localhost:8000/resource/War_of_the_Ring_%282004_board_game%29> .
+
+<http://localhost:8000/resource/Adventures_in_Middle-earth> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Adventures in Middle-earth"@en ;
+    tg:publisher <http://localhost:8000/resource/Cubicle_7_Entertainment> ;
+    tg:releasedate <http://localhost:8000/resource/2016> ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/Battle_of_the_Five_Armies_%28board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Larry Smith"@en ;
+    tg:image "Battle of the Five Armies (1975 board game).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Battle of the Five Armies"@en ;
+    tg:players "2-5"@en ;
+    tg:publisher <http://localhost:8000/resource/LORE/JMJ_Enterprises_%281st_ed.%29%3B_TSR_%282nd_%26_3rd_ed.%29> ;
+    tg:releasedate <http://localhost:8000/resource/1975_%281st_ed.%29%3B_1976_%282nd_ed.%29%3B_1977_%283rd_ed.%29> .
+
+<http://localhost:8000/resource/Dungeons_and_Dragons> a schema:Thing ;
+    tg:designer "Gary Gygax, Dave Arneson"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Dungeons & Dragons"@en ;
+    tg:publisher <http://localhost:8000/resource/TSR_%28before_1997%29%2C_Wizards_of_the_Coast_%28since_1997%29> ;
+    tg:releasedate <http://localhost:8000/resource/1974> ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/Hunt_for_the_Ring_%282017_board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Marco Maggi, Gabriele Mari, Francesco Nepitello"@en ;
+    tg:image "HftR BoardGame 2017.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Hunt for the Ring"@en ;
+    tg:players "2-5"@en ;
+    tg:publisher <http://localhost:8000/resource/ARES_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2017> .
+
+<http://localhost:8000/resource/J.R.R._Tolkien%27s_Lord_of_the_Rings> a schema:Thing ;
+    tg:ages "6+"@en ;
+    tg:designer <http://localhost:8000/resource/Reiner_Knizia> ;
+    tg:image "J.R.R. Tolkien's Lord of the Rings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "J.R.R. Tolkien's Lord of the Rings"@en ;
+    tg:players "2-5"@en ;
+    tg:publisher <http://localhost:8000/resource/Sophisticated_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2003> .
+
+<http://localhost:8000/resource/Lord_of_the_Rings%3A_The_Confrontation> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Reiner Knizia, Eric M. Lang, Christian T. Petersen"@en ;
+    tg:image "LotR TheConfrontation BoardGame.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Lord of the Rings: The Confrontation"@en ;
+    tg:players "2"@en ;
+    tg:publisher <http://localhost:8000/resource/Fantasy_Flight_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2013> .
+
+<http://localhost:8000/resource/Lord_of_the_Rings%3A_The_Duel_%28board_game%29> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Peter Neugebauer"@en ;
+    tg:image "Lord of the Rings The Duel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Lord of the Rings: The Duel"@en ;
+    tg:players "2"@en ;
+    tg:publisher <http://localhost:8000/resource/Sophisticated_Games_%28developer%29> ;
+    tg:releasedate <http://localhost:8000/resource/2002> .
+
+<http://localhost:8000/resource/Lord_of_the_Rings_%28board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Reiner Knizia"@en ;
+    tg:image "Lord of the Rings board game.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Lord of the Rings"@en ;
+    tg:players "2-5"@en ;
+    tg:publisher <http://localhost:8000/resource/Sophisticated_Games_%28developer%29> ;
+    tg:releasedate <http://localhost:8000/resource/2000> .
+
+<http://localhost:8000/resource/Lord_of_the_Rings_Adventure_Game> a schema:Thing ;
+    tg:designer <http://localhost:8000/resource/Jessica_M._Ney_and_Pete_Fenlon> ;
+    tg:image "ice_lotr.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Lord of the Rings Adventure Game"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1991> ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/Lord_of_the_Rings_Trivia_Game> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Christian T. Petersen"@en ;
+    tg:image "Lord of the Rings Trivia Game.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Lord of the Rings Trivia Game"@en ;
+    tg:players "2−4"@en ;
+    tg:publisher <http://localhost:8000/resource/Sophisticated_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2003> .
+
+<http://localhost:8000/resource/Magic%3A_The_Gathering> a schema:Thing ;
+    tg:caption "Card back of Magic: The Gathering"@en ;
+    tg:image "Magic the Gathering Card Back.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Magic: The Gathering"@en ;
+    tg:publisher <http://localhost:8000/resource/Wizards_of_the_Coast> ;
+    tg:releasedate <http://localhost:8000/resource/1993> ;
+    tg:type "ccg"@en .
+
+<http://localhost:8000/resource/Magic%3A_The_Gathering_-_The_Hobbit> a schema:Thing ;
+    tg:image "Magic_The_Gathering_The_Hobbit.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Magic: The Gathering &#124; The Hobbit"@en ;
+    tg:publisher <http://localhost:8000/resource/Wizards_of_the_Coast> ;
+    tg:releasedate <http://localhost:8000/resource/August_2026> ;
+    tg:type "ccg"@en .
+
+<http://localhost:8000/resource/Middle-earth_Collectible_Card_Game> a schema:Thing ;
+    tg:designer "Coleman Charlton, Mike Reynolds"@en ;
+    tg:image "meccg.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Middle-earth Collectible Card Game"@en ;
+    tg:players "1-5"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1995> ;
+    tg:type "ccg"@en .
+
+<http://localhost:8000/resource/Middle-earth_Role_Playing> a schema:Thing ;
+    tg:caption "2nd edition logotype"@en ;
+    tg:designer <http://localhost:8000/resource/Coleman_Charlton> ;
+    tg:image "merp_logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Middle-earth Role Playing"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate "1984"@en ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/Middle-earth_Strategy_Battle_Game> a schema:Thing ;
+    tg:image "Middle Earth Strategy Battle Game logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Middle-earth Strategy Battle Game"@en ;
+    tg:players "Two or more"@en ;
+    tg:publisher <http://localhost:8000/resource/Games_Workshop> ;
+    tg:releasedate <http://localhost:8000/resource/2001> ;
+    tg:type "wargame"@en .
+
+<http://localhost:8000/resource/Riddle_of_the_Ring> a schema:Thing ;
+    tg:ages "13+"@en ;
+    tg:contributor <http://localhost:8000/resource/John_David_Ruemmler%2C_Kurt_H._Fischer%2C_and_Coleman_Charlton_%28production%29%3Cbr%3ERichard_H._Britton_%28cover_graphics%29> ;
+    tg:designer "John Califf III, William A. Walker"@en ;
+    tg:development <http://localhost:8000/resource/William_A._Walker%2C_John_Califf_III._and_Coleman_Charlton> ;
+    tg:ice "7400"@en ;
+    tg:illustrator <http://localhost:8000/resource/Chris_White_%28cover%29%3Cbr%3EJessica_M._Ney-Grimm> ;
+    tg:image "Riddle of the Ring.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:isbn "0-425-07817-5"@en ;
+    tg:name "Riddle of the Ring"@en ;
+    tg:players "2-8"@en ;
+    tg:publisher <http://localhost:8000/resource/Fellowship_Games_%281st_ed.%29%3B_Iron_Crown_Enterprises_%282nd_ed.%29> ;
+    tg:releasedate <http://localhost:8000/resource/1982_%281st_ed.%29%3B%3Cref_group%3D%22note%22%3E%5Bhttp%3A//www.nobleknight.com/productdetailsearch.asp_Q_ProductID_E_2147386390_A_InventoryID_E_0_Noble_Knight_Games%5D_gives_1983_as_the_year_of_publication.%3C/ref%3E_1985_%282nd_ed.%29> .
+
+<http://localhost:8000/resource/Risk%3A_The_Lord_of_the_Rings%3A_Gondor_and_Mordor> a schema:Thing ;
+    tg:ages "9+"@en ;
+    tg:designer "Stephen Baker, Richard Borg"@en ;
+    tg:image "Risk- The Lord of the Rings- Gondor.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "''Risk: The Lord of the Rings: Gondor & Mordor Expansion Set''"@en ;
+    tg:players "2−4"@en ;
+    tg:publisher "Hasbro"@en ;
+    tg:releasedate <http://localhost:8000/resource/2003> .
+
+<http://localhost:8000/resource/Risk%3A_The_Lord_of_the_Rings%3A_The_Middle-earth_Conquest_Game> a schema:Thing ;
+    tg:ages "9+"@en ;
+    tg:designer "Stephen Baker"@en ;
+    tg:image "Risk The Lord of the Rings The Middle-earth Conquest Game.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "''Risk: The Lord of the Rings: The Middle-earth Conquest Game''"@en ;
+    tg:players "2−4"@en ;
+    tg:publisher "Hasbro"@en ;
+    tg:releasedate <http://localhost:8000/resource/2002> .
+
+<http://localhost:8000/resource/Risk%3A_The_Lord_of_the_Rings_Trilogy_Edition> a schema:Thing ;
+    tg:ages "9+"@en ;
+    tg:designer "Stephen Baker"@en ;
+    tg:image "Risk- The Lord of the Rings Trilogy Edition.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "''Risk: The Lord of the Rings Trilogy Edition''"@en ;
+    tg:players "2−4"@en ;
+    tg:publisher "Hasbro"@en ;
+    tg:releasedate <http://localhost:8000/resource/2003> .
+
+<http://localhost:8000/resource/The_Battle_of_Five_Armies_%281984_board_game%29> a schema:Thing ;
+    tg:ages "13+"@en ;
+    tg:designer <http://localhost:8000/resource/Richard_H._Britton%2C_Coleman_Charlton%2C_and_John_Crowll> ;
+    tg:ice "7200"@en ;
+    tg:image "The Battle of Five Armies (1984 board game).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:isbn "0-425-07811-6"@en ;
+    tg:name "The Battle of Five Armies"@en ;
+    tg:players "2"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1984> .
+
+<http://localhost:8000/resource/The_Battle_of_Five_Armies_%282005_board_game%29> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Rick Priestley"@en ;
+    tg:image "The Battle of Five Armies (2005 board game).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Battle of Five Armies"@en ;
+    tg:players "2+"@en ;
+    tg:publisher <http://localhost:8000/resource/Games_Workshop> ;
+    tg:releasedate <http://localhost:8000/resource/2005> .
+
+<http://localhost:8000/resource/The_Battle_of_Five_Armies_%282014_board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Roberto Di Meglio, Marco Maggi, Francesco Nepitello"@en ;
+    tg:image "BoFA BoardGame 2014.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "Battle of Five Armies"@en ;
+    tg:players "2"@en ;
+    tg:publisher <http://localhost:8000/resource/ARES_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2014> .
+
+<http://localhost:8000/resource/The_Fellowship_of_the_Ring_%28board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer <http://localhost:8000/resource/Bruce_Neidlinger%2C_Coleman_Charlton> ;
+    tg:ice "7100"@en ;
+    tg:illustrator <http://localhost:8000/resource/Charles_Peale%2C_Gail_McIntosh_%28cover%29%2C_Leonard_Cook%2C_Rick_Britton%2C_Terry_Kevin_Amthor> ;
+    tg:image "The Fellowship of the Ring (board game).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:isbn "0425078116"@en ;
+    tg:isbn2 "978-0425078112"@en ;
+    tg:name "The Fellowship of the Ring"@en ;
+    tg:players "2"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1983> .
+
+<http://localhost:8000/resource/The_Hobbit_Adventure_Boardgame> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Jean Vanaise, Philippe Janssens"@en ;
+    tg:development <http://localhost:8000/resource/Bernd_Dietrich%2C_Pete_Fenlon%2C_Jean_Vanaise%2C_Coleman_Charlton> ;
+    tg:ice "2222"@en ;
+    tg:illustrator <http://localhost:8000/resource/Angus_McBride_%28cover%29%3Cbr%3EJo_Hartwig_%28graphic_design_%26_board_art%29> ;
+    tg:image "The Hobbit Adventure Boardgame.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Hobbit Adventure Boardgame"@en ;
+    tg:players "2-4"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1994> .
+
+<http://localhost:8000/resource/The_Lonely_Mountain> a schema:Thing ;
+    tg:ages "13+"@en ;
+    tg:designer <http://localhost:8000/resource/Coleman_Charlton> ;
+    tg:ice "7300"@en ;
+    tg:illustrator <http://localhost:8000/resource/Terry_Kevin_Amthor> ;
+    tg:image "ice_lonely.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:isbn "0-425-07812-4"@en ;
+    tg:name "The Lonely Mountain: Lair of Smaug the Dragon"@en ;
+    tg:players "1-6"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1984> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Adventure_to_Mount_Doom> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Michael Rieneck"@en ;
+    tg:image "LotRAdventureMountDoom.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings: Adventure to Mount Doom"@en ;
+    tg:players "1-4"@en ;
+    tg:publisher "KOSMOS"@en ;
+    tg:releasedate <http://localhost:8000/resource/2023> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Duel_for_Middle-earth> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Antoine Bauza, Bruno Cathala"@en ;
+    tg:image "LotR DfME CardGame 2024.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings: Duel for Middle-earth"@en ;
+    tg:players "2"@en ;
+    tg:publisher <http://localhost:8000/resource/Repos_Production> ;
+    tg:releasedate <http://localhost:8000/resource/2024> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Fate_of_the_Fellowship> a schema:Thing ;
+    tg:ages "14+"@en ;
+    tg:designer "Matt Leacock"@en ;
+    tg:image "Lord_of_the_Rings_Fate_of_the_Fellowship_cover.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings: Fate of the Fellowship"@en ;
+    tg:players "1-5"@en ;
+    tg:publisher <http://localhost:8000/resource/Z-Man_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2025> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Journeys_in_Middle-earth> a schema:Thing ;
+    tg:ages "14+"@en ;
+    tg:designer "Nathan I. Hajek, Grace Holdinghaus"@en ;
+    tg:image "LotR JiME BoardGame 2019.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings: Journeys in Middle-earth"@en ;
+    tg:players "1-5"@en ;
+    tg:publisher <http://localhost:8000/resource/Fantasy_Flight_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2019> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_Tales_of_Middle-earth> a schema:Thing ;
+    tg:image "Magic_the_Gathering_UBLotRToM_logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings: Tales of Middle-earth"@en ;
+    tg:publisher <http://localhost:8000/resource/Wizards_of_the_Coast> ;
+    tg:releasedate <http://localhost:8000/resource/20_June_2023> ;
+    tg:type "ccg"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Card_Game> a schema:Thing ;
+    tg:designer "Nate French"@en ;
+    tg:image "The Lord of the Rings- The Card Game.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings: The Card Game"@en ;
+    tg:publisher <http://localhost:8000/resource/Fantasy_Flight_Games> ;
+    tg:releasedate <http://localhost:8000/resource/20_April_2011> ;
+    tg:type "lcg"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring_%E2%80%93_Trick-Taking_Game> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Bryan Bornmueller"@en ;
+    tg:image "LOTR FOTR TrickTakingGame.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Fellowship of the Ring – Trick-Taking Game"@en ;
+    tg:players "1-4"@en ;
+    tg:publisher <http://localhost:8000/resource/Office_Dog_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2024> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings%3A_The_Two_Towers%3A_The_Set_of_Four_Games> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Jan Dungel"@en ;
+    tg:image "The Two Towers The Set of Four Games.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "<small>''The Lord of the Rings: The Two Towers: The Set of Four Games''</small>"@en ;
+    tg:publisher <http://localhost:8000/resource/New_Line_Cinema> ;
+    tg:releasedate <http://localhost:8000/resource/2002> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Adventure_Book_Game> a schema:Thing ;
+    tg:ages "10+"@en ;
+    tg:designer "Jay Little, Ryan Miller, Marcus Ross"@en ;
+    tg:image "LotRAdventureBookGame.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings Adventure Book Game"@en ;
+    tg:players "1-4"@en ;
+    tg:publisher "Ravensburger"@en ;
+    tg:releasedate <http://localhost:8000/resource/2023> .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Roleplaying> a schema:Thing ;
+    tg:image "The-Lord-of-the-Rings-Roleplaying-Logo-White.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:publisher <http://localhost:8000/resource/Free_League_Publishing> ;
+    tg:releasedate <http://localhost:8000/resource/2023> ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Roleplaying_Game> a schema:Thing ;
+    tg:designer "Steven S. Long, Christian Moore, Owen M. Seyler, Ross Isaacs"@en ;
+    tg:image "The Lord of the Rings Roleplaying Game - logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings Roleplaying Game"@en ;
+    tg:publisher <http://localhost:8000/resource/Decipher_Inc.> ;
+    tg:releasedate <http://localhost:8000/resource/2002> ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/The_Lord_of_the_Rings_Trading_Card_Game> a schema:Thing ;
+    tg:designer "Mike Reynolds, Chuck Kallenbach II, Tom Lischke, and Joe Alread"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Lord of the Rings Trading Card Game"@en ;
+    tg:players "2 or more"@en ;
+    tg:publisher <http://localhost:8000/resource/Decipher> ;
+    tg:releasedate <http://localhost:8000/resource/2001> ;
+    tg:type "ccg"@en .
+
+<http://localhost:8000/resource/The_One_Ring_%28role-playing_game%29> a schema:Thing ;
+    tg:designer "Francesco Nepitello, Marco Maggi"@en ;
+    tg:image "The One Ring (role-playing game).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The One Ring"@en ;
+    tg:publisher <http://localhost:8000/resource/Cubicle_7_Entertainment> ;
+    tg:releasedate <http://localhost:8000/resource/2011> ;
+    tg:type "rpg"@en .
+
+<http://localhost:8000/resource/The_Siege_of_Minas_Tirith> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Richard R. Jordison"@en ;
+    tg:image "The Siege of Minas Tirith.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "The Siege of Minas Tirith"@en ;
+    tg:players "2"@en ;
+    tg:publisher "Fact and Fantasy Games"@en ;
+    tg:releasedate <http://localhost:8000/resource/1975> .
+
+<http://localhost:8000/resource/War_of_the_Ring%3A_Second_Edition_%282011_board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Roberto Di Meglio, Marco Maggi, Francesco Nepitello"@en ;
+    tg:image "WotR BoardGame 2011.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "War of the Ring: Second Edition"@en ;
+    tg:players "2-4"@en ;
+    tg:publisher <http://localhost:8000/resource/ARES_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2011> .
+
+<http://localhost:8000/resource/War_of_the_Ring%3A_The_Card_Game> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Ian Brody"@en ;
+    tg:image "WotR CardGame 2022.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "War of the Ring: The Card Game"@en ;
+    tg:players "2-4"@en ;
+    tg:publisher <http://localhost:8000/resource/ARES_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2022> .
+
+<http://localhost:8000/resource/War_of_the_Ring_%281977_board_game%29> a schema:Thing ;
+    tg:image "War of the Ring (1977) box.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "War of the Ring"@en .
+
+<http://localhost:8000/resource/War_of_the_Ring_%282004_board_game%29> a schema:Thing ;
+    tg:ages "12+"@en ;
+    tg:designer "Roberto Di Meglio, Marco Maggi, Francesco Nepitello"@en ;
+    tg:image "War of the Ring (2004 board game).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/board_game_infobox> ;
+    tg:name "War of the Ring"@en ;
+    tg:players "2-4"@en ;
+    tg:publisher <http://localhost:8000/resource/Sophisticated_Games> ;
+    tg:releasedate <http://localhost:8000/resource/2004> .
+

@@ -1,0 +1,49 @@
+{{Poem infobox
+| title=Perry-the-Winkle
+| other names=''The Bumpus'',<br>''William and the Bumpus'',<br>''Perry-the-Winkle: A Nursery Rhyme in the House of Master Samwise'',<br>''Perry-the-Winkle: A Children's Song in the Shire (Attributed to Master Samwise)''
+| written=Early [[1928]]
+| revised=[[29 March]] of 1928,<br>[[30 September]] of [[1946]],<br>Early [[1961]],<br>[[15 November]] of 1961
+| published=''[[The Adventures of Tom Bombadil]]'',<br>''[[Poems and Songs of Middle Earth]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Lonely Troll]], [[Perry-the-Winkle (hobbit)|Perry-the-Winkle]], [[Farmer Hogg]], [[Pott the Mayor]], [[Mrs. Bunce]], [[Bill Butcher]], [[Grip (Bill Butcher's dog)|Grip]], [[Peeping Jack]], [[Faraway]], [[Tong]], [[Bree]], [[The Shire]]
+}}
+
+'''''Perry-the-Winkle''''' is a humorous poem written by [[J.R.R. Tolkien]] included in ''[[The Adventures of Tom Bombadil]]''.<ref name=poem>{{AB|Perry}}, pp. 41-4</ref> The poem is "a children's song in [[the Shire]]"<ref name=commentary>{{AB|Comm}}, ''Perry-the-Winkle''</ref> that was recorded in the [[Red Book of Westmarch]] and attributed to [[Samwise Gamgee]].<ref name=preface>{{AB|Preface}}</ref>
+
+==First stanza==
+<poem style="font-style:italic; margin-left:20px;">
+:The [[Lonely Troll]] he sat on a stone
+::and sang a mournful lay:
+:'O why, O why must I live on my own
+::in the hills of [[Faraway]]?
+:My [[Trolls|folk]] are gone beyond recall
+::and take no thought of me;
+:alone I'm left, the last of all
+::from [[Weathertop]] to the [[Belegaer|Sea]].'<ref name=poem/>
+</poem>
+
+==Synopsis==
+In [[Samwise Gamgee]]'s poem,<ref name=preface/> a [[Lonely Troll]] entered [[the Shire]] seeking for friends, because he was the last troll "from [[Weathertop]] to the [[Belegaer|Sea]]". In fact, he was a very strange troll, because he did not steal [[gold]], drink beer, or eat meat. However, when he came to [[Delving]] all the secretive and scared [[Hobbits]] started to run and hide whenever they saw him. Thus, only Perry-the-Winkle was unafraid and befriended the troll while he was crying outside of the [[Lockholes]]. Because the troll was a very good cook, he thanked Perry by feeding him generously. When the other Hobbits learned that Perry had eaten well thanks to the troll, they showed up asking for food, but they were denied since they had refused to be his friend. Perry, instead, was invited to [[tea-time]] [[Mersday|Every Thursday]] and the troll taught him how to be a great [[Baker]].<ref name=poem/>
+
+==Background==
+[[File:The Bumpus (no. 105, text A).jpeg|thumb|250px|"''The Bumpus''" by [[J.R.R. Tolkien]].]]
+===''The Bumpus''===
+After Tolkien wrote the first version of the poem in early [[1928]],<ref name=commentary/> which he entitled '''''The Bumpus''''', he drew an unintentionally sinister<ref name=collectedpoems>{{CP|105}}</ref> sketch of the Bumpus on the first manuscript.<ref name=commentary/> On [[29 March]],<ref name=collectedpoems/> Tolkien made a second manuscript in which he revised the poem as part<ref name=collectedpoems/> of his ''[[Tales and Songs of Bimble Bay]]'' series.<ref name=commentary/> This version may have been the version that Tolkien sent to his publishers on [[30 September]] of [[1946]] to be possibly published alongside ''[[Farmer Giles of Ham]]''.<ref name=collectedpoems/> The second manuscript was what was later published posthumously in the [[2014]] edition of ''[[The Adventures of Tom Bombadil]]''<ref name=commentary/>.<ref name=guide>{{CG|RG}} p. 754 (entry "''Perry-the-Winkle''")</ref>
+
+===''William and the Bumpus''===
+The third version of the poem was a typescript in which Tolkien had added 111 lines,<ref name=collectedpoems/> entitling it '''''William and the Bumpus'''''. It contains some additions that are more in line with the final version of the poem.<ref name=commentary/>
+
+===Further revisions===
+In early [[1961]],<ref name=collectedpoems/> Tolkien revised the poem for inclusion within ''[[The Adventures of Tom Bombadil]]''. He made numerous changes such as changing the Bumpus to the Lonely Troll and including references to [[The Shire]] and [[Bree]]<ref name=guide/> in place of references to Bimble Bay. In a later typescript, Tolkien gave the poem the name '''''Perry-the-Winkle: A Nursery Rhyme in the House of Master Samwise'''''.<ref name=collectedpoems/> In a final<ref name=collectedpoems/> preserved typescript at the Bodleian, the phrase ''a children's song in the Shire (attributed to Master Samwise)'' or '''''A Children's Song in the Shire (Attributed to Master Samwise)'''''<ref name=collectedpoems/> appears as a heading.<ref name=commentary/>
+
+On [[15 November]] of [[1961]], Tolkien sent the poem to his publishers for inclusion in the poetry collection.<ref name=collectedpoems/> Many years later, in [[1967]], Tolkien recorded a version of the poem for ''[[Poems and Songs of Middle Earth]]'', which was later reissued.<ref name=guide/>
+
+==Inspiration==
+While the origins of the name ''Perry-the-Winkle'' is not known, it may be possible that it could be related to the word ''[[Wikipedia:Periwinckle|Periwinckle]]'', the name of a marine mollusc and of a creeping plant.<ref>[[Jim Allan]], "Giving of Names" in ''[[An Introduction to Elvish]]'' ([[1978]])</ref> The name ''Winkle'' may be a short form of the word. The word ''Brolly'' is a nickname for "umbrella" and ''Bong'' is just a word with a convenient rhyme with "long". The word "cramsome" must be referring to ''[[cram]]''.<ref name=commentary/>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Adventures of Tom Bombadil]]
+
+[[fi:Mara Hultainen (runo)]]

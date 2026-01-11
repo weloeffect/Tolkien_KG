@@ -1,0 +1,49 @@
+{{Adaptation}}{{kingdom
+| name=Waw
+| image=
+| caption=
+| pronun=
+| othernames=Isle of Dogs
+| location=Near [[Lóchas Drûs]]
+| capital=
+| settlements=Horm
+| regions=
+| population=Wôlim
+| language=
+| govern1=Council of Elders <small>(traditional)</small>
+| govern2=Dog-king <small>(after {{SA|1982}})</small>
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Settled
+| event1date=1st-2nd C. [[Second Age|S.A.]]
+| event2=Reconquered by Dwar
+| event2date={{SA|1982}}
+| event3=Independence from Lóchas Drûs
+| event3date={{TA|1617}}
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+| audio=
+| audiocaption=
+| map=[[File:Map of Lóchas Drûs and Waw.jpeg|thumb|Excerpt from [[Pete Fenlon]]'s “[[An Artist's Interpretation of Middle Earth]]”]]
+}}In [[Middle-earth Role Playing]], '''Waw''' was an island archipelago off the southeast coast of [[Lóchas Drûs]], inhabited by descendants of [[Lóchas Drûs#Wôl|Wôlim]] settlers.<ref name="waw">{{EndorMap|Waw}}</ref> The island was traditionally governed by Elder Councils. Since its rule by the Dog-king [[Third of the Nazgûl|Dwar]], it was also known as the Isle of Dogs.<ref name="dwar">{{ICE|8003}}, pp. 86-87</ref>
+
+The Wôlim of Waw were described as typically having hazel eyes and a ruddy complexion.<ref name="dwar"/>
+
+==Geography==
+Horm was a fishing village on the island, which was later expanded into a port. The island also had a citadel named Alk Waw on its southeastern peninsula.<ref name="dwar"/>
+
+==History==
+Between the second and third centuries of the [[Second Age]], the island was settled by the Wôlim.<ref name="waw"/>
+
+In {{SA|1965}}, the K'prur of Hent attacked Waw. The village of Horm was burned, many people died, and most fishing boats were sank. A K'pur overseer was installed in the citadel of Alk Waw. A survivor of the attack, Dendra Dwar, returned in {{SA|1980}} to enact vengeance. Having trained the years before, he took the citadel. The K'prur besieged the citadel for two years, until Dwar overcame them in {{SA|1982}} with two-thousand warhounds. He reconquered the island, but took power instead of reconvening the Elder Councils.<ref name="dwar"/>
+
+Turning his hometown of Horm into a massive port, he had a fleet constructed. He conquered nearby islands, including Címóníemor, an Elven island to the south. Waw ultimately conquered Hent, but Dwar had seemingly disappeared, leaving his nephew Dendra Swip as the new Lord of Dogs. In truth, Dendra, now a servant of [[Sauron]], secretly remained in Alk Waw for 252 years. From there he pushed his heirs to more pillaging and conquest, until he had to depart to [[Mordor]] in {{SA|2250}}. He briefly returned to Waw during the capture of Sauron by [[Ar-Pharazon]].<ref name="dwar"/>
+
+In {{TA|1051}}, a reawakened Dwar returned to Waw. By then, the island had become part of [[Lóchas Drûs]]. He manipulated a rebellion against their Lochan overlords. The people of Waw reconquered Címóníemor in {{TA|1507}}, and under Dendra Dwar II Waw finally declared itself independent again in {{TA|1617}}.<ref name="dwar"/>
+{{references}}
+[[Category:Middle-earth Role Playing locations]]

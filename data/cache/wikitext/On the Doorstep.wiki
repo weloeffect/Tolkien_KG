@@ -1,0 +1,27 @@
+{{chapter
+|image=J.R.R. Tolkien - The Back Door.jpg
+|previous=A Warm Welcome
+|next=Inside Information
+|map=[[File:J.R.R. Tolkien - Map - Doorstep route.png|thumb|centre]]
+|location=[[Lake-town]], [[River Running]], ruins of [[Dale]], [[Ravenhill]], [[Lonely Mountain|Erebor]]
+|date=c. [[October 7]]—[[Durin's Day]] {{TA|2941}}
+|event=[[Thorin and Company]] reach Erebor
+|number=11
+|title=On the Doorstep
+|book=The Hobbit
+}}
+'''On the Doorstep''' is the 11th chapter of ''[[The Hobbit]]''.
+==Summary==
+[[File:J.R.R. Tolkien - The Front Gate.png|thumb|left|"[[Front Gate|The Front Gate]]" by [[J.R.R. Tolkien]]]]
+After leaving [[Lake-town]], [[Thorin and Company]] journeyed towards the [[Lonely Mountain]]. Following the [[River Running]], they arrived at the [[Desolation of the Dragon]]. 
+
+[[Thorin]] sent [[Balin]], [[Fíli]], [[Kíli]], and [[Bilbo]] to spy out the [[Front Gate|front gate]] of [[Erebor]]. Across the river, they saw the ruins of [[Dale]]. Balin explained that he had been one of Thorin's companions [[Dale#Destruction|when the dragon came]] and wrought ruin upon the town. Following the river a little further, they espied the gate, and many crows, which Balin took to be an ill omen.  
+
+When the four returned, the whole Company began searching the western side of the mountain for the [[Back Door|hidden gate]]. They did this for days without success, until Bilbo, Fíli, and Kíli found traces of a track that took them to a narrow ledge at the top of a cliff. They did not doubt they had found the door, but they could not open it, no matter how vigourously they beat on it. The Company made their way up to the ledge, with the exception of [[Bombur]]. Using tools from Lake-town, they tried to break the door, but their tools splintered. Bilbo sat dejected, staring west towards [[Mirkwood]] and beyond, towards his Hobbit-hole in [[The Shire]].
+[[File:Ted Nasmith - When the Thrush Knocks (I).jpg|thumb|250px|left|"When the [[Thrushes|Thrush]] Knocks" by [[Ted Nasmith]]]]
+Realising they didn't have much time, Thorin and Company discussed sending Bilbo in through the front gate. Perturbed by this, Bilbo sat gloomily staring at the stone ground, hoping for [[Gandalf]] to return. As the sun turned west, the light caught the tops of a distant forest, and he espied a thin new moon in the sky. Then he heard a crack behind him, and saw a large, black thrush knocking a snail against the stone of the wall. Recalling [[Thrór's Map#Description|the words]] of [[Thrór's Map]], he suddenly understood, and, setting aside all danger he called urgently for the Dwarves and explained the knocking of the thrush to them. But the sun sank lower and their hopes fell, until it sank into cloud and disappeared. As they had almost given up, a red ray of sunlight gleamed onto the smooth rock wall: ''the last light of [[Durin's Day]]''. The thrush gave a trill, and with a loud crack, flakes of rock fell, opening a hole in the lower part of the stone wall. The Company pushed, but Bilbo called for Thorin to use the key that went with the map. Thorin put it in the hole, and turned it. They all pushed together, and the outline of a door appeared in the wall, opening inwards. 
+
+Darkness oozed out of the door, and the passageway beyond appeared to them as a yawning mouth, leading ominously downwards. 
+
+[[Category:The Hobbit chapters]]
+[[fi:Kuistilla]]

@@ -1,0 +1,25 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Larry D. Elmore
+| born=[[5 August]] [[1948]]
+| died=
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Larry Elmore''' (born [[5 August]] [[1948]]) is an American fantasy artist, most notable in helping to define the look of ''[[Dungeons and Dragons]]'' and contributing art and comics to the related ''[[Dragon Magazine]]''.<ref name=CCGA>{{CCGA|entry=Elmore, Larry D.}}, pp. 123-124</ref> He was contracted by [[Iron Crown Enterprises]] to create artwork for the ''[[Middle-earth Collectible Card Game]]''.
+
+==Career==
+After getting a fine arts degree at Western Kentucky University, he became an early key staff artist at [[TSR]]. After leaving the company in [[1987]], as a freelancer he worked for many other games, such as ''[[Magic: The Gathering]]'' and the ''Middle-earth Collectible Card Game''.<ref name=CCGA/>
+==See also==
+*[[:Category:Images by Larry Elmore|Images by Larry Elmore]]
+==External links==
+* {{WP|Larry Elmore}}
+{{References}}
+{{DEFAULTSORT:Elmore, Larry D.}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

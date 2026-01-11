@@ -1,0 +1,47 @@
+{{organization infobox
+| name=Last Alliance of Elves and Men
+| image = Jenny Dolfen - The Last Alliance.jpg
+| caption="The Last Alliance" by [[Jenny Dolfen]]
+| pronun=
+| othernames=
+| founded={{SA|3430}}
+| founder=[[Gil-galad]] and [[Elendil]]
+| purpose=Prevent conquest by [[Sauron]]
+| members=[[Dúnedain]]; [[Elves of Lindon]], [[Rivendell]], [[Elves of Mirkwood|Mirkwood]], and [[Galadhrim|Lothlórien]]; [[Dwarves of Khazad-dûm]]; birds and beasts<ref>{{S|Rings}}</ref>
+| location=[[Imladris]], drawn from all parts of northwestern [[Middle-earth]]
+| disbanded={{SA|3441}}
+| notablefor=Defeating [[Sauron]]
+| gallery=the Last Alliance
+}}
+The '''Last Alliance of Elves and Men''' was formed in {{SA|3430|n}} of the [[Second Age]] in response to the threat of conquest by the Dark Lord [[Sauron]].<ref name=SA>{{App|SA}}</ref>
+
+==History==
+Sauron had been contending with the [[Elves]] for mastery of Middle-earth for over 1200 years. Fearing the establishment of the powerful kingdoms in exile &mdash; [[Arnor]] and [[Gondor]] &mdash; by his hated enemies, the [[Dúnedain]], Sauron launched a pre-emptive attack on Gondor in {{SA|3429}}.
+
+[[Isildur]] left [[Minas Ithil]] for the north to meet his father and [[High King of the Dúnedain]] [[Elendil]], whilst [[Anárion]], Elendil's younger son, defended [[Osgiliath]] against the hosts of [[Mordor]].<ref name=SA/>
+
+In response, Elendil formed an alliance with [[Gil-galad]], the [[High King of the Noldor]], to repel Sauron's assault in {{SA|3430}}.<ref name=SA/> [[Durin's Folk]] also joined. It is said that Elendil bound the Alliance with an oath and invoked the name of [[Eru]] to witness it.<ref name=Cirion>{{UT|Cirion}}</ref> Eru's name was very rarely invoked in oaths, and among the [[Númenóreans]] it was held that only the King could call upon Him. This would happen again only thousands of years later during the [[Oath of Cirion]].<ref name=Cirion/> 
+
+It is said that the hosts of Gil-galad joined Elendil at [[Weathertop|Amon Sûl]]<ref name=Knife>{{FR|Knife}}</ref> and marched towards Imladris in {{SA|3431}} where they camped for three years,<ref name=SA/> forging armour and making plans.{{fact}}
+[[File:Angel Falto - Elf Last Alliance.jpg|200px|thumb|left|''Last Alliance'' by [[:Category:Images by Angel Falto|Angel Falto]]]]
+Finally in {{SA|3434}} the armies crossed the [[Misty Mountains]] at various locations; Gil-galad and [[Isildur]] crossed the [[Pass of Imladris]] and the [[Pass of Caradhras]], and their hosts were so large that the [[Orcs of Mordor]] sent by Sauron to harry them hid themselves instead.<ref>{{UT|Gladden}}</ref> Their forces were strengthened in the [[Vales of Anduin]] by Elves from [[Lothlórien]] and [[Mirkwood|Greenwood the Great]] under the command of [[Oropher]] and [[Amdír]] and by the Dwarves of [[Moria|Khazad-dûm]].
+
+When Sauron learned of their advance, he burned the former [[Brown Lands|Gardens]] of the [[Entwives]] to hinder them down the [[Anduin]].<ref>{{L|144}}</ref>
+
+Soon they reached [[Dagorlad]] where they met and defeated Sauron's army in the [[Battle of Dagorlad]] after months of fierce fighting. Sauron retreated, and the Alliance breached the [[Morannon]] into [[Mordor]], marching to besiege the Dark Lord's fortress of [[Barad-dûr]]. The siege lasted for seven years, during which the Alliance sustained heavy losses; among others, [[Anárion]] was slain. It culminated in Sauron leaving his fortress and breaking the siege himself. Sauron's last sortie pushed the army of the Alliance back to the slopes of [[Orodruin]].<ref name=SA/> 
+
+At the last stage of the [[Siege of Barad-dûr]], Sauron slew Gil-galad and Elendil in single combat, but was himself defeated.<ref name=SA/> Isildur cut the Ring from Sauron's finger.<ref>{{FR|II2}}</ref> Sauron's body died and his spirit fled. Without the power of the One Ring, Sauron could not take form again in Middle-earth for a thousand years.
+
+With the victory over Sauron and the death of Gil-galad and Elendil, the Last Alliance was dissolved. The remaining Númenóreans resettled their [[Realms in Exile|kingdoms]].
+{{references}}
+[[Category:Armies]]
+
+==See also==
+* '''[[War of the Last Alliance]]''' (Military information)
+*[[Union of Maedhros]], a similar alliance of the [[First Age]]
+
+[[Category:Gondorians]]
+[[Category:Elves]]
+[[de:Letztes Bündnis]]
+[[fr:encyclo:evenements:2a:derniere alliance des elfes et des hommes]]
+[[fi:Haltioiden ja Ihmisten Viimeinen Liitto]]

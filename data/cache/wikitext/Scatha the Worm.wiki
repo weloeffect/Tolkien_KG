@@ -1,0 +1,32 @@
+{{disambig-two|the poem|titular [[Long-worms|long-worm]]|[[Scatha]]}}
+{{Poem infobox
+| title=Scatha the Worm
+| written=Around [[1954]]
+| revised=Around 1954
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[cold-drakes]], [[Dragons]], [[fire-drakes]], [[long-worms]], [[Scatha]]
+}}
+'''''Scatha the Worm''''' is a poem written by [[J.R.R. Tolkien]] about the [[Long-worms|long-worm]] [[Dragons|dragon]] [[Scatha]].<ref name=collectedpoems>{{CP|177}}</ref>
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:Some have great wings like the wind
+:Some have fire and fierce wrath,
+:Some have venom on their long teeth
+:Some have hides like armour, tails
+:like steel, tongues like spears, eyes
+:piercing bright: some are great & golden
+:Some are green; some are red as
+:glowing iron. Not so was Scatha.<ref name=collectedpoems/></poem>
+
+== Background ==
+Around the year [[1954]], after having written the scene in Book VI of ''The Lord of the Rings'' where [[Éowyn]] gave the ancient [[Horn of the Mark]] to [[Meriadoc Brandybuck|Holdwine]] of [[The Shire]], Tolkien wrote a short poem "in several styles" below the heading ''Scatha the Worm'', which was only a clear title of the second and third versions of the poem.<ref name=collectedpoems/>
+
+It is possible that the detail that some dragons were green might be a reference to a story or poem<ref>{{CG|C}}, p. 5 (entry "1898-1899")</ref> that Tolkien tried to write about "a great green dragon" at the age of seven.<ref>{{L|163}}</ref><ref name="BII">{{B|II}}</ref>
+
+The full poem was published for the first time as entry 177 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+{{references}}
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

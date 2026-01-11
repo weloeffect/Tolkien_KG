@@ -1,0 +1,33 @@
+{{mythlore
+|title=Mythlore 3
+| image = Mythlore 3.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=July, [[1969]]
+|format=Paperback
+|pages=46
+}}
+'''''Mythlore''''' '''3''' [https://dc.swosu.edu/mythlore/vol1/iss3/ (Volume 1, Issue 3)] is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents ==
+
+* Barr, George. "What has it got in its pocketses?" (notes on the cover). 2+.
+* GoodKnight, Glen. "The Counsel of Elrond." 4.
+* Zuber, Bernie. "Across The Brandywine." 5+.
+* Braude, Nan. "Tolkien and Spenser." 8-10; 13.
+* Ellwood, Robert S., Jr. "The Japanese Hobbit." Review of "Hobitto no Boken" ("The Adventure of the Hobbit"), trans. Teiji Seta, illus. Ryuichi Terashima. 14-17.
+* GoodKnight, Glen. "A Comparison of Cosmological Geography in the Works of J.R.R. Tolkien, C.S. Lewis, and Charles Williams." 18-22.
+* Bergstrom, Bonnie. "From Lemuria to Lugburz: A Comparison of Sword & Sorcery and Heroic Fantasy." 23-4.
+* Callahan, Patrick. "A Lost Page From The Red Book of Westmarch." 25.
+* Barczak, Christopher. "The Punishment of Sauron: A Hypothetical Parable." 26.
+* Hoggman, Irving X. "The Myth-Adventures at The Pleasure Faire." 28+.
+* Zuber, Bernie. "World of Fanzines." 32+.
+* Kuhl, Rand. "Lore of Logres: Very Few Good Dragons." Review of "Beowulf: The Monsters and the Critics" by J.R.R. Tolkien. 34-37.
+* Editorial. 38+.
+* "Missives to ''Mythlore''." 41.
+* "Book List." 46.
+{{mythlorenav|2|4}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 002}}
+[[Category:Mythlore]]

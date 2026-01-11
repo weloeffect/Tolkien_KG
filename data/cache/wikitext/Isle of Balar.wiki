@@ -1,0 +1,45 @@
+{{location infobox
+| name=Isle of Balar
+| image=Christopher Tolkien - Bay of Balar.jpg
+| caption=Map drawn by [[Christopher Tolkien]] showing the Bay of Balar
+| pronun=
+| othernames=
+| location=South-west of the [[Bay of Balar]], on edge of [[Belegaer]]
+| type=Island
+| description=Large islands, eastern tip of what was [[Tol Eressëa]]
+| regions=
+| towns=
+| inhabitants=[[Eldar]], [[Edain]]
+| created=
+| destroyed=
+| events=
+}}
+The '''Isle of Balar''' was a refugee camp of the [[Eldar]] and [[Edain]] of [[Beleriand]].
+
+The Isle of Balar was located in the great [[Bay of Balar]] to the south of [[Beleriand]],<ref>{{S|Map}}</ref> and according to legend it was the eastern tip of [[Tol Eressëa]] which had broken off when [[Ulmo]] ferried the [[Eldar]] to [[Aman]].<ref>{{S|Princes}}</ref>  In the shallow waters about the island could be found great numbers of pearls.<ref>{{S|Sindar}}</ref>
+
+Before the [[Dagor Bragollach]], [[Elves of Nargothrond]], with ships built by the [[Falathrim]], explored the Isle of Balar considering it as a safe haven in time of need.<ref>{{S|14}}</ref> Some companies of [[Gondolindrim]] had been also sent there by [[Turgon]] to build ships and send some messengers to [[Aman]]; but none of those ships ever arrived and few returned.<ref>{{S|Fingolfin}}</ref> 
+
+During the [[Fall of the Falas]] some Falathrim survivors escaped the [[Havens of the Falas|Havens]] on ships, with [[Círdan]] and [[Gil-galad]]; they reached Balar where they established a safe refuge, keeping also a foothold of ships at the [[Mouths of Sirion]]. Hearing this, Turgon once more sent messengers there asking for Círdan's help. Círdan built seven ships to send to the West, but of them no news came to Balar; only one Elf, [[Voronwë]], survived and ever returned to [[Middle-earth]].<ref>{{S|Fifth}}</ref>
+
+The two refugee camps held close contact, and [[Círdan]] assisted [[Eärendil]] of [[Arvernien]] in building the ship [[Vingilot]] ([[Vingilótë]]), with which he sought for [[Valinor]], to ask for the pardon of the [[Valar]].<ref>{{S|Earendil}}</ref>
+
+From there many went to [[Lindon]] until the [[Elves]] were summoned to [[Valinor]], and the [[Edain]] to the new isle of [[Númenor]]. It is unknown whether or not the Isle of Balar survived beyond the First Age.
+
+{{references}}
+{{navigation
+| title=Isle of Balar
+| north-west=Belegaer
+| north=[[Cape Balar]], [[Falas]] [[Arvernien]]
+| north-east=[[Mouths of Sirion]], [[Nimbrethil]]
+| west=[[Belegaer]]
+| east=[[Bay of Balar]]
+| south-west=Belegaer
+| south=Belegaer
+| south-east=Bay of Balar
+|}}
+[[Category:Beleriand]]
+[[Category:Islands]]
+[[de:Balar (Insel)]]
+[[fi:Balarin Saari]]
+[[fr:/encyclo/geographie/eaux/iles/ile_de_balar]]

@@ -1,0 +1,59 @@
+{{mythlore
+|title=Mythlore 7
+| image = Mythlore_7.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1971]]
+|format=Paperback
+|pages=27
+}}
+
+'''''Mythlore'' 7''' ([https://dc.swosu.edu/mythlore/vol2/iss3/ Volume 2, Issue 3])  is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+====Features====
+
+* GoodKnight, Glen. The Voice of Tash. 3.
+* GoodKnight, Glen. World of Fanzines. 8.
+* Zuber, Bernie. Across the Brandywine. 11.
+* Missive to Mythlore. 27.
+* GoodKnight, Glen. Editorial: "Lewis, Power, and Science." 27.
+
+====Articles====
+
+* Marmor, Paula. "An Etymological Excursion among the Shire Folk." 4.
+* Hannay, Margaret P. "Orual: The Search for Justice." 5-6.
+* Masson, Keith. "Tom Bombadil: A Critical Essay." 7-8.
+* Howard, Claire. "The Vented Spleen." Review of ''J.R.R. Tolkien'' by Catharine R. Stimpson. 9-11.
+* Christopher, Joe R. "An Introduction to Narnia, Part 2: The Geography of the Chronicles." 12-16, 27.
+* Mythcon Reports. 23+.
+* Christopher, Joe R. "In the C.S. Lewis Tradition: Two Short Stories by Anthony Boucher." 25.
+
+====Fiction====
+
+*Williams, Charles. "The Noises That Weren't There. Chapter 2: The Voice of the Rat." 17-23.
+
+====Poetry====
+
+* Williams, Charles. "Ballade of a Street Door." 18.
+* Peoples, Galen. "Lilith, Out of Heaven." 19.
+
+====Art====
+
+* Alpajpuri: 19
+* Bonnie Bergstrom: cover, 3, 5, 8, 17, 20, 22, 26
+* Davidson: 9, 10
+* Tim Kirk: 4, 12, 13, 14, 15
+* Steve McIntosh: 27
+* Paula Marmor: 11, back cover
+* Diana Paxson: 25
+* Joe Pearson: 10
+* Don Smith: 11
+* Bernie Zuber: 7, 23
+* Cover: Bonnie Bergstrom, "Now we were before it and I could see the story it told" from ''Till We Have Faces'' by C.S. Lewis
+* Back Cover: Paula Marmor, "Castamir the Usurper"
+{{mythlorenav|6|8}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 007}}
+[[Category:Mythlore]]

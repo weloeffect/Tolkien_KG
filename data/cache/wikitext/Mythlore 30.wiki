@@ -1,0 +1,54 @@
+{{mythlore
+|title=Mythlore 30
+| image = Mythlore 30.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=[[1982]] Winter
+|format=Paperback
+|pages=47
+}}
+'''''Mythlore'' 30''' ([https://dc.swosu.edu/mythlore/vol8/iss4/ Volume 8, Issue 4]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles====
+
+* Pitts, Mary Ellen. "Motif of the Garden in the Novels of Tolkien, Williams and Lewis."
+*Gillespie, Gerald V. "The Irish Mythological Cycle and Tolkien's Eldar."
+*Carter, M.L. "The Cosmic Gospel, C.S. Lewis and L'Engle."
+*Zimmermann, Manfred. "Early Glimpses of Middle-Earth."
+*Moss, Anita. "Felicitious Space in the Fantasies of George MacDoanld and Mervyn Peake."
+*Beare, Rhona. "Charles Williams and the Angelicals."
+*Knapp, Bettina. "A Jungian Reading of The Kalevala 500-1300, Finnish Shamanism."
+*Roberts, Teresa Noelle. "The Unicorn, Creature of Love"
+
+====Features====
+
+*GoodKnight, Glen H. Editorial: Changing the Possible...
+*Speth, Lee. "Cavalier Treatment: The Years in Broceliande."
+*Ellwood, Gracia Fay. "Matters of Grave Import: The Third Heaven."
+*Christopher, Joe R. "An Inklings Bibliography."
+*Letters.
+
+====Reviews====
+
+* McGillis, Roderick. Review of Prickett, Stephen. ''Victorian Fantasy''.
+* Patterson, Nancy-Lou. Review of Mathews, Richard. ''Worlds Beyond the World: The Fantastic Vision of William Morris''.
+* Patterson, Nancy-Lou. Review of Brabazon, James.  ''Dorothy L. Sayers: The Life of a Courageous Woman.''
+* Patterson, Nancy-Lou. Review of Smith, Robert Houston. ''Patches of Godlight: The Pattern of Thought in C.S. Lewis.''
+* Patterson, Nancy-Lou. Review of Isaacs, Neil D. and Rose A. Zimbardo, ed. ''Tolkien: New Critical Perspectives.'' 
+* Patterson, Nancy-Lou. Review of Strachey, Barbara.  ''Journeys of Frodo: An Atlas of J.R.R. Tolkien's The Lord of the Rings.''
+* Colvin, George W.  Review of Llwelyn, Morgan.  ''Lion of Ireland: The Legend of Brian Boru.''
+* Egan, Thomas M.  Review of Fonstad, Karen Wynn.  ''The Atlas of Middle-Earth.''
+
+====Poems====
+
+*Allaby, Mark. "Tree and Leaf."
+*Christopher, J.R. "Bilbo's Journey."
+*Christopher, J.R. "Ents."
+*Roberts, Teresa Noelle. "Unicorns."
+{{mythlorenav|29|31}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 030}}
+
+[[Category:Mythlore]]

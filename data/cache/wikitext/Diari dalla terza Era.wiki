@@ -1,0 +1,48 @@
+{{Rewrite}}
+{{film infobox
+| image = Diari dalla terza Era - poster.jpeg
+| caption = 
+| name = Diari dalla Terza Era
+| director = Claudio Ripalti
+| producer = Claudio Ripalti
+| writer = '''Novel:'''<br>[[J.R.R. Tolkien]]<br>'''Screenplay:'''<br>Claudio Ripalti<br>
+| narrator = 
+| starring = Alessandro Gabbianelli, Gualtiero Stipa, Alessandro Renz
+| music = Enrico Ripalt
+| cinematography = Mike Ritchie, Stein Stie
+| editing = Elena Cancellieri
+| distributor = 
+| released = July 5, 2013
+| runtime = 17:42
+| country = Italy
+| language = Italian
+| budget = 1,400 euros
+| website = [https://www.youtube.com/watch?v=3CGbVn2ffHA website]
+| imdb_id = 1323925
+}}'''Diari dalla Terza Era''' (Italian: '''Third Age Journals''') is a [[:Category:Fan films|fan film]] that was made released in July 2013. The film can be downloaded online for free.<!--The soundtracks are still up on their youtube channel however the film itself seems to have been privated, another link if possible should be found.-->
+==Synopsis==
+{{Expansion}}
+Diari dalla Terza Era takes place between the events of [[The Lord of the Rings]] and [[The Silmarillion]] specifically in {{TA|1975}} during the fall of Kingdom of [[Angmar]].
+
+The film follows a [[Men|Man]] known as "Il Campione" (Italian:The Champion) who pursues the [[Witch-King|Witch-King of Angmar]] despite [[Glorfindel]]'s prophecy which states:
+{{Blockquote|He will not return to this land.  Far off yet is his doom, and not by the hand of man will he fall.|Glorfindel, ''[[The Return of the King]]'', [[Appendix A]] (iv)}}
+==Production==
+Diari dalla Terza Era is based on [[The Lord of the Rings]] and [[The Silmarillion]], specifically the chapter [[Of the Rings of Power and the Third Age]]. It was an independent, non-profit production shot in April and May 2013 with a budget of 1,400 euros.<ref>{{webcite|author=Robert Arduini|articleurl=https://www.jrrtolkien.it/fandom/cinema/film-diari-dalla-terza-era/|articlename=Film: Diari dalla Terza Era|dated=24 July 2013|website=[https://www.jrrtolkien.it/ jrrtolkien.it]|accessed=29 January 2024}}</ref> Filming took place in The Castle of Piandimeleto, Monte Catria, Monte Acuto, Parco di Cesane in Urbino and Gola del Furlo.<ref>{{webcite|author=Aragorn II|articleurl=https://elanillounico.com/noticias/peliculas/diari-dalla-terza-era-fanfilm-italiano-inspirado-en-el-senor-de-los-anillos/|articlename=Diari dalla Terza Era, fanfilm italiano inspirado en El Señor de los Anillos|dated=13 November|website=[https://elanillounico.com/ elanillounico.com]|accessed=29 January 2024}}</ref>
+==Cast==
+==Crew==
+Directed by: Claudio Ripalti.<br>
+Written by: Claudio Ripalti and Daniela Cancellieri.<br>
+Screenplay by: Claudio Ripalti, Daniela Cancellieri.<br>
+Producer: Claudio Ripalti, Daniela Cancellieri.<br>
+Costumes by: Daniela Cancellieri.<br>
+Casting: Daniela Cancellieri with Alessandro Gabbianelli and Gualtiero Stipa.<br>
+Music by: Enrico Ripalti (Based on music by [[Howard Shore]]).
+
+{{References}}
+
+==External links==
+*[http://tolkienbrasil.com/videos/fanmade/fan-filme-diario-da-terceira-era/ Diari dalla terza Era] at [http://www.tolkienbrasil.com TolkienBrasil]
+
+{{Fan films}}
+
+[[Category:Fan films|Diari dalla terza Era]]

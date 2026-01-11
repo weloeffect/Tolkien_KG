@@ -1,0 +1,21 @@
+{{disambig-more|Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{board game infobox
+| image = Lord of the Rings Trivia Game.jpg
+| name=Lord of the Rings Trivia Game
+| designer=Christian T. Petersen
+| publisher=[[Sophisticated Games]]
+| releasedate=[[2003]]
+| players=2−4
+| ages=12+
+}}
+'''''Lord of the Rings Trivia Game''''' is a board game based on [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]''. It features artwork by [[Ted Nasmith]].
+==From the publisher==
+''The Lord of the Rings Trivia Game is the ultimate test of your knowledge of J.R.R. Tolkien's Lord of the Rings!''
+
+In this exciting board game, each player, or team of players, takes on the role of Frodo Baggins and seeks to destroy the One Ring by throwing it into the fires of Mount Doom. As the players travel through 14 areas of Middle-Earth they must spend precious resources and answer challenging questions. There are 1200 questions; all based on the original books and prepared by a team of Tolkien experts. Multiple choice answers can make the game easier for less experienced Middle-Earthers.
+
+The winner of the game is the first player or team to reach and successfully face the challenges at Mount Doom.
+==External links==
+*[http://boardgamegeek.com/boardgame/6608/lord-of-the-rings-trivia-game Lord of the Rings Trivia Game] at [http://boardgamegeek.com/ BoardGameGeek]
+
+[[Category:Board games]]

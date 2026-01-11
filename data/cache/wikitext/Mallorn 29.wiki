@@ -1,0 +1,50 @@
+{{Mallorn
+| name=Mallorn 29
+| image = Mallorn29.jpg
+| editor=[[David Doughan]]
+| artist=[[Pauline Baynes]]
+| printer=PrintDesign, Chester
+| date=[[August]] [[1992]]
+| format=A4 stapled paperback
+| pages=60
+| issn=0308-6674
+}}
+'''''Mallorn'' 29''' is the twenty-ninth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in August [[1992]].
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* The Geology of the Northern Kingdom
+** By: Neil Holford
+* More Celtic Influences: Númenor and the Second Age
+** By: Marie Barnfield
+* Endogamy and Exogamy in the Works of Tolkien
+** By: Lisa Hopkins
+* Sauron's Darkness
+** By: [[Alex Lewis]]
+* Before and After
+** By: Lucy Bray
+* Dressed to Kill
+** By: [[Helen Armstrong]]
+* Tolkien and Beethoven
+** By: [[John Ellison|John A. Ellison]]
+* The Secret War and the End of the First Age: Tolkien in the (former) USSR
+** By: Maria Kamenkovich
+* Reflections on Tolkien Bibliography
+** By: [[Wayne G. Hammond]]
+* Publishing Tolkien
+** By: [[Rayner Unwin]]
+* ''[[The Tolkien Family Album]]''
+** By: [[John Ellison|John A. Ellison]]
+* The Genesis of Arda
+** By: Donald O' Brien
+* ''[[Sauron Defeated]]''
+** By: [[Charles Noad|Charles E. Noad]]
+* About some of our contributors
+
+*Inside Art
+** By: [[Ruth Lacon]], [[Helen Armstrong]], Denis Gordeyev, [[John Ellison|John A. Ellison]], S. Iuchimov Michael Schaaf
+
+{{Mallornnav|28|30}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 29}}
+[[Category:Mallorn (journal)]]

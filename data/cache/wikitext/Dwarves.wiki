@@ -1,0 +1,218 @@
+{{sources}}
+{{race infobox
+| name=Dwarves
+| image = Alarie - A bunch of dwarves.jpg
+| caption="A bunch of dwarves" by [[:Category:Images by Alarie|Alarie]]
+| pronun=
+| othernames=''[[Khazâd]]'' ([[Khuzdul|K]]), ''Naugrim'' ([[Sindarin|S]]), ''Nogothrim'' ([[Sindarin|S]]), ''[[Hadhod]]rim'' ([[Sindarin|S]]), ''[[Gonnhirrim]]'' ([[Sindarin|S]]), ''[[Casari]]'' ([[Quenya|Q]])
+| origin=Descended from the seven [[Fathers of the Dwarves]] created by [[Aulë]]
+| location=[[Khazad-dûm]]<br />[[Belegost]]<br />[[Nogrod]]<br />[[Amon Rûdh]]<br />[[Nulukkizdîn]]<br />[[Erebor]]<br />[[Iron Hills]]<br />[[Aglarond]]<br />[[Grey Mountains]] (incl. [[Dáin's hall]])<br />[[Blue Mountains]] (incl. [[Thorin's hall]])<br />[[Gundabad]]<br />[[Rhûn]] (possibly the [[Orocarni]])
+| affiliation=[[Alliance of Dwarves and Men]]<br />[[Union of Maedhros]]<br />[[Last Alliance of Elves and Men]]<br />[[Fellowship of the Ring]]<br />[[Thorin and Company]]
+| rivalry=[[Elves]]<br />[[Dragons]]<br />[[Orcs]]
+| language=[[Khuzdul]]<br />[[Westron]]<br />[[Sindarin]]<ref name="S10">{{S|10}}</ref><br />[[Iglishmêk]] (sign language)<br />[[language of Dale]]
+| people='''Clans:'''<br/>[[Longbeards]], [[Firebeards]], [[Broadbeams]], [[Ironfists]], [[Stiffbeards]], [[Blacklocks]], [[Stonefoots]]<br/>'''Cultures:<br>'''[[Dwarves of Belegost]], [[Dwarves of Erebor]], [[Dwarves of Khazad-dûm]], [[Dwarves of the Grey Mountains]], [[Dwarves of Nogrod]], [[Dwarves of the Blue Mountains]], [[Dwarves of the Iron Hills]], [[Petty-dwarves]]
+| members=[[Durin]], [[Gimli]], [[Thorin]], [[Dáin Ironfoot]], [[Azaghâl]], [[Mîm]], [[Balin]]
+| lifespan=''[[#Lifespan|See below]]'' 
+| distinctions=Stocky; bearded; never bald; especially hardy and loyal; notoriously stubborn
+| height=At least 4 feet (1.22 m)<ref>{{NM|P2vi}}, ''Heights'', p. 195</ref>
+| hair=Blond, brown, black, blue<ref>{{cite DTP|H 01.026}}</ref>, red, and (when older) grey or white{{fact}}
+| skin=
+| clothing=
+| weapons=Often axes, swords, bows, mattocks
+}}
+{{quote|Since they were to come in the days of the power of [[Morgoth|Melkor]], [[Aulë]] made the dwarves strong to endure. Therefore they are stone-hard, stubborn, fast in friendship and in enmity, and they suffer toil and hunger and hurt of body more hardily than all other speaking peoples; and they live long, far beyond the span of Men, yet not forever.|''[[Quenta Silmarillion]]'', "[[Of Aulë and Yavanna]]"}}
+
+The '''Dwarves''', or '''''[[Khuzd|Khazâd]]''''' in their own tongue, were beings of short stature, often friendly with [[Hobbits]] although long suspicious of [[Elves]]. They were typically blacksmiths and stoneworkers by profession, unrivalled in some of their arts even by the Elves.
+
+While there were seven Houses of the Dwarves, the most prominent was that of the [[Durin's Folk|Longbeards]].
+
+==Origins==
+{{main|Fathers of the Dwarves}}
+Unlike Elves and [[Men]], the Dwarves are not counted among the [[Children of Ilúvatar]]. Their creator was [[Aulë#Names and etymology|Mahal]], known as [[Aulë]] the Smith. Aulë created the Seven [[Fathers of the Dwarves]], from whom all other Dwarves are descended, deep beneath an unknown mountain somewhere in [[Middle-earth]]. However, Aulë did not have the divine power to grant independent life to any creation, and the dwarves were bound to his will. [[Ilúvatar]] came and reprimanded Aulë, who confessed his desire to create more living things, but in repentance lifted his hammer to destroy the dwarves. Even as the blow was about to land, the dwarves cowered and begged for mercy, as Ilúvatar had taken pity and given true life to the creations of his child, including them in His plan for [[Arda]]. However, Ilúvatar did not wish them to wake before the [[Elves]], whom he intended to be the first-born. Ilúvatar granted the Dwarves life, and therefore they are known as the Adopted Children of Ilúvatar, but he bade Aulë lay them to sleep in their chamber deep beneath the mountain, and they were to awake after the [[Awakening of the Elves]].<ref name="S2">{{S|2}}</ref>
+[[File:Artigas - The Seven Houses of the Khazad.jpg|thumb|The Seven Houses of the Khazad by [[:Category:Images by Artigas|Artigas]] ]]
+The Seven Fathers awoke in their places in pairs with their wives, though [[Durin|Durin I]] had awoken alone. The seven different groups of Dwarf-folk originated in the locations where the Seven Fathers of the Dwarves first awoke.<ref name="pmxnotes">{{PM|XNotes}}</ref>
+
+The seven clans of the Dwarves were:<ref name="PMX">{{PM|X}}</ref>
+
+*'''[[Longbeards]]''', ''Durin's Folk'', originally from [[Gundabad]].
+*'''[[Firebeards]]''' and '''[[Broadbeams]]''', originally from the [[Blue Mountains]].
+*'''[[Ironfists]]''' and '''[[Stiffbeards]]''', originated in the [[East]].
+*'''[[Blacklocks]]''' and '''[[Stonefoots]]''', originated in the [[East]].
+
+Durin settled in the caves above [[Kheled-zâram]] which later became the greatest of Dwarf realms, [[Moria|Khazad-dûm]]. Therefore the halls of the Longbeards were not located near the halls of another Dwarf-kingdom.
+
+There was also an eighth group of Dwarves that was not a separate member from these seven kindreds, but composed of exiles from each: the [[Petty-dwarves]], who were hunted like animals to the point of extinction by the [[Elves]] in the First Age.
+
+==History==
+===First Age===
+Sometime after the Elves had awakened at [[Cuiviénen]],<ref group="note">In one of the texts associated with the chapter ''[[Of Aulë and Yavanna]]'' of ''[[The Silmarillion]]'' in ''[[The War of the Jewels]]'', it is said that the awakening of the Dwarves might have taken place at the time of the departure of the Eldar over the sea - in other words, either in c. {{YT|1132}} (when the [[Vanyar]] and the [[Noldor]] departed) or in c. {{YT|1150}} (when the [[Teleri]] departed).</ref><ref>{{WJ|13}}, pp. 211-212</ref> the seven [[Fathers of the Dwarves]] were released from their stone chambers. The eldest of them, called [[Durin the Deathless|Durin]], wandered until he founded the city of [[Moria|Khazad-dûm]] in the natural caves beneath three peaks: [[Barazinbar]], [[Zirakzigil]], and [[Bundushathûr]]. The city, populated by the Longbeards or [[Durin's Folk]], grew and prospered continuously through Durin's life (which was so long that he was called Durin the Deathless, also a reference to the belief by his people that he would be reincarnated seven times).
+
+Far to the west of Khazad-dûm, the great Dwarf-cities of [[Belegost]] and [[Nogrod]] were founded in [[Ered Luin]] (the Blue Mountains) during the [[Years of the Trees]], before the arrival of the Elves in [[Beleriand]]. The [[Dwarves of Belegost]] were the first to forge mail of linked rings, and they also traded weaponry with the Sindar and carved the [[Menegroth|Thousand Caves of Menegroth]] for [[Thingol]], the Lord of Beleriand. In Nogrod, the Smith [[Telchar]] forged [[Narsil]] and [[Angrist]], two of the most fateful weapons in the history of Arda, as well as the famed [[Dragon-helm]] of [[Dor-Lómin]].
+
+It is said that some Dwarves in the far [[East]] had fallen under the [[Shadow]] and were of evil mind when the ancestors of the [[Edain]] had encountered them.<ref>{{PM|XNotes}}, #28</ref>
+
+The [[Dwarves of the Blue Mountains]] fought against the forces of Melkor during the First Age, and the Dwarves of Belegost were the only people able to withstand dragon-fire in the [[Battle of Unnumbered Tears]], when [[Lord of Belegost|Lord]] [[Azaghâl]], who died in the battle, stabbed Glaurung, the first dragon. The [[Dwarves of Nogrod]] fought against Melkor as well. However, they slew [[Thingol]] out of greed and stole the [[Silmaril]] they had been charged to set into the necklace called [[Nauglamír]]. A number of retaliatory actions ensued, and the Nogrod army was destroyed by a force of [[Laiquendi]] and [[Ents]]. Both dwarf kingdoms would eventually be destroyed, along with nearly all of Beleriand, after the [[War of Wrath]], with the dwarvish refugees mainly resettling in Khazad-dûm.
+
+During those times of war in Beleriand, the [[Dwarves of Khazad-dûm]] prospered in relative peace colonizing the [[Iron Hills]] and the [[Grey Mountains]] and traded with the ancestors of the [[Northmen]].<ref>{{PM|Relations}}, pp. 302-303</ref>
+
+===Second Age===
+In the [[Second Age]], around the year {{SA|40|n}},<ref name="SA">{{App|SA}}</ref> the Firebeards and Broadbeams who lived in Nogrod and Belegost left the destruction behind and came to [[Khazad-dûm]], increasing its wealth and power.<ref name="AppA3" />
+
+The Dwarves had little participation in most of the important events involving the other races. However their friendship with the Elves became more close than ever; the Dwarves of [[Moria]] maintained close connections to the [[Gwaith-i-Mírdain]] of [[Eregion]]; the [[Doors of Durin]] of Moria were built to facilitate the communication between the two people, and was constructed jointly by both races.
+
+When Eregion was sacked by [[Sauron]]'s forces, the Dwarves assailed them from behind however, it was too late to stop him from conquering all [[Eriador]].<ref name="UTGalad">{{UT|Galadriel}}</ref>
+[[File:Liz Danforth - Annatar and the Seven Rings.png|thumb|[[Liz Danforth]] - ''Annatar and the seven rings'']]
+When "[[Annatar]]" distributed the Rings of Power, he gave [[seven Rings|seven]] to Dwarf Lords in order to subdue and control them. However, they did not have the same effect as they did over Men. Dwarves did not shift into the [[wraith-world]] and in fact resisted domination. The Rings only augmented their greed and ability to create riches.
+
+At the end of the Age, very few Dwarves participated in the [[War of the Last Alliance]], with some joining the side of [[Sauron]]. Some of the [[Dwarves of Moria]] joined the great host of the [[Last Alliance of Elves and Men]].<ref name="rings">{{S|Rings}}</ref>
+
+===Third Age===
+<!-- This article is about the Race of the Dwarves in general so it should keep generic information. Specific or detailed information about the adventures of the Dwarves as presented in the Hobbit and LotR should rather go under the History section of the article [[Longbeards]], as the characters of the books represent that clan. -->
+[[File:Angus McBride - Dwarves.jpg|thumb|left|[[Angus McBride]] - ''The Dwarves are upon You!'']]
+As [[Sauron]]'s [[shadow]] became stronger around {{TA|1300}}, evil things like the [[Orcs of the Misty Mountains]] began multiplying, harassing the Dwarves.<ref name="ta">{{App|TA}}</ref>
+
+In [[Third Age 1980]], after centuries of greedy digging for ''[[mithril]]'' and other minerals, the Dwarves woke a [[Durin's Bane|Balrog]] that was sleeping in the deeps of the Misty Mountains since the First Age. The Dwarves fled Khazad-dum, which from then on was called ''Moria'', which means "Black pit".
+
+Most of Durin's folk left for the [[Grey Mountains]] in the North, while some followed the new king, [[Thráin I]], who briefly went to [[Lonely Mountain|Erebor]] in {{TA|1999}}. For more than 300 years the [[Dwarves of the Grey Mountains]] prospered until the Dragons in the far North started to gain strength. Some fled to the [[Iron Hills]], while most followed the new king [[Thrór]] to Erebor to start a new [[Kingdom under the Mountain]]. There, they prospered for over 200 years until the dragon [[Smaug]] descended in {{TA|2770}}. The King and his company went in exile South, while most of the survivors went to the Iron Hills.
+
+Durin's folk settled in [[Dunland]], and in {{TA|2790}} King Thrór travelled North to Moria where he was killed by the [[Orcs|Goblin]] king [[Azog]]. Thrór's son [[Thráin|Thráin II]] (who had received the Last of the Seven Rings from his father before his departure) summoned all the Houses of Dwarves to war. Thus began the [[War of Dwarves and Orcs]], in which the Dwarves destroyed all the Goblin strongholds in the [[Misty Mountains]] culminating to the great [[Battle of Azanulbizar]] where all the dwarven clans united. The Goblin hosts issuing from Moria were strong and relentless until the arrival of fresh [[Dwarves of the Iron Hills]]. The Battle ended with the victory of Dwarves, but at great cost. The Dwarven clans, however, were unwilling to repopulate Moria. Thráin, therefore, came to the [[Blue Mountains]] and established his [[Thorin's Halls|realm]] there.
+
+[[File:Angelo Montanini - Dori.jpg|thumb|[[Angelo Montanini]] - ''Dori'']]
+The Wizard [[Gandalf]] was instrumental into helping Thráin's son Thorin in reclaiming the Kingdom of Erebor. Thorin gathered around him [[Thorin and Company|twelve dwarves]], mostly from his own line, and was joined by [[Gandalf]] and [[Bilbo Baggins]]. The [[Quest of Erebor]] ended with the death of [[Smaug]]. After a quarrel with the Men and Elves over the unguarded hoard, the Dwarves - assisted by those from the [[Iron Hills]] - united with the Men and Elves to fight the attacking Goblins and Wargs, in what was called the [[Battle of Five Armies]], where Thorin was killed.
+
+[[Gimli]] son of Glóin joined the [[Fellowship of the Ring]] as a representative of the Dwarves and befriended [[Legolas]] during the [[War of the Ring]].
+
+===Later history===
+Not much is known about the Dwarves after the [[Third Age]]. After the [[War of the Ring]], [[Gimli]] brought a part of Durin's Folk from Erebor to the Glittering Caves behind Helm's Deep and founded a colony there. Subsequently, Gimli went on many travels with his friend Legolas, and History lost track of their fate. Through their friendship and influence, the feud between the two races that had lasted for millennia finally ended, shortly before the departure of the last Elves from Middle-earth. It is rumoured that Gimli and Legolas eventually boarded a ship that sailed down the river Anduin, out to sea and across to Valinor in the year {{FoA|120}}. Gimli would thus have become the only Dwarf to ever be permitted to cross to the Undying Lands.
+
+[[Durin VII]] (the Last), retook and brought Khazad-dûm back to its original splendour, and the Longbeards lived there till the "world grew old and the days of Durin's race ended".<ref name="PMX" />    
+
+==Characteristics==
+[[File:BFME2 - Dwarf 4.jpg|thumb||Dwarves as portrayed in ''[[The Battle for Middle-earth II]]'' game]]
+They were about 4 ft. high at least<ref>{{NM|P2vi}}</ref> and their more distinctive characteristic was their beard which they have from the beginning of their lives, male and females alike; and it is said that they could die of shame if they were subjected to shaving.<ref name="wjdwarves">{{WJ|13}}</ref>
+
+They had a tendency toward gold lust and committed their share of rash and greedy acts. Among these was the dispute over the [[Nauglamír]], which led to the slaying of Elu [[Thingol]] and stirred up the initial suspicion between Elves and Dwarves to open hatred.<ref name="rings" />
+
+Dwarves generally lived far from the sea and avoided getting on boats, as they disliked the sound of the ocean and were afraid of it.<ref name="S10" />
+
+===Wicked Dwarves===
+Of the people of Middle-earth, Dwarves are the most resistant to corruption and influence of Morgoth and later Sauron. The seven rings of Power of the dwarves did not turn them to evil, but it did amplify their greed and lust for gold. It is said that very few wilfully served the side of darkness.<ref name="Other">{{App|Other}}</ref>
+
+In the First Age, the [[Petty Dwarves]] that dwelt in [[Beleriand]] were descendants of Dwarves exiled for evil deeds from their great mansions of their kind.<ref>{{NM|P3}}, pp. 304-305</ref> And after their [[Awakening of Men|Awakening]], some [[Men]] had met Dwarves of the [[East]] who had fallen under the [[Shadow]] and were of evil mind and were distrustful of their race.<ref name="pmxnotes" />{{rp|n. 28}} Of the Seven Houses, few fought on either side during the [[War of the Last Alliance]] at the end of the Second Age, and it's known that none from the House of Durin ever fought on the side of evil.<ref name="rings">{{S|Rings}}</ref>
+
+During the early parts of the Third Age (or at least in legends of the previous), it is known that in some places wicked dwarves had made alliances with [[Orcs]].<ref>{{H|Hill}}</ref> Those most likely came from the Dwarves of the far eastern mansions.<ref name="pmxnotes" />{{rp|n. 28}}
+
+However, it is said that there was an enmity between some Dwarves and some Men of old (who were jealous of the Dwarves's wealth and works), and the latter alleged evil things about the Dwarves.<ref name="Other" />
+
+===Skills and industries===
+{{quote|For buying and selling and exchange were their delight, and the winning of wealth thereby; and this they gathered rather to hoard than to use, save in further trading.|''Quenta Silmarillion''<ref name=wjdwarves>{{WJ|13}}</ref>{{rp|p. 204}}}}
+[[File:Lída Holubová - Dwarven smith.jpg|thumb|''Dwarven smith'' by [[Lída Holubová]]]]
+As creations of Aulë, they were attracted to the substances of Arda and crafts. They mined and worked precious metals throughout the mountains of Middle-earth. They were considered unrivalled in arts such as smithing, crafting, metalworking, and masonry, even by the [[Noldor]].<ref name="S2">{{S|2}}</ref>
+
+The Dwarves were the greatest miners ever to exist in [[Middle-earth]], building immense halls under mountains where they built their cities. They built many famed halls including [[Menegroth]], the fairest dwelling of any king that has been east of the [[Sea]],<ref name="S2" /> [[Nargothrond]],<ref name="return">{{S|Return}}</ref> [[Khazad-dum]], the grandest mansions of the Dwarves,<ref name="S10" /> the [[Elvenking's Halls]],<ref group="note">In ''[[The Lord of the Rings]]'', it is stated by [[Gimli]] that the Dwarves aided in the making of [[Thranduil]]'s halls. However, in the ''[[Unfinished Tales]]'', it is stated that Thranduil's halls "were not to be compared with [[Menegroth]]. He had not the arts nor wealth nor the aid of the Dwarves."</ref><ref>{{TT|Road}}</ref> and the [[Kingdom Under the Mountain]].
+
+In the darkness of [[Arda]] already the Dwarves wrought great works for even from the first days of their Fathers they had marvellous skill with metals and with stone; but in that ancient time iron and copper they loved to work, rather than silver and gold.<ref name="S10" />
+
+In the tempering of steel alone of all crafts the Dwarves were never outmatched even by the [[Noldor]], and in the making of mail of linked rings, which was first contrived by the [[Dwarves of Belegost|smiths of Belegost]], their work had no rival. During the third age of the captivity of [[Melkor]], the Dwarves smithied for [[Thingol]]; for they were greatly skilled in such work, though none among them surpassed the [[Dwarves of Nogrod|craftsmen of Nogrod]], of whom [[Telchar]] the smith was greatest in renown.<ref name="S10" />
+
+They were also capable masons and smiths - Dwarven smithing skills were said to be unrivalled, and their masonry creations were bested by none. The crafting skills of the Dwarves were unmatched; they crafted objects of great beauty out of gems and metals. They crafted many famed weapons, armours, and items of art and beauty, among them [[Narsil]], the sword of [[Elendil]], the [[Dragon-helm of Dor-lómin]] and the necklace [[Nauglamír]], the most prized treasure in [[Nargothrond]] and the most famed Dwarven work of the [[Elder Days]].<ref name="doriath">{{S|Doriath}}</ref>
+
+In the [[Third Age]], Dwarves wrought with patient craft works of metal and stone that now none can rival.<ref name="rings" /> However, as stated by [[Gloin son of Groin|Gloin]] at the [[Council of Elrond]], the [[Dwarves of Erebor]] have surpassed their predecessors in mining and building before [[Smaug]] descended on the [[Lonely Mountain]], but not in metal-work, smithing or the making of mail, as their predecessors'  secrets have been long lost.<ref name="Meetings">{{FR|Meetings}}</ref>
+
+===Hardiness===
+The Dwarves were created by Aulë to be strong, resistant to fire and the evils of Morgoth. They were hardier than any other race, secretive, stubborn, and steadfast in enmity or loyalty.
+
+The Dwarves are described as "the most redoubtable warriors of all the Speaking Peoples"<ref name="PMX" /> — a warlike race who would fight fiercely against whoever aggrieved them including Dwarves of "other mansions and lordships".<ref name="S10" /> Highly skilled in the making of weapons and armour, their main weapon is the battle axe, but they also use bows, swords, shields, and mattocks.<ref>{{H|15}}</ref>
+
+They are resistant to fire, more than Elves or Men.<ref>{{S|20}}</ref> Sickness was almost unknown to the Dwarves, as they were immune to human diseases.<ref name="PMAiv" />
+
+They were generally less corruptible than Men. When Sauron attempted to enslave the Free Folk of Middle-earth using the [[Rings of Power]], the Elves completely resisted his power (indeed, his hand had never sullied the [[Three Rings]]), while the [[Nine Rings]] utterly corrupted the Men who bore them into the [[Ringwraiths]]. In contrast, the Dwarves were sturdy and resistant enough that Sauron was not able to dominate them using the [[Seven Rings]]. At most, the Seven Rings sowed strife among the Dwarves and filled their wearers with an insatiable greed for gold, but they did not turn them into wraiths subservient to the Dark Lord, and he considered his plan to have failed. Sauron was furious at the Dwarves' resistance, spurring his drive to recapture the Seven Rings from them.
+
+Another example was [[Gimli]], who, while [[Saruman]] used the power in his voice and the [[Rohirrim]] were spell-bound by his magic, Gimli was unmoved and commented that Saruman's words cannot be trusted, causing Saruman to be angered enough to lose his charm.<ref>{{TT|Voice}}</ref>
+
+===Lifespan===
+The lifespan of Dwarves was varied depending on their "breed".<ref name="PMAiv">{{PM|Aiv}}</ref>  The [[Longbeards]] were particularly long-lived,<ref name="PMAiv" /> but by the Third Age, their lifespan was diminished and they lived, on average, 250 years.<ref name="PMAiv" /> The [[Kings of Durin's Folk]] named "Durin" were particularly long-lived.<ref name="PMAiv" /> Occasionally they would live up to 300 years of age, and [[Dwalin]] reached the rare lifespan of 340 years (comparable to a Middle Man living to 100).<ref name="PMAiv" />
+
+Until they were around 30 years of age, Dwarves were considered too young for heavy labour or war (hence the slaying of Azog by [[Dain Ironfoot]] at age 32 was a great feat). By the age of 40, Dwarves were hardened into the appearance that they would keep for most of their lives. Between the approximate ages of 40 and 240, most Dwarves were equally hale and able to work and fight with vigour. They took on the appearance of age only about ten years before their death, wrinkling and greying rapidly, but never going bald. 
+
+Although Dwarves did not suffer from diseases, corpulence could affect them. In prosperous circumstances, many grew fat by the age of 200 and became physically inept.<ref name="PMAiv">{{PM|Aiv}}</ref>
+
+==Culture==
+[[Earth-bread]] was a root well known to Dwarves, but almost unknown to Elves or Men. [[Coffee]] was at least known to Hobbits and Dwarves.
+
+The Dwarves didn't have relationships with animals, didn't harbour even [[dogs]] and wouldn't mount a [[horse]] willingly. For this reason they found the [[Northmen]] useful [[Alliance of Dwarves and Men|trade allies]] in the Second Age.<ref name="pmxnotes" />{{rp|n. 29}}<ref>{{PM|Relations}}</ref> In earlier times, whenever the Dwarves were unable to barter for grain, they practiced agriculture using a plough-like tool that they invented. However, Dwarves did not enjoy doing such labour.<ref>{{NM|P3v}}, Second paragraph</ref>
+
+===Family===
+The Dwarves' numbers, although they sometimes flourished, often faced periods of decline, especially in periods of war. The slow increase of their population was due to the rarity of [[Dwarf-women]], who made up only about a third of the total population. Dwarves seldom wedded before the age of ninety or more, and rarely had so many as four children. They took only one husband or wife in their lifetime, and were jealous, as in all matters of their rights. The number of Dwarf-men that married was actually less than half, for not all the Dwarf-women took husbands; some desired none, some wanted one they could not have and would have no other. Many Dwarf-men did not desire marriage because they were absorbed in their work.<ref name="AppA3">{{App|A3}}</ref><ref name="PMAiv" />
+
+Dwarf-women seldom walked abroad, and that only in great need. When they did travel, they were so alike Dwarf-men in voice, appearance, and garb that it was hard for other races to tell them apart. They were likewise seldom named in genealogies, joining their husbands' families. The only Dwarf-woman named in Tolkien's legendarium is [[Dís]], sister of Thorin Oakenshield, who was given a place in the records because of the gallant deaths of her sons, Fíli and Kíli. The scarcity of women, their rare mention, and their identical looks with the males, coupled with the Dwarves' secretive culture, led many to mistakenly believe that Dwarves were born out of stone, and upon death, they returned to that stone.<ref name="AppA3" /><ref name="PMAiv" />
+
+Dwarves are fiercely devoted to their parents and children. In their desire for their children to grow up hardy and enduring, they may treat them harshly, but they will protect them at all costs. Dwarves resent injuries to their children and to their parents more than injuries to themselves.<ref name="PMAiv" />
+
+===Religion===
+The Dwarves loved and revered the Vala Aulë and this shared love made them friendly towards the Noldor.<ref name="S10" /><ref name="S2">{{S|2}}</ref>
+
+Of old, the Elves believed that the Dwarves would have no future in [[Arda Unmarred]], but the Dwarves themselves held to a promise that Ilúvatar would hallow them and adopt them as his Children. They maintained that after death Aulë (Mahal) cared for them, gathering them to the [[Halls of Mandos]] with the other Children of Ilúvatar, though in halls set apart. It is said that after the Last Battle they will work alongside Aulë in the remaking of Arda.<ref name="S2" />
+
+===Reincarnation===
+The Dwarves believed that the reappearance of the person of one of the Dwarf-fathers (in the lines of their kings), is not one of re-birth, but of the preservation of the body of a former king, to which at intervals their spirit would return.<ref>[[J.R.R. Tolkien]], [[Michaël Devaux]] (ed.), ''[[La Feuille de la Compagnie 3|La Feuille de la Compagnie, vol.3, J.R.R. Tolkien, l'effigie des Elfes]]'', "Fragments on elvish reincarnation", "III. Some notes on 'rebirth', reincarnation by restoration, among Elves. With a note on the Dwarves"</ref>
+
+===Language===
+{{main|Khuzdul}}
+The Dwarven language was created by Aulë, and was called ''[[Khuzdul]]''. It was a strange language to Elves and Men, and few non-Dwarves learned it, because it was difficult and the Dwarves kept it secret, preferring to communicate in the languages of their neighbours. Only one Khuzdul phrase was well known to outsiders: the ancient battle cry, going back to at least the First Age: "''Baruk Khazâd! Khazâd ai-mênu!''", which means "Axes of the Dwarves! The Dwarves are upon you!". The Dwarves taught Khuzdul carefully to their children, as a learned language, not a cradle-tongue, and thus the language changed very little over the ages, unlike those of other races. The Dwarves also devised a secret language of gestures to communicate between themselves in silence, the ''[[iglishmêk]]''.<ref>{{WJ|Quendi}}, p. 395</ref>
+
+Certainly in the First Age when they first made contact with the Elves, the only tongue in Beleriand would have been Sindarin at that time as the Noldor had not yet returned from Aman. As a logical consequence, therefore, Sindarin was a language used by the dwarves.<ref name="S10" /> But the Dwarves were swift to learn and indeed were more willing to learn the [[Elven-tongue]] than to teach their own to those of alien race.<ref name="S10" /> In fact, the Dwarves were so impressed by the Elvish runes (The Cirth of Daeron) for writing Sindarin that they adopted them for use in their own tongue and used them forever more.
+
+Dwarves had great interest in languages since their first contact with other peoples and had good hability to pronounce foreigner sounds from other languages. However, they could not conceal their voices, which were deep in tone, with laryngeal coloration, so among themselves they could even speak with a laryngeal whisper.<ref>{{NM|P3xix}}, p. 371</ref>
+
+==Other names==
+The Dwarves called themselves the ''[[Khazâd]]'', the name Aulë gave them; this was adapted as '''''Hadhodrim''''' in [[Sindarin]], and '''''Casari''''' in [[Quenya]]. ''Casari'' was the common word for Dwarves among the [[Noldor]], but the [[Sindar]] usually called them ''Naugrim'' or ''Nogothrim'', both of which meant "the Stunted People",<ref>{{App|F2}}</ref> or ''Dornhoth'' ("the Thrawn Folk")<ref>{{WJ|Author}}, Note 7, p. 408</ref>.
+
+An epithet for the Dwarves in [[Quenya]] was '''''Aulëonnar''''' ("Children of Aulë").<ref>{{PM|Last}}, p. 391, fn. 22</ref>
+
+In their dealings with people of other races, the Dwarves did not reveal their true names, rather adopting new names in other languages (the [[petty-dwarves]] were an exception). During the Third Age, the Longbeards used [[northern Mannish]] names in public.
+
+==Etymology==
+Before Tolkien, the term ''dwarfs'' (with a different spelling) was used, as seen in ''Snow White and the Seven Dwarfs''. 
+
+According to Tolkien, the "real 'historical'" plural of ''dwarf'' is ''dwarrows'' or ''dwerrows''. He once referred to ''dwarves'' as "a piece of private bad grammar",<ref>{{L|17}}</ref> but in [[Appendix F]] to ''[[The Lord of the Rings]]'' he explains that if we still spoke of dwarves regularly, English might have retained a special plural for the word ''dwarf'' as with ''man''. The form ''dwarrow'' only appears in the word ''Dwarrowdelf'', a name for [[Moria]]. Tolkien used ''Dwarves'', instead, which corresponds with ''Elf'' and ''Elves'', making its meaning more apparent. The use of a different term also serves to set Tolkien's Dwarves apart from the similarly-named creatures in mythology and fairy-tales. The [[Old English]] word for ''dwarf'' was ''dweorg''.<ref name="L236">{{L|236}}</ref>
+
+The original editor of ''The Lord of the Rings'' "corrected" Tolkien's ''dwarves'' to ''dwarfs''.<ref>{{L|138}}</ref>
+
+The enduring popularity of Tolkien's books has led to the popular use of the term ''dwarves'' to describe this race in fantasy literature.
+
+==Inspiration==
+In Germanic folklore, [[Wikipedia:Dwarf (folklore)|dwarfs]] are usually associated with metallurgy.<ref name="brackman" />
+
+According to J.R.R. Tolkien his dwarfs are not Germanic ''dwarfs'' and that he deliberately called them ''dwarves'' to mark that. They are a type of incarnate rational creature and are neither naturally evil nor necessarily hostile.<ref>{{L|156}}</ref> His dwarfs are in many ways very different from the dwarfs of Germanic legend, but far nearer to them than the Elves.<ref name="L297">{{L|297}}</ref> He derived the names of the dwarves that appear in ''[[The Hobbit]]'' or in ''[[The Lord of the Rings]]'' from lists of dwarves (''dvergar'') in the Old Norse ''[[Völuspá]]'', a poem in the ''[[Poetic Edda]]'', a collection of [[Old Norse]] poems.<ref name="L297" />
+[[File:Ephraim Moses Lilien - Learning Talmud.jpg|thumb|''The Talmud students'' by [[Wikipedia:Ephraim Moses Lilien|Ephraim Moses Lilien]] (1915)]]
+At several points Tolkien noted that his Dwarves have jewish traits: both were "''at once natives and aliens in their habitations, speaking the languages of the country, but with an accent due to their own private tongue...''"<ref>{{L|176}}</ref> a tongue which he based on [[Hebrew]].
+
+{{quote|The dwarves of course are quite obviously, couldn't you say that in many ways they remind you of the Jews? Their words are Semitic obviously, constructed to be Semitic. [...] There's a tremendous love of the artefact, and of course the immense warlike capacity of the Jews, which we tend to forget nowadays.|J.R.R. Tolkien to [[Denys Gueroult]]<ref name=interview>''[[An Interview with J.R.R.T.]]''; the second phrase was edited out of the broadcast but published in Zak Cramer's "Jewish Influences in Middle-earth" (''[[Mallorn 44]]'' [[2006]]: p. 10).</ref>}}
+
+Rebecca Brackman notes that the Dwarves's creation tale resembles the role between Jews and Christians: while the Jews held the holy Law and were God's first chosen people, according to early and medieval understanding, this role has been superseded and replaced by Christianity, much like how the Dwarves were created first, but were superseded by the Elves and Men as Children of Iluvatar, according to His plan.<ref name="brackman" />
+
+According to Brackman Tolkien's Dwarves in ''The Hobbit'' display some (anti-)semitic tropes following popular perception. Such tropes are the beards, the greed for gold, cowardliness and complaining for several things, serving as comic relief; they don't seem to participate in the heroic culture of the Elven and Mannish characters and have their own value system ("dwarves are not heroes, but calculating folk with a great idea of the value of [[money]]"<ref>{{H|12}}, p. 211</ref>). Those marginalizing stereotypes were circulating both in the medieval sources Tolkien was studying, but also in his contemporary culture.<ref name="brackman" />
+
+On the other hand, while the Dwarves in ''The Hobbit'' are indeed comical, outside the heroic culture, with several unpleasant qualities stereotypically attributed to the Jews, Gimli in ''The Lord of the Rings'' is displayed heroic and steadfast and is not motivated by profit or revenge; it is also suggested that the monetary value Dwarves give to gold and gems actually comes from appreciation of their natural beauty, perceived as "greed" in ''The Hobbit''. The backstory laid out in [[Appendix A|"Durin's Folk"]] and ''[[The Quest of Erebor]]'' suggests that Thorin's aggressive and greedy behavior was stemming from his Dwarvish sense of duty, and perhaps spurred by the [[Ring of Thrór]], rather than inherited racial traits.<ref name="brackman" /> Christine Chism argued that Tolkien, having Jews in mind, responded to the cultural turmoil around the time of WWII.<ref>Chism, Christine. "Middle-earth, the Middle Ages, and the Aryan Nation." In ''[[Tolkien the Medievalist]]''. Ed. [[Jane Chance]]. London: Routledge, [[2003]]. pp. 63-92.</ref>
+
+Wayne Harden has noted that the war-cry of the Dwarves is similar to the historical [[Wikipedia:Gurkha|Gurkha]] cry, "The Gurkhas are upon you!"<ref name="brackman" />
+
+==Other versions of the legendarium==
+In the earliest versions of Tolkien's [[Legendarium]] such as [[The Book of Lost Tales]], the dwarves were evil beings, not unlike the dwarfs of Norse mythology, and sometimes allied by [[Melko]].<ref name="brackman">Brackmann, Rebecca ([[2010]]) "[https://dc.swosu.edu/mythlore/vol28/iss3/ 'Dwarves are Not Heroes': Antisemitism and the Dwarves in J.R.R. Tolkien's Writing]", [[Mythlore]]: A Journal of J.R.R. Tolkien, C.S. Lewis, Charles Williams, and Mythopoeic Literature: Vol. 28: No. 3, Article 7.</ref>
+
+In an earlier version of the legendarium it is hinted that the Dwarves do not know about Ilúvatar, or that they disbelieve his existence, but later writings contradict that suggestion.<ref>{{LT2|IV}}</ref>
+
+Concerning the hostile views between Dwarves and Elves in the First Age, [[Christopher Tolkien]] notes that "the long enduring 'hostile' view has at last virtually vanished" in ''[[The Later Quenta Silmarillion]]''.<ref name="wjdwarves" />{{rp|p. 206}}
+
+==External links==
+*"[http://lingwe.blogspot.se/2013/02/did-tolkien-coin-plural-dwarves.html Did Tolkien coin the plural “dwarves”?]" by [[Jason Fisher]]
+
+{{references|notes}}
+{{dwarvenclans}}
+[[Category:Dwarves| ]]
+[[Category:Incarnates]]
+[[Category:Races]]
+[[de:Zwerge]]
+[[fr:encyclo/peuples/nains/nains]]
+[[fi:Kääpiöt]]

@@ -1,0 +1,68 @@
+{{short description|Tolkien Society publication}}
+{{disambig-two|[[the Tolkien Society]]'s academic journal|tree|[[Mallorn]]}}
+{{journal
+| name=Mallorn
+| image = Mallorn60.jpg
+| editor=Luke Shelton
+| latest=
+| website=[http://www.tolkiensociety.org/society/publications/mallorn/ ''Mallorn'' at the Tolkien Society website]
+| publisher=[[The Tolkien Society]]
+| date=[[October]] [[1970]] - present
+| frequency=Annually
+| format=A4 stapled paperback
+| pages=up to 64
+| issn=0308-6674
+}}
+'''''Mallorn''''' is a literary and academic journal published annually by [[The Tolkien Society]]. It is the sister publication of ''[[Amon Hen (journal)|Amon Hen]]''.
+
+==History==
+''Mallorn'' was founded in [[October]] [[1970]] as the successor to [[Vera Chapman]]'s ''Belladonna's Broadsheet'' to be the magazine of [[The Tolkien Society]]. However, due to the difficulty in producing ''Mallorn'' regularly, its functions as a bulletin to Society members were moved to the new publication of ''[[Amon Hen (journal)|Amon Hen]]'' (the first issue was known as ''[[Henneth Annûn 1|Henneth Annûn]]''); this enabled ''Mallorn'' to fashion itself into the more scholarly publication that exists today.<ref>Christopher Kreuzer, "Double Century: Amon Hen - An Updated History" in ''[[Amon Hen (journal)|Amon Hen]]'', no. [[Amon Hen 200|200]], [[July]] [[2006]], pp. 29-36</ref>
+
+==Content==
+{{blockquote|[Mallorn] considers reviews, comment, scholarly articles, original poetry, artwork and original fiction (excluding fan fiction). Unsolicited material is welcome|''Mallorn'', no. [[Mallorn 46|46]], Autumn [[2008]], p. 3}}
+
+Although the description of potential articles has little changed over the years, ''Mallorn'''s focus has traditionally been on scholarly articles. There has been recent criticism from Society members that both poetry<ref>Letters in ''[[Amon Hen (journal)|Amon Hen]]'', no. [[Amon Hen 210|210]], [[March]] [[2008]], p. 31</ref> and academic articles are being "ostracised" under the new editor.<ref name="AH213">"Letters" in ''[[Amon Hen (journal)|Amon Hen]]'', no. [[Amon Hen 213|213]], [[September]] [[2008]], p. 20</ref> Gee does not refute this by saying that he is reluctant to publish poetry because he does not see himself as a competent judge, therefore the publishing of poetry is "extremely unlikely",<ref>Letters in ''[[Amon Hen (journal)|Amon Hen]]'', no. [[Amon Hen 211|211]], [[May]] [[2008]], pp. 28-9</ref> however, he has since "relented" and publishes poetry based on whether he likes it or not.<ref name="Mallorn 47">[[Henry Gee]], "The ode goes ever on" in ''Mallorn'', no. [[Mallorn 47|47]], Spring [[2009]], pp. 4-5</ref> 
+
+Due to publishing limitations, Gee also recommends that scholarly articles should be "shorter and more accessible" (unless they are "truly stellar pieces of scholarship") in order to fit in more articles which appeal to a broader range of membership.<ref name="AH213" /> In his third issue as editor, Gee re-iterated that articles should be shorter (maximum of 4,000 words for a commentary piece; 1,000 words for a review), and that he would not be publishing serialisations.<ref name="Mallorn 47" /> Gee's rationale is:
+
+{{blockquote|The publication landscape has been changed by the very welcome appearance of ''[[Tolkien Studies (journal)|Tolkien Studies]]''. This has set a new and generally high standard for Tolkien scholarship, challenging ''Mallorn'' to raise its game. However, ''Tolkien Studies'' means that ''Mallorn'' doesn't have to take the entire world of Tolkien scholarship on its shoulders, and can discover for itself a new freedom to broaden its scope, and become a more entertaining and accessible publication of which Society members can be justifiably proud.|Henry Gee in ''[[Amon Hen (journal)|Amon Hen]]'', no. [[Amon Hen 211|211]], [[May]] [[2008]], pp. 28-9}}
+
+==List of ''Mallorn'' editors==
+* Rosemary & Darroll Pardoe: [[Mallorn 1|''The Mallorn'' 1]]
+* Laurelindorenan Smial (c/o Steve Thomson): [[Mallorn 2|''Mallorn'' 2]]–[[Mallorn 4|4]]
+* [[Vera Chapman]]: [[Mallorn 5|''Mallorn'' 5]]
+* Jon Harvey: [[Mallorn 6|''Mallorn'' 6]]
+* Numenorean Smial, Hatch End: [[Mallorn 7|''Mallorn'' 7]]
+* Jonathan Simons: [[Mallorn 8|''Mallorn'' 8]]–[[Mallorn 9|9]]
+* Kevin Young: [[Mallorn 10|''Mallorn'' 10]]–[[Mallorn 12|12]]
+* Susan Rule: [[Mallorn 13|''Mallorn'' 13]]–[[Mallorn 16|16]]
+* Susan Rule (with Steve Pillinger): [[Mallorn 17|''Mallorn'' 17]]
+* Jenny Curtis: [[Mallorn 18|''Mallorn'' 18]]–[[Mallorn 22|22]]
+* Denis Bridoux: [[Mallorn 23|''Mallorn'' 23]]–[[Mallorn 27|27]]
+* [[David Doughan]]: [[Mallorn 28|''Mallorn'' 28]]-[[Mallorn 29|29]]
+* [[Patricia Reynolds]] and [[John Ellison]]: [[Mallorn 30|''Mallorn'' 30]]–[[Mallorn 32|32]]
+* Patricia Reynolds and [[Glen GoodKnight]]: ''Mallorn'' 33 as ''[[Proceedings of the J.R.R. Tolkien Centenary Conference]]''
+* Patricia Reynolds and John Ellison: [[Mallorn 34|''Mallorn'' 34]]–[[Mallorn 36|36]]
+* Len Sanford: [[Mallorn 37|''Mallorn'' 37]]–[[Mallorn 44|44]]
+* [[Henry Gee]]: [[Mallorn 45|''Mallorn'' 45]]–[[Mallorn 46|46]]
+* [[Henry Gee]] (with Colin Sullivan as production designer): [[Mallorn 47|''Mallorn'' 47]]–[[Mallorn 54|54]]
+* [[Helen Armstrong]] (with Mike Afford as production editor): [[Mallorn 55|''Mallorn'' 55]]
+* Rosalinda Haddon (with Mike Afford as production editor): [[Mallorn 56|''Mallorn'' 56]] - [[Mallorn 59|''Mallorn'' 59]]
+* Luke Shelton (with Live Knudsen and Nick Polk): [[Mallorn 60|''Mallorn'' 60]] - present
+
+==See also==
+* [[:Category:Mallorn (journal)|''Mallorn'' issues]]
+* [[:Category:Images of Mallorn (journal)|Images of ''Mallorn'' issues]]
+* ''[[Amon Hen (journal)|Amon Hen]]'' - ''Mallorn'''s sister publication, a bi-monthly bulletin to Society members
+
+==External links==
+* [http://www.tolkiensociety.org/society/publications/mallorn/ ''Mallorn''] at [http://www.tolkiensociety.org/ the Tolkien Society]
+* [http://www.facebook.com/mallorn.journal ''Mallorn'' Facebook page]
+* [http://www.tolkienguide.com/modules/wiwimod/index.php?page=Mallorn ''Mallorn'' at the Tolkien Collector's Guide]
+
+{{references}}
+{{tolkiensociety}}
+{{title|italics}}
+[[Category:Mallorn (journal)| ]]
+[[Category:The Tolkien Society]]
+[[fi:Mallorn (Tolkien Society)]]

@@ -1,0 +1,64 @@
+{{Unnamed}}
+{{Poem infobox
+| title="''Ilu Ilúvatar en kárẹ eldain a fírimoin''"
+| written=[[1936]] or [[1937]]
+| published=''[[The Lost Road and Other Writings]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Fíriel (The Lost Road)|Fíriel]], [[Elendil]], [[Herendil]]
+}}
+'''Fíriel's song''' is a [[Qenya]]/[[Quenya]] poem (with English translation) by [[J.R.R. Tolkien]], originally included in the unfinished novel ''[[The Lost Road]]'' (published in ''[[The Lost Road and Other Writings]]''). Although Tolkien did not provide an official title, in the narrative it is sung by a maiden named [[Fíriel (The Lost Road)|Fíriel]], therefore it is universally referred to as ''Fíriel's song''.
+
+== History ==
+Within the narrative, only the two first lines are given. They are sung by Fíriel, a maiden of [[Elendil]]'s household and the daughter of [[Orontor]]. While Elendil and his son [[Herendil]] were approaching their house, they heard Fíriel until her voice fell in the question "''O Ilúvatar, give me in that day beyond the end, when my Sun faileth?''" Then Elendil said "''E man antaváro? What will he give indeed?''" Herendil complained, saying that she should not be singing such things, as people in Númenor were now singing that [[Melko]] would come back and give them the Sun forever, but his father despised those words.<ref name=Firiel>{{LR|P1III2}}</ref>{{rp|62–63}}
+
+The first manuscript of the narrative gives the whole poem and the English translation, while in the revision Tolkien decided to omit most parts and leave only the two first lines.<ref name=Firiel />{{rp|71–72}} [[Helge Fauskanger]] explains that the language of this song could be called "near-LotR-style" Quenya, or late "Qenya".<ref>{{webcite|author=[[Helge Fauskanger]]|articleurl=http://folk.uib.no/hnohf/firiel.htm|articlename=Fíriel's song|dated=|website=[[Ardalambion]]|accessed=29 September 2019}}</ref>
+
+== The poem ==
+:'''Quenya text'''
+<poem style="font-style:italic; margin-left:20px;">
+Ilu Ilúvatar en kárẹ eldain a fírimoin
+ar antaróta mannar Valion: númessier.
+Toi aina, mána, meldielto - enga morion:
+talantie. Alkar Mardello lende: márie.
+En kárielto eldain Isil, hildin Úr-anar.
+Toi írimar. Ilyain antalto annar lestanen
+Ilúvatáren. Ilu vanya, fanya, eari,
+i-mar, ar ilqa ímen. Írima ye Númenor.
+Nan úye sére indo-ninya símen, ullume;
+ten sí ye tyelma, yéva tyel ar i narqelion,
+íre ilqa yéva nótina, hostainiéva, yallume:
+ananta úva táre fárea, ufárea!
+Man táre antáva nin Ilúvatar, Ilúvatar
+enyáre tar i tyel, íre Anarinya qeluva?
+</poem>
+
+:'''English translation'''
+<poem style="font-style:italic; margin-left:20px;">
+The Father made the World for Elves and Mortals
+and he gave it into the hands of the Lords. They are in the West.
+They are holy, blessed, and beloved: save the dark one.
+He is fallen. Alkar [Melkor] has gone from Earth: it is good.
+For Elves they made the Moon, but for Men the red Sun;
+which are beautiful. To all they gave in measure the gifts
+of Ilúvatar. The World is fair, the sky, the seas,
+the earth, and all that is in them. Lovely is Númenor.
+But my hearth resteth not here for ever,
+for here is ending, and there will be an end and the Fading,
+when all is counted, and all numbered at last,
+but yet it will not be enough, not enough.
+What will the Father, O Father, give me
+in that day beyond the end when my Sun faileth?
+</poem>
+
+== See also ==
+* [[Index:Poems by J.R.R. Tolkien|Poems by J.R.R. Tolkien]]
+
+== External links ==
+* [http://folk.uib.no/hnohf/firiel.htm Word-by-word analysis] at [[Ardalambion]]
+* [http://www.youtube.com/watch?v=qWyrQSM5w_0 Choral rendition] by [[:Wikipedia:Martin Romberg|Martin Romberg]]
+
+{{References}}
+{{poems}}
+
+[[Category:Poems in The History of Middle-earth]]
+[[Category:The Lost Road]]
+[[Category:Quenya texts]]

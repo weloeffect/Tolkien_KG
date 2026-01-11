@@ -1,0 +1,43 @@
+{{journal
+| title=Other Minds 19
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=September [[2018]]
+| format=PDF
+| pages=133
+| issn=
+}}
+
+'''''Other Minds'' 19''' is the nineteenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in September 2018.
+
+==Contents==
+* "Editorial: Sure as Shiretalk..."
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Middle-earth in Miniature IV: The Elves"
+** By José Enrique Vacas de la Rosa
+* "Bree - Expanded Campaign Notes"
+** By Olaf "Falenthal" Anguera
+* "Review: Erebor"
+** By Thomas Morwinsky
+* "A King with no Folk"
+** By Olaf "Falenthal" Anguera
+* "Divided Arnor"
+** By Thomas Morwinsky
+* "The Black Arrow"
+** By: David Cole
+* "Buckleberry Tales"
+** By: Peter Bergman
+* "Appendix: Fullscale images for Divided Arnor and The Black Arrow" 
+
+*'''Artwork / Maps:'''
+** By: Sergio Artigas, Onur Bakar, Steve Bellshaw, [[Matej Cadil]], Ralph Damiani, Jenny Dolfen, [[Anke Eißmann]], Mark Fisher, Wouter Florusse, Daniel Govar, Gin Hardiarso, [[John Howe]], Pierre Joubert, Pawel Kardis, Liiga Klavina, JLazarusEB, Turner Mohan, Nolanos, Abe Papakhian, Jereme Peabody, Vincent Pompetti, Jan Pospíšil, Peter Xavier Price, John Emanuel Shannon, Ari Suonpää, Angels T.I.
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 19}}
+[[Category:Other Minds]]

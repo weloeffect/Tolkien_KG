@@ -1,0 +1,142 @@
+{{incomplete}}
+{{episode infobox
+| name= Eldest
+| image =
+| caption=
+| director=[[Louise Hooper]]<br/>[[Sanaa Hamri]]
+| writer=[[Glenise Mullins]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[5 September]] [[2024]]
+| runtime=65 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=27580491
+| gallery=The Rings of Power (TV series)
+| previous=[[The Eagle and the Sceptre]]
+| next=[[Halls of Stone]]
+}}
+
+{{Quote|[[The Stranger]] finds what he's been searching for. [[Arondir]] and [[Isildur]] search for [[Theo]]. [[Galadriel]] and [[Elrond]] walk into a trap.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Eldest''' is the twelfth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the fourth episode of the second season and it was released on [[5 September]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Nori Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Ciarán Hinds]] || [[Dark Wizard]]
+|-
+| [[Maxim Baldry]] || [[Isildur]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High King Gil-galad]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Rory Michael Kinnear|Rory Kinnear]] || [[Tom Bombadil]]
+|-
+| [[Samuel Hazeldine|Sam Hazeldine]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Jim Broadbent]] || [[Snaggleroot]]
+|-
+| [[Olivia Williams]] || [[Winterbloom]]
+|-
+| [[Calam Lynch]] || [[Camnir]]
+|-
+| [[Gavi Singh Chera]] || [[Merimac]]
+|-
+| [[Tanya Moodie]] || [[Gundabale Earthauler]]
+|-
+| [[Nia Towle]] || [[Estrid]]
+|-
+| [[Charlie Rix]] || [[Vorohil]]
+|-
+| [[Selina Lo]] || [[Rían (Selina Lo)|Rían]]
+|-
+| [[Oliver Alvin-Wilson]] || [[Daemor]]
+|-
+| [[Yasen Atour|Zates Atour]] || [[Brânk]]
+|-
+| [[Peter Landi]] || [[Marmadas]]
+|-
+| [[Bridie Sisson]] || [[The Dweller]] / [[Barrow-wights|Barrow-wight]]
+|-
+| [[Anabel Kutay]] || [[Mystics|Messenger Acolyte]]
+|-
+| [[Raya Yarbrough]] || [[Goldberry|Goldberry (voice)]]
+|-
+| [[Kaner Scott]] || [[Barrow-wights|Barrow-wight]]
+|-
+| [[Robert Strange]] || [[Barrow-wights|Barrow-wight]] / [[Snaghûl]]
+|-
+| [[Thomas Gilbey]] || [[Barrow-wights|Barrow-wight]] / [[Drúv]]
+|-
+| [[Arthur Griffiths]] || [[Barrow-wights|Barrow-wight]]
+|-
+| [[Stewart Scudamore]] || [[Men|Grizzled Southlander]]
+|-
+| [[Joshua Ford]] || [[Men|Pragmatic Southlander]]
+|-
+| [[Gabriel Akuwudike]] || [[Hagen]]
+|-
+| [[Murray McArthur]] || [[Ammred]]
+|-
+| [[Theo Spofforth]] || [[Gaudrim|Gaudrim Scout]]
+|-
+| [[Kai Martin]] || [[Borzag]]
+|-
+| [[Anthony Skrimshire]] || [[Orcs|Warrior Orc]]
+|-
+| [[Zubin]] || Additional Voice Work By
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|12]]

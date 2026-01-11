@@ -1,0 +1,30 @@
+{{company infobox
+| name=Wizards of the Coast
+| image=
+| founded=[[1990]]
+| founder=Peter Adkison
+| location=
+| type=Subsidiary
+| keypeople=
+| members=
+| subsidiaries=
+| products=[[Dungeons and Dragons]], [[Magic: The Gathering]], [[The Lord of the Rings: Tales of Middle-earth|Tales of Middle-earth]], [[Dragon Magazine]]
+| parent=Hasbro
+| owner=
+| precededby=
+| succeededby=
+| website=
+}}
+'''Wizards of the Coast LLC''' is a gaming company, founded in [[1990]]. While they initially produced role-playing games, they rose to fame when they published [[Magic: The Gathering]] in [[1993]]. Magic was a collectible trading card game (the first of its kind) with a fantasy setting containing many aesthetic elements inspired by Lord of the Rings among other fiction. Since [[1997]] they also publish [[Dungeons and Dragons]] and for several periods they also published its official periodical [[Dragon Magazine]].
+
+In 1999 the company was acquired by Hasbro.
+
+On June 23, 2023, Wizards released [[The Lord of the Rings: Tales of Middle-earth]] a new Magic: The Gathering set with 451 cards that were new renditions of various characters and events from the Lord of the Rings trilogy. 
+
+In August 2026, Wizards will release a second Tolkien-related Magic: The Gathering Universes Beyond product, [[Magic: The Gathering - The Hobbit|Magic: The Gathering | The Hobbit]].
+
+==External links==
+*'''[https://company.wizards.com/en Official website]'''
+*[[wikipedia:Wizards_of_the_Coast|Wikipedia article]]
+[[Category:Businesses]]
+[[Category:American businesses]]

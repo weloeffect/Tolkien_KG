@@ -1,0 +1,26 @@
+{{adaptation}}
+{{Dragon infobox
+| image=Úrgost - The Lord of the Rings War in the North.png
+| caption=Úrgost from ''[[The Lord of the Rings: War in the North]]''
+| name=Úrgost
+| realm=[[Grey Mountains]] (formerly)<br>[[Carn Dûm]]
+| type=''[[Urulókë]]; fire-drake''<ref name="Index">{{S|Index}}, entry ''Urulóki'': "''Quenya word meaning 'fire-serpent', dragon''"</ref>
+| legs=Yes
+| wings=Yes
+| colour=Black
+}}
+'''Úrgost''' is one of the main characters in ''[[The Lord of the Rings: War in the North]]''. He is a winged [[Urulókë|fire-dragon]] who forged an alliance with [[Eradan (video game character)|Eradan]], [[Andriel]] and [[Farin (video game character)|Farin]] on their quest.
+
+==History==
+During the [[War of the Ring]], a [[dwarf]] exploring the [[Grey Mountains]] discovered Úrgost. As the battles raged at [[Minas Tirith]], [[Erebor]], and [[Mirkwood]], the [[Black Númenórean]] [[Agandaûr]] struck a deal with Úrgost: if Agandaûr conquered the dwarf mountain [[Nordinbad]], Úrgost would pledge his allegiance to him and [[Sauron]]. Agandaûr stationed some [[Uruk-hai]] and [[Men]] of [[Carn Dûm]] to await Úrgost's response while he plotted against Nordinbad.<ref name="Úrgost Lair">[[The Lord of the Rings: War in the North]], Chapter 6: Úrgost Lair, ''Úrgost Lair''</ref>
+
+Unbeknownst to Úrgost, three heroes, [[Eradan (video game character)|Eradan]], [[Andriel]] and [[Farin (video game character)|Farin]], defeated the forces Agandaûr had left behind. When they entered Úrgost's lair, the [[dragon]] roared with anger, mistaking them for Agandaûr's minions. Realizing they were not, Úrgost questioned their presence. Upon hearing their purpose, he revealed Agandaûr's offer and admitted he had no interest in Nordinbad, preferring to conquer Carn Dûm instead. He was unafraid to fight Agandaûr but knew defying Sauron would make him a target. To avoid this, he proposed to remain neutral if the heroes promised him Carn Dûm after Agandaûr's defeat. He then warned them to hurry if they wanted to save Nordinbad, sarcastically adding, "Oh yes. By all means, hurry," as they departed.<ref name="Úrgost Lair">[[The Lord of the Rings: War in the North]], Chapter 6: Úrgost Lair, ''Úrgost Lair''</ref>
+
+During the Battle of the [[Morannon]], the heroes confronted and defeated Agandaûr. With Agandaûr's death, Úrgost flew from his lair to Carn Dûm. Upon arrival, he confronted the heroes again, breathing immense flames. Sensing Sauron's fall, Úrgost knew he had been wise not to ally with him. He reminded the heroes of their bargain, and they affirmed their agreement. Satisfied, Úrgost flew off to enjoy his new domain, while the heroes, riding the [[Great Eagle]] [[Beleram]], returned to [[Rivendell]] for a well-deserved rest.<ref name="Carn Dûm">[[The Lord of the Rings: War in the North]], Chapter 8: Carn Dûm, ''Carn Dûm''</ref>
+
+==See Also==
+[[Drogoth]]
+
+{{References}}
+[[Category:Dragons from adaptations]]
+[[Category:The Lord of the Rings: War in the North characters]]

@@ -1,0 +1,30 @@
+{{scene
+|name=Concerning Hobbits
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = Three hobbits smoking.jpg
+|number=2 (extended edition only)
+|duration=2:58
+|event=Bilbo writes his memoirs, preparations for the [[Birthday Party]]
+|characters=[[Bilbo Baggins]]
+|previous=[[Prologue: One Ring to Rule Them All...]]
+|next=[[The Shire (scene)|The Shire]]
+}}
+'''Concerning Hobbits''' is the second scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was not featured in the theatrical release of ''[[The Lord of the Rings: The Fellowship of the Ring]]''. The scene is something of an adaptation of the prologue of the novel: [[Concerning Hobbits]].
+{{title}}
+==Summary==
+Bilbo is finishing his [[Red Book of Westmarch|memoirs]], recording various information about the Shire and hobbits and general. Several partygoers try and fail to get Bilbo's attention, who calls out for Frodo to answer the door, unaware that Frodo has left [[Bag End]] to meet [[Gandalf]].
+
+==Differences==
+The narration of the scene is largely constructed from the prologue of the Lord of the Rings, as well as other select passages. The scene itself is an invention to serve as a prologue for the movies. The only contradiction of the text is that Bilbo gives the date as 1400 of the Shire Reckoning, when it is in fact 1401.
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the film upon streaming it on Prime Video.
+* '''Scene 5''' - "The original cut ran four hours and thirty minutes."
+* '''Scene 5''' - "Sir Ian McKellen based Gandalf's accent on that of J.R.R. Tolkien."
+* '''Scene 5''' - "Hinuera Valley, Matamata, Waikato, New Zealand."
+* '''Scene 5''' - "The large tree that stands above [[Bag End]] was built especially by the production department. Every leaf had to be manually attached."
+
+==Soundtrack==
+* [[Concerning Hobbits (soundtrack)|Concerning Hobbits]]
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|02]]

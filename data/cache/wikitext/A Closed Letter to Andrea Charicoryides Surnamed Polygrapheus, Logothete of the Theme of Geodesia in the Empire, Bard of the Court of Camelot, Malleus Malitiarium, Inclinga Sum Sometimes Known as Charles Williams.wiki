@@ -1,0 +1,71 @@
+{{Poem infobox
+| title=A Closed Letter to … Charles Williams
+| written=likely November, [[1943]]
+| published=''[[The Inklings (book)|The Inklings: C. S. Lewis, J. R. R. Tolkien, Charles Williams and Their Friends]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Charles Williams]]
+}}
+
+'''''A Closed Letter to Andrea Charicoryides Surnamed Polygrapheus, Logothete of the Theme of Geodesia in the Empire, Bard of the Court of Camelot, Malleus Malitiarium, Inclinga Sum Sometimes Known as Charles Williams''''' is an eight-stanza poem written by [[J.R.R. Tolkien]] possibly in November of 1943. It was first published in [[1978]] in ''[[The Inklings (book)|The Inklings: C. S. Lewis, J. R. R. Tolkien, Charles Williams and Their Friends]]'' on pages 123-6. The poem expresses Tolkien's admiration for [[Charles Williams]], but also difficulty with his works. The typescript with the only title of the poem is kept in the [[Marion E. Wade Center]] of [[Wheaton College]] in Illinois.<ref>{{CG|2RGI}}, entry "''A Closed Letter to Andrea Charicoryides Surnamed Polygrapheus, Logothete of the Theme of Geodesia in the Empire, Bard of the Court of Camelot, Malleus Malitiarium, Inclinga Sum Sometimes Known as Charles Williams''"</ref>
+
+In [[2024]], the poem was republished in September as entry 174 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems>{{CP|174}}</ref>
+
+== Poem excerpts ==
+=== First stanza ===
+<poem style="font-style:italic; margin-left:20px;">
+:Our dear Charles Williams many guises shows:
+:the novelist comes first. I find his prose
+:obscure at times. Not easily it flows;
+:too often are his lights held up in brackets.
+:Yet error, should he spot it, he'll attack its
+:sources and head, exposing ramps and rackets,
+:the torturous byways of the wicked heart
+:and intellect corrupt. Yea, many a dart
+:he crosses with the fiery ones! The art
+:of minor fiends and major he reveals —
+:when Charles is on his trail the devil squeals,
+:for cloven feet have vulnerable heels.<ref name=inklings>''[[The Inklings (book)|The Inklings: C. S. Lewis, J. R. R. Tolkien, Charles Williams and Their Friends]]'', ch. 2: "'We had nothing to say to one another'", pp. 123-6</ref></poem>
+
+=== Third stanza ===
+<poem style="font-style:italic; margin-left:20px;">
+:Geography indeed! Here he again
+:exerts a subtle mind and labouring pen.
+:Geodesy say rather; for many a 'fen'
+:he wrote, and chapters bogged in tangled rhymes,
+:and has survived Europa's lands and climes,
+:dividing her from P'o-L'u's crawling slimes,
+:to her diving buttocks, breast, and head
+:(to say no fouler thing), where I instead,
+:dull-eyed, can only see a watershed,
+:a plain, an island, or a mountain-chain.
+:In that gynecomorphical terrain
+:History and Myth are ravelled in a skein
+:of endless interchange. I do not hope
+:to understand the deeds of king or pope,
+:wizard or emperor; beyond my scope
+:is that dark flux of symbol and event,
+:where fable, faith, and faërie are blent
+:with half-guessed meanings to some great intent
+:I cannot grasp. For Mount Elburz to me
+:is but a high peak far beyond the sea
+:(and high and far I'd ever have it be).<ref name=inklings/></poem>
+
+=== Last stanza ===
+<poem style="font-style:italic; margin-left:20px;">
+:'When your fag is wagging and spectacles are twinkling,
+:when tea is brewing or the glasses tinkling,
+:then of your meaning often I've an inkling,
+:your virtues and your wisdom glimpse. Your laugh
+:in my heart echoes, when with you I quaff
+:the pint that goes down quicker than a half,
+:because you're near. So, heed me not! I swear
+:when you with tattered papers take the chair
+:and read (for hours maybe), I would be there.
+:And ever when in state you sit again
+:and to your car imperial give rein,
+:I'll trundle, grumbling, squeaking, in the train
+:of the great rolling wheels of Charles' Wain.<ref name=inklings/></poem>
+
+{{references}}
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

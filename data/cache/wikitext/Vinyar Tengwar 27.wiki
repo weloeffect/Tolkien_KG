@@ -1,0 +1,28 @@
+{{VTbox
+| title=Vinyar Tengwar 27
+| image = Vinyar Tengwar 27.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Patrick H. Wynne]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=January [[1993]]
+| format=Paperback journal
+| pages=44
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 27''''' is the twenty-seventh issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|26|28}}
+
+==Contents==
+* Cover: "''Valar Empannen Aldaru''" — Patrick H. Wynne
+* E.L.F. News
+
+* "ELFcon III Report" — Patrick H. Wynne
+* "Trees of Silver and of Gold: A Guide to the Koivienéni Manuscript"✫ — Patrick H. Wynne and Christopher Gilson
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 27}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 27]]

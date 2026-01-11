@@ -1,0 +1,44 @@
+{{location infobox
+| name=Tarn Aeluin
+| image=Elena Kukanova - Aeluin.jpg
+| caption="Aeluin" by [[Elena Kukanova]]
+| pronun={{respell|eye|loo-een}}
+| othernames=Aeluin
+| location=Eastern [[Dorthonion]], south-west of [[Ladros]]
+| type=Lake
+| description=A lake of clear waters with wild heaths about it
+| regions=
+| towns=
+| inhabitants=[[Barahir]] and his [[XII Bëorings|twelve followers]]
+| created=
+| destroyed=
+| events=[[Massacre at Tarn Aeluin]]
+| gallery=Tarn Aeluin
+}}
+
+{{quote|But the waters of Tarn Aeluin were held in reverence, for they were clear and blue by day and by night were a mirror for the stars...|''[[Quenta Silmarillion]]'', "[[Of Beren and Lúthien]]"}}
+
+'''Tarn Aeluin''',<ref name="Beren">{{S|Beren}}</ref> sometimes referred to as just '''Aeluin''',<ref name=MR>{{MR|P4}}, p. 325</ref> was a clear blue mountain lake in the eastern highlands of [[Dorthonion]], southwest of [[Ladros]].<ref>{{S|Map}}</ref> It was situated among wild heather hills, themselves surrounded by trackless and uninhabited forests and highland plains of heather. [[Alders|Alder-trees]] were known to grow beside the lake.<ref name="Beren"/>
+  
+==History==
+Tarn Aeluin was said to have been hallowed by [[Melian]] the [[Maiar|Maia]].<ref name="Beren"/>
+
+When [[Aegnor]] saw the reflection of [[Andreth]] in Tarn Aeluin, he fell in love with her.<ref name=MR/>
+
+[[Barahir]] and his [[XII Bëorings|twelve followers]] hid from [[Morgoth|Morgoth's]] forces after the [[Dagor Bragollach]] and made their lair at Tarn Aeluin. There they remained hidden until they were betrayed by [[Gorlim]].<ref name="Beren"/>
+
+== Etymology ==
+''Aeluin'' is clearly [[Sindarin]], being never glossed. [[Paul Strack]] explains it means "Blue Lake", from ''[[ael]]'' ("lake, pool") + ''[[luin]]'' ("blue").<ref>{{webcite|author=[[Paul Strack]]|articleurl=http://eldamo.org/content/words/word-2322146435.html|articlename=S. ''Aeluin'' loc.|website=Eldamo|accessed=24 May 2022}}</ref> ''Tarn'' is an [[Uncommon words|archaic English word]] meaning "mountain lake".
+
+== Other versions of the legendarium ==
+According to the text in "[[The Complaint of Mîm the Dwarf]]", [[Mîm]], the last of the [[Petty-dwarves]], had made his first work of art at Tarn Aeluin during his youth.<ref>''Klett- Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach'', "[[The Complaint of Mîm the Dwarf|Mîms Klage]]", pp. 302-305</ref>
+
+{{References}}
+
+[[Category:Beleriand]]
+[[Category:Dorthonion]]
+[[Category:Lakes]]
+[[Category:Sindarin locations]]
+
+[[de:Aeluin]]
+[[fi:Aeluin]]

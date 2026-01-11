@@ -1,0 +1,46 @@
+{{battle
+| name=Battle of the Lammoth
+| image = Jenny_Dolfen_-_The_Coming_of_Fingolfin.jpg
+| conflict=[[Battles of Beleriand|War of the Jewels]]
+| date={{YT|1500}}
+| place=[[Lammoth]]
+| result=Victory for the [[Exile of the Noldor|Exiles]]
+*Death of [[Argon]]
+*The followers of [[Fingolfin]] establish themselves in [[Mithrim]]
+| side1=[[Exiles]] (Followers of [[Fingolfin]])
+| side2=Forces of [[Morgoth]]
+| commanders1=
+[[Fingolfin]]
+<br>[[Argon]] †
+| commanders2=
+Unnamed [[Orc]]-captain †
+| forces1=Unknown
+| forces2=Unknown, except only [[Orcs]]
+| casual1=Unknown
+| casual2=Unknown
+|}}
+The '''Battle of the Lammoth''' was fought against the [[Orcs]] in the [[Lammoth]] soon after [[Fingolfin]] and his host arrived in [[Middle-earth]].
+
+==History==
+===Prelude===
+After [[Fëanor]]'s host acquired the ships of the [[Teleri]] following the [[Kinslaying at Alqualondë|First Kinslaying]], Fëanor and his followers used them to sail across the sea. Fëanor burned the ships after reaching Middle-earth, stranding the others, for he thought the followers of Fingolfin would prove to be useless.<ref>{{S|9}}</ref> [[Fingolfin]] and his people saw the smoke of the ships from afar, and chose to travel through the icy [[Helcaraxë]], for they were ashamed to go back to [[Valinor]], and were angry at Fëanor. The journey was hard and many died, yet they were filled with hope when they saw the [[Moon]] for the first time.<ref name="Return">{{S|Return}}</ref>
+ 
+===Battle===
+With the first rising of the Moon in {{YT|1500}},<ref>{{AA|173-9}}, pp. 131-3</ref><ref name="GA">{{GA|52}}, pp. 29-30</ref> Fingolfin and the second, greater host of the Noldor marched southward into the Lammoth. There they were attacked by [[Orcs]] issued from [[Angband]]. The Orcs made a surprise attack upon the [[Elves]], who were caught off-guard and began to give way when [[Argon]], Fingolfin's youngest son, dashed forward and cut a path to the Orc-captain, whom he slew. Although the Orcs surrounded and killed Argon, his brave deed turned the tide of the battle and the [[Noldor]] pursued the Orcs with slaughter.<ref name="ShibN38">{{PM|Shibboleth}}, p. 362, note 38</ref>
+
+===Aftermath===
+Soon after, Fingolfin's host passed into [[Mithrim]] as the [[Sun]] first rose in {{YS|1}}.<ref name="Return"/><ref name="GA"/> He led his host unopposed through [[Dor-Daedeloth]] to the [[Gates of Angband]] and smote upon them, but [[Morgoth]] and all his servants stayed hidden inside. Fingolfin realized that he and his host lacked the strength to force the entrance, so they withdrew to [[Lake Mithrim]], where the other Noldor had encamped.
+
+Owing to the great animosity that had come between the two hosts due to the burning of the ships, Fingolfin and his people made camp on the northern shores of the lake and the late Fëanor's people withdrew to its southern shores.<ref name="Return"/>
+
+==Other versions of the legendarium==
+The Battle of the Lammoth and the existence of Argon were not included in ''[[The Silmarillion]]'' at all.
+
+According to [[Christopher Tolkien]], Argon, "of whom there had never before been any mention, entered (as it seems) without a story" in the genealogies of ''[[The Shibboleth of Fëanor]]''.<ref name="ShibN38"/> In his notes on that essay, Christopher observed that the account of Fingolfin's arrival in Beleriand given in ''The Shibboleth'' contradicts that of ''[[The Grey Annals]]'', where the host of Fingolfin "marched from the North unopposed."<ref name="ShibN38"/> ''The Grey Annals'' were one of the main sources for the version published in ''The Silmarillion''.<ref name="Return"/> 
+
+[[J.R.R. Tolkien]] wrote two other versions of Argon's death in a pencilled note on a draft of the genealogy tables of ''The Shibboleth'': the first, later struck out, was that Argon was killed in the First Kinslaying; the second, that Argon perished in the ice of the Helcaraxë.<ref name="ShibN38"/>
+
+==See also==
+*[[Dagor-nuin-Giliath]]
+{{references}}
+[[Category:Conflicts of the First Age]]

@@ -1,0 +1,100 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Jí Indûr
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Liz Danforth - Indûr Dawndeath.jpeg
+| caption=''“Indûr Dawndeath”'' by [[Liz Danforth]]
+| pronun=
+| othernames=Dawndeath<br>the Shadow of the South<br>the Cloud-Lord
+| titles=
+| position=Fourth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1888}}
+| birthlocation=[[Koronandë]]
+| rule=
+| death=[[25 March]] {{TA|1955}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=6 ft 9 in<ref name=ICE>{{ICE|8003}}, pp. 89-90</ref>
+| hair=
+| eyes=Black<ref name=ICE/>
+| clothing=Grey cloak<br>Light mail<br>Mûmak-helm<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>Dawnsword<br>Cloud Bow
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Cantëa
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=the Black Assassin
+| titles=
+| position=Fourth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=Black horse
+}}
+}}
+The '''Fourth of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Indûr Dawndeath'', a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>[[Middle-earth: The Wizards]]</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] Cantëa'' ([[Quenya|Q.]] Fourth Nazgûl), and assigning the epithet of ''Black Assassin''.<ref>{{LOTRTCGW|Ulaire Cantea, Black Assassin (12R174)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+
+==Backstory in Middle-earth Role Playing==
+'''Indûr''' was born into the wealthiest family in the republic of [[Koronandë]] in {{SA|1955}} as ''Jí Indûr''. Becoming a powerful merchant and politician, he feared the growing power of [[Númenor]] and its encroachment on his commercial interests in the Bay of Usakan. Ships that ordinarily headed to the city Korlan were now heading to the Númenórean colony of [[Tantûrak]]. Indûr successfully lobbied for the creation of a central government to oppose the Númenóreans. With support from merchants, warriors, and even the Elves, he seized control and was elected the first King of Korlan in {{SA|1978}}. Many citizens rejected him however, and for the next 23 years he faced civil rebellion. 
+
+In {{SA|2000}}, the rise of a Magician in Tantûrak led to increased anti-Númenórean sentiment and doomed the rebel cause. The young king hoped to use this to launch a war and unite his people, but a rival's calls to reestablish the Republic led to spontaneous celebrations and riots. Indûr fled east and sought refuge in the tribal land of [[Mûmakan]], where [[Sauron]]'s agents had been residing. 
+
+Sauron saw an opportunity to use the exiled king to advance his goals in the Far South. In {{SA|2001}}, Sauron gave Indûr a [[Nine Rings|Ring of Power]], after which he seized the throne of Mûmakan on behalf of his new master. He adopted the regnal name Jí Amaav II, invoking Amaav, their mythical deity and first king. As the new God-lord, Indûr united the nomadic tribes of Mûmakan. His reign lasted for 1261 years, during which he expanded his empire and subjugated neighbouring lands. He failed to expand westward, where Elves, Númenóreans, and Kirani reigned. 
+
+In {{SA|3000}}, he formed a pact with the Magician of Tantûrak. With the empire's support, Tantûrak declared independence from Númenor. This left Koronandë surrounded by hostile nations, though a lingering jealousy between Tantûrak and Mûmakan prevented its outright conquest.
+
+Indûr's reign was ended when [[Ar-Pharazôn]] invaded Middle-earth in {{SA|3262}}, shattering Mûmakan's empire and forcing Indûr to retreat. He returned to Mordor after the [[Downfall of Númenor]] and fought in the [[War of the Last Alliance]]. He was defeated with his master and passed into the shadow. 
+
+Indûr reappeared around {{TA|1050}}, spending two centuries regaining his strength. By {{TA|1250}}, he had successfully manoeuvred his servants to form a coalition of the tribes of Mûmakan, once again stirring them to expansion. In {{TA|1372}}, his intervention saved the kingdom of Koronandë from defeat at the hands of the Magician of Tantûrak, beginning an era of Mûmakani influence. This era was also marked by ritualistic nocturnal assassinations that earned Indûr the epithet Dawndeath.
+
+He ruled as Jí Amaav III from {{TA|1264}} to {{TA|1640}}, and again as Jí Amaav IV from {{TA|2460}} to {{TA|2941}}. Between his reigns he dwelt in [[Mordor]] or [[Minas Morgul]].
+
+During the [[War of the Ring]], Indûr rode with the Black Riders in search of the One Ring. He prepared the Mûmakil assault for the [[Battle of the Pelennor Fields]], later joining the remaining wraiths at the [[Battle of the Morannon]], where he perished with Sauron's defeat.<ref name=ICE/>
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have possessed the following weapons:
+*'''War-dancer''': A scimitar made of white [[Metals_in_Middle-earth_Role_Playing#Eog|eog]], inlaid with ivory. It had a sapphire-tipped pommel.<ref>{{ICE|2010}},  p. 25</ref>
+* '''Cloud Bow''': A lurak-wooden composite bow. A tendon of a [[fell beast]] served as its string.<ref>{{ICE|2010}},  p. 22</ref>
+{{References}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 4}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

@@ -1,0 +1,67 @@
+{{artist infobox
+| image=Jenny Dolfen.jpg
+| name=Jenny Dolfen
+| born=[[1975]]
+| died=
+| style=Watercolour
+| images=[[:Category:Images by Jenny Dolfen|Images by Jenny Dolfen]]
+| location=[[Wikipedia:Germany|Germany]]
+| website=https://goldseven.wordpress.com/
+}}
+'''Jenny Dolfen''' (born [[1975]]) is a German artist and teacher. 
+==History==
+Dolfen was introduced to Tolkien's works via her mother, who was an avid fan.<ref>"Acuarelas innumerables: Entrevista a Jenny Dolfen" in ''Dragón Verde 10''</ref> Her artwork gained notoriety in the early 2000s because it depicted events from [[The Silmarillion]], which was not very common at the time.<ref name=tor>[https://www.tor.com/2022/11/17/the-art-of-middle-earth-the-elves-feanoreans-and-glucksdrachen-of-jenny-dolfen/ The Art of Middle-earth: The Elves, Fëanoreans, and Glücksdrachen of Jenny Dolfen] on tor.com (accessed 16 July 2023)</ref>
+
+She is a regular guest at Tolkien-related events, having spoken at artist panels at [[The Return of the Ring]], [[Tolkien Thing]] 2013, and [[Tolkien 2019]].
+
+In 2018, she was diagnosed with an unknown eye disease<ref>Jenny Dolfen, [https://goldseven.wordpress.com/blog/page/3/''"This Hither Shore"''] on goldseven.wordpress.com (accessed 17 July 2023)</ref> that has since made her visually disabled. She "works around" her condition by using magnifying glasses and digital canvases.<ref name=tor /> When asked about her disability's impact on her art, she said: "''[T]here have been times over the past four years when I felt that I couldn’t keep creating, but I’ve always found a way to get back again—I think creating is my default mode, and no matter how hard creating may be, not creating always ends up being harder!''"<ref name=tor />
+
+==Awards==
+* [[2014]]: '''[[Tolkien Society Awards|Tolkien Society Award]]: Best artwork''', ''[[:File:Jenny Dolfen - Earendil the Mariner.jpg|Eärendil the Mariner]]''
+* [[2018]]: '''[[Tolkien Society Awards|Tolkien Society Award]]: Best artwork''', ''[[:File:Jenny Dolfen - The Hunt.jpg|The Hunt]]''
+* [[2020]]: '''[[Tolkien Society Awards|Tolkien Society Award]]: Best artwork''', ''[[:File:Jenny Dolfen - The Professor.jpg|The Professor]]''
+==Bibliography==
+* [[2015]]: ''Darkness over Cannae: Hannibal against the might of Rome''
+* [[2016]]: ''[[Songs of Sorrow and Hope|Songs of Sorrow and Hope: The Art of Jenny Dolfen]]''
+* [[2020]]: ''Journeys: Artbook 2015-2019''
+* [[2022]] ''The Secret of the Haunted Forest''
+
+==Published Artwork==
+===Cover art===
+* [[2013]]:'' [[Der Flammifer von Westernis 47]]''
+* [[2020]]: ''[[Amon Hen 283]]''
+* [[2021]]: ''Dragón Verde 10''
+* [[2025]]: ''[[Proceedings of the Tolkien 2019 Conference]]''
+
+===Featured===
+* [[2004]]: ''[[Aiglos 2]]''
+* [[2004]]: ''[[Aiglos 3]]''
+* [[2005]]: ''[[Aiglos 4]]''
+* [[2005]]: ''The Art of [[George R. R. Martin]]'s A Song of Ice and Fire''
+* [[2014]]: ''[[Mallorn 55]]''
+* [[2015]]: ''[[Mallorn 56]]''
+* [[2020]]: ''[[Beyond Bree]] Calendar 2020''
+* [[2021]]: ''[[Mallorn 61]]''
+* [[2023]]:'' [[Tolkien Calendar 2023]]''
+* [[2023]]: ''[[Beyond Bree]] Calendar 2023''
+==See also==
+*[[:Category:Images by Jenny Dolfen|Images by Jenny Dolfen]]
+
+==External links==
+* [https://goldseven.wordpress.com/ Official website] (deleted since January 2025)
+* [https://bsky.app/profile/jennydolfen.bsky.social Jenny Dolfen] at [https://bsky.app/ Bluesky]
+* {{WP|Jenny Dolfen}}
+* [https://www.youtube.com/watch?v=XwczPh9pUM4&ab_channel=TheTolkienSociety Tolkien 2019: Illustrating Tolkien Panel] on YouTube
+===Interviews===
+* [https://www.youtube.com/watch?v=nZQF-iE6TGI&ab_channel=TolkienExperience Episode 30] of [[The Tolkien Experience|The Tolkien Experience Podcast]]
+* ''[https://www.tor.com/2022/11/17/the-art-of-middle-earth-the-elves-feanoreans-and-glucksdrachen-of-jenny-dolfen/ The Art of Middle-earth: The Elves, Fëanoreans, and Glücksdrachen of Jenny Dolfen]'' on tor.com
+* [https://www.youtube.com/watch?v=CLXZkSTnUXA&ab_channel=SmallTolk SmallTolk im Gespräch mit Jenny Dolfen] on YouTube '''(German)'''
+* ''[https://issuu.com/sociedadtolkiencolombiaorodruin/docs/10._marzo_2021 Acuarelas innumerables: Entrevista a Jenny Dolfen]'' in ''[[Sociedad Tolkien Colombia Orodruin|Dragón Verde 10]]'', pp.&nbsp;10–2 '''(Spanish)'''
+
+{{references}}
+{{DEFAULTSORT:Dolfen, Jenny}}
+{{IllustratorsCalendars}}
+[[Category:Artists]]
+[[Category:German people]]
+[[Category:People by name]]
+[[de:Jenny Dolfen]]

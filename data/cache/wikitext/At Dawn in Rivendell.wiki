@@ -1,0 +1,45 @@
+{{album
+| image = At Dawn in Rivendell.jpg
+| title=At Dawn in Rivendell
+| type=Studio album
+| artist=Tolkien Ensemble
+| released=[[2003]]
+| recorded=
+| genre=Classical
+| length=
+| language=
+| label=Decca
+}}
+'''''At Dawn in Rivendell''''' is the third studio album by [[Tolkien Ensemble]], released in March 11, [[2003]].
+
+== Track listing ==
+
+#"Verse of the Rings"
+#"Song of Gondor"
+#"[[A Walking Song]]
+#"Warning of Winter"
+#"Malbet the Seer's Words"
+#"A Drinking Song"
+#"The Long List of the Ents, No. 1"
+#"Éomer's Song" (Caspar Reiff)
+#"Boromirs Riddle" (Caspar Reiff)
+#"The Bath Song" (Peter Hall, Caspar Reiff)
+#"Song of Lebenin"
+#"Gandalf's Riddle to the Ents"
+#"Ho! Tom Bombadil" (Peter Hall)
+#"[[Riddle of Strider|The Riddle of Strider]] (I)"
+#"Song of Nimrodel"
+#"Treebeard's Song"
+#"Farewell Song of Merry and Pippin"
+#"Athelas"
+#"A Walking Song (II)"
+#"[[A Elbereth Gilthoniel|An Elven Hymn to Elbereth Gilthoniel]] (III)"
+
+
+{{sequence
+ |prev=[[A Night in Rivendell]]
+ |next=[[Leaving Rivendell]]
+ |list=[[Tolkien Ensemble]] discography
+}}
+{{title|italics}}
+[[Category:Albums]]

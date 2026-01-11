@@ -1,0 +1,34 @@
+{{actor
+| image = Karl Urban.jpg
+| name=Karl Urban
+| lifetime=[[7 June|June 7]], [[1972]]
+| played=[[Éomer]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2=
+| film2=
+| imdb=[http://www.imdb.com/name/nm0881631/ Profile]
+}}
+
+'''Karl-Heinz Urban''' is a New Zealand-born actor. He played [[Éomer]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]].
+
+==Quotes==
+{{quote|Lots of riding. I spent a whole month, five days a week, every week, doing horse riding lessons because Éomer is of Rohan, a horse nation.|Karl Urban, IGN interview}}
+{{quote|I never had any in-depth discussion with Peter about the psychology of Eomer, or how the death of his parents may have affected him as a young man. Besides, any questions you need to ask are answered in the book, where you get to see how your piece of the puzzle fits in with the bigger picture. That's not a luxury you have on other projects.|Karl Urban, lordoftherings.net.}}
+
+==Awards==
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+== External links ==
+* {{WP|Karl Urban}}
+
+{{DEFAULTSORT:Urban, Karl}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[de:Karl Urban]]
+[[fi:Karl Urban]]

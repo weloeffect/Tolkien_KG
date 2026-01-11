@@ -1,0 +1,27 @@
+{{company infobox
+| name=Decipher, Inc.
+| image=
+| founded=[[1983]]
+| founder=Warren Holland
+| location=
+| type=
+| keypeople=
+| members=
+| subsidiaries=
+| products=[[The Lord of the Rings Trading Card Game]], [[The Lord of the Rings Roleplaying Game]]
+| parent=
+| owner=
+| precededby=
+| succeededby=
+| website=
+}}
+'''Decipher, Inc.''' is a gaming company, founded in [[1983]]. Their first games were puzzles (hence the name) and board games, but they later settled on trading card games. After losing the rights to ''Star Wars'' in 2001, they quickly found a replacement: [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]. Their popular ''[[The Lord of the Rings Trading Card Game]]'' - usually referred to as "Decipher Cards" - lasted until [[2007]], when their license expired.<ref>[http://decipher.fanhq.com/Articles/Article.aspx?ID=1263]</ref> 
+
+During this time, Decipher also ran the ''[[The Lord of the Rings Fan Club]]'', and in [[2002]] they published ''[[The Lord of the Rings Roleplaying Game]]''.
+
+{{references}}
+==External links==
+* '''[http://decipher.fanhq.com/ Official website]'''
+* [[wikipedia:Decipher, Inc.|Wikipedia article]]
+[[Category:Businesses]]
+[[Category:American businesses]]

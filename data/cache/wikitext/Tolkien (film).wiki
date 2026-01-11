@@ -1,0 +1,117 @@
+{{disambig-more|Tolkien|[[Tolkien (disambiguation)]]}}
+{{film infobox
+| name=Tolkien
+| image = Tolkien (film) - poster.jpg
+| caption=Poster
+| director=[[Dome Karukoski]]
+| writers=[[David Gleeson]]<br>[[Stephen Beresford]]
+| screenplay=
+| basedon=
+| producers=Peter Chernin<br>Jenno Topping<br>David Ready<br>Kris Thykier
+| starring=[[Nicholas Hoult]]<br/>[[Lily Collins]]
+| narrator=
+| cinematography=Lasse Frank
+| editing=Harri Ylönen
+| music=[[Thomas Newman]]
+| animator=
+| studio=Chernin Entertainment
+| distributor=[[The Walt Disney Company|Fox Searchlight Pictures]]
+| released=[[3 May]] [[2019]] (UK)<br/>[[10 May]] [[2019]] (USA)
+| runtime=112 minutes
+| country=USA
+| language=English
+| budget=$20 million
+| gross=$9 million
+| website=[http://www.foxsearchlight.com/tolkien/ Official website]
+| imdb_id=3361792
+}}
+'''''Tolkien''''' is a [[2019]] biographical drama film that depictes [[J.R.R. Tolkien]]'s early life in [[Birmingham]] and [[King Edward's School]], as an undergraduate at [[University of Oxford|Oxford]] and serving in the [[World War I|Great War]]. Directed by [[Dome Karukoski]] and written by [[David Gleeson]] and
+[[Stephen Beresford]], the film stars [[Nicholas Hoult]] as Tolkien, [[Lily Collins]] as [[Edith Bratt]], [[Colm Meaney]] as [[Francis Morgan|Father Francis Morgan]], and [[Derek Jacobi]] as Professor [[Joseph Wright]]. It was released by Fox Searchlight Pictures in the United Kingdom on [[3 May]] 2019 and in the United States on [[10 May]] 2019. The film received mixed reviews from critics and grossed $7 million worldwide on a $20 million budget.<ref>{{webcite|author=|articleurl=http://www.boxofficemojo.com/movies/?id=tolkien.htm|articlename=Tolkien (2019)|dated=June 14, 2019|website=[http://www.boxofficemojo.com Box Office Mojo]|accessed=}}</ref>
+
+==Synopsis==
+Beginning with the childhood of Tolkien in [[Sarehole Mill]], the film covers the early years of his life from his birth until the end of the [[Great War]].
+
+==Cast==
+{| class="TGtable sortable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Nicholas Hoult]] || [[J. R. R. Tolkien]]
+|-
+| [[Lily Collins]] || [[Edith Bratt]]
+|-
+| [[Colm Meaney]] || [[Francis Morgan|Father Francis Morgan]]
+|-
+| [[Derek Jacobi]] || [[Joseph Wright|Prof. Joseph Wright]]
+|-
+| [[Anthony Boyle]] || [[Geoffrey Bache Smith]]
+|-
+| [[Patrick Gibson]] || [[Robert Quilter Gilson|Robert Q. Gilson]]
+|-
+| [[Tom Glynn-Carney]] || [[Christopher Wiseman]]
+|-
+| James MacCallum || [[Hilary Tolkien]]
+|-
+| Harry Gilby || young J. R. R. Tolkien
+|-
+| Mimi Keene || young Edith Bratt
+|-
+| Adam Bregman || young Geoffrey Smith
+|-
+| Albie Marber || young Robert Gilson
+|-
+| Ty Tennant || young Christopher Wiseman
+|-
+| Guillermo Bedward || young Hilary Tolkien
+|-
+| Pam Ferris || Mrs. Faulkner
+|-
+| [[Kallum Tolkien]] || Second Soldier
+|-
+| Craig Roberts || Private Sam Hodges
+|-
+| Laura Donnelly || [[Mabel Tolkien]]
+|-
+| Genevieve O'Reilly || Mrs. Smith
+|-
+| Owen Teale || Headmaster Gilson
+|-
+| Tony Nash || Mackintosh
+|-
+| Sian Crisp || Waitress
+|-
+| Mia Woods || [[Priscilla Tolkien]]
+|-
+| Sienna Woods	|| Priscilla Tolkien 
+|-
+| Paul Gurcel Escudero	|| [[Michael Tolkien]] 
+|-
+| Harry Webster || [[John Tolkien|John Tolkien Jnr.]] 
+|-
+| Jack Riley || [[Christopher Tolkien]] 
+|}
+
+==Reception==
+Some weeks before its release, the [[Tolkien Estate]] released a statement wishing to make clear that they '''"did not approve of, authorise or participate in the making of this film"'', and that they ''"do not endorse it or its content in any way"''.<ref>{{webcite|author=Aliso Flood|articleurl=http://www.theguardian.com/books/2019/apr/23/tolkien-estate-disavows-forthcoming-film-starring-nicholas-hoult|articlename=Tolkien estate disavows forthcoming film starring Nicholas Hoult|dated=23 April 2019|website=[http://www.theguardian.com The Guardian]|accessed=}}</ref>
+
+The film received mixed reviews upon release, having a rating of 50% critic score and 71% audience score on review aggregator [[wikipedia:Rotten Tomatoes|Rotten Tomatoes]],<ref>{{webcite|articleurl=https://www.rottentomatoes.com/m/tolkien |articlename=''Tolkien'' (2019) |website=Rotten Tomatoes |accessed=28 June 2023}}</ref> and an average rating of 6.8/10 on [[wikipedia:IMDb|IMDb]].<ref>[https://www.imdb.com/title/tt3361792/ Tolkien], IMDb (accessed 28 June 2023)</ref>
+
+Among Tolkien scholars, it is agreed that the film is hardly historically accurate.<ref name=tolkcast>[https://www.tolkcast.de/episode/010-das-special-tolkien-ein-biopic-kein-dokumentarfilm 010 Das Special: Tolkien: Ein Biopic, kein Dokumentarfilm] (german, Episode 10 of [[TolkCast]]) (accessed 28 June 2023)</ref><ref name=doug>[https://www.youtube.com/watch?v=QZZg-n3ARPI&t=1317s&ab_channel=TolkienTalk Interview with Douglas A. Anderson | TT 573] on YouTube (accessed 28 June 2023)</ref><ref name= edu>[[Eduardo Segura]], [http://montanalandscapes.blogspot.com/2019/07/tolkien-la-pelicula-un-comentario.html "Tolkien", la película. Un comentario] (blog entry) (accessed 28 June 2023)</ref> [[Douglas A. Anderson]] said that he hopes "''that film passes into its deserved oblivion quickly''".<ref name=doug /> [[Eduardo Segura]] found it "''epidermic and easy to forget''".<ref name=edu /> [[Marcel Bülles]] highlighted the fact, that even though the film doesn't represent the chronology and events of Tolkien's life accurately, "''the mood, the atmosphere, it's just right''".<ref name=tolkcast /> Upon seeing the film, [[John Garth]] humorously remarked "''Dang, I have to rewrite [[Tolkien and the Great War|my book]] now''".<ref name=tolkcast />
+
+Another criticism held at the film was the apparent absence of Tolkien's [[christianity]], despite it impacting his work.<ref>{{webcite |articleurl=https://www.foxnews.com/opinion/paul-batura-disney-tolkien-christian |articlename=Paul Batura: Disney ignores Tolkien's Christian faith in new drama |author=Paul Batura |website=Fox "News"|dated=12 May 2019 |accessed=27 October 2022}}</ref>
+
+==Gallery==
+{{Seealso|:Category:Images from Tolkien (film)}}
+===Pictures from ''Tolkien''===
+<gallery mode="traditional" widths="300px" heights="200px">
+File:Tolkien (film) - Nicholas Hoult as J.R.R. Tolkien.jpg|J.R.R. Tolkien on his desk
+File:Tolkien (film) - J.R.R.Tolkien and Edith kissing.jpg|J.R.R. Tolkien and Edith kissing
+File:Tolkien (film) - T.C.B.S.jpg|The [[T.C.B.S.]]
+</gallery>
+==External links==
+* {{WP|Tolkien (film)}}
+* [http://www.theqandapodcast.com/2019/05/tolkien-q-george-rr-martin-dome.html Q&A with the director and cast] moderated by [[George R.R. Martin]]
+{{References}}
+{{title|italics}}
+[[Category:Films]]
+[[fi:Tolkien (elokuva)]]

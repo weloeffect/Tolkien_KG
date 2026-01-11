@@ -1,0 +1,24 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Stefano Baldo
+| born=
+| died=
+| education=
+| occupation=Artist
+| location=Italy
+| website=
+}}
+'''Stefano Baldo''' is an Italian fantasy artist. In the 1990s, he was commissioned by [[Iron Crown Enterprises]] to create art for the [[Middle-earth Collectible Card Game]].<ref>{{Cite web|articleurl=https://ideacrylic.jimdofree.com/about-1/|articlename=About|website=Artist's website|author=Stefano Baldo}}</ref>
+
+== See also ==
+*[[:CATEGORY:Images by Stefano Baldo|Images by Stefano Baldo]]
+
+==External links==
+*'''[https://ideacrylic.jimdofree.com/ Official website]'''
+{{References}}
+{{DEFAULTSORT:Baldo, Stefano}}
+[[Category:Artists]]
+[[Category:Italian people]]
+[[Category:People by name]]

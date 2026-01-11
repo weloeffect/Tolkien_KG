@@ -1,0 +1,72 @@
+{{disambig-more|White Tree|[[White Tree (disambiguation)]]}}
+{{plant infobox
+| name=Galathilion
+| image=
+| caption=
+| pronun=
+| othernames="White Tree"
+| location=[[Tirion]]
+| notablefor=
+| family=many seedlings (including [[Celeborn, White Tree|Celeborn]])
+| appearance=made in the image of [[Telperion]]
+}}
+'''Galathilion''', the '''White Tree''', was a tree made by [[Yavanna]] for the [[Elves]] of the city of [[Tirion]]. It was made in the image of [[Telperion]], as the [[Amanyar]] loved it most of the [[Two Trees]], although Galathilion gave no light.<ref name=s5/>
+
+It grew in the [[Great Square]], a high open courtyard beneath the [[Mindon Eldaliéva]], and had many seedlings in [[Eldamar]]. From it came [[Celeborn, White Tree|Celeborn]], the White Tree of [[Tol Eressëa]];<ref name=s5>{{S|5}}</ref> through which it became the ancestor of [[Nimloth of Númenor]] and the [[White Tree of Gondor]].<ref name=Ak/>
+
+==Etymology==
+Galathilion is [[Sindarin]] for "White Tree",<ref name=s5/> from ''[[galadh]]'' ("tree") + ''[[sil|thil]]'' ("shine silver)".<ref>{{S|Appendix}}, entries ''kal-'', ''sil-''</ref>
+
+The final element could be the patronymic ''[[-ion]]'', perhaps indicating the tree descents from Telperion.<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-3011243921.html|articlename=S. ''Galathilion'' pn.|website=Eldamo|accessed=30 June 2020}}</ref>
+
+==Other names==
+It was also known as the '''Tree of Tirion'''<ref>{{S|Rings}}</ref> or '''Tree of [[Túna]]'''.<ref name=Ak>{{S|Akallabeth}}</ref>
+
+''Galathilion'' was at first a name for Telperion, "but in after days ''Galathilion the Less'' was the name of the White Tree of Túna."<ref>{{MR|P3I2}}, p. 155</ref>
+
+[[Legolas]] noted that the [[Doors of Durin]] displayed the '''Tree of the High Elves''',<ref>{{FR|Journey}}</ref><ref group="note">Actually the [[:File:J.R.R. Tolkien - Doors of Durin.jpg|drawing of the Doors]], displays a ''pair'' of trees flanking the composition, not a sole tree; unless they are both taken to symbolize the "Tree of the High Elves".</ref> which probably represented Galathilion.<ref>{{HM|Guide}}, entries "Emblems — Eldar", "Tree of the High Elves"</ref><ref>{{webcite|author=Mark Fisher|articleurl=http://www.glyphweb.com/arda/t/treeofthehighelves.html|articlename=Tree of the High Elves|dated=4 July 2008|website=EoA}}</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | |TEL| | | | | LAU=[[Laurelin]]|TEL=[[Telperion]]<br><small>Destroyed by [[Morgoth]] and [[Ungoliant]]</small>}}
+{{familytree | | | | | | | | | }}
+{{familytree | | | |GAL| | | | | GAL=Galathilion on [[Túna]]<br><small>Made in the image of Telperion</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |CEL| | | CEL=[[Celeborn (White Tree)|Celeborn]] of [[Tol Eressëa]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |NIM| | | NIM=[[Nimloth (tree)|Nimloth]] of [[Númenor]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G1| | | | |G1=<small>[[White Tree of Gondor#First White Tree|First Tree of Gondor]] ([[Minas Ithil]])<br>{{SA|3320}} - {{SA|3429|n}} (planted by [[Isildur]])</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G2| | | | |G2=<small>[[White Tree of Gondor#Second White Tree|Second Tree of Gondor]] ([[Minas Anor]])<br>{{TA|2}} - {{TA|1636|n}} (planted by Isildur)</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G3 | | | | |G3=<small>[[White Tree of Gondor#Third White Tree|Third Tree of Gondor]] ([[Minas Tirith]])<br>{{TA|1640}} - {{TA|2872|n}} (planted by [[Tarondor (King of Gondor)|Tarondor]])</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G4 | | | | |G4=<small>[[White Tree of Gondor#Fourth White Tree|Fourth Tree of Gondor]] (Minas Tirith)<br>Since {{TA|3019}} (planted by [[Aragorn|Elessar]])</small>}}
+{{familytree/end}}
+
+==Other versions of the legendarium==
+In the poem ''[[Imram]]'', [[Saint Brendan]] in his deathbed is able to remember a White-tree from his travels that cannot be other than Galathilion:<ref>{{SD|Imram}}, pp. 297-8</ref>
+
+{{blockquote|In that hidden land we saw there stand<br />
+under a moonlight dim<br />
+a Tree more fair than ever I deemed<br />
+in Paradise might grow:<br />
+its foot was like a great tower's root,<br />
+its height no man could know;<br />
+and white as winter to my sight<br />
+the leaves of that Tree were;<br />
+they grew more close than swan-wing plumes,<br />
+long and soft and fair.|''[[Imram]]'' (The Death of Saint Brendan), vv. 67-76}}
+
+In a [[Quenya]] note published in ''[[Tolkien: Maker of Middle-earth]]'', the tree is referred to by the name ''[[Amalion]]''.<ref>[[Catherine McIlwaine]], ''[[Tolkien: Maker of Middle-earth]]'', p. 182</ref>
+
+{{references|notes}}
+
+[[Category:Creations of the Valar]]
+[[Category:Sindarin names]]
+[[Category:Trees]]
+
+[[de:Galathilion]]
+[[fr:encyclo/biologie/flore/galathilion]]
+[[fi:Galathilion]]

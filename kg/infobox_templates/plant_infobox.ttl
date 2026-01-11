@@ -1,0 +1,327 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Athelas> a schema:WebPage ;
+    rdfs:label "Athelas"@en ;
+    schema:about <http://localhost:8000/resource/Athelas> .
+
+<http://localhost:8000/page/Brambles_of_Mordor> a schema:WebPage ;
+    rdfs:label "Brambles of Mordor"@en ;
+    schema:about <http://localhost:8000/resource/Brambles_of_Mordor> .
+
+<http://localhost:8000/page/Cabbage> a schema:WebPage ;
+    rdfs:label "Cabbage"@en ;
+    schema:about <http://localhost:8000/resource/Cabbage> .
+
+<http://localhost:8000/page/Celeborn_%28White_Tree%29> a schema:WebPage ;
+    rdfs:label "Celeborn (White Tree)"@en ;
+    schema:about <http://localhost:8000/resource/Celeborn_%28White_Tree%29> .
+
+<http://localhost:8000/page/Clovers> a schema:WebPage ;
+    rdfs:label "Clovers"@en ;
+    schema:about <http://localhost:8000/resource/Clovers> .
+
+<http://localhost:8000/page/Corn> a schema:WebPage ;
+    rdfs:label "Corn"@en ;
+    schema:about <http://localhost:8000/resource/Corn> .
+
+<http://localhost:8000/page/Eglantine> a schema:WebPage ;
+    rdfs:label "Eglantine"@en ;
+    schema:about <http://localhost:8000/resource/Eglantine> .
+
+<http://localhost:8000/page/Fuiy%C3%A1ru> a schema:WebPage ;
+    rdfs:label "Fuiyáru"@en ;
+    schema:about <http://localhost:8000/resource/Fuiy%C3%A1ru> .
+
+<http://localhost:8000/page/Fumellar> a schema:WebPage ;
+    rdfs:label "Fumellar"@en ;
+    schema:about <http://localhost:8000/resource/Fumellar> .
+
+<http://localhost:8000/page/Funguses> a schema:WebPage ;
+    rdfs:label "Funguses"@en ;
+    schema:about <http://localhost:8000/resource/Funguses> .
+
+<http://localhost:8000/page/Galathilion> a schema:WebPage ;
+    rdfs:label "Galathilion"@en ;
+    schema:about <http://localhost:8000/resource/Galathilion> .
+
+<http://localhost:8000/page/Golden_Tree> a schema:WebPage ;
+    rdfs:label "Golden Tree"@en ;
+    schema:about <http://localhost:8000/resource/Golden_Tree> .
+
+<http://localhost:8000/page/H%C3%ADrilorn> a schema:WebPage ;
+    rdfs:label "Hírilorn"@en ;
+    schema:about <http://localhost:8000/resource/H%C3%ADrilorn> .
+
+<http://localhost:8000/page/Holly> a schema:WebPage ;
+    rdfs:label "Holly"@en ;
+    schema:about <http://localhost:8000/resource/Holly> .
+
+<http://localhost:8000/page/Mallorn> a schema:WebPage ;
+    rdfs:label "Mallorn"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn> .
+
+<http://localhost:8000/page/Mushrooms> a schema:WebPage ;
+    rdfs:label "Mushrooms"@en ;
+    schema:about <http://localhost:8000/resource/Mushrooms> .
+
+<http://localhost:8000/page/Nimloth_%28tree%29> a schema:WebPage ;
+    rdfs:label "Nimloth (tree)"@en ;
+    schema:about <http://localhost:8000/resource/Nimloth_%28tree%29> .
+
+<http://localhost:8000/page/Pine_of_Tavrobel> a schema:WebPage ;
+    rdfs:label "Pine of Tavrobel"@en ;
+    schema:about <http://localhost:8000/resource/Pine_of_Tavrobel> .
+
+<http://localhost:8000/page/Potatoes> a schema:WebPage ;
+    rdfs:label "Potatoes"@en ;
+    schema:about <http://localhost:8000/resource/Potatoes> .
+
+<http://localhost:8000/page/Roses> a schema:WebPage ;
+    rdfs:label "Roses"@en ;
+    schema:about <http://localhost:8000/resource/Roses> .
+
+<http://localhost:8000/page/Seregon> a schema:WebPage ;
+    rdfs:label "Seregon"@en ;
+    schema:about <http://localhost:8000/resource/Seregon> .
+
+<http://localhost:8000/page/Strawberries> a schema:WebPage ;
+    rdfs:label "Strawberries"@en ;
+    schema:about <http://localhost:8000/resource/Strawberries> .
+
+<http://localhost:8000/page/The_Party_Tree> a schema:WebPage ;
+    rdfs:label "The Party Tree"@en ;
+    schema:about <http://localhost:8000/resource/The_Party_Tree> .
+
+<http://localhost:8000/page/Trees> a schema:WebPage ;
+    rdfs:label "Trees"@en ;
+    schema:about <http://localhost:8000/resource/Trees> .
+
+<http://localhost:8000/page/Turnips> a schema:WebPage ;
+    rdfs:label "Turnips"@en ;
+    schema:about <http://localhost:8000/resource/Turnips> .
+
+<http://localhost:8000/page/Wheat> a schema:WebPage ;
+    rdfs:label "Wheat"@en ;
+    schema:about <http://localhost:8000/resource/Wheat> .
+
+<http://localhost:8000/page/White_Tree_of_Gondor> a schema:WebPage ;
+    rdfs:label "White Tree of Gondor"@en ;
+    schema:about <http://localhost:8000/resource/White_Tree_of_Gondor> .
+
+<http://localhost:8000/resource/Athelas> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%22%3AImage%3AJohn_Howe_-_Athelas.jpg> ;
+    tg:image "John Howe - Athelas.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor_and_the_Westlands%2C_especially_where_D%C3%BAnedain_had_passed> ;
+    tg:name "Athelas"@en ;
+    tg:notablefor <http://localhost:8000/resource/Healing_properties_against_the_Black_Breath> ;
+    tg:othernames <http://localhost:8000/resource/Kingsfoil_%28W%29%2C_%27%27as%C3%ABa_aranion%27%27_%28Q%29> ;
+    tg:pronun "{{respell|ath|eh-las}}"@en .
+
+<http://localhost:8000/resource/Brambles_of_Mordor> a schema:Taxon ;
+    tg:appearance "Tough and thorny"@en ;
+    tg:caption <http://localhost:8000/resource/%22Brambles_of_Mordor%22_by_Liz_Danforth> ;
+    tg:image "Liz Danforth - Brambles of Mordor.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Mordor> ;
+    tg:name "Brambles"@en .
+
+<http://localhost:8000/resource/Cabbage> a schema:Taxon ;
+    tg:appearance "A mass of leaves in a compact globular cluster"@en ;
+    tg:caption <http://localhost:8000/resource/Cabbage_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:family "''Brassicaceae''"@en ;
+    tg:image "Cabbage.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/The_Shire> ;
+    tg:name "Cabbage"@en .
+
+<http://localhost:8000/resource/Celeborn_%28White_Tree%29> a schema:Taxon ;
+    tg:family <http://localhost:8000/resource/Seedling_of_Galathilion> ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Tol_Eress%C3%ABa> ;
+    tg:name "Celeborn"@en ;
+    tg:othernames "\"White Tree\""@en .
+
+<http://localhost:8000/resource/Clovers> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/A_planter_with_wild_clovers_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:image "Raised Planter of Wild Clover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location "Middle-earth"@en ;
+    tg:name "Clovers"@en .
+
+<http://localhost:8000/resource/Corn> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/Cornfield_in_%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Corn.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor%2C_Middle-earth%2C_Aman> ;
+    tg:name "Corn"@en ;
+    tg:othernames "Barley, rye, wheat, oats"@en .
+
+<http://localhost:8000/resource/Eglantine> a schema:Taxon ;
+    tg:family "Roses"@en ;
+    tg:image "Eglantine.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Ithilien%2C_the_Shire> ;
+    tg:name "Eglatine"@en ;
+    tg:othernames "Sweet briar"@en .
+
+<http://localhost:8000/resource/Fuiy%C3%A1ru> a schema:Taxon ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Halls_of_Mandos> ;
+    tg:name "Fuiyáru"@en ;
+    tg:othernames "Fuior"@en ;
+    tg:pronun "{{respell|foo-i|yaa|roo}}"@en .
+
+<http://localhost:8000/resource/Fumellar> a schema:Taxon ;
+    tg:appearance "Red poppies"@en ;
+    tg:caption <http://localhost:8000/resource/%22Irmo_Lorien%22_by_Elena_Kukanova> ;
+    tg:image "Elena Kukanova - Irmo Lorien.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/L%C3%B3rien_%28Valinor%29> ;
+    tg:name "Fumellar"@en ;
+    tg:pronun "{{respell|foo|mell|ar}}"@en .
+
+<http://localhost:8000/resource/Funguses> a schema:Taxon ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Across_Middle-earth> ;
+    tg:name "Funguses"@en ;
+    tg:notablefor <http://localhost:8000/resource/Mushrooms> .
+
+<http://localhost:8000/resource/Galathilion> a schema:Taxon ;
+    tg:appearance <http://localhost:8000/resource/made_in_the_image_of_Telperion> ;
+    tg:family <http://localhost:8000/resource/many_seedlings_%28including_Celeborn%2C_White_Tree> ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Tirion> ;
+    tg:name "Galathilion"@en ;
+    tg:othernames "\"White Tree\""@en .
+
+<http://localhost:8000/resource/Golden_Tree> a schema:Taxon ;
+    tg:family <http://localhost:8000/resource/Mellyrn> ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Party_Field%2C_The_Shire> ;
+    tg:name "Golden Tree"@en ;
+    tg:notablefor <http://localhost:8000/resource/Being_the_only_mellyrn_west_of_the_Misty_Mountains> .
+
+<http://localhost:8000/resource/H%C3%ADrilorn> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%22L%C3%BAthien_Escapes_the_Treehouse%22_by_Ted_Nasmith> ;
+    tg:image "Ted Nasmith - Lúthien Escapes the Treehouse.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Doriath> ;
+    tg:name "Hírilorn"@en ;
+    tg:othernames "''Neldor''"@en .
+
+<http://localhost:8000/resource/Holly> a schema:Taxon ;
+    tg:appearance "Evergreen trees with spiny leaves"@en ;
+    tg:family "''Aquifoliaceae''"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Middle-earth%2C_especially_Hollin> ;
+    tg:name "Holly"@en .
+
+<http://localhost:8000/resource/Mallorn> a schema:Taxon ;
+    tg:appearance "Large silver-barked tree, green leaves and golden flowers"@en ;
+    tg:caption <http://localhost:8000/resource/%22A_Mallorn_in_the_Shire%22_by_Ted_Nasmith> ;
+    tg:image "Ted Nasmith - A Mallorn in the Shire.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Valinor%2C_Tol_Eress%C3%ABa%2C_N%C3%BAmenor%2C_Lothl%C3%B3rien_and_the_Shire> ;
+    tg:name "Mallorn"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Malinorn%C3%AB%27%27_%28Quenya> ;
+    tg:pronun "{{respell|mahl|lorn}}"@en .
+
+<http://localhost:8000/resource/Nimloth_%28tree%29> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AJuliana_Pinho_-_Tar-Miriel_and_Nimloth.png> ;
+    tg:family <http://localhost:8000/resource/Descended_from_Galathilion> ;
+    tg:image "Juliana Pinho - Tar-Miriel and Nimloth.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Armenelos> ;
+    tg:name "Nimloth"@en ;
+    tg:othernames "White Tree"@en .
+
+<http://localhost:8000/resource/Pine_of_Tavrobel> a schema:Taxon ;
+    tg:appearance <http://localhost:8000/resource/Tall_enough_to_reach_Ilw%C3%AB> ;
+    tg:gallery "the Pine of Tavrobel"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Tavrobel_%28Tol_Eress%C3%ABa%29> ;
+    tg:name "Pine of Tavrobel"@en ;
+    tg:notablefor <http://localhost:8000/resource/Chasing_of_Melko_by_Telimektar_and_Ingil> ;
+    tg:othernames "''Pine of Belaurin''<ref>{{LT2|Index}}, p. 377</ref>"@en .
+
+<http://localhost:8000/resource/Potatoes> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/Hamson_Gamgee> ;
+    tg:family "Nightshades"@en ;
+    tg:image "Miriam Ellis - Hamson.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/The_Shire> ;
+    tg:name "Potatoes"@en ;
+    tg:othernames "Taters"@en .
+
+<http://localhost:8000/resource/Roses> a schema:Taxon ;
+    tg:appearance "Flowering plants with large blossoms and prickly stems"@en ;
+    tg:family "''Rosaceae''"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Throughout_Middle-earth> ;
+    tg:name "Roses"@en .
+
+<http://localhost:8000/resource/Seregon> a schema:Taxon ;
+    tg:appearance "Plant with blood-red flowers"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Amon_R%C3%BBdh> ;
+    tg:name "Seregon"@en ;
+    tg:othernames "Stone's Blood"@en ;
+    tg:pronun "{{respell|seh|reh-gon}}"@en .
+
+<http://localhost:8000/resource/Strawberries> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%3AFile%3ABunch_of_Strawberries.jpg> ;
+    tg:image "Bunch of Strawberries.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location "Middle-earth"@en ;
+    tg:name "Strawberries"@en .
+
+<http://localhost:8000/resource/The_Party_Tree> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%22A_Long_Expected_Party%22_by_Inger_Edelfeldt> ;
+    tg:image "Inger Edelfeldt - A Long Expected Party.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Party_Field_%28The_Shire%29> ;
+    tg:name "Party Tree"@en .
+
+<http://localhost:8000/resource/Trees> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%27%27Trees_of_the_Dark_Forest%27%27_by_Colin_C._Throm.> ;
+    tg:image "Colin C. Throm - Trees of the Dark Forest.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:name "Trees"@en .
+
+<http://localhost:8000/resource/Turnips> a schema:Taxon ;
+    tg:appearance "Low-growing plant with large while bulbous roots"@en ;
+    tg:caption <http://localhost:8000/resource/A_turnip_from_%27%27Tales_of_the_Shire%3A_A_%22The_Lord_of_the_Rings%22_Game%27%27> ;
+    tg:family "''Brassicaceae''"@en ;
+    tg:image "Tales of the Shire - Turnip.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/The_Shire> ;
+    tg:name "Turnips"@en .
+
+<http://localhost:8000/resource/Wheat> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/Wheat_field_in_%27%27The_Lord_of_the_Rings%3A_The_Fellowship_of_the_Ring%27%27> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Sam and Frodo in a wheat field.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Valinor%2C_Middle-earth> ;
+    tg:name "Wheat"@en .
+
+<http://localhost:8000/resource/White_Tree_of_Gondor> a schema:Taxon ;
+    tg:appearance "A white tree with leaves dark on top and silver beneath; and clusters of white blossoms"@en ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3ATed_Nasmith_-_The_White_Tree.jpg> ;
+    tg:family <http://localhost:8000/resource/Trees_of_Galathilion%27s_line> ;
+    tg:gallery "the White Tree of Gondor"@en ;
+    tg:image "Ted Nasmith - The White Tree.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Minas_Ithil%2C_later_Minas_Tirith> ;
+    tg:name "White Tree of Gondor"@en ;
+    tg:othernames "White Tree of Minas Tirith, White Tree of the Eldar"@en .
+
+<http://localhost:8000/resource/Mushrooms> a schema:Taxon ;
+    tg:caption <http://localhost:8000/resource/%22Mushroom_Gatherer%22_by_Ted_Nasmith> ;
+    tg:image "Ted Nasmith - Mushroom Gatherer .jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/plant_infobox> ;
+    tg:location <http://localhost:8000/resource/Across_Middle-earth%2C_notably_in_the_Shire> ;
+    tg:name "Mushrooms"@en .
+

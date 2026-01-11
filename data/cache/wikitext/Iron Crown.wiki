@@ -1,0 +1,37 @@
+{{object infobox
+| name=Iron Crown
+| image = Audrey Corman - Iron Crown.jpg
+| caption="The Iron Crown" by [[Audrey Corman]]
+| pronun=
+| othernames=
+| location=
+| owner=[[Morgoth]]
+| type=
+| appearance=
+| creator=
+| created={{YT|1495}}
+| createdlocation=[[Angband]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=[[Quest for the Silmaril]]
+| gallery=the Iron Crown
+}}
+The '''Iron Crown''' was the crown forged by [[Morgoth]] to hold the three [[Silmarils]].
+
+==History==
+===First Age===
+The Iron Crown was forged by [[Morgoth]] in the year {{YT|1495}} on his return to [[Middle-earth]] to hold the three [[Silmarils]]. He bore it throughout the [[First Age]], and would not remove it, although it was a great burden to him.<ref>{{S|Flight}}</ref> In {{FA|466}}, [[Lúthien]] cast a spell of sleep upon Morgoth, and as he fell to the ground, the Iron Crown rolled away. [[Beren]] retrieved a Silmaril from it using the knife [[Angrist]]. He attempted to take a second, but the knife broke, and Morgoth stirred.<ref>{{S|Beren}}</ref> After Morgoth's defeat by the [[Valar]] in the [[War of Wrath]], the crown was beaten into a collar for his neck.<ref>{{S|Earendil}}</ref>
+
+===Third Age===
+Ages later, [[Samwise Gamgee]] mentioned the "Iron Crown in [[Thangorodrim]]" to [[Frodo Baggins]] while mentioning [[Beren]]'s renowned [[Quest for the Silmaril]].<ref>{{TT|IV8}}, p. 712</ref>
+[[File:The Rings of Power (TV series) - Adar Stabs Sauron.png|thumb|180px|right|[[Adar (The Rings of Power)|Adar]] holding the Iron Crown - ''[[The Lord of the Rings: The Rings of Power]]'']]
+==Portrayal in adaptations==
+'''2024: ''[[The Lord of the Rings: The Rings of Power]]'' Season Two:'''
+:In an interview, [[Charlie Vickers]], the actor who portrayed [[Sauron]], mentioned that Sauron's crown is Morgoth's Iron Crown.<ref>[https://m.youtube.com/watch?si=swU6SiwJNd6VKEJY&v=o81freb75os&feature=youtu.be Exclusive Interviews With The Cast Of ''The Lord of the Rings: The Rings of Power''], 13:09 ("''I had the crown of Morgoth, which was very cool''")</ref>
+
+{{References}}
+[[Category:Objects]]
+[[de:Eisenkrone]]
+[[fr:encyclo:artefacts:couronne de fer]]
+[[fi:Rautakruunu]]

@@ -1,0 +1,40 @@
+{{disambig-more|Oliphaunt|[[Oliphaunt (disambiguation)]]}}
+{{Poem infobox
+| title=Oliphaunt
+| other names=''Iumbo, or ye Kinde of ye Oliphaunt''
+| written=Before [[1927]]
+| revised=April, [[1944]]
+| published=''[[Stapeldon Magazine]]''<br>''[[The Two Towers]]'',<br>''[[The Adventures of Tom Bombadil]]'',<br>''[[Oliphaunt (sheet)|Oliphaunt]]''<br>''[[Oliphaunt (book)|Oliphaunt]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Oliphaunts]], [[Samwise Gamgee]]
+|image=Matěj Čadil - Oliphaunt.jpg}}
+
+'''''Oliphaunt''''' is the title of a short comic poem about the [[Oliphaunts|beast]] quoted by the hobbit [[Samwise Gamgee]] to [[Gollum]] as they and [[Frodo Baggins]] rested in the dell before the [[Morannon]].<ref>{{TT|IV3}}</ref>  It was a piece of traditional bestiary lore of the [[Shire-hobbits]].<ref>{{ATB|Preface}}</ref>
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">Grey as a mouse,
+Big as a house,
+Nose like a snake,
+I make the earth shake,
+As I tramp through the grass;
+Trees crack as I pass.<ref>{{AB|Oliphaunt}}</ref></poem>
+
+==Other versions of the legendarium==
+An early version of the poem was published as '''Iumbo, or ye Kinde of ye Oliphaunt''' in ''[[The Stapeldon Magazine#June 1927|''The Stapeldon Magazine'']]'', Oxford, vol. 7, no. 40 in June 1927 on pages 125-127.<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details.php?reference=13290|articlename=Stapeldon Magazine. 1927|dated=|website=TB|accessed=6 April 2014}}</ref>
+
+==Portrayal in adaptations==
+'''2024: ''[[The Lord of the Rings: The War of the Rohirrim]]'':'''
+:At one point in the film, it is mentioned that the [[Rohan]] has a poem about Oliphaunts, implying that the [[Rohirrim]] are either aware of the Hobbit poem or that they have their own variation of the Hobbit poem.
+
+==See also==
+*[[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+
+{{references}}
+
+{{poems}}
+
+{{title}}
+
+[[Category:Poems in The Adventures of Tom Bombadil]]
+[[Category:Poems in The Two Towers]]
+
+[[fi:Olifantti (runo)]]

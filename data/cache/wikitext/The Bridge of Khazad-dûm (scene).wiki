@@ -1,0 +1,29 @@
+{{disambig-more|The Bridge of Khazad-dûm|[[The Bridge of Khazad-dûm (disambiguation)]]}}
+{{scene
+|name=The Bridge of Khazad-dûm
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Gandalf on the Bridge of Khazad-dûm.png
+|number=30 (theatrical) <br>
+        36 (extended)
+|duration=
+|event=[[Gandalf]] vs. [[Durin's Bane|the Balrog]]
+|characters=[[Gandalf]], [[Frodo]], [[Aragorn]], [[Boromir]], [[Legolas]], [[Gimli]], [[Sam]], [[Merry]], [[Pippin]], [[Durin's Bane]]
+|previous=[[Balin's Tomb (scene)|Balin's Tomb]]
+|next=[[Lothlórien (scene)|Lothlórien]]
+}}
+{{title}}
+{{Quote|I am a servant of the Secret Fire, wielder of the flame of Anor. The dark fire will not avail you, flame of Udûn!|[[Gandalf]]}}
+'''The Bridge of Khazad-dûm''' is the thirtieth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the thirty-sixth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+The [[Fellowship]] flee from the [[Balrog]]. [[Gandalf]] tells [[Aragorn]] to lead the others on, saying there is nothing the others can do against this foe. They make their way across a broken staircase and run across the narrow [[Bridge of Khazad-dûm]]. [[Frodo]] looks back in horror to realise Gandalf is barring the Balrog's way across the bridge. ''"You cannot pass!"'' Gandalf cries. The Balrog cracks it's whip and attacks Gandalf, who blocks it with a shield as the Fellowship look on desperately. With a look of grim determination, Gandalf breaks the bridge and the Balrog falls into the darkness below. Gandalf, his strength seemingly spent, sighs in exhaustion. As he turns, the falling balrog cracks its whip around Gandalf's legs, causing him to fall down. Hanging onto the edge of the bridge by his fingertips, he sees the others watching him. ''"Fly, you fools!"'', he says to them, and then lets go, following the Balrog into the dark abyss. 
+
+Frodo screams and is dragged away by [[Boromir]], who is himself in a state of disbelief. The Fellowship make it outside and are overcome by grief. Aragorn readies them to move on, hoping to reach [[Lothlórien]]. He encourages Boromir and [[Legolas]] to get the others up, saying that the hills will be swarming with orcs by nightfall. 
+
+==Differences==
+In this scene, Gandalf perceives that Durin's bane is a Balrog while still close to the [[Chamber of Mazarbul]]. However, in the book, Gandalf is much more uncertain about its nature at first; he tells the Fellowship ''"I found myself suddenly faced by something that I have not met before"'' and ''"Then something came into the chamber – I felt it through the door, and the orcs themselves were afraid and fell silent. It laid hold of the iron ring, and then it perceived me and my spell. What it was I cannot guess, but I have never felt such a challenge"''.<ref name="FR Bridge"/>{{rp|327}} He and Legolas perceive it to be a Balrog just before the Fellowship crosses the Bridge of Khazad-dûm.<ref name="FR Bridge">{{FR|Bridge}}</ref>{{rp|329–30}} 
+
+The encounter between Gandalf and the Balrog in this scene follows the book closely in terms of narrative and dialogue spoken by Gandalf.<ref name="FR Bridge"/>{{rp|330}} A minor difference is that in the book, Aragorn and Boromir run back along the bridge to stand with Gandalf<ref name="FR Bridge"/>{{rp|331}} (this does not happen in this scene). 
+
+{{references}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|36]]

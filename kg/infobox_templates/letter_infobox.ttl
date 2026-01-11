@@ -1,0 +1,554 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Letter_1> a schema:WebPage ;
+    rdfs:label "Letter 1"@en ;
+    schema:about <http://localhost:8000/resource/Letter_1> .
+
+<http://localhost:8000/page/Letter_102> a schema:WebPage ;
+    rdfs:label "Letter 102"@en ;
+    schema:about <http://localhost:8000/resource/Letter_102> .
+
+<http://localhost:8000/page/Letter_112> a schema:WebPage ;
+    rdfs:label "Letter 112"@en ;
+    schema:about <http://localhost:8000/resource/Letter_112> .
+
+<http://localhost:8000/page/Letter_114> a schema:WebPage ;
+    rdfs:label "Letter 114"@en ;
+    schema:about <http://localhost:8000/resource/Letter_114> .
+
+<http://localhost:8000/page/Letter_127> a schema:WebPage ;
+    rdfs:label "Letter 127"@en ;
+    schema:about <http://localhost:8000/resource/Letter_127> .
+
+<http://localhost:8000/page/Letter_130> a schema:WebPage ;
+    rdfs:label "Letter 130"@en ;
+    schema:about <http://localhost:8000/resource/Letter_130> .
+
+<http://localhost:8000/page/Letter_131> a schema:WebPage ;
+    rdfs:label "Letter 131"@en ;
+    schema:about <http://localhost:8000/resource/Letter_131> .
+
+<http://localhost:8000/page/Letter_136> a schema:WebPage ;
+    rdfs:label "Letter 136"@en ;
+    schema:about <http://localhost:8000/resource/Letter_136> .
+
+<http://localhost:8000/page/Letter_168> a schema:WebPage ;
+    rdfs:label "Letter 168"@en ;
+    schema:about <http://localhost:8000/resource/Letter_168> .
+
+<http://localhost:8000/page/Letter_170> a schema:WebPage ;
+    rdfs:label "Letter 170"@en ;
+    schema:about <http://localhost:8000/resource/Letter_170> .
+
+<http://localhost:8000/page/Letter_175> a schema:WebPage ;
+    rdfs:label "Letter 175"@en ;
+    schema:about <http://localhost:8000/resource/Letter_175> .
+
+<http://localhost:8000/page/Letter_184> a schema:WebPage ;
+    rdfs:label "Letter 184"@en ;
+    schema:about <http://localhost:8000/resource/Letter_184> .
+
+<http://localhost:8000/page/Letter_185> a schema:WebPage ;
+    rdfs:label "Letter 185"@en ;
+    schema:about <http://localhost:8000/resource/Letter_185> .
+
+<http://localhost:8000/page/Letter_190> a schema:WebPage ;
+    rdfs:label "Letter 190"@en ;
+    schema:about <http://localhost:8000/resource/Letter_190> .
+
+<http://localhost:8000/page/Letter_2> a schema:WebPage ;
+    rdfs:label "Letter 2"@en ;
+    schema:about <http://localhost:8000/resource/Letter_2> .
+
+<http://localhost:8000/page/Letter_216> a schema:WebPage ;
+    rdfs:label "Letter 216"@en ;
+    schema:about <http://localhost:8000/resource/Letter_216> .
+
+<http://localhost:8000/page/Letter_218> a schema:WebPage ;
+    rdfs:label "Letter 218"@en ;
+    schema:about <http://localhost:8000/resource/Letter_218> .
+
+<http://localhost:8000/page/Letter_219> a schema:WebPage ;
+    rdfs:label "Letter 219"@en ;
+    schema:about <http://localhost:8000/resource/Letter_219> .
+
+<http://localhost:8000/page/Letter_22> a schema:WebPage ;
+    rdfs:label "Letter 22"@en ;
+    schema:about <http://localhost:8000/resource/Letter_22> .
+
+<http://localhost:8000/page/Letter_239> a schema:WebPage ;
+    rdfs:label "Letter 239"@en ;
+    schema:about <http://localhost:8000/resource/Letter_239> .
+
+<http://localhost:8000/page/Letter_240> a schema:WebPage ;
+    rdfs:label "Letter 240"@en ;
+    schema:about <http://localhost:8000/resource/Letter_240> .
+
+<http://localhost:8000/page/Letter_242> a schema:WebPage ;
+    rdfs:label "Letter 242"@en ;
+    schema:about <http://localhost:8000/resource/Letter_242> .
+
+<http://localhost:8000/page/Letter_243> a schema:WebPage ;
+    rdfs:label "Letter 243"@en ;
+    schema:about <http://localhost:8000/resource/Letter_243> .
+
+<http://localhost:8000/page/Letter_251> a schema:WebPage ;
+    rdfs:label "Letter 251"@en ;
+    schema:about <http://localhost:8000/resource/Letter_251> .
+
+<http://localhost:8000/page/Letter_258> a schema:WebPage ;
+    rdfs:label "Letter 258"@en ;
+    schema:about <http://localhost:8000/resource/Letter_258> .
+
+<http://localhost:8000/page/Letter_288> a schema:WebPage ;
+    rdfs:label "Letter 288"@en ;
+    schema:about <http://localhost:8000/resource/Letter_288> .
+
+<http://localhost:8000/page/Letter_291> a schema:WebPage ;
+    rdfs:label "Letter 291"@en ;
+    schema:about <http://localhost:8000/resource/Letter_291> .
+
+<http://localhost:8000/page/Letter_292> a schema:WebPage ;
+    rdfs:label "Letter 292"@en ;
+    schema:about <http://localhost:8000/resource/Letter_292> .
+
+<http://localhost:8000/page/Letter_293> a schema:WebPage ;
+    rdfs:label "Letter 293"@en ;
+    schema:about <http://localhost:8000/resource/Letter_293> .
+
+<http://localhost:8000/page/Letter_297> a schema:WebPage ;
+    rdfs:label "Letter 297"@en ;
+    schema:about <http://localhost:8000/resource/Letter_297> .
+
+<http://localhost:8000/page/Letter_3> a schema:WebPage ;
+    rdfs:label "Letter 3"@en ;
+    schema:about <http://localhost:8000/resource/Letter_3> .
+
+<http://localhost:8000/page/Letter_30> a schema:WebPage ;
+    rdfs:label "Letter 30"@en ;
+    schema:about <http://localhost:8000/resource/Letter_30> .
+
+<http://localhost:8000/page/Letter_301> a schema:WebPage ;
+    rdfs:label "Letter 301"@en ;
+    schema:about <http://localhost:8000/resource/Letter_301> .
+
+<http://localhost:8000/page/Letter_302> a schema:WebPage ;
+    rdfs:label "Letter 302"@en ;
+    schema:about <http://localhost:8000/resource/Letter_302> .
+
+<http://localhost:8000/page/Letter_303> a schema:WebPage ;
+    rdfs:label "Letter 303"@en ;
+    schema:about <http://localhost:8000/resource/Letter_303> .
+
+<http://localhost:8000/page/Letter_304> a schema:WebPage ;
+    rdfs:label "Letter 304"@en ;
+    schema:about <http://localhost:8000/resource/Letter_304> .
+
+<http://localhost:8000/page/Letter_322> a schema:WebPage ;
+    rdfs:label "Letter 322"@en ;
+    schema:about <http://localhost:8000/resource/Letter_322> .
+
+<http://localhost:8000/page/Letter_326> a schema:WebPage ;
+    rdfs:label "Letter 326"@en ;
+    schema:about <http://localhost:8000/resource/Letter_326> .
+
+<http://localhost:8000/page/Letter_344> a schema:WebPage ;
+    rdfs:label "Letter 344"@en ;
+    schema:about <http://localhost:8000/resource/Letter_344> .
+
+<http://localhost:8000/page/Letter_347> a schema:WebPage ;
+    rdfs:label "Letter 347"@en ;
+    schema:about <http://localhost:8000/resource/Letter_347> .
+
+<http://localhost:8000/page/Letter_352> a schema:WebPage ;
+    rdfs:label "Letter 352"@en ;
+    schema:about <http://localhost:8000/resource/Letter_352> .
+
+<http://localhost:8000/page/Letter_353> a schema:WebPage ;
+    rdfs:label "Letter 353"@en ;
+    schema:about <http://localhost:8000/resource/Letter_353> .
+
+<http://localhost:8000/page/Letter_354> a schema:WebPage ;
+    rdfs:label "Letter 354"@en ;
+    schema:about <http://localhost:8000/resource/Letter_354> .
+
+<http://localhost:8000/page/Letter_4> a schema:WebPage ;
+    rdfs:label "Letter 4"@en ;
+    schema:about <http://localhost:8000/resource/Letter_4> .
+
+<http://localhost:8000/page/Letter_5> a schema:WebPage ;
+    rdfs:label "Letter 5"@en ;
+    schema:about <http://localhost:8000/resource/Letter_5> .
+
+<http://localhost:8000/page/Letter_56> a schema:WebPage ;
+    rdfs:label "Letter 56"@en ;
+    schema:about <http://localhost:8000/resource/Letter_56> .
+
+<http://localhost:8000/page/Letter_6> a schema:WebPage ;
+    rdfs:label "Letter 6"@en ;
+    schema:about <http://localhost:8000/resource/Letter_6> .
+
+<http://localhost:8000/page/Letter_66> a schema:WebPage ;
+    rdfs:label "Letter 66"@en ;
+    schema:about <http://localhost:8000/resource/Letter_66> .
+
+<http://localhost:8000/page/Letter_86> a schema:WebPage ;
+    rdfs:label "Letter 86"@en ;
+    schema:about <http://localhost:8000/resource/Letter_86> .
+
+<http://localhost:8000/page/Letter_92> a schema:WebPage ;
+    rdfs:label "Letter 92"@en ;
+    schema:about <http://localhost:8000/resource/Letter_92> .
+
+<http://localhost:8000/resource/Letter_1> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "1"@en ;
+    tg:date <http://localhost:8000/resource/1914%23October> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Story_of_Kullervo%27%27> ;
+    tg:to <http://localhost:8000/resource/Edith_Bratt> .
+
+<http://localhost:8000/resource/Letter_102> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "102"@en ;
+    tg:date <http://localhost:8000/resource/9_August_1945> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/War%2C_wikipedia%3AAtomic_bombings_of_Hiroshima_and_Nagasaki> ;
+    tg:to <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/resource/Letter_112> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "112"@en ;
+    tg:date <http://localhost:8000/resource/30_November_1947> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Hobbit%27%27%2C_Runes> ;
+    tg:to <http://localhost:8000/resource/Katharine_Farrer%3Cref_group%3Dnote%3EIn_the_first_edition_%27Katharine%27_is_misspelt_as_%27Katherine%27%2C_this_was_corrected_in_the_revised_and_expanded_edition.%3C/ref%3E> .
+
+<http://localhost:8000/resource/Letter_114> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "114"@en ;
+    tg:date <http://localhost:8000/resource/7_April_1948> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Tolkien describing other works of his"@en ;
+    tg:to <http://localhost:8000/resource/Wikipedia%3AHugh_Brogan> .
+
+<http://localhost:8000/resource/Letter_127> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "127"@en ;
+    tg:date <http://localhost:8000/resource/14_April_1950> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%27%27%2C_publication> ;
+    tg:to <http://localhost:8000/resource/Stanley_Unwin> .
+
+<http://localhost:8000/resource/Letter_130> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "130"@en ;
+    tg:date <http://localhost:8000/resource/14_September_1950> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27Riddles_in_the_Dark%27%27> ;
+    tg:to <http://localhost:8000/resource/Stanley_Unwin> .
+
+<http://localhost:8000/resource/Letter_131> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "131"@en ;
+    tg:date <http://localhost:8000/resource/Late_1951> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Silmarillion%27%27%2C_%27%27The_Lord_of_the_Rings%27%27%2C_publication> ;
+    tg:to <http://localhost:8000/resource/Milton_Waldman> .
+
+<http://localhost:8000/resource/Letter_136> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "136"@en ;
+    tg:date <http://localhost:8000/resource/24_March_1953> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Lord_of_the_Rings%27%27%2C_publication> ;
+    tg:to <http://localhost:8000/resource/Rayner_Unwin> .
+
+<http://localhost:8000/resource/Letter_168> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "168"@en ;
+    tg:date <http://localhost:8000/resource/7_September_1955> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Languages> ;
+    tg:to <http://localhost:8000/resource/Richard_Jeffery> .
+
+<http://localhost:8000/resource/Letter_170> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "170"@en ;
+    tg:date <http://localhost:8000/resource/30_September_1955> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Return_of_the_King%27%27%2C_publication> ;
+    tg:to <http://localhost:8000/resource/Allen_and_Unwin> .
+
+<http://localhost:8000/resource/Letter_175> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "175"@en ;
+    tg:date <http://localhost:8000/resource/30_November_1955> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/The_Lord_of_the_Rings_%281955_radio_series%29> ;
+    tg:to "Molly Waldron"@en .
+
+<http://localhost:8000/resource/Letter_185> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "185"@en ;
+    tg:date <http://localhost:8000/resource/19_March_1956> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Letter_184> ;
+    tg:to <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/resource/Letter_190> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "190"@en ;
+    tg:date <http://localhost:8000/resource/3_July_1956> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Translations> ;
+    tg:to <http://localhost:8000/resource/Rayner_Unwin> .
+
+<http://localhost:8000/resource/Letter_2> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "2"@en ;
+    tg:date <http://localhost:8000/resource/27_November_1914> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27%C3%89al%C3%A1_%C3%89arendel_Engla_Beorhtast> ;
+    tg:to <http://localhost:8000/resource/Edith_Bratt> .
+
+<http://localhost:8000/resource/Letter_216> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "216"@en ;
+    tg:date <http://localhost:8000/resource/12_August_1959> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Teaching"@en ;
+    tg:to <http://localhost:8000/resource/Deputy_Registrar_of_the_wikipedia%3AUniversity_of_Madras> .
+
+<http://localhost:8000/resource/Letter_218> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "218"@en ;
+    tg:date <http://localhost:8000/resource/9_October_1959> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "English language"@en ;
+    tg:to "Eric Rogers"@en .
+
+<http://localhost:8000/resource/Letter_219> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "219"@en ;
+    tg:date <http://localhost:8000/resource/16_October_1959%3Cref_name%3DHS/%3E> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Cats> ;
+    tg:to <http://localhost:8000/resource/Charles_Lewis%2C%3Cref_name%3DHS%3E%7B%7BCG> .
+
+<http://localhost:8000/resource/Letter_22> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "22"@en ;
+    tg:date <http://localhost:8000/resource/4_February_1938> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Hobbit%27%27%3Cbr%3E%27%27The_Lord_of_the_Rings%27%27> ;
+    tg:to <http://localhost:8000/resource/C.A._Furth_of_Allen_%26_Unwin> .
+
+<http://localhost:8000/resource/Letter_239> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "239"@en ;
+    tg:date <http://localhost:8000/resource/20_July_1962> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Translations"@en ;
+    tg:to <http://localhost:8000/resource/Alina_Dadlez%2C%3Cref_name%3DG%3E%7B%7BCG> .
+
+<http://localhost:8000/resource/Letter_240> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "240"@en ;
+    tg:date <http://localhost:8000/resource/1_August_1962> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Tom_Bombadil> ;
+    tg:to <http://localhost:8000/resource/Mrs_Gasch_%28Pauline_Baynes%29> .
+
+<http://localhost:8000/resource/Letter_242> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "242"@en ;
+    tg:date <http://localhost:8000/resource/28_November_1962> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Adventures_of_Tom_Bombadil%27%27> ;
+    tg:to <http://localhost:8000/resource/Allen_and_Unwin> .
+
+<http://localhost:8000/resource/Letter_243> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "243"@en ;
+    tg:date <http://localhost:8000/resource/19_December_1962> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Sir_Gawain_and_the_Green_Knight%2C_Pearl_and_Sir_Orfeo> ;
+    tg:to <http://localhost:8000/resource/Michael_Tolkien> .
+
+<http://localhost:8000/resource/Letter_251> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "251"@en ;
+    tg:date <http://localhost:8000/resource/26_November_1963> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/C.S._Lewis%27_funeral.> ;
+    tg:to <http://localhost:8000/resource/Priscilla_Tolkien> .
+
+<http://localhost:8000/resource/Letter_258> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "258"@en ;
+    tg:date <http://localhost:8000/resource/2_August_1964> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Real-life usage of Tolkien's words"@en ;
+    tg:to <http://localhost:8000/resource/Rayner_Unwin> .
+
+<http://localhost:8000/resource/Letter_288> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "288"@en ;
+    tg:date <http://localhost:8000/resource/10_May_1966> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%3AFile%3AJ.R.R._Tolkien%27s_bust_at_Exeter.jpg> ;
+    tg:to <http://localhost:8000/resource/Norman_Davis> .
+
+<http://localhost:8000/resource/Letter_291> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "291"@en ;
+    tg:date <http://localhost:8000/resource/22_November_1966> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/C.S._Lewis> ;
+    tg:to <http://localhost:8000/resource/wikipedia%3AWalter_Hooper> .
+
+<http://localhost:8000/resource/Letter_292> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "292"@en ;
+    tg:date <http://localhost:8000/resource/12_December_1966> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Fan_fiction> ;
+    tg:to <http://localhost:8000/resource/Joy_Hill> .
+
+<http://localhost:8000/resource/Letter_293> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "293"@en ;
+    tg:date <http://localhost:8000/resource/29_December_1966> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Request_of_Index%3AInterviews_with_J.R.R._Tolkien> ;
+    tg:to "William Foster"@en .
+
+<http://localhost:8000/resource/Letter_297> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "297"@en ;
+    tg:date <http://localhost:8000/resource/1967%23August> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Nomenclature"@en ;
+    tg:to "Mr. Rang"@en .
+
+<http://localhost:8000/resource/Letter_3> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "3"@en ;
+    tg:date <http://localhost:8000/resource/26_November_1915> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/World_War_I%3Cbr_/%3E%27%27The_Trees_of_Kortirion> ;
+    tg:to <http://localhost:8000/resource/Edith_Bratt> .
+
+<http://localhost:8000/resource/Letter_30> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "30"@en ;
+    tg:date <http://localhost:8000/resource/25_July_1938> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Translations, Politics"@en ;
+    tg:to "Rütten & Loening Verlag"@en .
+
+<http://localhost:8000/resource/Letter_301> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "301"@en ;
+    tg:date <http://localhost:8000/resource/29_February_1968> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27Tolkien_in_Oxford%27%27> ;
+    tg:to <http://localhost:8000/resource/Donald_Swann> .
+
+<http://localhost:8000/resource/Letter_302> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "302"@en ;
+    tg:date <http://localhost:8000/resource/2_May_1968> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Photoshoot"@en ;
+    tg:to <http://localhost:8000/resource/wikipedia%3ATime%E2%80%93Life> .
+
+<http://localhost:8000/resource/Letter_303> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "303"@en ;
+    tg:date <http://localhost:8000/resource/6_May_1968> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Sarehole_Mill> ;
+    tg:to "Nicholas Thomas"@en .
+
+<http://localhost:8000/resource/Letter_304> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "304"@en ;
+    tg:date <http://localhost:8000/resource/4_June_1968> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Retirement"@en ;
+    tg:to <http://localhost:8000/resource/Clyde_S._Kilby> .
+
+<http://localhost:8000/resource/Letter_322> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "322"@en ;
+    tg:date <http://localhost:8000/resource/18_March_1971> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/%27%27The_Silmarillion%27%27> ;
+    tg:to <http://localhost:8000/resource/William_Cater> .
+
+<http://localhost:8000/resource/Letter_326> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "326"@en ;
+    tg:date <http://localhost:8000/resource/24_July_1971> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Allen_and_Unwin> ;
+    tg:to <http://localhost:8000/resource/Rayner_Unwin> .
+
+<http://localhost:8000/resource/Letter_344> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "344"@en ;
+    tg:date <http://localhost:8000/resource/23_November_1972> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Numerals"@en ;
+    tg:to <http://localhost:8000/resource/Edmund_Meskys> .
+
+<http://localhost:8000/resource/Letter_347> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "347"@en ;
+    tg:date <http://localhost:8000/resource/17_December_1972> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Languages"@en ;
+    tg:to <http://localhost:8000/resource/Richard_Jeffery> .
+
+<http://localhost:8000/resource/Letter_352> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "352"@en ;
+    tg:date <http://localhost:8000/resource/5_June_1973> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Translation"@en ;
+    tg:to "Ungfrú Aðalsteinsdottir"@en .
+
+<http://localhost:8000/resource/Letter_353> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "353"@en ;
+    tg:date <http://localhost:8000/resource/4_August_1973> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Galadriel> ;
+    tg:to <http://localhost:8000/resource/wikipedia%3AJohn_Giffard%2C_3rd_Earl_of_Halsbury> .
+
+<http://localhost:8000/resource/Letter_354> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "354"@en ;
+    tg:date <http://localhost:8000/resource/29_August_1973> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Vacation"@en ;
+    tg:to <http://localhost:8000/resource/Priscilla_Tolkien> .
+
+<http://localhost:8000/resource/Letter_4> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "4"@en ;
+    tg:date <http://localhost:8000/resource/2_March_1916> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Quenya> ;
+    tg:to <http://localhost:8000/resource/Edith_Bratt> .
+
+<http://localhost:8000/resource/Letter_5> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "5"@en ;
+    tg:date <http://localhost:8000/resource/12_August_1916> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/T.C.B.S.%3Cbr_/%3EWorld_War_I> ;
+    tg:to <http://localhost:8000/resource/Geoffrey_Bache_Smith> .
+
+<http://localhost:8000/resource/Letter_56> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "56"@en ;
+    tg:date <http://localhost:8000/resource/1_March_1944> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Inklings> ;
+    tg:to <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/resource/Letter_6> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "6"@en ;
+    tg:date <http://localhost:8000/resource/13_February_1923> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Thanks for an off print, measles in the household"@en ;
+    tg:to <http://localhost:8000/resource/Elizabeth_Mary_Wright> .
+
+<http://localhost:8000/resource/Letter_66> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "66"@en ;
+    tg:date <http://localhost:8000/resource/6_May_1944> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/War%2C_%27%27The_Lord_of_the_Rings%27%27%2C_Faramir> ;
+    tg:to <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/resource/Letter_86> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "86"@en ;
+    tg:date <http://localhost:8000/resource/23_October_1944> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject "Catholicism"@en ;
+    tg:to <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/resource/Letter_92> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "92"@en ;
+    tg:date <http://localhost:8000/resource/18_December_1944> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/War%2C_C.S._Lewis> ;
+    tg:to <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/resource/Letter_184> a schema:Thing ;
+    <http://localhost:8000/vocab/#> "184"@en ;
+    tg:date <http://localhost:8000/resource/18_March_1956> ;
+    tg:infoboxTemplate <http://localhost:8000/template/letter_infobox> ;
+    tg:subject <http://localhost:8000/resource/Samwise_Gamgee> ;
+    tg:to "Sam Gamgee"@en .
+

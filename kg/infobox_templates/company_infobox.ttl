@@ -1,0 +1,204 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Associazione_Italiana_Studi_Tolkieniani> a schema:WebPage ;
+    rdfs:label "Associazione Italiana Studi Tolkieniani"@en ;
+    schema:about <http://localhost:8000/resource/Associazione_Italiana_Studi_Tolkieniani> .
+
+<http://localhost:8000/page/Decipher> a schema:WebPage ;
+    rdfs:label "Decipher"@en ;
+    schema:about <http://localhost:8000/resource/Decipher> .
+
+<http://localhost:8000/page/Easton_Press> a schema:WebPage ;
+    rdfs:label "Easton Press"@en ;
+    schema:about <http://localhost:8000/resource/Easton_Press> .
+
+<http://localhost:8000/page/Embracer_Group> a schema:WebPage ;
+    rdfs:label "Embracer Group"@en ;
+    schema:about <http://localhost:8000/resource/Embracer_Group> .
+
+<http://localhost:8000/page/Hern_Ennorath> a schema:WebPage ;
+    rdfs:label "Hern Ennorath"@en ;
+    schema:about <http://localhost:8000/resource/Hern_Ennorath> .
+
+<http://localhost:8000/page/Iron_Crown_Enterprises> a schema:WebPage ;
+    rdfs:label "Iron Crown Enterprises"@en ;
+    schema:about <http://localhost:8000/resource/Iron_Crown_Enterprises> .
+
+<http://localhost:8000/page/Lego> a schema:WebPage ;
+    rdfs:label "Lego"@en ;
+    schema:about <http://localhost:8000/resource/Lego> .
+
+<http://localhost:8000/page/Mythopoeic_Society> a schema:WebPage ;
+    rdfs:label "Mythopoeic Society"@en ;
+    schema:about <http://localhost:8000/resource/Mythopoeic_Society> .
+
+<http://localhost:8000/page/TSR> a schema:WebPage ;
+    rdfs:label "TSR"@en ;
+    schema:about <http://localhost:8000/resource/TSR> .
+
+<http://localhost:8000/page/The_Folio_Society> a schema:WebPage ;
+    rdfs:label "The Folio Society"@en ;
+    schema:about <http://localhost:8000/resource/The_Folio_Society> .
+
+<http://localhost:8000/page/The_Tolkien_Society> a schema:WebPage ;
+    rdfs:label "The Tolkien Society"@en ;
+    schema:about <http://localhost:8000/resource/The_Tolkien_Society> .
+
+<http://localhost:8000/page/The_Tolkien_Trust> a schema:WebPage ;
+    rdfs:label "The Tolkien Trust"@en ;
+    schema:about <http://localhost:8000/resource/The_Tolkien_Trust> .
+
+<http://localhost:8000/page/Tolkien_Estate> a schema:WebPage ;
+    rdfs:label "Tolkien Estate"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Estate> .
+
+<http://localhost:8000/page/Warner_Bros.> a schema:WebPage ;
+    rdfs:label "Warner Bros."@en ;
+    schema:about <http://localhost:8000/resource/Warner_Bros.> .
+
+<http://localhost:8000/page/Wizards_of_the_Coast> a schema:WebPage ;
+    rdfs:label "Wizards of the Coast"@en ;
+    schema:about <http://localhost:8000/resource/Wizards_of_the_Coast> .
+
+<http://localhost:8000/resource/Associazione_Italiana_Studi_Tolkieniani> a schema:Organization ;
+    tg:1 "250px]]"@en ;
+    tg:founded "2014"@en ;
+    tg:image "Logo_AIST.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:keypeople "President: Stefano Giorgianni; scholars: Roberto Arduini, Claudio Antonio Testi, Wu Ming 4"@en ;
+    tg:location "Italy"@en ;
+    tg:name "Associacione Italiana Studi Tolkieniani"@en ;
+    tg:products "I Quaderni di Arda"@en ;
+    tg:type "Fan Club, Academic Society"@en ;
+    tg:website "https://www.jrrtolkien.it/"@en .
+
+<http://localhost:8000/resource/Decipher> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1983> ;
+    tg:founder "Warren Holland"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:name "Decipher, Inc."@en ;
+    tg:products <http://localhost:8000/resource/The_Lord_of_the_Rings_Trading_Card_Game%2C_The_Lord_of_the_Rings_Roleplaying_Game> .
+
+<http://localhost:8000/resource/Easton_Press> a schema:Organization ;
+    tg:founded "1975"@en ;
+    tg:image "Easton Press Logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location "Norwalk, Connecticut,"@en ;
+    tg:name "Easton Press"@en ;
+    tg:type "Leather-bound books"@en ;
+    tg:website "https://www.eastonpress.com/"@en .
+
+<http://localhost:8000/resource/Embracer_Group> a schema:Organization ;
+    tg:1 "Embracer Group logo"@en ;
+    tg:founded "2011"@en ;
+    tg:image "Embracer Group logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location "Karlstad, Sweden"@en ;
+    tg:name "Embracer Group"@en ;
+    tg:products "Games"@en ;
+    tg:website "https://embracergroup.com"@en .
+
+<http://localhost:8000/resource/Hern_Ennorath> a schema:Organization ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location "Australia and New Zealand"@en ;
+    tg:name "Hern Ennorath"@en ;
+    tg:type <http://localhost:8000/resource/Smial_of_The_Tolkien_Society> ;
+    tg:website "[https://www.tolkienfellowshipaustralia.com www.tolkienfellowshipaustralia.com]"@en .
+
+<http://localhost:8000/resource/Iron_Crown_Enterprises> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1980> ;
+    tg:founder <http://localhost:8000/resource/Pete_Fenlon%2C_Coleman_Charlton%2C_et_al.> ;
+    tg:image "ice_logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:name "Iron Crown Enterprises"@en ;
+    tg:products <http://localhost:8000/resource/Middle-earth_Collectible_Card_Game> .
+
+<http://localhost:8000/resource/Lego> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1949> ;
+    tg:founder <http://localhost:8000/resource/Wikipedia%3AOle_Kirk_Christiansen> ;
+    tg:image "Lego logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3ADenmark> ;
+    tg:name "Lego"@en ;
+    tg:owner <http://localhost:8000/resource/Wikipedia%3ALego_Group> ;
+    tg:website "http://www.lego.com/"@en .
+
+<http://localhost:8000/resource/Mythopoeic_Society> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1967> ;
+    tg:founder <http://localhost:8000/resource/Glen_H._GoodKnight> ;
+    tg:image "Mythopoeic Society logo.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location <http://localhost:8000/resource/United_States> ;
+    tg:name "Mythopoeic Society"@en ;
+    tg:type "Non-profit"@en ;
+    tg:website "[https://www.mythsoc.org mythsoc.org]"@en .
+
+<http://localhost:8000/resource/TSR> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1973> ;
+    tg:founder "Gary Gygax & Don Kaye"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:name "Wizards of the Coast"@en ;
+    tg:products <http://localhost:8000/resource/Dungeons_and_Dragons%2C_Battle_of_the_Five_Armies_%28board_game%29> ;
+    tg:succeededby <http://localhost:8000/resource/Wizards_of_the_Coast> .
+
+<http://localhost:8000/resource/The_Folio_Society> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1947> ;
+    tg:image "The Folio Society logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location "London"@en ;
+    tg:name "The Folio Society"@en ;
+    tg:type "Limited Edition Books"@en ;
+    tg:website "https://www.foliosociety.com"@en .
+
+<http://localhost:8000/resource/The_Tolkien_Society> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/6_November_1969_%28informal%29%3Cref_name%3D%22Mallorn50%22%3ECharles_E._Noad%2C_%22The_Tolkien_Society_-_the_early_days%22_in_Henry_Gee_%28ed.%29_%27%27Mallorn_50%27%27%2C_p._17%3C/ref%3E%3Cbr/%3E15_January_1972_%28formal%29%3Cbr/%3E7_July_1977_%28charitable_status%29%3Cref_name%3D%22CC%22%3E%7B%7Bwebcite> ;
+    tg:founder <http://localhost:8000/resource/Vera_Chapman> ;
+    tg:image "The Tolkien Society - logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:keypeople <http://localhost:8000/resource/J.R.R._Tolkien_%28President%29%3Cbr/%3EPriscilla_Tolkien_%28Vice-President%29%3Cbr/%3EShaun_Gunner_%28CEO%29%3Cref_name%3D%22CEO%22_/%3E> ;
+    tg:location "England (registered address)<br/>Worldwide (members)"@en ;
+    tg:members <http://localhost:8000/resource/3%2C801%3Cref%3EHannah_McDonald%2C_%22Behind_Glass_Doors%22_in_Amanda_Drake_et_al._%28eds.%29%2C_%27%27Amon_Hen_310%27%27%2C_p._28%3C/ref%3E> ;
+    tg:products <http://localhost:8000/resource/%27%27Mallorn_%28journal%29> ;
+    tg:type "Educational charity, fan club, academic society"@en ;
+    tg:website "[http://www.tolkiensociety.org www.tolkiensociety.org]"@en .
+
+<http://localhost:8000/resource/The_Tolkien_Trust> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1_April_1977> ;
+    tg:image "The Tolkien Trust - logo.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:keypeople <http://localhost:8000/resource/Christopher_Tolkien%3Cbr/%3EPriscilla_Tolkien%3Cbr/%3EBaillie_Tolkien%3Cbr/%3EMichael_George_Tolkien> ;
+    tg:location <http://localhost:8000/resource/Oxford> ;
+    tg:type "Charitable incorporated organisation"@en ;
+    tg:website "[http://www.tolkientrust.org/ www.tolkientrust.org]"@en .
+
+<http://localhost:8000/resource/Tolkien_Estate> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1996%3Cref%3E%7B%7Bwebcite> ;
+    tg:founder <http://localhost:8000/resource/Christopher_Tolkien> ;
+    tg:image "JRRT.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:keypeople <http://localhost:8000/resource/Christopher_Tolkien%3Cbr/%3EPriscilla_Tolkien%3Cbr/%3EBaillie_Tolkien%3Cbr/%3EMichael_George_Tolkien> ;
+    tg:location <http://localhost:8000/resource/Oxford> ;
+    tg:type "Legal organisation"@en ;
+    tg:website "[http://www.tolkienestate.com/ www.tolkienestate.com]"@en .
+
+<http://localhost:8000/resource/Warner_Bros.> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/April_4%2C_1923> ;
+    tg:founder "Harry Warner, Albert Warner, Sam Warner and Jack L. Warner"@en ;
+    tg:image "Warner_Bros. (2019) logo.gif"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:location "Burbank, CA"@en ;
+    tg:name "Warner Bros."@en ;
+    tg:type "Film and television studio"@en ;
+    tg:website "https://www.warnerbros.com/"@en .
+
+<http://localhost:8000/resource/Wizards_of_the_Coast> a schema:Organization ;
+    tg:founded <http://localhost:8000/resource/1990> ;
+    tg:founder "Peter Adkison"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/company_infobox> ;
+    tg:name "Wizards of the Coast"@en ;
+    tg:parent "Hasbro"@en ;
+    tg:products <http://localhost:8000/resource/Dungeons_and_Dragons%2C_Magic%3A_The_Gathering%2C_The_Lord_of_the_Rings%3A_Tales_of_Middle-earth> ;
+    tg:type "Subsidiary"@en .
+

@@ -1,0 +1,34 @@
+{{location infobox
+| name=Aros
+| image=Matěj Čadil - Aros.jpg
+| caption="Aros" by [[:Category:Images by Matěj Čadil|Matěj Čadil]]
+| pronun=
+| othernames=
+| location=Flowing from [[Himlad]] around [[Doriath]] to the [[Sirion]]
+| type=River
+| description=Reddish-coloured river
+| regions=
+| towns=
+| inhabitants=
+| created=
+| destroyed=
+| events=
+}}
+'''Aros''' was a river of [[East Beleriand]] that formed much of the border of the Kingdom of [[Doriath]].
+
+It arose in the northern lands west of the [[Pass of Aglon]] in the [[Shadowy Spring]], and flowed south between [[Dor Dínen]] and [[Himlad]]; between these two lands the river could be crossed at [[Arossiach]].  The river's course then followed the eastern and, turning west, the southern boundaries of the [[Forest of Region]]; at that point it was joined by its main tributary, [[Celon]]. Aros then met the [[Sirion]] at [[Aelin-uial]].<ref>{{S|Map}}</ref>
+
+==Other versions of the legendarium==
+In ''[[The Book of Lost Tales]]'', river Aros was flowing south of Artanor ([[Doriath]]). Near its spring it was passing the caves of the [[Rodothlim]] ([[Nargothrond]]),<ref>{{LT2|IV}}, p. 236</ref> but this was soon changed to [[Narog]].<ref>{{LT2|IVn}}, p. 244, note 15</ref>
+
+==Etymology==
+The word ''Aros'', derived from the [[Elvish]] [[Sundocarme|root]] [[YAR|YAR-]] ("blood"), is said to be a "''name of river with reddish water''". The [[Noldorin]] form of the word was ''iaros''.<ref>{{LR|Etymologies}}, entry "[[YAR|YAR-]]"</ref>
+{{references}}
+[[Category:Gnomish locations]]
+[[Category:Ilkorin locations]]
+[[Category:Rivers of Beleriand]]
+[[Category:Sindarin locations]]
+
+[[de:Aros]]
+[[fi:Aros]]
+[[fr:encyclo/geographie/eaux/beleriand/aros]]

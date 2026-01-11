@@ -1,0 +1,77 @@
+{{expansion}}{{disambig-more|The Hobbit|[[The Hobbit (disambiguation)]]}}
+{{video game infobox
+| image = The Hobbit (1982 video game) - cover.jpg
+| name=The Hobbit<br/>The Hobbit Software Adventure
+| developer=[[Melbourne House|Beam Software]]
+| publisher='''The Hobbit'''<br/>[[Melbourne House]]<br/>[[Tansoft]]<br/>Sinclair Research Ltd. (re-release)<ref name="world spectrum">{{webcite|author=|articleurl=http://www.worldofspectrum.org/infoseekid.cgi?id=0006440|articlename=The Hobbit|dated=|website=[[wikipedia:World of Spectrum|World of Spectrum]]|accessed=30 december 2014}}</ref><br/>
+'''The Hobbit Software Adventure'''<br/>[[Addison-Wesley]]
+| platform='''The Hobbit'''<br/>[[wikipedia:Amstrad CPC|Amstrad CPC]]<br/>[[wikipedia:BBC B|BBC B]]<br/>[[wikipedia:Commodore 64|Commodore 64]]<br/>[[wikipedia:Dragon 32/64|Dragon 32]]<br/>[[wikipedia:MSX|MSX]]<br/>[[wikipedia:Oric-1|Oric-1]]<br/>[[wikipedia:ZX-Spectrum|ZX-Spectrum]]<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/hobbit.html Tolkien Games] (retrieved 16 August 2010)</ref><br/><br/>'''The Hobbit Software Adventure'''<br/>[[wikipedia:Apple II|Apple II]]<br/>[[wikipedia:Commodore 64|Commodore 64]]<br/>[[wikipedia:Macintosh|Macintosh]]<br/>[[wikipedia:MS-DOS|MS-DOS]]<ref name="Tolkien Games"/>
+| releasedate=[[1982]]
+| genre=Illustrated [[wikipedia:Interactive fiction|text-adventure]]
+|}}
+
+'''''The Hobbit''''' (also known as '''The Hobbit Software Adventure''' in North America and [[Australia]]) was the first licensed video game based on Tolkien's work, being the first part of ''[[The Tolkien Trilogy]]'' (also known as ''[[The Tolkien Software Adventure Series]]''). The game was designed by [[Philip Mitchell]] and [[Veronika Megler]],<ref name="world spectrum"/> and illustrated by Kent Rees.<ref name="Review p. 76">{{webcite|author=Phil Garratt|articleurl=http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8304/Pages/ZXComputing830400076.jpg|articlename=Software Review: The Hobbit|website=[[wikipedia:World of Spectrum|World of Spectrum]]|accessed=23-Dec-2011}}</ref> The game was considered large at the time of its release and included  80 locations, of which 30 were illustrated.<ref name="Review p. 76"/> The game was released by [[Melbourne House]] for [[wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:BBC B|BBC B]], [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Dragon 32/64|Dragon 32]], [[wikipedia:MSX|MSX]], [[wikipedia:Oric-1|Oric-1]] and [[wikipedia:ZX-Spectrum|ZX-Spectrum]] in most of the world,<ref name="Tolkien Games"/>{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/hobbit.html|articlename=The Hobbit / The Hobbit Software Adventure|dated=|website=Games|accessed=30 december 2014}}</ref> whilst [[Addison-Wesley]] released it as ''The Hobbit Software Adventure'' for [[wikipedia:Apple II|Apple II]], [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Macintosh|Macintosh]] and [[wikipedia:MS-DOS|MS-DOS]] in North America and Australia.<ref name="Tolkien Games"/> After its initial success, it was re-released by Sinclair Research Ltd.<ref name="world spectrum"/> Beam Software also developed editions for [[wikipedia:Amiga|Amiga]] and [[wikipedia:TRS-80|TRS-80]], <!-- and MVS ?? --> but were never released.<ref name="Tolkien Games"/> Every game also included a copy of ''[[The Hobbit]]'' and an instruction book.<ref name="Review p. 76"/>
+
+In [[1984]] [[David Elkan]] published a book, ''[[A Guide to Playing The Hobbit]]'', to help players complete the game.<ref>[[David Elkan]], ''[[A Guide to Playing The Hobbit]]'' ([[1984]]: Melbourne House) ISBN 0-86161-161-6</ref> Beam Software originally planned a sequel, ''[[Where Hobbits Dare]]'', but was cancelled.<ref name="FAQ">{{webcite|author=Fredrik Ekman|articleurl=http://www.faqs.org/faqs/tolkien/games/|articlename=List of computer games and MUDs with a Tolkien theme (long)|dated=|website=[http://www.faqs.org faqs.org]|accessed=16 August 2010}}</ref> Instead, it was succeeded by [[Lord of the Rings: Game One]].
+
+In 2012 the Hobbit environment "Wilderland" was published (see external link below). It runs the original ZX Spectrum game code in an emulator and reveals what is going on in the background of the game.
+
+==Plot==
+[[File:The Hobbit (1982 video game) - Dale ruins.gif|300px|thumb|The Ruins of [[Dale]].]]The player controls [[Bilbo Baggins]] - the main character - on his quest to [[Lonely Mountain|the Lonely Mountain]], in company with the [[Dwarves|Dwarf]] [[Thorin]]. On their way, they meet characters like [[Gandalf]] and [[Gollum]] and are confronted by [[Trolls]], [[Wargs]] and [[Goblins]]. Eventually Bilbo and Thorin reach the Lonely Mountain and plunder the lair of [[Smaug]].<ref name="Review p. 76"/><ref name="Review p. 78">{{webcite|author=Phil Garratt|articleurl=http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8304/Pages/ZXComputing830400078.jpg.jpg|articlename=Software Review: The Hobbit|website=[http://www.worldofspectrum.org WorldOfSpectrum.com]|accessed=23-Dec-2011}}</ref>
+
+[[File:The Hobbit (1982 video game) - trolls' cave.gif|288px|thumb|The [[Trolls|Troll]]s' Cave.]]
+
+==Featured Characters==
+*[[Bilbo Baggins]]<ref name="Review p. 76"/>
+*[[Thorin]]<ref name="Review p. 76"/>
+*[[Gandalf]]<ref name="Review p. 76"/>
+*[[Gollum]]<ref name="Review p. 78"/>
+*[[Smaug]]<ref name="Review p. 76"/>
+*[[Bard the Bowman]]
+*[[Elrond]]
+
+==Featured Locations==
+*[[Bag End]]
+*[[Lone-lands]]
+*The [[Trolls|Troll]]'s Cave
+*[[Misty Mountains]]<ref name="Review p. 76"/>
+*[[Mirkwood]]
+*[[Dale]]
+
+== Reception ==
+With a retail price of £14.95,<ref>Rusel DeMaria and Johnny L. Wilson, ''High Score!: The Illustrated History of Electronic Games'',  (Berkeley, California:  McGraw-Hill/Osborne,[[2002]]), p. 347, ISBN 0-07-222428-2</ref> ''The Hobbit'', sold over 100,000 copies in the first two years,<ref>Mike Gerrard, "Adventuring into an Unknown World", in ''The Guardian'', [[1984]]-[[August|08]]-[[30 August|30]], section Micro Guardian/Futures, p. 13</ref> and had sold over a million copies by the end of the decade. 
+
+In [[1983]]'s [[wikipedia:Golden Joystick Awards|Golden Joystick Awards]] it was the winner of the category ''Best Strategy Game'' and came second in the category ''Game of the Year''.<ref name="world spectrum"/>
+
+== See also ==
+
+* [[:Category:Images from The Hobbit (1982 video game)|Images from ''The Hobbit'' (1982 video game)]]
+* ''[[The Boggit]]'', a parody video game of ''The Hobbit''
+* ''[[The Hobbit]]'', the book by [[J.R.R. Tolkien]]
+* ''[[The Hobbit (2003 video game)|The Hobbit]]'', a [[2003]] video game published by [[Vivendi Universal]]
+
+== External links ==
+
+* [http://www.giantbomb.com/the-hobbit/61-9936/ The Hobbit] at [http://www.giantbomb.com GiantBomb]
+* [http://www.mobygames.com/game/hobbit The Hobbit] at [http://www.mobygames.com MobyGames]
+* [http://www.lysator.liu.se/tolkien-games/entry/hobbit.html The Hobbit] at [http://www.lysator.liu.se/ Tolkien Games]
+* {{WP|The Hobbit (1982 video game)}}
+* [http://members.aon.at/~ehesch1/wl/wl.htm Wilderland] emulator, which shows what is going on in the background of the game
+
+{{references}}
+{{Videogames}}
+{{title|italics}}
+{{DEFAULTSORT:Hobbit (1982 video game)}}
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Apple Macintosh games]]
+[[Category:BBC B games]]
+[[Category:Commodore 64 games]]
+[[Category:DOS games]]
+[[Category:Dragon 32 games]]
+[[Category:Melbourne House games]]
+[[Category:MS-DOS games]]
+[[Category:MSX games]]
+[[Category:Oric-1 games]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

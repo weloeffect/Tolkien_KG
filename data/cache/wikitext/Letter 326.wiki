@@ -1,0 +1,12 @@
+{{letter infobox
+| #=326
+| to=[[Rayner Unwin]]
+| date=[[24 July]] [[1971]]
+| subject=[[Allen and Unwin]]
+}}{{letter|326}}
+==Summary==
+Tolkien lamented that, because [[Rayner Unwin]] took over [[Stanley Unwin|his father]]'s position at [[Allen and Unwin|Allen & Unwin]], they could not spend much time together anymore. 
+
+{{letters}}
+[[Category:Letters to Rayner Unwin]]
+[[de:Brief 326]]

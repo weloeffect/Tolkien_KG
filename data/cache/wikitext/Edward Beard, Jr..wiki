@@ -1,0 +1,26 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Edward Peter Beard, Jr.
+| born=[[11 December]] [[1964]]
+| died=
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Edward Beard, Jr.''' (born [[11 December]] [[1964]]) is an American fantasy artist.<ref name=CCGA>{{CCGA|entry=Beard, Edward Peter, Jr.}}, pp. 86-87</ref> He was contracted by [[Iron Crown Enterprises]] to create artwork for the [[Middle-earth Collectible Card Game]].
+
+He tends to work with acrylics for colour work and graphite for black-and-white works.<ref name=CCGA/>
+==Career==
+Beard lacks formal training because his school looked down on fantasy art. Despite this, he was seen as promising and initially worked on religious commissions. Later on, he became an artist for [[Magic: The Gathering]] and many other fantasy games. <ref name=CCGA/>
+==See also==
+*[[:Category:Images by Edward Beard, Jr.|Images by Edward Beard, Jr.]]
+==External links==
+* [https://www.edbeardjr.com/ Official website]
+{{References}}
+{{DEFAULTSORT:Beard, Edward Peter, Jr.}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

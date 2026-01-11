@@ -1,0 +1,63 @@
+{{song
+| title=They're taking the Hobbits to Isengard
+| composer=[[Howard Shore]]
+| arranger=Erwin Beekveld
+| writer=[[J.R.R. Tolkien]]<br>[[Frances Walsh]]<br>[[Philippa Boyens]]<br>[[Peter Jackson]]<br>[[Stephen Sinclair]]
+| performer=[[Orlando Bloom]]<br>[[Andy Serkis]]<br>[[Marton Csokas]]
+| additionalcredits=
+| image=The Lord of the Rings - The Two Towers - They're taking the Hobbits to Isengard!.jpeg
+| duration=2:09
+| track=
+| previous=
+| next=
+| spotify=
+| youtube=https://www.youtube.com/watch?v=2X-AF7fOzW0
+| soundcloud=
+}}
+'''They're taking the Hobbits to Isengard''' is a 2005 music video made by Erwin Beekveld ([[1969]] - [[31 March]] [[2022]]).<ref>[https://www.discogs.com/es/artist/3862287-Erwin-Beekveld Erwin Beekveld] on discogs.com (accessed 27 June 2023)</ref> It is a mix of footage from ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and ''[[The Lord of the Rings: The Two Towers|The Two Towers]]''. The song is formed around the phrase, uttered by [[Legolas]], "They're taking the Hobbits to Isengard". This line is spoken in ''The Two Towers'', when Legolas spots the [[Uruk-hai]] and extrapolates their objective from the direction in which they run. It should be noted that Legolas states the Uruks turned north-east - a direction which would not lead them to Isengard, but straight back at the pursuers. The actual direction should be north-west.
+
+The lyrics are scrambled lines from Legolas, [[Gollum]] and [[Celeborn]]. Footage of [[Frodo Baggins]], [[Peregrin Took]], [[Meriadoc Brandybuck]], [[Aragorn]], [[Gimli]], [[Galadriel]] and [[Samwise Gamgee]] is also shown. The music is a computerized mix of two themes of [[Howard Shore]]'s music; "[[The Shire (soundtrack)|The Shire]]" theme and "[[The Ring Goes South (soundtrack)|The Ring Goes South]]" theme.
+
+==Lyrics==
+<poem>
+'''[[Legolas]]''': They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard|Isengard-gard-gard-gard-gard]]!
+They're taking the [[Hobbits]] to [[Isengard|Isengard-gard-gard-gardgard-gard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+'''[[Gollum]]''': What did you say?
+The [[Hobbits]]-The [[Hobbits]]-The [[Hobbits]]-The [[Hobbits]] to [[Isengard]]! To [[Isengard]]!
+The [[Hobbits]]-The [[Hobbits]]-The [[Hobbits]]-The [[Hobbits]] to [[Isengard]]! To [[Isengard]]!
+The [[Hobbits]]-The [[Hobbits]]-The [[Hobbits]]-The [[Hobbits]] to [[Isengard]]! To [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard|Isengard-gard-gardgard-gard-gard]]!
+'''[[Celeborn]]''': Tell me, where is [[Gandalf]]? For I much desire to speak with him.
+Tell me, where is [[Gandalf]]? For I much desire to speak with him.
+'''[[Legolas]]''': A [[Balrog]] of [[Morgoth]].
+'''[[Gollum]]''': What did you say?
+'''[[Legolas]]''': A [[Balrog]] of [[Morgoth]].
+'''[[Gollum]]''': What did you say?
+'''[[Legolas]]''': They're taking the [[Hobbits]] to [[Isengard]]!
+'''[[Gollum]]''': Stupid fat [[Hobbit]]!
+'''[[Legolas]]''': They're taking the [[Hobbits]] to [[Isengard]]!
+'''[[Gollum]]''': Stupid fat [[Hobbit]]!
+'''[[Legolas]]''': They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+They're taking the [[Hobbits]] to [[Isengard]]!
+ '''[[Gollum]]''': Stupid fat [[Hobbit]]!
+Leave! Now! And never come back!
+</poem>
+
+==External links==
+* [https://web.archive.org/web/20150429050325/http://www.beekveld.com/ Erwin Beekveld's website] at Web Archive
+* "[https://www.youtube.com/watch?v=5NGguk8VXYc&ab_channel=PeterJackson Goodbye Orlando]" on [[Peter Jackson]]'s YouTube channel ([[Orlando Bloom]] singing to the video on his last day filming [[The Hobbit: The Battle of the Five Armies]])
+{{references}}
+{{Fan films}}
+
+[[Category:Fan films]]
+[[Category:Songs (real-world)]]

@@ -1,0 +1,41 @@
+{{journal
+| title=Other Minds 20
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=January [[2019]]
+| format=PDF
+| pages=81
+| issn=
+}}
+
+'''''Other Minds'' 20''' is the twentieth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in January 2019.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Tainted Treasure"
+** By José Enrique Vacas de la Rosa
+* "Creatures of Middle-earth: Ogres (S. Hongwir)"
+** By Thomas Morwinsky
+* "Creatures of Middle-earth: Were-worms of the West"
+** By Brian Seligman
+* "Orc-tribes of Wilderland"
+** By José Enrique Vacas de la Rosa
+* "Harondor TA 1645"
+** By Galendae
+* "Hobbit migrations"
+** By: Thomas Morwinsky
+* "Appendix" (Harondor map, maps for 'Hobbit Migrations')
+
+*'''Artwork / Maps:'''
+** By: [[Antti Autio]], [[Matěj Čadil]], Liz Danforth, [[Anke Eißmann]], Galendae, [[Daniel Govar]], Jon Hodgson, Julien Labit, Turner Mohan, Jan Pospíšil
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 20}}
+[[Category:Other Minds]]

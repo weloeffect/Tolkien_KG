@@ -1,0 +1,20 @@
+{{actor
+| image =
+| name = Elizabeth Moody
+| lifetime = [[29 October]] [[1939]] - [[12 January]] [[2010]]
+| played = [[Lobelia Sackville-Baggins]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb = [https://www.imdb.com/name/nm0600473/ Profile]
+}}
+'''Elizabeth Moody''' ([[29 October|October 29]], [[1939]] - [[12 January|January 12]], [[2010]]) was a New Zealand actress. She played [[Lobelia Sackville-Baggins]] in the [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|extended edition]] of  ''[[The Lord of the Rings: The Fellowship of the Ring]]'', which turned out to be her last acting credit.  
+
+== External links ==
+* {{WP|Elizabeth Moody (actor)|Elizabeth Moody}}
+
+{{DEFAULTSORT:Moody, Elizabeth}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Elizabeth Moody]]

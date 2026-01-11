@@ -1,0 +1,58 @@
+{{Mallorn
+| name=Mallorn 56
+| image = Mallorn56.png
+| editor=Rosalinda Haddon
+| artist=Tomás Hijo
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Winter 2015
+| format=A4 stapled paperback, glossy
+| pages=48
+| issn=	0308-6674
+}}
+'''''Mallorn'' 56''' is the fifty-sixth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in Winter [[2015]]. 
+
+==Contents==
+* '''Cover Art'''
+** "The Prancing Pony"
+*** By: Tomás Hijo
+* '''Editorial'''
+*** By: [[Helen Armstrong]]
+* '''Articles'''
+** "Love forsaken, from the land banished”: The Complexity of Love and Honor in Tolkien's ''[[The Fall of Arthur|Fall of Arthur]]''"
+*** By: Jay Ruud
+** "[[Middle-earth]] and Midgard: the Viking Sagas in Tolkien’s [[Legendarium]]"
+*** By: Logan Quigley
+** "Tolkien's Tom Bombadil and Social Media: An Excursus Note"
+*** By: Thad A. Burkhart
+** "[[J.R.R. Tolkien]]'s '[[Leaf by Niggle|''Leaf by Niggle'']]': A Fantastic Journey to Afterlife"
+*** By: Ahmet Mesut Ateş
+** "'Beautiful and Terrible': The Significance of [[Galadriel]]'s Hair in ''[[The Lord of the Rings]]'' and ''[[Unfinished Tales]]''"
+*** By: Lilian Darvell
+** "Tolkien's First Notebook and its Destruction"
+*** By: Nancy Bunting
+** "Parallel Paths and Distorting Mirrors: Strategic Duality as a Narrative Principle in Tolkien's Works"
+*** By: Michaela Hausmann
+** "There, but Not Back Again: Middle-earth circa 4000 BCE"
+*** By: Sherrylyn Branchaw
+* '''Creative Essays'''
+** "This Side of the Standing Stone"
+*** By: Rebecca Martin
+** "Padric and the Devil"
+*** By: Catherine Benoit
+* '''Submissions'''
+** Guide for Authors
+* '''Reviews'''
+** ''[[The Hobbit: The Battle of the Five Armies]]''
+*** By: [[Shaun Gunner]]
+** ''The Evolution of Modern Fantasy: From Antiquarianism to the Ballantine Adult Fantasy Series''
+*** By: John Doherty
+* '''Well, I’m back'''
+** "How does J.R.R. Tolkien inspire us?"
+*** By: Rosalinda Haddon
+* '''Inside Art'''
+** By: [[Jenny Dolfen]], [[Anke Eißmann|Anke Eissmann]], Alexander Genov, Tomás Hijo, Loriane Mauer, Gordon Palmer
+
+{{mallornnav|55|57}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 56}}
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,44 @@
+{{mythlore
+|title=Mythlore 12
+| image = Mythlore_12.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=June [[1976]]
+|format=Paperback
+|pages=39
+}}
+
+'''''Mythlore'' 12''' ([https://dc.swosu.edu/mythlore/vol3/iss4/ Volume 3, Issue 4]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+== Contents ==
+
+====Articles====
+
+* Harwood, A.C. “A Toast to the Memory of C.S. Lewis.” 3-5.
+* Hooper, Walter. “Reminiscences.” 5-9.
+* Chapman, Ed. “Toward a Sacramental Ecology: Technology, Nature and Transcendence in C.S. Lewis’s Ransom Trilogy.” 10-17.
+* Bisenieks, Dainis. “A Postscript on Kenneth Morris (1879-1937).” 17.
+* Lindskoog, Kathryn. “C.S. Lewis: Reactions from Women.” 18-20.
+
+====Features====
+
+* Christopher, Joe R. “Jung’s Journey through Hell, Purgatory and Heaven.” Review of ''Dark Wood to White Rose: A Study of Meanings in Dante’s Divine Comedy'' by Helen M. Luke. 21-22.
+* Colvin, George. “Chronicles of Christ and Constantine.” Review of ''The Singer'' by Calvin Miller and ''The Emperor Constantine: A Chronicle'' by Dorothy L. Sayers. 22-24.
+* Patterson, Nancy-Lou. “Decisions & Wizards.” Review of ''Mithrandir and Middle Earth: A World in Conflict'' by Stephen O. Miller. 24-25.
+* GoodKnight, Glen H. Editorial. 26.
+* Letters. 27+.
+* Christopher, Joe R. “An Inklings Bibliography (1).” 30.
+
+====Art====
+
+* Bonnie GoodKnight: 9, 10, 18; Photographs: 3, 4, 7
+* Tim Kirk: 2
+* Taral Wayne MacDonald: 13, 14, 15
+* Valerie Protopapas: 17, 22, 23, 25, 27
+* Roberta Weiner: 21
+* Deb Webber: Letter on 27
+{{mythlorenav|11|13}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 012}}
+[[Category:Mythlore]]

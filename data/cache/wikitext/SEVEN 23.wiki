@@ -1,0 +1,30 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 23
+| image=
+| editor=
+| illustrator=
+| date=[[2006]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229641|articlename=Vol. 23, 2006|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 23''''' is the twenty-third volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2006]].<ref name="jstor" />
+==Contents==
+*"G.K. Chesterton: Social Criticism and the Sense of Wonder"
+**By: Richard Gill
+*"That 'such a genius should be a beastly American': C.S. Lewis as Critic of American Literature"
+**By: Jack L. Knowles
+*"'My Dear Norah': The Course of a Friendship"
+**By: Christopher Dean
+*"Eagles with Attitude: Chaucer and Tolkien"
+**By: Emma B. Hawkins
+*"Finding Joy: A Comprehensive Bibliography of the Works of Joy Davidman"
+**By: Don W. King
+*Review Essay:
+**"Theism and Thought"
+***By: Mark R. Talbot<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|22|24}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 23}}
+
+[[Category:SEVEN]]

@@ -1,0 +1,26 @@
+{{actor
+| image = Marton Csokas.jpg
+| name = Marton Csokas
+| lifetime = [[30 June|June 30]], [[1966]]
+| played = [[Celeborn]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''<br>''[[The Lord of the Rings: The Return of the King]]''
+| imdb = [https://www.imdb.com/name/nm0190744/ Profile]
+}}
+New Zealand actor '''Marton Csokas''' (born [[30 June|June 30]]th, [[1966]]) played [[Celeborn]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''.
+
+His last name is Hungarian and is pronounced Cho-Kash.
+
+==Quotes==
+{{quote|Celeborn is more fixed in his beliefs and methods than Galadriel, which is his failing, perhaps. As a team, they work well, although apparently they only have sex once every 2,000 years or so.|E-Online July 2000}}
+
+== External links ==
+* {{WP|Marton Csokas}}
+
+{{DEFAULTSORT:Csokas, Marton}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Marton Csokas]]
+[[fi:Marton Csokas]]

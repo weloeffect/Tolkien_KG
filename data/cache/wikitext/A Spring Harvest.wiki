@@ -1,0 +1,29 @@
+{{expansion}}
+{{book
+| title=A Spring Harvest
+| image = Springharvest.gif
+| author=[[Geoffrey Bache Smith]]
+| publisher=Erskine MacDonald
+| date=[[1918]]
+| format=Hardback in dustwrapper
+| pages=281
+| noisbn=None
+}}
+'''''A Spring Harvest''''' is a collection of poetry by [[Geoffrey Bache Smith]], one of the [[T.C.B.S.]]. It contains [[:File:J.R.R. Tolkien - A Spring Harvest Note.png|a prefatory note]] by [[J.R.R. Tolkien]]. 
+
+==History==
+The poems were edited by [[J.R.R. Tolkien]]. Despite some claims to the contrary,<ref>[[John Garth]], ''[[Tolkien and the Great War]]'', "Tol Withernon and Fladweth Amrod", page 246</ref> [[Christopher Wiseman]] was not involved in editing. He later told [[John D. Rateliff]] he was credited alongside Tolkien at the latter's request, since they were the only two surviving members of the "Great Four".<ref name="Biblio">[[Wayne G. Hammond]], [[Douglas A. Anderson]], ''[[J.R.R. Tolkien: A Descriptive Bibliography]]'', "Books Edited, Translated, or with Contributions by J.R.R. Tolkien", B3: A Spring Harvest</ref>
+
+Several fragments of the poems were reproduced in [[John Garth]]'s ''[[Tolkien and the Great War]]'', who notes that while this collection predated the flurry of soldier's poetry - much of it published by Erskine - it had the same disenchantment and desillusion as most others.<ref>[[John Garth]], ''[[Tolkien and the Great War]]'', "Postscript. 'One who dreams alone'", pages 301-3</ref> Also, some poems were reproduced in [[Mark Atherton]]'s book ''[[There and Back Again: J.R.R. Tolkien and the Origins of The Hobbit]]''. Atherton notes that [[Douglas A. Anderson]] is currently working on a new edition of ''A Spring Harvest''.<ref>[[Mark Atherton]], ''[[There and Back Again: J.R.R. Tolkien and the Origins of The Hobbit]]'', Appendix One, page 255</ref>
+
+==External links==
+*[http://www.gutenberg.org/ebooks/48371 A Spring Harvest] in Project Gutemberg
+*[http://andrewdunning.ca/spring-harvest/ A Spring Harvest], full text digitized by Andrew Dunning
+*[http://lingwe.blogspot.se/2012/09/a-late-spring-harvest.html A (late) spring harvest] by [[Jason Fisher]]
+
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Spring Harvest, A}}
+[[Category:Books with contribution by J.R.R. Tolkien]]
+[[Category:Poetry books]]
+[[Category:Publications by title]]

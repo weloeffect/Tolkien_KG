@@ -1,0 +1,37 @@
+{{journal
+| title=Other Minds 12
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=July [[2011]]
+| format=PDF
+| pages=61
+| issn=
+}}
+
+'''''Other Minds'' 12''' is the twelfth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in July 2011.
+
+==Contents==
+* "Editorial: Holding our breath"
+** By [[Thomas Morwinsky]]
+* "Inside Information"
+** By Thomas Morwinsky
+* "Númenórean Longevity Revisited"
+** By Thomas Morwinsky
+* "An Unexpected Party"
+** By David Daines
+* "The Phenomenon of 'Eternal Realms' in Middle-earth RPG settings"
+** By Thomas Morwinksy
+* "Quendi"
+** By Daniel Vacaflores
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Table of Contents: Other Minds Magazine, Issues 1-12"
+
+*'''Artwork / Maps:'''
+** By: Catherine Karina Chmiel, [[John Howe]], [[Ted Nasmith]], Jan Pospisil, Tuuliky
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 12}}
+[[Category:Other Minds]]

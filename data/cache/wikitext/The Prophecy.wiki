@@ -1,0 +1,66 @@
+{{song
+| title=The Prophecy
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=3:55
+| track=1
+| next=[[Concerning Hobbits (soundtrack)|Concerning Hobbits]]
+| spotify=https://open.spotify.com/track/6ANHfvTsKVUMQD1xD2VAMr
+}}
+'''The Prophecy''' is the first track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+The Prophecy I
+
+Yénillor morne
+tulinte i quettar
+Tercáno Nuruva.
+
+Hlasta! Quetis
+Ilfirimain
+
+'Out of the Black Years
+come the words
+[the] Herald of Death.
+
+Listen! It speaks
+to those who were not born to die...'
+
+---
+
+The Prophecy II
+
+Hlasta!
+Quetis Ilfirimain:
+
+Corma turien te
+Corma tuvien
+Corma tultien te
+Huinesse nutien.
+
+Tercáno Nuruva.
+Tuvien Corma tultien te
+Huinesse nutien
+Corma turien te Corma.
+
+'Listen!
+
+It speaks to those who were not born to die:
+
+[One] Ring to rule them [all]
+[One] Ring to find [them]
+[One] Ring to bring them [all]
+[And] in the Darkness bind it
+
+[The] Herald of Death
+to find [One] Ring, to bring them [all]
+[And] in the Darkness bind it
+
+[One] Ring to rule them [all], [One] Ring'
+</poem>
+
+{{DEFAULTSORT:01}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

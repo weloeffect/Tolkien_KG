@@ -1,0 +1,22 @@
+{{scene
+|name=The Midgewater Marshes
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings (film series) - Midgewater crossing.png
+|number= 17 (extended edition only)
+|duration=1:37
+|event=The hobbits make their way through the [[Midgewater Marshes]]
+|characters=[[Frodo]], [[Sam]], [[Merry]], [[Pippin]], [[Aragorn]]
+|previous=[[The Nazgûl (scene)|The Nazgûl]]
+|next=[[The Spoiling of Isengard]]
+}}
+
+'''The Midgewater Marshes''' is the seventeenth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene does not appear in the theatrical cut of the film.
+
+==Synopsis==
+The group arrives in Midgewater, which is hard to traverse owing to the swampy conditions and presence of bugs. They eventually make it through the marshes in time for sundown. Frodo overhears Aragorn singing the [[Song of Beren and Lúthien|Lay of Lúthien]], which describes the love between the Man [[Beren]] and the Elf [[Lúthien]] and their tragic end.
+
+==Differences==
+*The "Lay of Lúthien" mentioned by Aragorn is actually the "[[Song of Beren and Lúthien]]" in the book, and is sung at Weathertop not near Midgewater.
+
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|17]]

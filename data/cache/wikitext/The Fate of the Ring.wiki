@@ -1,0 +1,26 @@
+{{scene
+|name=The Fate of the Ring
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Elrond 3.jpg
+|number= 20 (theatrical) <br>
+         24 (extended)
+|duration=
+|event=[[Elrond]] and [[Gandalf]] discuss what should be done with [[The One Ring]]
+|characters=[[Elrond]], [[Gandalf]]
+|previous=[[Many Meetings (scene)|Many Meetings]]
+|next=[[The Sword that Was Broken]]
+}}
+'''The Fate of the Ring''' is the twentieth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the twenty-fourth of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. 
+
+==Synopsis==
+[[Elrond]] and [[Gandalf]] watch the end of [[Frodo]]'s [[Many Meetings (scene)|discussion]] with [[Sam]]. Elrond remarks that Frodo has shown a remarkable resilience to the evil of the [[The One Ring|Ring]], although the wizard says that the wound Frodo [[A Knife in the Dark (scene)|received on Weathertop]] will never fully heal. The two debate what should be done with the Ring; Gandalf is hesitant to ask more of Frodo as ring-bearer, however Elrond tells him that the Ring cannot stay in [[Rivendell]], especially with the treachery of [[Saruman]] now known. Gandalf tentatively suggests that their hope must be placed in the hands of [[Men]], with the [[Elves]] leaving [[Middle-earth]]. At this, Elrond gravely says that men are weak and that it is due to Men that the Ring still survives. He proceeds to tell Gandalf of how he "was there three thousand years ago" when [[Isildur]] cut the Ring from the hand of [[Sauron]]. There, he took Isildur into [[Mount Doom]] where the Ring could be destroyed, however Isildur refused to do so. 
+
+Elrond comments that there is no strength left in the world of Men, but Gandalf tells him there is one who could unite their race and become the king of [[Gondor]]. Elrond solemnly tells him that "He turned from that path a long time ago. He has chosen exile."
+
+==Dfferences==
+
+*Elrond never took Isildur into Mount Doom. Isildur merely refused to destroy the Ring on the slopes of Mount Doom.
+*Elrond in the books is not contemptuous of Men. Indeed, there is truly little alternative, as neither Elves nor any Dwarves outside of Erebor are in a strategic position to confront Sauron directly.
+*Aragorn never refused the kingship or "chose exile" from his destiny.
+
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|24]]

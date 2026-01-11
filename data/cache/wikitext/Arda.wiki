@@ -1,0 +1,116 @@
+{{short description|World within Eä}}
+{{disambig-more|Arda|[[Arda (disambiguation)]]}}
+{{location infobox
+| name=Arda
+| image=Ambarkanta Map V upscale.png
+| caption="Ambarkanta Map" (coloured) by [[J.R.R. Tolkien]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈarda]}}
+| othernames=''Aþāraphelūn'' ([[Valarin|V]]), ''Ardhon'' ([[Sindarin|S]])
+| location=Within [[Eä]]
+| type=The World
+| description=A habitable round mass of land, water and airs under the [[Sun]], [[Moon]] and [[stars]].
+| regions=[[Aman]] (including [[Valinor]]), [[Middle-earth]] (including [[Beleriand]]), [[Dark Land]], [[Númenor]], [[Land of the Sun]]
+| towns=
+| inhabitants=[[Ainur]], [[Elves]], [[Men]], [[Dwarves]], [[:Category:Races|and others]].
+| created={{VY|1}} or earlier
+| destroyed=
+| events=''See: [[:Category:Events]]''
+}}
+{{quote|Behold I love the Earth, which shall be a mansion for the Quendi and the Atani!|Ilúvatar in ''[[Of the Beginning of Days]]''}}
+'''Arda''' ([[Quenya|Q]]: "Realm") was the [[Quenya]] name for the world as a whole. Arda was created within [[Eä]] by [[Ilúvatar|Eru Ilúvatar]]. It was then shaped by the [[Valar]], with continental masses such as [[Middle-earth]] and [[Aman]], and oceans, like [[Belegaer]]. 
+
+Arda was the home of [[Elves]], [[Men]], [[Dwarves]] and other [[:Portal:Characters|races]] as well as the [[kelvar]] and [[olvar]]. Some of the [[Ainur]] govern the world under [[Ilúvatar|Eru]]'s mandate.
+
+==Beginnings==
+{{Main|Days before days}}
+[[File:Jacek Kopalski - Creation of Arda.jpg|thumb|left|125px|"Creation of Arda" by [[:Category:Images by Jacek Kopalski|Jacek Kopalski]]]]
+Arda was first brought into existence with the [[Music of the Ainur]], for the purpose of creating a home for the [[Children of Ilúvatar]]. Ilúvatar appointed the [[Valar]] as its masters, and it was built mainly by [[Manwë]], [[Aulë]] and [[Ulmo]]. 
+
+But even before the coming of some [[Ainur]] there were other beings inhabiting Arda, perhaps without the Ainur's involvement or knowledge.<ref group="note">In [[The Book of Lost Tales]], the nature and origin of [[Ungoliant]] is said to be a mystery even for the Valar.</ref> One of them was [[Iarwain Ben-adar]]<ref>{{FR|Bombadil|50}}, p. 131</ref> and other mysterious [[nameless things]] that eventually withdrew in caves under mountains.<ref>{{TT|White|50}}, p. 501</ref><ref>{{H|Riddles}}</ref>
+
+The Valar invented its geography, for at the time it was largely without feature and gave it symmetry and form. But then [[Morgoth|Melkor]] wanted Arda for himself, and the two sides engaged in the titanic [[First War]] where [[Arda Marred|Arda was marred]] and its plan was altered.<ref>{{S|Ainu}}</ref>
+
+As for light source, the Valar decided upon [[Two Lamps|two lamps]]. One, a blue light, was placed at the north, and it was called [[Illuin]]. The other, a golden light, was placed at the very southernmost point, and was called [[Ormal]]. [[Aulë]], craftsman of the Valar, forged two pillars : [[Helkar]] and [[Ringil (tower)|Ringil]], placed at the north and south  respectively. The Valar chose as their own home the green isle [[Almaren]] in the center of Arda between the two pillars.
+
+It was at that time that [[Morgoth|Melkor]] made his first attempt, spreading chaos across Arda. He destroyed the Lamps and the pillars, ruining the symmetry of the world. At this time, the continents of [[Aman]], [[Endor]], and the [[Uttermost East|Land of the Sun]] were formed. In the midst of Endor where the Two Lamps fell into ruin, the [[Sea of Helcar]] and the [[Sea of Ringil]] formed.
+
+{{Seealso|History of Arda}}
+
+==Geography==
+===Before the Shifting===
+[[File:Sage - Almaren.png|thumb|left|Original symmetric shape of Arda with [[Almaren]] in the middle. The [[Iron Mountains]] can be seen on the North, created by [[Morgoth|Melkor]] to protect himself from the Valar.]]
+Arda was originally flat, like a plate. Encircling the continents was [[Ekkaia]], the Encircling Sea. Farthest to the West was the great continent of [[Aman]], composed primarily of two geographical features: the Plain of [[Valinor]], and the [[Pelóri]] Mountains. [[Taniquetil]] was the highest mountain in this range, and in the world. Separating Aman from the lands to the east was the great sea of [[Belegaer]].
+
+Across Belegaer was [[Middle-earth]], known also as [[Endor]] or the [[Hither Lands]]. The west side of this land mass was called [[Beleriand]], the north [[Dor Daedeloth]], and the east [[Palisor]]. According to [[J.R.R. Tolkien|Tolkien]]'s earlier maps, it was in Palisor that there was the great inland [[Sea of Helcar]], and the shores of [[Cuiviénen]]. At its farthest northwestern point, Middle-earth was joined to Aman by the [[Helcaraxë]], a deathly cold region of grinding ice. 
+
+Middle-earth was dominated by many mountain ranges. Separating Beleriand from the inner lands of Middle-earth were the [[Blue Mountains|Ered Luin]], the Blue Mountains. To the far east there were the [[Orocarni]], the Red Mountains. Between the Blue Mountains and Red Mountains, Melkor had raised up the [[Misty Mountains|Hithaeglir]], the Misty Mountains, to hinder the hunts of the Vala [[Oromë]] in Middle-earth. These three northern ranges were joined together at their northernmost ends by the [[Iron Mountains]], raised by Melkor in the ages before the fall of the Two Lamps. 
+
+In the south of Middle-earth were the [[Grey Mountains (ancient)|Grey Mountains]], and in the southeast there were the [[Yellow Mountains]]. In the far east between the Orocarni in the north and the Yellow Mountains in the south there lay the [[Mountains of the Wind]]. However, when the Valar went to war against Melkor in the [[Battle of the Powers]], much of Arda was changed again. The Yellow Mountains and the Mountains of the Wind were lost, and the [[Great Gulf]] formed between Beleriand and the lands to the far south. To the east, the [[East Sea]] and the [[Sea of Ringil]] joined together, dividing Middle-earth from a new continent known only as the [[Dark Land]] or the South Lands.<ref>{{SM|Ambar}} p. 250-251</ref>
+
+In its earliest days, Middle-earth was dominated by a great forest spanning from the western shores to the Misty Mountains and possibly beyond. However, this great forest dwindled throughout the ages, remaining only in the regions of the [[Old Forest]], [[Fangorn Forest]], [[Lothlórien]], and [[Eryn Vorn]]. [[Mirkwood|Greenwood the Great]] may also have been a remnant of this vast forest.<ref>{{UT|Galadriel}}</ref>
+
+To the farthest east possible was the [[Uttermost East]], with a great curved mountain range called the [[Walls of the Sun]].  In the ''[[Ambarkanta]]'' it is called the “''Dark Land of the Sun''”. Corresponding to Taniquetil was the mountain [[Kalormë]].
+
+===Second Age and Beyond===
+[[File:Darrell Sweet - The Fall of Numenor.jpg|thumb|right|150px|''The Fall of Númenor'' by [[Darrell Sweet]]]]
+During the tumultuous [[War of Wrath]], the Valar broke and reshaped much of the world. The lands of Beleriand sank beneath the Great Sea in this conflict, drowning many lands west of the Blue Mountains. There were some islands that remained of the old world: [[Tol Fuin]], [[Tol Morwen]], and [[Himring]]. On the mainland, only the realm of [[Lindon]] survived the sinking of Beleriand. Lindon and the Blue Mountains were split in two after the conflict by the [[Gulf of Lune]], possibly an eastward expansion of the ancient [[Bay of Balar]].<ref>[http://www.jrrvf.com/hisweloke/site3/articles.php?lng=en&pg=41 Hisweloke - Géographie - Mystère géographiques (1) : Mont Dolmed et cités naines...]</ref> The mainlands shrank back furthest in the [[Northern Waste|far north]] of the world, where the [[Icebay of Forochel]] was formed. To the south, the sinking of Beleriand robbed the Great Gulf of its northwestern ends, forming the [[Bay of Belfalas]] out of what remained.
+
+After this catastrophic conflict, [[Ossë]] raised [[Elenna]] – a large, star-shaped isle – out of Belegaer, where the kingdom of [[Númenor]] would soon be settled.
+
+The second great change was the [[Akallabêth|Drowning of Númenor]]. In this cataclysm, the world was stretched and made into the shape of a sphere. At that time Aman and the island of [[Tol Eressëa]] were removed from the [[Circles of the World]], and became inaccessible save by the [[Straight Road|Straight Way]]. It is said that new continents were made in place of the Undying Lands. Once again, the western coasts of Middle-earth changed, retreating in some places and advancing in others. It is unknown if the Uttermost East survived the Fall of Númenor.
+
+==Eschatology==
+The [[Elves]] held to the concept of [[Arda Marred]]. In the beginning, at the time of the Music of the Ainur, was [[Arda Unmarred]]. According to the idea of Arda Unmarred, the world was originally "unstained" by evil. It became Arda Marred after Melkor entered and introduced chaos. They also clung to the idea that one day the world would become [[Arda Healed]]. According to this belief, Arda Healed will not come about until the [[Dagor Dagorath]], the Last Battle.
+
+==Tengwa==
+[[File:Arda (tengwa).gif|left]]''Arda'' is also the name in [[Quenya]] of the twenty-sixth letter of the [[Tengwar]] alphabet.<ref>{{App|Letters}}, Note, ''The names of the letters''</ref> It is a modification of ''[[Rómen]]'' (letter 25).  In written Quenya ''Arda'' is used for '''RD'''. In other modes this letter represents voiceless '''R''' (or '''RH''').<ref>{{App|Letters}}, Note, ''The additional letters''</ref>  The Westron name for this letter is '''''Rhó'''''.<ref>See ''[[Alphabet of Fëanor: Numenian, or Westron, Mode]]''</ref>
+
+<!-- The extra blank line is needed to prevent the Etymology from being indented. -->
+
+==Etymology==
+{{Pronounce|Arda.mp3|Ardamir}}
+''Arda'' derives from the [[Primitive Quendian]] word ''gardā'' meaning "bounded or defined place, region".<ref name="Quendi">{{WJ|AD1}}</ref>{{rp|402, 413}}
+
+===Other names===
+''Arda'' is the [[Quenya]] name of the World, with its atmosphere and the celestial objects. The term [[Ambar]] is roughly equivalent and it probably refers to Earth without the celestial objects. It was also called '''Kingdom of Earth/Arda/Manwë''' and '''Little Kingdom'''. The [[Valarin]] name, from which Quenya ''Arda'' derived, was '''''Aþāraphelūn''''' ("appointed dwelling").<ref name="Quendi" />{{rp|401}}
+
+The [[Sindarin]] version for ''Arda'' is '''''Ardhon''''', only attested in the name ''[[Ardamírë|Mîr n'Ardhon]]'' ("Jewel of the World").<ref name="Name">{{PM|XI}}: ''The names of Finwë's descendants'', p. 348</ref> However, it could be a [[Lenition|lenited]] form of ''gardhon'' (a combination of ''gardh'' ("region") with a suffixal element ''[[-on]]'').<ref>{{webcite|author=Paul Strack|articleurl=http://eldamo.org/content/words/word-2787701887.html|articlename=S. ''Ardhon'' loc.|dated=|website=Eldamo|accessed=31 January 2020}}</ref>
+
+In [[Adûnaic]] the words '''''kamât''''' ("earth")<ref>{{SD|2eiii}}, p. 311</ref> and '''''dāira''''' ("Earth")<ref>{{SD|67}}, p. 247</ref> are given at different points. Another possible word is '''''Abat-''''', seen in the royal name [[Ar-Abattârik|''Abat''târik]] (Quenya: ''Arda''min).<ref>{{webcite|website=Arda|author=[[Helge Fauskanger]]|articlename=Adûnaic|articleurl=http://folk.uib.no/hnohf/adunaic.htm}}</ref>
+
+==Theories==
+Using the known sizes of [[Beleriand]] and [[Middle-earth]] when compared to the size of Beleriand on [[:File:J.R.R. Tolkien - Ambarkanta Map V.png|Map V]] of the [[Ambarkanta maps|''Ambarkanta'' maps]], [[Karen Wynn Fonstad]] has speculated that flat Arda's diameter was probably about 6,800 miles.<ref>{{HM|AME}}</ref> However, Diagram III of the ''Ambarkanta'' shows that the "Old Lands" made up half of Arda made round,<ref name="Ambar" /> implying that flat Arda would have been around 12,451 miles across, half the earth's circumference.<ref>{{webcite|articleurl=http://www.universetoday.com/26461/circumference-of-the-earth/|articlename=Circumference of the Earth|website=Universe Today|2 June 2016}}</ref> Precise estimations of the size of Arda are difficult to determine with Map V of the ''Ambarkanta'', which is said by [[Christopher Tolkien]] to be ''"a very rough sketch not to be interpreted too strictly"''.<ref name="Ambar" />{{rp|258}}
+
+==Other versions of the legendarium==
+[[File:J.R.R. Tolkien - I Vene Kemen.png|thumb|[[I Vene Kemen]]]]
+In the early ''[[Book of Lost Tales]]'', the [[Qenya]] name for the Earth was ''kemi'' as well as ''mar''.<ref>{{LT2|Appendix}}</ref> An early schematic map of that era, displays the flat earth like a ship floating in the ocean of Vai.
+[[File:J.R.R. Tolkien - Ambarkanta Map I.jpg|thumb|left|150px|Early Arda (Ilu) and the waters and airs surrounding it, as shown in the ''[[Ambarkanta maps|Ambarkanta]]''.]]
+In the next phase of the legendarium, as described in ''[[The Ambarkanta]]'', the world has the Qenya names ''[[Ilu]]'' (being the wholeness of existence, the world, with its sky and air, equivalent to Arda of the later legendarium) or ''[[Ambar]]'' (being the "earthy", concrete part of Ilu) suspended in the [[Void]].<ref>{{SM|A1}}</ref>
+
+Above the lands of Ambar was [[Vista]], the lowermost airs where the birds fly. Surrounding Vista were the airs of [[Ilmen]], the upper airs where the [[stars]] were set. The airs of Ilmen met with the earth in [[Valinor]] and the [[Uttermost East]] where it was widest, and the airs of Ilmen were narrowest in the far north and south. Beyond Ilmen was [[Vaiya]], the Encircling Sea which surrounds Arda on all its sides. It is said that the waters of Vaiya were more alike to air in the regions farthest above the earth, and alike to water beneath the earth. Surrounding all of the world beyond the Vaiya was the [[Ilurambar]], the Walls of the World, a cold and transparent globed barrier like ice and glass and steel, passable only by the [[Doors of Night]]. Beyond the Ilurambar there is naught but the [[Void|Outer Void]].<ref name="Ambar">{{SM|Ambar}}</ref>{{rp|235–240}}
+
+The name ''Arda'' first appears in a later version of the ''[[Ainulindalë (Morgoth's Ring)|Ainulindalë]]'' from [[1951]], where the term ''Ea'' also appears, with Arda now being just a small part in the vast regions of Creation<ref>{{MR|P1e}}</ref> and not equated with it.
+
+In the later [[Round World version of the Silmarillion]], there is the consideration that there are other worlds in Eä beside Arda where the innumerable Ainur labored, but Arda is of central importance in the Great Tale of Eä, as it is the stage of the conflict between the Great Enemy and the [[Eruhini]]. The distant worlds, and the Ainur who shaped them, are beyond the thought of Elves and Men.<ref>{{MR|P5II}}</ref>
+
+==See also==
+*[[Arda Marred]]
+*[[Arda Unmarred]]
+*[[Arda Healed]]
+*[[Timeline]]
+
+==External links==
+*[http://www.physics.ccsu.edu/larsen/tolkien.html The Astronomy of Middle-earth] - collection of articles by [[Kristine Larsen]]
+*[http://www.forodrim.org/daeron/md_astro.html Astronomical objects above Middle-earth] - [[Elvish]] names of celestial terms.
+
+{{References|n}}
+{{cosmology}}
+
+[[Category:Arda| Arda]]
+[[Category:Cosmology| ]]
+[[Category:Quenya locations]]
+[[Category:Quenya nouns]]
+[[Category:Tengwar letters]]
+[[de:Arda]]
+[[fi:Arda]]
+[[fr:/encyclo/geographie/astronomie/arda]]

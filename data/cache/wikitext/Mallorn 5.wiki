@@ -1,0 +1,56 @@
+{{Mallorn
+| name=Mallorn 5
+| image = Mallorn 5.jpg
+| editor=[[Vera Chapman]]
+| artist=
+| printer="Fred"
+| date=[[1972]]
+| format=
+| pages=30
+| issn=0308-6674
+}}
+
+'''''Mallorn'' 5''' is the 5th issue of the [[Tolkien Society]]'s journal [[Mallorn (journal)|Mallorn]], published in 1972. It includes a [[Letter to Vera Chapman and the Tolkien Society|short letter from J.R.R. Tolkien]].
+
+==Contents==
+* '''Editorial'''
+** Pro-Editorial from the Pro-Editor
+*** By Belladonna Took ([[Vera Chapman]])
+*** Includes a [[Letter to Vera Chapman and the Tolkien Society|letter from Tolkien to Vera Chapman and The Tolkien Society]] (p.&nbsp;2).
+** Letters to the Editors
+*** By Bob Borsley, Will Haven, Roger Johnson, Tony Fallone, John Abbott, James Ead, Hal Broome, Catherine McEvoy, and Dave Weldrake
+** Belladonna's Postbag
+*** By Will Haven, John B. Abbott, and Belladonna Took (Vera Chapman)
+* '''Notes'''
+** Flaws in the Tapestry of ''The Lord of the Rings''
+*** By John Abbott
+** Shields of Middle-earth
+*** By Helen Kerley
+* '''Creative'''
+** Serial: "Sir John de Creke, His Quest" (short story)
+*** By Vera Chapman
+** Tir Na Noge (poem)
+*** By A.R. Fallone
+** The Professor at Oxford (poem)
+*** By Vera Chapman
+** Nazgul (humorous vignettes)
+*** By John B. Abbott
+* '''Book Reviews'''
+** ''[[Bored of the Rings (book)|Bored of the Rings]]'' by The Harvard Lampoon
+*** Reviewed by Jonathan Brown
+** ''The Last Unicorn'' by [[Peter S. Beagle]]
+*** Reviewed by Belladonna Took (Vera Chapman)
+** ''The Water of the Wondrous Isles'' by [[William Morris]]
+*** Reviewed by Belladonna Took (Vera Chapman)
+** ''Red Shadows'' by [[Robert E. Howard|R.E. Howard]]
+*** Reviewed by Hal Broome
+** ''The Whisper of Glocken'' by Carol Kendall
+*** Reviewed by Rosie Turner
+** ''A Wizard of Earthsea'' by [[Ursula K. Le Guin|Ursula Le Guin]]
+*** Reviewed by Hartley Patterson
+
+{{mallornnav|4|6}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 05}}
+[[Category:Publications with contribution by J.R.R. Tolkien]]
+[[Category:Mallorn (journal)]]

@@ -1,0 +1,47 @@
+{{book
+|title=Understanding ''The Lord of the Rings'': The Best of Tolkien Criticism
+| image = Understanding The Lord of the Rings.jpg
+|author=Neil D Isaacs, Rose A Zimbardo (Editors)
+|publisher=[[Houghton Mifflin]] Company
+|date=[[24 May|May 24]], [[2004]]
+|format=Hardcover
+|pages=294
+|isbn=978-0618422517
+|amazon=
+|amazonprice=
+}}
+'''''Understanding The Lord of the Rings: The Best of Tolkien Criticism''''' is a collection of essays related to J.R.R. Tolkien and his works. The work reprints several of the essays from the editors' 1968 collection ''[[Tolkien and the Critics]]''.
+==From the publisher==
+
+Edited by [[J.R.R. Tolkien|Tolkien]] scholars Rose A. Zimbardo and Neil D. Isaacs, this book spans fifty years of critical reaction, from the first publication of The Fellowship of the Ring through the release of Peter Jackson's film trilogy. Fans and scholars alike will appreciate these important, insightful, and timely pieces, including works from a wide range of voices:
+
+* [[W.H. Auden]]'s classic, admiring essay on the true nature of the hero quest
+* [[C.S. Lewis]] on the value of myth
+* Edmund Fuller on the nature of the fairy tale
+* [[Marion Zimmer Bradley]] on hero worship
+* [[Tom Shippey]] on the film trilogy 
+
+==Contents==
+* Neil D. Isaacs: Introduction: "On the Pleasures of (Reading and Writing) Tolkien Criticism"
+* C.S. Lewis: "[[The Dethronement of Power]]"
+* Edmund Fuller: "The Lord of the Hobbits: J.R.R. Tolkien"
+* W.H. Auden: "The Quest Hero"
+* Patricia Meyer Spacks: "Power and Meaning in ''The Lord of the Rings''"
+* Rose A. Zimbardo: "Moral Vision in ''The Lord of the Rings''"
+* Marion Zimmer Bradley: "Men, Halflings, and Hero-Worship"
+* R.J. Reilly: "Tolkien and the Fairy Story"
+* [[John Ryan|J.S. Ryan]]: "Folktale, Fairy Tale, and the Creation of a Story"
+* [[Verlyn Flieger]]: "Frodo and Aragorn: The Concept of the Hero"
+* [[Paul Kocher]]: "Middle-earth: An Imaginary World?"
+* Patrick Grant: "Tolkien: Archetype and Word"
+* Lionel Basney: "Myth, History, and Time in ''The Lord of the Rings''"
+* Jane Chance: "''The Lord of the Rings'': Tolkien's Epic"
+* Tom Shippey: "Another Road to Middle-earth: Jackson's Movie Trilogy"
+
+* Acknowledgments and Permissions
+* Notes
+* Index
+
+{{title|italics}}
+[[Category:Publications by title]]
+[[Category:Scholarly books]]

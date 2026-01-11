@@ -1,0 +1,85 @@
+{{people infobox
+| name=Avari
+| image = Jenny Dolfen - Avari.jpg
+
+| caption="Avari" by [[Jenny Dolfen]]
+| pronun=
+| othernames=[[Dark-elves]], The Unwilling, Wild Elves
+| origin=Elves who refused to make the [[Great Journey]]
+| location=[[Eriador]], [[Rhûn]], [[Taur-im-Duinath]],  [[Vales of Anduin]]
+| affiliation=
+| rivalry=[[Eldar]]<ref name=WJA /><ref name=WJ377 />
+| language=Various [[Avarin]] languages
+| members=[[Morwë]], [[Nurwë]]
+| lifespan=Immortal
+| distinctions=
+| height=
+| hair=
+| clothing=
+| weapons=
+}}
+{{Quote|But many refused [[Great Journey|the summons]], preferring the starlight and the wide spaces of Middle-earth to the rumour of the [[Two Trees of Valinor|Trees]]; and these are the Avari, the Unwilling.|''[[Quenta Silmarillion]]'', "[[Of the Coming of the Elves and the Captivity of Melkor]]"}}
+
+The '''Avari''' ([[Quenya|Q]]: "unwilling"; or "'''the Refusers'''"<ref>{{PM|Atani}}, p. 312</ref>) were a branch of [[Elves]] that refused to embark on the [[Great Journey]].
+
+==Origins==
+The original [[Elves]] that [[Awakening of the Elves|awakened]] in [[Cuiviénen]] numbered 144, in 72 pairs, and they were divided into three clans: the [[Minyar]], which had 14 members; the [[Tatyar]], which had 56 members; and the [[Nelyar]] (or [[Lindar]]), which had 74 members. These remained the rough proportions of the Elvish population up to the time of the [[Vala]] [[Oromë]]'s invitation to the Elves to come to [[Valinor]]. The Elves entered into a great debate on whether to follow Oromë into the west. Most of the Elves were persuaded to undertake this [[Great Journey]], including all of the Minyar, half of the Tatyar, and a little less than two-thirds<ref group=note>Specifically 28 of 56 Tatyarin and 46 of 74 Nelyarin Elves. Note that these are proportions of the number 144 that represents the Quendi as a whole, not exact counts of individuals.</ref> of the Nelyar. These Elves became known collectively as the [[Eldar]], and their clans became known by new names: the Minyar became the [[Vanyar]], the Tatyar became the [[Noldor]], and the Nelyar became the [[Teleri]].<ref name=WJ381>{{WJ|C}}, pp. 380-83</ref>
+
+Those Elves who refused to take the Great Journey were called the Avari and they were not counted among the Eldar.<ref>{{S|3}}, p. 41</ref> Their initial population included a little more than one-third of all Quendi and was evenly divided between Tatyar and Nelyar.<ref group=note>Specifically 28 of the 56 Tatyar and 28 of the 74 Nelyar. Again, these values are proportions of 144, not headcounts.</ref><ref name=WJ381 /> Some of them, especially those who dwelt furthest from the waters of [[Cuiviénen]] and wandered in the hills, had not seen Oromë at his first coming, and knew only vague, fearful rumours of the Valar; lies of Melkor concerning Oromë and [[Nahar]] perhaps had a role.<ref>{{MR|Annals}}</ref> Many thus refused to depart from their own lands, and spread gradually throughout the wide lands of [[Middle-earth]]. According to a tradition, their leaders were [[Morwë]] of the Tatyar and [[Nurwë]] of the Nelyar. They were after known by the name "the Unwilling" because they refused the summons. It is not known to what extent the Tatyar and Nelyar among the Avari retained their original clan names after the First Sundering, but they did retain a memory of the old clans' existence and their relationship to their Eldar cousins.<ref name=WJ381 />
+
+At the outset of the Great Journey, the Eldar outnumbered the Avari by a considerable margin. By the time the Great Journey was ended and [[Tol Eressëa]] was permanently anchored in the Bay of Eldamar the proportions had reversed, with Moriquendi (including the Úmanyar) outnumbering Amanyar by nearly as much as the Eldar had originally outnumbered the Avari.<ref group=note>Initially the proportion was 88 Eldar to 56 Avari (61% to 39%); at journey's end it was 62 Amanyar to 82 Moriquendi and Úmanyar (43% to 57%).</ref><ref name=WJ381 />
+
+==History==
+It is believed that some of the Avari were corrupted by [[Melkor]] (or had become evil and savage in the wild) in ancient days to become the progenitors of the race of [[Orcs]].<ref>{{S|3}}</ref><ref name=sindar>{{S|Sindar}}</ref>
+
+Over time, many Avari wandered westwards. Some mingled with the [[Nandor]] of the [[Vales of Anduin]], and others entered [[Eriador]].<ref name=WJA>{{WJ|Author}}, pp. 409-410</ref> Some time after the [[Green-elves|Laiquendi]] settled in [[Beleriand]], some Avari "crept in small and secret groups into Beleriand from the South." Most of these Avari remained secretive and isolated from the other Elves, living in caves and deep in the forests, but rarely an Avar would be accepted into Sindarin society.<ref name=WJ377>{{WJ|B}}, p. 377</ref> A few Avari wandered the dark and gloomy forest of [[Taur-im-Duinath]].<ref name=bel>{{S|Beleriand}}</ref><ref name=index>{{S|Index}}</ref> 
+
+The [[Edain]] who travelled to the [[West]] first met the Avari of all the Elves, and were taught from their language, which influenced theirs.<ref>{{S|17}}</ref> They taught them many of the basic crafts of civilization, though the craft of the Eldar surpassed that of the Avari, even more than that of the Avari surpassed primitive [[Men]].<ref>{{S|12}}</ref>
+
+It is told that no Avari were to be found west of the [[Misty Mountains]] during the late [[Third Age]].<ref>{{PE|17}}, p. 53</ref>
+
+==Culture==
+[[File:Peter Xavier Price - Avari Elf.jpg|thumb|left|"Avari Elf" by [[Peter Xavier Price]]]]
+In the First Age, the Avari are said to have viewed the Eldar with jealousy and disdain and treated them with hostility, even treachery, owing to their deep and inherited bitterness.<ref name=WJA /> In Beleriand most Avari remained secretive and isolated from the other Elves, living in caves and deep in the forests, but rarely an Avar would be accepted into Sindarin society.<ref name=WJ377/> However, this seems to have varied among different groups of Eldar and Avari – the Tatyarin Avari are said to have especially disliked the [[Noldor]] who returned from Aman, believing them to be deserters, but the Nelyarin Avari established close and friendly relations with their [[Nandor]] and [[Sindar]] kin, particularly in [[Eriador]] and the [[Vales of Anduin]], to the point that they "often became merged together" (cf. the [[Galadhrim]]).<ref name=WJ381 />
+===Tribes===
+Six tribes of Avari are mentioned in the [[Third Age]], and their names are all cognates of the [[Primitive Quendian]] word [[Quendi|Kwendî]] (''the Speakers''): '''[[Kindi]]''', '''[[Cuind]]''', '''[[Hwenti]]''', '''[[Windan]]''', '''[[Kinn-lai]]''', '''[[Penni]]'''.<ref>{{WJ|Author}}, Note 9</ref>
+
+===Languages===
+{{main|Avarin}}
+The Avari had many tribes and greatly varied languages, widely sundered from one another.<ref>{{WJ|Quendi}}, p.410</ref> The names above are the only certain [[Avarin]] words ever mentioned by the Loremasters. 
+
+== Etymology ==
+''Avari'' is the plural of ''Avar'', meaning "Refuser", from ''[[ABA]]'' ("refuse") and of the agent suffix ''[[-ro|-r]].'' The [[Telerin]] word ''[[Abari]]'' has this same etymology.<ref name="WJ|A">{{WJ|A}}</ref>
+
+==Other names==
+{{pronounce|Quenya - Avari.mp3|Gilgamesh}}
+The Avari were called ''[[Abari]]'' in [[Telerin]];<ref name=WJB>{{WJ|B}}</ref> they were also called ''[[Moripendi]]'' (an equivalent of [[Quenya]] ''[[Moriquendi]]'' which referred to the [[Sindar]] as well).<ref name="WJ|A"/>
+
+In [[Sindarin]], they were called ''Evair'', ''[[Morben]]'' or ''Mornedhel''.<ref name=WJB/>
+
+The term [[Dark Elves]] usually referred to the Avari. In the period of the [[Exile of the Noldor]], "Dark Elves" referred to the Elves of Middle-earth other than the [[Noldor]] and the [[Sindar]], thus being equivalent to the Avari and the [[Nandor]].<ref name=index/>
+
+==Other versions of the legendarium==
+In ''[[Book of Lost Tales]]'', the [[Hisildi]] were a tribe of Elves that never left ''"Koivië-Néni"''.
+
+In older versions of the legendarium, the name ''Avari'' was originally that of the later [[Eldar]], then meaning "the departing".<ref>{{LR|Lhammas}}</ref>{{rp|136}}
+
+In other, relatively late writings, a brief idea was that the Avari did not come from the three clans, but from two other additional clans, led by [[Morwë and Nurwë]]. This idea was later dropped. In the final conception, the [[Elves]] were divided into three tribes.
+
+==Portrayal in adaptations==
+'''2024: ''[[The Lord of the Rings Online]]'':'''
+[[File:The Lord of the Rings Online - Kintai.jpg|thumb|The Avari in ''[[The Lord of the Rings Online]]'']]
+:The Avari are found in the land of [[Near Harad]], or "Shagâna" as it is called by the locals, living within its oasises and forests. They speak not the name given to them by the [[Eldar]], considering it an insult (as it is not covered by the game's license), and call themselves Tárthai (Those Who Remained). The particular branch encountered in Near Harad are known Avabár-kinta (People Without Home), or simply '''Kintai'''. They seek not to travel west either in life or after death, believing that the way there is forever closed to them, and have developed an elaborate system  of beliefs and rituals regarding their fate after death, whether through fading or through violence in battle. The Wise who journey through those lands eventually reveal to some of the Kinta that some of what they believe is not entirely true.
+
+==External links==
+*[http://www.uib.no/People/hnohf/avarin.htm Avarin languages at Ardalambion]
+
+{{references|notes}}
+{{elves}}
+[[Category:Avari]]
+[[Category:Elven peoples]]
+[[Category:Moriquendi]]
+[[Category:Quenya demonyms]]
+[[de:Avari]]
+[[fr:encyclo/peuples/elfes/avari]]
+[[fi:Avari]]

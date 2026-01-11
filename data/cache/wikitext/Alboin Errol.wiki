@@ -1,0 +1,48 @@
+{{stub}}
+{{anglosaxon infobox
+| name=Alboin Errol
+| people=[[wikipedia:English people|Englishman]]
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Oswin Errol]]
+| siblings=
+| spouse=
+| children=[[Audoin|Audoin Errol]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Alboin Errol''' was one of the main characters in [[J.R.R. Tolkien]]'s unfinished "[[The Lost Road|Lost Road]]" story of time travel. Alboin was the son of [[Oswin Errol|Oswin]] and father of [[Audoin|Audoin Errol]]. Alboin and his son travel through time to the fall of [[Númenor]], and after that the story falls apart with many different ideas and opinions, none of which seem to be fully formed.<ref>{{LR|Lost}}, p. 36 ff.</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| OSW |OSW=[[Oswin Errol]]}}
+{{familytree| |!| |}}
+{{familytree| ALB |ALB='''ALBOIN'''}}
+{{familytree| |!| |}}
+{{familytree| AUD |AUD=[[Audoin]]}}
+{{familytree/end}}
+
+{{references}}
+{{DEFAULTSORT:Errol, Alboin}}
+[[Category:English people (in-universe)]]
+[[Category:The Lost Road]]

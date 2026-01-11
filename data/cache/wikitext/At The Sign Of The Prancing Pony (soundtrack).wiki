@@ -1,0 +1,18 @@
+{{song
+| title=At the Sign of the Prancing Pony
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=3:14
+| track=6
+| previous=[[The Black Rider]]
+| next=[[A Knife In The Dark (soundtrack)|A Knife in the Dark]]
+| spotify=https://open.spotify.com/track/7fZVaaZUrH8itKO9LBmJln
+}}
+'''At The Sign Of The Prancing Pony''' is the sixth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]..  As may be expected, it contains the music in the background of the scenes at the [[Prancing Pony Inn]] and [[Bree]].
+
+It begins slowly and slightly uneasily, with low strings accompanied by low brass in the background playing slowly and solemnly.  There is a hint of the sinister, as it begins to speed up a little, and go higher on the scale.  This goes on for more than a minute.  As the last note fades off, quite suddenly a set of notes plays several times on the low strings.  As it continues, the [[Nazgûl|Black Rider]] theme begins to merge in, with the gong sounding in the background and the signature bass notes dancing down the scale.  As it crescendoes, it soon escalates into the theme full-throttle.  The chorus begins its frantic chanting.  The theme slows down and pauses briefly, before launching into the Black Rider theme once more without the vocals.  This turns into what looks at first like the [[Isengard]] theme, with its harsh, five-beat rhythm.  But this soon fades away before the actual theme is employed, into slow strings playing a less sinister pattern.  This fades away to end the track.
+{{title}}
+{{DEFAULTSORT:06}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

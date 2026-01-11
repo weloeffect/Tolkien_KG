@@ -1,0 +1,44 @@
+{{Mallorn
+| name=Mallorn 34
+| image = Mallorn34.jpg
+| editor=[[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+| artist=[[Pauline Baynes]]
+| printer=
+| date=December [[1996]]
+| format=A4 stapled paperback, glossy
+| pages=44
+| issn=0308-6674
+}}
+'''''Mallorn'' 34''' is the thirty-fourth issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in December [[1996]].
+
+==Contents==
+* '''Cover Art'''
+** By: [[Pauline Baynes]]
+* '''Editorial'''
+** By: [[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+* '''Ring Verses Competition'''
+* J.R.R. Tolkien's Genealogies: The Roots of his 'Sub-creation'
+** By: Daniel Timmons
+* Glasburyon
+** By: Mark Abbey
+* Power, Domination and Egocetricism in Tolkien and Orwell
+** By: John Flood
+* The Ballad of Bart and Beth
+** By: Dan Timmons
+* Tolkien and Space Travel
+** By: Anthony Appleyard
+* Gandalf, Frodo, and Sherlock Holmes; myth and reality compared in the works of Tolkien and Conan Doyle
+** By: [[John Ellison]]
+* '''Reviews'''
+** ''[[The Peoples of Middle-earth]]''
+*** By: [[Charles Noad|Charles E. Noad]]
+** ''[[J.R.R. Tolkien: Artist and Illustrator]]''
+*** By: [[John Ellison|John A. Ellison]]
+* '''Contributors'''
+* '''Inside Art'''
+** By: Gordon Palmer, [[John Ellison]], Ian Collier
+{{mallornnav|33|35}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 34}}
+
+[[Category:Mallorn (journal)]]

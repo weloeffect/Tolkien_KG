@@ -1,0 +1,37 @@
+{{Disambig-more|Great River|[[Great River (disambiguation)]]}}
+{{song
+| title=The Great River
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=2:42
+| track=15
+| previous=[[Lothlórien (soundtrack)|Lothlorien]]
+| next=[[Amon Hen (soundtrack)|Amon Hen]]
+| spotify=https://open.spotify.com/track/7i0nvZRGgVqymOsRbJvQmi
+}}
+'''The Great River''' is the fifteenth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. The first part of the lyrics are taken from the [[Namárië]] and the second half from [[Elendil's Oath]].
+
+==Lyrics==
+<poem>
+''Ai! laurië lantar lassi súrinen,''
+''yéni únótimë ve rámar aldaron!''
+''yéni ve lintë...''
+
+''Et Eärello Endorenna utúlien.''
+''Sinome maruvan ar Hildinyar tenn' Ambar-metta!''
+</poem>
+
+==Translation==
+<poem>
+Alas! golden leaves fall in the wind,
+long years numberless as [the] wings of trees!
+Long years like swift...
+
+Out of the Great Sea to Middle-earth I am come.
+In this place I will abide, and my heirs, unto the ending of the world
+</poem>
+{{title}}
+{{DEFAULTSORT:15}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

@@ -1,0 +1,453 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/House_of_An%C3%A1rion> a schema:WebPage ;
+    rdfs:label "House of Anárion"@en ;
+    schema:about <http://localhost:8000/resource/House_of_An%C3%A1rion> .
+
+<http://localhost:8000/page/House_of_B%C3%ABor> a schema:WebPage ;
+    rdfs:label "House of Bëor"@en ;
+    schema:about <http://localhost:8000/resource/House_of_B%C3%ABor> .
+
+<http://localhost:8000/page/House_of_Dol_Amroth> a schema:WebPage ;
+    rdfs:label "House of Dol Amroth"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Dol_Amroth> .
+
+<http://localhost:8000/page/House_of_Elendil> a schema:WebPage ;
+    rdfs:label "House of Elendil"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Elendil> .
+
+<http://localhost:8000/page/House_of_Eorl> a schema:WebPage ;
+    rdfs:label "House of Eorl"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Eorl> .
+
+<http://localhost:8000/page/House_of_F%C3%ABanor> a schema:WebPage ;
+    rdfs:label "House of Fëanor"@en ;
+    schema:about <http://localhost:8000/resource/House_of_F%C3%ABanor> .
+
+<http://localhost:8000/page/House_of_Finarfin> a schema:WebPage ;
+    rdfs:label "House of Finarfin"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Finarfin> .
+
+<http://localhost:8000/page/House_of_Fingolfin> a schema:WebPage ;
+    rdfs:label "House of Fingolfin"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Fingolfin> .
+
+<http://localhost:8000/page/House_of_Finw%C3%AB> a schema:WebPage ;
+    rdfs:label "House of Finwë"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Finw%C3%AB> .
+
+<http://localhost:8000/page/House_of_H%C3%BArin> a schema:WebPage ;
+    rdfs:label "House of Húrin"@en ;
+    schema:about <http://localhost:8000/resource/House_of_H%C3%BArin> .
+
+<http://localhost:8000/page/House_of_Hador> a schema:WebPage ;
+    rdfs:label "House of Hador"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Hador> .
+
+<http://localhost:8000/page/House_of_Haleth> a schema:WebPage ;
+    rdfs:label "House of Haleth"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Haleth> .
+
+<http://localhost:8000/page/House_of_Isildur> a schema:WebPage ;
+    rdfs:label "House of Isildur"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Isildur> .
+
+<http://localhost:8000/page/House_of_Telcontar> a schema:WebPage ;
+    rdfs:label "House of Telcontar"@en ;
+    schema:about <http://localhost:8000/resource/House_of_Telcontar> .
+
+<http://localhost:8000/page/House_of_the_Fountain> a schema:WebPage ;
+    rdfs:label "House of the Fountain"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Fountain> .
+
+<http://localhost:8000/page/House_of_the_Golden_Flower> a schema:WebPage ;
+    rdfs:label "House of the Golden Flower"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Golden_Flower> .
+
+<http://localhost:8000/page/House_of_the_Hammer_of_Wrath> a schema:WebPage ;
+    rdfs:label "House of the Hammer of Wrath"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Hammer_of_Wrath> .
+
+<http://localhost:8000/page/House_of_the_Harp> a schema:WebPage ;
+    rdfs:label "House of the Harp"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Harp> .
+
+<http://localhost:8000/page/House_of_the_Heavenly_Arch> a schema:WebPage ;
+    rdfs:label "House of the Heavenly Arch"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Heavenly_Arch> .
+
+<http://localhost:8000/page/House_of_the_King> a schema:WebPage ;
+    rdfs:label "House of the King"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_King> .
+
+<http://localhost:8000/page/House_of_the_Mole> a schema:WebPage ;
+    rdfs:label "House of the Mole"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Mole> .
+
+<http://localhost:8000/page/House_of_the_Pillar> a schema:WebPage ;
+    rdfs:label "House of the Pillar"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Pillar> .
+
+<http://localhost:8000/page/House_of_the_Swallow> a schema:WebPage ;
+    rdfs:label "House of the Swallow"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Swallow> .
+
+<http://localhost:8000/page/House_of_the_Tower_of_Snow> a schema:WebPage ;
+    rdfs:label "House of the Tower of Snow"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Tower_of_Snow> .
+
+<http://localhost:8000/page/House_of_the_Tree> a schema:WebPage ;
+    rdfs:label "House of the Tree"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Tree> .
+
+<http://localhost:8000/page/House_of_the_Wing> a schema:WebPage ;
+    rdfs:label "House of the Wing"@en ;
+    schema:about <http://localhost:8000/resource/House_of_the_Wing> .
+
+<http://localhost:8000/resource/House_of_An%C3%A1rion> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_Elendil%2C_Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:destroyed "{{TA|2050}}"@en ;
+    tg:founder <http://localhost:8000/resource/An%C3%A1rion%2C_second_son_of_Elendil> ;
+    tg:gallery "the House of Anárion"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Crown_of_Gondor> ;
+    tg:image "Gondor Heraldry.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/N%C3%BAmen%C3%B3rean_Sindarin%2C_Westron%2C_Quenya> ;
+    tg:leader <http://localhost:8000/resource/King_of_Gondor> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:members <http://localhost:8000/resource/Hyarmendacil_I%2C_Eldacar_%28King_of_Gondor%29> ;
+    tg:name "House of Anárion"@en ;
+    tg:othernames <http://localhost:8000/resource/Royal_House_of_Gondor%3Cbr_/%3ESouthern_Line_of_Gondor%3Cbr_/%3E%27%27An%C3%A1rioni%27%27_%28Quenya> ;
+    tg:race <http://localhost:8000/resource/Initially_N%C3%BAmen%C3%B3reans> .
+
+<http://localhost:8000/resource/House_of_B%C3%ABor> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_Finarfin> ;
+    tg:destroyed <http://localhost:8000/resource/Last_formal_leader_of_this_people%2C_Barahir%2C_was_slain_in_%7B%7BFA> ;
+    tg:founder <http://localhost:8000/resource/B%C3%ABor> ;
+    tg:gallery "Bëorians"@en ;
+    tg:hair "Dark or brown"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Bow_of_Bregor%2C_Ring_of_Barahir> ;
+    tg:image "Quentandil - Beor device.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Taliska%2C_Sindarin> ;
+    tg:leader <http://localhost:8000/resource/Briefly_the_Lord_of_Ladros> ;
+    tg:location <http://localhost:8000/resource/Estolad%2C_Dorthonion_%28especially_Ladros%29%2C_Dor-L%C3%B3min%2C_Brethil%2C_later_N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/Beren_Erchamion%2C_Dior_Eluch%C3%ADl%2C_Elwing%2C_Bregolas%2C_Andreth> ;
+    tg:name "House of Bëor"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27%27House%3A%27%27%27%3Cbr%3EFirst_House_of_the_Edain%3Cbr_/%3E%27%27Bar_B%C3%ABora%27%27_%28Sindarin> ;
+    tg:race <http://localhost:8000/resource/Edain> ;
+    tg:skin "Pale to swarthy"@en .
+
+<http://localhost:8000/resource/House_of_Dol_Amroth> a schema:Thing ;
+    tg:founder <http://localhost:8000/resource/Founded_by_Galador%2C_the_son_of_Imraz%C3%B4r_the_N%C3%BAmen%C3%B3rean_and_Mithrellas_the_Elf-maid> ;
+    tg:hair "Dark"@en ;
+    tg:height "Tall"@en ;
+    tg:image "Rondador - House of Dol Amroth.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:leader <http://localhost:8000/resource/Prince_of_Dol_Amroth> ;
+    tg:location <http://localhost:8000/resource/Dol_Amroth%2C_the_chief_city_of_Belfalas> ;
+    tg:members <http://localhost:8000/resource/Angelimir%2C_Adrahil%2C_Imrahil%2C_Finduilas_%28wife_of_Denethor%29> ;
+    tg:name "House of Dol Amroth"@en ;
+    tg:race <http://localhost:8000/resource/D%C3%BAnedain_of_the_South_%28though_with_a_trace_of_Elven-blood%29> ;
+    tg:skin "Pale"@en .
+
+<http://localhost:8000/resource/House_of_Elendil> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:founder <http://localhost:8000/resource/Elendil%2C_son_of_Amandil_%28Lord_of_And%C3%BAni%C3%AB%29> ;
+    tg:hair "Dark"@en ;
+    tg:height "Tall"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Crown_of_Gondor%2C_Elendilmir%2C_Elfstone%2C_Ring_of_Barahir%2C_Sceptre_of_Ann%C3%BAminas%2C> ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron%2C_Quenya> ;
+    tg:leader <http://localhost:8000/resource/King_of_Arnor%2C_King_of_Arthedain%2C_King_of_Gondor%2C_Chieftain_of_the_Dunedain%2C_later_the_High_King_%28D%C3%BAnedain%29> ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_Arnor%2C_Gondor> ;
+    tg:members <http://localhost:8000/resource/Isildur%2C_An%C3%A1rion%2C_Aragorn_II%2C_Arathorn_II%2C_Hyarmendacil_I%2C_E%C3%A4rnur%2C_F%C3%ADriel> ;
+    tg:name "House of Elendil"@en ;
+    tg:race <http://localhost:8000/resource/Initially_N%C3%BAmen%C3%B3reans> ;
+    tg:skin "Pale"@en ;
+    tg:weapons <http://localhost:8000/resource/Narsil_%28later_And%C3%BAril%29> .
+
+<http://localhost:8000/resource/House_of_Eorl> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Oath_of_Eorl> ;
+    tg:founder <http://localhost:8000/resource/Eorl_the_Young> ;
+    tg:image "Pbrks - House of Eorl.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Rohanese> ;
+    tg:leader <http://localhost:8000/resource/Kings_of_Rohan> ;
+    tg:location <http://localhost:8000/resource/Rohan> ;
+    tg:name "House of Eorl"@en ;
+    tg:race <http://localhost:8000/resource/Rohirrim> ;
+    tg:rivalry <http://localhost:8000/resource/Dunlendings> .
+
+<http://localhost:8000/resource/House_of_F%C3%ABanor> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Gwaith-i-M%C3%ADrdain%2C_House_of_Finw%C3%AB%2C_Union_of_Maedhros> ;
+    tg:destroyed <http://localhost:8000/resource/%7B%7BSA> ;
+    tg:founder <http://localhost:8000/resource/F%C3%ABanor> ;
+    tg:gallery "the House of Fëanor"@en ;
+    tg:hair "Black, red"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Silmarils> ;
+    tg:image "Amanyar - Fëanor device.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/F%C3%ABanorian_dialect_%28Exilic_Quenya%29%3Cbr_/%3ESindarin> ;
+    tg:location <http://localhost:8000/resource/Tirion%2C_Formenos%2C_East_Beleriand%2C_Eregion> ;
+    tg:members <http://localhost:8000/resource/Sons_of_F%C3%ABanor%2C_Celebrimbor> ;
+    tg:name "House of Fëanor"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Nos_F%C3%ABanor%27%27_%28Noldorin> ;
+    tg:race <http://localhost:8000/resource/Noldor> ;
+    tg:weapons "Sword"@en .
+
+<http://localhost:8000/resource/House_of_H%C3%BArin> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Council_of_Gondor%2C_House_of_An%C3%A1rion%2C_later_the_House_of_Telcontar> ;
+    tg:founder <http://localhost:8000/resource/H%C3%BArin_of_Emyn_Arnen> ;
+    tg:hair "Dark"@en ;
+    tg:height "Tall"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Great_Horn> ;
+    tg:image "Rondador - House of the Stewards.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_N%C3%BAmen%C3%B3rean_Sindarin%2C_Quenya> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:members <http://localhost:8000/resource/Vorondil%2C_Mardil_Voronw%C3%AB%2C_Denethor_II%2C_Boromir%2C_Faramir> ;
+    tg:name "House of Húrin"@en ;
+    tg:othernames <http://localhost:8000/resource/House_of_the_Stewards%3Cbr_/%3E%27%27Hurinionath%27%27_%28Sindarin> ;
+    tg:race <http://localhost:8000/resource/D%C3%BAnedain_of_Gondor> ;
+    tg:skin "Pale"@en .
+
+<http://localhost:8000/resource/House_of_Hador> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_Fingolfin> ;
+    tg:destroyed <http://localhost:8000/resource/Last_formal_leader_of_this_people%2C_H%C3%BArin_Thalion%2C_ruled_until_%7B%7BFA> ;
+    tg:founder <http://localhost:8000/resource/Marach> ;
+    tg:gallery "Hadorians"@en ;
+    tg:hair "Mostly golden"@en ;
+    tg:height "Tall"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Dragon-helm_of_Dor-l%C3%B3min%2C_Dramborleg> ;
+    tg:image "Quentandil - Hador device.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Taliska%2C_Sindarin> ;
+    tg:leader <http://localhost:8000/resource/Briefly_the_Lord_of_Dor-l%C3%B3min> ;
+    tg:location <http://localhost:8000/resource/Estolad%2C_Hithlum_%28especially_Dor-l%C3%B3min%29%2C_later_N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/Hador%2C_Galdor%2C_Huor%2C_E%C3%A4rendil%2C_Elrond> ;
+    tg:name "House of Hador"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27%27House%3A%27%27%27%3Cbr%3E%27%27Bar_Hador%27%27_%28Sindarin> ;
+    tg:race <http://localhost:8000/resource/Edain> ;
+    tg:skin "Fair"@en .
+
+<http://localhost:8000/resource/House_of_Haleth> a schema:Thing ;
+    tg:destroyed "{{FA|501}}"@en ;
+    tg:founder <http://localhost:8000/resource/Haleth_took_command_of_her_people_after_her_father_Haldad_was_slain_by_Orcs> ;
+    tg:gallery "Halethians"@en ;
+    tg:height <http://localhost:8000/resource/Smaller_than_the_B%C3%ABorians> ;
+    tg:image "Quentandil - Haleth device.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Mannish_tongue_%28Halethian%29%3B_Sindarin_%28rarely%29> ;
+    tg:leader <http://localhost:8000/resource/Halad> ;
+    tg:location <http://localhost:8000/resource/Thargelion%2C_Brethil%2C_later_N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/Haldad%2C_Haleth%2C_Haldir_%28Chieftain_of_the_Haladin%29> ;
+    tg:name "House of Haleth"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27%27People%3A%27%27%27%3Cbr%3E%27%27Haladin%27%27_%28Mannish> ;
+    tg:race <http://localhost:8000/resource/Edain> ;
+    tg:weapons "Axes"@en .
+
+<http://localhost:8000/resource/House_of_Isildur> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_Elendil%2C_Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:distinctions "Maintained significant longevity<ref name=\"North\"/>"@en ;
+    tg:founder <http://localhost:8000/resource/Isildur%2C_eldest_son_of_Elendil> ;
+    tg:hair "Dark"@en ;
+    tg:height "Tall"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Elendilmir%2C_Elfstone%2C_Ring_of_Barahir%2C_Sceptre_of_Ann%C3%BAminas%2C_Shards_of_Narsil_%28later_And%C3%BAril%29> ;
+    tg:image "Rondador - Armor Emblem.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron%2C_Quenya> ;
+    tg:leader <http://localhost:8000/resource/King_of_Arnor%2C_King_of_Arthedain%2C_Chieftain_of_the_Dunedain%2C_later_the_High_King_%28D%C3%BAnedain%29> ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_Arnor%2C_Gondor> ;
+    tg:members <http://localhost:8000/resource/Valandil_%28King_of_Arnor%29> ;
+    tg:name "House of Isildur"@en ;
+    tg:othernames <http://localhost:8000/resource/Northern_Line_of_Arnor%3Cbr_/%3E%27%27Isildurioni%27%27_%28Quenya> ;
+    tg:race <http://localhost:8000/resource/Initially_N%C3%BAmen%C3%B3reans> .
+
+<http://localhost:8000/resource/House_of_Telcontar> a schema:Thing ;
+    tg:caption "Emblem of the house by Rondador"@en ;
+    tg:founder <http://localhost:8000/resource/Aragorn> ;
+    tg:gallery "the House of Telcontar"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Crown_of_Gondor%2C_Elendilmir%2C_Elfstone%2C_Ring_of_Barahir%2C%3Cref_group%3D%22note%22%3ENothing_is_said_of_the_fate_of_the_ring_in_the_Fourth_Age%2C_but_unless_it_went_with_Arwen_to_her_grave_at_Cerin_Amroth%2C_it_most_likely_passed_to_the_Kings_of_the_Reunited_Kingdom%2C_descendants_of_Aragorn_and_Arwen.%3C/ref%3E_Sceptre_of_Ann%C3%BAminas> ;
+    tg:image "Rondador - House of Telcontar.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/Reunited_Kingdom> ;
+    tg:members <http://localhost:8000/resource/Aragorn%2C_Eldarion> ;
+    tg:name "House of Telcontar"@en ;
+    tg:race <http://localhost:8000/resource/D%C3%BAnedain> ;
+    tg:weapons <http://localhost:8000/resource/And%C3%BAril> .
+
+<http://localhost:8000/resource/House_of_the_Fountain> a schema:Thing ;
+    tg:destroyed <http://localhost:8000/resource/Completely%3Cbr_/%3EFall_of_Gondolin> ;
+    tg:image "Rondador - House of the Fountain.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Ecthelion> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Fountain"@en ;
+    tg:othernames "Folk of the Fountain<br />People of the Fountain of the South"@en ;
+    tg:race <http://localhost:8000/resource/Noldoli> ;
+    tg:weapons "Bright and pale longswords"@en .
+
+<http://localhost:8000/resource/House_of_the_Golden_Flower> a schema:Thing ;
+    tg:image "House of the Golden Flower.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Glorfindel> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Golden Flower"@en ;
+    tg:othernames "Folk of the Golden Flower"@en .
+
+<http://localhost:8000/resource/House_of_the_Hammer_of_Wrath> a schema:Thing ;
+    tg:destroyed <http://localhost:8000/resource/Completely%3Cbr_/%3EFall_of_Gondolin> ;
+    tg:image "Rondador - House of the Hammer of Wrath.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Rog> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Hammer of Wrath"@en ;
+    tg:othernames "Folk of the Hammer of Wrath"@en ;
+    tg:race <http://localhost:8000/resource/Noldoli> ;
+    tg:weapons "Hammer and mace"@en .
+
+<http://localhost:8000/resource/House_of_the_Harp> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_the_Mole> ;
+    tg:clothing "Silver and gold tassels"@en ;
+    tg:destroyed <http://localhost:8000/resource/Completely%3Cbr_/%3EFall_of_Gondolin> ;
+    tg:image "Rondador - House of the Harp.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Salgant> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Harp"@en ;
+    tg:othernames "Host of the Harp"@en .
+
+<http://localhost:8000/resource/House_of_the_King> a schema:Thing ;
+    tg:clothing "White, gold, and red"@en ;
+    tg:founder <http://localhost:8000/resource/Turgon> ;
+    tg:image "Rondador - House of the King.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/King_of_Gondolin> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the King"@en ;
+    tg:othernames "Folk of the King"@en ;
+    tg:race <http://localhost:8000/resource/Noldoli> .
+
+<http://localhost:8000/resource/House_of_the_Tree> a schema:Thing ;
+    tg:clothing "Green"@en ;
+    tg:image "Rondador - House of the Tree.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Galdor_of_the_Tree> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:members <http://localhost:8000/resource/Legolas_%28elf_of_Gondolin%29> ;
+    tg:name "House of the Tree"@en ;
+    tg:othernames "Folk of the Tree"@en ;
+    tg:weapons "Clubs and slings"@en .
+
+<http://localhost:8000/resource/House_of_Finarfin> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_Finw%C3%AB> ;
+    tg:distinctions "The most beautiful Noldorin house"@en ;
+    tg:founder <http://localhost:8000/resource/Finarfin> ;
+    tg:gallery "the House of Finarfin"@en ;
+    tg:hair "Golden"@en ;
+    tg:height "Tall"@en ;
+    tg:heirlooms <http://localhost:8000/resource/Ring_of_Barahir> ;
+    tg:image "Quentandil - Finarfin device.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Exilic_Quenya%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Tirion%2C_Nargothrond%2C_Dorthonion%2C_Minas_Tirith_%28Beleriand%29> ;
+    tg:name "House of Finarfin"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Nost_Finarfin%27%27_%28Sindarin> ;
+    tg:race <http://localhost:8000/resource/Noldor> ;
+    tg:weapons <http://localhost:8000/resource/Aeglos_%28spear%29> .
+
+<http://localhost:8000/resource/House_of_Fingolfin> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_Finw%C3%AB%2C_Union_of_Maedhros> ;
+    tg:founder <http://localhost:8000/resource/Fingolfin> ;
+    tg:gallery "the House of Fingolfin"@en ;
+    tg:image "Quentandil - Fingolfin device.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Exilic_Quenya%3Cbr_/%3ESindarin> ;
+    tg:location <http://localhost:8000/resource/Tirion%2C_Hithlum%2C_Nevrast%2C_Gondolin%2C_Mouths_of_Sirion> ;
+    tg:name "House of Fingolfin"@en ;
+    tg:race <http://localhost:8000/resource/Noldor> ;
+    tg:weapons <http://localhost:8000/resource/Ringil> .
+
+<http://localhost:8000/resource/House_of_Finw%C3%AB> a schema:Thing ;
+    tg:founder <http://localhost:8000/resource/Finw%C3%AB> ;
+    tg:gallery "the House of Finwë"@en ;
+    tg:image "J.R.R. Tolkien - Finwë heraldic device (I).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:language <http://localhost:8000/resource/Quenya> ;
+    tg:leader <http://localhost:8000/resource/King_of_the_Noldor> ;
+    tg:location <http://localhost:8000/resource/Tirion%2C_Formenos> ;
+    tg:name "House of Finwë"@en ;
+    tg:race <http://localhost:8000/resource/Noldor> .
+
+<http://localhost:8000/resource/House_of_the_Heavenly_Arch> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_the_Swallow> ;
+    tg:clothing "Many bright colors"@en ;
+    tg:image "Rondador - House of the Heavenly Arch.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Egalmoth> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Heavenly Arch"@en ;
+    tg:othernames "Folk of the Arch, of the Rainbow"@en ;
+    tg:weapons "Sword, bow and arrows"@en .
+
+<http://localhost:8000/resource/House_of_the_Pillar> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_the_Tower_of_Snow> ;
+    tg:destroyed <http://localhost:8000/resource/Completely%3Cbr_/%3EFall_of_Gondolin> ;
+    tg:image "Rondador - House of the Pillar.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Penlod> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Pillar"@en ;
+    tg:othernames "Folk of the Pillar"@en .
+
+<http://localhost:8000/resource/House_of_the_Swallow> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_the_Heavenly_Arch> ;
+    tg:clothing "White, blue, purple, and black"@en ;
+    tg:image "Rondador - House of the Swallow.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Duilin_%28elf_of_Gondolin%29> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Swallow"@en ;
+    tg:othernames "Folk of the Swallow"@en ;
+    tg:weapons "Bow and arrows"@en .
+
+<http://localhost:8000/resource/House_of_the_Tower_of_Snow> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/House_of_the_Pillar> ;
+    tg:destroyed <http://localhost:8000/resource/Completely%3Cbr_/%3EFall_of_Gondolin> ;
+    tg:image "Rondador - House of the Tower of Snow.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Penlod> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Tower of Snow"@en ;
+    tg:othernames "Folk of the Tower of Snow"@en .
+
+<http://localhost:8000/resource/House_of_the_Wing> a schema:Thing ;
+    tg:founder <http://localhost:8000/resource/Tuor> ;
+    tg:heirlooms <http://localhost:8000/resource/Dramborleg> ;
+    tg:image "Rondador - House of the Wing.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:members <http://localhost:8000/resource/Voronw%C3%AB%2C_Hendor> ;
+    tg:name "House of the Wing"@en ;
+    tg:othernames "Folk of the Wing<br />Bodyguard of Tuor"@en ;
+    tg:rivalry <http://localhost:8000/resource/House_of_the_Mole> .
+
+<http://localhost:8000/resource/House_of_the_Mole> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/Melko%3Cbr_/%3EHouse_of_the_Harp> ;
+    tg:clothing "Round caps of steel covered by moleskins and polished accoutrements that gleamed with a ruddy glow"@en ;
+    tg:destroyed <http://localhost:8000/resource/Completely%3Cbr_/%3EFall_of_Gondolin> ;
+    tg:image "Rondador - House of the Mole.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/noble_house_infobox> ;
+    tg:leader <http://localhost:8000/resource/Meglin> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "House of the Mole"@en ;
+    tg:othernames "Folk of the Mole"@en ;
+    tg:race <http://localhost:8000/resource/Noldoli> ;
+    tg:rivalry <http://localhost:8000/resource/House_of_the_Wing> ;
+    tg:weapons "Two-headed axes"@en .
+

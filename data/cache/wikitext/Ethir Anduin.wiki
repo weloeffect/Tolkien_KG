@@ -1,0 +1,41 @@
+{{location infobox
+| name=Ethir Anduin
+| image=The Return of the King (1980 film) - Ethir Anduin.jpg
+| caption=A map showing Ethir Anduin from [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]
+| pronun=
+| othernames=Mouths of Anduin
+| location=South of [[Lebennin]] in [[Gondor]], leading into the [[Bay of Belfalas]]
+| type=River delta
+| description=
+| regions=
+| towns=
+| inhabitants=[[Nandor]], later [[Men]]
+| created=
+| destroyed=
+| events=[[War of the Ring]]
+}}
+The '''Ethir Anduin''', also known as the '''Mouths of Anduin''' and '''Anduin's Mouths''',<ref>{{PM|Elendil}}</ref> was the delta of the river [[Anduin]], south of [[Pelargir]] in [[Gondor]]. 
+
+==History==
+The delta's first settlers were probably [[Nandor]]. Some of the Nandor who had lived upstream, in the Vales of Anduin under the [[Misty Mountains]], passed to its Mouths southward.<ref>{{UT|6a}}</ref> After they were gone, the "lesser men" settled there,<ref name="AIiv"/> though they were likely in conflict with [[Haradrim]]. After the coming of the [[Númenóreans]], the confluence of cultures in the Ethir and [[Pelargir]] formed one of the earliest forms of [[Westron]].<ref>{{App|Men}}</ref> The Númenoreans made a passage taken by the ships going to and from Pelargir.<ref>{{VT|42a}}, p. 11</ref>
+
+During the [[Akallabêth|Drowning of Númenor]], the shores of the [[Bay of Belfalas]] had retreated a great distance, putting Pelargir much farther inland than it had been in its beginning. Afterwards, the Anduin carved a new path by many mouths to the Bay.<ref>{{PM|Second}}</ref>
+
+The delta was populated mostly by [[fish]]ermen and other sea-crafty folk,<ref name="TLD">{{RK|Debate}}</ref> and became an important part of Gondor in the days of [[Tarannon]], the first [[Ship-kings|Ship-king]].<ref name="AIiv">{{App|Gondor}}</ref> 
+
+During the [[War of the Ring]], some hundred fishermen that could be spared from the boats were sent to the defence of [[Minas Tirith]].<ref name="MT">{{RK|MT}}</ref> This left the Mouths themselves open to [[Umbar]]ian conquest,<ref>{{RK|Battle}}</ref> but the occupation did not last very long; [[Aragorn]] and the [[Grey Company]] liberated it several days later.<ref name="TLD"/>
+
+==Etymology==
+The Ethir Anduin was also known as the "Mouths of Anduin". ''[[Ethir]]'' is a [[Sindarin]] word meaning "Mouth of a river".<ref>{{LR|Etymologies}}, entry ET</ref> ''[[Anduin]]'' simply means "Long river".<ref>{{S|Appendix}}, entries ''[[and]]'' and ''[[duin]]''</ref>
+
+==Portrayal in adaptations==
+'''1980: [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]:'''
+:[[Gandalf]] mentions the Ethir (wrongly pronounced Ee-thur) as he explains the coming of the [[Aragorn|Black ships]] to the audience. 
+{{references}}
+[[Category:Gondor]]
+[[Category:Rivers]]
+[[Category:Sindarin locations]]
+
+[[de:Ethir Anduin]]
+[[fr:encyclo/geographie/eaux/gondor/ethir anduin]]
+[[fi:Ethir Anduin]]

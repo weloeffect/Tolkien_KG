@@ -1,0 +1,49 @@
+{{unnamed}}
+{{Poem infobox
+| title="The cold hard lands"
+| other names=
+| written=Between [[1929]] and [[1937]]
+| revised=Between [[21 September]], [[1937]] and [[11 November]], [[1954]]
+| published=''[[The Two Towers]]'',<br>''[[The War of the Ring]]'',<br>''[[The Annotated Hobbit]]'',<br>''[[The J.R.R. Tolkien Audio Collection]]'',<br>''[[The History of The Hobbit]]''
+| subject=[[Fish]], [[Riddle-game]]
+}}
+
+"'''The cold hard lands'''" is the first line of a [[Poems in The Lord of the Rings|poem]] written by [[J.R.R. Tolkien]] that was sung by [[Gollum]] in ''[[The Two Towers]]''.<ref name=towers>{{TT|Marshes}} pp. 227-8</ref>
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+The cold hard lands
+they bites our hands,
+  they gnaws our feet.<ref name=towers/></poem>
+
+== History ==
+In the year {{TA|2941}} of the [[Third Age]],<ref name=year>{{App|TA}}</ref> part of the poem was used by [[Gollum]] as a riddle when he and [[Bilbo]] partook in a [[Riddle-game]]:<ref name=riddles>{{H|Riddles}}</ref>
+
+<poem style="font-style:italic; margin-left:20px;">
+Alive without breath,
+As cold as death,
+Never thirsting, ever drinking,
+All in mail never clinking.<ref name=riddles/></poem>
+
+On [[1 March]] {{TA|3019}},<ref name=month>{{App|Great}}</ref> Gollum, while guiding [[Frodo Baggins]] and [[Samwise Gamgee]] through the [[Dead Marshes]], occasionally chuckled or sang portions of the poem. He may have been delighted at the feeling of the water "in the shallow stony stream" his feet splashed in. At one point, Gollum interrupted himself to allude to the Riddle-game many [[Quest of Erebor|decades before]]. Gollum's singing caused Samwise to think more pressingly about "the problem of food" and to speculate that Gollum was thinking of this as well.<ref name=towers/>
+
+== Other versions of the legendarium ==
+In Tolkien's first draft of the chapter, the first line, "The cold hard lands", is the only part of the poem that remained unaltered.<ref name=ring>{{WR|2|II}}</ref>
+
+== Portrayal in adaptations ==
+'''2002: ''[[Pán prsteňov]]'':'''
+:Gollum (portrayed by Ibrahim Maiga) sings this ditty during an episode of the second series (season) of the Slovak radio series. The song is accompanied by a nursery rhyme-like melody with some subtle percussions.
+
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:An alternate version of this song, referred to in the [[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack|soundtrack album]] as "'''[[Gollum's Song]]'''", is heard in the [[The Forbidden Pool (scene)|forty-second scene]] when Gollum catches a fish in the [[Forbidden Pool]]:
+
+<poem style="font-style:italic; margin-left:20px;">The rock and pool
+Is nice and cool,
+So juicy-sweet!
+Our only wish,
+To catch a fish,
+So juicy-sweet!</poem>
+
+{{references}}
+
+[[Category:Poems in The Two Towers]]

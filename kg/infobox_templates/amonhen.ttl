@@ -1,0 +1,804 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Amon_Hen_107> a schema:WebPage ;
+    rdfs:label "Amon Hen 107"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_107> .
+
+<http://localhost:8000/page/Amon_Hen_152> a schema:WebPage ;
+    rdfs:label "Amon Hen 152"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_152> .
+
+<http://localhost:8000/page/Amon_Hen_153> a schema:WebPage ;
+    rdfs:label "Amon Hen 153"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_153> .
+
+<http://localhost:8000/page/Amon_Hen_154> a schema:WebPage ;
+    rdfs:label "Amon Hen 154"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_154> .
+
+<http://localhost:8000/page/Amon_Hen_155> a schema:WebPage ;
+    rdfs:label "Amon Hen 155"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_155> .
+
+<http://localhost:8000/page/Amon_Hen_156> a schema:WebPage ;
+    rdfs:label "Amon Hen 156"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_156> .
+
+<http://localhost:8000/page/Amon_Hen_157> a schema:WebPage ;
+    rdfs:label "Amon Hen 157"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_157> .
+
+<http://localhost:8000/page/Amon_Hen_158> a schema:WebPage ;
+    rdfs:label "Amon Hen 158"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_158> .
+
+<http://localhost:8000/page/Amon_Hen_159> a schema:WebPage ;
+    rdfs:label "Amon Hen 159"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_159> .
+
+<http://localhost:8000/page/Amon_Hen_160> a schema:WebPage ;
+    rdfs:label "Amon Hen 160"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_160> .
+
+<http://localhost:8000/page/Amon_Hen_161> a schema:WebPage ;
+    rdfs:label "Amon Hen 161"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_161> .
+
+<http://localhost:8000/page/Amon_Hen_162> a schema:WebPage ;
+    rdfs:label "Amon Hen 162"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_162> .
+
+<http://localhost:8000/page/Amon_Hen_163> a schema:WebPage ;
+    rdfs:label "Amon Hen 163"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_163> .
+
+<http://localhost:8000/page/Amon_Hen_164> a schema:WebPage ;
+    rdfs:label "Amon Hen 164"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_164> .
+
+<http://localhost:8000/page/Amon_Hen_165> a schema:WebPage ;
+    rdfs:label "Amon Hen 165"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_165> .
+
+<http://localhost:8000/page/Amon_Hen_166> a schema:WebPage ;
+    rdfs:label "Amon Hen 166"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_166> .
+
+<http://localhost:8000/page/Amon_Hen_167> a schema:WebPage ;
+    rdfs:label "Amon Hen 167"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_167> .
+
+<http://localhost:8000/page/Amon_Hen_168> a schema:WebPage ;
+    rdfs:label "Amon Hen 168"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_168> .
+
+<http://localhost:8000/page/Amon_Hen_169> a schema:WebPage ;
+    rdfs:label "Amon Hen 169"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_169> .
+
+<http://localhost:8000/page/Amon_Hen_170> a schema:WebPage ;
+    rdfs:label "Amon Hen 170"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_170> .
+
+<http://localhost:8000/page/Amon_Hen_171> a schema:WebPage ;
+    rdfs:label "Amon Hen 171"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_171> .
+
+<http://localhost:8000/page/Amon_Hen_172> a schema:WebPage ;
+    rdfs:label "Amon Hen 172"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_172> .
+
+<http://localhost:8000/page/Amon_Hen_173> a schema:WebPage ;
+    rdfs:label "Amon Hen 173"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_173> .
+
+<http://localhost:8000/page/Amon_Hen_174> a schema:WebPage ;
+    rdfs:label "Amon Hen 174"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_174> .
+
+<http://localhost:8000/page/Amon_Hen_175> a schema:WebPage ;
+    rdfs:label "Amon Hen 175"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_175> .
+
+<http://localhost:8000/page/Amon_Hen_176> a schema:WebPage ;
+    rdfs:label "Amon Hen 176"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_176> .
+
+<http://localhost:8000/page/Amon_Hen_177> a schema:WebPage ;
+    rdfs:label "Amon Hen 177"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_177> .
+
+<http://localhost:8000/page/Amon_Hen_178> a schema:WebPage ;
+    rdfs:label "Amon Hen 178"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_178> .
+
+<http://localhost:8000/page/Amon_Hen_179> a schema:WebPage ;
+    rdfs:label "Amon Hen 179"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_179> .
+
+<http://localhost:8000/page/Amon_Hen_180> a schema:WebPage ;
+    rdfs:label "Amon Hen 180"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_180> .
+
+<http://localhost:8000/page/Amon_Hen_181> a schema:WebPage ;
+    rdfs:label "Amon Hen 181"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_181> .
+
+<http://localhost:8000/page/Amon_Hen_182> a schema:WebPage ;
+    rdfs:label "Amon Hen 182"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_182> .
+
+<http://localhost:8000/page/Amon_Hen_183> a schema:WebPage ;
+    rdfs:label "Amon Hen 183"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_183> .
+
+<http://localhost:8000/page/Amon_Hen_184> a schema:WebPage ;
+    rdfs:label "Amon Hen 184"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_184> .
+
+<http://localhost:8000/page/Amon_Hen_185> a schema:WebPage ;
+    rdfs:label "Amon Hen 185"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_185> .
+
+<http://localhost:8000/page/Amon_Hen_186> a schema:WebPage ;
+    rdfs:label "Amon Hen 186"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_186> .
+
+<http://localhost:8000/page/Amon_Hen_187> a schema:WebPage ;
+    rdfs:label "Amon Hen 187"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_187> .
+
+<http://localhost:8000/page/Amon_Hen_188> a schema:WebPage ;
+    rdfs:label "Amon Hen 188"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_188> .
+
+<http://localhost:8000/page/Amon_Hen_189> a schema:WebPage ;
+    rdfs:label "Amon Hen 189"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_189> .
+
+<http://localhost:8000/page/Amon_Hen_190> a schema:WebPage ;
+    rdfs:label "Amon Hen 190"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_190> .
+
+<http://localhost:8000/page/Amon_Hen_191> a schema:WebPage ;
+    rdfs:label "Amon Hen 191"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_191> .
+
+<http://localhost:8000/page/Amon_Hen_192> a schema:WebPage ;
+    rdfs:label "Amon Hen 192"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_192> .
+
+<http://localhost:8000/page/Amon_Hen_193> a schema:WebPage ;
+    rdfs:label "Amon Hen 193"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_193> .
+
+<http://localhost:8000/page/Amon_Hen_194> a schema:WebPage ;
+    rdfs:label "Amon Hen 194"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_194> .
+
+<http://localhost:8000/page/Amon_Hen_195> a schema:WebPage ;
+    rdfs:label "Amon Hen 195"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_195> .
+
+<http://localhost:8000/page/Amon_Hen_196> a schema:WebPage ;
+    rdfs:label "Amon Hen 196"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_196> .
+
+<http://localhost:8000/page/Amon_Hen_197> a schema:WebPage ;
+    rdfs:label "Amon Hen 197"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_197> .
+
+<http://localhost:8000/page/Amon_Hen_198> a schema:WebPage ;
+    rdfs:label "Amon Hen 198"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_198> .
+
+<http://localhost:8000/page/Amon_Hen_199> a schema:WebPage ;
+    rdfs:label "Amon Hen 199"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_199> .
+
+<http://localhost:8000/page/Amon_Hen_200> a schema:WebPage ;
+    rdfs:label "Amon Hen 200"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_200> .
+
+<http://localhost:8000/resource/Amon_Hen_107> a schema:Thing ;
+    tg:artist "Steve Lines"@en ;
+    tg:date <http://localhost:8000/resource/January_1991> ;
+    tg:editor "Tony Curtis"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen107.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 107"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Hanway Print Centre, London"@en .
+
+<http://localhost:8000/resource/Amon_Hen_152> a schema:Thing ;
+    tg:artist "Anke Büttner"@en ;
+    tg:date <http://localhost:8000/resource/July_1998> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen152.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 152"@en ;
+    tg:pages "24"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_153> a schema:Thing ;
+    tg:artist "Alexander Ormerod"@en ;
+    tg:date <http://localhost:8000/resource/September_1998> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen153.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 153"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_154> a schema:Thing ;
+    tg:artist "Anke Büttner"@en ;
+    tg:date <http://localhost:8000/resource/November_1998> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen154.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 154"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_155> a schema:Thing ;
+    tg:artist "Alexander Ormerod"@en ;
+    tg:date <http://localhost:8000/resource/January_1999> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen155.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 155"@en ;
+    tg:pages "28"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_156> a schema:Thing ;
+    tg:artist "Alexander Ormerod"@en ;
+    tg:date <http://localhost:8000/resource/March_1999> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen156.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 156"@en ;
+    tg:pages "28"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_157> a schema:Thing ;
+    tg:artist "Alexander Ormerod"@en ;
+    tg:date <http://localhost:8000/resource/May_1999> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "Amon Hen 157.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 157"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_158> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ben_Lee> ;
+    tg:date <http://localhost:8000/resource/July_1999> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen158.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 158"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_159> a schema:Thing ;
+    tg:artist "Suzanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/September_1999> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen159.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 159"@en ;
+    tg:pages "28"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_160> a schema:Thing ;
+    tg:artist "Alexander Ormerod"@en ;
+    tg:date <http://localhost:8000/resource/November_1999> ;
+    tg:editor "Andrew McMurry"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen160.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 160"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_161> a schema:Thing ;
+    tg:artist "Nick Basi"@en ;
+    tg:date <http://localhost:8000/resource/January_2000> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen161.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 161"@en ;
+    tg:pages "28"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_162> a schema:Thing ;
+    tg:artist "Ian Collier"@en ;
+    tg:date <http://localhost:8000/resource/March_2000> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen162.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 162"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_163> a schema:Thing ;
+    tg:artist "Mike Johnson"@en ;
+    tg:date <http://localhost:8000/resource/May_2000> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen163.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 163"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_164> a schema:Thing ;
+    tg:artist "Neil Loughran"@en ;
+    tg:date <http://localhost:8000/resource/July_2000> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "Amon Hen 164.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 164"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_165> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ruth_Lacon> ;
+    tg:date <http://localhost:8000/resource/September_2000> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen165.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 165"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Centurian Press, Rickmansworth, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_166> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Sandra_Scholes> ;
+    tg:date <http://localhost:8000/resource/November_2000> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen166.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 166"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Unity Print, Corby"@en .
+
+<http://localhost:8000/resource/Amon_Hen_167> a schema:Thing ;
+    tg:artist "Mike Johnson"@en ;
+    tg:date <http://localhost:8000/resource/January_2001> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen167.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 167"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Unity Print, Corby"@en .
+
+<http://localhost:8000/resource/Amon_Hen_168> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/March_2001> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen168.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 168"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Unity Print, Corby"@en .
+
+<http://localhost:8000/resource/Amon_Hen_169> a schema:Thing ;
+    tg:artist "Eleonora Yaskovskaya"@en ;
+    tg:date <http://localhost:8000/resource/May_2001> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen169.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 169"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Unity Print, Corby"@en .
+
+<http://localhost:8000/resource/Amon_Hen_170> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Helen_Armstrong> ;
+    tg:date <http://localhost:8000/resource/July_2001> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen170.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 170"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Unity Print, Corby"@en .
+
+<http://localhost:8000/resource/Amon_Hen_171> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/September_2001> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen171.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 171"@en ;
+    tg:pages "36"@en ;
+    tg:printer "Unity Print, Corby"@en .
+
+<http://localhost:8000/resource/Amon_Hen_172> a schema:Thing ;
+    tg:artist "Emma Campbell"@en ;
+    tg:date <http://localhost:8000/resource/November_2001> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen172.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 172"@en ;
+    tg:pages "44"@en ;
+    tg:printer "Centurion Press, Rickmansworth"@en .
+
+<http://localhost:8000/resource/Amon_Hen_173> a schema:Thing ;
+    tg:artist "Mike Johnson"@en ;
+    tg:date <http://localhost:8000/resource/January_2002> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen173.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 173"@en ;
+    tg:pages "40"@en ;
+    tg:printer "Centurion Press, Rickmansworth"@en .
+
+<http://localhost:8000/resource/Amon_Hen_174> a schema:Thing ;
+    tg:artist "Glen Tomney"@en ;
+    tg:date <http://localhost:8000/resource/March_2002> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen174.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 174"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_175> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/May_2002> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen175.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 175"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_176> a schema:Thing ;
+    tg:artist "Brenda Marshall"@en ;
+    tg:date <http://localhost:8000/resource/July_2002> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen176.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 176"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_177> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Octo_Kwan> ;
+    tg:date <http://localhost:8000/resource/September_2002> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen177.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 177"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_178> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ruth_Lacon> ;
+    tg:date <http://localhost:8000/resource/November_2002> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen178.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 178"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_179> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/January_2003> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen179.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 179"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_180> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ruth_Lacon> ;
+    tg:date <http://localhost:8000/resource/March_2003> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen180.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 180"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_181> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Katrin_Kunde> ;
+    tg:date <http://localhost:8000/resource/May_2003> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen181.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 181"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_182> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ruth_Lacon> ;
+    tg:date <http://localhost:8000/resource/July_2003> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen182.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 182"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_183> a schema:Thing ;
+    tg:artist "Davide Cattaneo"@en ;
+    tg:date <http://localhost:8000/resource/September_2003> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen183.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 183"@en ;
+    tg:pages "32"@en ;
+    tg:printer "Horsham Press, Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_184> a schema:Thing ;
+    tg:artist "Chris Leaper"@en ;
+    tg:date <http://localhost:8000/resource/November_2003> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen184.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 184"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_185> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/January_2004> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen185.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 185"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_186> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Katrin_Kunde> ;
+    tg:date <http://localhost:8000/resource/March_2004> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen186.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 186"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_187> a schema:Thing ;
+    tg:artist "Mike Johnson"@en ;
+    tg:date <http://localhost:8000/resource/May_2004> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen187.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 187"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_188> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/July_2004> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen188.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 188"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_189> a schema:Thing ;
+    tg:artist "Davide Cattaneo"@en ;
+    tg:date <http://localhost:8000/resource/September_2004> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen189.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 189"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_190> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date <http://localhost:8000/resource/November_2004> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:image "AmonHen190.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 190"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_191> a schema:Thing ;
+    tg:artist "Chris Leaper"@en ;
+    tg:date <http://localhost:8000/resource/January_2005> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen191.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 191"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_192> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jill_Thwaites> ;
+    tg:date <http://localhost:8000/resource/March_2005> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen192.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 192"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_193> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date <http://localhost:8000/resource/May_2005> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen193.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 193"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_194> a schema:Thing ;
+    tg:artist "Steve McKibben/Gene Fields"@en ;
+    tg:date <http://localhost:8000/resource/July_2005> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "Amon Hen 194.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 194"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_195> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Katrin_Kunde> ;
+    tg:date <http://localhost:8000/resource/September_2005> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen195.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 195"@en ;
+    tg:pages "44"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_196> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date <http://localhost:8000/resource/November_2005> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen196.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 196"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_197> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date <http://localhost:8000/resource/January_2006> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "Amon_Hen_197.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 197"@en ;
+    tg:pages "40"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_198> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/March_2006> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen198.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 198"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_199> a schema:Thing ;
+    tg:artist "Susanne Stopfel"@en ;
+    tg:date <http://localhost:8000/resource/May_2006> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen199.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 199"@en ;
+    tg:pages "36"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+
+<http://localhost:8000/resource/Amon_Hen_200> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Jef_Murray> ;
+    tg:date <http://localhost:8000/resource/July_2006> ;
+    tg:editor <http://localhost:8000/resource/Andrew_Butler> ;
+    tg:format "A5 stapled paperback, glossy"@en ;
+    tg:image "AmonHen200.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/amonhen> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen 200"@en ;
+    tg:pages "48"@en ;
+    tg:printer "[http://www.horshampress.co.uk/ Horsham Press], Horsham, UK"@en .
+

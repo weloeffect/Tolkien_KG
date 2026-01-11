@@ -1,0 +1,19 @@
+{{disambig-more|Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{board game infobox
+| image = J.R.R. Tolkien's Lord of the Rings.jpg
+| name=J.R.R. Tolkien's Lord of the Rings
+| designer=[[Reiner Knizia]]
+| publisher=[[Sophisticated Games]]
+| releasedate=[[2003]]
+| players=2-5
+| ages=6+
+}}
+'''''J.R.R. Tolkien's Lord of the Rings''''' is a children's board game based on [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]''. It was designed by [[Reiner Knizia]], and the art work was made by Ingrid and Dieter Schubert.<ref>[http://www.sophisticated-games.com/sophisticated_web/lotrcomplete.html The Lord of the Rings] at [http://www.sophisticated-games.com/index.html Sophisticated Games] (accessed 30 April 2011)</ref>
+==From the publisher==
+Never before has an adaptation been made of Tolkien's great novel to make it appealing to younger children (6+). Reiner Knizia has succeeded completely in his masterful game for the whole family. There is a simple and a more advanced version of the game in the box, both playable on the same board and using most of the same pieces.
+
+The art work by children's book illustrators Dieter and Ingrid Schubert is absolutely charming and just right for the age group.
+==External links==
+*[http://boardgamegeek.com/boardgame/6352/lord-of-the-rings Lord of the Rings] at [http://boardgamegeek.com/ BoardGameGeek]
+{{references}}
+[[Category:Board games]]

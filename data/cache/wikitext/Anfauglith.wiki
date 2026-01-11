@@ -1,0 +1,34 @@
+{{location infobox
+| name=Anfauglith
+| image=Peter Xavier Price - Anfauglith.jpg
+| caption="Anfauglith" by [[Peter Xavier Price]]
+| pronun={{respell|an|fowg|lith}}
+| othernames=Formerly known as ''[[Ard-galen]]''<br />''Dor-nu-Fauglith''
+| location=South of [[Ered Engrin]], west of [[Ered Luin]], north-west of [[Lothlann]], east of [[Ered Wethrin]]
+| type=Desert
+| description=Large, dry, dusty plain
+| regions=
+| towns=
+| inhabitants=
+| created={{FA|455}}, [[Dagor Bragollach]]
+| destroyed=
+| events=
+}}
+'''Anfauglith''' was the charred desert to the north of [[Beleriand]], created by the fires of [[Thangorodrim]] during the [[Dagor Bragollach]] ("Battle of Sudden Flame") in {{FA|455}}. It was originally the green plain of [[Ard-galen]].<ref name="Fall">{{S|Fingolfin}}</ref> Anfauglith remained barren until after the [[Nirnaeth Arnoediad]], when one hill, the [[Haudh-en-Ndengin]] or "Hill of Slain", again was covered with long green grass.<ref>{{S|Fifth}}</ref>
+
+It was upon Anfauglith that [[Morgoth]] assembled his whole power in the [[War of Wrath]] yet they were conquered by the hosts of the West.<ref>{{S|Earendil}}</ref>
+
+==Etymology==
+''Anfauglith'' means "By Gasping Dust" in [[Sindarin]],<ref name="Fall"/> from ''[[an]]-'' ("with, by") + ''[[faug]]'' ("thirsty, gasping"<ref>{{S|Appendix}}, ''faug''</ref>) + ''[[lith]]'' ("ash, sand, dust"<ref>{{S|Appendix}}, ''lith''</ref>).
+
+Another name was '''''Dor-nu-Fauglith''''' translated as "Land under Choking Ash".<ref name="Fall" />
+
+{{Pronounce|Anfauglith.mp3|Ardamir}}
+{{references}}
+[[Category:Beleriand]]
+[[Category:Sindarin locations]]
+[[Category:Fields, plains and deserts]]
+
+[[de:Ard-galen]]
+[[fi:Anfauglith]]
+[[fr:encyclo:geographie:regions:beleriand:anfauglith]]

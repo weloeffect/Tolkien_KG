@@ -1,0 +1,68 @@
+{{disambig-more|Beowulf|[[Beowulf (disambiguation)]]}}
+{{book
+| title=Beowulf and the Critics
+| image = Beowulf and the Critics 2002.gif
+| editor=[[Michael D.C. Drout]]
+| publisher=ACMRS Press (Arizona Center for Medieval and Renaissance Studies)
+| date=[[2002]]
+| format=Hardcover
+| pages=488
+| isbn=0866982906
+| series=Medieval and Renaissance Texts and Studies, vol. 248
+}}
+'''''Beowulf and the Critics''''' is a scholarly book first published in [[2002]], edited by professor [[Michael D.C. Drout]]. It is the winner of the 2003 [[Wikipedia:Mythopoeic Awards|Mythopoeic Scholarship Award]] in Inklings Studies.
+
+The book publishes the complete text of two versions of [[J.R.R. Tolkien]]'s lecture series "Beowulf and the Critics", (of which the [[1936]] lecture "[[Beowulf: The Monsters and the Critics]]" is only a condensation,) provided with a copious amount of explanatory notes. Additionally, all the editorial emendations in the original manuscript are meticulously transcribed and presented in a separate chapter. The book as a whole displays a great devotion to Tolkien's text as well as a high expertise on the ''Beowulf'' scholarship.
+
+A second edition was published in [[2011]], with revisions, more information on the texts, and newly found preparatory notes by Tolkien.
+
+==Contents==
+* Acknowledgments
+* Preface to the Second Edition
+* Preface
+* Description of the Manuscript
+
+* Introduction: Seeds, Soil, and Northern Sky
+* "The Babel of Voices" and the Structural Evolution of "''Beowulf'': The Monsters and the Critics"
+
+* 'Beowulf' & The Critics (A)
+* 'Beowulf' & The Critics (B)
+* Explanatory Notes
+* Textual Notes
+* Appendix
+
+* Works Cited
+* Index
+
+==From the publisher==
+{{blockquote|J. R. R. Tolkien's "Beowulf: The Monsters and the Critics" is the single most influential essay ever written about the great Anglo-Saxon poem. That lecture was a redaction of a much longer and more substantial work, Beowulf and the Critics, which Tolkien wrote in the 1930s and probably delivered as a series of Oxford lectures.
+
+This critical edition of Beowulf and the Critics presents both unpublished drafts of Tolkien's lecture ("A" and "B"), each substantially different from each other and from the published essay, in addition to detailed textual and explanatory notes, a description of the manuscript, and an introduction that explains the significance of Tolkien's Beowulf scholarship in literary history.
+
+Winner of the Mythopoeic Scholarship Award for Inklings Studies in 2003, Beowulf and the Critics has been completely revised and expanded for this 2011 edition, which includes a transcript of a previously unknown short note preparatory to Beowulf and the Critics found by Christopher Tolkien, a discussion of the rhetorical structure and evolution of the book and the lecture, and an identification of all the critics referenced by Tolkien in the famous "Babel of Voices" passage.
+
+Beowulf and the Critics will interest students and lovers of Tolkien and scholars of Anglo-Saxon. This edition enables a reader to trace the evolution of an immensely influential critical argument giving us a glimpse of Tolkien's mind at work in his role as Rawlinson and Bosworth Professor of Anglo-Saxon at Oxford.}}
+
+==Publication history and gallery==
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Beowulf and the Critics 2002.gif|2002 first edition
+File:Beowulf and the Critics 2011.jpeg|2011 second edition
+</gallery>
+* ACMRS Press, hardcover ([[2002]]), pp.&nbsp;488. ISBN 0866982906
+* ACMRS Press, jacketless hardcover ([[2011]]), pp.&nbsp;512. ISBN 086698450X
+
+==See also==
+* [[Beowulf: The Monsters and the Critics]]
+* ''[[The Monsters and the Critics, and Other Essays]]''
+
+==External links==
+* [https://archive.org/details/beowulf-and-the-critics ''Beowulf and the Critics''] on Archive.org
+* [http://www.sfsu.edu/~medieval/Volume5/Beowulf.html Book review] by Tom Sharp
+
+{{title|italics}}
+{{Publishedmajorbooks}}
+[[Category:Books by Michael D.C. Drout]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Publications by title]]
+[[Category:Posthumous publications]]
+[[Category:Scholarly books]]

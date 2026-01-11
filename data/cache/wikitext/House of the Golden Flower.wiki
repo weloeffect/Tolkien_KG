@@ -1,0 +1,51 @@
+{{Noble House infobox
+| name=House of the Golden Flower
+| image = House of the Golden Flower.png
+| othernames=Folk of the Golden Flower
+| founder=
+| leader=[[Glorfindel]]
+| location=[[Gondolin]]
+| affiliation=
+| rivalry=
+| destroyed=
+| language=
+| members=
+| race=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+| heirlooms=
+}}
+<center>{{quote|There stood the house of the Golden Flower who bare a rayed sun upon their shield...|''[[The Book of Lost Tales Part Two]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]"}}</center>
+
+The '''house of the Golden Flower''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the elven city of [[Gondolin]]. Their story is recounted in the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.
+
+==History==
+[[Glorfindel]] was the chief of this house. They bore the device of a rayed sun upon their shields. Their garments and weapons are not described in great detail, but it is said that their lord wore a mantle embroidered with celandines in golden threads, and his arms were damascened with gold.<ref name=Gondolin>{{LT2|III}}</ref>{{rp|173}}
+
+During the [[Fall of Gondolin]], the balrog [[Gothmog (balrog)|Gothmog]] led [[Melko]]'s armies to the city's northern gate, which was soon knocked down.<ref name=Gondolin/>{{rp|176}} The Golden Flower's strongest troops were stationed in the [[Great Market]], in the eastern part of the city, and at some point they decided to march to the fight about that gate. They marched there by a circuitous way with the idea of surprising the foe upon his left flank, but instead they were ambushed by a host of [[Orcs]] led by [[Balrogs]]. They fought for hours, until a [[Fire-drakes|fire-drake]] came and overwhelmed them. They had to cut their way out with great difficulty, as the dragon began to burn the entire market.<ref name=Gondolin/>{{rp|182}} 
+
+Fortunately, Glorfindel had previously sent messengers to King [[Turgon]] explaining the urgency of the situation, so the [[house of the Harp]] was sent to aid the Golden Flower. However, [[Salgant]], the lord of the Harp, betrayed his men, sending them to the [[Lesser Market]] in the southern part of the city. The men of the Harp fretted thereat, and broke from their lord to come before the [[Square of the Palace|king's hall]] right in the moment that Glorfindel and his folk were chased by a press of enemies. The troops of the Harp saved them, driving the enemy back into the market, but there they were trapped, burned to death or poisoned by the breath of the [[dragon]].<ref name=Gondolin/>{{rp|182–3}}
+
+Thus Glorfindel and the last of his soldiers, along with all the remaining houses, barricaded themselves in the [[Square of the King]]. After Turgon proclaimed the fall of the city and ordered the survivors to follow [[Tuor]], Glorfindel held the rear for those who retreated towards [[Idril's secret way]], and many more of the Golden Flower fell there.<ref name=Gondolin/>{{rp|186}}
+
+Further on, while crossing [[Cristhorn]], Glorfindel was behind the [[Exiles of Gondolin|Exiles]].<ref name=Gondolin/>{{rp|192}} The rearguard was attacked by a band of Orcs and a Balrog, and there happened the duel between Glorfindel and the Balrog, in which both fell into the abyss. After the body of Glorfindel had been recovered, Tuor had a cairn raised for him.<ref name=Gondolin/>{{rp|194–5}}
+
+{{blockquote|Yellow flowers have fared thither and blow ever now about that mound in those unkindly places; but the folk of the Golden Flower wept at its building and might not dry their tears.}}
+
+==Other names==
+Their [[Gnomish]] name was '''''Thlim Losglóriol''''', while in [[Qenya]] they were simply known as '''''Lóter Kuluinai'''''.<ref>{{PE|13}}, p. 104</ref>
+
+''Los Glóriol'' was later emended to '''''Los'lóriol'''''.<ref>{{LT2|Appendix}}, entry ''Los'lóriol''</ref>
+
+==Other versions of the legendarium==
+This is the only [[Twelve houses of the Gondothlim|house of the Gondothlim]] properly named in the legendarium following the Lost Tales: in the ''[[Quenta Noldorinwa]]'', Glorfindel is mentioned as "chief of the House of the Golden Flower of Gondolin".<ref>{{SM|Q16}}, p. 141</ref> This text was used by [[Christopher Tolkien]] for the [[Of Tuor and the Fall of Gondolin|twenty-third chapter]] of the published ''[[Silmarillion]]''.<ref>{{LT2|IIIn}}, p. 211</ref>
+
+{{references}}
+{{HousesofGondolin}} 
+[[Category:Twelve houses of the Gondothlim]]
+[[de:Haus der Goldenen Blume]]
+[[fi:Kultaisen kukan huone]]

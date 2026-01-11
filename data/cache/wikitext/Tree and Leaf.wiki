@@ -1,0 +1,77 @@
+{{book
+|title=Tree and Leaf
+| image = Tree and Leaf 1964 paperback.png
+|author=[[J.R.R. Tolkien]]
+|editor=[[Christopher Tolkien]] (1988 edition)
+|illustrator=[[Pauline Baynes]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|dateUK=[[28 May]] [[1964]]
+|dateUS=March [[1965]]
+|format=Hardcover; paperback
+|pages=92
+|isbn=0048240133
+| precededby=[[The Adventures of Tom Bombadil]] {1962)
+| followedby=[[Poems and Songs of Middle Earth]] {1967)
+}}
+'''''Tree and Leaf''''' is a small anthology published in [[1964]], originally contains two works by [[J.R.R. Tolkien]], and was illustrated by [[Pauline Baynes]]:
+
+* Essay "[[On Fairy-Stories]]", first published in ''[[Essays Presented to Charles Williams]]'' (1947)
+* Short story "[[Leaf by Niggle]]", first published in ''[[The Dublin Review (January 1945)|Dublin Review]]'' (1945)
+
+''Tree and Leaf'' was where the two works first became readily available to the general public. Both have been later reprinted in collections such as ''[[The Tolkien Reader]]'' (1966), ''[[Poems and Stories]]'' (1980), and ''[[Tales from the Perilous Realm]]'' (2008).
+
+In [[1988]], [[Christopher Tolkien]] edited the book, appending to it a previously unpublished poem "[[Mythopoeia]]", which is closely related to "On Fairy-Stories", and also provided a Preface. In [[2001]], poem "[[The Homecoming of Beorhtnoth]]" was added in the book.
+
+==From the publisher <small>(2001 edition)</small>==
+{{blockquote|Repackaged to feature Tolkien’s own painting of the Tree of Amalion, this collection includes his famous essay, ‘On Fairy-stories’ and the story that exemplifies this, ‘Leaf by Niggle’, together with the poem ‘Mythopoeia’ and the verse drama, ‘The Homecoming of Beorhtnoth’, which tells of the events following the disastrous Battle of Maldon.
+
+Fairy-stories are not just for children, as anyone who has read Tolkien will know. In his essay On Fairy-Stories, Tolkien discusses the nature of fairy-tales and fantasy and rescues the genre from those who would relegate it to juvenilia. The haunting short story, Leaf by Niggle, recounts the story of the artist, Niggle, who has ‘a long journey to make’ and is seen as an allegory of Tolkien’s life.
+
+The poem Mythopoeia relates an argument between two unforgettable characters as they discuss the making of myths. Lastly, and published for the very first time, we are treated to the translation of Tolkien’s account of the Battle of Maldon, known as The Homecoming of Beorhtnoth.
+
+Tree and Leaf is an eclectic, amusing, provocative and entertaining collection of works which reveals the diversity of J.R.R. Tolkien’s imagination, the depth of his knowledge of English history, and the breadth of his talent as a creator of fantastic fiction.}}
+
+==Publication history and gallery==
+;Earlier editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Tree and Leaf 1964 hardcover.png|1964 hardcover
+File:Tree and Leaf 1971 hardcover.png |1964 hardcover 5th impression
+File:Tree and Leaf 1964 paperback.png|1964 paperback
+File:Tree and Leaf 1968.png|1964 paperback 3rd impression
+File:Tree and Leaf 1971 paperback.png |1964 paperback 5th impression
+</gallery>
+* [[George Allen and Unwin]], hardcover ([[1964]]), pp.&nbsp;92.
+** 1964 hardcover edition, 5th impression ([[1971]]), ISBN 0048240133
+* [[Unwin Books]], paperback ([[1964]])
+** 1964 paperback edition, 3rd impression ([[1968]])
+** 1964 paperback edition, 5th impression ([[1971]]), ISBN 0048240141
+
+;1988 and later editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Tree and Leaf 1988 hardcover.png|1988 hardcover
+File:Tree and Leaf 1988 paperback.png|1988 paperback
+File:Tree and Leaf 2001.png|2001 paperback
+File:Tree and Leaf 2009.png|2009 paperback
+File:Tree and Leaf 2025.png|2025 paperback
+</gallery>
+* [[Unwin Hyman]], hardcover ([[1988]]), pp.&nbsp;101. ISBN 0044402546
+* [[Unwin Paperbacks]], paperback ([[1988]]), ISBN 0044402538
+* [[HarperCollins]] paperback ([[2001]]), pp.&nbsp;176. ISBN 0007105045
+** 2001 paperback edition, 8th? impression ([[2009]])
+* [[HarperCollins]] paperback ([[2025]]), pp.&nbsp;192. ISBN 0008761892
+
+==See also==
+*''[[Tales from the Perilous Realm]]''
+
+==External links==
+*[http://www.tolkienlibrary.com/booksbytolkien/treeandleaf/description.htm Tree and Leaf] at [[Pieter Collier|Tolkien Library]]
+
+{{Publishedmajorbooks}}
+{{title|italics}}
+[[Category:Scholarly books]]
+[[Category:Fiction books]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Publications by title]]
+[[de:Baum und Blatt]]
+[[fi:Puu ja lehti]]

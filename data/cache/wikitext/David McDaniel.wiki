@@ -1,0 +1,27 @@
+{{author infobox
+| image = David McDaniel.jpg
+| name=David McDaniel
+| born=[[16 June]], [[1939]]
+| died=[[1 November]], [[1977]]
+| education=
+| occupation=Author
+| location=United Estates
+| website=
+}}
+'''David Edward McDaniel''' ([[16 June]] [[1939]] – [[1 November]] [[1977]]) known by pseudonym '''Ted Johnstone''', was a United States science fiction author, that founded and organized the first Tolkien fan group, "[[The Fellowship of the Ring (fangroup)|The Fellowship of the Ring]]" at Pittcon, the 1960 Worldcon. They published four issues of the fanzine [[i-Palantir]] before the organization disbanded.
+
+==Bibliography, selected==
+===Articles===
+*[[1961]]: [[I, Palantir (August 1961)|''I, Palantir'', issue 2]]
+**""High Fly the Nazgul, Oh!" cycle song by Ted Johnstone and others
+**""Haiku Portraits" by Don Studebaker, Ted Johnstone and others (in Tengwar and English)"
+*[[1964]]: [[I, Palantir (April 1964)|''I, Palantir'', issue 3]]
+**""Haiku Portraits" by Don Studebaker, Ted Johnstone, and others (only one Haiku, in Tengwar and English)<ref>{{webcite|author=|articleurl=http://fanlore.org/wiki/I_Palantir|articlename=I Palantir|dated=7 September 2012|website=[http://fanlore.org Fanlore.org]|accessed=11 June 2015}}</ref>)
+
+==See also==
+*[[Ace Books]]
+
+{{references}}
+[[Category:People by name|Johnstone, Ted]]
+[[Category:Authors]]
+[[Category:American people]]

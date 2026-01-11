@@ -1,0 +1,26 @@
+{{person infobox
+| image=Michael Martinez portrait.jpg
+| name=Michael Martinez
+| born=[[1959]]
+| died=
+| education=Kennesaw State University, Georgia, USA
+| occupation=SEO Theorist and Tolkien Scholar
+| location=
+| website=[https://www.michael-martinez.com/ Official website]<br />[https://middle-earth.xenite.org/ Middle-earth Blog]
+}}
+'''Michael Martinez''' (born [[1959]]) is one of the most well-known [[Tolkienist|scholars]] in regards to [[J.R.R. Tolkien]]'s literary works. He first published ''[[Parma Endorion]]'' in [[1996]] and has published a vast array of essays over the years. Most of these can be read online via his [http://www.merp.com/essays/michael-martinez-1 section on MERP.com]. 
+
+==Bilbiography==
+===Books===
+*[[1996]]: ''[[Parma Endorion]]''
+*[[2000]]: ''Visualizing Middle-earth'' 
+*[[2003]]: ''Understanding Middle-earth''.
+*[[2014]]: ''Mindfaring through Middle-earth''
+
+==External links==
+* [http://middle-earth.xenite.org/ Middle-earth & J.R.R. Tolkien Blog] by Michael Martinez
+
+{{DEFAULTSORT:Martinez, Michael}}
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:People by name]]

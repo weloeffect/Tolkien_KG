@@ -1,0 +1,39 @@
+{{unnamed}}
+{{battle
+| name=Battle under the trees
+| image = Soni Alcorn-Hender - Battle Under Trees, Elves and Orca.jpeg
+| conflict=[[War of the Ring]]
+| date=[[15 March]], {{TA|3019}}
+| place= [[Mirkwood]]
+| result= [[Thranduil]] repels the forces of [[Dol Guldur]]
+| side1=[[Elves of Mirkwood]]
+| side2=[[Orcs]] of Dol Guldur
+| commanders1=[[Thranduil]]
+| commanders2=[[Khamûl]]
+| forces1=Unknown, enough for victory
+| forces2=Unknown
+| casual1=Unknown
+| casual2=Unknown, enough for defeat
+|}}
+{{wotr}}
+The '''battle under the trees''' was a conflict fought on [[15 March]], {{TA|3019}}, as part of the [[War of the Ring]].<ref name="battle under trees">{{App|Great}}</ref> It was fought simultaneously with the second assault on [[Lórien]], a battle also fought against the forces of [[Dol Guldur]].
+
+== Prelude==
+[[Dol Guldur]] had recently become active<ref>{{App|TA}}</ref>(possibly under the power of [[Khamûl]], its former commander)<ref>{{UT|Hunt}}, p. 352, note #1</ref>
+under the service of [[Sauron]]. On [[11 March]], Dol Guldur sent a force of Orcs against [[Lothlórien]].<ref name="battle under trees"/> Though acting as the first of [[assaults on Lothlórien|three assaults]], it ended in failure.
+
+==The Battle==
+On the 15 March, the [[Battle of the Pelennor Fields]] took place in [[Gondor]].<ref>{{RK|Battle}}</ref> Not soon after its end, Orcs were sent from Dol Guldur to Lórien and the [[Woodland Realm]]. Another long battle then took place under the trees of Mirkwood when Thranduil's realm was invaded, and a great ruin of fire. In the end Thranduil took the victory and the Elves of Mirkwood won.<ref name="battle under trees"/>
+
+At the same time, the Orcs sent to Lothlórien for a second time, once again failed the assault.<ref name="battle under trees"/>
+
+== Aftermath ==
+A third assault on Lórien was made on [[22 March]] and ended comparably to the others. On [[28 March]], [[Celeborn]] took Dol Guldur and [[Galadriel]] laid it bare, presumably by way of [[Nenya]].<ref name="battle under trees"/>
+
+On [[6 April]], Celeborn and King [[Thranduil]] met in the midst of the forest and renamed it [[Eryn Lasgalen]], "wood of green leaves".  Celeborn took the land south of [[The Narrows]] for himself and named it [[East Lórien]], while Thranduil took all wood north of the [[Mountains of Mirkwood]]. They gave the middle of the wood to the [[Beornings]] and [[Woodmen]].<ref name="battle under trees"/>
+
+{{references}}
+
+==External links==
+*[https://middle-earth.xenite.org/what-was-the-battle-of-mirkwood/ What was the Battle of Mirkwood?] by [[Michael Martinez]]
+[[Category:Conflicts of the War of the Ring]]

@@ -1,0 +1,123 @@
+{{disambig-more|Hobbits|[[The Hobbit (disambiguation)]]}}
+{{people infobox
+| name=Hobbits
+| image = Kay Woollard - The Landlord of the Ivy Bush (retouched unfinished design).jpg
+| caption="The Landlord of the Ivy Bush" by [[Kay Woollard]]
+| pronun=
+| othernames=''Cūbugin'' ([[Westron|W]]), ''Periannath'' ([[Sindarin|S]]), ''Periandi'' ([[Quenya|Q]])<br>Halflings, Holbytlan, Little People
+| origin=
+| location=[[The Shire]], [[Buckland]], [[Bree-land]]
+| affiliation=[[Host of the West (Arnor)|Host of the West]]
+| rivalry=
+| language=[[Hobbitish]] (a regional dialect of [[Westron]])
+| members=[[Marcho]] and [[Blanco]], [[Sméagol]], [[Bandobras Took]], [[Bilbo Baggins]], [[Frodo Baggins]]
+| lifespan=c. 96<ref name="LOTRProjectStats">{{webcite|author=Emil Johansson|articleurl=http://lotrproject.com/statistics/#lifeexpectancy|articlename=Lord of the Rings in Statistics|website=[http://lotrproject.com/ Lord of the Rings Project]|accessed=09-September-2012}}</ref>
+| distinctions=[[Gift of Men|Mortality]], diminutive stature, furry feet
+| height=2-4 ft or 0.6-1.2 m (often less than three feet in later days)
+| hair=Typically curly brown,<ref name = "Letter 27">{{LE|27}}</ref> rarely blond (until the [[Fourth Age]]), and white and grey in later years
+| skin=Nut-brown to white
+| clothing=
+| weapons=
+}}
+{{Quote|In a hole in the ground there lived a hobbit.|''[[The Hobbit]]'', "[[An Unexpected Party]]"}}
+'''Hobbits''' were a small race that typically dwelt underground, believed to be related to [[Men]]. They played little role in history, save during the [[War of the Ring]].
+
+==Description and culture==
+{{Quote|There is more in you of good than you know, child of the kindly [[Eriador|West]]. Some courage and some wisdom, blended in measure. If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.|[[Thorin Oakenshield]] in ''[[The Hobbit]]'', "[[The Return Journey]]"}}
+
+Hobbits were between two and four feet tall,<ref name=Concerning>{{FR|Hobbits}}</ref> with differences between male and female: about 3 feet 6 inches for males<ref>{{NM|P2vi}}, "Heights", p. 195</ref> and seldom exceeded 3 feet for female.<ref name=atani>{{PM|Atani}}</ref> They had short legs, slightly pointed ears<ref name = "Letter 27"></ref> and furry feet with leathery soles, resulting in most never wearing shoes. Compared to the [[Dwarves]] they are a bit shorter and less stout or stocky. Early in their recorded history, Hobbits were divided in three kinds with different customs and temperament. The '''[[Stoors]]''' grew facial hair and had an affinity for water, boats and swimming and wore boots; the '''[[Fallohides]]''' were fair, tall and slim, an adventurous people, friendlier and more open to outsiders. Finally, the '''[[Harfoots]]''' were the most numerous and instituted the living in burrows. In later days the Harfoot traits became the "norm".
+[[File:Kay Woollard - Dinner Time - A farmhouse kitchen.jpg|thumb|left|''Dinner Time - A farmhouse kitchen in the Shire'' by [[Kay Woollard]]]]
+
+Hobbits had a life span somewhat longer than Men of non-[[Númenórean]] descent, averaging between 90 and 100 years. The time at which a young hobbit "came of age" was 33.<ref name=FRI1>{{FR|I1}}</ref> The oldest-living recorded hobbit (except [[Gollum]] and [[Bilbo Baggins]], whose lives were extended by the power of [[The One Ring]]) was The [[Gerontius Took|Old Took]], who reached the age of 130. 
+
+By nature they were of gentle disposition, neither cruel nor vindictive.<ref>{{PM|XNotes}}, #55</ref> Slow to quarrel, they never had been warlike, and never fought among themselves, nor hunted for sport; by the late Third Age the Shire-hobbits knew of weapons only as trophies or useless trinkets. However they were skilled with all kind of tools, as well as arms when there was a need; they were keen-eyed and used the bow well, and also the stones, successfully thrown against trespassing beasts.
+
+Throughout their history Hobbits had showed unparalleled skill, courage and also endurance and resistance in times of danger and terror. During their [[Wandering Days]] Hobbits demonstrated an easiness to adapt to the environments they visited and adopted the customs and languages of the peoples they were in contact with. In the Shire, they had settled with a closed and comfort-loving lifestyle; they were fond of an unadventurous bucolic life of farming, eating, smoking [[pipe-weed]], socializing and talking about genealogies. Hobbits also liked to drink ale in inns, and ate at least six meals a day when they could get them. Every [[Highday]] and after noon, Hobbits celebrated a small holiday with evening feasts.<ref name=cal>{{App|Calendars}}</ref>
+
+However, their hidden potentials resurfaced in difficult times; in the [[Long Winter]], [[Gandalf]] admired their uncomplaining courage and pity for one another, thanks to which they survived.<ref>{{UT|Erebor}}</ref> Another example of Hobbitish hardiness and resistant nature, was [[Gollum]], who despite using [[the One Ring]] for years, did not transform into a [[Wraiths|Wraith]] under the Ring's evil power (unlike the [[Nazgûl|nine Mannish Kings]]).<ref>
+{{webcite|author=Stan Brown|website=FAQ of the Rings|articleurl=http://oakroadsystems.com/genl/ringfaq.htm#Q1-GollumWraith |articlename=Why hadn’t Gollum turned into a wraith long ago?}}</ref> These surprising Hobbit traits also were tested and proven during the [[Quest of Erebor]] and, most notably, the [[War of the Ring]].
+
+===Clans and families===
+Hobbits were universally monogamous and "[[Wikipedia:Patrilineality|patrilinear]]" (family names descended in the male-line) and normally the titular family head was the eldest male, but his wife had an equal, but separate status.  In the large powerful families (such as the [[Took Family|Tooks]]) the head of what we would call a clan was the eldest male of the most direct line of descent. If the master died first his titular headship of the clan was taken by his wife and, only after her death, by their son.
+
+Chieftains and leaders of their clans and tribes were typically of Fallohide kind, as they were by nature more adventurous.
+
+The custom in the "younger" families was that when the head had no male heir, the headship passed to the daughter's eldest son. In such cases the heir took the name of his mother’s family while retaining the father’s family name in second place; this was the case with [[Otho Sackville-Baggins]], who obtained headship of the Sackvilles through his mother [[Camellia Sackville|Camellia]].<ref name=L214/>
+
+===Gift-giving===
+The Hobbits generally exchanged gifts as a form of "payment" for services but also of thanksgiving in favors and friendships. According to an ancient custom, a hobbit baby, shortly after birth and its name-announcement, was given a gift by the head of the family, as a token of accepting it into the family (on the rare cases of adoptions, parents gave gifts to their new child). Gifts then became a means of recognizing family membership, and the head of the family ritually gave something, even if only a token ([[mathom]]), to a [[ribadyan|birthday celebrant]].
+
+On its third birthday, a hobbit child gave presents to their parents, that typically was something that was personally found, or produced (made or grown). This may have been extended to other ages and relatives resulting to the celebrant both receiving and giving a gift. Birthdays had considerable social importance, and customs were regulated by fairly strict etiquette, usually reduced to formalities.<ref name=L214>{{L|214}}</ref>
+
+==Origin==
+[[File:Lidia Postma - Hobbits comparison.jpg|thumb|left|The three kinds of Hobbits. Arty by Lidia Postma]]
+Hobbits did not have legends concerning their origin. Lacking better evidence, it is suggested that they are a miniature variant of [[Men]], or of a related branch.<ref>[[Letter to Arthur Ransome]]</ref> Nearly all scholars agree that Men were closely related to Hobbits, far more closely than Men were to either [[Elves]] or [[Dwarves]].  It was thus commonly assumed that Hobbits were among the Younger [[Children of Ilúvatar]] and were the result of the same act of creation as Men.  This would imply that Hobbits had the [[Gift of Men]] to pass entirely beyond [[Arda]].
+
+It is supposed that Hobbits branched out from Men as a race in the [[Elder Days]], but they don't appear at all in the chronicles of the [[Elves]].<ref name=Concerning>{{FR|Hobbits}}</ref> Their exact origin is unknown but in their early days they could have been primitive and "savage".<ref name=atani/> Apparently they survived in [[Middle-earth]] for millennia far from importance and the knowledge of stronger races; they come into the records not earlier than the early [[Third Age]] where they were living in the [[Vales of Anduin]] in [[Rhovanion|Wilderland]], between [[Mirkwood]] and the [[Misty Mountains]]. They have lost the genealogical details of how they are related to the rest of mankind. While they stayed there, the [[Northmen]] knew them. Their descendants, the [[Rohirrim]], had that memory of the ''[[holbytla]]n'' and they remained an object of lore until they contacted them during the War of the Ring. Many old words and names in "[[Hobbitish]]" are cognates of words in [[Rohanese]], so much so that even someone without linguistic training could make out the relation ([[Meriadoc Brandybuck]] would later write an entire book devoted to the relationship, ''[[Old Words and Names in the Shire]]'').
+
+==History==
+<!--"Events" in Eriador infobox links here-->
+[[File:Robin Wood - Mathom lore.jpg|thumb|''Mathom lore'' by Robin Wood]]
+While situated in the Valley of the Anduin River the Hobbits lived close by the Northmen. Some time near the beginning of the [[Third Age]], they were uneasy because of the growing numbers of [[Easterlings|alien men]] from the [[East]] who passed the [[Greenwood]] and harassed the Northmen and no doubt they also sensed the rising [[Shadow]] of [[Dol Guldur]].<ref name=atani/> They took the arduous task of crossing the [[Misty Mountains]], beginning thus their '''[[Wandering Days]]'''.  Some of the Stoors, however, returned to that place, and it is from these people that [[Gollum]] would come many years later. 
+
+The Hobbits took different routes in their journey westward, and  eventually they came to a land between the River [[Baranduin]] (which they renamed ''Brandywine'') and the [[Weather Hills]].  Along the way they founded many settlements (most of them disappeared and were forgotten), and the divisions between the Hobbit-kinds began to blur. Only [[Bree]] and a few surrounding villages lasted to the end of the Third Age.
+
+In the year {{TA|1601}}, two Fallohide brothers, [[Marcho]] and [[Blanco]], decided to cross the River Brandywine and settle on the other side.  Large numbers of Hobbits followed them, and most of their former territory was depopulated. The new land that they found on the west bank of the Brandywine is called [[The Shire]]. 
+
+Hobbits became first famous and a renowned part of the wider history during the [[Quest of Erebor]] ([[Bilbo Baggins]] was the first ever famous Hobbit) and later during the [[War of the Ring]]. In the later [[Ages]] they have dwindled and their numbers have diminished and although they still linger in the North-west of the Old World, they are rarely seen; they avoid the [[Big Folk]] with dismay, using their art of disappearing.<ref name=Concerning/>
+
+==Some well-known Hobbits==
+[[File:Anke Eißmann - Frodo and Bilbo.jpg|thumb|''Frodo and Bilbo'' by [[Anke Eißmann]]]]
+* [[Bilbo Baggins]]
+* [[Frodo Baggins]]
+* [[Samwise Gamgee|Samwise "Sam" Gamgee]]
+* [[Meriadoc Brandybuck|Meriadoc "Merry" Brandybuck]]
+* [[Belladonna Took]]
+* [[Peregrin Took|Peregrin "Pippin" Took]]
+* [[Fredegar Bolger|Fredegar "Fatty" Bolger]]
+* [[Otho Sackville-Baggins|Otho]] and [[Lotho Sackville-Baggins]]
+* [[Lobelia Sackville-Baggins]]
+* [[Gerontius Took|Old Took]]
+* [[Bandobras Took|Bullroarer Took]]
+* [[Sméagol]] (who became the creature [[Gollum]])
+* [[Déagol]]
+
+Though in ''[[The Hobbit]]'' it is mentioned that [[Gandalf]] "was responsible for so many quiet lads and lasses going off into the Blue for mad adventures," no female Hobbits are depicted in [[J.R.R. Tolkien|Tolkien]]'s stories doing so; however Hobbit women do appear in his works, such as the formidable [[Lobelia Sackville-Baggins]], Sam's wife [[Rose Cotton]], and [[Belladonna Took]], one of the Old Took's remarkable daughters, who is said to have given up adventuring upon marrying the respectable [[Bungo Baggins]].
+
+== Etymology ==
+:''This section explains the fictional etymology of the word in the linguistic context of Middle-earth; for the actual origin of the word see the section [[#Inspiration]] below''.
+''Hobbit'' was derived from [[Old English]] ''[[holbytla]]'', "hole-dweller" which represents the [[Rohanese]] language.<ref>{{HM|RW}}, p. 144</ref> In a letter, Tolkien commented on the pronunciation of the word ''hobbit'': "I am sure many hobbits drop their ''h''s like most rural folk in England".<ref>[[J.R.R. Tolkien]], "[[Letter to Alina Dadlez (19 September 1962)]]" (letter); quoted in {{CG|RG}}, p. 1036</ref>
+
+The relationship hobbit/holbytla parallels the original [[Westron]] ''[[Kuduk]]'' (Hobbit), derived from the actual Rohirric ''[[kûd-dûkan]]'' (holbytla, hole dweller). This name obviously derives from the times when the hobbits lived at the [[Vales of Anduin]] with the [[Northmen]].<ref name="Road">{{TT|III8}}</ref><ref name="Translation">{{App|F2}}</ref>
+
+Hobbits were also called ''[[Halflings]]'' by the [[Dúnedain]], first when they still measured 2 [[ranga]]r tall; twice as high as a hobbit who would reach only 1 ranga. The word retained even when the later generations of Dúnedain became shorter.<ref name=linear>{{UT|Linear}}</ref> Hobbits used the term when talking to those that knew them as Halflings but preferred to be called Hobbits.<ref>{{TT|Road}}, p. 557</ref>
+
+''Halfling'' represents a translation of [[Westron]] ''[[banakil]]''. In [[Quenya]] the word is ''[[perian|Perian(d-)]]'' pl. ''Periandi''<ref>{{webcite|articleurl=http://www.tolkienlibrary.com/press/856-most_expensive_Tolkien_book_in_the_world.php|articlename=Most expensive Tolkien bok in the world|website=[http://www.tolkienlibrary.com/index.php TolkienLibrary.com]}}, dedication to [[Elaine Griffiths]]</ref> and in [[Sindarin]] ''[[Perian]]'' pl. ''Periannath''.<ref>{{RK|Cormallen}}</ref>
+
+*''See also: [[Wikipedia:Hobbit (word)]]''
+
+==Inspiration==
+{{quote|I am in fact a Hobbit (in all but size). I like gardens, trees and unmechanized farmlands; I smoke a pipe, and like good plain food [...]; I like, and even dare to wear in these dull days, ornamental waistcoats. I am fond of mushrooms (out of a field); have a very simple sense of humour [...]; I go to bed late and get up late [...]. I do not travel much.|[[J.R.R. Tolkien]]|[[Letter 213]]}}
+
+The name 'Hobbit' was probably constructed meaningless as a spontaneous inspiration, without prior intent, but it would have been natural for him to see in it the prefix ''hob'' as in [[Hobgoblin]]. When later he began to work out the language relations further (see: [[Mannish]]) he decided that it could be a derived form of an [[Old English]] word such as ''[[holbytla]]''. Tolkien also claimed "''that the only E. word that influenced the invention was ‘hole’; that granted the description of hobbits.''"<ref>{{L|319}}</ref>
+
+According to Tolkien, the word ''hobbit'' came first, and then he decided to write ''[[The Hobbit]]'' around it. As a university lecturer, he was in the process of correcting reports when he started scribbling on a blank piece of paper and wrote, "In a hole in the ground there lived a hobbit", and the rest of the story sprang from that.<ref>[[Humphrey Carpenter]], ''[[J.R.R. Tolkien: A Biography]]'', p.172</ref> The idea of a little hole dwelling creature was introduced to Tolkien by one of his students in a story he had written.
+
+It was revealed recently that the word pre-dated Tolkien's usage, though with a different meaning).<ref name="annot">{{HM|AH}}</ref> Tolkien's concept of hobbits, in turn, seems to have been inspired by Edward Wyke Smith's 1927 children's book ''[[Wikipedia:The Marvellous Land of Snergs|The Marvellous Land of Snergs]]'', and by Sinclair Lewis's 1922 novel ''[[Wikipedia:Babbitt (novel)|Babbitt]]''. Tolkien wrote to [[W.H. Auden]] that ''The Marvellous Land of Snergs'' "was probably an unconscious source-book for the Hobbits"<ref name=annot/> and he told an interviewer that the word ''hobbit'' "might have been associated with Sinclair Lewis's ''Babbitt''" who enjoys the comforts of his home.
+
+The name ''hobbit'' had previously appeared in an obscure "[[Wikipedia:Denham Tracts|list of spirits]]" by Michael Denham, which includes several repetitions. There is no evidence to suggest Tolkien used this as a source &mdash; indeed he spent many years trying to find out whether he really did coin the word. Denham's "hobbit spirits" (which are never referenced anywhere except in the long list) have no obvious relation to Tolkien's Hobbits, other than the name (which may possibly imply hob- "small"): Tolkien's Hobbits are small humans, not spirits. Nonetheless, some few people have suggested that the reference in the Denham list should invalidate the trademark.
+
+==In popular usage==
+"Hobbit" is a trademark owned by the [[Middle-earth Enterprises]], as some of names, places and artifacts included in ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]'' by [[J.R.R. Tolkien]]. For this reason [[Dungeons and Dragons]] and other fantasy tend to refer to Hobbits and Hobbit-like races rather as '''Halflings''' (''hin'' in the Mystara universe, ''hurthlings'' in Ancient Domains of Mystery).
+
+''[http://en.wikipedia.org/wiki/Homo_floresiensis Homo floresiensis]'', a possible species in the genus Homo (thus, related to humans) discovered in 2004, has been informally dubbed a "hobbit" by its discoverers due to its small size.
+
+[[Tolkien fandom|Fans]] have noted that in depictions and adaptations such as [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]], Hobbits are shown with unusually large feet, a conception probably influenced by the widespread art of [[the Brothers Hildebrandt]]. However, Tolkien himself never mentioned that large feet was a general feature of Hobbits.<ref>{{webcite|author=|articleurl=http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?do=post_view_printable;post=365823;guest=38267446|articlename=Big Feet|dated=|website=[http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?guest=35804230 The One Ring Forums]|accessed=2 September 2012}}</ref>
+
+{{References}}
+[[Category:Hobbits| ]]
+[[Category:Men]]
+[[fr:encyclo/peuples/hobbits/hobbits]]
+[[de:Hobbits]]
+[[fi:Hobitit]]
+[[pt-br:Hobbits]]

@@ -1,0 +1,38 @@
+{{journal
+| title=Other Minds 15
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=April [[2015]]
+| format=PDF
+| pages=166
+| issn=
+}}
+
+'''''Other Minds'' 15''' is the fifteenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in April 2015.
+
+==Contents==
+* "Editorial: It's a Long Way..."
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Middle-earth in miniature: Chapter 1 - Overview and Hobbits"
+** By José Enrique Vacas de la Rosa
+* "Adapting HARP to Middle-earth for campaigns in the Late Third Age (TA 2945 onwards)"
+** By Olaf Anguera
+* "Settlements in Rhovanion"
+** By Thomas Morwinsky
+* "A Hope Unforeseen - Men from Drúwaith Iaur (Part 2)"
+** By Daniel Bayarri Martinez
+* "Appendix A: Maps for 'Settlements in Rhovanion'"
+* "Appendix B: Maps for 'A Hope Unforeseen - Men from Drúwaith Iaur (Part 2)'"
+
+*'''Artwork / Maps:'''
+** By: Antti Autio, Onur Bakar, Matej Cadil, Nacho Castro, Catherine Karina Chmiel, Jenny Dolfen, Anke Eissmann, Olanda Feng-Surdenas, Wouter Florusse, Daniel Govar, [[John Howe]], Olga Kukhtenkova, Turner Mohan, Abe Papakhian, Jan Pospisil, Tara Rueping
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 15}}
+[[Category:Other Minds]]

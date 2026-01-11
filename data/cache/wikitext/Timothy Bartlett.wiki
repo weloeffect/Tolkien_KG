@@ -1,0 +1,20 @@
+{{actor
+| image=
+| name=Timothy Bartlett
+| lifetime=
+| played=[[Master Worrywort]]
+| film=[[The Hobbit (film series)|''The Hobbit'' (film series)]]
+| played2=
+| film2=
+| imdb=[https://www.imdb.com//name/nm0058910/ Profile]
+}}
+'''Timothy Bartlett''' played an uncredited [[Hobbits|Hobbit]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and [[Master Worrywort]] in ''[[The Hobbit: An Unexpected Journey]]'' and ''[[The Hobbit: The Battle of the Five Armies]]''.
+
+== External links ==
+* {{WP|Timothy Bartlett}}
+
+{{DEFAULTSORT:Bartlett, Timothy}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Hobbit (film series) cast]]

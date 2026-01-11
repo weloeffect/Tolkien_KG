@@ -1,0 +1,73 @@
+{{rewrite}}{{people infobox
+| name=Nandor
+| image = Rob Alexander - Elven Cloak.jpg
+| caption="[[:File:Rob Alexander - Elven Cloak.jpg|Elven Cloak]]" by Rob Alexander
+| pronun=[[Quenya|Q]], {{IPA|[ˈnandor]}}
+| othernames=
+| origin=[[Teleri]] who turned aside from the [[Great Journey]] east of the [[Misty Mountains]]
+| location=[[Ossiriand]], [[Lindon]], [[Eriador]], [[Lothlórien]], [[Greenwood the Great]], [[Belfalas]], [[Ithilien]], [[Mouths of Anduin]]
+| affiliation=
+| rivalry=
+| language=[[Nandorin]], [[Silvan Elvish]], [[Sindarin]], [[Westron]]
+| members=[[Lenwë]], [[Denethor (Nando)|Denethor]], [[Nimrodel the Elf-maid|Nimrodel]], [[Haldir]]
+| lifespan=Immortal
+| distinctions=Secretive, lovers of the forests and animals
+| height=Tall
+| hair=Usually dark
+| skin=White
+| clothing=
+| weapons=
+}}
+{{Quote|They became a people apart, unlike their kin, save that they loved water, and dwelt most beside falls and running streams. Greater knowledge they had of living things, tree and herb, bird and beast, than all other Elves.|''[[Quenta Silmarillion]]'', "[[Of the Coming of the Elves and the Captivity of Melkor]]"}}
+
+The '''Nandor''' (sg. ''Nando''), who included the ''[[Silvan Elves]]'' and ''[[Green-elves]]'', were one group of the [[Teleri]].  Like the [[Sindar]], they consisted mainly of [[Úmanyar]] ([[Teleri]] who began the [[Great Journey]] but did not complete it). Some later came into [[Beleriand]] and dwelt in [[Ossiriand]], while those that remained founded realms of their own in the [[Vales of Anduin]]. The [[Elves of Lórien]] were of this kind, as were the [[Elves of Mirkwood|Wood-elves of Mirkwood]].
+
+Like others of the [[Teleri]], they loved water and dwelt most beside falls and running streams. But living wild in nature, they had greater knowledge of trees, plants, animals and birds, than all other Elves.<ref name="s3">{{S|3}}</ref>
+
+==History==
+===Origins===
+Those who would later become the Nandor were Elves of the hosts of the Teleri under [[Elwë]] and [[Olwë]]. They stayed long in [[Atyamar]] at the [[Vales of Anduin]] upon the east bank of [[Anduin|the river]] while they waited for [[Oromë]], but while the [[Vanyar]] and the [[Noldor]] crossed the [[Misty Mountains|Hithaeglir]], part of the Teleri were afraid, as they looked at the high and shadowy peaks. Then [[Lenwë]], from the host of [[Olwë]], decided to forsake the march, as he was content to remain in the wide forested lands of the [[Vales of Anduin]]; others broke from the host and followed him southwards along the [[Great River]]. These [[Teleri]] became the Nandor.<ref name="ref3">{{S|Doriath}}</ref> 
+
+Gradually, the Nandor spread out. While some remained in the woodlands of the [[Vales of Anduin]], others traveled to and dwelt at the [[Mouths of Anduin]], and many also passed by the [[White Mountains]] into the wilderness of [[Eriador]].<ref name="sindar">{{S|Sindar}}</ref>
+
+===Laiquendi===
+{{main|Green-elves}}
+Very quickly, however, the evils that dwelt in the north discovered the Nandor and began to bring harm to their people, for they were a simple woodland folk, with no weapons of steel. Hearing of the great realm of their kinsman, the King Elwë [[Thingol]] and the might of the [[Sindar]] of Doriath, [[Denethor (Nando)|Denethor]], [[Lenwë]]'s son, gathered as much of his scattered people as he could and crossed over the [[Ered Luin]] into [[Beleriand]]. There, they were welcomed warmly by Thingol as long-lost kin, and were allowed to settle in the green land of many-rivered [[Ossiriand]]. There, they were called the [[Laiquendi|Laegrim]].<ref name="sindar" />
+
+The Laegrim took little part in the [[Wars of Beleriand]]; in the [[First Battle]] against [[Morgoth]], they took heavy losses including their king Denethor. Afterwards, they became reclusive, pulling away from the many troubles of Beleriand, and fighting no longer against Morgoth.<ref name="sindar" />
+
+Even after the [[Elder Days]] passed, after they were joined by other [[Elves of Beleriand]], the [[Laiquendi]] remained west of the [[Blue Mountains]]; some of them removed to [[Eriador]] (where many of their kin still wandered)<ref name="concerning">{{UT|Concerning}}</ref> and others went east to live among the [[Silvan Elves]] in the Greenwood and in the land that would become Lothlórien.<ref name="rings" /> 
+
+===Silvan Elves===
+{{main|Silvan Elves}}
+The Silvan Elves were descendants of the Nandor who had lingered in the [[Vales of Anduin]] during the [[Great Journey]] of the [[Eldar]] in the [[Elder Days]]. They hid themselves in the woodlands beyond the [[Misty Mountains]] and became a scattered folk hardly distinguishable from [[Avari]].<ref name="SE-UTa">{{UT|6a}}</ref>
+
+In the early [[Second Age]], many [[Teleri]], survivors of [[Doriath]] and [[Ossiriand]], left [[Lindon]] to establish realms among these Silvan Elves.<ref name="rings">{{S|Rings}}</ref> Among them were the Sindar [[Oropher]], and his son [[Thranduil]], of [[Doriath]] who established the [[Woodland Realm]] in {{SA|750}}.<ref>{{PM|Second}}, p. 174</ref><ref name="Sindarin Princes">{{UT|6b}}</ref>
+
+==Etymology==
+''Nandor'' is a [[Quenya]] name, meaning "Those who go back",<ref>{{WJ|C}}, p. 384</ref> apparently containing the element ''[[nan-]]''.
+
+In early [[Qenya]], '''''nandor''''' meant "farmer"<ref>{{LT1|Appendix}}, p. 261</ref> containing the Elvish element ''[[Nan (Sindarin noun)|nan]]'' "field, valley".
+
+==Other names==
+The Nandor were also known by many other names: the Host of Dân, the Wood-elves, the Wanderers, the Axe-elves, the [[Green-elves|Green Elves]], the Brown Elves, and the Hidden People.<ref>{{MR|P3I3}}, p. 164</ref>
+
+==Other versions of the legendarium==
+In ''[[The Later Annals of Valinor]]'', in a note made by [[Pengolodh]], the Nandor are told to be of [[Noldor]]in origin who forsook the host of Finwë early upon the westward march, and turned south. But they found the lands barren and dark, and turned again north, and marched west once more with much wandering and grief. Of these some, under "Denithor", came at last over Ered Lindon and dwelt in Ossiriand being allies of Thingol.<ref>{{LR|AV}}</ref>{{rp|91}}
+
+At one point, Tolkien considered that the ''Danians'' (Nandor) were of ''Lindarin'' (Vanyarin) origin, though he emended this to the Noldor.<ref>{{LR|P2V}}</ref>
+
+In the 1930's ''[[Quenta Silmarillion (Lost Road)|Quenta Silmarillion]]'' they continue to be Noldor, specifically the hindmost of Finwë's host. After repenting of the march they became a people apart, unlike their kin and were not counted among the Eldar, nor yet among the Avari. ''Pereldar'' they were called in the tongue of the Elves of Valinor, which signifies "Half-eldar", but in their own tongue they were called Danas, after their first leader "Dân". His son was Denethor, who led them into Beleriand ere the rising of the Moon.<ref>{{LR|Quenta}}</ref>{{rp|§28}}
+
+{{elves}}
+{{references}}
+[[Category:Elven peoples]]
+[[Category:Moriquendi]]
+[[Category:Nandor| ]]
+[[Category:Quenya demonyms]]
+[[de:Laiquendi]]
+[[de:Nandor]]
+[[fr:encyclo/peuples/elfes/teleri/laiquendi]]
+[[fr:encyclo/peuples/elfes/teleri/nandor]]
+[[fi:Laiquendi]]
+[[fi:Nandor (kansa)]]

@@ -1,0 +1,195 @@
+{{disambig-two|the Mannish realm of the Second Age|island where it was located|[[Elenna]]}}
+{{kingdom
+| image=John Howe - Numenor.png
+| name=Númenor
+| pronun=[[Quenya|Q]], {{IPA|[ˈnuːmenor]}}
+| othernames=Westernesse<br>''Númenórë'', ''Andor'', ''[[Elenna]]'' ([[Quenya|Q]])<br>''Anadûnê'', ''Yôzâyan'' ([[Adûnaic|A]])
+| location=In [[Belegaer]], between [[Middle-earth]] and [[Aman]]
+| capital=[[Armenelos]]
+| towns=[[Andúnië]], [[Eldalondë]], [[Rómenna]], [[Ondosto]], [[Nindamos]]
+| regions=[[Forostar]], [[Andustar]], [[Hyarnustar]], [[Hyarrostar]], [[Orrostar]], [[Mittalmar]], [[Emerië]], [[Nísimaldar]]
+| population=Primarily [[Númenóreans]] (Few [[Drúedain]] briefly lived on the island)
+| language=[[Adûnaic]], [[Númenórean Sindarin]], [[Quenya]]
+| govern1=[[King of Númenor|King]]/[[Ruling Queens of Númenor|Queen]]
+| govern2=[[Council of the Sceptre]]
+| govern3=
+| currency=
+| holiday=[[Three Prayers]]:<br />[[Erukyermë]], [[Erulaitalë]], [[Eruhantalë]]
+| precededby=
+| event1=Founded
+| event1date={{SA|32}}
+| event2=Destroyed
+| event2date={{SA|3319}}
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=[[Realms in Exile]]
+}}
+{{Quote|The Edain came at last over leagues of sea and saw afar the land that was prepared for them, Andor, the Land of Gift, shimmering in a golden haze. Then they went up out of the sea and found a country fair and fruitful, and they were glad.|''[[Akallabêth]]''}}
+
+'''Númenor''' or '''Númenórë''', known in the [[Westron|Common Speech]] as '''[[Westernesse]]''' and in [[Adûnaic]] as '''[[Anadûnê]]''', was one of the names of the isle of [[Elenna]], which was raised from the [[Belegaer|Great Sea]] by the [[Valar]] at the beginning of the [[Second Age]]. While strictly speaking, the term ''Númenor'' referred to the realm established on the island, it was more often used as a synonym for the land itself. Númenor was one of the most powerful realms of the Second Age, and its people, called [[Númenóreans]], as well as their descendants, continued to have considerable influence through the [[Third Age]].
+
+==Geography==
+{{main|Elenna}}
+The island of Númenor was shaped like a 5-pointed star with each peninsular promontory having its own unique geological and physical features and names: [[Forostar]], [[Andustar]], [[Hyarnustar]], [[Hyarrostar]] and [[Orrostar]].<ref name="Numenor">{{UT|Numenor}}</ref><ref name="NMap">{{UT|NMap}}</ref>
+
+The central region was named [[Mittalmar]], and in its centre stood the holy mountain [[Meneltarma]].<ref name="Numenor" /><ref name="NMap" />
+
+Númenor had only two rivers: [[Siril]] and [[Nunduinë]].<ref name="Numenor" /><ref name="NMap" />
+
+The Númenóreans built several settlements on the island. The capital [[Armenelos]], as well as [[Andúnië]], [[Nindamos]], [[Eldalondë]], [[Rómenna]]<ref name="NMap" /> [[Ondosto]]<ref name="Numenor" /> and [[Almaida]].<ref>{{UT|Introduction}}, Part Two, I</ref>
+
+==History==
+===Foundation===
+{{seealso|Númenóreans#Origins}}
+[[File:Felix Sotomayor - Numenor.jpg|thumb|left|''Numenor'' by Felix Sotomayor]]
+Númenor was the kingdom of the [[Dúnedain]], located on an island in the [[Belegaer|Great Sea]], between Middle-earth and [[Aman]]. The land was brought up from the sea by [[Ossë]] as a gift to the [[Edain]] for their part in the war against [[Morgoth]].<ref name="akallabeth">{{S|Akallabeth}}</ref> It was also called ''Elenna'' ("Starwards") because the Edain were led to it by the [[Star of Eärendil]], and because the island was in the shape of a five-pointed star. The first ships of the Edain arrived at the island in {{SA|32}}. [[Elros]], son of [[Eärendil]] was the first [[King of Númenor]], taking the name of [[Elros|Tar-Minyatur]] ("First King").<ref name="APSA">{{App|SA}}</ref> The majority of the Edain gradually migrated to the island in the next fifty years<ref>{{PM|V}}, §5</ref> and the [[Drúedain]] refugees who dwelt at the [[Mouths of Sirion]] before the sinking of [[Beleriand]] were permitted to join them.<ref name="Druedain">{{UT|Druedain}}</ref>
+
+The Elves of [[Tol Eressëa]] visited the island and brought many gifts, such as birds and plants, and shared their lore and skills with the Men. The descendants of the Edain rose to become a powerful race of Men, the [[Númenóreans]].<ref name="akallabeth" />
+
+===Return to Middle-earth===
+The Númenóreans were forbidden by the Valar from sailing so far westward that Númenor was no longer visible, for fear that they would come upon the [[Undying Lands]], from which Men were [[Ban of the Valar|barred]]. They tried to compensate for this by going eastward and they reached the shores of Middle-earth in {{SA|600}}.<ref name="APSA" /> Arriving in [[Lindon]], they were welcomed by [[Gil-galad]], and an alliance between Númenor and the [[Elves of Lindon]] was formed.<ref name="UTAE3">{{UT|4}}, Note 3</ref> The Númenóreans made contact with the [[Middle Men|Men of Eriador]] teaching them several crafts. They instructed them and helped free them from the [[Shadow]] which they had been under for centuries.<ref name="akallabeth" />
+
+In {{SA|750}} the [[Guild of Venturers]] was established by Prince [[Aldarion]], son of the king [[Tar-Meneldur]], to facilitate the growing interest in seafaring in Númenor.<ref>{{UT|4}}, Notes, Chronology</ref> Aldarion built the haven of [[Vinyalondë]], situated in the mouth of the river [[Gwathló]] between great forests to the north and south. The native people of [[Minhiriath]] and [[Enedwaith]] tolerated the Númenórean presence in the area until they began cutting the trees for timber, and hostility grew between the two peoples.<ref name="UTLD">{{UT|6d}}</ref>
+
+===War with Sauron===
+{{seealso|War of the Elves and Sauron}}
+In {{SA|882}} Tar-Meneldur received a [[Gil-galad's letter|letter]] from Gil-galad warning of a new shadow rising in the East, declaring that a [[Sauron|servant]] of [[Morgoth]] was behind it and asking for aid to defend Eriador when the time came. Tar-Meneldur was disturbed by this letter and in his wisdom resigned the [[Sceptre of Númenor|Sceptre]] to his son, knowing that he had the better understanding of what was transpiring in the [[Great Lands]] due to the many years he spent abroad.<ref name="Wife">{{UT|Wife}}</ref> Tar-Aldarion returned to Middle-earth in earnest to continue his work while Númenor began preparation for war.<ref name="CGC">{{UT|Concerning}}</ref>
+
+About {{SA|1200}}, Númenóreans began establishing permanent settlements in Middle-earth<ref name="APSA" /> which were later attacked by raiders sent by Sauron as he drew closer to invading Eriador. Although they were unable to destroy the havens and forts, their assaults disrupted the Númenórean lumber industry.<ref name="UTLD" />
+
+In {{SA|1695}}, Sauron launched his [[War of the Elves and Sauron|invasion]] of Eriador<ref name="APSA" /> and Gil-galad sent word to Númenor for aid. [[Tar-Minastir]] sent a great navy, but by the time it reached the coasts of Middle-earth in {{SA|1700}}, Eriador was mostly in ruin. The Númenóreans and Elves [[Battle of the Gwathló|defeated]] Sauron bringing peace to the [[Westlands]].<ref name="CGC" />
+
+===Shadow over Númenor===
+[[File:Tolrone - Numenor (2).jpg|thumb|''Númenor'' by [[:Category:Images by Tolrone|Tolrone]]]]
+The might of Númenor was revealed during that victory, and soon the Númenóreans became too proud and desired more wealth and power. About {{SA|1800|}} they established dominions on the shores of Middle-earth, becoming a brutal maritime empire that had no rival.<ref name="APSA" /> They demanded tribute from the lesser peoples which they had liberated and taught, and now oppressed.
+
+In Númenor there was growing discontent regarding [[Ban of the Valar]], questioning the [[Gift of Men]] and becoming envious of the immortality of the Eldar. They longed for [[Eldamar]], which they saw only from a distance.<ref name="APNK">{{App|A1i}}</ref> Fearing death, they tried to gain some form of immortality in riches and ornate tombs. This discontent began during the reigns of [[Tar-Ciryatan]] and his son [[Tar-Atanamir]]. It was the latter that started to speak openly against the Valar, and many Númenóreans followed his teachings.<ref name="Line">{{UT|Kings}}</ref>
+
+===Division===
+In {{SA|2251}}, during the reign of [[Tar-Ancalimon]], the Men of Númenor were split into two factions. The larger following were the [[King's Men]], who followed the king and abandoned the Elven customs and languages. The other was the [[Faithful]], who remained loyal to the Valar and friendly towards the Elves.<ref name="APNK" /> Both had havens in Middle-earth such as [[Umbar]] and [[Pelargir]]; the King's Men extended their dominion in [[Harad|the south]], pushing away even Sauron who was afraid of them.<ref name="APSA" />
+
+In {{SA|2899}} [[Ar-Adûnakhôr]] took the Sceptre<ref name="APSA" /> and became the first king to choose an [[Adûnaic]] title and not one in [[Quenya]].<ref name="Line" /> During his reign, the Faithful were persecuted and the Elven-tongue was no longer used or taught in Númenor. Elves seldom sailed to the island then, except in secret.
+
+The Faithful remained in [[Andúnië]], and the Faithful [[Lords of Andúnië]], because of their noble heritage, still had some gravity in the meetings of nobles. However, in the 32nd century, [[Ar-Gimilzôr]] forced them to relocate to [[Rómenna]], and the haven was closed to the Elven visitors. Many of them would depart to Middle-earth to remain among the Eldar.<ref name="akallabeth" />
+
+===Civil War===
+[[File:Matěj Čadil - The Eagles of the lords of the Valar.jpg|left|thumb|''The Eagles of the lords of the Valar'' by [[Matěj Čadil]]]]
+The 24th king, [[Tar-Palantir]], briefly attempted to cast the Shadow back and reunite the people with the Elves and the Valar, but was unable to appease the Valar during his lifetime and no ship came ever again from the west. The Faithful for some time had peace on the island, but the policies of the king were met with opposition by his brother [[Gimilkhâd]], who took leadership of the King's Men. Tar-Palantir prophesied that when the [[Nimloth (tree)|White Tree]] died, the line of Kings would perish also.<ref name="Line" />
+
+Gimilkhâd had a son, [[Pharazôn]], who was a mighty Númenórean lord, spending many years abroad fighting in wars seeking to extend the dominion of Númenor in Middle-earth, and was a renowned captain on land and sea.<ref name="akallabeth" /> After hearing the news of his father's death in {{SA|3243}}, Pharazôn returned to Númenor, took leadership of the King's Men, and led a rebellion against his uncle Tar-Palantir.<ref name="APSA" />
+
+When Tar-Palantir died, he had no male heir, only a daughter [[Tar-Míriel]]. She was posed to succeed her father, but Pharazôn usurped the Sceptre and forced her into marriage against her will and against the laws of Númenor, which prohibited first cousins from marrying. He proclaimed himself Ar-Pharazôn the Golden and changed the name of Míriel to Ar-Zimraphel.<ref name="akallabeth" />
+
+===Sauron===
+In {{SA|3261}}, [[Ar-Pharazôn]] sailed to Middle-earth to defeat a resurgent Sauron. Seeing the might of Númenor, Sauron willingly submitted to the king's authority, and he was brought back to Númenor as a hostage. By that time, however, the Drúedain of Númenor had sensed a coming darkness and all of them had abandoned the island for Middle-earth.<ref name="Druedain" /> Sauron soon became an adviser to the King as Tar-Mairon, and promised the Númenóreans would achieve eternal life if they worshipped [[Morgoth|Melkor]]. Under the counsel of Sauron, the Númenóreans became even more warlike, hunting the Men of Middle-earth and enslaving them. Ar-Pharazôn had a five hundred foot temple to Melkor erected, in which the enslaved Men, as well as members of the Faithful were sacrificed.<ref name="akallabeth" />
+
+During this time, the white tree [[Nimloth the Fair]], whose fate was said to be tied to the line of kings, was chopped down and burned as a sacrifice to Melkor. Risking his life, [[Isildur]] rescued a fruit of the tree, preserving the ancient line of trees.<ref name="akallabeth" />
+
+===Destruction===
+[[Image:Ted_Nasmith_-_The_Ships_of_the_Faithful.jpg|right|thumb|''The Ships of the Faithful'' by [[Ted Nasmith]]]]
+{{main|Downfall of Númenor}}
+Prompted by Sauron and fearing death and old age, Ar-Pharazôn built a great armada to make war upon the Valar and seize the Undying Lands. The Valar displayed warnings to the Men of Westernesse in the form of clouds shaped like huge eagles, but they paid no heed to these manifestations.<ref name="akallabeth" /> In {{SA|3319}} Ar-Pharazôn landed on the shores of Aman.<ref name="APSA" />
+
+Fearing that the Númenórean army could wreak havoc in [[Valinor]],<ref>{{L|131}}</ref> but forbidden from killing or otherwise using force against Men,<ref>{{L|156}}</ref><ref>{{MR|P4k}}, p. 350</ref> the Valar called upon Eru Ilúvatar for assistance. He broke and changed the world, taking Aman and Tol Eressëa from the world forever, and changing the world's shape from flat to round. The massive fleet was consumed when Ilúvatar opened up a chasm in the sea. Númenor, likewise, was covered by great waves and sank into the abyss, killing its inhabitants, including the body of Sauron who remained behind and now was robbed of his ability to assume fair and charming forms.<ref name="akallabeth" />
+
+[[Elendil]], son of the [[Amandil|leader]] of the Faithful during the reign of Ar-Pharazôn, his sons and his followers had foreseen the disaster that was to befall Númenor, and they had set sail in nine ships before the island fell. They landed in Middle-earth, gathered the Númenórean and indigenous peoples living there, and founded the kingdoms of [[Arnor]] and [[Gondor]].<ref name="akallabeth" />
+
+After its fall Númenor was called ''Atalantë'', meaning "the Downfallen", in the [[Quenya]] language. Other names after the Downfall include ''Mar-nu-Falmar'' ("Land under the Waves") and ''[[Akallabêth]]'' ("the Downfallen" in Adûnaic).
+
+The story of the rise and downfall of Númenor is told in ''[[Akallabêth]]''.
+
+==Politics==
+Númenor was a monarchy. The King held the power of decision over the affairs of the state. However, there was an advisory body, the [[Council of the Sceptre]], which consisted of the Heir of the King and lords from the six regions of Númenor: [[Forostar]] (''Northlands''), [[Andustar]] (''Westlands''), [[Hyarnustar]] (''Southwestlands''), [[Hyarrostar]] (''Southeastlands''), [[Orrostar]] (''Eastlands'') and [[Mittalmar]] (''Inlands'').
+
+There were two main political parties: Elendili, the [[Faithful]], led by the Lords of Andúnië, always loyal to the Elves. In the later years, they were a small group, oppressed by the opposing [[King's Men]] who rebelled against the Valar and their ban, and set dominions among the Men of Middle-earth and laid heavy tribute upon them. As their number and power increased, the King's Men forced the Elendili to move from [[Andúnië]] to the eastern side of the island, at [[Rómenna]]. [[Pelargir]] was a harbour built where the river [[Sirith]] met [[Anduin]] and it was founded by the Faithful in {{SA|2350}}.
+
+Respected as a law was the [[Ban of the Valar]], which stated that Númenóreans should never sail West more than the limit of their sight when looking after their shores. As the fear of death filled more and more the hearts of the Númenóreans, they sailed further away from the island, until finally the last king, Ar-Pharazôn, broke the Ban in his attempt to reach [[Tol Eressëa]] out of the false belief that dwelling in Aman granted immortality.  
+
+===Rulership===
+{{main|House of Elros}}
+Númenóreans from the [[Line of Elros]] had the right to inherit the [[Sceptre]] and thus become Rulers of Númenor. In total 25 [[King of Númenor|Kings]] and [[Ruling Queen of Númenor|Queens]] ruled Númenor.<ref name="Line" /> While the Númenóreans lived around 200 years, for many generations the descendants of Elros had a double life span of 400 years, but their life span decreased after the shadow fell on Númenor.<ref>{{UT|5a}}, note 1</ref>
+
+Of great importance was the [[Law of Succession in Númenor]] which established the heir to the throne. It started as an inherited custom, which gave exclusive rights to the male descendants of Elros.<ref>{{UT|Wife}}, ''The Further Course of the Narrative''</ref> Tar-Aldarion, the sixth ruler of Númenor, only had one daughter and replaced the principle of exclusive male heir with that of eldest progeny, of any gender. in {{SA|1075}} [[Tar-Ancalimë]] became the first ruling queen in the history of Númenor.<ref name="Aldarion">{{UT|Kings}}, entry VI ''Tar-Aldarion''</ref>
+
+Númenórean Kings and Queens influenced their era in various ways:
+
+*[[Tar-Aldarion]], a great mariner, shipbuilder and explorer of Middle-earth<ref name="Aldarion" /> who established the haven of [[Vinyalonde]]
+*[[Tar-Ancalimë]], the first Ruling Queen of Númenor who neglected all her father's policies after his death<ref>{{UT|Kings}}, entry VII ''Tar-Ancalimë''</ref>
+*[[Tar-Minastir]], sent a fleet that helped the Elves to defeat [[Sauron]]<ref name="CGC" /><ref>{{App|SA}}, entry for the year 1700, p. 1083</ref><ref>{{UT|Kings}}, entry XI ''Tar-Minastir''</ref><ref>{{UT|5a}}, Note 9</ref><ref>{{NM|P3xviii}}, p. 370</ref>
+*[[Ar-Adûnakhôr]], banned the speaking of Quenya and severed relationships with the Eldar<ref>{{UT|Kings}}, entry XX ''Ar-Adûnakhôr (Tar-Herunúmen)''</ref>
+*[[Ar-Pharazôn]], last in the line of rulers, whose ursurping of the kingship led directly to the [[Akallabêth|Downfall of Númenor]]<ref>{{UT|Kings}}, entry XXIV ''Tar-Palantir (Ar-Inziladûn), second paragraph''</ref><ref>{{UT|Kings}}, entry XXV ''Ar-Pharazôn (Tar-Calion)''</ref>
+
+===Lords of Andúnië===
+{{Main|Lords of Andúnië}}
+During the time of princess [[Silmariën]], the law of [http://en.wikipedia.org/wiki/Agnatic_primogeniture agnatic primogeniture] existed. She could not succeed her father as his eldest child, and her [[Tar-Meneldur|brother]] took up the [[Sceptre]]. In her honour was created the title "[[Lords of Andúnië]]", which was set upon her first son, [[Valandil (Lord of Andúnië)|Valandil]], and his 18 descendants; the last one was [[Amandil]], father of [[Elendil]]. During the dark times of Númenor, the Lords were renowned for their friendship with the Eldar, and leaders of the [[Elendili]].
+The Númenóreans were extremely skilled in arts and craft, with the forging of weapons and armour; although they were a peaceful people, their weapons, armour, and horse-riding skills could not be contested anywhere else in [[Arda]], save by the [[Valar]]. But the Númenóreans were not warmongers; hence, the chief art on the island became that of ship-building and sea-craft. The Númenóreans became great mariners, exploring the world in all directions save for the west, where the [[Ban of the Valar]] was in force. They often travelled to the shores of Middle-earth, teaching the men there crafts, and introducing farming in order to improve their lives.
+
+==Culture==
+[[File:Matěj Čadil - A Royal Wedding in Numenor.jpg|thumb|''A Royal Wedding in Númenor'' by [[Matěj Čadil]]]]
+{{main|Númenóreans}}
+The fleet of Elros initially brought probably between 5,000 to 10,000 Edain to Númenor. After a migration period that lasted at least 50 years, between 200,000 and 350,000 Edain had emigrated to Númenor. After a thousand years the population seemed to have slightly exceeded 2 million people. The population may have reached 15 million people before the Downfall of Númenor.<ref>{{NM|P3xiii|}}, p. 339</ref> They were known as the Númenóreans, or rather, ''Kings among Men''.
+
+The population of Númenor chiefly consisted of [[Edain]], mostly descendants from the [[House of Hador]]; however, before the Shadow fell on the island, the westernmost cities such as [[Andúnië]] contained a small population of [[Elves]]{{fact}} because of the frequent visits from Tol Eressëa. 
+
+There were also a small number of [[Drúedain]] living in Númenor, who, considered to be Edain, accompanied their friends of the [[House of Haleth]] to Númenor. They were few in number and dreaded the sea. They became uneasy when [[Tar-Aldarion]] started his great travels and urged him not to go, seeing the mischief to come. They did not succeed in deterring him, and one after another they took ships towards Middle-earth, saying that, "the Great Isle no longer feels sure under our feet, and we wish to return to the lands whence we came". The last of them left when Sauron was brought to Númenor.
+
+==Etymology==
+''Númenor'' is a shortened form of the [[Quenya]] name ''Númenórë'', which can be translated as '<nowiki/>'''Westernesse'<nowiki/>''' or '<nowiki/>'''Westland''''.<ref>{{S|Index}}</ref> The name is a compound of [[númen|''nūme-n'']] "going down" (from the [[Sundocarme|root]] √ndū, nū), sunset, West, and [[nóre|''nōre'']] "land, country".<ref>{{L|227}}</ref><ref>{{webcite|author=[[Carl F. Hostetter]]|articleurl=https://web.archive.org/web/20160330024158/http://groups.yahoo.com/neo/groups/lambengolmor/conversations/messages/1144 |articlename=Holograph MS of Letter 227, correcting published etymology of "Númenor" (#1144)|dated=15 December 2013|website=Lambe|accessed=13 June 2022}}</ref>
+
+==Other names==
+The land most commonly referred to as ''Númenor'' (Westernesse, Westland) had a variety of other names:
+*''[[Anadûnê]]'', "Westernesse" in [[Adûnaic]].<ref>{{S|Index}}, entry ''Anadûnê''</ref>
+*''[[Andor]]'', "[[Land of Gift|The Land of Gift]]" in [[Quenya]].<ref>{{S|Index}}, entry ''Andor''</ref>
+*''[[Elenna]]'', "Starwards" in Quenya.<ref>{{S|Index}}, entry ''Elenna''</ref>
+*''Elenna-nórë'', "The land named Starwards" in Quenya.<ref>{{UT|Index}}, entry ''* Elenna-nórë''</ref>
+*''[[Yôzâyan]]'', "The Land of Gift" in Adûnaic.<ref>{{UT|Index}}, entry ''* Yôzâyan''</ref>
+*''Great Isle'', name used by the [[Drúedain]]<ref>{{UT|12c}}, note 7</ref>
+*''The Land of the Star''<ref>{{S|Index}}, entry ''Land of the Star''</ref>
+and after its downfall:
+*''[[Akallabêth]]'', "The Downfallen" in Adûnaic.<ref>{{S|Index}}, entry ''Akallabêth''</ref><ref>{{UT|Index}}, entry ''Akallabêth''</ref>
+*''[[Atalantë]]'', "The Downfallen" in Quenya.<ref>{{S|Index}}, entry ''Atalantë''</ref>
+*''[[Mar-nu-Falmar]]'', "The Land under the Waves" in [[Sindarin]].<ref>{{S|Index}}, entry ''Mar-nu-Falmar''</ref>
+
+==Inspiration==
+Númenor is an alteration of the [[Wikipedia:Atlantis|Atlantis]] mythos in Tolkien's legendarium.<ref name="L276">{{L|276}}, sixth paragraph</ref><ref>{{L|227}}, first paragraph</ref><ref>{{L|294}}, twelfth section of the commentary on the draft text</ref> Notably, he referred to a recurring "[[Atlantis-haunting|Atlantis dream]]" he had.<ref name="L276" /><ref>{{L|163}}, fifth paragraph</ref><ref>{{L|257}}, eighth paragraph</ref> The connection is more evident in the name ''[[Atalantë]]'', another epithet of the Island which in [[Quenya]] means "the downfallen" (note that in Greek, ''Atlantis'' is related to [[Wikipedia:Atlas|Atlas]]; therefore ''Atalantë'' has no direct connection. In fact, Tolkien, upon realising the similarity, described it as a "curious chance"<ref>{{L|257|1}}</ref>).
+
+[[wikipedia:Plato|Plato]], the ancient Greek philosopher, recounted the story of Atlantis. According to him, Atlantis was in the middle of the ocean in the West (cf. [[Belegaer|Great Sea]]), its people were more advanced than those of the known world (cf. [[Kings of Men]]) but were corrupted by arrogance; the continent was destroyed by the gods and survivors created colonies, as in Egypt (cf. [[Realms in Exile]]). Also according to Plato, the centre of Atlantis was occupied by a high mountain-palace (cf. [[Meneltarma]]) around which a city of three circles was built, quite different from the star-shaped island of Númenor. Another element with both common and different points between the two stories is that Númenor sank when the fleet was attacking the West, while Atlantis sank during a sea-battle with the Athenians in the east.
+
+Some parts of Númenor's history seem to have been inspired not only by Plato but also by researchers and occultists whose theories were widespread during Tolkien's time.
+
+Ignatius Loyola Donnelly and Edgar Cayce were the most famous authors regarding Atlantis and mentioned events and concepts that Plato never did. One of those "original" elements told by modern authors and mystics was a civil war between two factions of Atlanteans (good and evil)<ref>http://en.wikipedia.org/wiki/Root_race#The_civilization_of_Atlantis</ref> which is similar to the persecution of the [[Elf-friends]] by the [[King's Men]].
+
+According to those theories, remnants of Atlantean civilization survived by colonists or survivors in Egypt (and in Pre-Columbian America), which mirrors the [[Realms in Exile]] founded by the Faithful. Tolkien once wrote that the Númenóreans of Gondor resembled the love of, and ability to make gigantic and massive constructions and the great interest in ancestry and tombs of the ancient Egyptians.<ref>{{L|211}}, Question 4</ref>
+
+==Portrayal in adaptations==
+[[C.S. Lewis]]' misspelled<ref name="letter">[[C.S. Lewis]], ''[[The Collected Letters of C.S. Lewis]], Volume 3: Narnia, Cambridge, and Joy'', "To William L. Kinter (BOD)", beginning of the third paragraph</ref> '''Numinor''' in his poem ''The End of the Wine'',<ref name="poem">{{webcite|author=Tolkien Collector's Guide|articleurl=https://www.tolkienguide.com/guide/letters/2367?q=filter%3Aall_letters+order%3Aadded|articlename=TCG Letter #2367|dated=3 October 1963|website=[https://www.tolkienguide.com/ Tolkien Collector's Guide]}}</ref> and makes reference to "Numinor and the [[Undying Lands|True West]]" in his [[1945]] novel ''[[The Space Trilogy|That Hideous Strength]]'' which Lewis credits as a then-unpublished [[The Lost Road|creation]] of [[J.R.R. Tolkien]].<ref name="Preface">[[C.S. Lewis]], ''[[The Space Trilogy|That Hideous Strength]]'', "Preface"</ref> This is one of many examples of cross-overs between the novels of Lewis and Tolkien, both of whom were members of the [[Inklings]], a literary discussion group at [[Oxford University]]. The misspelling<ref name="letter"/> came from Lewis's only hearing Tolkien say the name in one of his readings.<ref>{{LE|131}}</ref><ref>{{LE|169}}</ref><ref>{{LE|221}}</ref><ref>{{LE|276}}</ref>
+
+The world of [http://narnia.wikia.com/wiki/Charn Charn] from Lewis' ''[[The Chronicles of Narnia]]'' series bears some similarities with Númenor: both Númenor and Charn were initially ruled by wise and benevolent rulers who later became corrupted, cruel and evil, culminating with their respective final rulers ([[Ar-Pharazôn]] for Númenor; the White Witch [http://narnia.wikia.com/wiki/Jadis Jadis] for Charn) causing the destruction of both realms.
+
+:'''2022: ''[[The Lord of the Rings: The Rings of Power]]'', Season One:'''
+:The Númenórean architecture was designed to convey the nature of the Númenórean people.<ref name="VFFeb2022">{{webcite|author=Anthony Breznican, Joanna Robinson|articleurl=https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look|articlename=Amazon's Lord of the Rings Series Rises: Inside The Rings of Power|dated=10 February 2022|website=Vanity Fair}}</ref><ref name="May2022ScreeningTOR3">{{webcite|author=|articleurl=https://www.theonering.net/torwp/2022/06/10/113318-showrunners-and-john-howe-reveal-more-of-rings-of-power/|articlename=Showrunners and John Howe reveal more of Rings of Power|dated=10 June 2022|website=[[TheOneRing.net]]}}</ref> The set of the city is described as "an entire seaside city" with buildings, alleyways, shrines, graffiti, and a ship docked at the harbour.<ref name="EWNumenorJul2022">{{webcite|author=Devan Coggan|articleurl=https://ew.com/tv/lord-of-the-rings-the-rings-of-power-numenor-first-look/|articlename=Get an exclusive look at 'The Lord of the Rings: The Rings of Power'|dated=13 July 2022|website=Entertainment Weekly}}</ref> [[Ramsey Avery]], the production designer, based Númenor's "looming marble structures" on Ancient Greece and Venice, while he used a blue colour to reflect an emphasis on water and sailing.<ref name="EWAveryJul2022">{{webcite|author=Devan Coggan|articleurl=https://ew.com/tv/lord-of-the-rings-the-rings-of-power-production-design/|articlename=How 'The Lord of the Rings: The Rings of Power' crafted a new (old) Middle-earth|dated=19 July 2022|website=Entertainment Weekly}}</ref>
+
+==See also==
+*[[King of Númenor]]
+*[[Númenóreans]]
+
+==External links==
+*[http://sdgeard.customer.netspace.net.au/hccnum.html A History and Complete Chronology of Númenor] - A detailed chronology of Númenor, its successor states and their rulers.
+*[http://www.jrrvf.com/hisweloke/site3/articles.php?lng=fr&pg=38 Article] concerning the position of Numenor.
+
+{{references}}
+{{numenor}}
+{{numenorkings}}
+
+{{DEFAULTSORT:Numenor}}
+[[Category:Islands]]
+[[Category:Númenor| ]]
+[[Category:Quenya locations]]
+
+[[de:Númenor]]
+[[fi:Númenor]]
+[[fr:encyclo/geographie/eaux/iles/numenor]]

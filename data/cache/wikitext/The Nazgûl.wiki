@@ -1,0 +1,38 @@
+{{disambig-two|the soundtrack|actual Black Riders|[[Nazgûl]]}}
+{{song
+| title=The Nazgûl
+| album=[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg
+| duration=6:04
+| track=Disc 1 Track 14
+| previous=[[Strider (soundtrack)|Strider]]
+| next=[[Weathertop (soundtrack)|Weathertop]]
+| spotify=https://open.spotify.com/track/1iYCMjIx93xfKSL4gzZBfX
+}}
+'''The Nazgûl''' is the fourteenth track of disc one of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]'' by [[Howard Shore]].
+
+==Lyrics==
+<poem>
+[00:55]  Bârî
+[00:57] 'n Katharâd
+[01:00] Îdô
+[01:03] Nidir
+[01:06] nênâ
+[01:08] kham Nêd a
+[01:11] bârat
+[01:14] aglar
+
+[04:36] Tinúviel
+[04:41] elvanui
+[04:45] Elleth alfirin
+[04:49] edhelhael
+[04:53] O hon ring
+[04:56] finnil fuinui
+[05:01] A renc gelebrin
+[05:05] thiliol
+</poem>
+
+{{DEFAULTSORT:1.14}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

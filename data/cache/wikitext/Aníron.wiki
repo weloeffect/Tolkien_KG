@@ -1,0 +1,21 @@
+{{song
+| title=Aníron
+| album=[[Wikipedia:The Very Best of Enya|The Very Best of Enya]]
+| composer=[[Enya]], [[Wikipedia:Nicky Ryan|Nicky Ryan]], [[Wikipedia:Roma Ryan|Roma Ryan]]
+| performer=Enya
+| image=The_Very_Best_of_Enya.jpg
+| duration=2:42
+| track=2 or 21
+| previous=
+| next=
+| spotify=https://open.spotify.com/track/0vDwe7rbzdVeGsfelTTrG5
+}}
+'''Aníron''' is a song composed and sung by [[Enya]] for the soundtrack of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' film. The [[Sindarin]] lyrics were written by longtime Enya collaborator [[wikipedia:Roma Ryan|Roma Ryan]]. The song, which translates to "I desire," is used as the theme of [[Aragorn]] and [[Arwen]].<ref name="AnnotatedScore">[[Doug Adams]] ([[2006]]), ''The Annotated Score (Part I: The Fellowship of the Ring)'', pp. 8, 18</ref>
+
+It's featured in the tenth track, "[[The Council Of Elrond (soundtrack)|The Council of Elrond]]", of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' and in the seventh track of the second disc, "[[The Council of Elrond Assembles]]", of ''[[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]''.
+
+On November 23, 2009, Enya released her second greatist hits album ''[[wikipedia:The Very Best of Enya|The Very Best of Enya]]'', which featured a newly produced and extended version of the song, titled on some editions of the album as "Aníron (I Desire)", or subtitled as the "Theme for Aragorn and Arwen," or both. The edition is longer with additional lyrics that were not used in the film or its released soundtracks.<ref>{{webcite|author=SilentRebel83|articleurl=https://lyricstranslate.com/en/aniron-i-desire.html|articlename=Aníron (I Desire)|dated=4 August 2010|website=LyricsTranslate.com|accessed=14 July 2024}}</ref>
+
+{{references}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings]]

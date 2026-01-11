@@ -1,0 +1,34 @@
+{{plant infobox
+| name=Pine of Tavrobel
+| image=
+| caption=
+| pronun=
+| othernames=''Pine of Belaurin''<ref>{{LT2|Index}}, p. 377</ref>
+| location=[[Tavrobel]] ([[Tol Eressëa]])
+| notablefor=Chasing of [[Melko]] by [[Telimektar]] and [[Ingil]]
+| family=
+| appearance=Tall enough to reach [[Ilwë]]
+| gallery=the Pine of Tavrobel
+}}
+The '''Pine of Tavrobel''' was a great, star-reaching [[Pines|pine]] located in [[Tol Eressëa]], according to the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.<ref name="Pine">{{LT2|VI}}, pp. 281-2</ref>
+
+== History ==
+In one of the outlines for the continuation of the ''Lost Tales'', it is said that before the [[Inwir]] left [[Valinor]] for the [[Great Lands]] to free the enslaved [[Gnomes]], [[Yavanna]] gave them a seed to guard, for she foretold that great things should come of it - however, it was eventually forgotten and cast into the garden of [[Gilfanon]] in [[Tavrobel]]. There it grew to an incredible height, even reaching [[Ilwë]] (the part of air in which the stars are located<ref>{{LT1|III}}, p. 65</ref>).<ref name="Pine"/>
+
+When [[Melko]] broke free of his second imprisonment, he went to Tol Eressëa in order to sow dissension between the Gnomes and the [[Solosimpi]], who sent for help to [[Valinor]]. However, the only aid that came from the [[Valar]] was that of [[Tulkas]] who in secret has sent his son [[Telimektar]] to Tol Eressëa to aid them.<ref name="Pine"/>
+
+There, Telimektar, with the help of [[Ingil]]<ref group="note">In ''[[The Cottage of Lost Play]]'', it is said that Ingil eventually returned to Valinor, which seems to represent a different, distinct idea from the one mentioned above.</ref><ref>{{LT2|VI}}, p. 282</ref> son of [[Inwë]], surprised Melko and wounded him, and chased him up the Pine of Tavrobel all the way to Ilwë. However, Melko kept attacking the [[Sun]] and the [[stars]], and in the end caused the death of [[Urwendi]] the steerer of the Sun-vessel.<ref name="Pine"/>
+
+Finally, the Valar decided to cut down the great Pine, which left Melko stranded out of the world until his return in the [[Great End]].<ref name="Pine"/>
+
+== Other versions of the legendarium ==
+In one note associated with the outline given above, [[Tolkien]] suggested that perhaps the Pine should be located somewhere other than Tol Eressëa.<ref>{{LT2|VI}}, Note 4, p. 328</ref>
+
+According to the slightly later conception of the [[legendarium]], in which the context of the ''Lost Tales'' is shifted so that Tol Eressëa is no longer identified with (what would become) the British Isles, there is a mention of the '''Pine of Belawryn''', whose offspring still grows in [[Tavrobel the Old]] in [[Luthany]], after which the Tavrobel in Tol Eressëa was named after.<ref>{{LT2|VI}}, p. 310</ref>
+
+{{references|notes}}
+{{DEFAULTSORT:Pine of Tavrobel}}
+[[Category:Luthany]]
+[[Category:Tol Eressëa]]
+[[Category:Trees]]
+[[de:Kiefer von Tavrobel]]

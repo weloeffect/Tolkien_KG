@@ -1,0 +1,30 @@
+{{location infobox
+| name=Adurant
+| image=Christopher Tolkien - Ossiriand.jpg
+| caption=
+| pronun=
+| othernames=
+| location=[[Beleriand]], [[Ossiriand]]
+| type=River
+| description=Southernmost of the seven rivers of Ossiriand
+| regions=Island: [[Tol Galen]]
+| towns=
+| inhabitants=[[Laiquendi]]; [[Beren]], [[Lúthien]], [[Dior]]
+| created=
+| destroyed=
+| events=
+}}
+The river '''Adurant''' was the southernmost of the seven rivers of [[Ossiriand]] marking its southern boundary.  It ran from the southern [[Ered Luin]] into the river [[Gelion]], marking the southern boundary of [[Ossiriand]]. Halfway along its course the river divided and later rejoined, forming the island of [[Tol Galen]].<ref>{{S|Map}}</ref>
+
+==Etymology==
+The name means "Doublestream" in [[Sindarin]],<ref>{{S|Index}}, entry "Adurant"</ref> from ''[[adu]]'' ("double") + ''[[rant]]'' ("course"), referring to a parting of the river about the isle of Tol Galen.<ref>{{S|Appendix}}, entry ''[[rant]]''</ref>
+
+{{references}}
+{{ossiriandrivers}}
+[[Category:Ilkorin locations]]
+[[Category:Rivers of Beleriand]]
+[[Category:Sindarin locations]]
+
+[[de:Adurant]]
+[[fi:Adurant]]
+[[fr:encyclo/geographie/eaux/beleriand/adurant]]

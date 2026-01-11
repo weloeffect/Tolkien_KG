@@ -1,0 +1,21 @@
+{{actor
+| image =
+| name = Alan Howard
+| lifetime = [[5 August]]  [[1937]] - [[14 February]] [[2015]]
+| played = [[Sauron]] (voice),<br>[[The One Ring]] (voice)
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''<br>''[[The Lord of the Rings: The Return of the King]]''
+| imdb = [https://imdb.com/name/nm0397102/ Profile]
+}}
+'''Alan Howard''' was an English actor. He was the voice for both [[Sauron]] and his [[One Ring]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''.
+
+==External links==
+* {{WP|Alan Howard (actor)|Alan Howard}}
+
+{{DEFAULTSORT:Howard, Alan}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Alan Howard]]
+[[fi:Alan Howard]]

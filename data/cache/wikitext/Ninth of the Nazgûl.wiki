@@ -1,0 +1,99 @@
+{{Adaptation}}
+{{Infoboxes
+|label1 = Iron Crown Enterprises
+|content1 = {{infobox character
+| name=Ûvatha
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=Liz Danforth - Ûvatha the Horseman.jpeg
+| caption=''“Ûvatha the Horseman”'' by [[Liz Danforth]]
+| pronun=
+| othernames=the Horseman<br>the Slayer<br>the Long Rider
+| titles=King of Khand<br>Lord of the Variags
+| position=Ninth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth={{SA|1970}}
+| birthlocation=Caves of Ôlbamarl
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=5 ft 11 in<ref name=ICE>{{ICE|8003}}, pp. 96-98</ref>
+| hair=Black<ref name=ICE/>
+| eyes=Reddish brown<ref name=ICE/>
+| clothing=Red and black garb<br>Bat-shaped helmet<ref name=ICE/>
+| weapons=[[Morgul-knife]]<br>Horse-tamer<br>Stormless Bow
+| steed=Black horse
+}}
+|label2 = Decipher
+|content2 = {{infobox character
+| name=Úlairë Nertëa
+| people=[[Men|Man]] (early)<br/>[[Wraiths|Wraith]] (later)
+| image=The Lord of the Rings - The Fellowship of the Ring - Ringwraiths.jpg
+| caption=
+| pronun=
+| othernames=Black Horseman
+| titles=
+| position=Ninth of the [[Nazgûl]]
+| location=
+| affiliation=[[Nazgûl]]<br>[[Eye of Sauron]]
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=[[25 March]] {{TA|3019}}
+| deathlocation=[[Morannon]]
+| age=
+| notablefor=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=Black horse
+}}
+}}
+The '''Ninth of the [[Nazgûl]]''' was never differentiated in Tolkien's works, but several adaptations did attribute individual traits to this specific Nazgûl. 
+
+[[Iron Crown Enterprises]] constructed an elaborate non-[[canon]]ical backstory for [[Middle-earth Role Playing]], identifying the character as ''Ûvatha the Horseman'', a backstory which was also used in the [[Middle-earth Collectible Card Game]].<ref name=ICE/><ref>{{ICE|3340}}, p. 39</ref>
+
+[[Decipher]], for their [[The Lord of the Rings Trading Card Game|Trading Card Game]], instead limited this individualization to naming the character ''[[Nazgûl#Other_names|Úlairë]] Nertëa'' ([[Quenya|Q.]] Ninth Nazgûl), and assigning the epithet of ''Black Horseman''.<ref>{{LOTRTCGW|Ulaire Nertea, Black Horseman (12C178)|18 August 2025}}</ref>
+
+While some other adaptations also individualized the Nine, none are known to have assigned specific numbers.
+==Backstory in Middle-earth Role Playing==
+'''Uvatha''' was born as Ûvathar Achef in {{SA|1970}} to a [[Variags|Variag]] prince from [[Khand]] who lived a nomadic life in exile. He was a skilled horseman and warrior from a young age.
+
+In {{SA|1988}}, Ûvatha's charge at the Battle of Noz Peka (Knife River) helped restore his family to the throne of Upper Khand. When his father Kîonid died, his uncle Mîonid took the throne and ordered Ûvatha's execution. Ûvatha escaped and earned the support of the king of Lower Khand, who made him warlord of his army in {{SA|1999}}. The following year, Ûvatha deposed his king and conquered his uncle's domain, uniting Khand for the first time in recorded history. In {{SA|2002}}, he accepted a [[Rings of Power|Ring of Power]] from [[Sauron]], becoming the ninth to fall under Sauron's sway.
+
+For the next 1260 years, Ûvatha's people became one of Sauron's most brutal and effective tools of conquest. They extended the Shadow to the north and south of their plateau kingdom, vying with the [[Númenóreans]] for influence in [[Harad]]. Ûvatha and his warriors also fought alongside the warriors of Ren the Unclean, leading to the Chey conquest of the Khargagis Ahar.
+
+His reign was interrupted in {{SA|3262}} when [[Ar-Pharazôn]] invaded and captured Sauron. Ûvatha hid in his secret hold in his birthplace of Ôlbamarl, in the mountains of northern Khand, only to emerge after the [[Downfall of Númenor]]. He acted as Sauron's messenger, and passed into shadows as Sauron was overthrown in the [[War of the Last Alliance]].
+
+Ûvatha reappeared around {{TA|1050}}, returning to Ôlbamarl. Fifty years later, he killed the current king and crowned himself King of the Variags, beginning a 540-year reign of terror. His empire expanded rapidly across northeastern Harad and southern Rhûn. When he left for Mordor in {{TA|1640}} to prepare for Sauron's return, his kingdom declined.
+
+Ûvatha returned to Khand in {{TA|1854}}, contributing to a chain of events that led to the first major Easterling migration into Rhovanion.  This included the [[Wainriders]], who had pushed into Rhovanion and fought [[Gondor]] for over 40 years. This plot allowed Sauron to weaken the kingdom without revealing his presence. Ûvatha returned to Mordor in {{TA|1940}}, leaving his kingdom vulnerable to a new threat from the east. He joined the other Nazgûl in the attack on [[Minas Morgul|Minas Ithil]] in {{TA|2000}}, returning to Khand two years later to begin his final reign as king.
+
+In {{TA|2951}}, Uvatha and two other Ringwraiths, [[Khamûl]] and [[Seventh of the Nazgûl|Adûnâphel]], flew to [[Dol Guldur]] to reopen the citadel. Ûvatha served as a messenger between Dol Guldur and Mordor, coordinating the mobilization of Sauron's armies.
+
+During the [[War of the Ring]], Ûvatha rode with the Black Riders in search of the One Ring. After their defeat at the [[Bruinen]], he returned to Dol Guldur, where he took up a Fell Beast and resumed his role as a messenger. He then fought at the [[Battle of the Morannon]], where he perished with Sauron's defeat.<ref name=ICE/>
+==Weaponry in Middle-earth Role Playing==
+Beyond a [[Morgul-knife]], the Ringwraith is noted to have possessed the following weapons:
+* '''Horse-tamer''': Reddish narig-wooden lance.<ref>{{ICE|2010}},  p. 34</ref>
+* '''Stormless Bow''': Short bow inlaid with gold.<ref>{{ICE|2010}},  p. 44</ref>
+{{References}}
+{{Nazgûl in adaptations}} 
+{{DEFAULTSORT:Nazgûl 9}}
+[[Category:Undead from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

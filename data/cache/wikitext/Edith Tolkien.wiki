@@ -1,0 +1,48 @@
+{{short description|Wife of J.R.R. Tolkien}}
+{{person infobox
+| image = Edith Bratt (colorized).jpg
+| name=Edith Tolkien
+| born=[[January 21]], [[1889]]
+| died=[[November 29]], [[1971]]
+| education=
+| occupation=
+| location=
+| website=
+}}
+{{quote|...only the rarest good fortune brings together the man and woman who are really as it were 'destined' for one another, and capable of a very great and splendid love.|[[J.R.R. Tolkien]] to his son [[Michael Tolkien|Michael]] in [[Letter 43]]}}
+'''Edith Mary Tolkien''' (née '''Bratt''') ([[21 January|January 21]], [[1889]] – [[29 November|November 29]], [[1971]]) was the daughter of Frances Bratt and Alfred Frederick Warrilow. She would become [[J.R.R. Tolkien]]'s wife. 
+==Biography==
+Edith never knew her father and was brought up in [[Birmingham]] by her mother, and cousin Jenny Grove. Francis Bratt died when Edith was 14 and she was sent to the Dresden House, a boarding school where she developed a love for piano and soon moved into a boarding house.<ref name=ple>{{B|II}}, "‘Private Lang.’ – And Edith"</ref>
+
+When Tolkien was living at [[37 Duchess Road]], [[Birmingham|Edgbaston]], Edith was a young female lodger who lived in the bedroom beneath Tolkien and his brother Hilary. At the time Tolkien was 16 and Edith was 19. They quickly became close but when Tolkien's guardian [[Francis Xavier Morgan]] found out he forbade contact between them until Tolkien turned 21. During their years apart she got engaged to George Field but when Tolkien sent her a letter on the evening of his twenty-first birthday she broke off her engagement to Field and announced her engagement to Tolkien. Following her engagement she converted to Roman Catholicism.<ref name=ple/>
+
+They were married on Wednesday, [[22 March]], [[1916]] in the Church of St Mary Immaculate, in Warwickshire, England. Only a few months later Tolkien was shipped to Étaples, France.<ref>[[John Garth]], ''[[Tolkien and the Great War]]''</ref> Her Husband being in the military during [[WWI]] was a very stressful time in her life. She kept a map of France on the wall to help her know where he was. After his return their first child [[John Tolkien]] was born on [[16 November]] [[1917]]
+
+While stationed at Kingston upon Hull, Ronald and Edith went on a walk through the woods and she danced for him. He later tells an interviewer [[Bill Cater]], "We walked in a wood where hemlock was growing, a sea of white flowers." This inspired the meeting of [[Beren]] and [[Lúthien]].<ref>{{webcite|author=[[Bill Cater]]|articleurl=https://www.telegraph.co.uk/culture/4726863/We-talked-of-love-death-and-fairy-tales.html|articlename=We talked of love, death and fairy tales|dated=4 December 2001|website=|accessed=13 January 2024}}</ref> After the war the Tolkiens had 3 more children, [[Michael Tolkien|Michael]], [[Christopher Tolkien|Christopher]] and [[Priscilla Tolkien|Priscilla]].
+
+In the 1960s they moved near [[Bournemouth]]. Her grandson, [[Simon Tolkien]] writes:
+[[File:Tolkiengrave.jpg|thumb|The grave of J.R.R. and Edith Tolkien|200px]]
+{{blockquote|Bournemouth was certainly not My Grandfather's first choice of place to live, and I'm sure he missed Oxford. However, my grandmother loved the Miramar, and My Grandfather wanted to make her happy in the last years of their lives.<ref>{{webcite|author=[[Simon Tolkien]]|articleurl=https://www.simontolkien.com/mygrandfather|articlename=My Grandfather - JRR Tolkien|dated=2003|website=simontolkien.com|accessed=11 January 2024}}</ref>}}
+Edith Tolkien died on [[29 November]] [[1971]] at the age of 82 and was buried in [[Wikipedia:Wolvercote Cemetery|Wolvercote Cemetery]]. J.R.R. Tolkien never referred to Edith as ''Lúthien'', but he considered her as such, so he asked that the name Lúthien be inscribed on her grave.<ref>{{L|340}}</ref> When he died 21 months later he was buried with her and had ''Beren'' inscribed on the gravestone.<ref>{{B|VII}}</ref>
+
+In the biographical drama film, named [[Tolkien (film)|Tolkien]], she was portrayed by actresses [[Lily Collins]] and Mimi Keene.
+
+==Family Tree==
+{{familytree/start}}
+{{familytree| | | | | | | | | | | EDB |y| JRR | | | | | | | | | | | |JRR=[[J.R.R. Tolkien]]|EDB=Edith Bratt}}
+{{familytree| |,|-|-|-|v|-|-|-|-|-|-|-|+|-|-|-|-|-|-|-|.| |}}
+{{familytree| JOT | | MIT | | FAI |y|CHT |y| BAT | | PRT |JOT=[[John Tolkien]]|MIT=[[Michael Tolkien]]|CHT=[[Christopher Tolkien]]|FAI=[[Faith Tolkien|Faith Faulconbridge]]|BAT=[[Baillie Tolkien]]|PRT=[[Priscilla Tolkien]]}}
+{{familytree| | | | | | | | |,|-|-|'| |,|-|^|-|.| |}}
+{{familytree| | | | | | | | SIT | | | ADT | | RAT |SIT=[[Simon Tolkien]]|ADT=[[Adam Tolkien]]|RAT=[[Rachel Tolkien]]}}
+{{familytree/end}}
+==See also==
+*[[Earissë]], also called Edith.
+{{references}}
+{{DEFAULTSORT:Tolkien, Edith}}
+[[Category:British people]]
+[[Category:Letter receivers]]
+[[Category:People by name]]
+[[Category:Tolkien Family|Tolkien, Edith]]
+[[de:Edith Tolkien]]
+[[fr:tolkien/portraits/edith bratt tolkien]]
+[[fi:Edith Tolkien]]

@@ -1,0 +1,29 @@
+{{VTbox
+| title=Vinyar Tengwar 10
+| image = Vinyar Tengwar 10.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=March [[1990]]
+| format=Paperback journal
+| pages=24
+}}
+'''''Vinyar Tengwar 10''''' is the tenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|9|11}}
+
+==Contents==
+* Cover: "''I Ngurth Granthira''" ("The Death of Caranthir") — Tom Loback
+* E.L.F. News
+* Letters to ''VT''
+
+* "Standard of Eldarin Typography" — Lawrence Schoen
+* "''Elenaltalantë'': The Fall of Gil-galad" — trans. Jorge Quiñónez and Jean-Marc Rulier
+* "The ''Tengwar'' Text of Lines 3994-4027 of the 'A' Text of '[[The Lay of Leithian]]'" — Donald O'Brien
+* "''Essitalmar'': Finduilas, a Fair Name for a Fair Maiden" (column) — Tom Loback
+* "Transitions in Translations: Sauron’s Portuguese Cohorts" (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 10}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 10]]

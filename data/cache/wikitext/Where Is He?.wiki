@@ -1,0 +1,139 @@
+{{incomplete}}
+{{episode infobox
+| name = Where Is He?
+| image =
+| caption =
+| director = [[Sanaa Hamri]]
+| writer = [[Justin Doble]]
+| screenplay =
+| basedon =
+| producer =
+| starring =
+| narrator =
+| cinematography =
+| editing =
+| music = [[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator =
+| studio = [[Amazon Studios]]
+| distributor =
+| released = [[19 September]] [[2024]]
+| runtime = 65 minutes
+| country =
+| language =
+| budget =
+| gross =
+| website =
+| imdb_id = 27580495
+| previous = [[Halls of Stone]]
+| next = [[Doomed to Die]]
+}}
+
+{{Quote|[[Galadriel]] considers a proposition. [[Elendil]] faces [[Trial by Abyss|judgment]]. [[The Stranger]] finds himself at a crossroads. [[Sauron]]'s plans bear fruit.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Where Is He?''' is the fourteenth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the sixth episode of the second season and it was released on [[19 September|September 19]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Trystan Gravelle]] || [[Ar-Pharazôn]]
+|-
+| [[Lloyd Owen]] || [[Elendil]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Nori Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Ciarán Hinds]] || [[Dark Wizard]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Owain Arthur]] || [[Durin IV|Prince Durin IV]]
+|-
+| [[Sophia Nomvete]] || [[Disa|Princess Disa]]
+|-
+| [[Cynthia Addai-Robinson]] || [[Míriel|Queen Regent Míriel]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Sam Hazeldine]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Rory Kinnear]] || [[Tom Bombadil]]
+|-
+| [[Amelia Kenworthy]] || [[Mirdania]]
+|-
+| [[Will Keen]] || [[Belgazar|Lord Belgazar]]
+|-
+| [[Leon Wadham]] || [[Kemen (The Rings of Power)|Kemen]]
+|-
+| [[Ema Horvath]] || [[Eärien]]
+|-
+| [[Tanya Moodie]] || [[Gundabale Earthauler]]
+|-
+| [[Gavi Singh Chera]] || [[Merimac]]
+|-
+| [[Kevin Eldon]] || [[Narvi]]
+|-
+| [[Josh Dyer]] || [[Orcs|Defector Orc #1]]
+|-
+| [[John Macdonald]] || [[Orcs|Defector Orc #2]]
+|-
+| [[Luke Tumber]] || [[Orcs|Defector Orc #3]]
+|-
+| [[Simon Haines]] || [[Malendol|Commander Malendol]]
+|-
+| [[Arkie Reece]] || [[Kilta]]
+|-
+| [[Theo Spofforth]] || [[Gaudrim|Gaudrim Scout]]
+|-
+| [[Peter Landi]] || [[Marmadas]]
+|-
+| [[Silvia Naval]] || [[Faithful|Faithful Woman]]
+|-
+| [[William Chubb]] || [[High Priest]]
+|-
+| [[Rupert Shelbourne]] || [[Faithful|Faithful Onlooker]]
+|-
+| [[Robert Strange]] || [[Glûg]]
+|-
+| [[Kai Martin]] || [[Zhor]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Peachy]] || [[Mr. Mouse]]
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|14]]

@@ -1,0 +1,23 @@
+{{Disambig-more|Great River|[[Great River (disambiguation)]]}}{{chapter
+| image=Ralph Damiani - Across Middle-earth - The Great River.png
+| title=The Great River
+| book=The Fellowship of the Ring
+| number=21
+| event=The [[Fellowship of the Ring|Company]] journeys down the [[Anduin|River Anduin]].
+| date=[[17 February|17]]-[[25 February]] {{TA|3019|n}}
+| location=The [[Anduin|River Anduin]]
+| previous=Farewell to Lórien
+| next=The Breaking of the Fellowship
+}}
+
+'''The Great River''' is the ninth and penultimate chapter of the second book in ''[[The Fellowship of the Ring]]''.
+
+==Summary==
+The journey by boat down the [[Anduin]] was uneventful for some days. The [[Fellowship of the Ring|Company]] passed through barren lands laid by [[Sauron]] and came across no living things except black swans flying overhead. The company decided for the most part to follow [[Aragorn]] along the path to [[Mordor]] that he had recommended. [[Boromir]] disagreed, wanting to return to his home with the [[The One Ring|Ring]], because of the dream he had had. Aragorn and [[Legolas]] went on ahead to find a safe route past the [[Rauros|Falls of Rauros]]. They returned to tell the company that they must leave the river and go by road for a while.
+==Composition==
+Perhaps Tolkien wrote this narration at the end of [[1941]], being part of a larger chapter titled "''The Scattering of the Company''" before dividing it in two. The passage of time spent by the Company in [[Lothlórien]] fluctuated in Tolkien's mind (unsure whether the [[Time]] proceeded at different pace in the Golden Wood, or had stopped altogether) and considered several time-schemes, reflected to different versions of the conversation among the Fellowship about it.<ref name=rc>{{HM|RC}}</ref>{{rp|p. xxiv}}
+
+It was while writing this portion when Tolkien decided to consult a 1942 calendar to describe the [[moon|lunar]] phases accurately.<ref name=rc/>{{rp|p. xlvi}}
+{{references}}
+[[Category:The Fellowship of the Ring chapters|Great River]]
+[[fi:Suuri virta (TSH)]]

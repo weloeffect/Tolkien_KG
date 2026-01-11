@@ -1,0 +1,56 @@
+{{mythlore
+|title=''Mythlore'' 50, Volume 13, Issue 4
+| image = Mythlore 50.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Summer [[1987]]
+|format=Paperback
+|pages=63
+}}
+'''''Mythlore'' 50''' ([https://dc.swosu.edu/mythlore/vol13/iss4/ Volume 13, Issue 4]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+In a letter published in the journal (p.&nbsp;41), [[L. Sprague de Camp]] quotes from [[Letter to L. Sprague de Camp|a 1964 letter from Tolkien]].<ref>{{CG|C}}, p. 622</ref>
+
+== Contents ==
+
+==== Articles ====
+
+* Wytenbroe, J. R. “Rites of Passage in The Hobbit.”
+* Hyles, Vernon. “On the Nature of Evil: The Cosmic Myths of Lewis, Tolkien and Williams.”
+* Musacchio, George. “Elwin Ransom: The Pilgrimage Begins.”
+* Croft, Edward. “Where Words Fall Short: Limitations of Language in All Hallows' Eve.”
+* Filmer, Kath. “An Allegory Unveiled: A Reading of The Lord of the Rings.”
+* Agøy, Nils Ivar. “A Nodal Structure in Tolkien’s Tales of the First Age?”
+* Unwin, Rayner, et al. “20 Years and 50 Issues.”
+* Schakel, Peter J. “That ‘Hideous Strength’ in Lewis and Orwell: A Comparison and Contrast.”
+* Welch, Randy C. “Watership Down: The Individual & Society.”
+* Christopher, Joe R. “John Heath-Stubbs’ Artorius and the Influence of Charles Williams.”
+
+==== Poetry ====
+
+* Le Guin, Ursula K. “NM.”
+* Yolen, Jane. “Amesbury Song.”
+
+==== Features ====
+
+* GoodKnight, Glen. Editor's Opening - Two Decades: Looking Back.
+* Christopher, Joe R. An Inklings' Bibliography (31).
+* Kondratiev, Alexei. “Tales Newly Told.”
+* Hyde, Paul Nolan. “Quenti Lambardillion: A Column on Middle-earth Linguistics.”
+* Letters.
+
+==== Reviews ====
+
+* ''The Hobbit, or There and Back Again.'' J.R.R. Tolkien, Illustrated by the author, Foreword by Christopher Tolkien. Reviewed by Nancy-Lou Patterson.
+* ''C.S. Lewis.'' Joe R. Christopher. Reviewed by Nancy-Lou Patterson.
+* ''Daughter of Regals & Other Tales.'' Stephen R. Donaldson. Reviewed by Thomas M. Egan.
+* ''Elfquest — The Blood of Ten Chiefs, Volume One.'' Edited by Richard Pini, Robert Asprin, and Lynn Abby. Reviewed by David Bratman.
+* ''Shadowlands''. Film produced by the BBC and the Episcopal Radio-TV Foundation. Directed by Norman Stone; written by William Nicholson. Reviewed by David Bratman.
+* ''Charles Williams.'' Kathleen Spencer. Reviewed by Nancy-Lou Patterson.
+* ''Around the Year with C.S. Lewis and His Friends.'' Kathryn Lindskoog, compiler. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|49|51}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 050}}
+
+[[Category:Mythlore]]

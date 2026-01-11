@@ -1,0 +1,632 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%C3%81rmann_Jakobsson> a schema:WebPage ;
+    rdfs:label "Ármann Jakobsson"@en ;
+    schema:about <http://localhost:8000/resource/%C3%81rmann_Jakobsson> .
+
+<http://localhost:8000/page/%C3%85ke_Ohlmarks> a schema:WebPage ;
+    rdfs:label "Åke Ohlmarks"@en ;
+    schema:about <http://localhost:8000/resource/%C3%85ke_Ohlmarks> .
+
+<http://localhost:8000/page/Alan_Bliss> a schema:WebPage ;
+    rdfs:label "Alan Bliss"@en ;
+    schema:about <http://localhost:8000/resource/Alan_Bliss> .
+
+<http://localhost:8000/page/Anne_C._Petty> a schema:WebPage ;
+    rdfs:label "Anne C. Petty"@en ;
+    schema:about <http://localhost:8000/resource/Anne_C._Petty> .
+
+<http://localhost:8000/page/Arne_Zettersten> a schema:WebPage ;
+    rdfs:label "Arne Zettersten"@en ;
+    schema:about <http://localhost:8000/resource/Arne_Zettersten> .
+
+<http://localhost:8000/page/Brian_Sibley> a schema:WebPage ;
+    rdfs:label "Brian Sibley"@en ;
+    schema:about <http://localhost:8000/resource/Brian_Sibley> .
+
+<http://localhost:8000/page/C.S._Lewis> a schema:WebPage ;
+    rdfs:label "C.S. Lewis"@en ;
+    schema:about <http://localhost:8000/resource/C.S._Lewis> .
+
+<http://localhost:8000/page/Carl_F._Hostetter> a schema:WebPage ;
+    rdfs:label "Carl F. Hostetter"@en ;
+    schema:about <http://localhost:8000/resource/Carl_F._Hostetter> .
+
+<http://localhost:8000/page/Charles_Williams> a schema:WebPage ;
+    rdfs:label "Charles Williams"@en ;
+    schema:about <http://localhost:8000/resource/Charles_Williams> .
+
+<http://localhost:8000/page/Chris_Seeman> a schema:WebPage ;
+    rdfs:label "Chris Seeman"@en ;
+    schema:about <http://localhost:8000/resource/Chris_Seeman> .
+
+<http://localhost:8000/page/Christopher_Tolkien> a schema:WebPage ;
+    rdfs:label "Christopher Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Christopher_Tolkien> .
+
+<http://localhost:8000/page/Coleman_Charlton> a schema:WebPage ;
+    rdfs:label "Coleman Charlton"@en ;
+    schema:about <http://localhost:8000/resource/Coleman_Charlton> .
+
+<http://localhost:8000/page/Colin_Duriez> a schema:WebPage ;
+    rdfs:label "Colin Duriez"@en ;
+    schema:about <http://localhost:8000/resource/Colin_Duriez> .
+
+<http://localhost:8000/page/Daniel_Falconer> a schema:WebPage ;
+    rdfs:label "Daniel Falconer"@en ;
+    schema:about <http://localhost:8000/resource/Daniel_Falconer> .
+
+<http://localhost:8000/page/Daniel_Grotta> a schema:WebPage ;
+    rdfs:label "Daniel Grotta"@en ;
+    schema:about <http://localhost:8000/resource/Daniel_Grotta> .
+
+<http://localhost:8000/page/David_Day> a schema:WebPage ;
+    rdfs:label "David Day"@en ;
+    schema:about <http://localhost:8000/resource/David_Day> .
+
+<http://localhost:8000/page/David_McDaniel> a schema:WebPage ;
+    rdfs:label "David McDaniel"@en ;
+    schema:about <http://localhost:8000/resource/David_McDaniel> .
+
+<http://localhost:8000/page/David_Salo> a schema:WebPage ;
+    rdfs:label "David Salo"@en ;
+    schema:about <http://localhost:8000/resource/David_Salo> .
+
+<http://localhost:8000/page/Diana_Glyer> a schema:WebPage ;
+    rdfs:label "Diana Glyer"@en ;
+    schema:about <http://localhost:8000/resource/Diana_Glyer> .
+
+<http://localhost:8000/page/Dimitra_Fimi> a schema:WebPage ;
+    rdfs:label "Dimitra Fimi"@en ;
+    schema:about <http://localhost:8000/resource/Dimitra_Fimi> .
+
+<http://localhost:8000/page/Douglas_A._Anderson> a schema:WebPage ;
+    rdfs:label "Douglas A. Anderson"@en ;
+    schema:about <http://localhost:8000/resource/Douglas_A._Anderson> .
+
+<http://localhost:8000/page/Guy_Gavriel_Kay> a schema:WebPage ;
+    rdfs:label "Guy Gavriel Kay"@en ;
+    schema:about <http://localhost:8000/resource/Guy_Gavriel_Kay> .
+
+<http://localhost:8000/page/Helmut_W._Pesch> a schema:WebPage ;
+    rdfs:label "Helmut W. Pesch"@en ;
+    schema:about <http://localhost:8000/resource/Helmut_W._Pesch> .
+
+<http://localhost:8000/page/Henry_Gee> a schema:WebPage ;
+    rdfs:label "Henry Gee"@en ;
+    schema:about <http://localhost:8000/resource/Henry_Gee> .
+
+<http://localhost:8000/page/Hugo_Dyson> a schema:WebPage ;
+    rdfs:label "Hugo Dyson"@en ;
+    schema:about <http://localhost:8000/resource/Hugo_Dyson> .
+
+<http://localhost:8000/page/Humphrey_Carpenter> a schema:WebPage ;
+    rdfs:label "Humphrey Carpenter"@en ;
+    schema:about <http://localhost:8000/resource/Humphrey_Carpenter> .
+
+<http://localhost:8000/page/Ian_Brodie> a schema:WebPage ;
+    rdfs:label "Ian Brodie"@en ;
+    schema:about <http://localhost:8000/resource/Ian_Brodie> .
+
+<http://localhost:8000/page/J.R.R._Tolkien> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien> .
+
+<http://localhost:8000/page/J.R.R._Tolkien/temp> a schema:WebPage ;
+    rdfs:label "J.R.R. Tolkien/temp"@en ;
+    schema:about <http://localhost:8000/resource/J.R.R._Tolkien/temp> .
+
+<http://localhost:8000/page/Jane_Chance> a schema:WebPage ;
+    rdfs:label "Jane Chance"@en ;
+    schema:about <http://localhost:8000/resource/Jane_Chance> .
+
+<http://localhost:8000/page/Johan_Vanhecke> a schema:WebPage ;
+    rdfs:label "Johan Vanhecke"@en ;
+    schema:about <http://localhost:8000/resource/Johan_Vanhecke> .
+
+<http://localhost:8000/page/John_D._Rateliff> a schema:WebPage ;
+    rdfs:label "John D. Rateliff"@en ;
+    schema:about <http://localhost:8000/resource/John_D._Rateliff> .
+
+<http://localhost:8000/page/John_Garth> a schema:WebPage ;
+    rdfs:label "John Garth"@en ;
+    schema:about <http://localhost:8000/resource/John_Garth> .
+
+<http://localhost:8000/page/Karen_Wynn_Fonstad> a schema:WebPage ;
+    rdfs:label "Karen Wynn Fonstad"@en ;
+    schema:about <http://localhost:8000/resource/Karen_Wynn_Fonstad> .
+
+<http://localhost:8000/page/Marcel_B%C3%BClles> a schema:WebPage ;
+    rdfs:label "Marcel Bülles"@en ;
+    schema:about <http://localhost:8000/resource/Marcel_B%C3%BClles> .
+
+<http://localhost:8000/page/Michael_D.C._Drout> a schema:WebPage ;
+    rdfs:label "Michael D.C. Drout"@en ;
+    schema:about <http://localhost:8000/resource/Michael_D.C._Drout> .
+
+<http://localhost:8000/page/Owen_Barfield> a schema:WebPage ;
+    rdfs:label "Owen Barfield"@en ;
+    schema:about <http://localhost:8000/resource/Owen_Barfield> .
+
+<http://localhost:8000/page/Pete_Fenlon> a schema:WebPage ;
+    rdfs:label "Pete Fenlon"@en ;
+    schema:about <http://localhost:8000/resource/Pete_Fenlon> .
+
+<http://localhost:8000/page/Peter_S._Beagle> a schema:WebPage ;
+    rdfs:label "Peter S. Beagle"@en ;
+    schema:about <http://localhost:8000/resource/Peter_S._Beagle> .
+
+<http://localhost:8000/page/Richard_E._Blackwelder> a schema:WebPage ;
+    rdfs:label "Richard E. Blackwelder"@en ;
+    schema:about <http://localhost:8000/resource/Richard_E._Blackwelder> .
+
+<http://localhost:8000/page/Robert_Havard> a schema:WebPage ;
+    rdfs:label "Robert Havard"@en ;
+    schema:about <http://localhost:8000/resource/Robert_Havard> .
+
+<http://localhost:8000/page/Simon_Tolkien> a schema:WebPage ;
+    rdfs:label "Simon Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Simon_Tolkien> .
+
+<http://localhost:8000/page/Terry_Kevin_Amthor> a schema:WebPage ;
+    rdfs:label "Terry Kevin Amthor"@en ;
+    schema:about <http://localhost:8000/resource/Terry_Kevin_Amthor> .
+
+<http://localhost:8000/page/Thomas_M._Honegger> a schema:WebPage ;
+    rdfs:label "Thomas M. Honegger"@en ;
+    schema:about <http://localhost:8000/resource/Thomas_M._Honegger> .
+
+<http://localhost:8000/page/Tom_Shippey> a schema:WebPage ;
+    rdfs:label "Tom Shippey"@en ;
+    schema:about <http://localhost:8000/resource/Tom_Shippey> .
+
+<http://localhost:8000/page/Tove_Jansson> a schema:WebPage ;
+    rdfs:label "Tove Jansson"@en ;
+    schema:about <http://localhost:8000/resource/Tove_Jansson> .
+
+<http://localhost:8000/page/Vera_Chapman> a schema:WebPage ;
+    rdfs:label "Vera Chapman"@en ;
+    schema:about <http://localhost:8000/resource/Vera_Chapman> .
+
+<http://localhost:8000/page/Verlyn_Flieger> a schema:WebPage ;
+    rdfs:label "Verlyn Flieger"@en ;
+    schema:about <http://localhost:8000/resource/Verlyn_Flieger> .
+
+<http://localhost:8000/page/W.H._Auden> a schema:WebPage ;
+    rdfs:label "W.H. Auden"@en ;
+    schema:about <http://localhost:8000/resource/W.H._Auden> .
+
+<http://localhost:8000/page/Wolfgang_Krege> a schema:WebPage ;
+    rdfs:label "Wolfgang Krege"@en ;
+    schema:about <http://localhost:8000/resource/Wolfgang_Krege> .
+
+<http://localhost:8000/resource/%C3%81rmann_Jakobsson> a schema:Person ;
+    tg:born <http://localhost:8000/resource/18_July> ;
+    tg:education "University of Iceland"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Reykjavík, Iceland"@en ;
+    tg:name "Ármann Jakobsson"@en ;
+    tg:occupation "Literary scholar, philologist"@en ;
+    tg:website "http://uni.hi.is/armannja/"@en .
+
+<http://localhost:8000/resource/%C3%85ke_Ohlmarks> a schema:Person ;
+    tg:born <http://localhost:8000/resource/3_June_1911> ;
+    tg:died <http://localhost:8000/resource/6_June_1984> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Åke Joel Ohlmarks"@en ;
+    tg:occupation "Translator, author"@en .
+
+<http://localhost:8000/resource/Alan_Bliss> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1921> ;
+    tg:died <http://localhost:8000/resource/1985> ;
+    tg:education <http://localhost:8000/resource/University_of_Oxford> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Alan Joseph Bliss"@en ;
+    tg:occupation "Scholar"@en .
+
+<http://localhost:8000/resource/Anne_C._Petty> a schema:Person ;
+    tg:died <http://localhost:8000/resource/21_July_2013> ;
+    tg:education <http://localhost:8000/resource/wikipedia%3AFlorida_State_University> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Florida Gulf Coast"@en ;
+    tg:name "Anne C. Petty"@en ;
+    tg:occupation "Scholar, author"@en ;
+    tg:website "[http://www.annepetty.com/main.html AnnePetty.com]"@en .
+
+<http://localhost:8000/resource/Arne_Zettersten> a schema:Person ;
+    tg:born <http://localhost:8000/resource/10_January%2C_1934> ;
+    tg:died <http://localhost:8000/resource/21_September%2C_2015> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Arne Zettersten"@en ;
+    tg:occupation "Academic, author"@en .
+
+<http://localhost:8000/resource/Brian_Sibley> a schema:Person ;
+    tg:born <http://localhost:8000/resource/14_July_1949> ;
+    tg:image "Brian Sibley.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "London, England"@en ;
+    tg:name "Brian Sibley"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[http://www.briansibley.com BrianSibley.com]"@en .
+
+<http://localhost:8000/resource/C.S._Lewis> a schema:Person ;
+    tg:born <http://localhost:8000/resource/29_November%2C_1898> ;
+    tg:died <http://localhost:8000/resource/22_November%2C_1963> ;
+    tg:education <http://localhost:8000/resource/University_of_Oxford> ;
+    tg:image "C.S. Lewis.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "England"@en ;
+    tg:name "C.S. Lewis"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[http://www.cslewis.org/ C.S. Lewis Foundation]"@en .
+
+<http://localhost:8000/resource/Carl_F._Hostetter> a schema:Person ;
+    tg:born <http://localhost:8000/resource/6_August_1965> ;
+    tg:image "Carl F. Hostetter.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Carl F. Hostetter"@en ;
+    tg:occupation "Computer scientist, Tolkien scholar"@en .
+
+<http://localhost:8000/resource/Charles_Williams> a schema:Person ;
+    tg:born <http://localhost:8000/resource/20_September> ;
+    tg:died <http://localhost:8000/resource/15_May> ;
+    tg:education <http://localhost:8000/resource/Oxford_University> ;
+    tg:image "Charles Williams.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "England"@en ;
+    tg:name "Charles Williams"@en ;
+    tg:occupation "Writer, theologian"@en ;
+    tg:website "[http://www.charleswilliamssociety.org.uk/ The Charles Williams Society]"@en .
+
+<http://localhost:8000/resource/Chris_Seeman> a schema:Person ;
+    tg:education "Ph.D. in Near Eastern Religions"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location <http://localhost:8000/resource/wikipedia%3AWalsh_University> ;
+    tg:name "Chris Seeman"@en ;
+    tg:occupation "Associate Professor of Theology"@en .
+
+<http://localhost:8000/resource/Christopher_Tolkien> a schema:Person ;
+    tg:born <http://localhost:8000/resource/21_November%2C_1924> ;
+    tg:died <http://localhost:8000/resource/16_January%2C_2020> ;
+    tg:education <http://localhost:8000/resource/Wikipedia%3ATrinity_College%2C_Oxford> ;
+    tg:image "Christopher Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "England<br/>France"@en ;
+    tg:name "Christopher Tolkien"@en ;
+    tg:occupation "Author, Professor"@en ;
+    tg:website "[http://www.tolkienestate.com TolkienEstate.com]"@en .
+
+<http://localhost:8000/resource/Coleman_Charlton> a schema:Person ;
+    tg:education "Mathematics, Computer Science"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Virginia, Charlottesville"@en ;
+    tg:name "S. Coleman Charlton"@en ;
+    tg:occupation "Game designer, Managing Editor, Freelance writer"@en .
+
+<http://localhost:8000/resource/Colin_Duriez> a schema:Person ;
+    tg:born <http://localhost:8000/resource/19_July_1947> ;
+    tg:education <http://localhost:8000/resource/Wikipedia%3AUniversity_of_Istanbul> ;
+    tg:image "Colin Duriez.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "England"@en ;
+    tg:name "Colin Duriez"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[http://web.mac.com/colinduriez/iWeb/Site/Welcome.html Official website]"@en .
+
+<http://localhost:8000/resource/Daniel_Falconer> a schema:Person ;
+    tg:image "Daniel Falconer.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Wellington, New Zealand"@en ;
+    tg:name "Daniel Falconer"@en ;
+    tg:occupation "Artist, Author"@en ;
+    tg:website "http://www.wetanz.com/daniel-falconer/"@en .
+
+<http://localhost:8000/resource/Daniel_Grotta> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1944> ;
+    tg:died <http://localhost:8000/resource/13_December_2015> ;
+    tg:image "Daniel-Grotta.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Daniel Grotta"@en .
+
+<http://localhost:8000/resource/David_Day> a schema:Person ;
+    tg:born <http://localhost:8000/resource/14_October_1947%3Cref_name%3D%22Goodreads%22%3E%7B%7Bwebcite> ;
+    tg:education <http://localhost:8000/resource/wikipedia%3AUniversity_of_Victoria> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Canada"@en ;
+    tg:name "David Day"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[http://www.daviddaybooks.com DavidDayBooks.com]"@en .
+
+<http://localhost:8000/resource/David_McDaniel> a schema:Person ;
+    tg:born <http://localhost:8000/resource/16_June%2C_1939> ;
+    tg:died <http://localhost:8000/resource/1_November%2C_1977> ;
+    tg:image "David McDaniel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "United Estates"@en ;
+    tg:name "David McDaniel"@en ;
+    tg:occupation "Author"@en .
+
+<http://localhost:8000/resource/David_Salo> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1969> ;
+    tg:education "University of Wisconsin, Madison"@en ;
+    tg:image "David Salo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "David Salo"@en ;
+    tg:occupation "Linguist"@en .
+
+<http://localhost:8000/resource/Diana_Glyer> a schema:Person ;
+    tg:born <http://localhost:8000/resource/January_1956> ;
+    tg:education "University of Illinois at Chicago"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "California, U.S.A."@en ;
+    tg:name "Diana Glyer"@en ;
+    tg:occupation "Professor of English"@en ;
+    tg:website "[http://www.dianaglyer.com Official website]"@en .
+
+<http://localhost:8000/resource/Dimitra_Fimi> a schema:Person ;
+    tg:born <http://localhost:8000/resource/2_June_1978> ;
+    tg:education <http://localhost:8000/resource/Wikipedia%3ACardiff_University> ;
+    tg:image "Dimitra Fimi (2).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Dimitra Fimi"@en ;
+    tg:occupation "Professor of Fantasy and Children's Literature"@en ;
+    tg:website "[http://www.dimitrafimi.com/ Official website]"@en .
+
+<http://localhost:8000/resource/Douglas_A._Anderson> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1959> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Michigan, USA"@en ;
+    tg:name "Douglas A. Anderson"@en ;
+    tg:occupation "Author"@en .
+
+<http://localhost:8000/resource/Guy_Gavriel_Kay> a schema:Person ;
+    tg:born <http://localhost:8000/resource/7_November_1954> ;
+    tg:image "Guy Gavriel Kay.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Canada"@en ;
+    tg:name "Guy Gavriel Kay"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[http://www.brightweavings.com/ Official website]"@en .
+
+<http://localhost:8000/resource/Helmut_W._Pesch> a schema:Person ;
+    tg:born <http://localhost:8000/resource/30_August%2C_1952> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Helmut W. Pesch"@en ;
+    tg:occupation "Author, translator"@en ;
+    tg:website "[http://www.helmutwpesch.de/ www.helmutwpesch.de]"@en .
+
+<http://localhost:8000/resource/Henry_Gee> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1962> ;
+    tg:education <http://localhost:8000/resource/University_of_Leeds%2C%3Cbr/%3E_%5Bhttp%3A//www.cam.ac.uk_University_of_Cambridge%5D> ;
+    tg:image "HenryGee.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Norfolk, UK"@en ;
+    tg:name "Henry Gee"@en ;
+    tg:occupation "Author, biologist, palaeontologist"@en ;
+    tg:website "[https://occamstypewriter.org/cromercrox/ occamstypewriter.org]"@en .
+
+<http://localhost:8000/resource/Hugo_Dyson> a schema:Person ;
+    tg:born <http://localhost:8000/resource/7_April_1896> ;
+    tg:died <http://localhost:8000/resource/6_June_1975> ;
+    tg:image "Hugo_dyson.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "England"@en ;
+    tg:name "Hugo Dyson"@en ;
+    tg:occupation "Scholar"@en .
+
+<http://localhost:8000/resource/Humphrey_Carpenter> a schema:Person ;
+    tg:born <http://localhost:8000/resource/29_April_1946> ;
+    tg:died <http://localhost:8000/resource/4_January_2005> ;
+    tg:image "Humphrey Carpenter (black & white).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Humphrey Carpenter"@en ;
+    tg:occupation "Author"@en .
+
+<http://localhost:8000/resource/Ian_Brodie> a schema:Person ;
+    tg:born <http://localhost:8000/resource/25_August> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Ian Brodie"@en ;
+    tg:occupation "Photographer and Author"@en ;
+    tg:website "[http://www.ianbrodie.net Official website]"@en .
+
+<http://localhost:8000/resource/J.R.R._Tolkien> a schema:Person ;
+    tg:born <http://localhost:8000/resource/3_January_1892%3Cbr%3EBloemfontein%2C_Orange_Free_State> ;
+    tg:died <http://localhost:8000/resource/2_September_1973_%28aged_81_years%29%3Cbr%3EBournemouth%2C_England> ;
+    tg:education <http://localhost:8000/resource/University_of_Oxford> ;
+    tg:image "J.R.R. Tolkien, ca. 1925.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3AUnited_Kingdom> ;
+    tg:name "J.R.R. Tolkien"@en ;
+    tg:occupation "Academic<br/>Author<br/>Philologist<br>Poet"@en ;
+    tg:website "[http://www.tolkienestate.com Tolkien: The official site of the Tolkien Estate]"@en .
+
+<http://localhost:8000/resource/J.R.R._Tolkien/temp> a schema:Person ;
+    tg:born <http://localhost:8000/resource/3_January> ;
+    tg:died <http://localhost:8000/resource/2_September> ;
+    tg:education <http://localhost:8000/resource/University_of_Oxford> ;
+    tg:image "Photograph of J.R.R. Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location <http://localhost:8000/resource/Oxford%2C_Leeds_University> ;
+    tg:name "J.R.R. Tolkien"@en ;
+    tg:occupation "Professor of Old and Middle English"@en ;
+    tg:website "[http://www.tolkienestate.com The Tolkien Estate]"@en .
+
+<http://localhost:8000/resource/Jane_Chance> a schema:Person ;
+    tg:born <http://localhost:8000/resource/26_October> ;
+    tg:image "Jane Chance.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Houston, Texas"@en ;
+    tg:name "Jane Chance"@en ;
+    tg:occupation "Andrew W. Mellon Distinguished Professor Emerita of English at Rice University"@en .
+
+<http://localhost:8000/resource/Johan_Vanhecke> a schema:Person ;
+    tg:image "Johan Vanhecke.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Belgium"@en ;
+    tg:name "Johan Vanhecke"@en ;
+    tg:occupation "Curator of the AMVC-Letterenhuis"@en .
+
+<http://localhost:8000/resource/John_D._Rateliff> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1958> ;
+    tg:education <http://localhost:8000/resource/Ph.D._at_Marquette_University> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location <http://localhost:8000/resource/Wikipedia%3ASeattle_metropolitan_area> ;
+    tg:name "John D. Rateliff"@en ;
+    tg:occupation "Author, editor"@en ;
+    tg:website "[http://sacnoths.blogspot.com Sacnoth's Scriptorium]"@en .
+
+<http://localhost:8000/resource/John_Garth> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_June_1966> ;
+    tg:image "John Garth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "John Garth"@en ;
+    tg:occupation "Journalist, Author"@en ;
+    tg:website "[https://www.johngarth.co.uk Official website]"@en .
+
+<http://localhost:8000/resource/Karen_Wynn_Fonstad> a schema:Person ;
+    tg:born <http://localhost:8000/resource/18_April> ;
+    tg:died <http://localhost:8000/resource/11_March> ;
+    tg:education "University of Oklahoma"@en ;
+    tg:image "Karen Wynn Fonstad.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Karen Wynn Fonstad"@en .
+
+<http://localhost:8000/resource/Marcel_B%C3%BClles> a schema:Person ;
+    tg:education "University of Cologne"@en ;
+    tg:image "Marcel Bülles.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Cologne, Germany"@en ;
+    tg:name "Marcel Bülles"@en ;
+    tg:occupation "Freelance journalist and translator"@en .
+
+<http://localhost:8000/resource/Michael_D.C._Drout> a schema:Person ;
+    tg:born <http://localhost:8000/resource/3_May_1968> ;
+    tg:image "Michael D.C. Drout.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Michael D.C. Drout"@en ;
+    tg:occupation "Literary critic, author, editor, professor"@en ;
+    tg:website "[http://michaeldrout.com/ michaeldrout.com]"@en .
+
+<http://localhost:8000/resource/Owen_Barfield> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_November%2C_1898> ;
+    tg:died <http://localhost:8000/resource/14_December%2C_1997> ;
+    tg:image "Owen Barfield.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Owen Barfield"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[http://owenbarfield.org/ Owen Barfield Literary Estate]"@en .
+
+<http://localhost:8000/resource/Pete_Fenlon> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1955> ;
+    tg:education "History, Anthropology, Law"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Charlottesville, VA"@en ;
+    tg:name "Pete Fenlon"@en ;
+    tg:occupation "CEO"@en .
+
+<http://localhost:8000/resource/Peter_S._Beagle> a schema:Person ;
+    tg:born <http://localhost:8000/resource/April_20_1939> ;
+    tg:education "University of Pittsburgh"@en ;
+    tg:image "Peter S. Beagle.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Peter S. Beagle"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "[https://beagleverse.com/ BeagleVerse.com]"@en .
+
+<http://localhost:8000/resource/Richard_E._Blackwelder> a schema:Person ;
+    tg:born <http://localhost:8000/resource/29_January> ;
+    tg:died <http://localhost:8000/resource/17_January> ;
+    tg:education "Stanford University"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "United States"@en ;
+    tg:name "Richard E. Blackwelder"@en ;
+    tg:occupation "Professor"@en .
+
+<http://localhost:8000/resource/Robert_Havard> a schema:Person ;
+    tg:born <http://localhost:8000/resource/15_March_1901> ;
+    tg:died <http://localhost:8000/resource/17_July_1985> ;
+    tg:education <http://localhost:8000/resource/University_of_Oxford%23Keble_College> ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location <http://localhost:8000/resource/Oxford> ;
+    tg:name "Robert Havard"@en ;
+    tg:occupation "Physician"@en .
+
+<http://localhost:8000/resource/Simon_Tolkien> a schema:Person ;
+    tg:born <http://localhost:8000/resource/12_January_1959> ;
+    tg:education <http://localhost:8000/resource/wikipedia%3ATrinity_College%2C_Oxford> ;
+    tg:image "Simon Tolkien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Southern California"@en ;
+    tg:name "Simon Tolkien"@en ;
+    tg:occupation "Author, barrister"@en ;
+    tg:website "[http://www.simontolkien.com/ SimonTolkien.com]"@en .
+
+<http://localhost:8000/resource/Terry_Kevin_Amthor> a schema:Person ;
+    tg:education "Architecture"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Virginia, USA"@en ;
+    tg:name "Terry Kevin Amthor"@en ;
+    tg:occupation "Fantasy Author/Macintosh IT Manager/Spin Instructor"@en .
+
+<http://localhost:8000/resource/Thomas_M._Honegger> a schema:Person ;
+    tg:education "English and German (medieval) literatures and languages at the University of Zurich<br>1988/89 studies in Britain and Teaching Assistant in California"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "[http://www2.uni-jena.de/fsu/anglistik/index.html Friedrich Schiller University]"@en ;
+    tg:name "Thomas M. Honegger"@en ;
+    tg:occupation "Professor of Old English Languages"@en .
+
+<http://localhost:8000/resource/Tom_Shippey> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_September_1943> ;
+    tg:education <http://localhost:8000/resource/Oxford_University> ;
+    tg:image "Tom Shippey.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Thomas Alan Shippey"@en ;
+    tg:occupation "Academic<br/>Author<br/>Philologist"@en .
+
+<http://localhost:8000/resource/Tove_Jansson> a schema:Person ;
+    tg:born <http://localhost:8000/resource/9_August> ;
+    tg:died <http://localhost:8000/resource/27_June> ;
+    tg:image "Tove Jansson.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "Finland"@en ;
+    tg:name "Tove Jansson"@en ;
+    tg:occupation "Author, artist"@en .
+
+<http://localhost:8000/resource/Vera_Chapman> a schema:Person ;
+    tg:born <http://localhost:8000/resource/8_May%2C_1898> ;
+    tg:died <http://localhost:8000/resource/14_May%2C_1996> ;
+    tg:image "Vera Chapman.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location <http://localhost:8000/resource/United_Kingdom> ;
+    tg:name "Vera Chapman"@en ;
+    tg:occupation "Author"@en ;
+    tg:website "http://www.tolkiensociety.org"@en .
+
+<http://localhost:8000/resource/Verlyn_Flieger> a schema:Person ;
+    tg:born <http://localhost:8000/resource/24_February_1933%3Cref_name%3DLT%3E%7B%7Bwebcite> ;
+    tg:education <http://localhost:8000/resource/Ph.D._from_Wikipedia%3AThe_Catholic_University_of_America> ;
+    tg:image "Verlyn Flieger.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Verlyn Flieger"@en ;
+    tg:occupation "Author, Professor"@en .
+
+<http://localhost:8000/resource/W.H._Auden> a schema:Person ;
+    tg:born <http://localhost:8000/resource/21_February> ;
+    tg:died <http://localhost:8000/resource/29_September> ;
+    tg:education "M.A. English language and literature, Christ Church, Oxford"@en ;
+    tg:image "W.H. Auden.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:location "England/United States"@en ;
+    tg:name "W.H. Auden"@en ;
+    tg:occupation "Poet"@en .
+
+<http://localhost:8000/resource/Wolfgang_Krege> a schema:Person ;
+    tg:born <http://localhost:8000/resource/1_February_1939> ;
+    tg:died <http://localhost:8000/resource/13_April_2005> ;
+    tg:image "W. Krege.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/author_infobox> ;
+    tg:name "Wolfgang Krege"@en ;
+    tg:occupation "Translator, author"@en .
+

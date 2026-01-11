@@ -1,0 +1,48 @@
+{{song
+|title = The Greatest Adventure
+|subtitle = 
+|album = ''[[The Hobbit: The Complete Original Soundtrack]]''
+|composer = [[Maury Laws]]
+|arranger = 
+|writer = [[Jules Bass]]
+|performer = [[Glenn Yarbrough]]
+|additionalcredits = 
+|image = The Hobbit The Complete Original Soundtrack - cover.jpg
+|duration = 2:11
+|track = 19
+|previous = [[The Journey Ends]]
+|next = [[In the Valley, Ha! Ha!]]
+|spotify = 
+|youtube = https://www.youtube.com/watch?v=2dQ5c5SIYnc
+|soundcloud = 
+}}
+'''The Greatest Adventure''', also known as '''The Ballad of The Hobbit''', is a song written by [[Maury Laws]] (music) and [[Jules Bass]] (lyric) and performed by [[Glenn Yarbrough]]. It was the theme song for the [[1977]] [[The Hobbit (1977 film)|film adaptation]] of ''[[The Hobbit]]''. The full song plays during the night before the group's departure from the Shire, and excerpts reprise throughout the story.
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+The greatest adventure is what lies ahead.
+Today and tomorrow are yet to be said.
+The chances, the changes are all yours to make.
+The mold of your life is in your hands to break.
+
+The greatest adventure is there if you're bold.
+Let go of the moment that life makes you hold.
+To measure the meaning can make you delay;
+It's time you stop thinkin' and wasting the day.
+
+The man who's a dreamer and never takes leave
+Who thinks of a world that is just make-believe
+Will never know passion, will never know pain.
+Who sits by the window will one day see rain.
+
+The greatest adventure is what lies ahead.
+Today and tomorrow are yet to be said.
+The chances, the changes are all yours to make.
+The mold of your life is in your hands to break.
+
+The greatest adventure is what lies ahead.
+</poem>
+
+== Music Video ==
+[https://www.youtube.com/watch?v=U-_r1Npsv5I The Hobbit - the greatest adventure (YouTube)]
+[[Category:The Hobbit (1977 film) soundtrack]]

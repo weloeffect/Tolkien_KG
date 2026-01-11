@@ -1,0 +1,41 @@
+{{Dragon infobox
+| name=Gostir
+| image=George Sukhoff - Gostir.png
+| caption=''Gostir'' by [[:Category:Images by George Sukhoff|George Sukhoff]]
+| othernames=Gorsthir
+| titles=
+| realm=
+| affiliation=
+| hoard=
+| birth=Unknown
+| birthlocation=
+| death=
+| deathlocation=
+| slayer=
+| type=
+| legs=
+| wings=
+| colour=
+}}
+
+'''Gostir''' was the name of one of the [[Dragons]] of [[Morgoth]],<ref name=gostir>{{LR|Etymologies}}, entries "GOS-, GOTH-"</ref> about whom almost nothing is known except that they possessed a dragon-name<ref name=gostir/> which had evolved from the older name ''Gorsthir''.<ref name=gorsthir>{{LR|Etymologies}}, entry "THĒ-"</ref>
+
+== Etymology ==
+''Gostir'' means "dread-glance" in [[Noldorin]], from ''gost'' ("dread, terror")<ref name=gostir/> and ''thîr'' ("look, face, expression, countenance"), as well as the root ''THĒ'', meaning "look (see or seem)".<ref name=gorsthir/>
+
+[[File:Jack Dullahan - Gostir (dread glance).jpg|thumb|250px|''Gostir (dread glance)'' by [[:Category:Images by Jack Dullahan|Jack Dullahan]]]]
+
+== Portrayal in adaptations ==
+=== ''Middle-earth Role Playing'' ===
+:Gostir appears as a white [[Cold-drakes|Cold-drake]] with red eyes who dwells north of [[Rhûn]] in Barl Syrnac in the ''Creatures of Middle-earth'' supplement of ''[[Middle-earth Role Playing]]''. Gostir was said to be the older brother of [[Lhamthanc]].
+
+{{references}}
+
+{{dragons}}
+
+[[Category:Dragons]]
+[[Category:Noldorin names]]
+[[Category:Servants of Melkor]]
+
+[[fi:Gostir]]
+[[de:Gostir]]

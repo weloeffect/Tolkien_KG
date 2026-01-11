@@ -1,0 +1,24 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Cortney Skinner
+| born=
+| died=
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Cortney Skinner''' is an American fantasy artist. In the 1990s, he was commissioned by [[Iron Crown Enterprises]] to create art for the [[Middle-earth Collectible Card Game]].
+
+== See also ==
+*[[:CATEGORY:Images by Cortney Skinner|Images by Cortney Skinner]]
+
+==External links==
+*'''[https://www.cortneyskinner.com Official website]'''
+{{References}}
+{{DEFAULTSORT:Skinner, Cortney}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

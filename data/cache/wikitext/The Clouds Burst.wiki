@@ -1,0 +1,26 @@
+{{chapter
+| title=The Clouds Burst
+| book=The Hobbit
+| image=Alan Lee - The Battle of the Five Armies.jpg
+| number=17
+| event=The [[Battle of the Five Armies]] begins; Bilbo is hit in the head with a rock.
+| location=[[Ravenhill]]
+| previous=A Thief in the Night
+| next=The Return Journey
+}}
+
+{{quote|The Eagles! The Eagles!” he shouted. “The Eagles are coming!|[[Bilbo Baggins]]}}
+
+'''The Clouds Burst''' is the 17th chapter of ''[[The Hobbit]]''.
+
+==Synopsis==
+[[Thranduil]], [[Bard]], and [[Gandalf]] pleaded with [[Thorin]] to share the wealth of [[Lonely Mountain|Erebor]] with the people of [[Middle-earth]]. They revealed themselves to be in possession of the [[Arkenstone]], which was previously stolen and given to them by [[Bilbo Baggins|Bilbo]]. Thorin reluctantly agrees to part with one-fourteenth of his treasure in trade for the Arkenstone, although he raged against Bilbo and cast him from Erebor in anger, their friendship apparently broken.
+In preparation for the upcoming battle, the sturdy, mattock-wielding Dwarves of [[Dáin Ironfoot]] came as reinforcements. Tensions ran high as Dáin's Dwarves sought to reach the Mountain, while archers and spearmen under Bard barred their approach. Conflict began between the [[Elves]] and Dwarves, even as a black cloud gathered and the [[Orcs#Orcs and Goblins|Goblin]] army under [[Bolg]] arrived.
+
+Thus began the [[Battle of Five Armies]], between the Goblins and [[Wargs|Wolves]], and the Elves, [[Men]], and Dwarves. The reader learns that the Goblins had been amassing in the wake of the [[Great Goblin]]'s death, and had set themselves on capturing the Lonely Mountain. A strategy had arisen: the goblins would be lured into the valley between the arms of the Mountain, and there be cornered and destroyed. Bilbo wore the [[The One Ring|magic ring]] to utilise its powers of invisibility. The Elves charged first in wrath, and killed countless Orcs. Then the dwarves under Dáin attacked, routing the enemy and striking panic into the orcs. Victory seemed to be at hand, when the forces of good were ambushed by Orcs, scaling the Mountain.
+
+Battle raged on, with Bard defending the Eastern spur of the mountain, and the Elves fighting on [[Ravenhill]]. Thorin and the Company of dwarves burst out of the mountain in battle armor, rallying morale. Calling all elves, dwarves, and men alike to him, Thorin rallied the armies on a counter-attack against the orcs. Thorin attempted to break the bodyguard of Bolg, composed of goblins of huge size, but no progress was reached, and the tide of battle began to change. The armies of men, elves, and dwarves found that their efforts were in vain, as the countless numbers of orcs and ceaseless onslaught rendered their efforts futile.
+
+Bilbo, fighting on Ravenhill with the elves, cried in disdain as defeat became apparent. He regretted the death and ruin caused by plundering of the golden hoard of [[Smaug]]. Then out of the sky, the majestic [[Eagles]] swooped down in great numbers, prompting Bilbo to cry "The Eagles! the Eagles!" in great joy. Bilbo was then struck by a hurled stone, and went unconscious.
+[[Category:The Hobbit chapters|Clouds Burst]]
+[[fi:Pilvet repeävät]]

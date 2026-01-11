@@ -1,0 +1,62 @@
+{{Mallorn
+| name=Mallorn 52
+| image = Mallorn52.jpg
+| editor=[[Henry Gee]]
+| artist=[[Ted Nasmith]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Autumn [[2011]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 52''' is the fifty-first issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Autumn [[2011]].
+
+==Contents==
+* '''Cover Art'''
+** ''A Conversation with Smaug''
+*** By: [[Ted Nasmith]]
+* '''Editorial'''
+** "Consider the context"
+*** By: [[Nancy Martsch]]
+* '''Letters'''
+** "An idea takes root"
+*** By: Zak Cramer
+* '''Reviews'''
+** "A doom of diamonds": ''The King of Diamonds'' by [[Simon Tolkien]]
+*** Reviewed by Mike Foster
+** "The Welsh connection": ''[[Tolkien and Wales|Tolkien and Wales: Language, Literature and Identity]]'' by Carl Phelpstead
+*** Reviewed by Troels Forchhammer
+** "From Middle Ages to [[Middle-earth]]": ''[[The Keys of Middle-earth|The Keys of Middle-Earth: Discovering Medieval Literature through the Fiction of J.R.R. Tolkien]]'' by Stuart D. Lee and Elizabeth Solopova
+*** Reviewed by Kastytis Zubovas
+** "The green revolution": ''[[Ents, Elves, and Eriador|Ents, Elves, And Eriador: The Environmental Vision of J. R. R. Tolkien]]'' by [[Matthew Dickerson]] and [[Jonathan Evans]]
+*** Reviewed by Kusumita P. Pedersen
+** "The lion, the witch and the baffled producers": ''[[wikipedia:The Chronicles of Narnia: The Voyage of the Dawn Treader|The Chronicles of Narnia: The Voyage of the Dawn Treader]]
+*** Reviewed by [[Chad Chisholm]]
+** "A dash of movie magic": ''[[wikipedia:Harry Potter and the Deathly Hallows – Part 2|Harry Potter and the Deathly Hallows Part 2]]''
+*** Reviewed by [[Henry Gee]]
+** "A trip to Iceland": ''Where the Shadows Lie'' by Michael Ridpath
+*** Reviewed by [[Patricia Reynolds|Pat Reynolds]]
+* '''Commentary'''
+** "Casting away treasurers: [[J.R.R. Tolkien|Tolkien]]'s use of ''[[Pearl]]'' in ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]''"
+*** By: Leigh Smith
+** "A woman of valour: [[Éowyn]] in ''War and Peace''"
+*** By: Catherine Madsen
+** "We hatesses those tricksy numbers: Tolkien, [[C.S. Lewis|Lewis]] and maths anxiety"
+*** By: [[Kristine Larsen]]
+** "Inscriptions and insertions in a first edition of ''The Lord of the Rings''"
+*** By: James Blake
+** "[[Orcs]] and Tolkien's treatment of evil"
+*** By: David Tneh
+* '''Fiction'''
+** "Werewolf Hollow"
+*** By: Mark L. Ridge
+* '''Well, I'm back'''
+** "Did Tolkien support the Canaries"
+*** By: Henry Gee
+* '''Inside Art'''
+** By: Lorenzo Daniele, Henry Gee, John Gilbey, [[Jef Murray]], Ted Nasmith, Rick J. Ritchie, Colin Sullivan, Sue Wookey
+
+{{mallornnav|51|53}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 52}}
+[[Category:Mallorn (journal)]]

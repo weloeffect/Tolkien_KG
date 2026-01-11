@@ -1,0 +1,27 @@
+{{scene
+|name=Many meetings
+|number=23 (extended) <br /> 
+        19 (theatrical)
+|duration=3:29 (extended) <br /> 
+          3:31 (theatrical)
+|event=[[Frodo Baggins|Frodo]] reunites with [[Samwise Gamgee|Samwise]] and the other Hobbits.
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Rivendell.jpg
+|previous=[[Rivendell (scene)|Rivendell]]
+|next=[[The Fate of the Ring]]
+|characters=Frodo, [[Gandalf]], [[Elrond]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], [[Peregrin Took|Pippin]], [[Bilbo Baggins|Bilbo]]
+}}
+
+'''Many Meetings''' is the nineteenth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the twenty-third scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+As Frodo continues to recover from the wound inflicted by the [[Nazgûl]]'s [[Morgul-knife]], he steps out onto a balcony and gets a proper view of [[Rivendell]] for the first time. As he and [[Samwise Gamgee|Sam]] walk along the tree-lined pathways, [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] run up and embrace their recuperating friend.
+
+Amidst the reunion, Frodo realizes that [[Bilbo Baggins|Bilbo]] is present and runs to greet him. Bilbo warmly returns the greeting and shows Frodo his completed [[Red Book of Westmarch|book]]. Bilbo says that he intended to return to the spots of his old journey ([[Mirkwood]], [[Lake-town]], and the [[Lonely Mountain]]), but soon found himself in Rivendell and declined to move on. Age has visibly affected Bilbo far more than when he had the Ring, and he admits to feeling it more keenly than before. When turning to a page in the book depicting a map of [[The Shire]], Frodo laments that he misses home, and admits that the adventure he's gone through was very different to the stories Bilbo told him as a child. 
+
+Later on, Frodo catches Sam packing his things. While Sam had earlier expressed a desire to see the elves in [[Rivendell]], he now thinks that that since they have delivered the Ring and Frodo is on the mend, it is time they began preparing to return to [[the Shire]]. Frodo agrees with Sam and expresses a desire to return home.
+
+==Differences==
+The scene is an abridgement of the same chapter from the book. The banquet Elrond hosts before his council is omitted. Bilbo seems to be somewhat older in the movie than he appears in the book, as in the book, Bilbo is able to return to [[Dale]] and [[Erebor]] during the time gap between chapters 1 and 2.
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|23]]

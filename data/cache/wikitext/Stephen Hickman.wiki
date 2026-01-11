@@ -1,0 +1,22 @@
+{{person infobox
+| image=
+| caption=
+| name=Stephen Hickman
+| born=[[9 April]] [[1949]]
+| died=[[16 July]] [[2021]]
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Stephen Hickman''' ([[9 April]] [[1949]] - [[16 July]] [[2021]]) was an American science-fiction and fantasy artist.<ref>{{Cite web|articleurl=https://www.cbr.com/stephen-hickman-artist-obituary/|articlename=Stephen Hickman, Award-Winning Sci-Fi/Fantasy Painter, Passed Away|website=[https://www.cbr.com/stephen-hickman-artist-obituary/ CBR]|dated=2021|author=Brian Cronin}}</ref> While generally known for book covers, he also created [[J.R.R. Tolkien]]-inspired illustrations, some of them for the [[Middle-earth Collectible Card Game]].
+
+==See also==
+*[[:Category:Images by Stephen Hickman|Images by Stephen Hickman]]
+
+==External links==
+* '''[http://www.stephenhickman.com/ Official website]'''
+* {{WP|Stephen Hickman}}{{References}}
+[[Category:Artists|Hickman, Stephen]]
+[[Category:American people|Hickman, Stephen]]
+[[Category:People by name|Hickman, Stephen]]

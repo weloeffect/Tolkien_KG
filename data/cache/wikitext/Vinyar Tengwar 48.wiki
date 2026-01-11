@@ -1,0 +1,26 @@
+{{VTbox
+| title=Vinyar Tengwar 48
+| image = Vinyar Tengwar 48.png
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=December [[2005]]
+| format=Paperback journal
+| pages=36
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 48''''' is the forty-eighth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|47|49}}
+
+==Contents==
+* E.L.F. News
+
+* "''Eldarin Hands, Fingers & Numerals'' and Related Writings, Part two"✫ — J.R.R. Tolkien, ed. Patrick H. Wynne
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 48}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 48]]

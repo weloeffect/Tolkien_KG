@@ -1,0 +1,55 @@
+{{mythlore
+|title=Mythlore 16
+| image = Mythlore_16.jpeg
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=June [[1977]]
+|format=Paperback
+|pages=47
+}}
+
+'''''Mythlore'' 16''' ([https://dc.swosu.edu/mythlore/vol4/iss4/ Volume 4, Issue 4])  is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents ==
+
+====Articles====
+
+* Chapman, Ed. “Images of the Numinous in T.H. White and C.S. Lewis.” 3-10.
+* Reynolds, William. “Poetry as Metaphor in ''The Lord of the Rings.''” 12-16.
+* Kobil, Daniel T. “The Elusive Appeal of the Fantastic.” 17-19.
+* Berman, Ruth. “Who’s Lleu?” 20-21.
+
+====Features====
+
+* Jones, Susan F. A Conference Report. 10.
+* GoodKnight, Glen H. “Wizards — Dismal Warm-up for LotR Film.” Review of ''Wizards'', directed by Ralph Bakshi. 11.
+* GoodKnight, Glen H. “Comments on Some Photographs.” 23+.
+* Tolkien Conference VI / Mythopoeic Conference VIII. 25.
+* Patterson, Nancy-Lou. “Soap and Sunlight.” Review of ''C.S. Lewis: The Shape of His Faith and Thought'' by Paul L. Holmer. 26.
+* Colvin, George. “Pointed Fun by Chesterton.” Review of ''The Napoleon of Notting Hill'' by G.K. Chesterton. 26.
+* Letters. 28+.
+* Christopher, Joe R. “An Inklings Bibliography (5).” 40-46.
+* ''Mythprint''. 47.
+
+==== Poetry ====
+
+* Dahl, Michael. “Saving The Appearances.” 19+.
+* Ellwood, Robert S., Jr. “The Iconography of Love I and II.” 21+.
+
+====Art====
+
+* Beryl de Folo: 47
+* Bonnie GoodKnight: 2, 9, 27; Photgraphs: 23, 24
+* Annette Harper: 13, 16, 22, back cover
+* Michael Kucharski: 28, 29, 30, 31, 32, 33, 34
+* Bruce McMenomy: cover, 4
+* Thadara Ottobris: 26, 35
+* John Uhrumacher: 36, 37
+* Mike Workman: 39
+* Cover: Bruce McMenomy, “The Chronoscope from ''The Dark Tower.''”
+{{mythlorenav|15|17}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 016}}
+
+[[Category:Mythlore]]

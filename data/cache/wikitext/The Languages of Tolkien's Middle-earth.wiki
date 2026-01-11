@@ -1,0 +1,35 @@
+{{book|
+title=The Languages of Tolkien's Middle-earth|
+image=The Languages of Tolkien's Middle-earth.jpg|
+author=[[Ruth S. Noel]]|
+publisher=[[Houghton Mifflin]]|
+date=Second edition, May [[1980]]|
+format=Paperback|
+pages=224|
+isbn=0395291305|
+amazon=http://www.amazon.com/gp/product/0395291305/sr=8-1/qid=1145422754/ref=pd_bbs_1/102-6025778-4717761?%5Fencoding=UTF8|
+amazonprice=$16.00
+}}
+
+'''The Languages of Tolkien's Middle-earth''' is a book by [[Ruth S. Noel]] studying Tolkien's languages. The book is heavily outdated, being published before ''[[The Silmarillion]]'' and ''[[The History of Middle-earth]]'', and even contained errors in the material that already was available at the time.
+ 
+== From the Publisher ==
+This is the book on all of [[J.R.R. Tolkien|Tolkien]]'s invented languages, spoken by [[Hobbits]], [[Elves]], and [[Men]] of [[Middle-earth]]—a dictionary of fourteen languages, an English-[[Elvish]] glossary, all the [[Runes]] and alphabets, and material on Tolkien the linguist.
+
+==Editions==
+
+Detailed information about the different editions.<ref>[[Åke Bertenstam|Bertenstam, Åke]]: ''[http://www.forodrim.org/bibliography/tolklist.html A Chronological Bibliography of Books About Tolkien]''</ref>
+
+*[[1974]]: ''The Languages of Middle Earth''. Baltimore, Md.: Mirage. xxxix, 97 pp., ill. 22 × 13.5&nbsp;cm. ISBN 0-88358-021-7 (pbk)
+
+*[[1980]]: ''The Languages of Tolkien's Middle-earth''. Boston: Houghton Mifflin. [10], 207 pp.&nbsp;19&nbsp;cm. ISBN 0-395-29129-1 (hbk); ISBN 0-395-29130-5 (pbk. 18.5 × 11.5&nbsp;cm.)
+
+==External links==
+* [http://www.elvish.org/articles/LRH.html Ruth S. Noel's ''The Languages of Tolkien's Middle Earth''] at [http://www.elvish.org Elvish.org] (list of errors)
+
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Languages of Tolkien's Middle-earth}}
+[[Category:Linguistic books]]
+[[Category:Publications by title]]
+[[Category:Reference books]]

@@ -1,0 +1,25 @@
+{{plant infobox
+| name=Strawberries
+| image=Bunch of Strawberries.jpg
+| caption=[[:File:Bunch of Strawberries.jpg|Strawberries]] in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| location=Middle-earth
+| notablefor=
+| family=
+| appearance=
+}}
+{{quote|The fruit was so plentiful that young hobbits very nearly bathed in strawberries and cream...|''[[The Return of the King]]'', [[The Grey Havens]]}}
+'''Strawberries''' were wild berries found in several regions of [[Middle-earth]]. 
+
+[[Bilbo Baggins]] tried to satisfy his hunger with wild strawberries growing near a stream in the upper Vales, as [[Thorin and Company]] escaped the [[Goblin-town]]<ref>{{h|6}}</ref> during early [[July]].<ref>See [[User:Gamling/Hobbitdates]]</ref>
+
+During the last years of the [[Third Age]], strawberries were among the many fruits produced by [[The Shire]], and were enjoyed by the young [[Hobbits]].<ref>{{RK|Havens}}</ref>
+
+==Inspiration==
+[[J.R.R. Tolkien]]'s adventure in [[Switzerland]] in [[1911]] was his inspiration for the journey from [[Rivendell]] to the other side of the [[Misty Mountains]],<ref>{{L|306}}</ref> and it is quite possible he consumed strawberries during this time. [[Michael Coren]] notes, "For dessert he liked a trifle or, in summer, strawberries with lots of cream."<ref>[[Michael Coren]], ''[[J.R.R. Tolkien: The Man Who Created the Lord of the Rings]]'', "End Times"</ref> 
+
+In ''[[J.R.R. Tolkien: Artist and Illustrator]]'', No. 23 contains an illustration by J.R.R. Tolkien of a strawberry.
+
+{{references}}
+[[Category:Plants]]

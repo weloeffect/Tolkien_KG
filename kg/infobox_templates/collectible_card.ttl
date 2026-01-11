@@ -1,0 +1,224 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/MEPR%3A_Fatty_Bolger> a schema:WebPage ;
+    rdfs:label "MEPR: Fatty Bolger"@en ;
+    schema:about <http://localhost:8000/resource/MEPR%3A_Fatty_Bolger> .
+
+<http://localhost:8000/page/METW%3A_Akh%C3%B4rahil> a schema:WebPage ;
+    rdfs:label "METW: Akhôrahil"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Akh%C3%B4rahil> .
+
+<http://localhost:8000/page/METW%3A_Alatar> a schema:WebPage ;
+    rdfs:label "METW: Alatar"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Alatar> .
+
+<http://localhost:8000/page/METW%3A_Anduril> a schema:WebPage ;
+    rdfs:label "METW: Anduril"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Anduril> .
+
+<http://localhost:8000/page/METW%3A_Aragorn_II> a schema:WebPage ;
+    rdfs:label "METW: Aragorn II"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Aragorn_II> .
+
+<http://localhost:8000/page/METW%3A_Arwen> a schema:WebPage ;
+    rdfs:label "METW: Arwen"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Arwen> .
+
+<http://localhost:8000/page/METW%3A_Bree> a schema:WebPage ;
+    rdfs:label "METW: Bree"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Bree> .
+
+<http://localhost:8000/page/METW%3A_Edhellond> a schema:WebPage ;
+    rdfs:label "METW: Edhellond"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Edhellond> .
+
+<http://localhost:8000/page/METW%3A_Galadriel> a schema:WebPage ;
+    rdfs:label "METW: Galadriel"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Galadriel> .
+
+<http://localhost:8000/page/METW%3A_Grey_Havens> a schema:WebPage ;
+    rdfs:label "METW: Grey Havens"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Grey_Havens> .
+
+<http://localhost:8000/page/METW%3A_L%C3%B3rien> a schema:WebPage ;
+    rdfs:label "METW: Lórien"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_L%C3%B3rien> .
+
+<http://localhost:8000/page/METW%3A_Moria> a schema:WebPage ;
+    rdfs:label "METW: Moria"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Moria> .
+
+<http://localhost:8000/page/METW%3A_Rangers_of_the_North> a schema:WebPage ;
+    rdfs:label "METW: Rangers of the North"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Rangers_of_the_North> .
+
+<http://localhost:8000/page/METW%3A_Rivendell> a schema:WebPage ;
+    rdfs:label "METW: Rivendell"@en ;
+    schema:about <http://localhost:8000/resource/METW%3A_Rivendell> .
+
+<http://localhost:8000/resource/MEPR%3A_Fatty_Bolger> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Christina_Wald> ;
+    tg:game "meccg"@en ;
+    tg:homesite "Bag End"@en ;
+    tg:image "MEPR - Fatty Bolger.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Fatty Bolger"@en ;
+    tg:number "TW485"@en ;
+    tg:rarity "Promotional"@en ;
+    tg:type "Character"@en .
+
+<http://localhost:8000/resource/METW%3A_Akh%C3%B4rahil> a schema:Thing ;
+    tg:alignment "Neutral"@en ;
+    tg:artist <http://localhost:8000/resource/Liz_Danforth> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Akhôrahil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Akhôrahil"@en ;
+    tg:number "TW254"@en ;
+    tg:rarity "Rare"@en ;
+    tg:type "Hazard Creature"@en .
+
+<http://localhost:8000/resource/METW%3A_Alatar> a schema:Thing ;
+    tg:alignment "Avatar"@en ;
+    tg:artist <http://localhost:8000/resource/Angus_McBride> ;
+    tg:game "meccg"@en ;
+    tg:homesite <http://localhost:8000/resource/METW%3A_Edhellond> ;
+    tg:image "METW - Alatar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Alatar"@en ;
+    tg:number "TW001"@en ;
+    tg:rarity "Fixed2"@en ;
+    tg:type "Character"@en .
+
+<http://localhost:8000/resource/METW%3A_Anduril> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/N._Taylor_Blanchard> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Anduril.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Anduril"@en ;
+    tg:number "TW080"@en ;
+    tg:rarity "Rare"@en ;
+    tg:type "Resource Permanent-event"@en .
+
+<http://localhost:8000/resource/METW%3A_Aragorn_II> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Angus_McBride> ;
+    tg:game "meccg"@en ;
+    tg:homesite <http://localhost:8000/resource/METW%3A_Bree> ;
+    tg:image "METW - Aragorn II.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:number "TW009"@en ;
+    tg:rarity "Fixed1"@en ;
+    tg:type "Character"@en .
+
+<http://localhost:8000/resource/METW%3A_Arwen> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Angus_McBride> ;
+    tg:game "meccg"@en ;
+    tg:homesite <http://localhost:8000/resource/METW%3A_Rivendell> ;
+    tg:image "METW - Arwen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Arwen"@en ;
+    tg:number "TW011"@en ;
+    tg:rarity "Rare"@en ;
+    tg:type "Character"@en .
+
+<http://localhost:8000/resource/METW%3A_Galadriel> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Angus_McBride> ;
+    tg:game "meccg"@en ;
+    tg:homesite <http://localhost:8000/resource/METW%3A_L%C3%B3rien> ;
+    tg:image "METW - Galadriel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Galadriel"@en ;
+    tg:number "TW041"@en ;
+    tg:rarity "Rare"@en ;
+    tg:type "Character"@en .
+
+<http://localhost:8000/resource/METW%3A_Grey_Havens> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Mark_Poole> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Grey Havens.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Grey Havens"@en ;
+    tg:number "TW392"@en ;
+    tg:rarity "CommonB1"@en ;
+    tg:region "Lindon"@en ;
+    tg:type "Site"@en .
+
+<http://localhost:8000/resource/METW%3A_Moria> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Kevin_Ward> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Moria.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Moria"@en ;
+    tg:number "TW406"@en ;
+    tg:rarity "Fixed3"@en ;
+    tg:region "Redhorn Gate"@en ;
+    tg:type "Site"@en .
+
+<http://localhost:8000/resource/METW%3A_Rangers_of_the_North> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Angelo_Montanini> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Rangers of the North.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Rangers of the North"@en ;
+    tg:number "TW102"@en ;
+    tg:rarity "Fixed1"@en ;
+    tg:type "Character"@en .
+
+<http://localhost:8000/resource/METW%3A_Bree> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Randy_Gallegos> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Bree.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Bree"@en ;
+    tg:number "TW371"@en ;
+    tg:rarity "Fixed1"@en ;
+    tg:region <http://localhost:8000/resource/METW%3A_Arthedain> ;
+    tg:type "Site"@en .
+
+<http://localhost:8000/resource/METW%3A_Edhellond> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Christina_Wald> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Edhellond.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Edhellond"@en ;
+    tg:number "TW386"@en ;
+    tg:rarity "CommonB1"@en ;
+    tg:region "Anfalas"@en ;
+    tg:type "Site"@en .
+
+<http://localhost:8000/resource/METW%3A_L%C3%B3rien> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Stefano_Baldo> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Lórien.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Lórien"@en ;
+    tg:number "TW401"@en ;
+    tg:rarity "CommonB1"@en ;
+    tg:region "Wold & Foothills"@en ;
+    tg:type "Site"@en .
+
+<http://localhost:8000/resource/METW%3A_Rivendell> a schema:Thing ;
+    tg:alignment "Hero"@en ;
+    tg:artist <http://localhost:8000/resource/Stefano_Baldo> ;
+    tg:game "meccg"@en ;
+    tg:image "METW - Rivendell.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible_card> ;
+    tg:name "Rivendell"@en ;
+    tg:number "TW414"@en ;
+    tg:rarity "CommonB1"@en ;
+    tg:region "Rhudaur"@en ;
+    tg:type "Site"@en .
+

@@ -1,0 +1,27 @@
+{{letter infobox
+| #=347
+| to=[[Richard Jeffery]]
+| date=[[17 December]] [[1972]]
+| subject=Languages
+}}{{letter|347}}
+==Summary==
+This letter is a reply to several questions, mostly linguistic in nature, asked by [[Richard Jeffery]]. 
+
+'''Question one:''' Concerning the phrase ''Pedo mellon a minno'' on the [[Doors of Durin]]. Jeffery asked whether "friend" could mean "friendly, like a friend". Tolkien replied that [[Gandalf]]'s explanation was the correct one. 
+
+'''Question two:''' Concerning the names of the [[Kings of Gondor]] and [[Kings of Arnor|Arnor]]. All the [[Quenya]] names end in a consonant, like [[Sindarin]] would do, but the names of the descendants of [[Castamir]] ([[Sangahyando]] and [[Angamaitë]]) end with a vowel. Jeffery asks whether this was a deliberate choice, to make the names sound more aggressive. Tolkien replies that Quenya names permitted consonants (especially dentals) at the end. While Sangahyando and Angamaitë might have been warrior names, names such as ''[[Rómendacil I|Rómendacil]]'',  "East-victor", were no less aggressive, albeit more political. 
+
+'''Question three:''' About the use of Quenya by [[Elendil]], a man, and the use of Sindarin by [[Gil-galad]], a [[Noldor|Noldo]]. Jeffery thought this odd, as Quenya was introduced to Men by the Noldor. Tolkien replies that after the [[Doom of Mandos]], the Noldor adopted Sindarin, and adapted their names. On the other hand, in [[Númenor]] Quenya was used as a language of lore and prestige, and so too in [[Gondor]]. By the end of the [[Third Age]], there were more Men than Elves, and more speakers of Quenya in [[Minas Tirith]] than anywhere else in Middle-earth. Westron was the official language, and Sindarin was used to be polite. 
+
+'''Question four:''' A short question about the connection between the [[Tengwar|Tengwa]] ''[[tyelpë]]'' and the Sindarin word ''[[celeb]]''. Tolkien confirms this connection, and goes on to tell about the skill of the [[Teleri]] with silver.
+
+'''Question five:''' A question about the etymologies of ''[[Aragorn]]'' and ''[[Arathorn II|Arathorn]]''. Jeffery proposed the etymologies "Tree-king" and "Two-tree-king". Tolkien dismissed both, and explains why. 
+* Aragorn: Despite [[Aragorn|Aragorn II]]'s obvious connection to the [[White Tree of Gondor]], this is not the case for [[Aragorn I]], after whom the former was named. Tolkien goes on that not all king-names in the line of [[Arthedain]] can be translated. He does not [[Aragorn#Etymology|translate the name]]. 
+* Arathorn: Jeffery here proposed  ''[[-ath]]'', but Tolkien clarified that it did not come from [[Quenya]] ''[[atta]]'' ("two"), but from an old dual. The [[Two Trees]] were made and owned by the [[Valar]], and there was no need to name a Man after them. Arathorn's name is translated as "Eagle-king".
+
+Tolkien concludes the letter with a lament that he cannot provide more linguistic material, nor produce more legends. He then apologizes for the late reply - Jeffery had sent his letter on [[14 August|August 14]]th, and comments that the [[Oxford University]]'s Residents' List spells his name "Jeffrey" rather than "Jeffery", and mentions he is almost always referred to as "[[Tolkein]]". 
+
+{{letters}}
+[[fi:Kirje 347]]
+[[de:Brief 347]]
+[[Category:Letters to Richard Jeffery]]

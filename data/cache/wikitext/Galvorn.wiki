@@ -1,0 +1,34 @@
+{{object infobox
+| name=Galvorn
+| image=DexMat Galvorn material.png
+| caption=''[https://www.elconfidencial.com/tecnologia/novaceno/2023-06-11/galvorn-material-nanotubes-carbono_3662652/ Galvorn]'', a real-world material named after this metal.
+| pronun=
+| othernames=
+| location=
+| owner=
+| type=Type of metal
+| appearance=Black, shining
+| creator=[[Eöl]]
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=Resisting blades and darts
+| audio=
+| audiocaption=
+}}
+'''Galvorn''' was a dark meteoritic iron that was devised by [[Eöl]] from which he made resistant armour. Black and "shining like jet", it was hard as steel, but supple and malleable, proving resistant to all blades and darts.<ref name=Maeglin>{{S|Maeglin}}</ref>
+
+It's possible that galvorn was forgotten or lost with Eöl's death, and possibly also [[Maeglin|Maeglin's]] death,<ref name=Maeglin>{{S|Maeglin}}</ref> as the metal was not mentioned in the [[Second Age|Second]] and [[Third Age|Third]] [[Ages]] of the [[Ambar|world]].<ref>{{HM|Guide}}, p. 157, entry "Galvorn"</ref>
+
+== Etymology ==
+''Galvorn'' is [[Sindarin]] for "shining black",<ref name="Eldamo">{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-3332006945.html|articlename=S. ''Galvorn'' n.|website=[[Eldamo]]|accessed=}}</ref> from ''[[gal]]'' ("light; shine, be bright") and ''[[morn]]'' ("black, dark; night").<ref name="Eldamo"/><ref>{{S|Appendix}}, entries "kal- (gal-)" and "khelek-"</ref><ref>"[http://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names Compound Sindarin Names in Middle-earth]" at [http://www.tolkiendil.com/ Tolkiendil.com] (accessed 8 June 2011)</ref>
+
+== Other versions of the legendarium ==
+The original name of ''galvorn'' was ''rodeöl'', the metal of Eöl,<ref name="Old">{{WJ|Maeglin}}, pp. 322-323</ref> possibly comprised of ''[[raud]]'' ("metal") and ''Eöl''.<ref name="Eldamo"/> [[J.R.R. Tolkien]] changed this name many times, to ''glindûr'' ("dark glance"),<ref>{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-1197029129.html|articlename=S. ''Glindûr'' m.|website=[[Eldamo]]|accessed=}}</ref> ''targlîn'', ''morlîn'', back to ''glindûr'', and then ''maeglin''.  Finally ''galvorn'' was chosen.<ref name="Old"/>
+
+{{references}}
+
+[[Category:Materials]]
+[[Category:Sindarin nouns]]

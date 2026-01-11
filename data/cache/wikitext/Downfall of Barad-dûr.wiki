@@ -1,0 +1,24 @@
+{{disambig-more|The Fall|[[The Fall (disambiguation)]]}}
+{{Events
+|event=Downfall of Barad-dûr
+|location=[[Mordor]]
+|date=[[25 March]], [[Third Age 3019|T.A. 3019]]
+|partof=[[War of the Ring]]
+|name=
+|result=[[Barad-dûr|Tower of Barad-dûr]] destroyed
+|references=
+|description=}}
+{{quote|Towers fell and mountains slid; walls crumbled and melted, crashing down; vast spires of smoke and spouting steams went billowing up, up, until they toppled like an overwhelming wave, and its wild crest curled and came foaming down upon the land.|Vision of [[Samwise Gamgee]] in ''[[The Return of the King]]'', "[[Mount Doom (chapter)|Mount Doom]]"}}
+The '''Downfall of Barad-dûr''' refers to the destruction of [[Barad-dûr]] as a result [[the One Ring]] being unmade.
+
+==History==
+[[Sauron]] began construction of Barad-dûr around {{SA|1000}}. Around {{SA|1600|n}}, he secretly forged the One Ring in the fires of [[Mount Doom]] and completed his fortress after 600 years of construction with the power of the Ring.<ref name="SA">{{App|B1}}</ref> The One Ring was said to be the foundation of Barad-dûr, this great tower of Sauron could only stand whilst the power of the One Ring endured. When [[Isildur]] cut the One Ring off Sauron's hand in the [[Battle of Dagorlad]] the tower was levelled, but with Isildur's refusal to destroy the ring, the foundations remained unbroken.<ref>{{FR|Council}}, p. 244</ref> 
+
+Sauron rebuilt Barad-dûr in {{TA|2951}} after being driven out of [[Dol Guldur]].<ref name="TA">{{App|B2}}</ref> On [[25 March]] {{TA|3019}}, the One Ring fell into the [[Cracks of Doom]] whilst in the clutches of the creature [[Gollum]]. Barad-dûr was utterly destroyed,<ref>{{RK|Doom}}, pp. 946-7</ref> the [[Black Gate]] and [[Towers of the Teeth]] falling with it.<ref>{{RK|Cormallen}}, p. 949</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings - The Return of the King - Barad-dûr collapsing.jpg|thumb|200px|Barad-dûr collapsing, from [[The Lord of the Rings: The Return of the King|''The Return of the King'' (2003)]]]]
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'''''
+: As the ring sinks into the magma of Mount Doom the great eye strains and a great shrieking is heard before Barad-dûr crashes down. The land that the Army of Mordor was standing on also collapsed.
+{{references}}
+[[Category:Third Age]]

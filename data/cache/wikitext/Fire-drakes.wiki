@@ -1,0 +1,37 @@
+{{people infobox
+| name=Fire-drakes
+| image = Ted Nasmith - Searching Eye.jpg
+| caption="Searching Eye" by [[Ted Nasmith]]
+| pronun=
+| othernames=Urulóki
+| origin=[[Dragons]]
+| location=
+| affiliation=[[Morgoth]]
+| rivalry=
+| language=
+| members=[[Glaurung]], [[Ancalagon]], [[Smaug]]
+| lifespan=
+| distinctions=Fire-breathing; later with wings
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+{{quote|...the fire-drakes of the North, issued from [[Angband]]'s gates by night.|''[[Quenta Silmarillion]]'', "[[Of the Return of the Noldor]]"}}
+
+'''Fire-drakes''' ([[Quenya]] ''[[Urulókë|Urulóki]]'') were fire breathing [[Dragons]].
+
+==History and characteristics==
+The fire-drakes were the more powerful of the two fundamental divisions of dragon-kind (the other being the [[cold-drakes]]), who, as the name suggests, were able to breathe fire. [[Glaurung]], the [[Father of Dragons]], was the first of the species.<ref>{{S|Return}}</ref> He first appeared during the late [[First Age]], but the Urulóki were known to have survived even after the [[War of Wrath|downfall]] of the Dark Lord [[Morgoth]], troubling the [[Dwarves]]. Another dragon considered to be of the fire-drakes during the [[Elder Days]] was [[Ancalagon|Ancalagon the Black]].
+
+[[Smaug]], the last of the truly powerful dragons, was slain by [[Bard]] in the late [[Third Age]].<ref>{{HM|H}}, ''passim''</ref> We can be sure that he was not the last of the fire-drakes, though, because [[Gandalf]] refers to fire-breathing dragons in the time before the [[War of the Ring]], nearly eighty years after Smaug's death.<ref>{{FR|I2}}</ref>
+
+==Other versions of the legendarium==
+In "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]", the first tale of the [[legendarium]], multiple Fire-drakes are mentioned. Most of the time it is not clear if they are different from the [[Iron Dragons]], although some of them are clearly living creatures, like the "creature of fire with [[Balrogs]] upon it" or the Fire-drake that dried the [[Fountain of the King]].<ref>{{LT2|III}}, pp. 181, 184</ref>
+
+{{references}}
+[[Category:Dragons]]
+[[Category:Servants of Melkor]]
+[[de:Drachen]]
+[[fi:Lohikäärmeet]]

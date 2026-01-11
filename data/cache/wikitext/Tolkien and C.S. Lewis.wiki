@@ -1,0 +1,23 @@
+{{book
+|title=Tolkien and C.S. Lewis: The Gift of Friendship
+| image = Tolkien and C. S. Lewis.jpg
+|author=[[Colin Duriez]]
+|publisher=Paulist Press
+|date=October [[2003]]
+|format=Paperback
+|pages=256
+|isbn=1587680262
+|amazon=
+|amazonprice=
+}}
+
+'''''Tolkien and C.S. Lewis: The Gift of Friendship''''' is a book which explores the friendship of [[J.R.R. Tolkien]] and [[C.S. Lewis]].
+
+==From the publisher==
+
+{{blockquote|This book explores their lives, unfolding the extraordinary story of their complex friendship that lasted, with its ups and downs, until Lewis's death in 1963. Despite their differences - of temperament, spiritual emphasis, and storytelling style - what united them was much stronger: A shared vision that continues to inspire their millions of readers throughout the world}}. 
+
+{{title|italic}}
+[[Category:Publications by title]]
+[[Category:Scholarly books]]
+[[Category:Biography books]]

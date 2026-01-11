@@ -1,0 +1,19 @@
+{{board game infobox
+| image = Lord_of_the_Rings_Fate_of_the_Fellowship_cover.webp
+| name=The Lord of the Rings: Fate of the Fellowship
+| designer=Matt Leacock
+| publisher=[[Z-Man Games]]
+| releasedate=[[2025]]
+| players=1-5
+| ages=14+
+}}
+'''The Lord of the Rings: Fate of the Fellowship''' is a strategy game published by [[Z-Man Games]] in 2025, retelling the journey of [[Frodo]] and [[Sam]] as they make their way to [[Mordor]] with [[The One Ring]], as told in the [[The Lord of the Rings]]. It reimplements mechanics from the immensely popular ''Pandemic'' board games. 
+
+==From the publisher==
+The Lord of the Rings: Fate of the Fellowship™ is a cooperative game where each player controls 2 characters, lending their unique abilities to protect Frodo, battle enemies in pivotal locations, and evade the menacing [[Nazgûl]] and [[Sauron]]’s searching Eye. Each play presents new challenges every time with 24 different objectives, 14 events, and 13 playable characters. 
+
+==External links==
+* '''[https://www.zmangames.com/game/the-lord-of-the-rings-fate-of-the-fellowship/ Official Site]'''
+* [https://boardgamegeek.com/image/8662670/the-lord-of-the-rings-fate-of-the-fellowship Board Game Geek Profile]
+{{title}}
+[[Category:Board games]]

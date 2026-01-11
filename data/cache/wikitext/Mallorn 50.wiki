@@ -1,0 +1,66 @@
+{{Mallorn
+| name=Mallorn 50
+| image = Mallorn50.jpg
+| editor=[[Henry Gee]]
+| artist=Lorenzo Daniele
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Autumn [[2010]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 50''' is the fiftieth issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Autumn [[2010]].
+
+==Contents==
+* '''Cover Art'''
+** [untitled]
+*** By: Lorenzo Daniele
+* '''Editorial'''
+** "Envisaging the future"
+*** By: [[Marcel Bülles]]
+* '''Letters'''
+* '''Reviews'''
+** "The truth about elves": ''Elves in Anglo-Saxon England: Matters of Belief, Health, Gender and Identity'' by Alaric Hall
+*** Reviewed by Lynn Forest-Hill
+** "An inspector calls": ''The Inheritance'' by [[Simon Tolkien]]
+*** Reviewed by [[Mike Foster]]
+** "Flights of fantasy": ''[[wikipedia:Up (2009 film)|Up]]''
+*** Reviewed by Chad Chisholm
+** "Between discoveries ad emotions": ''[[Tolkien and Philosophy]]'', edited by Roberto Arduini & Claudio A. Testi
+*** By Roberto Arduini & Claudio Testi
+* '''Commentary'''
+** "[[The Tolkien Society]] - the early days"
+*** By: [[Charles Noad|Charles E Noad]]
+** "'... A local habitation and a name'"
+*** By: [[Maggie Burns]]
+** "The magic of fantasy: the traditional, the original and the wonderful"
+*** By: Simon Barrow
+** "The wizard and the rhetor: rhetoric and the ethos of [[Middle-earth]] in ''[[The Hobbit]]''"
+*** By: Chad Chisholm
+** "[[Arwen]] and Edward: redemption and the fairy bride/groom in the literary fairytale"
+*** By: Vanessa Phillips-Zur-Linden
+* '''Interview'''
+** "A man of mystery: [[Simon Tolkien]]"
+*** By: [[Mike Foster]]
+* '''Poetry'''
+** "The Long Watch"
+*** By: Lynn Forest-Hill
+** "The Path to the Sea"
+*** By: Anne Forbes
+** "The End of the Summer"
+*** By: Anne Forbes
+** "[[Tuor]] and [[Ulmo]]"
+*** By: Teresa Kirkpatrick
+* '''Fiction'''
+** "Blasphemy"
+*** By: Julia Fenton
+* '''Well, I'm back'''
+** "[[Thrór's Map|Thror's map]]: decoration or examination?"
+*** By: Paul H. Vigor
+* '''Inside Art'''
+** By: Phyllis Berka, Lorenzo Daniele, John Gibley, Tessa Kirkpatrick, [[Ruth Lacon]], [[Jef Murray]] and Colin Williams
+
+{{mallornnav}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 50}}
+[[Category:Mallorn (journal)]]

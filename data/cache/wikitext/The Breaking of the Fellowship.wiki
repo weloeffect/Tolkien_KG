@@ -1,0 +1,31 @@
+{{chapter
+| image=John Howe - Good Sense Revolts.jpg
+| title=The Breaking of the Fellowship
+| book=The Fellowship of the Ring
+| number=22
+| event=[[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Samwise]] split off from the [[Fellowship of the Ring|Company]] and continue on their journey to [[Mordor]]; the rest are divided by the sudden attack of an [[Orcs|Orc]]-pack.
+| date=[[26 February]] {{TA|3019|n}}
+| location=[[Amon Hen]] and the [[Anduin|River Anduin]]
+| perspective=[[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Samwise]]
+| previous=The Great River
+| next=The Departure of Boromir
+}}
+
+'''The Breaking of the Fellowship''' is the tenth and final chapter of the second book in ''[[The Fellowship of the Ring]]''.
+
+==Summary==
+That night the [[Fellowship of the Ring|company]] rested on the West-bank of the [[Anduin|river]] at the foot of [[Amon Hen]]. The next day, the task of choosing the path was laid on [[Frodo Baggins|Frodo]]'s shoulders. He had to decide whether to return with [[Boromir]] to [[Gondor]] and defeat [[Sauron]], or proceed with the plan to destroy the [[The One Ring|Ring]].
+
+Frodo took a walk in order clear his mind and further consider the issue. Boromir followed him and tried to persuade him to return with the ring to Gondor. Frodo refused and said that if he did not take the difficult path to [[Mount Doom]] and destroy the Ring, every good battle would ultimately be lost.
+
+In desperation, Boromir tried to seize the Ring from him. Frodo slipped it on and escaped Boromir, who then came to his senses and realized what he had done.
+
+Frodo was aware that the others were looking for him. He put on the Ring again and went toward the foot of the Amon Hen, realizing that he must proceed alone to avoid further complications. The company learned from Boromir part of what had happened and in chaos they ran off to find him. [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Peregrin]] ran off in one direction, as [[Legolas]] and [[Gimli]] searched for him in another. On a hunch, [[Samwise Gamgee|Sam]] went to the river where he saw a supposedly empty boat floating. He jumped towards it, but missed and nearly drowned in the water. Frodo took off his Ring and helped Sam ashore, thus saving him. After some arguing, Frodo agreed that Sam should accompany him and the two of them continued the journey toward the [[Mordor|Land of Shadow]].
+
+==Composition==
+Events of this chapter were already concidered in outlines while Tolkien was still writing the chapters set in [[Lothlórien]], that is, probably fall of [[1941]].
+
+The initial title of this chapter was "''The Scattering of the Company''" and included the sailing along the Anduin, ultimately divided, and the first portion formed the previous, different chapter. The chapter, along with Book II as a whole, was probably completed at the end of that year.<ref>{{CG|CG}}, p. xxiv</ref>
+{{References}}
+
+[[Category:The Fellowship of the Ring chapters|Breaking of the Fellowship]]

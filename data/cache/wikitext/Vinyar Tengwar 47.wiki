@@ -1,0 +1,24 @@
+{{VTbox
+| title=Vinyar Tengwar 47
+| image = Vinyar Tengwar 47.png
+| editor=[[Carl F. Hostetter]]
+| illustrator=
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=February [[2005]]
+| format=Paperback journal
+| pages=44
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 47''''' is the forty-seventh issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|46|48}}
+
+==Contents==
+* "''Eldarin Hands, Fingers & Numerals'' and Related Writings, Part one"✫ — J.R.R. Tolkien, ed. Patrick H. Wynne
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 47}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 47]]

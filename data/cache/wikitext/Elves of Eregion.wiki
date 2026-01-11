@@ -1,0 +1,50 @@
+{{sources}}{{expansion}}
+{{people infobox
+| name=Elves of Eregion
+| image=
+| caption=
+| pronun=
+| othernames=
+| origin=Followers of [[Celebrimbor]]
+| location=[[Eregion]]; the far southeast of [[Eriador]], directly to the west of [[Khazad-dûm]]
+| affiliation=[[Gwaith-i-Mírdain]]
+| rivalry=
+| language=[[Sindarin]], [[Quenya]]
+| members=[[Celeborn]], [[Celebrían]], [[Celebrimbor]], [[Galadriel]]
+| lifespan=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+The '''Elves of Eregion''' were [[Elves]] of primarily [[Noldor]] origin that lived in [[Eregion]] under the [[Lord of Eregion|rule]] of [[Celebrimbor]], grandson of [[Fëanor]]. They are notable for their friendship with the [[Dwarves of Khazad-dûm]].
+
+==History==
+===Early history===
+After the end of the [[First Age]], most of the [[Noldor]] who remained in [[Middle-earth]] dwelt in [[Lindon]] under the rule of [[Gil-galad]], their [[High King of the Noldor|High King]].<ref name=rings>{{S|Rings}}</ref> After some seven centuries, [[Celebrimbor]], the grandson of [[Fëanor]], chose to depart from Lindon and passed eastward, drawn by the promise of [[mithril]] in the mines of the Dwarves. Many Elves followed [[Celebrimbor]] and founded the realm of Eregion.<ref name="AppB1">{{App|B1}}</ref> Its capital, [[Ost-in-Edhil]], was founded in {{SA|750}}.<ref name="AppB1"/> It was at this time that [[Galadriel]] and [[Celeborn]] travelled from [[Lake Nenuial]] and settled in Eregion for a while.<ref name="Galadriel">{{UT|Galadriel}}</ref>
+
+The Elves of Eregion lived in harmony and traded freely with the [[Dwarves|Dwarven]] civilization of [[Moria|Khazad-dûm]]. A high road ran from Ost-in-Edhil to Khazad-dûm, and an unprecedented friendship between the two races began in that time.<ref name=rings/> Within Eregion, an important society or guild of craftsmen emerged with Celebrimbor as its leader: these were the ''[[Gwaith-i-Mírdain]]'', "the People of the Jewel-smiths", and their work was said to be the greatest since the time of [[Fëanor]].<ref name=rings/>
+
+===The making of the Rings of Power===
+In {{SA|1200}}, the Elves of Eregion became friends with [[Sauron]], under the guise of [[Annatar]], the "Lord of Gifts".<ref name="AppB1"/> After "[[Annatar]]" taught and assisted the [[Gwaith-i-Mirdain]] with creating the [[Rings of Power]], he left Eregion. Celebrimbor's smiths proceeded then to forge [[Three Rings|Three]] more on their own with the knowledge already gained from him. Their forging was completed by around {{SA|1590}}.<ref name="AppB1"/> Annatar didn't learn about them, and they were "unsullied", free from Sauron's corrupting influence.
+
+When Sauron created the [[One Ring]] in {{SA|1600}}, the Elves who wore the Rings of Power heard his voice and realised they had been deceived.<ref name=rings/><ref name="AppB1"/> In {{SA|1693}}, Celebrimbor sent his three rings away for safekeeping: he gave [[Nenya]] to [[Galadriel]] in [[Lothlórien]], who advised him to send the other two to [[Lindon]], away from Sauron, so he gave [[Vilya]] to [[Gil-galad]] and [[Narya]] to [[Círdan]].<ref name="rings"/><ref name="AppB1"/>
+
+===War and destruction===
+The Elves of Eregion did not stand alone against Sauron. From [[Lindon]], [[Gil-galad]] sent a force commanded by [[Elrond]] to lend them aid. Before Elrond could come to Eregion, the Dark Lord demanded that the Rings of Power be turned over to him, and when he was refused he brought his full force against Eregion.<ref name="Galadriel"/> In {{SA|1697}}, [[Ost-in-Edhil]] fell, with [[Celebrimbor]] himself leading a last desperate defence on the steps of the Jewel-smiths' [[House of the Mírdain|guild house]].<ref name="Galadriel"/> He was taken captive by the [[Orcs]], then shot through with Orc-arrows, and by some accounts, Sauron used Celebrimbor's body as a banner as he turned to face Elrond's army approaching from the north.<ref name="Galadriel"/>
+
+Sauron gathered up the Rings of Power that remained, and laid waste the land of Eregion, bringing an end to its people. The surviving Elves of Eregion seem to have scattered, as there are various accounts of their fates. Some fled northward to join Elrond's host, and that host was itself forced into retreat; some of these Elves of Eregion settled at [[Rivendell]] when Elrond founded it shortly afterwards.<ref name="Galadriel"/> They were joined there by others of their kind who had escaped into the [[Rhovanion|Wild]], and only later found their way to safety. Many of these people seem to have later abandoned [[Middle-earth]] and sailed into the [[West]].<ref name="Galadriel"/>
+
+==Etymology==
+The name ''Eregion'' is [[Sindarin]] for "Land of Holly"<ref>{{UT|Index}}</ref> (the word ''[[ereg]]'' means "holly").<ref>{{S|Appendix}}, ''ereg''</ref>
+
+''Hollin'' (from ''hollin-land'') is an old form, still used locally, of "[[holly]]"; the region abounded in holly-trees.<ref>{{HM|N}}, p. 772</ref>
+
+==Other versions of the legendarium==
+In the ''[[Unfinished Tales]]'' it is stated that "''[[Celeborn]] and [[Galadriel]] therefore went eastwards, about the year 700 of the Second Age, and established the (primarily but by no means solely) [[Noldor]]in realm of Eregion.''"<ref name="Galadriel">{{UT|Galadriel}}</ref> This contradicts the information published in ''[[The Lord of the Rings]]'' which gives the founding of Eregion in the year 750.<ref>{{App|B1}}, entry "750"</ref> It is possible to reconcile the texts if 700 is seen as the year of their moving eastwards with 750 as the year of the foundation of Eregion; the canonicity of this, however, is unknown.
+
+{{references}}
+[[Category:Elven peoples]]

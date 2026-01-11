@@ -1,0 +1,11 @@
+{{letter infobox
+| #=291
+| to=[[wikipedia:Walter Hooper|Walter Hooper]]
+| date=[[22 November]] [[1966]]
+| subject=[[C.S. Lewis]]
+}}{{letter|291}}
+==Summary==
+[[wikipedia:Walter Hooper|Walter Hooper]] had sent a new volume of ''[[wikipedia:Of Other Worlds|Of Other Worlds]]'', a book of collected material of [[C.S. Lewis]], who had died three year prior. Tolkien wrote a two-sentence response, with a post scriptum acknowledging how short that reply was. He commented on Lewis' dualistic mind and imagination, and called the "miserific vision" rationally nonsense and theologically blasphemous.
+{{letters}}
+[[de:Brief 291]]
+[[Category:Letters to Walter Hooper]]

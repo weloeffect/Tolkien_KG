@@ -1,0 +1,36 @@
+{{album
+| image=The Best of The Tolkien Ensemble.jpg
+| title=The Best of The Tolkien Ensemble
+| type=Compilation album
+| artist=[[Tolkien Ensemble]]
+| released=[[2008]]
+| recorded=
+| genre=
+| length=
+| language=
+| label=Olufsen Records
+}}
+'''''The Best of The Tolkien Ensemble''''' is a compilation album by the [[Tolkien Ensemble]]. It features fourteen tracks from their previously released albums and four newly released live tracks.
+
+==Track listing==
+# Verse of the Rings
+# Galadriel's Song of Eldamar (I)
+# A Walking Song (I)
+# The Old Walking Song (I)
+# There is an inn, a merry old inn...
+# Gollum's Song / Riddle
+# Song of Gondor
+# The Ents' Marching Song
+# Treebeard's Song
+# Song of Lebennin
+# Sam's Song in the Orc-tower
+# A Walking Song (II)
+# Elven Hymn to Elbereth Gilthoniel (III)
+# Farewell Song of Merry & Pippin
+# Hobbit tunes: Jigs 'n' Reels, Live from Ledreborg Castle Concerts 2005
+# The Eagle's Song, Live from Ledreborg Castle Concerts 2005
+# Galadriel's Song of Eldamar (I), Live from Musical Theater Bremen 2008
+# Jigs 'n' Reels (encore version), Live from Musical Theater Bremen 2008
+
+{{title|italics}}
+[[Category:Albums]]

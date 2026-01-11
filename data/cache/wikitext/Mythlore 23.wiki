@@ -1,0 +1,62 @@
+{{mythlore
+|title=Mythlore 23
+| image = Mythlore 23.gif
+|editor=Gracia Fay Ellwood
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1982]]
+|format=Paperback
+|pages=47
+}}
+'''''Mythlore'' 23''' ([https://dc.swosu.edu/mythlore/vol7/iss1/ Volume 7, Issue 1]) is an issue of the [[Mythlore]] journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles====
+
+* Marchesani, Diane. "Tolkien's Lore: The Songs of Middle-Earth." 3-5.
+* Dowdy, David. "The Figure of Taliessin." 6-13.
+* Neuleib, Janice. "Love's Alchemy: Jane in That Hideous Strength." 16-17, 19.
+* Howard, Thomas. "The Uses of Myth." 20-23, 35.
+* Sammons, Martha C. "Christian Doctrines 'Transposed' in C.S. Lewis' Till We Have Faces." 31-35.
+
+====Features====
+
+* Speth, Lee. "Cavalier Treatment: Questions of Taste." Review of ''The Life of Brian'' (movie). Hooper, Walter. ''They Stand Together''. 14-15.
+* Smith, Christine. Mythcon Report. 15.
+* Ellwood, Gracia Fay. Editorial. 18+.
+* Letters. 36+.
+* GoodKnight, Glen. Founder's Focus. 40.
+* Christopher, Joe R. "An Inklings Bibliography (12)." 41-45.
+
+====Reviews====
+
+* Patterson, Nancy-Lou. "The Heirarchy of Light." Review of Hillegas, March R., ed. ''Shadows of Imagination: The Fantasies of C.S. Lewis, J.R.R. Tolkien, and Charles Williams''. 24.
+* Patterson, Nancy-Lou. "Evoking Wonder." Review of ''Manlove, C.N. Modern Fantasy -- Five Studies.'' 24-25.
+* Speth, Lee. "The Perfect Place." Review of Baum, L. Frank. ''Oz'' series (Del Rey reprints). 25-26.
+* Patterson, Nancy-Lou. "Neither Confounding the Persons." Review of Payne, Leanne. ''Real Presence: The Holy Spirit in the Works of C.S. Lewis''. 26-27.
+* Patterson, Nancy-Lou. "Past Watchful Dragons." Review of Hooper, Walter. ''Past Watchful Dragons''. 28-29.
+* Patterson, Nancy-Lou. "They Stand Together." Review of Lewis, C.S. ''They Stand Together: The Letters of C.S. Lewis to Arthur Greeves.'' 29-30.
+
+==== Poems ====
+
+* Christopher, Joe R. "Dorothy L. Sayers at Fifty." 40.
+* Berman, Ruth. "Robin's Summonses." 47.
+
+====Art====
+
+* Lisa Cowan: 34
+* Edith Crowe: Front Cover
+* Beryl de Folo: 21, 22, 23
+* Louis Dwarshuis: 27
+* Melodie Grandy: 37
+* Mary Janis Johnson: Front Cover
+* Michael Logan: 47
+* Thadara Ottobris: 8, 9, 10, Back Cover
+* Annalee Peoples: 5, 11, 19
+* John Pivovarnick: 32
+* Kevin S.: 45
+{{mythlorenav|22|24}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 023}}
+
+[[Category:Mythlore]]

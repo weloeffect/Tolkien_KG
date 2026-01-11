@@ -1,0 +1,37 @@
+{{object infobox
+| name=Scroll of Isildur
+| image = Audrey Corman - Scroll of Isildur.jpg
+| caption="Scroll of Isildur" by Audrey Corman
+| pronun=
+| othernames=
+| location=Vaults of [[Minas Tirith]]
+| owner=[[House of Isildur]]
+| type=Manuscript
+| appearance=
+| creator=[[Isildur]]
+| created={{SA|3441}}-{{TA|2}}
+| createdlocation=[[Minas Tirith]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=Describing the nature of [[the One Ring]]
+| gallery=the Scroll of Isildur
+}}
+The '''Scroll of Isildur''' was a scroll made by [[Isildur]] himself during his short time in [[Minas Tirith]] after the [[War of the Last Alliance]] between {{SA|3441}} and {{TA|2}}. The scroll held Isildur's account of the gaining of the [[The One Ring|Ring]] from [[Sauron]] and described the appearance of [[Ring Verse|an inscription]] around the Ring while it was still hot. The Scroll was stored for millennia in the vaults of that city and according to Gandalf it was probably forgotten after the time of the [[Kings of Gondor]] and nobody, except him and perhaps [[Saruman]], had seen it. 
+
+[[Gandalf]] started to believe that [[Bilbo Baggins]]' Magic Ring was the One. In {{TA|3017}} he visited Minas Tirith and studied the scroll. Isildur's description was vital in helping [[Gandalf]] identify the Ring. He visited [[Frodo Baggins]] in [[Bag End]] and tested his ring in the fireplace, confirming it as the One Ring of Sauron.<ref>{{FR|II2}}</ref><ref>{{FR|I2}}</ref>
+
+==Portrayal in adaptations==
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Gandalf visits Minas Tirith to discern the identity of Bilbo's Ring. A brief scene shows him guided to the vaults by a [[Gondorians|Gondorian]] keeper and reading the scroll, which is an elaborate prop in [[Tengwar]] calligraphy.  In the film, Gandalf incorrectly gives the year as {{SA|3434}}.
+
+{{Quote|The year 3434 of the Second Age...here follows the account of Isildur, High King of Gondor, and the finding of the ring of power.
+
+It has come to me... the Ring of Power! It shall be an heirloom of my kingdom... all who follow in my bloodline shall be bound to its fate, for I will risk no hurt to the ring... It is precious to me, though I buy it with great pain.
+
+The marking upon the band begin to fade...the writing which at first was as clear as red flame, has all but disappeared...a secret now that only fire can tell...|Gandalf's reading of Isildur's Scroll, ''The Lord of the Rings: The Fellowship of the Ring}}
+
+{{references}}
+
+[[Category:Books and documents within the legendarium]]
+[[fi:Isildurin käsikirjoitus]]

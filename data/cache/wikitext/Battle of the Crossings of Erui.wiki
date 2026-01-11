@@ -1,0 +1,25 @@
+{{battle
+| name=Battle of the Crossings of Erui
+| image=
+| conflict=[[Kin-strife]] of [[Gondor]]
+| date={{TA|1447}}
+| place=[[Crossings of Erui]] in [[Lebennin]]
+| result=Victory and restoration of [[Eldacar (King of Gondor)|Eldacar]]
+| side1= People of [[Calenardhon]], [[Anórien]], [[Ithilien]], and [[Northmen]]
+| side2= People of the coasts, especially [[Pelargir]] and [[Umbar]]
+| commanders1=[[Eldacar (King of Gondor)|Eldacar]]
+| commanders2=[[Castamir|Castamir the Usurper]]
+| forces1=
+| forces2=
+| casual1=Heavy
+| casual2=Heavy, Castamir
+}}
+The '''Battle of the Crossings of Erui''' was the last battle of the [[Kin-strife]] of [[Gondor]].
+==History==
+In {{TA|1447}}<ref name="TA">{{App|TA}}</ref> the rightful King [[Eldacar (King of Gondor)|Eldacar]] returned to Gondor at the head of an army composed of [[Northmen]] and many of the folk from the northern fiefs of the realm.  [[Castamir|Castamir the Usurper]] gathered the peoples of the coasts, especially from [[Pelargir]] and [[Umbar]], and met Eldacar's forces at the [[Crossings of Erui]],<ref name="Gondor">{{App|Gondor}}</ref> on the road between Pelargir and [[Minas Tirith]].<ref>{{RK|Map}}</ref>
+
+The resulting clash was a victory for Eldacar, who slew Castamir in personal combat and regained the throne.  However, the sons of Castamir, his kin, and many people of the fleets escaped to Pelargir.  After enduring the [[Siege of Pelargir]],<ref name="Gondor"/> in {{TA|1448|n}}<ref name="TA"/> these enemies of the king sailed to Umbar, for Eldacar had no ships to stop them.  Umbar became a refuge for the rebels for generations, until finally subdued by King [[Aragorn|Elessar]] in the [[Fourth Age]].<ref name="Gondor"/>
+
+{{references}}
+[[Category:Conflicts of the Third Age]]
+[[fr:encyclo:evenements:3a:guerres:bataille des gues de l erui]]

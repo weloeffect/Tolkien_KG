@@ -1,0 +1,15 @@
+{{letter infobox
+| #=112
+| to=[[Katharine Farrer]]<ref group=note>In the first edition 'Katharine' is misspelt as 'Katherine', this was corrected in the revised and expanded edition.</ref>
+| date=[[30 November]] [[1947]]
+| subject=''[[The Hobbit]]'', [[Runes]]
+}}
+{{letter|112}}
+==Summary==
+Katharine Farrer, a mystery writer and neighbour of Tolkien had apparently asked for her copy of ''[[The Hobbit]]'' to be signed. Instead, [[J.R.R. Tolkien|Tolkien]] wrote her a note in [[Runes]]. In the letter, Tolkien thanks her for her request, and tells her he is glad ''The Hobbit'' is obtainable again (most stores had run out). He tells her of "[[The Lord of the Rings|the next book]]", and how it will contain [[Appendix E|more information]] about the alphabets. 
+
+==Notes==
+<references group="note"/>
+{{letters}}
+[[Category:Letters to Katharine Farrer| ]]
+[[de:Brief 113]]

@@ -1,0 +1,37 @@
+{{expansion}}{{people infobox
+| name=Iathrim
+| image = Steamey - The royal court of Thingol.jpg
+| caption="The royal court of Thingol" by [[:Category:Images by Steamey|Steamey]]
+| pronun=
+| othernames=Elves of Doriath
+| origin=[[Teleri]] and [[Green-elves]]
+| location=[[Doriath]]
+| affiliation=
+| rivalry=
+| language=[[Doriathrin]]
+| members=[[Amdír]], [[Amroth]]
+| lifespan=immortal
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Iathrim''' or '''Elves of Doriath''' were those [[Sindar]] that lived in the broad forests of central [[Beleriand]], [[Neldoreth]], and [[Forest of Region|Region]], under the Kingship of [[Thingol|Elu Thingol]] and later [[Dior|Dior Eluchíl]]. These people, whose [[Melian|Queen]] was of the order of the [[Maiar]] and whose King was the High King of the Sindar, were held to be the highest and noblest of the [[Sindar|Grey-elven]] kindred.
+
+The [[Marchwardens]] were those Elves assigned to guarding the borders of the forest of Doriath.<ref>{{S|Turin}}</ref>
+
+After the [[Ruin of Doriath]], [[Elwing]] led the survivors to the [[Mouths of Sirion]].
+
+==Etymology==
+''Iathrim'' is [[Sindarin]] for "People of the Fence", as is a compound of ''[[iath]]'' ("fence") and  the class-plural suffix ''-[[rim]]''.<ref>{{WJ|B}}, p. 378</ref>
+
+==Other versions of the legendarium==
+In the [[The Book of Lost Tales|Book of Lost Tales]] elves of [[Artanor]] (Doriath) are called Woodland Elves, as well as Woodelves, Elves of the wood(land) or Elves of the forest.<ref>[[J.R.R. Tolkien]], [[Christopher Tolkien]] (ed.), ''[[The Book of Lost Tales Part Two]]'', Index.</ref> On the [[The First 'Silmarillion' Map|First 'Silmarillion' Map]] elves of Doriath are called [[Wood-elves]].
+
+{{references}}
+[[Category:Elven peoples]]
+[[Category:Moriquendi]]
+[[Category:Sindar]]
+[[Category:Sindarin demonyms]]

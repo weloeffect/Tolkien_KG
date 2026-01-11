@@ -1,0 +1,68 @@
+{{expansion}}{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}{{disambig-more|Two Towers|[[Two Towers (disambiguation)]]}}
+{{video game infobox
+| image = EA's The Lord of the Rings- The Two Towers box.jpg
+| name=The Lord of the Rings: The Two Towers
+| developer=[[Stormfront Studios]] (PS2, Xbox)<br />[[Hypnos Entertainment]] (GC)<br>Griptonite Games (GBA)<br/>JAMDAT (Mobile)
+| publisher=[[Electronic Arts]]
+| platform=[[wikipedia:Game Boy Advance|Game Boy Advance]]<br/>[[wikipedia:GameCube|GameCube]]<br/>[[wikipedia:Mobile games|Mobile]]<br/>[[wikipedia:PlayStation 2|PlayStation 2]]<br/>[[wikipedia:Xbox|Xbox]]
+| releasedate=PS2: 21 October 2002<br />GameCube, Xbox: November 2002
+| genre=Action
+|}}'''The Lord of the Rings: The Two Towers''' is an action video game by [[Electronic Arts]] released in 2002, based on [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]], taking scenes from [[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]] and [[The Lord of the Rings: The Two Towers|The Two Towers]]. As the name ''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring]]'' was already used by [[Vivendi]], EA could not publish a game about the first movie, and as such, had to incorporate scenes of both into one game.
+
+The game sees the reprisal of much of the movie's cast, and uses music from the first film but not the second, since the latter's soundtrack was still being recorded when the game was being developed.
+
+The title was one of the top selling console titles of 2002 and 2003, and was widely praised for its seamless transitions from actual film footage to interactive gameplay.
+
+==Synopsis==
+The game allows players to play [[Aragorn]], [[Gimli]], [[Legolas]] and [[Isildur]] (unlocked some time after beating the game), in a series of missions, many taken directly from either Peter Jackson's The Fellowship of the Ring (such as [[Weathertop]]) or Peter Jackson's The Two Towers ([[Amon Hen]], [[Helm's Deep]]). Other missions, such as [[Fangorn Forest]], are original pieces within the films' setting.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Frodo Baggins]] || [[Elijah Wood]]
+|-
+| [[Gandalf|Gandalf the Grey]] || [[Ian McKellen]]
+|-
+| [[Aragorn]] (Strider) || [[Viggo Mortensen]]
+|-
+| [[Samwise Gamgee]] || [[Sean Astin]]
+|-
+| [[Boromir]] || [[Sean Bean]]
+|-
+| [[Arwen]] || [[Liv Tyler]]
+|-
+| [[Gimli]] || [[John Rhys-Davies]]
+|-
+| [[Meriadoc Brandybuck]] || [[Dominic Monaghan]]
+|-
+| [[Peregrin Took]] || [[Billy Boyd]]
+|-
+| [[Legolas]] || [[Orlando Bloom]]
+|-
+| [[Saruman|Saruman the White]] || [[Christopher Lee]]
+|-
+| [[Elrond]] || [[Hugo Weaving]]
+|-
+| [[Éowyn]] || [[Carole Ruggier]] 
+|}
+
+The screenplay is written by [[Philippa Boyens]]. Of the movie characters, only Éowyn is not voiced by her movie actress, [[Miranda Otto]].
+
+==Game Boy Advance version==
+In contrast to the console versions, the Game Boy Advance version is an action-based role playing game similar to older dungeon crawlers. Playing as Aragorn, Legolas, Frodo, Éowyn or Gandalf, the player will see 30 levels per character, bringing the grand total to over 150 levels in the entire game. Gathering items and increasing abilties, you can play the game over and over until you reach the highest levels possible.
+
+==External links==
+* [http://www.ea.com/official/lordoftherings/thetwotowers/us/ Official website]
+{{Videogames}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Two Towers}}
+[[Category:Action games]]
+[[Category:EA Games]]
+[[Category:Game Boy Advance games]]
+[[Category:GameCube games]]
+[[Category:Mobile games]]
+[[Category:PlayStation 2 games]]
+[[Category:Xbox games]]

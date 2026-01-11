@@ -1,0 +1,39 @@
+{{Poem infobox
+| title=Over Old Hills and Far Away
+| other names=''Ʒeond fyrne beorgas ⁊ heonan feor'', ''Over old Hills and Far Away'',<ref name=appendix>{{CP|A3}}</ref> ''Over old Hills and far away'',<ref name=appendix/> ''Over old Hills & far away''<ref name=TextC>{{CP|TC}}</ref>
+| written=Between [[January]] and [[February]] of [[1916]]
+| revised=[[1927]]
+| published=''[[The Book of Lost Tales Part One]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Tinfang]]
+}}
+
+'''''Over Old Hills and Far Away''''' is a poem written by [[J.R.R. Tolkien]] that features [[Tinfang]], much like another [[Tinfang Warble (poem)|poem]]. It was published and commented in ''[[The Book of Lost Tales Part One]]'', where [[Christopher Tolkien]] compares the earlier readings.<ref name=BOLT>{{LT1|Over}}, pp. 108-10</ref>
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+:It was early and still in the night of June,
+:And few were the stars, and far was the moon,
+:The drowsy trees drooping, and silently creeping
+:Shadows woke under them while they were sleeping.
+
+:I stole to the window with stealthy tread
+:Leaving my white and unpressed bed;
+:And something alluring, aloof and queer,
+:Like perfume of flowers from the shores of the mere
+:That in [[Eldamar|Elvenhome]] lies, and in starlit rains
+:Twinkles and flashes, came up to the panes
+:Of my high lattice-window. Or was it a sound?
+:I listened and marveled with eyes on the ground.
+:For there came from afar a filtering<ref name=collectedpoems>{{CP|43}}</ref> note
+:Enchanting sweet, now clear, now remote,
+:As clear as a star in a pool by the reeds,
+:As faint as the glimmer of dew on the weeds.<ref name=BOLT/></poem>
+
+==Background==
+Between [[January]] and [[February]] of [[1916]],<ref name=guide>{{CG|RG}}, p. 693 (entry "''Over Old Hills and Far Away''")</ref> Tolkien wrote the first four drafts of ''Over Old Hills and Far Away'' at Brocton Camp in Staffordshire. The earliest of which was given the name '''''Ʒeond fyrne beorgas ⁊ heonan feor''''' in [[Old English]] and "an apparently contemporaneous note"<ref name=guide/> which said "Jan[uary]-Feb[ruary] 1916"<ref name=chronology>{{CG|C}}, p. 76 (entry "?January-February 1916")</ref>, dating the poem. A typescript<ref name=chronology/> made later<ref name=chronology/> had an inscription which said "Brocton Camp, Christ[mas]-Jan[uary] [[1915]]-16"<ref name=guide/>. Later in [[1927]], Tolkien rewrote the poem while at [[Oxford]]. The latest draft of the poem was posthumously published in [[1983]] as part of ''[[The Book of Lost Tales Part One]]'', where [[Christopher Tolkien]] compared it to some earlier readings.<ref name=BOLT/>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Book of Lost Tales]]

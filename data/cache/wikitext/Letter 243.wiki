@@ -1,0 +1,15 @@
+{{letter infobox
+| #=243
+| to=[[Michael Tolkien]]
+| date=[[19 December]] [[1962]]
+| subject=[[Sir Gawain and the Green Knight, Pearl and Sir Orfeo]]
+}}{{letter|243}}
+==Summary==
+Tolkien wished [[Michael Tolkien|Mick]] a merry Christmas. After his retirement, so the Professor told, he was short of money, but [[Allen and Unwin|Allen & Unwin]] paid his royalties for the very popular ''[[The Adventures of Tom Bombadil]]'' (8,000 copies sold prior to publication) in advance. ''[[Ancrene Wisse and Hali Meiðhad|Ancrene Wisse]]'' was in the process of being printed, and ''[[Sir Gawain and the Green Knight, Pearl and Sir Orfeo|Gawain'' and ''Pearl]]'' were to be, the following year. Tolkien looked forward to working on the legends of [[Númenor]]. Also, a "Festschrift" was in the works, containing a prefatory ode by [[W.H. Auden]], and contributions by 22 Anglists. It was the plan of [[Rayner Unwin]] and [[Norman Davis]] (Tolkien's successor), to commemorate Tolkien's 70th birthday, the following [[3 January|January 3]].
+
+==Notes==
+* The translations of ''Gawain'' and ''Pearl'' would not come out until [[1975]]. 
+* The Festschrift is titled ''[[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday]]'', edited by Norman Davis and [[Charles Leslie Wrenn]] (London: Allen & Unwin, 1962).  
+{{letters}}
+[[Category:Letters to Michael Tolkien]]
+[[de:Brief 243]]

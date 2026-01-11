@@ -1,0 +1,12 @@
+{{letter infobox
+| #=293
+| to=William Foster
+| date=[[29 December]] [[1966]]
+| subject=Request of [[Index:Interviews with J.R.R. Tolkien|interview]]
+}}{{letter|293}}
+==Summary==
+William Foster, a journalist for [[wikipedia:The Scotsman|''The Scotsman'']], had requested an [[Index:Interviews with J.R.R. Tolkien|interview]]. Tolkien prized ''The Scotsman'', but stated that he could not give interviews due to time constraints. New interviews would be available when his next book came out.
+==Notes==
+* An interview with Foster was published in ''The Scotsman'' of [[25 March]] [[1967]], so apparently the Professor found time. 
+{{letters}}
+[[de:Brief 293]]

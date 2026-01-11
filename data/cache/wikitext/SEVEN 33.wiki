@@ -1,0 +1,96 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 33
+| image=
+| editor=
+| illustrator=
+| date=[[2016]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/e48505819|articlename=Vol. 33, 2016|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 33''''' is the thirty-third volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2016]].<ref name="jstor" />
+==Contents==
+* Remembrances:
+** David Lavery remembered by Jane Hipolito
+* "Sayers as a Catholic"
+** By: Kathryn Wehr
+* "A Letter from C.S. Lewis"
+** By: Dabney Park
+* "On the Stairs of the Great Gate: C.S. Lewis's Imagination and the Quest for Faith in ''Till We Have Faces''"
+** By: Elaine Tixier
+* "Meddling in the Mind of Melkor: ''The Silmarillion'' and the Nature of Sin"
+** By: Taylor Hibbs
+* "Puddleglum, Pascal, and Plato: Epistemology in C.S. Lewis's ''The Silver Chair''"
+** By: Joseph Chapa
+* "Villainous Handwriting: A Chronological Study of C.S. Lewis’s Script"
+** By: Charlie W. Starr
+* Review Essays:
+** "New Light on the Great War"
+*** By: Edwin Tait
+** "An Unwelcome Transposition (''C.S. Lewis: Revelation and the Christ'' by Paul H. Brazier)"
+*** By: Travis Buchanan
+* Supplement:
+** "Supplement to 'Villainous Handwriting': A Chronological Study of C.S. Lewis’s Script"
+* Book Reviews:
+** "Review of ''The Woman Who Was Chesterton'' by Nancy Carpentier Brown"
+*** By: David Paul Deavel
+** "Review of ''C.S. Lewis on Politics and the Natural Law'' by Justin Buckley Dyer and Micah J. Watson"
+*** By: Bryan McGraw
+** "Review of ''The Surprising Imagination of C.S. Lewis: An Introduction'' by Jerry Root and Mark Neal"
+*** By: Daniel Train
+** "Review of ''Approaches to Teaching Tolkien’s The Lord of the Rings and Other Works'', edited by Leslie A. Donovan"
+*** By: James Beitler
+** "Review of ''Charles Williams: The Third Inkling'' by Grevel Lindop"
+*** By: Rev. Nancy E. Topolewski, Ph.D
+* Book Notes:
+** ''Baptism of Fire: The Birth of the Modern British Fantastic in World War I''
+*** By: Janet Brennan Croft, editor
+** ''Bandersnatch: C.S. Lewis, J.R.R. Tolkien, and the Creative Collaboration of the Inklings''
+*** By: Diana Pavlac Glyer
+** ''C.S. Lewis at Poets’ Corner''
+*** By: Michael Ward and Peter S. Williams, editors
+** ''Women and C.S. Lewis: What His Life and Literature Reveal for Today’s Culture''
+*** By: Curtis and Mary Pomroy Key, editors
+** ''Medieval Wisdom for Modern Christians: Finding Authentic Faith in a Forgotten Age with C.S. Lewis''
+*** By: Chris R. Armstrong
+** ''A Philosophical Walking Tour with C.S. Lewis: Why It Did Not Include Rome''
+*** By: Stewart Goetz
+** ''The Feminine Ethos in C.S. Lewis’s Chronicles of Narnia''; ''The Gender Dance: Ironic Subversion in C.S. Lewis’s Cosmic Trilogy''; ''Surprised by the Feminine: A Rereading of C.S. Lewis and Gender''
+*** By: Monika B. Hilder
+** ''Yet One More Spring: A Critical Study of Joy Davidman''
+*** By: Don W. King
+** ''The Intellectual World of C.S. Lewis''
+*** By: Alister E. McGrath
+** ''True Myth: C.S. Lewis and Joseph Campbell on the Veracity of Christianity''
+*** By: James W. Menzies
+** ''C.S. Lewis Goes to Hell: A Companion and Study Guide to The Screwtape Letters''
+*** By: William O’Flaherty
+** ''Ransoming the Waste Land: Papers on C.S. Lewis’s Space Trilogy, Chronicles of Narnia, and Other Works Volume I–III''
+*** By: Nancy-Lou Patterson
+** ''C.S. Lewis and Christian Postmodernism: Word, Image, and Beyond''
+*** By: Kyoko Yuasa
+** ''The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien''
+*** By: Roberto Arduini and Claudio A. Testi, editors
+** ''Representations of Nature in Middle-earth''
+*** By: Martin Simonson, editor
+** ''The Spiritual World of The Hobbit''
+*** By: James Stuart Bell
+** ''Hobbit Lessons: A Map for Life’s Unexpected Journeys''
+*** By: Devin Brown
+** ''Moments of Grace and Spiritual Warfare in The Lord of the Rings''
+*** By: Anne Marie Gazzolo
+** ''Tolkien and Wagner: The Ring and Der Ring''
+*** By: Christopher MacLachlan
+** ''The Real Middle-Earth: Discovering the Origin of The Lord of the Rings''
+*** By: Michael Muhling
+** ''J.R.R. Tolkien, A Secret Vice: Tolkien on Invented Languages''
+*** By: Dimitra Fimi and Andrew Higgins, editors
+** ''J.R.R. Tolkien, The Story of Kullervo''
+*** By: Verlyn Flieger, editor
+** ''Culture, Communion, and Recovery: Tolkienian FairyStory and Inter-Religious Exchange''
+*** By: Alana M. Vincent<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|32|34}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 33}}
+
+[[Category:SEVEN]]

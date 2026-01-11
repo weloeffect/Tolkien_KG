@@ -1,0 +1,37 @@
+{{object infobox
+| name=Key of Orthanc
+| image=
+| caption=
+| pronun=
+| othernames=
+| location=[[Minas Tirith]], then [[Orthanc]], finally Minas Tirith
+| owner=[[Stewards of Gondor]], [[Saruman]], King [[Aragorn|Elessar]]
+| type=Key
+| appearance=Large, intricate, black
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+The '''Key of Orthanc''' (often referred to in the plural as the "keys") granted entry to the otherwise impenetrable tower of [[Orthanc]].  The keys were large, intricate in shape, black in color, and secured together on a steel ring.<ref name="Partings">{{RK|Partings}}</ref>
+
+==History==
+The tower of Orthanc was built between {{SA|3320}}, the year in which [[Gondor]] and [[Arnor]] were established, and {{SA|3430}}, when the [[Last Alliance of Elves and Men]] was first formed.<ref>{{App|SA}}</ref>  Presumably as the tower was completed its doors and the keys that unlocked them were fashioned.
+ 
+In the [[Third Age]], [[Calenardhon]], which was never densely populated, gradually lost most of its people. Eventually the tower of Orthanc became deserted and its keys were removed to [[Minas Tirith]] and kept by the [[Stewards of Gondor|Stewards]].<ref>{{UT|Palantiri}}</ref>
+ 
+In {{TA|2510}},<ref name="Isen">{{UT|Isen}}</ref> the lands of [[Calenardhon]] became the kingdom of [[Rohan]], although Gondor retained control of Isengard and Orthanc. During this time Isengard was manned by a small number of Gondorians led by a hereditary Captain. However the keys of Orthanc were kept by the Stewards of Gondor.<ref>{{UT|Cirion}}</ref>
+ 
+Over time, while retaining the keys of Orthanc, the Stewards forsook the tower as their thoughts looked eastwards. Eventually Isengard came under the control of the Dunlendings who led numerous raids on the [[Westfold]]. The Dunlendings were eventually starved out in the great famine after the [[Long Winter]]. [[Fréaláf|King Fréaláf]] and [[Beren (Steward of Gondor)|Steward Beren]] welcomed [[Saruman]]'s offer to take command of Isengard and in {{TA|2759}}<ref>{{App|Stewards}}</ref> the wizard was given the keys of Orthanc.<ref name="Isen" />
+ 
+A week before [[22 August]], {{TA|3019}},<ref>{{App|Great}}</ref> when [[Aragorn|King Elessar]] and company arrived at Orthanc, Saruman had departed Isengard with [[Gríma|Gríma Wormtongue]]. However, before he left, [[Treebeard]] made him lock the tower and hand over the keys of Orthanc.<ref name="Partings"/>
+ 
+After the fall of [[Sauron]], one of [[Aragorn|King Elessar's]] first tasks in the re-ordering of his realm was the restoration of Orthanc. He ordered that the ''[[Palantíri|palantír]]'' recovered from Saruman should be returned to the tower. Having access with the key of Orthanc it was then that the tower was searched and many secrets were revealed.<ref name="Isen"/>
+{{references}}
+[[Category:Objects]]
+
+[[de:Schlüssel zum Orthanc]]
+[[fr:encyclo:artefacts:clef d orthanc]]

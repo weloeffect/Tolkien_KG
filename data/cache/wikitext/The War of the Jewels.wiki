@@ -1,0 +1,88 @@
+{{disambig-two|the 1994 publication|War of the [[First Age]]|[[Battles of Beleriand]]}}
+{{book
+| title=The War of the Jewels
+| image = The War of the Jewels (UK).jpg
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[HarperCollins]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[20 October]] [[1994]]
+| dateUS=[[6 December]] 1994
+| format=Hardback; paperback
+| pages=470
+| isbn=0261103148
+| precededby=[[Morgoth's Ring]] (1993)
+| followedby=[[J.R.R. Tolkien: Artist and Illustrator]] (1995)
+}}
+'''''The War of the Jewels''''', published in [[1994]], is the eleventh volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+Continuing from the previous ''[[Morgoth's Ring]]'', this volume provides detailed writings and editorial commentary pertaining to Tolkien's cosmology that eventually would become the published ''[[The Silmarillion]]''.
+
+==Contents==
+* Foreword
+
+* '''Part One: [[The Grey Annals]]'''
+
+* '''Part Two: The Later ''Quenta Silmarillion''''' (continued from ''Morgoth's Ring'')
+** IX. "Of Men"
+** X. "Of the Siege of Angband"
+** XI. "Of Beleriand and Its Realms"
+** XII. "Of Turgon and the Building of Gondolin"
+** XIII. "Concerning the Dwarves"
+** XIV. "Of the Coming of Men into the West"
+** XV. "Of the Ruin of Beleriand and the Fall of Fingolfin"
+** "The Last Chapters"
+
+* '''Part Three: The Wanderings of Húrin and Other Writings'''
+** I. "[[The Wanderings of Húrin]]"
+** II. "[[Ælfwine and Dírhaval]]"
+** III. "[[Maeglin (chapter)|Maeglin]]"
+** IV. "Of the Ents and the Eagles"
+** V. "[[The Tale of Years (The War of the Jewels)|The Tale of Years]]"
+
+* '''Part Four: [[Quendi and Eldar]]'''
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book XI reads:
+
+:"''In this book are recorded the last writings of John Ronald Reuel Tolkien concerning the [[Battles of Beleriand|wars of Beleriand]], here also is told the story of how Húrin Thali[o]n brought ruin to the Men of Brethil, with much else concerning the Edain and Dwarves and the names of many peoples in the [[Elvish|speech of the Elves]].''"
+
+==From the publisher==
+{{blockquote|The second of two companion volumes which documents the later writing of The Silmarillion, Tolkien’s epic tale of war.<br>
+In The War of the Jewels Christopher Tolkien takes up his account of the later history of The Silmarillion from the point where it was left in Morgoth’s Ring. The story now returns to Middle-earth, and the ruinous conflict of the High Elves and the Men who were their allies with the power of the Dark Lord. With the publication in this book of all J.R.R. Tolkien’s later narrative writing concerned with the last centuries of the First Age, the long history of The Silmarillion, from its beginning in The Book of Lost Tales, is completed; and the enigmatic state of the work at his death can be understood.<br>
+This book contains the full text of [[The Grey Annals]], the primary record of The War of the Jewels, and a major story of Middle-earth now published for the first time: the tale of the disaster that overtook the forest people of Brethil when Hurin the Steadfast came among them after his release from long years of captivity in Angband, the fortress of Morgoth.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:War of the Jewels 1994.png |1994 hardcover
+File:War of the Jewels 1995.jpeg |1995 paperback
+File:The War of the Jewels (HC2002).jpeg |2002 & 2015 paperback
+File:War of the Jewels 2010.png ‎|2010 hardcover
+File:War of the Jewels 2024.jpeg ‎|2024 paperback
+File:War of the Jewels hc 2024.jpg|2024 hardcover
+</gallery>
+* [[HarperCollins]] hardcover ([[1994]]), pp.&nbsp;470. ISBN 0261103148
+* [[HarperCollins]] paperback ([[1995]]), ISBN 0261103245 - (cover art by [[John Howe]])
+** 1995 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365357
+** 2015 paperback edition, 24th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #4)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#xi A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:War of the Jewels}}
+[[Category:Fiction books]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+
+[[de:The War of the Jewels]]
+[[fr:tolkien/biblio/home11]]

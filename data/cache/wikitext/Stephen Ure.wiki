@@ -1,0 +1,26 @@
+{{actor
+| image =
+| name = Stephen Ure
+| lifetime = [[28 March]] [[1958]]
+| played = [[Grishnákh]], [[Gorbag]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| played2 = [[Fimbul]], [[Grinnah]]
+| film2 = [[The Hobbit (film series)|''The Hobbit'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0881831/ Profile]
+}}
+
+'''Stephen Ure''' (born [[28 March|March 28]], [[1958]]) is an Australian actor who played [[Grishnákh]] in ''[[The Lord of the Rings: The Two Towers]]'', [[Gorbag]] in ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'', [[Grinnah]] in ''[[The Hobbit: An Unexpected Journey]]'', and [[Fimbul]] in both ''An Unexpected Journey'' and ''[[The Hobbit: The Desolation of Smaug|The Desolation of Smaug]]''.
+
+In June [[2007]], he and 14 other actors filed [https://us.imdb.com/news/ni0058227/ a lawsuit] against [[New Line Cinema]] over merchandising royalties.<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2007/06/01/23983-actors-join-to-sue-new-line-over-lotr-merchandising/|articlename=Actors join to sue New Line over LOTR merchandising|dated=1 June 2007|website=TORN|accessed=3 December 2024}}</ref> The action was settled out of court in October [[2008]].<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2008/10/08/30205-new-zealand-actors-settle-out-of-court-with-new-line-cinema/|articlename=New Zealand actors settle out of court with New Line|dated=8 October 2008|website=TORN|accessed=3 December 2024}}</ref>
+
+{{references}}
+
+{{DEFAULTSORT:Ure, Stephen}}
+[[Category:Actors and actresses]]
+[[Category:Australian people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Hobbit (film series) cast]]
+
+[[de:Stephen Ure]]
+[[fi:Stephen Ure]]

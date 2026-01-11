@@ -1,0 +1,45 @@
+{{kingdom
+| image=Turner Mohan - The March of Maedhros.jpg
+| name = March of Maedhros
+| pronun=
+| othernames=
+| location=North-eastern [[Beleriand]]
+| capital=[[Himring]]
+| towns=
+| regions=
+| population=[[Noldor]]
+| language=
+| govern1=[[Maedhros]]
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date={{FA|7}}
+| event2=Defeated
+| event2date=By {{FA|540}}
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+}}
+The '''March of Maedhros''' was a region in the northeastern borderlands of [[Beleriand]], between [[Dorthonion]] and [[Ered Luin]] and south of [[Lothlann]].<ref name="Map">{{S|Map}}</ref>  It was guarded by the [[Noldor]] under the general captaincy of [[Maedhros]].  The chief Stronghold of the March of Maedhros was [[Himring]], a fortress built by the [[Sons of Fëanor]] after the [[Kinslaying at Alqualondë|Kinslaying]].<ref>{{S|Return}}</ref>
+
+==Description==
+The area consisted of a series hills and plains. The hills, most notable in the eastern areas, were surrounding the Hill of [[Himring]], the capital fortress.<ref name="Map"/>
+
+==History==
+It was fortified by Maedhros after he moved his brothers and their people further east out of [[Hithlum]] to avoid any feuds with their kinsmen. He established himself on Himring. It was frequently attacked by the forces of Angband throughout the [[First Age]] in the Battles of Beleriand, generally because it lacked in natural fortification, until it was finally overrun during the [[Nirnaeth Arnoediad]].<ref>{{S|Fifth}}</ref>
+
+==External links==
+*[http://middle-earth.xenite.org/2013/10/23/did-the-march-of-maedhros-include-the-lands-of-his-brothers/ Did the March of Maedhros Include the Lands of his Brothers?] by [[Michael Martinez]]
+{{references}}
+[[Category:Regions]]
+[[Category:Beleriand]]
+
+[[fi:Maedhrosin Rajamaa]]
+[[de:Maedhros’ Mark]]

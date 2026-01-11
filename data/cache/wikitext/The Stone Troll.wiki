@@ -1,0 +1,57 @@
+{{Poem infobox
+| title=The Stone Troll
+| other names=''Pēro & Pōdex'',<br>''The Root of the Boot'',<br>Troll-song
+| written=Around [[1923]] or [[1924]]
+| revised=Around [[1962]]
+| published=''[[Songs for the Philologists]]'',<br>''[[The Fellowship of the Ring]]'',<br>''[[The Adventures of Tom Bombadil]]'',<br>''[[The Poetry of J.R.R. Tolkien]]'',<br>''[[The Tolkien Papers]]'',<br>''[[The Annotated Hobbit]]'',<br>''[[The Return of the Shadow]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Trolls]]
+}}
+'''The Stone Troll''' is a poem composed by [[Samwise Gamgee]] and recorded in the [[Red Book of Westmarch]].<ref>{{AB|Preface}}</ref>  Sam recited this poem when [[Aragorn]] and the hobbits were resting<ref>{{FR|I12}}</ref> in the shade of the trolls who had been turned into stone during [[Bilbo Baggins]]' adventure with the Dwarves.<ref>{{H|Mutton}}</ref>
+
+== First stanza ==
+[[File:J.R.R. Tolkien - The Stone Troll.mp3|thumb|left|[[J.R.R. Tolkien]] reads an earlier version of The Stone Troll]]
+<br><br><br><br><br>
+<poem style="font-style:italic; margin-left:20px;">
+Troll sat alone on his seat of stone,
+And munched and mumbled a bare old bone;
+For many a year he had gnawed it near,
+For meat was hard to come by.
+	Done by! Gum by!
+In a cave in the hills he dwelt alone,
+And meat was hard to come by.<ref>{{AB|Troll}}</ref>
+</poem>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | |,|-|-|-|.| | |}}
+{{familytree| | | | UNK | | TIM | |UNK=''unknown''|TIM=Tim}}
+{{familytree| | | | |!| | | | | | |}}
+{{familytree| | | | TOM | | | | | |TOM=Tom}}
+{{familytree/end}}
+
+[[File:Matěj Čadil - Troll sat alone on his seat of stone.jpg|thumb|"Troll sat alone on his seat of stone" by [[:Category:Images by Matěj Čadil|Matěj Čadil]]]]
+
+== Background ==
+The poem was first written around 1923 or 1924 with the Latin name '''''Pēro & Pōdex''''', before it was revised and renamed to '''''The Root of the Boot'''''. This version appeared in ''[[The History of The Hobbit]]''.
+
+The ''The Root of the Boot'' version was set to the tune of ''The Fox Went Out'', and was first published as the 22nd song in ''[[Songs for the Philologists]]'' in [[1936]]. This version was reprinted in ''[[The Poetry of J.R.R. Tolkien]]'' and ''[[The Tolkien Papers]]'' ([[1967]]), and ''[[The Annotated Hobbit]]'' ([[1988]]). A revised form appeared in ''[[The Return of the Shadow]]'' in [[1988]].
+
+[[Image:Songs for the Philologists page 1.jpeg|thumb|250px|The poem as it appears in ''[[Songs for the Philologists]]'']]
+
+Tolkien later revised the poem as ''The Stone Troll'' and included it in ''[[The Adventures of Tom Bombadil]]'' in 1962. [[Pauline Baynes]], who illustrated ''The Adventures of Tom Bombadil'', depicted Tom who kicked the troll with his ''boots'' as [[Tom Bombadil]]; although the name was most probably generic and there is no evidence that the author intended Tom to be Bombadil, as having an uncle and father would be absurd.
+
+[[Robert Foster]] considers a possibility that Tom was somehow modelled after Bombadil, considering that Sam composed the poem soon after their meeting.<ref>{{HM|Guide}}, p. 385</ref>
+
+== See also ==
+* [[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+
+== External links ==
+* [http://digital.library.leeds.ac.uk/10486/ ''The Root of the Boot'' manuscript] at University of Leeds
+
+{{references}}
+{{poems}}
+
+{{DEFAULTSORT:Stone Troll}}
+
+[[Category:Poems in The Adventures of Tom Bombadil]]
+[[Category:Poems in The Fellowship of the Ring]]

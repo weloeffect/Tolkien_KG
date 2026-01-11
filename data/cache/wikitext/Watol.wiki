@@ -1,0 +1,45 @@
+{{anglosaxon infobox
+| name=Watol
+| image=
+| caption=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| pronun=
+| othernames=''Watla'' ([[Old English|OE]])
+| titles=
+| position=
+| location=[[wikipedia:England|England]]
+| affiliation=
+| language=[[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=The [[Wætlingas]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Watol''' or '''Watla''' was an [[wikipedia:Anglo-Saxons|Anglo-Saxon]] king, according to the early version of the [[legendarium]] associated with ''[[The Book of Lost Tales]]''.
+
+He commissioned a [[Men|Man]] called [[Íring]], the son of an [[wikipedia:Irish people|Irish]] king [[Ír]], to build a road through his lands, which he completed in seven years. However, Watol's sons, the [[Wætlingas]], were angered by Íring's arrogance, and so they wagered that they could build an even better road in only three years.<ref>{{PE|15}}, "[[Early Runic Documents]]", ''ER1d: Fourth page'', p. 96</ref>
+
+== Inspiration ==
+The character of Watol is based upon the legendary King Weatla, whose sons, according to the English chronicler [[wikipedia:Florence of Worcester|Florence of Worcester]], built the [[wikipedia:Watling Street|Watling Street]] in the year [[wikipedia:1013|1013 AD]]; Florence of Worcester also said that the name ''Watling Street'' was afterwards applied to the [[wikipedia:Milky Way|Milky Way]].<ref>{{PE|15}}, "[[Early Runic Documents]]", ''Commentary on ER1'', p. 100</ref>
+
+{{references}}
+{{DEFAULTSORT:Watol}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Old English names]]
+[[Category:Rulers in the Great Lands]]

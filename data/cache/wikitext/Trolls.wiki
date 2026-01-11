@@ -1,0 +1,184 @@
+{{race infobox
+| name=Trolls
+| image = J.R.R. Tolkien - The Three Trolls are turned to Stone (Colored by H.E. Riddett).jpg
+| caption="The Three Trolls are turned to Stone" by [[J.R.R. Tolkien]] (coloured by [[H.E. Riddett]])
+| pronun=
+| othernames=''[[torog]]'' ([[Sindarin|S]]; singular)<br/>''[[olog]]'' ([[Black Speech|BS]]; singular)
+| origin=Devised or corrupted by [[Morgoth]] in the [[First Age]] (believed by [[Treebeard]] to be "made in mockery" of [[Ents]])
+| location=[[Beleriand]]<br/>Southern [[Mirkwood]]<br/>[[Mordor]]<br/>[[Ettenmoors]]<br/>[[Trollshaws]]<br/>[[Moria]]
+| affiliation=Originally [[Morgoth]]; later [[Sauron]]
+| rivalry=[[Ents]]
+| language=[[Black Speech]] ([[Olog-hai]])<br/>Debased form of [[Westron]]
+| people=''[[#Types of Trolls|See below]]''
+| members=[[William Huggins]]<br/>[[Tom]]<br/>[[Bert]]
+| lifespan=Unknown
+| distinctions=Strong beasts with limited intellect
+| height=Large; some being at least twelve feet tall (3.66 meters and above)<ref name=feet/>
+| hair=
+| skin=Dark, with greenish scales
+| clothing=
+| weapons=
+}}
+'''Trolls''' were a race of large humanoid creatures of limited intellect. They were strong and vicious, but some of them could not endure [[sun]]light and turned to stone when exposed to it, which rendered them permanently lifeless.<ref name="Flight">{{FR|Flight}}, pp. 205-6</ref>
+
+==History==
+===First Age===
+====Origins====
+[[Morgoth]] devised or corrupted Trolls during the [[First Age]] ("''twilight of the [[Elder Days]]''").<ref name="Appendix">{{App|Other}}, p. 1132</ref> Their exact origins are unknown, though Treebeard believed that Trolls were made by the [[Dark Lord]] "''in mockery of [[Ents]]''", similar to the belief that [[Orcs]] were a twisted parody of the [[Elves]].<ref>{{TT|Treebeard}}, p. 486</ref><ref group="note">J.R.R. Tolkien pointed out in a [[Letter 153|letter]] to Peter Hastings that Treebeard did not say that the Dark Lord "created" Trolls, he merely said that he "made" them in counterfeit of pre-existing creatures.</ref> Whatever their exact origins were, Trolls were dull and lumpish, and at least in their beginning, were as inarticulate as animals.<ref name="Appendix" />
+
+====Nirnaeth Arnoediad====
+[[File:Joel Kilpatrick - Troll guard.jpg|thumb|right|300px|''Troll guard'' by [[:Category:Images by Joel Kilpatrick|Joel Kilpatrick]]]]
+The participation of Trolls in the [[Wars of Beleriand|War of the Jewels]] was not recorded in the tales of the Elder Days until {{FA|472}},<ref>{{WJ|One}}, entry 472, §240, pp. 76-7</ref> when the [[Nirnaeth Arnoediad|Battle of Unnumbered Tears]] took place.
+
+The hosts of [[Angband]] attacked and killed all of the rearguard of the brothers [[Húrin]] and [[Huor]] and the remnant of the [[Edain|Men]] of the [[House of Hador]] from [[Dor-lómin]] except Húrin at the river [[Rivil]].
+
+When Húrin was the last man standing, he threw away his shield and gripped his axe with both hands. A [[Narn i Chîn Húrin (tale)|song]] tells that his axe smoked in the black blood of the Troll-guard of [[Gothmog (balrog)|Gothmog]], the Lord of [[Balrogs]] and the High-captain of Angband until at last he was taken alive by Orcs by Morgoth's command, being bound by Gothmog and dragged to Angband.<ref name="Fifth" />
+
+===Second and Third Ages===
+Later on, [[Sauron]] taught them the little that they were able to learn and increased their intelligence with wickedness. As a consequence, the Trolls learned as much language as they could from the [[Orcs]]. In the Westlands Stone-trolls spoke a debased form of Westron. The Olog-hai only spoke the [[Black Speech]] of [[Barad-dûr]].<ref name="Appendix" />
+
+Since days before memory Trolls settled in the north of the [[Misty Mountains]], in particular near the [[Ettenmoors]]. The realm of [[Angmar]] was founded in their area, and while it lasted (c. {{TA|1300}} – {{TA|1975|n}}) the Trolls' numbers increased, as did their wickedness. After the fall of Angmar, the Trolls retreated to the east of the Misty Mountains, but 300 years before the [[War of the Ring]] they returned to [[Eriador]]. They managed to make dens in the hills as far west as the [[North Downs]] despite the efforts of the [[Rangers of the North]] to watch  the area.
+
+In the time of [[Arador]], the 14th [[Chieftain of the Dúnedain]], a band of Trolls threatened his house in the woods near the river [[Hoarwell]] north of the [[Trollshaws]].<ref>{{NM|P3xvii}}, note 12, p. 366</ref> In {{TA|2930}}<ref>{{App|TA}}, entry for the year 2930, p.  1089</ref> hill-trolls captured Arador in the north of Rivendell and killed him.<ref>{{App|Tale}}, fourth paragraph, p. 1057</ref>
+
+In the [[Third Age]], Sauron bred a new race of Trolls, which were called ''[[Olog-hai]]'' in the Black Speech. In contrast to the older race of Trolls from the First Age the Olog-hai could bear exposure to sunlight as long as they were controlled by the will of Sauron. They were cunning, strong, agile, fierce, harder than stone and spoke little. The Olog-hai were first seen at the end of the Third Age in southern [[Mirkwood]] and in the mountain borders of [[Mordor]].<ref name="Appendix" />
+
+====The Quest for Erebor====
+[[File:Justin Gerard - Bilbo and the Three Trolls.jpg|thumb|left|200px|''Bilbo and the Three Trolls'' by [[Justin Gerard]]]]
+In {{TA|2941}},<ref>{{App|TA}}, entry for the year 2941, p. 1089</ref> [[Thorin and Company]] encountered [[Bert]], [[Tom]] and [[William|Bill]], three Trolls who had come down from the mountains and eaten a number of [[Men]] equivalent to village and a half, who probably stopped there on their way through the area, as well as sheep.
+
+The trolls captured [[Bilbo]] and the [[Dwarves]], but [[Gandalf]] returned in time to keep the trolls go on arguing how to cook the Dwarves by impersonating the voices of the Trolls from a place of hiding until the first lights of the morning sun came over the hill and turned the trolls to stone. Afterwards Thorin and Company discovered the cave of the trolls and took the swords [[Glamdring]] and [[Orcrist]], the knife [[Sting]], gold coins and food from the cave.<ref name="Mutton" />
+
+It is not known how the trolls had gotten the sword, but [[Elrond]] guessed that the Trolls had robbed other robbers or had found them in a hold in the mountains as remnants of old robberies.<ref>{{H|Rest}}</ref>
+
+====The War of the Ring====
+When the fiftieth birthday of [[Frodo Baggins]] was getting near, probably early in the year {{TA|3018}}<ref>{{App|Great}}, entry for the year 3018, April 12, p. 1090</ref> rumors had reached [[the Shire]] that Trolls were abroad, more cunning than normal and armed with dreadful weapons.<ref>{{FR|Shadow}}, p. 44</ref> By {{TA|3018}} when [[Aragorn]] and the [[Hobbits]] were attacked on [[Weathertop]]<ref>{{App|Great}}, entry for the year 3018, October 6, p. 1092</ref> the land east of Weathertop was uninhabited and had been deserted, because Trolls sometimes came down from the northern valleys of the Misty Mountains.<ref>{{FR|Knife}}, p. 190</ref> At that time Trolls still lived in the [[Ettendales]],<ref>{{FR|Flight}}, p. 203</ref> the valleys of the Ettenmoors, which ran up to the foothills of the Misty Mountains far north of [[Rivendell]].<ref>{{HM|UI}}, entry ''Ettendales'', . 188</ref>
+
+On 18 October {{TA|3018}}, Aragorn and the Hobbits found a path in the [[Trollshaws]], which had probably been made by the three Trolls, followed it and discovered that it led to the cave of the trolls and then on to the clearing in the woods not far below the cave where the three trolls that had been turned to stone still stood.<ref>{{FR|Flight}}, pp. 204-5</ref>
+[[File:Jan Pospíšil - Troll slayer.jpg|thumb|right|250px|''Troll slayer'' by [[:Category:Images by Jan Pospíšil|Jan Pospíšil]]]]
+On 15 January {{TA|3019}},<ref>{{FR|Journey}}, p. 318</ref><ref>{{App|Great}}, entry for the year 3019, January 15, p. 1092</ref> the [[Fellowship of the Ring]] was attacked in the [[Chamber of Mazarbul]] by a cave-troll and Orcs. When [[Boromir]] hewed at the arm of the troll which came through a gap in the door with his sword, his sword was notched, glanced aside and fell from his hand. However the troll retreated when Frodo stabbed it in the foot with his sword [[Sting]].<ref name="Bridge" />
+
+In the early hours of 15 March {{TA|3019}},<ref>{{App|Great}}, entry for the year 3019, March 15, pp. 1093-4</ref> in the [[Siege of Gondor|siege of Minas Tirith]] mountain-trolls walked behind the great hundred-foot long battering ram [[Grond (battering ram)|Grond]] to the [[Great Gate of Minas Tirith]] and swung Grond four times against the gate until the gate broke.<ref name="Siege" />
+
+On 25 March {{TA|3019}},<ref>{{App|Great}}, entry for the year 3019, March 25, p. 1094</ref> at the beginning of the [[Battle of the Morannon]] the [[Army of the West]] consisting of forces of [[Gondor]] and [[Rohan]] was attacked on the [[Slag-hills]] before the [[Black Gate]] of Mordor by a great company of hill-trolls from [[Gorgoroth]] with huge round bucklers and heavy hammers. Pippin managed to fell the chief of the Trolls by stabbing him with his [[Daggers of Westernesse|Barrow-blade]] when the troll tried to bite the throat of [[Beregond]] who had fallen down after having been stunned by the monster.<ref name="Gate" />
+
+===Legacy===
+[[File:Matěj Čadil - Troll sat alone on his seat of stone.jpg|thumb|left|180px|''Troll sat alone on his seat of stone'' by [[Matěj Čadil]]]]
+[[File:Amani Warrington - A Lonely Troll.jpg|thumb|right|180px|''A Lonely Troll'' by [[:Category:Images by Amani Warrington|Amani Warrington]]]]
+
+While it is unknown what happened to Trolls after the [[Downfall of Barad-dûr]], the [[Hobbits|hobbit]] [[Samwise Gamgee]] composed two poems that had Trolls in them.<ref name="Face">{{AB|Preface}}</ref> The first one, called ''[[The Stone Troll]]'',<ref>{{AB|7}}</ref> was recited by [[Samwise Gamgee]] to [[Aragorn]], [[Frodo]], [[Merry]], and [[Pippin]] during their stay near the [[Troll Ridge]].<ref>[[J.R.R. Tolkien]], [[The Chronology of The Lord of the Rings]], p. 38</ref><ref>{{FR|Flight}}, pp. 206-8</ref> The second poem, called ''[[Perry-the-Winkle]]'', also composed by Sam,<ref name="Face" /> featured a [[Lonely Troll]] as one of the main characters. However, unlike other trolls, the Lonely Troll was friendly and good-natured.<ref>{{AB|8}}</ref>
+
+==Characteristics==
+{{quote|Yes, I am afraid trolls do behave like that, even those with only one head each.|[[Roast Mutton]]}}
+Trolls were taller and broader than men<ref name="Gate">{{RK|Gate}}, p. 892</ref> with a height of twelve feet or more.<ref name="feet">{{TT|Road}}, p. 549</ref> They had dark skin with greenish scales, large flat toeless feet<ref name="Bridge">{{FR|Bridge}}, pp. 324-5</ref><ref>{{HM|RC}}, mentioning the illustration title The Trolls that J.R.R. Tolkien drew for The Hobbit, p. 293</ref> and knotted hands with claws.<ref name="Gate" /> Their blood was black.<ref name="Fifth">{{S|Fifth}}</ref><ref name="Bridge" /><ref name="Gate" />
+
+Some Trolls might have had more than one head, which is fleetingly suggested in ''[[The Hobbit]]'', commenting on [[William]] wiping his lips on his sleeve.<ref>{{H|2}}</ref> If this statement was not merely a way of speaking, perhaps there were indeed Trolls in [[Middle-earth]] that, unlike the [[Stone-trolls]], had more than one head and behaved even worse.
+
+Regular Trolls turned back to stone from which they had been created when exposed to the sunlight,<ref name="Mutton">{{H|Mutton}}</ref> but the Troll race called Olog-hai that appeared at the end of the [[Third Age]] could tolerate sunglight as long as they were controlled by the will of [[Sauron]].<ref name="Appendix" />
+
+Trolls lived in different terrains and were known as cave-trolls,<ref name="Bridge" /> hill-trolls<ref name="Gate" /><ref>{{App|Tale}}, p. 1057</ref> or mountain-trolls.<ref name="Siege">{{RK|Siege}}, p. 828-9</ref> They did not build buildings,<ref>{{FR|Flight}}, p. 201</ref> and slept in caves or holes.<ref name="Flight" /> It is possible that the term Stone-trolls<ref name="Appendix" /> was used for regular trolls who turned back to stone when exposed to the sunlight.<ref name="L153">{{L|153}}</ref><ref group="note">This is also suggested by the use of the term Stone-trolls before the paragraph about the Olog-hai, which could endure sunlight.</ref>
+
+===Potential types of Trolls===
+*[[Cave-trolls]]
+*[[Half-trolls]]
+*[[Hill-trolls]]
+*[[Mountain-trolls]]
+*[[Olog-hai]]
+*[[Stone-trolls]]
+*[[Snow-trolls]]<ref name="Eorl">{{App|Eorl}}, entry for king Helm, p. 1066</ref>
+
+==Other names==
+The [[Sindarin]] word for a "troll" is ''[[torog]]''.<ref name="Appendix" /> The [[Black Speech]] equivalent is ''[[olog]]''.<ref>{{PE|17}}, entry B '''Urukhai''' and entry B '''Ologhai''', p. 136</ref>
+
+The name ''[[Rhudaur]]'' is translated by Tolkien as "Troll shaw", with ''[[rhû]]'' translated as "evil, wicked".<ref>{{PE|17}}, entry S '''Rhudaur''' and entry S ''rhû'', p. 115</ref>
+
+==Other versions of the legendarium==
+===Early legendarium===
+In an early chart of different creatures, Trolls are given the [[Qenya]] name ''maulir''. [[Patrick H. Wynne]] and [[Christopher Gilson]] have suggested that ''maulir'' is possibly related to Qenya ''maule'' ("crying, weeping"), thus perhaps "referring to cries made by these monsters or to the weeping of their victims".<ref>{{PE|14}}, pp. 7, 9</ref>
+
+In the ''[[Lay_of_Leithian_Canto_XIII|Lay of Leithian Canto XIII (Beren and Lúthien in Angband)]]'', as [[Beren]] and [[Lúthien]] descend into the depths of Angband, among other horrors "huge shapes there stood like carven trolls enormous hewn of blasted rock to forms that mortal likeness mock; monstrous and menacing, entombed, at every turn they silent loomed in fitful glares that leaped and died."<ref>{{LB|C13}}</ref>
+
+===Later legendarium===
+In the drafts of ''The Lord of the Rings'', Tolkien considered trolls to be living stones that were possessed by the spirits of [[Orcs|goblins]].<ref>{{TI|Treebeard}}, p. 411</ref>
+
+In an earlier version of what would become the [[Appendix F]] it was also mentioned that the evil Power had crossed their breed with that of larger Orcs.<ref>{{PM|II}}, text F2 §17, p. 17</ref>
+
+In an unpublished note on the origin of the Orcs without any indication of the date when the note was written, Tolkien stated that it would seem evident that Trolls were corruptions of primitive human types.<ref>{{MR|P5IX}}, p. 414</ref>
+
+==Inspiration==
+[[Wikipedia:Trolls|Trolls]] were originally a part of the [[Norse mythology]] (as a negative synonym for ''jötunn'', "[[giants]]") and [[Wikipedia:Scandinavian folklore|Scandinavian folklore]] (as ugly, large creatures of remote wildlife areas). [[J.R.R. Tolkien]] used elements of old barbarous mythmaking that Trolls returned to stone when they were not in the dark.<ref name="L153" />
+
+Helen Buckhurst, a friend and colleague of J.R.R. Tolkien presented a paper titled ''Icelandic Folklore'' in [[1926]] in which she stated that Icelandic Trolls in the Sagas and in more recent tales were huge, mishappen and ugly creatures who generally lived in caves in the mountains, were almost always evil, often raided outlying farms at night to take sheep, horses, children, men and women and ate them in their homes in the mountains. She also mentioned that some kinds of Trolls must stay in caves during the day, because the light of the sun turns them to stone.<ref>{{HM|AH}}, p. 80</ref><ref>{{HM|RC}}, p. 189</ref>
+
+Commenting on the possibility of Trolls having more than one head, [[John D. Rateliff]] has noted that trolls "with multiple heads appear in many stories", especially pointing to [[Wikipedia:George Webbe Dasent|George Webbe Dasent]]'s "[[Wikipedia:Soria Moria Castle|Soria Moria Castle]]".<ref>{{HH|Trolls}}, p. 99 (note 9)</ref> [[C.S. Lewis]] mentioned the [https://narnia.fandom.com/wiki/Ettins Ettins] of [https://narnia.fandom.com/wiki/Ettinsmoor Ettinsmoor] in [[Narnia]], some of which have two heads.<ref>[https://narnia.fandom.com/wiki/Giants#Ettins Ettins] in [https://narnia.fandom.com Narnia Wiki]</ref> In many later fantasy settings, but also some adaptations of [[Middle-earth]], there are two-headed monsters, which usually are called "[[etten]]s" (q.v.).
+
+==Other fiction==
+In ''[[Sir Gawain and the Green Knight, Pearl and Sir Orfeo|Sir Gawain and the Green Knight]]'' there are mentions of the "wood-trolls" (translated by [[J.R.R. Tolkien]] from the [[Sir Gawain and the Green Knight (poem)|manuscript]] word ''[[wodwo]]s'').<ref>{{HM|RC}}, p. 555</ref> The latter word is related to the [[Woses]].{{fact}}
+
+==Portrayal in adaptations==
+===Trolls in adaptations===
+<gallery mode="traditional" widths="165px" heights="140px">
+File:The Hobbit (1967 film) - Groan.png|A "Groan" in [[The Hobbit (1967 film)|''The Hobbit'' (1967 film)]]
+File:The Hobbit (1977 film) - Trolls.png|[[William]], [[Tom]] and [[Bert]] in [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]
+File:The Lord of the Rings - The Fellowship of the Ring - Cave-troll.jpg|A cave-troll in ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Lord of the Rings War in the North - Troll.jpg|A troll in ''[[The Lord of the Rings: War in the North]]''
+File:The Hobbit - An Unexpected Journey - Bert, Bill and Tom.jpg|[[William]], [[Tom]] and [[Bert]] in ''[[The Hobbit: An Unexpected Journey]]''
+File:The Lord of the Rings- The Treason of Isengard - Concept art Troll.jpg|Concept art of a '''troll''' for ''[[The Lord of the Rings: The Treason of Isengard]]''
+File:Stephen King - Two-headed Troll.jpg|[[Stephen King]] - ''"Two-headed" Troll'', card art for [[Middle-earth Collectible Card Game]].
+</gallery>
+
+===Films===
+'''[[1967]]: [[The Hobbit (1967 film)|''The Hobbit'' (1967 film)]]:'''
+:The three Trolls' position in the narrative was taken by two creatures called "Groans".<ref>{{webcite|author=[[Gene Deitch]]|articleurl=http://genedeitchcredits.com/roll-the-credits/40-william-l-snyder/#comment-5311|articlename=Comment 5311|dated=25-July-2012|website=[http://genedeitchcredits.com/ genedeitchcredits]|accessed=17-October-2012}}</ref> They had wooden, bark-like skin, and, instead of stone, turned into dead trees when exposed to sunlight.
+
+'''[[1978]]: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:The troll that attempts to enter Balin's Tomb is depicted as a shadowy creature with dark green fur. Unlike in the novel, its feet have toes. It is the only troll seen in the film.
+
+===Games===
+'''1982-97: ''[[Middle-earth Role Playing]]'':'''
+:An individual monster called Skessa, a cross-breed between a troll and [[giants|giant]], has two heads.<ref>{{ICE|2016}}</ref>
+
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:"'Two-headed' Troll" is a Warrior Ally for evil players.
+
+'''1998-2004: ''[[Middle-earth Online]]'':'''
+:''[[Ettins]]'', a race of two-headed trolls, was intended to be included in the game.<ref>[http://my.lotro.com/user-875952/page/3/ Roundup 12.1] (02-09-2004) at [http://my.lotro.com My.lotro.com] (accessed 16 November 2010)</ref>
+
+'''2002-5: ''[[The Lord of the Rings Roleplaying Game]]'':'''
+:''Ettens'' resemble the [[Hill-trolls]], but they possess "''not one but two long heads''". The solitary creatures, a result of an ancient experiment by Morgoth, live almost exclusively in the Ettenmoors.<ref>{{D|Fell}}</ref>
+
+'''[[2002]]: ''[[The Lord of the Rings: The Two Towers (video game)|The Lord of the Rings: The Two Towers]]'':'''
+:Like in the film adaptation of ''The Fellowship of the Ring'', a Cave-troll serves as the boss of the "Balin's Tomb" level. A pair of Cave-trolls also serve as the bosses of the "Hornburg Courtyard" level. Also unique to this game are a new breed of troll known as "Forest-trolls", which appear in several levels including "Fangorn Forest" and "Breached Wall".
+
+'''[[2003]]: ''[[The Hobbit (2003 video game)|The Hobbit]]'':'''
+:In addition to the three Stone-trolls from the book, a Cave-troll was intended to appear during the "Over Hill and Under Hill" level in the PC and console versions, where it would have served as the level's boss. Even though the encounter was cut from the final version of the game, Bilbo still mentions the troll to Gandalf when he reunites with [[Thorin and Company]], and [[Kili]] informs Bilbo that Trolls are known to live in the Misty Mountains, and hopes Bilbo didn't encounter any while he was separated.<ref>''The Hobbit (2003 video game)'', "Over Hill and Under Hill"</ref>
+:Third-party trainer programs for the PC version allow the boss battle to be reintegrated into the game. Like the three Stone-trolls, the Cave-troll would have been capable of speaking [[Westron]], as shown during its introductory cutscene where it complains about having a toothache. Defeating it would have yielded the Troll Key which, in the final version of the game, instead lays on the floor for Bilbo to take without having to kill any of the creatures that guard it.
+
+'''[[2004]]: ''[[The Lord of the Rings: The Battle for Middle-earth]]'':'''
+:Trolls are a playable unit in the game. You can play as either a mountain troll or drummer troll. When the mountain troll levels up, it receives armor. Their designs are based off of the Peter Jackson film series.
+
+'''[[2006]]: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:Trolls are a playable unit like in the previous game. In the expansion, [[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king]] additional units of trolls can be played called the snow trolls and hill trolls. The campaign features a named troll called Rhogash which helps the Witch-king lead his assaults on Arnor.
+
+'''[[2011]]: ''[[The Lord of the Rings: War in the North]]'':'''
+:Compared to other enemies, Trolls are much stronger. Trolls first appear in [[Fornost]], where one traps [[Eradan (video game character)|Eradan]], [[Andriel]] and [[Farin (video game character)|Farin]].<ref>[[The Lord of the Rings: War in the North]], Chapter 1: Fornost, ''Outer Wards''</ref> Another troll appears at the end of the level, where Eradan, Andriel and Farin have to protect [[Elladan]] and [[Elrohir]]. When this troll is killed, the player is able to enter the Citadel to confront [[Tharzog]] and [[Agandaûr]].<ref>[[The Lord of the Rings: War in the North]], Chapter 1: Fornost, ''The Citadel''</ref>
+
+'''[[2014]]: ''[[Middle-earth: Shadow of Mordor]]'':'''
+:The Udûn and Sea of Nûrnen regions of Mordor are inhabited by large troll-like creatures known as "Olog Graugs". According to their Nature article in the Appendices menu, Sauron intends to use the Graug to crossbreed with ordinary Trolls, and create a new breed of "hill-trolls" that can withstand direct sunlight. Graugs are very rare in the Xbox 360 and PlayStation 3 versions of the game due to technical limitations, but are more abundant in the PS4, PC, and Xbox One versions.
+
+'''2017: ''[[Middle-earth: Shadow of War]]'':'''
+:The Overlord of the [[Núrnen]] region of Mordor is an [[Olog-hai|Olog]] named Az-Harto, who poses as a two-headed [[Trolls|Troll]]. In reality, the second head is that of the [[Orcs|Uruk]] [[Ratbag|Ratbag the Coward]], who is riding on Az-Harto's back and wearing a large helmet to conceal his identity.
+
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:Two-headed Trolls are among the evil creatures of [[Gundabad]] and can be found among the [[Grey Mountains]].
+
+{{references|notes}}
+{{DEFAULTSORT:Trolls}}
+[[Category:Races]]
+[[Category:Races in The Book of Lost Tales]]
+[[Category:Trolls]]
+[[Category:Servants of Melkor]]
+[[Category:Servants of Sauron]]
+[[de:Trolle]]
+[[fr:encyclo/peuples/trolls/trolls]]
+[[fi:Peikot]]

@@ -1,0 +1,52 @@
+{{mythlore
+|title=''Mythlore'' 70, Volume 18, Issue 4
+| image = Mythlore 70.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Autumn [[1992]]
+|format=Paperback
+|pages=67
+}}
+'''''Mythlore'' 70''' ([https://dc.swosu.edu/mythlore/vol18/iss4/ Volume 18, Issue 4]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+A "Letter" from [[Carl F. Hostetter]] is a response to the article "[[Gondolinic Runes]]" by [[Paul Nolan Hyde]] published in [[Mythlore 69|''Mythlore'' 69]].<ref>[http://www.tolkienbooks.net/php/languages.php Languages and Alphabets] at [http://www.tolkienbooks.net Tolkienbooks.net] (accessed 27 August 2011)</ref>
+
+==Contents==
+
+====Articles====
+
+* Stoddard, William H. “Law and Institutions in the Shire.”
+* Kollmann, Judith. “''Eros, Philia,'' and ''Agape'' in Charles Williams' Arthuriad.”
+* Herrick, Jim. “C.S. Lewis and Narrative Argument in ''Out of the Silent Planet''.”
+* Hood, Gwenyth E., Dainis Bisenieks, Stephen Linhart, Gary Hunnewell, Tim Callahan, Edna Montemayor, John L. Leland, and Paul Nolan Hyde. “Tributes to J.R.R. Tolkien.”
+* Senior, William. “Donaldson and Tolkien.”
+* Venhecke, Johan. “Tolkien in Dutch: A Study of the Reception of Tolkien's Work in Belgium and the Netherlands.”
+* Payne, Craig. “The Cycle of the Zodiac in John Gardener's ''Grendel''.”
+
+==== Poetry ====
+
+* Paxson, Diana L. “The Baby and The Bird.”
+
+====Features====
+
+* GoodKnight, Glen H. Editorial Introduction: In This Issue.
+* Callahan, Bg, and Glen GoodKnight. “Pictures from the Tolkien Centenary Conference.”
+* Christopher, Joe R., and Wayne G. Hammond. An Inklings Bibliography (47).
+* Kondratiev, Alexei. “Tales Newly Told.”
+* Letters.
+* DiSante, Paula, Nancy-Lou Patterson, and Denis Gordeyev. “Artists' Comments.”
+
+====Reviews====
+
+* ''Charles Williams.'' David Llewellyn Dodds. Reviewed by Nancy-Lou Patterson.
+* ''Fish Soup''. Ursula K. LeGuin, Illus. by Patrick Wynne. Reviewed by Glen GoodKnight.
+* ''J.R.R. Tolkien: Life and Legend''. ''An Exhibition to Commemorate the Centenary of the Birth of J.R.R. Tolkien.'' Intro. Judith Priestman. Reviewed by Glen GoodKnight.
+* ''The 1993 Tolkien Calendar.'' Illust. by Alan Lee. Reviewed by Glen GoodKnight.
+* ''The C.S. Lewis Handbook.'' Colin Duriez. Reviewed by Nancy-Lou Patterson.
+* ''All My Road Before Me: The Diary of C.S. Lewis.'' C.S. Lewis. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|69|71}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 070}}
+
+[[Category:Mythlore]]

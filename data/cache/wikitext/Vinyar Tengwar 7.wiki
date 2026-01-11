@@ -1,0 +1,26 @@
+{{VTbox
+| title=Vinyar Tengwar 7
+| image = Vinyar Tengwar 7.png
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=September [[1989]]
+| format=Paperback journal
+| pages=16
+}}
+'''''Vinyar Tengwar 7''''' is the seventh issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|6|8}}
+
+==Contents==
+* Cover: "Maglor before Himring" — Tom Loback
+* E.L.F. News
+* Letters to ''VT''
+
+* "Transitions in Translations: 'Edition Shifting' in the Spanish ''LotR''" (column) — Arden R. Smith
+* "''Essitalmar'': 'What's In a Name?'" (column) — Tom Loback
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 07}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 7]]

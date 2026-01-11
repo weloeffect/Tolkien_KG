@@ -1,0 +1,22 @@
+{{artist infobox
+| image=
+| name=Šárka Škorpíková
+| born=
+| died=
+| style=
+| images=[[:Category:Images by Šárka Škorpíková|Gallery]]
+| location=Czech Republic
+| website=
+|}}
+'''Šárka Škorpíková''' is a Czech artist. She has published her pictures on DeviantArt under the username SarkaSkorpikova.
+
+==See also==
+*[[:Category:Images by Šárka Škorpíková|Images by Šárka Škorpíková]]
+
+==External links==
+* [https://www.deviantart.com/sarkaskorpikova DeviantArt profile]
+* [https://www.deviantart.com/mirachravaia/journal/Talks-with-Tolkien-artists-RobleskaZeppelin-491003693 Talks with Tolkien artists: RobleskaZeppelin] – interview with Šárka Škorpíková on DeviantArt
+{{DEFAULTSORT:Skorpikova, Sarka}}
+[[Category:Artists]]
+[[Category:Czech people]]
+[[Category:People by name]]

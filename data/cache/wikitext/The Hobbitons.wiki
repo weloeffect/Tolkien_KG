@@ -1,0 +1,45 @@
+{{band
+| image = Songs from Middle-earth.jpg
+| name=The Hobbitons
+| origin=The Netherlands
+| genre=Folk
+| years=1996
+| label=
+| website=[http://web.archive.org/web/*/http://home.wxs.nl/~hobbiton/home.html The Hobbitons] (via [http://www.archive.org Internet Archive])
+| members=[[Unquendor|Dutch Tolkien Society]]
+| formermembers
+}}
+'''The Hobbitons''' was the name given to members of [[Unquendor|Unquendor, the Dutch Tolkien Society]] who released the CD ''[[J.R.R. Tolkien]]'s Songs from Middle-earth'' in [[1996]]. The CD contains 16 tracks of songs and poems from ''[[The Hobbit]]'', ''[[The Lord of the Rings]]'', ''[[The Adventures of Tom Bombadil]]'', and ''[[Bilbo's Last Song]]''. ''J.R.R. Tolkien's Songs from Middle-earth'' was produced with permission of the [[Tolkien Estate]] on the condition that it would not be sold commercially.<ref name="ourCD">{{webcite|website=[http://web.archive.org/web/20021210152658/http://home.wxs.nl/~hobbiton/home.html The Hobbitons] (via [http://www.archive.org Internet Archive])|articlename=Our CD|articleurl=http://web.archive.org/web/20021207123849/home.wxs.nl/~hobbiton/OURCD.HTM|accessed=27 May 2014}}</ref> 
+==Track listing of ''J.R.R. Tolkien's Songs from Middle-earth''==
+
+# "[[A Walking Song]] (Upon the Hearth)"
+# "[[I Sit beside the Fire and Think|Bilbo's Song (Beside the Fire)]]"
+# "[[The Man in the Moon Stayed Up Too Late]]"
+# "[[The Man in the Moon Came Down Too Soon]]"
+# "[[The Stone Troll|Stone Troll]]"
+# "[[The Fall of Gil-galad|Gil Galad]]"
+# "[[The Road Goes Ever On (song)|Old Walking Song (The Road Goes Ever On)]]"
+# "[[Clap! Snap! the black crack!|Goblin Town]]"
+# "[[The Mewlips]]"
+# "[[Fifteen birds in five fir-trees|Roast 'em Alive!]]"
+# "[[Oliphaunt (poem)|Oliphaunt]]"
+# "[[In the Valley, Ha! Ha!|The Valley]]"
+# "[[Perry-the-Winkle|Perry The Winkle]]"
+# "[[Bath-songs|The Bathsong]]"
+# "[[Bilbo's Last Song]]"
+# "[[Ho! Ho! Ho! To the Bottle I Go|A Drinking Song (Ho! Ho! Ho!)]]"
+
+==Personnel==
+* '''Music''': Stephen Oliver <small>("Gil Galad", "Old Walking Song" and "Bilbo's Last Song")</small>, Ron Ploeg and Willem van Wordagen
+* '''Mixing''': Gilles Tuinman
+* '''Editing''': Tony Janssen
+* '''Production''': Ron Ploeg, Gilles Tuinman and  Willem van Wordragen
+
+==External links==
+*'''[http://web.archive.org/web/*/http://home.wxs.nl/~hobbiton/home.html Official Website]''' (via [http://www.archive.org Internet Archive])
+*[http://www.last.fm/music/The+Hobbitons The Hobbitons on Last.fm]
+*[http://www.kindamuzik.net/recensie/the-hobbitons/songs-from-middle-earth Songs from Middle-earth at KindaMuzik] (Dutch)
+
+{{references}}
+[[Category:Bands|Hobbitons, The]]
+[[Category:Dutch organizations]]

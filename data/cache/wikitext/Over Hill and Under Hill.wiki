@@ -1,0 +1,26 @@
+{{chapter
+|number=4
+|title=Over Hill and Under Hill
+|book=The Hobbit
+|events=[[Thorin and Company]] ascent the Misty Mountains and are captured by [[goblins]]
+|image=J.R.R. Tolkien - The Mountain-path.jpg
+|location=[[Rivendell]], [[Misty Mountains]], [[Goblin-town]]
+|map=
+|previous=A Short Rest
+|next=Riddles in the Dark
+|date=[[Midyear's Day]]—[[10 July]] {{TA|2941}}<ref name="H 06.304">{{Cite DTP|id=H 06.034}}</ref>
+}}
+'''Over Hill and Under Hill''' is the 4th chapter of ''[[The Hobbit]]''.
+==Synopsis==
+[[Gandalf]] led the thirteen dwarves and the hobbit up into the [[Misty Mountains]] - helped by [[Elrond]] and his advice - with the intent of finding the right pass.
+
+On a particularly cold and stormy night of [[Monday]],<ref name="H 06.304"/> high in the mountains, the [[Giants|Stone Giants]] were hurling rocks as a game; [[Thorin]] was particularly annoyed with the place where they had decided to settle down at, and eventually [[Kíli]] and [[Fíli]] were sent to find better shelter. Shortly they returned and told the others that they had found a fair sized dry cave, with room for everyone including the ponies. They all made it to the cave and Gandalf lit his wand to fully explore the cave.
+
+As Gandalf and the Dwarves slept, [[Bilbo Baggins|Bilbo]] was troubled by nasty dreams; to his horror, upon waking from one nightmare, part of his dream became real. A wide crack had opened at the back of the cave and he saw the ponies disappearing into it. Bilbo let out a loud yell and suddenly the cave swarmed with [[Orcs|goblins]] who grabbed them all and carried them through the crack. However, upon Bilbo's shriek, Gandalf had awoken in time to avoid being taken and killed several Goblins in "a terrific flash like lightning".
+[[Image:John Howe - The Great Goblin.jpg|thumb|left|The Great Goblin]]
+Bilbo and the Dwarves were pinched, whipped and mocked as they were forced through the passages. Eventually they came to a [[Goblin-town|large cavern]] and were interrogated by the [[Great Goblin]]. One of the drivers held out [[Orcrist|Thorin's sword]] to the Great Goblin, who let out a great howl as he saw what the goblins called ''Biter''. Just as the Great Goblin jumped with rage of his seat towards Thorin, the great fire went out and piercing white sparks scattered amongst the goblins. Bilbo then saw a glowing sword go through the Great Goblin before a voice said "follow me quick!". The Dwarves and Bilbo had been rescued by Gandalf who led them away from the goblin-hall. Bilbo was being carried by [[Dori]] when he was grabbed from behind by a goblin; Bilbo fell off, knocked his head, and fell unconscious.
+{{references}}
+[[Category:The Hobbit chapters]]
+
+[[de:Über den Berg und unter den Berg]]
+[[fi:Vuoren alla ja päällä]]

@@ -1,0 +1,37 @@
+{{disambig-more|Rose|[[Rose (disambiguation)]]}}
+{{plant infobox
+| name=Roses
+| image=
+| caption=
+| pronun=
+| othernames=
+| location=Throughout [[Middle-earth]]
+| notablefor=
+| family=''Rosaceae''
+| appearance=Flowering plants with large blossoms and prickly stems
+}}
+'''Roses''' are flowering plants with large, showy blossoms and (often) prickly stems that were found in many places throughout [[Middle-earth]].
+
+In [[Gondolin]] there was a roadway called the [[Alley of Roses]], one of the most beautiful places in the city.<ref>{{LT2|III}}, p. 183</ref>
+
+In [[the Shire]] it was common to bestow flower names upon girls<ref>{{App|Translation}}</ref> and many maidens bore the name "Rose" – [[Rosa Baggins]],<ref>{{App|Baggins}}</ref> [[Rose (daughter of Holman)|Rose]] (the daughter of [[Holman the greenhanded]]), [[Rose Cotton]], [[Rose Gardner]], and [[Primrose Gardner]].<ref>{{App|Gamgee}}</ref> Given the stay-at-home nature of [[Hobbits]]<ref>{{FR|Hobbits}}</ref> their familiarity with roses certainly indicates the cultivation of these flowers in their homeland.
+
+Roses could be found far to the south of the Shire. In [[Ithilien]], [[Frodo Baggins]] and [[Samwise Gamgee]] encountered [[Eglantine]], a type of rose<ref>{{TT|IV4}}</ref> (one Hobbit, [[Eglantine Banks]],<ref>{{App|Took}}</ref> was named after this flower, indicating that this variety of rose also grew in the Shire).  When [[Aragorn]] steeped ''[[athelas]]'' in hot water in the [[Houses of Healing]], [[Ioreth]] claimed that the fragrance reminded her of the roses in [[Imloth Melui]], a valley in [[Gondor]].<ref>{{RK|V8}}</ref>
+
+==Other names==
+
+The [[Sindarin]] name for a rose is ''[[meril]]''.<ref>{{SD|XI}}, pp. 129-31</ref><ref>{{webcite|author=[[Didier Willis]]|articleurl=http://www.jrrvf.com/hisweloke/sindar/online/english.html|articlename=Hiswelókë's Sindarin Dictionary|dated=|website=[http://www.jrrvf.com/haut.shtml Jrrvf.com]|accessed=4 February 2014}}</ref>
+
+==Portrayal in adaptations==
+'''1997: ''[[Middle-earth Role Playing]]—[[Hands of the Healer]]''''' 
+:Two specific types of roses are described in the book:
+
+:'''''Bramblerose''''' ([[Sindarin|S.]] ''Aegmeril'', [[Quenya|Q.]] ''Aicamerillë'') was a rose bush with large pink flowers that grew along rivers in temperate regions. It formed thick brambles, and had delicious large purple fruits with orange interiors with mild healing properties.<ref>{{ICE|2026}}, p. 91</ref>
+
+:'''''Foxrose''''' ([[Sindarin|S.]] ''Rosmeril'', [[Quenya|Q.]] ''Russamerillë''), also known as ''Redthorn'', was a rose with dusky red flowers and reddish-green leaves that grew in temperate wetlands. The foxrose symbolized love, and its petals had healing properties.<ref>{{ICE|2026}}, p. 105</ref>
+
+==External links==
+*[[wikipedia:Roses|Roses]] at [[wikipedia:Main Page|Wikipedia]]
+
+{{references}}
+[[Category:Flowers]]

@@ -1,0 +1,39 @@
+{{expansion}}
+{{events
+| image=J.R.R. Tolkien - Rotterdam Hobbit Dinner (1958).jpg
+| event=Hobbit-maaltijd
+| othernames=Hobbit Dinner,<ref name=Bio>{{HM|Bio}}</ref><br>Hobbit Maaltijd,<br>Hobbit Meal
+| location=[[Wikipedia:Rotterdam|Rotterdam]], [[Netherlands]]
+| date=[[28 March]] [[1958]]
+| result=
+| partof=
+| participants=[[J.R.R. Tolkien]]
+| description=
+| references=
+| gallery=the Hobbit-maaltijd
+}}
+
+{{Quote|that it is now exactly twenty years since I began in earnest to complete the history of our renowned hobbit-ancestors of the [[Third Age]]. I look [[East]], [[West]], [[North]], [[South]], and I do not see [[Sauron]]; but I see that [[Saruman]] has many descendants. We [[Hobbits]] have against them no [[magic]] weapons. Yet, my gentlehobbits, I give you this toast: To the Hobbits. May they outlast the Sarumans and see spring again in the [[trees]].|Finishing statement of Tolkien's speech<ref name=Bio/>}}
+
+The '''Hobbit-maaltijd'''<ref name=205b>{{LE|205b}}</ref> refers to an event in which [[J.R.R. Tolkien]] participated on [[28 March]] [[1958]]. Tolkien had been invited to [[Wikipedia:Rotterdam|Rotterdam]] for a "Hobbit Dinner" by his Dutch publisher Het Spectrum and the bookseller Voorhoeve & Dietrich.<ref name=Huff>{{webcite|author=Noble Smith|articleurl=http://www.huffingtonpost.com/noble-smith/jrr-tolkien-reveals-the-t_b_5373529.html|articlename=J.R.R. Tolkien Reveals TRUE Meaning Of ‘The Lord Of The Rings’ In Unearthed Audio Recording|dated=22 May 2014|website=[http://www.huffingtonpost.com/ huffingtonpost.com]|accessed=21 December 2016}}</ref><ref name=Rene>[[René van Rossenberg]], "[https://dc.swosu.edu/cgi/viewcontent.cgi?article=2162&context=mythlore Tolkien's Exceptional Visit to Holland: A Reconstruction]" dated 15 October 1996, ''[[Proceedings of the J.R.R. Tolkien Centenary Conference]]''</ref>
+
+==Background==
+===The "Hobbit-maaltijd"===
+The dinner was held at an assembly hall, the Flevo-hall, part of a building called the Twaalf Provinciën Huis, that no longer exists. Author [[Wikipedia:Hella Haasse|Hella Haasse]] was one of the guests at the large dinner.<ref name=Rene/>
+
+===Tolkien's speech===
+Tolkien delivered his brief speech in English and Dutch, in the middle of which is a poem "[[Twenty years have flowed away down the long river]]", in [[Quenya]] and English. His finishing statement is quoted in [[Humphrey Carpenter|Carpenter]]'s ''[[J.R.R. Tolkien: A Biography|Biography]]''.<ref name=Bio/>
+
+In [[1993]], an audio recording of the speech was discovered by [[René van Rossenberg]] (which remains unreleased), who later in [[1995]] published an article in ''[[Mythlore 80]]'' detailing the events of that night. ([https://dc.swosu.edu/cgi/viewcontent.cgi?article=2162&context=mythlore see here])
+
+An excerpt of the recording appeared in an online article in [[2014]].<ref name=Huff/>
+
+Beside the oral deliverance Tolkien also prepared a written manuscript for the speech, which contains three versions of the Quenya poem. In [[2024]], part of the speech and the full texts of the poem are now published as entry 182 in ''[[The Collected Poems of J.R.R. Tolkien]]'' (2024).<ref>{{CP|182}}</ref>
+
+== See also ==
+* [[Letter 205a]]
+* [[Letter 206]]
+
+{{references}}
+{{DEFAULTSORT:Hobbit Dinner in Rotterdam}}
+[[Category:Events (real-world)]]

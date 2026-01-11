@@ -1,0 +1,67 @@
+{{Mallorn
+| name=Mallorn 54
+| image = Mallorn54.png
+| editor=[[Henry Gee]]
+| artist=[[Ted Nasmith]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=May 2013
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=	0308-6674
+}}
+'''''Mallorn'' 54''' is the fifty-forth issue of the [[The Tolkien Society]]'s journal ''[[Mallorn (journal)|Mallorn]]'', published in May [[2013]]. This is the first issue to return to its annual format and the last issue to be edited by [[Henry Gee]].
+
+==Contents==
+* '''Cover Art'''
+** By: [[Ted Nasmith]]
+* '''Editorial'''
+** "Questions of authorship"
+*** By: [[Henry Gee]]
+* '''Letters'''
+** "In support of Eowyn"
+*** By: Richard Gonsowski
+** "Meriadoc: the source" 
+*** By: Adrian Tucker
+** "A Merry dance"
+*** By: [[Jim Allan]]
+* '''Reviews'''
+** "A journey to the cinema": ''[[The Hobbit: An Unexpected Journey]]''
+*** By: [[Chad Chisholm]]
+*** By: [[Ruth Lacon|Ruth Lewis]]
+*** By: Britta Siemen
+*** By: Becky Dillon
+*** By: [[Marcel Bülles|Marcel Buelles]]
+*** By: Simona Rosetti
+*** By: [[Shaun Gunner]]
+*** By: Victoria Lee
+*** By: César Rojas
+*** By: [[Henry Gee]]
+*** By: [[Charles Noad]]
+** "A scientific perspective": ''[[The Science of Middle-earth (2004 book)|The Science of Middle-earth]]''
+*** By: Troels Forchhammer
+** "An ecological question": ''Narnia and the Fields of Arbol''
+*** By: Kusumita P. Pedersen
+* '''Commentary'''
+** "Realism in fantasy: ''[[The Lord of the Rings]]''"
+*** By: Lawrence Vaughan Krikorian 
+** "The poetic [[C.S. Lewis|C. S. Lewis]]"
+*** By: [[Colin Duriez]]
+** "'That sickle of the heavenly field': celestial motifs in ''[[The Lay of Leithian]]''"
+*** By: [[Kristine Larsen]]
+** "A recollection of Tolkien: Canon Gerard Hanlon"
+*** By: [[Daniel Helen]] and [[Morgan Thomsen]]
+** "A flying balrog"
+*** By: [[Jim Allan]]
+* '''Fiction'''
+** "RoChelle"
+*** By: Mark Ridge
+** "The view from the dark tower: a heresy"
+*** By: Lynn Forest-Hill
+* '''Well, I’m back'''
+** "Tolkien fandom and the movies: a highly selective rumination"
+*** By: Maureen Mann
+
+{{mallornnav|53|55}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 54}}
+[[Category:Mallorn (journal)]]

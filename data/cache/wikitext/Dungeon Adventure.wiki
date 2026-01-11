@@ -1,0 +1,22 @@
+{{expansion}}
+{{video game infobox
+| image = Dungeon Adventure - Cover.jpg
+| name=Dungeon Adventure
+| developer=[[Level 9 Computing]]<ref name="Giant">[http://www.giantbomb.com/dungeon-adventure/61-3541/ Dungeon Adventure] at Giant Bomb (retrieved 18 August 2010)</ref>
+| publisher=[[Level 9 Computing]]<ref name="Giant"/>
+| platform=[[wikipedia:Amstrad CPC|Amstrad CPC]], [[wikipedia:Atari 8-bit family|Atari 400]], ''BBC'', [[wikipedia:Commodore 64|Commodore 64]], [[wikipedia:Lynx|Lynx]], [[wikipedia:Memotech|Memotech]], [[wikipedia:MSX|MSX]], [[wikipedia:Nascom|Nascom]], [[wikipedia:Tangerine Computer System|Oric-1]], [[wikipedia:Sinclair ZX Spectrum|ZX Spectrum]]    
+| releasedate=[[1984]]
+| genre=Text-adventure
+}}
+'''''Dungeon Adventure''''' is a text-adventure made by [[Pete Austin|Pete]], [[Mike Austin|Mike]] and [[Nick Austin]].<ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=3 Meristation, El Anillo interactivo] p. 4 (retrieved 18 August 2010)</ref><ref name="FAQ">[http://www.faqs.org/faqs/tolkien/games/ FAQS, Tolkien Games] (retrieved 18 August 2010)</ref> It covers the events of ''[[the Lord of the Rings]]'' and is the third and last part of ''[[The Middle-Earth Trilogy]]''.<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/dungeon.html Dungeon Adventure] at Tolkien Games (retrieved 18 August 2010)</ref> Later, all names from [[J.R.R. Tolkien|Tolkien]]'s work were changed and it was published together with ''[[Colossal Adventure]]'' and ''[[Adventure Quest]]'' as ''[[Jewels of Darkness|The Jewels of Darkness]]'' by [[wikipedia:Telecomsoft#Firebird|Firebird]] and [[wikipedia:Telecomsoft#Rainbird|Rainbird Software]].<ref name="El Anillo" /><ref name="FAQ" /><ref name="Tolkien Games" />
+
+==Story==
+
+After the defeat of [[Sauron]] and the destruction of [[Barad-dûr]], players must collect the Dark Lord's remaining treasures in the Tower's dark dungeons, where Sauron and his minions await.<ref>[http://l9memorial.if-legends.org/html/da.html Dungeon Adventure] at The Level 9 Memoriol (retrieved 18 August 2010)</ref>
+{{references}}
+{{title|italics}}
+[[Category:Amstrad CPC games]]
+[[Category:Atari 400 games]]
+[[Category:Commodore 64 games]]
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

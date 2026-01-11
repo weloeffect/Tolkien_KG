@@ -1,0 +1,46 @@
+{{race infobox
+| name=Gongs
+| image=
+| caption=
+| pronun=
+| othernames=False-fairies, Goblins, Kaukareldar
+| origin=Created by [[Morgoth|Melko]] in the likeness of [[Elves]] and [[Men]]
+| location=[[Angband|Angamandi]], [[Nargothrond]], [[Thingol|Linwë's]] [[Menegroth|halls]], [[Rôs]]
+| affiliation=[[Úvanimo]]r
+| rivalry=[[Elves]], [[Gnomes]], [[Men]]
+| language=[[Melkian]]
+| people=
+| members=
+| lifespan=Unknown
+| distinctions=Evil footsoldiers of the [[Dark Lord|Enemy]]
+| height=Bent back<!--Don't want to remove as it is worth mentioning under physical descriptions but this isn't exactly a very helpful height descriptor-->
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+
+'''Gongs''' were evil beings, obscurely related to [[Orcs]] that appeared within ''[[The Book of Lost Tales]]'', the earliest version of the [[Legendarium]].<ref>{{LT2|Index}}, entry "Gongs"</ref>
+
+== History ==
+After the [[Nirnaeth Arnoediad|Battle of Unnumbered Tears]], [[Morgoth|Melko]] created Gongs,<ref group="note">Within the text, the word ''Gongs'' appears bracketed close to false-fairies and ''Kaukareldar''.</ref> in the image of [[Men]] and [[Elves]] in order to deceive and betray Men.<ref>{{LT1|X}}</ref>
+
+[[Mîm]] the [[Petty-dwarves|petty-dwarf]] commanded a guard of Orcs and Gongs to protect the treasures of [[Glaurung|Glorund]] in [[Nargothrond]]. They were slain by [[Húrin]] and his companions.<ref name=Gongs>{{LT2|IIn}}</ref>
+
+Not long after, a group of Gongs sacked [[Thingol|Linwë's]] [[Menegroth|halls]], killing Linwë, stealing the cursed gold, and fleeing far away. However, they are attacked by [[Beren|Beren Ermabwed]], forcing the gold and [[Silmarils|Silmaril]] into the river [[Sirion]], though the Silmaril was eventually found washed up by the [[Dwarves|Nauglath]].<ref name=Gongs/>
+
+During the [[Faring Forth]], a group of Gongs, alongside Orcs, Dwarves, [[Trolls]], and evil [[Men]] were among the evil participants of the [[Battle of Rôs]].<ref>{{LT2|VIb}}</ref>
+
+== Etymology ==
+In his commentary, [[Christopher Tolkien]] remarks that the Gnomish Lexicon defines a ''Gong'' as "one of a tribe of the Orcs, a goblin", but notes that ''Gongs'' might just be another name for ''Kaukareldar'',<ref>{{LT1|Xn}}, note 10</ref> an early [[Quenya]] word under the root ''[[KAWA]]'' ("stoop") which has five derivations: ''[[kauka]]'' ("crooked, bent, humped"), ''[[kauko]]'' ("humpback"), ''[[kawin]]'' ("I bow"), ''[[kaurë]]'' ("fear"), and ''[[kaurëa]]'' ("timid").<ref>{{LT1|Appendix}}, entry "Kaukareldar"</ref> In the Quenya Lexicon, ''[[Eldar]]'', the second element of ''Kaukareldar'', is defined as "a beach-fay or [[Solosimpi|Solosimpë]]".<ref>{{LT1|Appendix}}, entry "Eldar"</ref>
+
+The Gnomish Lexicon reportedly compares the word ''Gongs'' to ''sithagong'' ("dragonfly") derived from ''sitha'' ("[[flies|fly]]") and ''Gong''.<ref>{{LT1|Appendix}}, entry "Gong"</ref><ref>{{PE|11}}, p. 68</ref>
+
+== Other versions of the legendarium ==
+There are no references to Gongs in the later [[legendarium]].
+
+{{References|Notes}}
+
+[[Category:Gnomish nouns]]
+[[Category:Races in The Book of Lost Tales]]
+[[Category:Servants of Melkor]]

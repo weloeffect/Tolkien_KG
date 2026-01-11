@@ -1,0 +1,54 @@
+{{plant infobox
+| name=Mushrooms
+| image=Ted Nasmith - Mushroom Gatherer .jpg
+| caption="Mushroom Gatherer" by [[Ted Nasmith]]
+| pronun=
+| othernames=
+| location=Across Middle-earth, notably in [[the Shire]]
+| notablefor=
+| family=
+| appearance=
+}}
+{{Quote|I suppose you three won't want mushrooms again?|[[Fredegar Bolger]]<ref name="Cut"/>}}
+
+'''Mushrooms''' were an edible [[funguses|fungus]]. It is said that Hobbits have a passion for mushrooms, surpassing even the greediest likings of [[Men|Big People]].<ref name="Cut"/>
+
+==History==
+Mushrooms were a particular delight of young [[Frodo Baggins]], who would often steal them from [[Farmer Maggot]]'s fields. Old Maggot still remembered it when Frodo came to his [[Bamfurlong|farm]] years later, and as a parting gift, [[Mrs. Maggot]] gave Frodo a basket of the prized mushrooms.<ref name="Cut">{{HM|FR}}, "[[A Short Cut to Mushrooms]]"</ref> 
+
+==Inspiration==
+[[J.R.R. Tolkien]] described himself as a Hobbit in all but size, noting that he was very fond of mushrooms.<ref name="L213">{{L|213}}</ref>
+
+==Other versions of the legendarium==
+In a note discussing the [[Drúedain]], Tolkien made mention about the fungi in the [[First Age]]: they were generally considered ugly and dangerous by the [[Elves]] and most of the [[Edain]], and the less wise called them "ork-plants", believing them cursed and  blighted by [[Morgoth]]. The Eldar did not eat them and only a few Edain knew how to distinguish the edible ones and could eat them because of great hunger when lost in the wild. The Drúedain had a lore of plants and ate fungi with pleasure (to the astonishment of the other peoples), and they cultured their favorite ones. They passed this knowledge to the [[Haladin]] who ate them when guests out of courtesy, and resolved to them at need. Tolkien later discarded the note believing that this trait made the Drúedain "too like Hobbits".<ref>{{PM|XNotes}}, n. 52</ref>
+
+==Portrayal in adaptations==
+===Mushrooms in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings - The Fellowship of the Ring - Pippin spotting mushrooms.jpg|[[Peregrin Took|Pippin]] spotting mushrooms - ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Hobbit (2003) Balfor Baruk-Khazâd.JPG|Mushrooms in [[Goblin-town]] - [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]].
+</gallery>
+'''1984-1997: ''[[Middle-earth Role Playing]]''''' 
+:The various books released for the game describe [[Mushrooms in Middle-earth Role Playing|many different kinds of mushrooms]].
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:Though the scenes in Maggot's house have been omitted, a nod to mushrooms is given when the four Hobbits escape Farmer Maggot. [[Peregrin Took|Pippin]] spots them after a comment on a "short cut", making the full phrase sound as "A short cut to... mushrooms!", the chapter title.<ref>''[[The Lord of the Rings: The Fellowship of the Ring]]'', "[[A Short Cut to Mushrooms (scene)|A Short Cut to Mushrooms]]"</ref>
+
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Mushrooms are collectible items found throughout the Shire. When eaten, they restore 10 points of the player's health.<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], "The Shire"</ref>
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Mushrooms serve as power-ups throughout the game. One mushroom - green and blue of colour - restores one health bubble.<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Hobbiton"</ref> Later in the game, larger, clustered mushrooms serve as a full healing item.<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Flies and Spiders"</ref>
+
+'''2005: ''[[The Lord of the Rings Roleplaying Game]]: [[Paths of the Wise: The Guide to Magicians and Loremasters|Paths of the Wise]]''''' 
+:'''''Carnestad''''' ([[Sindarin|S.]] “red healing”) was described in the book as a squat mushroom with a bright red cap, native to [[Mirkwood]]. It neutralized disease, broke fevers, and alleviated symptoms of sickness. Elves guarded its patches carefully, while Men sought to sell them and Orcs tried to deny others their benefits.<ref>{{Decipher|Wise}}, pp. 84-85</ref>
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Mushrooms can be grown by players who are farmers by profession. Players who are cooks can make these into mushroom pie, fried mushroom and fried dace with mushrooms. These are foods for low leveled characters that can increase different traits.
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:During the [[White Council]] [[Saruman]], in order to dismiss [[Gandalf]]'s fears about the [[Necromancer]], mentions that [[Radagast]] consumes mushrooms excessively, which have blurred his cognition and judgement.
+
+{{References}}
+
+[[Category:Plants]]

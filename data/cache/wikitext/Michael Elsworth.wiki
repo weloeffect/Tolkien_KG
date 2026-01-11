@@ -1,0 +1,18 @@
+{{Actor
+| image =
+| name = Michael Elsworth
+| lifetime = [[12 June]] [[1932]]
+| played = "[[Gondorians|Gondorian Archivist]]"
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb = [https://www.imdb.com/name/nm1096480/ Profile]
+}}
+'''Michael Elsworth''' ([[12 June|June 12]], [[1932]]) is an English actor, now living in [[New Zealand]]. He worked with [[Peter Jackson]] in an uncredited role in ''[http://www.imdb.com/title/tt0116365/ The Frighteners]'', and work with him again in Jackson's grand opus. He is credited as the "[[Gondorians|Gondorian]] Archivist" in ''[[The Lord of the Rings: The Fellowship of the Ring]]'', but also appeared uncredited as [[Círdan]] and doubled for [[Gandalf]] when [[Ian McKellen]] was unavailable. 
+
+==External links==
+* [http://archives.theonering.net/movie/cast/elsworth.html Michael Elsworth] at [[TheOneRing.net]]
+
+{{DEFAULTSORT:Elsworth, Michael}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]

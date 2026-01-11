@@ -1,0 +1,45 @@
+{{Mallorn
+| name=Mallorn 28
+| image = Mallorn28.jpg
+| editor=[[David Doughan]]
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[September]] [[1991]]
+| format=A4 stapled paperback
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 28''' is the twenty-eighth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1991]].
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Celtic Influences on the History of the First Age
+** By: Marie Barnfieid
+* Frithuwold and the Farmer: ''Farmer Giles of Ham'' and his place in History
+** By: [[Patricia Reynolds]]
+* The Quest for Imladris
+** By: Madawc Williams
+* Sordid Suburbia
+** By: [[Alex Lewis]]
+* ''The Hobbit'' and ''A Midsummer Night's Dream''
+** By: Lisa Hopkins
+* Sublime Scenes and Horrid Novels: Milestones along the Road to Middle-earth
+** By: [[John Ellison]]
+* Valaquanta: Of the Energy of the Valar
+** By: Jennifer Coombs and Marc Read
+* How to learn Elvish
+** By: [[Nancy Martsch]]
+* Review: ''[[The War of the Ring]]''
+** By: [[Charles Noad]]
+* Review: ''[[C.S. Lewis: A Biography (1990 book)|C.S. Lewis: a Biography]]'', by A.N. Wilson
+** By: [[Wayne G. Hammond|Wayne Hammond]]
+* Research Report: Oxonmoot Eccentricity Survey
+** By: Sarah Sturch
+
+* Inside Art
+** By: Denis Gordeyev, [[John Ellison]], Ian Collier, Ellen Chapman, Alexander Nikolayev, [[Ruth Lacon]], Steve Lines
+
+{{Mallornnav|27|29}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 28}}
+[[Category:Mallorn (journal)]]

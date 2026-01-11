@@ -1,0 +1,47 @@
+{{Song
+| title = Khazad Dúm
+| album = [[Dol Guldur (album)|Dol Guldur]]
+| image = DolGuldur.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 10:57
+| track = 4
+| spotify = https://open.spotify.com/track/51Ynfy3095MalS2s8upps7
+| writer = [[J.R.R. Tolkien]], P.K.
+| next = [[Kôr (song)|Kôr]]
+| previous = [[Elfstone (song)|Elfstone]]
+}}'''''Khazad Dúm''''' is the fourth track of the album [[Dol Guldur (album)|Dol Guldur]] by the band [[Summoning]]. The song name is taken from [[Moria]], grandest and most famous of the mansions of the [[Dwarves]]. The lyrics directly quote the [[riddle of Strider]] and "[[The world was young, the mountains green,]]".
+
+== Lyrics ==
+<poem style="font-style:italic; margin-left:20px;">
+From ashes and fire be broken 
+A light from the shadows shall spring 
+Renewed shall be blade that was broken 
+The crownless shall again be king 
+
+The world is grey, the mountains old 
+The forge's fire is ashen and cold 
+No harp is wrung, no hammer falls 
+The darkness dwells in Durin's halls 
+
+The shadow lies upon his tomb 
+But still the sunken stars appeal 
+In the dark and windless Mirrormere 
+There lies his crown in water deep 
+
+'Til Durin wakes again from sleep 
+A deadly sword, a healing hand 
+A trumpet - voice, a burning hand 
+A lord of Wisdom... 
+
+Fire and shadow - both defied 
+In Khazad-Dum his wisdom died 
+In joy thou hast lived 
+
+If thou hearest the cry 
+of the Gull on the shore 
+Thy soul shall then rest 
+in the forest no more...
+</poem>
+{{title}}
+[[Category:Songs by Summoning]]

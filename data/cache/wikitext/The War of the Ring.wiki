@@ -1,0 +1,109 @@
+{{disambig-more|The War of the Ring|[[War of the Ring (disambiguation)]]}}
+{{book
+| title=The War of the Ring
+| image = War of the Ring 1990.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[Unwin Hyman]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[23 August]] [[1990]]
+| dateUS=[[14 November]] 1990
+| format=Hardcover; paperback
+| pages=496
+| isbn=0044406851
+| precededby=[[The Treason of Isengard]] (1989)
+| followedby=[[Sauron Defeated]] (1992)
+}}
+'''''The War of the Ring''''', published in [[1990]], is the eighth volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+It is also the third volume of ''[[The History of The Lord of the Rings]]'', which documents the writing process of ''[[The Lord of the Rings]]''.
+
+This book covers part of ''[[The Two Towers]]'' and part of ''[[The Return of the King]]''. Following the development of the previous books, the story continues to the opening of the [[Black Gate]].
+
+The title ''The War of the Ring'' was the original title for Book 5 of ''TLotR'', later discarded by Tolkien.
+
+==Contents==
+*Foreword
+
+* '''Part One: The Fall of Saruman'''
+** I. "The Destruction of Isengard"
+** II. "Helm's Deep"
+** III. "The Road to Isengard"
+** IV. "Flotsam and Jetsam"
+** V. "The Voice of Saruman"
+** VI. "The Palantír"
+
+* '''Part Two: The Ring Goes East'''
+** I. "The Taming of Sméagol"
+** II. "The Passage of the Marshes"
+** III. "The Black Gate is Closed"
+** IV. "Of Herbs and Stewed Rabbit"
+** V. "Faramir"
+** VI. "The Forbidden Pool"
+** VII. "Journey to the Cross-Roads"
+** VIII. "Kirith Ungol"
+
+* '''Part Three: Minas Tirith'''
+** I. "Addendum to 'The Treason of Isengard'"
+** II. "Book Five Begun and Abandoned"
+** III. "Minas Tirith"
+** IV. "Many Roads Lead Eastward (1)"
+** V. "Many Roads lead Eastward (2)"
+** VI. "The Siege of Gondor"
+** VII. "The Ride of the Rohirrim"
+** VIII. "The Story Foreseen from Forannest"
+** IX. "The Battle of the Pelennor Fields"
+** X. "The Pyre of Denethor"
+** XI. "The Houses of Healing"
+** XII. "The Last Debate"
+** XIII. "The Black Gate Opens"
+** XIV. "The Second Map"
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book VIII reads:
+
+:"''In the War of the Ring is traced the story of the history at Helm's Deep and the drowning of Isengard by the Ents, then is told of the journey of Frodo with Samwise and Gollum to the Morannon, of the meeting with Faramir and the stairs of Cirith Ungol, of the Battle of the [[Pelennor Fields]], and of the coming of Aragorn in the [[Corsairs of Umbar|fleet of Umbar]].''"
+
+==From the Publisher==
+{{blockquote|The third part of The History of The Lord of the Rings, an enthralling account of the writing of the Book of the Century which contains many additional scenes and includes the unpublished Epilogue in its entirety.<br>
+The War of the Ring takes up the story of The Lord of the Rings with the [[Battle of Helm's Deep]] and the drowning of [[Isengard]] by the [[Ents]], continues with the journey of Frodo, Sam and Gollum to the Pass of [[Cirith Ungol]], describes the war in Gondor, and ends with the parley between Gandalf and the ambassador of the Dark Lord before the Black Gate of Mordor.<br>
+
+The book is illustrated with plans and drawings of the changing conceptions of [[Orthanc]], [[Dunharrow]], [[Minas Tirith]], and the tunnels of [[Shelob's Lair]].}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:War of the Ring 1990.png ‎|1990 hardcover
+File:War of the Ring 1993.gif ‎|1991 hardcover
+File:War of the Ring 1992.png |1993 paperback
+File:War of the Ring 1997.jpeg |1993 paperback 2nd impression
+File:The War of the Ring (HC2002).jpeg |2002 & 2015 paperback
+File:War of the Ring 2010.png |2010 hardcover
+File:War of the Ring 2024.jpeg |2024 paperback
+File:War of the Ring hc 2024.jpg|2024 hardcover
+</gallery>
+* [[Unwin Hyman]], hardcover ([[1990]]), pp.&nbsp;496. ISBN 0044406851
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 026110201X
+* [[HarperCollins]] paperback ([[1993]]), ISBN 0261102230 - (cover art by [[Roger Garland]])
+** 1993 paperback edition, 2nd impression - (cover art by [[John Howe]])
+** 1993 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365322
+** 2015 paperback edition, 30th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #3)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#viii A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:War of the Ring}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+
+[[de:The War of the Ring]]

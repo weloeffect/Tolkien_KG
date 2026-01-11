@@ -1,0 +1,44 @@
+{{sources}}
+{{Poem infobox
+| title="Over the land there lies a long shadow,"
+| written=Between [[1938]] and [[1954]]
+| revised=Between 1938 and 1954
+| published=''[[The Return of the King]]''<br>''[[The War of the Ring]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Malbeth]], [[Kings of Arnor]], [[Paths of the Dead]]
+}}
+"'''Over the land there lies a long shadow,'''" is a prophecy spoken by [[Malbeth|Malbeth the Seer]] in the days of [[Arvedui]], the last [[Kings of Arnor|King of Arnor]]. It is recounted by [[Aragorn]] before heading to the [[Paths of the Dead]].<ref>{{Cite DTP|LR 5.02.084}}</ref>
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+Over the land there lies a long shadow,
+westward reaching wings of darkness.
+The Tower trembles; to the tombs of kings
+doom approaches. The Dead awaken;
+for the hour is come for the oathbreakers:
+at the [[Stone of Erech]] they shall stand again
+and hear there a horn in the hills ringing.</poem>
+
+==Commentary==
+This prophecy is written in the Old English alliterative verse form, in which Tolkien was an expert, both as scholar and practitioner. Many examples of alliterative verse are included in ''[[The Lord of the Rings]]'', but this is the only one not associated with the [[Rohirrim]]. The Rohirrim are depicted as using this verse form because Tolkien equated them to the ancestors of the English; but there is no apparent reason why a Númenórean would write in this form. The drafts published in ''[[The War of the Ring]]'' are all in rhyming verse.{{fact}}
+
+==Portrayal in adaptations==
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'' '''
+
+As Aragorn, [[Legolas]], and [[Gimli]] take the [[Dimholt|Dimholt Road]] into the mountains, Legolas recites a part of the prophecy after recounting the history of the Men of the Mountain and their broken oath to [[Isildur]]:
+
+<poem style="font-style:italic; margin-left:20px;">
+Who shall call them from the grey twilight, the forgotten people?
+The heir of him to whom the oath they swore.
+From the North shall he come, need shall drive him:
+he shall pass the Door to the Paths of the Dead.
+</poem>
+
+==See also==
+* [[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+
+{{references}}
+{{poems}}
+
+[[Category:Poems in The Return of the King]]
+[[Category:Oaths and prophecies]]
+[[Category:Third Age]]

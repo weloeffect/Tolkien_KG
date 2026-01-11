@@ -1,0 +1,835 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/And%C3%BAril> a schema:WebPage ;
+    rdfs:label "Andúril"@en ;
+    schema:about <http://localhost:8000/resource/And%C3%BAril> .
+
+<http://localhost:8000/page/Anglachel> a schema:WebPage ;
+    rdfs:label "Anglachel"@en ;
+    schema:about <http://localhost:8000/resource/Anglachel> .
+
+<http://localhost:8000/page/Angrist> a schema:WebPage ;
+    rdfs:label "Angrist"@en ;
+    schema:about <http://localhost:8000/resource/Angrist> .
+
+<http://localhost:8000/page/Anguirel> a schema:WebPage ;
+    rdfs:label "Anguirel"@en ;
+    schema:about <http://localhost:8000/resource/Anguirel> .
+
+<http://localhost:8000/page/Annon-in-Gelydh> a schema:WebPage ;
+    rdfs:label "Annon-in-Gelydh"@en ;
+    schema:about <http://localhost:8000/resource/Annon-in-Gelydh> .
+
+<http://localhost:8000/page/Aranr%C3%BAth> a schema:WebPage ;
+    rdfs:label "Aranrúth"@en ;
+    schema:about <http://localhost:8000/resource/Aranr%C3%BAth> .
+
+<http://localhost:8000/page/Arkenstone> a schema:WebPage ;
+    rdfs:label "Arkenstone"@en ;
+    schema:about <http://localhost:8000/resource/Arkenstone> .
+
+<http://localhost:8000/page/Barrows> a schema:WebPage ;
+    rdfs:label "Barrows"@en ;
+    schema:about <http://localhost:8000/resource/Barrows> .
+
+<http://localhost:8000/page/Belthronding> a schema:WebPage ;
+    rdfs:label "Belthronding"@en ;
+    schema:about <http://localhost:8000/resource/Belthronding> .
+
+<http://localhost:8000/page/Crown_of_Gondor> a schema:WebPage ;
+    rdfs:label "Crown of Gondor"@en ;
+    schema:about <http://localhost:8000/resource/Crown_of_Gondor> .
+
+<http://localhost:8000/page/Dragon-helm_of_Dor-l%C3%B3min> a schema:WebPage ;
+    rdfs:label "Dragon-helm of Dor-lómin"@en ;
+    schema:about <http://localhost:8000/resource/Dragon-helm_of_Dor-l%C3%B3min> .
+
+<http://localhost:8000/page/Dramborleg> a schema:WebPage ;
+    rdfs:label "Dramborleg"@en ;
+    schema:about <http://localhost:8000/resource/Dramborleg> .
+
+<http://localhost:8000/page/Elfstone> a schema:WebPage ;
+    rdfs:label "Elfstone"@en ;
+    schema:about <http://localhost:8000/resource/Elfstone> .
+
+<http://localhost:8000/page/Galvorn> a schema:WebPage ;
+    rdfs:label "Galvorn"@en ;
+    schema:about <http://localhost:8000/resource/Galvorn> .
+
+<http://localhost:8000/page/Gate_of_Steel> a schema:WebPage ;
+    rdfs:label "Gate of Steel"@en ;
+    schema:about <http://localhost:8000/resource/Gate_of_Steel> .
+
+<http://localhost:8000/page/Glamdring> a schema:WebPage ;
+    rdfs:label "Glamdring"@en ;
+    schema:about <http://localhost:8000/resource/Glamdring> .
+
+<http://localhost:8000/page/Grond_%28Hammer_of_the_Underworld%29> a schema:WebPage ;
+    rdfs:label "Grond (Hammer of the Underworld)"@en ;
+    schema:about <http://localhost:8000/resource/Grond_%28Hammer_of_the_Underworld%29> .
+
+<http://localhost:8000/page/Grond_%28battering_ram%29> a schema:WebPage ;
+    rdfs:label "Grond (battering ram)"@en ;
+    schema:about <http://localhost:8000/resource/Grond_%28battering_ram%29> .
+
+<http://localhost:8000/page/Gurthang> a schema:WebPage ;
+    rdfs:label "Gurthang"@en ;
+    schema:about <http://localhost:8000/resource/Gurthang> .
+
+<http://localhost:8000/page/Hadhafang> a schema:WebPage ;
+    rdfs:label "Hadhafang"@en ;
+    schema:about <http://localhost:8000/resource/Hadhafang> .
+
+<http://localhost:8000/page/Herugrim> a schema:WebPage ;
+    rdfs:label "Herugrim"@en ;
+    schema:about <http://localhost:8000/resource/Herugrim> .
+
+<http://localhost:8000/page/Hirilond%C3%AB> a schema:WebPage ;
+    rdfs:label "Hirilondë"@en ;
+    schema:about <http://localhost:8000/resource/Hirilond%C3%AB> .
+
+<http://localhost:8000/page/Iron_Crown> a schema:WebPage ;
+    rdfs:label "Iron Crown"@en ;
+    schema:about <http://localhost:8000/resource/Iron_Crown> .
+
+<http://localhost:8000/page/Key_of_Orthanc> a schema:WebPage ;
+    rdfs:label "Key of Orthanc"@en ;
+    schema:about <http://localhost:8000/resource/Key_of_Orthanc> .
+
+<http://localhost:8000/page/Laurelin> a schema:WebPage ;
+    rdfs:label "Laurelin"@en ;
+    schema:about <http://localhost:8000/resource/Laurelin> .
+
+<http://localhost:8000/page/Lembas> a schema:WebPage ;
+    rdfs:label "Lembas"@en ;
+    schema:about <http://localhost:8000/resource/Lembas> .
+
+<http://localhost:8000/page/Mirror_of_Galadriel> a schema:WebPage ;
+    rdfs:label "Mirror of Galadriel"@en ;
+    schema:about <http://localhost:8000/resource/Mirror_of_Galadriel> .
+
+<http://localhost:8000/page/Moon> a schema:WebPage ;
+    rdfs:label "Moon"@en ;
+    schema:about <http://localhost:8000/resource/Moon> .
+
+<http://localhost:8000/page/Morgul-knife> a schema:WebPage ;
+    rdfs:label "Morgul-knife"@en ;
+    schema:about <http://localhost:8000/resource/Morgul-knife> .
+
+<http://localhost:8000/page/Narsil> a schema:WebPage ;
+    rdfs:label "Narsil"@en ;
+    schema:about <http://localhost:8000/resource/Narsil> .
+
+<http://localhost:8000/page/Narya> a schema:WebPage ;
+    rdfs:label "Narya"@en ;
+    schema:about <http://localhost:8000/resource/Narya> .
+
+<http://localhost:8000/page/Nauglam%C3%ADr> a schema:WebPage ;
+    rdfs:label "Nauglamír"@en ;
+    schema:about <http://localhost:8000/resource/Nauglam%C3%ADr> .
+
+<http://localhost:8000/page/Nenya> a schema:WebPage ;
+    rdfs:label "Nenya"@en ;
+    schema:about <http://localhost:8000/resource/Nenya> .
+
+<http://localhost:8000/page/Orcrist> a schema:WebPage ;
+    rdfs:label "Orcrist"@en ;
+    schema:about <http://localhost:8000/resource/Orcrist> .
+
+<http://localhost:8000/page/P%C3%BAkel-men> a schema:WebPage ;
+    rdfs:label "Púkel-men"@en ;
+    schema:about <http://localhost:8000/resource/P%C3%BAkel-men> .
+
+<http://localhost:8000/page/Palant%C3%ADri> a schema:WebPage ;
+    rdfs:label "Palantíri"@en ;
+    schema:about <http://localhost:8000/resource/Palant%C3%ADri> .
+
+<http://localhost:8000/page/Red_Arrow> a schema:WebPage ;
+    rdfs:label "Red Arrow"@en ;
+    schema:about <http://localhost:8000/resource/Red_Arrow> .
+
+<http://localhost:8000/page/Red_Book_of_Westmarch> a schema:WebPage ;
+    rdfs:label "Red Book of Westmarch"@en ;
+    schema:about <http://localhost:8000/resource/Red_Book_of_Westmarch> .
+
+<http://localhost:8000/page/Ring_of_Barahir> a schema:WebPage ;
+    rdfs:label "Ring of Barahir"@en ;
+    schema:about <http://localhost:8000/resource/Ring_of_Barahir> .
+
+<http://localhost:8000/page/Ring_of_Thr%C3%B3r> a schema:WebPage ;
+    rdfs:label "Ring of Thrór"@en ;
+    schema:about <http://localhost:8000/resource/Ring_of_Thr%C3%B3r> .
+
+<http://localhost:8000/page/Scroll_of_Isildur> a schema:WebPage ;
+    rdfs:label "Scroll of Isildur"@en ;
+    schema:about <http://localhost:8000/resource/Scroll_of_Isildur> .
+
+<http://localhost:8000/page/Secret_Fire> a schema:WebPage ;
+    rdfs:label "Secret Fire"@en ;
+    schema:about <http://localhost:8000/resource/Secret_Fire> .
+
+<http://localhost:8000/page/Star_of_E%C3%A4rendil> a schema:WebPage ;
+    rdfs:label "Star of Eärendil"@en ;
+    schema:about <http://localhost:8000/resource/Star_of_E%C3%A4rendil> .
+
+<http://localhost:8000/page/Star_of_Elendil> a schema:WebPage ;
+    rdfs:label "Star of Elendil"@en ;
+    schema:about <http://localhost:8000/resource/Star_of_Elendil> .
+
+<http://localhost:8000/page/Stone_of_Erech> a schema:WebPage ;
+    rdfs:label "Stone of Erech"@en ;
+    schema:about <http://localhost:8000/resource/Stone_of_Erech> .
+
+<http://localhost:8000/page/The_One_Ring> a schema:WebPage ;
+    rdfs:label "The One Ring"@en ;
+    schema:about <http://localhost:8000/resource/The_One_Ring> .
+
+<http://localhost:8000/page/Tower_of_Avall%C3%B3n%C3%AB> a schema:WebPage ;
+    rdfs:label "Tower of Avallónë"@en ;
+    schema:about <http://localhost:8000/resource/Tower_of_Avall%C3%B3n%C3%AB> .
+
+<http://localhost:8000/page/Vilya> a schema:WebPage ;
+    rdfs:label "Vilya"@en ;
+    schema:about <http://localhost:8000/resource/Vilya> .
+
+<http://localhost:8000/page/West-gate_of_Bree> a schema:WebPage ;
+    rdfs:label "West-gate of Bree"@en ;
+    schema:about <http://localhost:8000/resource/West-gate_of_Bree> .
+
+<http://localhost:8000/resource/And%C3%BAril> a schema:Thing ;
+    tg:appearance "Long sword"@en ;
+    tg:caption <http://localhost:8000/resource/%22And%C3%BAril%2C_Flame_of_the_West%22_by_%3ACategory%3AImages_by_Artigas> ;
+    tg:created "{{TA|3018}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Rivendell> ;
+    tg:creator <http://localhost:8000/resource/Elven-smiths%2C_reforged_from_Narsil_%28created_by_Telchar> ;
+    tg:image "Artigas - Anduril Flame of the West.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Andúril"@en ;
+    tg:othernames "''Flame of the West''"@en ;
+    tg:owner <http://localhost:8000/resource/Aragorn%2C_Eldarion%2C_High_King_of_the_D%C3%BAnedain> ;
+    tg:pronun "{{respell|an|doo|ril}}"@en ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Anglachel> a schema:Thing ;
+    tg:appearance "A glowing black blade that could slice through iron; forged from a meteorite"@en ;
+    tg:caption <http://localhost:8000/resource/%22E%C3%B6l%27s_Swords%22_by_%3ACategory%3AImages_by_Mar%C3%ADa_Lombide_Ezpeleta> ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/Nan_Elmoth> ;
+    tg:creator <http://localhost:8000/resource/E%C3%B6l> ;
+    tg:destroyed <http://localhost:8000/resource/Reforged_as_Gurthang> ;
+    tg:image "Elena Kukanova - Anglachel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nan_Elmoth%2C_Menegroth> ;
+    tg:name "Anglachel"@en ;
+    tg:notablefor <http://localhost:8000/resource/killing_of_Beleg_by_T%C3%BArin> ;
+    tg:owner <http://localhost:8000/resource/Thingol%2C_Beleg%2C_T%C3%BArin> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Angrist> a schema:Thing ;
+    tg:appearance "Long dwarf-knife"@en ;
+    tg:caption "\"Angrist\" by Artigas"@en ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:creator <http://localhost:8000/resource/Telchar> ;
+    tg:destroyed "{{FA|466}}"@en ;
+    tg:destroyedlocation <http://localhost:8000/resource/Angband> ;
+    tg:destroyer <http://localhost:8000/resource/Beren/Morgoth> ;
+    tg:image "Artigas - Angrist.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nargothrond%2C_Forest_of_Brethil%2C_Angband> ;
+    tg:name "Angrist"@en ;
+    tg:notablefor <http://localhost:8000/resource/Removing_a_Silmaril_from_the_Iron_Crown> ;
+    tg:owner <http://localhost:8000/resource/Curufin%2C_Beren> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Anguirel> a schema:Thing ;
+    tg:appearance "A black blade that could slice through iron; forged from a meteorite"@en ;
+    tg:caption <http://localhost:8000/resource/%22E%C3%B6l%27s_Swords%22_by_%3ACategory%3AImages_by_Mar%C3%ADa_Lombide_Ezpeleta> ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/Nan_Elmoth> ;
+    tg:creator <http://localhost:8000/resource/E%C3%B6l> ;
+    tg:image "María Lombide Ezpeleta - Eöl's Swords.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nan_Elmoth%2C_Gondolin> ;
+    tg:name "Anguirel"@en ;
+    tg:owner <http://localhost:8000/resource/E%C3%B6l%2C_Maeglin> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Annon-in-Gelydh> a schema:Thing ;
+    tg:caption "\"Gate of the Noldor\" by Jonathan Guzi"@en ;
+    tg:creator <http://localhost:8000/resource/Turgon> ;
+    tg:gallery "the Gate of the Noldor"@en ;
+    tg:image "Jonathan Guzi - Gate of the Noldor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Dor-l%C3%B3min> ;
+    tg:name "Annon-in-Gelydh"@en ;
+    tg:othernames "Gate of the Noldor"@en ;
+    tg:type "Gate"@en .
+
+<http://localhost:8000/resource/Aranr%C3%BAth> a schema:Thing ;
+    tg:appearance "Sword"@en ;
+    tg:caption <http://localhost:8000/resource/Aranr%C3%BAth_wielded_by_Thingol_in_%27%27King_of_Doriath%27%27_by_Elena_Kukanova> ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:destroyed "{{SA|3319}}"@en ;
+    tg:destroyedlocation <http://localhost:8000/resource/Downfall_of_N%C3%BAmenor> ;
+    tg:image "Elena Kukanova - King of Doriath.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Doriath%2C_Mouths_of_Sirion%2C_N%C3%BAmenor> ;
+    tg:name "Aranrúth"@en ;
+    tg:owner <http://localhost:8000/resource/Thingol%2C_Dior%2C_Elwing%2C_Elros%2C_Kings_of_N%C3%BAmenor> ;
+    tg:pronun "{{respell|ah|ran-rooth}}"@en ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Arkenstone> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22The_Arkenstone%22_by_Donato_Giancola> ;
+    tg:gallery "the Arkenstone"@en ;
+    tg:image "Donato Giancola - The Arkenstone.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Erebor> ;
+    tg:name "Arkenstone"@en ;
+    tg:othernames "Heart of the Mountain, the Arkenstone of Thrain<ref name=\"Thief\">{{H|Thief}}</ref>"@en ;
+    tg:owner <http://localhost:8000/resource/Kings_of_Durin%27s_Folk_since_Thr%C3%A1in_I> ;
+    tg:type "Jewel"@en .
+
+<http://localhost:8000/resource/Barrows> a schema:Thing ;
+    tg:appearance "Mounds (\"barrows\") in which the dead were placed with some of their wealth"@en ;
+    tg:caption <http://localhost:8000/resource/%22Under_the_Spell_of_the_Barrow-wight%22_by_Ted_Nasmith> ;
+    tg:image "Ted Nasmith - Under the Spell of the Barrow-wight.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Most_notably_in_Barrow-downs> ;
+    tg:name "Barrows"@en ;
+    tg:owner "The rich among the dead"@en ;
+    tg:type "Burial chambers"@en .
+
+<http://localhost:8000/resource/Belthronding> a schema:Thing ;
+    tg:appearance "Bow made of black yew-wood"@en ;
+    tg:caption <http://localhost:8000/resource/%22Beleg%22_by_%3ACategory%3AImages_by_Elena_Kukanova> ;
+    tg:image "Elena Kukanova - Beleg 2.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Doriath%2C_Dor-C%C3%BAarthol%2C_Taur-nu-Fuin> ;
+    tg:name "Belthronding"@en ;
+    tg:owner <http://localhost:8000/resource/Beleg> ;
+    tg:pronun "{{respell|bel|thron|ding}}"@en ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Crown_of_Gondor> a schema:Thing ;
+    tg:appearance "A tall, jeweled winged helm"@en ;
+    tg:caption <http://localhost:8000/resource/%27%27Crown_of_Gondor%27%27_by_J.R.R._Tolkien> ;
+    tg:created <http://localhost:8000/resource/Second_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:creator <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:gallery "the Crown of Gondor"@en ;
+    tg:image "J.R.R. Tolkien - Crown of Gondor.svg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Dagorlad%2C_Hallows%2C_Court_of_the_Fountain_%28Minas_Tirith%29> ;
+    tg:name "Crown of Gondor"@en ;
+    tg:othernames <http://localhost:8000/resource/Winged_Crown%2C_White_Crown%2C_Silver_Crown%2C_Crown_of_Elendil> ;
+    tg:owner <http://localhost:8000/resource/Isildur%2C_King_of_Gondor> ;
+    tg:type "Crown"@en .
+
+<http://localhost:8000/resource/Dragon-helm_of_Dor-l%C3%B3min> a schema:Thing ;
+    tg:appearance <http://localhost:8000/resource/Visored_grey_steel_helm%2C_adorned_with_gold_and_graven_runes_of_victory%2C_that_bore_defiantly_upon_its_crest_a_gilded_image_of_Glaurung> ;
+    tg:caption <http://localhost:8000/resource/%22The_Dragon-helm_of_Dor-l%C3%B3min%22_by_Elena_Kukanova> ;
+    tg:created "c. {{FA|260}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Nogrod> ;
+    tg:creator <http://localhost:8000/resource/Telchar> ;
+    tg:gallery "the Dragon-helm of Dor-lómin"@en ;
+    tg:image "Elena Kukanova - The Dragon-helm of Dor-lómin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nogrod%2C_Dor-l%C3%B3min%2C_Dimbar%2C_Doriath%2C_Amon_R%C3%BBdh%2C_Dor-C%C3%BAarthol%2C_Nargothrond%2C_Tumhalad%2C_Brethil> ;
+    tg:name "Dragon-helm of Dor-lómin"@en ;
+    tg:notablefor <http://localhost:8000/resource/Bearing_a_gilded_image_of_Glaurung_upon_its_crest> ;
+    tg:othernames "Helm of Hador<br/>Dragonhead of the North<br/>Dragon of Dor-lómin<br/>Dragon of the North<ref name=Lay>{{LB|1f}}</ref><br/>Helm of Húrin<ref name=Lay/>"@en ;
+    tg:owner <http://localhost:8000/resource/Azagh%C3%A2l%2C_Maedhros%2C_Fingon%2C_Hador%2C_Galdor_%28Lord_of_Dor-l%C3%B3min%29> ;
+    tg:type "Armour"@en .
+
+<http://localhost:8000/resource/Dramborleg> a schema:Thing ;
+    tg:appearance "Great axe"@en ;
+    tg:caption <http://localhost:8000/resource/%22Tuor%22_by_%3ACategory%3AImages_by_Natalie_Chen> ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:destroyed "{{SA|3319}}"@en ;
+    tg:destroyedlocation <http://localhost:8000/resource/Downfall_of_N%C3%BAmenor> ;
+    tg:image "Natalie Chen - Tuor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondolin%2C_N%C3%BAmenor> ;
+    tg:name "Axe of Tuor"@en ;
+    tg:owner <http://localhost:8000/resource/Tuor%2C_Kings_of_N%C3%BAmenor> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Elfstone> a schema:Thing ;
+    tg:appearance "A green gem set on a silver eagle-shaped brooch"@en ;
+    tg:caption <http://localhost:8000/resource/%27%27Elessar_%28Elfstone%29%27%27_by_John_Howe> ;
+    tg:created <http://localhost:8000/resource/late_First_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/Gondolin> ;
+    tg:creator <http://localhost:8000/resource/Enerdhil/Celebrimbor> ;
+    tg:gallery "the Elessar of Eärendil"@en ;
+    tg:image "John Howe - Elessar (Elfstone).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondolin%2C_Havens_of_Sirion%2C_Valinor/Eregion%2C_Lothl%C3%B3rien%2C_Rivendell_Gondor> ;
+    tg:name "Elfstone"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Elessar%27%27_%28Quenya> ;
+    tg:owner <http://localhost:8000/resource/Enerdhil/Celebrimbor%2C_Idril%2C_E%C3%A4rendil%2C_Galadriel%2C_Celebr%C3%ADan%2C_Arwen%2C_Aragorn> ;
+    tg:type "Jewel"@en .
+
+<http://localhost:8000/resource/Galvorn> a schema:Thing ;
+    tg:appearance "Black, shining"@en ;
+    tg:caption "''[https://www.elconfidencial.com/tecnologia/novaceno/2023-06-11/galvorn-material-nanotubes-carbono_3662652/ Galvorn]'', a real-world material named after this metal."@en ;
+    tg:creator <http://localhost:8000/resource/E%C3%B6l> ;
+    tg:image "DexMat Galvorn material.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Galvorn"@en ;
+    tg:notablefor "Resisting blades and darts"@en ;
+    tg:type "Type of metal"@en .
+
+<http://localhost:8000/resource/Gate_of_Steel> a schema:Thing ;
+    tg:appearance "A mighty fence of steel with seven wide beams, flanked by towers"@en ;
+    tg:caption <http://localhost:8000/resource/%22Seventh_Gate_of_Gondolin%22_by_%3ACategory%3AImages_by_David_Greset> ;
+    tg:created <http://localhost:8000/resource/5th_century%2C_First_Age> ;
+    tg:creator <http://localhost:8000/resource/Maeglin> ;
+    tg:image "David Greset - Seventh Gate of Gondolin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Orfalch_Echor> ;
+    tg:name "Gate of Steel"@en ;
+    tg:othernames "Great Gate, Last Gate, Seventh Gate"@en ;
+    tg:type "Gate"@en .
+
+<http://localhost:8000/resource/Glamdring> a schema:Thing ;
+    tg:appearance "\"beautiful scabbards and <br>jewelled hilts\"<ref name=\"mutton\"/>"@en ;
+    tg:caption <http://localhost:8000/resource/%22Gandalf_the_White%22_by_John_Howe> ;
+    tg:created "<br>Between c. {{FA|116}} - {{FA|496}}<ref name=\"shortrest\">{{H|3}}</ref><ref name=\"ut1\">{{UT|1}}, note 31 (in the source it is not directly identified as Glamdring)</ref>"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Gondolin> ;
+    tg:image "John Howe - Gandalf the White 01.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondolin%2C_various> ;
+    tg:name "Glamdring"@en ;
+    tg:notablefor <http://localhost:8000/resource/Weapon_of_Gandalf_during_the_War_of_the_Ring> ;
+    tg:othernames "Beater, Foe-hammer"@en ;
+    tg:owner <http://localhost:8000/resource/Turgon%2C_Gandalf> ;
+    tg:type "Sword"@en .
+
+<http://localhost:8000/resource/Grond_%28Hammer_of_the_Underworld%29> a schema:Thing ;
+    tg:appearance "Mace"@en ;
+    tg:caption <http://localhost:8000/resource/%27%27Morgoth_and_Fingolfin%27%27_by_%3ACategory%3AImages_by_Joel_Kilpatrick> ;
+    tg:image "Joel Kilpatrick - Morgoth and Fingolfin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Grond"@en ;
+    tg:notablefor <http://localhost:8000/resource/Weapon_used_against_Fingolfin> ;
+    tg:othernames "Hammer of the Underworld"@en ;
+    tg:owner <http://localhost:8000/resource/Morgoth> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Grond_%28battering_ram%29> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/Grond_Leaves_Mordor%22_by_Olanda_Fong-Surdenas> ;
+    tg:createdlocation <http://localhost:8000/resource/Mordor> ;
+    tg:creator "Sauron or his servants"@en ;
+    tg:gallery "Grond (battering ram)"@en ;
+    tg:image "Olanda Fong-Surdenas - Grond Leaves Mordor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Grond"@en ;
+    tg:notablefor <http://localhost:8000/resource/Breaking_through_the_Great_Gate_of_Minas_Tirith> ;
+    tg:owner <http://localhost:8000/resource/Sauron> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Gurthang> a schema:Thing ;
+    tg:appearance "A glowing black blade that could slice through iron; forged from a meteorite"@en ;
+    tg:audio "{{Pronounce|Gurthang.mp3|Ardamir}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Gurthang%2C_Iron_of_Death%22_by_%3ACategory%3AImages_by_Joe_Hickman> ;
+    tg:created "c. {{FA|490}}-{{FA|495|n}}<ref>{{GA|268}}</ref>"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Nargothrond> ;
+    tg:creator <http://localhost:8000/resource/T%C3%BArin_%28originally_E%C3%B6l%29> ;
+    tg:destroyed "{{FA|499}}<ref>{{GA|349}}</ref>"@en ;
+    tg:destroyedlocation <http://localhost:8000/resource/Cabed-en-Aras> ;
+    tg:destroyer <http://localhost:8000/resource/T%C3%BArin> ;
+    tg:image "Joe Hickman - Gurthang, Iron of Death.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nargothrond%2C_Tumhalad%2C_Brodda%27s_hall%2C_Obel_Halad> ;
+    tg:name "Gurthang"@en ;
+    tg:notablefor <http://localhost:8000/resource/Killing_Glaurung%3Cbr/%3ET%C3%BArin%27s_suicide> ;
+    tg:othernames "The Black Thorn of Brethil"@en ;
+    tg:owner <http://localhost:8000/resource/T%C3%BArin> ;
+    tg:type "Weapon"@en .
+
+<http://localhost:8000/resource/Hadhafang> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Hadhafang%27%27_as_designed_by_The_Noble_Collection> ;
+    tg:creator <http://localhost:8000/resource/Elves> ;
+    tg:image "Noble Collection - Hadhafang.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:name "Hadhafang"@en ;
+    tg:owner <http://localhost:8000/resource/Idril%2C_E%C3%A4rendil%2C_Elrond%2C_Arwen> ;
+    tg:type "Sword"@en .
+
+<http://localhost:8000/resource/Herugrim> a schema:Thing ;
+    tg:appearance "Long"@en ;
+    tg:caption <http://localhost:8000/resource/%22Herugrim%2C_Sword_of_Rohan%3A_Sword_of_Hearth_and_Home%22_by_%3ACategory%3AImages_by_Randy_Gallegos> ;
+    tg:image "Randy Gallegos - Herugrim, Sword of Rohan - Sword of Hearth and Home.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Edoras> ;
+    tg:name "Herugrim"@en ;
+    tg:owner <http://localhost:8000/resource/Th%C3%A9oden%2C_Gr%C3%ADma> ;
+    tg:type <http://localhost:8000/resource/%3ACategory%3ASwords> .
+
+<http://localhost:8000/resource/Hirilond%C3%AB> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Hirilonde_%28from_%27Aldarion_and_Erendis%27%29%22_by_%3ACategory%3AImages_by_David_Greset> ;
+    tg:created "completed by {{SA|877}}<ref name=notes/>"@en ;
+    tg:createdlocation <http://localhost:8000/resource/R%C3%B3menna> ;
+    tg:creator <http://localhost:8000/resource/Tar-Aldarion> ;
+    tg:image "David Greset - Hirilonde (from 'Aldarion and Erendis').jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/R%C3%B3menna_%28N%C3%BAmenor%29> ;
+    tg:name "Hirilondë"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Turuphanto%27%27_%28Quenya> ;
+    tg:owner <http://localhost:8000/resource/Tar-Aldarion> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:type "Ship"@en .
+
+<http://localhost:8000/resource/Iron_Crown> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22The_Iron_Crown%22_by_Audrey_Corman> ;
+    tg:created "{{YT|1495}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Angband> ;
+    tg:gallery "the Iron Crown"@en ;
+    tg:image "Audrey Corman - Iron Crown.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Iron Crown"@en ;
+    tg:notablefor <http://localhost:8000/resource/Quest_for_the_Silmaril> ;
+    tg:owner <http://localhost:8000/resource/Morgoth> .
+
+<http://localhost:8000/resource/Key_of_Orthanc> a schema:Thing ;
+    tg:appearance "Large, intricate, black"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Minas_Tirith%2C_then_Orthanc%2C_finally_Minas_Tirith> ;
+    tg:name "Key of Orthanc"@en ;
+    tg:owner <http://localhost:8000/resource/Stewards_of_Gondor%2C_Saruman%2C_King_Aragorn> ;
+    tg:type "Key"@en .
+
+<http://localhost:8000/resource/Laurelin> a schema:Thing ;
+    tg:appearance "Gold-trimmed leaves"@en ;
+    tg:caption "\"Laurelin\" by Ralph Damiani"@en ;
+    tg:created "V.Y. 3450–3500"@en ;
+    tg:creator <http://localhost:8000/resource/Yavanna> ;
+    tg:destroyed "{{YT|1495}}"@en ;
+    tg:destroyer <http://localhost:8000/resource/Morgoth> ;
+    tg:image "Ralph Damiani - Laurelin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Ezellohar> ;
+    tg:name "Laurelin"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Tulukhedelgor%C5%ABs%27%27_%28Valarin> ;
+    tg:pronun "{{respell|low|re-lin}}"@en ;
+    tg:type "Tree/source of light"@en .
+
+<http://localhost:8000/resource/Lembas> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Lembas%22_by_John_Howe> ;
+    tg:image "John Howe - Lembas.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Lembas"@en ;
+    tg:othernames "waybread"@en .
+
+<http://localhost:8000/resource/Mirror_of_Galadriel> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Galadriel%27%27_by_%3ACategory%3AImages_by_Raoul_Vitale> ;
+    tg:gallery "the Mirror of Galadriel"@en ;
+    tg:image "Raoul Vitale - Galadriel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Caras_Galadhon> ;
+    tg:name "Mirror of Galadriel"@en ;
+    tg:notablefor "Visions of the past, present, or possible futures."@en ;
+    tg:owner <http://localhost:8000/resource/Galadriel> .
+
+<http://localhost:8000/resource/Moon> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Tilion%22_by_%3ACategory%3AImages_by_Lady_Elleth> ;
+    tg:created <http://localhost:8000/resource/%7B%7BYT> ;
+    tg:creator <http://localhost:8000/resource/Aul%C3%AB> ;
+    tg:gallery "the Moon"@en ;
+    tg:image "Lady Elleth - Tilion.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Ilmen_in_E%C3%A4> ;
+    tg:name "Moon"@en ;
+    tg:othernames <http://localhost:8000/resource/Moon%23Other_names> ;
+    tg:owner <http://localhost:8000/resource/Tilion> ;
+    tg:type "Source of light"@en .
+
+<http://localhost:8000/resource/Morgul-knife> a schema:Thing ;
+    tg:appearance "Long, thin, and glowed with a pale light."@en ;
+    tg:caption <http://localhost:8000/resource/%22Morgul-blade%22_by_%3ACategory%3AImages_by_Audrey_Corman> ;
+    tg:destroyed <http://localhost:8000/resource/20_October> ;
+    tg:destroyedlocation <http://localhost:8000/resource/Rivendell> ;
+    tg:destroyer <http://localhost:8000/resource/Elrond> ;
+    tg:gallery "the Morgul-knife"@en ;
+    tg:image "Audrey Corman - Morgul-blade.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Weathertop%2C_Ford_of_Bruinen%2C_Rivendell> ;
+    tg:name "Morgul-knife"@en ;
+    tg:notablefor <http://localhost:8000/resource/Injuring_Frodo_Baggins> ;
+    tg:owner <http://localhost:8000/resource/Nazg%C3%BBl> ;
+    tg:type "Dagger"@en .
+
+<http://localhost:8000/resource/Narsil> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%22Narsil%22_by_John_Howe> ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/Nogrod> ;
+    tg:creator <http://localhost:8000/resource/Telchar> ;
+    tg:destroyer "<!--It was broken, not destroyed. Do not add that information here again-->"@en ;
+    tg:image "John Howe - Narsil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nogrod%2C_N%C3%BAmenor%2C_Arnor%2C_Rivendell> ;
+    tg:name "Narsil"@en ;
+    tg:notablefor <http://localhost:8000/resource/Cutting_the_One_Ring_of_Sauron> ;
+    tg:othernames <http://localhost:8000/resource/Sword_of_Elendil%2C_Sword-that-was-Broken%2C_Shards_of_Narsil%3B_after_its_reforging_it_was_named_And%C3%BAril> ;
+    tg:owner <http://localhost:8000/resource/Kings_of_N%C3%BAmenor%2C_Lords_of_And%C3%BAni%C3%AB%2C_Elendil%2C_Kings_of_Arnor%2C_Kings_of_Arthedain%2C_Chieftains_of_the_D%C3%BAnedain> ;
+    tg:pronun "{{respell|nar|sil}}"@en ;
+    tg:type "Sword"@en .
+
+<http://localhost:8000/resource/Narya> a schema:Thing ;
+    tg:appearance "Set with a ruby;<ref>{{S|Rings}}</ref> \"the stone upon it was red as fire\"<ref>{{RK|Havens}}</ref>"@en ;
+    tg:caption <http://localhost:8000/resource/Narya_by_J.R.R._Tolkien> ;
+    tg:created "c. {{SA|1590}}<ref name=\"SA\">{{App|SA}}</ref>"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Eregion> ;
+    tg:creator <http://localhost:8000/resource/Celebrimbor> ;
+    tg:image "J.R.R. Tolkien - Narya.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Eregion%2C_Lindon%2C_later_various> ;
+    tg:name "Narya"@en ;
+    tg:othernames "The Red Ring, The Ring of Fire, The Third Ring"@en ;
+    tg:owner <http://localhost:8000/resource/Celebrimbor%2C_C%C3%ADrdan%2C_Gandalf> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:type "Ring"@en .
+
+<http://localhost:8000/resource/Nauglam%C3%ADr> a schema:Thing ;
+    tg:appearance <http://localhost:8000/resource/Carcanet_of_gold%2C_and_set_therein_were_gems_uncounted_from_Valinor%3B_later_set_with_a_Silmaril> ;
+    tg:caption <http://localhost:8000/resource/%22The_Nauglam%C3%ADr%22_by_Ted_Nasmith> ;
+    tg:createdlocation <http://localhost:8000/resource/Blue_Mountains> ;
+    tg:creator <http://localhost:8000/resource/Dwarves_of_the_Blue_Mountains> ;
+    tg:gallery "the Nauglamír"@en ;
+    tg:image "Ted Nasmith - The Nauglamir.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Nargothrond%2C_Doriath%2C_Mouths_of_Sirion> ;
+    tg:name "Nauglamír"@en ;
+    tg:notablefor <http://localhost:8000/resource/Containing_a_Silmarils> ;
+    tg:othernames <http://localhost:8000/resource/%22Necklace_of_the_Dwarves%22%3Cbr_/%3E%27%27Sigil_Elu-naeth%27%27_%28Sindarin> ;
+    tg:owner <http://localhost:8000/resource/Finrod%2C_Thingol%2C_L%C3%BAthien%2C_Dior%2C_Elwing> ;
+    tg:pronun "{{respell|now|gla-mear}}"@en ;
+    tg:type "Jewellery"@en .
+
+<http://localhost:8000/resource/Nenya> a schema:Thing ;
+    tg:appearance <http://localhost:8000/resource/Made_of_%27%27mithril%27%27_and_set_with_a_white_stone_of_adamant> ;
+    tg:caption <http://localhost:8000/resource/Nenya_by_J.R.R._Tolkien> ;
+    tg:created "c. between {{SA|1500}} and {{SA|1590|n}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Eregion> ;
+    tg:creator <http://localhost:8000/resource/Celebrimbor> ;
+    tg:image "J.R.R. Tolkien - Nenya.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Eregion%2C_Lothl%C3%B3rien> ;
+    tg:name "Nenya"@en ;
+    tg:othernames "Ring of Adamant, Ring of Water, The White Ring"@en ;
+    tg:owner <http://localhost:8000/resource/Celebrimbor%2C_Galadriel> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:type "Ring"@en .
+
+<http://localhost:8000/resource/Orcrist> a schema:Thing ;
+    tg:appearance "Sword with a jewelled hilt, glowed blue in the presence of Orcs"@en ;
+    tg:caption <http://localhost:8000/resource/%22Orcrist%2C_The_Goblin_Cleaver%22_by_Ted_Nasmith> ;
+    tg:created <http://localhost:8000/resource/First_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/Gondolin> ;
+    tg:image "Ted Nasmith - Orcrist, The Goblin Cleaver.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondolin%2C_Trollshaws%2C_Erebor> ;
+    tg:name "Orcrist"@en ;
+    tg:notablefor <http://localhost:8000/resource/Being_Thorin%27s_Blade> ;
+    tg:othernames "Biter"@en ;
+    tg:owner <http://localhost:8000/resource/Thorin> ;
+    tg:type "Sword"@en .
+
+<http://localhost:8000/resource/P%C3%BAkel-men> a schema:Thing ;
+    tg:caption "One of the Púkel-men"@en ;
+    tg:createdlocation <http://localhost:8000/resource/The_Crossings_of_Taeglin%3Cref_name%3DDruedain/%3E_and_the_Stair_of_the_Hold> ;
+    tg:creator <http://localhost:8000/resource/Druedain> ;
+    tg:image "The Lord of the Rings - The Return of the King - Púkel-man.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/The_Crossings_of_Taeglin%3Cref_name%3DDruedain/%3E_and_the_Stair_of_the_Hold> ;
+    tg:name "Púkel-men"@en ;
+    tg:othernames "watch-stones<ref name=Druedain>{{UT|Druedain}}</ref>"@en ;
+    tg:owner <http://localhost:8000/resource/Druedain> ;
+    tg:type "Statue"@en .
+
+<http://localhost:8000/resource/Palant%C3%ADri> a schema:Thing ;
+    tg:appearance "Smooth, round, dark stones"@en ;
+    tg:caption <http://localhost:8000/resource/%22Saruman%27s_Palantir%22_by_John_Howe> ;
+    tg:creator <http://localhost:8000/resource/Noldor_%28possibly_F%C3%ABanor%29%3Cref%3E%7B%7BTT> ;
+    tg:gallery "palantíri"@en ;
+    tg:image "John Howe - Saruman's Palantir.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Various_locations_in_Middle-earth> ;
+    tg:name "Palantíri"@en ;
+    tg:owner <http://localhost:8000/resource/Elendil_and_his_line%2C_Ruling_Stewards%2C_Saruman%2C_Sauron> ;
+    tg:pronun "{{respell|pa-lan|tea|ree}}"@en ;
+    tg:type "Seeing stones"@en .
+
+<http://localhost:8000/resource/Red_Arrow> a schema:Thing ;
+    tg:appearance "Black flights, steel barbs; red mark painted on the arrow's tip"@en ;
+    tg:caption <http://localhost:8000/resource/%22Hirgon%22_by_%3ACategory%3AImages_by_NimwenHabareth> ;
+    tg:gallery "the Red Arrow"@en ;
+    tg:image "NimwenHabareth - Hirgon.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Gondor%2C_Rohan> ;
+    tg:name "The Red Arrow"@en ;
+    tg:type "Symbolic weapon"@en .
+
+<http://localhost:8000/resource/Red_Book_of_Westmarch> a schema:Thing ;
+    tg:appearance "Several volumes bound together in red leather"@en ;
+    tg:caption "\"Red Book of Westmarch\" by Jeff Reitz"@en ;
+    tg:created "{{TA|2942}} - {{TA|3021|n}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Bag_End%2C_Rivendell> ;
+    tg:creator <http://localhost:8000/resource/Bilbo_Baggins> ;
+    tg:gallery "the Red Book of Westmarch"@en ;
+    tg:image "Jeff Reitz - Red Book of Westmarch.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Bag_End%2C_Hobbiton%3Cbr/%3EUndertowers%2C_Westmarch> ;
+    tg:name "Red Book of Westmarch"@en ;
+    tg:notablefor <http://localhost:8000/resource/Describing_events_of_Quests_Quest_of_Erebor> ;
+    tg:owner <http://localhost:8000/resource/Baggins_Family> ;
+    tg:type "Manuspript"@en .
+
+<http://localhost:8000/resource/Ring_of_Barahir> a schema:Thing ;
+    tg:appearance "Two serpents with emerald eyes, crown of golden flowers"@en ;
+    tg:caption <http://localhost:8000/resource/The_%27%27Ring_of_Barahir%27%27_as_conceived_by_The_Noble_Collection> ;
+    tg:created <http://localhost:8000/resource/Years_of_the_Trees> ;
+    tg:createdlocation <http://localhost:8000/resource/Valinor> ;
+    tg:gallery "the Ring of Barahir"@en ;
+    tg:image "Noble Collection - Ring of Barahir.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Tirion%2C_Nargothrond%2C_Dorthonion%2C_N%C3%BAmenor%2C_Arnor%2C_Rivendell> ;
+    tg:name "Ring of Barahir"@en ;
+    tg:othernames "Ring of Felagund"@en ;
+    tg:owner <http://localhost:8000/resource/Finrod_Felagund%2C_Barahir%2C_Beren%2C_Elros%2C_Kings_of_N%C3%BAmenor%2C_Silmari%C3%ABn%2C_Lords_of_And%C3%BAni%C3%AB%2C_Kings_of_Arnor%2C_Aragorn%2C_Arwen> ;
+    tg:type "Ring"@en .
+
+<http://localhost:8000/resource/Ring_of_Thr%C3%B3r> a schema:Thing ;
+    tg:appearance "A gold ring<ref name=\"ring\" /> adorned with a gem<ref name=\"Council\">{{FR|Council}}</ref>"@en ;
+    tg:caption <http://localhost:8000/resource/Ring_of_Thr%C3%B3r_as_conceived_by_The_Noble_Collection> ;
+    tg:created "c. {{SA|1590}}<ref name=\"SA\">{{App|SA}}</ref>"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Eregion> ;
+    tg:creator <http://localhost:8000/resource/Celebrimbor> ;
+    tg:image "Noble Collection - Dwarven Ring of Power.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "Ring of Thrór"@en ;
+    tg:othernames "Ring of Durin"@en ;
+    tg:owner <http://localhost:8000/resource/Celebrimbor%2C_Durin_III%2C_other_Kings_of_Durin%27s_Folk%2C_Thr%C3%B3r%2C_Thr%C3%A1in_II%2C_Sauron> ;
+    tg:type "Ring"@en .
+
+<http://localhost:8000/resource/Scroll_of_Isildur> a schema:Thing ;
+    tg:caption "\"Scroll of Isildur\" by Audrey Corman"@en ;
+    tg:created "{{SA|3441}}-{{TA|2}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Minas_Tirith> ;
+    tg:creator <http://localhost:8000/resource/Isildur> ;
+    tg:gallery "the Scroll of Isildur"@en ;
+    tg:image "Audrey Corman - Scroll of Isildur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Vaults_of_Minas_Tirith> ;
+    tg:name "Scroll of Isildur"@en ;
+    tg:notablefor <http://localhost:8000/resource/Describing_the_nature_of_the_One_Ring> ;
+    tg:owner <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:type "Manuscript"@en .
+
+<http://localhost:8000/resource/Secret_Fire> a schema:Thing ;
+    tg:caption <http://localhost:8000/resource/%27%27Ainulindale_-_Harmony%27%27_by_%3ACategory%3AImages_by_Anna_Kulisz> ;
+    tg:image "Anna Kulisz - Ainulindale - Harmony.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/E%C3%A4> ;
+    tg:name "Secret Fire"@en ;
+    tg:notablefor "Power of Creation"@en ;
+    tg:othernames "Flame Imperishable<br>Imperishable Flame"@en ;
+    tg:owner <http://localhost:8000/resource/Eru_Il%C3%BAvatar> .
+
+<http://localhost:8000/resource/Star_of_E%C3%A4rendil> a schema:Thing ;
+    tg:appearance "Radiant star in the heavens"@en ;
+    tg:caption <http://localhost:8000/resource/%22Gil-Estel%22_by_Alan_Lee> ;
+    tg:created "{{FA|542}}"@en ;
+    tg:creator <http://localhost:8000/resource/Elbereth> ;
+    tg:gallery "the Star of Eärendil"@en ;
+    tg:image "Alan Lee - Surely that is a Silmaril that shines now in the West.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location "Circling the heavens"@en ;
+    tg:name "Star of Eärendil"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Gil-Estel%27%27_%28Sindarin> ;
+    tg:owner <http://localhost:8000/resource/E%C3%A4rendil> ;
+    tg:type "Star"@en .
+
+<http://localhost:8000/resource/Star_of_Elendil> a schema:Thing ;
+    tg:appearance <http://localhost:8000/resource/Two_noble_star-shaped_white_gems_set_upon_%27%27mithril%27%27_fillets> ;
+    tg:caption <http://localhost:8000/resource/%27%27Armor_Emblem%27%27_with_the_Elendilmir_by_Rondador> ;
+    tg:created <http://localhost:8000/resource/Early_Second_Age_and_Early_Third_Age> ;
+    tg:createdlocation <http://localhost:8000/resource/N%C3%BAmenor_and_Rivendell> ;
+    tg:creator <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans_and_Elves> ;
+    tg:gallery "the Elendilmir"@en ;
+    tg:image "Rondador - Armor Emblem.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/And%C3%BAni%C3%AB%2C_R%C3%B3menna%2C_Anduin%2C_Orthanc%2C_Ann%C3%BAminas%2C_Fornost_Minas_Tirith> ;
+    tg:name "Elendilmir"@en ;
+    tg:othernames "Star of Elendil, Star of the North, Star of the North Kingdom"@en ;
+    tg:owner <http://localhost:8000/resource/Silmari%C3%ABn%2C_Valandil_%28Lord_of_And%C3%BAni%C3%AB%29> ;
+    tg:type "Jewels"@en .
+
+<http://localhost:8000/resource/Stone_of_Erech> a schema:Thing ;
+    tg:appearance "Great black spherical stone"@en ;
+    tg:caption <http://localhost:8000/resource/%22Oathbreakers%2C_Why_Have_Ye_Come%3F%22_by_Abe_Papakhian> ;
+    tg:gallery "the Stone of Erech"@en ;
+    tg:image "Abe Papakhian - Oathbreakers, Why Have Ye Come.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Upon_the_Hill_of_Erech_in_northern_Lamedon> ;
+    tg:name "Stone of Erech"@en ;
+    tg:othernames "Black Stone"@en ;
+    tg:owner <http://localhost:8000/resource/Isildur> ;
+    tg:type "Tryst-stone"@en .
+
+<http://localhost:8000/resource/The_One_Ring> a schema:Thing ;
+    tg:appearance <http://localhost:8000/resource/Plain_gold_ring_with_Black_Speech_inscription_made_visible_by_heat> ;
+    tg:audio <http://localhost:8000/resource/File%3AJ.R.R._Tolkien_-_The_Ring_Verse.mp3> ;
+    tg:audiocaption <http://localhost:8000/resource/%27%27The_Ring_Verse%27%27%2C_recited_by_J.R.R._Tolkien.> ;
+    tg:caption <http://localhost:8000/resource/%22One_Ring_to_Rule_Them_All%22_by_%3ACategory%3AImages_by_Michele_Mantoani> ;
+    tg:created "c. {{SA|1600}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Mount_Doom> ;
+    tg:creator <http://localhost:8000/resource/Sauron> ;
+    tg:destroyed "{{TA|3019}}"@en ;
+    tg:destroyedlocation <http://localhost:8000/resource/Mount_Doom> ;
+    tg:destroyer <http://localhost:8000/resource/Frodo_Baggins> ;
+    tg:gallery "the One Ring"@en ;
+    tg:image "Michele Mantoani - One Ring to Rule Them All.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:name "The One Ring"@en ;
+    tg:othernames "Ruling Ring, Master-ring, Great Ring, the One, Ring of Rings, Ring of Power, Ring of Doom, Isildur's Bane, the Burden, Precious"@en ;
+    tg:owner <http://localhost:8000/resource/Primarily%3A_Sauron%2C_Isildur%2C_Gollum%2C_Bilbo_Baggins> ;
+    tg:type "Weapon/item of jewellery"@en .
+
+<http://localhost:8000/resource/Tower_of_Avall%C3%B3n%C3%AB> a schema:Thing ;
+    tg:caption "\"Parting from Eressea\" by Billy Mosig"@en ;
+    tg:image "Billy Mosig - Parting from Eressea.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Avall%C3%B3n%C3%AB> ;
+    tg:name "Tower of Avallónë"@en ;
+    tg:type "Tower"@en .
+
+<http://localhost:8000/resource/Vilya> a schema:Thing ;
+    tg:appearance "Ring of gold with a great blue sapphire"@en ;
+    tg:caption <http://localhost:8000/resource/Vilya_by_J.R.R._Tolkien> ;
+    tg:created "c. {{SA|1590}}"@en ;
+    tg:createdlocation <http://localhost:8000/resource/Eregion> ;
+    tg:creator <http://localhost:8000/resource/Celebrimbor> ;
+    tg:image "J.R.R. Tolkien - Vilya.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/Eregion%2C_Lindon%2C_Rivendell> ;
+    tg:name "Vilya"@en ;
+    tg:othernames "The Blue Ring, Ring of Air, Ring of Sapphire"@en ;
+    tg:owner <http://localhost:8000/resource/Celebrimbor%2C_Gil-galad%2C_Elrond> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:type "Ring"@en .
+
+<http://localhost:8000/resource/West-gate_of_Bree> a schema:Thing ;
+    tg:appearance "Facing a deep dike, within a thick hedge"@en ;
+    tg:caption <http://localhost:8000/resource/West-gate_of_Bree_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:image "The Lord of the Rings Online - West-gate of Bree.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/object_infobox> ;
+    tg:location <http://localhost:8000/resource/West_side_of_Bree> ;
+    tg:name "West-gate of Bree"@en ;
+    tg:owner <http://localhost:8000/resource/Bree-landers> ;
+    tg:type "Gate"@en .
+

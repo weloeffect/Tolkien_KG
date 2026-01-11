@@ -1,0 +1,84 @@
+{{anglosaxon infobox
+| name=Hendwine
+| image=
+| caption=
+| people=[[wikipedia:Angles (tribe)|Angle]]
+| pronun=
+| othernames=''Helúsion'' ([[Qenya|Q]])<br />''Lúthien'' ([[Gnomish|G]])
+| titles=
+| position=
+| location=
+| affiliation=
+| language=
+| birth=[[wikipedia:5th century|5th century AD]]<ref name="Her">{{LT1|In}}, pp. 23-4</ref>
+| birthlocation=[[Tol Eressëa]]
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=[[Eriol]] ([[Men|Man]]) & [[Nelmir]] ([[Elves|Elf]])
+| siblings=[[Heorrenda]] (brother)<br />[[Hengest]] & [[Horsa]] (half-brothers)
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Hendwine''' was a son of a [[Men|Man]] [[Eriol]] and an [[Elf]] [[Nelmir]],<ref group="note">In another text, Eriol's wife was called [[Naimi]], and was the niece of [[Vairë (wife of Lindo)|Vairë]]. However, nothing else is known about Nelmir and her relation to [[Lindo]] and Vairë, and it is unclear if ''Nelmir'' was supposed to be just another name for ''Naimi'' or an altogether separate character.</ref><ref>{{LT2|VI}}, outline '''10''', p. 290</ref> according to the early version of the [[legendarium]] associated with ''[[The Book of Lost Tales]]''. He also had a brother called [[Heorrenda]].<ref name=Hen/>
+
+He is only mentioned in one note to ''[[The Cottage of Lost Play]]'', and nothing else is known about this specific character, since he doesn't appear in any of the narratives. However, see [[Hendwine#Other versions of the legendarium|below]] for more information on the later developments of the character.
+
+== Etymology ==
+The name ''Hendwine'' is in [[Old English]], probably meaning "close friend", from ''hende'' ("near, at hand") + ''wine'' ("friend").<ref name=Hen/>
+
+== Other names ==
+Hendwine was also called '''''Lúthien''''' in [[Gnomish]], with '''''Helúsion''''' being its [[Qenya]] cognate.<ref name=Hen/>
+
+Both ''Lúthien'' and ''(He)Lúsion'' here mean "friend", deriving from the root [[LUSU]] ("foment, cherish, warm, bathe").<ref name=Hen>{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text X'', p. 17</ref> The element ''He-'' in ''Helúsion'' is most likely a non-significant syllable added to preserve the alliteration with its Old English form ''Hendwine'' and that of his brother ''Heorrenda''.<ref name="Win"/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | WOD | | | | | | | | | | | | | | | | | | | | | | |WOD=[[wikipedia:Odin|Wóden]]<ref name="Her"/>}}
+{{familytree | | | |:| | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | |:| | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | HED | | | | | | | | | | | | | | TUL | | | | VAL |HED=[[Heden]]|TUL=[[Tulkastor]]|VAL=[[Valwë]]}}
+{{familytree | |,|-|^|-|.| | | | | | | | | | | |,|-|^|-|.| | | |!| |}}
+{{familytree | BEO | | EOH | | | | | | | | | | SIB | | VAI |~| LIN |BEO=[[Beorn (son of Heden)|Beorn]]<br /><small>''d. [[wikipedia:5th century|5th century]]''</small>|EOH=[[Eoh]]<br /><small>''d. [[wikipedia:5th century|5th century]]''</small>|SIB=''unknown<br />sibling''|VAI=[[Vairë (wife of Lindo)|Vairë]]|LIN=[[Lindo]]}}
+{{familytree | | | | | |!| | | | | | | | | | | |!| | | | | | | | | |}}
+{{familytree | CWE |y| ERI |~|~|~|~|y|~|~|~|~| NAI | | | | | | | | |CWE=[[Cwén]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|ERI=[[Eriol]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|NAI=[[Naimi]]*}}
+{{familytree | |,|-|^|-|.| | | |,|-|^|-|.| | | | | | | | | | | | | |}}
+{{familytree | HEN | | HOR | | HEO | | HED | | | | | | | | | | | | |HEN=[[Hengest]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HOR=[[Horsa]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HEO=[[Heorrenda]]<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HED='''HENDWINE'''*<br /><small>''fl. [[wikipedia:5th century|5th century]]''</small>}}
+{{familytree/end}}
+
+<nowiki>*</nowiki> The name of Hendwine's mother is not Naimi but ''[[Nelmir]]'' in the text on which the basis of his inclusion is founded upon - neither is her relation to Lindo and Vairë elaborated on.<ref name=Hen/>
+
+== Other versions of the legendarium ==
+According to later notes, the character was called '''Hlúdwine''', and was the son of [[Ælfwine]] and [[Earissë]]. Here too, he also had a brother called Heorrenda.<ref name="Win">{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text XI'' and ''Text XII'', p. 18</ref>
+
+Hlúdwine appears in two of the notes in the ''[[Notebook C]]'',<ref name="Win"/> a small pocket-book which [[Tolkien]] used for notes and suggestions while writing ''The Book of Lost Tales''.<ref>{{LT2|V}}, p. 254</ref>
+
+Judging by the name of Hlúdwine's father: ''Ælfwine'', this version of the [[legendarium]] probably belonged to the period where the mariner [[Eriol]] (Ottor Wǽfre) from the [[wikipedia:5th century|5th century AD]] [[wikipedia:Anglia (peninsula)|Anglia]] was replaced by Ælfwine of the [[wikipedia:11th century|11th century AD]]<ref>{{LT2|VI}}, outline '''16''', pp. 301-2</ref> [[wikipedia:England|England]].<ref>{{LT2|VI}}, pp. 300-1</ref>
+
+=== Later etymology ===
+The name ''Hlúdwine'' is in Old English, consisting of the elements ''hlúd'' ("loud, sonorous") + ''wine'' ("friend").<ref name="Win"/>
+
+=== Later genealogy ===
+{{familytree/start}}
+{{familytree | | | LIN |y| VAI |LIN=[[Lindo]]|VAI=[[Vairë (wife of Lindo)|Vairë]]}}
+{{familytree | | | | | |!| | | |}}
+{{familytree | AEL |y| EAR | | |AEL=[[Ælfwine]]|EAR=[[Earissë]]}}
+{{familytree | |,|-|^|-|.| | | |}}
+{{familytree | HEO | | HLU | | |HEO=[[Heorrenda]]|HLU='''HLÚDWINE'''}}
+{{familytree/end}}
+
+{{references|notes}}
+[[Category:Angles]]
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Old English names]]

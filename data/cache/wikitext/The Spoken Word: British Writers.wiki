@@ -1,0 +1,14 @@
+{{audiobook infobox
+| title=The Spoken Word: British Writers
+| image=Spoken_word.jpg
+| narrator=
+| coverart=
+| publisher=BBC Audiobooks Ltd 
+| date=[[23 October]] [[2008]]
+| format=3 CD set with booklet
+| runtime=214 minutes
+| isbn=978 0 7123 0541 9
+}}
+'''''The Spoken Word: British Writers''''' is a set of [[audiobooks]] which features an extract (of 11 min 44 seconds) from a [[Index:Audio recordings of J.R.R. Tolkien|recorded interview]] of [[J.R.R. Tolkien]] (the ''[[1965 BBC Interview]]'').
+{{title|italics}}
+[[Category:Audiobooks]]

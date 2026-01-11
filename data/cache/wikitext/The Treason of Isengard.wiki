@@ -1,0 +1,104 @@
+{{disambig-more|Isengard|[[Isengard (disambiguation)]]}}
+{{book
+| title=The Treason of Isengard
+| image = Treason of Isengard 1989.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[Unwin Hyman]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[7 September]] [[1989]]
+| dateUS=[[30 November]] 1989
+| format=Hardcover; paperback
+| pages=464
+| isbn=0044403968
+| precededby=[[The Return of the Shadow]] (1988)
+| followedby=[[The War of the Ring]] (1990)
+}}
+'''''The Treason of Isengard''''', published in [[1989]], is the seventh volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+It is also the second volume of ''[[The History of The Lord of the Rings]]'', which documents the writing process of ''[[The Lord of the Rings]]''.
+
+This book covers part of ''[[The Fellowship of the Ring]]'' and part of ''[[The Two Towers]]''. It continues to the meeting with [[Théoden]] king of [[Rohan]], and includes the invention and evolution of [[Lothlórien]] and [[Galadriel]]; plans for [[Frodo]] and [[Sam]]'s progress to [[Mordor]]; the invention and evolution of [[Treebeard]], the [[Ents]], and [[Fangorn Forest|Fangorn]]; discussions of the original map of Middle-earth at the end of the Third Age; and of the evolution of [[Cirth]] in an appendix.
+
+The title ''The Treason of Isengard'' was the original title for Book III of ''TLotR'', eventually unused.
+
+==Contents==
+*Foreword
+
+*I. "Gandalf's Delay"
+*II. "The Fourth Phase (1): From Hobbiton to Bree"
+*III. "The Fourth Phase (2): From Bree to the Ford of Rivendell"
+*IV. "Of Hamilcar, Gandalf, and Saruman"
+*V. "Bilbo's Song at Rivendell: ''Errantry'' and ''Eärendillinwë''"
+*VI. "The Council of Elrond (1)"
+*VII. "The Council of Elrond (2)"
+*VIII. "The Ring Goes South"
+*IX. "The Mines of Moria (1): The Lord of Moria"
+*X. "The Mines of Moria (2): The Bridge"
+*XI. "The Story Foreseen from Moria"
+*XII. "Lothlórien"
+*XIII. "Galadriel"
+*XIV. "Farewell to Lórien"
+*XV. "The First Map of The Lord of the Rings"
+*XVI. "The Story Foreseen from Lórien"
+*XVII. "The Great River"
+*XVIII. "The Breaking of the Fellowship"
+*XIX. "The Departure of Boromir"
+*XX. "The Riders of Rohan"
+*XXI. "The Uruk-hai"
+*XXII. "Treebeard"
+*XXIII. "Notes on Various Topics"
+*XXIV. "The White Rider"
+*XXV. "The Story Foreseen from Fangorn"
+*XXVI. "The King of the Golden Hall"
+
+*Appendix on Runes
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book VII reads:
+
+:"''In The Treason of Isengard the story of the Fellowship of the Ring is traced from Rivendell through Moria and the Land of Lothlórien to the time of its ending at Salembel beside Anduin the Great river, then is told of the return of Gandalf Mithrandir, of the meeting of the hobbits with Fangorn, and of the war upon the Riders of Rohan by the traitor Saruman.''"
+
+==From the publisher==
+{{blockquote|The second part of The History of The Lord of the Rings, an enthralling account of the writing of the Book of the Century which contains many additional scenes and includes the unpublished Epilogue in its entirety.<br>
+The Treason of Isengard continues the account of the creation of ''The Lord of the Rings'' started in the earlier volume, ''[[The Return of the Shadow]]''. It traces the great expansion of the tale into new lands and new peoples south and east of the Misty Mountains: the emergence of Lothlórien, of Ents, of the [[Rohirrim|Riders of Rohan]], and of [[Saruman]] the White in the fortress of [[Isengard]].<br>
+In brief outlines and penciled drafts dashed down on scraps of paper are seen the first entry of Galadriel, the earliest ideas of the history of [[Gondor]], and the original meeting of [[Aragorn]] and [[Éowyn]], its significance destined to be wholly transformed.<br>
+The book also contains a full account of the original map which was to be the basis of the emerging geography of Middle-earth.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Treason of Isengard 1989.png|1989 hardcover
+File:Treason of Isengard 1989.png|1991 hardcover
+File:The Treason of Isengard (HC1992).png|1993 paperback
+File:The Treason of Isengard (HC1993).png|1993 paperback 2nd impression
+File:The Treason of Isengard (HC2002).jpeg|2002 & 2015 paperback
+File:The Treason of Isengard (HC2010).png|2010 hardcover
+File:The Treason of Isengard 2024.jpeg|2024 paperback
+File:The Treason of Isengard hc 2024.jpg|2024 hardcover
+</gallery>
+* [[Unwin Hyman]], hardcover ([[1989]]), pp.&nbsp;464. ISBN 0044403968
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102192
+* [[HarperCollins]] paperback ([[1993]]), ISBN 0261102206 - (cover art by [[Roger Garland]])
+** 1993 paperback edition, 2nd impression - (cover art by [[John Howe]])
+** 1993 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365314
+** 2015 paperback edition, 32nd impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #3)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#vii A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Treason of Isengard}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+
+[[de:The Treason of Isengard]]

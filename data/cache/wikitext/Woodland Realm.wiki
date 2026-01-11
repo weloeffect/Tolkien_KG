@@ -1,0 +1,92 @@
+{{kingdom
+| image=Alan Lee - Gandalf's Farewell.jpg
+| name=Woodland Realm
+| pronun=
+| othernames=Northern Mirkwood<ref group="note">Though geographically "Northern Mirkwood" might refer to a wide tract of the [[Greenwood|Forest]], as a proper name it is always used as synonym for [[Thranduil]]'s Woodland Realm in the northeast near to the [[Long Lake]].
+</ref><ref name="UT"/><ref name=council/>
+| location=Various locations within [[Greenwood the Great]]; by the end of the [[Third Age]], they settled in the far northeast of the [[Greenwood the Great|forest]]
+| capital=The [[Elvenking's Halls]] from the early [[Third Age]]
+| towns=
+| regions=
+| population=[[Elves of Mirkwood]]
+| language=[[Silvan Elvish]], [[Sindarin]], [[Westron]]
+| govern1=[[Oropher]]
+| govern2=Later [[Thranduil]]
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date={{SA|750}}<ref name=date/><br>''[[#Foundation|See below]]''
+| event2=
+| event2date=
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=
+}}
+The '''Woodland Realm'''<ref name="Ride">{{RK|Ride}}</ref> was the great kingdom of the [[Silvan Elves]] in [[Mirkwood]].
+
+== History ==
+=== Second Age ===
+{{seealso|#Other versions of the legendarium}}
+
+The Woodland Realm was established in {{SA|750}} by [[Oropher]], a [[Sindar]]in [[Iathrim|Elf of Doriath]], after the [[War of Wrath]].<ref name=date>{{PM|Second}}, p. 174</ref> Unlike most [[Sindar]], [[Oropher]] and his household declined the [[Valar]]'s offer to depart from [[Middle-earth]] for [[Valinor]]. Instead, he migrated eastward from [[Lindon]] and became the King of the [[Silvan Elves]] east of [[Anduin]].<ref name="Note 14"/> The few Sindar who had come with him soon merged with the [[Silvan Elves]], adopting their customs and language and taking names of [[Silvan Elvish|Silvan form and style]].<ref name="Sindarin Princes"/> Oropher and his household wished to return to the simple existence natural to the [[Elves]] before they had been disturbed by the Valar.<ref name="Sindarin Princes">{{UT|6b}}</ref>
+
+Originally, Oropher's realm encompassed the south of [[Greenwood]],<ref name="Sindarin Princes"/> with dwellings about the hill of [[Amon Lanc]].<ref name="Note 14"/> However, throughout the [[Second Age]], he and his people migrated north three times.<ref name="Note 14">{{UT|Gladden}}, note 14</ref> According to one tradition, the first movement was northward beyond the [[Gladden Fields]], due to Oropher's desire to distance himself from the increasing encroachments of the [[Dwarves of Khazad-dûm]] and his resentment of the intrusions of [[Celeborn]] and [[Galadriel]] in [[Lothlórien]].<ref name="Sindarin Princes"/> However, his people did maintain constant intercourse with their [[Galadhrim|kin]] west of the Anduin.<ref name="Sindarin Princes"/> 
+
+Oropher was also disturbed by the reports of [[Sauron]]'s rising power, and by the end of the [[Second Age]] he dwelt in the western glens of the [[Mountains of Mirkwood|Emyn Duir]], and his numerous people lived and roamed in the woods and vales westward as far as Anduin, north of the ancient [[Men-i-Naugrim|Dwarf-Road]].<ref name="Note 14"/> 
+
+In {{SA|3430}}, Oropher led the forces of the Woodland Realm against [[Sauron]] as part of the [[Last Alliance of Elves and Men]], and was slain during battle.<ref name="Sindarin Princes"/> 
+
+=== Third Age ===
+[[File:Anke Eißmann - Thranduil.jpg|thumb|200px|[[Anke Eißmann]] - ''Thranduil''|left]]
+Oropher's son, [[Thranduil]], succeeded him as the lord of the Woodland Realm<ref name="Sindarin Princes"/> and ruled the Woodland Realm in peace for many years.
+
+Around {{TA|1100}}, an evil entity known as the [[Necromancer]] (later identified as Sauron) created a stronghold on Amon Lanc called [[Dol Guldur]].<ref name="TA">{{App|TA}}</ref> As the [[Shadow]] fell upon [[Greenwood the Great]] and spread ever northward, Thranduil's realm retreated before it, until at last Thranduil established his realm in the north-east of the forest and delved there a [[Elvenking's Halls|fortress and great halls underground]].<ref name="Sindarin Princes"/> His realm was also protected by the [[Enchanted River]],<ref>{{H|Queer}}</ref> which could cause one to sleep and dream deeply, whilst the Elvenking's Halls served as the chief fortress of the realm.<ref name=Flies/>
+
+Thranduil's realm is said to have extended into the woods surrounding the [[Lonely Mountain]] and growing along the west shores of the [[Long Lake]], before the coming of the [[Dwarves of Moria|Dwarves exiled from Moria]] and the invasion of the [[dragon]] [[Smaug]].<ref name="Sindarin Princes"/> The Woodland Realm did trade with the neighbouring realms of Erebor and [[Dale]], and imported wine from [[Dorwinion]] via the [[River Running]]. The former traffic came to an end with the destruction of Erebor by Smaug in {{TA|2770}}<ref name="TA"/> but again resumed after the [[Battle of Five Armies]].<ref>{{H|19}}</ref>
+
+In {{TA|2941}},<ref name="TA"/> [[Thorin and Company|Thorin's band of Dwarves]] intruded in the Woodland Realm and were held prisoner in the [[Elvenking's Halls]].<ref name=Flies>{{H|Flies}}</ref> Upon hearing the death of Smaug, Thranduil immediately assembled the army of the Woodland Realm and marched towards [[Erebor]]. In the ensuing [[Battle of Five Armies]], many [[Wood-elves]] were slain <ref>{{H|Burst}}</ref> and many of the [[Orcs]] that survived wandered into the Woodland Realm were slain or lost in the trackless dark of Mirkwood.<ref>{{H|18}}</ref>
+[[File:Capucine Mazille - The Battle of Five Armies.jpg|thumb|200px|[[Capucine Mazille]] - ''The Battle of Five Armies'']]
+On [[20 June]] {{TA|3018|n}}, a force of [[Orcs]] attacked the Woodland Realm (orchestrated by Sauron),<ref name="UT"/> the purpose of this raid being to provide a distraction and facilitate the escape of [[Gollum]],<ref name=great/> who had been entrusted to Thranduil's care by the [[Rangers of the North|Ranger]] [[Aragorn]].<ref name="UT">{{UT|Hunt}}</ref>
+
+In the wake of this, Thranduil sent his son, [[Legolas]], to deliver news of Gollum's escape to Aragorn and [[Elrond]] in [[Rivendell]]. Upon arriving, Legolas participated in the [[Council of Elrond]] as an ambassador of the Woodland Realm where the full details of Sauron's resurgence were revealed.<ref name=council>{{FR|II2}}</ref> 
+
+Meanwhile, on [[15 March]] {{TA|3019|n}}, Sauron's forces invaded the Woodland Realm in force and there was a long [[battle under the trees]] and great ruin of fire; but in the end Thranduil had the victory.  On the [[Elven New Year]] ([[6 April]]), Thranduil met [[Celeborn]], [[Lord of Lórien]], and the two agreed to rename the forest [[Eryn Lasgalen]]. Thranduil took the area from the northern eaves of the forest south to the [[Emyn Duir]] for the Woodland Realm.<ref name=great>{{App|Great}}</ref>
+
+=== Later History ===
+After the [[War of the Ring]], the [[Elves of Mirkwood|Silvan Elves of the Greenwood]], including those of the Woodland Realm, remained untroubled.<ref name=great/> Many folk of the realm removed south to [[Gondor]] to restore the beauty of the [[South-kingdom]], especially [[Minas Tirith]] and [[Ithilien]].<ref name=durin>{{App|Durin}}</ref><ref name="RK-MinasTirith">{{RK|V1}}</ref>
+
+The eventual fate of the Woodland Realm is unknown. 
+
+==Other versions of the legendarium==
+===Foundation===
+The foundation of the Woodland Realm is disputed:
+
+*According to [[Appendix B]] of ''[[The Lord of the Rings]]'', [[Thranduil]] was among the wave of [[Sindar]] who, before the building of  [[Barad-dûr]] c. {{SA|1000}}, established the Woodland Realm among the [[Silvan Elves]] and became the king in the north of [[Greenwood the Great]].<ref name=SA>{{App|SA}}</ref>
+
+*An alternate origin story is given in the article [[The History of Galadriel and Celeborn]] in ''[[Unfinished Tales]]''. [[Oropher]], along with a handful of [[Iathrim|Sindar from Doriath]] (alongside his son Thranduil), took up the rule of the [[Silvan Elves]] of Greenwood the Great sometime after the [[ruin of Doriath]]. He established his realm in the south of the forest.<ref name="Sindarin Princes"/>
+
+*In one draft from the article [[The Tale of Years of the Second Age]] from ''[[The Peoples of Middle-earth]]'', [[Thranduil]] was among the wave of [[Teleri]] from [[Doriath]] who established the Woodland Realm in the north of Greenwood the Great in {{SA|750}}.<ref name=date/>
+
+This article and the wiki reconcile these three stories as: [[Oropher]] and his household of [[Sindar]] (including his son [[Thranduil]]) from [[Doriath]] established the Woodland Realm in the south of [[Greenwood the Great]] in {{SA|750}}.
+
+==Portrayal in adaptations==
+===Woodland Realm in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+The Lord of the Rings Online - Woodland Realm.jpg|Entrance to the Woodland Realm in ''[[The Lord of the Rings Online]]''
+The Lord of the Rings Gollum - Heart of the Elven Lands.jpeg|The heart of the Elven Lands in [[The Lord of the Rings: Gollum]]
+</gallery>
+
+'''2018: ''[[The Lord of the Rings Online]]'':'''
+:Thranduil's realm is called [[Eryn Lasgalen]] and is accessible after the fall of Dol Guldur. In addition to "Felegoth", the Halls of the Elvenking, there is the [[Raft-elves|Raft-elf]] settlement of "Loeglond" near the [[Long Lake]]; and the haunted ruins of "Caras Tilion", the former capital in the Mountains of Mirkwood. The quests in the area involve bringing stability to the realm so that trade may resume.
+
+{{notes}}
+{{references}}
+[[Category:Elven realms]]
+[[Category:Forests]]
+[[Category:Rhovanion]]

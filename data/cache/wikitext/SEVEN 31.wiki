@@ -1,0 +1,32 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 31
+| image=
+| editor=
+| illustrator=
+| date=[[2014]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/e48505733|articlename=Vol. 31, 2014|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 31''''' is the thirty-first volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2014]].<ref name="jstor" />
+==Contents==
+*Remembrances:
+**Christopher Mitchell remembered by Adam Schwartz
+**Stratford Caldecott remembered by Carol Zaleski
+*"'It Can Be Done, You Know': The Shape, Sources, and Seriousness of Charles Williams's Doctrine of Substituted Love"
+**By: Andrew C. Stout
+*"Two Pieces from C.S. Lewis's 'Moral Good' Manuscript: A First Publication"
+**By: Charlie W. Starr
+*"Adventurous Types: G.K. Chesterton's Varied Types and the Wisdom in Historical Verisimilitude"
+**By: Philip Irving Mitchell
+*"Pride and Medieval Poetics in The Hobbit"
+**By: Glenn Davis
+*"The Man Who Was Thursday and The Nine Tailors: All the Evidence Points to God"
+**By: Walter Raubicheck
+*"C.S. Lewis's 'Modern Theology and Biblical Criticism' in Context"
+**By: Joel Heck<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|30|32}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 31}}
+
+[[Category:SEVEN]]

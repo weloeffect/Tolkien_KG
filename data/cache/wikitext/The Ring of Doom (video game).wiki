@@ -1,0 +1,19 @@
+{{expansion}}
+{{video game infobox
+| image = Ring of Doom.png
+| name=The Ring of Doom
+| developer=[[Eamon (video game)|Eamon]]
+| publisher=[[Eamon (video game)|Eamon]]
+| platform=[[wikipedia:Apple II series|Apple II series]]
+| releasedate=[[1986]]
+| genre=Text-Adventure
+|}}
+
+'''The Ring of Doom''' is a Text-Adventure in which the player takes over the place of the [[Ringbearer]] and has to destroy it in the fires of [[Mount Doom]].<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/ringofdoom.html Tolkien Games] (retrieved 27 October 2010)</ref> The author of this game is [[Sam Ruby]].<ref name="Tolkien Games"/><ref>[http://ifdb.tads.org/viewgame?id=39kismr830mc9ooy The Interactive Fiction Database] (retrieved 27 October 2010)</ref> It is the third part of the ''[[The Lord of the Rings (Eamon series)|The Lord of the Rings]]'' series.<ref name="Tolkien Games"/>
+
+{{References}}
+{{title|italics}}
+{{DEFAULTSORT:Ring of Doom}}
+[[Category:Apple II series games]]
+[[Category:Eamon games]]
+[[Category:Text-Adventure video games]]

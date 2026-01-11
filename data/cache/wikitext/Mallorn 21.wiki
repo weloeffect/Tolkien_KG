@@ -1,0 +1,50 @@
+{{Mallorn
+| name=Mallorn 21
+| image = Mallorn21.jpg
+| editor=Jenny Curtis
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[June]] [[1984]]
+| format=A4 stapled paperback
+| pages=40
+| issn=0308-6674
+}}
+'''''Mallorn'' 21''' is the twenty-first issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in June [[1984]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Jenny Curtis
+* ''The Lord of the Rings'' as Tragedy
+** By: Carol Jeffs
+* Book Review: ''[[The Book of Lost Tales Part One|The Book of Lost Tales (part I)]]''
+** By: [[Charles Noad]]
+* Art: 'Rivendell'
+** By: Bart Maddens
+* "Lord of the Isles": No, sorry Mr Giddings, I mean "Rings"
+** By: Margaret Askew
+* ''Undómiel''
+** By: Michael Burgess
+* Lament for Baldor the Brave
+** By: Gill Page
+* Mallorn Mail: Letters to the Editor
+* In Defence of Fantasy
+** By: Jessica Yates
+* The Gorren: a tale of later years
+** By: Christine Davidson
+* The Dark Palace beneath the Sea
+** By: Thomas M. Egan
+* The Tree of Tales
+** By: Dylan Pugh
+* Guidelines for ''Mallorn'' contributors
+* Where to Write
+* [[The Tolkien Society]]
+
+* Inside Art
+** By: Steve Lines, Mervyn Finlay, Geraint Rees, Howard Bates, Angela Evans, Timo Raittila
+
+{{mallornnav}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 21}}
+[[Category:Mallorn (journal)]]

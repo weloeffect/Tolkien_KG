@@ -1,0 +1,34 @@
+{{Poem infobox
+| title=The Ruined Enchanter
+| other names=''The Ruined Enchanter: A Fairy Ballad''
+| written=[[11 November]] of [[1919]]
+| revised=Around [[1927]]
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Belmarie|Belmarye]], [[Fantasie|Fantasye]], [[Wikipedia:Semiramis|Queen of Babylon]]
+}}
+'''''The Ruined Enchanter'''''<ref name=collectedpoems>{{CP|62}}</ref> is a poem written by [[J.R.R. Tolkien]] in [[11 November]] of [[1919]].<ref name=chronology1919>{{CG|C}}, p. 109 (entry "11 November 1919")</ref>
+
+== First stanza ==
+<poem style="font-style:italic; margin-left:20px;">
+:Long have I dwelt in Belmarye,
+:And fair my garden is to see.
+::For walls of magic ring it round,
+::And rooted deep in enchanted ground
+:There grows a dark enchanted tree.<ref name=collectedpoems/></poem>
+
+== Background ==
+On 11 November of 1919, Tolkien wrote an unfinished poem entitled '''''The Ruined Enchanter: A Fairy Ballad'''''<ref name=chronology>{{CG|Po}}, p. 854 (entry "''The Ruined Enchanter: A Fairy Ballad''")</ref> on the verso of a letter from the [[Wikipedia:Ministry of Pensions and National Insurance#Ministry of Pensions|Ministry of Pensions]].<ref name=chronology1919/>
+
+Tolkien later removed the poem's subtitle in a later manuscript.<ref name=collectedpoems/>
+
+In [[September]] of [[2024]], the poem was published for the first time as entry 62 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+== Inspiration ==
+The poem may have been inspired by a [[Wikipedia:I Had a Little Nut Tree|nursery rhyme]] dating to the mid-fifteenth century.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+{{DEFAULTSORT:Ruined Enchanter, The}}
+[[Category:Poems by J.R.R. Tolkien]]

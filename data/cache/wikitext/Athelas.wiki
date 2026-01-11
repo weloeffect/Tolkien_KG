@@ -1,0 +1,71 @@
+{{disambig-more|Athelas|[[Athelas (disambiguation)]]}}
+{{plant infobox
+| name=Athelas
+| image=John Howe - Athelas.jpg
+| caption="[[:Image:John Howe - Athelas.jpg|Athelas]]" by [[John Howe]]
+| pronun={{respell|ath|eh-las}}
+| othernames=Kingsfoil (W), ''[[asëa aranion]]'' (Q)
+| location=[[Númenor]] and the [[Westlands]], especially where [[Dúnedain]] had passed
+| notablefor=Healing properties against the [[Black Breath]]
+| family=
+| appearance=
+}}
+'''''Athelas''''', also known as '''kingsfoil''' or '''''asëa aranion''''', was a sweet-smelling herb with healing properties, such as curing wounds, poison and counteracting evil influence such as the [[Black Breath]]. It held a special power of healing in the hands of the [[Kings of Gondor]].
+
+==History==
+During the [[First Age]] ''athelas'' was perhaps growing in [[Beleriand]]. [[Huan]] had found ''athelas'' to heal [[Beren]] of his wounds.<ref name="Canto10">{{LB|C10}}</ref>
+
+''Athelas'' most notably grew on the island of [[Númenor]] and was brought to [[Middle-earth]] by the [[Númenóreans]].<ref name="Flight">{{FR|I12}}</ref> It grew sparsely in [[Eriador|the North]] and only in places where the Men of Westernesse had camped or lived. By the end of the [[Third Age]] only the [[Rangers of the North]] retained the knowledge of its healing properties. 
+
+In [[Gondor]] (where it was known as '''kingsfoil''') the knowledge of its healing virtues had been lost by the [[Third Age]] (on account of their dependence on the long-absent kings),<ref>{{HM|RC}}, p. 581</ref> and its leaves were esteemed only for their refreshing scent and their potential ability to cure headaches. However, the memory of its former uses was retained in [[When the black breath blows|verses]] remembered by some of the older women in the Houses of Healing, and the special power it held in the hands of the [[Kings of Gondor]] was once again demonstrated by [[Aragorn]] upon his return to [[Gondor]].<ref name="Healing">{{RK|V8}}</ref>
+
+Aragorn was very familiar with the plant, and its long leaves<ref name="Flight" /> were used by him on several occasions: healing [[Frodo Baggins|Frodo]] from the Morgul wound,<ref name="Flight" /> tending the wounds of Frodo and [[Samwise Gamgee|Sam]] after the exit from [[Moria]],<ref name="Lorien">{{FR|II6}}</ref> and secretly entering [[Minas Tirith]] upon his return to [[Gondor]] to heal those touched by the [[Black Breath]], an act that enhanced his reputation and strengthened his claim to the crown.<ref name="Healing" />
+
+==Properties and Effects==
+''Athelas'', when dried and crushed in hot water, was refreshing. It cleared and calmed<ref name="Flight" /> the minds of those who smelled it. ''Athelas'' also strengthened<ref name="Lorien" /> those smelling the scent. It had a particular scent that was either unique to the individual who smelled the herb or influenced by the recipient of the herb's effects:
+
+*[[Faramir]]'s scent was of "dewy mornings of unshadowed sun... [in which] Spring is itself but a fleeting memory."<ref name="Healing" />
+*[[Ioreth]] smelled the "roses of Imloth Melui" from her childhood.<ref name="Healing" />
+*[[Éowyn]] smelled no scent, as if the air was clean, fresh, and had never "been breathed by any living thing and came new-made from snowy mountains high beneath a dome of stars, or from shores of silver far away washed by seas of foam."<ref name="Healing" />
+*[[Meriadoc Brandybuck|Merry]]'s scent was that of "orchards, and of heather in the sunshine full of bees."<ref name="Healing" />
+
+==Etymology==
+''Athelas'' is a [[Sindarin]] word, consisting of ''[[athae]]'' + ''[[lass]]''.<ref name="Eldarin">{{PE|Eldarin}}, pp. 49-100</ref> 
+
+The [[Quenya]] cognate is '''''asëa aranion''''' ("asëa of the Kings").<ref name="Eldarin" /> It has been suggested that the whole name could mean "Beneficial (leaf) of Kings".<ref>[http://folk.uib.no/hnohf/quen-eng.htm Quettaparma Quenyallo] at [http://folk.uib.no/hnohf/ Ardalambion] (accessed 14 May 2011)</ref><ref>[http://www.tuckborough.net/plants.html Plants & Trees] (cf. Athelas) at [http://www.tuckborough.net/index.htm The Thain's Book] (accessed 14 May 2011)</ref> The rejected form ''asea aranaite'' was used in a manuscript version of ''[[The Lord of the Rings]]''.<ref>{{WR|3|XI}}, p. 394</ref>
+
+''Kingsfoil'' has the Old French element ''foil'', "leaf" as seen in [[Wikipedia:cinquefoil|cinquefoil]].<ref name="Nomen">{{HM|N}}, p. 781</ref>
+
+==Other versions of the legendarium==
+''Athelas'' does not appear in the published ''[[The Silmarillion|Silmarillion]]'' or in the tales of the [[First Age]] in general; however in the early ''[[Lay of Leithian]]'' it was used by [[Huan]] and [[Lúthien]] to heal the wounded [[Beren]].<ref name="Canto10" /> This contradicts the information from ''[[The Lord of the Rings]]'' of it being brought to Middle-earth by [[Númenóreans]],<ref name="Flight" /> so its history was either revised by [[J.R.R. Tolkien|Tolkien]], or ''athelas'' grew in [[Beleriand]] before it was destroyed, and then brought ''back'' to Middle-earth by Númenóreans in the [[Second Age]].
+
+==Portrayal in adaptations==
+===Athelas in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:Liz Danforth - Aragorn brings athelas for Frodo.png|''“Aragorn brings athelas for Frodo”'' by [[Liz Danforth]], from [[Treasures of Middle-earth (2nd edition)|Treasures of Middle-earth]]
+File:The Lord of the Rings - The Fellowship of the Ring - Athelas.jpg|''Athelas'' from ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Hobbit - The Desolation of Smaug - Athelas.png|''Athelas'' from ''[[The Hobbit: The Desolation of Smaug]]''
+File:Andrea Piparo - Scattered Groves.jpg|''Athelas'' from ''[[The Lord of the Rings: Tales of Middle-earth]]''
+</gallery>
+'''1994: ''[[Middle-earth Role Playing]]—[[Treasures of Middle-earth (2nd edition)|Treasures of Middle-earth]]''''' 
+:''Athelas''' description generally follows that of the books, though it elaborates on several aspects. It's mentioned that knowledge of its healing properties was gradually forgotten after the [[Great Plague]], and that it's associated with good luck. Beyond places where Dúnedain camped, the plant is also common in [[Calenardhon]] and Northern Gondor, as well as [[Lebennin]]'s highlands.<ref>{{ICE|2010}}, p. 170</ref>
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':''' 
+:In the [[Flight to the Ford (scene)|Flight to the Ford scene]] Aragorn searches for the plant with Samwise, so that he might halt the effect of the [[Morgul-knife]] on Frodo. He finds it and uses some on the wound before [[Arwen]] takes Frodo on her horse to [[Rivendell]].
+
+'''2013: ''[[The Hobbit: The Desolation of Smaug]]'':''' 
+:''Athelas'' appears as a plant used by the Elf [[Tauriel]] to heal the Dwarf, [[Kili]], of a poisonous wound inflicted by an Orc's arrow.
+
+==In other media==
+Kingsfoil is also mentioned in [[wikipedia:Ursula K. Le Guin|Ursula K. Le Guin]]'s ''[[wikipedia:A Wizard of Earthsea|A Wizard of Earthsea]]'', as one of the herbs in the witch of Gont's hut.<ref>"[http://forum.barrowdowns.com/showthread.php?t=5895 Athelas]", dated 21 January 2001, at [http://forum.barrowdowns.com/index.php? Forum.BarrowDowns.com] (accessed 13 November 2011)</ref>
+
+''Athelas'' is also mentioned in the game [[wikipedia:Quest for Glory I|Quest for Glory]].
+
+The [[fonts|font]] ''Athelas'',<ref>"[https://www.type-together.com/athelas-font Official page]" of ''Athelas'' font, on [https://www.type-together.com TypeTogether.com] (accessed April 11, 2024)</ref> named for the plant, was released in 2008 by independent type foundry TypeTogether. The font was designed by TypeTogether's founders, Veronika Burian and Jose Scaglione.
+
+{{references}}
+[[Category:Plants]]
+[[Category:Sindarin nouns]]
+[[de:Athelas]]
+[[fr:encyclo/biologie/flore/athelas]]
+[[fi:Athelas]]

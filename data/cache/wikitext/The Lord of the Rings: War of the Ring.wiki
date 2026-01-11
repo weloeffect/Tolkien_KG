@@ -1,0 +1,77 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}{{disambig-more|War of the Ring|[[War of the Ring (disambiguation)]]}}
+{{video game infobox
+| image = War of the Ring.png
+| name=The Lord of the Rings: War of the Ring
+| developer=Liquid Entertainment
+| publisher=[[Sierra Entertainment]]
+| platform=[[wikipedia:Microsoft Windows|Microsoft Windows]]
+| releasedate=[[8 November|November 8]], [[2003]]
+| genre=Real-time strategy
+|}}'''The Lord of the Rings: War of the Ring''' is a 2003 real-time strategy game developed by Liquid Entertainment and published by [[Sierra Entertainment]]. It expands upon the events of the [[War of the Ring]].
+
+==Synopsis==
+''War of the Ring'' is based solely on the books, not the [[The Lord of the Rings (film series)|films]] by [[Peter Jackson]]. Thus, characters like [[Legolas]] and [[Aragorn]] look and sound different from their counterparts as depicted in the films and the game. The game is officially licensed by [[Middle-earth Enterprises|Tolkien Enterprises]].
+
+==Cast==
+Actors are not credited by role.
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+|[[Dominic Armato]] ||
+|-
+| [[Steven Jay Blum]] || [[Varin]], Dwarf Shieldbreaker
+|-
+|[[Crispin Freeman]] || [[Faramir]],<ref>http://www.animenewsnetwork.com/interview/2005-11-06/interview-crispin-freeman</ref> Orc Slasher
+|-
+|[[Grant George]] || [[Legolas|Legolas Greenleaf]], Troll Stonehurler<ref>http://www.dynamicduovo.com/aboutgrant.html</ref>
+|-
+| Jefferson Hobbs ||
+|-
+|[[Steven M. Kramer]] || [[Gandalf]]
+|-
+| Lex Lang ||
+|-
+|[[Dave Lodge]] || Lead Goblin, Rohan Captain, Monster Warrior<ref>http://www.davidlodge.com/pastcredits.htm</ref>
+|-
+|[[Mary Elizabeth McGlynn]] || Saleme, Good Narrator
+|-
+|[[Paul Mercier]] || 
+|-
+|[[Tony Oliver]] || [[Meriadoc Brandybuck|Merry]]
+|-
+|[[Bob Papenbrook]] || [[Gimli]]
+|-
+|[[Jamieson Price]] || [[Aragorn]], Goblin Slavemaster<ref>http://jamiesonkprice.com</ref>
+|-
+| Robbie Rist || 
+|-
+| Douglas Rye || 
+|-
+|[[Alan Shearman]] ||
+|-
+|[[Kai Vilhelmsen]] ||
+|-
+|[[Victor Raider-Wexler]] || 
+|-
+|[[Dave Wittenberg]] || [[Gollum]]<ref>http://www.davewittenberg.com/resume.html</ref>
+|-
+|[[Perry Zombolas]] || 
+|-
+|[[Robin Atkin Downes]] ||
+|-
+|Michael Sorich ||
+|-
+|}
+
+==Trailer==
+[https://www.youtube.com/watch?v=SrW0CqFQ1JQ LOTR - War Of The Ring - Trailer]
+
+{{references}}
+{{Videogames}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings War of the Ring}}
+[[Category:Microsoft Windows games]]
+[[Category:Vivendi games]]
+[[Category:Real-time strategy games]]
+[[Category:The Lord of the Rings: War of the Ring]]

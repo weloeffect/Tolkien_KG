@@ -1,0 +1,38 @@
+{{Film infobox
+| image = The Fellows Hip - poster.jpg
+| caption = 
+| name=The Fellows Hip: Rise of the Gamers
+| director=Ron Newcomb
+| producer=Michel Aboudib<br/>Scott Mathias<br/>Shane McClung<br/>Ron Newcomb
+| writer=Christopher Bunn<br/>Scott Mathias<br/>Ron Newcomb
+| starring=Justin Moe<br/>Jayme Bell<br/>Cole Matson
+| music=Dale Clay
+| cinematography=Brian Pennington
+| editing=Justin Moe<br/>Brian Pennington	 	
+| studio=Opening Act Productions
+| released=
+| runtime=92 minutes
+| country=United States
+| language=English
+| website=[http://www.thefellowshipmovie.com/ Official website]
+| imdb_id=1669814
+}}
+'''''The Fellows Hip: Rise of the Gamers''''' is feature-length film which features an extensive parody of ''[[The Lord of the Rings]]''. It had its UK première at [[The Return of the Ring]] on [[16 August]], [[2012]].
+
+==Plot==
+
+A group of friends embark on an epic journey to find a new world they have only heard of, encountering dangerous obstacles and threats around every corner. During their quest they lose one of their most precious possessions and must display depths of bravery and heroism that they never thought possible. With the aid of some unexpected allies along the way, the companions fiercely look for certainty that they can reach their destination.
+
+==People involved==
+{{Stub}}
+
+==Trailer==
+<youtube>x_HHnn68mvk</youtube>
+
+==External links==
+*[http://www.thefellowshipmovie.com/ Official website]
+
+{{title|italics}}
+{{DEFAULTSORT:Fellows Hip: Rise of the Gamers, The}}
+[[Category:Films]]
+[[Category:Parodies]]

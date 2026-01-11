@@ -1,0 +1,22 @@
+{{letter infobox
+| #=66
+| to=[[Christopher Tolkien]]
+| date=[[6 May]] [[1944]]
+| subject=War, ''[[The Lord of the Rings]]'', [[Faramir]]
+}}{{letter|66}}
+==Summary==
+Tolkien expressed some comments about the slow airgraph system. The Professor and his son wrote a lot, but since their letters arrived late, they could not reply properly. He empathises with his frustrations about life in the Royal Air Force. He compares his son’s experiences to his own during [[World War I]], noting that military life is often marked by unnecessary hardships caused by poor organisation. Tolkien critiques large-scale planning and regimentation, observing that these systems magnify inefficiencies and injustices. Despite these flaws, he acknowledges that such systems often achieve their objectives, albeit at great moral cost. The penalty for this war was, however, creating new Saurons, and turning [[Men]] and [[Elves]] into [[Orcs]]. He saw his son as "a [[Hobbits|hobbit]] among the [[Uruk-hai|Urukhai]]".
+
+Tolkien encourages Christopher to explore writing as a means of processing his emotions and struggles. He suggests that Christopher’s suppressed urge to write may stem from their shared sensibilities and his father’s influence. Tolkien recounts how his own early writings, including the creation of his mythology, were born in similarly harsh conditions during his wartime service. He describes composing parts of his legendarium in "grimy canteens" cold lecture halls, and even dugouts under shellfire. 
+
+The next topic was the current state of ''[[The Lord of the Rings]]'', where a new character had entered the scene: "(I am sure I did not invent him, I did not even want him, though I like him, but there he came walking into the woods of [[Ithilien]]): [[Faramir]], brother of [[Boromir]]".  Tolkien reported that there had been a battle, which included a monstrous [[Oliphaunts|Oliphaunt]], but he looked forward to getting [[Samwise Gamgee|Sam]] and [[Frodo Baggins|Frodo]] to [[Cirith Ungol|Kirith Ungol]] at last.
+
+The letter ends with a brief update on a quiet home life and stormy weather. 
+
+;In the expanded edition
+In the second half of the first paragraph, Tolkien shares his thoughts on the injustice and unintelligence in the environment Christopher is working in, and encourages him to not fret over being treated as a "slow" person. He also uses things in ''The Lord of the Rings'' as metaphors.
+
+{{letters}}
+{{DEFAULTSORT:Letter 066}}
+[[Category:Letters to Christopher Tolkien]]
+[[de:Brief 66]]

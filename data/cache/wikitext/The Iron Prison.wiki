@@ -1,0 +1,17 @@
+{{video game infobox
+| image = The Iron Prison.png
+| name=The Iron Prison
+| developer=[[EEamon (video game)|Eamon]]
+| publisher=[[Eamon (video game)|Eamon]]
+| platform=[[wikipedia:Apple II series|Apple II series]]
+| releasedate=[[1986]]
+| genre=Text-Adventure
+|}}
+'''''The Iron Prison''''' is a text-adventure game designed by [[Sam Ruby]],<ref>[http://ifdb.tads.org/viewgame?id=43bmxdelqf6ayv7s The Interactive Fiction Database] (retrieved 27 OCtober 2010)</ref> in which the player needs to infiltrate [[Angband]], and find and bring back the [[Silmarils|Silmaril]].<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/ironprison.html Tolkien Games] (retrieved 27 October 2010)</ref> You can kill [[Ancalagon]], [[Gothmog (balrog)|Gothmog]], [[Ungoliant]], [[Sauron]] and [[Morgoth]].<ref name="Tolkien Games"/>
+
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Iron Prison, The}}
+[[Category:Apple II series games]]
+[[Category:Eamon games]]
+[[Category:Text-Adventure video games]]

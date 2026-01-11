@@ -1,0 +1,72 @@
+{{short_description|8th chapter of the first book of The Fellowship of the Ring}}
+{{chapter
+| image=Paul Raymond Gregory - Fog on the Barrow Downs.jpg
+| title=Fog on the Barrow-Downs
+| book=The Fellowship of the Ring
+| number=8
+| event=[[Frodo Baggins|Frodo]] and his companions are captured by [[Barrow-wights]]; they are rescued by [[Tom Bombadil]].
+| date=[[28 September]] {{TA|3018|n}}
+| location=[[Barrow-downs]]
+| previous=In the House of Tom Bombadil
+| next=At the Sign of the Prancing Pony
+}}
+
+{{Quote|There is a seed of courage hidden (often deeply, it is true) in the heart of the fattest and most timid hobbit, waiting for some final and desperate danger to make it grow.|[[Frodo Baggins]]}}
+
+'''Fog on the Barrow-downs''' is the eighth chapter of the first book in ''[[The Fellowship of the Ring]]''. The main characters are [[Frodo Baggins]], [[Tom Bombadil]], [[Meriadoc Brandybuck]] and [[Peregrin Took]].  The [[Barrow-wights]] are introduced.
+
+The chapter tells of the [[Hobbits]] journey to the [[Barrow-downs]], where they get lost and are captured by the Barrow-wights. Frodo summons Tom Bombadil, who rescues them and finds them each a sword from the Barrow-wights' stolen treasure. The Hobbits say farewell to Tom and set out towards [[Bree]].
+
+Central to the chapter is Frodo's bravery in confronting a Barrow-wight and his determination to save his friends, despite his fear.
+
+==Overview==
+The chapter begins where the [[In the House of Tom Bombadil|preceding chapter]] ends.
+
+===Leaving Tom and Goldberry===
+The [[Hobbits]] slept well their final night at Tom Bombadil's house. Frodo dreamed of singing, rain, and grassy meadows. In the morning, the Hobbits once again ate breakfast alone. before Tom bid them farewell. They rode northwards towards the Barrow-downs.
+
+As they left, Frodo suddenly remembered that they hadn't said farewell to [[Goldberry]].  She appeared then, however, at the top of the hill ahead of them, dancing. They made their way to her, and observed that the mists that previously shrouded the landscape had cleared away, giving them a view all the way to the [[Brandywine]] to the west, [[Withywindle]] to the south, and even a hint of the [[Misty Mountains]] to the east. Goldberry bid the Hobbits to make haste in daylight.  Frodo bowed silently to Goldberry and the Hobbits proceeded down the hill and away from the lands of Tom Bombadil, watched by Goldberry until they were nearly out of sight.
+
+===Journey through the Barrow-downs===
+The Hobbits continued over and around the hills in a north-eastward direction. Climbing up a taller hill, to the north they saw what Merry identified as a row of trees that marked the [[East Road]] as it ran east from the [[Brandywine Bridge]]. This surprised the Hobbits, as it would mean they had covered a much greater distance than they'd assumed. To their direct east they spot green mounds on top of the hills, marked with tall standing stones that made them somewhat uneasy. Below them in a small hollow was another such stone, and they rested upon its eastern side and ate the food given to them by Tom.
+
+Under the warmth of the midday sun and with full stomachs, the Hobbits fell asleep. When they awoke, they were horrified to discover that the sun was already setting, and the area had become covered in a thick fog, seemingly centered on the standing stone. They scrambled onto their ponies and set off northwards immediately, hoping to go straight towards the trees they had seen earlier. The mist became colder and damper as they proceeded, and darkness quickly fell.
+
+The Hobbits rode in single file so as not to become separated in the dark mist, with Frodo at the front. He reached what he thought was the opening at the northern end of the Barrow-downs, only to discover that he'd reached a pair of huge standing stones he had not seen earlier from the hilltop. His pony reared up, threw him off, and ran away. Frodo discovered that he was completely alone. 
+
+===Encounter with the Barrow-wight===
+Frodo called out to his companions and eventually heard someone calling out to him from the east. The call turned into a desperate cry for help, and finally fell silent. Frodo found himself at the top of a hill, still surrounded by the thick fog. He realized that he'd been going the wrong way, and was standing in front of one of the great barrows. Frodo called out one last time, and was answered by a shrill voice that seems to come from the ground itself:
+
+{{quote|Here! I am waiting for you!|[[Barrow-wights|Mysterious voice]]}}
+
+Frodo tried to run, but instead lost his strength and fell to the ground. He saw a dark figure staring down at him with cold, glowing eyes. The figure gripped him like cold iron, and he fell unconscious.
+
+When he awoke, Frodo lay on a stone slab inside the barrow. He immediately realized that he had been taken by a Barrow-wight, held motionless by its evil spell. He thought about [[Bilbo Baggins|Bilbo]] and the little adventures they'd had together, and began to wonder if this was the grim end to this adventure.  This thought gave him courage and helped ward off the Wight's spell, allowing him to move a little.  Frodo noticed an eerie glow emanating around him. He turned over and saw Sam, Merry and Pippin lying on stone slabs beside him, motionless and pale like the freshly-deceased, dressed in white robes, wearing golden crowns, with treasures strewn about them. A single, long sword lay naked across their necks.  Frodo began to hear a murmuring song, an evil incantation, filling the chamber:
+
+{{quote|Cold be hand and heart and bone,<br/>and cold be sleep under stone:<br/>never more to wake on stony bed,<br/>never, till the Sun fails and the Moon is dead.<br/>In the black wind the stars shall die,<br/>and still on gold here let them lie,<br/>till the dark lord lifts up his hand<br/>over dead sea and withered land.|[[Cold be hand and heart and bone,|The Barrow-wight's incantation]]}}
+
+Frodo spotted a pale light coming from a passage at the back of the chamber. Through the passage came a long arm, which crawled on its fingertips towards Sam. For a moment, Frodo considered putting on the [[One Ring]], escaping the barrow and abandoning his friends. He fought this desire and eventually prevailed. He took a short sword that was lying next to him and hacked the hand off the ghostly arm; the sword shattered at that moment.
+
+===Rescue by Tom Bombadil===
+Frodo attempted to wake Merry, but to no avail. Suddenly, he remembered the song that Tom Bombadil had taught the Hobbits the night before, and began singing it. Soon enough, he heard Tom's voice approaching, singing the next verse of his song. The wall of the barrow collapsed, and sunlight streamed in. Through the opening came Tom, who sang a song commanding the Wights to disperse from the barrow.
+
+Frodo and Tom carried the other Hobbits out of the barrow and into the morning sun. Doing so, Frodo believed he saw the Wight's severed hand still wriggling. Tom entered the barrow a final time, made noises suggestive of dispatching the severed hand, and emerged with a pile of treasure that he laid out on the grass. Tom sang once again, commanding the Hobbits to wake. As Merry regained consciousness, he initially seemed to believe that he was one of the kings laid to rest in the barrow, and even recounted the final moments of that life. He quickly returned to himself.
+
+Sam inquired as to the whereabouts of his clothes, which Tom said were lost forever and bid the Hobbits take off the funeral shrouds that the Wight's spell had put on them and run naked through the grass, celebrating life. They did as Tom asked as he ran away, singing the names of six ponies, calling them to return. He soon reappeared with the Hobbits' five ponies, and a new, larger one called [[Fatty Lumpkin]]. He explained that this was his pony and he would ride it as he accompanied the Hobbits to the East Road. The narrator tells that the other five ponies (all owned by Merry) previously had no names, but would answer the names that Tom gave them for the rest of their lives.
+
+The Hobbits retrieved spare clothes from their saddle packs, and ate breakfast. As they did, Tom returned to the treasure pile. He said that the treasure was free for all takers, and explained that this would break the Wight's haunting of the barrow. For himself, he picked a brilliant brooch, which he intended to give as a gift to Goldberry in memory of its original owner. Tom then took four leaf-shaped daggers from the pile, and handed one to each Hobbit to use as a short-sword.{{refn|group=notes|Merry's blade eventually slays the [[Witch-king]] with this blade in ''[[The Battle of the Pelennor Fields]]''.<ref>{{HM|RC}} p.146</ref>}} The daggers looked new, but Tom explained that they were made by the [[Men of Westernesse]] a very long time ago. He said that these Men were once the enemies of [[Sauron]], but were defeated by the evil king of [[Carn Dûm]] in the land of [[Angmar]]. The Hobbits appeared to experience a vision in which they saw an army marching across the Barrow-downs, and behind them, a man with a star on his brow.
+
+===To the East Road and to Bree===
+The Hobbits and Tom set out northwards. Frodo looked for the two huge standing stones he'd encountered earlier, but saw them nowhere. They soon reached the gap at the northern edge of the downs and quickly realized that they could never have reached it before nightfall on the previous day. What they thought were the trees lining the East Road was nothing more than a hedge at the top of an artificial ditch, which Tom described as the border of a long-gone kingdom.
+
+As evening fell, the Hobbits finally reached the East Road, and immediately recalled the danger of the [[Black Riders]] that had been forgotten days before. Tom explained that down the road to the east was the village of [[Bree]]. He instructed them to look for [[Barliman Butterbur]], the proprietor of the [[Prancing Pony]] inn, vouching for his character. The Hobbits begged Tom to drink with them at the inn, but Tom refused, saying that this was the edge of his country and that he must return to Goldberry. He bid them farewell and rode off, singing.
+
+Night fell as the Hobbits rode towards Bree. Merry explained that both Hobbits and Men live there, and that [[Brandybucks]] visit the village occasionally as well. Sam hoped that the Prancing Pony would be similar to the [[Green Dragon]] back home. Frodo reminded the others that he was to be addressed by the name "Underhill", to keep his identity secret.  The Hobbits spotted the village ahead and made their way towards it through the darkness.
+
+==Composition==
+The chapter contains the phrase "[[Wiktionary:glister|glistered]] and sparkled on the grass". The typists misread [[J.R.R. Tolkien]]'s "r" as "n" and typed ''[[Wiktionary:glisten|glistened]]'', which has been twice corrected back to ''glistered'' by Tolkien and printed correctly in the first edition of [[1954]]. It was reverted back to its mistaken form in the unauthorised resetting of the ''Fellowship'', however, and failed to be noticed in subsequent editions. The process has been detected by Steve Frisby, and it was finally corrected in the [[The Lord of the Rings (50th Anniversary Edition)|50th Anniversary Edition]].<ref>{{HM|RC}}, pp. xlii, xliii</ref>
+==Notes==
+{{reflist|group=notes}}
+{{references}}
+[[Category:The Fellowship of the Ring chapters]]
+[[fi:Sumua Hautakeroilla (TSH)]]

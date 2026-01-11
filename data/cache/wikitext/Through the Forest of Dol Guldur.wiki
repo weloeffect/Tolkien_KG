@@ -1,0 +1,41 @@
+{{Song
+| title = Through the Forest of Dol Guldur
+| album = [[Minas Morgul (album)|Minas Morgul]]
+| image = Summoning Minas Morgul.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 4:47
+| track = 9
+| spotify = https://open.spotify.com/track/2OPl09YcP3GnLc7dth5ANF
+| writer = Summoning
+| previous = [[Dagor Bragollach (song)|Dagor Bragollach]]
+| next = [[The Legend of the Master-Ring]]
+}}'''''Through the Forest of Dol Guldur''''' is the ninth track of the album [[Minas Morgul (album)|Minas Morgul]] by the band [[Summoning]]. The song name is taken from [[Dol Guldur]], the stronghold of [[Sauron]] located in the south of [[Mirkwood]]. The lyrics reference the stronghold itself, Mirkwood, and the [[Misty Mountains]].
+
+== Lyrics ==
+<poem style="font-style:italic; margin-left:20px;">
+A misty path through woods long past 
+enshrined in silence and runes will keep 
+the secrets of Dol Guldur 
+
+Far away and over the cold fog mountains 
+our gleaming eyes are searching for a sign 
+and down to the deepest dungeons 
+and to the old forgotten lair 
+
+We must leave now, before a new day breaks 
+to search for the pale gold 
+that once belonged to the forest 
+
+By the sounds of pounding hammers 
+that sound like bells of the elves 
+in our ears... 
+we are still searching in the underground 
+where our dark secrets sleep 
+
+Far away over the cold fog mountains 
+we have to leave now, before a new day breaks 
+eternally...
+</poem>
+
+[[Category:Songs by Summoning]]

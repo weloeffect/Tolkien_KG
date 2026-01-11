@@ -1,0 +1,39 @@
+{{journal
+| title=Other Minds 2
+| image=
+| editor=Hawke Robinson, [[Thomas Morwinsky]], Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=January [[2008]]
+| format=PDF
+| pages=75
+| issn=
+}}
+
+'''''Other Minds'' 2''' is the second issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in January 2008.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]], Hawke Robinson
+* "Other Minds Conventions"
+** By Thomas Morwinsky
+* "J.R.R. Tolkien's love of Trees and the Environment"
+** By W.A. Hawke Robinson
+* "Númenóreans in Endor"
+** By Gabriele Quaglia, Stéphane Hoerlé, Thomas Morwinsky
+* "Númenórean Maritime Technology" 
+** By Thomas Morwinsky
+* "A Response to "Mapping Arda""
+** By Eric Dubourg
+* "Mapping Arda - Reloaded"
+** By Thomas Morwinsky, Stéphane Hoerlé, Gabriele Quaglia, Oliver Schick, Christian Schröder
+* "Fineprint"
+* "Creative Commons Licence"
+* "Appendix A-C: Maps of Arda" (For use with "Númenóreans in Endor", "A Response to "Mapping Arda"" and "Mapping Arda - Reloaded"
+
+*'''Artwork / Maps:'''
+** By: Quentin Westcott
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 02}}
+[[Category:Other Minds]]

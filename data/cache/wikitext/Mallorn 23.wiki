@@ -1,0 +1,49 @@
+{{Mallorn
+| name=Mallorn 23
+| image = Mallorn 23.jpg
+| editor=Denis Bridoux
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=Summer [[1986]]
+| format=A4 stapled paperback
+| pages=40
+| issn=0308-6674
+}}
+'''''Mallorn'' 23''' is the twenty-third issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in the summer of [[1986]]. The issue includes the poem ''[[Goblin Feet]]'' by [[J.R.R. Tolkien]].
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Denis Bridoux
+* The Use and Misuse of Fantasy
+** By: Kathleen Jones
+* From Innocence to Experience: the "naiveté" of J.R.R. Tolkien
+** By: [[John Ellison]]
+* Book Review: ''[[The Lays of Beleriand]]''
+** By: [[Charles Noad]]
+* Of Amalion
+** By: Denis Bridoux
+* Art: Yavanna
+** By: Jan Claridge
+* Warg, Wearg, Earg and Werewolf
+** By: [[John Ryan|J.S. Ryan]]
+* The Fairy Tale Tradition
+** By: [[Christina Scull]]
+* ''[[Goblin Feet]]''
+** By: [[J.R.R. Tolkien]]
+* Mallorn Mail: Letters to the Editor
+* Art: The Gardens of Irmo
+** By: Howard Bates
+* ''The last Elf's Song at the End of Time''
+** By: Jeremy Morgan
+* Where to write
+* [[The Tolkien Society]]
+
+*Inside Art
+** By: Steve Lines, [[Ted Nasmith]], Howard Bates, [[Brian Sibley]], Denis Bridoux, Timo Raittila, [[Kay Woollard]]
+
+{{Mallornnav|22|24}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 23}}
+[[Category:Mallorn (journal)]]
+[[Category:Publications with contribution by J.R.R. Tolkien]]

@@ -1,0 +1,51 @@
+{{mythlore
+|title=Mythlore 35
+| image = Mythlore 35.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Spring [[1983]]
+|format=Paperback
+|pages=55
+}}
+'''''Mythlore'' 35''' ([https://dc.swosu.edu/mythlore/vol10/iss1/ Volume 10, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles ====
+
+* Patterson, Nancy-Lou. “Bright-Eyed Beauty: Celtic Elements in Charles Williams, J.R.R. Tolkien, and C.S. Lewis.”
+* Woods, Richard. “The Figure of Taliesin in Charles Williams' Arthuriad.”
+* Schmiel, Mary Aileen.  “In The Forge of Los: Tolkien and the Art of Creative Fantasy.”
+* Kondratiev, Alexi. “New Myths for Old: The Legacy of Iolo Morgannwg and Hersard de le Villemarque.”
+* Swycaffer, Jefferson P.  “Historical Motivations for the Siege of Minas Tirith.”
+
+==== Poetry ====
+
+* Pearson, Jean.  “Mortlake.”
+* Kenney, Alice P.  “The Dark Girl's Answer.”
+
+==== Features ====
+
+* GoodKnight, Glen H.  Editor's Opening.
+* Christopher, Joe R.  An Inklings' Bibliography (24)
+* Hyde, Paul Nolan.  “Quenti Lambardillion: A Column on Middle-earth Linguistics.”
+* Speth, Lee.  “Cavalier Treatment: A Column.”
+* Ellwood, Gracia Fay.  “Matters of Grave Import: A Column.”
+* Letters.
+
+==== Reviews ====
+
+* ''The Shores of Middle-earth.'' Robert Giddings and Elizabeth Holland. Reviewed by Nils Ivar Agøy.
+* ''SEVEN (March, 1982), Volume 3''. Dr. Barbara Reynolds, Dr. Clyde S. Kilby, and Dr. Beatrice Batson. Reviewed by Nancy-Lou Patterson.
+* ''THE DARK CRYSTAL''. Directed by Jim Henson and Frank Oz. Screenplay by David Odell. Story by Jim Henson. Conceptual Designer, Brian Froud. Reviewed by Benjamin Urrutia.
+* ''The World of the Dark Crystal.'' Illustrated by Brian Froud. Text by J.J. Llewellyn. Designed and Edited by Rupert Brown. Reviewed by Benjamin Urrutia.
+* ''The Tale of the Dark Crystal''. Text by Donna Bass. Illustrated by Bruce McNally. Reviewed by Benjamin Urrutia.
+* ''The Dark Crystal.'' Novelization by A.C.H. Smith. Reviewed by Benjamin Urrutia.
+* ''Dragonslayer''. Hal Barwoods and Matthew Robbins. Reviewed by Jessica Yates.
+* ''C.S. Lewis: Mere Christian.'' Kathryn Lirdskoog. Reviewed by Nancy-Lou Patterson.
+* ''A Day in Narnia''. Paul Ford. Reviewed by Nancy-Lou Patterson.
+{{mythlorenav|34|36}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 035}}
+
+[[Category:Mythlore]]

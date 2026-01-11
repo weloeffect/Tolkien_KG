@@ -1,0 +1,888 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%C3%89oth%C3%A9od> a schema:WebPage ;
+    rdfs:label "Éothéod"@en ;
+    schema:about <http://localhost:8000/resource/%C3%89oth%C3%A9od> .
+
+<http://localhost:8000/page/Avari> a schema:WebPage ;
+    rdfs:label "Avari"@en ;
+    schema:about <http://localhost:8000/resource/Avari> .
+
+<http://localhost:8000/page/Balchoth> a schema:WebPage ;
+    rdfs:label "Balchoth"@en ;
+    schema:about <http://localhost:8000/resource/Balchoth> .
+
+<http://localhost:8000/page/Balrogs> a schema:WebPage ;
+    rdfs:label "Balrogs"@en ;
+    schema:about <http://localhost:8000/resource/Balrogs> .
+
+<http://localhost:8000/page/Bardings> a schema:WebPage ;
+    rdfs:label "Bardings"@en ;
+    schema:about <http://localhost:8000/resource/Bardings> .
+
+<http://localhost:8000/page/Beornings> a schema:WebPage ;
+    rdfs:label "Beornings"@en ;
+    schema:about <http://localhost:8000/resource/Beornings> .
+
+<http://localhost:8000/page/Black_N%C3%BAmen%C3%B3reans> a schema:WebPage ;
+    rdfs:label "Black Númenóreans"@en ;
+    schema:about <http://localhost:8000/resource/Black_N%C3%BAmen%C3%B3reans> .
+
+<http://localhost:8000/page/Cold-drakes> a schema:WebPage ;
+    rdfs:label "Cold-drakes"@en ;
+    schema:about <http://localhost:8000/resource/Cold-drakes> .
+
+<http://localhost:8000/page/Corsairs_of_Umbar> a schema:WebPage ;
+    rdfs:label "Corsairs of Umbar"@en ;
+    schema:about <http://localhost:8000/resource/Corsairs_of_Umbar> .
+
+<http://localhost:8000/page/D%C3%BAnedain> a schema:WebPage ;
+    rdfs:label "Dúnedain"@en ;
+    schema:about <http://localhost:8000/resource/D%C3%BAnedain> .
+
+<http://localhost:8000/page/D%C3%BAnedain_of_Arnor> a schema:WebPage ;
+    rdfs:label "Dúnedain of Arnor"@en ;
+    schema:about <http://localhost:8000/resource/D%C3%BAnedain_of_Arnor> .
+
+<http://localhost:8000/page/Dr%C3%BAedain> a schema:WebPage ;
+    rdfs:label "Drúedain"@en ;
+    schema:about <http://localhost:8000/resource/Dr%C3%BAedain> .
+
+<http://localhost:8000/page/Dunlendings> a schema:WebPage ;
+    rdfs:label "Dunlendings"@en ;
+    schema:about <http://localhost:8000/resource/Dunlendings> .
+
+<http://localhost:8000/page/Dwarves_of_Belegost> a schema:WebPage ;
+    rdfs:label "Dwarves of Belegost"@en ;
+    schema:about <http://localhost:8000/resource/Dwarves_of_Belegost> .
+
+<http://localhost:8000/page/Dwarves_of_Erebor> a schema:WebPage ;
+    rdfs:label "Dwarves of Erebor"@en ;
+    schema:about <http://localhost:8000/resource/Dwarves_of_Erebor> .
+
+<http://localhost:8000/page/Dwarves_of_the_Iron_Hills> a schema:WebPage ;
+    rdfs:label "Dwarves of the Iron Hills"@en ;
+    schema:about <http://localhost:8000/resource/Dwarves_of_the_Iron_Hills> .
+
+<http://localhost:8000/page/Easterlings> a schema:WebPage ;
+    rdfs:label "Easterlings"@en ;
+    schema:about <http://localhost:8000/resource/Easterlings> .
+
+<http://localhost:8000/page/Edain> a schema:WebPage ;
+    rdfs:label "Edain"@en ;
+    schema:about <http://localhost:8000/resource/Edain> .
+
+<http://localhost:8000/page/Eldar> a schema:WebPage ;
+    rdfs:label "Eldar"@en ;
+    schema:about <http://localhost:8000/resource/Eldar> .
+
+<http://localhost:8000/page/Elves_of_Eregion> a schema:WebPage ;
+    rdfs:label "Elves of Eregion"@en ;
+    schema:about <http://localhost:8000/resource/Elves_of_Eregion> .
+
+<http://localhost:8000/page/Elves_of_Lindon> a schema:WebPage ;
+    rdfs:label "Elves of Lindon"@en ;
+    schema:about <http://localhost:8000/resource/Elves_of_Lindon> .
+
+<http://localhost:8000/page/Elves_of_Mirkwood> a schema:WebPage ;
+    rdfs:label "Elves of Mirkwood"@en ;
+    schema:about <http://localhost:8000/resource/Elves_of_Mirkwood> .
+
+<http://localhost:8000/page/Elves_of_Nargothrond> a schema:WebPage ;
+    rdfs:label "Elves of Nargothrond"@en ;
+    schema:about <http://localhost:8000/resource/Elves_of_Nargothrond> .
+
+<http://localhost:8000/page/Falathrim> a schema:WebPage ;
+    rdfs:label "Falathrim"@en ;
+    schema:about <http://localhost:8000/resource/Falathrim> .
+
+<http://localhost:8000/page/Fallohides> a schema:WebPage ;
+    rdfs:label "Fallohides"@en ;
+    schema:about <http://localhost:8000/resource/Fallohides> .
+
+<http://localhost:8000/page/Falmari> a schema:WebPage ;
+    rdfs:label "Falmari"@en ;
+    schema:about <http://localhost:8000/resource/Falmari> .
+
+<http://localhost:8000/page/Fire-drakes> a schema:WebPage ;
+    rdfs:label "Fire-drakes"@en ;
+    schema:about <http://localhost:8000/resource/Fire-drakes> .
+
+<http://localhost:8000/page/Galadhrim> a schema:WebPage ;
+    rdfs:label "Galadhrim"@en ;
+    schema:about <http://localhost:8000/resource/Galadhrim> .
+
+<http://localhost:8000/page/Gondolindrim> a schema:WebPage ;
+    rdfs:label "Gondolindrim"@en ;
+    schema:about <http://localhost:8000/resource/Gondolindrim> .
+
+<http://localhost:8000/page/Gondorians> a schema:WebPage ;
+    rdfs:label "Gondorians"@en ;
+    schema:about <http://localhost:8000/resource/Gondorians> .
+
+<http://localhost:8000/page/Green-elves> a schema:WebPage ;
+    rdfs:label "Green-elves"@en ;
+    schema:about <http://localhost:8000/resource/Green-elves> .
+
+<http://localhost:8000/page/Haradrim> a schema:WebPage ;
+    rdfs:label "Haradrim"@en ;
+    schema:about <http://localhost:8000/resource/Haradrim> .
+
+<http://localhost:8000/page/Harfoots> a schema:WebPage ;
+    rdfs:label "Harfoots"@en ;
+    schema:about <http://localhost:8000/resource/Harfoots> .
+
+<http://localhost:8000/page/Hobbits> a schema:WebPage ;
+    rdfs:label "Hobbits"@en ;
+    schema:about <http://localhost:8000/resource/Hobbits> .
+
+<http://localhost:8000/page/Iathrim> a schema:WebPage ;
+    rdfs:label "Iathrim"@en ;
+    schema:about <http://localhost:8000/resource/Iathrim> .
+
+<http://localhost:8000/page/Lake-men> a schema:WebPage ;
+    rdfs:label "Lake-men"@en ;
+    schema:about <http://localhost:8000/resource/Lake-men> .
+
+<http://localhost:8000/page/Lossoth> a schema:WebPage ;
+    rdfs:label "Lossoth"@en ;
+    schema:about <http://localhost:8000/resource/Lossoth> .
+
+<http://localhost:8000/page/Maiar> a schema:WebPage ;
+    rdfs:label "Maiar"@en ;
+    schema:about <http://localhost:8000/resource/Maiar> .
+
+<http://localhost:8000/page/Men_of_Bree> a schema:WebPage ;
+    rdfs:label "Men of Bree"@en ;
+    schema:about <http://localhost:8000/resource/Men_of_Bree> .
+
+<http://localhost:8000/page/Men_of_Dale> a schema:WebPage ;
+    rdfs:label "Men of Dale"@en ;
+    schema:about <http://localhost:8000/resource/Men_of_Dale> .
+
+<http://localhost:8000/page/N%C3%BAmen%C3%B3reans> a schema:WebPage ;
+    rdfs:label "Númenóreans"@en ;
+    schema:about <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> .
+
+<http://localhost:8000/page/Nandor> a schema:WebPage ;
+    rdfs:label "Nandor"@en ;
+    schema:about <http://localhost:8000/resource/Nandor> .
+
+<http://localhost:8000/page/Noldor> a schema:WebPage ;
+    rdfs:label "Noldor"@en ;
+    schema:about <http://localhost:8000/resource/Noldor> .
+
+<http://localhost:8000/page/Northmen> a schema:WebPage ;
+    rdfs:label "Northmen"@en ;
+    schema:about <http://localhost:8000/resource/Northmen> .
+
+<http://localhost:8000/page/Oathbreakers> a schema:WebPage ;
+    rdfs:label "Oathbreakers"@en ;
+    schema:about <http://localhost:8000/resource/Oathbreakers> .
+
+<http://localhost:8000/page/Orcs_of_Mordor> a schema:WebPage ;
+    rdfs:label "Orcs of Mordor"@en ;
+    schema:about <http://localhost:8000/resource/Orcs_of_Mordor> .
+
+<http://localhost:8000/page/Petty-dwarves> a schema:WebPage ;
+    rdfs:label "Petty-dwarves"@en ;
+    schema:about <http://localhost:8000/resource/Petty-dwarves> .
+
+<http://localhost:8000/page/Rohirrim> a schema:WebPage ;
+    rdfs:label "Rohirrim"@en ;
+    schema:about <http://localhost:8000/resource/Rohirrim> .
+
+<http://localhost:8000/page/Silvan_Elves> a schema:WebPage ;
+    rdfs:label "Silvan Elves"@en ;
+    schema:about <http://localhost:8000/resource/Silvan_Elves> .
+
+<http://localhost:8000/page/Vanyar> a schema:WebPage ;
+    rdfs:label "Vanyar"@en ;
+    schema:about <http://localhost:8000/resource/Vanyar> .
+
+<http://localhost:8000/resource/%C3%89oth%C3%A9od> a schema:Person ;
+    tg:caption "\"Fram Franson\" by Donato Giancola"@en ;
+    tg:image "Donato Giancola - Fram Franson.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:location <http://localhost:8000/resource/near_the_Vales_of_Anduin%3B_northern_Anduin_%28Framsburg%29> ;
+    tg:members <http://localhost:8000/resource/Marhwini%2C_Forthwini%2C_Frumgar%2C_Fram> ;
+    tg:name "Éothéod"@en ;
+    tg:origin <http://localhost:8000/resource/Northmen> ;
+    tg:othernames "Men of Éothéod<ref name=firstparagraph>{{App|Eorl}}, first paragraph, pp. 1063-64</ref>"@en ;
+    tg:rivalry <http://localhost:8000/resource/Dwarves_of_the_Grey_Mountains> .
+
+<http://localhost:8000/resource/Avari> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22Avari%22_by_Jenny_Dolfen> ;
+    tg:image "Jenny Dolfen - Avari.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Various_Avarin_languages> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_Rh%C3%BBn%2C_Taur-im-Duinath%2C__Vales_of_Anduin> ;
+    tg:members <http://localhost:8000/resource/Morw%C3%AB%2C_Nurw%C3%AB> ;
+    tg:name "Avari"@en ;
+    tg:origin <http://localhost:8000/resource/Elves_who_refused_to_make_the_Great_Journey> ;
+    tg:othernames <http://localhost:8000/resource/Dark-elves%2C_The_Unwilling%2C_Wild_Elves> ;
+    tg:rivalry <http://localhost:8000/resource/Eldar%3Cref_name%3DWJA_/%3E%3Cref_name%3DWJ377_/%3E> .
+
+<http://localhost:8000/resource/Balchoth> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Sauron> ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AStephen_King_-_Balchoth.jpg> ;
+    tg:distinctions "Few cavalry, many wains, boats and rafts"@en ;
+    tg:image "Stephen King - Balchoth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:location <http://localhost:8000/resource/Rhovanion_%28between_Mirkwood_and_River_Running%29%2C_southern_Vales_of_Anduin> ;
+    tg:name "Balchoth"@en ;
+    tg:origin <http://localhost:8000/resource/Easterlings%2C_around_Rh%C3%BBn> ;
+    tg:rivalry <http://localhost:8000/resource/Northmen%2C_Gondorians> ;
+    tg:weapons "Crude weapons"@en .
+
+<http://localhost:8000/resource/Balrogs> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:caption <http://localhost:8000/resource/%22Glorfindel%27s_Bane%22_by_Ted_Nasmith> ;
+    tg:distinctions <http://localhost:8000/resource/Man-like%2C_surrounded_by_shadow_and_fire%2C_covered_in_smoke%3Cbr_/%3E%27%27%28cf._Balrogs/Wings%29%27%27> ;
+    tg:height "Twice the height of a man"@en ;
+    tg:image "Ted Nasmith - Glorfindel's Bane.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Primarily_Angband%2C%3Cbr%3EMoria_%28Durin%27s_Bane%29> ;
+    tg:members <http://localhost:8000/resource/Gothmog_%28balrog%29> ;
+    tg:name "Balrogs"@en ;
+    tg:origin <http://localhost:8000/resource/Creation_of_the_Ainur> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Valaraukar%27%27_%28Quenya> ;
+    tg:weapons "Whips, swords, axes"@en .
+
+<http://localhost:8000/resource/Bardings> a schema:Person ;
+    tg:image "Barding.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/language_of_Dale%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Dale> ;
+    tg:members <http://localhost:8000/resource/Bard%2C_Bain%2C_Brand%2C_Bard_II> ;
+    tg:name "Bardings"@en ;
+    tg:origin <http://localhost:8000/resource/Men_of_Dale_and_possibly_the_Lake-men> .
+
+<http://localhost:8000/resource/Beornings> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AAngelo_Montanini_-_Beornings.jpg> ;
+    tg:image "Angelo Montanini - Beornings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/Upper_Vales_of_Anduin> ;
+    tg:members <http://localhost:8000/resource/Beorn%2C_Grimbeorn> ;
+    tg:name "Beornings"@en ;
+    tg:rivalry <http://localhost:8000/resource/Orcs_of_the_Misty_Mountains> .
+
+<http://localhost:8000/resource/Black_N%C3%BAmen%C3%B3reans> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/King%27s_Men%2C_Sauron> ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3ABrian_Durfee_-_Black_N%C3%BAmen%C3%B3reans.jpg> ;
+    tg:image "Brian Durfee - Black Númenóreans.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/The_southern_lands_of_Middle-earth%2C_and_especially_Umbar> ;
+    tg:members <http://localhost:8000/resource/Herumor%2C_Fuinur%2C_Ber%C3%BAthiel%2C_Mouth_of_Sauron> ;
+    tg:name "Black Númenóreans"@en ;
+    tg:origin <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans_seduced_and_corrupted_by_Sauron> ;
+    tg:othernames "Sauronians<ref name=letter>{{L|156}}</ref>"@en ;
+    tg:rivalry <http://localhost:8000/resource/Exiles_of_N%C3%BAmenor%2C_Gondorians> .
+
+<http://localhost:8000/resource/Cold-drakes> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:caption "Kevin Ward - ''True Cold-drake''"@en ;
+    tg:distinctions "Cold-breathing<ref name=collectedpoems/>"@en ;
+    tg:image "Kevin Ward - Cold-drake.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:lifespan "\"Long and slow\"<ref>{{S|13}}</ref>"@en ;
+    tg:location <http://localhost:8000/resource/Angband%2C_Northern_Waste%2C_Withered_Heath%2C_Grey_Mountains> ;
+    tg:members <http://localhost:8000/resource/Scatha%3Cref_name%3Dcollectedpoems%3E%7B%7BCP> ;
+    tg:name "Cold-drakes"@en ;
+    tg:origin <http://localhost:8000/resource/Bred_by_Morgoth_in_Angband> ;
+    tg:rivalry <http://localhost:8000/resource/Dwarves_of_the_Grey_Mountains> .
+
+<http://localhost:8000/resource/Corsairs_of_Umbar> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/Corsairs_by_John_Howe> ;
+    tg:gallery "Corsairs"@en ;
+    tg:image "John Howe - Corsairs 01.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:location <http://localhost:8000/resource/Umbar> ;
+    tg:members <http://localhost:8000/resource/Angamait%C3%AB%2C_Sangahyando%2C_Captain_of_the_Haven> ;
+    tg:name "Corsairs of Umbar"@en ;
+    tg:origin <http://localhost:8000/resource/Founded_by_the_sons_and_supporters_of_Castamir> ;
+    tg:rivalry <http://localhost:8000/resource/Gondorians> .
+
+<http://localhost:8000/resource/D%C3%BAnedain> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:distinctions <http://localhost:8000/resource/Superior_to_the_other_Men_of_Middle-earth_in_nobility_of_spirit_and_body> ;
+    tg:hair "Dark"@en ;
+    tg:height "About 6'4\"<ref name=height>{{UT|Linear}}</ref>"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin%2C_Quenya> ;
+    tg:lifespan <http://localhost:8000/resource/%27%27%23Waning_of_the_D%C3%BAnedain> ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_Arnor%2C_Gondor> ;
+    tg:members <http://localhost:8000/resource/Argeleb_I%2C_Aragorn_II%2C_Denethor%2C_Boromir%2C_Faramir%2C_Imrahil%2C_Morwen_Steelsheen> ;
+    tg:name "Dúnedain"@en ;
+    tg:origin <http://localhost:8000/resource/Descendants_of_the_N%C3%BAmenoreans_in_Middle-earth> ;
+    tg:othernames "Great People of the West, Men of the Ancient Houses, Men of the West, Men of Westernesse"@en ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:rivalry <http://localhost:8000/resource/Sauron> ;
+    tg:skin "Pale"@en .
+
+<http://localhost:8000/resource/D%C3%BAnedain_of_Arnor> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:caption <http://localhost:8000/resource/%22Aranarth%22_by_Elena_Kukanova> ;
+    tg:distinctions <http://localhost:8000/resource/Retained_their_pure_N%C3%BAmen%C3%B3reans> ;
+    tg:gallery "Arnorians"@en ;
+    tg:hair "Dark<ref name=\"Sign\"/>"@en ;
+    tg:height "Tall<ref name=\"Sign\"/>"@en ;
+    tg:image "Elena Kukanova - Aranarth.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin%2C_Quenya> ;
+    tg:lifespan <http://localhost:8000/resource/%23Lifespan> ;
+    tg:location <http://localhost:8000/resource/Eriador%2C_Arnor> ;
+    tg:members <http://localhost:8000/resource/Argeleb_I%2C_Aragorn_II%2C_Gilraen> ;
+    tg:name "Dúnedain of Arnor"@en ;
+    tg:origin <http://localhost:8000/resource/Descendants_of_the_N%C3%BAmen%C3%B3reans_in_Arnor> ;
+    tg:othernames <http://localhost:8000/resource/D%C3%BAnedain_of_the_North%2C_Northern_D%C3%BAnedain%2C_Rangers_or_Rangers_of_the_North> ;
+    tg:rivalry <http://localhost:8000/resource/Hill-men> ;
+    tg:skin "Pale<ref name=\"Sign\"/>"@en .
+
+<http://localhost:8000/resource/Dr%C3%BAedain> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3ARalph_Damiani_-_Druedain.jpg> ;
+    tg:distinctions "Good stoneworkers, mysterious powers, glowing red eyes"@en ;
+    tg:hair "Dark"@en ;
+    tg:height "4 feet<ref name=atani/>"@en ;
+    tg:image "Ralph Damiani - Druedain.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Dr%C3%BAadan_language> ;
+    tg:lifespan <http://localhost:8000/resource/Shorter_than_most_Men%3Cref_name%3Datani%3E%7B%7BPM> ;
+    tg:location <http://localhost:8000/resource/Brethil%2C_N%C3%BAmenor%2C_Dr%C3%BAwaith_Iaur%2C_Dr%C3%BAadan_Forest> ;
+    tg:members <http://localhost:8000/resource/Aghan%2C_Gh%C3%A2n%2C_Gh%C3%A2n-buri-Gh%C3%A2n> ;
+    tg:name "Drúedain"@en ;
+    tg:othernames <http://localhost:8000/resource/Dr%C3%BB%2C_Dr%C3%BB-folk%2C_Dr%C3%BAath%2C_Drughu%2C_Dr%C3%BBg-folk%2C_Dr%C3%BBgs%2C_Dr%C3%BAin%2C_Oghor-hai%2C_P%C3%BAkel-men%2C_R%C3%B3gin%2C_R%C3%BA%2C_R%C3%BAatani%2C_Wild_Men_of_the_Woods%2C_Woses%2C_Oghor-hai> ;
+    tg:pronun "{{respell|droo|eh-deyen}}"@en .
+
+<http://localhost:8000/resource/Dwarves_of_Belegost> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Union_of_Maedhros> ;
+    tg:caption <http://localhost:8000/resource/%22The_Battle_of_Unnumbered_Tears%22_by_%3ACategory%3AImages_by_Joona_Kujanen> ;
+    tg:height "Five feet or less"@en ;
+    tg:image "Joona Kujanen - The Battle of Unnumbered Tears.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Sindarin> ;
+    tg:lifespan "c. 250 years"@en ;
+    tg:location <http://localhost:8000/resource/Belegost%2C_Blue_Mountains%2C_Moria> ;
+    tg:members <http://localhost:8000/resource/Azagh%C3%A2l> ;
+    tg:name "Dwarves of Belegost"@en .
+
+<http://localhost:8000/resource/Dwarves_of_the_Iron_Hills> a schema:Person ;
+    tg:caption "\"Iron Hill Dwarves\" by Angelo Montanini"@en ;
+    tg:clothing "Well-armoured in combat"@en ;
+    tg:distinctions "Fierce warriors,<ref>{{H|Burst}}</ref> exceedingly strong"@en ;
+    tg:height "Five feet or less"@en ;
+    tg:image "Angelo Montanini - Iron Hill Dwarves.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Westron> ;
+    tg:lifespan "c. 250 years"@en ;
+    tg:location <http://localhost:8000/resource/Iron_Hills> ;
+    tg:members <http://localhost:8000/resource/D%C3%A1in_Ironfoot> ;
+    tg:name "Dwarves of the Iron Hills"@en ;
+    tg:origin <http://localhost:8000/resource/Durin%27s_Folk_who_settled_in_the_Iron_Hills_in_the_First_Age%3Cref_name%3DRelations%3E%7B%7BPM> ;
+    tg:weapons "Mattocks, short-swords, and broad shields"@en .
+
+<http://localhost:8000/resource/Easterlings> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth%3Cbr%3ESauron> ;
+    tg:caption <http://localhost:8000/resource/%22Easterlings%22_by_John_Howe> ;
+    tg:distinctions <http://localhost:8000/resource/Use_of_the_war-wagons_%28Wainriders_and_Balchoth%29> ;
+    tg:hair "Dark"@en ;
+    tg:image "John Howe - Easterlings.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:location <http://localhost:8000/resource/lands_east_of_and_including_Rh%C3%BBn%3B_Rhovanion%3B_March_of_Maedhros%3B_Hithlum> ;
+    tg:members <http://localhost:8000/resource/Kham%C3%BBl%2C_Easterlings_%28First_Age%29_%28Brodda%2C_Lorgan%2C_Ulfang%2C_Uldor%2C_Ulfast%2C_Ulwarth%2C_B%C3%B3r%2C_Borlach%2C_Borlad%2C_Borthand%29> ;
+    tg:name "Easterlings"@en ;
+    tg:othernames "Folk of the East"@en ;
+    tg:skin <http://localhost:8000/resource/Swarthy_in_the_First_Age> .
+
+<http://localhost:8000/resource/Edain> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AWouter_Florusse_-_The_Edain.jpg> ;
+    tg:image "Wouter Florusse - The Edain.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Mannish%2C_Sindarin> ;
+    tg:lifespan "70-80<ref>{{MR|P4g}}</ref>"@en ;
+    tg:location <http://localhost:8000/resource/Beleriand%2C_Middle-earth%2C_N%C3%BAmenor> ;
+    tg:members <http://localhost:8000/resource/H%C3%BArin%2C_T%C3%BArin%2C_Tuor%2C_Beren%2C_Barahir%2C_Andreth%2C_Morwen%2C_B%C3%ABor> ;
+    tg:name "Edain"@en ;
+    tg:origin <http://localhost:8000/resource/Men_who_crossed_into_Beleriand> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Atani%27%27%2C_%27%27Atanat%C3%A1ri%27%27_%28Quenya> ;
+    tg:pronun "{{respell|eh|deyen}}"@en ;
+    tg:rivalry <http://localhost:8000/resource/Morgoth> .
+
+<http://localhost:8000/resource/Eldar> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22Cuivienen%22_by_L%C3%ADda_Holubov%C3%A1> ;
+    tg:hair "dark brown, golden, silver"@en ;
+    tg:height "over 6'6 (1.98 m) - for men, over 6 feet (1.83 m) - for women<ref>{{NM|P2vi}}, \"Heights\", p. 195</ref>"@en ;
+    tg:image "Lída Holubová - Cuivienen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Telerin%2C_Sindarin%2C_Nandorin> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Valinor%2C_Eldamar%2C_Tol_Eress%C3%ABa%2C_Beleriand%2C_Eriador%2C_Rhovanion> ;
+    tg:members <http://localhost:8000/resource/Ingw%C3%AB%2C_Finw%C3%AB%2C_Thingol> ;
+    tg:name "Eldar"@en ;
+    tg:origin <http://localhost:8000/resource/Elves_who_undertook_the_Great_Journey> ;
+    tg:othernames "West-elves"@en .
+
+<http://localhost:8000/resource/Elves_of_Eregion> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Gwaith-i-M%C3%ADrdain> ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Quenya> ;
+    tg:location <http://localhost:8000/resource/Eregion%3B_the_far_southeast_of_Eriador%2C_directly_to_the_west_of_Khazad-d%C3%BBm> ;
+    tg:members <http://localhost:8000/resource/Celeborn%2C_Celebr%C3%ADan%2C_Celebrimbor%2C_Galadriel> ;
+    tg:name "Elves of Eregion"@en ;
+    tg:origin <http://localhost:8000/resource/Followers_of_Celebrimbor> .
+
+<http://localhost:8000/resource/Elves_of_Lindon> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:caption <http://localhost:8000/resource/%27%27Elves_of_Lindon%27%27_by_Liz_Danforth> ;
+    tg:image "Liz Danforth - Elves of Lindon.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin%2C_Quenya%2C_Nandorin> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Lindon> ;
+    tg:members <http://localhost:8000/resource/Cirdan%2C_Gil-galad%2C_Galdor_of_the_Havens> ;
+    tg:name "Elves of Lindon"@en ;
+    tg:origin <http://localhost:8000/resource/Survivors_of_the_destruction_of_Beleriand_in_the_War_of_Wrath> ;
+    tg:othernames <http://localhost:8000/resource/Eldar_of_Lindon> ;
+    tg:rivalry <http://localhost:8000/resource/Sauron> .
+
+<http://localhost:8000/resource/Elves_of_Mirkwood> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> ;
+    tg:caption <http://localhost:8000/resource/%22Greenwood_the_Great%22_by_Anke_Ei%C3%9Fmann> ;
+    tg:image "Anke Eißmann - Greenwood the Great.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Silvan_language%2C_Sindarin%2C_Westron> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Woodland_Realm%2C_Ithilien> ;
+    tg:members <http://localhost:8000/resource/Oropher%2C_Thranduil%2C_Legolas%2C_Galion> ;
+    tg:name "Elves of Mirkwood"@en ;
+    tg:origin <http://localhost:8000/resource/Silvan_Elves> ;
+    tg:othernames "Elves of Thranduil, Elves of the Wood, Folk of the Wood, Wood-elves"@en .
+
+<http://localhost:8000/resource/Elves_of_Nargothrond> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22The_host_of_Nargothrond%22_by_Anke_Ei%C3%9Fmann> ;
+    tg:image "Anke Eißmann - The host of Nargothrond.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Sindarin> ;
+    tg:location <http://localhost:8000/resource/Nargothrond%2C_Minas_Tirith_%28Beleriand%29> ;
+    tg:members <http://localhost:8000/resource/Finrod%2C_Orodreth%2C_Finduilas%2C_Guilin%2C_Gwindor%2C_Gelmir_%28son_of_Guilin%29> ;
+    tg:name "Elves of Nargothrond"@en ;
+    tg:origin <http://localhost:8000/resource/Noldor> .
+
+<http://localhost:8000/resource/Falathrim> a schema:Person ;
+    tg:caption "Falathrim by Liz Danforth"@en ;
+    tg:image "Liz Danforth - Falathrim.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Falathrin> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/The_Havens_of_the_Falas%3A_Brithombar_and_Eglarest_%28occupied_the_western_shorelands_of_Beleriand%2C_around_the_mouths_of_the_Rivers_Brithon_and_Nenning%29> ;
+    tg:members <http://localhost:8000/resource/C%C3%ADrdan%2C_Voronw%C3%AB> ;
+    tg:name "Falathrim"@en ;
+    tg:origin <http://localhost:8000/resource/Teleri_persuaded_by_Oss%C3%AB_to_remain_by_the_Sea_in_Middle-earth> ;
+    tg:othernames <http://localhost:8000/resource/Elves_of_the_Falas> .
+
+<http://localhost:8000/resource/Fallohides> a schema:Person ;
+    tg:caption "Hobbits comparison by Lidia Postma"@en ;
+    tg:distinctions "Least numerous of the three branches of hobbits, skilled in hunting and in language, more naturally adventurous than other hobbits"@en ;
+    tg:hair "Fair"@en ;
+    tg:height "Taller than the other hobbits"@en ;
+    tg:image "Lidia Postma - Hobbits comparison.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Hobbitish%2C_Westron> ;
+    tg:lifespan "c. 96 years"@en ;
+    tg:location <http://localhost:8000/resource/Upper_Anduin%2C_Bree%2C_The_Shire> ;
+    tg:members <http://localhost:8000/resource/Marcho%2C_Blanco%2C_the_Bolgers%2C_the_Tooks%2C_the_Brandybucks> ;
+    tg:name "Fallohides"@en ;
+    tg:skin "Fair"@en .
+
+<http://localhost:8000/resource/Falmari> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22The_Ships_of_the_Teleri_Drawn_by_Swans%22_by_Ted_Nasmith> ;
+    tg:distinctions "Great singers and mariners, with a deep reverence for the sea"@en ;
+    tg:hair "Dark, sometimes silver"@en ;
+    tg:image "Ted Nasmith - The Ships of the Teleri Drawn by Swans.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Telerin> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Alqualond%C3%AB%2C_Tol_Eress%C3%ABa> ;
+    tg:members <http://localhost:8000/resource/Olw%C3%AB%2C_E%C3%A4rwen> ;
+    tg:name "Falmari"@en ;
+    tg:origin <http://localhost:8000/resource/Teleri_who_completed_the_Great_Journey_into_Aman> ;
+    tg:othernames "Sea-elves, Teleri of Valinor"@en ;
+    tg:pronun <http://localhost:8000/resource/Quenya> .
+
+<http://localhost:8000/resource/Fire-drakes> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Morgoth> ;
+    tg:caption <http://localhost:8000/resource/%22Searching_Eye%22_by_Ted_Nasmith> ;
+    tg:distinctions "Fire-breathing; later with wings"@en ;
+    tg:image "Ted Nasmith - Searching Eye.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:members <http://localhost:8000/resource/Glaurung%2C_Ancalagon%2C_Smaug> ;
+    tg:name "Fire-drakes"@en ;
+    tg:origin <http://localhost:8000/resource/Dragons> ;
+    tg:othernames "Urulóki"@en .
+
+<http://localhost:8000/resource/Galadhrim> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> ;
+    tg:caption "\"Galadhrim\" by Rebecca Guay"@en ;
+    tg:image "Rebecca Guay - Galadhrim.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Silvan_Elvish%2C_Sindarin%2C_Westron> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Lothl%C3%B3rien%2C_East_L%C3%B3rien> ;
+    tg:members <http://localhost:8000/resource/Haldir%2C_R%C3%BAmil_%28Elf_of_L%C3%B3rien%29> ;
+    tg:name "Galadhrim"@en ;
+    tg:origin <http://localhost:8000/resource/Silvan_Elves_of_Lothl%C3%B3rien> ;
+    tg:othernames "Elves of Lórien, Elves of Lórinand, Tree-people"@en ;
+    tg:pronun <http://localhost:8000/resource/%7B%7Brespell> .
+
+<http://localhost:8000/resource/Gondolindrim> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Union_of_Maedhros> ;
+    tg:caption <http://localhost:8000/resource/%22Gondolin_party%22_by_%3ACategory%3AImages_by_Mysilvergreen> ;
+    tg:image "Mysilvergreen - Gondolin party.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Sindarin> ;
+    tg:lifespan <http://localhost:8000/resource/Immortal> ;
+    tg:location <http://localhost:8000/resource/Gondolin> ;
+    tg:members <http://localhost:8000/resource/Turgon%2C_Idril%2C_Tuor%2C_Maeglin%2C_Ecthelion%2C_Glorfindel> ;
+    tg:name "Gondolindrim"@en ;
+    tg:origin <http://localhost:8000/resource/The_Noldor_and_Sindar_of_Nevrast%2C_led_to_the_Hidden_City_by_Turgon> ;
+    tg:othernames "People of Gondolin"@en ;
+    tg:pronun "{{respell|gon-do|lin|drim}}"@en .
+
+<http://localhost:8000/resource/Green-elves> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22Green-elf_of_Ossiriand%22_by_Peter_Xavier_Price> ;
+    tg:clothing "\"raiment of the colour of leaves\"<ref name=\"Sindar\"/>"@en ;
+    tg:distinctions "Skilled in woodcraft<ref name=\"Sindar\"/>"@en ;
+    tg:image "Peter Xavier Price - Green-elf of Ossiriand.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Nandorin%2C_Sindarin> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Ossiriand%2C_Lindon> ;
+    tg:members <http://localhost:8000/resource/Denethor_%28son_of_Lenw%C3%AB%29> ;
+    tg:name "Green-elves"@en ;
+    tg:origin <http://localhost:8000/resource/Nandor_who_crossed_into_Beleriand> ;
+    tg:othernames "Elves of Ossiriand, Laiquendi"@en ;
+    tg:weapons "\"light-armed\"<ref name=\"Sindar\"/>"@en .
+
+<http://localhost:8000/resource/Haradrim> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Blue_Wizards%2C_N%C3%BAmen%C3%B3reans%2C_Sauron%2C_Black_N%C3%BAmen%C3%B3reans> ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AJohn_Howe_-_Southrons.jpg> ;
+    tg:distinctions <http://localhost:8000/resource/Gift_of_Il%C3%BAvatar> ;
+    tg:hair "Dark"@en ;
+    tg:height "Tall"@en ;
+    tg:image "John_Howe - Southrons.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Presumably_numerous_Haradric_languages%2C_different_from_Common_Speech%3B_Ad%C3%BBnaic%3B_Westron%3B_and_the_Dr%C3%BAadan_language_%28at_least_formerly%29%3Cref_group%3Dnote%3EDue_to_the_suggestion_of_Gondorian_historians_that_the_group_originally_came_from_Harad.%3C/ref%3E> ;
+    tg:lifespan <http://localhost:8000/resource/Shorter_than_N%C3%BAmen%C3%B3reans%3Cref_group%3Dnote%3ECastamir_of_House_of_An%C3%A1rion_lived_to_the_age_of_188%2C_and_another_great-grandson_of_Calmacil_%28King_of_Gondor%29> ;
+    tg:location <http://localhost:8000/resource/Harad%2C_including_Umbar%2C_Near_Harad_and_Far_Harad> ;
+    tg:name "Haradrim"@en ;
+    tg:origin <http://localhost:8000/resource/Awakening_of_Men> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Haradrim%27%27_%28Sindarin> ;
+    tg:pronun "{{respell|ha|rad|rim}}"@en ;
+    tg:rivalry <http://localhost:8000/resource/Exiles_of_N%C3%BAmenor%2C_Gondorians> ;
+    tg:skin "Black, brown, dark, swarthy"@en ;
+    tg:weapons <http://localhost:8000/resource/Oliphaunts%3B%3Cbr/%3EBlack_Breath> .
+
+<http://localhost:8000/resource/Harfoots> a schema:Person ;
+    tg:caption "Hobbits by Lidia Postma"@en ;
+    tg:clothing "No footwear"@en ;
+    tg:hair "No beards"@en ;
+    tg:height "Shorter than the other Hobbits"@en ;
+    tg:image "Lidia Postma - Hobbits comparison.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Hobbitish%2C_Westron> ;
+    tg:lifespan "c. 96 years"@en ;
+    tg:location <http://localhost:8000/resource/Vales_of_Anduin%2C_Bree%2C_The_Shire> ;
+    tg:name "Harfoots"@en ;
+    tg:origin <http://localhost:8000/resource/A_group_of_Hobbits> ;
+    tg:skin "Browner than the other Hobbits"@en .
+
+<http://localhost:8000/resource/Hobbits> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Host_of_the_West_%28Arnor%29> ;
+    tg:caption <http://localhost:8000/resource/%22The_Landlord_of_the_Ivy_Bush%22_by_Kay_Woollard> ;
+    tg:distinctions <http://localhost:8000/resource/Gift_of_Men> ;
+    tg:hair <http://localhost:8000/resource/Typically_curly_brown%2C%3Cref_name_%3D_%22Letter_27%22%3E%7B%7BLE> ;
+    tg:height "2-4 ft or 0.6-1.2 m (often less than three feet in later days)"@en ;
+    tg:image "Kay Woollard - The Landlord of the Ivy Bush (retouched unfinished design).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Hobbitish_%28a_regional_dialect_of_Westron%29> ;
+    tg:lifespan "c. 96<ref name=\"LOTRProjectStats\">{{webcite|author=Emil Johansson|articleurl=http://lotrproject.com/statistics/#lifeexpectancy|articlename=Lord of the Rings in Statistics|website=[http://lotrproject.com/ Lord of the Rings Project]|accessed=09-September-2012}}</ref>"@en ;
+    tg:location <http://localhost:8000/resource/The_Shire%2C_Buckland%2C_Bree-land> ;
+    tg:members <http://localhost:8000/resource/Marcho_and_Blanco%2C_Sm%C3%A9agol%2C_Bandobras_Took%2C_Bilbo_Baggins%2C_Frodo_Baggins> ;
+    tg:name "Hobbits"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27C%C5%ABbugin%27%27_%28Westron> ;
+    tg:skin "Nut-brown to white"@en .
+
+<http://localhost:8000/resource/Iathrim> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22The_royal_court_of_Thingol%22_by_%3ACategory%3AImages_by_Steamey> ;
+    tg:image "Steamey - The royal court of Thingol.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Doriathrin> ;
+    tg:lifespan "immortal"@en ;
+    tg:location <http://localhost:8000/resource/Doriath> ;
+    tg:members <http://localhost:8000/resource/Amd%C3%ADr%2C_Amroth> ;
+    tg:name "Iathrim"@en ;
+    tg:origin <http://localhost:8000/resource/Teleri_and_Green-elves> ;
+    tg:othernames "Elves of Doriath"@en .
+
+<http://localhost:8000/resource/Lake-men> a schema:Person ;
+    tg:caption "\"Lake-Town Merchants\" by Turner Mohan"@en ;
+    tg:image "Turner Mohan - Lake-Town Merchants.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Language_of_Dale%2C_Westron> ;
+    tg:lifespan "shorter than Númenórean"@en ;
+    tg:location <http://localhost:8000/resource/Lake-town> ;
+    tg:members <http://localhost:8000/resource/Bard%2C_Master_of_Lake-town> ;
+    tg:name "Lake-men"@en ;
+    tg:origin <http://localhost:8000/resource/Northmen_and_Men_of_Dale> .
+
+<http://localhost:8000/resource/Lossoth> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3ALiz_Danforth_-_Lossoth.jpg> ;
+    tg:distinctions <http://localhost:8000/resource/Primitive_culture_adapted_to_the_cold_climate_of_the_Northern_Waste> ;
+    tg:image "Liz Danforth - Lossoth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron%3Cbr/%3ELanguage_of_the_Lossoth%7B%7BFact%7D%7D> ;
+    tg:lifespan "Shorter than Númenórean"@en ;
+    tg:location <http://localhost:8000/resource/Cape_of_Forochel%2C_occasionally_northern_Blue_Mountains> ;
+    tg:name "Lossoth"@en ;
+    tg:origin <http://localhost:8000/resource/Descendants_of_the_Forodwaith_%28people%29> ;
+    tg:othernames "Snowmen"@en .
+
+<http://localhost:8000/resource/Maiar> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22Osse_and_Uinen%22_by_%3ACategory%3AImages_by_Kimberly> ;
+    tg:distinctions "Emitting fragrance or stench when invisible"@en ;
+    tg:image "Kimberly - Osse and Uinen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Valarin%2C_Quenya%2C_Sindarin%2C_Black_Speech%2C_Westron> ;
+    tg:lifespan <http://localhost:8000/resource/Immortality> ;
+    tg:location <http://localhost:8000/resource/Aman%2C_Middle-earth> ;
+    tg:members <http://localhost:8000/resource/E%C3%B6nw%C3%AB%2C_Ilmar%C3%AB%2C_Oss%C3%AB%2C_Uinen%2C_Sauron%2C_Gandalf%2C_Balrogs%2C_Melian> ;
+    tg:name "Maiar"@en ;
+    tg:origin <http://localhost:8000/resource/Creation_of_the_Ainur> ;
+    tg:othernames "the Beautiful, the Folk of the Valar"@en ;
+    tg:pronun "ˈmaɪ.ar"@en .
+
+<http://localhost:8000/resource/Men_of_Bree> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AJohn_Howe_-_Barliman_Butterbur.jpg> ;
+    tg:distinctions <http://localhost:8000/resource/Cohabitation_with_the_Hobbits> ;
+    tg:hair "Generally brown"@en ;
+    tg:image "John Howe - Barliman Butterbur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/Bree-land> ;
+    tg:members <http://localhost:8000/resource/Barliman_Butterbur%2C_Bill_Ferny%2C_Mat_Heathertoes%2C_Tom_Pickthorn%2C_Rowlie_Appledore> ;
+    tg:name "Men of Bree"@en .
+
+<http://localhost:8000/resource/Men_of_Dale> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Dwarves_of_Erebor> ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3AEric_David_Anderson_-_Men_of_Dale.jpg> ;
+    tg:image "Eric David Anderson - Men of Dale.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/language_of_Dale%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Dale%2C_Esgaroth> ;
+    tg:members <http://localhost:8000/resource/Girion%2C_Bardings_%28Bard%2C_Brand%29> ;
+    tg:name "Men of Dale"@en ;
+    tg:origin <http://localhost:8000/resource/Northmen> ;
+    tg:othernames "Dale-men, Bardings"@en .
+
+<http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Faithful%2C_King%27s_Men%2C_Realms_in_Exile%2C_Last_Alliance_of_Elves_and_Men> ;
+    tg:caption <http://localhost:8000/resource/%22Ar-Pharaz%C3%B4n%22_by_%3ACategory%3AImages_by_Steamey> ;
+    tg:distinctions <http://localhost:8000/resource/The_mightiest_of_Men_in_both_nobility_and_body> ;
+    tg:height "Tall, typically 7 feet.<ref name=Dwarves>{{PM|X}}</ref>"@en ;
+    tg:image "Steamey - Ar-Pharazôn.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_N%C3%BAmen%C3%B3rean_Sindarin%2C_Quenya> ;
+    tg:lifespan <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans_-_c._200%2B_years%3Cref_name%3DLine%3E%7B%7BUT> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor%2C_Eriador%2C_Harad%2C_Umbar%2C_Pelargir%2C_later_Arnor_and_Gondor> ;
+    tg:members <http://localhost:8000/resource/Elros%2C_Tar-Aldarion%2C_Ar-Pharaz%C3%B4n%2C_Elendil%2C_Isildur> ;
+    tg:name "Númenóreans"@en ;
+    tg:origin <http://localhost:8000/resource/Edain_of_Beleriand_granted_a_new_homeland_by_the_Valar_after_the_War_of_Wrath> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ad%C3%BBn%C3%A2i%27%27_%28Ad%C3%BBnaic> ;
+    tg:pronun "{{respell|noo|meh|noh|reh-ans}}"@en ;
+    tg:rivalry <http://localhost:8000/resource/Sauron> ;
+    tg:weapons "Bows<ref name=Description>{{UT|3}}, p. 170</ref>"@en .
+
+<http://localhost:8000/resource/Nandor> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3ARob_Alexander_-_Elven_Cloak.jpg> ;
+    tg:distinctions "Secretive, lovers of the forests and animals"@en ;
+    tg:hair "Usually dark"@en ;
+    tg:height "Tall"@en ;
+    tg:image "Rob Alexander - Elven Cloak.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Nandorin%2C_Silvan_Elvish%2C_Sindarin%2C_Westron> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Ossiriand%2C_Lindon%2C_Eriador%2C_Lothl%C3%B3rien%2C_Greenwood_the_Great%2C_Belfalas%2C_Ithilien%2C_Mouths_of_Anduin> ;
+    tg:members <http://localhost:8000/resource/Lenw%C3%AB%2C_Denethor_%28Nando%29> ;
+    tg:name "Nandor"@en ;
+    tg:origin <http://localhost:8000/resource/Teleri_who_turned_aside_from_the_Great_Journey_east_of_the_Misty_Mountains> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:skin "White"@en .
+
+<http://localhost:8000/resource/Oathbreakers> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Gondorians> ;
+    tg:caption <http://localhost:8000/resource/%22The_King_of_the_Oathbreakers%22_by_Ted_Nasmith> ;
+    tg:image "Ted Nasmith - The King of the Oathbreakers.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron> ;
+    tg:location <http://localhost:8000/resource/Paths_of_the_Dead%2C_Dwimorberg%2C_White_Mountains> ;
+    tg:members <http://localhost:8000/resource/King_of_the_Dead> ;
+    tg:name "Oathbreakers"@en ;
+    tg:origin <http://localhost:8000/resource/Pre-N%C3%BAmen%C3%B3reans> ;
+    tg:othernames <http://localhost:8000/resource/Men_of_the_Mountains%2C_Dead_Men_of_Dunharrow%2C_Sleepless_Dead%2C_Grey_Host%2C_Shadow_Host%2C_Shadow-men%2C_Shadows%2C_the_Dead%2C_forgotten_people> .
+
+<http://localhost:8000/resource/Orcs_of_Mordor> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Sauron> ;
+    tg:caption <http://localhost:8000/resource/John_Howe_-_%27%27Orcs_of_the_Red_Eye%27%27> ;
+    tg:image "John Howe - Orcs of the Red Eye.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Orcish_dialects> ;
+    tg:location <http://localhost:8000/resource/Mordor%2C_Minas_Morgul> ;
+    tg:members <http://localhost:8000/resource/Grishn%C3%A1kh%2C_Snaga_%28orc_of_Mordor%29> ;
+    tg:name "Orcs of Mordor"@en ;
+    tg:origin <http://localhost:8000/resource/A_mix_of_Orcs_bred_by_Sauron_and_Orcs_of_Morgoth_who_fled_the_War_of_Wrath> ;
+    tg:othernames "Mordor-orcs"@en ;
+    tg:rivalry <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans%2C_Noldor%2C_Gondorians> .
+
+<http://localhost:8000/resource/Petty-dwarves> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22Petty_dwarves%22_by_Angus_McBride> ;
+    tg:distinctions <http://localhost:8000/resource/Smaller%2C_far_more_unsociable%2C_freely_gave_away_their_Khuzdul_names> ;
+    tg:height "Shorter than the other Dwarves"@en ;
+    tg:image "Angus McBride - Petty dwarves.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Dwelt_at_one_time_at_Nulukkizd%C3%AEn_in_the_Caverns_of_Narog%2C_and_latterly_at_Bar-en-Nibin-noeg_on_Amon_R%C3%BBdh> ;
+    tg:members <http://localhost:8000/resource/M%C3%AEm%2C_Ibun%2C_Kh%C3%AEm> ;
+    tg:name "Petty-dwarves"@en ;
+    tg:origin <http://localhost:8000/resource/Exiles_from_the_eastern_Dwarf_realms> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Levain_tad-dail%27%27%2C_%27%27Nibin-Nogrim%27%27_%28Sindarin> ;
+    tg:rivalry <http://localhost:8000/resource/Elves%3B_especially_Noldor> .
+
+<http://localhost:8000/resource/Vanyar> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Host_of_the_Valar> ;
+    tg:caption <http://localhost:8000/resource/%22Indis_of_the_Vanyar%22_by_Marya_Filatova> ;
+    tg:distinctions <http://localhost:8000/resource/Gifted_in_poetry_and_song._Loved_by_Manw%C3%AB_and_Varda> ;
+    tg:hair "Usually golden"@en ;
+    tg:height "Tall"@en ;
+    tg:image "Marya Filatova - Indis of the Vanyar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Quenya_%28Vanyarin_dialect%29> ;
+    tg:lifespan <http://localhost:8000/resource/Immortal> ;
+    tg:location <http://localhost:8000/resource/Oioloss%C3%AB%3B_Valimar> ;
+    tg:members <http://localhost:8000/resource/Imin%2C_Iminy%C3%AB%2C_Ingw%C3%AB%2C_Indis%2C_Elemm%C3%ADr%C3%AB_%28Elf%29> ;
+    tg:name "Vanyar"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Minyar%27%27_%28Quenya> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:skin "Pale"@en .
+
+<http://localhost:8000/resource/Dunlendings> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Sauron%2C_Saruman> ;
+    tg:caption <http://localhost:8000/resource/%22Men_of_Dunland%22_by_%3ACategory%3AImages_by_Turner_Mohan> ;
+    tg:hair "Dark"@en ;
+    tg:image "Turner Mohan - Men of Dunland.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Dunlendish%3B_some_could_speak_%22broken%22_Westron.%3Cref%3E%7B%7BApp> ;
+    tg:location <http://localhost:8000/resource/Dunland> ;
+    tg:members <http://localhost:8000/resource/Freca%2C_Wulf%2C_Squint-eyed_southerner> ;
+    tg:name "Dunlendings"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Gwathuirim%27%27_%28Sindarin> ;
+    tg:rivalry <http://localhost:8000/resource/Rohirrim> ;
+    tg:skin "Dark"@en .
+
+<http://localhost:8000/resource/Dwarves_of_Erebor> a schema:Person ;
+    tg:height "Five feet or less"@en ;
+    tg:image "David T. Wenzel - Erebor trade.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Khuzdul%2C_Westron> ;
+    tg:lifespan "c. 250 years"@en ;
+    tg:location <http://localhost:8000/resource/Lonely_Mountain> ;
+    tg:members <http://localhost:8000/resource/Gimli%2C_Thorin> ;
+    tg:name "Dwarves of Erebor"@en ;
+    tg:origin <http://localhost:8000/resource/Durin%27s_Folk> ;
+    tg:rivalry <http://localhost:8000/resource/Orcs%2C_Smaug> .
+
+<http://localhost:8000/resource/Noldor> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Union_of_Maedhros%2C_Host_of_the_West%2C_Last_Alliance%2C_Gwaith-i-Mirdain%2C_White_Council> ;
+    tg:caption <http://localhost:8000/resource/%22The_Coming_of_Fingolfin%22_by_Jenny_Dolfen> ;
+    tg:distinctions "The greatest of the Elves in lore, craftsmanship, and warfare"@en ;
+    tg:hair "Usually dark (black or dark brown).<ref name=\"Eyes\">{{PM|XINotes}}, Note 19, p. 357</ref> Occasionally golden,<ref>{{App|F2}}</ref><ref>{{PE|17}}, entry Q ''noldo'', p. 125</ref> and rarely silver<ref name=\"HairEye\">{{MR|P3I6}}, p. 185</ref> or reddish brown.<ref name=Sons>{{PM|Feanor}}, p. 353</ref>"@en ;
+    tg:height "Tall, typically 7 feet<ref>{{PM|Atani}}</ref>"@en ;
+    tg:image "Jenny Dolfen - The Coming of Fingolfin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Sindarin%2C_Westron> ;
+    tg:lifespan <http://localhost:8000/resource/Immortal> ;
+    tg:location <http://localhost:8000/resource/Tirion%2C_Formenos%2C_Nevrast%2C_Hithlum%2C_Gondolin%2C_Nargothrond%2C_Dorthonion%2C_East_Beleriand%2C_Lindon%2C_Eregion%2C_Lothl%C3%B3rien%2C_Imladris> ;
+    tg:members <http://localhost:8000/resource/Notable_members_include_Finw%C3%AB%2C_F%C3%ABanor%2C_Fingolfin%2C_Finarfin%2C_Maedhros%2C_Fingon%2C_Turgon%2C_Finrod%2C_Galadriel%2C_Gil-galad%2C_Celebrimbor%2C_Glorfindel%2C_among_others.> ;
+    tg:name "Noldor"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Tatyar%27%27_%28Quenya> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:skin "Fair"@en ;
+    tg:weapons "Often swords and shields"@en .
+
+<http://localhost:8000/resource/Rohirrim> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Gondorians> ;
+    tg:caption <http://localhost:8000/resource/%22The_Riders_of_Rohan%22_by_Turner_Mohan> ;
+    tg:distinctions "Horse-masters"@en ;
+    tg:hair "Mostly blond"@en ;
+    tg:height "Tall"@en ;
+    tg:image "Turner Mohan - The Riders of Rohan.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Rohanese_and_Westron> ;
+    tg:lifespan "c. 70-80 years"@en ;
+    tg:location <http://localhost:8000/resource/Rohan> ;
+    tg:members <http://localhost:8000/resource/Eorl%2C_Helm%2C_Th%C3%A9oden%2C_%C3%89omer%2C_%C3%89owyn> ;
+    tg:name "Rohirrim"@en ;
+    tg:origin <http://localhost:8000/resource/%C3%89oth%C3%A9od%2C_Northmen> ;
+    tg:rivalry <http://localhost:8000/resource/Dunlendings> ;
+    tg:skin "White"@en .
+
+<http://localhost:8000/resource/Silvan_Elves> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> ;
+    tg:caption <http://localhost:8000/resource/%22Wood-Elves%22_by_Kay_Woollard> ;
+    tg:distinctions <http://localhost:8000/resource/Secretive%2C_lovers_of_the_forests_and_animals%2C_less_wise_and_more_dangerous_than_other_Eldar> ;
+    tg:image "Kay Woollard - Wood-Elves.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Silvan_Elvish%2C_Sindarin%2C_Westron> ;
+    tg:lifespan "Immortal"@en ;
+    tg:location <http://localhost:8000/resource/Lothl%C3%B3rien%2C_Greenwood_the_Great%2C_Ithilien%2C_Edhellond%2C_Belfalas> ;
+    tg:members <http://localhost:8000/resource/Nimrodel%2C_Mithrellas%2C_Galion%2C_Haldir%2C_R%C3%BAmil_%28Elf_of_L%C3%B3rien%29> ;
+    tg:name "Silvan Elves"@en ;
+    tg:origin <http://localhost:8000/resource/Nandor_who_remained_in_the_woodlands_of_the_Vales_of_Anduin> ;
+    tg:othernames <http://localhost:8000/resource/Wood-elves%2C_%27%27Tawarwaith%27%27_%28Sindarin> ;
+    tg:rivalry <http://localhost:8000/resource/Dwarves> .
+
+<http://localhost:8000/resource/Northmen> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Alliance_of_Dwarves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:caption "\"Men of Northern Rhovanion\" by Angelo Montanini"@en ;
+    tg:hair "Golden"@en ;
+    tg:height "Tall"@en ;
+    tg:image "Angelo Montanini - Men of Northern Rhovanion.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Northern_Mannish> ;
+    tg:location <http://localhost:8000/resource/Throughout_Rhovanion%3B_a_Rohirrim> ;
+    tg:members <http://localhost:8000/resource/Marhwini%2C_Fram%2C_Beorn%2C_Grimbeorn%2C_Girion%2C_Bard%2C_Brand%2C_Master_of_Lake-town> ;
+    tg:name "Northmen"@en ;
+    tg:origin <http://localhost:8000/resource/Descended_from_the_Edain_or_from_their_close_kin> ;
+    tg:othernames "Men of the North (sometimes called the ''Free Men of the North''), Northmen of Rhovanion"@en ;
+    tg:rivalry <http://localhost:8000/resource/Easterlings%2C_Orcs> ;
+    tg:skin "Fair"@en .
+
+<http://localhost:8000/resource/Gondorians> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men%2C_Host_of_the_West_%28Arnor%29> ;
+    tg:caption <http://localhost:8000/resource/%22%3AFile%3ALiz_Danforth_-_Gondorian.jpg> ;
+    tg:image "Liz Danforth - Gondorian.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/people_infobox> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin%2C_Quenya> ;
+    tg:lifespan <http://localhost:8000/resource/%27%27%23Lifespan> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:members <http://localhost:8000/resource/Denethor%2C_Boromir%2C_Faramir%2C_Imrahil%2C_Borondir> ;
+    tg:name "Gondorians"@en ;
+    tg:origin <http://localhost:8000/resource/Descendants_of_the_N%C3%BAmen%C3%B3reans_in_Gondor%3Cref_group%3D%22note%22%3EGondorians_are_descended_from_a_mixture_of_N%C3%BAmen%C3%B3reans_and_non-N%C3%BAmen%C3%B3reans%3B_namely_Northmen_refugees_from_Rhovanion_and_indigenous_Men_of_the_Mountains.%3C/ref%3E%3Cref%3E%7B%7BL> ;
+    tg:othernames "Men of Gondor, Stone-folk, Stonehouse-folk"@en ;
+    tg:rivalry <http://localhost:8000/resource/Black_N%C3%BAmen%C3%B3reans%2C_Corsairs_of_Umbar%2C_Easterlings%2C_Haradrim> .
+

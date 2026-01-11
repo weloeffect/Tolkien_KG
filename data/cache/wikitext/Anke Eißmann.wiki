@@ -1,0 +1,87 @@
+{{artist infobox
+| image=Anke Eißmann.jpg
+| name=Anke Katrin Eißmann
+| born=[[1977]] in Dillenburg, Germany
+| died=
+| style=
+| images=[[:Category:Images by Anke Eißmann|Images by Anke Eißmann]]
+| location=Weimar, Germany
+| website=anke.edoras-art.de
+}}
+'''Anke Katrin Eißmann''' (born [[1977]]) is a German artist and teacher. 
+==History==
+Eißmann was introduced to the world of [[J.R.R. Tolkien]] in [[1991]], after watching [[The Lord of the Rings (1978 film)|the Ralph Bakshi animated film]]. She studied Visual Communication at the [[Wikipedia:Bauhaus University|Bauhaus University]] in [[Wikipedia:Weimar|Weimar]] and Art & Design at [[wikipedia:Colchester Institute|Colchester Institute]].<ref name=about >[http://anke.edoras-art.de/anke_about.html about Anke] at anke.edoras-art.de (accessed 29 May 2023)</ref> Her work had been popular on the Internet for some time when she was asked to attend [[Tolkien 2005]],<ref>[https://web.archive.org/web/20100314221855/http://www.tolkien-buecher.de/en/anke-eissmann.html Interview with Anke Eißmann from November 2009], available at the ''Internet Archive'' (accessed 29 May 2023)</ref> filling an artists' panel with [[Alan Lee]] and [[Ted Nasmith]]. That same year, her art was used in ''[[Ringers: Lord of the Fans]]''. She has since sat on the artists' panel at [[The Return of the Ring]] and [[Tolkien 2019]].<ref>[https://www.youtube.com/watch?v=XwczPh9pUM4&ab_channel=TheTolkienSociety Illustrating Tolkien Panel] on [[The Tolkien Society]]'s YouTube channel</ref> Currently, she works as an art teacher for Gymnasien (german secondary schools)<ref name=about /> and is on the editorial team of ''Der Flammifer von Westernis'', the [[German Tolkien Society]]'s bi-yearly magazine.<ref>[https://www.tolkiengesellschaft.de/der-verein/vereinspublikationen/flammifer-von-westernis/ Der Flammifer von Westernis] on TolkienGesellschaft.de (accessed 20 June 2023)</ref>
+
+==Bibliography==
+* [[2009]]: ''[[Beowulf and the Dragon]]''
+
+==Published artwork==
+===Cover art===
+* [[2004]]: ''[[Hither Shore 1]]''
+* [[2005]]: ''[[Hither Shore 2]]''
+* [[2006]]: ''[[Hither Shore 3]]''
+* [[2006]]: ''[[Tolkien's The Lord of the Rings – Sources of Inspiration]]''
+* [[2007]]: ''[[Hither Shore 4]]
+* [[2008]]: ''[[Hither Shore 5]]
+* [[2009]]: ''[[Beowulf and the Dragon]]''
+* [[2009]]: ''[[Hither Shore 6]]''
+* [[2010]]: ''[[Music in Middle-earth]]''
+* [[2010]]: ''[[Music in Tolkien's Work and Beyond]]''
+* [[2010]]: ''[[Hither Shore 7]]''
+* [[2011]]: ''[[Hither Shore 8]]''
+* [[2012]]: ''[[Sub-creating Middle-earth]]''
+* [[2012]]: ''[[Hither Shore 9]]''
+* [[2013]]: ''[[O What a Tangled Web]]''
+* [[2013]]: ''[[Hither Shore 10]]''
+* [[2014]]: ''[[From Peterborough to Faëry]]''
+* [[2014]]: ''[[Hither Shore 11]]''
+* [[2014]]: ''[[Tolkien and Philosophy]]''
+* [[2015]]: ''[[Hither Shore 12]]''
+* [[2016]]: ''[[Hither Shore 13]]''
+* [[2017]]: ''[[Hither Shore 14]]''
+* [[2018]]: ''[[Hither Shore 15]]''
+* [[2019]]: ''[[Hither Shore 16]]''
+* [[2020]]: ''[[Hither Shore 17]]''
+* [[2021]]: ''[[Hither Shore 18]]''
+* [[2022]]: ''[[Dragón Verde 13]]''
+* [[2024]]: ''[[Germanic Heroes, Courage, and Fate]]''
+
+===Featured===
+* [[2010]]: ''[[Silver Leaves 3]]''
+* [[2014]]: ''[[Mallorn 55]]''
+* [[2014]]: ''[[Other Minds 14]]''
+* [[2015]]: ''[[Mallorn 56]]''
+* [[2015]]: ''[[Other Minds 15]]''
+* [[2016]]: ''[[Mallorn 57]]''
+* [[2016]]: ''[[Other Minds 16]]''
+* [[2017]]: ''[[Other Minds 17]]''
+* [[2018]]: ''[[Other Minds 19]]''
+* [[2019]]: ''[[Other Minds 20]]''
+* [[2019]]: ''[[Mallorn 61]]''
+* [[2019]]: ''[[Other Minds 21]]''
+* [[2020]]: ''[[Other Minds 22]]''
+* [[2020]]: ''[[Other Minds 23]]''
+* [[2021]]: ''[[Other Minds 24]]''
+* [[2022]]: ''[[Beyond Bree]] Calendar''
+* [[2023]]: ''[[Beyond Bree]] Calendar''
+
+==External links==
+*'''[http://anke.edoras-art.de/anke_home.html Official Website]'''
+*[https://khorazirart.wordpress.com/ Khorazi Art]
+*{{WP|Anke Eißmann}}
+===Interviews===
+*[https://tolkienlibrary.com/press/932-interview-with-anke-eissmann.php Interview by André Gand] at TolkienLibrary.com, also available at the [https://web.archive.org/web/20100314221855/http://www.tolkien-buecher.de/en/anke-eissmann.html Internet Archive] (November 2010) 
+*[https://www.tolkienguide.com/modules/wiwimod/index.php?page=Anke+Interview Interview with TolkienGuide] (2020?)
+*[https://luke-shelton.com/2020/10/09/tep-21-anke-eissmann/ Episode 21] of [[The Tolkien Experience| The Tolkien Experience Podcast]] (October 2020)
+*[https://issuu.com/sociedadtolkiencolombiaorodruin/docs/drag_n_verde_13_edici_n_septiembre_2022 La acuarela que todo lo ve: Entrevista con Anke Eismann] in ''Dragón Verde 13'' p.&nbsp;8-10 (September 2022)
+{{references}}
+
+
+
+{{DEFAULTSORT:Eissmann, Anke}}
+[[Category:Artists]]
+[[Category:German people]]
+[[Category:People by name]]
+[[Category:Tolkien Society members]]
+[[de:Anke Eißmann]]
+[[fi:Anke Eißmann]]

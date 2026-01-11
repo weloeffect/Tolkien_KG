@@ -1,0 +1,32 @@
+{{disambig-two|the poem|titular region|[[Araman|Eruman]]}}
+{{Poem infobox
+| title=Eruman beneath the Stars
+| other names=''Habbanan beneath the Stars'',<br>''Þā Ȝebletsode Feldá under þām Steorrum'',<br>''paā gebletsode felda under paām steorrum''
+| written=June [[1916]]
+| revised=[[1924]]
+| published=''[[The Book of Lost Tales Part One]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Eruman]], [[Men]], [[Gift of Ilúvatar|Death]], ''[[manimuine]]''
+}}
+'''''Eruman beneath the Stars''''', also known as '''''paā gebletsode felda under paām steorrum''''', is a poem that was written by [[J.R.R. Tolkien]] concerning the region of [[Eruman]] and the fate of [[Men]] after death in the early version of the [[legendarium]].<ref name=background>{{LT1|IIIn}}, pp. 91-3</ref>
+
+== First stanza ==
+‘Now Eruman is that region where one draws nigh to the places that are not of men. There is the air very sweet and the sky very great by reason of the broadness of the Earth — ’
+<poem style="font-style:italic; margin-left:20px;">
+In Eruman beneath the Stars,
+Where all roads end however long,
+There is a sound of faint guitars
+And distant echoes of a song;
+For there men gather into rings
+Round their red fires, while one voice sings —
+And all about is night.<ref name=collectedpoems>{{CP|45}}</ref></poem>
+
+== Background ==
+Tolkien first<ref name=guide>{{CG|2RGI}}, entry ''Habbanan beneath the Stars''</ref> wrote the poem in June of [[1916]] at [[Wikipedia:Étaples|Étaples]], [[Wikipedia:France|France]]<ref name=guide/> based on his time<ref name=collectedpoems/> at [[Wikipedia:Brocton, Staffordshire|Brocton Camp]], [[Wikipedia:Staffordshire|Staffordshire]] in December of [[1915]]. The first two versions of the poem were entitled '''''Habbanan beneath the Stars''''' before Tolkien lightly<ref name=collectedpoems/> emended ''Habbanan'' to ''Eruman'' in pencil<ref name=collectedpoems/>. In the first<ref name=collectedpoems/> version of the poem, Tolkien inscribed '''''Þā Ȝebletsode Feldá under þām Steorrum'''''<ref name=collectedpoems/> ("The Blessed Fields under the Stars")<ref name=collectedpoems/> or ''paā gebletsode felda under paām steorrum'' in [[Old English]]. In [[1924]],<ref name=collectedpoems/> Tolkien made a typescript<ref name=collectedpoems/> of the poem which he named ''Eruman beneath the Stars''. All three versions<ref name=collectedpoems/> contain a short prose introduction that offers a glimpse into the early conception of the afterlife, where Eruman would be the [[Wikipedia:Purgatory|Purgatory]].<ref name=background/>
+
+The first version of the poem was published by [[Christopher Tolkien]] in ''[[The Book of Lost Tales Part One]]''.<ref name=background/> In [[2024]], the other versions of the poem were first published in September as entry 45 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Book of Lost Tales]]

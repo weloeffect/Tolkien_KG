@@ -1,0 +1,23 @@
+{{battle
+|name = Battle of the Peak
+|image = Ted Nasmith - Gandalf and the Balrog Upon Celebdil.jpg
+|conflict = 
+|date = 25 January {{TA|3019}}
+|place = [[Celebdil]]
+|result = Death of [[Durin's Bane]] and [[Gandalf|Gandalf the Grey]]
+|side1 = [[Gandalf|Gandalf the Grey]]
+|side2 = [[Durin's Bane]]
+|commanders1 = 
+|commanders2 = 
+|forces1 = 
+|forces2 = 
+|casual1 = [[Gandalf|Gandalf the Grey]]
+|casual2 = [[Durin's Bane]]
+}}
+{{Quote|...Those that looked up from afar thought that the mountain was crowned with storm. Thunder they heard, and lightning, they said, smote upon Celebdil, and leaped back broken into tongues of fire.|''[[The Two Towers]]'', "[[The White Rider]]"}} 
+The '''Battle of the Peak''' was [[Gandalf|Gandalf's]] name for his climactic battle with the [[Balrogs|Balrog]] known as [[Durin's Bane]], on the peak of the mountain called [[Celebdil|Silvertine]].
+
+Gandalf pursued the Balrog from the deepests dungeons of [[Moria]] to [[Durin's Tower]], climbing through the whole [[Endless Stair]].<ref name="White">{{TT|III5}}, p. 502</ref> On the peak they fought for three days and two nights from [[23 January|23]] to [[25 January]] {{TA|3019}}.<ref>{{App|Great}}, p. 1092</ref> During the battle, the Tower was destroyed and the entrance to the Stair was blocked. In the end, the Balrog was cast down and it broke the mountain-side as it fell. Gandalf himself died following this ordeal, but was later sent back to [[Middle-earth]] with even greater powers as Gandalf the White.<ref name="White"/>
+{{References}}
+[[Category:Conflicts of the Third Age]]
+[[fi:Ylhäinen taistelu]]

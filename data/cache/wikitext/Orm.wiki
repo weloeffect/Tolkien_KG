@@ -1,0 +1,45 @@
+{{expansion}}
+{{anglosaxon infobox
+| name=Orm
+| image=
+| caption=
+| people=[[wikipedia:Vikings|Viking]]
+| pronun=
+| othernames=
+| titles=
+| position=[[Mariners|Sea-captain]]
+| location=[[Ponórir|i·Ponōrir]]
+| affiliation=[[Forodwaith]]
+| language=[[wikipedia:Old Norse|Old Norse]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Orm''' was a sea-captain of the [[Forodwaith]] of [[Ponórir|i·Ponōrir]] in an earlier version of [[J.R.R. Tolkien]]'s [[legendarium]] according to ''[[The Book of Lost Tales]]''.<ref name=history>{{LT2|VIb}}, p. 318</ref>
+
+==History==
+Orm led a group of Forodwaith in the siege of [[Kortirion]], a city located in [[Leithian]]. During an assault, he killed the father of [[Ælfwine]], [[Déor (father of Ælfwine)|Déor]], who was leading a "desperate sally" defending the city.<ref name=history/>
+
+{{references}}
+
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Mariners]]
+[[Category:Men]]
+[[Category:Rulers in the Great Lands]]

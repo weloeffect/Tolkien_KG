@@ -1,0 +1,46 @@
+{{journal
+| title=Other Minds 14
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=March [[2014]]
+| format=PDF
+| pages=235
+| issn=
+}}
+
+'''''Other Minds'' 14''' is the fourteenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in March 2014.
+
+==Contents==
+* "Editorial: It's a Long Way..."
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Mounted Combat in The One Ring"
+** By Paul Kirk
+* "Introduction to The Lord of the Rings tabletop"
+** By Olaf Anguera
+* "The Waters of Awakening and the Sleep of Yavanna"
+** By Daniel Vacaflores
+* "Adventures in Cuiviénen: The Awakening of the Elves"
+** By Daniel Vacaflores
+* "Hope and Shadow"
+** By Thomas Morwinsky
+* "Role-playing on the Dark Side"
+** By Severin, Isildur's Heir
+* "A Hope Unforeseen - Men from Drúwaith Iaur (part 1)"
+** By Daniel Bayarri Martinez
+* "Marhathiuda - The Horsefolk of Northern Rhovanion"
+** By Paul Kirk
+* "Demographics of Rhovanion in the Third Age"
+** By Thomas Morwinsky
+
+*'''Artwork / Maps:'''
+** By: Onur Bakar, Daniel Bayarri Martinez, Pablo Bayarri Martinez, Matej Cadil, Andres Canals, Katherine Carina Chmiel-Gugulska, Jenny Dolfen, Anke Eissmann, Olanda Fong-Surdenas, [[John Howe]], Pierre Joubert, KardisArt, Olga Kukhtenkova, Stefan Meisl, Turner Mohan, Thomas Morwinsky, [[Ted Nasmith]], Abe Papakhian, Jan Pospisil, Tara Rueping, Tim Söhrich, Danik Yaeoslav Tomyn, Tuuliky, Daniel Vacaflores, Hank Wolf
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 14}}
+[[Category:Other Minds]]

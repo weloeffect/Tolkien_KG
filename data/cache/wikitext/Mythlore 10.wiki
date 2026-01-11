@@ -1,0 +1,48 @@
+{{mythlore
+|title=Mythlore 10: The J.R.R. Tolkien Memorial Issue
+| image = Mythlore_10.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=[[1975]]
+|format=Paperback
+|pages=35
+}}
+'''''Mythlore'' 10''' ([https://dc.swosu.edu/mythlore/vol3/iss2/ Volume 3, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]]. It is the same as ''[[Tolkien Journal]]'' issue 17.<ref>[https://www.mythsoc.org/mythlore/mythlore-10.htm Mythlore 10] at [http://www.mythsoc.org/ Mythsoc.org] (accessed 30 December 2011)</ref>
+
+[[Glen GoodKnight]]'s article "Death and the Desire for Deathlessness: The Counsel of Elrond" contains a [[Letter to Herbert Schiro|letter dated 17 November 1957 to Dr. Herbert Schiro]] (p.&nbsp;19), in which [[J.R.R. Tolkien]] discusses allegory in ''[[The Lord of the Rings]]'' and argues that is about death and deathlessness, not power and dominion.<ref>[http://www.tolkienbooks.net/php/details.php?reference=61440 Mythlore 10. 1975] at [http://www.tolkienbooks.net/ TolkienBooks.net] (accessed 30 December 2011)</ref> This letter was later partially published in ''[[The Letters of J.R.R. Tolkien]]'' as [[Letter 203]].
+
+==Contents==
+====Articles====
+*Glover, Willis B. “The Christian Character of Tolkien’s Invented World.” 3-8.
+*In Tribute: “What J.R.R. Tolkien Means to Some of His Admirers.” 10+.
+*Basney, Lionel. “The Place of Myth in a Mythical Land: Two Notes (Converging).” 15-17.
+*Bisenicks, Dainis. “Power and Poetry in Middle-earth.” 20-24.
+*Christopher, Joe R. “A Note on an Unpublished (and Probably Unwritten) Collaboration.” 29.
+*Services in Oxford and Los Angeles. 30.
+*GoodKnight, Glen. The Counsel of Elrond: “Death and the Desire for Deathlessness.” 19.
+
+====Features====
+
+*Patterson, Nancy-Lou. “The Tree of Tales Grows Ever Green.” Review of ''[[Master of Middle-earth|Master of Middle Earth: The Fiction of J.R.R. Tolkien]]'' by [[Paul H. Kocher]]. 25-26.
+*Covey, Winton. “Der Herr Der Ringe.” Review of Der Herr der Ringe, translated by Margaret Carroux. 27.
+*Meskys, Ed. The Green Dragon. 28.
+*Missives to Mythlore. 31.
+
+====Art====
+
+*George Barr: 2
+
+*Lorne DeKun: 10
+*Steve Fabian: 9
+*Bonnie GoodKnight: 4, 5, 6, 7, 21, 22, 31
+*Annette Harper: 29, 32, 33, back cover
+*[[Tim Kirk]]: cover, 18
+*Barbara Mann: 25
+*[[Paula Marmor]]: 16, 17, 35
+*John Uhrumacher: 34
+*Cover: Tim Kirk, “Niggle seeing the Tree”
+{{mythlorenav|9|11}}
+{{References}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 010}}
+[[Category:Mythlore]]

@@ -1,0 +1,22 @@
+{{letter infobox
+| #=239
+| to=[[Alina Dadlez]],<ref name=G>{{CG|C}}</ref> at [[Allen and Unwin|Allen & Unwin]]
+| date=[[20 July]] [[1962]]
+| subject=Translations
+}}{{letter|239}}
+==Summary==
+Tolkien wrote to [[Alina Dadlez]] at [[Allen and Unwin|Allen & Unwin]] concerning the Spanish translation of ''[[The Hobbit]]''.  A point of concern for Tolkien was the use of ''gnomos'' as the translation of "[[Dwarves]]" and "[[Noldor|Gnomes]]". He explained that he originally connected the word ''[[wikipedia:gnome|gnome]]'' to Greek ''wisdom'', but abandoned it because of its more common use for ''pygmaeus'' ("pygmy"). 
+
+(The Spanish translation eventually used ''[[wiktionary:enanos|enanos]]'' for Dwarves; it is unknown whether the second suggestion was also followed.)
+
+;In the expanded edition
+In a previous paragraph Tolkien says he wished ''hobbit'' to remain untranslated, (to prevent another case such as the unauthorized Swedish translation ''Hompen'',) and that he would have agreed to use some naturalized forms such as ''hobitos'', (as with ''elfos'',) which is fortunate to match the Spanish diminutive suffix.
+
+==See also==
+*[[Letter to Alina Dadlez (20 July 1962)]]
+*[[Letter to Alina Dadlez (19 September 1962)]]
+
+{{references}}
+{{letters}}
+[[de:Brief 239]]
+[[Category:Letters to Alina Dadlez]]

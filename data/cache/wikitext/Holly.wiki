@@ -1,0 +1,15 @@
+{{plant infobox
+| name=Holly
+| image=
+| caption=
+| pronun=
+| othernames=
+| location=[[Middle-earth]], especially [[Hollin]]
+| notablefor=
+| family=''Aquifoliaceae''
+| appearance=Evergreen trees with spiny leaves
+}}
+'''Holly''' was a thorny evergreen species of ilex. In [[Middle-earth]], it was especially abundant in the land of [[Hollin]], which took its name from this tree.<ref>{{FR|II3}}</ref>  The [[Sindarin]] word for "holly" was ''[[ereg]]''.<ref>{{S|Appendix}}, ''ereg''</ref>
+
+{{references}}
+[[Category:Trees]]

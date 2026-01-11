@@ -1,0 +1,39 @@
+{{journal
+| title=Other Minds 9
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Neville Percy, Chris Seeman
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=February [[2010]]
+| format=PDF
+| pages=68
+| issn=
+}}
+
+'''''Other Minds'' 9''' is the ninth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in February 2010.
+
+==Contents==
+* "Editorial: The Dominion of Man"
+** By [[Thomas Morwinsky]]
+* "Inside Information"
+** By Thomas Morwinsky
+* "The Age of Sauron"
+** By Padraig Timmins
+* "The Heirs of Elessar and the Fourth Age"
+** By Thomas Morwinsky
+* "A Fourth Age Chronology"
+** By Tom Davie
+* "Religion in Angmar"
+** By Thomas Morwinsky
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Appendix A: Dúnadan lifespans in the Fourth Age"
+* "Appendix B: Alternative ending for 'The Heirs of Elessar and the Fourth Age'"
+* "Table of Contents: Other Minds Magazine, Issues 1-9"
+
+*'''Artwork / Maps:'''
+** By: [[Ted Nasmith]], Jan Pospisil, Chris Taylor
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 09}}
+[[Category:Other Minds]]

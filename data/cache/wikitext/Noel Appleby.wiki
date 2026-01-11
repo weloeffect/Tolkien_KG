@@ -1,0 +1,21 @@
+{{Actor
+| image =
+| name = Noel Appleby
+| lifetime = [[5 April]] [[1933]] - [[17 May]] [[2007]]
+| played = [[Everard Proudfoot]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''<br>''[[The Lord of the Rings: The Return of the King]]''
+| imdb = [https://www.imdb.com/name/nm0032370/ Profile]
+}}
+'''Noel Appleby''' was a New Zealand actor. He played [[Everard Proudfoot]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and ''[[The Lord of the Rings: The Return of the King]]''.
+
+In [[2007]], he and 14 other actors filed [https://us.imdb.com/news/ni0058227/ a lawsuit] against [[New Line Cinema]] over merchandising royalties,<ref>{{webcite|author=MrCere|articleurl=https://www.theonering.net/torwp/2007/06/01/23983-actors-join-to-sue-new-line-over-lotr-merchandising/|articlename=Actors join to sue New Line over LOTR merchandising|dated=1 June 2007|website=TORN|accessed=3 December 2024}}</ref> but he died before the court made its decision.
+
+{{References}}
+
+{{DEFAULTSORT:Appleby, Noel}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Noel Appleby]]

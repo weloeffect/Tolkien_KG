@@ -1,0 +1,35 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Colombo_Arditi> a schema:WebPage ;
+    rdfs:label "Colombo Arditi"@en ;
+    schema:about <http://localhost:8000/resource/Colombo_Arditi> .
+
+<http://localhost:8000/page/J.R._Titmass> a schema:WebPage ;
+    rdfs:label "J.R. Titmass"@en ;
+    schema:about <http://localhost:8000/resource/J.R._Titmass> .
+
+<http://localhost:8000/resource/Colombo_Arditi> a schema:Thing ;
+    tg:affiliation <http://localhost:8000/resource/The_Notion_Club> ;
+    tg:birth <http://localhost:8000/resource/1940> ;
+    tg:gender "Male"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/modernpeople_infobox> ;
+    tg:language <http://localhost:8000/resource/wikipedia%3AEnglish_language> ;
+    tg:name "Colombo Arditi"@en ;
+    tg:people <http://localhost:8000/resource/Men> ;
+    tg:position <http://localhost:8000/resource/Tempestosa_Professor_of_wikipedia%3AItalian_language> .
+
+<http://localhost:8000/resource/J.R._Titmass> a schema:Thing ;
+    tg:birth <http://localhost:8000/resource/Sometime_before_2012> ;
+    tg:birthlocation <http://localhost:8000/resource/Earth> ;
+    tg:death <http://localhost:8000/resource/Sometime_after_2014> ;
+    tg:gender "Male"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/modernpeople_infobox> ;
+    tg:language <http://localhost:8000/resource/wikipedia%3AEnglish_language> ;
+    tg:location <http://localhost:8000/resource/Oxford> ;
+    tg:name "J.R. Titmass"@en ;
+    tg:people <http://localhost:8000/resource/wikipedia%3AEnglish_people> ;
+    tg:position "Historian"@en ;
+    tg:titles "Historian of Oxford<ref>{{SD|Index2}}, entry for \"Titmass, J.R.\"</ref>"@en .
+

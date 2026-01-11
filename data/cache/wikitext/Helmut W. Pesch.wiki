@@ -1,0 +1,43 @@
+{{author infobox
+| image=
+| name=Helmut W. Pesch
+| born=[[30 August]], [[1952]]
+| died=
+| education=
+| occupation=Author, translator
+| location=
+| website=[http://www.helmutwpesch.de/ www.helmutwpesch.de]
+|}}
+
+'''Helmut W. Pesch''' (born [[August 30]], [[1952]]) is a German author, translator, editor, illustrator, philologist and literary scholar.
+
+==Biography==
+Helmut W. Pesch was born and raised in [[wikipedia:Mönchengladbach|Mönchengladbach]]. He studied English philology, history of art and archaeology in Cologne and later in Glasgow. In [[1981]], he completed his doctorate to become Doctor of Philosophy. His doctoral thesis, ''Fantasy - Theorie und Geschichte einer literarischen Gattung'' ("Fantasy - theory and history of a literary genre"), was the first German work about fantasy literature and was published in [[1982]]. 
+
+Between [[1984]] and [[1986]] he was subeditor for Science-Fiction and Fantasy at the German publishing company Bastei-Lübbe, since then he works there as editor for fiction. He is also a member of the Board of Academic Advisors for [[Walking Tree Publishers]].<ref>{{webcite|author=|articleurl=http://www.walking-tree.org/board_of_advisors.php|articlename=Walking Tree Publishers Board of Advisors|dated=|website=[http://www.walking-tree.org/ Walking Tree Publihers]|accessed=21 January 2012}}</ref>
+
+Pesch wrote some novels, inspired by mythological themes. During his research for fantasy and [[J.R.R. Tolkien]], Helmut W. Pesch published several essays and a critical anthology about Tolkien's stories and its inspirations. With his knowledge of [[Elvish]] languages, he wrote a two-part elvish-dictionary.
+
+Currently Pesch lives with his wife and his daughter near Cologne.
+
+==Bibliography==
+
+===Translations===
+
+*[[1991]]: [[The Lord of the Rings Appendices|Appendices]], [[Appendix E|Appendix E (I)]] (''Anhang E (I): Aussprache'', first published in the German edition of 1991)
+*[[2002]]: [[The Complete Guide to Middle-earth]] (''Das große Mittelerde-Lexikon'' (revised edition))
+*[[2007]]: [[The Children of Húrin]] (''Die Kinder Húrins'') (co-translator [[Hans J. Schütz]])
+*[[2008]]: [[The Road to Middle-earth]] (''Der Weg nach Mittelerde'')
+
+===Original Works===
+
+*[[1984]]: ''[[J. R. R. Tolkien: Der Mythenschöpfer]]'' (Anthology)
+*[[1994]]: ''[[Das Licht von Mittelerde]]'' (Collection of lectures and essays)
+*[[2001]]/[[2004]]: ''[[Elbisch-Wörterbuch]]'' and ''[[Elbisch - Lern- und Übungsaufgaben]]'' (Two-part elvish-dictionary with exercises)
+*[[2009]]: ''[[Das große Elbisch-Buch]]'' (Elvish-dictionary)
+{{References}}
+[[Category:Authors|Pesch, Helmut W.]]
+[[Category:Translators|Pesch, Helmut W.]]
+[[Category:German people|Pesch, Helmut W.]]
+[[Category:People by name|Pesch, Helmut W.]]
+[[de:Helmut W. Pesch]]

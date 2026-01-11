@@ -1,0 +1,29 @@
+{{Quote|Now it is a strange thing, but things that are good to have and days that are good to spend are soon told about, and not much to listen to; while things that are uncomfortable, palpitating, and even gruesome, may make a good tale, and take a deal of telling anyway.}}{{chapter
+|book=The Hobbit
+|name=A Short Rest
+|number=3
+|previous=Roast Mutton
+|next=Over Hill and Under Hill
+|image=J.R.R. Tolkien - Riding down into Rivendell.jpg
+|map=
+|events=[[Thorin and Company]] reach Rivendell. [[Elrond]] deciphers [[Thrór's Map]] and identifies their swords.
+|date=c. [[29 May]]—[[Midyear's Day]], {{TA|2941}}
+|location=[[Trollshaws]], [[Rivendell]]
+}}
+'''A Short Rest''' is the third chapter of ''[[The Hobbit]]''.
+
+==Synopsis==
+[[File:Ted Nasmith - Rivendell.jpg|thumb|left|The valley of Rivendell]]
+Following their ordeal with the three Trolls, the adventurers continued their journey eastward. As they came within (what they thought) a days journey to the feet of the [[Misty Mountains]], [[Bilbo Baggins|Bilbo]] asked "Is that ''The'' Mountain?". [[Balin]] explained that the Mountains ahead were merely one obstacle in the path towards the [[Lonely Mountain]].
+
+[[Gandalf]] informed the party that hidden somewhere before them was the valley of [[Rivendell]] and that he had told his Elf-friends to expect their arrival. Gandalf led the way on a path - it seems - he knew very well. Just as the Dwarves and Bilbo were growing anxious, they came across unexpected valleys. Gandalf continued to lead them and eventually they saw a fair valley far below them. Following a slippery journey down a zigzag path they entered Rivendell, where the Elves greeted them with song and laughter from within the trees.
+
+At last they came to the [[Rivendell|Last Homely House]],<ref>Around [[15 June|June 15]] {{TA|2941}} or earlier</ref> where they stayed (quite happily) for at least fourteen days. 
+
+On midsummer eve,<ref>[[Lithedays|1 Lithe]]</ref> [[Elrond]] inspected the swords which [[Thorin]] and Gandalf had acquired from the [[Trolls' cave]]. The runes on Thorin's sword named it [[Orcrist]], the Goblin-cleaver; the runes on Gandalf's sword read [[Glamdring]], Foe-hammer - both were ancient blades forged in [[Gondolin]]. Elrond then inspected [[Thrór's Map]], he found Moon letters which read: "Stand by the grey stone when the thrush knocks, and the setting sun with the last light of [[Durin's Day]] will shine upon the keyhole."
+
+On [[Mid-year's Day]]'s morning, the adventurers departed from Rivendell for the Misty Mountains and the land beyond.
+{{References}}
+[[Category:The Hobbit chapters|Short Rest]]
+[[de:Eine kurze Rast]]
+[[fi:Lyhyt lepo]]

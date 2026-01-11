@@ -1,0 +1,44 @@
+{{short_description|4th chapter of the second book in The Fellowship of the Ring}}
+{{chapter
+| image=J.R.R. Tolkien - West Gate of Moria.jpg
+| caption = "West Gate of Moria" by [[J.R.R. Tolkien]]
+| title=A Journey in the Dark
+| book=The Fellowship of the Ring
+| number=16
+| event=The [[Fellowship of the Ring|Company]] enters [[Moria]]; they discover that [[Balin]] is dead.
+| date=[[13 January|13]]-[[14 January]] {{TA|3019|n}}
+| location=The Mines of [[Moria]]
+| perspective=[[Frodo Baggins|Frodo]], [[Samwise Gamgee|Samwise]], and [[Peregrin Took|Pippin]]
+| previous=The Ring Goes South
+| next=The Bridge of Khazad-dûm
+}}
+
+{{quote|There are older and fouler things than Orcs in the deep places of the world|[[Gandalf]]}}
+
+'''A Journey in the Dark''' is the fourth chapter of the second book in ''[[The Fellowship of the Ring]]''. The main characters are the Company that comprised the [[Fellowship of the Ring]]: [[Gandalf]], [[Frodo Baggins]], [[Samwise Gamgee]], [[Aragorn]], [[Legolas]], [[Gimli]], [[Peregrin Took]], [[Meriadoc Brandybuck]], and [[Boromir]].
+
+Central to the chapter is the decision of the Company to enter the [[Mines of Moria]], which reveals the fate of [[Balin|Balin's failed colony]].
+
+==Overview==
+The chapter begins immediately following the end of the [[The Ring Goes South|previous chapter]].
+
+[[Gandalf]] explained to the Company that after their defeat by [[Caradhras]] the only way to the other side of the [[Misty Mountains|mountains]] was under them, through the [[Moria|Mines of Moria]]; underground tunnels in which a group of [[Dwarves]] led by [[Balin]] had disappeared years ago. Boromir argued that such a path would be as dangerous as approaching the gates of [[Barad-dûr]].  Gandalf reproached Boromir: "''you speak of what you do not know...''".  He recalled that he was the only one of the Company to have been imprisoned by [[Sauron]] and expressed his hope to successfully lead the company through Moria.
+
+The Company heard the calls of [[Wargs]] on the air and so used the natural features - trees and boulders - atop a small hill to camp the night.  After an initial skirmish, they were attacked later in the night by many Wargs. During their defence, Gandalf repelled the beasts with fire using his magic, while [[Legolas]] killed a warg-chieftain with his arrow. Next morning, the Company started to move towards Moria.
+
+When they reached the gates of Moria, the [[Sirannon|gate-stream]] had been dammed and the entrance was flooded. Gandalf let the [[Bill the Pony|pony]] free and sent it back to [[Rivendell]]. Finding the runes on the gate, the Company pondered a riddle: "''Speak 'friend', and enter.''" Merry alone of the Company was on the right track, and he helped Gandalf find the answer. Gandalf used the secret password - "''mellon''", the [[Sindarin]] word for "friend" - to gain them entrance.  Before they could go in, though, they were attacked by a tentacled water creature, the [[Watcher in the Water]], that particularly targeted Frodo. To escape, they all rushed into the Mines, but the Watcher destroyed the entrance behind them. They had no choice but to go forward through the Mines.
+
+Fissures and chasms made their path treacherous. Sam was reminded that he should have carried rope with him. At one point, they entered a stone doorway and found a deep well inside it. Pippin threw a stone into it out of impulse, and they began to hear from it a tapping, as if someone was using a hammer. They walked on for as long as they could, coming to many paths and crossroads, resting little and eating less. 
+
+After a distance the Company settled for the night in a large cavern.  Gandalf explained that the Mines of Moria were famous for silver ''[[mithril]]'' and it was in search of this material that Balin and his Dwarves had come to Moria. Gandalf told them that [[Bilbo Baggins|Bilbo]] had a coat of mail armour made of ''mithril'' and Frodo marvelled when he realised that Bilbo had gifted him with a suit of armour with a value worth the whole of the [[Shire]].
+
+When they continued on their journey the next day, they came upon a [[Balin's Tomb|tomb]] and Gandalf read what was written on it, revealing that the tomb belonged to Balin son of [[Fundin]]. Frodo was sorry when he realised that Bilbo's good friend and companion was dead.
+
+==Composition==
+Tolkien probably composed the chapter (then called "The Mines of Moria") in [[1939]], and when the Fellowship found the Tomb, Tolkien stopped writing for a long time, and probably resumed around [[August]] [[1940]]. In [[The Lord of the Rings Foreword]] (written more than 20 years later) Tolkien mistakenly recollects this hiatus a year later.<ref name="rc">{{HM|RC}}, p. xxiii</ref><ref>{{RS|Moria}}, p. 461</ref>
+
+In his revision c. [[1941]], Tolkien rewrote the first part of the episode, eventually past the point of the Tomb, and moved to the next chapter where the Fellowship exits Moria.<ref name="rc"/>
+
+{{references}}
+[[Category:The Fellowship of the Ring chapters|Journey in the Dark]]
+[[fi:Matka pimeydessä (TSH)]]

@@ -1,0 +1,60 @@
+{{disambig-two|the mother of [[Ælfwine]]|[[Old English]] name of the wife of [[Eriol]]|[[Naimi#Etymology|Éadgifu]]}}
+{{anglosaxon infobox
+| name=Éadgifu
+| image=
+| caption=
+| people=[[wikipedia:Celtic Britons|Briton]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[Lionesse]]<br />[[Kortirion#Other versions of the legendarium|Kortirion]]
+| affiliation=
+| language=''Presumably'' [[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=[[Déor (father of Ælfwine)|Déor]]
+| children=[[Ælfwine]]
+| gender=Female
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Éadgifu''' was the mother of [[Ælfwine]], from whom he has heard stories of the "islands of the [[West]]",<ref>{{LT2|VIb}}, note 29, pp. 330-1</ref> according to the early version of the [[legendarium]] in the text called ''[[Ælfwine of England]]'' from ''[[The Book of Lost Tales]]''.<ref name="Eng"/>
+
+== History ==
+Éadgifu was born in [[Lionesse]], a region of [[Luthany|Lúthien]], and was called as such by [[Déor (father of Ælfwine)|Déor]] her husband - even though that was not her original name.
+
+She had an unquenchable longing for the sea while she dwelt in the inland city of [[Kortirion#Other versions of the legendarium|Kortirion]]<ref group="note">Kortirion was the [[Qenya|Elvish]] name of the town of [[wikipedia:Warwick|Warwick]].</ref><ref>{{LT2|VI}}, outline '''30''', p. 310</ref> with Déor, a trait which was inherited by her son Ælfwine. The [[Elves]] of Lionesse, with whom she was friendly with, sent messengers to his birth, presumably to give their congratulations.
+
+Éadgifu died during the siege of Kortirion by the [[Forodwaith (The Book of Lost Tales)|Forodwaith]] (i.e. [[wikipedia:Vikings|Vikings]]), and "her fair form lay unhonoured in [[Mindon Gwar]]".<ref name="Eng">{{LT2|VIb}}, pp. 313-4</ref>
+
+== Etymology ==
+The name ''Éadgifu'' is in [[Old English]], being comprised of ''éad'' ("blessedness") + ''gifu'' ("gift").<ref>{{LT2|VIb}}, p. 323</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | DEO |y| EAD |DEO=[[Déor (father of Ælfwine)|Déor]]|EAD='''ÉADGIFU'''}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | ÆLF | | |ÆLF=[[Ælfwine]]}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In an earlier text from ''The Book of Lost Tales'', ''Éadgifu'' was the Old English name for [[Naimi]], the Elven wife of [[Eriol]].<ref>{{LT2|VI}}, outline '''10''', p. 290</ref>
+
+{{references|notes}}
+{{DEFAULTSORT:Eadgifu}}
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Men]]
+[[Category:Old English names]]

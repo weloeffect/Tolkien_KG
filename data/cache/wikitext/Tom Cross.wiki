@@ -1,0 +1,22 @@
+{{person infobox
+| image=
+| caption=
+| name=Thomas Jess Cross
+| born=[[8 February]] [[1954]]
+| died=[[27 December]] [[2008]]
+| education=
+| occupation=Artist
+| location=Sarasota, Florida, U.S.
+| website=
+}}'''Tom Cross''' ([[8 February]] [[1954]] - [[27 December]] [[2008]]) was an American environmental activist and fantasy artist with a focus on [[Fairies]].<ref>{{Cite web|articleurl=https://www.legacy.com/us/obituaries/heraldtribune/name/thomas-cross-obituary?id=23288716|articlename=Thomas Cross Obituary|dated=2008|website=Herald-Tribune (archived by Legacy)}}</ref><ref name=Tribune>{{Cite web|articleurl=https://eu.heraldtribune.com/story/news/2008/12/31/mythical-world-of-osprey-artist-promoted-natures-beauty/28684239007/|articlename=
+Mythical world of Osprey artist promoted nature's beauty|dated=2008|author=Mark Zaloudek|website=[https://www.heraldtribune.com Herald-Tribune]}}</ref> He created created numerous [[J.R.R. Tolkien|Tolkien]]-inspired illustrations, some of them for the [[Middle-earth Collectible Card Game]].
+
+==See also==
+* [[:Category:Images by Tom Cross|Images by Tom Cross]]
+
+==External links==
+* '''[http://tomcross-artist.com/ Official website]'''
+{{References}}
+[[Category:Artists|Cross, Tom]]
+[[Category:American people|Cross, Tom]]
+[[Category:People by name|Cross, Tom]]

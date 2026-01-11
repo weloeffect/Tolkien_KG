@@ -1,0 +1,63 @@
+{{Mallorn
+| name=Mallorn 55
+| image = Mallorn55.png
+| editor=[[Helen Armstrong]]
+| artist=[[Jef Murray]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Winter 2014
+| format=A4 stapled paperback, glossy
+| pages=48
+| issn=	0308-6674
+}}
+'''''Mallorn'' 55''' is the fifty-fifth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in Winter [[2014]]. 
+
+==Contents==
+* '''Cover Art'''
+** "Balrog"
+*** By: [[Jef Murray]]
+* '''Editorial'''
+** "And it's Goodbye from me... and Hello from him"
+*** By: [[Helen Armstrong]]
+* '''Poetry'''
+** ''[[Lúthien]] Tinúviel''
+*** By: Philip Dodd
+** ''Beowulf''
+*** By: Kate Perlot
+* '''Commentary'''
+** "Tolkien in [[Bloemfontein]]"
+*** By: Boris Gorelik
+** "[[Tom Bombadil]] and the Journey for [[Middle-earth]]"
+*** By: Kerry Brooks
+** "'The House of his Spirit Crumbles': A medical consideration of [[Faramir]]'s condition on his return from the retreat from [[Osgiliath]], in ''[[The Lord of the Rings]]''"
+*** By: Jennifer Urquart
+** "Reconstructing the Politics of the Dark Age"
+*** By: [[Tom Shippey]]
+** "'Seeing a Picture Before Us': Tolkien's commentary in [[Beowulf: A Translation and Commentary|his translation of ''Beowulf'']]"
+*** By: [[Mark Atherton]]
+** "Tolkien's Technique of Translation in his Prose ''Beowulf'': Literalism and Literariness"
+*** By: Britton Brooks
+** "Tolkien and Folklore: ''[[Sellic Spell]]'' and ''[[The Lay of Beowulf]]''"
+*** By: [[Dimitra Fimi]]
+** "Tolkien's Arthurian Twilight: Ancient influences in ''[[The Fall of Arthur]]''"
+*** By: Gregory J. Liebau
+** "Friendship in Tolkien's world"
+*** By: Martina Juričková
+** "The Human Image and the interrelationship of [[Orcs]], [[Elves]] and [[Men]]"
+*** By: David Tneh
+** "'Helpful, deprived, insulted, vengeful': Norse Mythology and Tolkien's [[Dwarves]]"
+*** By: Lilian Darvell
+* '''Reviews'''
+** "Votes for [[Tauriel]] - but not the love": ''[[The Hobbit: The Desolation of Smaug]]''
+*** By: [[Shaun Gunner]]
+*** By: Richard Gonsowski
+*** By: Sophie Watson
+* '''Well, I’m back'''
+** "On Dwarves and Dwarfs"
+*** By: Thor Ewing
+* '''Inside Art'''
+** By: Michael Afford, [[Helen Armstrong]], [[Catherine Karina Chmiel]] John Cockshaw, [[Jenny Dolfen]], [[Anke Eißmann|Anke Eissmann]], Thor Ewing, Jay Johnstone, [[Jef Murray]]
+
+{{mallornnav|54|56}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 55}}
+[[Category:Mallorn (journal)]]

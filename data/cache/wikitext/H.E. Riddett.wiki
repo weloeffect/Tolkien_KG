@@ -1,0 +1,58 @@
+{{artist infobox
+| image=
+| name=H.E. Riddett
+| born=[[1905]]
+| died=[[1990]]
+| education=
+| style=
+| images=
+| location=England, UK
+| website=
+}}
+'''Harold Eric Riddett''' ([[1905]]-[[1990]]), commonly known as '''H.E. Riddett''', was a British artist. He is noteworthy for adding colour to many black-and-white maps and drawings in several posthumous [[J.R.R. Tolkien]] publications, most notably in many editions of ''[[The Hobbit]]'' and illustrated editions of ''[[The Silmarillion]]''.
+==Illustrations coloured==
+===''The Hobbit''===
+* "[[:File:J.R.R. Tolkien - The Trolls (Colored by H.E. Riddett).jpg|The Trolls]]" 
+* "[[:File:J.R.R. Tolkien - The Mountain-path (Colored by H.E. Riddett).png|The Mountain-path]]"
+* "[[:File:J.R.R. Tolkien - The Misty Mountains looking West from the Eyrie towards Goblin Gate (Colored by H.E. Riddett).jpg|The misty Mountains looking West from the Eyrie towards Goblin Gate]]"
+* "[[:File:J.R.R. Tolkien - Beorn's Hall (Colored by H. E. Riddett).jpg|Beorn's Hall]]"
+* "[[:File:J.R.R. Tolkien - The Elvenking's Gate (II) (Colored by H. E. Riddett).jpg|The Elvenking's Gate]]"
+* "[[:File:J.R.R. Tolkien - Lake Town (Colored by H. E. Riddett).jpg|Lake Town]]"
+* "[[:File:J.R.R. Tolkien - The Front Gate (Colored by H.E. Riddett).png|The Front Gate]]"
+* "[[:File:J.R.R. Tolkien - The Hall at Bag-End, Residence of B. Baggins Esquire (Colored by H.E. Riddett).jpg|The Hall at Bag End, Residence of B. Baggins Esquire]]"
+
+===Maps===
+* "[[Map of Beleriand and the Lands to the North]]"
+* "[[Map of Wilderland]]"
+* "[[Thrór's Map]]"
+
+===Others===
+* "[[:File:J.R.R. Tolkien - Gondolin and the Vale of Tumladen (Colored by H.E. Riddett).jpg|Gondolin and the Vale of Tumladen]]"
+* "[[:File:J.R.R. Tolkien - Nargothrond (II) (Colored by H.E. Riddett).jpg|Nargothrond (II)]]"
+* "[[:File:J.R.R. Tolkien - The Three Trolls are turned to Stone (Colored by H.E. Riddett).jpg|The Three Trolls are turned to Stone]]"
+* "[[:File:J.R.R. Tolkien - Tol Sirion (Colored by H.E. Riddett).jpg|Tol Sirion]]"
+
+==Bibliography (as artist)==
+===Books===
+* [[1976]]: ''[[The Hobbit]]''
+* [[1991]]: ''[[The Hobbit Birthday Book]]''
+* [[1991]]: ''[[The Tolkien Diary 1992]]''
+* [[1992]]: ''[[The Tolkien Address Book]]''
+* [[1993]]: ''[[Poems by J.R.R. Tolkien: Volume I-III]]''
+* [[1996]]: ''[[A Tolkien Book of Days]]''
+* [[1998]]: ''[[The Silmarillion]]''
+* [[1999]]: ''[[Poems from The Hobbit]]''
+* [[2005]]: ''[[Tolkien Diary 2006]]''
+
+===Calendars===
+* [[1975]]: ''[[The Hobbit Calendar 1976]]''
+* [[1977]]: ''[[The Silmarillion Calendar 1978]]''
+* [[1978]]: ''[[J.R.R. Tolkien Calendar 1979]]''
+* [[1978]]: ''[[The Silmarillion Desk Calendar 1979]]''
+* [[2005]]: ''[[Tolkien Calendar 2006]]''
+
+{{DEFAULTSORT:Riddett, H.E.}}
+[[Category:Artists]]
+[[Category:British people]]
+[[Category:People by name]]
+[[fi:H. E. Riddett]]

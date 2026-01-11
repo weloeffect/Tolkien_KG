@@ -1,0 +1,175 @@
+{{disambig-two|the [[Men|Mannish]] mariner originally called Ottor Wǽfre|[[Elvish]] name of [[Ælfwine]]|[[Ælfwine#Other names|Ereol]]}}
+{{anglosaxon infobox
+| name=Eriol
+| image=Vinyatar - Limpë.png
+| caption="Limpë" by [[:Category:Images by Vinyatar|Vinyatar]]
+| people=[[wikipedia:Angles (tribe)|Angle]]
+| pronun=
+| othernames='''''Ottor''''', ''Wǽfre'' ([[Old English|OE]])<br/>''Angol'', ''Sarothron'' ([[Gnomish|G]])<br/>''Eriolë''/''Erioldo'', ''Melinon'' ([[Qenya|Q]])<br/>''the Stranger''
+| titles=
+| position=
+| location=[[wikipedia:Anglia (peninsula)|Anglia]]<br/>[[wikipedia:Heligoland|Heligoland]]<br/>[[Tol Eressëa]]
+| affiliation=
+| language=[[Old English]]<br/>[[Gnomish]]<br/>[[Qenya]]
+| birth=c. [[wikipedia:5th century|5th century AD]]
+| birthlocation=[[wikipedia:Anglia (peninsula)|Anglia]]
+| rule=
+| death=5th century AD
+| deathlocation=Uncertain<sup>[[Eriol#Death and legacy|NB]]</sup>
+| age=
+| notablefor=Discovering Tol Eressëa
+| house=
+| parentage=[[Eoh]]
+| siblings=
+| spouse=[[Cwén]] (1st)<br/>[[Naimi]] (or Nelmir<sup>[[Eriol#Departure to Tavrobel|NB]]</sup>) (2nd)
+| children=[[Hengest]] & [[Horsa]] (by Cwén)<br>[[Heorrenda]] (by Naimi) & [[Hendwine]] (by [[Nelmir]])<sup>[[Eriol#Departure to Tavrobel|NB]]</sup>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+<center>{{Quote|Now it happened on a certain time that a traveller from far countries, a man of great curiosity, was by desire of strange lands and the ways and dwellings of unaccustomed folk brought in a ship as far west even as the Lonely Island, Tol Eressëa in the fairy speech, but which the Gnomes call Dor Faidwen, the Land of Release, and a great tale hangs thereto.|''[[The Book of Lost Tales Part One]]'', "[[The Cottage of Lost Play]]"}}</center>
+
+'''Eriol''' was the [[Men|Mannish]] mariner who visited [[Tol Eressëa]] and learned the histories of the [[Elves]], according to the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.<ref>{{LT1|Foreword}}, p. 5</ref>
+
+== History ==
+=== Life in the Great Lands ===
+Eriol was born as '''Ottor''', in [[wikipedia:Anglia (peninsula)|Anglia]] in the [[Great Lands]], c. [[wikipedia:5th century|5th century AD]], to [[Eoh]].<ref name=Ott>{{LT1|In}}, pp. 23-4</ref> His father often told him stories of "wide waters", since his ancestors were sea-farers,<ref name=Win/>{{rp|6–7}} one of whom visited [[Valinor]] as a child in his sleep via [[Olórë Mallë]], the Path of Dreams.<ref name=Win>{{LT1|I}}</ref>{{rp|20}} Ottor's grandfather [[Heden]] claimed to be a descendant of the god [[wikipedia:Odin|Wóden]].<ref name=Ott/><ref group="note">According to the Elves of Tol Eressëa, the god Wóden (or Odin) was identified with the Vala [[Manwë]].</ref><ref name=Tyr/>
+
+Sometime during Ottor's childhood, his father and mother died in a siege of their home,<ref name=Win/>{{rp|6–7}} with Eoh being killed by his brother [[Beorn (son of Heden)|Beorn]].<ref name=Ott/> There, Ottor was taken as a slave, but ultimately managed to escape.<ref name=Win/>{{rp|6–7}} <ref group="note">In an early, rejected note, it is said that, after his escape, Eriol wandered across the Great Lands until he reached the [[Inland Sea (The Book of Lost Tales)|Inland Sea]] (i.e. the [[wikipedia:Mediterranean|Mediterranean]]), and from there he headed toward the shores of the Western Sea (the [[wikipedia:Atlantic Ocean|Atlantic]]).</ref><ref>{{LT2|VI}}, pp. 294-5</ref>
+
+After his escape, Ottor "lived a life on the waters",<ref group="note">It is said that Eriol was born under the "beam of [[Eärendel]]", meaning that he was destined to be a wanderer.</ref> but later settled on the island of [[wikipedia:Heligoland|Heligoland]], where he married a woman called [[Cwén]]. There, they had two sons, [[Hengest and Horsa]], named after their grandfather Eoh (since their names share a similar meaning). However, after Cwén died, [[sea-longing]] overcame Ottor, and he left his two young sons, and went sailing again.<ref name=Ott/>
+
+During his voyages, he stumbled upon an island inhabited by an old man, who taught him much about the lore of the hidden seas in the [[West]], and who told him of the [[Magic Isles]], and of one very remote island far to the west - that is, [[Tol Eressëa]]. The old man was later revealed to be the [[Valar|Vala]] [[Ulmo]] himself.<ref name=Win/>{{rp|6–7}}
+
+=== Arrival to Tol Eressëa ===
+[[File:Irina Timofeeva - Kortirion.jpg|thumb|165px|right|''Kortirion'' by [[:Category:Images by Irina Timofeeva|Irina Timofeeva]]]]
+Ultimately, however, after much searching for the island, Ottor managed to reach Tol Eressëa,<ref name=Win/>{{rp|6–7}} and was afterwards called '''''Eriol''''' by the [[Elves]] of the island.<ref name=Win/>{{rp|14–15}}
+
+While exploring the [[Alalminórë|interior]] of the island, Eriol stumbled upon the city of [[Kortirion]] and the [[Cottage of Lost Play]] one summer evening. There, he was greeted by [[Lindo]], the lord of the Cottage, and his wife [[Vairë (wife of Lindo)|Vairë]], who offered him shelter at their home.<ref name=Win/>{{rp|14–15}} That night, Lindo and Vairë told him the history of the Cottage of Lost Play,<ref name=Win/>{{rp|18–20}} and of the city of Kortirion.<ref name=Win/>{{rp|16}}
+
+The following day, Eriol met [[Rúmil (elf of Tirion)#Other versions of the legendarium|Rúmil]], the old door-ward of the Cottage, in his gardens,<ref>{{LT1|II}}, p. 47</ref> where he told Eriol the story of ''[[the Music of the Ainur]]''.<ref>{{LT1|II}}, p. 52</ref> Later that evening, Rúmil also told him the tale of ''[[the Coming of the Valar and the Building of Valinor]]''.<ref>{{LT1|III}}, p. 65</ref>
+
+That night, Eriol for the second time heard the fluting of [[Tinfang Warble]], a half-[[Fays|fay]], half-elven creature, which caused a great longing in his heart, that only the magic drink, called ''[[limpë]]'' could cure. However, Vairë told him that only the Lady of Tol Eressëa, [[Meril-i-Turinqi]], might give it to him.<ref name=Mer>{{LT1|IV}}, pp. 95-7</ref>
+
+=== Meeting with Meril-i-Turinqi ===
+[[File:Sandrine Gestin - Meril.jpg|thumb|left|''Meril'' by [[:Category:Images by Sandrine Gestin|Sandrine Gestin]]]]
+Therefore, a few days later, [[Littleheart]], one of the inhabitants of the Cottage, led Eriol to the home of Meril, located underneath the [[Tirin na Gilweth|tower of Ingil]] in a ''[[korin]]'' of [[elms]]. There, Eriol requested to taste ''limpë'', seeking kinship and fellowship with the Elves and an end to his longing.<ref name=Mer/>
+
+However, Meril denied him, telling him that it was dangerous for a [[mortal]] Man to do so, as [[Ilúvatar]] made his [[Children of Ilúvatar|Children]] different, and drinking ''limpë'' would erase his old desires but awake new ones; she also warned him that he would one day long for his lands again.<ref name=Mer/> To explain better she told him the stories of ''[[the Chaining of Melko]]''<ref>{{LT1|IV}}, p. 98</ref> and of ''[[the Coming of the Elves and the Making of Kôr]]''.<ref>{{LT1|V}}, p. 113</ref>
+
+After that, Eriol stayed in the Cottage of Lost Play for some time, hearing the stories of ''[[the Theft of Melko and the Darkening of Valinor]]''<ref>{{LT1|VI}}, p. 140</ref> and of ''[[the Flight of the Noldoli]]''.<ref>{{LT1|VII}}, p. 162</ref>
+
+Before winter came to Kortirion that year, Eriol also visited many of the homes of the [[Vanyar#Other versions of the legendarium|Teleri]] and the [[Inwir]] (the royal clan of the Teleri), who lived there, and learned more of the language, history and customs of the Elves.<ref name=Vea>{{LT2|I}}, p. 4</ref>
+
+=== Winter in Tol Eressëa<ref group="note">The in-universe chronology of this portion of Eriol's life, as well as the ordering of the tales, is uncertain, since [[Tolkien]] at certain points changed the structure and the order of the ''Lost Tales''.</ref>===
+One day during the winter, some time after Eriol's visit to Meril, there arrived a guest to the Cottage, and his name was [[Gilfanon]]. He was a very wise and a very old [[Gnomes|Gnome]] who lived at [[Tavrobel]], a village in the west of Tol Eressëa. Since Eriol wanted to know more about the [[Sun]] and the [[Moon]] and their making, Lindo suggested to him that he should travel with Gilfanon to his home, the [[House of the Hundred Chimneys]], for Gilfanon could tell him much of such things.<ref name=Gil>{{LT1|VIII}}, pp. 174-5</ref>
+
+However, while Gilfanon agreed that Eriol should visit his home, he ultimately let Lindo tell ''[[the Tale of the Sun and Moon]]'',<ref name=Gil/> after which Vairë told the story of ''[[the Hiding of Valinor]]''.<ref>{{LT1|IX}}, p. 207</ref> The following night, Gilfanon told the story of the ''[[Gilfanon's Tale|Travail of the Noldoli and the coming of Mankind]]''.<ref>{{LT1|X}}, p. 231</ref>
+
+Sometime during the winter, one of the children of the Cottage of Lost Play, called [[Vëannë]], asked Eriol to tell her about his own life,<ref name=Vea/> and in return Vëannë told him ''[[the Tale of Tinúviel]]''.<ref name=Win/>
+
+Later, Gilfanon was supposed to tell the story of ''[[Turambar and the Foalókë]]'', but was not present at the [[Tale-fire]] that evening, so instead one [[Eltas]] recounted the tale instead.<ref>{{LT2|II}}, pp. 69-70</ref>
+
+The next day, Lindo and Vairë sent messengers to Meril, the Lady of Tol Eressëa, inviting her to the Cottage of Lost Play, since they were planning a great festival of tale-telling before Eriol departed for Tavrobel. This was done because Littleheart son of [[Voronwë]] needed aid in the telling of the three final tales, one of them being ''[[the Fall of Gondolin (chapter)|the Fall of Gondolin]]'', which he recounted on the first night of the festival.<ref name=Ear>{{LT2|III}}, pp. 144-5</ref>
+
+That tale was followed by the tale of ''[[the Nauglafring]]'', which was told by Gilfanon.<ref group="note">Gilfanon was called ''Ailios'' in this and several other texts in the early legendarium.</ref><ref>{{LT2|IV}}, p. 221</ref>
+
+All of these tales ultimately culminated in ''[[the Tale of Eärendel]]'',<ref>{{LT2|V}}, pp. 252-3</ref> after which Eriol departed for Tavrobel.<ref name=Ear/>
+
+=== Departure to Tavrobel ===
+[[File:J.R.R. Tolkien - Taurobel.png|thumb|left|120px|''Taurobel'' by [[J.R.R. Tolkien]]]]
+Once Eriol arrived in Tavrobel, he was bidden by Gilfanon to write down all the stories he had heard in a book called ''[[Parma Kuluina]]'' or the ''Golden Book of Tavrobel''.<ref group="note">Eriol might also have authored or compiled the ''[[Gnomish Lexicon]]''.</ref><ref>{{PE|11}}, p. 6</ref> Since this was the final condition before drinking ''limpë'', and because now he knew most of the Elves' history, he was finally allowed to drink it.<ref name=Tav>{{LT2|VI}}, outline '''5''', pp. 283-4</ref>
+
+After drinking ''limpë'', he was made young again, and afterwards married [[Naimi]] (or Nelmir, according to one text),<ref name=Hen/> the niece of Vairë, with whom he either had one son, [[Heorrenda]],<ref name=Tyr>{{LT2|VI}}, outline '''10''', p. 290</ref> or, according to another text, two sons: Heorrenda ''and'' [[Hendwine]].<ref name=Hen/>
+
+He also stayed in a nearby place called [[Fladweth Amrod]] for some time.<ref>{{PE|11}}, p. 35</ref>
+
+
+=== Death and legacy ===
+The manner of Eriol's death is uncertain, depending on the version of the events given in the outlines for the continuation of ''The Book of Lost Tales''. In one earlier version, Eriol died in Tol Eressëa ''before'' the Faring Forth.<ref name=Tav/>
+
+==== ''Epilogue'' ====
+However, in another version of events (which Tolkien called the ''[[Epilogue (The Book of Lost Tales)|Epilogue]]''), following the [[Faring Forth]] (the disastrous attempt by the Elves of Tol Eressëa to rescue their [[Ilkorindi|lost kin]] in the East, in which the entire island of Tol Eressëa was dragged across the [[wikipedia:Atlantic Ocean|Ocean]] to be anchored off the coast of the Great Lands), Eriol died some time after the [[Battle of the Heath of the Sky-roof]] in which the invading Men from the Great Lands overran Tol Eressëa.
+
+There, after fleeing across the rivers [[Afros]] and [[Gruir]] with the remaining Elves of the Lonely Isle following the battle, he wrote down the last words of the ''Golden Book'' in the ruined Tavrobel:<ref>{{LT2|VI}}, outline '''8''', pp. 287-9</ref>
+
+{{blockquote|...Hark O my brothers, they shall say, the little trumpets blow; we hear a sound of instruments unimagined small. Like strands of wind, like mystic half-transparencies, [[Gilfanon]] Lord of [[Tavrobel]] rides out tonight amid his folk, and hunts the elfin deer beneath the paling sky. A music of forgotten feet, a gleam of leaves, a sudden bending of the grass, and wistful voices murmuring on the bridge, and they are gone.<br/><br/> But behold, Tavrobel shall not know its name, and all the land be changed, and even these written words of mine belike will all be lost; and so I lay down the pen, and so of the [[Elves|fairies]] cease to tell.|''[[The History of Eriol or Ælfwine and the End of the Tales]]'', "[[Epilogue (The Book of Lost Tales)|Epilogue]]" (excerpt)}}
+
+==== Other versions of Eriol's death ====
+According to yet another text, it was Eriol himself who was the main instigator of the Faring Forth. Eriol, longing for his home, sailed back to the Great Lands against the command of Meril-i-Turinqi, where he "preached" of the Faring Forth before he eventually died. However, his impatience and disobedience hastened the Faring Forth, and ultimately doomed it.<ref>{{LT2|VI}}, outline '''14''', p. 294</ref>
+
+==== Legacy ====
+Eriol's legacy, however, continued in his sons - Hengest, Horsa and Heorrenda - who later conquered Tol Eressëa (which eventually became known as [[wikipedia:England|England]]), and from whom the [[wikipedia:English people|English]] preserved the true tradition of the Elves.<ref>{{LT2|VI}}, p. 293</ref>
+
+== Etymology ==
+The name ''Eriol'' is in [[Qenya]], meaning "One who dreams alone", possibly being derived from the roots [[ERE]] ("remain alone") + [[OLO]] ("dream") or [[LORO]] ("doze, slumber").<ref>{{webcite|author=[[Paul Strack]]|articleurl=http://eldamo.org/content/words/word-290783935.html|articlename=ᴱQ. ''Eriol'' m.|website=Eldamo|accessed=7 May 2022}}</ref>
+
+According to one text, however, the meaning of ''Eriol'' ("One who dreams alone") was "punningly" derived by Lindo from ''[[éri]]'' ("alone") + ''[[olta]]'' ("dream").<ref>{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text VI'', p. 15</ref> However, the actual meaning of ''Eriol'' was "iron cliff", being the Qenya cognate of '''''Angol''''', a name given to Ottor by the [[Gnomes]] of Tol Eressëa after the "regions of his home" (i.e. [[wikipedia:Anglia (peninsula)|Anglia]]).<ref name=Iro>{{LT1|Appendix}}, entry '''Eriol''', p. 252</ref>
+
+The name ''Angol'' consists of the elements ''[[ang]]'' ("iron") + ''[[ôl (Gnomish word)|ôl]]'' ("cliff").<ref name=Iro/> There also appears another Qenya cognate of ''Angol'', ''Eriollo'', given in the ''[[Gnomish Lexicon]]''.<ref>{{PE|11}}, p. 19</ref>
+
+According to yet another text, there appear the variations '''''Eriolë''''' and '''''Erioldo'''''. In that same text, however, ''Eriol'' is instead given as a [[Gnomish]] form of the name.<ref>{{PE|15}}, "[[Names and Required Alterations]]", p. 7</ref>
+
+== Other names ==
+Eriol's original name was '''''Ottor''''' (meaning "otter" in [[Old English]]),<ref>{{PE|11}}, note 2, p. 4</ref> but he called himself '''''Wǽfre''''' ("restless, wandering").<ref name=Ott/>
+
+Another one of his names was '''''Sarothron''''', meaning "voyager, seafarer" in Gnomish.<ref>{{PE|11}}, pp. 3-4</ref>
+
+Vëannë, a child of [[Mar Vanwa Tyaliéva]], also called him '''''Melinon''''',<ref name=Win/> a Qenya name likely derived from the root [[MELE (root)|MELE]] ("love").<ref>{{webcite|author=[[Paul Strack]]|articleurl=http://eldamo.org/content/words/word-879954277.html|articlename=ᴱQ. ''Melinon'' m.|website=Eldamo|accessed=7 May 2022}}</ref>
+
+During Eriol's first meeting with Lindo, when asked by Lindo what was his name, Eriol simply named himself the '''''Stranger'''''.<ref name=Win/>{{rp|14–15}}
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | WOD | | | | | | | | | | | | | | | | | | | | | | |WOD=[[wikipedia:Odin|Wóden]]<ref name=Ott/>}}
+{{familytree | | | |:| | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | |:| | | | | | | | | | | | | | | | | | | | | | | |}}
+{{familytree | | | HED | | | | | | | | | | | | | | TUL | | | | VAL |HED=[[Heden]]|TUL=[[Tulkastor]]|VAL=[[Valwë]]}}
+{{familytree | |,|-|^|-|.| | | | | | | | | | | |,|-|^|-|.| | | |!| |}}
+{{familytree | BEO | | EOH | | | | | | | | | | SIB | | VAI |~| LIN |BEO=[[Beorn (son of Heden)|Beorn]]<br/><small>''d. [[wikipedia:5th century|5th century]]''</small>|EOH=[[Eoh]]<br/><small>''d. [[wikipedia:5th century|5th century]]''</small>|SIB=''unknown<br/>sibling''|VAI=[[Vairë (wife of Lindo)|Vairë]]|LIN=[[Lindo]]}}
+{{familytree | | | | | |!| | | | | | | | | | | |!| | | | | | | | | |}}
+{{familytree | CWE |y| ERI |~|~|~|~|y|~|~|~|~| NAI | | | | | | | | |CWE=[[Cwén]]<br/><small>''fl. [[wikipedia:5th century|5th century]]''</small>|ERI='''ERIOL'''<br/><small>''fl. [[wikipedia:5th century|5th century]]''</small>|NAI=[[Naimi]]*<sup>[[Eriol#Departure to Tavrobel|NB]]</sup>}}
+{{familytree | |,|-|^|-|.| | | |,|-|^|-|.| | | | | | | | | | | | | |}}
+{{familytree | HEN | | HOR | | HEO | | HED | | | | | | | | | | | | |HEN=[[Hengest]]<br/><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HOR=[[Horsa]]<br/><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HEO=[[Heorrenda]]<br/><small>''fl. [[wikipedia:5th century|5th century]]''</small>|HED=[[Hendwine]]*<br/><small>''fl. [[wikipedia:5th century|5th century]]''</small><sup>[[Eriol#Departure to Tavrobel|NB]]</sup>}}
+{{familytree/end}}
+
+<nowiki>*</nowiki> The name of Hendwine's mother is not Naimi but ''[[Nelmir]]'' in the text on which the basis of his inclusion is founded upon - neither is her relation to Lindo and Vairë elaborated on.<ref name=Hen>{{PE|15}}, "[[Names and Required Alterations]]", Appendix, ''Text X'', p. 17</ref>
+
+== Other versions of the legendarium ==
+=== Earlier legendarium ===
+[[File:Henning Janssen - Awaiting Ælfwine.jpg|thumb|left|150px|''Awaiting Ælfwine'' by [[:Category:Images by Henning Janssen|Henning Janssen]]]]
+In some of the outlines for the continuation of ''The Book of Lost Tales'', [[Tolkien]] decided to completely change the nature of the framework of the tales. In that reimagining of the [[legendarium]], Tol Eressëa ceased to be identified with England/[[wikipedia:British Isles|British Isles]] - instead, it became a different island, and [[wikipedia:Great Britain|Great Britain]] became the island of [[Luthany]], while the mariner that came there was called [[Ælfwine]], an Englishman sailing ''from'' England ''to'' Tol Eressëa.<ref name=Ael>{{LT2|VI}}, pp. 300-1</ref>
+
+=== Later legendarium ===
+In a somewhat later version of the legendarium, beginning with the c. [[1926]] ''[[Sketch of the Mythology]]'', the name '''''Eriol''''' reappears as an [[Elvish]] name of Ælfwine.<ref name=Ael/>
+
+For more information, see: ''[[Ælfwine#Other names]]''.
+
+== Inspiration ==
+The names of Eriol's sons are significant to the historical context of the Eriol story. In British folklore, Hengest and Horsa are the legendary leaders of the Anglo-Saxon invasion of Britain in the 5th century AD. By connecting them to the translator of the ''Lost Tales'', Tolkien would have established a direct link between his legendarium and the [[wikipedia:Matter of Britain|Matter of Britain]].<ref name=Ott/>
+
+As stated previously, Eriol's original name was Ottor. [[Dimitra Fimi]] and [[Andrew Higgins]] propose that Tolkien in his youth perhaps assumed (or was given) an [[Animalic]] name '''Otter''' for himself. In the year [[1909]] he wrote a note in Esperanto ''Privata al LUTTRO'' "Private to OTTER".<ref>{{HM|SV}}, pp. 40-1 [note 19]</ref><ref>[[Arden R. Smith]] &ndash; [[Patrick Wynne]], "Tolkien and Esperanto", [[SEVEN 17|''Seven: An Anglo-American Literary Review'', Vol. 17]] (2000), p. 33</ref>
+
+== See also ==
+*[[Ælfwine]]
+*[[Alwin Arundel Lowdham]]
+*[[Alboin Errol]]
+*[[Saint Brendan]]
+
+== External links ==
+* [https://www.youtube.com/watch?v=QlSkzCpEAsA Video on the History of Eriol and Ælfwine] by [https://www.youtube.com/channel/UCoV0XB2O-7saKLxGqvSOIPw/about Ælfwine's Road on YouTube]
+*''[https://www.forodrim.org/gobennas/chron_en.html The Chroniclers of Arda]'' by [[Måns Björkman]]
+
+{{references|notes}}
+[[Category:Angles]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Chroniclers of Arda]]
+[[Category:Gnomish names]]
+[[Category:Mariners]]
+[[Category:Qenya names]]
+[[de:Eriol]]
+[[fi:Eriol]]

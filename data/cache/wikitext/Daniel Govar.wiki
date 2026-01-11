@@ -1,0 +1,27 @@
+{{artist infobox
+| image=Daniel Govar.jpg
+| name=Daniel Govar
+| born=
+| died=
+| style=
+| images=[[:Category:Images by Daniel Govar|Images by Daniel Govar]]
+| location=[[Wikipedia:USA|USA]]
+| website=[https://www.danielgovar.com Official website]
+}}
+'''Daniel Govar''' has created numerous [[J.R.R. Tolkien|Tolkien]]-inspired illustrations. He also co-founded and illustrated  the website [https://web.archive.org/web/20060202005148/http://www.thereandbackagain.net/ There And Back Again], a Lord of the Rings site dedicated to visualizing the world created by J.R.R. Tolkien. (no longer available).<ref>[https://www.danielgovar.com/about]</ref>
+
+He holds a degree in Imaging and Digital Art from UMBC with an emphasis on interactivity, animation, traditional film, and illustration.
+
+==Gallery==
+* [[:Category:Images by Daniel Govar|Images by Daniel Govar]]
+
+== External links ==
+* '''[http://www.danielgovar.com/ Official website]'''
+* [https://www.deviantart.com/danielgovar DeviantArt]
+
+{{references}}
+
+{{DEFAULTSORT:Govar, Daniel}}
+[[Category:American people]]
+[[Category:Artists]]
+[[Category:People by name]]

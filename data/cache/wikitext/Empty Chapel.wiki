@@ -1,0 +1,34 @@
+{{Poem infobox
+| title=Empty Chapel
+| other names=
+| written=Between [[July]] and [[September]] of [[1915]]
+| revised=
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=Army life, [[World War I]]
+}}
+'''''Empty Chapel''''' is an unfinished [[Wikipedia:War poetry|war poem]] that was written by [[J.R.R. Tolkien]] about a lone soldier "in a silent empty chapel" who hears drums and the marching of feet coming from the forest outside.<ref name=collectedpoems>{{CP|36}}</ref>
+
+== Poem excerpt ==
+<poem style="font-style:italic; margin-left:20px;">
+:Lo, war is in your nostrils and your heart
+:And burning with just anger as of old
+:Though stunted in dark places far from God
+:Though cheated and deluded and oppressed
+:Arise you, O ye blind and dumb to war
+:Come open your eyes and glorify your God
+:Come sing a hymn of honour to your Queen.<ref name=collectedpoems/></poem>
+
+== Background ==
+Sometime "between late [[July]] and early [[September]]" of [[1915]], Tolkien likely attempted to write a poem about his early experience of army life. He wrote it in one of his poetry notebooks on four pages between ''[[The Swallow, and the Traveller on the Plains]]'' and ''[[A Song of Aryador|The Pines of Aryador]]''.<ref>{{CP|36}}, p. 225</ref>
+
+In [[2024]], the most significant of the fragments were published in September as entry 36 of ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/> According to an interview conducted by Dalya Alberge of The Guardian, [[Christina Scull]], one of the editors of the collection, found the poem to be "very affecting".<ref name=interview>{{webcite|author=Dalya Alberge|articleurl=https://www.theguardian.com/books/article/2024/aug/24/beyond-bilbo-jrr-tolkiens-long-lost-poetry-to-be-published|articlename=Beyond Bilbo: JRR Tolkien’s long-lost poetry to be published|dated=24 August 2024|website=Guardian|accessed=29 August 2024}}</ref>
+
+In the introduction to ''The Collected Poems of J.R.R. Tolkien'', ''Empty Chapel'' is described as "a haunting work with a Pre-Raphaelite air" to it.<ref name=collectedpoemsintro>{{CP|Introduction}}</ref> In their Addenda and Corrigenda, Hammond and Scull associated the mood of the poem "with Arthurian poetry and Pre-Raphaelite art", but choose not to write this in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref>{{webcite|author=[[Christina Scull]] and [[Wayne G. Hammond]]|articleurl=https://www.hammondandscull.com/addenda/collected_poems_by_date.html|articlename=Addenda and Corrigenda to ''The Collected Poems of J.R.R. Tolkien'' (2024) Arranged by Date#Prior to 24 December 2024|dated=17 September 2024|website=HS|accessed=22 September 2025}}, note to "pp. 225–7"</ref>
+
+On [[8 October]], Joe Hoffman noted in his blog that lines 3-9 of fragment D seem to echo [[Wikipedia:Wilfred Owen|Wilfred Owen]]'s ''[[Wikipedia:Dulce et Decorum Est|Dulce et Decorum Est]]''.<ref name=blog>{{webcite|author=Joe Hoffman|articleurl=https://www.idiosophy.com/2024/10/tolkiens-empty-chapel/|articlename=Tolkien's Empty Chapel|dated=8 October 2024|website=[https://www.idiosophy.com/ Idiosophy]|accessed=4 November 2024}}</ref>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]

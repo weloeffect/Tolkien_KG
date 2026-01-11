@@ -1,0 +1,12 @@
+{{letter infobox
+| #=251
+| to=[[Priscilla Tolkien]]
+| date=[[26 November]] [[1963]]
+| subject=[[C.S. Lewis]]' funeral.
+}}{{letter|251}}
+==Summary==
+Tolkien told [[Priscilla Tolkien|Priscilla]] of the funeral service of [[C.S. Lewis]], who had died [[22 November|four days earlier]].  Tolkien had been feeling the normal feeling of a man of his age - like an old tree slowly losing its leaves.  However, the loss of Lewis had been like an axe-blow to the roots.  The service was attended by Tolkien himself, [[Christopher Tolkien]], [[James Dundas-Grant]], [[Robert Havard]], [[Owen Barfield]] and several others.  Tolkien thanked his daughter for writing.
+
+{{letters}}
+[[Category:Letters to Priscilla Tolkien]]
+[[de:Brief 251]]

@@ -1,0 +1,33 @@
+{{disambig-more|The Hobbit|[[The Hobbit (disambiguation)]]}}
+{{board game infobox
+| image = The Hobbit Adventure Boardgame.jpg
+| name=The Hobbit Adventure Boardgame
+| designer=Jean Vanaise, Philippe Janssens
+| illustrator=[[Angus McBride]] (cover)<br>Jo Hartwig (graphic design & board art)
+| development=Bernd Dietrich, [[Pete Fenlon]], Jean Vanaise, [[Coleman Charlton]]
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=[[1994]]
+| players=2-4
+| ages=10+
+| ice=2222
+}}
+'''''The Hobbit Adventure Boardgame''''' is a 1994 board game loosely based on the events in [[J.R.R. Tolkien]]'s ''[[The Hobbit]]''.
+
+== Back Cover Text ==
+
+''The Hobbit Adventure Boardgame'' is a fun, fast-moving fantasy boardgame based on J.R.R. Tolkien's classic bestseller. Desiged for 2-4 players and playable in 1–2 hours, it is an ideal choice for an evening's entertainment. Simple but clever rules make it both easy to learn and full of replay value.
+
+It only takes about 15 minutes to master ''The Hobbit Adventure Boardgame'' rulesbook. Then you just unfold the full-color, mounted mapboard, select a plastic Hobbit, deal out the coins and life points, and start your journey across Middle-earth. Along the way, you'll explore sites, battle monsters, discover treasure, acquire artifacts, and challenge your opponents with tricky riddles. Once you're strong enough, you'll journey north to Angmar to battle a foul Dragon, hoping to be the first halfling to secure his great hoard.
+
+''The Hobbit Adventure Boardgame'' box includes:
+*'''Gameboard''' — A beautifully-rendered, mounted mapboard, painted by the award-winning artist Jo Hartwig and detailing northwestern Middle-earth.
+*'''Cards''' — 142 full color playing cards divided into eight categories covering riddles, equipment, coins, rest, magic, adventures, risk, and danger.
+*'''Hobbits''' — 4 plastic Hobbits, each a different color and standing over an inch tall.
+*'''Coins and Life Points''' — plastic counters so you can keep track of health and wealth.
+*'''Dice''' — 5 dice, including three custom combat dice, an illustrated movement die, and a standard die.
+*'''Rules'''.
+
+==External links==
+*[http://boardgamegeek.com/boardgame/1586/the-hobbit-adventure-boardgame The Hobbit Adventure Boardgame] at [http://boardgamegeek.com/ BoardGameGeek]
+{{DEFAULTSORT:Hobbit Adventure Boardgame, The}}
+[[Category:Board games]]

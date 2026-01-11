@@ -1,0 +1,30 @@
+{{location infobox
+| name=Andram
+| image=Šárka Škorpíková - Andram.jpg
+| caption="Andram" by [[:Category:Images by Šárka Škorpíková|Šárka Škorpíková]]
+| pronun=
+| othernames=
+| location=Stretching across south [[Beleriand]] from [[Taur-en-Faroth]] to [[Ramdal]]
+| type=steep terrain
+| description=a long wall
+| regions=
+| towns=
+| inhabitants=
+| created=
+| destroyed=
+| events=
+}}
+'''Andram''' ([[Sindarin|S]]. 'long wall'; [[and]] = long, [[ram]] = wall) was a "dividing fall"<ref>{{S|14}}</ref> that ran across [[Beleriand]] west to east, from beyond [[Nargothrond]] to the [[Gates of Sirion]] and ending at [[Ramdal]], being three leagues in width from north to south.<ref>{{LR|Quenta}}, p. 262</ref>  The wall was pierced in two places: the gorge of Nargothrond, through which flowed the River [[Narog]], and where the River [[Sirion]] ran underground from its falls south of the [[Aelin-uial]] to its reappearance at the [[Gates of Sirion]].<ref>{{S|Map}}</ref>
+
+Its easternmost hill was [[Amon Ereb]], which usually was not considered a part of Andram (indeed ''Ramdal'' meant "Wall's End").<ref>{{S|Beleriand}}</ref>
+
+On [[the Second 'Silmarillion' Map]], Andram is depicted as a long chain of hills, from the Falls of Sirion in the west to Rhamdal in the east, with a bend (not appearing in the [[Map of Beleriand and the Lands to the North]]) in the middle. These hills are barely visible on the original map because they are drawn in pencil, but they appear very clearly on the map drawn by Christopher Tolkien<ref>{{WJ|11}}, Sheet 4 - South-east, p.185</ref>.
+
+{{references}}
+[[Category:Hills]]
+[[Category:Beleriand]]
+[[Category:Sindarin locations]]
+
+[[de:Andram]]
+[[fi:Andram]]
+[[fr:encyclo/geographie/reliefs/beleriand/andram]]

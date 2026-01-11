@@ -1,0 +1,34 @@
+
+{{author infobox
+| image = Daniel-Grotta.webp
+| name=Daniel Grotta
+| born=[[1944]]
+| died=[[13 December]] [[2015]]
+| education=
+| occupation=
+| location=
+| website=
+|}}
+
+'''Daniel T. Grotta''' ([[1944]]—[[13 December]] [[2015]]<ref>{{webcite|author=[[Douglas A. Anderson]]|articleurl=http://tolkienandfantasy.blogspot.com/2015/12/end-of-year-chatter.html|articlename=End of the Year Chatter|dated=31 December 2015|website=[http://tolkienandfantasy.blogspot.com/ tolkienandfantasy.blogspot.com]|accessed=1 January 2016}}</ref>), sometimes credited as '''Daniel Grotta-Kurska''', was a freelance american journalist. In [[1976]], Grotta published the first biography of [[J.R.R. Tolkien]]. He gave many speeches on Tolkien, and appeared on both radio and TV shows discussing Tolkien and his work.
+
+==Bibliography, selected==
+===Books===
+* [[1976]]: ''[[J.R.R. Tolkien: Architect of Middle-earth]]''
+
+===Articles===
+* [[2000]]: ''[[J.R.R. Tolkien (Modern Critical Views)]]''
+** "The Author (1953-1965)"
+===Interviews===
+*[http://web.archive.org/web/20040623223810/http://scifi.com/transcripts/2003/asimovs12.09.html ASIMOV'S chat with Douglas A. Anderson and Daniel Grotta] (December 2003)
+*[https://www.festivalartandbooks.com/Journal%20Leiden%20Exhibition%20Special.pdf ''Festival Arts and Books Journal: Leiden Exhibition Edition'', August 2012]
+**"Interview with Daniel Grotta" by [[Alex Lewis]]
+
+==External links==
+* [https://www.sallywienergrotta.com/2015/12/ Obituary] by Sally Wiener Grotta
+* '''[http://www.blastr.com/2013-2-21/tolkien-familys-nasty-efforts-stop-you-reading-new-bio  Tolkien family's 'nasty' efforts to stop you from reading new bio]'''
+{{references}}
+{{DEFAULTSORT:Grotta, Daniel}}
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:People by name]]

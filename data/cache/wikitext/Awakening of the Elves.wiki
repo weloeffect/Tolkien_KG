@@ -1,0 +1,52 @@
+{{sources}}
+{{events
+| image = Maria Awsejkowa - Lake Cuivienen (Children of the Stars).jpg
+| event=Awakening of the Elves
+| othernames=
+| location=[[Cuiviénen]]
+| date={{YT|1050}}
+| result=The existence of [[Elves]] in [[Arda]]
+| partof=[[Ilúvatar|Eru]]'s plan for [[Eä]]
+| participants=Eru, the Elves
+| description=The creation of the Elves
+| references=
+|}}
+{{quote|Eldar ando kakainen loralyar Koivienenissen mennai Orome tanna lende i erenekkoitanie.|Koivienéni Manuscript<ref>{{VT|27}}</ref>}}
+The '''Awakening of the Elves''' took place on the shores of [[Cuiviénen]] during the [[Years of the Trees|Year of the Trees]] [[Year of the Trees 1050|1050]] and marked the beginning of the [[First Age]].<ref>{{MR|P2a}}, p. 51</ref><ref>{{NM|P1xvii}}, p. 123: "''The [[First Age]] begins with the Awaking ''[of the [[Elves]]]'' and ends with the [[War of Wrath|Downfall of Angband]].''"</ref> 
+
+==History==
+
+===Awakening===
+In the Elves' account, the Awakening happened at the precise moment when [[Varda]] finished creating additional stars in the night sky. She had just left the council of the [[Valar]], and was afraid that the [[Firstborn]] would come in darkness, and that [[Melkor]] would find it easy to subvert them.<ref name="Quenta">{{S|3}}</ref>
+
+According to one tradition, the [[Primitive Elvish|first word]] said by the [[Eru-begotten|first Elves]], was the exclamation ''[[EL|ele]]''! ("behold"), when they saw the stars.<ref>{{WJ|Quendi}}, p. 360</ref> The first Elf to awake was called '''[[Imin]]''', the First, and next to him lay '''[[Iminyë]]''', who would become his wife. Nearby '''[[Tata]]''', the Second, awoke with '''[[Tatië]]''' his wife, and then '''[[Enel]]''', the Third, with '''[[Enelyë]]''' his wife.<ref name="Unbegotten">{{WJ|Appendix}}, pp. 420-4</ref>
+
+===Gathering===
+Imin, Tata, and Enel and their wives joined up, and walked through the forests. They first came across six pairs of Elves, and Imin, as eldest, claimed them as his people and woke them. After a short time Imin and his people, together with Tata and Enel, continued their journey. Next, they came across nine pairs of Elves, and Tata as the second eldest claimed them as his people. After a short time the now thirty-six Elves continued their journey. Then they found twelve pairs of Elves, and Enel, as the third eldest, claimed them as his people. For many days the now sixty Elves dwelt by the rivers, and they began to invent poetry and music.
+
+Finally, they set out again, but Imin thought to himself that since each time they had found more Elves, and his folk was least in size, he would now choose last. They came across eighteen pairs of Elves, who were watching the stars, and Tata and Enel waited for Imin to claim them for his people, but Imin told them he would wait, so Tata added them to his folk. They were tall and had dark hair, and they were the fathers of most of the [[Noldor|Ñoldor]] of later times. The ninety-six Elves now spoke with each other and invented many new words, but then they continued their journey. Next, they found twenty-four pairs of Elves, who were singing without language, and again Imin was offered the choice but refused. Therefore Enel chose them as his people, and from them came most of the [[Lindar]] of later times.
+
+The hundred and forty-four Elves now dwelt long together, until all had learned the same language, and they were glad. But then Imin said it was time to seek more companions for him, but most of the others were content and did not join him. So Imin and Iminyë and their twelve companions set out alone, and they searched long near Cuiviénen, but never found any more companions. Since all Elves had been found in pairs of twelves,  twelve became the number they counted with ever after, and 144 was for long their highest number; and in none of their later tongues was there any common name for a greater number.
+[[File:Kip Rasmussen - Orome Discovers the Lords of the Elves.jpg|thumb|left|''Orome Discovers the Lords of the Elves'' by [[:Category:Images by Kip Rasmussen|Kip Rasmussen]]]]
+After the tale of the Awakening of the Elves the ''[[Minyar]]'' or the ''Eldest Company'', forefathers of the [[Vanyar]], numbered fourteen, and they remained the smallest company. The ''[[Tatyar]]'', half of whom became forefathers of the Ñoldor, numbered fifty-six, and they remained the second-largest company. The ''[[Nelyar]]'', the forefathers of the [[Teleri]], were the largest company, numbering seventy-four.<ref name="Unbegotten"/>
+
+===Encountering the Valar===
+[[Morgoth|Melkor]] was the first to learn of the Awakening. He soon began sending evil spirits among the Elves, who planted seeds of doubt against the [[Valar]]. It is also rumoured that some of the Elves were being captured by a Rider if they strayed too far, and as later turned out these were brought to [[Utumno]] and twisted into [[Orcs]].
+
+One day, [[Oromë]] came across the Elves and realised who they were. At first, the Elves were suspicious of him, fearing he was the Rider who captured the Elves, and because of the lies of Melkor. 
+
+===The Sundering of the Elves and the Great Journey===
+Three lords of the Elves agreed to come with Oromë to [[Valinor]] in a pilgrimage known as the. These were [[Ingwë]] of the Minyar, [[Finwë]] of the Tatyar, and [[Elwë]] of the Nelyar. In due time, Ingwë, Finwë and Elwë returned to Cuiviénen, and told the Elves of the glory of Valinor, and there befell the [[Sundering of the Elves]]. All the Minyar and half of the Tatyar were persuaded, along with most of the Lindar, and followed Oromë into the west on the [[Great Journey]]. These have been known ever since by the name [[Eldar]], or "Star-folk", which Oromë gave to them in their own language. The remainder of the Tatyar and Lindar remained suspicious, or simply refused to depart from their own lands, and spread gradually throughout the wide lands of Middle-earth. They later be known by the name [[Avari]].<ref name="Quenta" />
+
+The tale of Imin, Tata and Enel, known as '''''[[Cuivienyarna]]''''' is a legend preserved in almost identical form among both the Elves of [[Aman]] and the [[Sindar]] as a Elvish "fairytale" mingled with counting-lore.<ref name="Unbegotten" />
+
+==See also==
+*[[Cuivienyarna]]
+*[[Debate of the Quendi]]
+
+{{references}}
+{{elves}}
+[[Category:Events]]
+[[Category:First Age]]
+[[de:Cuivienyarna]]
+[[fi:Haltiat#Haltioiden herääminen]]

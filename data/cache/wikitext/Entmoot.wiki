@@ -1,0 +1,34 @@
+{{organization infobox
+| name=Entmoot
+| image = Darrell Sweet - Entmoot.jpg
+| caption="Entmoot" by Darrell Sweet
+| pronun=
+| othernames=
+| founded=
+| founder=[[Treebeard]]
+| purpose=Discussion for [[Ents]]
+| members=Treebeard, [[Bregalad]], [[Beechbone]]
+| location=[[Derndingle]] in [[Fangorn Forest]]
+| disbanded=
+| notablefor=[[Ents#The March of the Ents|Last March of the Ents]]
+| gallery=Entmoots
+}}
+'''Entmoot''' was the name for a meeting of the [[Ents]] of [[Fangorn Forest]], said to be a rare occasion in the later days of the [[Third Age]]. The Moot was held by tradition at a dell in the Forest known as [[Derndingle]].<ref name="Treebeard">{{TT|III4}}</ref>
+==[[War of the Ring]]==
+During the War of the Ring, [[Hobbits]] [[Meriadoc Brandybuck]] and [[Peregrin Took]] came to the [[Fangorn Forest]] and related to [[Treebeard]] of the Wizard [[Saruman|Saruman's]] treachery.
+
+Treebeard then summoned an Entmoot which, due to the slow thinking and speech of the Ents, lasted for days, between [[30 February]] and [[2 March]] {{TA|3019}}.<ref>{{App|Great}}</ref> 
+
+The long, deliberate discussion led to the decision that—facing an inevitable slow extinction—they would attack [[Isengard]] to avenge the damage Saruman's [[Orcs]] had done to their tree-herds. This '[[Battle of Isengard|Last March of the Ents]]' was a significant event in the [[War of the Ring]].<ref name="Treebeard"/>
+
+==Portrayal in adaptations==
+'''2002: ''[[The Lord of the Rings: The Two Towers]]'':'''
+:Unlike in the book, the Entmoot in the film concludes with the Ents refusing to take action against Isengard. The Ents are apparently unaware of the extent of the devastation wrought by Saruman at the time, and it is only later-after Treebeard has walked to within sight of Isengard-that the moot is summoned to war.
+
+{{references}}
+[[Category:Ents]]
+[[Category:Organizations]]
+
+[[de:Entthing]]
+[[fr:encyclo:personnages:ents:chambre des ents]]
+[[fi:Entkäräjät]]

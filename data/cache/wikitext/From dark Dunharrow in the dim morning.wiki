@@ -1,0 +1,30 @@
+{{Unnamed}}
+{{Poem infobox
+| title="From dark Dunharrow in the dim morning"
+| written=Between [[1938]] and [[1954]]
+| revised=Between 1938 and 1954
+| published=''[[The Return of the King]]''<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Dunharrow]], [[Gondor]], [[Rohan]]
+}}
+
+"'''From dark Dunharrow in the dim morning'''" is a song written in [[Rohan]] of the ride of [[Théoden]] and his riders eastward to the aid of [[Gondor]].<ref>{{RK|Muster}}</ref> It is written in alliterative verse, meaning that, instead of rhyming, each verse has several words starting with the same sounds. This type of poetry was common among Germanic peoples, such as the Anglo-Saxons on whom the [[Rohirrim]] were based.
+
+==Poem excerpt==
+<poem style="font-style:italic; margin-left:20px;">
+From dark [[Dunharrow]] in the dim morning
+with thane and captain rode [[Thengel]]'s son:
+to [[Edoras]] he came, the ancient halls
+of the Mark-wardens mist-enshrouded;
+golden timbers were in gloom mantled.</poem>
+
+==See also==
+* [[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+
+===Audio of J.R.R. Tolkien Reading the Poem===
+<youtube>wyWJy4I9qPM</youtube>
+
+{{references}}
+{{poems}}
+[[Category:Poems in The Return of the King]]
+[[Category:Songs]]
+[[fi:Pimeästä Dunhargista hämyssä aamun]]

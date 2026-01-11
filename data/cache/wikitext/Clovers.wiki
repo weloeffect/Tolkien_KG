@@ -1,0 +1,26 @@
+{{plant infobox
+| name=Clovers
+| image=Raised Planter of Wild Clover.jpg
+| caption=A planter with wild clovers in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| location=Middle-earth
+| notablefor=
+| family=
+| appearance=
+}}'''Clovers''' were a family of flowering plants. Cockscomb, purple, and white honey-smelling clovers grew at the edge of [[Beorn]]'s [[bees|bee]]-pastures.<ref>{{Cite DTP|H 07.025}}</ref>
+
+==Portrayal in adaptations==
+'''1984-1997: ''[[Middle-earth Role Playing]]''''' 
+:The books describe two types of clover:
+
+:'''''Bitterlove'''''  ([[Sindarin|S.]] ''Dolgened'', [[Quenya|Q.]] ''Nullacenië'') was a type of four-leaved clover, with small pink flowers. Its fresh leaves could be boiled to produce a sensory-enhancing steam, which allowed both Elves and Men to see as well in the dark as Dwarves could. Dwarves, however, would have their vision reduced.<ref name=healer>{{ICE|2026}}, p. 89</ref>
+
+:'''''Black Clover''''' ([[Sindarin|S.]] ''Mornast'', [[Quenya|Q.]] ''Mornasto'') was a rare and dangerous clover in the higher valley of [[Lebennin]]. Its pollen gave a burning sensation to the lungs, followed by coughing and vomiting. The [[Drúedain]] used it in a poison paste.<ref name=healer/><ref>{{ICE|2010}}, p. 171</ref>
+
+==External links==
+
+*{{WP|Clover}}
+
+{{references}}
+[[Category:Flowers]]

@@ -1,0 +1,143 @@
+{{album
+| image = Beyond the Western Seas.jpg
+| title=Beyond the Western Seas
+| type=studio album
+| artist=<br>[[The Lonely Mountain Band]]
+| released=[[22 September|September 22]], [[2010]]
+| recorded=
+| genre=Folk
+| length=
+| language=English
+| label=
+}}
+'''''Beyond the Western Seas''''' is the first album by the folk band ''[[The Lonely Mountain Band]]''. The album was released on [[22 September|September 22]], [[2010]]. The cover art of the CD was done by [[Ted Nasmith]].  
+
+==Track listing==
+{{tracklist
+| collapsed       = 
+| headline        = 
+| extra_column    = 
+| total_length    = 
+
+| all_writing     = 
+| all_lyrics      = 
+| all_music       = 
+
+| writing_credits = 
+| lyrics_credits  = 
+| music_credits   = 
+
+| title1          = Vingilot
+| note1           = 
+| writer1         = 
+| lyrics1         = 
+| music1          = 
+| extra1          = 
+| length1         = 03:42
+
+| title2          = Swanships of Alqualondë
+| note2           = 
+| writer2         = 
+| lyrics2         = 
+| music2          = 
+| extra2          = 
+| length2         = 02:39
+
+| title3         = The Fall of Gil-galad
+| note3          = 
+| writer3        = 
+| lyrics3        = 
+| music3         = 
+| extra3         = 
+| length3        = 03:19
+
+| title4         = Teleri
+| note4          = 
+| writer4        = 
+| lyrics4        = 
+| music4         = 
+| extra4         = 
+| length4        = 02:58
+
+| title5         = Ballad of Aiglos
+| note5          = 
+| writer5        = 
+| lyrics5        = 
+| music5         = 
+| extra5         = 
+| length5        = 04:34
+
+| title6         = Cuiviénen
+| note6          = 
+| writer6        = 
+| lyrics6        = 
+| music6         = 
+| extra6         = 
+| length6        = 03:27
+
+| title7         = Song of Durin's Awakening
+| note7          = 
+| writer7        = 
+| lyrics7        = 
+| music7         = 
+| extra7         = 
+| length7        = 04:11
+
+| title8         = Let Us Sing Together 
+| note8          = 
+| writer8        = 
+| lyrics8        = 
+| music8         = 
+| extra8         = 
+| length8        = 03:12
+
+| title9         = Lament of Eorl the Young
+| note9          = 
+| writer9        = 
+| lyrics9        = 
+| music9         = 
+| extra9         = 
+| length9        = 02:40
+
+| title10         = Celduin
+| note10          = 
+| writer10        = 
+| lyrics10        = 
+| music10         = 
+| extra10         = 
+| length10        = 03:39
+
+| title11         = Swordsman of the Sky
+| note11          = 
+| writer11        = 
+| lyrics11        = 
+| music11         = 
+| extra11         = 
+| length11        = 04:30
+
+| title12         = Beyond the Western Seas
+| note12          = 
+| writer12        = 
+| lyrics12        = 
+| music12         = 
+| extra12         = 
+| length12        = 09:38
+
+| title13         = Misty Mountain Air 
+| note13          = 
+| writer13        = 
+| lyrics13        = 
+| music13         = 
+| extra13         = 
+| length13        = 
+
+| title14         = Lament of Khazad-dûm 
+| note14          = 
+| writer14        = 
+| lyrics14        = 
+| music14         = 
+| extra14         = 
+| length14        = 
+}}
+{{title|italics}}
+[[Category:Albums]]

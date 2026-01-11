@@ -1,0 +1,66 @@
+{{mythlore
+|title=Mythlore 20
+| image = Mythlore 20.png
+|editor=Gracia Fay Ellwood
+|publisher=[[Mythopoeic Society]]
+|date=Spring [[1979]]
+|format=Paperback
+|pages=47
+}}
+'''''Mythlore'' 20''' ([https://dc.swosu.edu/mythlore/vol6/iss2/ Volume 6, Issue 2]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+==== Articles====
+
+* Wallace, James P. "Notes on Parzifal as the Holy Fool." 3-6.
+*Brenion, Antoinette H. "Heraldry in the Arthuriad: A Brief Survey." 7-9.
+* Slater, Ian Myles. "Bibliographic Note to 'Heraldry in the Arthuriad: A Brief Survey.'" 9, 38.
+*St. Clair, Gloriana. "''The Lord of the Rings'' as Saga." 11-16.
+*Kawano, Roland M. "C.S. Lewis and the Transcendence of Irony." 17-20.
+*Patterson, Nancy-Lou. "The Jewels of Messias: Images of Judaism and Antisemitism in the Novels of Charles Williams." 27-31.
+*Pace, David Paul. "The Influence of Vergil's Aeneid on ''The Lord of the Rings''." 37-38.
+
+====Poetry==== 
+
+*McMurdo, Ian. "Lion of Judah." 24.
+*Boenig, Robert. "Launcelot Running." 36.
+
+====Features ====
+
+*Letters. 21+.
+*Ellwood, Gracia Fay. Editorial. 26.
+*Patterson, Nancy-Lou. “Wild Lemon and Cotton Candy.” Review of ''A Severe Mercy'' by Sheldon Vanauken. 32.
+*Patterson, Nancy-Lou. “Leafing through Lewis.” Review of ''The Joyful Christian'' by C.S. Lewis. 32.
+*Ellwood, Robert S., Jr. “Histories of Two Realms.” Review of ''Science Fiction: An Illustrated History'' by Sam J. Lundwall; ''The Fantasy Book: An Illustrated History from Dracula to Tolkien'' by Franz Rottensteiner. 33.
+*Patterson, Nancy-Lou. “Light-Weight Lightning.” Review of ''Lightning From a Clear Sky'' by Richard Mathews. 34.
+*Patterson, Nancy-Lou. “A Ring of Inklings.” Review of ''[[The Inklings (book)|The Inklings]]'' by [[Humphrey Carpenter]]. 34.
+*Nicholson, Daile. “Halfway to Narnia: Television Tames Aslan.” Review of ''The Lion, The Witch, and The Wardrobe'', Bill Melendez Productions, 1979. 35.
+* Christopher, Joe R. “An Inklings Bibliography (9).” 40-46.
+*Speth, Lee. Cavalier Treatment: “A Connecticut Yankee in Gormanghast.” 46-47.
+
+====Art====
+
+* Elizabeth Best: 10
+*Louis D. Dwarshuis: 14
+* Stephen P. Gaddis: back cover
+*Joanne Gari: 16
+*Mary Jane Johnson: 29, 35, 42, 45
+*[[Tim Kirk]]: cover
+*Michael Logan: 24-25* (art, calligraphy); Calligraphy: 36
+*Thadara Ottobris: 5, 6, 41
+*John Pivovarnick: 12, 24-25* (art), 28
+*Valerie Protopapas: 8, 9, 13, 19, 31, 33
+*Susie Radiche: 20
+*S. Ronson: 4
+* Lee Speth: 22
+* Cover: [[Tim Kirk]], “The Old Hermit” from The Wood Beyond the World.
+* Back Cover: Stephen P. Gaddis, “Riding the Hippogriff.”
+*Page 10: Elizabeth Best, “Eowyn at Meduseld.”
+*Page 31: Valerie Protopaps, “Gandalf.” Reprinted from Frodo Fortnightly #50 by permission of the National Tolkien League.
+
+{{mythlorenav|19|21}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 020}}
+
+[[Category:Mythlore]]

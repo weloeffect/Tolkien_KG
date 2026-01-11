@@ -1,0 +1,28 @@
+{{disambig-more|The Bridge of Khazad-dûm|[[The Bridge of Khazad-dûm (disambiguation)]]}}
+{{chapter
+| image=Martin Mottet - The Shadow and the Flame.jpg
+| caption= "The Shadow and the Flame" by [[:Category:Images by Martin Mottet|Martin Mottet]]
+| title=The Bridge of Khazad-dûm
+| book=The Fellowship of the Ring
+| number=17
+| event=[[Gandalf]] is pulled into a chasm by [[Durin's Bane]]; the [[Fellowship of the Ring|Company]] leaves [[Moria]].
+| date=[[15 January]] {{TA|3019|n}}
+| location=The Mines of [[Moria]]
+| perspective=[[Frodo Baggins|Frodo]]
+| previous=A Journey in the Dark
+| next=Lothlórien (chapter)
+}}
+
+{{quote|'You cannot pass,' he said. The orcs stood still, and a dead silence fell. ‘I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass. The dark fire will not avail you, flame of Udûn. Go back to the Shadow! You cannot pass.’|[[Gandalf]]}}
+'''The Bridge of Khazad-dûm''' is the fifth chapter of the second book in ''[[The Fellowship of the Ring]]''.
+
+==Summary==
+From a book of records found within the tomb, [[Gandalf]] learned that [[Balin]] and the [[Dwarves]] that had recolonised [[Moria]] were attacked by [[Orcs]] and also by a strange beast with no form or body. Gandalf gave the [[Book of Mazarbul]] to [[Gimli]]; all paid their respects to Balin's tomb and left.
+
+Suddenly, the Orcs returned. After a fierce battle in which Frodo was wounded, Gandalf stopped the Orcs with a spell. As if in warning of what is to come, however, a very strong presence nearly made it impossible for Gandalf to use his power.
+
+The further they went through the Mines, the hotter it became, and they realised that the lower levels were on fire. They came across a deep chasm that could only be crossed by a narrow bridge. Gimli led the way, and just as [[Legolas]] drew his bow, he saw a sight that filled him with horror. A great shadow, shaped like a man but having far greater power, was pursuing them. It was a [[Balrogs|Balrog]], known as [[Durin's Bane]], the beast that had attacked Balin and the dwarves. The Balrog had a blade like a stabbing tongue of fire in one hand and a thong of whips in the other. He leapt across the chasm and raced toward them.
+
+[[Boromir]] drew out his horn and blew it. Shortly after, he and [[Aragorn]] ran to aid Gandalf, but Gandalf commanded them to return to the rest of the [[Fellowship of the Ring|company]]. Gandalf stood on the bridge and commanded the Balrog to go back, but it rushed at him with its sword. Gandalf countered it with his own sword, and before it could attack a second time he cut the bridge right out from under the Balrog. With a cry the Balrog toppled into the abyss, slashing its whip at Gandalf. Gandalf became entwined in it, and was dragged down as well.
+
+[[Category:The Fellowship of the Ring chapters|Bridge of Khazad-dum]]

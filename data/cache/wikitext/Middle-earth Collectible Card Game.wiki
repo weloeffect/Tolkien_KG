@@ -1,0 +1,231 @@
+{{Board game infobox
+| name=Middle-earth Collectible Card Game
+| image=meccg.jpg
+| type=ccg
+| designer=	Coleman Charlton, Mike Reynolds
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=[[1995]]
+| players=1-5
+| ages=
+}}
+'''Middle-earth Collectible Card Game''' (MECCG) is a collectible card game released by [[Iron Crown Enterprises]] in late [[1995]]. It is the first CCG based on [[J.R.R. Tolkien]]'s [[Middle-earth]], with added content from [[Iron Crown Enterprises|ICE]]'s [[Middle-earth Role Playing|''Middle-earth Role Playing'' game]].
+
+The cards used in the game feature original artwork by a multitude of artists, many of them longtime Tolkien illustrators such as [[John Howe]], [[Ted Nasmith]], [[Angus McBride]], et al.
+
+==Overview==
+
+[[IMAGE:meccg_back.jpg|thumb|Card back of ''Middle-earth CCG'']]
+
+In its basic form, it is a game for one to five players, each choosing one of the [[Istari|five wizards]] to represent themselves. A ''turn'' in the game consists of one player's wandering around Middle-earth with the help of famous characters of Middle-earth, trying to gather influence and power to aid in the battle against [[Sauron|The Dark Lord]], while another player tries to harass, and ultimately kill his ''characters'' with specific ''hazard'' cards. Then, for each player's turn, the roles change clockwise around the table (the player who was moving his characters then throws hazards at the player to his or her right). Any player may also win by acquiring and destroying [[The One Ring]] after a complicated set of events.
+
+Later expansions have added the possibility to take the role of a [[Nazgûl|Ringwraith]] of [[Sauron]] (''[[Middle-earth: The Lidless Eye|The Lidless Eye]]'' set), a corrupted wizard playing by his own rules (''[[Middle-earth: The White Hand|The White Hand]]'' expansion), the malevolent [[Balrogs|Balrog]] (''[[Middle-earth: The Balrog|The Balrog]]'' expansion), or even Sauron himself. The game is somewhat distinguished from most other CCG's with the use of two six-sided dice for a random factor and also by the actual map of Middle-earth, including ''regions'' your companies travel through, and ''site cards'' they visit. 
+
+''Middle-earth CCG'' won two Origins Awards: ''Best Card Game of 1995'' for ''The Wizards'' and ''Best Graphic Presentation of a Card Game or Expansion of 1996'' for ''The Dragons''. The game's production ended in 1999, when ICE lost the license that allowed them to use the content of Tolkien's ''[[The Lord of the Rings]]'' and ''[[The Hobbit]]'' (this license was later bought by [[Decipher]], who used it to bring out another collectible card game, the ''[[The Lord of the Rings Trading Card Game]]''). ''Middle-earth CCG'' still has a relatively loyal and active fanbase of players.
+
+===Rarity===
+
+Like the majority of collectible card games, individual cards in ''Middle-earth CCG'' occurred more or less often in a booster or starter deck (except in ''[[Middle-earth: The Balrog|The Balrog]]'' expansion). To describe the rarity of a card, [[Iron Crown Enterprises|ICE]] used a code system:
+
+*'''R''' = Rare.   
+*'''U''' = Uncommon.
+*'''C''' = Common.
+*'''F#''' or '''Fixed#''' = Part of a fixed set of cards (of a starter deck).
+
+These abbreviations were often combined with second abbreviations (e.g., "CB2"). For more information on the second abbreviations, which varied in the different expansion and basic sets, see the Card list sections for the individual card sets below.
+
+===Card design and artwork===
+Artists sent their original works to Iron Crown Enterprises, and after photographing the works were returned to the artists.
+
+Because digital cameras in the 1990s lacked the necessary resolution and quality, the artwork was photographed on film. This could, for example, be [[Wikipedia:Sheet film|4 in × 5 in format film]]. To ensure colour accuracy, a control bar with known colour values was included in the photograph. 
+
+After colour correction, the card would be composited with [[Wikipedia:QuarkXPress|QuarkXPress]], the software used for all graphic design, resulting in a high-quality digital print. This was then compared to the original artwork, a process which was repeated until the digital print was a satisfactory match to the painting. 
+
+A final digital version of the card image would then be sent to [[Wikipedia:Cartamundi|Cartamundi]] for printing.<ref>{{Cite web|articleurl=https://www.facebook.com/photo/?fbid=3815271225358904|articlename=Photo and comments|website=Facebook|author=Arthur Brill|dated=2024}}</ref>
+
+===Illustrators===
+Full list of every illustrator whose art appeared in the game:
+{| class="mw-collapsible mw-collapsed"
+|+
+!align=left valign=top|
+*[[Alan Gutierrez]]
+*[[Alan Lee]]
+*[[Alan Pollack]]
+*[[Alan Rabinowitz]]
+*[[Alex Gunther]]
+*[[Allen G. Douglas]]
+*[[Andrew Goldhawk]]
+*[[Angelo Montanini]]
+*[[Angus McBride]]
+*[[April Lee]]
+*[[Audrey Corman]]
+*[[B. Churashev]]
+*[[Brad Williams]]
+*[[Brian Durfee]]
+*[[Brian Snoddy]]
+*[[Brian T. Fox]]
+*[[Brom]]
+*[[Carol Heyer]]
+*[[Chris Cocozza]]
+*[[Chris Hawkes]]
+*[[Chris Trevas]]
+*[[Christina Wald]]
+*[[Christopher Miller]]
+*[[Cortney Skinner]]
+*[[Dameon Willich]]
+*[[Daniel Frazier]]
+*[[Daniel Gelon]]
+*[[Daniel Horne]]
+*[[Darryl Elliott]]
+*[[David A. Cherry]]
+*[[David Deitrick]]
+*[[David Kooharian]]
+*[[David L. Sexton]]
+!align=left valign=top|
+*[[David Martin]]
+*[[David Monette]]
+*[[David R. Seeley]]
+*[[Debbie Hughes]]
+*[[Donato Giancola]]
+*[[Doug Anderson]]
+*[[Doug Kovacs]]
+*[[Douglas Beekman]]
+*[[Douglas Shuler]]
+*[[Douglas Chaffee]]
+*[[Drew Tucker]]
+*[[Edward Beard, Jr.]]
+*[[Eric David Anderson]]
+*[[Eric Schopy]]
+*[[Frank Kelley Freas]]
+*[[Fritz Haas]]
+*[[Gail McIntosh]]
+*[[Hannibal King]]
+*[[Harry Quinn]]
+*[[Heather Hudson]]
+*[[J. Wallace Jones]]
+*[[Jeffrey Reitz]]
+*[[Jo Hartwig]]
+*[[John C. Duke]]
+*[[John Howe]]
+*[[John Luck]]
+*[[John Monteleone]]
+*[[Jon Foster]]
+*[[Julie Freeman]]
+*[[Julio Das Pastoras]]
+*[[Kaja Foglio]]
+*[[Ken Meyer, Jr.]]
+*[[Kevin Ward]]
+!align=left valign=top|
+*[[Kim Demulder]]
+*[[Larry Elmore]]
+*[[Larry Forcella]]
+*[[Lee Seed]]
+*[[Lissanne Lake]]
+*[[Liz Danforth]]
+*[[Lori Deitrick]]
+*[[Lubov]]
+*[[Margaret Organ-Kean]]
+*[[Mark Forrer]]
+*[[Mark Maxwell]]
+*[[Mark Poole]]
+*[[Matthew Innis]]
+*[[Melissa Benson]]
+*[[Mia Tavonatti]]
+*[[Michael Apice]]
+*[[Michael Astrachan]]
+*[[Michael Kucharski]]
+*[[N. Taylor Blanchard]]
+*[[Nathalie Hertz]]
+*[[Nicholas Jainschigg]]
+*[[Olivier Frot]]
+*[[Omar Rayyan]]
+*[[Pamela Shanteau]]
+*[[Pascal Yung]]
+*[[Pat Morrissey]]
+*[[Quinton Hoover]]
+*[[R. Ward Shipman]]
+*[[Randy Asplund-Faith]]
+*[[Randy Gallegos]]
+*[[Rebecca Guay]]
+*[[Rob Alexander]]
+*[[Robin Wood]]
+!align=left valign=top|
+*[[Romas Kukalis]]
+*[[Ron Miller]]
+*[[Ron Rousselle II]]
+*[[Ron Spencer]]
+*[[Ron Walotsky]]
+*[[Ron Chironna]]
+*[[Ronald Shuey]]
+*[[Scott M. Fisher]]
+*[[Stacey K. Kite]]
+*[[Stefano Baldo]]
+*[[Stephan Peregrine]]
+*[[Stephen Daniele]]
+*[[Stephen Walsh]]
+*[[Stephen Hickman]]
+*[[Stephen King]]
+*[[Stephen Schwartz]]
+*[[Steve Luke]]
+*[[Steve Otis]]
+*[[Steven Cavallo]]
+*[[Storn Cook]]
+*[[Susan Van Camp]]
+*[[Ted Nasmith]]
+*[[Thomas Gianni]]
+*[[Tom Cross]]
+*[[Tom Dow]]
+*[[Tom Kidd]]
+*[[Tom Simonton]]
+*[[Val Mayerik]]
+*[[Vicenç Luján]]
+*[[William O'Connor]]
+*[[Zina Saunders]]
+|}
+
+==Products==
+
+===Card sets===
+
+*[[1995]]: '''''[[Middle-earth: The Wizards|The Wizards]]''''' (METW) - first basic set
+**[[1996]]: ''[[Middle-earth: The Dragons|The Dragons]]'' (METD) - expansion set
+**[[1996]]: ''[[Middle-earth: Dark Minions|Dark Minions]]'' (MEDM) - expansion set
+*[[1997]]: '''''[[Middle-earth: The Lidless Eye|The Lidless Eye]]''''' (MELE) - second basic set
+**[[1997]]: ''[[Middle-earth: Against the Shadow|Against the Shadow]]'' (MEAS) - expansion set
+*[[1997]]: '''''[[Middle-earth: The White Hand|The White Hand]]''''' (MEWH)
+*[[1998]]: '''''[[Middle-earth: The Balrog|The Balrog]]''''' (MEBA)
+
+Two more expansion sets were designed, but never reached publication: ''The Dwarf-lords'' and ''The Elf-lords''. In addition, a complete revision of the MECCG was planned to be released in 1999, which was to be named ''Lord of the Rings Expandable Card Game'' (LORE CG).<ref>''CarolinaCon Regional MECCG Newsletter'', Issue 4 (January 1999). Interview with [[Coleman Charlton]].</ref>
+
+===Cards===
+
+*[[Promotional MECCG cards]]
+*[[:CATEGORY:MECCG cards|Individual MECCG cards]]
+
+=== Books ===
+
+*''[[A Long-Expected Party: MECCG Sites and Scenarios]]''
+*''[[Middle-earth: The Wizards Companion]]''
+*''[[Middle-earth: The Wizards Player Guide]]''
+*''[[Middle-earth: The Dragons Player Guide]]''
+*''[[Middle-earth CCG Maps]]''
+*''[[Middle-earth: Dark Minions Player Guide]]''
+*''[[Middle-earth: The Lidless Eye Companion]]''
+*''[[Middle-earth: The Lidless Eye Player Guide]]''
+*''[[Middle-earth: The Wizards Casual Companion]]''
+*''[[Middle-earth: Against the Shadow Player Guide]]''
+
+==See also==
+
+*[[CarolinaCon Regional MECCG Newsletter]]
+*''[[Mastering Middle-earth: Strategies for Middle-earth The Wizards]]''
+
+==External links==
+
+* [https://ccgtrader.co.uk/games/middle-earth-ccg Middle Earth CCG] at [https://ccgtrader.co.uk CCGTrader]
+* [https://councilofelrond.org/ Council of Elrond] (World Coordinating Body for MECCG)
+* [https://www.meccg.com/ MeCCG.com]
+* [http://gccg.sourceforge.net/ Software for playing online free]
+
+{{references}}
+{{Navbox cards}}
+[[Category:Card games]]

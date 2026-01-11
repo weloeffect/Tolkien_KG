@@ -1,0 +1,47 @@
+{{object infobox
+| name=Axe of Tuor
+| image = Natalie Chen - Tuor.jpg
+| caption="Tuor" by [[:Category:Images by Natalie Chen|Natalie Chen]]
+| pronun=
+| othernames=
+| location=[[Gondolin]], [[Númenor]]
+| owner=[[Tuor]], [[Kings of Númenor]]
+| type=Weapon
+| appearance=Great axe
+| creator=
+| created=[[First Age]]
+| createdlocation=
+| destroyer=
+| destroyed={{SA|3319}}
+| destroyedlocation=[[Downfall of Númenor]]
+| notablefor=
+}}
+
+The '''Axe of Tuor''' was the great axe that [[Tuor]] favoured over any sword.
+
+==History==
+Tuor fought with the axe during the [[Fall of Gondolin]], taking it with him when he escaped the downfall of the city. His descendants later took it with them to [[Númenor]] as an heirloom. It was lost during the [[Downfall of Númenor]] because only the [[Ring of Barahir]] was said to have survived.<ref name="Numenor">{{UT|3a}}, Note 2</ref>
+
+==Other versions of the legendarium==
+In ''[[The Book of Lost Tales]]'', the Axe of Tuor was called '''Dramborleg''', meaning "Thudder-Sharp" in [[Gnomish]], though it was also known as ''Drambor''. The axe was named so because with it, Tuor "smote both a heavy dint as of a club and cleft as a sword";<ref name="Name">{{LT2|Appendix}}, entry "Dramborleg"</ref> he slew three [[Balrogs]] and some [[Orcs]] named [[Othrod]], [[Balcmeg]], and [[Lug]].<ref>{{LT2|III}}, p. 181</ref> The [[Qenya]] cognates of Dramborleg were '''''Tarambolaika''''' or '''''Tarambor'''''.<ref name="Name" />
+
+==Portrayal in adaptations==
+===Axe of Tuor in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Rings of Power (TV series) - Axe of Tuor.jpg|The Axe of Tuor in ''[[The Lord of the Rings: The Rings of Power]]''
+</gallery>
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'', Season One:'''
+:'''Episode 4: ''[[The Great Wave]]'':'''
+::When [[Galadriel]] breaks into the [[King's house|King's Tower]] to see [[Tar-Palantir]], the Axe of Tuor is seen leaning against a wall alongside the other heirlooms of Númenor.
+
+{{references}}
+{{weapons}}
+{{gondolin}}
+
+[[Category:Axes]]
+[[Category:Gnomish names]]
+[[Category:Heirlooms]]
+
+[[de:Dramborleg]]
+[[fr:encyclo:artefacts:armes:dramborleg]]
+[[fi:Dramborleg]]

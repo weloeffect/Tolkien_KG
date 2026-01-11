@@ -1,0 +1,16 @@
+{{convention
+| image=
+| title=Oxonmoot 2006
+| location=Somerville College, Oxford
+| organizer=[[The Tolkien Society|Tolkien Society]]
+| dates=September 15th-17th 2006
+| attendees=210
+}}
+{{oxonmoot|2005|2007}}
+==External links==
+*[http://www.oxonmoot.org/ Oxonmoot website]
+**[http://www.tolkiensociety.org/oxon/2006/index.html Oxonmoot 2006 website]
+**[http://www.theonering.net/perl/newsview/8/1158546460 Oxonmoot 2006 report]
+*[http://www.tolkiensociety.org/ The Tolkien Society website]
+
+[[Category:Oxonmoot]]

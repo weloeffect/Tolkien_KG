@@ -1,0 +1,47 @@
+{{anglosaxon infobox
+| name=Rupert Dolbear
+| people=[[wikipedia:English people|Englishman]]
+| image = Afalstein - Notion Club Papers - Dolbear.png
+| caption="Notion Club Papers - Dolbear" by [[:Category:Images by Afalstein|Afalstein]]
+| pronun=
+| othernames=''Ruthless Rufus''; ''Rufus''
+| titles=
+| position=Research Chemist
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1929]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=Red hair and beard
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Rupert Dolbear''' (born in [[1929]]) was a member of the [[Notion Club]].
+
+== History ==
+Rupert Dolbear was a Research Chemist who gained an education at Wadham College, and among his interests were philosophy, psychoanalysis, and gardening. He was a close friend of [[Michael George Ramer]] and was known to the Club as ''Ruthless Rufus''.<ref>{{SD|2b}}</ref> He had a habit of sleeping loudly during long readings or discussions, but he would rouse up in the middle of a debate, showing that he had an odd ability of both sleeping and listening (he said that it was a time-saving habit that long membership of the Club had forced him to acquire).<ref>{{SD|2c}}, "Night 60"</ref>
+
+== Inspiration ==
+There was a chemist's shop in [[Oxford]] called ''Dolbear & Goodall'' and [[Christopher Tolkien]] recollects that his [[J.R.R. Tolkien|father]] found this particularly engaging and that it may be that Tolkien found in Dolbear the chemist a comic appropriateness to [[Robert Havard]] or to Havard as he was going to present him, since in one of the manuscripts he wrote ''Havard'' beneath ''Dolbear'', indicating that Dolbear, with his red hair and beard and his nickname in the Club, can be seen as a sort of a parody of Havard.<ref>{{SD|2a}}</ref>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Dolbear, Rupert}}
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

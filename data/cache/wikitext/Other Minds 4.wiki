@@ -1,0 +1,43 @@
+{{journal
+| title=Other Minds 4
+| image=
+| editor=Hawke Robinson, [[Thomas Morwinsky]], Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=July [[2008]]
+| format=PDF
+| pages=49
+| issn=
+}}
+
+'''''Other Minds'' 4''' is the fourth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in July 2008.
+
+==Contents==
+* "Editorial: Baruk Khazâd - Khazâd ai-mênu"
+** By [[Thomas Morwinsky]]
+* "Whither MERPCon"
+** By Hawke Robinson
+* "The Problem of Dwarf-women"
+** By Neville Percy
+* "A Brief History of the Dwarven Mansions"
+** By Thomas Morwinsky
+* "A Dwarven Runic Cryptogramm"
+** By Neville Percy
+* "Swept off by your feet..."
+** By Thomas Morwinksy
+* "Outer Names for the Western Dwarves"
+** By Neville Percy
+* "The Giant Armoured Moldewarp"
+** By Neville Percy
+* "The Sword of Aulë"
+** By Tom Davie
+* "Fine print"
+* "Creative Commons Licence"
+* "Appendix: Maps for 'A Brief History of Dwarven Mansions'"
+
+*'''Artwork / Maps:'''
+** By: Hawke Robinson
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 04}}
+[[Category:Other Minds]]

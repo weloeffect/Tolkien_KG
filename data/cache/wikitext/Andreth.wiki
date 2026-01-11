@@ -1,0 +1,76 @@
+{{infobox character
+| people=[[Edain|Adan]]
+| name=Andreth
+| image=Elena Kukanova - Andreth.jpg
+| caption="Andreth" by [[Elena Kukanova]]
+| pronun=
+| othernames=''Saelind''
+| titles=Wise-woman of the [[House of Bëor|Bëorians]]
+| position=
+| location=[[Ladros]]
+| affiliation=
+| language=
+| birth={{FA|361}}
+| birthlocation=
+| rule=
+| death=c. {{FA|455}}
+| deathlocation=
+| age=c. 94
+| notablefor=
+| house=[[House of Bëor]]
+| parentage=[[Boromir (Lord of Ladros)|Boromir]]
+| siblings=[[Bregor]] & [[Beril]]
+| spouse=In love with [[Aegnor]] (never married)
+| children=
+| gender=Female
+| height=
+| hair=Dark
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Andreth''' was a wise-woman from the [[House of Bëor]]. She was called ''Saelind'' by the [[Elves]], for she was wise in thought and learned in the lore of [[Men]].<ref name=MR>{{MR|P4}}</ref>
+
+==History==
+Andreth was the elder daughter and second child of [[Boromir (Lord of Ladros)|Boromir]] and a sister to [[Bregor]] and [[Beril]].<ref>{{WJ|West}}, ''(i) The House of Bëor'', p. 231</ref>
+
+In her youth, she dwelt in the house of her uncle, [[Belemir]], where she had learned the lore of the [[House of Hador|House of Marach]] from his wife, the [[Wise-woman]] [[Adanel]].  
+
+Andreth was deeply in love with the [[Noldor]]in Elf-lord [[Aegnor]], the son of [[Finarfin]] and [[Eärwen]] and the brother of [[Finrod]], [[Angrod]], and [[Galadriel]]. During the [[Siege of Angband]], the Elf-lord saw young Andreth in the reflection of [[Aeluin]] and they fell in love with each other. However, he could not reciprocate her love, since, according to the law of the Eldar, no marriages could happen during times of war. It is said that for her sake, he would not take any Elven bride. Both remained unwed and childless. 
+
+She grew in knowledge and understanding of lore, and as she grew older, she was respected as a wisewoman after Adanel.
+
+She had a close friendship with Aegnor's eldest brother, [[King of Nargothrond|King]] Finrod of [[Nargothrond]], who often visited her during the Siege to converse with her wisdom on the matters of Elves and Men. One such conversation was written down and later known as ''[[Athrabeth Finrod ah Andreth]]''.<ref name=MR/>
+
+==Etymology==
+''Andreth'' is a [[Sindarin]] word meaning "long-suffering, 'Patience'".<ref>{{PE|17}}, p. 182</ref> Her other name, ''Saelind'', means "Wise-heart".<ref name=MR>{{MR|P4}}</ref>{{rp|305}}
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | | | | | BOR | | | | | | | | | | | | |BOR=[[Boron]]<br/><small>''{{FA|315|n}} - {{FA|408|n}}''</small>}}
+{{familytree | | | | | | | | | | | |,|-|^|-|.| | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | BOR | | BEL | | | | | | | | | | |BOR=[[Boromir (Lord of Ladros)|Boromir]]<br/><small>''{{FA|338|n}} - {{FA|432|n}}''</small>|BEL=[[Belegor]]<br/><small>''b. {{FA|340|n}}''</small>}}
+{{familytree | | | | | | | | | |,|-|^|-|v|-|-|-|.| | | | | | | | | |}}
+{{familytree | | | | | | | | | BRE | | AND | | BER | | | | | | BEN |BRE=[[Bregor]]<br/><small>''{{FA|359|n}} - {{FA|448|n}}''</small>|AND='''ANDRETH'''<br/><small>''{{FA|361|n}} - {{FA|455|n}}''</small>|BER=[[Beril]]<br/><small>''b. {{FA|365|n}}''</small>|BEN=[[Beren (son of Belemir)|Beren]]<br/><small>''b. {{FA|374|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|v|-|-|-|v|-|-|-|.| | | |!| |}}
+{{familytree | ARA |y| BRE | | HIR | | BRG | | GIL | | BAR |y| EME |ARA=[[Arachon]]<br/><small>''unknown''</small>|BRE=[[Bregil]]<br/><small>''b. {{FA|386|n}}''</small>|HIR=[[Hirwen]]<br/><small>''{{FA|389|n}}''</small>|BRG=[[Bregolas]]<br/><small>''{{FA|393|n}} - {{FA|455|n}}''</small>|GIL=[[Gilwen]]<br/><small>''b. {{FA|397|n}}''</small>|BAR=[[Barahir]]<br/><small>''{{FA|400|n}} - {{FA|460|n}}''</small>|EME=[[Emeldir]]<br/><small>''b. {{FA|406|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |,|-|-|-|+|-|-|-|.| | | | | |!| | | |}}
+{{familytree | BRA | | BEL | | BET | | BAR | | BEG | | | | BER | | |BRA=[[Brandir (son of Arachon)|Brandir]]<br/><small>''b. {{FA|409|n}}''</small>|BEL=[[Beldis]]<br/><small>''b. {{FA|411|n}}''</small>|BET=[[Beleth]]<br/><small>''b. {{FA|417|n}}''</small>|BAR=[[Baragund]]<br/><small>''{{FA|420|n}} - {{FA|460|n}}''</small>|BEG=[[Belegund]]<br/><small>''{{FA|422|n}} - {{FA|460|n}}''</small>|BER=[[Beren]]<br/><small>''{{FA|432|n}} - {{FA|503|n}}''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In the first drafts of the ''[[Athrabeth Finrod ah Andreth|Athrabeth]]'', Andreth acknowledges she belongs to those of the "[[Old Hope|Great Hope]]", while in the final text she remains skeptical about that belief.<ref>{{MR|P4m}}, pp. 351-352</ref>
+
+In a late linguistic text, a note on the language of the [[Haladin]] mentions a prophecy of Andreth of unclear context and content:
+{{blockquote|The language of the Folk of Haleth was not used, for they had perished and would not rise again. Nor would their tongue be heard again, unless the prophecy of Andreth the [[Wise-woman]] should prove true, that [[Túrin]] in the [[War of Wrath]] should return from the Dead, and before he left the [[Circles of the World]] for ever should challege the Great Dragon of Morgoth, [[Ancalagon|Ancalagon the Black]], and deal him the death-stroke.<ref name=Andreth>{{PM|Ros}}, pp. 374-375, note 17</ref>}} 
+
+{{references}}
+[[Category:Edain]]
+[[Category:First Age characters]]
+[[Category:House of Bëor]]
+[[Category:Sindarin names]]
+
+[[de:Andreth]]
+[[fi:Andreth]]
+[[fr:encyclo:personnages:hommes:1a:peuple de beor:andreth]]

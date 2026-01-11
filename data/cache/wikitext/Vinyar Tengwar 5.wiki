@@ -1,0 +1,28 @@
+{{VTbox
+| title=Vinyar Tengwar 5
+| image = Vinyar Tengwar 5.jpg
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=May [[1989]]
+| format=Paperback journal
+| pages=16
+}}
+'''''Vinyar Tengwar 5''''' is the fifth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|4|6}}
+
+==Contents==
+* Cover: "Daeron demonstrating the Certhas to Thingol in Nivrim" — Tom Loback
+* E.L.F. News
+* Letters to ''VT''
+
+* "Quenya Higher Oral Paper" — Jenny Coombs
+* "''Essitalmar''" (column) — Tom Loback
+* "Translation from the Auld Elvish" — Arden R. Smith
+* "Glossaries from the '[[Etymologies]]', Part I" — Ronald Kyrmse
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 05}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 5]]

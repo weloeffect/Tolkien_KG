@@ -1,0 +1,14 @@
+{{letter infobox
+| #=170
+| to=[[Allen and Unwin|Allen & Unwin]]
+| date=[[30 September]] [[1955]]
+| subject=''[[The Return of the King]]'', publication
+}}{{letter|170}}
+==Summary==
+The fragment of this letter to [[Allen and Unwin|Allen & Unwin]] that [[Christopher Tolkien]] and [[Humphrey Carpenter]] chose to include consists of only two sentences: "When is [[The Return of the King|Vol. III]] likely now to appear? I shall be murdered if something does not happen soon."
+==Notes==
+* ''[[The Return of the King]]'' was published on [[20 October|October 20]], [[1955]]. 
+* Tolkien wasn't murdered. 
+{{letters}}
+[[Category:Letters to Allen & Unwin]]
+[[de:Brief 170]]

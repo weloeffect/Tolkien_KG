@@ -1,0 +1,47 @@
+{{Mallorn
+| name=Mallorn 35
+| image = Mallorn35.jpg
+| editor=[[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+| artist=[[Pauline Baynes]]
+| printer=
+| date=September [[1997]]
+| format=A4 stapled paperback, glossy
+| pages=60
+| issn=0308-6674
+}}
+'''''Mallorn'' 35''' is the thirty-fifth issue of the [[The Tolkien Society]]'s  journal ''[[Mallorn (journal)|Mallorn]]'', published in September [[1997]].
+
+==Contents==
+* '''Cover Art'''
+** By: [[Pauline Baynes]]
+* '''Editorial'''
+** By: [[Patricia Reynolds|Pat Reynolds]] and [[John Ellison]]
+* '''Articles'''
+** The Balrog Report
+*** By: Hibernia
+** Problems of Good and Evil in Tolkien's ''The Lord of the Rings''
+*** By: Craig Clark
+** 'The Hill at Hobbiton' Vernacular Architecture in the Shire
+*** By: [[Patricia Reynolds]]
+* '''Reviews'''
+** ''Lembas Extra 1995'' and ''Lembas Extra 1996''
+*** By: Jessica Yates
+** ''[[Defending Middle-Earth]]''
+*** By: [[John Ellison]]
+** ''[[J.R.R. Tolkien (Writers and Their Work)|J.R.R. Tolkien]]''
+*** By: Sarah Wells
+* '''Articles'''
+** Tolkien's Trees
+*** By: Claudia Riiff Rinseth
+** The Shire and Notting Hill
+*** By: Michael Foster
+** Tolkien and Space Travel - Part Two
+*** By: Anthony Appleyard
+* '''Contributors'''
+* '''Inside Art'''
+** By: Gordon Palmer, Sergei Iukhimov
+{{mallornnav|34|36}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 35}}
+
+[[Category:Mallorn (journal)]]

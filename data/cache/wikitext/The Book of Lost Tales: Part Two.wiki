@@ -1,0 +1,86 @@
+{{disambig-two|the second book in ''[[The History of Middle-earth]]'' series|conceptual phase of the [[legendarium]]|[[The Book of Lost Tales]]}}
+{{book
+| title=The Book of Lost Tales: Part Two
+| image = Lost Tales II 1984.jpeg
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[George Allen and Unwin]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[16 August]] [[1984]]
+| dateUS=[[26 November]] 1984
+| format=Hardcover; paperback
+| pages=385
+| isbn=0048232653
+| precededby=[[The Book of Lost Tales: Part One]] (1983)
+| followedby=[[The Lays of Beleriand]] (1985)
+}}
+'''''The Book of Lost Tales: Part Two''''', published in [[1984]], is the second volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+The book is the continuation of ''[[The Book of Lost Tales: Part One]]''. It includes the first forms of the tales of [[Beren]] and [[Lúthien]], [[Túrin]] and the [[Glaurung|Dragon]], the [[Nauglamír|Necklace of the Dwarves]], and the [[Fall of Gondolin]]. Each tale is followed by a commentary in the form of a short essay, together with the texts of associated poems, and contains extensive information on names and vocabulary in the earliest [[Elvish]] languages.
+
+==Contents==
+* Preface
+
+* I. "[[The Tale of Tinúviel]]" — first version of the tale of [[Beren]] and [[Lúthien]]
+
+* II."[[Turambar and the Foalókë]]" — first version of the [[Túrin]] saga
+
+* III. "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]" — the only full narrative of the Fall of [[Gondolin]]
+
+* IV. "[[The Nauglafring]]" — tale of the Dwarven necklace known as the [[Nauglamír]]
+
+* V. "[[The Tale of Eärendel]]" — the only full narrative of [[Eärendil]]'s travels
+
+* VI. "[[The History of Eriol or Ælfwine and the End of the Tales]]" — an essay about the changes in the framework, and the "unwritten" tales
+
+* Appendix: Names in the ''Lost Tales'' - Part II
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book II reads:
+
+:"''This is the second part of the Book of the Lost Tales of Elfinesse which [[Eriol|Eriol the Mariner]] learned from the Elves of Tol Eressëa, the Lonely Isle in the western ocean, and afterwards wrote in the [[Golden Book]] of [[Tavrobel]]. Herein are told the Tales of Beren and Tinúviel, of Turambar, of the Fall of Gondolin, and of the Necklace of the Dwarves.''"
+
+==From the publisher==
+{{blockquote|The second of a two-book set that contains the early myths and legends which led to the writing of Tolkien’s epic tale of war, The Silmarillion.<br>
+This second part of The Book of Lost Tales includes the tale of Beren and Lúthien, Túrin and the Dragon, and the only full narratives of the Necklace of the Dwarves and the Fall of Gondolin, itself the finest and most exciting depiction of a battle that Tolkien ever wrote. Each tale is followed by a commentary in the form of a short essay, together with texts of associated poems, and contains extensive information on names and vocabulary in the earliest Elvish languages.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Lost Tales II 1984.jpeg |1984 hardcover
+File:Lost Tales II 1986.jpeg |1986 paperback
+File:Lost Tales II 1988.jpeg |1986 paperback 3rd impression
+File:Lost Tales II 1991.jpeg |1991 hardcover
+File:Lost Tales II 1995.jpeg |1995 paperback
+File:The Book of Lost Tales Two (HC2002).png ‎|2002 & 2015 paperback
+File:Lost Tales II 2010.png |2010 hardcover
+File:Lost Tales II 2023.jpeg |2023 hardcover
+File:Lost Tales II 2024.jpeg |2024 paperback
+</gallery>
+* [[George Allen & Unwin]], hardcover ([[1984]]), pp.&nbsp;385. ISBN 0048232653
+*  Unicorn / Unwin Paperbacks, paperback ([[1986]]), ISBN 0048233382 - (cover art by [[Roger Garland]])
+** 1986 paperback edition, 3rd impression ([[1988]])
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102133
+* [[HarperCollins]] paperback ([[1995]]), ISBN 0261102141 - (cover art by [[John Howe]])
+** 1995 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365268
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2023]]), ISBN 978-0008663155 - ([[Centenary Boxed Sets]] #1)
+** 2015 paperback edition, 38th impression ([[2024]])
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#ii A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Book of Lost Tales Part 2}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+
+[[de:Das Buch der Verschollenen Geschichten Teil 2]]
+[[fi:The Book of Lost Tales 2]]

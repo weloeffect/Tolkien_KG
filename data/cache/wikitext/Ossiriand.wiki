@@ -1,0 +1,92 @@
+{{kingdom
+| image=Christopher Tolkien - Ossiriand.jpg
+| name=Ossiriand
+| pronun=
+| othernames=Land of Seven Rivers, [[Lindon]]
+| location=Eastern [[Beleriand]], between the [[Ered Luin]] and [[Gelion]]
+| capital=
+| towns=
+| regions=[[Dor Firn-i-Guinar]]
+| population=[[Green-elves]]
+| language=[[Nandorin]], [[Sindarin]]
+| govern1=[[Denethor (son of Lenwë)|Denethor]] ({{YT|1350}} - {{YT|1497}})
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date={{YT|1350}}
+| event2=Arrival of [[Beren]] and [[Lúthien]]
+| event2date={{FA|469}}
+| event3=Destruction of [[Beleriand]]
+| event3date={{FA|587}}
+| event4=Foundation of [[Lindon]]
+| event4date={{SA|1}}<ref name=Rings>{{S|Rings}}</ref>
+| event5=
+| event5date=
+| followedby=[[Lindon]]
+}}
+'''Ossiriand''' was a region of eastern [[Beleriand]] bounded by the River [[Gelion]] on the west, the River [[Ascar]] on the north, the [[Ered Luin]] on the east, and the River [[Adurant]] on the south.<ref>{{S|Map}}</ref>  It was a wooded region with many elm trees.<ref>{{TT|III4}}</ref> It survived the drowning of [[Beleriand]] in the [[War of Wrath]], and was afterwards known solely as [[Lindon]].
+
+==History==
+In the [[Elder Days]], a green, forested and little-peopled region in easternmost [[Beleriand]]<ref group=note>While Tolkien stated that Ossiriand was a part of Beleriand, he wrote in a manuscript that it "''was regarded as a separate country''". ({{PE|18}}, p. 79)</ref> at the western feet of the Blue Mountains was named ''Ossiriand'' ("Land of Seven Rivers") by the [[Sindar]].<ref name=WJC>{{WJ|C}}, p. 385</ref><ref name=GA1350>{{GA|1350}}, p. 13</ref>
+
+In the early [[First Age]] before the rise of the [[Moon]],<ref>{{MR|P3I3}}, p. 164 (§29)</ref> a part of the [[Teleri]]n [[Elves|Elven]] people called [[Nandor]] entered Ossiriand under their leader [[Denethor (son of Lenwë)|Denethor]], and were given permission by [[Thingol]] to settle the lands. These Nandor clad themselves in raiment the colour of leaves, and thus became known as the [[Green-elves]].<ref name=Sindar>{{S|10}}</ref>
+
+The woodcraft of the Elves of Ossiriand grew great, and they could remain unseen by those who might pass through their land. The [[Noldor]] could hear their singing from across the river Gelion, and named the country [[Lindon]], the land of music.<ref>{{S|14}}</ref>
+
+Thingol called upon Denethor for aid after being assailed by [[Orcs]], and Denethor led a group of Elves from Ossiriand and joined in the [[First Battle of Beleriand]]. Denethor's people were lightly armed and no match for the Orcs. Although the Elves had the victory, Denethor and many of the Elves that followed him from Ossiriand were slain. Those that returned to Ossiriand brought tidings of fear, and the Green-elves went never again to open war. Many fled to [[Doriath]] and joined Thingol's people there, and those remaining in Ossiriand took to secrecy and chose no more kings.<ref name=Sindar/><ref>{{LR|Quenta}}, p. 263 (§114)</ref>
+
+[[Finrod Felagund]], a lord of the [[Noldor]], visited Ossiriand at times, and befriended the Green-elves.<ref name=Sindar/> In the days of the [[Long Peace]], he crossed into Ossiriand and discovered a camp of [[Men]] in a valley there, led by [[Bëor the Old]]. Felagund went among them, and learned that more Men were also journeying westward. The Green-elves were troubled by the coming of Men into their land, and upon their request Felagund advised Bëor to relocate his people. The people of Bëor obliged and removed to [[Estolad]] in the lands of [[Amrod]] and [[Amras]].<ref>{{S|17}}</ref>
+
+In the following centuries of the [[First Age]], Ossiriand suffered little from the [[Battles of Beleriand]]. Following the [[Dagor Bragollach]] and the breaking of the [[Siege of Angband]], some of the [[Grey-elves]] fled to Ossiriand. [[Caranthir]], Amrod, and Amras maintained a watch on [[Amon Ereb]] with the help of the Green-elves, and Orcs came not into Ossiriand.<ref>{{S|18}}</ref> After the return of [[Beren]] and [[Lúthien]] from the dead, they crossed into Ossiriand and stayed in [[Dor Firn-i-Guinar]] on [[Tol Galen]], an island located in the river [[Adurant]].<ref>{{S|20}}</ref> After the death of [[Thingol]], the [[Dwarves of Nogrod]] tried to return home with the treasure of [[Menegroth]]; but they were waylaid by Beren, leading an army of Green-elves of Ossiriand. The Dwarves were slain, or fled and were driven by [[Ents]] into the woods of the [[Ered Luin]]. The treasure was cast into the River [[Ascar]].<ref>{{S|22}}</ref>
+
+As a result of the [[War of Wrath]], much of Beleriand sank, and the Ered Luin were broken, allowing the [[Great Sea|Sea]] to flow through and form the [[Gulf of Lhûn]]. Ossiriand, which remained above the sea, was ever afterwards called [[Lindon]].<ref name=Rings/>
+
+For its later history, see '''[[Lindon]]'''.
+
+==Geography==
+The Land of Seven Rivers lay between the River [[Gelion]] and the [[Blue Mountains]]. It was so named because Gelion and its six tributaries watered the lands. The Seven Rivers were, from north to south:<ref name=GA1350/>
+#River ''[[Gelion]]''
+#River ''[[Ascar]]'' or ''Rathlóriel''
+#River ''[[Thalos]]''
+#River ''[[Legolin]]''
+#River ''[[Brilthor]]''
+#River ''[[Duilwen]]''
+#River ''[[Adurant]]'', with [[Tol Galen]]
+
+North of Ossiriand lay the land of [[Thargelion]], and south of the river Adurant later lay [[Dor Firn-i-Guinar]]. Along the northern shore of the Ascar ran the [[Dwarf-road of Beleriand|Dwarf-road]] to [[Nogrod]].
+
+==Etymology==
+''Ossiriand'' is [[Sindarin]], meaning "the Land of Seven Rivers"<ref name=PE1781>{{PE|17}}, p. 81</ref> (alternatively "Land of Seven Streams"<ref>{{SM|Q10}}, p. 116</ref>).
+
+*Etymology: ''[[otso]]'' + ''[[sîr]]'' + ''[[-ian(d)]]''<ref name=PE1781/>
+
+==Other versions of the legendarium==
+Early names used by [[J.R.R. Tolkien]] for this region were ''Ossiriande'',<ref name="Lay">{{LB|C1}}, pp. 158-160</ref> ''Assariad'' and ''Ossiriath''.<ref>{{SM|4f}}, p. 233</ref>
+
+''Ossiriand'' appears for the first time in a list of names jotted down "on a page of rough working for the opening of the [[The Lay of Leithian|Lay]]" (of Leithian). These names were composed when [[Tolkien]] was probably looking to replace the name ''[[Broseliand]]'' (later Beleriand).<ref name="Lay"/>
+
+{{references|note}}
+
+{{navigation
+| title= Ossiriand
+| north-west= [[Amon Ereb]]
+| north= [[Thargelion]]
+| north-east= [[Nogrod]]
+| west= [[Taur-im-Duinath]]
+| east= [[Ered Luin]]
+| south-west=
+| south=
+| south-east=
+|}}
+
+{{ossiriandrivers}}
+[[Category:Beleriand]]
+[[Category:Noldorin locations]]
+[[Category:Regions]]
+[[Category:Sindarin locations]]
+[[de:Ossiriand]]
+[[fi:Ossiriand]]
+[[fr:encyclo/geographie/regions/beleriand/ossiriand]]

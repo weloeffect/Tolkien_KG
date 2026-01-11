@@ -1,0 +1,19 @@
+{{expansion}}
+{{video game infobox
+| image = Midden-aarde MUD.png
+| name=Midden-aarde MUD
+| developer=''Irmo'' and his team
+| publisher=
+| platform=[[wikipedia:Windows XP|Windows XP]]
+| releasedate=2009
+| genre=MUD
+}}
+'''Midden-aarde MUD''' (Dutch: ''Middle-earth MUD'') is a Dutch MUD made by "Irmo" and several other programmers. In 2009 the unofficial test version was launched, with gameplay in [[Middle-earth]] as a [[Hobbits|Hobbit]], [[Men]], [[Dwarves|Dwarf]], [[Elves|Elf]] or [[Rangers of the North|Dúnedain-Ranger]]. Later that year the project was canceled for a time. But since [[2010]] the game is play-able again. The MUD originally only included [[the Shire]], but now also includes gameplay in [[Bree-land]], [[Rivendell]] and [[Ost-in-Edhil]].
+
+== Exterenal Links ==
+* [http://192.87.65.104:6001 Web Login (Internet)]
+* [telnet://192.87.65.104:6000 Web Login (Telnet)]
+* [http://www.gangsterlife.org/tih_invision/index.php?s=fb8b9f89c1a76b8fb92470d1e04109fa&act=idx Official Forum]
+{{title|italics}}
+[[Category:Microsoft Windows games]]
+[[Category:Multi-User Dungeons]]

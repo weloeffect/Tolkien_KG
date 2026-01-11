@@ -1,0 +1,59 @@
+{{location infobox
+| name=Anórien
+| image=The Lord of the Rings Online - Anórien.jpg
+| caption=Anórien in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| location=North of the [[White Mountains]], between the [[Mering Stream]] in the west and [[Minas Tirith]] in the east
+| type=Region/fief
+| description=The royal lands around [[Minas Tirith]]
+| regions=[[Drúadan Forest]], [[Firien Wood]]
+| towns=[[Osgiliath]], [[Minas Anor]] (later [[Minas Tirith]]) 
+| inhabitants=Primarily [[Gondorians]] (A remnant of the [[Drúedain]] lived in the [[Drúadan Forest]])
+| created=
+| destroyed=
+| events=[[Siege of Gondor]], [[Battle of the Pelennor Fields]]
+}}
+'''Anórien''' was a region and fiefdom of [[Gondor]].
+
+==Geography==
+When Isildur and Anárion divided the South Kingdom of Gondor among them Anárion took the region between the river [[Erui]] and the river [[Anduin]] to Mount [[Mindolluin]] and then west to the [[Firienholt]] (back then called the North Wood).<ref>{{VT|42a}}, entry ''Arnen'', p. 18</ref> Thus Anórien originally included Minas Tirith (back then called Minas Anor) and the land between the river Erui and the river Anduin.<ref name=Nomen>{{HM|N}}, entry Sunlending, p. 776</ref> It is unknown if and when the land between the eastern end of the [[White Mountains]] and the river Anduin between the falls of [[Rauros]] and the river Erui ceased to be a part of Anórien and if the land between the Erui and the Anduin became a part of Lebennin, Lossarnach or another region.<ref>{{HM|UI}}, entry ''Gondor'', "anciently including [...] Anórien between Entwash and the White Mts. and all the land betw west of Anduin from Rauros to river Erui", p. 17</ref>
+
+After [[Calenardhon]] was given to the [[Éothéod]] to become the Kingdom of [[Rohan]], the western borders of Anórien were the [[Mering Stream]] and the Mouths of the [[Entwash]],<ref name=Map>{{RK|Map}}</ref> the Anduin and the west-cliffs of the [[Emyn Muil]].<ref>{{UT|Eorl}}, "The bounds of the realm of Eorl"</ref>
+
+[[File:Mark Fisher - Anorien.png|thumb|left|Map of Anorien]]
+The land contained the [[Drúadan Forest]] and fertile farmlands. The [[Great West Road]] traversed the fief. The [[Warning beacons of Gondor]] were located to the south of the road.<ref name=Map/>
+
+==History==
+During the [[Elder Days]], the region was occupied by [[Pre-Númenóreans]].<ref>{{UT|Cirion}}</ref> These were separated relatives of the [[House of Haleth]] while the [[Edain]] migrated to the west during the late [[First Age]]. The aboriginal [[Drúedain|Woses]] fled to the forests of that region, hunted by the [[Men of Darkness]].<ref>{{UT|Druedain}}</ref>
+
+At the end of the [[Second Age]], the region was given to [[Anárion]] as part of the [[Realms in Exile]] and was named 'Anórien' after him. Anárion built [[Minas Anor]] on [[Hill of Guard|Amon Tirith]] of the [[Mindolluin]].
+
+Peoples from Anórien, as well as from [[Ithilien]] and [[Calenardhon]] joined with [[Eldacar (King of Gondor)|Eldacar]] against [[Castamir]] in the [[Kin-strife]].<ref>{{App|Gondor}}</ref>
+
+As the [[Great Plague]] spread, cities were evacuated and many fled to [[Ithilien]] and Anórien.
+
+Steward [[Túrin II]] fortified the isle of [[Cair Andros]] to defend Anórien.<ref>{{PM|Elendil}}</ref>
+
+By the time of the [[War of the Ring]], Anórien was one of the few fiefs which was dominated by the [[Dúnedain of Gondor]]; specifically, in [[Minas Tirith]] and the adjacent townlands where [[Sindarin]] was still known and used as a daily language.<ref name=languages>{{App|Men}}</ref><ref name="Language">{{PM|Languages}}</ref> It would appear that the western part of Anórien (from [[Min-Rimmon]] westward) was deserted or depopulated by this time, as tidings of the coronation of [[Aragorn]] went out into "''all parts of Gondor, from Min-Rimmon even to [[Pinnath Gelin]] and the far coasts of the sea''".<ref>{{RK|Steward}}</ref>
+
+When [[Sauron]] released a secondary force from the [[Morannon]], they overwhelmed the defenders of [[Cair Andros]], and used the island to cross into Anórien. They blocked the eastward progress of the [[Rohirrim]] as they rode to Gondor's aid, though after the [[Battle of the Pelennor Fields]], [[Elfhelm]] and 3000 Rohirrim chased them down and pushed them back out of Anórien.<ref>{{RK|Debate}}</ref>
+
+==Etymology==
+''Anórien'' is a [[Sindarin]] name.<ref name=Eldamo>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-3068197151.html|articlename=S. ''Anórien'' loc.|website=Eldamo|accessed=06 February 2022}}</ref> It means "Sunlending" in the language of the [[Rohirrim]].<ref name=Nomen/> Its meaning in modern English is not glossed, but Paul Strack suggests that it literally means "Sun-lands" and is a compound of ''[[Sun|Anor]]'' ("sun") and the plural ''[[-nd|-ien]]'' of the place name suffix ''-ian(d)''.<ref name=Eldamo/>
+
+The name does not refer to a climate characterised by the sun, but to the '[[Heraldry|heraldic]]' name of [[Anárion]].<ref name=Nomen/>
+
+==Portrayal in adaptations==
+'''2015: ''[[The Lord of the Rings Online]]'':'''
+:Anórien is divided into two in-game regions. "Old Anórien" includes [[Minas Tirith]], the [[Pelennor Fields]] and the lands directly to the north - the "Talath Anor". Lands from the [[Grey Wood]] to the [[Halifirien]] are called the "Far Anorien", they include the [[Druadan Forest]] and the [[Gondor]]ian town of "Ost Rimmon" located under the [[Min-Rimmon]] beacon.
+
+{{references}}
+{{FellowshipRoute}}
+{{DEFAULTSORT:Anorien}}
+[[Category:Regions of Gondor]]
+[[Category:Sindarin locations]]
+
+[[de:Anórien]]
+[[fi:Anórien]]
+[[fr:encyclo/geographie/regions/gondor/anorien]]

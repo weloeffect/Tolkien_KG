@@ -1,0 +1,20 @@
+{{actor
+| image =
+| name = Cameron Rhodes
+| lifetime = [[1 August]] [[1967]]
+| played = [[Farmer Maggot]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| imdb = [https://www.imdb.com/name/nm0722397/ Profile]
+}}
+'''Cameron Rhodes''' (b. [[1 August|August 1]], [[1967]]) is a New Zealand actor. He played [[Farmer Maggot]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]''.
+
+==External links==
+* {{WP|Cameron Rhodes}}
+
+{{DEFAULTSORT:Rhodes, Cameron}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Cameron Rhodes]]

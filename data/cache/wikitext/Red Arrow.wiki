@@ -1,0 +1,43 @@
+{{object infobox
+| name=The Red Arrow
+| image = NimwenHabareth - Hirgon.png
+| caption="Hirgon" by [[:Category:Images by NimwenHabareth|NimwenHabareth]]
+| pronun=
+| othernames=
+| location=[[Gondor]], [[Rohan]]
+| owner=
+| type=Symbolic weapon
+| appearance=Black flights, steel barbs; red mark painted on the arrow's tip
+| creator=
+| created=
+| createdlocation=
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+| gallery=the Red Arrow
+}}
+
+The '''Red Arrow''' was an arrow used by [[Gondor]] as a symbol to summon its allies from [[Rohan]] in times of war.<ref name=Muster>{{RK|Muster}}, pp. 798-801</ref>
+
+==Characteristics==
+The Red Arrow had black feathers and barbs made of steel. Its point was painted red.<ref name=Muster/>
+
+==History==
+The Red Arrow had not been used to summon aid from Rohan during the life of [[Théoden]], the King of Rohan, until it was presented to him on March 9, 3019 by [[Hirgon]], a mounted messenger that had been sent by Steward [[Denethor]] of Gondor to summon the aid of the [[Rohirrim]].<ref name=Muster/>
+
+After Hirgon had spent the night and witnessed the muster of Rohan on March 10, 3019<ref name=Muster/> he rode back to Gondor with the Red Arrow and his companion who had accompanied him on his errand. They were probably killed before they reached the [[Rammas Echor]], the outer wall that protected the [[Pelennor Fields]], the townlands and fields that lay before [[Minas Tirith]], the capital of Gondor, because on [[14 March]] {{TA|3019}}<ref>{{App|Great}}, entry for the year 3019, March 14, p. 1093</ref> scouts of the Rohirrim found two Gondorian dead messengers and two dead horses between the [[Grey Wood]] and the Rammas Echor. One of the dead messengers whose head was hewn off still held the Red Arrow in his hand. They found signs that indicated that the two message riders of Gondor were riding back westwards when they were killed. In the opinion of [[Elfhelm]], the leader of the first ''éored'' of the muster of the [[East-mark]] of Rohan, the two message riders of Gondor reached the Rammas [[12 March|two days earlier]] (supposing they obtained fresh horses from the posts as message riders usually did), but that they could not pass through it to reach Minas Tirith, because it had either already been taken by or was already under attack by the forces of Sauron and that the two riders had turned back westwards.<ref>{{RK|Ride}}, p. 835</ref>
+
+==Inspiration==
+It has been noted that [[J.R.R. Tolkien]]'s concept of the use of a red arrow by Gondor to summon the Rohirrim to war is very reminiscent of a similar use in ''[[The House of the Wolfings]]'', a novel by [[William Morris]],<ref>{{HM|RC}}, p. 540</ref> which Tolkien owned and from which he took inspiration.<ref name=CGMorris>[[Wayne G. Hammond]] and [[Christina Scull]] (2006), ''[[The J.R.R. Tolkien Companion and Guide]]: Reader's Guide'', "Morris, William", p. 600</ref> Morris's use of the device is based on Germanic folk tradition, recorded for instance in the twelfth-century ''History of the Danes'' by the writer known as Saxo Grammaticus, Book Five of which says that "on all occasion of any sudden and urgent war, an arrow of wood, looking like iron, used to be passed on everywhere from man to man as a messenger.”
+
+==Portrayal in Adaptations==
+
+'''1980: [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]:''' 
+
+The Red Arrow makes a brief appearance where it is conveyed to Theoden by a messenger of Gondor.
+
+{{references}}
+{{weapons}}
+
+[[Category:Arrows]]

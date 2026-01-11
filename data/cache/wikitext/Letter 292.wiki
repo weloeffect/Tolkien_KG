@@ -1,0 +1,11 @@
+{{letter infobox
+| #=292
+| to=[[Joy Hill]]
+| date=[[12 December]] [[1966]]
+| subject=[[Fan fiction]]
+}}{{letter|292}}
+==Summary==
+A "[[Tolkien fandom|fan]]" was going to write a "[[fanfiction|sequel]]", and sent Tolkien details. Tolkien sent the material to [[Joy Hill]] of [[Allen and Unwin|Allen & Unwin]], and asked her of the legal position. He asked for a formal letter from the publisher to dissuade the writer, fearing a publisher might publish "such tripe". He explained that when he personally rejected an earlier fan-proposed sequel the young writer wrote a harsh rant back.
+{{letters}}
+[[de:Brief 292]]
+[[Category:Letters to Joy Hill]]

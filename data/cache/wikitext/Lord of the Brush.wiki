@@ -1,0 +1,35 @@
+{{film infobox
+| name=Lord of the Brush
+| image=Lord of the Brush.webp
+| caption=
+| director=Gretchen Jordon-Bastow
+| writer=Werner Aellen
+| screenplay=
+| basedon=
+| producer=
+| starring=[[John Howe]], Robin Hobb, Fataneh Howe
+| narrator=
+| cinematography=
+| editing=
+| music=
+| animator=
+| studio=
+| distributor=
+| released=
+| runtime=52 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=0772238
+}}
+'''''Lord of the Brush''''' is a DVD released in [[2005]] detailing the artist [[John Howe]]'s history and passion for [[J.R.R. Tolkien]]'s works.
+
+==External links==
+* [http://www.lordofthebrush.com Official website] [Last checked as offline]
+* [https://secure.thriva.com/Reg/Form.aspx?guid=6fb26ad6-f9cd-4783-869a-be84bdaac477-1053-17076332220003 Purchase from Thriva.com]
+* [http://www.documentarychannel.com/store/product_info.php?products_id=100 Order from DocumentaryChannel.com] [Last checked as unavailable]
+
+{{title|italics}}
+[[Category:Documentaries]]

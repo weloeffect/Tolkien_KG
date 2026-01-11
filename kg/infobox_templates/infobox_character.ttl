@@ -1,0 +1,1036 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Adanel> a schema:WebPage ;
+    rdfs:label "Adanel"@en ;
+    schema:about <http://localhost:8000/resource/Adanel> .
+
+<http://localhost:8000/page/Adelard_Took> a schema:WebPage ;
+    rdfs:label "Adelard Took"@en ;
+    schema:about <http://localhost:8000/resource/Adelard_Took> .
+
+<http://localhost:8000/page/Aegnor> a schema:WebPage ;
+    rdfs:label "Aegnor"@en ;
+    schema:about <http://localhost:8000/resource/Aegnor> .
+
+<http://localhost:8000/page/Aerin> a schema:WebPage ;
+    rdfs:label "Aerin"@en ;
+    schema:about <http://localhost:8000/resource/Aerin> .
+
+<http://localhost:8000/page/Aghan> a schema:WebPage ;
+    rdfs:label "Aghan"@en ;
+    schema:about <http://localhost:8000/resource/Aghan> .
+
+<http://localhost:8000/page/Ailinel> a schema:WebPage ;
+    rdfs:label "Ailinel"@en ;
+    schema:about <http://localhost:8000/resource/Ailinel> .
+
+<http://localhost:8000/page/Aldamir> a schema:WebPage ;
+    rdfs:label "Aldamir"@en ;
+    schema:about <http://localhost:8000/resource/Aldamir> .
+
+<http://localhost:8000/page/Aldor> a schema:WebPage ;
+    rdfs:label "Aldor"@en ;
+    schema:about <http://localhost:8000/resource/Aldor> .
+
+<http://localhost:8000/page/Algund> a schema:WebPage ;
+    rdfs:label "Algund"@en ;
+    schema:about <http://localhost:8000/resource/Algund> .
+
+<http://localhost:8000/page/Almarian> a schema:WebPage ;
+    rdfs:label "Almarian"@en ;
+    schema:about <http://localhost:8000/resource/Almarian> .
+
+<http://localhost:8000/page/Almiel> a schema:WebPage ;
+    rdfs:label "Almiel"@en ;
+    schema:about <http://localhost:8000/resource/Almiel> .
+
+<http://localhost:8000/page/Amari%C3%AB> a schema:WebPage ;
+    rdfs:label "Amarië"@en ;
+    schema:about <http://localhost:8000/resource/Amari%C3%AB> .
+
+<http://localhost:8000/page/Amlach> a schema:WebPage ;
+    rdfs:label "Amlach"@en ;
+    schema:about <http://localhost:8000/resource/Amlach> .
+
+<http://localhost:8000/page/Amlaith> a schema:WebPage ;
+    rdfs:label "Amlaith"@en ;
+    schema:about <http://localhost:8000/resource/Amlaith> .
+
+<http://localhost:8000/page/Amroth> a schema:WebPage ;
+    rdfs:label "Amroth"@en ;
+    schema:about <http://localhost:8000/resource/Amroth> .
+
+<http://localhost:8000/page/An%C3%A1rion> a schema:WebPage ;
+    rdfs:label "Anárion"@en ;
+    schema:about <http://localhost:8000/resource/An%C3%A1rion> .
+
+<http://localhost:8000/page/Anair%C3%AB> a schema:WebPage ;
+    rdfs:label "Anairë"@en ;
+    schema:about <http://localhost:8000/resource/Anair%C3%AB> .
+
+<http://localhost:8000/page/Anardil_%28King_of_Gondor%29> a schema:WebPage ;
+    rdfs:label "Anardil (King of Gondor)"@en ;
+    schema:about <http://localhost:8000/resource/Anardil_%28King_of_Gondor%29> .
+
+<http://localhost:8000/page/Anborn> a schema:WebPage ;
+    rdfs:label "Anborn"@en ;
+    schema:about <http://localhost:8000/resource/Anborn> .
+
+<http://localhost:8000/page/Andr%C3%B3g> a schema:WebPage ;
+    rdfs:label "Andróg"@en ;
+    schema:about <http://localhost:8000/resource/Andr%C3%B3g> .
+
+<http://localhost:8000/page/Andreth> a schema:WebPage ;
+    rdfs:label "Andreth"@en ;
+    schema:about <http://localhost:8000/resource/Andreth> .
+
+<http://localhost:8000/page/Andwise_Roper> a schema:WebPage ;
+    rdfs:label "Andwise Roper"@en ;
+    schema:about <http://localhost:8000/resource/Andwise_Roper> .
+
+<http://localhost:8000/page/Angamait%C3%AB> a schema:WebPage ;
+    rdfs:label "Angamaitë"@en ;
+    schema:about <http://localhost:8000/resource/Angamait%C3%AB> .
+
+<http://localhost:8000/page/Angrod> a schema:WebPage ;
+    rdfs:label "Angrod"@en ;
+    schema:about <http://localhost:8000/resource/Angrod> .
+
+<http://localhost:8000/page/Annael> a schema:WebPage ;
+    rdfs:label "Annael"@en ;
+    schema:about <http://localhost:8000/resource/Annael> .
+
+<http://localhost:8000/page/Ar-Ad%C3%BBnakh%C3%B4r> a schema:WebPage ;
+    rdfs:label "Ar-Adûnakhôr"@en ;
+    schema:about <http://localhost:8000/resource/Ar-Ad%C3%BBnakh%C3%B4r> .
+
+<http://localhost:8000/page/Arador> a schema:WebPage ;
+    rdfs:label "Arador"@en ;
+    schema:about <http://localhost:8000/resource/Arador> .
+
+<http://localhost:8000/page/Araglas> a schema:WebPage ;
+    rdfs:label "Araglas"@en ;
+    schema:about <http://localhost:8000/resource/Araglas> .
+
+<http://localhost:8000/page/Aragorn_I> a schema:WebPage ;
+    rdfs:label "Aragorn I"@en ;
+    schema:about <http://localhost:8000/resource/Aragorn_I> .
+
+<http://localhost:8000/page/Aragost> a schema:WebPage ;
+    rdfs:label "Aragost"@en ;
+    schema:about <http://localhost:8000/resource/Aragost> .
+
+<http://localhost:8000/page/Arahad_I> a schema:WebPage ;
+    rdfs:label "Arahad I"@en ;
+    schema:about <http://localhost:8000/resource/Arahad_I> .
+
+<http://localhost:8000/page/Arahad_II> a schema:WebPage ;
+    rdfs:label "Arahad II"@en ;
+    schema:about <http://localhost:8000/resource/Arahad_II> .
+
+<http://localhost:8000/page/Arahael> a schema:WebPage ;
+    rdfs:label "Arahael"@en ;
+    schema:about <http://localhost:8000/resource/Arahael> .
+
+<http://localhost:8000/page/Aranarth> a schema:WebPage ;
+    rdfs:label "Aranarth"@en ;
+    schema:about <http://localhost:8000/resource/Aranarth> .
+
+<http://localhost:8000/page/Arantar> a schema:WebPage ;
+    rdfs:label "Arantar"@en ;
+    schema:about <http://localhost:8000/resource/Arantar> .
+
+<http://localhost:8000/page/Aranuir> a schema:WebPage ;
+    rdfs:label "Aranuir"@en ;
+    schema:about <http://localhost:8000/resource/Aranuir> .
+
+<http://localhost:8000/page/Aranw%C3%AB> a schema:WebPage ;
+    rdfs:label "Aranwë"@en ;
+    schema:about <http://localhost:8000/resource/Aranw%C3%AB> .
+
+<http://localhost:8000/page/Araphant> a schema:WebPage ;
+    rdfs:label "Araphant"@en ;
+    schema:about <http://localhost:8000/resource/Araphant> .
+
+<http://localhost:8000/page/Araphor> a schema:WebPage ;
+    rdfs:label "Araphor"@en ;
+    schema:about <http://localhost:8000/resource/Araphor> .
+
+<http://localhost:8000/page/Arassuil> a schema:WebPage ;
+    rdfs:label "Arassuil"@en ;
+    schema:about <http://localhost:8000/resource/Arassuil> .
+
+<http://localhost:8000/page/Aratan> a schema:WebPage ;
+    rdfs:label "Aratan"@en ;
+    schema:about <http://localhost:8000/resource/Aratan> .
+
+<http://localhost:8000/page/Arathorn_I> a schema:WebPage ;
+    rdfs:label "Arathorn I"@en ;
+    schema:about <http://localhost:8000/resource/Arathorn_I> .
+
+<http://localhost:8000/page/Arathorn_II> a schema:WebPage ;
+    rdfs:label "Arathorn II"@en ;
+    schema:about <http://localhost:8000/resource/Arathorn_II> .
+
+<http://localhost:8000/page/Tar-Alcarin> a schema:WebPage ;
+    rdfs:label "Tar-Alcarin"@en ;
+    schema:about <http://localhost:8000/resource/Tar-Alcarin> .
+
+<http://localhost:8000/page/Tar-Aldarion> a schema:WebPage ;
+    rdfs:label "Tar-Aldarion"@en ;
+    schema:about <http://localhost:8000/resource/Tar-Aldarion> .
+
+<http://localhost:8000/page/Tar-Amandil> a schema:WebPage ;
+    rdfs:label "Tar-Amandil"@en ;
+    schema:about <http://localhost:8000/resource/Tar-Amandil> .
+
+<http://localhost:8000/page/Tar-An%C3%A1rion> a schema:WebPage ;
+    rdfs:label "Tar-Anárion"@en ;
+    schema:about <http://localhost:8000/resource/Tar-An%C3%A1rion> .
+
+<http://localhost:8000/page/Tar-Ancalim%C3%AB> a schema:WebPage ;
+    rdfs:label "Tar-Ancalimë"@en ;
+    schema:about <http://localhost:8000/resource/Tar-Ancalim%C3%AB> .
+
+<http://localhost:8000/page/Tar-Ancalimon> a schema:WebPage ;
+    rdfs:label "Tar-Ancalimon"@en ;
+    schema:about <http://localhost:8000/resource/Tar-Ancalimon> .
+
+<http://localhost:8000/page/Telimektar> a schema:WebPage ;
+    rdfs:label "Telimektar"@en ;
+    schema:about <http://localhost:8000/resource/Telimektar> .
+
+<http://localhost:8000/resource/Adanel> a schema:Person ;
+    tg:birth "{{FA|339}}"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Presumably_Estolad> ;
+    tg:caption <http://localhost:8000/resource/Adanel_%28right%29_in_%22Adanel_the_Wise%22_by_%3ACategory%3AImages_by_Juliana_Pinho> ;
+    tg:children <http://localhost:8000/resource/Beren_%28son_of_Belemir%29> ;
+    tg:death "unknown (aged 35+)"@en ;
+    tg:gender "Female"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Hador> ;
+    tg:image "Juliana Pinho - Adanel the Wise.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Estolad%3B_Hithlum%3B%7B%7Bfact%7D%7D_Dorthonion%7B%7Bfact%7D%7D> ;
+    tg:name "Adanel"@en ;
+    tg:parentage <http://localhost:8000/resource/Malach_Aradan_%26_Zimrahin_Meldis> ;
+    tg:people <http://localhost:8000/resource/Edain> ;
+    tg:position "\"Wise-woman\""@en ;
+    tg:siblings <http://localhost:8000/resource/Magor> ;
+    tg:spouse <http://localhost:8000/resource/Belemir_of_the_House_of_B%C3%ABor> .
+
+<http://localhost:8000/resource/Adelard_Took> a schema:Person ;
+    tg:age "95"@en ;
+    tg:birth "{{SR|1328}}"@en ;
+    tg:caption <http://localhost:8000/resource/Adelard_Took_from_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:children <http://localhost:8000/resource/Reginard_Took%2C_Everard_Took%2C_2_daughters> ;
+    tg:death "{{SR|1423}}"@en ;
+    tg:family <http://localhost:8000/resource/Took_Family> ;
+    tg:gender "Male"@en ;
+    tg:image "The Lord of the Rings Online - Adelard Took.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:name "Adelard Took"@en ;
+    tg:parentage <http://localhost:8000/resource/Flambard_Took> ;
+    tg:people <http://localhost:8000/resource/Hobbits> .
+
+<http://localhost:8000/resource/Aegnor> a schema:Person ;
+    tg:age <http://localhost:8000/resource/between_c._1%2C726_%26_c._2%2C297%3Cref_group%3D%22note%22%3EYears_of_the_Sun._Each_Years_of_the_Trees> ;
+    tg:birth <http://localhost:8000/resource/Between_%7B%7BYT> ;
+    tg:birthlocation <http://localhost:8000/resource/Eldamar> ;
+    tg:caption <http://localhost:8000/resource/%22Aegnor%22_by_Elena_Kukanova> ;
+    tg:children "None"@en ;
+    tg:death "{{FA|455}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/In_the_Dagor_Bragollach> ;
+    tg:gender "Male"@en ;
+    tg:hair "Golden"@en ;
+    tg:height "Tall"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Finarfin> ;
+    tg:image "Elena Kukanova - Aegnor 2.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Quenya%3Cbr/%3ESindarin> ;
+    tg:location <http://localhost:8000/resource/Eldamar%3Cbr/%3EDorthonion> ;
+    tg:name "Aegnor"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ambar%C3%A1to%27%27_%28Quenya> ;
+    tg:parentage <http://localhost:8000/resource/Finarfin_%26_E%C3%A4rwen> ;
+    tg:people <http://localhost:8000/resource/Noldor> ;
+    tg:position <http://localhost:8000/resource/Lord_of_Dorthonion> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:rule "{{FA|7}} - {{FA|455|n}}"@en ;
+    tg:siblings <http://localhost:8000/resource/Finrod%3Cbr/%3EAngrod%3Cbr/%3EGaladriel> ;
+    tg:spouse <http://localhost:8000/resource/Never_married_%28loved_Andreth%29> .
+
+<http://localhost:8000/resource/Aerin> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22Aerin%22_by_%3ACategory%3AImages_by_Turner_Mohan> ;
+    tg:death "{{FA|496}} (suicide)"@en ;
+    tg:deathlocation "Dor-lómin"@en ;
+    tg:gender "Female"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Hador> ;
+    tg:image "Turner Mohan - Aerin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Dor-l%C3%B3min> ;
+    tg:name "Aerin"@en ;
+    tg:othernames "Lady Aerin, Indor’s daughter"@en ;
+    tg:parentage <http://localhost:8000/resource/Indor> ;
+    tg:people <http://localhost:8000/resource/Edain> ;
+    tg:spouse <http://localhost:8000/resource/Brodda> .
+
+<http://localhost:8000/resource/Aghan> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Dr%C3%BAedain%2C_Haladin> ;
+    tg:gender "Male"@en ;
+    tg:height "Short"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Dr%C3%BAadan_language> ;
+    tg:location <http://localhost:8000/resource/Brethil> ;
+    tg:name "Aghan"@en ;
+    tg:people <http://localhost:8000/resource/Dr%C3%BAedain> ;
+    tg:siblings "Unnamed brother"@en .
+
+<http://localhost:8000/resource/Ailinel> a schema:Person ;
+    tg:birth "{{SA|712}}"@en ;
+    tg:children <http://localhost:8000/resource/Soronto> ;
+    tg:death "unknown (aged 87+)"@en ;
+    tg:gender "Female"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Ailinel"@en ;
+    tg:parentage <http://localhost:8000/resource/Tar-Meneldur_and_Almarian> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:siblings <http://localhost:8000/resource/Tar-Aldarion_and_Almiel> ;
+    tg:spouse <http://localhost:8000/resource/Orchaldor> .
+
+<http://localhost:8000/resource/Aldamir> a schema:Person ;
+    tg:age "210"@en ;
+    tg:birth "{{TA|1330}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Aldamir_of_Gondor%22_by_%3ACategory%3AImages_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:children <http://localhost:8000/resource/Hyarmendacil_II> ;
+    tg:death "{{TA|1540}}"@en ;
+    tg:gender "Male"@en ;
+    tg:image "Matěj_Čadil_-_Aldamir_of_Gondor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:name "Aldamir"@en ;
+    tg:parentage <http://localhost:8000/resource/Eldacar_%28King_of_Gondor%29> ;
+    tg:people <http://localhost:8000/resource/Gondorians> ;
+    tg:rule "{{TA|1490}} - {{TA|1540|n}} (50 years)"@en ;
+    tg:siblings <http://localhost:8000/resource/Ornendil> ;
+    tg:titles <http://localhost:8000/resource/Kings_of_Gondor> .
+
+<http://localhost:8000/resource/Aldor> a schema:Person ;
+    tg:birth "{{TA|2544}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22The_House_of_Eorl_-_Aldor_the_Old%22_by_L%C3%ADda_Holubov%C3%A1> ;
+    tg:children <http://localhost:8000/resource/Three_unnamed_daughters%2C_Fr%C3%A9a> ;
+    tg:death "{{TA|2645}} (aged 101)"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Eorl> ;
+    tg:image "Lída Holubová - The House of Eorl - Aldor the Old.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Rohanese_and_Westron> ;
+    tg:location <http://localhost:8000/resource/Rohan> ;
+    tg:name "Aldor"@en ;
+    tg:othernames <http://localhost:8000/resource/%22the_Old%22> ;
+    tg:parentage <http://localhost:8000/resource/Brego> ;
+    tg:people <http://localhost:8000/resource/Rohirrim> ;
+    tg:rule "{{TA|2570}} – {{TA|2645|n}} (75 years)"@en ;
+    tg:siblings <http://localhost:8000/resource/Baldor_and_Eofor> ;
+    tg:titles <http://localhost:8000/resource/Kings_of_Rohan> .
+
+<http://localhost:8000/resource/Algund> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Gaurwaith> ;
+    tg:gender "Male"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Mannish_dialect> ;
+    tg:location <http://localhost:8000/resource/Dor-l%C3%B3min%2C_Dor-C%C3%BAarthol> ;
+    tg:name "Algund"@en ;
+    tg:people <http://localhost:8000/resource/Edain> .
+
+<http://localhost:8000/resource/Almarian> a schema:Person ;
+    tg:birth "Before {{SA|700}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22A_Royal_Wedding_in_N%C3%BAmenor%22_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:children <http://localhost:8000/resource/Tar-Aldarion> ;
+    tg:death "After {{SA|900}}"@en ;
+    tg:gender "Female"@en ;
+    tg:hair "Golden"@en ;
+    tg:image "Matěj Čadil - A Royal Wedding in Numenor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Almarian"@en ;
+    tg:parentage <http://localhost:8000/resource/V%C3%ABantur> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|740}} - {{SA|883|n}} (143 years)"@en ;
+    tg:spouse <http://localhost:8000/resource/Tar-Meneldur> ;
+    tg:titles "Queen of Númenor"@en .
+
+<http://localhost:8000/resource/Almiel> a schema:Person ;
+    tg:birth "{{SA|729}}"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Forostar> ;
+    tg:gender "Female"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Almiel"@en ;
+    tg:parentage <http://localhost:8000/resource/Tar-Meneldur_and_Almarian> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:siblings <http://localhost:8000/resource/Tar-Aldarion> .
+
+<http://localhost:8000/resource/Amari%C3%AB> a schema:Person ;
+    tg:birth "During {{YT}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Amarie_of_the_Vanyar%22_by_Marya_Filatova> ;
+    tg:gender "Female"@en ;
+    tg:image "Marya Filatova - Amarie of the Vanyar.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Vanyarin> ;
+    tg:location <http://localhost:8000/resource/Valinor> ;
+    tg:name "Amárië"@en ;
+    tg:people <http://localhost:8000/resource/Vanyar> ;
+    tg:spouse <http://localhost:8000/resource/Finrod_%28lover%29> .
+
+<http://localhost:8000/resource/Amlach> a schema:Person ;
+    tg:birth "{{FA|337}}"@en ;
+    tg:caption <http://localhost:8000/resource/Amlach_%28right%29_in_%22Adanel_and_Amlach%22_by_%3ACategory%3AImages_by_Juliana_Pinho> ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Hador> ;
+    tg:image "Juliana Pinho - Adanel and Amlach.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Mannish_dialect> ;
+    tg:name "Amlach"@en ;
+    tg:parentage <http://localhost:8000/resource/Imlach> ;
+    tg:people <http://localhost:8000/resource/Edain> .
+
+<http://localhost:8000/resource/Amlaith> a schema:Person ;
+    tg:age "220"@en ;
+    tg:birth "{{TA|726}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Amlaith%2C_king_of_Arthedain%22_by_%3ACategory%3AImages_by_ElfinFen> ;
+    tg:children <http://localhost:8000/resource/Beleg_%28King_of_Arthedain%29> ;
+    tg:death "{{TA|946}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:image "ElfinFen - Amlaith, king of Arthedain.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Arthedain> ;
+    tg:name "Amlaith"@en ;
+    tg:parentage <http://localhost:8000/resource/E%C3%A4rendur_%28King_of_Arnor%29> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|861}} - {{TA|946|n}}"@en ;
+    tg:siblings "two unnamed brothers"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_Arthedain> .
+
+<http://localhost:8000/resource/Amroth> a schema:Person ;
+    tg:age "4,685+"@en ;
+    tg:birth "Before c. {{SA|730}}<ref name=Note>{{UT|4a}}, note 6</ref>"@en ;
+    tg:caption <http://localhost:8000/resource/%22Amroth%22_by_%3ACategory%3AImages_by_Olga_Kukhtenkova> ;
+    tg:death "{{TA|1981}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/Bay_of_Belfalas> ;
+    tg:gender "Male"@en ;
+    tg:hair "Bright<ref name=amroth/>"@en ;
+    tg:image "Olga Kukhtenkova - Amroth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Silvan_Elvish> ;
+    tg:location <http://localhost:8000/resource/Lothl%C3%B3rien%2C_Edhellond> ;
+    tg:name "Amroth"@en ;
+    tg:parentage <http://localhost:8000/resource/Amd%C3%ADr> ;
+    tg:people <http://localhost:8000/resource/Sindar> ;
+    tg:rule "{{SA|3434}} - {{TA|1981}}"@en ;
+    tg:spouse <http://localhost:8000/resource/Nimrodel_%28betrothed%29> ;
+    tg:titles <http://localhost:8000/resource/King_of_L%C3%B3rien> .
+
+<http://localhost:8000/resource/An%C3%A1rion> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Faithful%2C_Last_Alliance_of_Elves_and_Men> ;
+    tg:age "221"@en ;
+    tg:birth "{{SA|3219}}"@en ;
+    tg:birthlocation <http://localhost:8000/resource/And%C3%BAni%C3%AB%2C_N%C3%BAmenor> ;
+    tg:caption <http://localhost:8000/resource/%22An%C3%A1rion%22_by_Liz_Danforth> ;
+    tg:children <http://localhost:8000/resource/Three_unnamed_children%2C_Meneldil> ;
+    tg:death "{{SA|3440}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/During_Siege_of_Barad-d%C3%BBr> ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elendil%2C_founded_the_House_of_An%C3%A1rion> ;
+    tg:image "Liz Danforth - Anárion.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Quenya%2C_Sindarin%2C_and_Ad%C3%BBnaic> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor%2C_Gondor> ;
+    tg:name "Anárion"@en ;
+    tg:notablefor <http://localhost:8000/resource/Founded_Gondor_with_Isildur> ;
+    tg:parentage <http://localhost:8000/resource/Elendil> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:rule "{{SA|3320}} - {{SA|3440|n}} (joint reign)"@en ;
+    tg:siblings <http://localhost:8000/resource/Isildur> ;
+    tg:titles <http://localhost:8000/resource/King_of_Gondor> .
+
+<http://localhost:8000/resource/Anair%C3%AB> a schema:Person ;
+    tg:birth <http://localhost:8000/resource/during_the_Years_of_the_Trees> ;
+    tg:caption <http://localhost:8000/resource/%22Anaire%22_by_Marya_Filatova> ;
+    tg:children <http://localhost:8000/resource/Fingon%2C_Turgon%2C_Aredhel_and_Argon> ;
+    tg:gender "Female"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Fingolfin_%28by_marriage%29> ;
+    tg:image "Marya Filatova - Anaire.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Quenya> ;
+    tg:location <http://localhost:8000/resource/Valinor> ;
+    tg:name "Anairë"@en ;
+    tg:people <http://localhost:8000/resource/Noldor> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:spouse <http://localhost:8000/resource/Fingolfin> .
+
+<http://localhost:8000/resource/Anardil_%28King_of_Gondor%29> a schema:Person ;
+    tg:age "275"@en ;
+    tg:birth "{{TA|136}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Anardil_of_Gondor%22_by_Mat%C4%9Bj_%C4%8Cadil> ;
+    tg:children <http://localhost:8000/resource/Ostoher> ;
+    tg:death "{{TA|411}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_An%C3%A1rion> ;
+    tg:image "Matěj Čadil - Anardil of Gondor.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Westron_and_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:name "Anardil"@en ;
+    tg:parentage <http://localhost:8000/resource/E%C3%A4rendil_%28King_of_Gondor%29> ;
+    tg:people <http://localhost:8000/resource/Gondorians> ;
+    tg:rule "{{TA|324}} - {{TA|411}} (87 years)"@en ;
+    tg:titles <http://localhost:8000/resource/Kings_of_Gondor> .
+
+<http://localhost:8000/resource/Anborn> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Rangers_of_Ithilien> ;
+    tg:birth <http://localhost:8000/resource/Late_Third_Age> ;
+    tg:caption <http://localhost:8000/resource/Anborn_from_The_Lord_of_the_Rings_Trading_Card_Game> ;
+    tg:gender "Male"@en ;
+    tg:image "Decipher - Anborn.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Westron%2C_Sindarin> ;
+    tg:location <http://localhost:8000/resource/Near_the_Harad_Road%2C_Henneth_Ann%C3%BBn%2C_Forbidden_Pool> ;
+    tg:name "Anborn"@en ;
+    tg:people <http://localhost:8000/resource/Gondorians> ;
+    tg:position "Scout<br>Archer"@en ;
+    tg:weapons "Bow<ref name=\"pool\">{{TT|Pool}}</ref>"@en .
+
+<http://localhost:8000/resource/Andr%C3%B3g> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Gaurwaith> ;
+    tg:birthlocation <http://localhost:8000/resource/Dor-l%C3%B3min> ;
+    tg:caption <http://localhost:8000/resource/Andr%C3%B3g_%28standing%2C_right%29_in_%22Forweg%27s_end%22_by_Anke_Ei%C3%9Fmann> ;
+    tg:children <http://localhost:8000/resource/Andv%C3%ADr> ;
+    tg:death "{{FA|489}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/Amon_R%C3%BBdh> ;
+    tg:gender "Male"@en ;
+    tg:image "Anke Eißmann - Forweg's end.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Dor-C%C3%BAarthol> ;
+    tg:name "Andróg"@en ;
+    tg:people <http://localhost:8000/resource/Edain> ;
+    tg:position "Outlaw"@en ;
+    tg:weapons "Bow and knife"@en .
+
+<http://localhost:8000/resource/Andreth> a schema:Person ;
+    tg:age "c. 94"@en ;
+    tg:birth "{{FA|361}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Andreth%22_by_Elena_Kukanova> ;
+    tg:death "c. {{FA|455}}"@en ;
+    tg:gender "Female"@en ;
+    tg:hair "Dark"@en ;
+    tg:house <http://localhost:8000/resource/House_of_B%C3%ABor> ;
+    tg:image "Elena Kukanova - Andreth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Ladros> ;
+    tg:name "Andreth"@en ;
+    tg:othernames "''Saelind''"@en ;
+    tg:parentage <http://localhost:8000/resource/Boromir_%28Lord_of_Ladros%29> ;
+    tg:people <http://localhost:8000/resource/Edain> ;
+    tg:siblings <http://localhost:8000/resource/Bregor_%26_Beril> ;
+    tg:spouse <http://localhost:8000/resource/In_love_with_Aegnor_%28never_married%29> ;
+    tg:titles <http://localhost:8000/resource/Wise-woman_of_the_House_of_B%C3%ABor> .
+
+<http://localhost:8000/resource/Andwise_Roper> a schema:Person ;
+    tg:birth "{{SR|1323}}"@en ;
+    tg:children <http://localhost:8000/resource/Anson_Roper> ;
+    tg:family <http://localhost:8000/resource/Gamgee_Family> ;
+    tg:gender "Male"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Tighfield> ;
+    tg:name "Andwise Roper"@en ;
+    tg:othernames "Andy"@en ;
+    tg:parentage <http://localhost:8000/resource/Hobson> ;
+    tg:people <http://localhost:8000/resource/Hobbits> ;
+    tg:siblings <http://localhost:8000/resource/Gaffer_Gamgee> .
+
+<http://localhost:8000/resource/Angamait%C3%AB> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Corsairs_of_Umbar> ;
+    tg:caption <http://localhost:8000/resource/%22Angamait%C3%AB%22_by_Liz_Danforth> ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_An%C3%A1rion> ;
+    tg:image "Liz Danforth - Angamaitë.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Umbar> ;
+    tg:name "Angamaitë"@en ;
+    tg:parentage <http://localhost:8000/resource/%27%27unknown%27%27%3B_great-grandson_of_Castamir> ;
+    tg:people <http://localhost:8000/resource/Gondorians> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> .
+
+<http://localhost:8000/resource/Angrod> a schema:Person ;
+    tg:age <http://localhost:8000/resource/between_c._1%2C726_%26_c._2%2C297%3Cref_group%3D%22note%22%3EYears_of_the_Sun._Each_Years_of_the_Trees> ;
+    tg:birth <http://localhost:8000/resource/Between_%7B%7BYT> ;
+    tg:birthlocation <http://localhost:8000/resource/Eldamar> ;
+    tg:caption <http://localhost:8000/resource/%22Angrod%22_by_Elena_Kukanova> ;
+    tg:children <http://localhost:8000/resource/Orodreth> ;
+    tg:death "{{FA|455}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/In_the_Dagor_Bragollach> ;
+    tg:gender "Male"@en ;
+    tg:hair "Golden"@en ;
+    tg:height "Tall"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Finarfin> ;
+    tg:image "Elena_Kukanova_-_Angrod.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Quenya%3Cbr/%3ESindarin> ;
+    tg:location <http://localhost:8000/resource/Eldamar%3Cbr/%3EDorthonion> ;
+    tg:name "Angrod"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Angar%C3%A1to%27%27_%28Quenya> ;
+    tg:parentage <http://localhost:8000/resource/Finarfin_%26_E%C3%A4rwen> ;
+    tg:people <http://localhost:8000/resource/Noldor> ;
+    tg:position <http://localhost:8000/resource/Lord_of_Dorthonion> ;
+    tg:pronun <http://localhost:8000/resource/Sindarin> ;
+    tg:rule "{{FA|7}} - {{FA|455|n}}"@en ;
+    tg:siblings <http://localhost:8000/resource/Finrod%3Cbr/%3EAegnor%3Cbr/%3EGaladriel> ;
+    tg:spouse <http://localhost:8000/resource/Eldal%C3%B3t%C3%AB> .
+
+<http://localhost:8000/resource/Annael> a schema:Person ;
+    tg:caption <http://localhost:8000/resource/%22R%C3%ADan_gives_Tuor_to_Annael%22_by_%3ACategory%3AImages_by_Svirina_Vera> ;
+    tg:children <http://localhost:8000/resource/fostered_Tuor> ;
+    tg:gender "Male"@en ;
+    tg:image "Svirina Vera - Rian gives Tuor to Annael.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin> ;
+    tg:location <http://localhost:8000/resource/Mithrim%2C_Androth%2C_Mouths_of_Sirion> ;
+    tg:name "Annael"@en ;
+    tg:people <http://localhost:8000/resource/Sindar> .
+
+<http://localhost:8000/resource/Ar-Ad%C3%BBnakh%C3%B4r> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/King%27s_Men> ;
+    tg:age "253"@en ;
+    tg:birth "{{SA|2709}}<ref name=Ar-Adunakhor/>"@en ;
+    tg:children <http://localhost:8000/resource/Ar-Zimrath%C3%B4n%3Cref_name%3DAr-Zimrathon%3E%7B%7BUT> ;
+    tg:death "{{SA|2962}}<ref name=Ar-Adunakhor/>"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Ar-Adûnakhôr<ref name=Ar-Adunakhor>{{UT|Kings}}, entry XX ''Ar-Adûnakhôr (Tar-Herunúmen)''</ref>"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Tar-Herun%C3%BAmen%27%27_%28Quenya> ;
+    tg:parentage <http://localhost:8000/resource/Tar-Ardamin%3Cref_name%3DTar-Ardamin%3E%7B%7BUT> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|2899}} - {{SA|2962|n}} (63 years)<ref name=Ar-Adunakhor/>"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_N%C3%BAmenor> .
+
+<http://localhost:8000/resource/Arantar> a schema:Person ;
+    tg:age "250"@en ;
+    tg:birth "{{TA|185}}"@en ;
+    tg:children <http://localhost:8000/resource/Tarcil> ;
+    tg:death "{{TA|435}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin> ;
+    tg:location <http://localhost:8000/resource/Ann%C3%BAminas> ;
+    tg:name "Arantar"@en ;
+    tg:parentage <http://localhost:8000/resource/Eldacar_%28King_of_Arnor%29> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|339}} - {{TA|435|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_Arnor> .
+
+<http://localhost:8000/resource/Aranw%C3%AB> a schema:Person ;
+    tg:children <http://localhost:8000/resource/Voronw%C3%AB> ;
+    tg:gender "Male"@en ;
+    tg:house "Fingolfin"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:name "Aranwë"@en ;
+    tg:people <http://localhost:8000/resource/Noldor> ;
+    tg:spouse <http://localhost:8000/resource/Falathrim_lady_related_to_C%C3%ADrdan%3Cref_name%3D%22Tuor%22%3E%7B%7BUT> .
+
+<http://localhost:8000/resource/Araphant> a schema:Person ;
+    tg:age "175"@en ;
+    tg:birth "{{TA|1789}}"@en ;
+    tg:children <http://localhost:8000/resource/Arvedui> ;
+    tg:death "{{TA|1964}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Arthedain> ;
+    tg:name "Araphant"@en ;
+    tg:parentage <http://localhost:8000/resource/Araval> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|1891}} - {{TA|1964|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_Arthedain> .
+
+<http://localhost:8000/resource/Araphor> a schema:Person ;
+    tg:age "198"@en ;
+    tg:birth "{{TA|1391}}"@en ;
+    tg:children <http://localhost:8000/resource/Argeleb_II> ;
+    tg:death "{{TA|1589}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Arthedain> ;
+    tg:name "Araphor"@en ;
+    tg:parentage <http://localhost:8000/resource/Arveleg_I> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|1409}} - {{TA|1589|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_Arthedain> .
+
+<http://localhost:8000/resource/Aratan> a schema:Person ;
+    tg:age "104"@en ;
+    tg:birth "{{SA|3339}}<ref name=\"Elendil\">{{PM|Elendil}}</ref>"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Gondor> ;
+    tg:caption <http://localhost:8000/resource/Aratan_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:death "{{TA|2}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/Disaster_of_the_Gladden_Fields> ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:image "The Lord of the Rings Online - Aratan.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Gondor> ;
+    tg:name "Aratan"@en ;
+    tg:parentage <http://localhost:8000/resource/Isildur> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:siblings <http://localhost:8000/resource/Elendur_%28son_of_Isildur%29> .
+
+<http://localhost:8000/resource/Tar-Alcarin> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/King%27s_Men> ;
+    tg:age "331"@en ;
+    tg:birth "{{SA|2406}}<ref name=Tar-Alcarin>{{UT|Kings}}, entry XVII ''Tar-Alcarin''</ref>"@en ;
+    tg:children <http://localhost:8000/resource/Tar-Calmacil%3Cref_name%3DTar-Calmacil%3E%7B%7BUT> ;
+    tg:death "{{SA|2737}}<ref name=Tar-Alcarin/>"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Tar-Alcarin"@en ;
+    tg:parentage <http://localhost:8000/resource/Tar-Vanimeld%C3%AB_and_Tar-Anducal> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|2637}} - {{SA|2737|n}} (''de jure'')<ref name=Tar-Vanimelde>{{UT|Kings}}, entry XVI ''Tar-Vanimeldë''</ref><br/>{{SA|2657}} - {{SA|2737|n}} (''de facto'')<ref name=Tar-Alcarin/>"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_N%C3%BAmenor> .
+
+<http://localhost:8000/resource/Tar-Amandil> a schema:Person ;
+    tg:age "411"@en ;
+    tg:birth "{{SA|192}}<ref name=Tar-Amandil>{{UT|Kings}}, entry III ''Tar-Amandil''</ref>"@en ;
+    tg:children <http://localhost:8000/resource/E%C3%A4rendur_%28son_of_Tar-Amandil%29> ;
+    tg:death "{{SA|603}}<ref name=Tar-Amandil/>"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Tar-Amandil"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Ar-Aphanuz%C3%AEr%27%27_%28Ad%C3%BBnaic> ;
+    tg:parentage <http://localhost:8000/resource/Vardamir%3Cref_name%3DTar-Amandil/%3E> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|442}}<ref name=Vardamir>{{UT|Kings}}, entry II ''Vardamir Nólimon''</ref> - {{SA|590|n}} (''de facto'')<br/>{{SA|443}}<ref name=Vardamir/> - {{SA|590|n}} (''de jure'')<ref name=Tar-Amandil/>"@en ;
+    tg:siblings <http://localhost:8000/resource/Aulendil_%28son_of_Vardamir%29> ;
+    tg:titles <http://localhost:8000/resource/King_of_N%C3%BAmenor> .
+
+<http://localhost:8000/resource/Tar-Ancalimon> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/King%27s_Men> ;
+    tg:age "400"@en ;
+    tg:birth "{{SA|1986}}<ref name=Tar-Ancalimon>{{UT|Kings}}, entry XIV ''Tar-Ancalimon''</ref>"@en ;
+    tg:children <http://localhost:8000/resource/Tar-Telemmait%C3%AB%3Cref_name%3DTar-Telemmaite%3E%7B%7BUT> ;
+    tg:death "{{SA|2386}}<ref name=Tar-Ancalimon/>"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Tar-Ancalimon"@en ;
+    tg:parentage <http://localhost:8000/resource/Tar-Atanamir%3Cref_name%3DTar-Atanamir%3E%7B%7BUT> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|2221}} - {{SA|2386|n}} (165 years)<ref name=Tar-Ancalimon/>"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_N%C3%BAmenor> .
+
+<http://localhost:8000/resource/Telimektar> a schema:Person ;
+    tg:children <http://localhost:8000/resource/L%C3%BAthien_%28son_of_Telimektar%29> ;
+    tg:gender "Male"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:location <http://localhost:8000/resource/Valinor%3Cbr_/%3ETol_Eress%C3%ABa%3Cbr_/%3EIlw%C3%AB> ;
+    tg:name "Telimektar"@en ;
+    tg:notablefor <http://localhost:8000/resource/Guarding_the_world_from_Melko%27s_return> ;
+    tg:othernames <http://localhost:8000/resource/%27%27Telumaithor/Telumaithar%27%27%2C_%27%27Daimort/Daimord%27%27_%28Gnomish> ;
+    tg:parentage <http://localhost:8000/resource/Tulkas_%26_Nessa> ;
+    tg:people <http://localhost:8000/resource/Valar%23Other_versions_of_the_legendarium> ;
+    tg:weapons "Silver sword"@en .
+
+<http://localhost:8000/resource/Arador> a schema:Person ;
+    tg:age "110"@en ;
+    tg:birth "{{TA|2820}}"@en ;
+    tg:caption <http://localhost:8000/resource/Arador_from_%27%27Born_of_Hope%27%27> ;
+    tg:children <http://localhost:8000/resource/Arathorn_II> ;
+    tg:death "{{TA|2930}}"@en ;
+    tg:deathlocation <http://localhost:8000/resource/Coldfells> ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:image "Born of Hope - Arador.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Arador"@en ;
+    tg:parentage <http://localhost:8000/resource/Argonui> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2912}} - {{TA|2930|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Aragorn_I> a schema:Person ;
+    tg:age "100"@en ;
+    tg:birth "{{TA|2227}}"@en ;
+    tg:children <http://localhost:8000/resource/Araglas> ;
+    tg:death "{{TA|2327}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Aragorn I"@en ;
+    tg:parentage <http://localhost:8000/resource/Aravir> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2319}} - {{TA|2327|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Aragost> a schema:Person ;
+    tg:age "157"@en ;
+    tg:birth "{{TA|2431}}"@en ;
+    tg:children <http://localhost:8000/resource/Aravorn> ;
+    tg:death "{{TA|2588}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Aragost"@en ;
+    tg:parentage <http://localhost:8000/resource/Arahad_I> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2523}} - {{TA|2588|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Arahad_II> a schema:Person ;
+    tg:age "156"@en ;
+    tg:birth "{{TA|2563}}"@en ;
+    tg:children <http://localhost:8000/resource/Arassuil> ;
+    tg:death "{{TA|2719}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Arahad II"@en ;
+    tg:parentage <http://localhost:8000/resource/Aravorn> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2654}} - {{TA|2719|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Arahael> a schema:Person ;
+    tg:age "165"@en ;
+    tg:birth "{{TA|2012}}"@en ;
+    tg:children <http://localhost:8000/resource/Aranuir> ;
+    tg:death "{{TA|2177}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Arahael"@en ;
+    tg:parentage <http://localhost:8000/resource/Aranarth> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2106}} - {{TA|2177|n}}"@en ;
+    tg:siblings <http://localhost:8000/resource/At_least_one_sibling_%3Cref_group%3Dnote%3EIn_Appendix_A%2C_D%C3%ADrhael_is_said_to_be_a_descendant_of_a_younger_branch_of_Aranarth%2C_meaning_Araheal_had_at_least_one_sibling%3C/ref%3E> ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Aranarth> a schema:Person ;
+    tg:age "168"@en ;
+    tg:birth "{{TA|1938}}"@en ;
+    tg:caption <http://localhost:8000/resource/%22Aranarth%22_by_Elena_Kukanova> ;
+    tg:children <http://localhost:8000/resource/Arahael%2C_at_least_one_other_%3Cref_group%3Dnote%3EIn_Appendix_A%2C_D%C3%ADrhael_is_said_to_be_a_descendant_of_a_younger_branch_of_Aranarth%2C_meaning_he_had_at_least_one_other_child%3C/ref%3E> ;
+    tg:death "{{TA|2106}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:image "Elena Kukanova - Aranarth.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Aranarth"@en ;
+    tg:parentage <http://localhost:8000/resource/Arvedui_and_F%C3%ADriel> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|1976}} - {{TA|2106|n}}"@en ;
+    tg:siblings <http://localhost:8000/resource/At_least_one_younger_brother_%3Cref_group%3Dnote%3EIn_Appendix_A_in_the_list_of_rulers_of_%27%27The_Northern_Line%27%27%2C_Aranarth_is_indicated_as_the_%27%27elder_son%27%27_of_Arvedui%2C_meaning_that_he_had_at_least_one_younger_brother._Furthermore%2C_in_Appendix_A_in_the_entry_for_King_Arvedui_in_%27%27%27ERIADOR%2C_ARNOR_AND_THE_HEIRS_OF_ISILDUR%27%27%27_it_is_mentioned_that_%22the_sons_of_the_king%22_%28i.e._Arvedui%29_were_driven_over_the_Lune.%3C/ref%3E> ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Aranuir> a schema:Person ;
+    tg:age "163"@en ;
+    tg:birth "{{TA|2084}}"@en ;
+    tg:children <http://localhost:8000/resource/Aravir> ;
+    tg:death "{{TA|2247}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin_and_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Aranuir"@en ;
+    tg:parentage <http://localhost:8000/resource/Arahael> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2177}} - {{TA|2247|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Arathorn_I> a schema:Person ;
+    tg:age "155"@en ;
+    tg:birth <http://localhost:8000/resource/%7B%7BTA> ;
+    tg:children <http://localhost:8000/resource/Argonui%3Cbr_/%3E%27%27Probably%27%27_at_least_one_other_child%3Csup%3EArathorn_I%23Other_versions_of_the_legendarium> ;
+    tg:death "{{TA|2848}}<ref name=Arathorn>{{App|North}}, ''Chieftains'', Arathorn I, p. 1038</ref>"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/%27%27Presumably%27%27_Sindarin_%26_Westron> ;
+    tg:location <http://localhost:8000/resource/Eriador_%28incl._Rivendell%3Cref%3E%7B%7BApp> ;
+    tg:name "Arathorn I"@en ;
+    tg:parentage <http://localhost:8000/resource/Arassuil> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2784}}<ref name=Arassuil>{{App|North}}, ''Chieftains'', Arassuil, p. 1038</ref> - {{TA|2848|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Arathorn_II> a schema:Person ;
+    tg:age "60"@en ;
+    tg:birth "{{TA|2873}}"@en ;
+    tg:caption <http://localhost:8000/resource/Arathorn_from_%27%27Guardians_of_Middle-earth%27%27> ;
+    tg:children <http://localhost:8000/resource/Aragorn> ;
+    tg:death "{{TA|2933}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:image "Guardians of Middle-earth - Arathorn Icon.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:name "Arathorn II"@en ;
+    tg:parentage <http://localhost:8000/resource/Arador> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2930}} - {{TA|2933|n}}"@en ;
+    tg:spouse <http://localhost:8000/resource/Gilraen> ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Tar-An%C3%A1rion> a schema:Person ;
+    tg:age "401 years"@en ;
+    tg:birth "{{SA|1003}}<ref name=Tar-Anarion>{{UT|Kings}}, entry VIII ''Tar-Anárion''</ref>"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Emeri%C3%AB> ;
+    tg:children <http://localhost:8000/resource/Two_daughters%2C_Tar-S%C3%BArion%3Cref%3E%7B%7BUT> ;
+    tg:death "{{SA|1404}}<ref name=Tar-Anarion/>"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Tar-Anárion"@en ;
+    tg:parentage <http://localhost:8000/resource/Tar-Ancalim%C3%AB_and_Hallacar%3Cref_name%3DTar-Ancalime%3E%7B%7BUT> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|1280}} - {{SA|1394|n}} (114 years)<ref name=Tar-Anarion/>"@en ;
+    tg:titles <http://localhost:8000/resource/King_of_N%C3%BAmenor> .
+
+<http://localhost:8000/resource/Tar-Ancalim%C3%AB> a schema:Person ;
+    tg:age "412"@en ;
+    tg:birth "{{SA|873}}"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Armenelos> ;
+    tg:caption <http://localhost:8000/resource/%22Queen_Ancalime_the_Princess_Shepherdess%22_by_%3ACategory%3AImages_by_Sara_M._Morello> ;
+    tg:children <http://localhost:8000/resource/Tar-An%C3%A1rion> ;
+    tg:death "{{SA|1285}}<ref name=\"Tar-Ancalime\"/>"@en ;
+    tg:gender "Female"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:image "Sara M. Morello - Queen Ancalime the Princess Shepherdess.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Sindarin_and_Quenya> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Tar-Ancalimë"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27%27%27%27Emerwen_Aranel%27%27%27%27%27_%28Quenya> ;
+    tg:parentage <http://localhost:8000/resource/Tar-Aldarion> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:rule "{{SA|1075}} - {{SA|1280|n}} (205 years)<ref name=\"Tar-Ancalime\">{{UT|Kings}}, entry VII ''Tar-Ancalimë''</ref>"@en ;
+    tg:spouse <http://localhost:8000/resource/Hallacar%3Cref_name%3D%22Tar-Ancalime%22/%3E> ;
+    tg:titles <http://localhost:8000/resource/Ruling_Queens_of_N%C3%BAmenor> .
+
+<http://localhost:8000/resource/Araglas> a schema:Person ;
+    tg:age "159"@en ;
+    tg:birth "{{TA|2296}}"@en ;
+    tg:children <http://localhost:8000/resource/Arahad_I> ;
+    tg:death "{{TA|2455}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Araglas"@en ;
+    tg:parentage <http://localhost:8000/resource/Aragorn_I> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2327}} - {{TA|2455|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Arahad_I> a schema:Person ;
+    tg:age "158"@en ;
+    tg:birth "{{TA|2365}}"@en ;
+    tg:children <http://localhost:8000/resource/Aragost> ;
+    tg:death "{{TA|2523}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Arahad I"@en ;
+    tg:parentage <http://localhost:8000/resource/Araglas> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2455}} - {{TA|2523|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Arassuil> a schema:Person ;
+    tg:age "156"@en ;
+    tg:birth "{{TA|2628}}"@en ;
+    tg:children <http://localhost:8000/resource/Arathorn_I> ;
+    tg:death "{{TA|2784}}"@en ;
+    tg:gender "Male"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Isildur> ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Sindarin%2C_Westron> ;
+    tg:location <http://localhost:8000/resource/Rivendell> ;
+    tg:name "Arassuil"@en ;
+    tg:parentage <http://localhost:8000/resource/Arahad_II> ;
+    tg:people <http://localhost:8000/resource/Arnorian> ;
+    tg:rule "{{TA|2719}} - {{TA|2784|n}}"@en ;
+    tg:titles <http://localhost:8000/resource/Chieftain_of_the_D%C3%BAnedain> .
+
+<http://localhost:8000/resource/Tar-Aldarion> a schema:Person ;
+    tg:affiliation <http://localhost:8000/resource/Guild_of_Venturers> ;
+    tg:age "398"@en ;
+    tg:birth "April, {{SA|700}}<ref name=Tar-Aldarion/>"@en ;
+    tg:birthlocation <http://localhost:8000/resource/Forostar> ;
+    tg:caption <http://localhost:8000/resource/%22He_Knew_Her_For_Erendis%22_by_%3ACategory%3AImages_by_Peter_Xavier_Price> ;
+    tg:children <http://localhost:8000/resource/Tar-Ancalim%C3%AB> ;
+    tg:death "{{SA|1098}}<ref name=Tar-Aldarion/>"@en ;
+    tg:eyes "Blue"@en ;
+    tg:gender "Male"@en ;
+    tg:hair "Golden"@en ;
+    tg:house <http://localhost:8000/resource/House_of_Elros> ;
+    tg:image "Peter Xavier Price - He Knew Her For Erendis.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/infobox_character> ;
+    tg:language <http://localhost:8000/resource/Ad%C3%BBnaic%2C_Quenya_and_Sindarin> ;
+    tg:location <http://localhost:8000/resource/N%C3%BAmenor> ;
+    tg:name "Tar-Aldarion"@en ;
+    tg:othernames <http://localhost:8000/resource/%27%27Anardil%27%27_%28Quenya> ;
+    tg:parentage <http://localhost:8000/resource/Tar-Meneldur_and_Almarian%3Cref_name%3Dfamily%3E%7B%7BUT> ;
+    tg:people <http://localhost:8000/resource/N%C3%BAmen%C3%B3reans> ;
+    tg:position "Mariner"@en ;
+    tg:pronun <http://localhost:8000/resource/Quenya> ;
+    tg:rule "{{SA|883}} - {{SA|1075|n}} (192 years)<ref name=Tar-Aldarion/>"@en ;
+    tg:siblings <http://localhost:8000/resource/Ailinel_and_Almiel%3Cref_name%3Dfamily/%3E> ;
+    tg:spouse <http://localhost:8000/resource/Erendis> ;
+    tg:steed <http://localhost:8000/resource/E%C3%A4mbar_%28ship%29%3Cbr/%3EPalarran_%28ship%29%3Cbr/%3EHirilond%C3%AB_%28ship%29> ;
+    tg:titles <http://localhost:8000/resource/King_of_N%C3%BAmenor%3Cbr/%3E%22Great_Captain%22%3Cbr/%3ELord_of_the_Ships_and_Havens_of_N%C3%BAmenor%3Cbr/%3EMaster_of_the_Forests> .
+

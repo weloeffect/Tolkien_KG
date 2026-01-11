@@ -1,0 +1,34 @@
+{{Poem infobox
+| title=Tha Eadigan Saelidan: The Happy Mariners
+| other names=''The Happy Mariners'',<br>''Þá Éadiȝan Sǽlidan''<ref name=collectedpoems>{{CP|33}}</ref>
+| written=[[24 July]] [[1915]]
+| revised=[[9 September]] [[1915]],<br>Around [[1940]]
+| published=''[[The Stapeldon Magazine]]'',<br>''[[A Northern Venture]]'',<br>''[[The Book of Lost Tales Part Two]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Sleeper]], [[Tower of Pearl]]
+}}
+'''''Tha Eadigan Saelidan: The Happy Mariners''''' is the title of a poem written by [[J.R.R. Tolkien]] in [[1915]] about the "the song of the [[Sleeper]] in the [[Tower of Pearl]]" on the [[Twilit Isles]].<ref name=history>{{LT2|V}}, pp. 273–74</ref>
+
+== First stanza ==
+<poem style="font-style:italic; margin-left:20px;">
+I know a window in a Western tower
+that opens on celestial seas,
+from wells of dark behind the stars
+there ever blows a keen unearthly breeze.
+It is a white tower builded on the Twilit Isles,
+and springing from their everlasting shade
+it glimmers like a house of lonely pearl,
+where lights forlorn take harbour ere they fade.<ref name=history/></poem>
+
+== Background ==
+Sometime after [[6 January]] of [[1914]],<ref name=beginning>{{CG|C}}, p. 49</ref> but not long before [[11 July]] of [[1915]],<ref name=note>{{LT2|V}}, note 12</ref> Tolkien wrote "seven isolated lines" within his sketch-book, ''[[The Book of Ishness]]'', which may be the earliest preliminary workings of the poem.<ref name=collectedpoems/>
+
+On [[24 July]] of 1915, Tolkien wrote the first version of the poem at Barnt Green "on the back of an unsent letter" from [[11 July]], but rewrote the poem later that year on [[9 September]].<ref name=note/> Tolkien rewrote the poem four more times before it was published in [[June]] of [[1920]] as '''''The Happy Mariners''''' on pages 69-70 of ''[[The Stapeldon Magazine]]''.<ref>{{webcite|author=|articleurl=http://www.tolkienbooks.net/php/details2.php?id=21|articlename=The Stapeldon Magazine. 1920|dated=|website=TB|accessed=7 May 2020}}</ref> Following this, Tolkien made a slightly altered version which he published in [[1923]] as ''Tha Eadigan Saelidan: The Happy Mariners'' on pages 282-3 of ''[[A Northern Venture]]''.<ref>''[[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment]]'', pg. 459 (entry "Northern Venture, A")</ref> In the [[1940]]s, Tolkien made another version of the poem and made alterations to this version at a later date. The last two versions were reprinted by [[Christopher Tolkien]] in ''[[The Book of Lost Tales Part Two]]'' with [[Douglas A. Anderson]]'s help.<ref name=history/>
+
+{{references}}
+
+{{poems}}
+
+{{DEFAULTSORT:Happy Mariners}}
+
+[[Category:Old English names]]
+[[Category:Poems in The Book of Lost Tales]]

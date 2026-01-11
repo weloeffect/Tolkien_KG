@@ -1,0 +1,34 @@
+{{website
+| name=Eldamo
+| image=
+| URL=http://eldamo.org/index.html
+| slogan=An Elvish Lexicon
+| alexa=
+| commercial=No
+| type=
+| language=English (Includes [http://eldamo.org/translations/international-searches.html optional glosses in Russian and Polish])
+| license=
+| articlecount=
+| registration=
+| owner=[[Paul Strack]]
+| creator=
+| keypeople=
+| launch=[[2008]]
+| status=Active <br />(last version 0.8.4.2 — generated [[11 December]] [[2022]])
+}}
+'''Eldamo''' ('''''El'''vish '''Da'''ta '''Mo'''del''), or '''An Elvish Lexicon''', is a linguistic website launched in [[2008]], compiling a lexicon of Tolkien's invented [[languages]]. The website is maintained by Paul Strack and, despite its name, does include all of Tolkien's languages, not only the [[Eldarin]] family.
+
+The website does not only work as a dictionary, but as a full lexicon that analyzes the relationships between words and the conceptual development of Tolkien's languages through his lifetime. Therefore the invented languages are divided by three periods: Early (1910–30), Middle (1930–50) and Late (1950–73). The entries are extensively sourced. 
+
+It also contains a detailed analysis of the grammar and phonetic development of [[Quenya]], [[Sindarin]] and [[Adûnaic]]. Optionally, a lexicon of commonly used and well accepted [[Neo-Elvish]] vocabulary is included, drawn from [[Helge Fauskanger]]'s ''[https://folk.uib.no/hnohf/nqnt.htm New Testament in Neo-Quenya]'', or the ''[http://www.elvish.org/gwaith/ppq.htm Parma Penyanë Quettaron]'', among others.
+
+No new Tolkien word were added since the v0.8.6 update (May 2023); among other rare missing sources, the Eldamo lexicon does not include the [[Marquette University|Marquette]] [[Westron]] words published in [[Tyalië Tyelelliéva 17|''Tyalië Tyelelliéva'' 17]] by [[Lisa Star]].<ref>Checked on the 11 March 2024. The lexicon may have been updated since.</ref>
+
+Its content is derived from an [[:Wikipedia:XML database|XML data model]], which can be used freely in accordance with the [[:Wikipedia:Creative Commons license|Creative Commons license]] (with attribution).
+
+As can be noticed, [[Tolkien Gateway]] uses Eldamo widely as reference for names that are not glossed in the main sources.
+
+==References==
+{{Reflist}}
+[[Category:Linguistic websites]]
+[[fi:Eldamo]]

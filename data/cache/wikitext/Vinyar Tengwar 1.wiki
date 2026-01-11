@@ -1,0 +1,26 @@
+{{VTbox
+| title=Vinyar Tengwar 1
+| image = Vinyar Tengwar 1.jpg
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=September [[1988]]
+| format=Paperback journal
+| pages=12
+}}
+'''''Vinyar Tengwar 1''''' is the first issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|1|2}}
+
+==Contents==
+* Cover: "Chart of Body Parts in Quenya" — Tom Loback
+
+* "A Report from Mythcon XIX" — Jorge Quiñónez
+* "Basic Elvish: The Names of the Numbers in Elvish" — Jorge Quiñónez
+* "Elvish Poetry: The Ring Poem in Quenya" — trans. Jorge Quiñónez and Christopher Gilson
+* "''[[The Letters of J.R.R. Tolkien]]'', Volume II: A Hoax?" — Jorge Quiñónez
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 01}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 1]]

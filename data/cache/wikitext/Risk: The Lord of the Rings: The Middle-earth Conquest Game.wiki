@@ -1,0 +1,20 @@
+{{board game infobox
+| image = Risk The Lord of the Rings The Middle-earth Conquest Game.png
+| name=''Risk: The Lord of the Rings: The Middle-earth Conquest Game''
+| designer=Stephen Baker
+| publisher=Hasbro
+| releasedate=[[2002]]
+| players=2−4
+| ages=9+
+}}
+'''''Risk: The Lord of the Rings: The Middle-earth Conquest Game''''' is a modification of ''[[wikipedia:Risk (game)|Risk]]'', published in [[2002]] by Hasbro. It serves as merchandise to [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]].
+
+==See also==
+
+*''[[Risk: The Lord of the Rings: Gondor and Mordor]]''
+*''[[Risk: The Lord of the Rings Trilogy Edition]]''
+
+==External links==
+* [http://boardgamegeek.com/boardgame/4324/risk-the-lord-of-the-rings Risk: The Lord of the Rings] at [http://boardgamegeek.com/ BoardGameGeek]
+
+[[Category:Board games]]

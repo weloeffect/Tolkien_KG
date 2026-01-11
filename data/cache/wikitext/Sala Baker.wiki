@@ -1,0 +1,28 @@
+{{actor
+| image = Sala Baker.jpg
+| caption = Sala Baker
+| name = Sala Baker
+| lifetime = [[22 September|September 22]], [[1976]]
+| played = [[Sauron]]
+| film = ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| played2 = [[Uruk-hai|"Man Flesh Uruk"]]
+| film2 = ''[[The Lord of the Rings: The Two Towers]]''
+| imdb = [https://www.imdb.com/name/nm1019674/ Profile]
+}}
+'''Sala Baker''' is a New Zealand-born stuntman, whose first role as an actor was [[Sauron]] in ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''. He also played [[orcs]] in ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]''; in the former, he is billed as "Man Flesh Uruk".  
+Baker also appeared in [[Ringers: Lord of the Fans]], as himself.
+
+==Quotes==
+{{quote|It was great. The good guys get the women, I'll get there one day of course, but the bad guys have so much fun. You die but you have so much fun doing it. It's like throwing yourself around and fighting the good guys – and obviously losing to the good guys – but it's a lot more fun. That was my main [reason] for doing it.|Sala Baker on playing a bad guy, [http://movies.about.com/cs/lordoftherings3/a/lotr3sala.htm]}}
+
+== External links ==
+*{{WP|Sala Baker}}
+
+*{{DEFAULTSORT:Baker, Sala}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Sala Baker]]
+[[fi:Sala Baker]]

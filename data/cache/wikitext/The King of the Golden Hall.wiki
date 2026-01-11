@@ -1,0 +1,92 @@
+{{chapter
+| image=Angelo Montanini - Theoden and Eowyn.jpg
+| title=The King of the Golden Hall
+| book=The Two Towers
+| number=6
+| event=[[Gandalf]] comes to the [[Meduseld|Golden Hall]] and talks with [[Théoden|King Théoden]].
+| date=[[2 March]] {{TA|3019|n}}
+| location=[[Edoras]]
+| previous=The White Rider
+| next=Helm's Deep (chapter)
+| map=
+<imagemap>
+File:LotrProject - The King of the Golden Hall - Map.png|centre|275px|Clicking on a location will load the appropriate article.
+
+rect 61 185 25 120 [[Isengard]]
+rect 72 195 154 217 [[Gap of Rohan]]
+rect 182 183 274 213 [[Rohan]]
+rect 239 227 291 253 [[Westemnet]]
+rect 306 214 361 247 [[Eastemnet]]
+rect 193 286 243 308 [[Edoras]]
+rect 94 242 153 265 [[Helm's Deep]]
+rect 112 15 250 149 [[Fangorn]]
+rect 314 72 380 95 [[The Wold]]
+</imagemap>
+}}
+
+'''The King of the Golden Hall''' is the sixth chapter of the first book in ''[[The Two Towers]]''.
+
+==Summary==
+Now that [[Gandalf]] had returned from the dead, he served as the captain of the [[Three Hunters]]; [[Aragorn]], [[Legolas]] and [[Gimli]]. 
+
+He led them South through the [[Westemnet]], past tributaries of the [[Entwash]], through the [[Simbelmynë]] covered [[Barrowfield]]s and to the city of [[Edoras]]. This was the capital city of [[Rohan]], built on a hill in [[Harrowdale]], a valley of the [[White Mountains]]. There they told the guards that they had come back to return the horses that [[Éomer]] had lent them.
+
+The four companions entered the city and were guided up to the top of the hill, where the great golden hall [[Meduseld]] stood, home to [[Théoden|King Théoden]]. There [[Háma]], Doorward of Théoden, bid them to lay aside their weapons before being permitted to enter, Aragorn was reluctant to set aside [[Andúril]] but was compelled to do so or not enter. The others did so willingly, leaving their weapons outside the entrance to the hall, with only Gandalf retaining his staff, having deceived the Doorward Hama into it only being a stick to support him.
+
+The companions entered and found it to be a mighty hall, with carved pillars, rune covered floors and rich tapestries lining the walls, in particular one of [[Eorl the Young]] riding [[Felaróf]] at the [[Battle of the Field of Celebrant]]. However despite the warmth of the hall they did not get a warm welcome from Théoden, who was reluctant to show gratitude; he said this was because Gandalf always brought bad news and so he named him [[Lathspell]]. In truth, [[Saruman]] had a secret hold on Théoden in the form of the advisor, [[Gríma|Gríma Wormtongue]].
+
+Gandalf managed to show Théoden that there was still hope and so freed him from his despair and the wicked influence of Wormtongue. Gandalf asked Théoden to release Éomer, who had been held prisoner at the counsel of Wormtongue. When Éomer returned he offered [[Gúthwinë|his sword]] to the King, pledging his service to him once more. Háma was sent to find Théoden's own sword [[Herugrim]], which turned out to be hidden in Wormtongue's locked chest.
+
+Théoden realised his mistake in trusting Wormtongue and decided that he would lead the riders of [[Rohan]] against [[Saruman]]. Wormtongue was given a choice; ride with them to war to prove his loyalty to Théoden in battle, or to go where he wishes, though he will receive no mercy should he be found. He chose to spit at the feet of the king and flee the city.
+
+Théoden then praised Gandalf and granted him [[Shadowfax]] as a gift, no longer to borrow. Gandalf then spoke to Théoden of the depth of Saruman's tracheary, and they made plans to ride to [[Isengard]] and make war against him. He proclaimed that [[Éowyn]] was to rule in his stead until he returned and then leading the host of [[Rohirrim]] alongside Gandalf they rode off into the West towards Isengard.
+
+==Appearances==
+ 
+{| rules="all" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0" width="100%"
+| colspan="3" style="background:gray; color:white; text-align:center" | '''Notable Appearances'''
+|-
+| style="background:lightgrey; text-align:center" | '''Characters'''
+| style="background:lightgrey; text-align:center" | '''Locations'''
+| style="background:lightgrey; text-align:center" | '''Other'''
+|-
+|
+*[[Aragorn]]
+*[[Gandalf]]
+*[[Legolas]]
+*[[Gimli]]
+*[[Háma]]
+*[[Théoden]]
+*[[Éowyn]]
+*[[Grima Wormtongue]]
+*[[Éomer]]
+|
+*[[Rohan]]
+*[[Emyn Muil]]
+*[[White Mountains]]
+*[[Edoras]]
+*[[Meduseld]]
+*[[Entwash]]
+*[[Barrowfield]]
+|
+*[[simbelmynë]]
+*[[Eorl the Young]]
+*[[Felaróf]]
+*[[Herugrim]]
+|-
+|}
+
+==Composition==
+The chapter was probably completed by the early summer of [[1942]].<ref>{{CG|CG}}, p. xxiv</ref>
+
+==Portrayal in adaptations==
+* See [[The King of the Golden Hall (scene)]]
+
+==External links ==
+* [https://www.youtube.com/watch?v=0SFwdcT4QOs The King of the Golden Hall track] from [[The Lord of the Rings: The Two Towers|The Two Towers (2003) film]]
+
+{{references}}
+
+{{DEFAULTSORT:King of the Golden Hall}}
+[[fi:Kultaisen kartanon kuningas (TSH)]]
+[[Category:The Two Towers chapters]]

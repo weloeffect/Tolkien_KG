@@ -1,0 +1,21 @@
+{{book
+|title=Sellamillion
+| image = Sellamillion.jpg
+|author=[[Adam Roberts]]
+|isbn=978-0575076112
+|publisher=[[Gollancz]]
+|date=[[30 December|December 30]], [[2004]]
+|format=Hardcover
+|pages=
+|}}
+'''''Sellamillion''''' is a short satirical novel by [[Adam Roberts]], based on ''[[The Silmarillion]]'' and ''[[The History of Middle-earth]]''. 
+
+==From the publisher==
+
+{{blockquote|It’s no joke: parodies sellamillion! After the huge success (100,000 copies) of The Soddit, it’s time to poke more fun at Tolkien.So The Lord of the Rings swept the Oscars—all the more reason to continue to tweak, spoof, and lampoon the cult of Tolkien. Despite its title, The Sellamillion isn’t a satire of The Silmarillion; how could it be? Though every one of the author’s fans has a copy on the shelf, on the shelf is where it’s stayed; almost no one actually managed to read past page three. The fun here lies in the parody of everything Tolkien created as he worked on his famous trilogy: The History of the Elderly Days. Early missing drafts of the novels. Correspondence between the writer and publisher on whether the magic talisman should be a Bellybutton Stud of Doom rather than a Ring of Power. And, most hilarious of all, an experimental version of Lord of the Rings in the style of Dr. Seuss. Whether you love the original trilogy and (maybe especially) if you hate it, this will have you laughing non-stop.}}
+
+{{title|italics}}
+{{DEFAULTSORT:Sellamillion}}
+[[Category:Comedy books]]
+[[Category:Publications by title]]
+[[Category:The Silmarillion]]

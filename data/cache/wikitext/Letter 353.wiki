@@ -1,0 +1,14 @@
+{{letter infobox
+| #=353
+| to=[[wikipedia:John Giffard, 3rd Earl of Halsbury|Lord Halsbury]]
+| date=[[4 August]] [[1973]]
+| subject=[[Galadriel]]
+}}{{letter|353}}
+==Summary==
+Tolkien thanked [[wikipedia:John Giffard, 3rd Earl of Halsbury|Lord Halsbury]] in advance for whisky that Halsbury sent, and thought back of when Halsbury came to visit, on [[26 July|July 26]]. The fragment ended with a statement about [[Galadriel]]. She was "unstained", not part of the [[Oath of Fëanor|deeds]] of [[Fëanor]]. She longed for dwelling in [[Middle-earth]], and had the misfortune that at her time of departure, [[Manwë]] spoke his [[Doom of Mandos|ban on emigration]].
+
+==Notes==
+By stating Galadriel had no part in the crimes of Fëanor, Tolkien contradicted himself; in [[Letter 320]], he said she was a "leader in the rebellion against the [[Valar]]".
+{{letters}}
+[[de:Brief 353]]
+[[Category:Letters to Lord Halsbury]]

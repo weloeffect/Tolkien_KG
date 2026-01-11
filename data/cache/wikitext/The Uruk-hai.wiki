@@ -1,0 +1,29 @@
+{{chapter
+| image=Inger Edelfeldt - Pippin and Merry Captured by Orcs.jpg
+| title=The Uruk-hai
+| book=The Two Towers
+| number=3
+| event=[[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Peregrin]] escape the [[Uruk-hai]].
+| date=[[27 February|27]]-[[29 February]] {{TA|3019|n}}
+| location=[[Rohan]]
+| perspective=[[Peregrin Took|Peregrin]]
+| previous=The Riders of Rohan
+| next=Treebeard (chapter)
+}}
+
+'''The Uruk-hai''' is the third chapter of the first book in ''[[The Two Towers]]''.
+
+==Summary==
+[[File:Irvin Rodriguez - Gulp of Orc Draught.jpg|thumb|left|''Gulp of Orc Draught'' by [[:Category:Images by Irvin Rodriguez|Irvin Rodriguez]]|250x250px]]
+[[Peregrin Took|Pippin]] and [[Meriadoc Brandybuck|Merry]], in the custody of the [[Orcs]], lay captive awaiting their fates. By listening to the conversation, Pippin learned that there were two groups of Orcs. In the course of taking the captives, the two groups had fought one another. Pippin got hold of a knife and cut his bonds, tying a loose knot around his wrists.
+
+The prisoners were picked up and after another short journey, the Orc's messenger told them that a single horseman had been seen nearby. This time Merry and Pippin were made to walk instead of being carried. Pippin managed to break free, but was caught. Fortunately before he was caught, he managed to lose his cloak pin, a broach from [[Lothlórien|Lórien]]. He lost consciousness and only regained it when the Orcs stopped.
+
+[[Éomer]] and his men attacked the Orcs and Merry and Pippin managed to escape into [[Fangorn Forest]].
+
+==Composition==
+The chapter was probably written in [[January]] [[1942]].<ref>{{CG|CG}}, p. xxiv</ref>
+{{references}}
+[[Category:The Two Towers chapters]]
+{{DEFAULTSORT:Uruk-hai}}
+[[fi:Uruk-hai (TSH)]]

@@ -1,0 +1,15 @@
+{{letter infobox
+| #=136
+| to=[[Rayner Unwin]]
+| date=[[24 March]] [[1953]]
+| subject=''[[The Lord of the Rings]]'', publication
+}}{{letter|136}}
+==Summary==
+Following [[Allen and Unwin|Allen & Unwin]]'s decision to publish ''[[The Lord of the Rings]]'', Tolkien wrote that he could not make it by the agreed upon dead-line ([[25 March|March 25]]). [[Edith Tolkien|Edith]] had been ill, and most of the Professor's time had been spent on finding her a house of high, dry soil, and in the quiet. Tolkien then suggested that he could send the first book, and since he had some extra time in the following months, put the rest in order later. 
+
+In a post scriptum, he proposed two sets of names for the books. In the first set, the titles of the six book would be ''The Ring Sets out'', ''The Ring Goes South'', ''The Treason of Isengard'', ''The Ring goes ''(sic)'' East'', ''The War of the Ring'' and ''The End of the Third Age''. In the second set, the titles were for the three volumes. They would be ''The Shadow Grows'', ''The Ring in the Shadow'', and for the third volume either ''The War of the Ring'' or ''The Return of the King''. Some of these titles would be used for ''[[The History of Middle-earth]]''. 
+
+{{letters}}
+[[Category:Letters to Rayner Unwin]]
+[[fi:Kirje 136]]
+[[de:Brief 136]]

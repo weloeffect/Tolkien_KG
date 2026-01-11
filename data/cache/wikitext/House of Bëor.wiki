@@ -1,0 +1,124 @@
+{{Noble House infobox
+| name=House of Bëor
+| image = Quentandil - Beor device.png
+| caption=
+| othernames='''House:'''<br>First House of the Edain<br />''Bar Bëora'' ([[Sindarin|S]])<br>'''People:'''<br>Bëorians, Men of Dorthonion, People of Bëor
+| founder=[[Bëor|Bëor the Old]]
+| leader=Briefly the [[Lord of Ladros|Lords of Ladros]]
+| location=[[Estolad]], [[Dorthonion]] (especially [[Ladros]]), [[Dor-Lómin]], [[Brethil]], later [[Númenor]]
+| affiliation=[[House of Finarfin]]
+| rivalry=
+| destroyed=Last formal leader of this people, [[Barahir]], was slain in {{FA|460}}, but descendants of this people survived down into the [[Fourth Age]]
+| language=[[Taliska]], [[Sindarin]]
+| members=[[Beren Erchamion]], [[Dior Eluchíl]], [[Elwing]], [[Bregolas]], [[Andreth]]
+| race=[[Edain]]
+| distinctions=
+| height=
+| hair=Dark or brown
+| skin=Pale to swarthy
+| clothing=
+| weapons=
+| heirlooms=[[Bow of Bregor]], [[Ring of Barahir]]
+| gallery=Bëorians
+}}
+{{Quote|They were eager of mind, cunning-handed, swift in understanding, long in memory, and they were moved sooner to pity than to laughter.|''[[Quenta Silmarillion]]'', "[[Of the Coming of Men into the West]]"}}
+
+The '''House of Bëor''', also known as the '''First House of the Edain''', was the name given to the first of the three Houses of the [[Edain]] to cross the [[Ered Luin]] into [[Beleriand]] after travelling west, driven forth by the terrors wrought by Morgoth in the east. From the House of Bëor would come many famous lords and heroes, most notably [[Beren|Beren Erchamion]] who claimed a [[Silmaril]] from [[Morgoth|Morgoth's]] [[Iron Crown]].
+
+The followers of [[Bëor]] and his descendants would become the '''Bëorians''', '''Men of Dorthonion''', and the '''People of Bëor'''.
+
+==Origin==
+The [[Men]] of the House of Bëor descended from the tribes of Men who abandoned [[Hildórien]] for the [[Aman|West]]. They were at war with the [[Men of Darkness|Men]] who fell under the [[Shadow]], and were pursued by them.<ref name="DM">{{PM|Atani}}</ref> They followed a road around northern [[Rhûn]] where they met some [[Dwarves]].<ref>{{WJ|Dwarves}}</ref> At the shores of the [[Sea of Rhûn]] a small part was separated, which would later become the House of Bëor. The Greater Folk, the ancestors of the [[House of Hador|House of Marach]], came later in the north-east woods near the shores. They crafted boats and could sail the inland Sea, and seemed to had been related to the ancestors of the [[Northmen]].<ref>{{UT|Cirion}}</ref>
+
+The Folk of Beor didn't have beasts of burden so they were hardened by toilsome journeys carrying great loads. A group of 2000 poor and ill-equipped adult men found a way to pass the [[Blue Mountains]].<ref name="DM" />
+
+==History== 
+Under the leadership of [[Balan]] (later called [[Bëor]]), they travailed the Blue Mountains into [[Ossiriand]] through a valley below the springs of [[Thalos]].<ref>{{WJ|14}}</ref>{{rp|§2}} in {{FA|310}}. There were discovered by the Noldorin King [[Finrod|Finrod Felagund]], eldest son of [[Finarfin]], thus they were the first men to encounter one of the Eldar. Finrod befriended the House of Bëor (the First House of the [[Edain]]) and persuaded [[Thingol]], overlord of [[Beleriand]] to grant the new arrivals lands which to inhabit. Thingol gave to them (and the other two Edain Houses that followed) land in the realm of the Noldorin Elf-lords [[Amrod]] and [[Amras]], the youngest sons of [[Fëanor]], of which this land was thereafter known as [[Estolad]], the Encampment. 
+
+In {{FA|402|n}}, there was fighting in the northern marches of Beleriand where the [[Orcs]] attempted to break through the [[Pass of Aglon]]. They were repelled by forces from the [[House of Fëanor]] under [[Maedhros]] and [[Maglor]], the [[House of Finarfin]], and the [[House of Bëor]], who become the first among Men to draw swords on behalf of the [[Eldar]] of Beleriand.<ref>{{WJ|P1}}</ref> In {{FA|410|n}}, the region of [[Ladros]] in [[Dorthonion]] was granted to the House of Bëor, with their chief, [[Boromir (Lord of Ladros)|Boromir]], becoming the first [[Lord of Ladros]].<ref>{{WJ|14}}, p. 228-9</ref> This fiefdom was short-lived, however, as it was overtaken by Morgoth's forces during the [[Dagor Bragollach]] in {{FA|455|n}}; during this assault [[Bregolas]], the third Lord of Ladros, was slain, leaving the leadership of the ruined house to his brother [[Barahir]].
+
+Barahir did what he could to ensure the House's survival, sending the women and children to safety under the leadership of his wife [[Emeldir]]. They went to the forest of [[Brethil]] where some merged with the [[House of Haleth|Haladin]], but others (including [[Rían]] and [[Morwen]]) continued on to [[Dor-lómin]] and joined with the people of [[Galdor (Lord of Dor-lómin)|Galdor]]. Meanwhile Barahir remained in Dorthonion with his son [[Beren]], Bregolas' sons [[Baragund]] and [[Belegund]], and a dwindling company of men. Pressed by [[Sauron]] from [[Tol-in-Gaurhoth]] this company was eventually betrayed by one of their members [[Gorlim the Unhappy]], revealing Barahir's hideout at [[Tarn Aeluin]]. All the company were destroyed save Beren who was away scouting when the attack happened. None the less, from that point on the House of Bëor ceased to be an independent entity and its people joined the surviving Houses of Men.
+
+==Characteristics==
+[[File:Juliana Pinho - Beorians.png|thumb|''Beorians'' by [[:Category:Images by Juliana Pinho|Juliana Pinho]]]]
+The Bëorians were noted as being very akin to the Noldor in their appearance. They had dark or brown hair with grey or brown eyes, and some among them were fair-haired; their skin ranged from fair to even swarthy. Most were broad and of stocky build; those as tall as those of the Folk of Hador were rare.<ref name="DM" />{{rp|308}}<ref name="Men">{{S|Men}}</ref>
+
+They were eager, smart and quick in learning, cunning-handed and long in memory. They were moved sooner to pity than to laughter.<ref name="Men" /> They are also described to be more steadfast even than the Folk of Hador, fortituously enduring hardships and sorrows, slow to cry and to laugh.<ref name="DM" />
+
+Many of those descended from Bëorian stock had the traits most akin to those of the Noldor, such as [[Túrin|Túrin Turambar]] whose mother [[Morwen|Morwen Eledhwen]] was Bëorian. He was mistaken for one of the Noldor, inspiring his name ''Adanedhel'', meaning 'Man-elf'.
+
+==Other names==
+The [[Sindarin]] name for "House of Bëor" was '''''Bar Bëora'''''.<ref name="Genealogies" />
+
+==Genealogy==
+Showing the descendants of [[Bëor]], the First House of the [[Edain]]. All information in the tree is from ''[[The War of the Jewels]]'', ''(i) The House of Bëor'',<ref name="Genealogies">{{WJ|West}}, ''(i) The House of Bëor'', pp. 229-232</ref> unless otherwise specified. The figures after the names are births and deaths where recorded (when only one figure is shown, marked as 'b.', it indicates a date of birth). All dates shown are from the [[First Age]]; when no dates are shown then that person was not of the House of Bëor. A dagger symbol '†' signifies those who did not die of old age.  A name preceded by '#*' indicates a ruler of the house, with the number specifying the order.  Names in ''italics'' indicate women.
+
+In the tree the following colors are used: White - House of Bëor, Blue - [[House of Haleth]], Yellow - [[House of Hador]], Green - [[Elves]], Turquoise - [[Half-elven]], and Red - Later Houses of [[Men]].
+
+{{familytree/start}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | |BEO| | | | | | | | | | | | | | | | | | | |BEO=1* Balan<br/>[[Bëor the Old]]<br/><small>''262-355''</small><br/><ref group="note">Balan became a vassal of King [[Felagund]] and took the name "Bëor", meaning "vassal".  Later, since he lived to the age of 93, the epithet "[[the Old]]" was appended to his name.</ref>}}
+{{familytree | | | | | | | | | | | | | | | | |)|-|-|-|-|-|-|-|-|-|-|-|-|.| | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | |BAR| | | | | | | | | | |BEL| | | | | | |BAR=2* [[Baran]]<br/><small>''289-380''</small>|BEL=[[Belen]]<br/><small>''b. 292''</small>}}
+{{familytree | | | | | | | | | | | | | |,|-|-|^|-|-|.| | | | | | | | | |!| | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | |BOR| | | |BRR| | | | | | | |BLD| | | | | | |BOR=3* [[Boron]]<br/><small>''315-408''</small>|BRR=[[Baranor (son of Baran)|Baranor]]<br/><small>''b. 317''</small>|BLD=[[Beldir]]<br/><small>''b. 316''</small>}}
+{{familytree | | | | | | | | | | | |,|-|^|-|.| | | |!| | | | | | | | | |!| | | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | |BRM| |BLG| |BRG| | | | | | | |BLM|y|ADA| | |BRM=4* [[Boromir (Lord of Ladros)|Boromir]]<br/><small>''338-432''</small>|BLG=[[Belegor]]<br/><small>''b. 340''</small>|BRG=[[Bereg]]<br/><small>''b. 340''</small><br/><ref group="note">Bereg led a thousand followers out of [[Beleriand]]; his fate is unknown.</ref>|BLM=[[Belemir]]<br/><small>''b. 339''</small>|ADA=''[[Adanel]]''
+|boxstyle_ADA =background-color: #ffd;
+}}
+{{familytree | | | | | | | | | |,|-|^|-|v|-|-|-|.| | | | | | | | | | | | | |!| | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | |BRG| |AND| |BRL| | | | | | | | | | | |BER| | | | |BRG=5* [[Bregor]]<br/><small>''359-448''</small>|AND=''[[Andreth]]<br/><small>b. 361''</small>|BRL=''[[Beril]]<br/><small>b. 365''</small>|BER=[[Beren (son of Belemir)|Beren]]<br/><small>b. 374''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|-|-|-|-|v|-|-|-|v|-|-|-|.| | | |,|-|^|-|.| | | |}}
+{{familytree |boxstyle=white-space:nowrap;|ARA|y|BGL| |HIR| | | | | |BGS| |GIL| |BAR| |TWO| |EME| | |ARA=[[Arachon]]|BGL=''[[Bregil]]<br/><small>b. 386''</small>|HIR=''[[Hirwen]]<br/><small>b. 389''</small>|BGS=6* [[Bregolas]]<br/><small>''393-455'' †</small><br/><ref group="note">Bregolas died in the [[Dagor Bragollach]].</ref>|GIL=''[[Gilwen]]<br/><small>b. 397''</small>|BAR=7* [[Barahir]]<br/><small>''400-460'' †</small><br/><ref group="note">Barahir was slain in the [[Massacre of Tarn Aeluin]].</ref>|TWO=Two unnamed<br/>older children|EME=''[[Emeldir]] the<br/>Manhearted<br/><small>b. 406''</small>}}
+{{familytree | |,|-|^|-|.| | | | | | | |,|-|-|-|+|-|-|-|.| | | |L|~|y|~|~|~|~|~|J| | | |}}
+{{familytree |boxstyle=white-space:nowrap;|BRA| |BEL|y|HAN| |BTH| |BAR| |BLG| | | |BRN|y|LUT| | | | |BRA=[[Brandir (son of Arachon)|Brandir]]<br/><small>''b. 409''</small>|BEL=''[[Beldis]]<br/><small>b. 411''</small>|HAN=[[Handir]]<br/>of [[Brethil]]|BTH=''[[Beleth]]<br/><small>b. 417''</small><br/><ref group="note">Beleth's distant descendant in the [[Second Age]] was [[Beregar]], the father of Queen [[Erendis]] of [[Númenor]].</ref>|BAR=[[Baragund]]<br/><small>''420-460'' †</small><br/><ref group="note">Baragund was a member of Barahir's outlaw band in [[Dorthonion]] after the [[Dagor Bragollach]] and was slain by Orcs in the Massacre at Tarn Aeluin.</ref>|BLG=[[Belegund]]<br/><small>''422-460'' †</small><br/><ref group="note">Belegund was also a member of Barahir's outlaw band and was slain by Orcs in the Massacre at Tarn Aeluin.</ref>|BRN=8* [[Beren]]<br/>Erchamion<br/><small>''432-465'' †, ''465-501''</small><br/><ref group="note">Beren died from wounds received from the bites of [[Carcharoth]], the Wolf of [[Morgoth]].  However, he returned to [[Middle-earth]] and lived with [[Lúthien]] before dying again.</ref>|LUT=''[[Lúthien]]<br/>Tinúviel''
+|boxstyle_HAN =background-color: #77f;
+|boxstyle_LUT =background-color: #696;
+}}
+{{familytree | | | | | | | |!| | | | | | | | | |!| | | |!| | | | | | | |!| | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | |BTL| | | |HUR|y|MOR| |RIA|y|HUO| |DIO| | | | | | |BTL=[[Brandir]]<br/>the Lame †<br/><small>''(Childless)''</small>|HUR=[[Húrin]]<br/>[[Thalion]]|MOR=''[[Morwen]]<br/>[[Edhelwen]]<br/><small>443-500'' †</small><br/><ref group="note">Morwen, spent from years of wandering in the wilderness, died upon the mound that held her son Túrin, which was also a memorial to her daughter [[Nienor]].</ref>|RIA=''[[Rían]]<br/><small>450-472'' †</small><br/><ref group="note">Rían made her way to the [[Haudh-en-Nirnaeth]] after the [[Nirnaeth Arnoediad]] where she laid herself down and died.</ref>|HUO=[[Huor]]|DIO=[[Dior]]<br/><small>''470-506'' †</small><br/><ref group="note">Dior died in [[Menegroth]] when the sons of [[Fëanor]] attacked to take the [[Silmaril]] that had been set in the [[Nauglamír]].</ref>
+|boxstyle_BTL =background-color: #77f;
+|boxstyle_HUR =background-color: #ffd;
+|boxstyle_HUO =background-color: #ffd;
+|boxstyle_DIO =background-color: #699;
+}}
+{{familytree | | | | | | | | | | | | | | | |!| | | | | | | |!| | | |,|-|^|-|v|-|-|-|.| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | |TUR| |IDR|y|TUO| |ELD| |ELN| | |!| |TUR=[[Túrin]]<br/>[[Túrin|Turambar]] †<br/><small>''(Childless)''</small>|IDR=''[[Idril]]''|TUO=[[Tuor]]|ELD=[[Eluréd]]<br/><small>''500-506'' †</small><br/><ref group="note">Eluréd was seized by [[Celegorm]]'s servants during the [[Second Kinslaying]] and left in the forest to die of starvation.  [In ''The Silmarillion'', Eluréd was renamed from "Eldún".]</ref>|ELN=[[Elurín]]<br/><small>''500-506'' †</small><br/><ref group="note">Elurín was seized by [[Celegorm]]'s servants during the [[Second Kinslaying]] and left in the forest to die of starvation.  [In ''The Silmarillion'', Elurín was renamed from "Elrún".]</ref>
+|boxstyle_TUR =background-color: #ffd;
+|boxstyle_IDR =background-color: #696;
+|boxstyle_TUO =background-color: #ffd;
+|boxstyle_ELD =background-color: #699;
+|boxstyle_ELN =background-color: #699;
+}}
+{{familytree | | | | | | | | | | | | | | | | | | | | | |!| | | | | | | | | | | | | |!| |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | | | | | | |EAR|~|~|~|~|~|y|~|~|~|~|~|ELW|EAR=[[Eärendil]]|ELW=''[[Elwing]]<br/><small>b. 503''</small>
+|boxstyle_EAR =background-color: #699;
+|boxstyle_ELW =background-color: #699;
+}}
+{{familytree | | | | | | | | | | | | | | | | | | | | | | | | | | |,|-|^|-|.| | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | | | | | | | | | | | |ELS| |ELD| | | | | |ELS=[[Elros]]|ELD=[[Elrond]]
+|boxstyle_ELS =background-color: #622;
+|boxstyle_ELD =background-color: #696;
+}}
+{{familytree | | | | | | | | | | | | | | | | | | | | | | | | | | |!| | | |!| | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | | | | | | | | | | | |HOE| | |!| | | | | | |HOE=[[House of Elros]]
+|boxstyle_HOE =background-color: #622;
+}}
+{{familytree | | | | | | | | | | | | | | | | | | | | | | |F|~|~|~|C| | | |!| | | | | | |}}
+{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | | | | | | | |HOI| |HOA| | |!| | | | | | |HOA=[[House of Anárion]]|HOI=[[House of Isildur]]
+|boxstyle_HOA =background-color: #622;
+|boxstyle_HOI =background-color: #622;
+}}
+{{familytree | | | | | | | | | | | | | | | | | | | | | | |L|~|~|~|C| | | |!| | | | | | |}}{{familytree |boxstyle=white-space:nowrap;| | | | | | | | | | | | | | | | | | | | | | | | | |ARA|~|ARW| | | | | |ARA=[[Aragorn]]|ARW=[[Arwen]]
+|boxstyle_ARA =background-color: #622;
+|boxstyle_ARW =background-color: #622;
+}}
+{{familytree/end}}
+
+===Notes===
+<references group="note" />
+{{references}}
+[[Category:House of Bëor| ]]
+[[Category:Mannish noble houses|Beor]]
+[[de:Haus Beor]]
+[[fr:encyclo/peuples/hommes/peuple de beor]]
+[[fi:Bëorin Huone]]

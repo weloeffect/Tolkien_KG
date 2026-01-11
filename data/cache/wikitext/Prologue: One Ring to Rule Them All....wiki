@@ -1,0 +1,38 @@
+{{disambig-more|Prologue|[[Prologue (disambiguation)]]}}
+{{scene
+|name=Prologue: One Ring to Rule Them All...
+|number=1
+|duration=7:15 (theatrical)<br />
+          7:36 (extended)
+|event=Creation of the [[Rings of Power]], [[Last Alliance]], Bilbo finds the [[One Ring]]
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Last Alliance.jpg
+|next=[[Concerning Hobbits (scene)|Concerning Hobbits]]
+|characters=[[Sauron]], [[Isildur]], [[Elrond]], [[Gollum]], [[Bilbo Baggins|Bilbo]], [[Galadriel]] (voiceover)
+}}
+'''Prologue: One Ring to Rule Them All...''' is the first scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' narrated by [[Galadriel]]. An extended edition of this scene was released in [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+This scene shows the forging of the Rings of Power, forging of the One Ring, Battle of the Last Alliance when Isildur cuts [[Sauron]]'s finger with the Ring on it, Isildur's corruption and his death. Then the scene jumps to events from ''[[The Hobbit]]'', showing [[Bilbo Baggins]] finding the Ring in Gollum's Cave.
+
+==Differences==
+*Place: In the movie the battle takes place on the slopes of Mount Doom, while in the books it happens near [[Barad-dur]].<ref>{{S|V}}</ref> 
+*Fight with Sauron: In the movie [[Elendil]] is immediately killed by Sauron, and [[Gil-galad]] isn't even shown to fight with him. In the books Elendil and Gil-galad fight with Sauron and die after a long fight.<ref>{{FR|I2}}</ref>
+*Omissions: 
+*[[Anarion]] is not mentioned, nor is his death.
+*[[Númenor]] is not mentioned, and in fact it is only referenced once in the entire trilogy.
+*Isildur's sons are not shown at the [[Battle of the Gladden Fields]].
+*The campaign of the Last Alliance is significantly compressed, omitting the seven year siege of Barad-dûr, or at least only the end is shown.
+*The [[Riddle-game]] is omitted, presumably for the sake of compressing time.
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the film upon streaming it on Prime Video.
+* '''Scene 1''' - "Sir Christopher Lee ([[Saruman]]) read ''"The Lord of the Rings"'' once a year until his death in [[2015]], and had done so since the year it was published. He also was the only member of the cast and crew ever to have met [[J.R.R. Tolkien]]."
+* '''Scene 2''' - "Originally, the narration at the prologue was to be spoken by [[Elijah Wood]], but it was felt that the information imparted had little bearing on the character of [[Frodo Baggins|Frodo]]. Sir Ian McKellen also recorded a narration, but once again, it was felt that [[Gandalf]] wasn't the right character to speak it; neither he nor Frodo were present at the events described in the prologue. They eventually settled on [[Cate Blanchett]] as [[Galadriel]], as it emphasizes the timelessness of the [[elves]]."
+* '''Scene 2''' - "(Cameo) [[Alan Lee]]: In the prologue, one most famous [[Middle-earth]] artist can be seen as one of the [[Nazgûl|nine]] [[Men|human Kings]]."
+* '''Scene 2''' - "[[John Howe]], brought in to work on the production because of his longstanding reputation as being one of the great artists of J.R.R. Tolkien's work, was given the task of designing the [[Moria]] [[Orcs]] himself."
+* '''Scene 2''' - "The two most renowned Tolkien artists are Alan Lee and John Howe, and so it was important to Sir Peter Jackson to have those two on-board. Lee was tracked down to a tiny little village in Dartmoor, England, and was FedExed a package of Jackson's ''Heavenly Creatures'' (1994) and a letter outlining his intentions. They monitored the progress of the FedEx package every step of the way, but were somewhat surprised when Lee rang them only three hours after delivery to say he'd love to work them. Howe, meanwhile, was living in Switzerland, and because someone hadn't worked out the time differences between Switzerland and New Zealand correctly, he was called at about 2 a.m. He says that the biggest frustration with that phone call was waiting for Jackson to finish his pitch before he could say yes."
+* '''Scene 4''' - "[[New Line Cinema]] insisted on a prologue of two minutes. What they revealed was one that lasts for seven and a half minutes."
+
+{{references}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|01]]

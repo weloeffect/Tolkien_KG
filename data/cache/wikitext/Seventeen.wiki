@@ -1,0 +1,15 @@
+{{journal
+| title=Seventeen, January 1967
+| image = Seventeen.png
+| editor=Enid A. Hampton
+| illustrator=
+| publisher=New York: Triangle Publications
+| date=[[17 January]] [[1967]]<ref>{{CG|C}}, p. 679</ref><ref>{{VT|47}}, p. 30</ref>
+| format=Magazine
+| pages=
+| issn=
+}}
+'''''Seventeen''''' '''January 1967''', is an issue of the American magazine ''Seventeen''. The article "J.R.R. Tolkien Talks about the Discovery of Middle-earth, the Origins of Elvish" by [[Richard Plotz]] includes extracts (pp.&nbsp;92–93, 118) from an [[Index:Interviews with J.R.R. Tolkien|interview with Tolkien]].<ref>[http://www.tolkienbooks.net/php/details.php?reference=53600 Seventeen. January 1967] at [http://www.tolkienbooks.net TolkienBooks.net] (accessed 27 October 2011)</ref>
+{{references}}
+{{title|italics}}
+[[Category:Magazines]]

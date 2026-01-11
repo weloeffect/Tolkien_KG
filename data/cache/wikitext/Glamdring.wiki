@@ -1,0 +1,105 @@
+{{short description|Sword of Turgon and Gandalf}}
+{{object infobox
+| name=Glamdring
+| image = John Howe - Gandalf the White 01.jpg
+| caption="Gandalf the White" by [[John Howe]]
+| pronun=
+| othernames=Beater, Foe-hammer
+| location=[[Gondolin]], various
+| owner=[[Turgon]], [[Gandalf]]
+| type=Sword
+| appearance="beautiful scabbards and <br>jewelled hilts"<ref name="mutton"/>
+| creator=
+| created=<br>Between c. {{FA|116}} - {{FA|496}}<ref name="shortrest">{{H|3}}</ref><ref name="ut1">{{UT|1}}, note 31 (in the source it is not directly identified as Glamdring)</ref>
+| createdlocation=[[Gondolin]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=Weapon of [[Gandalf]] during the [[War of the Ring]]
+}}
+<center>{{quote|This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.|[[Elrond]] in ''[[The Hobbit]]'', "[[A Short Rest]]"}}</center>
+
+'''Glamdring''' was a sword, said to have belonged to [[Turgon]], but best known as the weapon of [[Gandalf]] during the [[War of the Ring]]. It was known in Westron as the '''Foe-hammer''', and Orcs knew it as '''Beater'''.
+
+==History==
+===Beater===
+Glamdring was originally borne by Turgon, the King of [[Gondolin]].<ref name="shortrest">{{H|3}}</ref> He must have wielded it with strength during the [[Nirnaeth Arnoediad]] or the [[Fall of Gondolin]], for the [[Orcs]] named it "Beater", and fled before it. Even up until the late [[Third Age]], [[orcs of the Misty Mountains]] knew of this legendary sword,<ref name="overhill">{{H|4}}</ref> so it must have done some damage. 
+
+The name most likely originated in the [[Nirnaeth Arnoediad]], where it is said that Turgon "hewed his way to the side of [[Fingon|his brother]]".<ref>{{S|20}}</ref> No other tales mention the actions of the sword, and it is unknown what happened to it during the [[Fall of Gondolin]]. Turgon perished as the [[Tower of the King]] fell on top of him,<ref>{{S|23}}</ref> but of the fate of Glamdring nothing is told.
+
+===Survival===
+The sword survived roughly 6500 years from the Fall of Gondolin in {{FA|510}} to its eventual rediscovery in {{TA|2941}}. In that period, it travelled from Gondolin far to the east. Much mystery surrounds this feat, but [[Elrond]] reasoned that Glamdring, along with [[Orcrist]] and [[Sting]], was plundered again and again, or carried off to the [[Misty Mountains]] soon after the Fall of Gondolin.<ref name="shortrest" /> Thus, after surviving the deluge of [[Beleriand]] in the [[War of Wrath]], it ended up in a [[Trolls' lair|troll-hole]] in the [[Trollshaws]] of [[Eriador]].
+
+===At Gandalf's side===
+In May {{TA|2941}}, [[Gandalf]], [[Bilbo Baggins]] and [[Thorin and Company|a group of dwarves]] encountered three trolls in the Trollshaws - [[William]], [[Bert]] and [[Tom]]. The Trolls captured Bilbo and the Dwarves, but Gandalf destroyed them by exposing them to sunlight. Glamdring, along with [[Orcrist]] and [[Sting]], were found in their cave nearby.<ref name="mutton">{{H|2}}</ref> Gandalf claimed the weapon as his own, amazed by its appearance and inscription. The inscription was set in a script of [[runes]] Gandalf [[Gondolinic Runes|did not know]]; he needed the knowledge of Elrond for that. Elrond translated the runes and called it by its Mannish name: "Foe-hammer".<ref name="shortrest" />
+[[File:Donato Giancola - You Cannot Pass.jpg|200px|thumb|right|Gandalf wielding Glamdring, by [[Donato Giancola]].]]
+Gandalf would use the sword well; its first victim was the [[Great Goblin]]. Other Orcs fled as they recognized the sword as "Beater". This meant that they had legends about two glowing swords - Beater and [[Orcrist|Biter]].<ref name="overhill" /> Whether Gandalf used the sword again during the [[The Hobbit|Quest for Erebor]] is uncertain, though it is likely that he wielded it in the [[Battle of Five Armies]]. 
+
+Gandalf bore Glamdring at his side when the [[Fellowship of the Ring]] left [[Rivendell]] in {{TA|3018}}.<ref>{{FR|II3}}</ref> He used the blade during the [[Battle of the Chamber of Mazarbul]], and a short time thereafter in the standoff with [[Durin's Bane|the Balrog]], during which battle his staff was destroyed.<ref>{{FR|II5}}</ref> After the collapse of the [[Bridge of Khazad-dûm|bridge]], Gandalf and the Balrog fought on to the [[Endless Stair]] and [[Durin's Tower]], with Glamdring being the only weapon known to be in Gandalf's possession.<ref>{{TT|III5}}</ref>
+
+Gandalf's body perished there but he was sent back because his task was not yet complete. He had Glamdring with him when he met the [[Three Hunters]]; he gave it to [[Háma]] at [[Edoras]] when asked to surrender it.<ref>{{TT|III6}}</ref> Gandalf would continue to bear it throughout the [[War of the Ring]], and carried it at his side when he, [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] arrived at [[the Prancing Pony]] in [[Bree]]. Gandalf and the Hobbits had seen so much war at the time that wearing a weapon did not seem odd.<ref>{{RK|VI7}}</ref>
+
+===Fate===
+On [[29 September]], {{TA|3021}},<ref>{{App|Chief}}</ref> Gandalf left [[Middle-earth]] and sailed into the West.<ref>{{RK|VI9}}</ref> Whether he took Glamdring with him is never mentioned, and is open to debate. It can be argued that he brought it over the Sea, as he did with [[Shadowfax]],<ref>[[J.R.R. Tolkien]], [[Humphrey Carpenter]], [[Christopher Tolkien]] (eds.), ''[[The Letters of J.R.R. Tolkien]]'', [[Letter 268]] (dated [[19 January|January 19]], [[1965]])</ref> or that it was left behind in Middle-earth, weapons not being needed in the Undying Lands.
+
+==Appearance==
+Glamdring and Orcrist are described as having "beautiful scabbards and jewelled hilts".<ref name="mutton" /> They would glow blue in the presence of Orcs. The "sword of Turgon" was "a white and gold sword in a ruel-bone (ivory) sheath".<ref name="ut1" />
+
+[[File:Audrey Corman - Glamdring.jpg|thumb|right|''Glamdring'' by Audrey Corman]]
+When he took the sword, Gandalf said he could not read [[Gondolinic Runes|the runes]]. Elrond did, however, as he was a savant of all kinds of [[cirth|runes]].
+
+==Etymology==
+{{Pronounce|Glamdring.mp3|Ardamir}}
+''Glamdring'' is [[Sindarin]] for "Foe-hammer".<ref name="shortrest" /> It is formed from the elements: ''[[Glamhoth|glam]]'', literally "shouting, confused noise", but used for any body of [[Orcs]];<ref>{{WJ|AC}}, p. 391</ref> and ''dring'' ("beat, strike").<ref name="etym">{{LR|Etymologies}}, entry "DRING"</ref> 
+
+The sword was also given the crude name '''Beater''' by the Orcs.<ref name="overhill" />
+
+==Other versions of the legendarium==
+In 1960, Tolkien began a complete rewrite of the Hobbit adding the fact that Glamdring was covered in dark blood when Gandalf found it, explaining why the runes were unreadable until cleaned by Elrond.<ref>{{HM|RB}}, page 799</ref>
+
+It is not explained in the published ''Hobbit'' why Gandalf could not read the runes. A fitting explanation would be the "[[Gondolinic Runes]]", devised by Tolkien in either 1924 or 1930. This set of Runes was first published in 1992.<ref>First published in ''[[Mythlore]]'' 69, pages 20-25 (edited by [[Paul Nolan Hyde]]), analysed in issue 70, pages 23-24 (by [[Carl F. Hostetter]]). See also [[J.R.R. Tolkien]], "Gondolinic Runes", in ''[[Parma Eldalamberon 15]]'' (edited by [[Christopher Gilson]]), page 111-113</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings (1978 film) - poster.jpg|thumb|Glamdring in a promotional image for [[The Lord of the Rings (1978 film)]].]]
+===Films===
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:Gandalf acquires Glamdring in the trolls' cave. Elrond recognizes the sword at first glance; perhaps he simply deduces the fact that it was Glamdring because he had identified its mate Orcrist just before. After leaving [[Rivendell]], Gandalf notably uses the sword only when rescuing Bilbo and the Dwarves from Goblin-town.
+
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:On promotional art, Glamdring is portrayed as an ordinary longsword, with no inscription visible. In the movie itself, it goes unnamed, and is considerably shorter, only a one-handed sword. Oddly it is broken along with the Balrog's sword, but reappears intact in later scenes.<ref>[[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]], "Gandalf Triumphant'</ref>
+
+'''1980: [[The Return of the King (1980 film)|''The Return of the King'' (1980 film)]]:'''
+:Gandalf does not use a sword, only his staff.
+
+'''2001-03: [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]:'''
+:Glamdring is a name given to the sword of Gandalf in the film's promotional materials, but it is not named in the films. The sword is, according to most replicas, 47 inches (approximately 120 centimeters) long,<ref>''[[The Noble Collection]]'' Glamdring, [http://www.weaponmasters.com/shopping/Glamdring-The-Sword-of-Gandalf-p-16913.html Weaponmasters.com]</ref> and does not glow blue. When asked, [[Peter Jackson]] and [[Philippa Boyens]] reacted jokingly that is was due to "budgetary cuts", and they had "not enough blue left".<ref>[[Peter Jackson]], [[Philippa Boyens]], [[Fran Walsh]] (eds.), [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]], "[[A Journey in the Dark (scene)|A Journey in the Dark]]", Director Commentary</ref>
+
+:In the films, Glamdring is depicted as a longsword-type weapon. It has a straight, double-edged blade with a very short ricasso right above the crossguard. The crossguard's prongs flare upwards, and the center of the guard houses a decorative blue gem. The sword's grip is wrapped in blue, and the pommel is elongated, broadening at the bottom. The rune inscription is engraved in the cross-guard, and adds power to the sword. With this extra power Gandalf was able to defeat [[Durin's Bane]].<ref name="lotrwaw">[[Chris Smith]], ''[[The Lord of the Rings: Weapons and Warfare]]'', page 68-69</ref> The actual inscription reads as thus: 
+::"''Turgon [[aran]] Gondolin tortha gar a matha i vegil Glamdring gûd daedheloth, dam an [[Glamhoth]]''".
+:This is [[Sindarin]], and translates to "Turgon, king of Gondolin, wields, has, and holds the sword Glamdring, Foe of Morgoth's realm, Hammer of the Orcs".<ref name="lotrwaw" />
+
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:Thorin finds several swords in the troll hoards and gives one to Gandalf. In Rivendell, Elrond identifies it as Glamdring, and in Goblin-town, the Great Goblin recognizes it as Beater. It has the same design as Glamdring in ''The Lord of the Rings'' films.
+
+===Radio series===
+'''1968: [[The Hobbit (1968 radio series)|''The Hobbit'' (1968 radio series)]]:'''
+:Glamdring is found in the cave of the trolls, and later named by Elrond. Gandalf himself recounts how it was once borne by the King of Gondolin.<ref>[[The Hobbit (1968 radio series)|''The Hobbit'' (1968 radio series)]], "Out of the Frying-Pan into the Fire"</ref>
+
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Glamdring is not named, and the presence of a sword is mentioned only once: when Gandalf has to surrender it to [[Háma]].<ref>[[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]], "The King of the Golden Hall"</ref>
+
+===Games===
+'''2002: [[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]]:'''
+:Glamdring is an Elven longsword. It glows with pale light when enemies are near.<ref>[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Lord of the Rings: The Fellowship of the Ring'' (video game)]], Manual, page 9</ref>
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:As this game focuses on Bilbo rather than the entire group, Glamdring is never named, and only appears once when Gandalf and the player (as Bilbo) have to wield off several goblins in the Misty Mountains.<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Over Hill and Under Hill"</ref> An alternative survival theory is also given: the caves in the Trollshaws were - according to [[Glóin]] - dug by the [[Witch-king]] of [[Angmar]] during his reign in the region.<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Troll-hole"</ref>
+
+{{references}}
+[[Category:Pronounced articles]]
+[[Category:Sindarin names]]
+[[Category:Swords]]
+{{weapons}}
+[[de:Glamdring]]
+[[fi:Glamdring]]
+[[fr: Glamdring]]

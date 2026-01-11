@@ -1,0 +1,36 @@
+{{film infobox
+| image=TolkienTrueStory.jpg
+| name=Tolkien: The True Story of the Rings
+| director= Jean-Christoph Caron, Matthias Schmidt
+| producer=
+| writer=
+| narrator=Elisabeth Günther
+| music=
+| starring=  [[John Garth]] <br/>[[Vincent Ferré]]<br/>[[Thomas Honegger]]<br/>[[Dimitra Fimi]] <br/>[[Stuart Lee]] <br/>[[Switzerland in Tolkien's Middle-Earth| Martin S. Monsch]] <br/>[[Marcel Bülles]] <br/>Johannes Dillinger <br/>[[Deutsche Tolkien Gesellschaft e.V.| Annika Röttinger]] <br/>Adrián Maldonado
+| cinematography= 
+| editing= Annina Wolf
+| distributor=Arte TV
+| released=[[5 December]] [[2024]]
+| runtime=91 minutes
+| country=Germany, France
+| language=German
+| budget=
+| website=
+}}
+'''''Tolkien: The True Story of the Rings''''' is a documentary produced by StoryHouse in collaboration with the german channel [[wikipedia: ZDF| ZDF]]. It aired on [[wikipedia:Arte| ArteTV]] on [[5 December]] [[2024]] and is since available on the channel's website.
+
+The documentary mainly focuses on Tolkien's real-life inspirations for his legendarium, especially his trip to Switzerland and the [[Battle of the Somme]]. It features two segments where [[Switzerland in Tolkien's Middle-Earth| Martin S. Monsch]] and [[Deutsche Tolkien Gesellschaft e.V.| Annika Röttinger]] respectively travel to those locations.
+
+
+==Official synopsis==
+{{blockquote| J.R.R Tolkien’s fantasy novels hold a unique place in twentieth century English literature and are much loved by readers the world over. This documentary explores the real places in England and elsewhere that provided inspiration for Tolkien to create the world of Middle Earth in The Hobbit and The Lord of the Rings.}}
+
+
+==External links==
+* Watch the documentary on [https://www.arte.tv/en/videos/115010-000-A/tolkien-the-true-story-of-the-rings/ arte.tv]
+* [https://www.tolkcast.de/195-194-interview-zu-tolkien-die-wahre-geschichte-der-ringe Interview with the directors] '''(German)'''
+
+
+
+[[Category: Documentaries]]
+{{title|italics}}

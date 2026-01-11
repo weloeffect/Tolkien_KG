@@ -1,0 +1,11 @@
+{{letter infobox
+| #=102
+| to=[[Christopher Tolkien]]
+| date=[[9 August]] [[1945]]
+| subject=War, [[wikipedia:Atomic bombings of Hiroshima and Nagasaki|Hiroshima Bombing]]
+}}{{letter|102}}
+==Summary==
+Tolkien commented on the "[[wikipedia:Atomic bombings of Hiroshima and Nagasaki|Atomic bombs]]", and denounced such tactics as "utter folly". With both moral and intellectual decline, such weaponry in the hands of men would not be very wise. But if all went well, Japan would cave in. Tolkien ended the fragment with the statement that we are all in God's hands, and God does not look kindly on Babel-builders. 
+{{letters}}
+[[Category:Letters to Christopher Tolkien]]
+[[de:Brief 102]]

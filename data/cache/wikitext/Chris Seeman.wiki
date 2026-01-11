@@ -1,0 +1,52 @@
+{{author infobox
+| image=
+| name=Chris Seeman
+| born=
+| died=
+| education=Ph.D. in Near Eastern Religions
+| occupation=Associate Professor of Theology   
+| location=[[wikipedia:Walsh University|Walsh University]], Ohio
+| website=
+|}}
+
+'''Chris Seeman''' is Associate Professor of Theology at [[wikipedia:Walsh University|Walsh University]] in North Canton, Ohio. He has written both scholarly articles and gaming material concerned with [[J.R.R. Tolkien]]'s works. Seeman is also the creator of the web site ''The Tolkien Music List''.
+==Bibliography, selected==
+
+===Roleplaying Game Modules===
+
+*[[Middle-earth Role Playing|MERP]]
+**[[1995]]: ''[[The Kin-strife]]''
+**[[1996]]: ''[[Southern Gondor: The Land]]''
+**[[1996]]: ''[[Southern Gondor: The People]]'' 
+**[[1997]]: ''[[The Northern Waste]]''
+**[[1997]]: ''[[Hands of the Healer]]'' (editor)
+*[[LOTRRPG]]
+**[[2003]]: ''[[Fell Beasts and Wondrous Magic]]''
+**[[2003]]: ''[[The Lord of the Rings Roleplaying Game: Moria|Moria]]''
+
+===Articles===
+
+*[[1991]]: ''[[Mythlore 67|Mythlore'' #67]]
+**"Tolkien and Campbell Compared" (pgs 43-48)
+*[[1992]]: ''[[The First and Second Ages]]''
+**"Purity and Danger in Middle-earth"
+*[[1993]]-[[2001]]: ''[[Other Hands]]'' 
+**[various, in all issues]
+*[[1994]]: ''[[Arda (annual)|Arda]] 1988-1991''
+**"Tolkien's Conception of Evil: An Anthropological Approach"
+*[[1995]]: ''[[Proceedings of the J.R.R. Tolkien Centenary Conference]]''
+**"Tolkien's Revision of the Romantic Tradition"
+*[[2008]]: ''[[Other Minds]]'', Issue 3
+**"A Game Designer's Guide to ''Parma Eldalamberon'' 17"
+
+==External links==
+
+*[http://www.lotrplaza.com/forum/forum_posts.asp?TID=230587 "Death and Language: Keysprings of the ''The Lord of the Rings''" - lecture by Chris Seeman]
+*[http://www.tolkien-music.com ''The Tolkien Music List'']
+
+{{DEFAULTSORT:Seeman, Chris}}
+[[Category:American people]]
+[[Category:Authors]]
+[[Category:MERP contributors]]
+[[Category:People by name]]
+[[Category:Webmasters]]

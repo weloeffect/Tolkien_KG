@@ -1,0 +1,92 @@
+{{band
+| image = Summoning.jpg
+| name=Summoning
+| origin=Vienna, Austria
+| genre=Black metal, [[Tolkien metal]]
+| years=1993-present
+| label=Napalm Records
+| website=[http://www.summoning.info/ www.summoning.info]
+| members=Protector<br/>Silenius
+| formermembers=Trifixion<br/>Pazuzu
+}}
+'''Summoning''' is an Austrian epic/atmospheric black metal band, formed in [[1993]]. Their style has been described as "[[Tolkien metal]]", because the lyrics of most of their songs deal with [[Middle-earth]]. Their first three albums are named after strongholds of evil: "[[Lugburz (album)|Lugburz]]" ([[1995]]), "[[Minas Morgul (album)|Minas Morgul]]" ([[1996]]) and "[[Dol Guldur (album)|Dol Guldur]]" ([[1996]]).
+
+== Discography ==
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: ; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|-
+|'''Date of Release'''
+|'''Title'''
+|'''Label'''
+|-
+|[[1995]]
+|''[[Lugburz (album)|Lugburz]]''
+|Napalm Records
+|-
+|[[1995]]
+|''[[Minas Morgul (album)|Minas Morgul]]''
+|Napalm Records
+|-
+|[[1996]]
+|''[[Dol Guldur (album)|Dol Guldur]]''
+|Napalm Records
+|-
+|[[1999]]
+|''[[Stronghold]]''
+|Napalm Records
+|-
+|[[2001]]
+|''[[Let Mortal Heroes Sing Your Fame]]''
+|Napalm Records
+|-
+|[[2006]]
+|''[[Oath Bound]]''
+|Napalm Records
+|-
+|[[2013]]
+|''[[Old Mornings Dawn]]''
+|Napalm Records
+|-
+|[[2018]]
+|''[[With Doom We Come]]''
+|Napalm Records
+|-
+|}
+
+The band has also released the following demos/EPs:
+*[[Nightshade Forests (album)|Nightshade Forests]]([[1997]])
+*[[Lost Tales (album)|Lost Tales]] ([[2003]])
+*Dark Ages I	
+*Upon The Viking Stallion
+*The Urilia Text
+*Anno Mortiri Domini 1959
+
+== Members ==
+
+* Protector (Richard Lederer)- Vocals, Guitars, Keyboards, Drum programming
+* Silenius (Michael Gregor)- Vocals, Keyboards, Bass
+
+=== Former Members ===
+* Trifixion (Alexander Trondl)-Drums
+* Pazuzu (Raymond Wells)-Vocals
+
+== Musical Characteristics ==
+Summoning is known for their epic-style, Tolkien-related atmospheric black metal style, with emphasis on keyboards.  Their trademark sound is characterized by:
+* Very minimalistic guitars often low in the mix
+*  Programmed and heavily reverberated drums giving a very cavernous feel to the rhythm
+* Multi-layered synthesizer and keyboard melodies mimicking orchestral instruments which often dominates the rest of the mix.
+* Vocals performed in a traditional black metal fashion, however they are often heavily reverberated, giving a very epic and roomy sound to the songs.
+* The band often makes use of audio samples, particularly from the ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]'' radio play.
+
+==See also==
+*[[:Category:Songs by Summoning|A list of songs by Summoning]]
+==External links==
+* '''[https://www.facebook.com/SummoningOfficial Official Facebook]'''
+* '''[http://www.summoning.info Official Website]'''
+* '''[http://www.myspace.com/upthehammers Official Myspace]'''
+* {{WP|Summoning (band)}}
+* [http://summoning.yuku.com Sound of Middle-Earth (Official Forum)]
+
+[[Category:Bands]]
+[[Category:Black metal]]
+[[de:Summoning]]
+[[fi:Summoning]]

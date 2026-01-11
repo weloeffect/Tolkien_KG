@@ -1,0 +1,38 @@
+{{journal
+| title=Other Minds 18
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=March [[2018]]
+| format=PDF
+| pages=94
+| issn=
+}}
+
+'''''Other Minds'' 18''' is the eightteenth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in March 2018.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Review: Bree"
+** By José Enrique Vacas de la Rosa
+* "Review: Horse-lords of Rohan"
+** By Thomas Morwinsky
+* "The Court of Ardor and the Book of Linsûl"
+** By Tom Davies
+* "The Gloomweaver Awakened"
+** By Paul Kirk
+* "Demographics for Dor Wathui and Dunland"
+** By Thomas Morwinsky
+
+*'''Artwork / Maps:'''
+** By: Sergio Artigas, Onur Bakar, [[Matěj Čadil]], Jenny Dolfen, Olanda Fong-Surdenas, Caspar David Friedrich, [[Daniel Govar]], Gin Hardiarso, Pierre Joubert, Liga Klavina, JLazarus, Turner Mohan, Thomas Morwinsky, Dan Pilla, Vincent Pompetti, Jan Pospíšil, Ari Suonpää, Tuuliky, Maciej Zagorski
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 18}}
+[[Category:Other Minds]]

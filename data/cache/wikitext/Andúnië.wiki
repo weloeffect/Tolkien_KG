@@ -1,0 +1,45 @@
+{{location infobox
+| name=Andúnië
+| image=David Greset - Andunie.jpg
+| caption="Andunie" by [[:Category:Images by David Greset|David Greset]]
+| pronun={{respell|an|doo|nee-eh}}
+| othernames=
+| location=[[Andustar]] in western [[Númenor]]
+| type=City/Port
+| description=
+| regions=
+| towns=
+| inhabitants=[[Númenóreans]], later the [[Faithful]]
+| created=
+| destroyed={{SA|3319}}, during the [[Downfall of Númenor]]
+| events=
+}}
+{{Pronounce|Andunie.mp3|Ardamir}}
+'''Andúnië''' was an important city and port in the realm of [[Númenor]].
+==Geography==
+It was located on the [[Bay of Andúnië]] in the [[Andustar]] region, on the western end of [[Elenna]].<ref>{{UT|NMap}}</ref>  Part of the town lay beside the shore but many dwellings were set upon the steep slopes behind.  
+
+The main road of Númenor, which ran from [[Rómenna]] westward through [[Armenelos]], continued on to Andúnië.<ref>{{UT|Numenor}}</ref>
+
+==History==
+Andúnië was initially the largest city of Númenor because the [[Falmari|Elves]] of [[Tol Eressëa]] would often visit the haven.<ref name="Akallabeth">{{S|Akallabeth}}</ref>
+
+In {{SA|630}}, [[Tar-Elendil]] created the title [[Lord of Andúnië]] in honor of his first grandson, [[Valandil (Lord of Andúnië)|Valandil]].<ref>{{UT|earlier}}</ref> A distaff branch of the line of [[Elros]], the [[:Category:Lords of Andúnië|Lords of Andúnië]] were important nobles and members of the [[Council of the Sceptre]].<ref>{{UT|Wife}}, Note 23</ref> Since Andúnië was an Elf-haven, the Lords of Andúnië were also the leaders of the "[[Faithful]]" — those who advocated continued friendship with the Elves and obedience to the [[Valar]]. 
+
+However, as the [[Shadow]] was falling upon Númenor, Armenelos became larger and more important than Andúnië. By the close of the Second Age, the Faithful were labeled as traitors by the [[King's Men]] and deported to Rómenna in the east.<ref name="Akallabeth"/> Andúnië was ultimately destroyed in the [[Downfall of Númenor]] in {{SA|3319|n}}.
+
+[[Amandil]], the last of the Lords of Andúnië, was the ancestor of the Kings of [[Arnor]] and [[Gondor]] in [[Middle-earth]].
+
+==Etymology==
+''Andúnië'' is a variant of the [[Quenya]] word '''''[[andúnë]]''''', meaning "sunset".
+
+{{references}}
+{{numenor}}
+{{DEFAULTSORT:Andunie}}
+[[Category:Andustar]]
+[[Category:Cities, towns and villages]]
+[[Category:Quenya locations]]
+[[Category:Quenya nouns]]
+[[de:Andúnië]]
+[[fi:Andúnië]]
+[[fr:encyclo:geographie:villes tours et forteresses:numenor:andunie]]

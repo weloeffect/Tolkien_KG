@@ -1,0 +1,40 @@
+{{album
+| image = An Evening in Rivendell.jpg
+| title=An Evening in Rivendell
+| type=Studio album
+| artist=Tolkien Ensemble
+| released=[[1997]]
+| recorded=
+| genre=Classical
+| length=67:49
+| language=
+| label=ClassicO
+}}
+'''''An Evening in Rivendell''''' is the debut album by the [[Tolkien Ensemble]], released on [[30 September|September 30]], [[1997]]. It features songs composed to the lyrics found in [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]'' and forms the first part of what was to become a complete musical interpretation of all lyrics in the book (a project given approval by both the [[Tolkien Estate]] and [[HarperCollins]]).
+
+The album features cover art by [[Margrethe II of Denmark]].
+
+==Track listing==
+
+#"Verse of the Rings"
+#"[[The Road Goes Ever On (song)|The Old Walking Song, The Road Goes Ever on]]"
+#"Tom Bombadil's Song, Hey dol! Merry dol!" 
+#"There is an inn, a merry old inn..."
+#"Song of Beren and Lúthien"
+#"Galadriel's Song of Eldamar, I sang of leaves"
+#"Elven Hymn to Elbereth Gilthoniel, Snow-white! Snow-white!"
+#"The Ent and the Ent-wife"
+#"Sam's Rhyme of the Troll"
+#"Galadriel's Song of Eldamar, Ai! Laurië lantar..."
+#"Sam's Song in the Orc-tower"
+#"The Old Walking Song, The Road...,Reprise"
+
+
+
+{{sequence
+ |prev=-
+ |next=[[A Night in Rivendell]]
+ |list=[[Tolkien Ensemble]] discography
+}}
+{{title|italics}}
+[[Category:Albums]]

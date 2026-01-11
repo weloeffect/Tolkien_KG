@@ -1,0 +1,54 @@
+{{disambig-more|Two Towers|[[Two Towers (disambiguation)]]}}
+{{video game infobox
+| image = The Two Towers-(1994 MUD)-1.png
+| name=The Two Towers MUD
+| developer=
+| publisher=
+| platform=Online
+| releasedate=September [[1994]]<ref name="Official">[http://t2tmud.org/ Official Site] (retrieved 20 March 2011)</ref>
+| genre=[[wikipedia:LPMud|LP MUD]],<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/t2t.html The Two Towers] at Tolkien Games (retrieved 20 March 2011)</ref> [[wikipedia:Role-playing game#Electronic media|RPG]]
+| modes=
+| rating=PG-13
+| distribution=
+}}
+
+'''''The Two Towers''''', or '''''T2T''''', is an [[Multi-User games|LPMud]] set in [[J.R.R. Tolkien]]'s universe of [[Middle-earth]] at the time of events in the third volume of ''[[The Lord of the Rings]]''.<ref name="Official"/> The players can choose to play as good or evil; the objective is to help the Free destroy the Evil and to help the Evil conquer the Free. 
+
+==Description==
+The world depicted in ''The Two Towers'' holds, in total, nearly a hundred thousand rooms and hundreds of quests. The regions represented in the game include [[Eriador]], [[Rhovanion]], [[Gondor]], [[Umbar]], [[Harondor]], [[Harad]], and [[Mordor]]. The scope ranges from cities such as [[Bree]] and [[Minas Tirith]] to small homes and farmlands, as well as huge dungeon complexes such as the [[Moria|Mines of Moria]].
+
+''The Two Towers'' also includes representations of most of the members of the [[Fellowship of the Ring]] who were living during its setting.
+
+''The Two Towers'' depicts the date of March 15, 3019, [[Third Age]] when Minas Tirith was under siege. The mud plays host to a battle between good and evil, with the free races ([[Hobbit]], [[Sindar]], [[Silvan Elves|Silvan]], [[Dwarf]], [[Edain]], [[Dunlendings|Dunlending]], [[Dúnedain]], and [[Rohirrim|Eorling]]) generally contesting against the minions of [[Sauron]] ([[Uruk-hai]], [[Easterlings|Easterling]], [[Númenórean]], [[Haradrim]], and [[Variag]]), although members of the free races may choose to betray their heritage.
+
+==History==
+''The Two Towers'' began in 1994 as a project between a few students and has from the start been free of charge. It is run with help from player donations and the administrators' private funds.
+Under constant development from the very beginning, the game is now a complete virtual world almost completely identical to the geographical properties of Middle-earth, with game areas including West and East [[Arda]], Harondor, Harad, Umbar, and Mordor. The ability to play as a minion of Sauron was removed in 2001, then reintroduced in 2005 after a major overhaul.
+
+In 1997, ''The Two Towers''<nowiki>'</nowiki>s web site was used as a visual example of an "interesting entertainment site" &mdash; "a site for sore eyes" &mdash; in ''Creating Web Pages for Dummies'', and the game was used as the [[Multi-User games|MUD]] of reference in an academic paper.<ref>http://zencadet.info/net.speak/</ref>
+
+=== New Features ===
+On [[24 October|October 24]], [[2010]], a string of new features were announced, including:
+
+*Allowing players to opt-in or opt-out of player vs. player combat
+*A fully featured [http://t2tmud.org/client Flash client] to log on directly through our website
+*A fully featured Facebook application
+*A fully featured MySpace application 
+*Extended races and classes to choose from (multi-classing allowed)
+*MXP/MCCP support
+*Clans and guilds
+*RP events and rewards available
+*100s of quests available to solve
+== External links ==
+* '''[http://t2tmud.org/ Official Site]'''
+** [http://t2tmud.org/client/simple/simple.php?port=8080 Play the game]
+** [http://t2tmud.org/forum/ Official forum]
+* [http://angband.com/wiki/index.php/Main_Page Community wiki]
+* [http://www.mudconnect.com/mud-bin/mud_search.cgi?Mode=MUD&mud=The+Two+Towers The Two Towers] at mudconnect.com
+
+** [http://apps.facebook.com/thetwotowers/ Play the game on Facebook]
+** [http://www.myspace.com/games/play/197576 Play the game on Myspace]
+{{References}}
+{{title|italics}}
+[[Category:Multi-User Dungeons]]
+[[Category:Role-playing video games]]

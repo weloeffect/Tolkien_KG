@@ -1,0 +1,31 @@
+{{plant infobox
+| name=Willows
+| image=John Howe - Old Man Willow 01.jpg
+| caption='Old Man Willow'' by [[John Howe]]
+| pronun=/ ˈwɪl oʊ /
+| othernames=([[Sindarin|S.]]) tathar 
+| location=[[Middle-earth]]
+| notablefor=[[Old Man Willow]]
+| family=Trees
+| appearance=
+| gallery=willows
+}}
+'''Willows''' were waterside [[trees]] that grew throughout [[Middle-earth]]. The most famous of these was the ancient tree known as [[Old Man Willow]], on the banks of the [[Withywindle]] in the [[Old Forest]].<ref>{{FR|I6}}</ref>
+
+In [[Beleriand]] was the region [[Nan-tathren]], a wooded vale which took its name from the willow trees that grew there.<ref>{{HM|RC}}, p. 384</ref>
+
+==Other names==
+The [[Sindarin]] name for "willow" is '''''tathar'''''.<ref>{{S|Appendix}}, entry ''tathar''</ref>
+
+==Portrayal in adaptations==
+'''1997: ''[[Middle-earth Role Playing]]—[[Hands of the Healer]]''''' 
+:The book describes two types of willow:
+
+:'''''Poison Willow''''' ([[Sindarin|S.]] ''Mordathar'', [[Quenya|Q.]] ''Moritasar''), also known as ''Black Willow'', closely resembled the weeping willow, though it did not grow as tall. It grew along tropical freshwater. Its oily orange-edged leaves cause painful blisters.<ref>{{ICE|2026}}, p. 129</ref>
+
+:'''''Red Willow''''' ([[Sindarin|S.]] ''Cardathar'', [[Quenya|Q.]] ''Carnitasar'') was a small willow growing in wetlands. At first its leaves are silvery green like other willows, but over the summer they turn rose and by autumn scarlet. They can be distilled in a cure for fever, or used in a balm named “cooling foam”.<ref>{{ICE|2026}}, p. 130</ref>
+
+==External links==
+*{{WP|Willow}}
+{{references}}
+[[Category:Trees]]

@@ -1,0 +1,52 @@
+{{anglosaxon infobox
+| name=Nicholas Guildford
+| people=[[wikipedia:English people|Englishman]]
+| image = Afalstein - Notion Club Papers - Guildford.png
+| caption="Notion Club Papers - Guildford" by [[:Category:Images by Afalstein|Afalstein]]
+| pronun=
+| othernames=
+| titles=
+| position=Archaeologist<br />Club reporter
+| location=
+| affiliation=The [[Notion Club]]
+| language=[[wikipedia:English language|English]]
+| birth=[[1937]]
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+
+'''Nicholas Guildford''' (born in [[1937]]) was a member of the [[Notion Club]].
+
+== History ==
+Nicholas Guildford was an archaeologist and the Club reporter who got an education at Lincoln College. He was seldom recorded as reading anything to the Club, and it was then not reported; but he appears to have written several novels.<ref name="Foreword">{{SD|2b}}</ref>
+
+In one of the meetings, after [[Michael George Ramer]] had finished reading his story, Guildford criticized it for not having a convincing method of transportation across the space, deeming it highly unlikely or even impossible for humans to ever (in flesh) get to another planet.<ref>{{SD|2c}}, "Night 60"</ref>
+
+When [[Alwin Arundel Lowdham]] and [[Wilfrid Trewin Jeremy]] went on a journey after the ''Night 67'', during which a [[wikipedia:Great Storm of 1987|great storm]] hit [[wikipedia:England|England]], and in which Lowdham and Jeremy seemed to have received a vision of a sort of the [[Downfall of Númenor]],<ref>{{SD|2d}}, "Night 67"</ref> he was the one who received a letter from the two, stating they were still "researching" and that "more stuff may come through".<ref>{{SD|2d}}, "Night 68"</ref>
+
+== Inspiration ==
+It had been shown to the editor of the [[Notion Club Papers]], Mr. [[Howard Green]], by a historian [[J.R. Titmass]], that the name of ''Nicholas Guildford'' was derived from an old medieval text titled ''[[wikipedia:The Owl and the Nightingale|The Owl and the Nightingale]]'' and that it was a pseudonym.<ref name="Foreword"/>
+
+{{references}}
+{{notionclub}}
+{{DEFAULTSORT:Guildford, Nicholas}}
+[[Category:Characters from the later Ages]]
+[[Category:Chroniclers of Arda]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

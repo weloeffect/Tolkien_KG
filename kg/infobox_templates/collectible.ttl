@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Film_Frame_Collectible> a schema:WebPage ;
+    rdfs:label "Film Frame Collectible"@en ;
+    schema:about <http://localhost:8000/resource/Film_Frame_Collectible> .
+
+<http://localhost:8000/resource/Film_Frame_Collectible> a schema:Thing ;
+    tg:company <http://localhost:8000/resource/Sideshow_Collectibles> ;
+    tg:image "Film Frame Collectible.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/collectible> ;
+    tg:link "Sold Out"@en ;
+    tg:name "Film Frame Collectible"@en ;
+    tg:price <http://localhost:8000/resource/Free_to_Trilogy_Tuesday_attendees> ;
+    tg:released <http://localhost:8000/resource/16_December> ;
+    tg:type "Ornament"@en .
+

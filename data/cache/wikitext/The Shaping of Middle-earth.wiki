@@ -1,0 +1,96 @@
+{{book
+|title=The Shaping of Middle-earth
+| image = Shaping of Middle-earth 1986.jpeg
+|author=[[J.R.R. Tolkien]]
+|editor=[[Christopher Tolkien]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|dateUK=[[21 August]] [[1986]]
+|dateUS=[[14 November]] 1986
+|format=Hardcover; paperback
+|pages=380
+|isbn=0048232793
+| precededby=[[The Lays of Beleriand]] (1985)
+| followedby=[[The Lost Road and Other Writings]] (1987)
+}}
+'''''The Shaping of Middle-earth''''', published in [[1986]], is the fourth volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]]. 
+
+==Overview==
+In ''The Shaping of Middle-earth'' the gradual transition from the "primitive" [[legendarium|legendaria]] of ''[[The Book of Lost Tales]]'' to what would become ''[[The Silmarillion]]'' is described, and it contains a text which could be seen as the first "Silmarillion" - the "Sketch of the Mythology".
+
+Three other parts are the ''Ambarkanta'' or "Shape of the World", a collection of maps and diagrams of the world described by Tolkien; and the Annals of [[Valinor]] and [[Beleriand]], chronological works which started out as timelines but gradually turned into full narratives.
+
+==Contents==
+* Preface
+
+* I. "[[Prose Fragments Following the Lost Tales]]" — brief, uncompleted texts which continue on from ''The Book of Lost Tales''
+
+* II. "[[The Earliest 'Silmarillion']]" — or, the "Sketch of the Mythology", this is the start of the ''Silmarillion'' proper
+
+* III. "[[The Quenta]]" — ''Quenta Noldorinwa'', a further developed version of that which appears in the "Sketch"
+** Appendix 1: Ælfwine's translation of the ''Quenta'' into Old English
+** Appendix 2: [[The Horns of Ylmir]]
+
+* IV. "[[The First 'Silmarillion' Map]]" — a reproduction of the first map of Beleriand
+
+* V. "[[The Ambarkanta]]" — cosmological essays, maps, and diagrams
+
+* VI. "[[The Earliest Annals of Valinor|The Earliest ''Annals of Valinor'']]"
+** Appendix: Ælfwine's translation of the ''Annals of Valinor'' into Old English
+
+* VII. "[[The Earliest Annals of Beleriand|The Earliest ''Annals of Beleriand'']]"
+** Second version of the earliest ''Annals''
+** Appendix: Ælfwine's translation of the ''Annals of Beleriand'' into Old English
+
+* Index
+
+The ''Annals of Valinor'' and ''Annals of Beleriand'' show the earliest outline of the chronology of the [[First Age]] as envisaged in the early 1930s. The next volume in the series, ''[[The Lost Road and Other Writings]]'' (1987), outlined revisions to both texts made c. 1937 as "The Later Annals of Valinor" and "The Later Annals of Beleriand".
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book IV reads:
+
+:"''Herein are the Quenta Noldorinwa, the History of the Gnomes, the Ambarkanta or Shape of the World by [[Rúmil (elf of Tirion)|Rúmil]], the Annals of Valinor, and the Annals of Beleriand by [[Pengolod]], the Wise of Gondolin with maps of the world in the Elder Days and translations made by [[Ælfwine|Ælfwine the Mariner]] of England into the tongue of his own land.''"
+
+==From the publisher==
+{{blockquote|The fourth volume that contains the early myths and legends which led to the writing of Tolkien’s epic tale of war, The Silmarillion.<br>
+In this book, the shaping of the chronological and geographical structure of the legends of Middle-earth and Valinor is spread before us.<br>
+We are introduced to the hitherto unknown [[Ambarkanta]] or 'Shape of the World', the only account ever given of the nature of the imagined [[Eä|Universe]], accompanied by maps and diagrams of the world before and after the cataclysms of The War of the Gods and the [[Downfall of Númenor]]. The first map of [[Beleriand]] is also reproduced and discussed.<br>
+In [[The Earliest Annals of Valinor|The Annals of Valinor]] and [[The Earliest Annals of Beleriand|The Annals of Beleriand]] we are shown how the chronology of the [[First Age]] was moulded; and the tale is told of [[Ælfwine]], the Englishman who voyaged into the [[Aman|True West]] and came to [[Tol Eressëa]], the Lonely Isle, where he learned the ancient history of [[Elves]] and [[Men]].<br>
+Also included are the original 'The Silmarillion' of 1926, and the Quenta Noldorinwa of 1930 - the only version of the myths and legends of the First Age that J.R.R. Tolkien completed to their end.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Shaping of Middle-earth 1986.jpeg |1986 hardcover
+File:Shaping of Middle-earth 1988.jpeg |1988 paperback
+File:Shaping of Middle-earth 1986.jpeg |1991 hardcover
+File:Shaping of Middle-earth 1989.jpeg |1993 paperback
+File:The Shaping of Middle-earth (HC2002).jpeg |2002 & 2015 paperback
+File:Shaping of Middle-earth 2010.png ‎|2010 hardcover
+File:Shaping of Middle-earth 2024.jpeg ‎|2024 paperback
+File:Shaping of Middle-earth hc 2024.jpg|2024 hardcover
+</gallery>
+* [[George Allen & Unwin]], hardcover ([[1986]]), pp.&nbsp;380. ISBN 0048232793
+* [[Unwin Paperbacks]], paperback ([[1988]]), ISBN 0044401507 - (cover art by [[Roger Garland]])
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102176
+* [[HarperCollins]] paperback ([[1993]]), ISBN 0261102184 - (cover art by [[John Howe]])
+** 1993 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365284
+** 2015 paperback edition, 39th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0008669218 - ([[Centenary Boxed Sets]] #2)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#iv A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Shaping of Middle-earth}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Map books]]
+[[Category:Publications by title]]
+
+[[de:The Shaping of Middle-earth]]

@@ -1,0 +1,31 @@
+{{Collectible card
+| image=METW - Alatar.jpg
+| name=Alatar
+| caption=
+| game=meccg
+| type=Character
+| alignment=Avatar
+| homesite=[[METW: Edhellond|Edhellond]] 
+| artist=[[Angus McBride]]
+| rarity=Fixed2
+| number=TW001
+}}
+'''Alatar''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]]. It depicts the [[Blue Wizards|Blue Wizard Alatar]], as he was also depicted in the [[Middle-earth Role Playing]] game.<ref>{{ICE|2006}}, p. 78</ref>
+
+==Card text==
+
+'''''Unique.''''' During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.
+
+==Errata==
+
+" he must make a corruption check immediately following the attack, and, if untapped, he must tap."<ref>''Council of the Isles of the Dead that Live'' (Dutch MECCG Council) web page, as of July 28, 2000.</ref>
+
+==Related cards==
+
+*[[MEWH: Alatar]]
+*[[MEAS: Alatar the Hunter]]
+*[[MEWH: Bow of Alatar]]
+
+{{References}}
+
+[[Category:MECCG character cards|Alatar]]

@@ -1,0 +1,21 @@
+{{title|italics}}
+{{journal
+| name=Палантир
+| image=
+| editor=Sergey Balyakov
+| latest=
+| website=[https://www.tolkien.spb.ru/palants.php St. Petersburg Tolkien Society website page]
+| publisher=[[St Petersburg Tolkien Society]]
+| date=[[April]] [[1997]] - present
+| frequency=Annually
+| format=A4 stapled paperback
+| pages=up to 70
+| issn=
+}}
+'''''Палантир''''' (English: ''The Palantír Journal'') is a Russian literary and academic journal published annually by the [[St Petersburg Tolkien Society]].
+
+The journal was founded in [[April]] [[1997]] in [[Wikipedia:Saint Petersburg|St Petersburg]]. It is published annually, usually twice a month in spring and autumn. Since 1997, there were 91 issues.
+
+[[Category:Journals| ]]
+[[Category:Publications by title]]
+[[Category:Russian publications]]

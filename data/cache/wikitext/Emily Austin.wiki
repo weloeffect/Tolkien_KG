@@ -1,0 +1,25 @@
+{{artist infobox
+| image=
+| name=Emily Austin
+| born=
+| died=
+| style=
+| images=
+| location=USA
+| website=[https://emilyaustindesign.com/ official website]
+|}}
+'''Emily Austin''' is an American artist who paints scenes from Tolkien’s stories.
+
+She made cover art for the books ''The Inklings and King Arthur'' by [[Sørina Higgins]] and ''Why We Love Middle-earth'' by [[Shawn Marchese]] and [[Alan Sisto]] (founders of [[The Prancing Pony Podcast]]).
+
+Her illustrations "The Yellow Door" and "The Vale of Rivendell" were featured in [[Tolkien Calendar 2023]].
+
+==External links==
+* [https://emilyaustindesign.com/ Emily Austin Design] – artist website
+
+
+
+{{DEFAULTSORT:Austin, Emily}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

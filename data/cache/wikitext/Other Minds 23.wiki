@@ -1,0 +1,42 @@
+{{journal
+| title=Other Minds 23
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=October [[2020]]
+| format=PDF
+| pages=101
+| issn=
+}}
+
+'''''Other Minds'' 23''' is the twenty-third issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in October 2020.
+
+==Contents==
+* "Editorial"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Ravens in the North"
+** By Andreas Erdmann
+* "The Lossoth"
+** By David Cole
+* "Below the Surface"
+** By Alexander Walker
+* "Secrets of Wilderland"
+** By José Enrique Vacas de la Rosa
+* "Encountering Dragons"
+** By Thomas Morwinsky
+* "The Wings of Malady"
+** By Olaf "Falenthal" Anguera
+* "Long Journey to Deephallow"
+** By Peter Bergman
+
+*'''Artwork / Maps:'''
+** By: Aegeri, Peter Bergman, [[Matěj Čadil]], David Cole, Ralph Damiani, Liz Danforth, [[Anke Eißmann]], Wouter Florusse, Olanda Fong-Surdenas, Caspar David Frierich, [[Daniel Govar]], Stephen Hickman, Arvid Hjorth, Jon Hodgson, [[John Howe]], J. Lazarus, Liigs Klavina, Turner Mohan, Thomas Morwinsky, [[Ted Nasmith]], Peter Xavier Price, John Emanuel Shannon, Sarka Skorpikova, Matthew Stewart, Ulla Thynell, Alexander Walker
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 23}}
+[[Category:Other Minds]]

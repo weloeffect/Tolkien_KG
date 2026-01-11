@@ -1,0 +1,25 @@
+{{events
+| image=Catherine Karina Chmiel - Standing Silence.jpg
+| caption=''Standing Silence'' by [[Catherine Karina Chmiel]]
+| event=Standing Silence
+| othernames=
+| location=[[Gondor]]
+| date=
+| result=
+| partof=
+| participants=[[Gondorians]]
+| description=Tradition
+| references=
+| gallery=
+}}
+'''Standing Silence'''<ref>{{RK|VI4}}</ref> was a custom of the [[Gondorians]] to stand in a moment of silence, facing [[west]], before meals.  As [[Faramir]] told [[Frodo Baggins]] in [[Henneth Annûn]], "We look toward [[Númenor]] that was, and beyond to [[Elvenhome]] that is, and to that which is beyond Elvenhome and will ever be."<ref>{{TT|IV5}}</ref>
+
+==Tolkien Society tradition==
+[[The Tolkien Society]] has a tradition of reciting the Standing Silence at events. Before a meal, attendees face west and the Chairman recites the Standing Silence as told by [[Faramir]].<ref>{{webcite|author=|articleurl=http://www.lotrplaza.com/archives/index.php?Archive=Second%20Age&TID=218850|articlename=Standing Silence?|dated=6 March 2005|website=Plaza|accessed=5 September 2014}}</ref>
+
+{{blockquote|For anyone who had previously been to events in the Tolkien Society the Standing Silence and the toasts to the Professor and to absent friends were of course expected and familiar as old friends, but though one has read about it, it is a different matter to actually be there and be a part of it. Rituals have the function of tying people together, of strengthening the sense of unity and common purpose and interests, and this sense of community is, at least for me, a very valuable addition to being a Tolkien enthusiast.|[http://parmarkenta.blogspot.co.uk/2012/08/ive-been-writing-about-return-of-ring.html The Return of the Ring] by Troels Forchhammer}}
+
+{{references}}
+[[Category:Festivals and feasts]]
+[[Category:Gondor]]
+[[fi:Hiljainen hetki]]

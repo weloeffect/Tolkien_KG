@@ -1,0 +1,30 @@
+{{VTbox
+| title=Vinyar Tengwar 19
+| image = Vinyar Tengwar 19.jpg
+| editor=[[Carl F. Hostetter]]
+| illustrator=[[Alan Lee]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=September [[1991]]
+| format=Paperback journal
+| pages=32
+| issn=1054-7606
+}}
+'''''Vinyar Tengwar 19''''' is the nineteenth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|18|20}}
+
+==Contents==
+* Cover: "Gildor and Frodo converse near Woodhall" — Alan Lee
+* ''In Memoriam'': [[Taum Santoski]] — Patrick H. Wynne
+* E.L.F. News
+* Letters to ''VT''
+
+* "''Lirilla Valinorello Noldorinwa'': A Song of the Noldor of Valinor" — trans. Christopher Gilson
+* "Words and Devices: Pointed Remarks and Cutting Comments (column) — Patrick H. Wynne and Carl F. Hostetter
+* "A Fragment of ''[[Valaquenta]]''" — trans. Ryszard Derdzinski
+* "Transitions in Translations: Toppo and Poppo (column) — Arden R. Smith
+
+{{Vinyartengwar}}
+{{title|journal}}
+{{DEFAULTSORT:Vinyar Tengwar 19}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 19]]

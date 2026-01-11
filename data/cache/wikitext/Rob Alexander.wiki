@@ -1,0 +1,21 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Rob Alexander
+| born=[[15 June]] [[1966]]
+| died=
+| education=
+| occupation=Artist
+| location=Canada
+| website=
+}}'''Rob Alexander''' (b. [[15 June]] [[1966]]) is a Canadian fantasy card artist. He illustrated for [[Magic: The Gathering]] and [[Dragon Magazine]]. In the 1990s, he was commissioned by [[Iron Crown Enterprises]] to create artwork for the [[Middle-earth Collectible Card Game]]<ref name=CCGA>{{CCGA|entry=Alexander, Rob}}, pp. 78-79</ref>
+==See also==
+* [[:Category:Images by Rob Alexander|Images by Rob Alexander]].
+== External links ==
+* '''[http://www.robalexander.com/ Official Website]'''
+{{References}}
+
+[[Category:Artists|Alexander, Rob]]
+[[Category:American people|Alexander, Rob]]
+[[Category:People by name|Alexander, Rob]]

@@ -1,0 +1,26 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Mark R. Poole
+| born=[[31 August]] [[1963]]
+| died=
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Mark Poole''' (born [[31 August]] [[1963]]) is an American fantasy artist, known for being one of the original illustrators for [[Magic: The Gathering]]. He was contracted by [[Iron Crown Enterprises]] to create artwork for the [[Middle-earth Collectible Card Game]].
+
+Poole works with oil, acrylic and digital media.<ref name=CCGA>{{CCGA|entry=Poole, Mark R.}}, pp. 209-210</ref>
+==Career==
+After graduating from the University of South Carolina with a degree in fine arts and design in 1986, he worked as an illustrator for advertising and merchandise. By the early 1990s, he had transitioned to fantasy work.<ref name=CCGA/>
+==See also==
+*[[:Category:Images by Mark Poole|Images by Mark Poole]]
+==External links==
+* {{WP|Mark Poole}}
+{{References}}
+{{DEFAULTSORT:Poole, Mark R.}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

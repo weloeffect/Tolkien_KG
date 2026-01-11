@@ -1,0 +1,121 @@
+{{incomplete}}
+{{episode infobox
+| name = Doomed to Die
+| image =
+| caption =
+| director = [[Charlotte Brändström]]
+| writer = [[Justin Doble]], [[J.D. Payne]], and [[Patrick McKay]]
+| screenplay =
+| basedon =
+| producer =
+| starring =
+| narrator =
+| cinematography =
+| editing =
+| music = [[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator =
+| studio = [[Amazon Studios]]
+| distributor =
+| released = [[26 September]] [[2024]]
+| runtime = 65 minutes
+| country =
+| language =
+| budget =
+| gross =
+| website =
+| imdb_id = 27580496
+| previous = [[Where Is He?]]
+| next = [[Shadow and Flame (episode)|Shadow and Flame]]
+}}
+
+{{Quote|[[Eregion]]'s fate is decided.|Official Synopsis, [[Amazon Studios]]}}
+
+'''Doomed to Die''' is the fifthteenth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the seventh episode of the second season and it was released on [[26 September|September 26]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Owain Arthur]] || [[Durin IV|Prince Durin IV]]
+|-
+| [[Sophia Nomvete]] || [[Disa|Princess Disa]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High King Gil-galad]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Amelia Kenworthy]] || [[Mirdania]]
+|-
+| [[Kevin Eldon]] || [[Narvi]]
+|-
+| [[Sam Hazeldine]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Kai Martin]] || [[Zhor]]
+|-
+| [[Simon Haines]] || [[Malendol|Commander Malendol]]
+|-
+| [[Jackson Bews]] || [[Elves of Eregion|Eregion Elf Soldier]]
+|-
+| [[Mark Archer]] || [[Orcs|Orc Engineer #1]]
+|-
+| [[Selina Lo]] || [[Rían (female)|Rían]]
+|-
+| [[Robert Strange]] || [[Glûg]]
+|-
+| [[Charlie Rix]] || [[Vorohil]]
+|-
+| [[Tony McGeever]] || [[Dwarves|Dwarf Palace Guard]]
+|-
+| [[Bridie Sisson]] || [[Orcs|Laborer Orc]]
+|-
+| [[Tom Slatter]] || [[Dwarves|Dwarf Palace Guard]]
+|-
+| [[James Meunier]] || [[Elves of Lindon|Lindon Elf Soldier]]
+|-
+| [[Stephen Shanly]] || [[Orcs|Orc Engineer #2]]
+|-
+| [[Adam Woolley]] || [[Elves of Eregion|Eregion Elf Soldier]]
+|-
+| [[Jason Smith]] || Voice of [[Damrod (The Rings of Power)|Damrod]] the [[Hill-trolls|Hill-Troll]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Peachy]] || [[Mr. Mouse]]
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+{{title}}
+
+[[Category:The Rings of Power (TV series) episodes|15]]

@@ -1,0 +1,206 @@
+{{disambig-more|The Hobbit|[[The Hobbit (disambiguation)]]}}
+{{disambig-more|There and Back Again|[[There and Back Again (disambiguation)]]}}
+{{book
+|title=The Hobbit,<br><small>or There and Back Again</small>
+| image = The Hobbit 2016-facsimile.jpeg
+|author=[[J.R.R. Tolkien]]
+|illustrator=J.R.R. Tolkien
+|publisherUK=[[George Allen & Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|date=[[21 September]] [[1937]]
+|format=Hardcover; paperback; deluxe-edition; audio-book
+|pages=312
+|followedby=[[The Lord of the Rings]] (1954-55)
+|gallery=[[The Hobbit/Publication history and gallery|Publication History and Gallery]]
+}}
+
+{{quote|In a hole in the ground there lived a hobbit.|''The Hobbit'', "[[An Unexpected Party]]"}}
+
+'''''The Hobbit, or There and Back Again''''', better known as '''''The Hobbit''''', is a children's fantasy novel by [[J.R.R. Tolkien]]. It was published on [[21 September]] [[1937]] to wide critical acclaim. The book remains popular and is recognised as a classic in children's literature.
+
+''The Hobbit'' is set within Tolkien's [[Middle-earth]] and follows the quest of home-loving [[Bilbo Baggins]], the titular [[hobbit]], to win a share of the treasure guarded by a dragon named [[Smaug]]. Bilbo's journey takes him from his light-hearted, rural surroundings into more sinister territory.
+
+The story is told in the form of an episodic quest, and most chapters introduce a specific creature or type of creature of Tolkien's geography. Bilbo gains a new level of maturity, competence, and wisdom by accepting the disreputable, romantic, fey, and adventurous sides of his nature and applying his wits and common sense. The story reaches its climax in the [[Battle of Five Armies]], where many of the characters and creatures from earlier chapters re-emerge to engage in conflict.
+
+==Inscription==
+There is an inscription in the [[Cirth]] characters in the title page, it reads:
+
+:"''The Hobbit or There and Back Again, being the record of a year's journey made by Bilbo Baggins of Hobbiton; compiled from his memoirs by J.R.R. Tolkien and published by George Allen & Unwin Ltd.''"<ref name=l12/>
+
+==Synopsis==
+{{hchapters}}
+[[Gandalf]] tricks [[Bilbo Baggins]] into hosting a party for [[Thorin Oakenshield]] and his band of twelve [[dwarves]] ([[Dwalin]], [[Balin]], [[Kíli]], [[Fíli]], [[Dori]], [[Nori]], [[Ori]], [[Óin]], [[Glóin]], [[Bifur]], [[Bofur]], and [[Bombur]]), who sing of reclaiming their ancient home, [[Lonely Mountain]], and its vast treasure from the dragon [[Smaug]]. When the music ends, Gandalf unveils [[Thrór's Map]] showing a [[Back Door|secret door]] into the Mountain and proposes that the dumbfounded Bilbo serve as the expedition's "burglar". The dwarves ridicule the idea, but Bilbo, indignant, joins despite himself.
+
+The group travels into the wild. Gandalf saves the company from [[trolls]] and leads them to [[Rivendell]], where [[Elrond]] reveals more secrets from the map. When they attempt to cross the [[Misty Mountains]], they are caught by [[goblins]] and driven [[Goblin-town|deep underground]]. Although Gandalf rescues them, Bilbo gets separated from the others as they flee the goblins. Lost in the goblin tunnels, he stumbles across [[One Ring|a mysterious ring]] and then encounters [[Gollum]], who engages him in a game, each posing a riddle until one of them cannot solve it. If Bilbo wins, Gollum will show him the way out of the tunnels, but if he fails, his life will be forfeit. With the help of the ring, which confers invisibility, Bilbo escapes and rejoins the dwarves, improving his reputation with them. The goblins and Wargs give chase, but the company are saved by eagles. They rest in the house of [[Beorn]].
+
+[[File:Donato Giancola - The Hobbit - Expulsion.jpg|thumb|left|220px|''Expulsion'' by [[Donato Giancola]]]]
+The company enters the black forest of [[Mirkwood]] without Gandalf, who has other responsibilities. In Mirkwood, Bilbo first saves the dwarves from giant spiders and then from the dungeons of the [[Wood-elves]]. Nearing the Lonely Mountain, the travellers are welcomed by the human inhabitants of [[Lake-town]], who hope the dwarves will fulfil prophecies of Smaug's demise. The expedition reaches the mountain and finds the secret door. The dwarves send a reluctant Bilbo inside to scout the dragon's lair. He steals a great cup and, while conversing with Smaug, spots a gap in the ancient dragon's armour. The enraged dragon, deducing that Lake-town has aided the intruders, flies off to destroy the town. A thrush overhears Bilbo's report of Smaug's vulnerability and tells Lake-town resident [[Bard]]. Smaug wreaks havoc on the town, until Bard fires an arrow into Smaug's hollow spot, killing the dragon.
+
+When the dwarves take possession of the mountain, Bilbo finds the [[Arkenstone]], the most-treasured heirloom of Thorin's family, and hides it away. The Wood-elves and Lake-men request compensation for Lake-town's destruction and settlement of old claims on the treasure. When Thorin refuses to give them anything, they besiege the mountain. However, Thorin manages to send a message to his kinfolk in the [[Iron Hills]] and reinforces his position. Bilbo slips out and gives the Arkenstone to the besiegers, hoping to head off a war. When they offer the jewel to Thorin in exchange for treasure, Bilbo reveals how they obtained it. Thorin, furious at what he sees as betrayal, banishes Bilbo, and battle seems inevitable when [[Dáin Ironfoot]], Thorin's second cousin, arrives with an army of dwarf warriors.
+
+Gandalf reappears to warn all of an approaching army of goblins and Wargs. The dwarves, men and elves band together, but only with the timely arrival of the eagles and Beorn do they win the climactic [[Battle of Five Armies]]. Thorin is fatally wounded and reconciles with Bilbo before he dies.
+
+Bilbo accepts only a small portion of his share of the treasure, having no want or need for more, but still returns [[Bag End|home]] a very wealthy hobbit roughly a year and a month after he first left. Years later, he [[Red Book of Westmarch|writes the story of his adventures]].
+
+==Characters==
+<div style="-moz-column-width: 300px; -webkit-column-width: 300px; column-width: 300px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
+# [[Bilbo Baggins]]
+# [[Belladonna Took]] (mentioned only)
+# [[Bungo Baggins]] (mentioned only)
+# [[Gerontius Took|Old Took]] (mentioned only)
+# [[Gandalf|Gandalf the Grey]]
+# [[Thorin|Thorin Oakenshield]]
+# [[Dwalin]]
+# [[Balin]]
+# [[Fíli]]
+# [[Kíli]]
+# [[Óin]]
+# [[Glóin]]
+# [[Dori]]
+# [[Nori]]
+# [[Ori]]
+# [[Bifur]]
+# [[Bofur]]
+# [[Bombur]]
+# [[Smaug]]
+# [[Thráin]] (mentioned only)
+# [[Thrór]] (mentioned only)
+# [[Thráin I]] (mentioned only)
+# [[Azog]] (mentioned only)
+# [[Bandobras Took|Bullroarer Took]] (mentioned only)
+# [[Golfimbul]] (mentioned only)
+# [[William]]
+# [[Tom]]
+# [[Bert]]
+# [[Elrond]]
+# [[Durin]] (mentioned only)
+# [[Great Goblin|The Great Goblin]]
+# [[Gollum]]
+# [[Warg]]s
+# [[Great Eagle|The Lord of the Eagles]]
+# [[Beorn]]
+# [[Radagast|Radagast the Brown]] (mentioned only)
+# [[Thranduil|The Elvenking]] 
+# [[Galion]]
+# [[Bard|Bard the Bowman]]
+# [[Master of Lake-town]]
+# [[Girion|Girion of Dale]] (mentioned only)
+# [[Carc]] (mentioned only)
+# [[Roäc]]
+# [[Dáin Ironfoot]]
+# [[Bolg]]
+</div>
+==Illustrations==
+[[File:J.R.R. Tolkien - Thror's map.jpg|thumb|200px|''[[:File:J.R.R. Tolkien - Thror's map.jpg|Thror's map]]'' by J.R.R. Tolkien]]
+All editions of ''The Hobbit'' contain two maps:
+* ''[[:File:J.R.R. Tolkien - Thror's map.jpg|Thror's map]]''
+* ''[[:File:J.R.R. Tolkien - Map of Wilderland.jpg|Map of Wilderland]]''
+
+Most editions include another series of eight black and white illustrations, in some editions these have been coloured by [[H.E. Riddett]], these are:
+* ''[[:File:J.R.R. Tolkien - The Trolls.png|The Trolls]]''
+* ''[[:File:J.R.R. Tolkien - The Mountain-path.jpg|The Mountain-path]]''
+* ''[[:File:J.R.R. Tolkien - The Misty Mountains looking West from the Eyrie towards Goblin Gate.jpg|The Misty Mountains looking West]]''
+* ''[[:File:J.R.R. Tolkien - Beorn's Hall.jpg|Beorn's Hall]]''
+* ''[[:File:J.R.R. Tolkien - The Elvenking's Gate (II).jpg|The Elvenking's Gate]]''
+* ''[[:File:J.R.R. Tolkien - Lake Town.jpg|Lake Town]]''
+* ''[[:File:J.R.R. Tolkien - The Front Gate.png|The Front Gate]]''
+* ''[[:File:J.R.R. Tolkien - The Hall at Bag-End.jpg|The Hall at Bag-End]]''
+
+Tolkien created further new colored illustrations for the American edition by [[Houghton Mifflin]].<ref name=l15 />
+
+==Conception==
+[[File:J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (II).jpg|thumb|200px|''Bilbo comes to the Huts of the Raft-elves'' by J.R.R. Tolkien]]
+Tolkien recollects in a 1955 letter to [[W.H. Auden]] (''Letters'', [[Letter 163|no. 163]]) that, in the late 1920s, when he was  Professor of [[Old English|Anglo-Saxon]] at [[Pembroke College]], ''The Hobbit'' began when he was marking School Certificate papers, on the back of one of which he wrote the words "In a hole in the ground, there lived a hobbit" which evolved into a story like the ones he was making up for his children. He did not go any further than that at the time, although in the following years he drew up Thrór's map, outlining the geography of the tale. 
+
+The tale itself he wrote in the early 1930s. It was mostly enjoyed by his eldest son [[John Tolkien|John]] (13) than the younger ones. His peers at Oxford also "forced" him to lend copies to read.<ref name=l15>{{L|15}}</ref> As early as age four and five, young [[Christopher Tolkien|Christopher]] was concerned with the consistency:
+{{Blockquote|[O]n one occasion I interrupted: 'Last time, you said Bilbo's front door was blue, and you said Thorin had a golden tassel on his hood, but you've just said that Bilbo's front door was green and that Thorin's hood was silver'; at which point my father muttered 'Damn the boy,' and then 'strode across the room' to his desk to make a note.|Christopher Tolkien, foreword to The Hobbit}}
+
+It was eventually published because he lent it to the Reverend Mother Superior of Cherwell Edge when she was sick with the flu;{{fact}} he had also sent it to his former pupil [[Elaine Griffiths]] who was staying in the Cherwell Edge girl's hostel, and it was seen by her student, Susan Dagnall, who worked in the Allen & Unwin offices. It was the 10-year old son of Sir Stanley Unwin, [[Rayner Unwin]], who wrote such an enthusiastic review of the book that it was published by [[Allen & Unwin]].<ref>{{L|294}}</ref> By [[January]] of [[1937]] Tolkien was corresponding with Allen & Unwin (who also showed interest in ''[[Mr. Bliss]]'' and had to redraw the maps.<ref>{{L|9}}</ref><ref>{{L|10}}</ref> In February he approved the reduction of his illustrations<ref>{{L|11}}</ref> and in April he provided a dust for the dast cover with its runic inscription.<ref name=l12>{{L|12}}</ref>
+
+Tolkien introduced or mentioned characters and places that figured prominently in his [[The Book of Lost Tales|personal mythology]], like [[Gondolin]], which added depth, along with elements from Germanic legend.<ref>{{L|257}}</ref> But the decision that the events of ''The Hobbit'' could be part of his [[Legendarium]] was made only after successful publication, when the publisher asked for a sequel. Accordingly, ''The Hobbit'' serves both as an introduction to Middle-Earth and as a link between earlier and later events described in ''The Silmarillion'' and ''The Lord of the Rings'', respectively.
+
+Although a fairy tale, the novel is both complex and sophisticated: it contains many names and words derived from Norse mythology, and central plot elements from the ''[[Beowulf (poem)|Beowulf]]'' epic, it makes use of [[Old English|Anglo-Saxon]] [[Runes]], information on calendars and moon phases, and detailed geographical descriptions that fit well with the accompanying maps. Near the end, the tale takes on epic proportions.
+
+==Publication==
+[[File:J.R.R. Tolkien - The Hobbit Dustcover.png|thumb|Dustcover illustration by [[J.R.R. Tolkien]]]]
+George Allen & Unwin, Ltd. of London published the [[The Hobbit 1st edition|first edition of ''The Hobbit'']] on [[21 September]] [[1937]]. It was illustrated with many black-and-white drawings by Tolkien himself. The original printing numbered a mere 1,500 copies and sold out by [[15 December]] that same year due to enthusiastic reviews. Houghton Mifflin of Boston and New York prepared an American edition to be released early in 1938 in which four of the illustrations would be colour plates. Allen & Unwin decided to incorporate the colour illustrations into their second printing, released at the end of 1937.<ref>{{webcite|author=Laura Massey|articleurl=http://www.peterharrington.co.uk/blog/2012/01/identifying-collecting-tolkien-first-editions/|articlename=Identifying & Collecting Tolkien First Editions|dated=9 January 2012|website=[http://www.peterharrington.co.uk/ PeterHarrington.co.uk]|accessed=12 January 2012}}</ref> Despite the book's popularity, wartime conditions forced the London publisher to print small runs of the remaining two printings of the first edition.
+
+After its publication, Tolkien's son Christopher was "hired" for his eye for consistency and was paid twopence a correction for subsequent publications.<ref>{{L|22}}</ref>
+
+As remarked above, Tolkien substantially revised ''The Hobbit'''s text describing Bilbo's dealings with Gollum in order to blend the story better into what ''[[The Lord of the Rings]]'' had become. This revision became the second edition, published in 1951 in both UK and American editions.{{fact}} In 1960, Tolkien began a significant [[The 1960 Hobbit|rewrite]] of ''The Hobbit'', intending to reconcile differences in content and style between ''The Hobbit'' and ''The Lord of the Rings'', but abandoned the attempt after only a few chapters.<ref>{{HH|1960}}</ref> Slight corrections to the text have appeared in the third (1966) and fourth editions (1978). (The original version of the Gollum chapter is included in ''[[The Annotated Hobbit]]'', more information about the book's textual changes can be found in ''[[The History of The Hobbit]]''.)
+
+New [[The Hobbit/Publication history and gallery|English-language editions of ''The Hobbit'']] spring up often, despite the book's age, with [[The Hobbit/Publication history and gallery|at least fifty editions]] having been published to date. Each comes from a different publisher or bears distinctive cover art, internal art, or substantial changes in format. The text of each generally adheres to the Allen & Unwin edition extant at the time it is published.
+
+==Reception==
+On first publication in October 1937, ''The Hobbit'' was met with almost unanimously favourable reviews from publications both in the UK and the US, including ''[[Wikipedia:The Times|The Times]]'', ''[[Wikipedia:Catholic World|Catholic World]]'', and ''[[Wikipedia:New York Post|New York Post]]''. [[C.S. Lewis]], friend of Tolkien (and later author of ''[[Wikipedia:The Chronicles of Narnia|The Chronicles of Narnia]]'' between 1949 and 1954), writing in ''The Times'' reports:
+
+{{blockquote|The truth is that in this book a number of good things, never before united, have come together: a fund of humour, an understanding of children, and a happy fusion of the scholar's with the poet's grasp of mythology... The professor has the air of inventing nothing. He has studied trolls and dragons at first hand and describes them with that fidelity that is worth oceans of glib 'originality'.}}
+
+Lewis compares the book to ''[[Wikipedia:Alice in Wonderland|Alice in Wonderland]]'' in that both children and adults may find different things to enjoy in it, and places it alongside ''[[Wikipedia:Flatland|Flatland]]'', ''[[Wikipedia:Phantastes|Phantastes]]'', and ''[[Wikipedia:The Wind in the Willows|The Wind in the Willows]]''.<ref>Anderson, Douglas A. (ed.). ''[[The Annotated Hobbit]]''</ref> W.H. Auden, in his review of the sequel ''[[The Fellowship of the Ring]]'', calls ''The Hobbit'' "one of the best children's stories of this century".<ref>Auden, W.H. [https://www.nytimes.com/books/01/02/11/specials/tolkien-fellowship.html "The Hero is a Hobbit"]</ref> Auden was later to correspond with Tolkien, and they became friends.
+
+''The Hobbit'' was nominated for the Carnegie Medal and awarded a prize from the ''New York Herald Tribune'' for best juvenile fiction of the year (1938).<ref>{{HM|A}}Carpenter, Humphrey; Tolkien, Christopher (eds.). ''[[The Letters of J.R.R. Tolkien]]''</ref> More recently, the book has been recognized as "Most Important 20th-Century Novel (for Older Readers)" in the ''Children's Books of the Century'' poll in ''Books for Keeps''.<ref>[http://www.tolkiensociety.org/faq01.html#awards "FAQ: Did Tolkien win any awards for his books?"]. The Tolkien Society. 2002</ref> In 2012 it was ranked number 14 on a list of the top 100 children's novels published by ''School Library Journal''.<ref>[http://blog.schoollibraryjournal.com/afuse8production/2012/07/07/top-100-chapter-book-poll-results "Top 100 Chapter Book Poll Results"]</ref>
+
+Publication of the sequel ''The Lord of the Rings'' altered many critics' reception of the work. Instead of approaching ''The Hobbit'' as a children's book in its own right, critics such as Randel Helms picked up on the idea of ''The Hobbit'' as being a "prelude", relegating the story to a dry-run for the later work. Countering a presentist interpretation are those who say this approach misses out on much of the original's value as a children's book and as a work of high fantasy in its own right, and that it disregards the book's influence on these genres.<ref>{{HM|A}}Sullivan, C.W. (1996). ''High Fantasy''</ref> Commentators such as Paul Kocher,<ref>{{HM|A}}Kocher, Paul (1974). ''Master of Middle-earth, the Achievement of J.R.R. Tolkien''</ref> John D. Rateliff,<ref>{{HM|A}}Rateliff, John D. (2007). ''[[The History of The Hobbit]]''</ref> and C.W. Sullivan encourage readers to treat the works separately, both because ''The Hobbit'' was conceived, published, and received independently of the later work, and to avoid dashing readers' expectations of tone and style.
+
+==Adaptations==
+===Radio and audio===
+''The Hobbit'' has been adapted for other media.  [[BBC|BBC Radio 4]] broadcast [[The Hobbit (1968 radio series)|''The Hobbit'' radio drama]], adapted by Michael Kilgarriff, in eight parts (4 hours) from September to November [[1968]], which starred [[Anthony Jackson]] as narrator, [[Paul Daneman]] as Bilbo and [[Heron Carvic]] as Gandalf.
+
+[[Middle-earth]] has been featured in songs notably by [[Enya]] and the [[Brobdingnagian Bards]].  [[Led Zeppelin]]'s songs "Misty Mountain Hop" and "Ramble On" both contain references to Tolkien's mystical world. For ''The Hobbit'' itself, "The Ballad of Bilbo Baggins", performed by [[Leonard Nimoy]] as part of his 1968 ''Two Sides of Leonard Nimoy'' album, is the most pertinent because it recounts the book's storyline in its two minutes.  The ballad's music video became a minor Internet meme in the early 2000s when ''[[The Lord of the Rings (film series)|The Lord of the Rings]]'' movies were released.
+
+In 1974, Argo Records released an audio adaptation of ''The Hobbit'', with Nicol Williamson providing the voices for all the characters in the book. It was an abridged adaptation, as Williamson re-edited the original script, removing many instances of "he said" and so on, preferring instead to rely on his vocal characteristics to convey who was saying what to whom, feeling that this would keep the audience engrossed in the story rather than slowing the overall pace.
+
+===Video games===
+Several computer and video games, both official and unofficial, have been based on the story.  One of the first was ''[[The Hobbit (1982 video game)|The Hobbit]]'', a computer game developed in [[1982]] by Beam Software and published by Melbourne House for most computers available at the time, from the more popular computers such as the ZX Spectrum, and the Commodore 64, through to such esoteric computers as the Dragon 32 and Oric computers. By arrangement with publishers, a copy of the novel was included with each game sold.
+
+Vivendi Universal Games published ''[[The Hobbit (2003 video game)|The Hobbit: Prelude to The Lord of the Rings]]'' in 2003 for Windows PCs, PlayStation 2, Xbox, and GameCube. It is a hack and slash game produced as a prequel to ''[[The Lord of the Rings]]'' video games, but also as a softer version of those two games: less brutal, fewer enemies but with an important platform aspect, the game was designed for smaller children.  A similar version of this game was also published for the Game Boy Advance.
+
+===Films===
+The first adaptation of ''The Hobbit'' was presented as ''[[The Hobbit (1967 film)|J.R.R. Tolkien's The Hobbit]]'', and was created by [[Gene Deitch]] in [[1967]]. The film was produced by [[William Lawrence Snyder]] and took less than a month to create. The film was approximately twelve minutes long and was only created so that Snyder could extend his license for ''[[The Lord of the Rings]]'' and sell it back to Tolkien and his publishers, which he did for $100,000.<ref>{{webcite|author=[[Gene Deitch]]|articleurl=http://www.awn.com/articles/profiles/hobbit-alized-first-attempt-animating-hobbit|articlename=Hobbit-alized: The First Attempt At Animating The Hobbit|dated=11 December 2001|website=awn.com|accessed=10 January 2012}}</ref>
+
+An [[The Hobbit (1977 film)|animated film]] was first broadcasted on [[Sunday]], [[27 November]], [[1977]] on NBC by [[Rankin/Bass]]. It managed to squeeze most of the essential story into its 77 minute runtime and adapts many of Tolkien's songs, making the film a musical.
+
+A [[The Hobbit (film series)|three-part live-action film version of ''The Hobbit'']] based on the book, and incorporating elements from the [[The Lord of the Rings Appendices|Apprendices]] of ''[[The Lord of the Rings]]'' was produced and directed by [[Peter Jackson]], who had also produced and directed [[The Lord of the Rings (film series)|a film adaptation of ''The Lord of the Rings'']]. Principal photography began in 2011 and ended in 2012, with the majority of the scenes being shot in [[New Zealand]].
+
+This film series was released in three parts: ''[[The Hobbit: An Unexpected Journey]]'' was released on 14 December 2012; ''[[The Hobbit: The Desolation of Smaug]]'' was released on 13 December 2013; and ''[[The Hobbit: The Battle of the Five Armies]]'' was released worldwide on 17 December 2014.
+
+===Miscellaneous===
+A [[:File:The Hobbit (dramatised by Patricia Gray).png|drama playscript]] was published in [[1968]], which is made of multiple simple sets and runs about 2 hours. A [[The Hobbit (1985 television film)|live action television dramatisation]] was broadcast on USSR televsion in [[1985]]. [[David T. Wenzel]]'s [[The Hobbit (comic book)|graphic format adaptation]] of ''The Hobbit'' was published in [[1989]].
+
+==Publication history and gallery==
+:''Please see [[The Hobbit/Publication history and gallery|Publication history and gallery]].''
+
+==See also==
+*[[Poems in The Hobbit|Poems in ''The Hobbit'']]
+*[[The Hobbit/Translations|Translations of ''The Hobbit'']]
+*"[[The Quest of Erebor]]", from ''[[Unfinished Tales]]'' 
+*[[:Category:Images from The Hobbit|Images from ''The Hobbit'']] illustrated by [[Alan Lee]]
+
+;Related books
+*''[[The Annotated Hobbit]]'' by [[Douglas A. Anderson]]
+*''[[The History of The Hobbit]]'' by [[John D. Rateliff]]
+*''[[The Art of The Hobbit]]'' by [[Wayne G. Hammond]] and [[Christina Scull]]
+*''[[Poems from The Hobbit]]''
+
+==External links==
+* [http://www.hobbit.ca/Library.html Collection of edition covers, 1937&ndash;2005]
+* [http://www.tolkienbooks.net/html/the_hobbit.htm UK editions of ''The Hobbit'']
+*[http://www.telegraph.co.uk/culture/books/booknews/9555838/The-Hobbit-What-has-made-the-book-such-an-enduring-success.html ''The Hobbit'': What has made the book such an enduring success?] by [[Tom Shippey]]
+* [http://www.tolkienlibrary.com/reviews/dutch-de_hobbit.htm Every Dutch edition of ''The Hobbit'']
+* [http://www.tolkienlibrary.com/translations/hobbits/index.htm ''Hobbits'' around the globe - gallery]
+
+{{References}}
+{{IllustratorsHobbit}}
+{{Publishedmajorbooks}}
+{{hobbitfilms}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+{{DEFAULTSORT:Hobbit}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:The Hobbit| ]]
+[[Category:Publications by title]]
+
+[[de:Der Hobbit]]
+[[fi:Hobitti eli Sinne ja takaisin]]
+[[fr:tolkien/biblio/bh]]

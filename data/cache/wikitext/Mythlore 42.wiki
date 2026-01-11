@@ -1,0 +1,20 @@
+{{mythlore
+|title=Mythlore 42
+| image = Mythlore 42.gif
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Summer [[1985]]
+|format=Paperback
+|pages=4
+|}}
+'''''Mythlore'' 42''' ([https://dc.swosu.edu/mythlore/vol11/iss4/ Volume 11, Issue 4]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+This is the first of several short supplemental issues that ''Mythlore'' published in order to comply with bulk mailing permit regulations.  This issue mainly consisted of an editorial by Glen H. GoodKnight and information about the upcoming 17th Mythopoeic Conference.
+{{mythlorenav|41|43}}
+
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 042}}
+
+[[Category:Mythlore]]

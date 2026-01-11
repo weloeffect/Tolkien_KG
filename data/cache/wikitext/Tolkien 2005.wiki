@@ -1,0 +1,48 @@
+{{short description|2005 conference in Birmingham, England}}
+{{convention
+| image = Tolkien2005.jpg
+| title=Tolkien 2005: The Ring Goes Ever On
+| location=[[Wikipedia:Aston University|Aston University]], [[Birmingham]]
+| organizer=[[The Tolkien Society]]
+| dates=[[11 August|11]]-[[15 August]], [[2005]]
+| attendees=c. 750<ref name="Souvenir">[[The Tolkien Society]], ''[[Tolkien 2005 Souvenir Book]]'', pp. 19 & 22</ref>
+|previous=[[Mythcon 35]]|next=[[Mythcon 37]]}}
+'''Tolkien 2005: The Ring Goes Ever On''' was a convention hosted by [[The Tolkien Society]] in conjunction with the [[Mythopoeic Society]]. It was held at Aston University (Birmingham, England) [[11 August|11]]-[[15 August]], [[2005]]. The convention marked the fiftieth anniversary of the complete publication of ''[[The Lord of the Rings]]''.
+
+==Guests==
+*[[Rhona Beare]]
+*[[Julian Bradfield]]
+*Patrick Curry
+*[[Colin Duriez]]
+*[[Anke Eißmann]]
+*[[Verlyn Flieger]]
+*Christopher Garbowski
+*[[John Garth]]
+*[[Tim Kirk]]
+*[[Alan Lee]]
+*[[Ted Nasmith]]
+*Michael Scott Rohan
+*[[Tom Shippey]]
+*Viv Wilkes
+
+Due to work commitments [[John Howe]] and [[Brian Sibley]] were unable to attend.<ref name="Souvenir2">[[The Tolkien Society]], ''[[Tolkien 2005 Souvenir Book]]'', p. 1</ref>
+
+==Publications==
+*''[[Tolkien 2005 Souvenir Book]]''
+*''[[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference]]''
+
+==See also==
+*[[J.R.R. Tolkien Centenary Conference]], 1992
+*[[The Return of the Ring]], 2012
+*[[Oxonmoot]]
+*[[Mythcon]]
+
+==External links==
+*[http://www.tolkiensociety.org/2005/about.html Official website]
+
+{{References}}
+{{tolkiensociety}}
+[[Category:Conferences]]
+[[Category:Conventions]]
+[[Category:The Tolkien Society]]
+[[Category:Mythcon]]

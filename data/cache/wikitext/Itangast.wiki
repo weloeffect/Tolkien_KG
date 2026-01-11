@@ -1,0 +1,33 @@
+{{adaptation}}
+{{Dragon infobox
+| image=Liz Danforth - Itangast at Home.jpeg
+|caption = ''“Itangast at Home”'' by [[Liz Danforth]]
+| name=Itangast
+| othernames=
+| titles=Guest-eater
+| location=[[Grey Mountains]]
+| affiliation=
+| hoard=Sulthol
+| birth=
+| birthlocation=
+| death=
+| deathlocation=
+| slayer=
+| type=[[Fire-drakes|Fire-drake]]
+| legs=
+| wings=
+| colour=Blue-black
+}}
+
+'''Itangast'''<ref group=note>“Guest-eater” in Northman tongues</ref> was a [[Fire-drake]] in the [[Grey Mountains]]. He was invented by [[Iron Crown Enterprises]] for ''[[Middle-earth Role Playing]]'', which described him the deadliest and smartest of his kin in the Grey Mountains. As such only [[Scatha]] and [[Smaug]] are noted as his peers. He had blue-tipped black scales and long silvery horns.
+
+His lair was situated at Gold Hill, which was a knoll full of valuable ores. It was also a strategic site overlooking the 
+Cirith Auris, a pass used to travel between [[Rhovanion]] and the [[Northern Waste]].<ref name=creatures>{{ICE|2012}}, p. 11</ref> The only known treasure in his hoard is ''Sulthol'' ([[Quenya|Q.]] “Wind Helm”), a helmet made by [[Edain]] who lived northwest of [[Dale]] in the [[Second Age]].<ref name=treasures>{{ICE|2010}}, p. 63</ref>
+
+==History==
+He got the title of “Guest-eater” after inviting neighbouring [[Northmen|Northman]] chiefs to a banquet, and then killing them instead. This allowed him to focus on the [[Dwarves]], who had sent seven failed expeditions to conquer Gold Hill. The Northman too tried to vanquish the dragon thrice, for his lair was originally a sacred burial ground of theirs.<ref name=creatures/>
+
+{{references|notes}}
+
+[[Category:Dragons from adaptations]]
+[[Category:Middle-earth Role Playing characters]]

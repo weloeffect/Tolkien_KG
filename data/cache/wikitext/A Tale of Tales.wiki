@@ -1,0 +1,36 @@
+{{Album
+| title = A Tale of Tales
+| image = InfuseR - A Tale Of Tales label.jpg
+| type = Studio album
+| artist = [[InfuseR]]
+| released = 1 November 2025
+| recorded = February 2024 - September 2025
+| genre = Modern epic metal, Symphonic metal, Power metal
+| length = 52 mins
+| language = English
+| label = Independent
+}}
+
+'''''A Tale of Tales''''' is a concept studio album by [[InfuseR]] released on 1 November 2025. Drawing inspiration from the professor's vast work and crafted in an English modern epic metal style, the album merges symphonic textures with power-metal energy to tell a sweeping narrative across ten tracks.
+
+==Track listing==
+#Ainulindalë – ''6:48''
+#Arda – ''4:43''
+#Awakenings – ''5:19''
+#Morgoth’s Tale – ''4:04''
+#Númenor – ''5:11''
+#The One Ring – ''5:37''
+#Battle of Dagorlad – ''4:34''
+#Isildur’s Fate – ''4:55''
+#Gollum – ''6:05''
+#Order of Wizards – ''4:41''
+
+==External links==
+*[https://infusergr.bandcamp.com/album/a-tale-of-tales Bandcamp: A Tale of Tales]
+*[https://www.youtube.com/@infuser-music YouTube: InfuseR Music channel]
+*[https://www.facebook.com/Manos.InfuseR.Psarros/ Facebook: InfuseR]
+*[https://www.instagram.com/infuser_music/ Instagram: InfuseR Music]
+*[https://open.spotify.com/album/720nnxBVyYZlkAhVJPFP8d Spotify: A Tale of Tales]
+
+[[Category:Albums]]
+[[Category:Music]]

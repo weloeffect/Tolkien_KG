@@ -1,0 +1,127 @@
+{{race infobox
+| name=Giants
+| image = Angus McBride - Giants.jpg
+| caption="Giants" by [[Angus McBride]]
+| pronun=
+| othernames=''stone-giants''<ref name="Queer"/>
+| origin=
+| location=[[Misty Mountains]]<ref name="Hill"/><br />''Possibly'' [[White Mountains]]<ref>[[J.R.R. Tolkien]], ''[[Guide to the Names in The Lord of the Rings|Nomenclature of The Lord of the Rings]]'', omitted entry quoted in [[Wayne G. Hammond]], [[Christina Scull]], ''[[The Lord of the Rings: A Reader's Companion]]'', pp. 536-7</ref>
+| affiliation=
+| rivalry=
+| language=''Possibly'' [[Westron]]
+| people=
+| members=''Possibly'' [[Tarlang]]<ref name="Tarlang"/>
+| lifespan=
+| distinctions=
+| height=Large
+| hair=
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Giants''' were a mysterious and seldom-mentioned [[:Category:Races|race]] of [[Middle-earth]] whose origins remain obscure.
+
+==History==
+Giants are mainly beings of legend. [[Gandalf|Gandalf the Grey]] was known for telling stories about them,<ref>{{H|Party}}</ref> and [[Bilbo Baggins|Bilbo]] had heard of Giants in tales.<ref>{{H|Riddles}}</ref> 
+
+A local legend among the [[Pre-Númenóreans|indigenous people]] of [[Gondor]] told of Giants living in the [[Outlands|lands]] by the [[Belegaer|Sea]], north of the [[Bay of Belfalas]]. The tale says that Giants made the [[White Mountains]] to keep [[Men]] out of their lands. One of them, [[Tarlang]], tripped, and broke his neck. The other Giants did not clean up his body, which became incorporated in the land instead. The Giant's neck became [[Tarlang's Neck]], his head [[Dol Tarlang]], and the stones he was carrying [[Cûl Veleg]] and [[Cûl Bîn]].<ref name="Tarlang">{{HM|N}}, pp. 536-7</ref> The city of [[Minas Tirith]], as stood on [[Amon Tirith]], seemed to have been "carved" by Giants out of the rock.<ref name="rk">{{RK|V1}}</ref>
+
+The [[Ettenmoors]] owed their name to some [[Etten|gigantic creatures]] of that land, although these were perhaps merely some kind of [[trolls]].<ref>{{HM|RC}}, p. 183</ref><ref>{{FR|Flight}}</ref>
+
+Some say that [[Beorn]] is a bear descended from the great and ancient bears of the mountains that lived there before the Giants came, though Gandalf found this story less likely to be true.<ref name="Queer" />
+
+The "stone-giants" lived in the [[Misty Mountains]] during the late [[Third Age]] where great [[bears]] lived there before their arrival.<ref name="Queer">{{H|Queer}}</ref> They found a sport in throwing rocks at each other, and then into the depths below to hear them shatter among the trees.<ref name="Hill">{{H|Hill}}</ref>
+
+Presumably, not all Giants were savage or evil, as Gandalf hoped to convince a decent Giant to block the [[Front Porch]] to [[Goblin-town]] to make the [[High Pass]] in the Misty Mountains safe again.<ref>{{H|6}}</ref>
+
+==Commentary==
+{{expansion}}
+Some [[Tolkienists]] assume that giants are a fleeting idea of Tolkien's while writing ''[[The Hobbit]]'' that was never considered again for incorporation into the developing legendarium. [[John D. Rateliff]] has argued that they might have become "free agents"; not wicked, but simply not aware of their surroundings.<ref name="Giants">{{HH|IV}}, "(iii): The Giants", pp. 143-5</ref> [[Robert Foster]] comments that the stone-giants "may be no more serious than [[Golfimbul]]".<ref>{{HM|Guide}}, p. 366</ref>
+
+Other theories attempt to include the Giants among the known races of Arda. For example, they might be a large race of [[Men]] (like [[Hobbits]] are a small race of Men), [[Trolls]], or simply "nature [[Spirit (disambiguation)|spirits]]" more or less like [[Tom Bombadil]].<ref>{{webcite|author=Steuard Jensen|website=FAQ|articlename=What were the giants?|articleurl=http://tolkien.slimy.com/faq/Creatures.html#Giants}}</ref> Furthermore, [[Douglas A. Anderson]]'s annotations in ''[[The Annotated Hobbit: Revised and Expanded Edition]]'' express the opinion that stone-giants are a variety of Troll.<ref>{{HM|AH}}, p. 104</ref>
+
+==Other versions of the legendarium==
+===''[[The Book of Lost Tales]]'' and associated writings===
+Giants originally had a larger part in the legendarium. In one early manuscript, the Giants are counted among the [[úvanimo]]r, servants of [[Morgoth|Melko]].<ref name="Lost">{{LT1|X}}</ref> In another manuscript, the Giants are counted among the Earthlings, and are divided between the "wood-giants" ([[Qenya]] ''ulbandi'') and "mountainous-giants" (Qenya ''taulir'').<ref name="Parma">{{PE|14}}, p. 9</ref> And in other early writings, two Giants are named: [[Nan (Giant)|Nan]] (said to be like an [[Elms|Elm]]-tree) and [[Gilim]] (whose name is [[Gnomish]] for "winter").<ref name="Lays">{{LB|C5}} (verse 1497)</ref><ref>{{LT2|I}}</ref>
+
+===Giants and Ents===
+Giants were the wicked precursors of [[Ents]]. The elm-like features of the Giant Nan, and that in early versions of ''[[The Lord of the Rings]]'' it was the Giant [[Treebeard]] who held [[Gandalf]] captive, not [[Saruman]],<ref>{{RS|3XXI}}</ref> makes the connection between Giants and Ents within [[J.R.R. Tolkien|Tolkien]]'s imagination clear.<ref name="Giants" /> 
+
+An early name for the [[Ettenmoors]] was called "Entish Lands". As [[Christopher Tolkien]] notes, "Ent" comes from an [[Old English]] word for "giant",<ref>{{RS|1XId}}</ref> and was used before Tolkien conceived the later benevolent Ents of ''[[The Two Towers]]''. The word is seen at various points in ''[[Beowulf (poem)|Beowulf]]'', for example line 2717, ''enta geweorc'', "the work of Giants".<ref>Howell D. Chickering, Jr., "Beowulf: A Dual Language Edition", pp. 212-3</ref>
+
+===Giants as a subgroup of Men===
+In a draft for what would become the chapter ''[[The Shadow of the Past]]'' from ''[[The Fellowship of the Ring]]'', it is mentioned that the [[Sauron|Necromancer]] was rallying his forces and causing wars and devastation from his stronghold in [[Mordor]], and that Giants were said to be among those forces. There, the Giants were described as "a [[Men|Big Folk]] only far bigger and stronger than Men the [?ordinary] Big Folk, and no stupider, indeed often full of cunning and wizardry".<ref>{{RS|2XV}}, p. 253</ref>
+
+===Other names and etymologies===
+An early [[Sundocarmë|root]] for "giant" is given as [[NOROTH]]. This yields [[Quenya]] ''[[norsa]]'',<ref name="NOROTH">{{LR|Etymologies}} (cf. the [[Sundocarmë|root]] NOROTH)</ref> and ''Noroth'' (likely supposed to be a [[Noldorin]] word<ref name="Web">{{webcite|author=Roman Rausch|articleurl=http://sindanorie.lima-city.de/RS&TI&WR.htm|articlename=''Essekenta Endamarwa'' - Names from ''The Return of the Shadow'', ''The Treason of Isengard'' and ''The War of the Ring''|dated=23 December 2006|website=Sindanórie|accessed=8 October 2011}}</ref>). A discarded Quenya word was ''hanako'', from a root KHAN-AK.<ref name="Vin">{{VT|45a}}, p. 21</ref>
+
+==Inspiration==
+In Germanic mythology names for the Giants were ''jotun'' ([[Norse]]) and ''eoten'' ([[Old English]]). From the latter word Tolkien derived the name "[[etten]]".
+
+In the ''[[The Return of the King|Return of the King]]'' it is noted that [[Minas Tirith]] "seemed to have been not builded but carven by giants out of the bones of the earth".<ref name="rk" /> [[Wayne G. Hammond|Hammond]] and [[Christina Scull|Scull]] have suggested that this notion derives from [[Old English]] mythology, in which Giants were often portrayed as builders of ancient structures.<ref>{{HM|RC}}, p. 514</ref>
+
+==Other fiction==
+In ''[[Farmer Giles of Ham]]'', [[The Giant|a giant]] troubles [[Farmer Giles]]' land, who chases him off with his blunderbuss.<ref>[[J.R.R. Tolkien]], ''[[Farmer Giles of Ham]]''</ref>
+
+In a rejected portion of the Foreword to ''[[The End of Bovadium]]''<ref>[[Letter to Rayner Unwin (2 December 1968)]], quoted in {{CG|C}}, p. 737 (entry "2 December 1968")</ref>, [[Dr. Gums]] mentions that "a race of giants" that once inhabited "the prehistoric remains in this island" were often employed to excavate "vast pits and tunnels for no ascertainable purpose" and to transport "large quantities of stone to inaccessible regions", according to "popular tradition".<ref>{{TBF|Forewordnote}}</ref>
+
+==Portrayal in adaptations==
+===Giants in adaptations===
+<gallery mode="traditional" widths="200px" heights="200px">
+File:Nicholas Jainschigg - Thunder's Companion.jpg|''Thunder's Companion'' by Nicholas Jainschigg for [[Middle-earth Collectible Card Game|''MECCG'']]
+File:The Lord of the Rings - The Battle for Middle-earth II - Mountain Giant.jpg|Mountain giant in  ''[[The Lord of the Rings: The Battle for Middle-earth II]]''
+File:The Lord of the Rings Online - Giant.jpg|A giant in  ''[[The Lord of the Rings Online]]''
+File:The Lord of the Rings - War in the North - Bargrisar.png|Bargrisar in ''[[The Lord of the Rings: War in the North]]''
+File:Peter Pracownik - Nine of Wands.jpeg|Stone-Giant in ''[[The Hobbit Tarot]]''
+File:The Hobbit - An Unexpected Journey - Stone Giants.jpg|A ''stone giant'' in  ''[[The Hobbit: An Unexpected Journey]]''
+</gallery>
+
+===Films===
+'''2012: ''[[The Hobbit: An Unexpected Journey]]'':'''
+:''Stone-giants'' are seen throwing rocks and crashing into each other as [[Thorin and Company]] travel over the [[Misty Mountains]]. In the film, they are interpreted as literally being colossal stone entities.
+
+===Games===
+'''1982: ''[[Middle-earth Role Playing]]'':'''
+:Several divisions and races of giants are described and given statistics, such as ''Stone Giants'',<ref>{{ICE|8070}}</ref> Ice Giants,<ref>{{ICE|2025}}</ref> Giants of the Southern Misty Mountains,<ref>{{ICE|3600}}</ref> and Red Giants.<ref>{{ICE|2012}}</ref>
+
+'''1995: ''[[Middle-earth Collectible Card Game]]'':'''
+:Giants, called ''Thunder's Companions'', are one of the Hazard Creatures.
+
+'''2003: [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]]:'''
+:Stone-giants are golem-like creatures that appear in the fourth level, hurling rocks at Bilbo as he tries to travel along a mountain path. They are completely made of stone, and their stones are dangerous.<ref>[[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]], "Over Hill and Under Hill"</ref>
+
+'''2006: ''[[The Lord of the Rings: The Battle for Middle-earth II]]'':'''
+:"Mountain Giants" are large and powerful beings in the Goblin faction, with brown scaly skin. They can hurl stones at great distance, and serve as the faction's artillery units.
+
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:Several tribes of giants appear in the game, including ''Stone-giants'', Ogres (also called Jorthkyn or Earth-kin), and Ice-giants. While some are enemy creatures, others remain neutral and can be befriended by the player.
+
+'''2011: ''[[The Lord of the Rings: War in the North]]'':'''
+:A renegade ''Stone-Giant'' named Bargrisar appears in the game, serving as a boss character. Swayed by [[Sauron]] to serve him, he becomes the leader of a large party of Orcs and Trolls. Backed by his army, Bargrisar seeks to destroy the nests of the [[Great Eagles]] and plunder the North for riches. Similar to the portrayal in ''[[The Hobbit: An Unexpected Journey]]'', he is a being composed entirely of stone.
+
+'''2014: ''[[Lego The Hobbit: The Video Game]]'':'''
+:Multiple stone-giants appear as the main conflict in the level ''Over Hill and Under Hill'', in which their fighting poses a threat to the party.
+
+===Other===
+'''1989: [[The Hobbit (comic book)|''The Hobbit'' (comic book)]]:'''
+:Giants are displayed as bearded gigantic men with regular leather attire.
+
+==See also==
+*[[Etten]]
+*[[Ents]]
+*[[Ogres]]
+*[[Trolls]]
+
+==External links==
+*[http://middle-earth.xenite.org/2013/03/26/are-the-stone-giants-supposed-to-be-demons-like-the-balrog/ Are the Stone Giants Supposed to Be Demons like the Balrog?] by [[Michael Martinez]]
+
+{{references}}
+{{Legend}}
+
+{{DEFAULTSORT:Giants}}
+
+[[Category:Giants| ]]
+[[Category:Races]]
+[[Category:Races in The Book of Lost Tales]]
+[[de:Riesen]]
+[[fi:Jättiläiset]]

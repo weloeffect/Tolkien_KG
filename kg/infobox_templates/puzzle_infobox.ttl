@@ -1,0 +1,142 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/MEP%3A_%C3%89owyn_and_the_Witch-king> a schema:WebPage ;
+    rdfs:label "MEP: Éowyn and the Witch-king"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_%C3%89owyn_and_the_Witch-king> .
+
+<http://localhost:8000/page/MEP%3A_An_Unexpected_Party> a schema:WebPage ;
+    rdfs:label "MEP: An Unexpected Party"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_An_Unexpected_Party> .
+
+<http://localhost:8000/page/MEP%3A_Arwen%27s_Choice> a schema:WebPage ;
+    rdfs:label "MEP: Arwen's Choice"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_Arwen%27s_Choice> .
+
+<http://localhost:8000/page/MEP%3A_Burglar_Baggins> a schema:WebPage ;
+    rdfs:label "MEP: Burglar Baggins"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_Burglar_Baggins> .
+
+<http://localhost:8000/page/MEP%3A_Gandalf%27s_Mark> a schema:WebPage ;
+    rdfs:label "MEP: Gandalf's Mark"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_Gandalf%27s_Mark> .
+
+<http://localhost:8000/page/MEP%3A_Map_of_Middle-earth> a schema:WebPage ;
+    rdfs:label "MEP: Map of Middle-earth"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_Map_of_Middle-earth> .
+
+<http://localhost:8000/page/MEP%3A_The_Mirror_Of_Galadriel> a schema:WebPage ;
+    rdfs:label "MEP: The Mirror Of Galadriel"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_The_Mirror_Of_Galadriel> .
+
+<http://localhost:8000/page/MEP%3A_The_Way_is_Shut> a schema:WebPage ;
+    rdfs:label "MEP: The Way is Shut"@en ;
+    schema:about <http://localhost:8000/resource/MEP%3A_The_Way_is_Shut> .
+
+<http://localhost:8000/page/The_Hobbit_Jigsaw_Puzzle> a schema:WebPage ;
+    rdfs:label "The Hobbit Jigsaw Puzzle"@en ;
+    schema:about <http://localhost:8000/resource/The_Hobbit_Jigsaw_Puzzle> .
+
+<http://localhost:8000/resource/MEP%3A_%C3%89owyn_and_the_Witch-king> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Angus_McBride> ;
+    tg:edition "Unlimited"@en ;
+    tg:ice "30503"@en ;
+    tg:image "Middle-earth Puzzles - Eowyn and the Witch-king.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "500"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "49&nbsp;cm x 36&nbsp;cm"@en ;
+    tg:title "Éowyn & the Witch-king"@en .
+
+<http://localhost:8000/resource/MEP%3A_An_Unexpected_Party> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Angus_McBride> ;
+    tg:edition "Unlimited"@en ;
+    tg:ice "31001"@en ;
+    tg:image "Middle-earth Puzzles - An Unexpected Party.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "1000"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "44&nbsp;cm x 68&nbsp;cm , 26 x 17 inches"@en ;
+    tg:title "An Unexpected Party"@en .
+
+<http://localhost:8000/resource/MEP%3A_Arwen%27s_Choice> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ted_Nasmith> ;
+    tg:edition "Limited"@en ;
+    tg:ice "41002"@en ;
+    tg:image "Middle-earth Puzzles - Arwen's Choice.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "1000"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "44&nbsp;cm x 68&nbsp;cm , 26 x 17 inches"@en ;
+    tg:title "Arwen's Choice"@en .
+
+<http://localhost:8000/resource/MEP%3A_Burglar_Baggins> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Donato_Giancola> ;
+    tg:edition "Unlimited"@en ;
+    tg:ice "30502"@en ;
+    tg:image "Middle-earth Puzzles - Burglar Baggins.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "500"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "36&nbsp;cm x 49&nbsp;cm"@en ;
+    tg:title "Burglar Baggins"@en .
+
+<http://localhost:8000/resource/MEP%3A_Gandalf%27s_Mark> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Larry_Elmore> ;
+    tg:edition "Limited (Promo)"@en ;
+    tg:ice "None"@en ;
+    tg:image "Middle-earth Puzzles - Gandalf's Mark.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "90"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "11.43&nbsp;cm x 17.7&nbsp;cm , 7 x 4.5 inches"@en ;
+    tg:title "Gandalf's Mark"@en .
+
+<http://localhost:8000/resource/MEP%3A_Map_of_Middle-earth> a schema:Thing ;
+    tg:artist "?"@en ;
+    tg:edition "Unlimited"@en ;
+    tg:ice "31501"@en ;
+    tg:image "Middle-earth Puzzles - Map of Middle-earth.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "1500"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "35 x 23 inches"@en ;
+    tg:title "Map of Middle-earth"@en .
+
+<http://localhost:8000/resource/MEP%3A_The_Mirror_Of_Galadriel> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Stephen_Walsh> ;
+    tg:edition "Unlimited"@en ;
+    tg:ice "31002"@en ;
+    tg:image "Middle-earth Puzzles - Mirror of Galadriel.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "1000"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "44&nbsp;cm x 68&nbsp;cm , 26 x 17 inches"@en ;
+    tg:title "Mirror Of Galadriel"@en .
+
+<http://localhost:8000/resource/MEP%3A_The_Way_is_Shut> a schema:Thing ;
+    tg:artist <http://localhost:8000/resource/Ted_Nasmith> ;
+    tg:edition "Unlimited"@en ;
+    tg:ice "30501"@en ;
+    tg:image "Middle-earth Puzzles - The Way is Shut.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "500"@en ;
+    tg:publisher <http://localhost:8000/resource/Iron_Crown_Enterprises> ;
+    tg:releasedate <http://localhost:8000/resource/1997> ;
+    tg:size "36&nbsp;cm x 49&nbsp;cm"@en ;
+    tg:title "The Way is Shut"@en .
+
+<http://localhost:8000/resource/The_Hobbit_Jigsaw_Puzzle> a schema:Thing ;
+    tg:infoboxTemplate <http://localhost:8000/template/puzzle_infobox> ;
+    tg:pieces "200"@en ;
+    tg:size "11 x 17 inches"@en ;
+    tg:title "The Hobbit Jigsaw Puzzles"@en .
+

@@ -1,0 +1,15 @@
+{{convention
+| image=
+| title=Comic-Con 2002
+| location=San Diego Convention Center
+| organizer=
+| dates=2002
+| attendees=
+|}}
+
+{{comic-con|2001|2003}}
+
+==External links==
+* [http://tolkiensociety.org/mathoms/comic_con_2002.html Pictures at TolkienSociety.org]
+
+[[Category:Conventions]]

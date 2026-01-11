@@ -1,0 +1,494 @@
+{{company infobox
+| name=The Folio Society
+| image=The Folio Society logo.png
+| founded=[[1947]]
+| founder=
+| location=London
+| type=Limited Edition Books
+| keypeople=
+| members=
+| subsidiaries=
+| products=
+| parent=
+| owner=
+| precededby=
+| succeededby=
+| website=https://www.foliosociety.com
+}}
+'''The Folio Society''' is a publishing company which has released several books by [[J.R.R. Tolkien]]. ''[[The Lord of the Rings]]'' is their best selling 3-volume set of all time.<ref>{{webcite|author=|articleurl=https://www.librarything.com/topic/346713|articlename=|dated=January 31st, 2024|website=[https://www.librarything.com Library Thing]|accessed=May 26th, 2024}}</ref> In [[2021]] they stopped shrink-wrapping their volumes in favor of recycled transparent paper.<ref>{{webcite|author=|articleurl=https://www.foliosociety.com/usa/blog/this-folio-life-it-s-a-wrap/ |articlename=This Folio Life: It’s a wrap|dated=March 5, 2021|website=[https://www.foliosociety.com/ The Folio Society]|accessed=May 26th, 2024}}</ref>
+
+==Editions==
+===The Hobbit (1976)===
+This is the first release from The Folio Society of [[J.R.R. Tolkien]]'s works. Some copies erroneously reference [[George Allen & Unwin]] on the title page instead of The Folio Society. According to [[Wayne G. Hammond]], this occurred due to the imprint being identical to the George Allen & Unwin release, and the first few pages were supposed to be replaced with a reference to The Folio society.<ref>[[J.R.R. Tolkien: A Descriptive Bibliography]], pg. 52</ref>
+
+
+'''Details'''
+* Illustrations by [[H.E. Riddett]]
+* Slipcase designed by Jeff Clements
+* Quarter leather
+* 7 3/4" by 9 3/4"
+
+===The Lord of the Rings (1977-1979)===
+[[File:The Lord of the Rings (1977, The Folio Society).webp|thumb|1977]]
+* Set in 11 point Barbou leaded I point with Libra for display
+* Printed on Guard Bridge Silver City paper
+* Bound in quarter basil with scholoco coloreta cloth sides
+* Blocked with a special design by Jeff Clements
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! Printing !! Date !! Printer !! Country !! Paper
+|-
+| 1st Impression || [[1977]] || W&J Mackay Limited ||  ||
+|-
+| 2nd Impression || [[1979]] || || ||
+|}
+
+===The Hobbit (1979-1983)===
+
+===The Lord of the Rings (1990-1995)===
+[[File:The Lord of the Rings (1990, The Folio Society).webp|thumb|1990-1993]]
+
+===The Hobbit (1997-Present)===
+[[File:The Folio Society - The Hobbit (1997).webp|thumb|The Hobbit, 1997-Present]]
+{{blockquote|This edition is bound in parchment cloth blocked in gold, with an inset label showing Smaug the dragon. It contains 19 black-and-white illustrations by the great Eric Fraser, and endpapers printed in red and black ink, showing Thrór’s Map and Wilderland.|The Folio Society}}
+
+
+'''Details'''
+* Bound in paper blocked in gold with a design by Francis Mosley
+* Set in Fournier with Omnia display
+* 248 pages
+* Frontispiece and 18 black & white Illustrations
+* Printed map endpapers
+* Plain slipcase
+* 9˝ x 5¾˝
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! Printing
+! Date
+! Printer
+! Country
+! Paper
+|-
+| 1st Printing
+| 1997
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 3rd Printing
+| 1999
+| The Bath Press
+| UK (Bath)
+| Balmoral Wove
+|-
+| 2nd Printing
+| 1999
+| The Bath Press
+| UK (Bath)
+| 
+|-
+| 5th Printing
+| 2001
+| The Bath Press
+| UK (Bath)
+| St. Paul's Wove
+|-
+| 4th Printing
+| 2001
+| The Bath Press
+| UK (Bath)
+| St. Paul's Wove
+|-
+| 7th Printing
+| 2002
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 6th Printing
+| 2002
+| The Bath Press
+| UK (Bath)
+| St. Paul's Wove
+|-
+| 8th Printing
+| 2004
+| The Bath Press
+| UK (Bath)
+| Abbey Wove
+|-
+| 9th Printing
+| 2006
+| The Bath Press
+| UK (Bath)
+| 
+|-
+| 10th Printing
+| 2007
+| The Bath Press
+| UK (Bath)
+| 
+|-
+| 11th Printing
+| 2008
+| Grafos S.A.
+| Spain (Barcelona)
+| Caxton Wove
+|-
+| 12th Printing
+| 2009
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 14th Printing
+| 2010
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 13th Printing
+| 2010
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 15th Printing
+| 2011
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 16th Printing
+| 2012
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 17th Printing
+| 2013
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 18th Printing
+| 2016
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| Yu Long
+|-
+| 19th Printing
+| 2020
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| Yu Long
+|-
+| 20th Printing
+| 2021
+| 
+| 
+| 
+|-
+| 21th Printing
+| 2022
+| Memminger Mediencentrum AG
+| Germany (Memmingen)
+| Abbey Wove
+|}
+<ref name="adam">Printing history courtesy of Adam Kohlhaas via e-mail to [[User:Hyarion|Hyarion]]</ref>
+
+===The Lord of the Rings (1997-Present)===
+[[File:The Folio Society - The Lord of the Rings (1997).webp|thumb|The Lord of the Rings, 1997-Present]]
+{{blockquote|Eric Fraser was one of the foremost British illustrators of the 20th century. His images – a total of seven full-page images and 57 head-pieces – are based on original designs by Queen Margrethe II of Denmark. Tolkien had seen her sketches and was so impressed that his executors gave special permission for Fraser to interpret them for these Folio editions. Covers blocked in gold and maps of Middle Earth as endpapers complete this superb edition of one the world’s favourite stories.|The Folio society}}
+
+'''Details'''
+* Bound in paper blocked with a design by Francis Mosley
+* Set in Fournier with Omnia display
+* Illustrations by Ingahild Grathmer, drawn by Eric Fraser
+* Frontispiece and 67 black & white illustrations
+* Printed map endpapers
+* 3 volumes
+* 1,352 pages in total
+* Blocked slipcase
+* 9˝ x 5¾˝
+* The 13th to 19th printings exhibit minor quality issues compared to other printings, such as poor quality spine foiling, maps which are printed on plain white paper instead of speckled green, and on page 217 of The Towers, the illustration is both cropped and upside down.
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! Printing
+! Date
+! Printer
+! Country
+! Paper
+|-
+| 1st Printing
+| 1997
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 2nd Printing
+| 1998
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 3rd Printing
+| 1999
+| The Bath Press
+| UK (Bath)
+| Balmoral Wove
+|-
+| 4th Printing
+| 2000
+| The Bath Press
+| UK (Bath)
+| 
+|-
+| 5th Printing
+| 2000
+| The Bath Press
+| UK (Bath)
+| 
+|-
+| 6th Printing
+| 2001
+| The Bath Press
+| UK (Bath)
+| St. Paul's Wove
+|-
+| 7th Printing
+| 2002
+| The Bath Press
+| UK (Bath)
+| St. Paul's Wove
+|-
+| 8th Printing
+| 2002
+| The Bath Press
+| UK (Bath)
+| St. Paul's Wove
+|-
+| 9th Printing
+| 2002
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 10th Printing
+| 2004
+| The Bath Press
+| UK (Bath)
+| Cordier Wove
+|-
+| 11th Printing
+| 2004
+| The Bath Press
+| UK (Bath)
+| Gorgeous Wove
+|-
+| 12th Printing
+| 2006
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 13th Printing
+| 2007
+| Grafos S.A.
+| Spain (Barcelona)
+| Cordier Wove
+|-
+| 14th Printing
+| 2010
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 15th Printing
+| 2013
+| Grafos S.A.
+| Spain (Barcelona)
+| 
+|-
+| 16th Printing
+| 2013
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 17th Printing
+| 2016
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| 
+|-
+| 18th Printing
+| 2018
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| Yu Long Pure
+|-
+| 19th Printing
+| 2020
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| Yu Long Pure
+|-
+| 20th Printing
+| 2022
+| Memminger Mediencentrum AG
+| Germany (Memmingen)
+| Abbey Wove
+|}
+<ref name="adam" />
+
+===The Silmarillion (1997-Present)===
+[[File:The Folio Society - The Silmarillion (1997).webp|thumb|The Silmarillion, 1997-Present]]
+{{blockquote|This edition is published with the original foreword by Christopher Tolkien. It features a frontispiece and 28 superb chapter illustrations by the artist [[Francis Mosley]]. The binding is blocked in blue and pale gold, based on a design by the artist. A very special feature of this edition is the fold-out map by Christopher Tolkien. Measuring 23 × 15 inches and printed in black and red, it shows Beleriand and the Lands to the North – the mysterious lands that precede Middle-earth.|The Folio Society}}
+
+
+'''Details'''
+* Bound in blocked paper
+* Set in Fournier with Omnia display
+* 424 pages
+* Frontispiece and 34 black & white illustrations, and a 2-colour fold-out map
+* Plain slipcase
+* 9" x 5¾"
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! Printing
+! Date
+! Printer
+! Country
+! Paper
+|-
+| 1st Printing
+| 1997
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 2nd Printing
+| 2002
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 3rd Printing
+| 2003
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 4th Printing
+| 2003
+| The Bath Press
+| 
+| 
+|-
+| 5th Printing
+| 2004
+| The Bath Press
+| UK (Bath)
+| Caxton Wove
+|-
+| 6th Printing
+| 
+| The Bath Press
+| UK (Bath)
+| 
+|-
+| 7th Printing
+| 2012
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 8th Printing
+| 2013
+| Grafos S.A.
+| Spain (Barcelona)
+| Abbey Wove
+|-
+| 9th Printing
+| 2018
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| Yu Long
+|-
+| 10th Printing
+| 2020
+| C&C Offset Printing Co.
+| China (Hong Kong)
+| Yu Long Pure
+|-
+| 11th Printing
+| 2021
+| 
+| 
+| 
+|-
+| 12th Printing
+| 2022
+| Memminger Mediencentrum AG
+| Germany (Memmingen)
+| Abbey Wove
+|}
+<ref name="adam" />
+
+
+===The Lord of the Rings (Deluxe Edition, 2002)===
+
+===The Hobbit (Deluxe Edition, 2003)===
+
+===The Silmarillion (Deluxe Edition, 2004)===
+
+===The Lord of the Rings (Limited Edition, 2022)===
+[[File:The Folio Society - The Lord of the Rings (Limited Edition).webp|thumb|The Lord of the Rings, 2022]]
+{{blockquote|This exquisite three-volume set is presented in a silver-blocked slipcase (lined with a hidden illustration) with a new art print exclusive to this edition and a pair of maps drawn by Christopher Tolkien, printed together and presented in a cloth-covered case. Each volume is quarter-bound in burgundy calfskin leather blocked in silver, with an illustrated inset label, silver page tops and a burgundy satin ribbon marker. The text itself – printed in black and burgundy – is the most up-to-date and academically rigorous available, and is accompanied by a new preface written exclusively for this edition by the artist.}}
+
+====Details====
+* Limited to 1,000 sets numbered and signed by Alan Lee 
+* Quarter-bound in leather with cloth sides blocked in silver and inset with illustration labels 
+* Circular limitation tip printed letterpress on Tintoretto paper hand tipped within a gold border 
+* Set in Dante with Testament as display  
+* 1,504 pages in total over three volumes printed on Munken Pure paper 
+* Printed in black and burgundy throughout 
+* 53 colour illustrations in total printed on Veltique paper tipped within printed borders 
+* 57 illustrated chapter openers 
+* Endpapers printed with a design by the artist 
+* Also included is a Note on the Text by Douglas A. Anderson, a Note on the Revised Text by Wayne G. Hammond and Christina Scull, Tolkien’s Foreword to the Second Edition and Prologue, as well as Appendices and Indexes.
+* Silver page tops 
+* Burgundy satin ribbon markers 
+* Two maps printed together in black and red and enclosed in a case covered in blocked cloth 
+* Hand-made cloth-covered slipcase blocked in silver and gunmetal with printed illustration inside 
+* 12˝ × 7¾˝ 
+* Separate print presented in a folder of Pergamenata paper 
+* [https://www.youtube.com/watch?v=tjtnDLt7ZSo Video Overview]
+
+===The Hobbit (Limited Edition, 2024)===
+[[File:The Hobbit (2024, The Folio Society).webp|thumb|Limited Edition, 2024]]
+On [[November 19]]th, [[2024]] The Folio Society released a limited edition of ''The Hobbit'' to match their previous ''The Lord of the Rings'' release.
+
+====Details====
+* Limited to 1,000 copies (sold out within 15 minutes)
+* Quarter-bound in leather with art silk sides. Front board has an inset label printed with an illustration by Alan Lee
+* Limitation label is printed letterpress and signed by the illustrator
+* Typeset in Dante with display set in Testament
+* 344 pages print in 2 colours
+* Numerous black & white line integrated illustrations
+* 28 colour illustrations, hand tipped as plates within borders
+* Silver page tops
+* Ribbon marker
+* Blocked slipcase with printed lining
+* Separate maps including Thror's map and a map of Wilderland
+* Separate print presented in a folder
+* Trimmed size 297mm x 194mm
+
+==External links==
+* [http://www.foliosociety.co.uk/ Official website]
+
+{{references}}
+
+[[Category:Publishers]]
+[[Category:British businesses]]

@@ -1,0 +1,36 @@
+{{actor
+| image = Hugo Weaving.jpg
+| name=Hugo Wallace Weaving
+| lifetime=[[4 April|April 4]], [[1960]]
+| played=[[Elrond]]
+| film=[[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]<br>[[The Hobbit (film series)|''The Hobbit'' (film series)]].
+| played2=
+| film2=
+| imdb=[https://www.imdb.com/name/nm0915989/ Profile]
+}}
+
+'''Hugo Wallace Weaving''' (born 1960) is an Australian actor who portrayed [[Elrond]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]] and in [[The Hobbit (film series)|''The Hobbit'' (film series)]].
+
+==Quotes==
+{{quote|Elrond is a fount of knowledge and wisdom: he knows a great deal about the history of the Ring and understands not just what has happened but what might  happen.|Hugo Weaving, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+{{quote|Whatever the outcome, the Elves will leave Middle-earth and be forgotten. There is, therefore, a sadness about Elrond which made me decide that - although he is an Elf - he also needed to have humanity, and that is what I have tried to bring to my performance.|Hugo Weaving, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+{{quote|Having agreed to play Elrond, I realized how much had to be worked out about this character: the idea of portraying someone who is immortal, for one thing; plus the fact he is noble, wise, powerful, good - and beautiful! I began to think that he was altogether impossible to play!|Hugo Weaving, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+
+== External links ==
+* {{WP|Hugo Weaving}}
+
+{{DEFAULTSORT:Weaving, Hugo}}
+[[Category:Actors and actresses]]
+[[Category:Narrators]]
+[[Category:Australian people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Hobbit (film series) cast]]

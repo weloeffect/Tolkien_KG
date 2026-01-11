@@ -1,0 +1,52 @@
+{{Mallorn
+| name=Mallorn 14
+| image = Mallorn14.jpg
+| editor=[[Susan Rule]]
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[1980]]
+| format=A4 stapled paperback
+| pages=34
+| issn=0308-6674
+}}
+'''''Mallorn'' 14''' is the fourteenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in [[1980]].
+
+==Contents==
+* Cover Illustration
+** By: [[Pauline Baynes]]
+* Editorial
+** By: [[Susan Rule]]
+* [[The Silmarillion by J.R.R. Tolkien: A Brief Account of the Book and its Making|''The Silmarillion'', by J.R.R. Tolkien: A brief account of the book and its making]]
+** By: [[Christopher Tolkien]]
+* 'Huan and Luthien'
+** By: Kevin Young
+* ''Magic''
+** By: Gordon MacLellan
+* Follow-On
+** By: A. Appleyard
+** By: Ashfaq Mashhadi
+* Review of ''[[J.R.R. Tolkien: Scholar and Storyteller|J.R.R. Tolkien Scholar & Storyteller: Essays in Memoriam]]'' (Salu & Farrell)
+** By: [[Charles Noad|Charles E. Noad]]
+* Morgothword
+** By: Steve Pillinger
+* ''Wood-wraith''
+** By: Andrea Todkill
+* Middle-earth — a Chessboard?
+** By: Philip Oliver
+* Solution to Morgothword
+* English in Fëanorian
+** By: David Masson
+* 'Anar'
+** By: John Trippick
+* 'Moria Gate'
+** By: Ruud Verkerk
+* ''Hymn to Eärendil''
+** By: Pat Masson
+
+* Inside Art
+** By: Steve Pillinger, Lucy Matthews, Lester Simons, [[Wayne G. Hammond|Wayne Hammond]]
+
+{{mallornnav|13|15|url=http://journals.tolkiensociety.org/mallorn/issue/view/15/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 14}}
+[[Category:Mallorn (journal)]]

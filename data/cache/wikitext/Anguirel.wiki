@@ -1,0 +1,34 @@
+{{object infobox
+| name=Anguirel
+| image = María Lombide Ezpeleta - Eöl's Swords.jpg
+| caption="Eöl's Swords" by [[:Category:Images by María Lombide Ezpeleta|María Lombide Ezpeleta]]
+| pronun=
+| othernames=
+| location=[[Nan Elmoth]], [[Gondolin]]
+| owner=[[Eöl]], [[Maeglin]]
+| type=Weapon
+| appearance=A black blade that could slice through iron; forged from a meteorite
+| creator=[[Eöl]]
+| created=[[First Age]]
+| createdlocation=[[Nan Elmoth]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+'''Anguirel''' was one of a pair of swords forged by [[Eöl]], the [[Dark Elf]], from an [[Wikipedia:Iron meteorite|iron meteorite]]. Both swords were black and could cleave through any earth-delved iron.
+
+Eöl gave Anguirel's mate, [[Anglachel]], to [[Thingol]] as payment to live in [[Nan Elmoth]]. He kept Anguirel until it was stolen by his son [[Maeglin]], who fled to [[Gondolin]]. What became of it later is unknown.<ref>{{CH|5}}, p. 97</ref>
+
+==Etymology==
+The etymology of ''Anguirel'' is not as clear as that of its mate. It might mean "Iron of the Eternal Star", from ''[[ang]]'' "iron", ''[[uir]]'' "eternal" and ''[[elen|el]]'' "star".
+
+{{References}}
+{{Weapons}}
+
+[[Category:Weapons]]
+[[Category:Sindarin names]]
+[[Category:Swords]]
+[[de:Anguirel]]
+[[fr:encyclo/artefacts/armes/anguirel]]
+[[fi:Anguirel]]

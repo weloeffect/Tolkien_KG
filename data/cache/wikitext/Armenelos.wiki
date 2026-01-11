@@ -1,0 +1,60 @@
+{{location infobox
+| name=Armenelos
+| image=Ralph Damiani - Armenelos.png
+| caption="Armenelos the golden" by [[:Category:Images by Ralph Damiani|Ralph Damiani]]
+| pronun={{respell|ar|men|eh-los}}
+| othernames=The Golden, [[City of the Kings]], ''Arminalêth'' ([[Adûnaic|A]])
+| location=[[Arandor]], nigh [[Meneltarma]]
+| type=City
+| description=Capital of [[Númenor]]
+| regions=
+| towns=
+| inhabitants=[[Númenóreans]]
+| created=Early [[Second Age]]
+| destroyed={{SA|3319}}, [[Downfall of Númenor]]
+| events=
+}}
+
+'''Armenelos''', also known as the '''[[City of the Kings]]''',<ref name=Numenor>{{UT|Numenor}}</ref> '''Armenelos the Golden'''<ref name=Akallabeth>{{S|Akallabeth}}</ref> or '''Arminalêth''',<ref name="PMV7">{{PM|V}} §7, pp. 145-6</ref> was the capital city of [[Númenor]].<ref name=Numenor/> It was the fairest of all cities<ref name=Akallabeth/> on the island and in later years possibly the largest after [[Andúnië]] declined.<ref name="RBAR">{{HM|Guide}}, entry "Armenelos"</ref>
+
+It was situated on a hill<ref name=Akallabeth/> in eastern central Númenor, in the district called [[Arandor]],<ref>{{UT|Numenore}}</ref> the Kingsland, close to the [[Meneltarma]].<ref name=Akallabeth/> The chief road of Númenor ran through the royal city, eastward it led to the haven of [[Rómenna]] while westward it led to Andúnië.<ref name=Numenor/>
+
+Armenelos contained the [[King's house]],<ref name=Wife>{{UT|Wife}}</ref> a tower and a citadel that had been built by [[Elros]],<ref name=Akallabeth/> as well as the [[King's Court]], the place where the White Tree [[Nimloth (tree)|Nimloth]] grew.<ref name=Akallabeth/> At the top of the tower of the King's palace was an eyrie where a pair of great eagles lived on the bounty of the King from the time of Elros until the time of [[Tar-Ancalimon]].<ref name=Numenor/>
+
+==History==
+Armenelos was founded as far back as the end of the [[First Age]], when the [[Edain]] first migrated to the island. Conceivably [[Arandor]] was the first district they settled after landing in a firth that later led to the haven of [[Rómenna]].
+
+In {{SA|32}}, the coronation of Elros in Armenelos marked the beginning of the [[Númenóreans|Númenórean]] realm.<ref>{{UT|Kings}}</ref>
+
+The Elves of [[Eressëa]] brought many gifts to Númenor, one of which was a seedling of the White Tree [[Celeborn (White Tree)|Celeborn]] and it grew in the courts of the King in Armenelos and it was named [[Nimloth (tree)|Nimloth]].<ref name=Akallabeth/>
+
+In {{SA|870}}, the city celebrated the wedding of the King's Heir [[Aldarion]] and [[Erendis]].<ref name=Wife/>
+
+Near the end of the [[Second Age]], the [[Temple]] was built in the city by order of the [[Ar-Pharazôn|King's]] adviser [[Sauron]] and the White Tree Nimloth was burned on its altar and later human sacrifice was performed there.<ref name=Akallabeth/>
+
+The city was destroyed in the [[Downfall of Númenor]].<ref name=Akallabeth/>
+
+==Etymology==
+{{Pronounce|Armenelos.mp3|Ardamir}}
+''Armenelos'' is a [[Quenya]] name, which means "Noble Heaven City". It seems to be a compound of the elements ''[[ar-]]'' ("noble", "high"), ''[[menel]]'' ("heavens") and the suffixal form ''-os'' of ''[[osto]]'' ("city", "fortress", "strongholf", "strong place").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-793475853.html|articlename=Q. ''Armenelos'' loc.|website=Eldamo|accessed=30 June 2024}}</ref>
+
+The [[Adûnaic]] name is ''Arminalêth'',<ref name="PMV7"/> which appears to be a direct translation of the Quenya name, analyzed as ''ar-'' + ''minul'' (Adûnaic name of menel).<ref>{{webcite|website=Arda|author=[[Helge Fauskanger]]|articlename=Adûnaic|articleurl=http://folk.uib.no/hnohf/adunaic.htm|accessed=25 September 2011}}</ref>
+
+==Other versions of the legendarium==
+At early stages of writing, the city was called by other names: '''Númenos''', '''Númar'''<ref>{{LR|P1II2}}, Commentary on the first version of The Fall of Númenor: §2, p. 14</ref> or '''Nûmar'''<ref>{{VT|45a}}, p. 26</ref> (at first used of what became Númenor). In later developments it was known as '''Antirion''' (the Golden).<ref>{{SD|3ii}} §2, p. 347</ref> The city's Adûnaic name was '''Ar-Minalêth''' or '''Arminalêth'''<ref>{{SD|2dn}} 75, p. 292</ref><ref>{{SD|3iii}} §20, p. 363</ref> which survived in later drafts of the ''Akallabêth''. Additionally in ''[[The Peoples of Middle-earth]]'', Christopher corrected a mistake he made in ''[[Sauron Defeated]]'' where he said the name Arminalêth was replaced by Armenelos, instead the Eldarin name Armenelos replaced the Eldarin name '''Tar Kalimos'''.<ref name="PMV7"/>
+
+==Portrayal in adaptations==
+[[File:The Rings of Power (TV series) - Armenelos.jpg|thumb|200px|Armenelos in ''[[The Lord of the Rings: The Rings of Power]]''.]]
+'''2022: ''[[The Lord of the Rings: The Rings of Power]]'':'''
+:'''September 8: ''[[Adar (episode)|Adar]]'':'''
+::The city of Armenelos makes its first appearance when [[Elendil|Captain Elendil]] takes [[Galadriel]] and [[Halbrand]] up the river [[Siril]] in [[Númenor]].
+
+{{references}}
+{{numenor}}
+[[Category:Arandor]]
+[[Category:Armenelos| ]]
+[[Category:Cities, towns and villages]]
+[[Category:Quenya locations]]
+[[de:Armenelos]]
+[[fi:Armenelos]]
+[[fr:encyclo/geographie/villes tours et forteresses/numenor/armenelos]]

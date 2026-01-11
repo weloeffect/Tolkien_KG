@@ -1,0 +1,40 @@
+{{disambig-two|the region in [[Eriador]]|region in [[Lothlórien]]|[[Egladil]]}}
+{{location infobox
+| name=Angle
+| image=The Lord of the Rings Online - Angle.jpg
+| caption=Angle of Mitheithel in ''[[The Lord of the Rings Online]]''
+| pronun=
+| othernames=
+| location=[[Rhudaur]], between the [[Hoarwell]] and [[Bruinen|Loudwater]]
+| type=Region
+| description=Triangular area between two rivers
+| regions=
+| towns=
+| inhabitants=
+| created=
+| destroyed=
+| events=Division of Arnor<br />Migration of the [[Stoors]]
+}}
+The '''Angle''' in [[Eriador]] was the wedge of land between the rivers of [[Hoarwell]] and [[Bruinen|Loudwater]].<ref name="Earendur">{{App|Eriador}}, ''The North-kingdom and the Dúnedain, p. 1040''</ref> It is not known how far north the area known as the Angle extended. 
+
+==History==
+The Angle was originally part of the realm of [[Arnor]].<ref>{{App|Eriador}}, p. 1039</ref> When the kingdom of [[Arnor]] was divided into the kingdoms of [[Arthedain]], [[Cardolan]] and [[Rhudaur]] after the death of King [[Eärendur (King of Arnor)|Eärendur]] in {{TA|861}},<ref>{{App|TA}}, entry for the year 861, p. 1085</ref> the Angle became part of the kingdom of Rhudaur.<ref name="Earendur" />
+
+In {{TA|1150}} the [[Stoors]], a branch of the race of [[Hobbits]], crossed the [[Misty Mountains]] westward over the [[Redhorn Pass]] into [[Eriador]] and settled in the Angle or in [[Dunland]].<ref>{{App|TA}}, entry for the year 1150, p. 1085</ref>
+
+The [[Stoors]] only remained in the Angle for some two hundred years before they moved on again around {{TA|1356}},<ref>{{App|TA}}, entry for the year 1356, p. 1086</ref> but at this point their kind divided. Some travelled west and north, and their descendants eventually merged with the other [[Hobbits]] of [[Bree]] and [[the Shire]]. Others returned across the [[Misty Mountains]] and travelled back down into the [[Vales of Anduin]].<ref name="Earendur" />
+
+In the time of the [[Chieftain of the Dúnedain]] [[Arador]] many [[Dúnedain of the North]] lived in woods between the river [[Hoarwell]] and the river [[Loudwater]]. Arador lived in a house north of the [[Trollshaws]] in woods near the river [[Hoarwell]], which was threatened by a group of [[Trolls]].<ref>{{NM|P3xvii}}, note 12, p. 366</ref> It is possible that the Dúnedain lived in the Angle since it was protected by the river Hoarwell in the west, which could only be crossed below its sources at the [[Last Bridge]]<ref>{{FR|Flight}}, p. 200</ref> and the river Loudwater in the east and it was close to the elven refuge of [[Rivendell]] where the sons of the Chieftains of the Dúnedain were raised since [[Arahael]], the son of the first Chieftain [[Aranarth]],<ref>{{App|Eriador}}, ''The North-kingdom and the Dúnedain, p. 1043''</ref> but it is not known when they moved there or how long they continued to live in the Angle.
+
+It is possible that the hidden refuge in the wilds of Eriador in which the [[Dúnedain|Dúnadan]] [[Dírhael]] lived with his wife [[Ivorwen]] and his daughter [[Gilraen]] in the time of [[Arathorn II]]<ref name="Arwen">{{PM|Aii}}, manuscript A, p. 263</ref> was located in the Angle.
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Angle map.jpg|thumb|Map of the Angle from ''[[The Lord of the Rings Online]]''.]]
+'''2022: ''[[The Lord of the Rings Online]]'':'''
+:More fully known as the "Angle of Mitheithel", this area is an extension of the [[Trollshaws]] region.<ref>{{webcite|author=|articleurl=https://www.lotro.com/update-notes/lotro-update-32-release-notes-en|articlename=Update 32 Release Notes|dated=16 February 2022|website=LOTRO|accessed=}}</ref> It is the site of the [[Rangers of the North|Ranger]] village "Tornhad", a long-abandoned [[Stoors|Stoor]] village, and several ruins both from [[Eregion]] and from [[Rhudaur]].<ref>[[The Lord of the Rings Online]], Explorer of the Angle</ref>
+
+{{references}}
+{{title}}
+[[Category:Eriador]]
+[[de:Der Winkel]]
+[[fi:Nokka]]

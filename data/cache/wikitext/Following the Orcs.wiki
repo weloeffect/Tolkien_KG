@@ -1,0 +1,42 @@
+{{scene
+| image = The Lord of the Rings (1978 film) - Following the Orcs.png
+| name=Following the Orcs
+| film=[[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+| number=25
+| duration=5:12
+| event= [[Three Hunters]] chase [[Orcs]] through [[Rohan]]
+| previous= Borimir's Sacrifice
+| next= Whiteskins Attack
+|}}
+'''''Following the Orcs''''' is the twenty-fifth scene of [[The Lord of the Rings (1978 film)|the 1978 film ''The Lord of the Rings]]''. 
+
+==Synopsis==
+While the boat carrying [[Boromir]] flows away on the river, [[Aragorn]], [[Legolas]] and [[Gimli]] discuss what to do: take the last boat, or follow the Orcs. Though Legolas argues that [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] may very well be dead by now, Aragorn counters that the fate of the Ring-bearer is no longer in their hands: the [[Fellowship of the Ring|Company of the Ring]] has served its purpose. They chase the Orcs.
+
+The Orcs have some distance on them. Merry and Pippin are forced to run with them, and are whipped along the way. Pippin falls, and an Orc captain berates him for it. He then asks [[Grishnákh]] for a drink, and when Grishnakh does not respond quick enough, knocks him over. He gives drink to the hobbits, who are less than pleased with the taste. The captain explains they will not get bed, or breakfast, until they reach [[Isengard]].
+
+Aragorn finds the [[Elven brooches|brooch]], dropped by Pippin. He deduces that the troop of Orcs is almost a day ahead, and at least one of the Hobbits is still alive. He asks his companions whether to stay the night, or continue the hunt. Legolas favours continuing, Gimli favours a rest. When he learns they will not be resting, Gimli cries "I cannot run all the way to Isengard!"
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Role !! Actor
+|-
+| [[Aragorn]] || [[John Hurt]] (voice)
+|-
+| [[Legolas]] || [[Anthony Daniels]]
+|-
+| [[Gimli]] || [[David Buck]]
+|-
+| [[Meriadoc Brandybuck|Merry]] || [[Simon Chandler]]
+|-
+| [[Peregrin Took|Pippin]] || [[Dominic Guard]]
+|-
+| [[Grishnakh]] || Unspecified
+|-
+| Orc Captain || Unspecified
+|}
+
+==Differences from source material==
+* Aragorn finds the brooch, but nowhere did Pippin drop it on-screen.
+[[Category:The Lord of the Rings (1978 film) scenes]]

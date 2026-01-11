@@ -1,0 +1,22 @@
+{{short description|Academic and associate of J.R.R. Tolkien}}
+{{person infobox
+| image=
+| name=Lascelles Abercrombie
+| born=[[9 January]], [[1881]]
+| died=[[27 October]], [[1938]]
+| education=
+| occupation=Professor of English literature
+| location=Leeds
+| website=
+}}
+'''Lascelles Abercrombie''' ([[9 January]], [[1881]] – [[27 October]], [[1938]]) became Professor of English Literature at the University of [[Leeds]], ahead of [[J.R.R. Tolkien]], who was then Reader in English Language. When Tolkien applied for the position of [[Rawlinson and Bosworth Professorship of Anglo-Saxon]] at Oxford, Abercrombie wrote a letter of recommendation praising Tolkien.<ref name="CG">{{CG|RG}}, p. 1</ref>
+
+{{blockquote|[J.R.R. Tolkien] has throughout acted as my advisor and collaborator in the conduct and policy of the department as a whole....I have never consulted him without gaining an illumination that can penetrate as well as expatiate. But I must not omit to mention that I have gained at least as much from the keen artistic sensibility as from the science of his scholarship.|Lascelles Abercrombie, [[25 June]], [[1925]]<ref name="CG"/>}}
+
+{{references}}
+
+{{DEFAULTSORT:Abercrombie, Lascalles}}
+[[Category:Academics]]
+[[Category:British people]]
+[[Category:People by name]]
+[[de:Lascelles Abercrombie]]

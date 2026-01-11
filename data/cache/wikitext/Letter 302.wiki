@@ -1,0 +1,10 @@
+{{letter infobox
+| #=302
+| to=[[wikipedia:Time–Life|Time-Life International]]
+| date=[[2 May]] [[1968]]
+| subject=Photoshoot
+}}{{letter|302}}
+==Summary==
+[[wikipedia:Time–Life|Time-Life International]] had apparently asked for a photoshoot of Tolkien at work, but Tolkien replied that he did not and could not work with anybody else in a room, and a photograph of him pretending to be at work would be bogus.
+{{letters}}
+[[de:Brief 302]]

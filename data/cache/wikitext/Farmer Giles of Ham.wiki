@@ -1,0 +1,88 @@
+{{book
+|title=Farmer Giles of Ham
+| image = Farmer Giles 1949.png
+|author=[[J.R.R. Tolkien]]
+|editor=[[Christina Scull]], [[Wayne G. Hammond]] (50th Anniversary edition)
+|illustrator=[[Pauline Baynes]]
+|publisherUK=[[George Allen and Unwin]]
+|publisherUS=[[Houghton Mifflin]]
+|date=[[20 October]] [[1949]]
+|format=Hardcover; paperback
+|pages=64
+|isbn=0859970620
+}}
+'''''Farmer Giles of Ham''''' is a short story written by [[J.R.R. Tolkien]] in [[1937]], first published in [[1949]].
+
+The story describes the encounters between [[Farmer Giles]] and a wily dragon named [[Chrysophylax]], and how Giles manages to use these to rise from humble beginnings to rival the king of the land. It is cheerfully anachronistic and light-hearted, set in Britain in an imaginary period of the "Dark Ages", and featuring mythical creatures, medieval knights, and primitive firearms. It is only tangentially connected with [[Middle-earth]].
+
+The book was originally illustrated by [[Pauline Baynes]]. The story has appeared with other works in compilations, including ''[[The Tolkien Reader]]'', ''[[Poems and Stories]]'', and ''[[Tales from the Perilous Realm]]''.
+
+==Plot summary==
+Farmer Giles is not a hero. He is fat and red-bearded and enjoys a slow, comfortable life. But a rather deaf and short-sighted [[The Giant|giant]] blunders on to his land, and Giles manages to ward him away with a [[blunderbuss]] shot in his general direction. The people of the village cheer: Farmer Giles has become a hero. His reputation spreads across the kingdom, and he is rewarded by the King with a sword named Caudimordax ("Tailbiter")—which turns out to be a powerful weapon against dragons.
+
+The giant, on returning home, relates to his friends that there are no more knights in the Middle Kingdom, just stinging flies—actually the scrap metal shot from the blunderbuss—and this entices a dragon, Chrysophylax Dives, to investigate the area. The terrified neighbours all expect the accidental hero Farmer Giles to deal with him.
+
+The story parodies the great dragon-slaying traditions. The knights sent by the King to pursue the dragon are useless fops, more intent on "precedence and etiquette" than on the huge dragon footprints littering the landscape. The only part of a 'dragon' they know is the annual celebratory dragon-tail cake. Giles by contrast clearly recognises the danger, and resents being sent with them to face it. But hapless farmers can be forced to become heroes, and Giles shrewdly makes the best of the situation.
+
+==Philological humour==
+Tolkien, by profession a philologist, sprinkled several philological jokes into the tale, including a variety of ingeniously fake etymologies. Almost all the place-names are supposed to occur relatively close to Oxford, along the Thames, or along the route to London. At the end of the story, Giles is made Lord of Tame, and Count of Worminghall. The village of Oakley, burnt to the ground by the dragon early in the story, may also be named after Oakley, Buckinghamshire, near to Thame.
+
+==50th anniversary edition==
+The 50th Anniversary Edition was published in [[1999]], edited by [[Christina Scull]] and [[Wayne G. Hammond]].
+
+This edition reproduces the text and illustrations of the First Edition of [[1949]] in facsimile, including the colour plates. It also includes: an introduction and notes by the editors, the first written (manuscript) version of the story, drafts for an unfinished sequel, and a map of 'The Little Kingdom' by Pauline Baynes.
+
+In [[2009]], the 60th Anniversary Edition was published, limited only to 500 copies. It has the same content as the 50th Anniversary Edition.
+
+==Publication history and gallery==
+;Earlier editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Farmer Giles 1949.png|1949 hardcover
+File:Farmer Giles 1975.png|1975 hardcover large print
+File:Farmer Giles 1976.png|1976 hardcover
+File:Farmer Giles 1983.png|1983 paperback
+File:Farmer Giles 1990 hardcover.png|1990 hardcover
+File:Farmer Giles 1990 paperback.png|1990 paperback
+</gallery>
+* [[George Allen and Unwin]], hardcover ([[1949]]), pp.&nbsp;64.
+* Cedric Chivers, hardcover ([[1975]]), ISBN 0859970620 - (large print edition)
+* [[George Allen and Unwin]], hardcover ([[1976]]), ISBN 0048231312
+* [[Unwin Paperbacks]], paperback ([[1983]]), pp.&nbsp;91. ISBN 0048232335
+* [[Unwin Hyman]], hardcover ([[1990]]), ISBN 0044407246
+* [[Unwin Paperbacks]], paperback ([[1990]]), ISBN 0044407238
+
+;50th Anniversary and later editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Farmer Giles 1999.png|1999 hardcover
+File:Farmer Giles 2000.png|2000 paperback 
+File:Farmer Giles 2000 2.png|2000 paperback 4th impression
+File:Farmer Giles 2009.jpeg|2009 hardcover
+File:Farmer Giles 2014.jpeg|2014 hardcover
+File:Farmer Giles 2024.jpg|2024 paperback
+</gallery>
+* [[HarperCollins]] hardcover ([[1999]]), pp.&nbsp;144. ISBN 0261103776 - (50th Anniversary edition)
+* [[HarperCollins]] paperback ([[2000]]), ISBN 0261103784
+** 2000 paperback edition, 4th impression ([[2000]])
+* 1999 hardcover edition, 4th impression ([[2009]]) - (60th Anniversary edition)
+* [[HarperCollins]] hardcover ([[2014]]), pp.&nbsp;224. ISBN 0007542933 - (also part of the [[2015]] [[The Tolkien Treasury|Tolkien Treasury]] pocket set)
+* [[HarperCollins]] paperback ([[2024]]), pp.&nbsp;240. ISBN 0008705275
+
+==See also==
+*''[[Smith of Wootton Major]]''
+*''[[Tales from the Perilous Realm]]''
+
+==External links==
+*[http://mysite.verizon.net/wghammond/addenda/farmer.html Addenda and Corrigenda to the 50th anniversary edition of ''Farmer Giles of Ham'']
+*[http://www.crisismagazine.com/2013/tolkiens-farmer-giles-of-ham-hero-for-our-time Tolkien's Farmer Giles of Ham: Hero for Our Time?] by Peter Freeman
+
+{{references}}
+{{perilousrealm}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Farmer Giles of Ham| ]]
+[[Category:Fiction books]]
+[[Category:Publications by title]]
+
+[[de:Bauer Giles von Ham]]
+[[fi:Maamies ja lohikäärme]]

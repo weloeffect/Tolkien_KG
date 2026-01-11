@@ -1,0 +1,37 @@
+{{Noble House infobox
+| name=House of the Pillar
+| image = Rondador - House of the Pillar.png
+| caption=
+| othernames=Folk of the Pillar
+| founder=
+| leader=[[Penlod]]
+| location=[[Gondolin]]
+| affiliation=[[House of the Tower of Snow]]
+| rivalry=
+| destroyed=Completely<br />[[Fall of Gondolin]]
+| language=
+| members=
+| race=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=
+| weapons=
+| heirlooms=
+}}
+The '''house of the Pillar''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the elven city of [[Gondolin]]. Their story is recounted in the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.
+
+==History==
+This house is only briefly mentioned, as being united with the [[house of the Tower of Snow]] under [[Penlod]], tallest of the [[Gnomes]].<ref name=Gondolin>{{LT2|III}}</ref>{{rp|173}}
+
+During the [[Fall of Gondolin]], they were stationed in the northern part of the city, where the balrog [[Gothmog (balrog)|Gothmog]] had led the main attack. When the [[house of the Hammer of Wrath]] was completely destroyed outside the walls, the elves of the Pillar and the Tower of Snow suffered the next wave of attacks, receding deeper into the city. Finally, "Penlod perished there in a lane with his back to the wall, and about him many of the men of the Pillar and many of the Tower of the Snow".<ref name=Gondolin/>{{rp|179}} There is no other mention of them, but later it is said that survivors of all the kindreds were reunited in the [[Square of the King]],<ref name=Gondolin/>{{rp|183}} so probably some of them survived as [[Exiles of Gondolin|exiles]] following the destruction of the city.
+
+==Other names==
+Their [[Gnomish]] name was '''''Thlim Taul''''', while in [[Qenya]] they were simply known as '''''Tauler'''''.<ref>{{PE|13}}, p. 104</ref>
+
+{{references}}
+{{HousesofGondolin}} 
+
+[[Category:Twelve houses of the Gondothlim]]
+[[de:Haus der Säule]]

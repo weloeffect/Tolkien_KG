@@ -1,0 +1,65 @@
+{{unnamed}}
+{{poem infobox
+| title="''The Song of the Ent and the Entwife''"
+| image=
+| caption=
+| imageWidth=
+| imageHeight=
+| other names="Of the Ents and Entwives"
+| written=Late [[1941]] or early [[1942]]
+| revised=
+| published=''[[The Two Towers]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Search of the Ents]]
+}}
+
+"'''''The Song of the Ent and the Entwife'''''"<ref name="note">{{TI|XXII}}, p. 421 (note 10)</ref> is a poem recited to [[Meriadoc Brandybuck]] and [[Peregrin Took]] by [[Treebeard]], concerning the longing of the [[Ents]] for their lost [[Entwives]].<ref name="history">{{TT|III4}}</ref>
+
+==Poem excerpts==
+<poem style="font-style:italic; margin-left:20px;">Ent:
+
+When spring unfolds the beechen-leaf and sap is in the bough,
+When light is on the wild-wood stream, and wind is on the brow,
+When stride is long, and breath is deep, and keen the mountain air,
+Come back to me! Come back to me, and say my land is fair!
+
+''Entwife:''
+
+When Spring is come to garth and field, and corn is in the blade,
+When blossom like a shining snow is on the orchard laid,
+When sun and shower upon the earth with fragrance fill the air,
+I'll linger here, and will not come, because my land is fair!
+
+''Both:''
+
+Together we will take the road that leads into the West,
+And far away will find a land where both our hearts may rest.</poem>
+
+==History==
+After the loss of the [[Entwives]] and their [[Brown Lands|gardens]] during the [[War of the Last Alliance]]<ref>{{L|144}}</ref> in the late [[Second Age]], the [[Ents]] began a long search for them. Afterwards, the [[Search of the Ents]] became the subject of many [[Elvish]] songs; some of which were translated into the many [[Mannish|languages]] of [[Men]]. One such song, which the Ents remembered orally, "used to be sung up and down the [[Anduin|Great River]]" according to [[Treebeard]]. This song took the form of a dialogue between an Ent and an Entwife and mentioned a prophecy foretelling that they will find a land where they both can be happy together after both have lost everything.<ref name="history"/>
+
+On Tuesday<ref>''[[The Chronology of The Lord of the Rings]]'', "[Others of Company]", p. 56</ref> of [[29 February]] in the year {{TA|3019}} during the late [[Third Age]],<ref>{{App|B3}}, entry for 29 February</ref> [[Treebeard]] recited the song to [[Meriadoc Brandybuck]] and [[Peregrin Took]] in [[Fangorn Forest]] after they asked what had happened to them.<ref name="history"/>
+
+==Background==
+In late [[1941]] or early [[1942]],<ref name="collectedpoems">{{CP|165}}</ref> [[J.R.R. Tolkien]] made "four pages"<ref name="collectedpoems"/> of "rough workings" for the poem in a manuscript with the words "[?Of] the Ents and Entwives".<ref name="rough">{{TI|XXII}}, pg. 418</ref> Tolkien wrote the "first completed draft"<ref name="note"/> of the poem on the fifth page<ref name="collectedpoems"/> of the manuscript.<ref name="rough"/> In this manuscript, the first and third stanzas were already in the form of the published text, the sixth stanza differed "only in the first line", and the ending mentions the Ents finding the Entwives "in the rain" and together going "to an island" where they can both be happy.<ref name="note"/> [[Christopher Tolkien]] refers to the poem as "the Song of the Ent and the Entwife" at one point.<ref name="rough"/> The italicized name ''The Song of the Ent and the Entwife'' appears in the note where the first completed draft appears, but it is unknown whether Tolkien wrote that name on the draft or whether [[Christopher Tolkien]] wrote the name on the note.<ref name="note"/> Tolkien added speakers for each stanza in a second draft before revising the poem to its published form for "the first typescript of the chapter" it would appear in.<ref name="collectedpoems"/>
+
+In [[August]] of [[1952]], Tolkien made a recording of the song amongst other poems he recorded.<ref name="collectedpoems"/> In response to a question from fr. Douglas Carter, Tolkien remarked in a letter on [[6 June]] in [[1972]] that the song might be evidence "that there would be no re-union in 'history'" between the Ents and the Entwives.<ref>{{L|338}}</ref>
+
+In the [[2008]] essay, "The Myth of the Ent and the Entwife", [[Corey Olsen]] speculated that the song was composed by an Elf who did not hold any bias towards either side, managing to convey multiple meanings "through the layering of the two voices".<ref>{{TS|5}}, pp. 39-53</ref>
+
+While Tolkien never wrote a composition to accompany the song, several fans have made renditions. One version is the work of Bart Zeal entitled "[http://youtu.be/4pxfoJs0aPQ The Epic of The Ent & The Entwife]" while another version is sung by Clamavi De Profundis entitled "[http://www.youtube.com/watch?v=NNL8zG0hsB0 The Ent and the Ent-Wife]".
+
+In [[2024]], the song was included as entry 165 in ''[[The Collected Poems of J.R.R. Tolkien]]''. In their commentary, [[Wayne G. Hammond]] and [[Christina Scull]] mention that the poem is often referred to as the "Song of the Ent and the Entwife".<ref name="collectedpoems"/>
+
+==Portrayal in adaptations==
+'''1981: [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]]:'''
+:Treebeard sings a part on the song aloud while on his way to [[Entmoot]].
+
+==See also==
+* [[Poems in The Lord of the Rings|Poems in ''The Lord of the Rings'']]
+
+{{references}}
+{{poems}}
+
+{{DEFAULTSORT:Song of the Ent and the Entwife, The}}
+
+[[Category:Poems in The Two Towers]]

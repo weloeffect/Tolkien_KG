@@ -1,0 +1,83 @@
+{{infobox character
+| name=Telimektar
+| people=[[Valar#Other versions of the legendarium|Vala]]
+| image=
+| caption=
+| pronun=
+| othernames=''Telumaithor/Telumaithar'', ''Daimort/Daimord'' ([[Gnomish|G]])<br />''Mordo/Taimordo/Taimondo'', ''Telmaithron'', ''Taimavar'' ([[Qenya|Q]])
+| titles=
+| position=
+| location=[[Valinor]]<br />[[Tol Eressëa]]<br />[[Ilwë]]
+| affiliation=
+| language=
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Guarding the world from [[Melko]]'s return
+| family=
+| parentage=[[Tulkas]] & [[Nessa]]
+| siblings=
+| spouse=
+| children=[[Lúthien (son of Telimektar)|Lúthien]]<sup>[[Telimektar#Other versions of the legendarium|NB]]</sup>
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=Silver sword
+| steed=
+}}
+'''Telimektar''' was a [[Valar|Vala]], the son of [[Tulkas]], according to the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.<ref name="War"/>
+
+== History ==
+=== Early history ===
+Telimektar is first mentioned in the ''Lost Tales'' in the story of ''[[the Chaining of Melko]]''. There, he was "but just war-high" when he fought at his father's side against [[Melko]] in the war which ended with the captivity of the Enemy. In that story Telimektar had "a long sword girt about his waist by a silver girdle."<ref name="War">{{LT1|IV}}, p. 101</ref>
+
+His next mention is during the [[Darkening of Valinor]], where he was pursuing Melko along with the other [[Valar]].<ref>{{LT1|VI}}, p. 154</ref>
+
+=== Later history ===
+According to one text, when Melko broke free of his second imprisonment (after the [[March of Liberation]]), he went to [[Tol Eressëa]] in order to sow dissension between the [[Gnomes]] and the [[Solosimpi]], who sent for help to [[Valinor]]. However, the only aid that came from the Valar was that of Tulkas, who in secret sent his son Telimektar to Tol Eressëa to aid them.
+
+There, Telimektar, with the help of [[Ingil]]<ref group="note">In ''[[The Cottage of Lost Play]]'', it is said that Ingil eventually returned to Valinor, which seems to represent a different, distinct idea from the one mentioned above.</ref> son of [[Inwë]], surprised Melko and wounded him, and chased him up the [[Pine of Tavrobel]] all the way to [[Ilwë]]. However, Melko kept attacking the [[Sun]] and the [[stars]], and in the end caused the death of [[Urwendi]] the steerer of the Sun-vessel.
+
+Finally, the Valar decided to cut down the great Pine, which left Melko stranded out of the world.
+
+However, Telimektar and Ingil had to remain in the sky, guarding ceaselessly until Melko's return in the [[Great End]]. There, [[Varda]] periodically gives him [[stars]] to replace the ones Melko destroys and to remind the world of the Valar's watch - and the constellation of [[wikipedia:Orion (constellation)|Orion]] is afterwards seen as his image in the sky.<ref>{{LT2|VI}}, outline '''4''', pp. 281-2</ref>
+
+== Etymology ==
+The name ''Telimektar''<ref group="note">In the later outlines of the ''Lost Tales'', his name is given as '''''Telumektar''''' instead.</ref> is in [[Qenya]].<ref name="Eld">{{webcite|author=[[Paul Strack]]|articleurl=http://eldamo.org/content/words/word-1989343939.html|articlename=ᴱQ. ''Telimektar'' pn.|website=Eldamo|accessed=5 April 2022}}</ref> It is glossed as "Orion, literally Swordsman of Heaven" in the [[Qenya Lexicon]], under the root [[TELE]] ("cover in").<ref>{{PE|12}}, p. 90</ref><ref group="note">The name '''''Telimbektar''''' is given as an alternative to ''Telimektar'' in the Lexicon.</ref> The name is comprised of ''[[telimbo]]'' ("canopy, sky") + ''[[ektar]]'' ("swordsman").<ref name="Eld"/>
+
+== Other names ==
+The [[Gnomish]] cognate of ''Telimektar'' is '''''Telumaithor''''',<ref group="note">In ''[[The Book of Lost Tales Part One]]'', this name is given as '''''Telumaithar'''''.</ref> with the earlier forms of the name being ''Telumaithron'' and ''Telumaithweg''.<ref>{{PE|11}}, p. 70</ref>
+
+One of his names was '''''Mordo'''''. It is a Gnomish word adopted into Qenya, being derived from ''[[mavar]]'' ("shepherd") through Gnomish ''[[mord]]'' - its meaning being a poetic one for "man, warrior" or otherwise possibly derived from the "warlike qualities of the shepherds". A similar name was '''''Taimordo''''' ('''''Taimondo''''' being a corrupt form of the name), with '''''Daimort''''' (changed from ''Daimord''<ref>{{PE|11}}, p. 29</ref>) being its Gnomish cognate.<ref>{{PE|12}}, p. 62</ref><ref group="note">The true Qenya cognate of ''Daimord'' was '''''Taimavar''''', with the other forms given above being corruptions of the name.</ref><ref>{{webcite|author=[[Paul Strack]]|articleurl=http://eldamo.org/content/words/word-76152031.html|articlename=G. ''Daimord'' m.|website=Eldamo|accessed=5 April 2022}}</ref>
+
+Another late name for the character was '''''Telmaithron'''''.<ref>{{PE|14}}, "[[The Names of the Valar]]", p. 13</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | AUL |y| YAV | | | | |AUL=[[Aulë]]|YAV=[[Yavanna]]}}
+{{familytree | | | | | |,|-|^|-|.| | | | | |}}
+{{familytree | VAN |y| ORO | | NES |y| TUL |ORO=[[Oromë]]|VAN=[[Vána]]|NES=[[Nessa]]|TUL=[[Tulkas]]}}
+{{familytree | | | |!| | | | | | | |!| | | |}}
+{{familytree | | | NIE | | | | | | TEL | | |NIE=[[Nielíqui]]|TEL='''TELIMEKTAR'''}}
+{{familytree | | | | | | | | | | | |!| | | |}}
+{{familytree | | | | | | | | | | | LUT | | |LUT=[[Lúthien (son of Telimektar)|Lúthien]]<sup>[[Telimektar#Other versions of the legendarium|NB]]</sup>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In one of the later outlines, which might have formed the basis for ''The Book of Lost Tales'', Telimektar was said to have a son called [[Lúthien (son of Telimektar)|Lúthien]].<ref>{{LT2|VI}}, outline '''16''', pp. 301-2</ref>
+
+The idea of Telimektar and Ingil (known to [[Men]] in later ages as Orion and Sirius respectively) guarding against Melko's eventual return was ultimately abandoned. In its place, the idea of [[Eärendel]] keeping the watch on the [[Door of Night]] through which Melko/Morgoth was thrust at the end of the [[War of Wrath]], was adopted instead.<ref>{{SM|2a}}, p. 75</ref>
+
+Of the name ''Telimektar'' remained only the mention of [[Telumehtar]] as a name of Orion in the [[The Lord of the Rings Appendices|Appendices to ''The Lord of the Rings'']].<ref>{{App|E1i}} (entry concerning the pronunciation of "H" in the Elvish languages)</ref>
+
+{{references|notes}}
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Qenya names]]
+[[Category:Valarindi]]
+[[de:Telimektar]]
+[[fi:Telimektar]]

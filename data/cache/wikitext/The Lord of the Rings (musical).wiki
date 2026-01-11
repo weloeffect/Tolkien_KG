@@ -1,0 +1,90 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{film infobox
+| name=The Lord of the Rings
+| image=The Lord of the Rings (musical)_LOGO.jpg
+| caption=The official logo for '''The Lord of the Rings Musical'''
+| director=Matthew Warchus
+| writer=Shaun McKenna and Matthew Warchus
+| basedon=''[[The Lord of the Rings]]''
+| producer=Kevin Wallace and [[Saul Zaentz]]
+| music=[[A.R. Rahman]] and [[Värttinä]]
+| released=[[2006]]: Toronto<br/>[[2007]]: London<br/>[[2023]]: Newbury<br/>[[2024]]: Chicago
+}}
+'''The Lord of the Rings Musical''' has been the largest, and most expensive, effort to adapt [[J.R.R. Tolkien]]'s ''[[The Lord of the Rings]]'' into a musical. It was first shown in Toronto but to mixed reviews. It closed early and re-opened in London with a new script although reviews were still far from perfect.
+
+==Productions==
+===Toronto===
+The Toronto musical was three-and-a-half hours long, had 65 actors, and was located at the  Princess of Wales Theatre in Toronto, Canada. The show cost approximately $26.9 million and ran from [[23 March|March 23]]rd (press opening), 2006 to [[3 September|September 3]]rd, 2006, closing at a loss.
+
+====Cast====
+*[[Gandalf]] - Brent Carver
+*[[Gollum]] - Michael Therriault
+*[[Galadriel]] - Rebecca Jackson Mendoza
+
+===London===
+After the musical moved to London, the stage was rebuilt, the script rewritten, and shortened to three hours. Previews began at the Theatre Royal, Drury Lane on [[9 May|May 9]]th, [[2007]]  and the premiere was on [[19 June|June 19]]th, 2007. The musical had the same creative team but had minor changes in the cast, with only 50 actors in this version. The reported total cost was approximately $49 million, making it one of the most expensive musicals outside of Las Vegas.
+[[File:The Lord of the Rings (musical).jpg|thumb|right|The London Production at Theatre Royal, Drury Lane]]
+====Cast====
+*[[Gandalf]] - Malcolm Storry
+*[[Frodo Baggins|Frodo]] - James Loye
+*[[Gollum]] - Michael Therriault
+*[[Aragorn]] - Jérôme Pradon
+*[[Galadriel]] - Laura Michelle Kelly
+*[[Samwise Gamgee|Sam]] - Peter Howe
+*[[Meriadoc Brandybuck|Merry]] - Richard Henders
+*[[Peregrin Took|Pippin]] - Owen Sharpe
+*[[Legolas]] - Michael Rouse
+*[[Gimli]] - Sévan Stephan
+*[[Boromir]] - Steven Miller
+*[[Arwen]] - Rosalie Craig
+*[[Saruman]] - Brian Protheroe
+*[[Elrond]] - Andrew Jarvis
+*[[Bilbo Baggins]] - Terence Frisch
+[[File:Official stage.jpg|thumb|right|250px|''The Lord of the Rings: The Official Stage Companion'']]
+
+===Newbury===
+In 2023 the musical was revived at the Watermill Theatre in [[Wikipedia:Newbury, Berkshire|Newbury]], West Berkshire. It ran for 12 weeks, from Tuesday [[25 July|25th July]] until Sunday [[15 October|15th October]] [[2023]]. Due to the small size of the theatre (seating just 220 people) the production was set across both the Watermill auditorium and its gardens ''"immersing audiences in the magical landscape of Tolkien featuring an ensemble cast and large-scale puppets"''.<ref>{{webcite|author=Luke Dillon|articleurl=https://www.westendtheatre.com/159251/news/the-lord-of-the-rings-musical-revived-at-the-watermill-theatre/|articlename=The Lord Of The Rings musical revived at The Watermill Theatre|dated=2 March 2023|website=westendtheatre.com|accessed=15 May 2024}}</ref>
+
+The production received favourable reviews, with particular praise for the casts performances.<ref>{{webcite|author=Mark Lawson|articleurl=https://amp.theguardian.com/stage/2023/aug/02/the-lord-of-the-rings-a-musical-tale-review-watermill-theatre-berkshire|articlename=The Lord of the Rings: A Musical Tale review – the greatest show on Middle-earth|dated=2 August 2023|website=The Guardian|accessed=15 May 2024}}</ref>
+
+====Cast====
+*[[Frodo Baggins|Frodo]] - Louis Maskell
+*[[Samwise Gamgee|Sam]] - Nuwan Hugh Perera
+*[[Galadriel]] - Georgia Louise
+*[[Gollum]] - Matthew Bugg
+*[[Gandalf]] - Peter Marinker
+
+===Chicago===
+In 2024, the Watermill production was announced to be making it's US premiere at the [[Wikipedia:Chicago Shakespeare Theater|Chicago Shakespeare Theater]], running from [[19 July]] to [[1 September]].<ref>{{webcite|author=Tom Millward|articleurl=https://www.whatsonstage.com/news/watermill-theatres-the-lord-of-the-rings-to-stage-american-premiere_1591244/|articlename=Watermill Theatre’s The Lord of the Rings to stage American premiere|dated=9 April 2024|website=Whatsonstage.com|accessed=16 May 2024}}</ref> It was also confirmed that the production will go on an international tour, with further dates and venues to be announced in June.<ref>{{webcite|author=Greg Evans|articlename=‘The Lord Of The Rings’ UK Musical Sets Chicago U.S. Premiere |articleurl=https://deadline.com/2024/04/lord-of-the-rings-musical-chicago-1235879454/ |dated=9 April 2024|website=Deadline.com|accessed=16 May 2024}}</ref>
+
+==Musical numbers==
+===Act I===
+*"Springle Ring" – Company
+*"Prologue" ('Lasto i lamath') – Arwen
+*"[[The Road Goes Ever On (song)|The Road Goes On]]" – Frodo, Sam, Pippin, Merry and Company
+*"Saruman" – Female Voices
+*"The Cat and the Moon" – Frodo, Sam, Pippin, Merry and Company
+*"Flight to the Ford" – Glorfindel and Female Voices
+*"The Song of Hope" – Arwen
+*"Star of Eärendil" – Arwen and Company
+*"Lament for Moria" – Gandalf and Gimli
+
+===Act II===
+*"The Golden Wood" – Company
+*"Lothlórien" – Legolas, Galadriel and Company
+*"Lothlórien" (Reprise) – Galadriel and Company
+*"The Siege of the City of Kings" – Female Voices
+*"Now and for Always" – Frodo and Sam
+*"Gollum/Sméagol" – Gollum/Sméagol
+
+===Act III===
+*"The Song of Hope" (Duet) – Aragorn and Arwen
+*"Wonder" – Galadriel
+*"The Final Battle" – Galadriel
+*"City of Kings" – Company
+*"Epilogue (Farewells)"
+*"Finale" – Company
+
+{{references}}
+[[Category:Stage adaptations]]
+{{title|italics}}

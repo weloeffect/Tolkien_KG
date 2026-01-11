@@ -1,0 +1,46 @@
+{{disambig-two|the Ring of Power|Quenya word and the tengwa|[[Vilya (word)]]}}
+{{object infobox
+
+| name=Vilya
+| image = J.R.R. Tolkien - Vilya.jpg
+| caption=Vilya by [[J.R.R. Tolkien]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈviʎa]}}
+| othernames=The Blue Ring, Ring of Air, Ring of Sapphire
+| location=[[Eregion]], [[Lindon]], [[Rivendell]]
+| owner=[[Celebrimbor]], [[Gil-galad]], [[Elrond]]
+| type=Ring
+| appearance=Ring of gold with a great blue sapphire 
+| creator=[[Celebrimbor]]
+| created=c. {{SA|1590}}
+| createdlocation=[[Eregion]]
+| destroyer=
+| destroyed=
+| destroyedlocation=
+| notablefor=
+}}
+
+'''Vilya''' was one of the [[Rings of Power]], specifically one of the "[[Three Rings]] for the Elven Kings under the sky".
+
+==Characteristics==
+Vilya was made of gold with a great blue<ref name="Havens">{{RK|Havens}}, p. 1028</ref> sapphire.<ref name="Rings">{{S|Rings}}</ref> It was also called the '''Ring of Sapphire''',<ref name="Rings" /> the '''Ring of Air'''<ref name="Rings" /><ref name="Concerning">{{UT|Concerning}}</ref> or the '''Blue Ring'''.<ref name="Concerning" /> Vilya was the most powerful of the three rings of the Elves<ref name="Havens" /> and like the other two had the power to prevent decay through the effect of time and to postpone the weariness of the world.<ref name="Rings" />
+
+==History==
+Around {{SA|1200}}, Sauron took on a fair form and went to the elven city of [[Eregion]] and pretended to be an emissary of the [[Valar]] called [[Annatar]]. [[Gil-galad]] did not allow Sauron or his emissaries to enter the elven Kingdom of [[Lindon]] and [[Galadriel]] scorned Sauron, but Sauron was accepted as an instructor by [[Celebrimbor]], the Lord of Eregion, and by the other elven smiths in Eregion and taught them how to forge rings of power. After the smiths of Eregion started to make the rings of power Sauron left Eregion around {{SA|1500}} and returned to [[Mordor]].
+
+By {{SA|1590}},<ref>{{App|SA}}, entry for the year ''c.'' 1590, p. 1083</ref> Celebrimbor had forged all Three Rings of the Elves alone, but with knowledge that he had gained from Annatar. As a result, none of the Three Rings were stained by the evil of Sauron. However, like all the Rings of the Elves, Vilya was still under Sauron's influence when he wielded [[The One Ring]], which held dominion over all the others.
+
+When Sauron forged the One Ring and put it on his finger around {{SA|1600}}<ref name="Second">{{App|SA}}, p. 1083</ref> Celebrimbor<ref>{{FR|Council}}, p. 253</ref> and the other Elves became aware of his plan to be the master of the wearers of the rings and took off their rings<ref name="Rings" /> and Celebrimbor revolted against Sauron.<ref name="Concerning" /> After Sauron became aware of the revolt of Celebrimbor, he prepared a war against the Elves to take the Rings of Power by force. When Sauron started his war agains the Elves in {{SA|1693}},<ref name="Second" /> Celebrimbor went to [[Lothlórien]] to discuss the situation with [[Galadriel]], who advised him to hide the rings and disperse them far from Eregion. At that time Galadriel received [[Nenya]] from Celebrimbor, while Vilya and [[Narya]] were sent by Celebrimbor to [[Gil-galad]] in [[Lindon]].<ref name="Concerning" />{{rp|237}} In {{SA|1697}},<ref name="Second" /> Sauron destroyed Eregion, captured and tortured Celebrimbor and had him killed after he only told him of the location of the Nine Rings and the Seven Rings, but did not tell him the location of the Three Rings of the Elves.<ref name="Concerning" /> Sauron was eventually defeated and driven out of Eriador in {{SA|1701}}.<ref name="Second" /> 
+
+After the defeat of Sauron, a [[White Council|Council]] was held in [[Imladris]], and the place was chosen to be the Elven stronghold of the East. Gil-Galad gave Vilya to [[Elrond]] and appointed him to be his vice-regent in Eriador.<ref name="Concerning" />{{rp|239}} Elrond hid Vilya and never used it openly as long as Sauron was in possession of the One Ring. However, the power of Vilya was always used to create mirth and to prevent things from being changed by the effect of time. For this reason at the end of the Third Age it was known to the Elves that the Ring of Sapphire was kept by Elrond in Rivendell.<ref name="Rings" />
+
+Upon Sauron's defeat and the destruction of the One Ring in {{TA|3019}},<ref>{{App|Great}}, entry for the year 3019, p. 1085</ref> Vilya lost its power and it went over the sea along with Elrond at the end of the Third Age.<ref name="Havens" />
+
+==Etymology==
+''[[Vilya (word)|vilya]]'' is a [[Quenya]] word for "air, sky".<ref name="Names">{{App|Letters}}, Note, ''The names of the letters'', p. 1123</ref> However, as Paul Strack notices, given how the names of the other Elven rings are formed, it could be the combination of [[root]] [[WIL]] + [[-ya]] (adjectival suffix).<ref>{{webcite|author=Paul Strack|articleurl=https://eldamo.org/content/words/word-1943029509.html|articlename=Q. ''Vilya'' pn.|website=Eldamo|accessed=29 April 2021}}</ref>
+
+==Other versions of the legendarium==
+In an early version of ''[[The Lord of the Rings]]'' Vilya was known as [[Menel]], the [[Quenya]] word for Heaven. <ref>excerpt from MS. Tolkien, 3/1/12. published in {{HM|RC}}, "The Grey Haven", p. 671</ref>{{references}}{{rings}}
+[[Category:Rings and jewels]]
+[[Category:Quenya adjectives]]
+[[Category:Quenya names]]
+[[fr:encyclo/artefacts/bijoux/anneaux/vilya]]

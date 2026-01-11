@@ -1,0 +1,14 @@
+{{puzzle infobox
+| title=Map of Middle-earth
+| image=Middle-earth Puzzles - Map of Middle-earth.jpg
+| artist=?
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=[[1997]]
+| pieces=1500
+| size=35 x 23 inches
+| ice=31501
+| edition=Unlimited
+}}
+'''MEP: Map of Middle-earth''' is a jigsaw puzzle in the ''[[Middle-earth Puzzles]]'' series, released in 1997 by [[Iron Crown Enterprises]]. This puzzle uses art originally created for the ''[[Middle-earth Collectible Card Game]]''.
+
+[[Category:Puzzles]]

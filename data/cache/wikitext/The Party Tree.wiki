@@ -1,0 +1,33 @@
+{{plant infobox
+| name=Party Tree
+| image=Inger Edelfeldt - A Long Expected Party.jpg
+| caption="A Long Expected Party" by [[Inger Edelfeldt]]
+| pronun=
+| othernames=
+| location=[[Party Field]] ([[The Shire]])
+| notablefor=
+| family=
+| appearance=
+}}
+
+The '''Party Tree''' was a tree in the center of the [[Party Field]] south of [[Bag End]].
+
+== History ==
+On preparation of the [[Bilbo's Farewell Party]], a pavilion was erected that was large enough to accommodate it and it stood at the head of the main table during the celebration with lanterns hanging from its branches. Bilbo stood underneath the Party Tree when he announced he would be leaving [[the Shire]].<ref>{{FR|I1}}</ref>
+
+By November of {{TA|3019|n}} the Party Tree had been cut down by [[Sharkey]] and his men and was lying on the field.<ref>{{RK|VI8}}</ref> After the [[Battle of Bywater|Scouring of the Shire]], Sam planted the silver nut from the [[Sam's garden box|wooden box]] given to him by [[Galadriel]]. In the spring of {{TA|3020|n}}, the sapling of a [[mallorn]] tree emerged; the [[Golden Tree]] was the only mallorn between the [[Misty Mountains|mountains]] and the [[Belegaer|Sea]], and people came from miles around to gaze upon it.<ref>{{RK|VI9}}</ref> The [[Hobbits]] of that region held holidays and celebrations around the Mallorn tree.<ref>{{App|D2}}</ref>
+
+==Inspiration==
+* The Party Tree may have been inspired by a willow hanging over the mill-pool at Sarehole, Warwickshire, England
+
+:{{quote|'They've cut it down!' cried Sam. 'They've cut down the Party Tree!' He pointed to where the tree had stood under which Bilbo had made his Farewell Speech. '''It was lying lopped and dead in the field'''. As if this was the last straw Sam burst into tears.|[[The Lord of the Rings]], [[The Scouring of the Shire]]}}
+
+:{{quote|One incident in particular remained in his [Tolkien's] memory: "There was a willow hanging over the mill-pool [at [[Sarehole]]] and I learned to climb it. It belonged to a butcher on the Stratford Road, I think. One day they cut it down. '''They didn’t do anything with it: the log just lay there. I never forgot that."'''|[[J.R.R. Tolkien: A Biography]]}}
+
+{{references}}
+
+[[Category:The Shire]]
+[[Category:Trees]]
+[[de:Festbaum]]
+[[fr:encyclo/biologie/flore/arbre de la fete]]
+[[fi:Juhlapuu]]

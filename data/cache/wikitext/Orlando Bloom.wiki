@@ -1,0 +1,37 @@
+{{actor
+| image = Orlando Bloom.jpg
+| name = Orlando Bloom
+| lifetime = [[13 January|January 13]], [[1977]]
+| played = [[Legolas]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]<br>''[[The Hobbit: The Desolation of Smaug]]''<br>''[[The Hobbit: The Battle of the Five Armies]]''
+| imdb = [https://www.imdb.com/name/nm0089217/ Profile]
+}}
+English actor '''Orlando Jonathan Blanchard Bloom''' (b. [[13 January|January 13]], [[1977]]) portrayed [[Legolas]] in [[The Lord of the Rings (film series)|''The Lord of the Rings'']] and [[The Hobbit (film series)|''The Hobbit'' film series]].
+
+==Quotes==
+{{quote|Legolas' moves are smooth and elegant, like a cat... it's very balletic. It's also bloody hard to do without falling over!|Orlando Bloom, E! Online Force of the Hobbit}}
+{{quote|(on being asked to audition for Legolas) "I thought: 'Definitely! Game on!' So I learned the scene and acted it on video tape, and, shortly after, got this incredible phone call saying they were offering me the role! It was like winning the lottery! Like having all your dreams fulfilled! It was amazing!|Orlando Bloom, ''[[The Lord of the Rings: Official Movie Guide]]''}}
+
+==Awards==
+* [[2002]] - '''[http://www.cinemaclips.com/PFCS.htm PFCS Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+* 2002 - '''[http://www.mtv.com/ MTV Movie Award]''', Breakthrough Male Performance, ''Peter Jackson's The Fellowship of the Ring''
+* 2002 - '''[http://www.empireonline.com/ Empire Award]''', Best Debut, ''Peter Jackson's The Fellowship of the Ring''
+* [[2003]] - '''[http://ofcs.rottentomatoes.com/ OFCS Award]''', Best Ensemble, ''[[The Lord of the Rings: The Two Towers]]'' 
+* 2003 - '''PFCS Award''', Best Acting Ensemble, ''Peter Jackson's The Two Towers''
+* [[2004]] - '''[http://www.bfca.org/ Critics' Choice Award]''', Best Acting Ensemble, ''[[The Lord of the Rings: The Return of the King]]''
+* 2004 - '''[http://www.nbrmp.org/ NBR Award]''', Best Acting by an Ensemble, ''Peter Jackson's The Return of the King''
+* 2004 - '''[http://www.sagawards.org/ SAG Award]''', Outstanding Performance by a Cast in a Motion Picture, ''Peter Jackson's The Return of the King''
+* [[2014]] - '''MTV Movie Award''', Best Fight, ''[[The Hobbit: The Desolation of Smaug]]''
+
+== External links ==
+* {{WP|Orlando Bloom}}
+
+{{DEFAULTSORT:Bloom, Orlando}}
+[[Category:Actors and actresses]]
+[[Category:British people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+[[Category:The Hobbit (film series) cast]]
+
+[[de:Orlando Bloom]]
+[[fi:Orlando Bloom]]

@@ -1,0 +1,40 @@
+{{mountain
+| image = John Howe - Zirak-zigil.jpg
+| name=Celebdil
+| location=above [[Moria|Khazad-dûm]], south of [[Caradhras]] and [[Fanuidhol]], on the border between [[Eriador]] and  [[Rhovanion]]
+| belongs=the [[Misty Mountains]]
+| description=
+| othernames=''Silvertine'' ([[Westron]]), ''[[Zirakzigil]]'' ([[Khuzdul]])
+| etymology=Celebdil: ''[[celeb]]'' - silver, ''[[dil]]'' - horn<br />[[Zirakzigil]]: ''[[zirak]]'' - spike, ''[[zigil]]'' - silver
+| events=[[Battle of the Peak|final struggle]] between [[Gandalf]] and [[Durin's Bane]]
+| references=
+| gallery=Celebdil
+}}
+'''Celebdil''', also known as '''Silvertine''' and '''Zirakzigil''', was one of the three peaks that stood above the [[Dwarves|Dwarven]] city of [[Moria|Khazad-dûm]]. The other two were [[Caradhras]] (''Redhorn'') and [[Fanuidhol]] (''Cloudyhead'').
+
+Celebdil was the southernmost of the [[Mountains of Moria]] and the [[Endless Stair]] led from the deepest halls of Khazad-dûm up to [[Durin's Tower]] on the peak of the mountain. There the [[Battle of the Peak]] between [[Gandalf]] and [[Durin's Bane]] took place.<ref name="White Rider">{{HM|TT}}, "[[The White Rider]]"</ref>
+
+==Etymology==
+''Celebdil'' is the [[Sindarin]] name of [[Khuzdul]] ''Zirakzigil'', translated as the mountain Silvertine. ''Celebdil'' contains ''[[celeb]]'' ("silver") and a derivative of the [[Sundocarmë|root]] [[TIL]].<ref name="S">{{S|Elements}}, entries ''celeb'' and ''til''</ref>
+
+''Silvertine'' contains ''tine'', "spike, sharp horn".<ref name="Nomen">{{HM|N}}, p. 775</ref>
+
+==Inspiration==
+Tolkien wrote to his son [[Michael Tolkien|Michael]] that on a trip to Switzerland in his youth he had regretted leaving a view of two mountains: the Jungfrau and "the ''Silberhorn'' sharp against dark blue: the ''Silvertine (Celebdil)'' of my dreams."<ref>{{L|306}}</ref>
+
+==Portrayal in adaptations==
+'''2002: ''[[The Lord of the Rings: The Two Towers|Peter Jackson's The Two Towers]]'':'''
+:Zirakzigil makes an appearance during Gandalf's fight with the Balrog.
+
+[[File:The Lord of the Rings Online - Celebdil.jpg|thumb|right|Celebdil and [[Durin's Tower]] as seen from the [[Mirrormere]] in''[[The Lord of the Rings Online]]'' ]]
+'''2008: ''[[The Lord of the Rings Online: Mines of Moria]]'':'''
+:Players are able to visit the cliffs of Zirakzigil, where the body of ''Durin's Bane'' now resides. Also, a large area of the mines is dubbed as '''Silvertine Lodes''' - due to being located below the Silvertine.
+
+{{references}}
+{{FellowshipRoute}}
+[[Category:Mountains]]
+[[Category:Sindarin locations]]
+
+[[de:Celebdil]]
+[[fi:Celebdil]]
+[[fr:encyclo:geographie:reliefs:monts brumeux:celebdil]]

@@ -1,0 +1,150 @@
+{{incomplete}}
+{{title}}
+{{episode infobox
+| name = Shadow and Flame
+| image =The Rings of Power (TV series) - Durin's Bane and Durin III.jpg
+| caption =
+| director = [[Charlotte Brändström]]
+| writer = [[Justin Doble]], [[J.D. Payne]], and [[Patrick McKay]]
+| screenplay =
+| basedon =
+| producer =
+| starring =
+| narrator =
+| cinematography =
+| editing =
+| music = [[Bear McCreary]]<br/>Main Title by [[Howard Shore]]
+| animator =
+| studio = [[Amazon Studios]]
+| distributor =
+| released = [[3 October]] [[2024]]
+| runtime = 73 minutes
+| country =
+| language =
+| budget =
+| gross =
+| website =
+| imdb_id = 27580497
+| previous = [[Doomed to Die]]
+| next = TBD
+}}
+
+{{Quote|Season Finale. The [[free peoples]] of [[Middle-earth]] struggle against the [[Sauron|forces]] of [[darkness]].|Official Synopsis, [[Amazon Studios]]}}
+
+'''Shadow and Flame''' is the sixteenth episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]''. It is the eighth episode of the second season and it was released on [[3 October|October 3]], [[2024]].
+
+==Synopsis==
+
+== Cast ==
+=== Credited ===
+:''In order of appearance'' (in episode credits)
+{| class="wikitable mw-collapsible"
+|- 
+! Actor !! Role
+|-
+| [[Owain Arthur]] || [[Durin IV|Prince Durin IV]]
+|-
+| [[Sophia Nomvete]] || [[Disa|Princess Disa]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| [[Ciarán Hinds]] || [[Dark Wizard]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Nori Brandyfoot]]
+|-
+| [[Trystan Gravelle]] || [[Ar-Pharazôn]]
+|-
+| [[Lloyd Owen]] || [[Elendil]]
+|-
+| [[Cynthia Addai-Robinson]] || [[Míriel]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Charlie Vickers]] || [[Sauron]]
+|-
+| [[Maxim Baldry]] || [[Isildur]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High King Gil-galad]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Peter Mullan]] || [[Durin III|King Durin III]]
+|-
+| [[Kevin Eldon]] || [[Narvi]]
+|-
+| [[Gavi Singh Chera]] || [[Merimac]]
+|-
+| [[Tanya Moodie]] || [[Gundabale Earthauler]]
+|-
+| [[Ema Horvath]] || [[Eärien]]
+|-
+| [[Will Keen]] || [[Belzagar|Lord Belzagar]]
+|-
+| [[Nia Towle]] || [[Estrid]]
+|-
+| [[Leon Wadham]] || [[Kemen (The Rings of Power)|Kemen]]
+|-
+| [[Sam Hazeldine]] || [[Adar (The Rings of Power)|Adar]]
+|-
+| [[Rory Kinnear]] || [[Tom Bombadil]]
+|-
+| [[Theo Spofforth]] || [[Gaudrim|Gaudrim Scout]]
+|-
+| [[Yasen Atour|Zates Atour]] || [[Brânk]]
+|-
+| [[Peter Landi]] || [[Marmadas]]
+|-
+| [[William Chubb]] || [[High Priest]]
+|-
+| [[Omar Ibrahim]] || [[Númenóreans|Númenor Guard]]
+|-
+| [[Anthony Skrimshire]] || [[Orcs|Leering Orc Archer]]
+|-
+| [[John Macdonald]] || [[Orcs|Other Orc Archer]]
+|-
+| [[Anton Simpson-Tidy]] || [[Elves of Eregion|Eregion Elf Soldier #2]]
+|-
+| [[Billy Mansell]] || [[Orcs|Orc Captor]]
+|-
+| [[Robert Strange]] || [[Glûg]]
+|-
+| [[Rupert Fawcett]] || [[Orcs|Distressed Orc]]
+|-
+| [[Gabriel Akuwudike]] || [[Hagen]]
+|-
+| [[Murray McArthur]] || [[Ammred]]
+|-
+| [[Thomas Gilbey]] || [[Drúv]]
+|-
+| [[Jonny James]] || [[Orcs|Other Orc]]
+|-
+| [[Stuart Bowman]] || [[Barduk]]
+|-
+| [[Charlie Rix]] || [[Vorohil]]
+|-
+| [[Zubin Varla]]<br>[[Arkie Reece]] || Additional Voice Work
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* Scene 2 - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its [[Appendices]], [[Appendix A|A]] through [[Appendix F|F]], where the intrepid traveler may journey to discover even farther horizons."
+
+== Production ==
+
+== Differences ==
+
+== Reception ==
+
+{{references}}
+
+{{rop-episodes}}
+
+[[Category:The Rings of Power (TV series) episodes|16]]

@@ -1,0 +1,62 @@
+{{disambig-two|the excerpt sung by [[Aragorn]]|full lay|[[Lay of Leithian]]}}
+{{Unnamed}}
+{{Poem infobox
+| title="The leaves were long, the grass was green,"
+| other names=Light as Leaf on Lindentree<br>As Light as Leaf on Lindentree<br>Light as Leaf on Linden-tree<br>As Light as Leaf on Linden-tree<br>Light as Leaf on Linden<br>Tinúviel
+| written=
+| revised=
+| published=''[[The Fellowship of the Ring]]'',<br>''[[The Lays of Beleriand]]'',<br>''[[The Return of the Shadow]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Beren]] and [[Lúthien]]
+}}
+
+{{Quote|'I will tell you the tale of Tinúviel,' said Strider, 'in brief – for it is a long tale of which the end is not known; and there are none now, except Elrond, that remember it aright as it was told of old.'|{{FR|Knife}}}}
+
+"'''The leaves were long, the grass was green,'''" is the first line of an excerpt from the [[Lay of Leithian|Lay of Lúthien]],<ref name=name>{{App|Tale}}</ref> a lengthy sad tale made in the ''[[ann-thennath]]'' [[Elvish]] verse mode telling the story of [[Beren]], [[Lúthien]], and the [[Quest for the Silmaril]].<ref name=excerpt>{{FR|Knife}}</ref>
+
+== First stanza ==
+[[File:J.R.R. Tolkien - Song of Beren and Lúthien.mp3|thumb|right|[[J.R.R. Tolkien]] reads a passage in which [[Aragorn]] recites the Song of Beren and Lúthien]]
+<poem style="font-style:italic; margin-left:20px;">
+:The leaves were long, the grass was green,
+::The hemlock-umbels tall and fair,
+:And in the glade a light was seen
+::Of stars in shadow shimmering.
+:Tinúviel was dancing there
+::To music of a pipe unseen,
+:And light of stars was in her hair,
+::And in her raiment glimmering.</poem>
+
+== History ==
+Sometime between the years {{FA|503}}<ref name=first>{{webcite|author=Mark Fisher|articleurl=https://www.glyphweb.com/arda/l/layofleithian.html|articlename=Lay of Leithian (note 1)|dated=23 January 2022|website=EoA|accessed=3 March 2025}}</ref> and {{FA|538}}<ref name=second> {{webcite|author=Mark Fisher|articleurl=https://www.glyphweb.com/arda/l/layofluthien.html|articlename=Lay of Lúthien (note 1)|dated=25 December 2022|website=EoA|accessed=3 March 2025}}</ref> of the late [[First Age]], the ''Lay of Lúthien'' was likely among many tales and songs that were made in the [[Havens of Sirion]].<ref name=second/> It was said to be the second longest lay; only being beaten in length by [[Dírhaval]]'s ''[[Narn i Chîn Húrin]]''.<ref name=long>{{LR|Quenta}}, p. 296</ref>
+
+By the time of the late [[Third Age]], the ending of the lay was forgotten and only [[Elrond]] in [[Rivendell]] could remember it "as it was told of old".<ref name=excerpt/>
+
+When [[Aragorn]] saw [[Arwen]] in [[Rivendell]] for the first time, he sang an excerpt from the Lay of Lúthien telling of Beren and Lúthien's first meeting in the [[Forest of Neldoreth]].<ref name=name/>
+
+In the year {{TA|3018}}, Aragorn sang the same excerpt on [[Weathertop]] in the [[Weather Hills]] to distract [[Frodo Baggins]], [[Meriadoc Brandybuck]], [[Peregrin Took]], and [[Samwise Gamgee]] from their fears. Afterwards, Aragorn summarized the lay and explained its history and form to the [[Hobbits]]. He also commented that his [[Westron]]-translated excerpt was "but a rough echo of" the original since the lay was difficult to translate.<ref name=excerpt/>
+
+== Other versions of the legendarium ==
+In [[June]] of [[1925]], a poem that [[J.R.R. Tolkien]] wrote that year,<ref name=canto>{{LB|C1}}, Commentary on Canto I, p. 159 (footnote)</ref> '''Light as Leaf on Lindentree''', appeared in a volume of ''The Gryphon Magazine'', a Leeds University publication.<ref name=poem>''[[The Gryphon, Vol.4 No.3|The Gryphon]]'', New Series: Vol. VI, no. 6, p. 217</ref> The poem was revised and incorporated into the second version of the ''[[Narn i Chîn Húrin]]'' where one of [[Morwen]]'s servants sang the poem as they entered [[Doriath]] with [[Túrin]]. In this version, Tolkien gave the poem many variations of names including '''As Light as Leaf on Lindentree''', '''Light as Leaf on Linden-tree''', '''As Light as Leaf on Linden-tree''', and '''Light as Leaf on Linden'''. This scene in [[The Lay of the Children of Húrin]] was deduced by [[Christopher Tolkien]] as being the predecessor of the scene of Aragorn singing the excerpt "before the attack of the Ringwraiths" on Weathertop.<ref name=early>{{LB|1b}}, pp. 108-10</ref>
+
+Tolkien later reworked the poem into Canto III of ''[[The Lay of Leithian]]''.<ref name=luthien>{{LB|C3}}, Commentary on Canto III, pp. 181-2</ref>
+
+While writing ''[[The Lord of the Rings]]'', Tolkien made another variation of the poem's name, '''Light on Linden Tree''', and revised it until it came close to the published version.<ref name=lotr>{{RS|Attack}}, pp. 182-7</ref>
+
+In an early version of the Rivendell chapters, [[Bilbo Baggins]] was to sing '''Tinúviel''', an excerpt from the Lay of Lúthien which may possibly have been the same as Light as Leaf on Lindentree. Tolkien decided against this, having Bilbo sing an early version of the ''[[Song of Eärendil|Eärendillinwë]]'' instead.<ref name=bilbo>{{RS|4XXIIIN}}, p. 412 (note 6)</ref>
+
+== Analysis ==
+The excerpt consists of nine stanzas of eight lines each, rhymed ''ABAC BABC''. The C rhyme in each stanza is triple: the sixth syllable of the fourth line rhymes with the sixth syllable of the eighth line, and the seventh and eighth syllables of the fourth line are identical (or nearly) to those of the eighth. The poem's metre is [[Wikipedia:Iambic tetrameter|iambic tetrameter]] (four pairs of unstressed and stressed syllables). 
+
+Following Aragorn's words, [[Patrick Wynne]] and [[Carl F. Hostetter]] explain that the English metre tries to imitate what the [[Sindarin]] metre (''[[ann-thennath]]'') would have been in the original poem.
+
+The song would be an extract translated from the ''[[Lay of Leithian]]'', specifically [[Lay of Leithian Canto III|Canto III]].<ref>[[Tolkien's Legendarium|''Tolkien's Legendarium: Essays on'' The History of Middle-earth]]: [[Patrick Wynne]] and [[Carl F. Hostetter]], "Three Elvish Verse Modes: ''Ann-thennath'', ''Minlamad thent'' / ''estent'', and ''Linnod''", pp. 113-120</ref>
+
+== Portrayal in adaptations ==
+'''[[2001]]: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:In the [[The Lord of the Rings: The Fellowship of the Ring|first film]] of [[Peter Jackson]]'s ''[[The Lord of the Rings film trilogy|The Lord of the Rings]]'' film trilogy, after passing through the [[Midgewater Marshes]], Aragorn sings a song in Elvish while keeping watch during the night. He tells Frodo that it is "the lay of [[Lúthien]], an Elf-maid who gave her love to [[Beren]], a mortal" man.
+
+{{References}}
+
+{{poems}}
+
+[[Category:Poems in The Fellowship of the Ring]]
+[[Category:Songs]]

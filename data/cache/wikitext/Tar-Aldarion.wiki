@@ -1,0 +1,131 @@
+{{Disambig-two|King of [[Númenor]]|King of [[Gondor]]|[[Anardil (King of Gondor)]]}}{{infobox character
+| people=[[Númenóreans|Númenórean]]
+| name=Tar-Aldarion
+| image=Peter Xavier Price - He Knew Her For Erendis.jpg
+| caption="He Knew Her For Erendis" by [[:Category:Images by Peter Xavier Price|Peter Xavier Price]]
+| pronun=[[Quenya|Q]], {{IPA|[ˌtaralˈdari.on]}}
+| othernames=''Anardil'' ([[Quenya|Q]]),<ref name=Tar-Aldarion>{{UT|Kings}}, entry VI ''Tar-Aldarion''</ref> ''Anardilya''<ref>{{UT|Wife}}, seventh paragraph</ref>
+| titles=[[King of Númenor]]<br/>"Great Captain"<br/>Lord of the Ships and Havens of Númenor<br/>Master of the Forests
+| position=Mariner
+| location=[[Númenor]]
+| affiliation=[[Guild of Venturers]]
+| language=[[Adûnaic]], [[Quenya]] and [[Sindarin]]
+| birth=April, {{SA|700}}<ref name=Tar-Aldarion/>
+| birthlocation=[[Forostar]]
+| rule={{SA|883}} - {{SA|1075|n}} (192 years)<ref name=Tar-Aldarion/>
+| death={{SA|1098}}<ref name=Tar-Aldarion/>
+| deathlocation=
+| age=398
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Tar-Meneldur]] and [[Almarian]]<ref name=family>{{UT|Wife}}, fourth paragraph</ref>
+| siblings=[[Ailinel]] and [[Almiel]]<ref name=family/>
+| spouse=[[Erendis]]
+| children=[[Tar-Ancalimë|Ancalimë]]<ref name=Tar-Aldarion/>
+| gender=Male
+| height=
+| hair=Golden
+| eyes=Blue
+| clothing=
+| weapons=
+| steed=[[Eämbar]] (ship)<br/>[[Palarran]] (ship)<br/>[[Hirilondë]] (ship)
+}}
+<center>{{Quote|Aldarion, for so he is called in all tales, grew swiftly to a man of great stature, strong and vigorous in mind and body, golden-haired as his mother, ready to mirth and generous, but prouder than his father and ever more bent on his own will.|''[[Unfinished Tales]]'', [[Aldarion and Erendis: The Mariner's Wife]]}}</center>
+
+'''Tar-Aldarion''' was the sixth King of [[Númenor]],<ref name=Tar-Aldarion/> whose major accomplishments were his expansion of Númenor's maritime traditions and his [[Middle-earth]] explorations.  He was married to [[Erendis]], a [[Númenóreans|Númenórean]] woman of lesser status than Aldarion himself, and therefore she had a shorter life-span. Aldarion's love for the sea ultimately caused a rift between the couple. The tale of their marriage and estrangement survived the [[Downfall of Númenor]] as "Aldarion and Erendis" or "The Mariner's Wife".<ref name="Wife">{{UT|Wife}}</ref>
+
+==History==
+=== Early life ===
+Aldarion was born during the month of April in [[SA 700]] in [[Forostar]], [[Númenor]]. He was the son of [[Tar-Meneldur]] and his wife [[Almarian]].
+
+In his youth, Aldarion had a love for the the sea that became a subject of disagreement with his father. However, despite this altercation with his father, Aldarion had a better relationship with the rest of his family, particularly his grandfather, [[Vëantur]]. For it was [[Vëantur]] who took him out in the year {{SA|725}} on his first voyage on the ship [[Númerrámar]], or the "West-wings",<ref name="Wife"/>  towards [[Middle-earth]]. It was in this journey that the bonds of friendship with [[Círdan]] and [[Gil-galad|Ereinion Gil-galad]] were established.
+
+Before long, Aldarion became an accomplished mariner, leading his crew in long voyages to Middle-earth, mostly against the wishes of his family. Eventually, Aldarion even founded the [[Guild of Venturers]], whose quarters were on the ship [[Eämbar]], or "Sea-Home". In the 100th year of his life Aldarion was proclaimed heir to the throne and at the celebration of this event he met Erendis, daughter of [[Beregar]]. Though she seemed beautiful to him, Aldarion did not pursue her until later on, as he continued to follow the mariner life he much loved.
+
+===The Great Mariner===
+He made several journeys to Middle-earth and established a friendship with [[Gil-galad]] in [[Lindon]].<ref name="Wife"/> A visionary man, he saw the threat coming from [[Sauron]] upon the races of [[Elves]] and [[Men]] alike, so he built a vital Númenórean port in Middle-earth, at the mouth of the river [[Gwathló]]. It was named [[Vinyalondë]] and parts of it survived into the [[Third Age]] as the port of [[Lond Daer]].<ref name="Lond Daer">{{UT|6d}}</ref> Aldarion was a prudent man who was concerned about the future. He always had trees planted where trees had been felled in Númenor and had new trees planted where there was suitable space in Númenor.<ref name="Wife"/>
+
+At his command, numerous ships were built, among which three were mentioned more often:
+
+* [[Eämbar]], the "Sea-Home", headquarters for the Guild of Venturers
+* [[Palarran]], the "Far Wanderer", which served him in many voyages
+* [[Hirilondë]], the "Haven-finder", largest in Númenor
+
+However, the first ship he had sailed on belonged to [[Vëantur]] and was called [[Númerrámar]], the "West-wings".
+
+Around that time, the [[Drúedain]] who were living in Númenor became uneasy when Tar-Aldarion started his great travels and urged him not to go, foreseeing the mischief to come. They did not succeed and one after another they took ships towards Middle-earth.<ref>{{UT|Druedain}}</ref> Indeed under his reign the deforesting of [[Enedwaith]] and [[Minhiriath]] began.<ref name="Lond Daer"/>
+
+Aldarion made several voyages to Middle-earth:
+
+* his first voyage from {{SA|725}} to {{SA|727}}<ref name=Chronology>{{UT|4a}}, ''Chronology''</ref> with his grandfather Vëantur on the Númerrámar to the [[Grey Havens]], [[Lindon]] and the west of [[Eriador]] during which he established a friendship with [[Círdan]] and King [[Gil-galad]] of Lindon.<ref name="Wife"/>
+* his three year voyage from {{SA|730}} to {{SA|733}} on the Númerrámar to Lindon<ref name="Wife"/>
+* his four year voyage from {{SA|735}} to {{SA|739}} during which he explored the coasts southwards of the Grey Havens, past the mouths of the rivers [[Baranduin]], [[Gwathló]] and [[isen]], round the cape of [[Ras Morthil]] to the Bay of [[Belfalas]] and the mountains of the country of Amroth<ref name="Wife"/>
+* his voyages down the coasts of Middle-earth during which he wanted to obtain timber for the building of ships and he established the haven of [[Vinyalondë]] at the mouth of the river Gwathló<ref name="Wife"/> after he had founded the Guild of Venturers in {{SA|750}} and after his father had restricted the number of trees that were allowed to be felled for the building of ships and before {{SA|800}}<ref name="Wife"/>
+* his seven year voyage from {{SA|806}} to {{SA|813}}<ref name=Chronology/> when he brought back silver and gold ore<ref name="Wife"/> 
+* his first voyage with the Palarran from {{SA|816}} to {{SA|820}}<ref name=Chronology/> when he brought back gifts for his mother and the ladies of her house and a diamond for Erendis<ref name="Wife"/>
+* his voyage with seven ships from {{SA|824}} to {{SA|829}}<ref name=Chronology/> after which he returned to Númenor with nine ships with a cargo of timber from the forests of the coasts of Middle-earth after having built two ships in Vinyalondë<ref name="Wife"/>
+* his fourteen year voyage from {{SA|829}} to {{SA|843}}<ref name=Chronology/> with three ships after his father had closed the shipyards of Rómenna and had forbidden the felling of trees for shipbuilding in Númenor when he sailed first to Vinyalondë to repair his ships and then southwards along the coasts and scarcely escaped shipwreck in the Harad on his return northwards and found Vinyalondë overthrown by storm floods and plundered by hostile men<ref name="Wife"/>
+* his voyage after his betrothal from {{SA|863}} to {{SA|869}}<ref name=Chronology/> with three ships when he discovered that the haven of Vinyalondë had been totally ruined by storm floods, that Men near the coasts were growing afraid of the Númenóreans or had become openly hostile and he heard rumours that a lord in Middle-earth hated the Númenóreans and during which he stayed a while at the Grey Havens<ref name="Wife"/>
+* his voyage with the Hirilondë from {{SA|877}} to {{SA|882}}<ref name=Chronology/> when he brought back a letter from King Gil-galad for his father, King Tar-Meneldur, that a servant of [[Morgoth]] was rising in the East and asked for troops from Númenor to help defend Eridador against an expected assault<ref name="Wife"/>
+* his often voyages to Middle-earth during the eighteen years after he received the sceptre in {{SA|883}} where he travelled much on land and sea and went up the river Gwathló and met Galadriel at Tharbad, with his first departure in the year {{SA|883}} or in the next year and his last voyage about the year {{SA|985}}<ref name=Further>{{UT|Wife}}, ''The Further Course of the Narrative''</ref>
+
+Though Númenóreans were much more resistant to disease than normal Men, some of the Númenórean crews that participated in the first long voyages of exploration to the far south and east of Lindon became sick or acquired diseases that were common in the lands that they went to. Many in Númenor feared that the Venturers or explorers could bring back disease. These fears were  one of the chief reasons why Tar-Meneldur opposed the longer voyages of Aldarion, and were the reason for the coolness between them. However, few of the explorers died abroad, and those who returned to Numenor alive recovered fully soon and their diseases did not spread out.<ref>{{NM|Foot}}, XI Lives of the Númenóreans, fn5</ref>
+
+Though not specifically dated, but before Aldarion became King and after he became a great ship-builder who sailed his ships far down into the Harad, these achievements became known to Sauron. They and news that Elves had established the strong realm of [[Eregion]] and built the city of [[Ost-in-Edhil]] that increased Sauron's fears of the coming of the Númenóreans to Lindon and the coasts further south and of their friendship with [[Gil-galad]] were the reason why Sauron left Eriador alone for a while, and chose the land of [[Mordor]], as it was afterwards called, as a stronghold to counter the threat of the Númenórean landings in Middle-earth.<ref>{{UT|Concerning}}</ref>{{rp|311}}
+
+===Aldarion and Erendis===
+Even before they were wed, Aldarion's love for the sea would prove to be Erendis' rival. In their conversations it is often stated that, for Erendis' part, Lady [[Uinen]] was her foe, while Aldarion's was the Vala [[Oromë]], referring to his wife's love for the forests and all growing things on the Island of Númenor. Such opposing characters led to the breaking of their marriage, one important factor in their separation being Aldarion's voyages, which kept him away from home for long years. Though in the end, as it is revealed in the [[Gil-galad's letter|letter sent by Gil-galad]] and read by King Meneldur, Aldarion was right to pursue his explorations, Erendis could not be convinced to renounce her pride and reconcile with him.<ref name="Wife"/>
+
+===Succession===
+His only child was a daughter, [[Tar-Ancalimë]], so he changed the [[Law of Succession in Númenor|Law of Succession]], replacing the principle of agnatic primogeniture with that of absolute cognatic primogeniture and she became the first ruling [[Queen of Númenor]] in {{SA|1075}}, when Tar-Aldarion abdicated.<ref name="Wife"/> He died in {{SA|1098}} at the age of 398.<ref name=Tar-Aldarion/>
+
+==Etymology==
+{{Pronounce|Aldarion.mp3|Ardamir}}
+''Aldarion'' is a [[Quenya]] name. Its meaning is not glossed, but Paul Strack suggests it means "Son of Trees" and is a compound of  ''[[alda]]r'' ("trees") and the patronymic suffix ''[[-ion]]'' ("-son").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-822173433.html|articlename=Q. ''Aldarion'' m.|website=Eldamo|accessed=10 April 2022}}</ref> Although his right name was ''Anardil'', he was early known by the name Aldarion, because he was interested in trees and planted great woods as a source of timber for the shipyards.<ref name=Tar-Aldarion/> Like all the rulers of Númenor who took their royal names in Quenya, Aldarion added the prefix ''tar-'' ("high") to his name when he received the [[Sceptre of Númenor|Sceptre]].<ref>{{UT|Kings}}, first paragraph and entry I to XXV</ref>
+
+His right name ''Anardil'' is a Quenya name. Its meaning is not glossed, but Paul Strack suggests it means "Lover of the Sun" and is a compound of ''[[anar]]'' ("sun") and ''[[-ndil|-(n)dil]]'' ("-lover", "-friend").<ref>{{webcite|author=Paul Strack|articleurl=https://www.eldamo.org/content/words/word-411053215.html|articlename=Q. ''Anardil'' m.|website=Eldamo|accessed=10 April 2022}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | ELE | | | | | | VEA | | | | | | |ELE=[[Tar-Elendil]]<br/><small>''{{SA|350|n}} - {{SA|751|n}}''</small>|VEA=[[Vëantur]]<br/><small>''b. {{SA|451|n}}''</small>}}
+{{familytree | | | | | |,|-|-|-|+|-|-|-|.| | | |!| | | | | | | |}}
+{{familytree | ELA |y| SIL | | ISI | | MEN |y| ALM | | | | | | |ELA=[[Elatan]]<br/><small>''unknown''</small>|SIL=[[Silmariën]]<br/><small>''b. {{SA|521|n}}''</small>|ISI=[[Isilmë]]<br/><small>''b. {{SA|532|n}}''</small>|MEN=[[Tar-Meneldur]]<br/><small>''{{SA|543|n}} - {{SA|942|n}}''</small>|ALM=[[Almarian]]<br/><small>''unknown''</small>}}
+{{familytree | | | |!| | | | | | | |,|-|-|-|+|-|-|-|-|-|-|-|.| |}}
+{{familytree | | | VAL | | ERE |y| ALD | | AIL |y| ORC | | ALM |VAL=[[Valandil (Lord of Andúnië)|Valandil]]<br/><small>''b. {{SA|630|n}}''</small>|ERE=[[Erendis]]<br/><small>''{{SA|771|n}} - {{SA|985|n}}''</small>|ALD='''TAR-ALDARION'''<br/><small>''{{SA|700|n}} - {{SA|1098|n}}''</small>|AIL=[[Ailinel]]<br/><small>''b. {{SA|712|n}}''</small>|ORC=[[Orchaldor]]<br/><small>''unknown''</small>|ALM=[[Almiel]]<br/><small>''b. {{SA|729|n}}''</small>}}
+{{familytree | | | |:| | | | | |!| | | | | | | |!| | | | | | | |}}
+{{familytree | | | AND | | | | ANC |y| HAL | | SOR | | | | | | |AND=[[Lords of Andúnië|''Lords of<br/>Andúnië'']]|ANC=[[Tar-Ancalimë]]<br/><small>''{{SA|873|n}} - {{SA|1285|n}}''</small>|HAL=[[Hallacar]]<br/><small>''{{SA|852|n}} - {{SA|1211|n}}''</small>|SOR=[[Soronto]]<br/><small>''b. {{SA|799|n}}''</small>}}
+{{familytree | | | | | | | | | | | |!| | | | | | | | | | | | | |}}
+{{familytree | | | | | | | | | | | ANA | | | | | | | | | | | | |ANA=[[Tar-Anárion]]<br/><small>''{{SA|1003|n}} - {{SA|1404|n}}''</small>}}
+{{familytree/end}}
+
+{{References}}
+
+==See also==
+*[[King of Númenor]]
+
+{{seq-start}}
+{{seq-head
+| race=numenorean
+| house=[[House of Elros]]
+| born={{SA|700}}
+| died={{SA|1098}}
+}}
+{{seq
+| prev=[[Tar-Meneldur]]
+| list=6th [[King of Númenor]]
+| dates={{SA|883}} - {{SA|1075|n}}
+| next=[[Tar-Ancalimë]]
+}}
+{{seq-end}}
+
+{{numenorkings}}
+{{numenor}}
+{{DEFAULTSORT:TarAldarion}}
+[[Category:Mariners]]
+[[Category:House of Elros]]
+[[Category:Rulers of Númenor]]
+[[Category:Second Age characters]]
+[[Category:Númenóreans]]
+[[de:Tar-Aldarion]]
+[[fi:Tar-Aldarion]]
+[[fr:/encyclo/personnages/hommes/2a/numenoreens/tar-aldarion]]

@@ -1,0 +1,30 @@
+{{scene
+|name=The Shire
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Hobbiton.jpg
+|number=2 (theatrical edition)<br>
+        3 (extended edition)
+|duration=4:19 (theatrical edition)<br>
+          5:04 (extended edition)
+|event=Gandalf arrives in [[Hobbiton]]
+|characters=[[Frodo Baggins|Frodo]], [[Gandalf]], [[Bilbo Baggins|Bilbo]] (voiceover)
+|previous=[[Concerning Hobbits (scene)|Concerning Hobbits]]
+|next=[[Very Old Friends]]
+}}
+'''The Shire''' is the second scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the third scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]]. This scene was extended in the latter edition.
+
+==Synopsis==
+Gandalf enters the [[Shire]], singing the lyrics to "[[The Road Goes Ever On (song)|The Road Goes Ever On]]".  He is ambushed by [[Frodo]], who has been excitedly waiting for Gandalf to arrive. Gandalf makes his way further into the Shire, going to [[Hobbiton]]. Frodo informs Gandalf of recent events, such as Bilbo's troubling behaviors.
+
+In the extended edition, Bilbo has a brief panic attack when he thinks he has lost the [[Ring]], only to discover it is in his pocket. Bilbo's narration from the previous scene also completes.
+
+==Differences==
+The scene is largely invented for the movie, but shows some inspirations from the text.
+
+*The song "The road goes ever on and on" is in fact a composition of Bilbo's, though Gandalf could possibly have heard it.
+*Frodo is not shown to meet Gandalf. His first proper appearance in the books is at the [[Farewell Party]].
+*Bilbo is not shown as having lost the ring, but the scene is consistent with his monologue in Chapter 1 regarding how he feels about the Ring.
+*Gandalf does not show off any fireworks before the party.
+
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|03]]

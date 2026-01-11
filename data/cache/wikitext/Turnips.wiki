@@ -1,0 +1,15 @@
+{{plant infobox
+|name=Turnips
+|image=Tales of the Shire - Turnip.png
+|caption=A turnip from ''[[Tales of the Shire: A "The Lord of the Rings" Game]]''
+|pronun=
+|othernames=
+|location=[[The Shire]]
+|notablefor=
+|family=''Brassicaceae''
+|appearance=Low-growing plant with large while bulbous roots
+}}
+'''Turnips''' were root vegetables that seem to have formed part of the diet of the [[Hobbits]] of [[the Shire]], well known to [[Samwise Gamgee]].<ref>{{TT|IV4}}</ref>
+
+{{References}}
+[[Category:Plants]]

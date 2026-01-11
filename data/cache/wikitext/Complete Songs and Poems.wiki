@@ -1,0 +1,104 @@
+{{album
+| image = Complete Songs and Poems.jpg
+| title=Complete Songs and Poems
+| type=Compilation album
+| artist=[[Tolkien Ensemble]]
+| released=[[2006]]
+| recorded=
+| genre=Classical
+| length=
+| language=
+| label=Membran
+}}
+'''''Complete Songs & Poems''''' is a compilation album by the [[Tolkien Ensemble]]. It features all 69 songs which had been released on their 4 previous albums. The collection also includes a 112-page booklet.
+
+==CD 1==
+# "The Old Walking Song (I)" (Caspar Reiff)
+# "Verse of the Rings (I)" (Caspar Reiff)
+# "The Old Walking Song(II)" (Caspar Reiff)
+# "A Walking Song (I)" (Peter Hall)
+# "Elven Hymn to Elbereth Gilthoniel (I)" (Caspar Reiff)
+# "A Drinking Song" (Peter Hall)
+# "The Bath Song" (Caspar Reiff, Peter Hall)
+# "Farewell Song of Merry and Pippin" (Caspar Reiff)
+# "Song in the Woods" (Peter Hall)
+# "Tom Bombadil's Song" (Peter Hall)
+# "Song to Goldberry" (Caspar Reiff, Peter Hall)
+# "Tom Bombadil's Song (II)" (Peter Hall)
+# "Tom Bombadil's Song (III)" (Peter Hall)
+# "Ho! Tom Bombadil (I)" (Peter Hall)
+# "Wight's Chant" (Peter Hall)
+# "Ho! Tom Bombadil (II)" (Peter Hall)
+# "Tom Bombadil's Song (IV)" (Caspar Reiff)
+# "There is an inn, a merry old inn..." (Caspar Reiff)
+# "The Riddle of Strider (I)" (Caspar Reiff)
+# "The Fall of Gil-Galad" (Caspar Reiff)
+# "Song of Beren and Luthien" (Caspar Reiff)
+
+==CD 2==
+
+# "Sam's Rhyme of the Troll" (Peter Hall)
+# "Song of Eärendil" (Peter Hall)
+# "Elven Hymn to Elbereth Gilthoniel" (Caspar Reiff)
+# "Boromir's Riddle" (Caspar Reiff)
+# "The Riddle of Strider (II)" (Caspar Reiff)
+# "Verse of the Rings (II)" (Caspar Reiff)
+# "Warning of Winter" (Caspar Reiff)
+# "Bilbo's Song" (Caspar Reiff)
+# "Song of Durin" (Peter Hall)
+# "Song of Nimrodel" (Caspar Reiff)
+# "Frodo's Lament for Gandalf" (Peter Hall)
+# "Galadriel's Song of Eldamar(I)" (Caspar Reiff)
+# "Song of the Elves beyond the Sea / Galadriel's Song of Eldamar(II)" (Caspar Reiff)
+# "Song of the Elves beyond the Sea / Galadriel's Song of Eldamar(II) Translation" (Caspar Reiff)
+
+==CD 3==
+
+# "Lament for Boromir" (Caspar Reiff)
+# "Song of Gondor" (Caspar Reiff)
+# "The Long List of the Ents(I)" (Peter Hall)
+# "Treebeard's Song" (Caspar Reiff)
+# "The Ent and the Entwife" (Caspar Reiff)
+# "Bregalad's Song" (Caspar Reiff)
+# "The Ent's Marching Song" (Peter Hall)
+# "Galadriel's Messages" (Caspar Reiff)
+# "Lament of the Rohirrim" (Caspar Reiff)
+# "Gandalf's Song of Lórien" (Caspar Reiff)
+# "Call to Arms Rohirrim" (Caspar Reiff)
+# "Gandalf's Riddle to the Ents" (Caspar Reiff)
+# "The Long List of the Ents(II)" (Peter Hall)
+# "A Rhyme of Lore" (Caspar Reiff)
+# "Gollums Song/ Riddle" (Peter Hall)
+# "Oliphaunt" (Peter Hall)
+# "Sam's invication of Elven Hymn to Elbereth Gilthoniel" (Peter Hall)
+
+==CD 4==
+
+# "Malbeth the Seer's Words" (Caspar Reiff)
+# "Lament for Théoden" (Caspar Reiff)
+# "Théoden's Battle Cry" (Caspar Reiff)
+# "At Théoden's Death" (Caspar Reiff)
+# "Snowmane's Epitaph" (Caspar Reiff)
+# "Éomer's Song" (Caspar Reiff)
+# "Song of the Mounds of Mundborg" (Caspar Reiff)
+# "Athelas" (Caspar Reiff)
+# "Song of Lebenin" (Caspar Reiff)
+# "Sam's Song in the Orc-tower" (Caspar Reiff)
+# "Long live the Halflings!" (Caspar Reiff)
+# "Legolas's Song of the Sea" (Caspar Reiff)
+# "The Eagle's Song" (Caspar Reiff)
+# "Burial Song of Théoden" (Caspar Reiff)
+# "The Old Walking Song(III)" (Caspar Reiff)
+# "A Walking Song(II)" (Peter Hall)
+# "Elven Hymn to Elbereth Gilthoniel (III)" (Caspar Reiff)
+
+{{title|italics}}
+[[Category:Albums]]
+
+
+
+{{sequence
+ |prev=[[Leaving Rivendell]]
+ |next=-
+ |list=[[Tolkien Ensemble]] discography
+}}

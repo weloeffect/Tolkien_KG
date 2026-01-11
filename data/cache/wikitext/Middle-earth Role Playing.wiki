@@ -1,0 +1,178 @@
+{{Board game infobox
+| name=Middle-earth Role Playing
+| image=merp_logo.png
+| caption=2nd edition logotype
+| type=rpg
+| designer=[[Coleman Charlton]]
+| publisher=[[Iron Crown Enterprises]]
+| releasedate=1984
+| players=
+| ages=
+}}
+'''Middle-earth Role Playing''' (MERP) was a subset of the Rolemaster role-playing game rules set in [[J.R.R. Tolkien]]'s [[Middle-earth]] and published by [[Iron Crown Enterprises]].  
+
+== Description ==
+[[Image:Middle-earth Role Playing (2nd edition, hardcover).jpg|thumb|left|Cover of [[Middle-earth Role Playing (2nd edition, hardcover)|''MERP'', 2nd ed.]]]]
+The system was somewhat like [[Dungeons and Dragons|Dungeons & Dragons]] with character classes and levels. Classes available included Animist (Cleric), Bard, Mage, Ranger, Scout (Thief) and Warrior (Fighter). The system departed in having a highly detailed combat and magic system.
+
+In the MERP game system, attributes are rating between 0 and 100, and skills can surpass these limits (under 0 or over 100).  An attack roll would consist of a percentile roll + skill rating + attribute rating - target's dodge rating.  This result was looked up on a table against the victim's armor type (leather/plate). Most hits in combat would cause a 'critical' which would be rolled and looked up on separate tables.  For some, these criticals are quite entertaining due to their variety and creativeness, but for others the task of adding and subtracting high numbers and then consulting a table is the height of roll-playing, not role-playing.
+
+Spell casters had the unique advantage in MERP that they learned lists of 10 spells (1 per level) as a unit. Once a character learned the Healing list, he would be able to cast increasingly better healing spells as his level increased.
+
+The setting for this game predates the [[War of the Ring]] by around 1400 years (the majority of the modules were set in the years after the [[Great Plague]], ca. [[Third Age]] 1640) and as such it represented a version of [[Middle-earth]] different to that seen in ''[[The Lord of the Rings]]''  or ''[[The Hobbit]]''.
+
+=== Metal miniatures ===
+
+Three different companies issued authorized figures for use with MERP. In 1985, both [[Grenadier Models Inc.|Grenadier Models]]  and [[Citadel Miniatures]] released their respective ''Lord of the Rings Middle Earth'' series. In 1987, the license was transferred to [[Mithril Miniatures]], which still produces Middle-earth metal miniatures (although post-[[Iron Crown Enterprises|ICE]] figures have no reference to MERP).
+
+== Publications ==
+
+*''(Year) Stock# Title''
+
+=== MERP 1st Edition ===
+
+*(1982) 2100 ''[[An Artist's Interpretation of Middle Earth]]''
+*(1982) 2200 ''[[A Campaign and Adventure Guidebook for Middle-earth]]''
+*(1982) 2300 ''[[Angmar: Land of the Witch King]]''
+*(1982) 2400 ''[[Umbar: Haven of the Corsairs]]''
+*(1982) 2500 ''[[The Court of Ardor]]''
+*(1983) 2600 [[Northern Mirkwood (1983)|''Northern Mirkwood'' (1983)]]
+*(1983) 2700 ''[[Southern Mirkwood|Southern Mirkwood: Haunt of the Necromancer]]''
+*(1983) 2800 ''[[Isengard and Northern Gondor]]''
+*(1984) 2600 [[Northern Mirkwood (1984)|''Northern Mirkwood'' (1984)]]
+*(1984) 2900 ''[[Moria: The Dwarven City]]''
+*(1984) 3000 [[Rangers of the North (book)|''Rangers of the North: The Kingdom of Arthedain'']]
+*(1984) 8000 [[Middle-earth Role Playing (book)|''Middle-earth Role Playing'']] 
+*(1984) 8001 ''[[Combat Screen]]''
+*(1984) 8010 ''[[Bree and the Barrow-Downs]]''
+*(1984) 8020 ''[[Dagorlad and the Dead Marshes]]''
+*(1984) 8030 ''[[The Tower of Cirith Ungol and Shelob's Lair]]''
+*(1984) 8040 ''[[Hillmen of the Trollshaws]]''
+*(1985) 3100 [[Riders of Rohan (1985 book)|''Riders of Rohan'']]
+*(1985) 8050 ''[[Thieves of Tharbad]]''
+*(1985) 8060 ''[[Erech and the Paths of the Dead]]''
+*(1985) 8070 ''[[Goblin-gate and Eagle's Eyrie]]''
+*(1985) XXXX ''[[Middle-earth: The Role-playing Game set in J.R.R. Tolkien's World]]''
+*(1985) 8101 ''[[Haunted Ruins of the Dunlendings]]''
+*(1986) 3200 ''[[Lórien and the Halls of the Elven Smiths|Lórien & the Halls of the Elven Smiths]]''
+*(1986) 8000 ''[[Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World]]''
+*(1986) 8100 [[Middle-earth Role Playing (boxed set)|''Middle-earth Role Playing'' (boxed set)]]
+*(1986) 8002 [[Lords of Middle-earth: Vol. I|''Lords of Middle-earth: Vol. I - The Immortals'']] 
+*(1986) 8102 ''[[Phantom of the Northern Marches]]''
+*(1986) 8103 ''[[Trolls of the Misty Mountains]]''
+*(1987) 2800 [[Isengard and Northern Gondor (1987 book)|''Isengard and Northern Gondor'' (2nd edition)]]
+*(1987) 3100 [[Riders of Rohan (1987 book)|''Riders of Rohan'' (2nd edition)]] 
+*(1987) 3300 ''[[Havens of Gondor]]''
+*(1987) 3400 ''[[Sea-Lords of Gondor]]''
+*(1987) 3500 ''[[Ents of Fangorn]]''
+*(1987) 3600 ''[[Dunland and the Southern Misty Mountains]]''
+*(1987) 3700 ''[[Lost Realm of Cardolan]]''
+*(1987) 8003 [[Lords of Middle-earth: Vol. II|''Lords of Middle-earth: Vol. II - The Mannish Races'']] 
+*(1987) 8080 ''[[Rivendell: The House of Elrond]]''
+*(1987) 8090 ''[[Brigands of Mirkwood]]''
+*(1987) 8104 ''[[Pirates of Pelargir]]''
+*(1987) 8105 [[Gates of Mordor (book)|''Gates of Mordor'']]
+*(1987) 8106 ''[[Assassins of Dol Amroth]]''
+*(1987) 8107 ''[[Woses of the Black Wood]]''
+*(1987) 8201 ''[[Weathertop: Tower of the Wind]]''
+*(1988) 3800 ''[[Far Harad: The Scorched Land]]''
+*(1988) 3900 ''[[Shadow in the South]]''
+*(1988) 4010 ''[[Mirkwood: The Wilds of Rhovanion]]''
+*(1988) 8005 ''[[Creatures of Middle-earth]]''
+*(1988) 8011 ''[[Mouths of the Entwash]]''
+*(1988) 8108 ''[[Raiders of Cardolan]]''
+*(1988) 8202 [[Teeth of Mordor (book)|''Teeth of Mordor'']] 
+*(1988) 8204 ''[[Halls of the Elven-king]]''
+*(1988) 8301 [[Minas Tirith (1988 book)|''Minas Tirith'']]
+*(1989) 2210 ''[[Middle-earth Adventure Guidebook II]]''
+*(1989) 3110 [[Mount Gundabad (book)|''Mount Gundabad'']]
+*(1989) 4020 ''[[Empire of the Witch-king]]''
+*(1989) 8001 [[Combat Screen (2nd edition)|''Combat Screen'' (2nd edition)]]
+*(1989) 8004 [[Lords of Middle-earth: Vol. III|''Lords of Middle-earth: Vol. III - Hobbits, Dwarves, Ents, Orcs & Trolls'']]
+*(1989) 8006 ''[[Treasures of Middle-earth]]''
+*(1989) 8012 ''[[Warlords of the Desert]]''
+*(1989) 8013 ''[[Dark Mage of Rhudaur]]''
+*(1989) 8015 ''[[Forest of Tears]]''
+*(1989) 8109 ''[[Ghosts of the Southern Anduin]]'' 
+*(1989) 8110 ''[[Perils on the Sea of Rhûn]]''
+*(1989) 8111 ''[[Denizens of the Dark Wood]]''
+*(1990) 3111 ''[[Greater Harad]]''
+*(1990) 3112 ''[[Gorgoroth (book)|Gorgoroth]]'' 
+*(1990) 4000 ''[[Northwestern Middle-earth Campaign Atlas]]'' (combined Gazetteer & Map) 
+*(1990) 8007 ''[[Angus McBride's Characters of Middle-earth]]''
+*(1990) 8014 ''[[Rogues of the Borderlands]]''
+*(1990) 8016 ''[[Ghost Warriors]]''
+*(1990) 8112 ''[[Hazards of the Harad Wood]]''
+*(1990) 8113 ''[[The Necromancer's Lieutenant]]''
+*(1990) 8203 ''[[Calenhad: A Beacon of Gondor]]'' 
+*(1991) 8205 ''[[Nazgûl's Citadel]]'' 
+*(1991) 8302 ''[[Minas Ithil (book)|Minas Ithil]]'' 
+*(1992) 3113 ''[[The Grey Mountains]]''
+*(1992) 4002 ''[[Northwestern Middle-earth Gazetteer]]''
+*(1992) 8114 ''[[River Running (book)|River Running]]''
+*(1994) 4001 ''[[Northwestern Middle-earth Map Set]]''
+
+=== MERP 2nd Edition ===
+
+*(1993) 2000 [[Middle-earth Role Playing (2nd edition, hardcover)|''Middle-earth Role Playing'' (2nd edition, hardcover)]]
+*(1993) 2001 [[Middle-earth Role Playing (2nd edition, softcover)|''Middle-earth Role Playing'' (2nd edition, softcover)]]
+*(1993) 2003 ''[[Middle-earth Campaign Guide]]''
+*(1993) 2004 ''[[Middle-earth Role Playing Combat Screen and Reference Sheets]]''
+*(1993) 2006 ''[[Valar and Maiar]]''
+*(1994) 2002 ''[[Middle-earth Role Playing Accessory Pack]]''
+*(1994) 2005 ''[[Arnor: The Realm]]''
+*(1994) 2007 [[Minas Tirith (1994 book)|''Minas Tirith'' (2nd edition)]]
+*(1994) 2008 ''[[Middle-earth Role Playing Poster Maps]]''
+*(1994) 2009 ''[[Palantír Quest]]''
+*(1994) 2010 [[Treasures of Middle-earth (2nd edition)|''Treasures of Middle-earth'' (2nd edition)]]
+*(1994) 2011 [[Moria (1994 book)|''Moria'' (2nd edition)]]
+*(1994) 2012 [[Creatures of Middle-earth (2nd edition)|''Creatures of Middle-earth'' (2nd edition)]]
+*(1994) 2013 [[Elves (book)|''Elves'']] 
+*(1995) 2014 [[Dol Guldur (book)|''Dol Guldur'']]
+*(1995) 2015 ''[[The Kin-strife]]'' 
+*(1995) 2016 ''[[Lake-town (book)|Lake-town]]''
+*(1995) 2017 [[The Shire (book)|''The Shire'']]
+*(1995) 2018 [[Angmar (book)|''Angmar'' (2nd edition)]]
+*(1995) 2019 [[Mirkwood (book)|''Mirkwood'' (2nd edition)]]
+*(1996) 2020 ''[[Southern Gondor: The People]]''
+*(1996) 2021 ''[[Southern Gondor: The Land]]''
+*(1996) 2022 ''[[Arnor: The People]]''
+*(1997) 2023 ''[[Arnor: The Land]]''
+*(1997) 2024 ''[[Lord of the Rings Poster Map]]''
+*(1997) 2025 ''[[The Northern Waste]]''
+*(1997) 2026 ''[[Hands of the Healer]]''
+
+===Unpublished supplements===
+
+*1990s: ''[[Lindon (MERP)|Lindon]]''
+*1990s: ''Mithlond''
+*1990s: ''[[The Inland Sea]]''
+
+== Translations ==
+
+*Finnish: ''Keskimaa Roolipeli'' (KERP)
+*French: ''Le Jeu de Rôle des Terres du Milieu'' (JRTM) (1987-2000)
+*German: ''Mittelerde - Das Klassische Rollenspiel System'' (MERS) (1987-1998)
+*Italian: ''Il gioco di ruolo del signore degli anelli'' (GiRSA) (1984-2002)
+*Japanese: 指輪物語ロールプレイング ''Yubiwa Monogatari Rōrupureingu'' (1987-?)
+*Polish: ''Śródziemie: Gra Fabularna'' 
+*Spanish: ''El Señor de los Anillos'' (Castellano), ''El Senyor dels Anells'' (Catalan) (1989-2004)
+*Swedish: ''Sagan om Ringen: Rollspelet'' (1986-1990)
+
+== Further developments ==
+
+MERP has a loyal and strong following, which can be seen in the multitude of material which has been written for the system since ICE lost their license. The main channels are:
+
+*''[[Other Hands]]'' (official magazine)
+*''[[Other Minds]]'' (unofficial magazine)
+*''[[Yahoo Fan modules]]'' (Yahoo group and mailing list, also hosting a web site)
+*''MERP.com'' (fan-run website, see link below)
+
+==External links==
+* {{WP|Middle-earth Role Playing}}
+* [http://www.merp.com MERP.com (fan-run website)]
+*[http://homepage.mac.com/guyf/MERP/PrintingEditionReference.html Printing and Edition Reference for MERP]
+{{rpg}}
+{{title|italics}}
+[[Category:MERP| ]]
+[[Category:Publications by title]]

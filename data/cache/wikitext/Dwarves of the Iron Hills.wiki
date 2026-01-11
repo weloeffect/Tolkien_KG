@@ -1,0 +1,62 @@
+{{people infobox
+| name=Dwarves of the Iron Hills
+| image = Angelo Montanini - Iron Hill Dwarves.jpg
+| caption="Iron Hill Dwarves" by Angelo Montanini
+| pronun=
+| othernames=
+| origin=[[Durin's Folk]] who settled in the [[Iron Hills]] in the [[First Age]]<ref name=Relations>{{PM|Relations}}, p. 302</ref>
+| location=[[Iron Hills]]
+| affiliation=
+| rivalry=
+| language=[[Khuzdul]], [[Westron]]
+| members=[[Dáin Ironfoot|Dáin II Ironfoot]], [[Grór]], [[Náin (son of Grór)|Náin]], [[Thorin III Stonehelm]]
+| lifespan=c. 250 years
+| distinctions=Fierce warriors,<ref>{{H|Burst}}</ref> exceedingly strong
+| height=Five feet or less
+| hair=
+| skin=
+| clothing=Well-armoured in combat
+| weapons=Mattocks, short-swords, and broad shields
+}}
+The '''Dwarves of the Iron Hills''' were [[Dwarves]] belonging to the house of the [[Durin's Folk|Longbeards]], otherwise known as [[Durin's Folk]], who lived in the [[Iron Hills]]. They became well-known for making a metal mesh that could be used for making flexible items like leg-coverings.
+
+==History==
+===First Age===
+The [[Durin's Folk|Longbeard]] [[Dwarves of Khazad-dûm]] colonized the Iron Hills already in the [[First Age]].<ref name=Relations>{{PM|Relations}}, p. 302</ref> The Hills were their primary source of iron-ore.<ref name=Relations>{{PM|Relations}}, p. 302</ref> The [[Old Forest Road|Dwarf-road]] ran north-east from [[Khazad-dûm]] to the Hills for use by dwarf-traders and merchants<ref>{{PM|XNotes}}, p. 323 (note 30)</ref> and before the end of the First Age, the Dwarves of the Iron Hills built a bridge over [[River Running]].<ref name=NM>{{NM|P3xx}}</ref>
+===Second Age===
+After the [[War of Wrath]], [[Dwarves of the Blue Mountains|many dwarves]] emigrated from the [[Blue Mountains]] to Khazad-dûm and to the Iron Hills in the [[Second Age]].<ref name=NM/>
+
+During the [[War of the Elves and Sauron]], [[Sauron]] devastated [[Eregion]]; Khazad-dûm was sealed and [[Orcs]] took control of the northern Misty Mountains and the Grey Mountains. This ended communication between the Iron Hills and Khazad-dûm for some time.<ref>{{PM|Relations}}, p. 306</ref> 
+
+=== Third Age===
+After the fall of [[Khazad-dûm]] in {{TA|1981}}, many dwarves fleeing the [[Balrog]] wandered as far as the [[Iron Hills]], bolstering its population.<ref>{{PM|Third}}</ref>
+
+Many Longboards in the [[Grey Mountains]] were greatly troubled by [[Dragons]] there, and one slew King [[Dáin I]]. His surviving sons led an exodus into the east: the elder, [[Thrór]], recreated the [[Kingdom under the Mountain]] at [[Lonely Mountain|Erebor]], while his younger brother [[Grór]] led a part of the people further into the east to join their kindred in the Iron Hills.
+====Founding of Grór's Realm====
+Grór settled in the Iron Hills in the year {{TA|2590}} and became [[Lord of the Iron Hills]]. During his reign, the realm became the strongest in the North, being the only realm standing between [[Sauron]] and his plans to destroy [[Rivendell]] and taking back the lands of [[Angmar]].<ref>{{App|Durin}}</ref> 
+
+Meanwhile his brother's folk in Erebor, flew from [[Sack of Erebor]] by [[Smaug]]. Those wandering in exile, except for [[Thrór]] and his small company of family and followers, came to the Iron Hills.
+
+====War of the Dwarves and Orcs====
+During the [[War of the Dwarves and Orcs]], many Dwarves from the Iron Hills fought several battles, but they are mostly remembered from the [[Battle of Azanulbizar]] in the year {{TA|2799}}. 
+
+Lord [[Náin son of Grór|Naín]] led his army to the battle in the most crucial moment when the main Dwarven army was being decimated by the great host of [[Orcs]]. With these fresh reinforcements, the Dwarves routed their enemies, fighting their way all up to the steps of the [[Great Gates|East-gate]] of [[Moria]]. There, Nain duelled with [[Azog]], the Orc commander, resulting in his death; his son [[Dáin Ironfoot|Dáin]] avenged his father, achieving recognition because he was very young for dwarven standards. 
+
+After this battle, Dain led his Dwarves back to the Iron Hills.
+
+Grór ruled the Dwarves of the Iron Hills for 215 years, and he died in {{TA|2805}} at 241 years of age. [[Dáin Ironfoot]] became the next Lord of the Iron Hills. 
+====Battle of Five Armies====
+Years later, Dáin's cousin [[Thorin]] attempted to restore the kingdom at Erebor, but he was trapped by the [[Elves of Mirkwood]] and [[Northmen]] of [[Lake-town|Esgaroth]] and sent to the Iron Hills for aid. Dáin arrived with 500 armoured Dwarves and as events developed, the Dwarves of the Iron Hills proved crucial in winning the ensuing [[Battle of Five Armies]] against the [[Orcs of the Misty Mountains]]. Thorin died in that battle, and with him the royal line of [[Thrór]]. Through his ancestor Grór, the Kingship of Durin's Folk then fell on Dáin. Dáin II Ironfoot removed from the Iron Hills and re-established a kingdom under the [[Lonely Mountain]].
+
+==Portrayal in adaptations==
+'''2007: ''[[The Lord of the Rings Online]]'':'''
+:It is possible for Dwarf player characters to choose the Iron Hills as their background, though this is only for aesthetic purposes and has no impact on the game's story or mechanics.
+:The Dwarves of the Iron Hills first make an appearance as non-player characters in the [[The Lord of the Rings Online: Mines of Moria|Mines of Moria]] expansion in the form of the "Iron Garrison", an expedition led by the sons and grandsons of [[Bifur]] and [[Bofur]] that attempts to colonize Moria and investigate [[Balin]]'s fate.
+
+:After the [[War of the Ring]], the player explores the Iron Hills themselves. According to an old rhyme the players can compile, the Iron Hills and the capital "Járnfast" were founded by "Farin Blackmattock", who in the First Age sought a sufficient source of iron that Khazad-dûm lacked. The Dwarves of the Iron Hills, here called the "Iron-folk", also appear in a flashback region depicting Azanulbizar during the battle. Among their number is the hero "Hermáth Stormhammer", whose written records of his experiences allow the players to see the battle through his eyes.
+
+{{references}}
+
+[[Category:Dwarven peoples]]
+[[de:Eisenberge (Rhûn)]]
+[[fi:Rautavuoret#Itäisen Keski-Maan Rautavuoret]]

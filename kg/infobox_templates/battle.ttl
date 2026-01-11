@@ -1,0 +1,1027 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Battle_of_Azanulbizar> a schema:WebPage ;
+    rdfs:label "Battle of Azanulbizar"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Azanulbizar> .
+
+<http://localhost:8000/page/Battle_of_Bywater> a schema:WebPage ;
+    rdfs:label "Battle of Bywater"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Bywater> .
+
+<http://localhost:8000/page/Battle_of_Cirith_Ungol> a schema:WebPage ;
+    rdfs:label "Battle of Cirith Ungol"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Cirith_Ungol> .
+
+<http://localhost:8000/page/Battle_of_Dagorlad> a schema:WebPage ;
+    rdfs:label "Battle of Dagorlad"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Dagorlad> .
+
+<http://localhost:8000/page/Battle_of_Dale> a schema:WebPage ;
+    rdfs:label "Battle of Dale"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Dale> .
+
+<http://localhost:8000/page/Battle_of_Five_Armies> a schema:WebPage ;
+    rdfs:label "Battle of Five Armies"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Five_Armies> .
+
+<http://localhost:8000/page/Battle_of_Fornost> a schema:WebPage ;
+    rdfs:label "Battle of Fornost"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Fornost> .
+
+<http://localhost:8000/page/Battle_of_Greenfields> a schema:WebPage ;
+    rdfs:label "Battle of Greenfields"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Greenfields> .
+
+<http://localhost:8000/page/Battle_of_Isengard> a schema:WebPage ;
+    rdfs:label "Battle of Isengard"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Isengard> .
+
+<http://localhost:8000/page/Battle_of_Sarn_Athrad> a schema:WebPage ;
+    rdfs:label "Battle of Sarn Athrad"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Sarn_Athrad> .
+
+<http://localhost:8000/page/Battle_of_Tumhalad> a schema:WebPage ;
+    rdfs:label "Battle of Tumhalad"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_Tumhalad> .
+
+<http://localhost:8000/page/Battle_of_the_Camp> a schema:WebPage ;
+    rdfs:label "Battle of the Camp"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Camp> .
+
+<http://localhost:8000/page/Battle_of_the_Chamber_of_Mazarbul> a schema:WebPage ;
+    rdfs:label "Battle of the Chamber of Mazarbul"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Chamber_of_Mazarbul> .
+
+<http://localhost:8000/page/Battle_of_the_Crossings_of_Erui> a schema:WebPage ;
+    rdfs:label "Battle of the Crossings of Erui"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Crossings_of_Erui> .
+
+<http://localhost:8000/page/Battle_of_the_Field_of_Celebrant> a schema:WebPage ;
+    rdfs:label "Battle of the Field of Celebrant"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Field_of_Celebrant> .
+
+<http://localhost:8000/page/Battle_of_the_Gelion-Ascar_stockade> a schema:WebPage ;
+    rdfs:label "Battle of the Gelion-Ascar stockade"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Gelion-Ascar_stockade> .
+
+<http://localhost:8000/page/Battle_of_the_Gwathl%C3%B3> a schema:WebPage ;
+    rdfs:label "Battle of the Gwathló"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Gwathl%C3%B3> .
+
+<http://localhost:8000/page/Battle_of_the_Hornburg> a schema:WebPage ;
+    rdfs:label "Battle of the Hornburg"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Hornburg> .
+
+<http://localhost:8000/page/Battle_of_the_Lammoth> a schema:WebPage ;
+    rdfs:label "Battle of the Lammoth"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Lammoth> .
+
+<http://localhost:8000/page/Battle_of_the_Morannon> a schema:WebPage ;
+    rdfs:label "Battle of the Morannon"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Morannon> .
+
+<http://localhost:8000/page/Battle_of_the_Peak> a schema:WebPage ;
+    rdfs:label "Battle of the Peak"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Peak> .
+
+<http://localhost:8000/page/Battle_of_the_Pelennor_Fields> a schema:WebPage ;
+    rdfs:label "Battle of the Pelennor Fields"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Pelennor_Fields> .
+
+<http://localhost:8000/page/Battle_of_the_Plains> a schema:WebPage ;
+    rdfs:label "Battle of the Plains"@en ;
+    schema:about <http://localhost:8000/resource/Battle_of_the_Plains> .
+
+<http://localhost:8000/page/Battle_under_the_trees> a schema:WebPage ;
+    rdfs:label "Battle under the trees"@en ;
+    schema:about <http://localhost:8000/resource/Battle_under_the_trees> .
+
+<http://localhost:8000/page/Dagor-nuin-Giliath> a schema:WebPage ;
+    rdfs:label "Dagor-nuin-Giliath"@en ;
+    schema:about <http://localhost:8000/resource/Dagor-nuin-Giliath> .
+
+<http://localhost:8000/page/Dagor_Aglareb> a schema:WebPage ;
+    rdfs:label "Dagor Aglareb"@en ;
+    schema:about <http://localhost:8000/resource/Dagor_Aglareb> .
+
+<http://localhost:8000/page/Dagor_Bragollach> a schema:WebPage ;
+    rdfs:label "Dagor Bragollach"@en ;
+    schema:about <http://localhost:8000/resource/Dagor_Bragollach> .
+
+<http://localhost:8000/page/Disaster_of_the_Gladden_Fields> a schema:WebPage ;
+    rdfs:label "Disaster of the Gladden Fields"@en ;
+    schema:about <http://localhost:8000/resource/Disaster_of_the_Gladden_Fields> .
+
+<http://localhost:8000/page/Disaster_of_the_Morannon> a schema:WebPage ;
+    rdfs:label "Disaster of the Morannon"@en ;
+    schema:about <http://localhost:8000/resource/Disaster_of_the_Morannon> .
+
+<http://localhost:8000/page/Fall_of_Dol_Guldur> a schema:WebPage ;
+    rdfs:label "Fall of Dol Guldur"@en ;
+    schema:about <http://localhost:8000/resource/Fall_of_Dol_Guldur> .
+
+<http://localhost:8000/page/Fall_of_Gondolin> a schema:WebPage ;
+    rdfs:label "Fall of Gondolin"@en ;
+    schema:about <http://localhost:8000/resource/Fall_of_Gondolin> .
+
+<http://localhost:8000/page/Fall_of_Nargothrond> a schema:WebPage ;
+    rdfs:label "Fall of Nargothrond"@en ;
+    schema:about <http://localhost:8000/resource/Fall_of_Nargothrond> .
+
+<http://localhost:8000/page/First_Battle> a schema:WebPage ;
+    rdfs:label "First Battle"@en ;
+    schema:about <http://localhost:8000/resource/First_Battle> .
+
+<http://localhost:8000/page/First_Battle_of_the_Fords_of_Isen> a schema:WebPage ;
+    rdfs:label "First Battle of the Fords of Isen"@en ;
+    schema:about <http://localhost:8000/resource/First_Battle_of_the_Fords_of_Isen> .
+
+<http://localhost:8000/page/First_Siege_of_Imladris> a schema:WebPage ;
+    rdfs:label "First Siege of Imladris"@en ;
+    schema:about <http://localhost:8000/resource/First_Siege_of_Imladris> .
+
+<http://localhost:8000/page/Hunting_of_the_Wolf> a schema:WebPage ;
+    rdfs:label "Hunting of the Wolf"@en ;
+    schema:about <http://localhost:8000/resource/Hunting_of_the_Wolf> .
+
+<http://localhost:8000/page/Kinslaying_at_Alqualond%C3%AB> a schema:WebPage ;
+    rdfs:label "Kinslaying at Alqualondë"@en ;
+    schema:about <http://localhost:8000/resource/Kinslaying_at_Alqualond%C3%AB> .
+
+<http://localhost:8000/page/Massacre_at_Tarn_Aeluin> a schema:WebPage ;
+    rdfs:label "Massacre at Tarn Aeluin"@en ;
+    schema:about <http://localhost:8000/resource/Massacre_at_Tarn_Aeluin> .
+
+<http://localhost:8000/page/Nirnaeth_Arnoediad> a schema:WebPage ;
+    rdfs:label "Nirnaeth Arnoediad"@en ;
+    schema:about <http://localhost:8000/resource/Nirnaeth_Arnoediad> .
+
+<http://localhost:8000/page/Sack_of_Bar-en-Danwedh> a schema:WebPage ;
+    rdfs:label "Sack of Bar-en-Danwedh"@en ;
+    schema:about <http://localhost:8000/resource/Sack_of_Bar-en-Danwedh> .
+
+<http://localhost:8000/page/Sack_of_Erebor> a schema:WebPage ;
+    rdfs:label "Sack of Erebor"@en ;
+    schema:about <http://localhost:8000/resource/Sack_of_Erebor> .
+
+<http://localhost:8000/page/Sack_of_Eregion> a schema:WebPage ;
+    rdfs:label "Sack of Eregion"@en ;
+    schema:about <http://localhost:8000/resource/Sack_of_Eregion> .
+
+<http://localhost:8000/page/Sacking_of_Mount_Gundabad> a schema:WebPage ;
+    rdfs:label "Sacking of Mount Gundabad"@en ;
+    schema:about <http://localhost:8000/resource/Sacking_of_Mount_Gundabad> .
+
+<http://localhost:8000/page/Second_Battle_of_the_Fords_of_Isen> a schema:WebPage ;
+    rdfs:label "Second Battle of the Fords of Isen"@en ;
+    schema:about <http://localhost:8000/resource/Second_Battle_of_the_Fords_of_Isen> .
+
+<http://localhost:8000/page/Second_Kinslaying> a schema:WebPage ;
+    rdfs:label "Second Kinslaying"@en ;
+    schema:about <http://localhost:8000/resource/Second_Kinslaying> .
+
+<http://localhost:8000/page/Second_siege_of_Imladris> a schema:WebPage ;
+    rdfs:label "Second siege of Imladris"@en ;
+    schema:about <http://localhost:8000/resource/Second_siege_of_Imladris> .
+
+<http://localhost:8000/page/Siege_of_Barad-d%C3%BBr> a schema:WebPage ;
+    rdfs:label "Siege of Barad-dûr"@en ;
+    schema:about <http://localhost:8000/resource/Siege_of_Barad-d%C3%BBr> .
+
+<http://localhost:8000/page/Siege_of_Gondor> a schema:WebPage ;
+    rdfs:label "Siege of Gondor"@en ;
+    schema:about <http://localhost:8000/resource/Siege_of_Gondor> .
+
+<http://localhost:8000/page/Third_Kinslaying> a schema:WebPage ;
+    rdfs:label "Third Kinslaying"@en ;
+    schema:about <http://localhost:8000/resource/Third_Kinslaying> .
+
+<http://localhost:8000/page/War_of_Wrath> a schema:WebPage ;
+    rdfs:label "War of Wrath"@en ;
+    schema:about <http://localhost:8000/resource/War_of_Wrath> .
+
+<http://localhost:8000/resource/Battle_of_Azanulbizar> a schema:Event ;
+    tg:casual1 "\"Beyond the count of grief\"; half dead or dying<ref name=\"AppDurin\"/>"@en ;
+    tg:casual2 "10,000 Orcs<ref name=\"PMA\">{{PM|A}}, p. 278</ref>"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Thr%C3%A1in_II%3Cbr%3EThorin_II%3Cbr%3EN%C3%A1in_%28son_of_Gr%C3%B3r%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Azog_%E2%80%A0> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Dwarves_and_Orcs> ;
+    tg:date "{{TA|2799}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Unknown%3B_bolstered_by_an_army_of_the_Dwarves_of_the_Iron_Hills> ;
+    tg:forces2 "Unknown; \"a multitude of Orcs\"<ref name=\"AppDurin\">{{App|Durin}}</ref>"@en ;
+    tg:image "Joona Kujanen - The Battle of Nanduhirion.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Azanulbizar"@en ;
+    tg:place <http://localhost:8000/resource/The_valley_of_Azanulbizar_beneath_the_East-gate_of_Moria> ;
+    tg:result "Victory for the Dwarves"@en ;
+    tg:side1 <http://localhost:8000/resource/Durin%27s_Folk> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_the_Misty_Mountains> .
+
+<http://localhost:8000/resource/Battle_of_Bywater> a schema:Event ;
+    tg:casual1 "19 Hobbits killed, 30 wounded"@en ;
+    tg:casual2 <http://localhost:8000/resource/70_Ruffians_killed_%28including_Gr%C3%ADma> ;
+    tg:commanders1 <http://localhost:8000/resource/Meriadoc_Brandybuck%2C_Peregrin_Took%2C_Farmer_Cotton> ;
+    tg:commanders2 <http://localhost:8000/resource/Saruman_%E2%80%A0> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/3_November_%7B%7BTA> ;
+    tg:forces1 <http://localhost:8000/resource/%2A200_Bucklanders%0A%2A100_Took_Family> ;
+    tg:forces2 <http://localhost:8000/resource/100_Ruffians> ;
+    tg:image "Ted Nasmith - Storming the Bank.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Bywater"@en ;
+    tg:place <http://localhost:8000/resource/Bywater_Road%2C_the_Shire> ;
+    tg:result <http://localhost:8000/resource/Freedom_for_the_Shire_and_Buckland> ;
+    tg:side1 <http://localhost:8000/resource/Shire-hobbits_and_Bucklanders> ;
+    tg:side2 <http://localhost:8000/resource/Sharkey%27s_Men> .
+
+<http://localhost:8000/resource/Battle_of_Cirith_Ungol> a schema:Event ;
+    tg:casual1 "All Orcs save Shagrat and Snaga"@en ;
+    tg:casual2 "All Orcs"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Shagrat> ;
+    tg:commanders2 <http://localhost:8000/resource/Gorbag> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/14_March_%7B%7BTA> ;
+    tg:forces1 <http://localhost:8000/resource/%2A_Lagduf%0A%2A_Muzgash%0A%2A_Radbug%0A%2A_Snaga_%28orc_of_Mordor%29> ;
+    tg:forces2 "* More than 80 Orcs, including an unknown number of bowmen"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Cirith Ungol"@en ;
+    tg:place <http://localhost:8000/resource/Tower_of_Cirith_Ungol> ;
+    tg:result <http://localhost:8000/resource/Tower_emptied%2C_Frodo_Baggins_liberated> ;
+    tg:side1 <http://localhost:8000/resource/Orcs_of_Tower_of_Cirith_Ungol> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_Minas_Morgul> .
+
+<http://localhost:8000/resource/Battle_of_Dagorlad> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Heavy%3A_half_of_the_Galadhrim_army_lost%3Cref_name%3D%22Silvan_Princes%22%3E%7B%7BUT> ;
+    tg:casual2 "Vast numbers, more than the allies"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2AGil-galad%0A%2AElendil_%0A%2AElrond%0A%2AOropher_%E2%80%A0%0A%2AAmd%C3%ADr_%E2%80%A0> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Last_Alliance> ;
+    tg:date "{{SA|3434}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Great_host_of_D%C3%BAnedain%3B_Elves_of_Lindon%2C_Rivendell%2C_Elves_of_Mirkwood> ;
+    tg:forces2 <http://localhost:8000/resource/Great_host_of_Orcs%2C_Men_of_Darkness> ;
+    tg:image "The Lord of the Rings - The Fellowship of the Ring - Last Alliance.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Dagorlad"@en ;
+    tg:place <http://localhost:8000/resource/The_plains_of_Dagorlad_outside_Mordor> ;
+    tg:result "Decisive victory for the Last Alliance"@en ;
+    tg:side1 <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> ;
+    tg:side2 <http://localhost:8000/resource/Hosts_of_Mordor> .
+
+<http://localhost:8000/resource/Battle_of_Dale> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Brand_%E2%80%A0_%0A%3Cbr%3EBard_II%0A%3Cbr%3ED%C3%A1in_Ironfoot_%E2%80%A0%0A%3Cbr%3EThorin_Stonehelm> ;
+    tg:commanders2 "Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/14_March> ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Steamey - King Brand and King Dáin Ironfoot.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Dale"@en ;
+    tg:place <http://localhost:8000/resource/Outside_Dale_and_before_the_gates_of_the_Lonely_Mountain> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Men_of_Dale> ;
+    tg:side1 <http://localhost:8000/resource/Bardings%3Cbr%3EDwarves_of_Erebor> ;
+    tg:side2 <http://localhost:8000/resource/Easterlings> .
+
+<http://localhost:8000/resource/Battle_of_Five_Armies> a schema:Event ;
+    tg:casual1 "Unknown, presumably substantial"@en ;
+    tg:casual2 <http://localhost:8000/resource/Heavy%3A_%22three_parts_of_the_Orcs_of_the_Misty_Mountains> ;
+    tg:commanders1 <http://localhost:8000/resource/Bard_the_Bowman%0A%3Cbr%3ED%C3%A1in_Ironfoot%0A%3Cbr%3EGandalf%0A%3Cbr%3EGreat_Eagle%0A%3Cbr%3EThorin_II_Oakenshield_%E2%80%A0%0A%3Cbr%3EThranduil> ;
+    tg:commanders2 <http://localhost:8000/resource/Bolg_%E2%80%A0> ;
+    tg:date "\"the last week of autumn\" in {{TA|2941}}<ref>{{H|11}}</ref>"@en ;
+    tg:forces1 <http://localhost:8000/resource/Unknown%2C_except_for%3A%0A%2AOver_1%2C000_Elves_of_Mirkwood> ;
+    tg:forces2 "Unknown, except for \"A vast host\""@en ;
+    tg:image "Matt Stewart - The Battle Under the Mountain.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Five Armies"@en ;
+    tg:place <http://localhost:8000/resource/The_valley_of_Dale_and_the_slopes_of_Erebor> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Elves_of_Mirkwood> ;
+    tg:side1 <http://localhost:8000/resource/Beorn%0A%3Cbr%3EBilbo_Baggins%0A%3Cbr%3EDwarves_of_the_Iron_Hills%0A%3Cbr%3EEagles%0A%3Cbr%3EElves_of_Mirkwood%0A%3Cbr%3ELake-men%0A%3Cbr%3EThorin_and_Company> ;
+    tg:side2 <http://localhost:8000/resource/Bats%0A%3Cbr%3EBodyguard_of_Bolg%0A%3Cbr%3EOrcs_of_the_Misty_Mountains> .
+
+<http://localhost:8000/resource/Battle_of_Fornost> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 <http://localhost:8000/resource/%22not_a_man_nor_an_orc_of_that_realm_remained_west_of_the_Misty_Mountains> ;
+    tg:commanders1 <http://localhost:8000/resource/%2AE%C3%A4rnur%0A%2AC%C3%ADrdan%0A%2AGlorfindel> ;
+    tg:commanders2 <http://localhost:8000/resource/%2AWitch-king> ;
+    tg:conflict <http://localhost:8000/resource/Angmar_War> ;
+    tg:date "{{TA|1975}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Elves_of_Lindon%2C_Rivendell%2C_and_Lothl%C3%B3rien> ;
+    tg:forces2 <http://localhost:8000/resource/Orcs%2C_Hill-men%2C_and_other_evil_creatures> ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Fornost"@en ;
+    tg:place <http://localhost:8000/resource/In_the_plain_between_Nenuial_and_Fornost%2C_and_later_somewhere_north_near_the_lands_of_Angmar> ;
+    tg:result "Decisive victory for the Allies, and the complete destruction of Angmar's forces"@en ;
+    tg:side1 <http://localhost:8000/resource/Arthedain%2C_Gondor%2C_Vales_of_Anduin%2C_Lindon%2C_Rivendell%2C_Lothl%C3%B3rien%2C_The_Shire> ;
+    tg:side2 <http://localhost:8000/resource/Angmar> .
+
+<http://localhost:8000/resource/Battle_of_Greenfields> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Bandobras_Took> ;
+    tg:commanders2 <http://localhost:8000/resource/Golfimbul_%E2%80%A0> ;
+    tg:conflict "Series of Orc-invasions in northern Eriador"@en ;
+    tg:date "{{TA|2747}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Gregor Roffalski - Bandobras Took.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Greenfields"@en ;
+    tg:place <http://localhost:8000/resource/Greenfields%2C_Northfarthing> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Hobbits> ;
+    tg:side1 "Hobbits"@en ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_Mount_Gram> .
+
+<http://localhost:8000/resource/Battle_of_Isengard> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Beechbone%2C_otherwise_numbers_unmentioned> ;
+    tg:casual2 <http://localhost:8000/resource/The_entire_force%2C_except_for_Saruman_and_Gr%C3%ADma> ;
+    tg:commanders1 <http://localhost:8000/resource/%2ATreebeard_%28their_leader%2C_but_technically_did_not_%22lead%22%29> ;
+    tg:commanders2 <http://localhost:8000/resource/%2ASaruman> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/3_March> ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Ted Nasmith - The Wrath of the Ents.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Isengard"@en ;
+    tg:place <http://localhost:8000/resource/Isengard> ;
+    tg:result "Drowning of Isengard, more or less complete victory for the Ents"@en ;
+    tg:side1 <http://localhost:8000/resource/Ents%2C_Huorns%2C_Meriadoc_Brandybuck> ;
+    tg:side2 <http://localhost:8000/resource/Isengard> .
+
+<http://localhost:8000/resource/Battle_of_Sarn_Athrad> a schema:Event ;
+    tg:casual1 "Light"@en ;
+    tg:casual2 "Completely destroyed<ref name=\"Ruin\">{{S|Doriath}}</ref>"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Beren> ;
+    tg:commanders2 <http://localhost:8000/resource/Lord_of_Nogrod%3Cref_group%3D%22note%22%3EIn_Tolkien%E2%80%99s_earlier_writings_it_was_Naugladur._In_%27%27The_Silmarillion%27%27_he_is_unnamed.%3C/ref%3E_%E2%80%A0> ;
+    tg:date "{{FA|503}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 <http://localhost:8000/resource/Unknown%2C_but_was_depleted_heavily_from_their_last_battle_in_the_Thousand_Caves> ;
+    tg:image "Steamey - Death of Naugladur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Sarn Athrad"@en ;
+    tg:place <http://localhost:8000/resource/Sarn_Athrad_and_the_slopes_of_the_Blue_Mountains> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Elves_of_Ossiriand%0A%2ARecovery_of_the_Nauglam%C3%ADr%0A%2AComplete_destruction_of_the_Dwarven_host%0A%2ADior_succeeds_his_grandfather_Thingol_as_King_of_Doriath> ;
+    tg:side1 <http://localhost:8000/resource/Laiquendi%3Cbr_/%3E%0AEnts> ;
+    tg:side2 <http://localhost:8000/resource/Dwarves_of_Nogrod> .
+
+<http://localhost:8000/resource/Battle_of_Tumhalad> a schema:Event ;
+    tg:casual1 "Complete destruction of the host, few survivors"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Orodreth_%E2%80%A0%3Cbr_/%3E%0AT%C3%BArin%3Cbr_/%3E%0AGwindor_%E2%80%A0> ;
+    tg:commanders2 <http://localhost:8000/resource/Glaurung> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{FA|495}}<ref>{{GA|275}}</ref>"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Greater than the Elves<ref>{{CH|11}}, pp. 176 'But greater far was the host of Morgoth than any scouts had told'</ref>"@en ;
+    tg:image "Ted Nasmith - Túrin Bears Gwindor to Safety.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of Tumhalad"@en ;
+    tg:place <http://localhost:8000/resource/Tumhalad> ;
+    tg:result <http://localhost:8000/resource/Victory_for_Morgoth> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Nargothrond> ;
+    tg:side2 "Forces of Morgoth"@en .
+
+<http://localhost:8000/resource/Battle_of_the_Camp> a schema:Event ;
+    tg:commanders1 <http://localhost:8000/resource/%2AE%C3%A4rnil_II> ;
+    tg:commanders2 "Unknown Easterling commanders"@en ;
+    tg:conflict "Battle of the Camp"@en ;
+    tg:date "{{TA|1944}}"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Camp"@en ;
+    tg:place "Northern Ithilien"@en ;
+    tg:result "Decisive Gondorian victory"@en ;
+    tg:side1 <http://localhost:8000/resource/Gondor> ;
+    tg:side2 <http://localhost:8000/resource/Easterlings_and_Haradrim> .
+
+<http://localhost:8000/resource/Battle_of_the_Chamber_of_Mazarbul> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Samwise_Gamgee%2C_Boromir%2C_and_Frodo_Baggins> ;
+    tg:casual2 "14 Orcs killed"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Gandalf> ;
+    tg:commanders2 "Unknown †"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/15_January%2C_%7B%7BTA> ;
+    tg:forces1 <http://localhost:8000/resource/Gandalf%3Cbr_/%3EAragorn%3Cbr_/%3EBoromir%3Cbr_/%3EGimli%3Cbr_/%3ELegolas%3Cbr_/%3EFrodo_Baggins%3Cbr_/%3ESamwise_Gamgee%3Cbr_/%3EMeriadoc_Brandybuck%3Cbr_/%3EPeregrin_Took> ;
+    tg:forces2 <http://localhost:8000/resource/Unknown%2C_except_for_at_least_one_Cave-trolls> ;
+    tg:image "John Howe - Under His Blow.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Chamber of Mazarbul"@en ;
+    tg:place <http://localhost:8000/resource/Chamber_of_Mazarbul_and_the_Bridge_of_Khazad-d%C3%BBm_in_Moria> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Fellowship_of_the_Ring> ;
+    tg:side1 <http://localhost:8000/resource/Fellowship_of_the_Ring> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_the_Mountains%3Cbr%3ECave-trolls%3Cbr%3EDurin%27s_Bane> .
+
+<http://localhost:8000/resource/Battle_of_the_Crossings_of_Erui> a schema:Event ;
+    tg:casual1 "Heavy"@en ;
+    tg:casual2 "Heavy, Castamir"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Eldacar_%28King_of_Gondor%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Castamir> ;
+    tg:conflict <http://localhost:8000/resource/Kin-strife_of_Gondor> ;
+    tg:date "{{TA|1447}}"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Crossings of Erui"@en ;
+    tg:place <http://localhost:8000/resource/Crossings_of_Erui_in_Lebennin> ;
+    tg:result <http://localhost:8000/resource/Victory_and_restoration_of_Eldacar_%28King_of_Gondor%29> ;
+    tg:side1 <http://localhost:8000/resource/People_of_Calenardhon%2C_An%C3%B3rien%2C_Ithilien%2C_and_Northmen> ;
+    tg:side2 <http://localhost:8000/resource/People_of_the_coasts%2C_especially_Pelargir_and_Umbar> .
+
+<http://localhost:8000/resource/Battle_of_the_Field_of_Celebrant> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Near total destruction"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2A_Cirion%0A%2A_Eorl> ;
+    tg:commanders2 "Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/Wainrider/Balchoth_War> ;
+    tg:date <http://localhost:8000/resource/15_April_%7B%7BTA> ;
+    tg:forces1 "Gondorian: unknown. Éothéod: seven-thousand \"fully-armed riders\" and several hundred horsed archers<ref name=\"UT\">{{UT|Cirion}}</ref>"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Field of Celebrant"@en ;
+    tg:place <http://localhost:8000/resource/Field_of_Celebrant> ;
+    tg:result <http://localhost:8000/resource/Victory_for_Gondor%2C_%C3%89oth%C3%A9od> ;
+    tg:side1 "Gondor, Éothéod"@en ;
+    tg:side2 "Balchoth"@en .
+
+<http://localhost:8000/resource/Battle_of_the_Gelion-Ascar_stockade> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Unknown_but_includes_Haldar%2C_son_of_Haldad> ;
+    tg:casual2 "Complete annihilation of the Orc-raid"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Haldad_%E2%80%A0%3Cbr_/%3E%0AHaleth%3Cbr_/%3E%0ACaranthir> ;
+    tg:commanders2 "Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{FA|375}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Sara M. Morello - The rescue of the Haladin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Gelion-Ascar stockade"@en ;
+    tg:place <http://localhost:8000/resource/Gelion-Ascar_Stockade%2C_Dor_Caranthir_%28Thargelion%29%2C_Ossiriand> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Haladin_and_Noldor%0A%2A_Migration_of_the_Haladin_out_from_Thargelion%0A%2A_Haleth_chosen_as_Chieftain_of_the_Haladin> ;
+    tg:side1 <http://localhost:8000/resource/Haladin%3Cbr_/%3E%0ANoldor> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/Battle_of_the_Gwathl%C3%B3> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Heavy<ref name=\"Galad\">{{UT|Galadriel}}</ref>"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Gil-galad%3Cbr_/%3E%0ATar-Minastir> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Elves_and_Sauron> ;
+    tg:date "{{SA|1701}}<ref>{{App|SA}}</ref>"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Gwathló"@en ;
+    tg:place <http://localhost:8000/resource/Near_Tharbad%2C_Eriador> ;
+    tg:result "Decisive victory for the Elves and Númenóreans"@en ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Lindon%3Cbr_/%3E%0AN%C3%BAmenor> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/Battle_of_the_Hornburg> a schema:Event ;
+    tg:casual1 "Heavy, but precise numbers are unknown"@en ;
+    tg:casual2 "The entire force of Orcs; many Dunlendings slain, the rest surrendered"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2ATh%C3%A9oden%0A%2A%C3%89omer%0A%2AAragorn%0A%2AErkenbrand%0A%2AGandalf> ;
+    tg:commanders2 "*Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date "3-4 March {{TA|3019}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/About_3000_Rohirrim%2C_a_%22forest%22_of_Huorns> ;
+    tg:forces2 "10,000 at the least"@en ;
+    tg:image "Alan Lee - The Battle of the Hornburg.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Hornburg"@en ;
+    tg:place <http://localhost:8000/resource/Helm%27s_Deep_%28especially_the_Hornburg%29> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Rohirrim> ;
+    tg:side1 <http://localhost:8000/resource/Rohirrim%2C_Three_Hunters%2C_Huorns> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_Isengard_%28including_the_Uruk-hai%29%2C_Dunlendings%2C_Half-orcs/Goblin-men> .
+
+<http://localhost:8000/resource/Battle_of_the_Lammoth> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Fingolfin%0A%3Cbr%3EArgon_%E2%80%A0> ;
+    tg:commanders2 <http://localhost:8000/resource/Unnamed_Orc-captain_%E2%80%A0> ;
+    tg:conflict <http://localhost:8000/resource/Battles_of_Beleriand> ;
+    tg:date "{{YT|1500}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 <http://localhost:8000/resource/Unknown%2C_except_only_Orcs> ;
+    tg:image "Jenny_Dolfen_-_The_Coming_of_Fingolfin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Lammoth"@en ;
+    tg:place <http://localhost:8000/resource/Lammoth> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Exile_of_the_Noldor> ;
+    tg:side1 <http://localhost:8000/resource/Exiles_%28Followers_of_Fingolfin%29> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/Battle_of_the_Morannon> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Aragorn%0A%3Cbr%3EGandalf%0A%3Cbr%3EImrahil%0A%3Cbr%3E%C3%89omer%0A%3Cbr%3EGwaihir> ;
+    tg:commanders2 <http://localhost:8000/resource/Mouth_of_Sauron%0A%3Cbr%3ENazg%C3%BBl> ;
+    tg:conflict "Battle of the Morannon"@en ;
+    tg:date <http://localhost:8000/resource/25_March_%7B%7BTA> ;
+    tg:forces1 <http://localhost:8000/resource/Unknown%2C_except_for_%22Less_than_six_thousand%22_Gondorians_and_Rohirrim> ;
+    tg:forces2 <http://localhost:8000/resource/Unknown_except_for_60%2C000%2B_Orcs_of_Mordor> ;
+    tg:image "Ted Nasmith - Battle of the Black Gate.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Morannon"@en ;
+    tg:place <http://localhost:8000/resource/Dagorlad> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_the_Free_Peoples%3A%0A%2AFinal_defeat_of_Sauron_%28indirectly%29%0A%2ADestruction_of_the_One_Ring_%28indirectly%29> ;
+    tg:side1 <http://localhost:8000/resource/Army_of_the_West> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_Mordor%3Cbr%3EEasterlings%3Cbr%3EHaradrim%3Cbr%3EHill-trolls> .
+
+<http://localhost:8000/resource/Battle_of_the_Peak> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Gandalf> ;
+    tg:casual2 <http://localhost:8000/resource/Durin%27s_Bane> ;
+    tg:date "25 January {{TA|3019}}"@en ;
+    tg:image "Ted Nasmith - Gandalf and the Balrog Upon Celebdil.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Peak"@en ;
+    tg:place <http://localhost:8000/resource/Celebdil> ;
+    tg:result <http://localhost:8000/resource/Death_of_Durin%27s_Bane_and_Gandalf> ;
+    tg:side1 <http://localhost:8000/resource/Gandalf> ;
+    tg:side2 <http://localhost:8000/resource/Durin%27s_Bane> .
+
+<http://localhost:8000/resource/Battle_of_the_Pelennor_Fields> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Severe%2C_including_Th%C3%A9oden> ;
+    tg:casual2 <http://localhost:8000/resource/Near-total%2C_including_a_chieftain_of_the_Haradrim_and_the_Witch-king_of_Angmar> ;
+    tg:commanders1 <http://localhost:8000/resource/%2ADenethor_%E2%80%A0%0A%2AGandalf%0A%2AImrahil%0A%2AHirluin_%E2%80%A0%0A%2ATh%C3%A9oden_%E2%80%A0%0A%2AGrimbold_%E2%80%A0%0A%2AForlong_%E2%80%A0%0A%2A%C3%89omer%0A%2AAragorn> ;
+    tg:commanders2 <http://localhost:8000/resource/%2AThe_Witch-king_of_Angmar_%E2%80%A0%0A%2AGothmog_%28Lieutenant_of_Morgul%29> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/15_March_%7B%7BTA> ;
+    tg:forces1 "~3,000 defenders of Minas Tirith<br>6,000 Rohirrim reinforcements<br>Unknown Gondor reinforcements"@en ;
+    tg:forces2 """Unknown total strength, but vast numerical superiority to Gondor's forces
+*18,000 Haradrim"""@en ;
+    tg:image "Per Sjögren - The Battle of the Pelennor Fields.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Pelennor Fields"@en ;
+    tg:place <http://localhost:8000/resource/Minas_Tirith_and_Pelennor_Fields%2C_Gondor> ;
+    tg:result "Victory of Gondor and Rohan"@en ;
+    tg:side1 <http://localhost:8000/resource/Gondor%2C_Rohan> ;
+    tg:side2 <http://localhost:8000/resource/Mordor%2C_Harad%2C_Rh%C3%BBn%2C_Khand> .
+
+<http://localhost:8000/resource/Battle_of_the_Plains> a schema:Event ;
+    tg:casual1 "Severe"@en ;
+    tg:casual2 "Probably moderate"@en ;
+    tg:commanders1 "Narmacil II †"@en ;
+    tg:commanders2 "Unknown Wainrider commander"@en ;
+    tg:conflict <http://localhost:8000/resource/Wainrider/Balchoth_War> ;
+    tg:date "{{TA|1856}}"@en ;
+    tg:image "Olanda Fong-Surdenas - Easterling.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle of the Plains"@en ;
+    tg:place "Plains south of Mirkwood"@en ;
+    tg:result "Victory for the Wainriders"@en ;
+    tg:side1 "Gondor, Northmen (pre-Éothéod)"@en ;
+    tg:side2 "Wainriders"@en .
+
+<http://localhost:8000/resource/Battle_under_the_trees> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown, enough for defeat"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Thranduil> ;
+    tg:commanders2 <http://localhost:8000/resource/Kham%C3%BBl> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/15_March%2C_%7B%7BTA> ;
+    tg:forces1 "Unknown, enough for victory"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Soni Alcorn-Hender - Battle Under Trees, Elves and Orca.jpeg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Battle under the trees"@en ;
+    tg:place <http://localhost:8000/resource/Mirkwood> ;
+    tg:result <http://localhost:8000/resource/Thranduil_repels_the_forces_of_Dol_Guldur> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Mirkwood> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_Dol_Guldur> .
+
+<http://localhost:8000/resource/Dagor-nuin-Giliath> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Heavy, few survivors<ref>{{S|13}}, pp. 120 'Ten days that battle lasted, and from it returned of all the hosts that he had prepared for the conquest of Beleriand no more than a handful of leaves.'</ref>"@en ;
+    tg:commanders1 <http://localhost:8000/resource/F%C3%ABanor_%E2%80%A0%0A%3Cbr%3EMaedhros%3Cbr_/%3E%0AMaglor%3Cbr_/%3E%0ACelegorm%3Cbr_/%3E%0ACaranthir%3Cbr_/%3E%0ACurufin%3Cbr_/%3E%0AAmrod> ;
+    tg:commanders2 <http://localhost:8000/resource/Morgoth%3Cbr_/%3E%0AGothmog_%28balrog%29> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "Ten days in {{YT|1497}}<ref name=\"S|Return\">{{S|Return}}</ref>"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 <http://localhost:8000/resource/Unknown%2C_but_the_initial_host_of_Orcs_greatly_outnumbered_the_Noldor%3Cref%3E%7B%7BS> ;
+    tg:image "Thomas Rouillard - Last Seconds.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Dagor-nuin-Giliath"@en ;
+    tg:place <http://localhost:8000/resource/Mithrim_and_the_lands_east_of_Ered_Wethrin> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Exiles%3Cbr_/%3E%0A%2A_Death_of_F%C3%ABanor%0A%2A_Siege_of_the_Falas_lifted%0A%2A_Maedhros_captured> ;
+    tg:side1 <http://localhost:8000/resource/Exiles_%28Followers_of_F%C3%ABanor%29> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/Dagor_Aglareb> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Destroyed to the least and last"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Fingolfin%0A%3Cbr%3EMaedhros> ;
+    tg:commanders2 <http://localhost:8000/resource/Morgoth> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{FA|60}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Luis F. Bejarano - Dagor Aglareb.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Dagor Aglareb"@en ;
+    tg:place <http://localhost:8000/resource/Northern_Beleriand%2C_primarily_on_Ard-galen> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_the_Eldar%2C_beginning_of_the_Siege_of_Angband> ;
+    tg:side1 "Eldar"@en ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/Dagor_Bragollach> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Severe_for_both_Elves_and_Men%2C_including_the_virtual_destruction_of_the_House_of_B%C3%ABor> ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Fingolfin_%E2%80%A0%3Cbr_/%3E%0AMaedhros%3Cbr_/%3E%0AFinrod%3Cbr_/%3E%0AFingon%3Cbr_/%3E%0AAngrod_%E2%80%A0%3Cbr_/%3E%0AAegnor_%E2%80%A0%3Cbr_/%3E%0ACelegorm%3Cbr_/%3E%0ACurufin%3Cbr_/%3E%0AMaglor%3Cbr_/%3E%0ACaranthir%3Cbr_/%3E%0ABregolas_%E2%80%A0%3Cbr_/%3E%0AHador_%E2%80%A0%3Cbr_/%3E%0ABarahir%3Cbr_/%3E> ;
+    tg:commanders2 <http://localhost:8000/resource/Morgoth%3Cbr_/%3E%0AGlaurung%3Cbr_/%3E%0AGothmog_%28balrog%29> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{FA|455}}<ref name=\"GADB\">{{GA|145}}</ref>"@en ;
+    tg:forces1 <http://localhost:8000/resource/Unknown%2C_presumably_full_strength_of_the_league_which_included_the_Noldor%2C_Grey-elves_and_Edain%3Cbr_/%3EA_reinforcing_army_of_Elves_of_Nargothrond> ;
+    tg:forces2 <http://localhost:8000/resource/Unknown%2C_but_force_has_%22multitudes%22_of_Orcs%3Cbr_/%3EForce_of_Balrogs> ;
+    tg:image "Alan Lee - Battle of Sudden Flame.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Dagor Bragollach"@en ;
+    tg:place <http://localhost:8000/resource/The_north_of_Beleriand> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_Morgoth_%0A%2ABreaking_of_the_Siege_of_Angband%0A%2A_Destruction_of_Dorthonion%0A%2A_Burning_of_Ard-galen%2C_later_was_known_as_%27%27Anfauglith%27%27%0A%2A_Fall_of_Fingolfin> ;
+    tg:side1 <http://localhost:8000/resource/The_league_of_the_Eldar%3Cbr_/%3EElves_of_Nargothrond> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/Disaster_of_the_Gladden_Fields> a schema:Event ;
+    tg:casual1 """*Isildur
+*Entire escort save three"""@en ;
+    tg:casual2 "*Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2AIsildur> ;
+    tg:commanders2 "*Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/Post-War_of_the_Last_Alliance> ;
+    tg:date "{{TA|2}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/%2AIsildur%0A%2AIsildur%27s_three_sons%2C_Elendur_%28son_of_Isildur%29> ;
+    tg:forces2 "*Up to ten times the number of the Númenóreans"@en ;
+    tg:image "Anke Eißmann - The Death of Isildur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Disaster of the Gladden Fields"@en ;
+    tg:place <http://localhost:8000/resource/Gladden_Fields> ;
+    tg:result <http://localhost:8000/resource/Death_of_Isildur%2C_loss_of_the_One_Ring> ;
+    tg:side1 "*Isildur's Guard"@en ;
+    tg:side2 <http://localhost:8000/resource/%2AOrcs> .
+
+<http://localhost:8000/resource/Disaster_of_the_Morannon> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Severe%2C_including_prince_Faramir_%28son_of_Ondoher%29> ;
+    tg:casual2 "Probably moderate"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Ondoher_%E2%80%A0%0A%2AArtamir_%E2%80%A0%0A%2AMinohtar_%E2%80%A0%0A%2AAdrahil_%28Captain_of_the_Left_Wing%29> ;
+    tg:commanders2 "Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/Wainrider/Balchoth_War> ;
+    tg:date <http://localhost:8000/resource/12_July_%7B%7BTA> ;
+    tg:image "Olanda Fong-Surdenas - Easterling.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Disaster of the Morannon"@en ;
+    tg:place <http://localhost:8000/resource/Ithilien%2C_Morannon> ;
+    tg:result "Victory for the Wainriders"@en ;
+    tg:side1 <http://localhost:8000/resource/Gondor%2C_%C3%89oth%C3%A9od> ;
+    tg:side2 <http://localhost:8000/resource/Wainriders%2C_Haradrim%2C_Khand> .
+
+<http://localhost:8000/resource/Fall_of_Dol_Guldur> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Celeborn%3Cbr%3EGaladriel> ;
+    tg:commanders2 "Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/Began_on_28_March> ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Ralph Damiani - The cleansing of Dol Guldur.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Fall of Dol Guldur"@en ;
+    tg:place <http://localhost:8000/resource/Dol_Guldur> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Elves_of_L%C3%B3rien> ;
+    tg:side1 <http://localhost:8000/resource/Galadhrim> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/Fall_of_Gondolin> a schema:Event ;
+    tg:casual1 "Unknown, presumably moderate or heavy"@en ;
+    tg:casual2 "Near-total annihilation"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2A_Morgoth%0A%2A_Gothmog_%28balrog%29> ;
+    tg:commanders2 <http://localhost:8000/resource/%2A_Turgon_%E2%80%A0%0A%2A_Tuor%0A%2A_Ecthelion_%E2%80%A0%0A%2A_Glorfindel_%E2%80%A0> ;
+    tg:conflict <http://localhost:8000/resource/Battles_of_Beleriand> ;
+    tg:date "{{FA|510}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Balrogs%2C_wolves%2C_dragons%2C_Gondolindrim_led_by_Maeglin%2C_and_many_Orcs> ;
+    tg:forces2 "Many Noldor under the command of various lords and warriors"@en ;
+    tg:image "John Howe - The Fall of Gondolin.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Fall of Gondolin"@en ;
+    tg:place <http://localhost:8000/resource/Tumladen%2C_Amon_Gwareth%2C_Beleriand> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_Morgoth%0A%2AThe_destruction_of_Gondolin_and_the_majority_of_its_people%0A%2AScattered_survivors_fled_to_Nan-tathren> ;
+    tg:side1 <http://localhost:8000/resource/The_forces_of_Morgoth> ;
+    tg:side2 <http://localhost:8000/resource/Gondolindrim> .
+
+<http://localhost:8000/resource/Fall_of_Nargothrond> a schema:Event ;
+    tg:casual1 "Majority of the inhabitants killed or enslaved, few survivors"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 "Unknown"@en ;
+    tg:commanders2 <http://localhost:8000/resource/Glaurung> ;
+    tg:conflict <http://localhost:8000/resource/Battles_of_Beleriand> ;
+    tg:date "{{FA|495}}<ref>{{GA|275}}</ref><ref>{{S|Turin}}, 'when four hundred and ninety-five years had passed since the rising of the Moon'</ref>"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Abe Papakhian - Turin and Glaurung.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Fall of Nargothrond"@en ;
+    tg:place <http://localhost:8000/resource/Nargothrond> ;
+    tg:result <http://localhost:8000/resource/Victory_for_Morgoth%0A%2A_Utter_destruction_of_Nargothrond> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Nargothrond> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/First_Battle> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Unknown%2C_but_heavy_Laiquendi_losses%3Cref_name%3D%22Sindar%22%3E%7B%7BS> ;
+    tg:casual2 """Western host:<br />
+*Unknown
+Eastern host:<br />
+*Heavy, few survivors<ref>{{S|10}}, p. 106 'few returned indeed to Angband'</ref>"""@en ;
+    tg:commanders1 <http://localhost:8000/resource/Thingol%3Cbr_/%3E%0AC%C3%ADrdan%3Cbr_/%3E%0ADenethor_%28Nando%29> ;
+    tg:commanders2 <http://localhost:8000/resource/Morgoth> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{YT|1497}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown, force split into two hosts; western and eastern"@en ;
+    tg:image "Elena Kukanova - King of Doriath.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "First Battle"@en ;
+    tg:place <http://localhost:8000/resource/Across_Beleriand%2C_but_especially_on_the_plains_east_and_west_of_Doriath> ;
+    tg:result <http://localhost:8000/resource/Partial_victories_for_both_sides%0A%2AThe_Falas_is_besieged%0A%2AOrcs_wander_freely_throughout_Beleriand%0A%2AGirdle_of_Melian_created> ;
+    tg:side1 <http://localhost:8000/resource/Iathrim%3Cbr_/%3E%0AFalathrim%3Cbr_/%3E%0ALaiquendi%3Cbr_/%3E%0ADwarves_of_the_Blue_Mountains> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/First_Battle_of_the_Fords_of_Isen> a schema:Event ;
+    tg:casual1 "Théodred, several hundred Rohirrim"@en ;
+    tg:casual2 "Hundreds more than the Rohirrim"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2ATh%C3%A9odred%0A%2AGrimbold_%0A%2AElfhelm> ;
+    tg:commanders2 "Unknown"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/25_February_%7B%7BTA> ;
+    tg:forces1 """* 11 mounted companies and 1 company of archers (around 1400)
+*  Men from the Westfold
+* Four companies from Edoras, reinforcement (nearly 500)"""@en ;
+    tg:forces2 "Over 2000 Uruks, Dunlendings and orc wolf-riders"@en ;
+    tg:image "Alan Lee - The First Battle of the Fords of Isen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "First Battle of the Fords of Isen"@en ;
+    tg:place "The Fords of Isen, and the along road to Isengard 20 miles north"@en ;
+    tg:result "Saruman succeeds in achieving the death of Théodred, Saruman's forces retreat"@en ;
+    tg:side1 "Men from the Westfold and Edoras"@en ;
+    tg:side2 <http://localhost:8000/resource/Orcs_%28including_the_Uruk-hai%29%2C_Goblin-men> .
+
+<http://localhost:8000/resource/First_Siege_of_Imladris> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Elrond> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Elves_and_Sauron> ;
+    tg:date "{{SA|1697}} - {{SA|1700}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 <http://localhost:8000/resource/%22a_strong_detachment%22_left_behind_by_Sauron%3Cref_name%3D%22Galadriel%22/%3E> ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "First siege of Imladris"@en ;
+    tg:place <http://localhost:8000/resource/Imladris> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Elves%0A%2ASiege_lifted> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Eregion%3Cbr%3EElves_of_Lindon> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/Hunting_of_the_Wolf> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Beren%2C_Huan> ;
+    tg:casual2 <http://localhost:8000/resource/Carcharoth> ;
+    tg:conflict <http://localhost:8000/resource/Quest_for_the_Silmaril> ;
+    tg:date <http://localhost:8000/resource/First_Age_466> ;
+    tg:forces1 <http://localhost:8000/resource/Thingol%2C_Mablung%2C_Beleg%2C_Beren%2C_Huan> ;
+    tg:forces2 <http://localhost:8000/resource/Carcharoth> ;
+    tg:image "Alan Lee - The Hunting of the Wolf.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Hunting of the Wolf"@en ;
+    tg:place <http://localhost:8000/resource/Neldoreth> ;
+    tg:result <http://localhost:8000/resource/Carcharoth_is_slain%2C_Beren_and_Huan_are_slain%2C_the_Silmaril_is_recovered> .
+
+<http://localhost:8000/resource/Kinslaying_at_Alqualond%C3%AB> a schema:Event ;
+    tg:commanders1 <http://localhost:8000/resource/F%C3%ABanor%2C_Fingon> ;
+    tg:commanders2 <http://localhost:8000/resource/Olw%C3%AB> ;
+    tg:conflict <http://localhost:8000/resource/Exile_of_the_Noldor> ;
+    tg:date "{{YT|1495}}<ref>{{AA|117-144}}, pp. 106-115</ref>"@en ;
+    tg:image "Ted Nasmith - Kinslaying at Alqualondë.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Kinslaying at Alqualondë"@en ;
+    tg:place <http://localhost:8000/resource/Alqualond%C3%AB> ;
+    tg:result <http://localhost:8000/resource/Stealing_of_Telerin_boats%3Cbr_/%3EFall_of_the_Noldor%2C_Doom_of_Mandos> ;
+    tg:side1 <http://localhost:8000/resource/Houses_House_of_F%C3%ABanor> ;
+    tg:side2 <http://localhost:8000/resource/Falmari> .
+
+<http://localhost:8000/resource/Massacre_at_Tarn_Aeluin> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/All_outlaws_present%3A_%0A%2ABarahir_%0A%2ABaragund_%0A%2ABelegund_%0A%2ARadhruin_%0A%2ADairuin_%0A%2ADagnir%0A%2ARagnor%0A%2AGildor_%28outlaw%29> ;
+    tg:casual2 "*Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2ABarahir_%E2%80%A0> ;
+    tg:commanders2 "*Orc captain"@en ;
+    tg:date "{{FA|460}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Barahir%27s_B%C3%ABorings> ;
+    tg:forces2 "*Unknown number of Orcs"@en ;
+    tg:image "Alan Lee - no leaves they had, but ravens dark, sat thick as leaves on bough and bark.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Massacre at Tarn Aeluin"@en ;
+    tg:place <http://localhost:8000/resource/Tarn_Aeluin> ;
+    tg:result <http://localhost:8000/resource/Death_of_Barahir%3Cbr%3EDestruction_of_his_Barahir%27s_outlaws> ;
+    tg:side1 <http://localhost:8000/resource/%2AHouse_of_B%C3%ABor> ;
+    tg:side2 <http://localhost:8000/resource/%2AOrcs> .
+
+<http://localhost:8000/resource/Nirnaeth_Arnoediad> a schema:Event ;
+    tg:casual1 "Heavy"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Maedhros%3Cbr_/%3E%0AFingon_%E2%80%A0%3Cbr_/%3E%0ATurgon%3Cbr_/%3E%0AMablung%3Cbr_/%3E%0ABeleg%3Cbr_/%3E%0AGwindor%3Cbr_/%3E%0AH%C3%BArin> ;
+    tg:commanders2 <http://localhost:8000/resource/Morgoth%3Cbr_/%3E%0AGothmog_%28balrog%29> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{FA|472}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Elves%2C_Men%2C_Dwarves._Specific_numbers_are_not_given_other_than_force_of_10%2C000_Gondolindrim.%3Cref_name%3D%22NA%22%3E%7B%7BS> ;
+    tg:forces2 <http://localhost:8000/resource/Full_strength_of_Angband_including_Balrogs%2C_Wolves%2C_Orcs%2C_Dragons%2C_see_note_on_numbers.%3Cref_group%3Dnote%3EIn_the_%27%27Annals_of_Beleriand%27%27_it_is_written_that_there_were_100%2C000_Orcs_and_1000_Balrogs_when_Morgoth_emptied_Angband._It_is_unclear_if_this_number_was_definite_since_Tolkien_had_revised_the_number_of_Balrogs_significantly_over_the_development_of_the_story.%3C/ref%3E> ;
+    tg:image "Justin Gerard - Glaurung.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Nirnaeth Arnoediad"@en ;
+    tg:place <http://localhost:8000/resource/Anfauglith_and_the_Fen_of_Serech> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_Morgoth%0A%2AUnion_of_Maedhros_disbanded%0A%2ADeath_of_Fingon%0A%2AFall_of_H%C3%BArin%3Cref%3E%7B%7BCP> ;
+    tg:side1 <http://localhost:8000/resource/Union_of_Maedhros%3Cbr_/%3EGondolindrim_army> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth%3Cbr_/%3EEasterlings_%28First_Age%29> .
+
+<http://localhost:8000/resource/Sack_of_Bar-en-Danwedh> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/All_but_T%C3%BArin%2C_Beleg%2C_and_Andv%C3%ADr> ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/T%C3%BArin_Turambar%0A%3Cbr_/%3EBeleg> ;
+    tg:commanders2 "Unnamed Orc captain"@en ;
+    tg:conflict <http://localhost:8000/resource/Battles_of_Beleriand> ;
+    tg:date "{{FA|489}}"@en ;
+    tg:forces1 "Dozens of Túrin's outlaws"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Sack of Bar-en-Danwedh"@en ;
+    tg:place <http://localhost:8000/resource/Amon_R%C3%BBdh> ;
+    tg:result <http://localhost:8000/resource/Victory_for_Morgoth%0A%2A_Capture_of_T%C3%BArin%0A%2A_Destruction_of_the_Gaurwaith_and_Dor-C%C3%BAarthol> ;
+    tg:side1 "The Gaurwaith"@en ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Morgoth> .
+
+<http://localhost:8000/resource/Sack_of_Erebor> a schema:Event ;
+    tg:casual1 "Unknown but many, est. thousands of Dwarves (military and civilian), hundreds of Men including Girion"@en ;
+    tg:casual2 "None"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2AKing_Thr%C3%B3r%0A%2A_Lord_Girion_of_Dale_%E2%80%A0> ;
+    tg:commanders2 "*Smaug"@en ;
+    tg:conflict "Isolated event"@en ;
+    tg:date "{{TA|2770}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Unknown_est._5-10%2C000_Dwarves%2C_and_est._1-4%2C000_Men_of_Dale> ;
+    tg:forces2 "Smaug the Dragon"@en ;
+    tg:image "Lída Holubová - Smaug.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Sack of Erebor"@en ;
+    tg:place <http://localhost:8000/resource/Lonely_Mountain> ;
+    tg:result "Destruction of the Kingdom under the Mountain,<br/> slaughter of thousands of Dwarves"@en ;
+    tg:side1 "Dwarves, and Men"@en ;
+    tg:side2 <http://localhost:8000/resource/Smaug_the_Dragon> .
+
+<http://localhost:8000/resource/Sack_of_Eregion> a schema:Event ;
+    tg:caption <http://localhost:8000/resource/%27%27Mural_of_the_City_of_Ost-in-Edhil%27%27_by_Alan_Lee> ;
+    tg:casual1 "Heavy"@en ;
+    tg:casual2 "Unknown"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Celebrimbor_%E2%80%A0%3Cbr_/%3E%0AElrond%3Cbr_/%3E%0ACeleborn%3Cbr_/%3E%0AAmroth%3Cbr_/%3E%0ADurin_III> ;
+    tg:commanders2 <http://localhost:8000/resource/Sauron> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Elves_and_Sauron> ;
+    tg:date "{{SA|1697}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown, greater than the Elves"@en ;
+    tg:image "The Lord of the Rings (film series) - City of Ost-in-Edhil mural.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Sack of Eregion"@en ;
+    tg:place <http://localhost:8000/resource/Eregion> ;
+    tg:result <http://localhost:8000/resource/Victory_for_Sauron%0A%2ADestruction_of_Eregion%0A%2AFounding_of_Rivendell> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Eregion%3Cbr_/%3E%0AElves_of_Lindon%3Cbr_/%3E%0AGaladhrim> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/Sacking_of_Mount_Gundabad> a schema:Event ;
+    tg:casual1 "Unknown"@en ;
+    tg:casual2 "Obliterated<ref>{{App|Durin}}</ref>"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2AThr%C3%A1in> ;
+    tg:commanders2 "Unknown Orc Chieftain(s)"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Dwarves_and_Orcs> ;
+    tg:date "Between {{TA|2793}} and {{TA|2799}}. Most the first few years."@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Sacking of Mount Gundabad"@en ;
+    tg:place <http://localhost:8000/resource/Mount_Gundabad> ;
+    tg:result "The Dwarves wipe out all the Orcs they can find in the mountain and plunder it of any treasure or valuables"@en ;
+    tg:side1 <http://localhost:8000/resource/Durin%27s_Folk> ;
+    tg:side2 <http://localhost:8000/resource/Orcs_of_the_Misty_Mountains> .
+
+<http://localhost:8000/resource/Second_Battle_of_the_Fords_of_Isen> a schema:Event ;
+    tg:caption <http://localhost:8000/resource/Second_Battle_of_the_Fords_of_Isen_in_%27%27The_Lord_of_the_Rings_Online%27%27> ;
+    tg:casual1 "Heavy"@en ;
+    tg:casual2 "Moderate"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2AGrimbold%0A%2AElfhelm> ;
+    tg:commanders2 "Unnamed Uruk-hai captain"@en ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/2_March%2C_%7B%7BTA> ;
+    tg:forces1 "About 2,000 men"@en ;
+    tg:forces2 "Over 10,000 Uruk-hai, Orcs, Dunlendings, Wargs, and evil men"@en ;
+    tg:image "The Lord of the Rings Online - Second Battle of the Fords of Isen.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Second Battle of the Fords of Isen"@en ;
+    tg:place <http://localhost:8000/resource/The_Fords_of_Isen> ;
+    tg:result "Isengard victory, scattering of the Rohirrim"@en ;
+    tg:side1 <http://localhost:8000/resource/Rohan> ;
+    tg:side2 <http://localhost:8000/resource/Isengard> .
+
+<http://localhost:8000/resource/Second_Kinslaying> a schema:Event ;
+    tg:casual1 <http://localhost:8000/resource/Heavy%2C_includes_Nimloth_of_Doriath> ;
+    tg:casual2 <http://localhost:8000/resource/Unknown%2C_but_it_includes_Celegorm%2C_Caranthir_and_Curufin> ;
+    tg:commanders1 <http://localhost:8000/resource/Dior> ;
+    tg:commanders2 <http://localhost:8000/resource/Maedhros> ;
+    tg:conflict <http://localhost:8000/resource/Pre-War_of_Wrath%3B_result_of_the_Oath_of_F%C3%ABanor> ;
+    tg:date "{{FA|506}} - {{FA|507|n}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Jenny_Dolfen_-_The_Oath_Has_Been_Awakened....jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Second Kinslaying"@en ;
+    tg:place <http://localhost:8000/resource/Menegroth> ;
+    tg:result <http://localhost:8000/resource/Military_only_victory_for_the_Sons_of_F%C3%ABanor_%0A%2AFinal_destruction_of_the_Kingdom_of_Doriath> ;
+    tg:side1 <http://localhost:8000/resource/Iathrim> ;
+    tg:side2 <http://localhost:8000/resource/The_Sons_of_F%C3%ABanor_and_their_followers> .
+
+<http://localhost:8000/resource/Second_siege_of_Imladris> a schema:Event ;
+    tg:casual1 "Unknown, but probably light"@en ;
+    tg:casual2 "Unknown, but likely significant"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Elrond> ;
+    tg:commanders2 <http://localhost:8000/resource/Possibly_the_Witch-King> ;
+    tg:conflict <http://localhost:8000/resource/Angmar_conflict> ;
+    tg:date "C. {{TA}} 1400"@en ;
+    tg:forces1 "Several thousand Elves"@en ;
+    tg:forces2 "Likely thousands of Orcs, Evil Men, other creatures"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Second siege of Imladris"@en ;
+    tg:place <http://localhost:8000/resource/Rivendell> ;
+    tg:result "Angmar defeated, Rivendell leads counteroffensive"@en ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Rivendell> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Angmar> .
+
+<http://localhost:8000/resource/Siege_of_Barad-d%C3%BBr> a schema:Event ;
+    tg:casual1 "Unknown (Severe)"@en ;
+    tg:casual2 "Unknown (Almost all slain)"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2A_Gil-galad%E2%80%A0%0A%2A_C%C3%ADrdan%0A%2A_Elrond%0A%2A_Elendil%E2%80%A0%0A%2A_Isildur%0A%2A_An%C3%A1rion%E2%80%A0%0A%2A_Thranduil> ;
+    tg:commanders2 <http://localhost:8000/resource/%2A_Sauron> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Last_Alliance> ;
+    tg:date "{{SA|3434}} - {{SA|3441}}"@en ;
+    tg:forces1 <http://localhost:8000/resource/Great_host_of_D%C3%BAnedain%3B_Elves_of_Lindon%2C_Rivendell%2C_Elves_of_Mirkwood> ;
+    tg:forces2 <http://localhost:8000/resource/Smaller_host_of_Orcs%2C_Men_of_Darkness> ;
+    tg:image "Abe Papakhian - I Behold (colour).jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Siege of Barad-dûr"@en ;
+    tg:place <http://localhost:8000/resource/Barad-d%C3%BBr%2C_Mount_Doom%2C_Mordor> ;
+    tg:result <http://localhost:8000/resource/Last_Alliance_victory%2C_disembodiment_of_Sauron> ;
+    tg:side1 <http://localhost:8000/resource/Last_Alliance_of_Elves_and_Men> ;
+    tg:side2 <http://localhost:8000/resource/Forces_of_Sauron> .
+
+<http://localhost:8000/resource/Siege_of_Gondor> a schema:Event ;
+    tg:casual1 "Heavy"@en ;
+    tg:casual2 "Heavy"@en ;
+    tg:commanders1 <http://localhost:8000/resource/%2ADenethor%0A%2AGandalf%0A%2AFaramir%0A%2AForlong%0A%2AImrahil%0A%2AHirluin%0A%2ATh%C3%A9oden%0A%2AGrimbold%0A%2A%C3%89omer> ;
+    tg:commanders2 <http://localhost:8000/resource/%2AThe_Witch-king_of_Angmar%0A%2AGothmog_%28Lieutenant_of_Morgul%29> ;
+    tg:conflict <http://localhost:8000/resource/War_of_the_Ring> ;
+    tg:date <http://localhost:8000/resource/13_March_-_14_March_%7B%7BTA> ;
+    tg:forces1 "Unknown number engaged"@en ;
+    tg:forces2 "Unknown number engaged"@en ;
+    tg:image "Stephen Hickman - Siege of Minas Tirith.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Siege of Gondor"@en ;
+    tg:place <http://localhost:8000/resource/Minas_Tirith_and_fields_of_Pelennor%2C_Gondor> ;
+    tg:result "Siege broken by Gondor and Rohan"@en ;
+    tg:side1 <http://localhost:8000/resource/Gondor%2C_Rohan> ;
+    tg:side2 <http://localhost:8000/resource/Mordor%2C_Harad%2C_Rh%C3%BBn%2C_Khand> .
+
+<http://localhost:8000/resource/Third_Kinslaying> a schema:Event ;
+    tg:casual1 "Heavy"@en ;
+    tg:casual2 <http://localhost:8000/resource/Unknown%2C_but_includes_Amrod_and_Amras> ;
+    tg:commanders1 <http://localhost:8000/resource/C%C3%ADrdan%3Cbr_/%3E%0AGil-galad> ;
+    tg:commanders2 <http://localhost:8000/resource/Maedhros%3Cbr_/%3E%0AMaglor> ;
+    tg:conflict <http://localhost:8000/resource/Pre-War_of_Wrath%3B_result_of_the_Oath_of_F%C3%ABanor> ;
+    tg:date "{{FA|538}}"@en ;
+    tg:forces1 "Unknown"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Catherine Karina Chmiel - And Maglor took pity upon them.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "Third Kinslaying"@en ;
+    tg:place <http://localhost:8000/resource/Havens_of_Sirion> ;
+    tg:result <http://localhost:8000/resource/Victory_for_the_Sons_of_F%C3%ABanor%0A%2AElwing_escapes_with_the_Silmaril> ;
+    tg:side1 <http://localhost:8000/resource/Elves_of_Sirion%3Cbr_/%3E%0AF%C3%ABanorian_rebels> ;
+    tg:side2 <http://localhost:8000/resource/Sons_of_F%C3%ABanor> .
+
+<http://localhost:8000/resource/War_of_Wrath> a schema:Event ;
+    tg:casual1 "Near utter annihilation"@en ;
+    tg:casual2 "Unknown, presumably substantial"@en ;
+    tg:commanders1 <http://localhost:8000/resource/Morgoth%3Cbr_/%3E_%28Supreme_Commander_of_the_Morgoth%27s_forces%29%0AAncalagon_%E2%80%A0%3Cbr_/%3E_%28Commander_of_the_Winged_Dragons%29> ;
+    tg:commanders2 <http://localhost:8000/resource/E%C3%B6nw%C3%AB%3Cbr_/%3E_%28Chief_Commander_of_the_Host_of_the_West%29_Finarfin%3Cbr_/%3E_%28Commander_of_the_Elves_of_Valinor%29%0AIngwion%3Cbr_/%3E_%28Possibly_Co-commander_of_the_Elves_of_Valinor%29%3Cref_group%3D%22note%22%3EIn_the_published_%27%27Silmarillion%27%27%2C_Ingwion_has_disappeared%2C_and_only_Finarfin_is_named_as_a_leader_of_the_armies_of_the_Elves._In_%27%27The_Shaping_of_Middle-earth%27%27%2C_p._196%2C_Christopher_Tolkien_suggests_that_this_omission_may_have_been_an_error%2C_and_Ingwiel_%28early_name_of_Ingwion%29_should_have_remained_in_the_text_as_joint_commander_of_the_Elves_of_Valinor.%3C/ref%3E%3Cref%3E%7B%7BLR> ;
+    tg:conflict <http://localhost:8000/resource/Wars_of_Beleriand> ;
+    tg:date "{{FA|545}} - {{FA|587|n}}"@en ;
+    tg:forces1 "Unknown, \"whole power of the Throne of Morgoth\"<ref name=\"WW\">{{S|24}}</ref>"@en ;
+    tg:forces2 "Unknown"@en ;
+    tg:image "Per Sjögren - War of Wrath.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/battle> ;
+    tg:name "War of Wrath"@en ;
+    tg:place <http://localhost:8000/resource/The_lands_around_Angband> ;
+    tg:result <http://localhost:8000/resource/Decisive_victory_for_the_Host_of_the_Valar> ;
+    tg:side1 <http://localhost:8000/resource/Forces_of_Morgoth> ;
+    tg:side2 <http://localhost:8000/resource/Host_of_the_Valar> .
+

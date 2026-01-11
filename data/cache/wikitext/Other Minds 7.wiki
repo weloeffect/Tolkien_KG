@@ -1,0 +1,38 @@
+{{journal
+| title=Other Minds 7
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson, Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=July [[2009]]
+| format=PDF
+| pages=42
+| issn=
+}}
+
+'''''Other Minds'' 7''' is the seventh issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in July 2009.
+
+==Contents==
+* "Editorial: A Magical Number"
+** By [[Thomas Morwinsky]]
+* "Inside Information"
+** By Thomas Morwinsky
+* "The Angmarrim"
+** By Thomas Morwinsky
+* "The Other Side"
+** By José Enrique Vacas de la Rosa
+* "MERP Supplementary Rules"
+** By Thomas Morwinsky
+* "The Ebbs and Flows of Númenórean Technology"
+** By António Simões
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Appendix A: Spell Lists for 'MERP Supplementary Rules'"
+* "Appendix B: Chronologies for 'The Ebbs and Flows of Númenórean Technology'"
+
+*'''Artwork / Maps:'''
+** By: Catherine Karina Chmiel
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 07}}
+[[Category:Other Minds]]

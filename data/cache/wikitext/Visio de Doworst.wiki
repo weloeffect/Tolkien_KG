@@ -1,0 +1,43 @@
+{{Poem infobox
+| title=Visio de Doworst
+| other names=''Doworst'',<br>''Do Worst'',<br>''Visio Petri Aratoris de Doworst'',<br>''Incipit Visio Petri Aratoris de Doworst''
+| written=Around [[1933]]
+| revised=Summer, [[1953]]
+| published=''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=Non-legendarium poetry
+}}
+
+'''''Visio de Doworst''''' is a humorous poem that was written by [[J.R.R. Tolkien]] in a medieval style reminiscent of ''[[Wikipedia:Piers Plowman|Piers Plowman]]''.<ref name=RG>{{CG|RG}}, p. 214</ref>
+
+== First stanza ==
+<poem style="font-style:italic; margin-left:20px;">
+In a summer season when sultry was the sun
+   with lourdains and lubbers I lounged in a hall,
+   and wood in his wits was each wight as meseemed:
+   on his head was a hat as hard as a board,
+   on his neck was there knotted a noose all of white
+   with big bow and broad as a butterfly's wings.
+   Most of that meiny had on mantles of stuff,
+   shrouds short as shrift and shapeless as sacks
+   that never covered their tails nor their touts either.
+   The clamour of that company was the cackle of hens,
+   till a bell rang brazenly —- that abated their noise!<ref name=collectedpoems>{{CP|139}}</ref></poem>
+
+== Background ==
+[[File:J.R.R. Tolkien - Doworst (manuscript).jpg|thumb|Tolkien's decorated manuscript.]]
+The earliest surviving<ref name=collectedpoems/> manuscript, entitled both '''''Doworst''''' and '''''Visio Petri Aratoris de Doworst''''', was [[Letter to R.W. Chambers|given]] by Tolkien to [[R.W. Chambers]] as a [[Christmas]] gift<ref name=chambers>{{CG|2II}}, entry "Chambers, Raymond Wilson"</ref> on December 21<ref name=collectedpoems/> of [[1933]]. After the death of Chambers in [[1942]]<ref name=collectedpoems/>, the decorated manuscript containing the poem came into the possession of his secretary<ref name=collectedpoems/>, Winifred Husband. In [[1957]],<ref name=collectedpoems/> upon her retirement, Husband gave the manuscript to Arthur Brown, who later became the Professor of English at [[Wikipedia:Monash University|Monash University]] in Australia.<ref name=RG/>
+
+While the manuscript was later lost upon Brown's death in [[1979]],<ref name=collectedpoems/> parts of the poem and its background were printed as "'''''Do Worst'''''" in "Fantasy that! — a Tolkien original", an article published in July of [[1975]] within the third issue of the ''[[Monash Review 3 (1975)|Monash Review]]''. The article describes the poem's background and contains a transcription of a letter from Tolkien to R.W. Chambers.<ref>{{webcite|author=|articleurl=http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1805&forum=9&post_id=9618#forumpost9618|articlename=Doworst in 'Monash Review'|dated=|website=Guide|accessed=27 February 2012}}</ref>
+
+In the summer of [[1978]], the first nineteen lines of the poem were printed as "'''''Doworst'''''" in an article on the third page of [[A Elbereth Gilthoniel! 1, no. 2|''A Elbereth Gilthoniel!'' 1, no. 2]], an issue of ''A Elbereth Gilthoniel!'', a newsletter published by The Fellowship of Middle Earth, a Tolkien fan-group at Monash University.<ref name=RG/><ref name=DA>[[Douglas A. Anderson]], "R. W. Chambers and ''The Hobbit''", in ''Tolkien Studies'', Vol. III, p. 144</ref><ref name=TB>"[http://www.tolkienbooks.net/php/details.php?reference=63510 A Elbereth Gilthoniel. 1978]" on tolkienbooks.net</ref><ref name=collector>"[http://www.tolkienguide.com/modules/wiwimod/index.php?page=AElbereth2-78 A Elbereth Gilthoniel! #2 (1978)]" on tolkienguide.com, July 7, 2011</ref> The exact month and day of the issue’s publication is not known, but it was likely published either between June and July,<ref name=DA/><ref name=TB/> or between May and August.<ref name=collector/><ref name=MU>"[http://libus.csd.mu.edu/record=b2244689 A elbereth gilthoniel! (microform)]" on [http://libus.csd.mu.edu/ Marquette University Libraries Online Catalog]</ref>
+
+Though the original manuscript was lost, Tolkien made another manuscript entitled '''''Incipit Visio Petri Aratoris de Doworst''''', which he gave to [[C.S. Lewis]]. After Lewis's death in [[1963]], the manuscript came into Walter Hooper's possession and ended up in the Bodleian Library after Hooper's death.<ref name=collectedpoems/>
+
+In the summer of [[1953]],<ref name=RG/> Tolkien revised the poem, shortening it significantly, and gave a calligraphic<ref name=lea>{{CG|2II}}, entry "Lea, Kathleen Marguerite"</ref> copy of it to Kathleen Lea,<ref name=RG/> who sent him a letter of thanks and some [[Wikipedia:Sherry|sherry]]<ref name=lea/> on [[5 August]]. This version was entitled ''Visio de Doworst''.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems by J.R.R. Tolkien]]
+[[Category:Unpublished material]]

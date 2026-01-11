@@ -1,0 +1,32 @@
+{{VTbox
+| title=Vinyar Tengwar 6
+| image = Vinyar Tengwar 6.png
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Tom Loback]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=June [[1989]]
+| format=Paperback journal
+| pages=16
+}}
+'''''Vinyar Tengwar 6''''' is the sixth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|5|7}}
+
+==Contents==
+* Cover: "But Lungorthin, Lord of Balrogs, on the Mouth Smote Him" — Tom Loback
+* E.L.F. News
+* Letters to ''VT''
+
+* "Glossaries from the '[[Etymologies]]', Part II" — Ronald Kyrmse
+* "J.R.R. Tolkien’s Runes" — Jane Sibley
+* "''Essitalmar'': Context, Context, Context..." (column) — Tom Loback
+* "''Nirnaeth Galadriel''" — trans. Craig Marnock
+* "''[[Narqelion]]''" — J.R.R. Tolkien
+* "A Brief Note on the Background of the Letter from J.R.R. Tolkien to [[Dick Plotz]] Concerning the Declension of the High-elvish Noun"✫ — Jorge Quiñónez
+
+<small>✫ contains formerly unpublished material</small>
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 06}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 6]]

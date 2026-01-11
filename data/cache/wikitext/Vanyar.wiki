@@ -1,0 +1,70 @@
+{{people infobox
+| name=Vanyar
+| image = Marya Filatova - Indis of the Vanyar.jpg
+| caption="Indis of the Vanyar" by [[Marya Filatova]]
+| pronun=[[Quenya|Q]]. {{IPA|[ˈvaɲar]}}
+| othernames=''Minyar'' ([[Quenya|Q]]), ''Minil'' ([[Sindarin|S]]), ''Vaniai'' ([[Telerin|T]]), Light-elves, Fair-elves
+| origin=
+| location=[[Oiolossë]]; [[Valimar]]
+| affiliation=[[Host of the Valar]]
+| rivalry=
+| language=[[Quenya]] ([[Vanyarin]] dialect)
+| members=[[Imin]], [[Iminyë]], [[Ingwë]], [[Indis]], [[Elemmírë (Elf)|Elemmírë]], [[Elenwë]], [[Amarië]], and others
+| lifespan=[[Immortal]]
+| distinctions=Gifted in poetry and song. Loved by [[Manwë]] and [[Varda]]
+| height=Tall
+| hair=Usually golden
+| skin=Pale
+| clothing=
+| weapons=
+}}
+{{quote|The smallest host and the first to set forth was led by [[Ingwë]], the most high lord of all the Elvish race. He entered into [[Valinor]] and sits at the feet of the Powers, and all Elves revere his name; but he came never back, nor looked again upon Middle-earth. The Vanyar were his people; they are the Fair Elves, the beloved of [[Manwë]] and [[Varda]], and few among Men have spoken with them.|''[[The Silmarillion]]'', "[[Of the Coming of the Elves and the Captivity of Melkor]]"}}
+The '''Vanyar''' were one of the three groups of [[Calaquendi|High Elves]], along with the [[Noldor]], and some of the [[Teleri]] (more specifically, the [[Falmari]]). They were known as the "Fair-elves" from the fair colour of their hair.
+
+==History==
+According to legend, the clan was founded by [[Imin]], the first [[Elves|Elf]] to awake in [[Cuiviénen]], his wife [[Iminyë]], and their twelve companions. At this time, they were called the '''Minyar''' (Quenya "first ones"). 
+
+However, it was [[Ingwë]], the first Vanya to travel with [[Oromë]] to [[Valinor]], who became their king. Always eager to reach Valinor, none of the Vanyar [[Avari|refused to go]] and were on the vanguard of the [[Great March]]; they reached [[Beleriand]] first and sailed on the first voyage of [[Tol Eressëa]] with the [[Noldor]].<ref name="s3" /> 
+
+At first the Vanyar dwelt in [[Tirion]] with the [[Noldor]], but they loved the light of the [[Two Trees of Valinor]] and settled in the plains and woods of [[Valinor]] or the slopes of [[Taniquetil]].<ref name="princes" /> Their King Ingwë became the ''[[High King of the Elves]]'' and lived on Taniquetil beneath the halls of [[Manwë]].<ref name="princes">{{S|Princes}}</ref>
+
+After the release of [[Melkor]], they were suspicious of him, being content within the [[Light of Valinor]].<ref>{{S|6}}</ref> In the [[Darkening of Valinor]] they were next to the [[Valar]] and [[Maiar]] inside the [[Ring of Doom]].<ref>{{S|8}}</ref>
+
+A notable Vanya was [[Indis]], the second wife of [[Finwë]] and mother of [[Fingolfin]] and [[Finarfin]]. Her second son Finarfin inherited her golden hair and passed it on to his children, including [[Galadriel]]. Nearly all full-blooded Vanyar were content to remain in Valinor and few were ever seen in [[Middle-earth]],<ref name="s3">{{S|3}}</ref> as they only returned with the [[Host of Valinor]] for the [[War of Wrath]].<ref name="war">{{S|24}}</ref> The only named full Vanya known to have left Valinor against the will of the Valar was [[Elenwë]], the wife of [[Turgon]], who perished crossing the [[Helcaraxë]] and never reached the shores of Middle-earth.<ref>{{S|9}}</ref> Her daughter [[Idril]], who survived the crossing, had the greatest share of Vanyarin blood of any named Exile, being five-eighths Vanyar.
+
+==Characteristics==
+The Vanyar were the first and smallest clan of the Elves, being only fourteen in number in their beginning.<ref>{{WJ|Quendi}} p. 381</ref> All among them had golden hair. They were the most beloved by [[Manwë]] and [[Varda]]<ref name="s3" /><ref name="princes" /> and the Elder King gave them his gift of poetry and song.<ref>{{S|IIb}}</ref>
+
+In the [[War of Wrath]] they held white banners<ref name="war" /> and it is said they preferred spears instead of swords and bows.<ref name="spear" />
+
+==Etymology==
+The name ''Vanyar'' means "the Fair" in [[Quenya]], referring to their golden hair. It seems to be from a [[primitive Elvish]] form ''[[bányâ]]''<ref>{{LR|Etymologies}}, p. 351</ref><ref>{{HM|PM}}, p. 402</ref> (stem [[BAN]]) but also from ''[[wanjâ]]'' (stem [[WAN]]).<ref>{{HM|WJ}}, p. 383</ref> The Telerin cognate is '''''Vaniai'''''.<ref name="Quendi" /> 
+
+The name was likely given to them by the Noldor and referred to the hair of the Minyar, which was yellow or deep golden in nearly all members of the clan. The Noldor, because of their love for gold, regarded this a beautiful trait.<ref name="clan">{{WJ|C}}</ref>{{rp|382–3}} The term probably originated around the time of the Sundering,{{fact}} if somewhat later. The Vanyar accepted it, but continued to refer to themselves as ''Minyar''.<ref name="clan">{{WJ|C}}</ref>{{rp|382–3}}
+
+==Other names==
+The Vanyar called themselves '''''Minyar''''' ("the Firsts"), their ancient name. At times, they also called themselves '''''Ingwer,''''' deriving from the Quenya word ''inga'' (‘top, highest point’)<ref>{{PM|Finwe}}</ref>{{rp|420}} 
+
+The name '''''Ingar''''' refers to "the people of Ingwë".<ref>{{MR|P3II3e}}</ref>{{rp|note 22}}
+
+[[Tolkien]] refers to the Vanyar as having an alternate name of '''''Ingwi''''' when detailing the loss of the sound "þ" by the Noldor: ''"in Valinor they dwelt between the Vanyar (Ingwi) and the Teleri (Lindar), with whom they were in communication and sometimes intermarried."''<ref>{{PM|Case}}</ref>{{rp|409}}
+
+In [[Sindarin]] they were called '''''[[Miniel|Minil]]''''' (singular ''Miniel'').<ref name="Quendi">{{WJ|Quendi}}, p. 383</ref>
+
+The Vanyar were also known under the name "'''Fair-elves'''",<ref name="s3" /> from the fair colour of their hair.<ref>{{S|Index}}, ''Vanyar''</ref> They were also known as the "'''Light-elves'''".<ref>{{H|Flies}}</ref> 
+
+In an early form of the Legendarium, they are also called the "Spear-elves" for their love of spears, as opposed to the sword and shield of the Noldor and the bow and arrow of the [[Solosimpi]].<ref name="spear">{{LR|Quenta}}, p. 215 footnote to §29</ref>
+
+==Other versions of the legendarium==
+In the earliest versions of [[J.R.R. Tolkien|Tolkien's]] [[Legendarium]] (see: ''[[The Book of Lost Tales Part One]]''), the first clan was called '''''Teleri''''' and '''''Lindar''''', names that later were given to the third clan instead (the Elves known as [[Teleri]] in the published version of ''[[The Silmarillion]]'' were called ''[[Solosimpi]]'' back then).
+
+In ''The Book of Lost Tales'' the '''Inwir''' were a ‘royal’ clan ''within'' the Teleri (Vanyar).<ref>{{LT1|LinkC}}</ref>{{rp|62}} This distinction continued in the 1930s ''[[The Lhammas]]'' where the chief house of the Lindar (Vanyar) were known as '''Ingwelindar''' or '''Ingwi'''.<ref>{{LR|Lhammas}}</ref>{{rp|148}}
+
+{{elves}}
+{{references}}
+[[Category:Elven peoples]]
+[[Category:Quenya demonyms]]
+[[Category:Vanyar| ]]
+[[de:Vanyar]]
+[[fr:encyclo/peuples/elfes/vanyar]]
+[[fi:Vanyar]]

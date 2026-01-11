@@ -1,0 +1,38 @@
+{{Adaptation}}
+
+{{organization infobox
+| name=Gaudrim
+| image=The Rings of Power (TV series) - Gaudrim.png
+| caption=
+| pronun=
+| othernames=
+| founded=
+| founder=
+| purpose=Serving the [[Dark Wizard]] as mercenaries
+| members=[[Brânk]], [[Kilta]], other [[Easterlings]]
+| location=[[Caras Gaer]] in [[Rhûn|Western Rhûn]]
+| disbanded=
+| notablefor=
+}}
+
+The '''Gaudrim''' were [[Easterlings|Easterling]] mercenaries<ref>[https://bearmccreary.com/the-lord-of-the-rings-episode-202/ The Lord of the Rings: Episode 202], by [[Bear McCreary]], oct. 15, 2024</ref> from [[Rhûn]] who served the [[Dark Wizard]] in the late [[Second Age]]. The Gaudrim were invented for ''[[The Lord of the Rings: The Rings of Power]]'' by [[Amazon Studios]]. They appeared in the second season of the series.
+
+==History==
+While in the service of the [[Dark Wizard]] who dwelt in [[Caras Gaer]], the Gaudrim, led by [[Brânk]], pursued and attempted to capture [[Gandalf|the Stranger]] as well as the [[Harfoots]] [[Elanor Brandyfoot|Nori Brandyfoot]] and [[Poppy Proudfellow]]. They were unsuccessful after [[the Stranger]] magically conjured a sandstorm which caused the Gaudrim to flee.
+
+The Gaudrim scouts later come upon the [[Stoors|Stoor]] village and find both Nori and Poppy staying there. Brânk captured the two Harfoots and, while demanding his payment for their capture, threatened Nori's life while the Dark Wizard was attempting to persuade the Stranger to join him. The Dark Wizard used his magic to push Brânk against rock wall where a jagged branch dug into the back of the Gaudrim's head, appearing to kill him.
+
+His apparent death showed the Dark Wizard's aptitude for violence and caused the Stranger to refuse to fall in league the Dark Wizard. The fate of the rest of the Gaudrim riders is unknown.
+
+==Characteristics==
+The Gaudrim all don metallic masks and long robes that collectively obscure all of their skin and features due to a curse that the Dark Wizard put on their flesh.
+
+== Etymology ==
+The term ''Gaudrim'' is never glossed in the series or by its creator, but it is probably [[Sindarin]], from ''gaud'' ("contrivance, machine")<ref>{{Cite web|articleurl=https://www.elfdict.com/wt/129928|articlename=Gaud|author=Parf Edhellen: an elvish dictionary|accessed=21 October 2024}}</ref> and the suffix ''[[-rim]]'' (a general or group plural ending).<ref>{{Cite web|articleurl=https://www.elfdict.com/wt/22055|articlename=-rim|author=Parf Edhellen: an elvish dictionary|accessed=21 October 2024}}</ref>
+
+==See also==
+*[[Rhûnnic]]
+
+{{references}}
+[[Category:Men from adaptations]]
+[[Category:The Rings of Power (TV series) characters]]

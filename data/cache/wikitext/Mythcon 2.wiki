@@ -1,0 +1,20 @@
+{{short description|1971 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 2
+| location=Francisco Torres Conference Center, Santa Barbara, California
+| organizer=[[Mythopoeic Society]]
+| dates=3-6 September, [[1971]]
+| attendees=
+|previous=[[Mythcon 1]]|next=[[Mythcon 3]]}}
+'''Mythcon 2''' was the second annual [[Mythopoeic Society]] conference. 
+
+*'''Guest of Honor:''' Mary McDermott Shideler (Williams scholar)
+*'''Chairman:''' [[Glen GoodKnight]]
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-2.htm Mythcon 2 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 02}}
+[[Category:Mythcon]]

@@ -1,0 +1,68 @@
+{{location infobox
+| name=The Argonath
+| image=John Howe - The Argonath.jpg
+| caption="The Argonath" by [[John Howe]]
+| pronun=
+| othernames=''Argonad'' ([[Sindarin]])<br />Pillars of the Kings, Gates of Argonath, Gates of the Kings, Gates of Gondor
+| location=Northern end of [[Nen Hithoel]], both sides of [[Anduin]]
+| type=Statues/Monuments
+| description=Gigantic figures of [[Isildur]] and [[Anárion]]
+| regions=
+| towns=
+| inhabitants=
+| created=Soon after {{TA|1248}}
+| destroyed=
+| events=
+| gallery=the Argonath
+}}
+
+The '''Argonath''', also known as the '''Pillars of the Kings''',<ref name="River">{{FR|River}}, p. 392</ref> or the '''Gate of Kings'''<ref>{{TT|Departure}}, p. 418</ref><ref>{{RK|Muster}}, p. 799</ref> was a landmark on the northern edge of [[Gondor]].
+
+==Description==
+The Argonath consisted of two enormous rock pillars, carved in the likenesses of [[Isildur]] and [[Anárion]] facing to the north. Placed upon huge pedestals, each of the two figures held an axe in its right hand and its left hand rose in a gesture of defiance to the enemies of [[Gondor]]. The two statues stood upon either side of the River [[Anduin]].<ref name="River" /> A narrow gap between them<ref name="River" /> led to a long dark chasm with high sheer cliffs which led to the lake [[Nen Hithoel]].<ref>{{FR|River}}, p. 393</ref>
+
+==History==
+When the [[Easterlings]] attacked [[Northmen]] that settled south of [[Mirkwood|Greenwood the Great]], [[Minalcar]], the nephew of King [[Narmacil I]] and [[Regent of Gondor]], led a great army that defeated the [[Easterlings]] between [[Rhovanion]] and the [[Sea of Rhûn]] in {{TA|1248}}. When he returned he fortified the eastern banks of the Anduin and built the pillars of the Argonath.<ref>{{App|Gondor}}, entry for Minalcar (Rómendacil), p. 1046</ref>
+ 
+At the time of the [[War of the Ring]] the Argonath and the [[Emyn Muil]] with [[Amon Hen]] with its Seat of Seeing and [[Amon Lhaw]], the Hill of Hearing were still a part of Gondor,<ref>{{HM|RC}}, citing from a letter by J.R.R. Tolkien to Milton Waldman from late 1951: "They pass the water-gate into the old realm of Gondor", p. 745</ref><ref>{{UT|Eorl}}, "The bounds of the realm of Eorl were to be: [...] the Anduin and the west-cliff of the Emyn Muil down to the marshes of the mouths of Onodló"</ref> but the area was deserted. 
+
+On [[25 February]] {{TA|3019}},<ref>{{App|Great}}, entry for the year 3019, February 25, p. 1092</ref> the [[Fellowship of the Ring]] rowed down the river Anduin between the Pillars of the Kings on their journey south. Time had blurred their eyes and crannied their brows but the two figures still exuded power and majesty.<ref name="River" />
+
+==Etymology==
+{{Pronounce|Argonath.mp3|Ardamir}}
+''Argonath'' is a [[Sindarin]] name, which means "royal stones",<ref name="N">{{HM|N}}, entry ''Argonath'', p. 347</ref> "pair of royal stones"<ref>{{RGEO|Notes}}, p. 67</ref> or "the group of (two) noble stones".<ref name="Letter">{{L|347}}, p. 427, answer to question 5. ''Aragorn'', ''ath'':</ref> It is a compound of ''[[ara|Ar(a)]]'' (a prefix expressing royalty) and the shorter form ''gon'' ("stone" used for smaller objects made of stone, especially carved figures) of ''[[gond]]'' and ''[[-ath]]'' (a collective or group plural, because the Argonath were a pair of statues).<ref name="N" /> A valid variant of the name in dual form was '''''Argonad'''''.<ref name="Letter" />
+
+==Other versions of the legendarium==
+In pencilled notes for what would later become the chapter "[[The Great River]]", [[J.R.R. Tolkien]] first used the name ''Sern Erain'' and then the name ''Sarn Aran'', which he translated as "King Stones".<ref>{{WR|2|I}}, note 5 (4), p. 98</ref>
+
+==Inspiration==
+[[J.R.R. Tolkien]] wrote in a [[Letter 211|letter]] that the [[Númenóreans]] of Gondor resembled Egyptians in many ways, including their love of, and ability to construct, the gigantic and massive, and in their interest in ancestry and tombs.<ref>{{L|211}}, p. 281</ref> [[Wayne G. Hammond]] and [[Christina Scull]] pointed out that the ''Argonath'' recall ancient Egyptian statues, like the [[Wikipedia:Colossi of Memnon|two gigantic statues of Memnon]] at the [[Wikipedia:Mortuary Temple of Amenhotep III|Mortuary Temple of Amenophis III]].<ref>{{HM|RC}}, p. 347</ref>
+
+==Portrayal in adaptations==
+===The Argonath in adaptations===
+<gallery mode="traditional" widths="250px" heights="150px">
+File:The Lord of the Rings (1978 film) - Argonath.png|[[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]
+File:The Lord of the Rings - The Fellowship of the Ring - Argonath.png|''[[The Lord of the Rings: The Fellowship of the Ring]]''
+File:The Lord of the Rings Online - Argonath.jpg|''[[The Lord of the Rings Online]]''
+</gallery>
+'''1978: [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]]:'''
+:The [[Fellowship of the Ring]] row past the Argonath. [[Aragorn]] points them out, referring to them as the ''Argonath'' and ''the pillars of the kings''. He explains that they are [[Isildur]] and [[Anárion]], his fathers of old.
+
+'''2001: ''[[The Lord of the Rings: The Fellowship of the Ring]]'':'''
+:The Argonath comprises two large and highly detailed models which were combined with live action footage and digital backgrounds to convey the proper sense of scale. Also seen in the movie is the quarry near one of the statues' feet, which the filmmakers reasoned would be necessary to provide stone blocks for the construction of the statues' uppermost sections.
+
+:Note that in the film, the statues are of Isildur and [[Elendil]] (as almost all references to Anárion were cut from the films <ref group="note">Only in the extended version of ''[[The Lord of the Rings: The Return of the King (extended edition)|The Return of the King]]'' film, [[Denethor]] says the line "I am steward of the House of Anárion. Thus have I walked; and thus now will I sleep."</ref>) and the statue of Elendil is holding [[Narsil]] rather than an axe.
+
+'''2012: ''[[The Lord of the Rings Online]]'':'''
+:The Argonath is a prominent landmark in the [[East Wall of Rohan|East Wall]] area of the [[Eastemnet]] region.
+
+{{References|note}}
+[[Category:Doors and gates]]
+[[Category:Gondor]]
+[[Category:Monuments]]
+[[Category:Pronounced articles]]
+[[Category:Sindarin locations]]
+
+[[de:Argonath]]
+[[fi:Argonath]]
+[[fr:encyclo/arts/sculptures/argonath]]

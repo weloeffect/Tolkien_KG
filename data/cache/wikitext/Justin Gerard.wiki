@@ -1,0 +1,22 @@
+{{artist infobox
+| image=Justin Gerard.jpg
+| name=Justin Gerard
+| born=
+| died=
+| style=
+| images=
+| location=Georgia, United States
+| website=[https://www.gallerygerard.com Official website]
+}}
+'''Justin Gerard''' is an artist who has worked within the publishing, film, and game industries. He has created numerous illustrations inspired by [[J.R.R. Tolkien]].
+
+==See also==
+* [[:Category:Images by Justin Gerard|Images by Justin Gerard]]
+* [[Tolkien Calendar 2023]]
+
+==External links==
+*'''[https://www.gallerygerard.com/ Official website]'''
+
+{{DEFAULTSORT:Gerard, Justin}}
+[[Category:Artists]]
+[[Category:People by name]]

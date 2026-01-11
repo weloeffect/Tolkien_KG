@@ -1,0 +1,26 @@
+{{VTbox
+| title=Vinyar Tengwar 4
+| image = Vinyar Tengwar 4.jpg
+| editor=[[Jorge Quiñónez]]
+| illustrator=[[Ronald Kyrmse]] (front cover)
+| publisher=[[Elvish Linguistic Fellowship]]
+| date=March [[1989]]
+| format=Paperback journal
+| pages=12
+}}
+'''''Vinyar Tengwar 4''''' is the fourth issue of ''[[Vinyar Tengwar]]'', a journal dedicated to the scholarly study of the invented languages of  [[J.R.R. Tolkien]].
+{{VTnav|3|5}}
+
+==Contents==
+* Cover: "''Ondolindeo Otso Andor''" ("Seven Gates of Gondolin") — Ronald Kyrmse
+* Letters to ''VT''
+
+* "''Hrestasse'': A New Quenya Dialogue" — Margaret Dean
+* "''Essitalmar''" (column) — Tom Loback
+* "Entish Verses" — Ben Koolen
+
+{{title|journal}}
+{{Vinyartengwar}}
+{{DEFAULTSORT:Vinyar Tengwar 04}}
+[[Category:Vinyar Tengwar]]
+[[fi:Vinyar Tengwar 4]]

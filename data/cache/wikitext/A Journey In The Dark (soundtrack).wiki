@@ -1,0 +1,34 @@
+{{song
+| title=A Journey in the Dark
+| album=[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]
+| composer=[[Howard Shore]]
+| performer=[[Wikipedia:London Philharmonic Orchestra|London Philharmonic Orchestra]]
+| image=The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg
+| duration=4:20
+| track=12
+| previous=[[The Ring Goes South (soundtrack)|The Ring Goes South]]
+| next=[[The Bridge of Khazad-dûm (soundtrack)|The Bridge of Khazad Dum]]
+| spotify=https://open.spotify.com/track/3PBKcE5sDRSjvcYDjeWZFW
+}}
+'''A Journey In The Dark''' is the twelfth track of ''[[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]'' by [[Howard Shore]]. The lyrics are written by [[Philippa Boyens]] and translated into (debatable) Neo-[[Khuzdul]] by [[David Salo]].
+
+==Lyrics<ref>{{webcite|author=[[Ryszard Derdziński]]|articleurl=http://www.elvish.org/gwaith/movie_soundtrack_fotr.htm#journey|articlename=Durin's Song|website=Gwaith-i-Phethdain|accessed=07 May 2017}}</ref>==
+
+<poem>
+:''Durin ku bin-amrad<br>Ugmal sullu addad<br>Ku ba... abad<br>Ku ganaga<br>Tur ganâd abanul<br>Durin ku bin-amrad<br>Ku bakana<br>Ana aznân<br>Undu abad<br>Ku ganaga aznân.''</poem>
+
+These are a selection from [[David Salo]]'s full translation<ref>{{webcite|author=[[Doug Adams]]|articleurl=http://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf|articlename=(mirror of) FotR: The Annotated Score|website=Gwaith-i-Phethdain|dated=21 December 2005|accessed=07 May 2017}}</ref> of [[Philippa Boyens]]' poem:
+
+<poem>
+:''Durin ku bin-amrad<br>Ugmal sullu addad<br>Ku bakana<br>Ana aznân<br>Undu abad<br>Ku ganaga<br>Tur ganâd abanul<br>Durin ku bin-amrad<br>Uzbad Khazad-dûmu<br>Ku baraka<br>Aznân<br>ra karaka<br>atkât<br>ala lukhudizu!<br>ala galabizu!<br>ala ukratizu!<br>Khazad-dûm!</poem>
+
+==Translation==
+
+<poem>
+:''Durin who is Deathless<br>Eldest of all Fathers<br>Who awoke<br>To darkness<br>Beneath the mountain<br>Who walked alone<br>Through halls of stone<br>Durin who is Deathless<br>Lord of Khazad-dûm<br>Who cleaved<br>The Dark<br>And broke<br>The silence<br>This is your light!<br>This is your word!<br>This is your glory!<br>The Dwarrowdelf of Khazad-dûm!''
+</poem>
+
+{{references}}
+{{title}}
+{{DEFAULTSORT:12}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack]]

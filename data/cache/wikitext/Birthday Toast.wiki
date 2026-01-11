@@ -1,0 +1,28 @@
+{{unnamed}}
+{{events
+| image=
+| event="Frodo's custom"
+| othernames=
+| location=[[Bag End]], [[Hobbiton]], [[The Shire]]
+| date=Each year on [[22 September]]
+| result=Toasting [[Bilbo Baggins]] and [[Frodo Baggins]]
+| partof=
+| participants=[[Shire-hobbits]]
+| description=A small gathering honouring Bilbo's and Frodo's birthdays
+| references=''[[The Fellowship of the Ring]]''
+| gallery=
+}}
+
+{{quote|When they had sung many songs, and talked of many things they had done together, they toasted Bilbo's birthday, and they drank his health and Frodo's together according to Frodo's custom.|''[[The Fellowship of the Ring]]'', [[Three is Company]]}}
+
+"'''Frodo's custom'''" was an event held each year at a small gathering in honour of both [[Bilbo Baggins]]' and [[Frodo Baggins]]' birthdays, held each year on the [[22 September|22nd of September]] at [[Bag End]] (both Hobbits shared the same birthday). This custom began after Bilbo left Bag End after the celebration of his 111th birthday.<ref>{{FR|Three}}, p. 68</ref>
+
+== Tolkien Society tradition ==
+The '''Birthday Toast''' is a tradition upheld by [[The Tolkien Society]] in honour of the creator of Bilbo and Frodo - [[J.R.R. Tolkien]] and is held on the author's birthday, [[3 January|3rd January]], each year. The 'toast' itself is: "The Professor!".<ref>{{webcite|author=|articleurl=https://www.tolkiensociety.org/society/events/toast/|articlename=Tolkien Birthday Toast|dated=|website=TS|accessed=29 April 2025}}</ref>
+
+{{references}}
+
+{{tolkiensociety}}
+
+[[Category:Events]]
+[[Category:The Tolkien Society]]

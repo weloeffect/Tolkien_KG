@@ -1,0 +1,31 @@
+{{SEVEN
+| name=VII: An Anglo-American Literary Review, Volume 20
+| image=
+| editor=
+| illustrator=
+| date=[[2003]]<ref name="jstor">{{webcite|articleurl=https://www.jstor.org/stable/i40229631|articlename=Vol. 20, 2003|website=[https://jstor.org JSTOR]|accessed=13 August 2025}}</ref>
+| format=Paperback journal
+| pages=122<ref name="jstor" />
+}}
+'''''SEVEN 20''''' is the twentieth volume of the [[Marion E. Wade Center]]'s annual journal ''[[SEVEN]]'', published in [[2003]].<ref name="jstor" />
+==Contents==
+
+*"C.S. Lewis and Politics"
+**By: Suzanne Bray
+*"Dorothy L. Sayers and War"
+**By: Barbara Reynolds
+*"George MacDonald's Transfiguring Fantasy"
+**By: John Pridmore
+*"Metaphysical and Romantic in the Taliessin Poems"
+**By: Stephen Barber
+*"Some Views on ''Catholic Tales and Christian Songs''"
+**By: Christine R. Simpson
+*Review Essay:
+**"Survey of Tolkien Literature"
+***By: [[Colin Duriez]]<ref>{{webcite|articleurl=https://journals.wheaton.edu/index.php/vii/article_index|articlename=Contents By Volume|website=[https://journals.wheaton.edu/index.php/vii/index VII: Journal of the Marion E. Wade Center]|accessed=13 August 2025}}</ref>
+{{SEVENnav|19|21}}
+{{references}}
+{{title|journal}}
+{{DEFAULTSORT:SEVEN 20}}
+
+[[Category:SEVEN]]

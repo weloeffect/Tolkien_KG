@@ -1,0 +1,13 @@
+{{letter infobox
+| #=240
+| to=Mrs Gasch ([[Pauline Baynes]]) 
+| date=[[1 August]] [[1962]]
+| subject=[[Tom Bombadil]]
+}}{{letter|240}}
+==Summary==
+Mrs Gasch ([[Pauline Baynes]]) was illustrating ''[[The Adventures of Tom Bombadil]]'', and had been given both a typescript and a galley-proof of the poems. However, the former mentioned [[Tom Bombadil]] wearing a "peacock's feather" on his hat, and the latter had a "swan-wing feather". Tolkien told her that the peacock was a leftover from an old draft, and would have to go. Bombadil had a swan-feather at first, and later in the narrative a blue [[kingfishers|kingfisher]] feather. 
+
+Next followed a short treatise about the etymology of "kingfisher", and its place as the rival of the [[swans]] as most prized property of a King; in this case Bombadil. Tolkien told her not to be bothered too much, as most detail is just a "private pleasure". Tolkien looked forward to Mrs. Gasch' interpretation.
+{{letters}}
+[[Category:Letters to Pauline Baynes]]
+[[de:Brief 240]]

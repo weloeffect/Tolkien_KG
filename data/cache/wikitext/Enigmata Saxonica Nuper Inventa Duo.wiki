@@ -1,0 +1,45 @@
+{{Poem infobox
+| title=Enigmata Saxonica Nuper Inventa Duo
+| other names=''Enigma Saxonicum Nuper ‘Inventum’''
+| written=[[26 June]] of [[1922]];<br>Around [[1923]]
+| revised=June 1923
+| published=''[[A Northern Venture]]'',<br>''[[The Oxford Inklings]]'',<br>''[[The Annotated Hobbit]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Old English]], [[Henry Bradley]]
+}}
+
+'''''Enigmata Saxonica Nuper Inventa Duo''''', also called '''''Enigma Saxonicum Nuper ‘Inventum’''''',<ref name=addenda>[https://www.hammondandscull.com/addenda/collected_poems.html Addenda and Corrigenda to ''The Collected Poems of J.R.R. Tolkien'' (2024)] by [[Christina Scull]] and [[Wayne G. Hammond]]</ref> is a shared title of two [[Old English]] poems written by [[J.R.R. Tolkien]].<ref name=RG>{{CG|2II}}, p. 344 (entry "Enigmata Saxonica Nuper Inventa Duo")</ref>
+
+==First riddle==
+<poem style="font-style:italic; margin-left:20px;">
+:Meolchwitum sind marmanstane
+:wagas mine wundrum frætwede;
+:…
+:Milky-white are my marble
+:walls wondrously adorned;<ref name=collectedpoems>{{CP|71}}</ref></poem>
+
+==Second riddle==
+<poem style="font-style:italic; margin-left:20px;">
+:Hæfth Hild Hunecan hwite tunecan,
+:ond swa read rose hæfth rudige nose;
+:…
+:Hild Hunic has a white tunic,
+:and like a red rose is her ruddy nose;<ref name=collectedpoems/></poem>
+
+==Etymology==
+''Enigmata Saxonica Nuper Inventa Duo'' is a [[Latin]] phrase meaning "two Saxon riddles newly discovered".<ref name=RG/>
+
+''Enigma Saxonicum Nuper ‘Inventum’'' is a Latin phrase meaning "Saxon Riddle Newly 'Discovered'".<ref name=addenda/>
+
+==Background==
+Tolkien wrote the first of the two riddles no later than [[26 June]] of [[1922]], when he sent a version of the riddle, with the title ''Enigmata Saxonica Nuper Inventa Duo''<ref name=addenda/> to [[Henry Bradley]] for entertainment purposes. The second riddle was written around [[1923]].<ref name=addenda/> Both of them were modeled after traditional early English sources such as the ones found in the [[Wikipedia:Exeter Book|Exeter Book]]. They were both first published in June of [[1923]] on page 20 of ''[[A Northern Venture|A Northern Venture: Verses by Members of the Leeds University English School Association]]''.<ref name=RG/>
+
+The manuscript of the first riddle appeared in a leaflet published alongside ''[[The Oxford Inklings]]'', a [[1999]] exhibition by the [[Wikipedia:Museum of Oxford|Museum of Oxford]].<ref name=addenda/> Both riddles were reprinted on pages 124-5 of ''[[The Annotated Hobbit]]'' in [[2002]], where [[Douglas A. Anderson]] suggested that the first riddle may be based on the rhyme known as 'In Marble Halls' while the second riddle seems to have been based on the nursery rhyme 'Little Nancy Etticoat / In a white petticoat'.<ref name=RG/>
+
+In [[2024]], the riddles were reprinted in September as entry 71 in ''[[The Collected Poems of J.R.R. Tolkien]]''.<ref name=collectedpoems/>
+
+{{references}}
+
+{{poems}}
+
+[[Category:Greco-Roman names]]
+[[Category:Poems by J.R.R. Tolkien]]

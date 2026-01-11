@@ -1,0 +1,182 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/Council_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Council of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Council_of_the_Rings> .
+
+<http://localhost:8000/page/Darth_Gandalf> a schema:WebPage ;
+    rdfs:label "Darth Gandalf"@en ;
+    schema:about <http://localhost:8000/resource/Darth_Gandalf> .
+
+<http://localhost:8000/page/Digital_Tolkien_Project> a schema:WebPage ;
+    rdfs:label "Digital Tolkien Project"@en ;
+    schema:about <http://localhost:8000/resource/Digital_Tolkien_Project> .
+
+<http://localhost:8000/page/Eldamo> a schema:WebPage ;
+    rdfs:label "Eldamo"@en ;
+    schema:about <http://localhost:8000/resource/Eldamo> .
+
+<http://localhost:8000/page/Hiswel%C3%B3k%C3%AB> a schema:WebPage ;
+    rdfs:label "Hiswelókë"@en ;
+    schema:about <http://localhost:8000/resource/Hiswel%C3%B3k%C3%AB> .
+
+<http://localhost:8000/page/Nerd_of_the_Rings> a schema:WebPage ;
+    rdfs:label "Nerd of the Rings"@en ;
+    schema:about <http://localhost:8000/resource/Nerd_of_the_Rings> .
+
+<http://localhost:8000/page/Tea_with_Tolkien> a schema:WebPage ;
+    rdfs:label "Tea with Tolkien"@en ;
+    schema:about <http://localhost:8000/resource/Tea_with_Tolkien> .
+
+<http://localhost:8000/page/The_Prancing_Pony_Podcast> a schema:WebPage ;
+    rdfs:label "The Prancing Pony Podcast"@en ;
+    schema:about <http://localhost:8000/resource/The_Prancing_Pony_Podcast> .
+
+<http://localhost:8000/page/Today%27s_Tolkien_Times> a schema:WebPage ;
+    rdfs:label "Today's Tolkien Times"@en ;
+    schema:about <http://localhost:8000/resource/Today%27s_Tolkien_Times> .
+
+<http://localhost:8000/page/Tolkien_Collector%27s_Guide> a schema:WebPage ;
+    rdfs:label "Tolkien Collector's Guide"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Collector%27s_Guide> .
+
+<http://localhost:8000/page/Tolkien_Gateway> a schema:WebPage ;
+    rdfs:label "Tolkien Gateway"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Gateway> .
+
+<http://localhost:8000/page/Tolkien_News> a schema:WebPage ;
+    rdfs:label "Tolkien News"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_News> .
+
+<http://localhost:8000/resource/Council_of_the_Rings> a schema:Thing ;
+    tg:image "Council of the Rings logo.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/November_20th%2C_2021> ;
+    tg:name "Council of the Rings"@en ;
+    tg:status "Active"@en ;
+    tg:url "[https://www.youtube.com/@CounciloftheRings YouTube Channel]"@en .
+
+<http://localhost:8000/resource/Darth_Gandalf> a schema:Thing ;
+    tg:image <http://localhost:8000/resource/File%3ADarth_Gandalf_-_Logo.jpg> ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/April_1st%2C_2019> ;
+    tg:name "Darth Gandalf"@en ;
+    tg:status "Active"@en ;
+    tg:url "[https://www.youtube.com/@DarthGandalfYT YouTube Channel]"@en .
+
+<http://localhost:8000/resource/Digital_Tolkien_Project> a schema:Thing ;
+    tg:commercial "No"@en ;
+    tg:creator <http://localhost:8000/resource/James_Tauber> ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:name "Digital Tolkien Project"@en ;
+    tg:slogan "A scholarly project focused on Tolkien from both a corpus linguistic and digital humanities perspective"@en ;
+    tg:status "Active"@en ;
+    tg:url "https://digitaltolkien.com"@en .
+
+<http://localhost:8000/resource/Eldamo> a schema:Thing ;
+    tg:commercial "No"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English (Includes [http://eldamo.org/translations/international-searches.html optional glosses in Russian and Polish])"@en ;
+    tg:launch <http://localhost:8000/resource/2008> ;
+    tg:name "Eldamo"@en ;
+    tg:owner <http://localhost:8000/resource/Paul_Strack> ;
+    tg:slogan "An Elvish Lexicon"@en ;
+    tg:status <http://localhost:8000/resource/Active_%3Cbr_/%3E%28last_version_0.8.4.2_%E2%80%94_generated_11_December_2022%29> ;
+    tg:url "http://eldamo.org/index.html"@en .
+
+<http://localhost:8000/resource/Hiswel%C3%B3k%C3%AB> a schema:Thing ;
+    tg:commercial "No"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "French (main website);<br/>English, French and German (dictionary)"@en ;
+    tg:launch "1997"@en ;
+    tg:name "Hiswelókë"@en ;
+    tg:owner <http://localhost:8000/resource/Didier_Willis> ;
+    tg:slogan "''le Dragon de Brume''<br/>(\"The Dragon of Mist\")"@en ;
+    tg:status "Inactive"@en ;
+    tg:type <http://localhost:8000/resource/Scholarly_articles%2C_essays_and_dictionary%3B_wikipedia%3AOnline_magazine> ;
+    tg:url "https://www.tolkiendil.com/essais/hisweloke"@en .
+
+<http://localhost:8000/resource/Nerd_of_the_Rings> a schema:Thing ;
+    tg:creator "Matt Graf"@en ;
+    tg:image "The Nerd of the Rings logo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/January_15th%2C_2020> ;
+    tg:name "Nerd of the Rings"@en ;
+    tg:status "Active"@en ;
+    tg:url "[https://www.youtube.com/@NerdoftheRings YouTube Channel]"@en .
+
+<http://localhost:8000/resource/Tea_with_Tolkien> a schema:Thing ;
+    tg:image "Tea with Tolkien.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:name "Tea with Tolkien"@en ;
+    tg:owner "Kaitlyn Facista"@en ;
+    tg:url "https://www.teawithtolkien.com/"@en .
+
+<http://localhost:8000/resource/The_Prancing_Pony_Podcast> a schema:Thing ;
+    tg:creator "Alan Sisto and Shawn E. Marchese"@en ;
+    tg:image "The Prancing Pony Podcast logo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/February_2016> ;
+    tg:name "The Prancing Pony Podcast"@en ;
+    tg:slogan "A weekly podcast about the Middle-earth legendarium of J.R.R. Tolkien"@en ;
+    tg:status "Active"@en ;
+    tg:type "Podcast"@en ;
+    tg:url "https://theprancingponypodcast.com"@en .
+
+<http://localhost:8000/resource/Today%27s_Tolkien_Times> a schema:Thing ;
+    tg:creator "Alan Sisto"@en ;
+    tg:image "Today's Tolkien Times logo.webp"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/May_2023> ;
+    tg:name "Today's Tolkien Times"@en ;
+    tg:slogan "A daily podcast about the Middle-earth legendarium of J.R.R. Tolkien"@en ;
+    tg:status "Active"@en ;
+    tg:type "Podcast"@en ;
+    tg:url "https://tolkientimes.com"@en .
+
+<http://localhost:8000/resource/Tolkien_Collector%27s_Guide> a schema:Thing ;
+    tg:creator "Jeremy Edmonds"@en ;
+    tg:image "Tolkien Collector's Guide logo.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/September_29th%2C_2005%3Cref%3E%7B%7Bwebcite> ;
+    tg:name "Tolkien Collector's Guide"@en ;
+    tg:status "Active"@en ;
+    tg:url "https://www.tolkienguide.com"@en .
+
+<http://localhost:8000/resource/Tolkien_Gateway> a schema:Thing ;
+    tg:articlecount "{{NUMBEROFARTICLES}}"@en ;
+    tg:commercial "No"@en ;
+    tg:image "Tolkien Gateway wordmark - no underline.svg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:keypeople <http://localhost:8000/resource/User%3AEderchil> ;
+    tg:language <http://localhost:8000/resource/Modern_English> ;
+    tg:launch <http://localhost:8000/resource/1_January_2003_%28Wiki%3A_5_June_2005%29> ;
+    tg:license "[https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0]"@en ;
+    tg:name "Tolkien Gateway"@en ;
+    tg:owner <http://localhost:8000/resource/User%3AHyarion> ;
+    tg:registration "Open edit"@en ;
+    tg:slogan "''The J.R.R. Tolkien encyclopedia built by fans''"@en ;
+    tg:status "Active users: {{NUMBEROFACTIVEUSERS}}"@en ;
+    tg:type "Wiki; collaborative encyclopedia"@en ;
+    tg:url "https://tolkiengateway.net/"@en .
+
+<http://localhost:8000/resource/Tolkien_News> a schema:Thing ;
+    tg:commercial "No"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/website> ;
+    tg:language "English"@en ;
+    tg:launch <http://localhost:8000/resource/1_January%2C_2006> ;
+    tg:name "Tolkien News"@en ;
+    tg:owner <http://localhost:8000/resource/User%3AHyarion> ;
+    tg:status "Closed"@en ;
+    tg:type "News aggregator"@en ;
+    tg:url "http://tolkiennews.net"@en .
+

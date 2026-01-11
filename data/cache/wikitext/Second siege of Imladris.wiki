@@ -1,0 +1,26 @@
+{{unnamed}}
+{{battle
+| name=Second siege of Imladris
+| image=
+| conflict=[[Angmar conflict]]
+| date=C. {{TA}} 1400
+| place=[[Rivendell]]
+| result=Angmar defeated, Rivendell leads counteroffensive
+| side1=[[Elves of Rivendell]]
+| side2=Forces of [[Angmar]]
+| commanders1=[[Elrond]]
+| commanders2=Possibly the [[Witch-King]]
+| forces1=Several thousand Elves
+| forces2=Likely thousands of Orcs, Evil Men, other creatures
+| casual1=Unknown, but probably light
+| casual2=Unknown, but likely significant
+|}}
+
+The '''second siege of Imladris''' took place sometime between {{TA|1356}} and {{TA|1409|n}} of the [[Third Age]] in the War between [[Arnor]] and [[Angmar]].
+At some point the siege was broken, and Lord [[Elrond]] was able to help subdue the forces of Angmar for a time by bringing reinforcements from [[Lothlórien]].
+
+== Related Pages ==
+*[[First Siege of Imladris]]
+
+[[Category:Conflicts of the Angmar War]]
+[[Category:Sieges]]

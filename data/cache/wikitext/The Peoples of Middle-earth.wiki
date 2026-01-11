@@ -1,0 +1,95 @@
+{{book
+| title=The Peoples of Middle-earth
+| image = Peoples of Middle-earth 1996.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[HarperCollins]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[2 September]] [[1996]]
+| dateUS=[[6 December]] 1996
+| format=Hardcover; paperback
+| pages=496
+| isbn=0261103377
+| precededby=[[J.R.R. Tolkien: Artist and Illustrator]] (1995)
+| followedby=[[The History of Middle-earth Index]] (2002)
+}}
+'''''The Peoples of Middle-earth''''', published in [[1996]], is the twelfth and final volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+This book covers the development of the [[The Prologue|Prologue]] and [[The Lord of the Rings Appendices|Appendices]] of ''The Lord of the Rings'', information on [[Elvish]] tongues and other [[languages]] of Middle-earth as provided by [[Pengolodh|Pengoloð]], and two stories Tolkien didn't finish: [[The New Shadow]] (a quickly-abandoned sequel to ''TLotR'') and an account of [[Númenóreans]] of which [[Tal-Elmar (character)|Tal-Elmar]] is the protagonist.
+
+==Contents==
+*Foreword
+
+* '''Part One: The Prologue and Appendices to ''The Lord of the Rings'''''
+** I. "[[The Prologue]]"
+** II. "[[The Appendix on Languages]]"
+** III.  "[[The Family Trees]]"
+** IV. "[[The Calendars]]"
+** V. "[[The History of the Akallabeth]]"
+** VI. "[[The Tale of Years of the Second Age]]"
+** VII. "[[The Heirs of Elendil]]"
+** VIII. "[[The Tale of Years of the Third Age]]"
+** IX. "[[The Making of Appendix A]]"
+*** (i) The Realms in Exile
+*** (ii) The Tale of Aragorn and Arwen
+*** (iii) The House of Eorl
+*** (iv) Durin's Folk
+
+* '''Part Two: Late Writings'''
+** X. "[[Of Dwarves and Men]]"
+** XI. "[[The Shibboleth of Fëanor]]"
+** XII. "[[The Problem of Ros|The Problem of ''Ros'']]"
+** XIII. "[[Last Writings]]"
+
+* '''Part Three: Teachings of Pengoloð'''
+** XIV. "[[Dangweth Pengoloð]]"
+** XV. "[[Of Lembas]]"
+
+* '''Part Four: Unfinished Tales'''
+** XVI. "[[The New Shadow]]"
+** XVII. "[[Tal-Elmar (chapter)|Tal-Elmar]]"
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book XII reads:
+
+:"''This is the last volume of the work of Christopher Tolkien in which he has collected a great part of all that his father John Ronald Reuel Tolkien wrote of Middle-earth and Valinor. In this book is traced the devising of the history of the later ages in the Northwest of Middle-earth after the [[War of Wrath|Great Battle]] and the Fall of [[Morgoth]].''"
+
+==From the publisher==
+{{blockquote|The concluding volume of The History of Middle-earth series, which examines the Appendices to The Lord of the Rings.<br>
+The Peoples of Middle-earth traces the evolution of the Appendices to The Lord of The Rings, which provide a comprehensive historical structure of the Second and Third Ages, including Calendars, Hobbit genealogies and the [[Westron]] language. The book concludes with two unique abandoned stories: [[The New Shadow]], set in Gondor during the Fourth Age, and the [[Tal-Elmar|tale of Tal-Elmar]], in which the coming of the dreaded Númenórean ships is seen through the eyes of men of Middle-earth in the Dark Years.<br>
+With the publication of this book, the long history of J.R.R. Tolkien’s creation is completed and the enigmatic state of his work can be understood.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Peoples of Middle-earth 1996.png|1996 hardcover
+File:Peoples of Middle-Earth 1997.jpeg|1997 paperback
+File:The Peoples of Middle-earth (HC2002).png|2002 & 2015 paperback
+File:The Peoples of Middle-earth (HC2010).png|2010 hardcover
+File:Peoples of Middle-earth 2024.jpeg|2024 paperback
+File:Peoples of Middle-earth hc 2024.jpg|2024 hardcover
+</gallery>
+* [[HarperCollins]] hardcover ([[1996]]), pp.&nbsp;496. ISBN 0261103377
+* [[HarperCollins]] paperback ([[1997]]), ISBN 0261103482 - (cover art by [[John Howe]])
+** 1997 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 0007365365
+** 2015 paperback edition, 24th impression ([[2024]])
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2024]]), ISBN 978-0063390843 (set) - ([[Centenary Boxed Sets]] #4)
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#xii A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Peoples of Middle-earth, The}}
+[[Category:Books by Christopher Tolkien]]
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+[[de:The Peoples of Middle-earth]]
+[[fr:tolkien/biblio/home12]]
+[[fi:The Peoples of Middle-earth]]

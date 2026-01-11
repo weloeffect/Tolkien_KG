@@ -1,0 +1,64 @@
+{{kingdom
+| image=Christopher Tolkien - Nevrast.jpg
+| name=Nevrast 
+| pronun=
+| othernames=
+| location=West [[Beleriand]], south-west of [[Hithlum]]
+| capital=[[Vinyamar]]
+| towns=
+| regions=
+| population=[[Noldor]]/[[Sindar]]in Elves
+| language=[[Quenya]]
+| govern1=[[Turgon]]
+| govern2=
+| govern3=
+| currency=
+| holiday=
+| precededby=
+| event1=Founded
+| event1date=After {{YT|1497}}
+| event2=Abandoned
+| event2date={{FA|116}}
+| event3=
+| event3date=
+| event4=
+| event4date=
+| event5=
+| event5date=
+| followedby=[[Gondolin]]
+}}
+The land of '''Nevrast''' lay on the coast of the [[Belegaer|Great Sea]] in [[Middle-earth]] in the [[First Age]]. The name meant ''Hither Shore'' in [[Sindarin]] as opposed to the ''Distant Shore'' of [[Aman]], and the name was originally applied to all the shores of [[Beleriand]]. Some people considered the land of Nevrast to be part of Beleriand, while others considered it part of [[Hithlum]].<ref name=hithlum>{{S|14}}, p. 112</ref>
+
+Nevrast was sheltered by mountains that separated it from Hithlum proper, so its weather was more like the lands of [[West Beleriand]] than the lands to its northeast. It received ample rains from the sea which drained into the great mere of [[Linaewen]] in the midst of the land, for Nevrast was enclosed by mountains with no outward flowing rivers.<ref name="Bel">{{S|Beleriand}}</ref>
+
+==History==
+Nevrast was the first part of Beleriand the [[Noldor]] settled, but it had been previously inhabited by [[Sindar]]. Nevrast's population was soon very mixed, far more so than any other region of Beleriand.
+
+Nevrast was the centre of an [[Elves|Elven]] kingdom of [[Turgon]] for about a century until ca. {{FA|116}}, when the people began their trek to [[Gondolin]].<ref>{{S|Noldor}}</ref> Turgon's capital (and it seems the only city of Nevrast) was [[Vinyamar]].<ref name="Bel"/> The land was not permanently inhabited after that, and indeed was utterly abandoned until [[Tuor]] came there, guided by [[Ulmo]].<ref>{{S|Gondolin}}</ref>
+
+==Other versions of the legendarium==
+
+An early, rejected form of the name ''Nevrast'' was ''Nivrost'' ("West Vale" or "West-dales").<ref>{{LR|Quenta}}, p. 256</ref><ref>{{WJ|Index}}</ref><ref>{{PE|17}}, p. 29</ref>
+
+==See also==
+*''[[Haerast]]'', the Far Shore
+
+{{references}}
+{{navigation
+| title= Nevrast
+| north-west= [[Helcaraxe]]
+| north= [[Lammoth]]
+| north-east= [[Hithlum]]
+| west= [[Belegaer]]
+| east= [[Doriath]]
+| south-west=
+| south= [[Falas]]
+| south-east= [[Nargothrond]]
+|}}
+[[Category:Beleriand]]
+[[Category:Sindarin locations]]
+[[Category:Elven realms]]
+
+[[de:Nevrast]]
+[[fi:Nevrast]]
+[[fr:encyclo/geographie/regions/beleriand/nevrast]]

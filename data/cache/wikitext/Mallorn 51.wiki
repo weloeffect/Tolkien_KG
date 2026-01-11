@@ -1,0 +1,58 @@
+{{Mallorn
+| name=Mallorn 51
+| image = Mallorn51.jpg
+| editor=[[Henry Gee]]
+| artist=Becky Hitchin
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Spring [[2011]]
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 51''' is the fifty-first issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Spring [[2011]].
+
+==Contents==
+* '''Cover Art'''
+** ''Horse and Riders''
+*** By: Becky Hitchin
+* '''Editorial'''
+** "Ent and sources"
+*** By: [[Henry Gee]]
+* '''Reviews'''
+** "Modern life": ''Restoring Beauty: The Good, the True, and the Beautiful in the Writings of C.S. Lewis''
+*** By: Frank Wilson
+** "Scholarship collected": ''[[Tolkien Studies: Volume 7|Tolkien Studies: An Annual Scholarly Review, Vol. VII]]''
+*** By: Troels Forchhammer
+** "Keeping the faith": ''[[wikipedia:Toy Story 3|Toy Story 3]]''
+*** By: [[Chad Chisholm]]
+* '''Commentary'''
+** "[http://www.josemanuelferrandez.com/ENguerra.html J.R.R. Tolkien and the Spanish civil war]"
+*** By: [[José Manuel Ferrández Bru]]
+** "''There and Back Again'' and other travel books of the 1930s"
+*** By: Dale Nelson
+** "The 'divine passive' in ''[[The Lord of the Rings]]''"
+*** By: Kusumita Pedersen
+** "Ending the dualism of nature and industry in ''The Lord of the Rings''"
+*** By: Sarah J Sprouse
+** "Tolkien's use of free will versus predestination in ''The Lord of the Rings''"
+*** By: Bud Scott
+* '''Poetry'''
+** "The Paths of the Dead"
+*** By: Tuilinde
+* '''Fiction'''
+** "How many beans make five"
+*** By: Elizabeth Counihan
+** "The tale of Aud Sigurdsdottir"
+*** By: Diane Forest-Hill
+** "Snicker-Snack and the Queen of Egypt"
+*** By: Jeff Crook
+* '''Well, I'm back'''
+** "Delving the [[Horn-call of Buckland|horn-cry]] of [[Buckland]]"
+*** By: Paul H. Vigor
+* '''Inside Art'''
+** By: Bernadette Barnes, Phyllis Berka, Henry Gee, Becky Hitchin, Alan Hyde, Teresa Kirkpatrick, Glendon Mellow, [[Jef Murray]], Colin Sullivan
+
+{{mallornnav|50|52}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 51}}
+[[Category:Mallorn (journal)]]

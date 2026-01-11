@@ -1,0 +1,29 @@
+{{Collectible card
+| image=METW - Akhôrahil.jpg
+| name=Akhôrahil
+| caption=
+| game=meccg
+| type=Hazard Creature
+| alignment=Neutral
+| homesite=
+| artist=[[Liz Danforth]] 
+| rarity=Rare
+| number=TW254
+}}
+'''METW: Akhôrahil''' is a game card from the set ''[[Middle-earth: The Wizards]]'', for [[Middle-earth Collectible Card Game|MECCG]].
+
+*'''''Note:''''' ''Akhôrahil was a name for the fifth [[Nazgûl]] originally invented by [[Iron Crown Enterprises|ICE]] in'' [[Lords of Middle-earth: Vol. II]].
+
+==Card text==
+'''''Unique.''''' Nazgûl (5th). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to [[METW: Harondor|Harondor]], [[METW: Horse Plains|Horse Plains]], [[METW: Gorgoroth|Gorgoroth]], and [[METW: Khand|Khand]]; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Akhôrahil becomes a short-event and modifies any one character's body by -1 for the rest of this turn. 
+
+==Errata==
+"...modifies any one character's body by -1 for the rest of the turn."<ref>''Council of the Isles of the Dead that Live'' (Dutch MECCG Council) web page, as of July 28, 2000.</ref>
+
+==Related cards==
+*MELE: Akhôrahil the Ringwraith
+*MELE: Akhôrahil Unleashed
+
+{{references}}
+
+[[Category:MECCG character cards]]

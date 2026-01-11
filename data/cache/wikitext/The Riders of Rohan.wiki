@@ -1,0 +1,29 @@
+{{disambig-more|Riders of Rohan|[[Riders of Rohan (disambiguation)]]}}
+{{chapter
+| image=Allen Morris - The Road to Rohan.jpg
+| title=The Riders of Rohan
+| book=The Two Towers
+| number=2
+| event=[[Aragorn]], [[Legolas]], and [[Gimli]] search for their companions and meet [[Éomer]].
+| date=[[30 February]] {{TA|3019|n}}
+| location=[[Rohan]]
+| previous=The Departure of Boromir
+| next=The Uruk-hai
+|audio=}}
+
+'''The Riders of Rohan''' is the second chapter of the first book in ''[[The Two Towers]]''.
+
+==Summary==
+On their journey, [[Aragorn]], [[Legolas]], and [[Gimli]] came across a pile of slain [[Orcs]] and came to the conclusion that the Orcs had quarrelled among themselves. Still there was no sign of [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]]. Later, they found [[Hobbits|Hobbit]] footprints and a broach—clues that their captured friends had passed this way.
+
+After many days of pursuit without sign of trail or hope, Aragorn saw riders coming their way. The riders were men of [[Rohan]] and their leader was [[Éomer]]. Éomer and his riders told Aragorn and the others that they had already slain the Orcs but that there were no Hobbits with them. When Aragorn told Éomer that both [[Gandalf]] and [[Boromir]] were dead, Éomer was sorry. He told the hunters that the men of Rohan were no friends of either [[Sauron]] or [[Saruman]], the wizard who had been aiding in the attack on Boromir's people. He offered the hunters horses, asking only that once their deed was accomplished, they returned to the war. It seemed that Éomer's uncle, King [[Théoden]], did not want him to aid the travellers.
+
+After bidding farewell to the men of Rohan, the three hunters again pursued their Hobbit friends. At night they rested under some trees in the [[Fangorn Forest|Forest of Fangorn]]. Gimli, who was on guard at the time, saw an old, bent man but before they could discover who he was, he disappeared. The horses were gone as well. Gimli told the others that he thought the old man was Saruman, who had taken or scared away their horses. Their dim hope of catching their friends grew even fainter.
+==Composition==
+The chapter was probably written in [[January]] [[1942]].<ref>{{CG|CG}}, p. xxiv</ref>
+{{references}}
+{{DEFAULTSORT:Riders of Rohan}}
+[[Category:The Two Towers chapters]]
+
+
+[[fi:Rohanin ratsastajat (TSH)]]

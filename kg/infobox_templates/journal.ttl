@@ -1,0 +1,561 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg: <http://localhost:8000/vocab/> .
+
+<http://localhost:8000/page/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%80> a schema:WebPage ;
+    rdfs:label "Палантир"@en ;
+    schema:about <http://localhost:8000/resource/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%80> .
+
+<http://localhost:8000/page/Aiglos_%28journal%29> a schema:WebPage ;
+    rdfs:label "Aiglos (journal)"@en ;
+    schema:about <http://localhost:8000/resource/Aiglos_%28journal%29> .
+
+<http://localhost:8000/page/Amon_D%C3%AEn_%28Vol.2%2C_No.1%29> a schema:WebPage ;
+    rdfs:label "Amon Dîn (Vol.2, No.1)"@en ;
+    schema:about <http://localhost:8000/resource/Amon_D%C3%AEn_%28Vol.2%2C_No.1%29> .
+
+<http://localhost:8000/page/Amon_Hen_%28journal%29> a schema:WebPage ;
+    rdfs:label "Amon Hen (journal)"@en ;
+    schema:about <http://localhost:8000/resource/Amon_Hen_%28journal%29> .
+
+<http://localhost:8000/page/Mallorn_%28journal%29> a schema:WebPage ;
+    rdfs:label "Mallorn (journal)"@en ;
+    schema:about <http://localhost:8000/resource/Mallorn_%28journal%29> .
+
+<http://localhost:8000/page/Monash_Review_3_%281975%29> a schema:WebPage ;
+    rdfs:label "Monash Review 3 (1975)"@en ;
+    schema:about <http://localhost:8000/resource/Monash_Review_3_%281975%29> .
+
+<http://localhost:8000/page/Other_Minds_1> a schema:WebPage ;
+    rdfs:label "Other Minds 1"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_1> .
+
+<http://localhost:8000/page/Other_Minds_10> a schema:WebPage ;
+    rdfs:label "Other Minds 10"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_10> .
+
+<http://localhost:8000/page/Other_Minds_11> a schema:WebPage ;
+    rdfs:label "Other Minds 11"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_11> .
+
+<http://localhost:8000/page/Other_Minds_12> a schema:WebPage ;
+    rdfs:label "Other Minds 12"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_12> .
+
+<http://localhost:8000/page/Other_Minds_13> a schema:WebPage ;
+    rdfs:label "Other Minds 13"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_13> .
+
+<http://localhost:8000/page/Other_Minds_14> a schema:WebPage ;
+    rdfs:label "Other Minds 14"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_14> .
+
+<http://localhost:8000/page/Other_Minds_15> a schema:WebPage ;
+    rdfs:label "Other Minds 15"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_15> .
+
+<http://localhost:8000/page/Other_Minds_16> a schema:WebPage ;
+    rdfs:label "Other Minds 16"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_16> .
+
+<http://localhost:8000/page/Other_Minds_17> a schema:WebPage ;
+    rdfs:label "Other Minds 17"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_17> .
+
+<http://localhost:8000/page/Other_Minds_18> a schema:WebPage ;
+    rdfs:label "Other Minds 18"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_18> .
+
+<http://localhost:8000/page/Other_Minds_19> a schema:WebPage ;
+    rdfs:label "Other Minds 19"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_19> .
+
+<http://localhost:8000/page/Other_Minds_2> a schema:WebPage ;
+    rdfs:label "Other Minds 2"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_2> .
+
+<http://localhost:8000/page/Other_Minds_20> a schema:WebPage ;
+    rdfs:label "Other Minds 20"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_20> .
+
+<http://localhost:8000/page/Other_Minds_21> a schema:WebPage ;
+    rdfs:label "Other Minds 21"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_21> .
+
+<http://localhost:8000/page/Other_Minds_22> a schema:WebPage ;
+    rdfs:label "Other Minds 22"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_22> .
+
+<http://localhost:8000/page/Other_Minds_23> a schema:WebPage ;
+    rdfs:label "Other Minds 23"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_23> .
+
+<http://localhost:8000/page/Other_Minds_24> a schema:WebPage ;
+    rdfs:label "Other Minds 24"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_24> .
+
+<http://localhost:8000/page/Other_Minds_25> a schema:WebPage ;
+    rdfs:label "Other Minds 25"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_25> .
+
+<http://localhost:8000/page/Other_Minds_26> a schema:WebPage ;
+    rdfs:label "Other Minds 26"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_26> .
+
+<http://localhost:8000/page/Other_Minds_27> a schema:WebPage ;
+    rdfs:label "Other Minds 27"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_27> .
+
+<http://localhost:8000/page/Other_Minds_3> a schema:WebPage ;
+    rdfs:label "Other Minds 3"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_3> .
+
+<http://localhost:8000/page/Other_Minds_4> a schema:WebPage ;
+    rdfs:label "Other Minds 4"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_4> .
+
+<http://localhost:8000/page/Other_Minds_5> a schema:WebPage ;
+    rdfs:label "Other Minds 5"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_5> .
+
+<http://localhost:8000/page/Other_Minds_6> a schema:WebPage ;
+    rdfs:label "Other Minds 6"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_6> .
+
+<http://localhost:8000/page/Other_Minds_7> a schema:WebPage ;
+    rdfs:label "Other Minds 7"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_7> .
+
+<http://localhost:8000/page/Other_Minds_8> a schema:WebPage ;
+    rdfs:label "Other Minds 8"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_8> .
+
+<http://localhost:8000/page/Other_Minds_9> a schema:WebPage ;
+    rdfs:label "Other Minds 9"@en ;
+    schema:about <http://localhost:8000/resource/Other_Minds_9> .
+
+<http://localhost:8000/page/Parma_Eldalamberon> a schema:WebPage ;
+    rdfs:label "Parma Eldalamberon"@en ;
+    schema:about <http://localhost:8000/resource/Parma_Eldalamberon> .
+
+<http://localhost:8000/page/Seventeen> a schema:WebPage ;
+    rdfs:label "Seventeen"@en ;
+    schema:about <http://localhost:8000/resource/Seventeen> .
+
+<http://localhost:8000/page/Tengwesti%C3%AB_%28journal%29> a schema:WebPage ;
+    rdfs:label "Tengwestië (journal)"@en ;
+    schema:about <http://localhost:8000/resource/Tengwesti%C3%AB_%28journal%29> .
+
+<http://localhost:8000/page/Tolkien_Journal_%28Vol.3%2C_No.3%29> a schema:WebPage ;
+    rdfs:label "Tolkien Journal (Vol.3, No.3)"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Journal_%28Vol.3%2C_No.3%29> .
+
+<http://localhost:8000/page/Tolkien_Journal_%28Vol.3%2C_No.4%29> a schema:WebPage ;
+    rdfs:label "Tolkien Journal (Vol.3, No.4)"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Journal_%28Vol.3%2C_No.4%29> .
+
+<http://localhost:8000/page/Tolkien_Studies_%28journal%29> a schema:WebPage ;
+    rdfs:label "Tolkien Studies (journal)"@en ;
+    schema:about <http://localhost:8000/resource/Tolkien_Studies_%28journal%29> .
+
+<http://localhost:8000/page/Vinyar_Tengwar> a schema:WebPage ;
+    rdfs:label "Vinyar Tengwar"@en ;
+    schema:about <http://localhost:8000/resource/Vinyar_Tengwar> .
+
+<http://localhost:8000/page/Weathertop_%28journal%29> a schema:WebPage ;
+    rdfs:label "Weathertop (journal)"@en ;
+    schema:about <http://localhost:8000/resource/Weathertop_%28journal%29> .
+
+<http://localhost:8000/resource/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%80> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/April_1997_-_present> ;
+    tg:editor "Sergey Balyakov"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:frequency "Annually"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:name "Палантир"@en ;
+    tg:pages "up to 70"@en ;
+    tg:publisher <http://localhost:8000/resource/St_Petersburg_Tolkien_Society> ;
+    tg:website "[https://www.tolkien.spb.ru/palants.php St. Petersburg Tolkien Society website page]"@en .
+
+<http://localhost:8000/resource/Aiglos_%28journal%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/January_2004_-_present> ;
+    tg:editor <http://localhost:8000/resource/Anna_Adamczyk-%C5%9Aliwi%C5%84ska> ;
+    tg:format "A5 glossy paperback, black and white"@en ;
+    tg:frequency "Annually"@en ;
+    tg:image "Aiglos 21.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:issn "1732-2375"@en ;
+    tg:latest "issue #21, July 2016"@en ;
+    tg:name "Aiglos"@en ;
+    tg:pages "up to 200 in regular issues and up to 400 in special issues"@en ;
+    tg:publisher <http://localhost:8000/resource/Sekcja_Tolkienowska_%C5%9AKF> ;
+    tg:website "[http://aiglos.tolkien.com.pl/ ''Aiglos'' official page]"@en .
+
+<http://localhost:8000/resource/Amon_D%C3%AEn_%28Vol.2%2C_No.1%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/21_January_1973> ;
+    tg:format "Magazine"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:publisher "Englewood: The Tolkien Society of Treewood"@en ;
+    tg:title "''Amon Dîn'' (Vol.2, No.1)"@en .
+
+<http://localhost:8000/resource/Amon_Hen_%28journal%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/November_1972_-_present> ;
+    tg:editor "Cate Palmer-Billing, Amanda Drake and Mathew Suta"@en ;
+    tg:format "A5 stapled paperback"@en ;
+    tg:frequency "Bimonthly"@en ;
+    tg:image "AmonHen284.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:issn "0306-8781"@en ;
+    tg:name "Amon Hen"@en ;
+    tg:pages "up to 44"@en ;
+    tg:publisher <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:website "[http://www.tolkiensociety.org/society/publications/amon-hen/ ''Amon Hen'' at the Tolkien Society website]"@en .
+
+<http://localhost:8000/resource/Mallorn_%28journal%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/October_1970_-_present> ;
+    tg:editor "Luke Shelton"@en ;
+    tg:format "A4 stapled paperback"@en ;
+    tg:frequency "Annually"@en ;
+    tg:image "Mallorn60.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:issn "0308-6674"@en ;
+    tg:name "Mallorn"@en ;
+    tg:pages "up to 64"@en ;
+    tg:publisher <http://localhost:8000/resource/The_Tolkien_Society> ;
+    tg:website "[http://www.tolkiensociety.org/society/publications/mallorn/ ''Mallorn'' at the Tolkien Society website]"@en .
+
+<http://localhost:8000/resource/Monash_Review_3_%281975%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/July_1975> ;
+    tg:editor "Unknown"@en ;
+    tg:image "Monash Review 3.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "4"@en ;
+    tg:publisher <http://localhost:8000/resource/Wikipedia%3AMonash_University> ;
+    tg:title "Monash Review 3"@en .
+
+<http://localhost:8000/resource/Other_Minds_1> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/July_2007> ;
+    tg:editor <http://localhost:8000/resource/Hawke_Robinson%2C_Thomas_Morwinsky%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "49"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 1"@en .
+
+<http://localhost:8000/resource/Other_Minds_10> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/August_2010> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "72"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 10"@en .
+
+<http://localhost:8000/resource/Other_Minds_11> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/January_2011> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "129"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 11"@en .
+
+<http://localhost:8000/resource/Other_Minds_12> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/July_2011> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "61"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 12"@en .
+
+<http://localhost:8000/resource/Other_Minds_13> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/March_2012> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "135"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 13"@en .
+
+<http://localhost:8000/resource/Other_Minds_14> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/March_2014> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "235"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 14"@en .
+
+<http://localhost:8000/resource/Other_Minds_15> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/April_2015> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "166"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 15"@en .
+
+<http://localhost:8000/resource/Other_Minds_16> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/September_2016> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "122"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 16"@en .
+
+<http://localhost:8000/resource/Other_Minds_17> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/July_2017> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "215"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 17"@en .
+
+<http://localhost:8000/resource/Other_Minds_18> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/March_2018> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "94"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 18"@en .
+
+<http://localhost:8000/resource/Other_Minds_19> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/September_2018> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "133"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 19"@en .
+
+<http://localhost:8000/resource/Other_Minds_2> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/January_2008> ;
+    tg:editor <http://localhost:8000/resource/Hawke_Robinson%2C_Thomas_Morwinsky%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "75"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 2"@en .
+
+<http://localhost:8000/resource/Other_Minds_20> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/January_2019> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "81"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 20"@en .
+
+<http://localhost:8000/resource/Other_Minds_21> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/August_2019> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "119"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 21"@en .
+
+<http://localhost:8000/resource/Other_Minds_22> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/April_2020> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "44"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 22"@en .
+
+<http://localhost:8000/resource/Other_Minds_23> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/October_2020> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "101"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 23"@en .
+
+<http://localhost:8000/resource/Other_Minds_24> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/January_2021> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "78"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 24"@en .
+
+<http://localhost:8000/resource/Other_Minds_25> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/December_2021> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "87"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 25"@en .
+
+<http://localhost:8000/resource/Other_Minds_26> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/December_2022> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "77"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 26"@en .
+
+<http://localhost:8000/resource/Other_Minds_27> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/February_2024> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "94"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 27"@en .
+
+<http://localhost:8000/resource/Other_Minds_3> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/May_2008> ;
+    tg:editor <http://localhost:8000/resource/Hawke_Robinson%2C_Thomas_Morwinsky%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "45"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 3"@en .
+
+<http://localhost:8000/resource/Other_Minds_4> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/July_2008> ;
+    tg:editor <http://localhost:8000/resource/Hawke_Robinson%2C_Thomas_Morwinsky%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "49"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 4"@en .
+
+<http://localhost:8000/resource/Other_Minds_5> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/March_2009> ;
+    tg:editor <http://localhost:8000/resource/Hawke_Robinson%2C_Thomas_Morwinsky%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "35"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 5"@en .
+
+<http://localhost:8000/resource/Other_Minds_6> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/May_2009> ;
+    tg:editor <http://localhost:8000/resource/Hawke_Robinson%2C_Thomas_Morwinsky%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "77"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 6"@en .
+
+<http://localhost:8000/resource/Other_Minds_7> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/July_2009> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Chris_Seeman%2C_Chris_Wade> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "42"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 7"@en .
+
+<http://localhost:8000/resource/Other_Minds_8> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/November_2009> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "39"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 8"@en .
+
+<http://localhost:8000/resource/Other_Minds_9> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/February_2010> ;
+    tg:editor <http://localhost:8000/resource/Thomas_Morwinsky%2C_Hawke_Robinson%2C_Neville_Percy%2C_Chris_Seeman> ;
+    tg:format "PDF"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:pages "68"@en ;
+    tg:publisher "Other Minds Volunteers"@en ;
+    tg:title "Other Minds 9"@en .
+
+<http://localhost:8000/resource/Parma_Eldalamberon> a schema:CreativeWork ;
+    tg:editor <http://localhost:8000/resource/Christopher_Gilson%2C_Arden_R._Smith%2C_Carl_F._Hostetter_and_others> ;
+    tg:format "Paperback, print on demand"@en ;
+    tg:frequency "Irregular"@en ;
+    tg:image "Parma Eldalamberon 6.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:latest <http://localhost:8000/resource/Parma_Eldalamberon_23> ;
+    tg:name "Parma Eldalamberon<br><small>\"The Book of Elven-tongues\"</small>"@en ;
+    tg:publisher <http://localhost:8000/resource/Issue_1-5%3A_Mythopoeic_Society%3Cbr%3E_Since_issue_6%3A_Elvish_Linguistic_Fellowship> ;
+    tg:website "[http://www.eldalamberon.com/ Eldalamberon]"@en .
+
+<http://localhost:8000/resource/Seventeen> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/17_January_1967%3Cref%3E%7B%7BCG> ;
+    tg:editor "Enid A. Hampton"@en ;
+    tg:format "Magazine"@en ;
+    tg:image "Seventeen.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:publisher "New York: Triangle Publications"@en ;
+    tg:title "Seventeen, January 1967"@en .
+
+<http://localhost:8000/resource/Tengwesti%C3%AB_%28journal%29> a schema:CreativeWork ;
+    tg:editor <http://localhost:8000/resource/Carl_F._Hostetter%2C_Patrick_H._Wynne> ;
+    tg:format "Online"@en ;
+    tg:frequency "Irregular"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:latest <http://localhost:8000/resource/28_December_2024> ;
+    tg:name "Tengwestië"@en ;
+    tg:publisher <http://localhost:8000/resource/Elvish_Linguistic_Fellowship> ;
+    tg:website "[https://www.elvish.org/Tengwestie/ Tengwestië]"@en .
+
+<http://localhost:8000/resource/Tolkien_Journal_%28Vol.3%2C_No.3%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/Late_Summer_1968> ;
+    tg:editor "Ed Meskys"@en ;
+    tg:illustrator "Bonnie Bergstrom (cover)"@en ;
+    tg:image "Tolkien Journal (Vol.3, No.3).png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:publisher <http://localhost:8000/resource/Tolkien_Society_of_America> ;
+    tg:title "Tolkien Journal (Vol.3, No.3)"@en .
+
+<http://localhost:8000/resource/Tolkien_Journal_%28Vol.3%2C_No.4%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/November_1969> ;
+    tg:editor "Ed Meskys"@en ;
+    tg:illustrator "Bonnie Bergstrom (cover)"@en ;
+    tg:image "Tolkien Journal (Vol.3, No.4).png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:publisher <http://localhost:8000/resource/Tolkien_Society_of_America> ;
+    tg:title "Tolkien Journal (Vol.3, No.4))"@en .
+
+<http://localhost:8000/resource/Tolkien_Studies_%28journal%29> a schema:CreativeWork ;
+    tg:editor <http://localhost:8000/resource/Michael_D.C._Drout%2C_Verlyn_Flieger%2C_and_David_Bratman> ;
+    tg:format "Hardcover; electronic"@en ;
+    tg:frequency "Annual"@en ;
+    tg:image "Tolkien Studies - Volume 2.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:latest <http://localhost:8000/resource/Tolkien_Studies%3A_Volume_20> ;
+    tg:name "Tolkien Studies:<br><Small>An Annual Scholarly Review</small>"@en ;
+    tg:publisher "West Virginia University"@en ;
+    tg:website "[https://wvupressonline.com/journals/tolkien_studies Tolkien Studies]"@en .
+
+<http://localhost:8000/resource/Vinyar_Tengwar> a schema:CreativeWork ;
+    tg:editor <http://localhost:8000/resource/Carl_F._Hostetter> ;
+    tg:format "Paperback (collected volumes)"@en ;
+    tg:frequency "Irregular"@en ;
+    tg:image "Vinyar Tengwar.png"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:latest <http://localhost:8000/resource/Vinyar_Tengwar_50> ;
+    tg:name "Vinyar Tengwar<br><small>\"Newsletters\"</small>"@en ;
+    tg:publisher <http://localhost:8000/resource/Elvish_Linguistic_Fellowship> ;
+    tg:website "[https://www.elvish.org/VT/ Vinyar Tengwar]"@en .
+
+<http://localhost:8000/resource/Weathertop_%28journal%29> a schema:CreativeWork ;
+    tg:date <http://localhost:8000/resource/Winter_1984-1985> ;
+    tg:editor <http://localhost:8000/resource/Denis_Bridoux> ;
+    tg:frequency "Quarterly"@en ;
+    tg:illustrator <http://localhost:8000/resource/Kay_Woollard_%28art_editor%29> ;
+    tg:image "Weathertop 1 cover.jpg"@en ;
+    tg:infoboxTemplate <http://localhost:8000/template/journal> ;
+    tg:issn "0950-3757"@en ;
+    tg:latest <http://localhost:8000/resource/Issue_%235%2C_1987> ;
+    tg:name "Weathertop"@en ;
+    tg:pages "20-30 average"@en ;
+    tg:publisher "Amon Sûl Smial"@en .
+

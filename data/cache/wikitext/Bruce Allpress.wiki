@@ -1,0 +1,22 @@
+{{actor
+| image =
+| name = Bruce Allpress
+| lifetime = [[25 August]] [[1930]] - [[23 April]] [[2020]]
+| played = [[Aldor (film character)|Aldor]]
+| film = [[The Lord of the Rings (film series)|''The Lord of the Rings'' (film series)]]
+| imdb = [https://www.imdb.com/name/nm0021600/ IMDb Profile]
+}}
+
+'''Bruce Robert Allpress''' ([[1930]]-[[2020]]) was a [[New Zealand]] actor. He played [[Aldor (film character)|Aldor]] of Rohan in ''[[The Lord of the Rings: The Two Towers]]''.
+
+== External links ==
+* {{WP|Bruce Allpress}}
+
+{{DEFAULTSORT:Allpress, Bruce}}
+[[Category:Actors and actresses]]
+[[Category:New Zealand people]]
+[[Category:People by name]]
+[[Category:The Lord of the Rings (film series) cast]]
+
+[[de:Bruce Allpress]]
+[[fi:Bruce Allpress]]

@@ -1,0 +1,92 @@
+{{disambig-two|the first book in ''[[The History of Middle-earth]]'' series|conceptual phase of the [[legendarium]]|[[The Book of Lost Tales]]}}
+{{book
+| title=The Book of Lost Tales: Part One
+| image = Lost Tales I 1983.png
+| author=[[J.R.R. Tolkien]]
+| editor=[[Christopher Tolkien]]
+| publisherUK=[[George Allen and Unwin]]
+| publisherUS=[[Houghton Mifflin]]
+| dateUK=[[27 October]] [[1983]]
+| dateUS=[[22 February]] [[1984]]
+| format=Hardcover; paperback
+| pages=304
+| isbn=0048232386
+| precededby=[[The Old English Exodus]] (1982)
+| followedby=[[The Book of Lost Tales: Part Two]] (1984)
+}}
+'''''The Book of Lost Tales: Part One''''', published in [[1983]], is the first volume of [[Christopher Tolkien]]'s 12-volume book series, ''[[The History of Middle-earth]]'', in which he analyzes the unpublished manuscripts of [[J.R.R. Tolkien]].
+
+The book is a collection of early stories, which were the earliest form (begun in [[1917]]) of the [[legendarium]] that would eventually comprise ''[[The Silmarillion]]''. Each of the Tales is followed by notes and a detailed commentary by Christopher.
+
+In these Tales are found the earliest accounts and original ideas of the [[Valar|Gods]] and the [[Music of the Ainur|creation of the world]], the [[Elves]] and their coming to [[Valinor]], the [[Two Trees]] and the [[Silmarils]], the theft of Melko, and the [[Exile of the Noldor|Exile of the Noldoli]]. These are continued in ''[[The Book of Lost Tales: Part Two]]''.
+
+==Overview==
+Though they cover a broadly similar history, the ''Tales'' are very different from ''The Silmarillion''. Firstly, the ''Tales'' are more complex and detailed than ''The Silmarillion'': they are written in a less formal but more archaic style and include many obsolete words and phrases. Secondly, the interaction between the different elf-races is profoundly different: the exiled Noldoli (or "Gnomes", the Noldor of the later histories) suffer decisive defeat much earlier and become slaves of the enemy they had sought to punish.
+
+In the frame story of the book, a mortal Man visits the Elvish Isle of [[Tol Eressëa]], where he learns the history of its inhabitants. In the earlier versions this man is named [[Eriol]], and is of some vague north European origin. In later versions he becomes [[Ælfwine]], an Englishman of the Middle-ages.
+
+==Contents==
+* Foreword
+
+* I. "[[The Cottage of Lost Play]]" — the "framework" story
+* II."[[The Music of the Ainur]]" — the first version of what would become the ''[[Ainulindalë]]''
+* III. "[[The Coming of the Valar and the Building of Valinor]]" — later ''[[Valaquenta]]'' and first chapters of ''[[Quenta Silmarillion]]''
+* IV. "[[The Chaining of Melko]]" — ''Melko'' is an earlier name of [[Morgoth|Melkor]]
+* V. "[[The Coming of the Elves and the Making of Kôr]]" — [[Kôr]] is the later [[Tirion]] and its hill [[Túna]]
+* VI. "[[The Theft of Melko and the Darkening of Valinor]]"
+* VII. "[[The Flight of the Noldoli]]" — ''Noldoli'' are the Elves later called [[Noldor]]
+* VIII. "[[The Tale of the Sun and Moon]]"
+* IX. "[[The Hiding of Valinor]]"
+* X. "[[Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind]]"
+
+* Appendix: Names in the ''Lost Tales'' - Part I
+
+* Index
+
+==Inscriptions==
+There is an inscription in the [[Tengwar]] characters in the first pages of every ''History of Middle-earth'' volume, written by Christopher Tolkien and describing the contents of the book. The inscription in Book I reads:
+
+:"''This is the first part of the Book of the Lost Tales of Elfinesse which Eriol the Mariner learned from the Elves of Tol Eressëa, the Lonely Isle in the western ocean, and afterwards wrote in the [[Golden Book]] of [[Tavrobel]]. Herein are told the Tales of Valinor, from the Music of the Ainur to the Exile of the Noldoli and the Hiding of Valinor.''"
+
+==From the publisher==
+{{blockquote|The first of a two-book set that contains the early myths and legends which led to the writing of Tolkien's epic tale of war, The Silmarillion.<br>
+
+The Book of Lost Tales stands at the beginning of the entire conception of Middle-earth and Valinor for the Tales were the first form of the myths and legends that came to be called The Silmarillion. Embedded in English legend and English association, they are set in the narrative frame of a great westward voyage over the Ocean by a mariner named Eriol to the lonely Isle where the Elves dwelt; from them he learned their true history, the Lost Tales of Elfinesse. In the Tales are found the earliest accounts of Gods and Elves, Dwarves, Balrogs and Orcs; of the Silmarils and the Two Trees of Valinor; of the geography and cosmology of Tolkien's invented world.}}
+
+==Publication history and gallery==
+;UK editions
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Lost Tales I 1983.png |1983 hardcover
+File:Lost Tales I 1985.jpeg |1985 paperback
+File:Lost Tales I 1987.jpeg |1985 paperback 4th impression
+File:Lost Tales I 1991.jpeg |1991 hardcover
+File:Lost Tales I 1994.jpeg |1994 paperback
+File:The Book of Lost Tales One (HC2002).png ‎|2002 & 2015 paperback
+File:Lost Tales I 2010.png |2010 hardcover
+File:Lost Tales I 2023.jpeg |2023 hardcover
+File:Lost Tales I 2024.jpeg |2024 paperback
+</gallery>
+* [[George Allen & Unwin]], hardcover ([[1983]]), pp.&nbsp;304. ISBN 0048232386
+* Unicorn / Unwin Paperbacks, paperback ([[1985]]), ISBN 0048232815 - (cover art by [[Roger Garland]])
+** 1985 paperback edition, 4th impression ([[1987]])
+* [[HarperCollins]] hardcover ([[1991]]), ISBN 0261102028
+* [[HarperCollins]] paperback ([[1994]]), ISBN 0261102222 - (cover art by [[John Howe]])
+** 1994 paperback edition, reset in [[2002]], then in [[2015]]
+* [[HarperCollins]] hardcover ([[2010]]), ISBN 000736525X
+* [[HarperCollins]] hardcover with reversable dustjacket ([[2023]]), ISBN 978-0008663148 - ([[Centenary Boxed Sets]] #1)
+** 2015 paperback edition, 41st impression ([[2024]])
+
+==External links==
+* [http://www.tolkienbooks.net/php/home-contents.php#i A content guide for this volume] at Tolkienbooks.net
+
+{{home}}
+{{Publishedmajorbooks}}
+{{title|italics}}
+{{DEFAULTSORT:Book of Lost Tales Part 1}}
+[[Category:Books by J.R.R. Tolkien]]
+[[Category:Books by Christopher Tolkien]]
+[[Category:Fiction books]]
+[[Category:Posthumous publications]]
+[[Category:Publications by title]]
+[[de:Das Buch der Verschollenen Geschichten Teil 1]]
+[[fi:The Book of Lost Tales 1]]

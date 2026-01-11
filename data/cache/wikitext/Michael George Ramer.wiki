@@ -1,0 +1,61 @@
+{{anglosaxon infobox
+| name=Michael George Ramer
+| people=[[wikipedia:English people|Englishman]]
+| image = Afalstein - Notion Club Papers - Ramer.png
+| caption="Notion Club Papers - Ramer" by [[:Category:Images by Afalstein|Afalstein]]
+| pronun=
+| othernames=
+| titles=
+| position=Professor of [[wikipedia:Finno-Ugric languages|Finno-Ugric]] Philology
+| location=
+| affiliation=[[Notion Club]]
+| language=[[wikipedia:Hungarian language|Magyar]], [[Modern English|English]], and a bit of [[Keladian]]
+| birth=[[Seventh Age 1929|1929]]
+| birthlocation=[[wikipedia:Hungary|Hungary]]
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=Writer of romances
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Michael George Ramer''' (born in [[Seventh Age 1929|1929]]) was a fictional member of the [[Notion Club]].
+
+== History ==
+Ramer was born in [[wikipedia:Hungary|Hungary]] in 1929, and was educated at Jesus College. His parents returned to [[wikipedia:England|England]] when he was four years old, where he lived by [[Gunthorpe Park]] in [[Wikipedia:Matfield|Matfield]] during his childhood.<ref>{{SD|2c}}, p. 181</ref>
+
+He spent a good deal of time in [[wikipedia:Finland|Finland]] and Hungary between [[Seventh Age 1956|1956]] and [[Seventh Age 1968|1968]]. He was a professor of [[wikipedia:Finno-Ugric languages|Finno-Ugric]] philology, but was better known as a writer of romances. Among his other interests were [[wikipedia:Celtic languages|Celtic languages]] and antiquities.<ref>{{SD|2b}}</ref>
+
+He had written a book called ''[[The Stone-eaters]]'' that has a Glacier in it.<ref name="Space">{{SD|2c}}, "Night 61"</ref>
+
+During a meeting of the Club at [[20 February]], [[Seventh Age 1987|1987]], Ramer read a story he had written about space travel. He was criticized by [[Nicholas Guildford|Guildford]] for not contriving convincing means of traversing great distances in space.<ref>{{SD|2c}}, "Night 60"</ref> Afterwards he thought of an idea of using dreams as means of traveling from one point in space to another, and he perfected the method of recollecting bits of information from the dreams which would have been otherwise forgotten.<ref name="Space"/>
+
+He claimed to have visited many worlds in his vivid dreams, which he described in great detail, and many words in alien languages he had remembered. At the end of the retelling of his dreams to the Club, he said that he had landed on a planet very similar to the Earth, and he saw what he described as buildings and structures, indicating a presence of sentient beings.<ref name="Space"/>
+
+In one of the subsequent meetings, when [[Alwin Arundel Lowdham|Lowdham]] mentions the name of ''[[Númenor|Nūmenōr]]'', Ramer seems to be intrigued, saying that it was his name for [[Atlantis-haunting|Atlantis]];<ref>{{SD|2d}}, "Night 65"</ref> and during the ''Night 66'' he notes a peculiar sequence of names: [[Albuin]] son of [[Auduin]], [[Ælfwine]] son of [[Éadwine]] and Alwin son of [[Edwin Lowdham|Edwin]], all names bearing the same two meanings.<ref>{{SD|2d}}, "Night 66"</ref>
+
+Afterwards, he asked [[Professor Rashbold]] to transliterate and translate, if he can, a manuscript which was written by Edwin Lowdham, Arundel's father in an unknown script (which turned out to be [[Tengwar]]), and he succeeded, finding that the language in which the text was written was [[Old English]]. The text described an unknown cataclysmic event, which turned out to be the [[Downfall of Númenor]].<ref>{{SD|2d}}, "Night 68"</ref>
+
+== Inspiration ==
+In one of the manuscripts, beneath ''Ramer'' [[J.R.R. Tolkien]] wrote ''Self'', indicating that originally he intended Ramer to serve as a sort of an alter-ego for himself inside the text. Later, he wrote ''CSL'' (indicating [[C.S. Lewis]]) and finally he wrote ''To''. However, according to [[Christopher Tolkien]], it would be useless to seek any great similarity between the characters from the text and the real people.<ref>{{SD|2a}}</ref>
+
+{{references}}
+
+{{notionclub}}
+
+{{DEFAULTSORT:Ramer, Michael George}}
+
+[[Category:Characters from the later Ages]]
+[[Category:English people (in-universe)]]
+[[Category:The Notion Club Papers]]

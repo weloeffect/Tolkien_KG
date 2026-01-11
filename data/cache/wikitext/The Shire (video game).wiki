@@ -1,0 +1,19 @@
+{{video game infobox
+| image=
+| name=The Shire
+| developer=
+| publisher=
+| platform=
+| releasedate=[[1979]]<ref name="Tolkien Games">{{webcite|author=Fredrik Ekman|articleurl=http://www.lysator.liu.se/tolkien-games/entry/shire.html|articlename=The Shire|dated=|website=Games|accessed=29 December 2014}}</ref>
+| genre=[[wikipedia:Interactive fiction|Text adventure]]<ref name="Tolkien Games"/>
+|}}'''The Shire''' is a video game made for a mainframe or mini-computer, probably the [[wikipedia:PLATO (computer system)|Plato System]].<ref name="Tolkien Games"/>
+
+It is probably the first videogame ever made that is based generally on Tolkien's books.
+==External links==
+* [http://www.lysator.liu.se/tolkien-games/entry/shire.html The Shire] at [http://www.lysator.liu.se Tolkien-Games]
+
+{{references}}
+{{title|italics}}
+{{DEFAULTSORT:Shire}}
+[[Category:PLATO games]]
+[[Category:Text-Adventure video games]]

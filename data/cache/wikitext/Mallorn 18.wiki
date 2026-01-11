@@ -1,0 +1,59 @@
+{{Mallorn
+| name=Mallorn 18
+| image = Mallorn18.jpg
+| editor=Jenny Curtis
+| artist=[[Pauline Baynes]]
+| printer=[http://hanwayprint.com/ Hanway Print Centre]
+| date=[[June]] [[1982]]
+| format=A4 stapled paperback
+| pages=36
+| issn=0308-6674
+}}
+'''''Mallorn'' 18''' is the eighteenth issue of the [[The Tolkien Society]]'s annual journal ''[[Mallorn (journal)|Mallorn]]'', published in June [[1982]].
+
+==Contents==
+* ''Cover Illustration''
+** By: [[Pauline Baynes]]
+* Editorial
+** By: Jenny Curtis
+* A Phytogeography of Middle-earth
+** By: Karen Goodwin
+* Poem: 'Wanderlust'
+** By: Christine Davidson
+* Art: 'The Making of Arda'
+** By: Geraint Rees
+* Review of ''[[Tolkien Criticism: An Annotated Checklist]]'', by Richard C. West
+** By: [[Charles Noad]]
+* Follow-On
+** By: Ley Holloway
+* J.R.R. Tolkien, Translator
+** By: Joe Christopher
+* Poem: 'Green'
+** By: Steve Pillinger
+* Art: 'Cuivienen'
+** By: Ley Holloway
+* Wordhoard
+** By: Janet Gibbs
+* Orthanc and the Onodrim in late Mannish tradition: some West Saxon vestigia
+** By: [[David Doughan]]
+* A Chronology of the careers of Túrin and Tuor
+** By: Donald O'Brien
+* Arnor: The Númenórean Inheritance
+** By: Marjorie R. Willets
+* Art: 'Aragorn and Arwen at Rivendell'
+** By: Elizabeth Tomkins
+* Tolkien's influence on the Chronicles of Narnia
+** By: Jessica Yates
+* Poem: 'Ar-Feiniel'
+** By: Sara Fletcher
+* Guidelines for ''Mallorn'' contributors
+* Where to Write
+* [[The Tolkien Society]]
+
+* Inside Art
+** By: Stephen Lines, Sara Fletcher, Margaret Thompsons, Lucy Matthews, Geraint Rees, [[Kay Woollard]], Anthony Curtis
+
+{{mallornnav|17|19|url=http://journals.tolkiensociety.org/mallorn/issue/view/19/}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 18}}
+[[Category:Mallorn (journal)]]

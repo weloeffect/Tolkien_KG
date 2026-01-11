@@ -1,0 +1,62 @@
+{{Mallorn
+| name=Mallorn 46
+| image = Mallorn46.png
+| editor=[[Henry Gee]]
+| artist=[[Ruth Lacon]]
+| printer=[http://www.printedword.co.uk/ The Printed Word], Horsham, UK
+| date=Autumn 2008
+| format=A4 stapled paperback, glossy
+| pages=52
+| issn=0308-6674
+}}
+'''''Mallorn'' 46''' is the forty-sixth issue of the [[The Tolkien Society]]'s biannual journal ''[[Mallorn (journal)|Mallorn]]'', published in Autumn [[2008]].
+
+==Contents==
+* '''Cover Art'''
+** By: [[Ruth Lacon]]
+* '''Guest Editorial'''
+** "Thoughts on Tolkien"
+*** By: Tanith Lee
+* '''Letters to the Editor'''
+* '''Reviews'''
+** "Telling Tales": ''Tales Before Narnia'' and ''[[Tales Before Tolkien]]''
+*** By: Rebecca Addy
+** "Of Baggins, Bladorthin and Pryftan": ''[[The History of The Hobbit]]''
+*** By: [[Charles Noad]]
+** "'W' is for 'Words'": ''[[The Ring of Words]]''
+*** By: Carol Brownlow
+* '''Commentary'''
+** "''The Battle of the Eastern Field''"
+*** By: Maggie Burns
+* '''Poetry'''
+** ''[[The Battle of the Eastern Field]]''
+*** By: [[J.R.R. Tolkien]]
+* '''Commentary'''
+** "'Seven signatures of witnesses in red ink'": Roman Law in [[the Shire]]
+*** By: Murray Smith
+** "Teaching and Studying Tolkien"
+*** By: [[Dimitra Fimi]]
+** "A Dialogue of Worlds": [[C.S. Lewis|Lewis]]'s ''[http://en.wikipedia.org/wiki/Perelandra Perelandra]'' and [http://en.wikipedia.org/wiki/David_Lindsay_(novelist) Lidsay]'s ''[http://en.wikipedia.org/wiki/A_Voyage_to_Arcturus Voyage to Arcturus]''
+*** By: Frank Wilson
+** "Strange Visions of Mountains - The Mountane Motif in Tolkien's Fiction"
+*** By: Maria Rafaella Benvenuto
+* '''Fiction'''
+** ''Solstice''
+*** By: John Gilbey
+** ''In the Shadow of the Dragon's Wing''
+*** By: Jeff Crook
+** ''Calinnen''
+*** By: Tanith Lee
+* '''Well, I'm Back'''
+** "Tibbles, Fauna of [[Mordor]]"
+***By: [[David Doughan]]
+* '''Back Cover'''
+** By: Lorenzo Daniele
+
+* '''Inside Art'''
+** By: John Gilbey, [[Jef Murray]] and Bonnie Robinson
+{{mallornnav|45|47}}
+{{title|journal}}
+{{DEFAULTSORT:Mallorn 46}}
+[[Category:Mallorn (journal)]]
+[[Category:Publications with contribution by J.R.R. Tolkien]]

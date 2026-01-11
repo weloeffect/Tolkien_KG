@@ -1,0 +1,56 @@
+{{anglosaxon infobox
+| name=Céolwulf
+| image=
+| caption=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=[[wikipedia:England|England]]
+| affiliation=
+| language=[[Old English]]
+| birth=9th century AD
+| birthlocation=[[wikipedia:England|England]]
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=Claimed descent from the kings of [[wikipedia:Mercia|Tamworth]]<ref>{{SD|69}}, p. 273</ref><br />''Probably'' descended from [[Voronwë (companion of Elendil)|Voronwë]], a companion of [[Elendil]]<ref>{{SD|70}}, p. 278</ref>
+| siblings=
+| spouse=
+| children=[[Tréowine]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Céolwulf''' was the father of [[Tréowine]], a close friend of the famous mariner [[Ælfwine]].<ref>{{SD|69}}, p. 269</ref>
+
+== Etymology ==
+The name ''Céolwulf'' is in [[Old English]]. It might be derived from the elements ''ceol'' ("keel") + ''wulf'' ("wolf").<ref>{{webcite|website=Behind the Name|articlename=Ceolwulf|articleurl=http://www.behindthename.com/name/ceolwulf/submitted}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | VOR | |VOR=[[Voronwë (companion of Elendil)|Voronwë]]<br /><small>''b. late {{SA}}''</small>}}
+{{familytree | |:| | |}}
+{{familytree | |:| | |}}
+{{familytree | CEO | |CEO='''CÉOLWULF'''<br /><small>''fl. [[wikipedia:9th century|9th century]]''</small>}}
+{{familytree | |!| | |}}
+{{familytree | TRE | |TRE=[[Tréowine]]<br /><small>''fl. [[wikipedia:914|914 AD]]''</small>}}
+{{familytree/end}}
+
+== Other versions of the legendarium ==
+In one of the manuscripts of ''[[The Notion Club Papers]]'', during the recital of the ''[[Lay of King Sheave]]'' in [[Edward the Elder]]'s court, it wasn't Ælfwine or Tréowine who recited the poem, but rather one Céolwulf (who wasn't the father of Tréowine at that point).<ref>{{SD|2dn}}, Note 103, p. 273</ref>
+
+{{references}}
+{{DEFAULTSORT:Ceolwulf}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters from the later Ages]]
+[[Category:The Notion Club Papers]]
+[[Category:Old English names]]

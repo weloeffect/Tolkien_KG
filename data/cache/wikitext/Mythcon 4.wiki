@@ -1,0 +1,21 @@
+{{short description|1973 Mythopoeic Society conference}}
+{{convention
+| image=
+| title=Mythcon 4
+| location=Francisco Torres Conference Center, Santa Barbara, California
+| organizer=[[Mythopoeic Society]]
+| dates=17-20 August [[1973]]
+| attendees=
+|previous=[[Mythcon 3]]|next=[[Mythcon 5]]}}
+'''Mythcon 4''' was the fourth annual [[Mythopoeic Society]] conference. 
+
+*'''Guests of Honor:''' [[Peter S. Beagle]] (fantasy author) and [[Richard Plotz]] (founder of the [[Tolkien Society of America]])
+*'''Chairman:''' [[Glen GoodKnight]]
+
+==External links==
+*[https://www.mythsoc.org/mythcon.htm Mythcon website]
+**[https://www.mythsoc.org/mythcon/mythcon-4.htm Mythcon 4 website]
+*[http://www.mythsoc.org/ Mythopoeic Society website]
+
+{{DEFAULTSORT:Mythcon 04}}
+[[Category:Mythcon]]

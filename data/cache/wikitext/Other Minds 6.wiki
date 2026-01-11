@@ -1,0 +1,46 @@
+{{journal
+| title=Other Minds 6
+| image=
+| editor=Hawke Robinson, [[Thomas Morwinsky]], Chris Seeman, Chris Wade
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=May [[2009]]
+| format=PDF
+| pages=77
+| issn=
+}}
+
+'''''Other Minds'' 6''' is the sixth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in May 2009.
+
+==Contents==
+* "Editorial: Back on track!"
+** By [[Thomas Morwinsky]]
+* "Clad in Mail"
+** By Oliver Hauss
+* "White Hand Rising"
+** By Lev Lafayette
+* "Númenórean Longevity"
+** By Thomas Morwinsky
+* "The Eöldrim"
+** By José Enrique Vacas de la Rosa
+* "Tharbad Name Changes"
+** By Chris Seeman
+* "Banks of the Northern Anduin"
+** By Johannes Lomborg
+* "Born of Hope-An Overview"
+** By José Enrique Vacas de la Rosa
+* "Book Review-'Isildur'"
+** By Thomas Morwinsky
+* "Fine Print and Disclaimers"
+* "Creative Commons Licence"
+* "Appendix A: Tables for 'Númenórean Longevity'"
+* "Appendix B: Dúnadan Longevity"
+** By Chris Seeman
+
+*'''Artwork / Maps:'''
+** By: Catherine Karina Chmiel
+** By: José Enrique Vacas de la Rosa
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 06}}
+[[Category:Other Minds]]

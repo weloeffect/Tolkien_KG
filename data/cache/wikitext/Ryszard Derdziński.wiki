@@ -1,0 +1,40 @@
+{{artist infobox
+| image=Ryszard Derdziński.jpg
+| name=Ryszard Derdziński
+| born=[[20 February]] [[1974]]
+| died=
+| style=
+| images=[[:Category:Images by Ryszard Derdziński|Gallery]]
+| location=Poland
+| website=http://tolkniety.blogspot.com
+|}}
+'''Ryszard I. Derdziński''' (born [[1974]]) is a Polish artist, linguist and translator. He is the editor of the magazines Simbelmynë and Gwaihir, co-editor of [https://elendilion.pl Elendilion.pl] and other Tolkien-based websites. He specializes in Tolkien linguistics and researching of [[J.R.R. Tolkien]]'s biography and philosophy. In online forums he usually has the alias '''Galadhorn'''.
+
+==Author==
+* ''[[The Sindarin Dictionary]]''
+
+==Translator==
+* ''The Lord of the Rings'' film books (Polish, consultant)
+* ''[[Untangling Tolkien]]'' by Muza Publishers (Polish)
+* ''[[The Art of The Hobbit]]'' by Amber Publishers (Polish)
+*  [[Appendices]] of ''The Lord of the Rings'' by Amber Publishers (Polish)
+* ''[[Appendix D]] and [[Appendix E|E]] of ''[[The Lord of the Rings]]'' by Muza Publishers (Polish)
+* ''[[The Nature of Middle-earth]]'' by Zysk i S-ka (Polish)
+
+==Artist==
+* [[The Tolkien Calendar 1993 (Polish)]]
+* [[The Tolkien Calendar 1994 (Polish)]]
+* [[Tolkien Calendar 1996]]
+* [[Simbelmyne Calendar 1999 (Polish)]]
+* [[Elvish Linguistic Calendar Spring 2001 - Stirring 2002]]
+
+==External links==
+* [https://tolkniety.blogspot.com/ Tolkniety], his personal blog
+* [http://www.elvish.org/gwaith/biography.htm Biography on Elvish.org]
+* [https://twitter.com/galadhorn Twitter Account]
+
+
+[[Category:Artists|Derdzinski, Ryszard]]
+[[Category:Linguists|Derdzinski, Ryszard]]
+[[Category:People by name|Derdzinski, Ryszard]]
+[[Category:Polish people|Derdzinski, Ryszard]]

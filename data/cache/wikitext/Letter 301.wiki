@@ -1,0 +1,11 @@
+{{letter infobox
+| #=301
+| to=[[Donald Swann]]
+| date=[[29 February]] [[1968]]
+| subject=''[[Tolkien in Oxford]]''
+}}{{letter|301}}
+==Summary==
+Tolkien commented on the BBC documentary ''[[Tolkien in Oxford]]'', which would be televised on [[30 March|March 30]]. He thought the whole documentary was a little bit too much, and the BBC must have confused him with his work. He was made to attend a firework-show, something he had not done since he was a child. Fireworks only appeared in ''[[The Fellowship of the Ring]]'' (chapter ''[[A Long-expected Party]]'') because they represented [[Gandalf]], the keeper of [[Narya|the Ring of Fire]].
+{{letters}}
+[[de:Brief 301]]
+[[Category:Letters to Donald Swann]]

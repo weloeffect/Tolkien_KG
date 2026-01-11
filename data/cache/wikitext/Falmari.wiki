@@ -1,0 +1,65 @@
+{{people infobox
+| name=Falmari
+| image = Ted Nasmith - The Ships of the Teleri Drawn by Swans.jpg
+| caption="The Ships of the Teleri Drawn by Swans" by [[Ted Nasmith]]
+| pronun=[[Quenya|Q]], {{IPA|[ˈfalmari]}}
+| othernames=Sea-elves, Teleri of Valinor
+| origin=[[Teleri]] who completed the [[Great Journey]] into [[Aman]]
+| location=[[Alqualondë]], [[Tol Eressëa]]
+| affiliation=
+| rivalry=
+| language=[[Telerin]]
+| members=[[Olwë]], [[Eärwen]]
+| lifespan=Immortal
+| distinctions=Great singers and mariners, with a deep reverence for the sea
+| height=
+| hair=Dark, sometimes silver
+| skin=
+| clothing=
+| weapons=
+}}
+The '''Falmari'''  were the [[Teleri]] who followed the [[Great Journey]] into [[Beleriand]] and reached [[Valinor]].<ref name=s3/><ref name=index/>
+
+==Origins==
+[[File:Steamey - Ossë and the Teleri.jpg|thumb|left|''Ossë and the Teleri'' by [[:Category:Images by Steamey|Steamey]]]]
+{{main|Lindar}}
+The Teleri were the most numerous Elven clan and also the most slow and reluctant of the Great Journey; many turned back or stayed behind. Their leaders were the brothers [[Thingol|Elwë]] and [[Olwë]], but when Elwë became lost in Beleriand, [[Eglath|many]] of his people refused to carry on to [[Aman]] until he had been found; it was Olwë who led the rest to the shores of Beleriand.<ref name=s3>{{S|Captivity}}</ref>
+
+As they waited for [[Ulmo]]'s floating island, they lingered at the [[Bay of Balar]] where they were befriended and taught by Ulmo's vassal, [[Ossë]]. When Ulmo returned to take the bulk of the Teleri with Olwë to the West, Ossë convinced some of them to forsake Valinor and stay behind with him. These afterwards became the [[Sindar]].<ref name=s3/>
+
+==History==
+As Ulmo ferried the floating island to the West, the Teleri again heard Ossë's song and begged Ulmo to stop off the shore, which he did. Ossë fastened the island to the bottom, and it became [[Tol Eressëa]], the lonely isle off the [[Bay of Eldamar]]. These Teleri became known as Falmari and their [[Telerin|language]] eventually diverged from [[Quenya|that]] of the [[Vanyar]] and the [[Noldor]].<ref name=s3/>
+
+However soon the Falmari of the island longed for the splendour and [[Light of Valinor]] and wished to see their kindred there, the [[Vanyar]] and the Noldor. Grieving, Ossë submitted to the will of the [[Valar]] and Ulmo, and taught them ship-building and offered them [[swans]] to draw them to Valinor. There they built the city haven of [[Alqualondë]] with Olwë their king.<ref name=s3/> 
+[[File:Ted Nasmith - Kinslaying at Alqualondë.jpg|thumb|left|250px|''The Kinslaying at Alqualondë'' by [[Ted Nasmith]]]]
+The Teleri were mostly close to the Noldor. However during the [[Exile of the Noldor|Flight of the Noldor]], the Telerin mariners refused to join the host of [[Fëanor]] in leaving Valinor. They attempted to protect their swan-ships from the Noldor, however they were armed only with [[bows]]. Many of them were cruelly slain in the [[Kinslaying at Alqualondë]].<ref>{{S|9}}</ref> 
+
+In the closing years of the [[First Age]], Alqualonde was visited by [[Eärendil]] and [[Elwing]] who had reached Valinor. Elwing stayed a little there and told stories to the Teleri about the griefs of Beleriand and they were filled with pity and wonder. Because of their bitterness against the Noldor few or none of the Teleri joined the [[Host of the Valar]] which set out to capture [[Morgoth]] for good.<ref name="war" /> 
+
+After the [[War of Wrath]], the Elves of Middle-earth were admitted to the Lonely Isle and Valinor. The Teleri eventually forgave the Ñoldor for the Kinslaying, the [[Doom of Mandos|Curse of Mandos]] was lifted and the two kindreds were at peace again.<ref name="war">{{S|Earendil}}</ref>
+
+==Culture==
+Having been taught by Ossë, the Teleri were masters of music, the sea and shipbuilding, and they used [[Swan-ships]]. When the Falmari reached Eldamar, they were close to the Noldor, who offered them many jewels and crystals, which they used to adorn their pools and beaches; the Falmari prized the pearls which they found from the sea and used for their halls.<ref>{{S|Princes}}</ref> The Teleri also prized [[silver]] (which they called ''[[Telpë|telpe]]'') above [[gold]].<ref>{{UT|6e}}</ref>
+
+Although they spoke a different language, the closeness of the two peoples resulted in a [[wikipedia:sprachbund|sprachbund]], and the speech of the Noldor had some influence from [[Telerin]].<ref>{{PM|Shibboleth}}</ref>
+
+==Etymology==
+''Falmari'' is [[Quenya]] meaning "wave-folk"<ref name="cirdan">{{PM|XIII}}</ref> and contains the word ''[[falma]]'' "wave".<ref>{{S|Elements}}</ref>
+
+The name "''Falmari''" (which is preferred in this article) is found only once<ref name="s3" /> in the published ''[[The Silmarillion|Silmarillion]]'', where the Teleri of Aman are mostly known as 'the Teleri' (obviously representing the Noldorin point of view); however the Teleri of Aman were properly just the branch of the Telerin clan.<ref name="index">{{S|Index}}</ref> 
+
+In one text, the names '''''Falmari''''' (Quenya) and '''''[[Falathrim]]''''' (Sindarin) both refer to the people of [[Círdan]] in Beleriand<ref name="cirdan" /> however elsewhere, as well as in the published ''Silmarillion'', the Quenya name refers to those in Valinor,<ref name="index" /><ref name="p3i3" /> and the Sindarin name to those of the [[Falas]].<ref name="index" />
+
+==Other versions of the legendarium==
+In the early versions of Tolkien's mythology (see: ''[[The Book of Lost Tales]]''), they were known as '''''Solosimpi''''' ("Pipers of the Shores"), while the name ''Teleri'' was given to the clan of Elves known in the published version of ''[[The Silmarillion]]'' as [[Vanyar]].
+
+Other early names for the Teleri were '''Soloneldi''' (before being altered to "Falmari")<ref name="p3i3">{{MR|P3I3}}</ref> and '''Falmarindi''' meaning "foam-riders".<ref>{{LR|A2}}</ref>
+{{elves}}
+{{references}}
+[[Category:Elven peoples]]
+[[Category:Falmari| ]]
+[[Category:Quenya demonyms]]
+[[Category:Teleri]]
+
+[[de:Falmari]]
+[[fi:Falmari]]

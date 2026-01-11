@@ -1,0 +1,51 @@
+{{mythlore
+|title=Mythlore 39
+| image = Mythlore 39.png
+|editor=[[Glen GoodKnight]]
+|publisher=[[Mythopoeic Society]]
+|date=Summer [[1984]]
+|format=Paperback
+|pages=63
+}}
+'''''Mythlore'' 39''' ([https://dc.swosu.edu/mythlore/vol11/iss1/ Volume 11, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+
+====Articles====
+
+* Bergvall, Ake. “A Myth Retold: C.S. Lewis' Till We Have Faces.”
+* Houghton, John. “Rochester The Renewer: The Byronic Hero and The Messiah as Elements in The King Elessar.”
+* Kenney, Alice P. “Mistress of Creation.”
+* Paxton, Diana. “The Tolkien Tradition.”
+* Harrod, Elizabeth. “Trees in Tolkien, and What Happened Under Them.”
+* Berman, Ruth. “Dragons for Tolkien and Lewis.”
+
+==== Poetry ====
+
+* Benedict, Marthe. “Dwellers in the Land of Dreams.”
+* Christopher, Joe R. “A Night at Mara's House.”
+
+==== Features ====
+
+* GoodKnight, Glen H. Editorial: The Love of Old Friends
+* Christopher, Joe R. An Inklings Bibliography (28).
+* Hyde, Paul Nolan. “Quenti Lambardillion.”
+* Beach, Sarah. “Mythopoesis.”
+* Letters
+
+==== Reviews ====
+
+* ''The Book of Lost Tales.'' J.R.R. Tolkien. Reviewed by Jessica Yates.
+* ''The Book of Lost Tales.'' J.R.R. Tolkien. Reviewed by Thomas M. Egan.
+* ''Splintered Light: Logos and Language in Tolkien's World.'' Verlyn Flieger. Reviewed by Nancy-Lou Patterson.
+* ''Reason and Imagination in C.S. Lewis—A Study of till We Have Faces.'' Peter J. Schakel. Reviewed by Nancy-Lou Patterson.
+* ''In Search of C.S. Lewis.'' Stephen Schofield. Reviewed by Nancy-Lou Patterson.
+* ''Spirits in Bondage, a Cycle of Lyrics.'' C.S. Lewis. Reviewed by Lawrence Mack Hall.
+* ''The Lion, the Witch, and the Wardrobe.'' C.S. Lewis. Reviewed by Nancy-Lou Patterson.
+* ''SEVEN: An Anglo-American Literary review, Vol. 5.'' Wheaton College. Reviewed by Nancy-Lou Patterson.
+* ''Finn and Hengest: The Fragment and the Episode.'' J.R.R. Tolkien. Reviewed by Thomas M. Egan.
+{{mythlorenav|38|40}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 039}}
+
+[[Category:Mythlore]]

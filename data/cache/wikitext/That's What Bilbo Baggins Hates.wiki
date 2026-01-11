@@ -1,0 +1,39 @@
+{{Disambig-two|the adaptation of [[Chip the glasses and crack the plates!]] in [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]|original song in [[J.R.R. Tolkien]]'s ''[[The Hobbit]]''|[[Chip the glasses and crack the plates!]]}}
+{{song
+|title = That's What Bilbo Baggins Hates
+|subtitle = 
+|album = ''[[The Hobbit: The Complete Original Soundtrack]]''
+|composer = [[Maury Laws]]
+|arranger = 
+|writer = [[Jules Bass]]
+|performer = 
+|additionalcredits = 
+|image = The Hobbit The Complete Original Soundtrack - cover.jpg
+|duration = 4:22
+|track = 25
+|previous = [[The Greatest Adventure (instrumental)]]
+|next = [[Gandalf's Reflection]]
+|spotify = 
+|youtube = https://www.youtube.com/watch?v=MGclMfaRH4Y
+|soundcloud = 
+}}
+'''That's What [[Bilbo Baggins]] Hates''' is a song from the [[The Hobbit (1977 film)|1977 adaptation]] of ''[[The Hobbit]]'', the lyrics are based on [[Chip the glasses and crack the plates!|the poem from the book]]. The lyrics were adapted by [[Jules Bass]] and the music by [[Maury Laws]]. ''[[The Hobbit: An Unexpected Journey]]'' features [[Blunt the Knives|a similar adaptation]] of the poem.
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+Chip the glasses, crack the plates!
+That's what [[Bilbo Baggins]] hates!
+That's what Bilbo Baggins hates,
+So carefully, carefully with the plates!
+
+Blunt the knives and bend the forks!
+Smash the bottles, burn the corks!
+That's what Bilbo Baggins hates,
+So carefully, carefully with the plates!
+</poem>
+
+==See also==
+*[[Chip the glasses and crack the plates!]], the poem in ''[[The Hobbit]]'' by [[J.R.R. Tolkien]]
+*[[Blunt the Knives]], the track from ''[[The Hobbit: An Unexpected Journey]]'''s [[The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition|soundtrack]]
+
+[[Category:The Hobbit (1977 film) soundtrack]]

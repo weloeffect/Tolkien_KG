@@ -1,0 +1,27 @@
+{{puzzle infobox
+| title=The Hobbit Jigsaw Puzzles
+| image=
+| artist=
+| publisher=
+| releasedate=
+| pieces=200
+| size=11 x 17 inches
+| ice=
+| edition=
+}}'''The Hobbit Jigsaw Puzzle''' was a series of 200-piece jigsaw puzzles featuring snapshot images from the [[The Hobbit (1977 film)|1977 film ''The Hobbit'']] produced by [[Rankin/Bass]].
+
+The boxes measure 13" x 8" x 1 3/4", and the finished puzzles would measure 11" x 17".<ref>Information derived from various eBay sales, by [[User:Morgan]]</ref>
+
+== Products ==
+
+===The Hobbit Jigsaw Puzzle boxes===
+<gallery mode="traditional" widths="200px" heights="150px">
+File:The Hobbit Jigsaw Puzzle - Bilbo.png|Bilbo
+File:The Hobbit Jigsaw Puzzle - Smaug.png|Smaug
+File:The Hobbit Jigsaw Puzzle - Dwarf and Bilbo.png|Dwarf and Bilbo
+</gallery>
+
+{{references}}
+{{DEFAULTSORT:Hobbit Jigsaw Puzzle, The}}
+[[Category:The Hobbit (1977 film)]]
+[[Category:Puzzles]]

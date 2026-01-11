@@ -1,0 +1,68 @@
+{{race infobox
+| name=Mermaids
+| image = Ted Nasmith - Nenseldë the Wingild.jpg
+| caption="Nenseldë the Wingild in [[Middle-earth Collectible Card Game|MECCG]]" by [[Ted Nasmith]]
+| pronun=
+| othernames=''water spirits'', ''foam-maidens'', ''foam-fays'', ''foam-riders'', ''nymphs''
+| origin=
+| location=
+| affiliation=
+| rivalry=
+| language=
+| people=''Oarni'', ''Falmaríni'', ''Wingildi'', ''Nindari''
+| members=[[Uinen|Ui]]
+| lifespan=Immortal
+| distinctions=
+| height=
+| hair="blossom-white hair"
+| skin=
+| clothing=
+| weapons=
+}}
+'''Mermaids''', or water spirits, were creatures only mentioned fleetingly in the earliest versions of the [[legendarium]] and linguistic writings of the [[Eldar]].<ref>{{HM|LT1}}, ''passim''</ref><ref name=PE12>{{PE|12}}</ref> Other names for these creatures were '''foam-maidens''', '''foam-fays''', '''foam-riders''',<ref name=MC>{{MC|Secret}}, pp. 216-7</ref> and '''nymphs'''.<ref name=PE12/>
+
+== History ==
+Mermaids apparently lived in caverns in the sea, that where down to the path of the Sun.<ref>{{LT1|IXn}}, p. 227</ref>
+
+Mermaids are mentioned in the incomplete drafts of  ''[[The Tale of Eärendel]]''. Young [[Eärendel]] befriends the Oarni at the [[Mouths of Sirion]], who love him. Later however he is shipwrecked at the [[Fiord of the Mermaid]] by the treachery of [[Ossë]] and another kind of mermaids enchant his sailors; Tolkien noted that they were possibly "[[earthlings]] or [[fays]]? - or both".<ref group=note>Possibly they were the Wingildi, servants of Ossë who hated Eärendel</ref> Later the Oarni save Eärendel at [[Falasquil]] when Ossë wrecked him again. Finally, it is mentioned that the Oarni helped him build [[Wingilot]] at Falasquil, with which he sailed for [[Valinor]].
+
+== Characteristics ==
+The mermaids were part of what apparently was a three-fold division of the lesser [[Ainur|Ainu]] spirits: [[sylphs]] (spirits of the air), [[sprites]] (spirits of the earth), and water spirits.<ref name=LT1-66>{{LT1|III}}, p. 66</ref>
+
+In poems, the foam-fays are described as having "blossom-white hair" shining "in the light of the sun", "pale arms on the sea's bosom", and to be "chanting wild songs".<ref name=MC/>
+
+Ui (the precursor of [[Uinen]]) was given the title ''Oarista'' ("Queen of Mermaids").<ref>{{LT1|Appendix}}, entry "Ónen"</ref><ref>{{PE|12}}, p. 97</ref>
+
+== Names and divisions ==
+A basic division of two groups of water spirits, with their [[Elvish]] names, are given as follow:
+
+*'''''Oarni''''' (troop of [[Ossë]]): "spirits of the sea"; also '''''Oaritsi''''' (from ''oaris'', "mermaid")<ref name=LT1Index>{{LT1|Index}}</ref>
+*'''''Falmaríni''''' and '''''Wingildi''''' (troop of [[Ossë]]): "spirits of the sea-foam"<ref name=LT1Index/> (also '''''wingildin''''', "foam-maidens, foam-fays";<ref name=MC/> '''''wingild-''''' "nymph",<ref name=PE12/> or "foam-maiden";<ref>{{PE|16}}, p. 100</ref> ''wingi'' "mermaid, foam-maid";<ref name=PE21/> and ''wingil'' "sea-nymph"<ref>{{PE|14}}, p. 42</ref>)
+
+Also mentioned are ''flathwin'' or ''-nir'' ("foam fay"), and ''nendil'', ''nennil'' ("waterfay").<ref>{{PE|11}}</ref> A [[Qenya]] gloss is given as ''nindari'' ("river-maid, nymph").<ref name=PE21>{{PE|21}}, p. 14</ref>
+
+== Later legendarium ==
+Mermaids are not mentioned in the later versions of the [[legendarium]]. Many of the classes of beings references in ''[[The Book of Lost Tales]]'' were superseded by the concept of the [[Maiar]], which were not introduced until the reworking of the [[Annals of Valinor]] into the [[Annals of Aman]].<ref name="MRP2b">{{MR|P2b}}</ref>
+
+== Inspiration and other mentions ==
+[[Patrick H. Wynne]] and [[Christopher Gilson]] have noted that Tolkien's use of nymphs (and related spirits) is likely influenced by [[Wikipedia:Paracelsus|Paracelsus]]'s chart of four elementals: ''sylphs'' (air), ''pygmies'' or ''gnomes'' (earth), ''nymphs'' (water), and ''salamanders'' (fire).<ref>{{PE|14}}, p. 8</ref>
+
+According to [[C.S. Lewis]], Tolkien once told him that historical people in a sense did not falsely claim to see "nymphs in the fountains and woods and [[dryads]] in the wood", since the production of food was closely connected to one's own land and territory: people came to internalise the nature surrounding them.<ref>[[C.S. Lewis]], ''[[The Collected Letters of C.S. Lewis: Family Letters 1905-1931]]'', letter from 1930</ref>
+
+== Portrayal in adaptations ==
+'''1995-8: ''[[Middle-earth Collectible Card Game]]'':'''
+:The Ally card "Nenseldë the Wingild", portraying a unique character, is playable at Dol Amroth.
+
+== See also ==
+*[[Sprites]]
+*[[Sylphs]]
+*[[Fairies]]
+
+== External links ==
+*{{WP|Mermaid}}
+
+{{references|n}}
+[[Category:Water-fays]]
+[[de:Oarni]]
+[[de:Falmaríni]]
+[[de:Wingildi]]

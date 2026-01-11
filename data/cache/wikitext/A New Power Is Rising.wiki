@@ -1,0 +1,19 @@
+{{Song
+| title = A New Power is Rising
+| album = [[Let Mortal Heroes Sing Your Fame]]
+| image = letmortal.jpg
+| composer = [[Summoning]]
+| performer = Summoning
+| duration = 4:08
+| track = 1
+| spotify = https://open.spotify.com/track/1iLvUWFUIxN9wkZcEM1bXd
+| writer = [[J.R.R. Tolkien]]
+| next = [[South Away]]
+}}'''''A New Power is Rising''''' is the first track of the album [[Let Mortal Heroes Sing Your Fame]] by the band [[Summoning]]. The song name is possibly taken from the words of [[Saruman]] to [[Gandalf]] during the latter's imprisonment in the tower of [[Orthanc]] as told in [[The Fellowship of the Ring]].<ref>{{FR|Council}}</ref> The lyrics are in the [[Black Speech]], and are the [[Ring Verse|inscription]] written on the [[The One Ring|One Ring]].<ref>{{FR|Shadow}}</ref>
+
+==Lyrics==
+<poem style="font-style:italic; margin-left:20px;">
+Ash nazg durbatulûk, ash nazg gimbatul
+ash nazg thrakatulûk, agh burzum-ishi krimpatul
+</poem>{{References}}
+[[Category:Songs by Summoning]]

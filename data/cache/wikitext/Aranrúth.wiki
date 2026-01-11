@@ -1,0 +1,38 @@
+{{object infobox
+| name=Aranrúth
+| image = Elena Kukanova - King of Doriath.jpg
+| caption=Aranrúth wielded by [[Thingol]] in ''King of Doriath'' by [[Elena Kukanova]]
+| pronun={{respell|ah|ran-rooth}}
+| othernames=
+| location=[[Doriath]], [[Mouths of Sirion]], [[Númenor]]
+| owner=[[Thingol]], [[Dior]], [[Elwing]], [[Elros]], [[Kings of Númenor]]
+| type=Weapon
+| appearance=Sword
+| creator=
+| created=[[First Age]]
+| createdlocation=
+| destroyer=
+| destroyed={{SA|3319}}
+| destroyedlocation=[[Downfall of Númenor]]
+| notablefor=
+}}
+'''Aranrúth''' was the sword of the [[Elves|Elven]] King [[Thingol]] of [[Doriath]] in the [[First Age]].<ref>{{S|21}}</ref> Thingol apparently prized his weapon: when [[Beleg]] asked Thingol for a sword of worth for his quest to seek [[Túrin]], the King said he could have his choice of any except his own.<ref>{{CH|5}}, p. 96</ref> 
+
+During the [[Second Age]], Aranrúth was possessed by the [[King of Númenor|Kings of Númenor]], which was descended to [[Elros]] from [[Elwing]] his mother. It did not survive the [[Downfall of Númenor]].<ref>{{UT|3a}}, note 2</ref>
+
+==Etymology==
+''Aranrúth'' is [[Sindarin]] for "King's Ire",<ref>{{S|Index}}, entry "Aranrúth"</ref> from ''[[aran]]'' ("king") + and ''[[rûth]]'' ("anger").<ref>{{S|Appendix}}, entries ''[[aran|ar(a)]]'', ''[[rûth]]''</ref>
+
+== Other versions of the legendarium ==
+In ''[[The Nauglafring]]'', from ''[[The Book of Lost Tales]]'', among the items Tinwelint has wrought from the treasure of the Rodothlim ([[Nargothrond]]) is a precious sword:<ref>{{LT2|IV}}</ref>
+{{quote|a sword of dwarven steel brought from afar was hilted with bright gold and damascened in gold and silver with strange figurings wherein was pictured clear the wolf-hunt of [[Carcharoth|Karkaras Knife-fang]], father of wolves. That was a more wonderful sword than any Tinwelint had seen before, and outshone the sword in [[Ufedhin|Ufedhin’s]] belt the king had coveted.}}
+
+{{references}}
+{{DEFAULTSORT:Aranruth}}
+[[Category:Heirlooms]]
+[[Category:Sindarin names]]
+[[Category:Swords]]
+{{weapons}}
+[[de:Aranrúth]]
+[[fr:encyclo/artefacts/armes/aranruth]]
+[[fi:Aranrúth]]

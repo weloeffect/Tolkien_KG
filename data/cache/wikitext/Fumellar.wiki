@@ -1,0 +1,24 @@
+{{plant infobox
+| name=Fumellar
+| image=Elena Kukanova - Irmo Lorien.jpeg
+| caption="Irmo Lorien" by [[Elena Kukanova]]
+| pronun={{respell|foo|mell|ar}}
+| othernames=
+| location=[[Lórien (Valinor)|Lórien]]
+| notablefor=
+| family=
+| appearance=Red poppies
+}}
+'''''Fumellar''''', the '''flowers of sleep''', were [[Wikipedia:Poppy|poppies]] according to the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.
+
+They grew in the gardens of [[Lórien (Valinor)|Lórien]] in [[Valinor]]. The ''fumellar'' are said to have glowed "redly in the dusk". The [[Irmo|Vala Lórien]] often used them in his enchantments.<ref>{{LT1|III}}, p. 74</ref>
+
+==Etymology== 
+The name ''fumellar'' is [[Qenya]]: ''fúmella'', ''fúmellot'' means "poppy". The first element is related to ''fúmë'' ("sleep"; noun).<ref>{{LT1|Appendix}}, p. 253</ref> Variant [[Gnomish]] names for "poppy" are ''humilos'', ''humlos'', ''humethla'', and ''humloth''.<ref>{{PE|15}}, p. 14</ref>
+
+==Other occurences==
+In early linguistic writings, ''[[Tethil]]'' was a [[Gnomish]] name for a flower [[Sprites|fay]] that dwelt in a poppy.<ref>{{PE|11}}, p. 70</ref>
+
+{{references}}
+[[Category:Flowers]]
+[[Category:Qenya nouns]]

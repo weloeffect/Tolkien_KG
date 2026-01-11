@@ -1,0 +1,25 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Douglas S. Chaffee
+| born=[[24 January]] [[1936]]
+| died=[[26 April]] [[2011]]
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+
+'''Douglas Chaffee''' ([[24 January]] [[1936]]–[[26 April]] [[2011]]) was an American artist who first rose to prominence as a space age illustrator, as head of IBM's art department. Later he became a freelancer, illustrating many books and games. [[Iron Crown Enterprises]] contracted him to make artwork for the [[Middle-earth Collectible Card Game]].<ref name=CCGA>{{CCGA|entry=Chaffee, Douglas}}, pp. 102-104</ref>
+
+==See also==
+*[[:Category:Images by Douglas Chaffee|Images by Douglas Chaffee]]
+
+{{references}}
+==External links==
+* {{WP|Douglas Chaffee}}
+{{DEFAULTSORT:Chaffee, Douglas}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

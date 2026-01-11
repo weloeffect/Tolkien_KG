@@ -1,0 +1,41 @@
+{{Noble House infobox
+| name=House of the Harp
+| image = Rondador - House of the Harp.png
+| caption=
+| othernames=Host of the Harp
+| founder=
+| leader=[[Salgant]]
+| location=[[Gondolin]]
+| affiliation=[[House of the Mole]]
+| rivalry=
+| destroyed=Completely<br />[[Fall of Gondolin]]
+| language=
+| members=
+| race=
+| distinctions=
+| height=
+| hair=
+| skin=
+| clothing=Silver and gold tassels 
+| weapons=
+| heirlooms=
+}}
+<center>{{quote|On these men of the Harp unbidden fell with great eagerness and utterly redeemed the cravenhood of their lord.|''[[The Book of Lost Tales Part Two]]'', "[[The Fall of Gondolin (chapter)|The Fall of Gondolin]]"}}</center>
+
+The '''house of the Harp''' was one of the [[twelve houses of the Gondothlim]], the kindreds of the elven city of [[Gondolin]]. Their story is recounted in the early version of the [[legendarium]] in ''[[The Book of Lost Tales]]''.
+
+==History==
+The house was led by [[Salgant]], and its people were brave warriors. Their garments were adorned with tassels of silver and gold, and a harp of silver shone in their blazonry upon a field of black, though Salgant himself bore one of gold.<ref name=Gondolin>{{LT2|III}}</ref>{{rp|173}}
+
+Salgant was allied with [[Meglin]], leader of the [[house of the Mole]], who had betrayed Gondolin to [[Melko]]. When the [[Fall of Gondolin|fall of the city]] began, Meglin gave Salgant the task of delaying [[Tuor]] and the [[house of the Wing]], while he assaulted Tuor's home. However, a terrified Salgant rode from battle, and his folk did not help the house of the Mole as planned.<ref name=Gondolin/>{{rp|177}}
+
+Later in the battle, there was a terrible fight in the [[Great Market]] in the eastern part of the city; [[Orcs]], under the leadership of [[Balrogs]], fought against the [[house of the Golden Flower]], led by [[Glorfindel]]. Knowing this by messengers, King [[Turgon]] sent the house of the Harp to their aid, but Salgant concealed this information from his house and sent them to the [[Lesser Market]] in the southern part of the city, where he lived. They fretted about, and broke from their lord to come before the [[Square of the Palace|king's hall]], right in the moment that Glorfindel and his folk were chased by a press of foemen. There they redeemed the treason of their lord, as with their wrath they drove the enemy back into the market. But they were leaderless, and many of them were trapped, burned to death or poisoned by the breath of a [[dragon]].<ref name=Gondolin/>{{rp|182–3}}
+
+==Other names==
+Their [[Gnomish]] name was '''''Thlim Salum''''', while in [[Qenya]] they were simply known as '''''Salmar'''''.<ref>{{PE|13}}, p. 104</ref>
+
+In a later prose fragment, the [[Noldorin]] name '''''Tumglin''''' is given to a "folk of the Harp", but this is a Mannish house unrelated with Gondolin.<ref>{{SM|P1}}, pp. 4-5</ref>
+{{references}}
+{{HousesofGondolin}} 
+[[Category:Twelve houses of the Gondothlim]]
+[[de:Haus der Harfe]]

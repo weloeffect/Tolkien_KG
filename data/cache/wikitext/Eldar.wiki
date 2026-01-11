@@ -1,0 +1,43 @@
+{{short description|Name given to Elves}}
+{{people infobox
+| name=Eldar
+| image = Lída Holubová - Cuivienen.jpg
+| caption="Cuivienen" by [[Lída Holubová]]
+| pronun=
+| othernames=West-elves
+| origin=Elves who undertook the [[Great Journey]]
+| location=[[Valinor]], [[Eldamar]], [[Tol Eressëa]], [[Beleriand]], [[Eriador]], [[Rhovanion]]
+| affiliation=
+| rivalry=
+| language=[[Quenya]], [[Telerin]], [[Sindarin]], [[Nandorin]]
+| members=[[Ingwë]], [[Finwë]], [[Thingol|Elwë]], [[Olwë]], [[Lenwë]], etc.
+| lifespan=Immortal
+| distinctions=
+| height=over 6'6 (1.98 m) - for men, over 6 feet (1.83 m) - for women<ref>{{NM|P2vi}}, "Heights", p. 195</ref>
+| hair=dark brown, golden, silver
+| clothing=
+| weapons=
+}}
+'''Eldar''' (singular '''Elda''') was the name given to the [[Elves]] by the [[Valar|Vala]] [[Oromë]] when he first found them wandering in the starlight of [[Cuiviénen]]. At first, the name was applied to all Elves, but after the summons of the [[Valar]], it came to be used only for the '''West-elves'''<ref>{{App|Elves}}</ref> who followed the summons and began the [[Great Journey]].
+
+The [[Three Kindreds]] of the Eldar were the [[Vanyar]], the [[Noldor]] and the [[Teleri]]. All of the Vanyar and Noldor went to [[Aman]], though many of the Noldor later returned to [[Middle-earth]] with [[Fëanor]].
+
+Many of the Teleri also journeyed to Valinor, but twice a host of this people turned away from the Journey in Middle-earth; these two kindreds are called [[Úmanyar]], the Eldar not of Aman. The first of these were the [[Nandor]], who turned aside east of the [[Misty Mountains]], and travelled down the River Anduin. The second, the [[Sindar]], tarried in [[Beleriand]] seeking their lord, [[Elwë Singollo]].
+
+==Etymology==
+{{Pronounce|Eldar.mp3|Ardamir}}
+:''See [[Elda#Etymology]]'' 
+
+==Inspiration==
+[[J.R.R. Tolkien|Tolkien]] notes the accidental similarity between the word "Eldar" and "Elder" (as in "Elder Folk" or "[[Elder Days]]") and that it is unrelated to English and therefore should not be any attempt to imitate it.<ref name="Nomen">{{HM|N}}, pp. 755-6 & 780</ref>
+
+==In popular usage==
+The name "Eldar" has been used for Elven-like races in later fiction. [http://warhammer40k.wikia.com/wiki/Aeldari Eldar] is a humanoid being, descendant of an ancient interstellar Empire in the [[Wikipedia:Warhammer 40K|Warhammer 40K]] universe. [http://midkemia.wikia.com/wiki/Eldar Eldar] is also a race of Elves in the [http://midkemia.wikia.com/wiki/Midkemia Midkemia] cycle by [[Raymond E. Feist]].
+
+{{references}}
+{{elves}}
+[[Category:Elven peoples]]
+[[Category:Quenya demonyms]]
+[[de:Eldar]]
+[[fi:Eldar]]
+[[fr:encyclo/peuples/elfes/eldar]]

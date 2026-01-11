@@ -1,0 +1,36 @@
+{{disambig-more|Shadow of the Past|[[Shadow of the Past (disambiguation)]]}}
+{{stub}}{{scene
+|name=The Shadow of the Past
+|film=[[The Lord of the Rings: The Fellowship of the Ring]]
+| image = The Lord of the Rings - The Fellowship of the Ring - Sam and Frodo in a wheat field.jpg
+|number=8 (theatrical edition)<br />
+        10 (extended edition)
+|duration=9:06 (theatrical edition)<br />
+          8:45 (extended edition)
+|characters=[[Gandalf]], [[Frodo]], [[Sam]], [[Gollum]]
+|event=[[Gandalf]] sends [[Frodo]] and [[Sam]] on their journey. Gandalf leaves for [[Isengard]].
+|previous=[[At the Green Dragon]]
+|next=[[The Passing of the Elves (scene)|The Passing of the Elves]]
+}}
+'''The Shadow of the Past''' is the eighth scene of ''[[The Lord of the Rings: The Fellowship of the Ring]]'' and the tenth scene of [[The Lord of the Rings: The Fellowship of the Ring (extended edition)|''The Lord of the Rings: The Fellowship of the Ring'' (extended edition)]].
+
+==Synopsis==
+[[Frodo]] returns home from the [[Green Dragon]] inn only to find that someone has broken into [[Bag End]]. He is set upon by a panicked [[Gandalf]]. Gandalf takes the [[Ring]] from Frodo and throws it into the fireplace and retrieving it. He hands it to Frodo, who at first sees no change before fiery letters begin to appear on the band. Gandalf informs Frodo that the language is the [[Black Speech]] of [[Mordor]]. Gandalf's worst fears are confirmed: this is the One Ring. Frodo realizes that Bilbo found the ring in [[Gollum]]'s cave. Gandalf informs Frodo that Sauron is active once more and beginning to stir in Mordor. Sauron's forces are growing and he is looking for the Ring, which longs to return to him. Frodo resolves to hide the ring, but Gandalf informs him that Gollum was found by Sauron and the identity of Bilbo was extracted from him.
+
+Frodo begs Gandalf to take the ring, but Gandalf rejects it out of fear of what the Ring would do. Frodo resolves to leave the Shire. Gandalf informs him to make his way to [[Bree]], where Gandalf will meet him after going to see the head of his order. They are interrupted by a sound outside the window, which is revealed to be Sam eavesdropping. Gandalf drafts Sam as a companion for Frodo. Gandalf soon sets them on their way, informing Frodo of the power of the enemy and warning him not to put it on. Gandalf leaves to go to [[Isengard]]. Frodo and Sam begin to trek across the Shire. In a farm, Sam reflects that he is now journeying further from home than he ever has before. They set off again towards Bree.
+
+The scene is slightly longer in the theatrical edition because of some transitional shots that the extended edition moved to the scenes before and after: Frodo and Sam leaving the Green Dragon at the beginning, and a Black Rider searching the Shire at the end.
+
+==Differences==
+
+*Much of the content from Gandalf's explanation to Frodo has been moved from this scene to the Prologue.
+*In the books, Gandalf only goes to see Saruman after a summons delivered by [[Radagast]], who does not appear in the films.
+*Gandalf advises Frodo to set out immediately in the film, but in the book Frodo delays his journey until his birthday, September 22.
+*In the film, there is no mention of Frodo publicly wishing to move to [[Crickhollow]], nor any mention of [[Merry]] and [[Pippin]] helping him to move out of Bag End.
+*In the film, Frodo does not sell [[Bag End]] to the Sackville-Bagginses. Bag End is apparently left vacant for the duration of his journey.
+*In the books, Gandalf intends to return to the Shire and Frodo only leaves when he can delay no longer in the hope that Gandalf would appear.
+*Frodo sets out for Rivendell rather than Bree in the books.
+*Frodo is accompanied by Sam and [[Pippin]] in the books. Gandalf does not see Frodo off.
+*[[Hamfast Gamgee]]'s meeting with a Black Rider is omitted.
+{{title}}
+[[Category:The Lord of the Rings: The Fellowship of the Ring scenes|10]]

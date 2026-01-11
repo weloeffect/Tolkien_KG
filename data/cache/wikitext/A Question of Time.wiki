@@ -1,0 +1,59 @@
+{{short description|1997 book by Verlyn Flieger}}
+{{book
+| title=A Question of Time:<br><small>J.R.R. Tolkien's Road to Faërie</small>
+| image = A Question of Time 1997.jpg
+| author=[[Verlyn Flieger]]
+| publisher=Kent State University Press
+| date=September [[1997]]
+| format=Hardcover; paperback
+| pages=286
+| isbn=0873385748
+}}
+'''''A Question of Time: J.R.R. Tolkien's Road to Faërie''''' is a scholarly book by [[Verlyn Flieger]], published in [[1997]]. The book explores the theme of "time" and "time-travel" in [[J.R.R. Tolkien]]'s writings. It is the winner of the 1998 [[Wikipedia:Mythopoeic Awards|Mythopoeic Scholarship Award]] in Inklings Studies.
+
+Some Tolkien's writings in this book include:
+*Passages from a draft note to ''[[On Fairy-stories]]''.
+*Passages from Tolkien's unfinished essay ''[[Elvish time]]''.
+*Quotes from a formerly unpublished [[Smith of Wootton Major essay|essay]] concerning ''[[Smith of Wootton Major]]''.
+*Two manuscript pages from the drafts for the Lothlórien chapters in ''The Fellowship of the Ring''.
+
+==Contents==
+* Introduction
+
+* 1. Between Worlds and Times
+* 2. Remembrance That Never Dies
+* 3. Strange Powers of the Mind
+* 4. Over a Bridge of Time
+* 5. Where the Dream-fish Go
+* 6. Travelers Between the Worlds
+* 7. Further Off Than Sussex
+* 8. Frodo's Dreams
+* 9. Falling Asleep Again
+* 10. A Dream of Light and Dark
+* 11. Pitfalls in ''Faërie''
+
+* Epilogue: His Gift of Glee
+
+==From the publisher==
+{{blockquote|J.R.R. Tolkien's ''[[The Hobbit]]'', ''[[The Lord of the Rings]]'', and ''[[The Silmarillion]]'' have long been recognized as among the most popular fiction of the twentieth century, and most critical analysis of Tolkien has centered on these novels. Granted access by the Tolkien Estate and the Bodleian Library in Oxford to Tolkien's unpublished writings, Verlyn Flieger uses them here to shed new light on his betterknown works, revealing a new dimension of his fictive vision and giving added depth of meaning to his writing.
+
+Tolkien's concern with time—past and present, real and "faerie" — captures the wonder and peril of travel into other worlds, other times, other modes of consciousness. Reading his work, we "fall wide asleep" into a dream more real than ordinary waking experience and emerge with a new perception of the waking world. Flieger explores Tolkien's use of dream as time-travel in his unfinished stories "[[The Lost Road]]" and "[[The Notion Club Papers]]" as well as in The Lord of the Rings and his shorter fiction and poetry.
+
+Analyzing Tolkien's treatment of time and time-travel, Flieger shows that he was not just a myth-maker and writer of escapist fantasy but a man whose relationship to his own century was troubled and critical. He achieved in his fiction a double perspective of time that enabled him to see in the mirror of the past the clouded reflection of the present.}}
+
+==Publication history and gallery==
+<gallery mode="traditional" widths="125px" heights="125px">
+File:A Question of Time 1997.jpg|1997 harcover
+File:A Question of Time 2001.jpeg|2001 paperback
+</gallery>
+*Kent State University Press, harcover ([[1997]]), pp.&nbsp;286. ISBN 0873385748
+*Kent State University Press, paperback ([[2001]]), ISBN 087338699X
+
+==External links==
+*[http://www.leaderu.com/humanities/wood-review.html Review of the book] by [[Ralph C. Wood]]
+
+{{title|italics}}
+{{DEFAULTSORT:Question of Time, A}}
+[[Category:Books by Verlyn Flieger]]
+[[Category:Publications by title]]
+[[Category:Scholarly books]]

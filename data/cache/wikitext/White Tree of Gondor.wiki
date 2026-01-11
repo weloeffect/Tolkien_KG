@@ -1,0 +1,64 @@
+{{footnotes}}
+{{disambig-more|White Tree|[[White Tree (disambiguation)]]}}
+{{plant infobox
+| name=White Tree of Gondor
+| image=Ted Nasmith - The White Tree.jpg
+| caption="[[:File:Ted Nasmith - The White Tree.jpg|The White Tree]]" by [[Ted Nasmith]]
+| pronun=
+| othernames=White Tree of Minas Tirith, White Tree of the Eldar
+| location=[[Minas Ithil]], later [[Minas Tirith]]
+| notablefor=
+| family=Trees of [[Galathilion]]'s line
+| appearance=A white tree with leaves dark on top and silver beneath; and clusters of white blossoms
+| gallery=the White Tree of Gondor
+}}
+The '''White Tree of Gondor''' stood as a symbol of [[Gondor]] in the [[Court of the Fountain (Minas Tirith)|Court of the Fountain]] in [[Minas Tirith]]. Its predecessor was a seedling of [[Nimloth of Númenor|Nimloth]], planted in [[Minas Ithil]], that was destroyed before the end of the [[Second Age]].
+
+The White Tree also appears on the [[livery of the heirs of Elendil]], which was worn by the [[Guards of the Citadel]] of Minas Tirith,<ref>{{RK|MT}}, p. 753</ref> on the [[standard of Elendil]],<ref>{{RK|Company}}, p. 789</ref> and on the royal banner of Gondor.<ref>{{App|Stewards}}, p. 1052</ref>
+
+==History==
+===First White Tree===
+The first White Tree came from a fruit that [[Isildur]], at great personal risk, managed to steal from [[Nimloth (tree)|Nimloth]] the Fair, the White Tree of [[Númenor]], before that one was destroyed at [[Sauron]]'s insistence. He suffered many wounds during this mission, and he came near death, but when the first leaf opened in the spring, Isildur was healed.
+
+This sapling was brought to [[Middle-earth]] on Isildur's ship, and it was eventually planted in [[Minas Ithil]] before his house. But when Sauron returned to Middle-earth, he launched a [[First Fall of Minas Ithil|sudden attack]] in {{SA|3429}} that captured Minas Ithil, and he burned the White Tree. Isildur escaped, taking with him again a sapling.<ref>{{App|B1}}</ref><ref name=rings>{{S|Rings}}</ref>
+
+===Second White Tree===
+In the year {{TA|2}}, Isildur planted the seedling of the White Tree in [[Minas Anor]] in memory of his brother, [[Anárion]].<ref name=rings/><ref name=B2/>
+
+This White Tree lasted until {{TA|1636}}, when the [[Great Plague]] struck [[Gondor]], killing King [[Telemnar]] and his children among many others.<ref name=B2/>
+
+===Third White Tree===
+{{seealso|Dead Tree}}
+[[File:J.R.R. Tolkien - The White Tree and stars.png|thumb|200px|left|"The White Tree and stars" by [[J.R.R. Tolkien]]]]
+A third sapling was planted in {{TA|1640}} by King [[Tarondor (King of Gondor)|Tarondor]]. This tree died in {{TA|2872}} with the death of the [[Ruling Steward]] [[Belecthor II]].<ref name=B2>{{App|B2}}</ref><ref name=stew/>
+
+Since no seedling was found, the tree was left standing after its death "until the King returns".<ref name=B2/><ref name=stew>{{App|Stewards}}</ref> When eventually replaced in {{TA|3019}}, it was laid in the [[Rath Dínen|Tombs of the Kings]] with royal honours.
+
+===Fourth White Tree===
+After [[Aragorn]] became king, he feared that he would not marry [[Arwen]] and found a dynasty, and he connected his unmarried state with the continued lack of a living White Tree. Then he discovered (with [[Gandalf]]'s help) a sapling of the White Tree in the high hallow upon the slopes of [[Mindolluin]], above Minas Tirith. This sapling he reverently planted in its place, and he took it as a sign that Arwen would arrive soon. In June of {{TA|3019}} the sapling bloomed.<ref>{{RK|VI5}}</ref><ref group=note>There is an inconsistency in dates: according to ''[[Appendix B]]'', Elessar found the sapling on [[June 25]]; however the chapter ''The Steward and the King'' states that "when the month of June entered in it was laden with blossom", implying here that Aragorn planted the sapling ''before'' June began.</ref>
+
+==Genealogy==
+{{familytree/start}}
+{{familytree | | | |TEL| | | | | LAU=[[Laurelin]]|TEL=[[Telperion]]<br><small>Destroyed by [[Morgoth]] and [[Ungoliant]]</small>}}
+{{familytree | | | | | | | | | }}
+{{familytree | | | |GAL| | | | | GAL=[[Galathilion]] on [[Túna]]<br><small>Made in the image of Telperion</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |CEL| | | CEL=[[Celeborn (White Tree)|Celeborn]] of [[Tol Eressëa]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |NIM| | | NIM=[[Nimloth (tree)|Nimloth]] of [[Númenor]]}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G1| | | | |G1=<small>[[#First White Tree|First Tree of Gondor]] ([[Minas Ithil]])<br>{{SA|3320}} - {{SA|3429|n}} (planted by [[Isildur]])</small>}}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G2| | | | |G2=<small>[[#Second White Tree|Second Tree of Gondor]] ([[Minas Anor]])<br>{{TA|2}} - {{TA|1636|n}} (planted by Isildur)</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G3 | | | | |G3=<small>[[#Third White Tree|Third Tree of Gondor]] ([[Minas Tirith]])<br>{{TA|1640}} - {{TA|2872|n}} (planted by [[Tarondor (King of Gondor)|Tarondor]])</small> }}
+{{familytree | | | | |!| | | | | }}
+{{familytree | | | |G4 | | | | |G4=<small>[[#Fourth White Tree|Fourth Tree of Gondor]] (Minas Tirith)<br>Since {{TA|3019}} (planted by [[Aragorn|Elessar]])</small>}}
+{{familytree/end}}
+==Inspiration==
+The White Tree has been compared to the medieval legend of the [[Wikipedia:Dry Tree|Dry Tree]].<ref>[[John Garth]], ''[[The Worlds of J.R.R. Tolkien]]'' ([[2020]]), Frances Lincoln Publishers & Princeton University Press, p. 41</ref>
+{{references|note}}
+[[Category:Devices and symbols]]
+[[Category:Trees]]
+
+[[fr:encyclo/biologie/flore/arbre blanc du gondor]]

@@ -1,0 +1,43 @@
+{{Unnamed}}
+{{Poem infobox
+| title="Roll—roll—roll—roll,"
+| other names=
+| written=Before [[1937]]
+| revised=[[February]] [[1937]]<ref name=collectedpoems>{{CP|111}}</ref>
+| published=''[[The Hobbit]]'',<br>''[[The History of The Hobbit]]'',<br>''[[The Collected Poems of J.R.R. Tolkien]]''
+| subject=[[Elves]]
+}}
+
+"'''Roll—roll—roll—roll,'''" is the first line of a poem written by [[J.R.R. Tolkien]] that was first published within ''[[The Hobbit]]'' in [[1937]]. The poem describes the journey the barrels will make as they return to [[Dorwinion]], the "lands you once did know", the origin of the wine that was in the barrels.  The journey described tells of the dark stream that takes the barrels out of the caverns, through the [[Mirkwood|great forest]], into the [[Long Marshes|marshes]] before the [[Long Lake]], and away to the south. Eventually the barrels will reach lands with pastures with [[cows|oxen]] and hills with gardens, which appear to describe Dorwinion.<ref name="Barrels">{{H|Barrels}}</ref>
+
+==Initial rhyme==
+<poem style="font-style:italic; margin-left:20px;">
+Roll—roll—roll—roll,
+roll—roll—rolling down the hole!
+Heave ho! Splash plump!
+Down they go, down they bump!<ref name="Barrels"/></poem>
+
+==History==
+After [[Bilbo Baggins]] had freed the [[Thorin and Company|Dwarves]] from their cells in the dungeons of the [[Thranduil|Elvenking]], he had packed them in barrels awaiting shipment to the vineyards of [[Men]]. Part of shipping the barrels involved dropping them through a trapdoor into an underground stream, which carried them out of the caves and out to the [[Forest River]] on their way to [[Lake-town]]. A party of Elves came to roll the barrels to the trapdoor and as they worked they sang a song.<ref name="Barrels"/>
+
+==Background==
+In some early plot notes, Tolkien wrote a rough draft of the poem which is longer than the published version.<ref name=PNB>{{HH|PNB}}, pp. 364-6</ref>
+
+In an early draft of ''The Hobbit'', Tolkien initially omitted the initial "brief rhyme"<ref name=collectedpoems/>, but wrote it in the text after cancelling the next sentence. Tolkien went on to write the rest of the poem, which, apart from some minor grammatical changes, closely resembled the published version.<ref name=IX>{{HH|IX}}, p. 386 (note 20 and note 23)</ref>
+
+==Portrayal in adaptations==
+'''1977: [[The Hobbit (1977 film)|''The Hobbit'' (1977 film)]]:'''
+:A version of the song titled "[[Rollin' Down the Hole]]" plays as [[Thorin and Company]] escape in the barrels and arrive in [[Lake-town]].
+'''1989: [[Hobit (1989 Slovak radio series)|''Hobit'' (1989 Slovak radio series)]]:'''
+:One of a small handful of songs adapted from the original novel is this song. It is sung by the elven guards of the Woodland Realm while they are working their chores with the delivery barrels intended for a return journey to Lake-town.
+
+==See also==
+* [[Poems in The Hobbit|Poems in ''The Hobbit'']]
+
+{{references}}
+
+{{poems}}
+
+[[Category:Poems in The Hobbit]]
+
+[[fi:Vierikää, vierikää, vierikää]]

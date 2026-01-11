@@ -1,0 +1,183 @@
+{{disambig-more|Shadow of the Past|[[Shadow of the Past (disambiguation)]]}}
+{{episode infobox
+| name=A Shadow of the Past 
+| image = The Lord of the Rings The Rings of Power - A Shadow of the Past.jpg
+| caption=Cover art for the episode's.
+| director=[[J. A. Bayona]]
+| writer=[[J. D. Payne]]<br/>[[Patrick McKay]]
+| screenplay=
+| basedon=
+| producer=
+| starring=
+| narrator=
+| cinematography=
+| editing=
+| music=[[Bear McCreary]]
+| animator=
+| studio=[[Amazon Studios]]
+| distributor=
+| released=[[1 September]] [[2022]]
+| runtime=65 minutes
+| country=
+| language=
+| budget=
+| gross=
+| website=
+| imdb_id=9788618
+| gallery=The Rings of Power (TV series)
+| next=[[Adrift]]
+}}
+
+{{Quote|[[Galadriel]] is disturbed by [[Snow-trolls|signs]] of an ancient [[Sauron|evil’s]] return; [[Arondir]] makes an unsettling [[Hordern|discovery]]; [[Elrond]] is [[Celebrimbor|presented]] with an [[Rings of Power|intriguing]] new [[Eregion|venture]]; [[Elanor Brandyfoot|Nori]] breaks the [[Harfoots|Harfoot]] community’s most deeply-held rule.|Official Synopsis, [[Amazon Studios]]}}
+
+'''A Shadow of the Past''' is the first episode of [[Amazon Studios]]'s television series, ''[[The Lord of the Rings: The Rings of Power]]'', and it was released on [[1 September]], [[2022]].
+
+==Synopsis==
+In a voiceover narrative, Galadriel reminisces on a time during the [[Years of the Trees]] before the [[Elves]] had a word for death.
+
+Throughout the narration, a group of elf children are seen playing before watching a young [[Galadriel]] building a paper ship. The children cause it to sink by throwing stones at it, causing Galadriel to try to attack them, only being prevented by her older brother, [[Finrod]]. Later, Galadriel talks to her brother, who tells her to follow the light and resist the darkness.
+
+The older Galadriel then briefly relates the [[Darkening of Valinor]], the [[War of the Great Jewels]], and the rise of [[Sauron]]. Finrod was killed by Sauron and Galadriel takes his mission to hunt down and defeat Sauron upon herself. Leading a company of elves through [[Northern Waste|Forodwaith]], Galadriel finds a [[Dúrnost|fortress]] within that was once occupied by Sauron, but one of the other elves, [[Thondir]], refuses to go any further north in pursuit, and forces Galadriel to return to [[Gil-galad]].
+
+In the [[Norfield Glen]], a community of [[Harfoots]] notice the passage of two travelling [[Pre-Númenóreans|hunters]] through the [[Rhovanion Hills|hills]] of [[Rhovanion]] at an unaccustomed season. [[Elanor Brandyfoot]] and [[Poppy Proudfellow]] take a group of children out to hunt berries but soon return to the Harfoot camp to avoid a wolf. Elanor wonders about the world outside of the Harfoots' wandering, but her stepmother/mother [[Marigold Brandyfoot|Marigold]] reminds her that the Harfoot way of life is to avoid the cares of the wide world, stick together, and stay on the usual trail.
+
+In [[Lindon]], [[Elrond]] greets [[Galadriel]] on her return. In a welcoming ceremony, the king [[Gil-galad]] honours Galadriel and her warriors for their bravery and announces that, as a reward, they will be permitted to sail west to the [[Undying Lands]]. Galadriel confides to Elrond that she does not wish to leave Middle-earth until she has defeated Sauron, but he urges her to accept the gift and depart.
+
+A [[Silvan Elves|Silvan elf]], [[Arondir]], arrives in the village of [[Tirharad]] in the [[Southlands]], a land inhabited by [[Men]] who were once under the sway of [[Morgoth]] and are now watched carefully by a garrison of Silvan Elves. Arondir is not warmly received by anyone except the healer [[Bronwyn]], whom Arondir appears to be falling in love with. Arondir tells an Elf, Médhor, who picks up on Arondir's feelings, that they should return to [[Watchtower of Ostirith|Ostirith]], where Arondir is told by the [[Revion|Watchwarden Revion]] that the high king has declared that the war is over and the garrison is being recalled. Returning to the village to say goodbye to Bronwyn, Arondir encounters a [[Tredwill|man with a cow]] who got sick after wandering east as far as a village called [[Hordern]]. Arondir goes to investigate, accompanied by Bronwyn. Meanwhile, Bronwyn's son [[Theo]] shows another villager, [[Rowan (The Rings of Power)|Rowan]], an old sceptre (bearing [[Sauron|Sauron's]] [[Eye of Sauron|emblem]]) that he found in [[Waldreg|Waldreg's]] barn.
+
+In Lindon, Gil-galad admits to Elrond that Sauron may still exist, but Galadriel's presence only increased the danger. He then tells Elrond that the smith [[Celebrimbor|Lord Celebrimbor]] will need his help with a new project.
+
+The Harfoot Trailfinder [[Sadoc Burrows]] wonders about strange signs in the stars. Arondir and Bronwyn arrive at Hordern, only to find that it had been burned down. Just before Galadriel's ship arrives in Aman, she realizes she is not ready to leave Middle-earth and dives overboard into the sea. Meanwhile, a meteor streaks across the sky and lands near the Harfoot camp. Nori investigates the crater where it fell and sees a bearded man lying there, surrounded by veins of hot rock.
+
+==Cast==
+:''In order of appearance'' (in episode credits)
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Amelie Child Villiers]] || [[Galadriel|Young Galadriel]]
+|-
+| [[Will Fletcher]] || [[Finrod]]
+|-
+| [[Morfydd Clark]] || [[Galadriel]]
+|-
+| Fabian McCallum || [[Thondir]]
+|-
+| Kip Chapman || [[Rían (Kip Chapman)|Rían]]
+|-
+| [[Lenny Henry|Sir Lenny Henry]] || [[Sadoc Burrows]]
+|-
+| [[Sara Zwangobani]] || [[Marigold Brandyfoot]]
+|-
+| [[Thusitha Jayasundera]] || [[Malva Meadowgrass|Malva]]
+|-
+| [[Maxine Cunliffe]] || [[Vilma]]
+|-
+| [[Dylan Smith]] || [[Largo Brandyfoot]]
+|-
+| [[Markella Kavenagh]] || [[Elanor Brandyfoot|Elanor "Nori" Brandyfoot]]
+|-
+| [[Beau Cassidy]] || [[Dilly Brandyfoot]]
+|-
+| [[Megan Richards]] || [[Poppy Proudfellow]]
+|-
+| [[Robert Aramayo]] || [[Elrond]]
+|-
+| [[Benjamin Walker]] || [[Gil-galad|High-King Gil-galad]]
+|-
+| [[Ismael Cruz Córdova]] || [[Arondir]]
+|-
+| [[Geoff Morrell]] || [[Waldreg]]
+|-
+| [[Peter Tait]] || [[Tredwill]]
+|-
+| Ian Blackburn || [[Rowan (The Rings of Power)|Rowan]]
+|-
+| [[Nazanin Boniadi]] || [[Bronwyn]]
+|-
+| Augustus Prew || [[Médhor]]
+|-
+| Simon Merrells || [[Revion|Watchwarden Revion]]
+|-
+| [[Tyroe Muhafidin]] || [[Theo]]
+|-
+| [[Charles Edwards]] || [[Celebrimbor|Lord Celebrimbor]]
+|-
+| [[Daniel Weyman]] || [[The Stranger]]
+|-
+| Jagger Serafin<br/>Eva Gardner<br/>Oscar Beszant || [[Elves|Elf Children]]
+|-
+| Ashlee Fidow<br/>Carl Van Roon<br/>Sean Neary<br/>Cameron Brown || [[Elves|Elf Soldiers]]
+|-
+| Andrew Cottle || [[Elves|Veteran Elf]]
+|-
+| Kenneth Ransom || [[Pre-Númenóreans|Younger Hunter]]
+|-
+| Tom McCathie || [[Pre-Númenóreans|Ornery Hunter]]
+|-
+| Paula Nazarski || [[Harfoots|Malva's Sister]]
+|-
+| Shelley Waddams || [[Elves|Elf Attendant]]
+|-
+| Graham Rolls || [[Men|Whiskery Old Man]]
+|-
+| Justin Doble || [[Men|Milky-Eyed Southlander]]
+|-
+| Nicholas Foustellis || [[Elves|Short Haired Elf]]
+|}
+
+=== Uncredited ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Marris Collins || [[Men|Village Man]]<ref>https://m.imdb.com/title/tt9788618/fullcredits/cast?ref_=tt_ov_st_sm</ref>
+|}
+
+== Trivia ==
+Below is a list of trivia from Amazon's "X-Ray" feature that accompanied the episode.
+* '''Scene 2''' - "Most of the details and elaborations told herein are derived from '[[The Lord of the Rings]]', its prologue entitled '[[Concerning Hobbits]]', and its Appendices, A through F, where the intrepid traveller may journey to discover even farther horizons."
+* '''Scene 3''' - "Both Galadriel and her brother, [[Finrod Felagund]], were [[High Elves]], or [[Eldar]], of the royal house of [[Finarfin]]. ([[Appendix F]])"
+* '''Scene 5''' - "Galadriel was the noblest of the High Elves known as the Exiles, a branch of the Eldarin kindred called the Noldor who left Valinor to go to Middle-earth. (Appendix F)"
+* '''Scene 8''' - "Morgoth was known by many names, including the Dark Power of the North. His was a bitterly cold realm, and the snows linger still in the Forodwaith, long outlasting him. (Footnote, Appendix A)"
+* '''Scene 10''' - "[[Trolls]] were made in mockery of [[Ents]] by the Dark Powers of the [[First Age]]. (Book III, Chapter 4) [[Snow-trolls]] are merely one variation of them that long ago adapted to the harsh climates of the cold northern realms they call home."
+* '''Scene 12''' - Long before Hobbits became a single group of people, whose most ancient legends hardly looked further back than their [[Wandering Days]], there were [[halflings]] called [[Harfoots]]. They were travellers of highlands and hillsides. (Concerning Hobbits)."
+* '''Scene 15''' - At the end of the First Age, Elrond was given a choice - he was one of the [[Peredhil]], or [[Half-elven]], and had to decide between the fate of the [[Eldar]], or of Man-kind. (Appendix A)"
+* '''Scene 17''' - Harfoots are little people, and while the later Hobbits ranged between two and four feet tall, in their ancient days they were slightly taller. They were beardless, bootless, and browner of skin. (Concerning Hobbits)"
+* '''Scene 19''' - Gil-galad was acknowledged as the High King of the Elves of the West, for he was the last heir of the kings of the Noldor in exile. (Appendix B)"
+* '''Scene 20''' - [[Valinor]] is the Land of the [[Valar]], the angelic Guardians of the World. Their land goes by many names, among them: The Undying Lands, the Blessed Realm, Eldamar, or the Uttermost West. (Appendix A, etc.)"
+* '''Scene 26''' - "Different from the Eldar, the [[Silvan Elves]] or [[Wood-elves]] lived further east from the [[Belegaer|Sea]], in forest realms such as [[Mirkwood|Greenwood the Great]]. (Appendix B)"
+* '''Scene 29''' - In Middle-earth the [[Children of Ilúvatar|Two Kindreds]], the [[Firstborn]] elves and later humans, became estranged as each kind walked further down their sundered roads. (Book IV, Chapter 5)"
+* '''Scene 34''' - From the [[Grey Havens]], or [[Mithlond]], the elves set sail into the [[Aman|West]], never to return to Middle-earth. (Book I, Chapter 2)"
+* '''Scene 34''' - It is said that on the High Sea while sailing to the Blessed Realm, a sweet fragrance on the air and the sound of singing voices comes over the water to meet the elven-ships - then the grey rain-curtain turns to silver glass and rolls back to reveal white shores and a far green country under a swift sunrise. (Book VI, Chapter 9)"
+
+==Production==
+The episode was directed by [[J. A. Bayona]] and written by [[J. D. Payne]] and [[Patrick McKay]].
+
+==Differences==
+{{Incomplete}}
+In the series, the [[Silmarils]] are not mentioned and neither is the [[Oath of Fëanor]], although Finrod is said to have taken a vow to fight Morgoth. 
+
+
+He is shown to be taking an oath resembling the Oath of Fëanor, which is a major departure from the source material, as he was opposed to the [[Fëanorians]] both before and after [[Exile of the Noldor|coming]] to [[Middle-earth]].<ref>{{S|9}}</ref> The manner of his death is also changed: the Appendices tell us he died saving Beren whilst helping him to find a Silmaril.<ref>{{App|B1}}, p. 1082</ref> While in ''[[The Silmarillion]]'' it is specified he died wresting a wearewolf  the series says he died "hunting Sauron" and shows claw marks on his body, no mention of his connection with Beren or his hunt for the Silmaril is made. ''The Silmarillion'' tells is was buried at [[Tol Sirion]], so none of his siblings could mourn over his body.<ref>{{S|Beren}}</ref> 
+
+The impact of Finrod's death on Galadriel is never mentioned in any source, much less the idea of her ever desiring revenge. In fact, we are told he was almost immediately re-embodied in Valinor, and once Galadriel learned of that, she would have been relieved and comforted.  She did have, however, have concerns about the [[Shadow]] rising during the [[Second Age]], which moved her to political affairs.<ref>{{UT|Concerning}}, p. 235-6</ref> The same concerns resurged during the [[Third Age]] following Sauron's apparent death at the hands of Isildur at the end of the War of the Last Alliance. As a result she and [[Celeborn]] made journeys into various parts of Middle-earth to investigae before settling in [[Lothlórien]].<ref>{{UT|Amroth}}, pp. 243-5</ref> Beyond this, anything related to Galadriel's quests as told in the series are complete inventions.
+
+In the legendarium, the ban on the Noldor was lifted after the [[War of Wrath]] and all were allowed to sail back to [[Valinor]].<ref>{{S|24}}</ref> This was a personal decision and not a reward or punishment doled out by the high king, [[Gil-galad]]. Galadriel was free to return on her own but continued to choose a self-imposed exile for other reasons. In fact, Galadriel could have never been a subordinate to Gil-galad: she apparently helped him to become king,<ref>{{NM|P1xi}}, p. 81</ref> she was at least a generation above him,<ref>{{S|T2}}</ref> and she was born in Valinor during the [[Years of the Trees]],<ref>{{S|Eldamar}}</ref> while he was born in Middle-earth thousand of years later.<ref group=note>[[Gil-galad#Parentage|Gil-galad's birth and parentage]] are a difficult matter, but in anycase, in all its different versions, his relation with Galadriel is always inferior.</ref>
+
+All the Harfoot and Southland characters were invented for the show.
+
+{{references|notes}}
+
+==Reception==
+* [https://www.rottentomatoes.com/tv/the_lord_of_the_rings_the_rings_of_power/s01 39% from audience and 85% from critics on Rotten Tomatoes]
+
+== External links ==
+* [https://rop.digitaltolkien.com/S1E1/ A Shadow of the Past] at ROP Data
+* [https://www.youtube.com/watch?v=wEuYPD_VttE&t=122s&ab_channel=RingsandRealms Analysis of the first two episodes on Rings & Realms] (with [[Corey Olsen]])
+* [https://bearmccreary.com/the-lord-of-the-rings-episode-101/ Scoring ''A Shadow of the Past''] by [[Bear McCreary]]
+{{DEFAULTSORT:Shadow of the Past}}
+{{rop-episodes}}
+{{title}}
+[[Category:The Rings of Power (TV series) episodes|01]]
+[[fi:Menneisyyden varjo (jakso)]]

@@ -1,0 +1,40 @@
+{{journal
+| title=Other Minds 26
+| image=
+| editor=[[Thomas Morwinsky]], Hawke Robinson
+| illustrator=
+| publisher=Other Minds Volunteers
+| date=December [[2022]]
+| format=PDF
+| pages=77
+| issn=
+}}
+
+'''''Other Minds'' 26''' is the twenty-sixth issue of ''[[Other Minds]]'', a magazine devoted to ''[[Middle-earth Role Playing]]'' and other role playing games set in Middle-earth, published in December 2022.
+
+==Contents==
+* "Editorial: Back from the Depths"
+** By [[Thomas Morwinsky]]
+* "The Road Goes Ever On"
+** By Thomas Morwinsky
+* "Inside Information"
+** By Thomas Morwinsky
+* "Learning 'Spells' in Roleplaying Games set in Middle-earth"
+** By Thomas Morwinsky
+* "The Rangers of the North"
+** By Gabriele Quaglia
+* "Review: Ruins of the Lost Realm"
+** By Thomas Morwinsky
+* "A New Stronghold"
+** By Andreas Erdmann
+* "Wild Men of the South"
+** By Adam Brown
+* "Where in Bree-Land is Combe Valley?"
+** By Kris Goldsmith
+
+*'''Artwork / Maps:'''
+** By: Onur Bakar, [[Matěj Čadil]], Jenny Dolfen, Dyson Logos, Wouter Florusse, Olanda Fong-Surdenas, John Howe, Anna Kulisz, James Turner Mohan, Ted Nasmith, Jereme Peabody, Vincent Pompetti, Jan Pospisil, Ari Suonpää
+
+{{title|journal}}
+{{DEFAULTSORT:Other Minds 26}}
+[[Category:Other Minds]]

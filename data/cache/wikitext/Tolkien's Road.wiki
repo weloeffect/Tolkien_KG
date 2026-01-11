@@ -1,0 +1,72 @@
+{{film infobox
+| image = Tolkien's Road - poster.jpg
+| caption = 
+| name=Tolkien's Road
+| director=Nye Green
+| producer       = Isabella Butler<br/>'''Associate producer:'''<br/>Phillip Dye, Alexander Rupert 
+| writer         = Nye Green
+| narrator       = 
+| starring       = 
+| music          = Daniel Kincaid
+| cinematography = Nye Green
+| editing        = Nye Green<br/>Rhys Green
+| studio         = 
+| distributor    = Youtube
+| released       = 9 November 2014
+| runtime        = 35 minutes
+| country        = U.S.A
+| language       = [[English language|English]]
+| budget=
+| website=
+| imdb_id=3441940
+}}'''''Tolkien's Road''''' is a fan film directed and written by Nye Green, produced as student short film project. It was released online on [[9 November]], [[2014]].
+
+==Plot==
+This is a student film project about J.R.R. Tolkien's journey to beginning his first book "The Hobbit." But before he can bring the world of Middle-Earth to life he must overcome the trauma of fighting in WWI and find his voice again. Tolkien's imagination comes to life everywhere he looks in the form of Elves, Dwarves and Dragons. But it is when he meets the Hobbit that he is transported on a journey of self discovery which will change himself and the world of literature forever.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Role!!Actor
+|-
+|[[J.R.R. Tolkien]]||[http://www.imdb.com/name/nm2412219/?ref_=ttfc_fc_cl_t11/ Casey E. Lewis]
+|-
+|[[The Hobbit]]||[http://www.imdb.com/name/nm0045924/?ref_=ttfc_fc_cl_t1 Peter Donald Badalamenti II]
+|-
+|[[Geoffrey Bache Smith|G. B. Smith]]||[http://www.imdb.com/name/nm1907047/?ref_=ttfc_fc_cl_t3 Justin Sorvillo]
+|-
+|[[Christopher Tolkien]]||[http://www.imdb.com/name/nm6204197/?ref_=ttfc_fc_cl_t8 Samuel Aidan Shaool]
+|-
+|[[C.S. Lewis]]||[http://www.imdb.com/name/nm0338307/?ref_=ttfc_fc_cl_t17/ Alexander Rupert Green]
+|-
+|[[Christopher Wiseman]]||[http://www.imdb.com/name/nm4478774/?ref_=ttfc_fc_cl_t30/ Steven Petersen]
+|-
+|[[Edith Tolkien]]||[http://www.imdb.com/name/nm1092867/?ref_=ttfc_fc_cl_t9/ Robyn Heller]
+|-
+|The Wizard||[http://www.imdb.com/name/nm3662206/?ref_=ttfc_fc_cl_t6/ Peter Xifo]
+|-
+|Elven Woman||[http://www.imdb.com/name/nm1315346/?ref_=ttfc_fc_cl_t2/ Elle Newlands]
+|}
+
+==Crew==
+*Director: Nye Green
+*Writer: Nye Green
+*Music by:
+**Daniel Kincaid
+*Production Design by
+
+**Andrea Slominski
+
+==Trailer==
+<youtube>rlwI3y6pBew</youtube>
+
+==External links==
+*[https://www.facebook.com/TolkiensRoad Facebook fanpage]
+*[https://www.youtube.com/channel/UCCglJi_10x8_-Cy3vY9tOug Tolkien's Road] at Youtube, for the trailers and featurettes.
+*[http://www.imdb.com/title/tt3441940/ Tolkien's Road] at imdb.com
+*[http://tolkienbrasil.com/noticias/sobre-filmes/assista-o-filme-tolkiens-road/ Full Movie to watch] at Tolkienbrasil.com
+*[http://elanillounico.com/noticias/peliculas/entrevistamos-en-exclusiva-a-nye-green-director-de-tolkiens-road/ Interview with director Nye Green] at elanillounico.com
+
+{{Fan films}}
+{{title|italics}}
+[[Category:Fan films]]

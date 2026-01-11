@@ -1,0 +1,147 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{disambig-two|the game|the book by [[Fleming Rutledge]]|[[The Battle for Middle-earth (book)]]}}
+{{video game infobox
+| image = The Lord of the Rings- The Battle for Middle-earth box.jpg
+| name=<small>The Lord of the Rings</small><br>The Battle for Middle-earth
+| developer=[[Electronic Arts]]
+| publisher=[[Electronic Arts]]
+| platform=Microsoft Windows
+| releasedate=6 December 2004
+| genre=Real-time strategy
+| modes=
+| rating=
+| distribution=
+}}
+
+'''The Lord of the Rings: The Battle for Middle-earth''' is a 2004 real-time strategy (RTS) video game developed by [[Electronic Arts]]. It is based on the events of [[The Lord of the Rings (film series)|''The Lord of the Rings'' film series]] and is the first entry of ''[[The Lord of the Rings: The Battle for Middle-earth Anthology|The Battle for Middle Earth]]'' series.
+
+==Gameplay==
+''The Lord of the Rings: The Battle for Middle Earth's'' gameplay contains many of the core tenets of a typical RTS such as the top-down "god's eye" camera perspective, the gathering of resources, the creation of base buildings, and the growth and battling of armies. It also adopted trends of newer contemporary RTS games like the ''Total War'' series, which featured the mechanic of standard units being recruited as squads instead of being recruited as single combatants, while powerful singular "Hero" units could be recruited at a higher cost.
+
+However, the game does make notable departures from more traditional RTS conventions. For example, resource gathering is streamlined to only require the gathering of a single resource as opposed to ''Age of Empires''' more typical five resources. ''The Battle for Middle Earth'' also implemented the requirement to build on predetermined plots instead of being able to place bases freely. These plots start as simple camps, slowly build into outposts, and eventually expand into heavily fortified castles as the player continues to gather more resources and gain experience by killing enemies.
+
+The strengths and weaknesses of units form a system akin to rock-paper-scissors. For example: Swordsmen beat pikemen, pikemen beat cavalry, cavalry beat archers, archers beat swordsmen. As units kill other units they gain experience and levels, becoming more powerful as they rank up, with most units having purchasable upgrades. Hero units have special abilities that can also be bought with experience points. Normal units may also have abilities such as changing weapons, changing formations, and combining with other types of units.  
+
+===Factions===
+The game features four factions, with two being on the side of "Good" and two being on the side of "Evil." Each faction has their different types of units and are balanced against each other.
+
+The "Good" side contains [[Rohan]], which focuses on Riders and Archers and offers a more strategic command style. It also features [[Gondor]], which focuses on defense but has costly units.
+
+The "Evil" side contains [[Isengard]], whose units are fairly inexpensive, instead focusing on technological advancements. [[Mordor]] focuses on weaker but massive groups of units, requiring players to overrun their opponents with hordes of [[Orcs]] and [[Easterlings]].
+
+==Game modes==
+The game contains two main game modes, Solo Play and Multiplayer. Solo Play contains the Campaign Mode and Skirmish Mode, while Multiplayer allows for online and LAN matches. There is also a Battle School Mode, which serves as the game's tutorial and consists of several pre-recorded games and cinematics to show players the basics on how to play the Campaign and Skirmish modes.
+
+===Campaign===
+[[File:The Battle for Middle-earth - World Map.png|thumb|left|alt=A world view of Middle-Earth, shown at the start of the campaign mode|World view during Campaign mode]]
+The Campaign Mode includes two different campaigns, the Good and Evil campaign. Upon starting a new campaign, the player can choose from three difficulty modes: Easy, Medium, and Hard. Each campaign follows the perspective of either the forces of the West (Gondor, Rohan and the [[Fellowship of the Ring]]) or the East (Mordor and Isengard) during the events of [[The Lord of the Rings|T''he Lord of the Rings'']].
+
+Upon choosing a campaign, the player starts on the Living World Map, a sky view of the map of [[Middle-earth]]. From here, the player can access each scenario available to start Battle Mode. On the World Map, the player can check all the territories and armies and where each hero or group of heroes are located. This offers a unique strategic component, as players must measure the size of opposing armies to gauge how strong their forces must be in order achieve victory.
+
+There are two types of scenarios on each campaign: Mandatory and Optional. Mandatory scenarios are levels in which the player is forced to play in a specific scenario in order to move the story forward. These levels tend to represent an important point in the story, such as the [[Battle of the Hornburg]] or the [[Battle of the Pelennor Fields]]. Optional scenarios are levels the player can choose whether to play or not. These levels tend to be available between each mandatory scenario, with the player being required to pass a minimum amount of levels in order to access the next mandatory level.
+
+After choosing a scenario and entering Battle Mode, the player must complete a set of objectives in order to win each level. Most objectives are comprised of defeating all opposing forces or surviving a certain amount of time. Once the player finishes a level, they are given rewards according to their performance during the battle, which is measured by factors such as number of resources, units created and lost, enemy units defeated, among others. Additionally, each scenario has one or more bonus objectives, which each give additional rewards to the player. Rewards range from additional Power Points, to increasing the maximum size of the armies.
+
+Unlike most RTS games where units trained on each scenario (aside from heroes) are reset after each level, armies are kept from the moment they were trained all the way until the end of the campaign or if they are killed. Experience, as well as unit upgrades, are also kept, which means an army will increase its strength with each battle it participates in. This encourages the player to enter as many optional scenarios as possible, as they will require the additional levels to prepare their armies for the final battle.
+
+====Good campaign====
+The Good campaign starts with the Fellowship entering [[Moria]], where they must navigate through the mountain while fighting hordes of goblins. After going all the way to the [[Bridge of Khazad-dûm]], [[Durin's Bane]] appears, and Gandalf alone fights the fallen [[Maiar|Maia]]. Meanwhile, the army of Rohan (led by [[Éomer]]), is sent to defend one of several territories from the armies of Isengard. The story then switches from the Fellowship's journey to Mordor to Éomer's army freeing more territories until the events of the [[Breaking of the Fellowship]] at [[Amon Hen]].
+
+After Éomer defends two more territories, a group of Rohirrim arrive at the eaves of [[Fangorn Forest]], following a group of [[Uruk-hai]]. Sometime after their initial contact, Éomer's forces arrive to the skirmish and finish off all the remaining enemies, giving [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] - who had previously been captured - a chance to escape to the forest.
+
+After another skirmish, Gandalf joins Éomer while another Rohan army led by [[Théoden|King Théoden]] (who is now accompanied by the [[Three Hunters]] and [[Éowyn]]) goes to Helm's Deep to prepare for the final battle against the forces of Isengard. The forces of Rohan must survive until reinforcements arrive while receiving aid from groups of Elven archers and Rohan refugees who arrive before the battle. Shortly after the battle and. with Isengard armies decimated, the last of Saruman's forces are attacked by Treebeard and a group of Ents.
+
+Meanwhile, on the territories disputed by Gondor and Mordor, [[Faramir]] (momentarily joined by [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]]) and his group of [[Rangers of Ithilien|Rangers]] are ambushing some of Sauron's forces, starting small skirmishes throughout the land until Sauron launches an attack at Minas Tirith. While this is happening, Sam has been able to pass through Shelob's Lair, freeing some Gondor soldiers trapped there and starting a small battle in [[Cirith Ungol]]. 
+
+With Sauron's forces pushed back to Mordor, the armies of Gondor and Rohan must pressure Sauron to flush his main forces out of Mordor to give Frodo and Sam a chance to finish their quest. From here, the forces of Good can attack and liberate territories containing the remnants of Isengard and Mordor's armies. After defending and freeing some of these territories, Sauron will mobilize his forces to the Black Gate, where the Men of the West can choose to keep attacking other territories or go straight to the final battle.
+
+The final battle takes place at the entrance of the [[Black Gate]], where both Rohan and Gondor's armies have gathered. Depending on the player's strategy, either Gondor of Rohan arrive as the main forces for the battle, with the other army arriving as reinforcement some time later. The armies must survive against Sauron's forces long enough to give Frodo and Sam time to reach Mount Doom. After a long battle, [[Barad-dûr]] finally falls, signaling the end of the campaign.
+
+====Evil campaign====
+The Evil campaign begins in Isengard, where Saruman starts breeding Uruk-hai to kickstart Sauron's war efforts in the lands of Rohan. After taking out a scouting unit and a small number of Ents who attacked Isengard upon seeing Saruman chopping down the forest, Saruman moves his forces to Fangorn in order to attack the [[Entmoot]] and kill Treebeard.   
+
+While Saruman's forces are ravishing the lands of Rohan, [[Lurtz]] is successful in his assault of the Fellowship, defeating most of the heroes, though Frodo and Sam manage to escape. With his task complete, Lurtz and the rest of his army start the attack on Rohan's territories. After various skirmishes (including a successful siege on the city of [[Edoras]]), both armies start their final assault on Helm's Deep. Although the fortress is well defended, and the forces of good receive reinforcements in the form of the few surviving Ents, as well as a contingent Éomer forces. The bolstering of these forces proves to be insufficient as Hornburg inevitabily falls, bringing the end of Rohan.
+
+With Rohan's fall, only Gondor remains as the last bastion against Sauron, who prepares for the last stage of the war. He first moves his forces to the region of [[Near Harad]] in order to convince the [[Haradrim]] to join his cause, either by offering large rewards or by force. With the size of his army exponentially increasing, Sauron begins his assault on the lands of Gondor while Saruman continues his skirmish on the remaining territories of Rohan. As the fortified city of [[Osgiliath]] falls to the forces of Mordor, the remaining forces of Gondor retreat to Minas Tirith, leaving the rest of the land unprotected from the invasion.
+
+At the same time, Frodo and Sam arrive in Cirith Ungol and attempt to sneak into Mordor. But somehow, [[Gollum|Smeagol]] was able to alert the guards on the post, and a small army is waiting the hobbits there. Even with the help of a considerable number of Gondorian soldiers, the heroes fall, and the [[The One Ring|One Ring]] is finally slides onto the finger of its former master. The forces of Good's fortune continues to worsen, as Durin's Bane suddenly appears in front of Barad-dûr, increasing the strength of Sauron's army even more.
+
+Now that the One Ring has been retrieved, the fall of the [[free peoples]] of Middle-Earth is inevitable. The forces of Sauron and Saruman relish the last moments of the war, attacking every land they want until they set their eyes on Minas Tirith. While a small battalion of Rohirrim arrive to Gondor's aid, their forces are to small to even effectively combat Sauron's army. Even the [[Oathbreakers|Dead Men of Dunharrow]], commanded by Aragorn, cannot stop the might of Mordor. Finally, after a long battle, the White City falls, and all hope for Middle-Earth dies with it.
+
+===Skirmish===
+Skirmish mode is the regular battle mode from the campaign, where one can play against the CPU or another player (for Multiplayer Mode). This system uses the custom Battle Map system, which uses the campaign maps without their specific objectives. The objective is to defeat each enemy player by destroying all of their settlements (castles, camps and outposts).
+
+For the single-player Skirmish Mode, the game offers a leveling system for each faction in which the player increases their level by winning against the CPU depending on the difficulty level. This leveling system does not offer any additional features for gameplay, serving only as a way to measure the player's score using a particular faction.
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!Role!!Actor
+|-
+|Orcs, cattle||[[Dee Bradley Baker]]
+|-
+|[[Aragorn]]||[[Chris Edgerly]]
+|-
+|[[Éomer]]||Chris Edgerly
+|-
+|[[Legolas]]||[[Crispin Freeman]]
+|-
+|[[Boromir]]||[[James Horan]]
+|-
+|[[Gimli]]||[[John Rhys-Davies]]
+|-
+|[[Treebeard]]||[[John Rhys-Davies]]
+|-
+|[[Saruman]]||[[Christopher Lee]]
+|-
+|[[Gandalf]]||[[Ian McKellen]]
+|-
+|[[Théoden|Theoden]]||[[Phil Proctor]]
+|-
+|[[Éowyn]]||[[Kim Mai Guest]]
+|-
+|[[Lurtz]]||[[Isaac C. Singleton Jr.]]
+|}
+
+==Reception==
+{{VG reviews
+| agg1=[http://www.metacritic.com/ Metacritic]
+| agg1score=82/100<ref name="Metacritic">[http://www.metacritic.com/ Metacritic], "[https://www.metacritic.com/game/the-lord-of-the-rings-the-battle-for-middle-earth/ The Lord of the Rings: The Battle for Middle-Earth (2004)]" (accessed [[1 January|1]] [[January]] [[2024]])</ref>
+| agg2=[http://www.gamerankings.com GameRankings]
+| agg2score=82.27% <ref name="GameRankings">[http://www.gamerankings.com GameRankings], "[https://www.gamerankings.com/pc/918989-the-lord-of-the-rings-the-battle-for-middle-earth/index.html The Lord of the Rings: The Battle for Middle-Earth for PC] (accessed [[1 January|1]] [[January]] [[2024]]) ([https://web.archive.org/web/20191205213145/https://www.gamerankings.com/pc/918989-the-lord-of-the-rings-the-battle-for-middle-earth/index.html archived: Wayback Machine])</ref>
+| rev1=[https://www.eurogamer.net/ Eurogamer]
+| rev1score=8/10 <ref name="Eurogamer">[http://www.eurogamer.net Eurogamer], "[https://www.eurogamer.net/r-lotrbattleformiddleearth-pc The Lord of the Rings, The Battle for Middle-Earth], [[9 May|9]] [[May]] [[2005]] (accessed [[1 January|1]] [[January]] [[2024]])]</ref>
+| rev2=[http://www.gamepro.com GamePro]
+| rev2score=4.5/5 <ref name="GamePro">[http://www.gamepro.com GamePro], "[http://www.gamepro.com/computer/pc/games/reviews/40189.shtml The Lord of the Rings: The Battle for Middle-Earth Review for PC on GamePro.com], [[10 December|10]] [[December]] [[2004]] (accessed [[1 January|1]] [[January]] [[2024]]) ([https://web.archive.org/web/20191205213145/https://www.gamerankings.com/pc/918989-the-lord-of-the-rings-the-battle-for-middle-earth/index.html archived: Wayback Machine])</ref>
+| rev3=[http://www.gamerevolution.com GameRevolution]
+| rev3score=7/10 <ref name="GameRevolution">[http://www.gamerevolution.com GameRevolution], "[https://www.gamerevolution.com/review/36024-the-lord-of-the-rings-battle-for-middle-earth-review The Lord of the Rings: The Battle for Middle-Earth, The Review], [[1 December|1]] [[December]] [[2004]] (accessed [[1 January|1]] [[January]] [[2024]])</ref>
+| rev4=[http://www.gamespot.com GameSpot]
+| rev4score=8.4/10 <ref name="GameSpot">[http://www.gamespot.com GameSpot], "[https://www.gamespot.com/reviews/the-lord-of-the-rings-the-battle-for-middle-earth-/1900-6114604/ The Lord of the Rings, The Battle for Middle-Earth Review], [[7 December|7]] [[December]] [[2004]] (accessed [[1 January|1]] [[January]] [[2024]])</ref>
+| rev5=[http://www.gamespy.com GameSpy]
+| rev5score=4/5 <ref name="GameSpy">[http://www.gamespy.com GameSpy], "[http://pc.gamespy.com/pc/the-lord-of-the-rings-the-battle-for-middle-earth/570709p1.html GameSpy: The Lord of the Rings: The Battle for Middle-Earth], [[3 December|3]] [[December]] [[2004]] (accessed [[1 January|1]] [[January]] [[2024]]) ([https://web.archive.org/web/20211130121405/http://pc.gamespy.com/pc/the-lord-of-the-rings-the-battle-for-middle-earth/570709p1.html archived: Wayback Machine])</ref>
+| rev6=[http://www.ign.com IGN]
+| rev6score=8.3/10 <ref name="IGN">[http://www.ign.com IGN], "[https://www.ign.com/articles/2004/12/04/the-lord-of-the-rings-battle-for-middle-earth The Lord of the Rings: Battle for Middle-earth], [[3 December|3]] [[December]] [[2004]] (accessed [[1 January|1]] [[January]] [[2024]])</ref>
+}}
+
+The Lord of the Rings: The Battle for Middle-earth received generally positive reviews. Reviewers on [http://www.metacritic.com/ Metacritic] praised both its graphical and audio design. Much praise was given to its voice-acting. However, critics noted the overall lack of complexity of the strategy system compared to other RTS games.<ref name="Metacritic reviews">[http://www.metacritic.com Metacritic], "[https://www.metacritic.com/game/the-lord-of-the-rings-the-battle-for-middle-earth/critic-reviews/?platform=pc The Lord of the Rings: The Battle for Middle-Earth (2004) critic reviews]", (accessed [[1 January|1]] [[January]] [[2024]])</ref>
+
+The site [https://www.eurogamer.net Eurogamer] compares it to Rome: Total War, praising the use of groups of soldiers per unit, giving the battles a grand sense of scale. The reviewer also places a huge emphasis on both the simplicity of the resources system as well as the graphics of the game, stating that:
+
+{{blockquote|Graphically, Battle for Middle-Earth is one of the best looking strategy games out there; it can strain a little when there are too many units on screen, but in general it's an impressive feast for the eyes, with every major location from the movies recreated in loving detail.| [https://www.eurogamer.net/r-lotrbattleformiddleearth-pc Eurogamer]}}
+
+As of end of 2004, EA reported that The Lord of the Rings: The Battle for Middle-earth had reached platinum status, having exceeded the sale of more than one million units in its first year.<ref name="EA Sales Report">[http://www.ea.com Electronic Arts], [http://q4live.s22.clientfiles.s3-website-us-east-1.amazonaws.com/894350492/files/doc_financials/2005/q3/Earnings_Release.pdf ''Electronic Arts Reports Fiscal Third Quarter Results''] (Redwood Shores (CA)), [[25 January|25]] [[January]] [[2005]] (accessed [[2 January|2]] [[January]] [[2024]])</ref>
+
+==External links==
+*[http://www.eagames.com/official/lordoftherings/thebattleformiddleearth/us/home.jsp Official Website]
+
+{{References}}
+{{Videogames}}
+{{title|italics}}
+
+{{DEFAULTSORT:Battle for Middle-earth}}
+[[Category:EA Games]]
+[[Category:Real-time strategy games]]
+[[Category:Microsoft Windows games]]
+[[Category:The Lord of the Rings: The Battle for Middle-earth (video game series)]]
+
+[[de:Die Schlacht um Mittelerde]]

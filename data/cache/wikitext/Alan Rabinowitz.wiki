@@ -1,0 +1,24 @@
+{{short description|Artist for Middle-earth Collectible Card Game}}
+{{person infobox
+| image=
+| caption=
+| name=Alan Rabinowitz
+| born=[[8 June]] [[1969]]
+| died=
+| education=
+| occupation=Artist
+| location=
+| website=
+}}
+'''Alan Rabinowitz''' (born [[8 June]] [[1969]]) is an American fantasy artist.<ref>{{Cite web|articleurl=https://boardgamegeek.com/boardgameartist/17472/alan-rabinowitz|articlename=Alan Rabinowitz|website=Board Game Geek}}</ref> In the 1990s, he was commissioned by [[Iron Crown Enterprises]] to create art for the [[Middle-earth Collectible Card Game]], which he found a very desirable topic to work on.<ref>{{Cite web|articleurl=https://fantasy-art.com/lord-of-the-rings/|articlename=Lord of the Rings Art|website=Artist's website|author=Alan Rabinowitz}}</ref>
+
+== See also ==
+*[[:CATEGORY:Images by Alan Rabinowitz|Images by Alan Rabinowitz]]
+
+==External links==
+*'''[https://fantasy-art.com/ Official website]'''
+{{References}}
+{{DEFAULTSORT:Rabinowitz, Alan}}
+[[Category:Artists]]
+[[Category:American people]]
+[[Category:People by name]]

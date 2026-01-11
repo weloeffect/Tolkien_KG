@@ -1,0 +1,179 @@
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}{{video game infobox
+| image = The Lord of the Rings - Conquest - boxart.jpg
+| name=The Lord of the Rings: Conquest
+| developer=Pandemic Studios
+| publisher=[[Electronic Arts|EA]] Games
+| platform=PC, Xbox 360, PlayStation 3, Nintendo DS
+| releasedate=[[wikipedia:PAL region|PAL]]: [[9 January|January 9]] [[2009]]<br/>[[wikipedia:North America|NA]]: [[13 January|January 13]], [[2009]]
+| genre=
+|}}
+
+'''The Lord of the Rings: Conquest''' is the last video game set in Middle-earth that was made by [[Electronic Arts]]. It was developed by Pandemic Studios for the PC, Xbox 360, PlayStation 3, and Nintendo DS consoles. [[Weta Digital]] worked alongside Pandemic, and has provided several digital models for them to use, including the [[fell beasts]].
+
+== Gameplay ==
+===Good Campaign===
+The Good Campaign begins at the [[Last Alliance of Elves and Men|Battle of the Last Alliance]] as a training stage, and continues with loosely-based settings from the films, such as the [[Battle of Isengard]] as an [[Ent]], [[Gandalf]] fighting [[Saruman]] in [[Orthanc]], battling the [[Balrogs|Balrog]] in the [[Khazad-dûm|Mines of Moria]], battling the [[Nazgûl]] as [[Faramir]] while protecting [[Frodo Baggins|Frodo]], and fighting inside [[Minas Morgul]]. There is also a mission that has [[Gimli]] and his attempts to take back Moria.
+
+===Evil Campaign===
+The Evil Campaign begins immediately in an alternate universe, where the Nazgûl have just killed Frodo and stopped him from destroying [[the One Ring]]. Players will have the chance to fight as [[Oliphaunts]] at [[Minas Tirith]], as [[Trolls]] at [[Helm's Deep]], as the Balrog, as the Nazgûl against [[Aragorn]] at [[Weathertop]], against [[the Shire]], and lastly, as [[Sauron]] himself against [[Rivendell]].
+
+==Playable Characters==
+===Heroes===
+*[[Aragorn]]
+*[[Arwen]]
+*[[Boromir]]
+*[[Elrond]]
+*[[Éowyn]]
+*[[Faramir]]
+*[[Frodo]]
+*[[Gandalf]]
+*[[Gimli]]
+*[[Isildur]]
+*[[Legolas]]
+*[[Ent]]
+*[[Balin]]
+
+===Villains===
+*[[Balrog]]
+*[[Gothmog (Lieutenant of Morgul)|Gothmog]]
+*[[Gríma|Gríma Wormtongue]]
+*[[Lurtz]]
+*[[Mouth of Sauron]]
+*[[Nazgûl]]
+*[[Oliphaunts|Oliphaunt]]
+*[[Saruman]]
+*[[Sauron]]
+*[[Troll]]
+*[[Witch-king]]
+
+==Maps==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Map !! Modes
+|-
+|[[Amon Hen]] || "Conquest", "Team Deathmatch", "Capture the Ring"
+|-
+| [[War of the Last Alliance|Battle of the Last Alliance]] || "Conquest", "Team Deathmatch", "Capture the Ring"
+|-
+| [[Black Gate]] || "Conquest", "Hero Team Deathmatch"
+|-
+| Citadel of [[Minas Tirith]] || "Team Deathmatch", "Capture the Ring"
+|-
+| [[Helm's Deep]] || "Conquest", "Team Deathmatch"
+|-
+| [[Minas Morgul]] || "Conquest", "Capture the Ring", "Hero Team Deathmatch"
+|-
+| [[Minas Tirith]] || "Conquest", "Team Deathmatch"
+|-
+| [[Moria]] || "Team Deathmatch", "Capture the Ring"
+|-
+| [[Mount Doom]] || "Conquest", "Capture the Ring", "Hero Team Deathmatch"
+|-
+| [[Osgiliath]] || "Conquest", "Team Deathmatch"
+|-
+| [[Pelennor Fields]] || "Conquest", "Team Deathmatch", "Capture the Ring"
+|-
+| [[The Shire]] || "Conquest", "Capture the Ring", "Team Deathmatch"
+|-
+| [[Weathertop]] || "Conquest", "Team Deathmatch"
+|-
+|}
+
+==Cast==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| [[Hugo Weaving]] || [[Elrond]]
+|-
+| Andrew Dawson || [[Gothmog (Lieutenant of Morgul)|Gothmog]], [[Mouth of Sauron]], Gondorian Officer
+|-
+| [[Chris Edgerly]] || [[Aragorn]], Rohan Officer 2
+|-
+| [[Crispin Freeman]] || [[Legolas]], Young Male [[Hobbits|Hobbit]]
+|-
+| [[Brian George]] || [[Théoden|Theoden]], Elven Officer 2, Old Hobbit Male
+|-
+| [[Kim Mai Guest]] || [[Éowyn]], Young Female Hobbit, Old Female Hobbit
+|-
+| Gavin Hammon || Rohan Officer 1, Ringwraith	
+|-
+| [[Martin Jarvis]] || [[Gandalf]]
+|-
+| [[Bob Joles]] || [[Gimli]], [[Treebeard]], Uruk-Hai Officer 1	
+|-
+| Kevin Killebrew || Orc Officer 3	
+|-
+| Jonathan Lipow || [[Witch-king]]
+|-
+| [[Yuri Lowenthal]] || [[Frodo Baggins|Frodo]], Elven Officer 3, Rohan Officer 3
+|-
+| [[Scott McShane]] || Uruk-Hai Officer 3
+|-
+| [[Paul Mercier]] || [[Faramir]], Evil Human Officer 3, Gondorian Officer 3
+|-
+| [[Nolan North]] || Evil Human Officer 2, Gondorian Officer 2
+|-
+| Jon Olson || [[Sauron]], [[Lurtz]], Orc Officer 2
+|-
+| [[Alan Shearman]] ||Evil Human Officer 1
+|-
+| Kirk Thornton || [[Gríma|Gríma Wormtongue]]
+|-
+| David Shaughnessy || Orc Officer 1	
+|-
+| [[Lloyd Sherr]] || [[Saruman]]
+|-
+| Robert Wisdom || Uruk-Hai Officer 2
+|-
+| [[Michael Yurchak]] || Elven Officer 1
+|-
+|}
+
+==Soundtrack==
+[[Howard Shore]]'s tracks from the film are also included in the game. The following tracks are used with license:
+* "The Shadow Of The Past"
+* "At The Sign Of The Prancing Pony"
+* "Flight To The Ford"
+* "A Knife In The Dark"
+* "The Bridge Of Khazad Dum"
+* "Amon Hen"
+* "The Ring Goes South"
+* "Ash And Smoke"
+* "Minas Tirith"
+* "The White Tree"
+* "The Fields Of Pelennor"
+* "Hope and Memory"
+* "Minas Morgul"
+* "The Ride Of The Rohirrim"
+* "The Black Gate Opens"
+* "The End Of All Things"
+* "Foundations Of Stone"
+* "The Passage Of The Marshes"
+* "The Uruk‑Hai"
+* "The King Of The Golden Hall"
+* "The White Rider"
+* "Helm's Deep"
+* "Forth Eorlingas"
+* "The Taming of Smeagol"
+* "Isengard Unleashed"
+
+==See also==
+*[[:Category:Images from The Lord of the Rings: Conquest|Images from The Lord of the Rings: Conquest]]
+
+==External links==
+*'''[http://pandemicstudios.com/conquest Official website]'''
+*[http://www.theonering.net/torwp/2008/05/08/28812-what-is-the-lord-of-the-rings-conquest-pandemic-studios-eric-%e2%80%9cgiz%e2%80%9d-gewirtz-tells-us-about-it/ Eric Gewirtz (director)  interview] at [[TheOneRing.net]]
+*{{WP|The Lord of the Rings: Conquest|The Lord of the Rings: Conquest}}
+
+{{Videogames}}
+{{lordoftheringsfilms}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Conquest}}
+
+[[Category:Action games]]
+[[Category:EA Games]]
+[[Category:Microsoft Windows games]]
+[[Category:Nintendo DS games]]
+[[Category:PlayStation 3 games]]
+[[Category:Xbox 360 games]]

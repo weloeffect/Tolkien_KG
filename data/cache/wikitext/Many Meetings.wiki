@@ -1,0 +1,90 @@
+{{short_description|1st chapter of the second book in The Fellowship of the Ring}}
+{{chapter
+| image=Donato Giancola - Rivendell - Recovery.jpeg
+| title=Many Meetings
+| book=The Fellowship of the Ring
+| number=13
+| event=[[Frodo Baggins|Frodo]] wakes in [[Rivendell]]; learns about the [[Nazgûl|Black Riders]]; and meets [[Elves]] and a [[Dwarves|Dwarf]].
+| location=[[Rivendell]]
+| date=[[24 October]] {{TA|3018|n}}
+| previous=Flight to the Ford
+| next=The Council of Elrond
+}}
+
+{{quote|Now at last the hour has come that you have wished for, Frodo. Here is a friend that you have long missed.|Elrond}}
+
+'''Many Meetings''' is the first chapter of the second book in ''[[The Fellowship of the Ring]]''.  The main characters are [[Frodo Baggins]], [[Gandalf]] and [[Bilbo Baggins]], accompanied by [[Aragorn]], [[Glorfindel]], [[Samwise Gamgee|Samwise (Sam) Gamgee]], [[Peregrin Took|Peregrin (Pippin) Took]] and [[Meriadoc Brandybuck|Meriadoc (Merry) Brandybuck]]. [[Elrond]], [[Arwen Undómiel]] and [[Glóin]] are introduced.
+
+The Chapter tells of Frodo's reunion with Gandalf and the other [[Hobbits]] at [[Rivendell]], a feast held in his honor, his meeting [[Glóin]] and first sighting of [[Arwen]], and his reunion with [[Bilbo]], who is still sick with longing for [[The One Ring]].
+
+Central to the chapter is the reunion of friends and the importance of Rivendell as a place of healing, accumulated wisdom and ancient knowledge.  Frodo's interactions with Bilbo and Gandalf reveal the inner struggles and bravery needed, while as a moment of reprieve and planning, hope is kindled for the challenge ahead.
+
+==Overview==
+The chapter begins about 4 days after the [[Flight to the Ford|events]] at the [[Ford of Bruinen]].
+
+===Reunion with Gandalf===
+When Frodo awoke, he saw Gandalf for the first time in months. The old [[Wizard]] told him that it was [[24 October]]; that he was in the house of Elrond at Rivendell; and that his other friends were fine.
+
+Frodo could not remember how he arrived at Rivendell. Gandalf explained that Frodo was beginning to fade due to the evil wound he'd suffered at [[Weathertop]]. Gandalf seemed to know much about Frodo's journey thus far, explaining that Frodo talks in his sleep. Frodo asked Gandalf where he'd been since leaving The Shire, but Gandalf would only reveal was that he'd been held captive.
+
+Gandalf told Frodo that war was about to break out; the [[Black Riders]] he'd encountered were in fact the Ringwraiths - the Nine kings of [[Men]] he had previously told Frodo about - who received rings from [[Sauron]] and become his servants. Gandalf said he had not learned that they were coming for Frodo until after he'd left [[The Shire]].
+
+Frodo said they wouldn't have made it without Strider's help. He'd previously thought all Men were either kind and stupid like [[Barliman Butterbur]] or stupid and wicked like [[Bill Ferny]]. Gandalf defended Butterbur:
+
+{{quote|He is wise enough on his own ground. He thinks less than he talks, and slower; yet he can see through a brick wall in time. But there are few left in Middle-earth like Aragorn son of Arathorn. The race of the Kings from over the Sea is nearly at an end. It may be that this War of the Ring will be their last adventure.|[[Gandalf]]}}
+
+Gandalf continued to explain that the [[Rangers]] were the last remnants of the [[Men of the West]] in the north of Middle-earth, and had helped Gandalf before. He hoped they would help again in the future, given that the Ring's journey was not yet over. Frodo hoped he wouldn't have to carry it any further.
+
+Frodo discovered that his shoulder wound no longer hurt, and he could move his arm a little. Gandalf explained that Elrond had tended to Frodo for days, and only managed to remove the splinter of the [[Morgul-knife]] from his shoulder the previous night. He said that had the shard not been removed, Frodo would have become a wraith himself, under the command of the Dark Lord. He marveled at the mettle and courage of [[Hobbits]], to have carried the shard for 17 days without succumbing.
+
+Frodo said he could see the Ringwraiths' true forms while he was wearing the Ring, but wondered how everyone could see their black horses. Gandalf explained that the horses were real, bred to serve Sauron. He listed the many different types of creatures under Sauron's command, saying that their numbers were growing.
+
+Frodo asked whether Rivendell was safe. Gandalf replied that it would be the last place to fall, as the Elves would not submit to Sauron. He said that Rivendell was home to some of the [[Eldar|Elven-wise]], who lived in both the seen and unseen worlds simultaneously, and could therefore fight the Ringwraiths.
+
+Frodo surmised that the glowing white figure he saw behind the Ringwraiths at the [[Ford of Bruinen]] was [[Glorfindel]], as he appeared on the "other side". Gandalf confirmed this, calling him "one of the mighty of the [[Firstborn]], an Elf-lord of a house of princes". Nevertheless, he said that even Rivendell and other places of great power (including The Shire) would eventually come under siege if all else around them fell to Sauron.
+
+Gandalf examined Frodo with his magical sight and saw a hint of transparency about him. He wondered to himself what would become of Frodo, but guessed that he would not fall to evil. He hoped that Frodo would eventually become "like a glass filled with clear light for eyes to see that can."
+
+Frodo asked Gandalf to explain what happened at the Ford. Gandalf retold the story more clearly, adding that Glorfindel had the others prepare flaming brands to drive the remaining Black Riders into the river, after the first three had drowned. Frodo inquired whether the Ringwraiths had been vanquished for good. Gandalf explained that only the horses perished; the Ringwraiths could not be defeated so easily, but were not then a threat. Frodo asked what caused the flood. Gandalf said that it was Elrond, commanding the river that ran through his domain. Gandalf added that the waves taking the shape of white horses and riders was his own personal touch.
+
+Gandalf told Frodo that he would be treated to a great feast to celebrate this victory, honoring Frodo as the Ring-bearer and heir to Bilbo, the Ring-finder. Frodo wondered what happened to Bilbo, and wished he could tell him of the last month's adventures. He fell asleep.
+
+===A Feast with many meetings===
+Frodo woke that evening feeling much better. He examined himself in a mirror, discovering that he had thinned. Sam entered, quickly running to hold Frodo's hand, which he was glad to find warm for the first time in days. He raved about the Elves until Frodo asked him to provide a tour of Rivendell. Sam took Frodo to the gardens, where he was reunited with Pippin and Merry. 
+
+{{quote|Hurray! Here is our noble cousin! Make way for Frodo, Lord of the Ring!|[[Peregrin Took]]}}
+
+Gandalf chided Pippin for that epithet, saying that only the Master of [[Barad-dûr|the Dark Tower of Mordor]] was the Lord of the Ring.
+
+The group went to the hall of Elrond's house, where they met many other guests. Frodo observed Elrond for the first time, noting that he was both venerable and youthful. At the dinner table he also saw Arwen Undómiel, Elrond's daughter, described as both queenly and thoughtful. Arwen had recently returned from [[Lothlórien|Lórien]], and her brothers [[Elladan]] and [[Elrohir]] were away on an errand.
+
+Next to Frodo at the table was a [[Dwarves|dwarf]] with a white beard. The dwarf introduced himself as Glóin, and Frodo recognized him as one of [[Thorin and Company|Thorin's twelve companions]]. Glóin was curious what brought four Hobbits to Rivendell, but accepted Frodo's view that the matter should not yet be discussed. Similarly, he declined to discuss what brought him to Rivendell, until the time was right.
+
+From Glóin, Frodo learnt that [[Grimbeorn the Old]], son of [[Beorn]], was then master of the lands between [[Mirkwood]] and the [[Misty Mountains]], and held it fast against the [[Orcs]]. Glóin lamented that the [[Beornings]] charged a heavy toll for passage through their land and did not like Dwarves. He also told of the [[Men of Dale]] - ruled by [[Brand]], grandson of [[Bard]] - who had become strong allies of the Dwarves.
+
+With Frodo's encouragement, Glóin told many stories about current events in the land of the Dwarves. He said that [[Dáin Ironfoot]] was still king of [[Erebor]], and that seven of the Dwarves that took the Mountain were still with him, including [[Bombur]], who had grown incredibly fat. When Frodo inquired about the fates of [[Balin]], [[Ori]] and [[Óin]], Glóin regretfully said that he did not know, that this was one of the reasons he came to Rivendell, to ask for counsel on the matter.
+
+Glóin continued to extol the virtues of the new Dwarven kingdom under the Mountain, although while the Dwarves had exceeded their former skills in architecture, they had yet to produce the same quality of weapons and armor that they did before the coming of [[Smaug]]. Frodo promised to visit Erebor if he got the chance. Glóin mentioned Bilbo, at which Frodo wished aloud to see his uncle more than other great things.
+
+===Reunion with Bilbo===
+After dinner, the guests were shown to the [[Hall of Fire]]. Frodo spotted Bilbo sitting alone in a corner. Bilbo told Frodo that he and Sam sat together by Frodo's side throughout his recovery. At Bilbo's bidding, messengers were sent to find [[Strider]] (whom he called "the Dúnadan"), who was missing from the feast.
+
+Bilbo said that his journey out of [[Hobbiton]] was aimless at first, but seemed to lead him always towards Rivendell. He then joined up with Dwarves and went back to Dale - his final journey - before returning to Rivendell again, where he stayed.
+
+Bilbo spoke of The One Ring, lamenting that he hadn't kept it and brought it to Rivendell himself, saving Frodo the trouble. He asked to see the Ring. Frodo pulled out the Ring, discovering that the Elves had replaced its chain with a lighter, stronger one. When Bilbo put his hand out to take the Ring, Frodo felt a sudden urge to keep it away from him. For an instant he saw Bilbo as a gaunt, hungry creature, and felt a desire to strike him. The hall suddenly went quiet, and Bilbo seemed then to understand the power of the Ring, and asked Frodo to put it away. He apologized for having burdened Frodo with carrying on the adventure. Frodo put the Ring away, and the hall once again filled with music and merriment.
+
+Frodo told Bilbo many stories from The Shire. As they talked, Strider appeared. Bilbo explained that the name he calls Strider - "Dúnadan" - means [[Man of the West]]. He asked Strider why he'd missed the feast, mentioning that Arwen was present. Strider replied that Elladan and Elrohir had returned from their errand with important news, which he wanted to hear as soon as possible.  Bilbo asked for Strider's help to write a song to cap the evening's celebration. While they discussed it, Frodo began to lose himself in the music and singing of the Elves in the hall, which carried him to sleep. He awoke at the voice of Bilbo, singing [[Eärendillinwë|his new song]]. The song was very long, and by the time it ended, Frodo saw that many Elves had gathered around Bilbo to hear it. An Elf named [[Lindir]] asked to hear the song again, but Bilbo was too tired to repeat it. Lindir protested that Bilbo was never too tired to repeat his own songs, causing Bilbo to chastise him for not noticing that Strider had written several of the verses. Lindir claimed that it was difficult for Elves to distinguish between two mortals, much to Bilbo's dismay.
+
+{{quote|To sheep other sheep no doubt appear different. Or to shepherds. But Mortals have not been our study. We have other business.|[[Lindir]]}}
+
+Bilbo admitted to Frodo that he had written the entire song; Strider had wanted nothing to do with writing songs about [[Eärendil]] in Elrond's house. Bilbo suggested they leave to talk in private. As they exited the hall, one of the Elves began to sing the hymn [[A Elbereth Gilthoniel]]. Frodo looked back into the hall, briefly seeing Arwen again, with Aragorn standing beside her.  Aragorn appeared to Frodo as though wearing Elven mail, with a star shining on his breast. Arwen looked at Frodo, and he was instantly enchanted.
+
+Bilbo led Frodo to his room, where they talked for hours about the beautiful things they had seen together. Their conversation was only interrupted when Sam appeared, begging his master to sleep, as a council had been scheduled for the next morning. Before saying goodbye for the night, Bilbo expressed that he was not sure if he would survive to see what became of Frodo's story.
+
+==Composition==
+The chapter is the 13th of the published ''Fellowship'', but during writing it was "Chapter 12" of the work so far.<ref>{{HM|RC}}, p. lxxiii</ref> The "Chapter 12" was completed by the end of [[1938]].<ref>{{L|35}}</ref><ref group=note>In [[The Lord of the Rings Foreword]] (second edition, [[1966]]) Tolkien claims that "the tale had not yet reached the end of Book One" by [[1939]], but this seems to be a mistake while recollecting his writing process.</ref>
+
+The chapter was revised around [[1940]]-[[1941]], when Tolkien decided that [[Aragorn]] was the [[Heir of Elendil]], and Bilbo's telling to Frodo of Aragorn's background was added at that stage; there are also early versions of the ''[[Eärendillinwë]]'' (evolved from the earlier ''[[Errantry]]'').<ref>{{HM|RC}}, p. xxiii</ref>
+
+{{references|n}}
+[[Category:The Fellowship of the Ring chapters]]

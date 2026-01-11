@@ -1,0 +1,83 @@
+{{short description|2003 biography by John Garth}}
+{{book
+| title=Tolkien and the Great War: The Threshold of Middle-earth
+| image = Great War 2003.png
+| author=[[John Garth]]
+| publisherUK=[[HarperCollins]]
+| publisherUS=[[Houghton Mifflin]]
+| date=October [[2003]]
+| format=Hardcover; paperback
+| pages=416
+| isbn=0007119526
+| precededby=[[The History of Middle-earth Index]] (2002)
+| followedby=[[The Lord of the Rings: A Reader's Companion]] (2005)
+}}
+'''''Tolkien and the Great War: The Threshold of Middle-earth''''' is a biography book by [[John Garth]], first published in [[2003]]. This book looks into [[J.R.R. Tolkien]]'s early life, examining more specifically the influence of the [[World War I|Great War]] on Tolkien and his writings.
+
+The book was warmly welcomed by Tolkien scholars as filling in an important gap in biographical coverage. Christian scholars too admired the book, though [[Ralph C. Wood]] thought that it underplayed the importance of [[Christianity|Tolkien's Christianity]]. The book was called "plodding" by Tolkien's biographer, [[Humphrey Carpenter]],<ref>[https://alt.fan.tolkien.narkive.com/HRvnBGEu/humphrey-carpenter-reviews-tolkien-and-the-great-war Humphrey Carpenter reviews "Tolkien and the Great War"] archived on narkive.com (accessed 23 April 2024)</ref> but praised by other commentators.
+
+The book won the 2004 [[Wikipedia:Mythopoeic Awards|Mythopoeic Scholarship Award in Inklings Studies]].
+
+The book contains reprints of passages from early poetry by Tolkien, among them the full text of the poem "''[[The Lonely Isle]]''", originally published in ''[[Leeds University Verse 1914-24]]'' in [[1924]]. There are also numerous quotes from unpublished correspondence between Tolkien, [[Christopher Wiseman]], [[Robert Quilter Gilson|R.Q. Gilson]], and [[Geoffrey Bache Smith|G.B. Smith]].
+
+==Contents==
+*Preface
+
+*Part One: ''The immortal four''
+**Prologue
+**1. Before
+**2. A young man with too much imagination
+**3. The Council of London
+**4. The Shores of Faërie
+**5. Benighted wanderers
+**6. Too long in slumber
+
+*Part Two: ''Tears unnumbered''
+**7. Larkspur and Canterbury-bells
+**8. A bitter winnowing
+**9. "Something has gone crack"
+**10. In a hole in the ground
+
+*Part Three: ''The Lonely Isle''
+**11. Castles in the air
+**12. Tol Withernon and Fladweth Amrod
+**Epilogue: "A new light"
+
+*Postscript: "One who dreams alone"
+*Notes
+
+==From the publisher==
+{{blockquote|Acclaimed as ‘the best book about Tolkien’, this award-winning biography explores J.R.R. Tolkien’s wartime experiences and their impact on his life and his writing of The Hobbit and The Lord of The Rings.<br><br>
+“To be caught in youth by 1914 was no less hideous an experience than in 1939 … by 1918 all but one of my close friends were dead.”<br><br>
+So J.R.R. Tolkien responded to critics who saw The Lord of the Rings as a reaction to the Second World War. Tolkien and the Great War tells for the first time the full story of how he embarked on the creation of Middle-earth in his youth as the world around him was plunged into catastrophe. This biography reveals the horror and heroism that he experienced as a signals officer in the Battle of the Somme and introduces the circle of friends who spurred his mythology to life. It shows how, after two of these brilliant young men were killed, Tolkien pursued the dream they had all shared by launching his epic of good and evil.<br><br>
+John Garth argues that the foundation of tragic experience in the First World War is the key to Middle-earth’s enduring power. Tolkien used his mythic imagination not to escape from reality but to reflect and transform the cataclysm of his generation. While his contemporaries surrendered to disillusionment, he kept enchantment alive, reshaping an entire literary tradition into a form that resonates to this day.<br><br>
+This is the first substantially new biography of Tolkien since 1977, meticulously researched and distilled from his personal wartime papers and a multitude of other sources.}}
+
+==Publication history and gallery==
+<gallery mode="traditional" widths="125px" heights="125px">
+File:Great War 2003.png|2003 hardcover
+File:Great War 2004.png|2004 paperback
+File:Great War 2011.png|2004 paperback<br>?th impression
+</gallery>
+*[[HarperCollins]] hardcover ([[2003]]), pp.&nbsp;416. ISBN 0007119526
+*[[HarperCollins]] paperback ([[2004]]), ISBN 0007119534
+**2004 edition ?th impression ([[2011]]) paperback
+
+==See also==
+*''[[J.R.R. Tolkien: A Biography]]''
+*''[[The Inklings (book)]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+*Brian Rosebury, [https://muse.jhu.edu/article/182570 Review of the book], [[Tolkien Studies: Volume 2|Tolkien Studies. 2]]
+*[http://www.johngarth.co.uk/php/tolkien_and_the_great_war.php Tolkien and the Great War] on [http://www.johngarth.co.uk/php/tolkien_and_the_great_war.php John Garth's website]
+*[http://johngarth.wordpress.com/2016/12/09/tanks-at-gondolin/ Tanks at Gondolin] (excerpt from ''Tolkien and the Great War'')
+
+{{title|italics}}
+{{publishedmajorbooks}}
+[[Category:Biography books]]
+[[Category:Publications by title]]
+[[Category:Scholarly books]]
+[[Category:World War I]]

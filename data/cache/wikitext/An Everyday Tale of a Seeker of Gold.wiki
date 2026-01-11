@@ -1,0 +1,18 @@
+{{expansion}}
+{{video game infobox
+| image=An Everyday Tale of a Seeker of Gold.png
+| name=An Everyday Tale of a Seeker of Gold
+| developer=[[Zenobi Software]]
+| publisher=[[Zenobi Software]]
+| platform=[[wikipedia:ZX Spectrum|ZX Spectrum]]<ref name="El Anillo">[http://www.meristation.com/v3/des_articulo.php?pic=CON&id=2254&idj=&idp=&tipo=art&c=1&pos=4 Meristation, El Anillo interactivo] p. 5 (retrieved 27 October 2010)</ref>
+| releasedate=[[1986]]
+| genre=Text-adventure
+}}
+'''''An Everyday Tale of a Seeker of Gold''''' is a Text-Adventure made by [[John Wilson]]<ref name="El Anillo" /><ref>[http://www.worldofspectrum.org/infoseek.cgi An Everyday Tale of a Seeker of Gold] at [[wikipedia:World of Spectrum|World of Spectrum]]</ref>. Together with ''[[Bulbo and the Lizard King]]'' and ''[[Fuddo and Slam]]'' it formed [[the Balrogian Trilogy|''The Balrogian Trilogy'']].<ref name="Tolkien Games" /> It is the prequel to ''[[Retarded Creatures and Caverns]]''.<ref name="El Anillo" /><ref name="Tolkien Games" />
+
+The game is a parody of the 1982 video game ''[[The Hobbit (1982 video game)|The Hobbit]]''.<ref name="Tolkien Games">[http://www.lysator.liu.se/tolkien-games/entry/seeker.html An Everyday Tale of a Seeker of Golder] at Tolkien Games (retrieved 27 October)</ref> It was originally supposed to be called ''The Boggit,'' but [[Delta 4 Software]] had already released [[The Boggit|a game with that name]], so Wilson changed the title.
+
+{{References}}
+{{title|italics}}
+[[Category:Text-Adventure video games]]
+[[Category:ZX Spectrum games]]

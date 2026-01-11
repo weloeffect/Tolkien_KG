@@ -1,0 +1,74 @@
+{{short description|Swedish made-for-tv adaptation of The Fellowship of the Ring}}
+{{film infobox
+| name=Sagan om Ringen
+| image=Sagan om Ringen Title Card.png
+| caption=
+| director=	
+| writer= [[Sören Erlandsson]]
+| screenplay=
+| basedon=''[[The Fellowship of the Ring]]''
+| producer=[[Urban Lasson]]
+| starring=
+| narrator=	[[Evan Storm]]
+| cinematography= [[Mette Möllar]]
+| editing=
+| music=[[Bo Hansson]]
+| animator=
+| studio=Sveriges television
+| distributor=SVT1
+| released=1971
+| runtime=28 minutes
+| country= Sweden
+| language= Swedish
+| budget=
+| gross=
+| website=
+| imdb_id=9810254
+}}
+{{Quote|A story from [[J.R.R. Tolkien|Tolkien's]] ‘[[The Lord of the Rings]]’ presented for children with original music by [[Bo Hansson]] and illustrations by [[Peter Lindblom.]]<ref>{{webcite|articleurl=https://www.svtplay.se/sagan-om-ringen|articlename=Sagan om Ringen | SVT Play|website=[https://www.svtplay.se/]}}</ref>|SVT Play description}}
+'''Sagan om Ringen''' is a Swedish movie adaption of [[The_Fellowship_of_the_Ring|The Fellowship of the Ring]]. The movie primarily follows [[Frodo Baggins|Frodo's]] jouney from [[The Shire|the Shire]] to the Fellowship's departure from [[Rivendell]].<ref>Sveriges Television, Sagan om Ringen, 1971</ref> 
+
+Notably, the film was produced due to the success of [[Bo Hansson]]'s [[Sagan om Ringen (album)|Sagan om Ringen]] or Music Inspired by Lord of the Rings. Hansson created the music for the film.
+
+Scenes with actors were filmed in front of a blue screen and the actors were composited into hand-painted backgrounds, created by [[Peter Linblom]], for the final product. 
+
+==Cast==
+{| class="wikitable"
+|- style="background: var(--tg-color-surface-2);" 
+!Actor!!Role
+|-
+|[[Evan Storm]]||Narrator
+|-
+|}
+
+
+==Crew==
+{| class="wikitable"
+|- style="background: var(--tg-color-surface-2);" 
+!Name!!Role
+|-
+|[[J.R.R. Tolkien]]||Original Writer
+|-
+|[[Sören Erlandsson]] <small>(credited as Soren Erlandsson)</small>||Adaptation
+|-
+|[[Bo Hansson]]||Music
+|-
+|[[Peter Linblom]]||Art
+|-
+|[[Mette Möllar]]||Scenography
+|-
+|[[Urban Lasson]]||Producer
+|}
+
+==Differences from the source material==
+* [[Bilbo Baggins|Bilbo's]] [[Bilbo's Farewell Party|party]] is a dinner attended by only the central [[Hobbits]] and [[Gandalf]]. 
+* The [[Conspirators|Conspiracy]] and [[Crickhollow]] are omitted. 
+* [[Elrond]] is given the title ''alvkungen'' or ''The [[Elves|Elf]] King.'' The book gives him the title ''Lord of [[Rivendell]].''
+* The [[Barrow-downs]] and [[Barrow-wights]] are omitted.
+* [[Boromir]] is omitted. Despite the narrator mentioning that the [[Fellowship of the Ring]] has nine members, only eight are listed. 
+==See also== 
+*[[:Category:Images from Sagan om Ringen (1971 film)|Images from Sagan om Ringen (1971 film)]]
+
+{{References}}
+{{Screen}}
+[[Category:Films]]

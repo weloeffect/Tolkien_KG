@@ -1,0 +1,53 @@
+{{anglosaxon infobox
+| name=Ælfheah
+| image=
+| caption=
+| people=[[wikipedia:Anglo-Saxons|Anglo-Saxon]]
+| pronun=
+| othernames=''the fatherless''<ref name="Elf"/>
+| titles=
+| position=Mariner
+| location=[[wikipedia:England|England]]
+| affiliation=[[Ælfwine]]
+| language=[[Old English]]
+| birth=
+| birthlocation=
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=
+| parentage=
+| siblings=
+| spouse=
+| children=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Ælfheah''' was one of the seven companions of [[Ælfwine]] on his voyages, according to the early version of the [[legendarium]] in the text called ''[[Ælfwine of England]]'' from ''[[The Book of Lost Tales]]'', and the only one whose name was remembered afterwards.<ref name="Elf">{{LT2|VIb}}, pp. 315-6</ref>
+
+== History ==
+After much voyaging and searching for the [[Tol Eressëa|Island of the Elves]], Ælfheah was the one who advised Ælfwine to put an end to his quest and return to his home; however, soon after they spotted the lights coming from the West in [[Tol Eressëa]] - but a strong westerly wind pushed them back eastwards, except Ælfwine who jumped out of the ship and swam toward the isle.<ref>{{LT2|VIb}}, pp. 320-1</ref>
+
+Ælfheah's final fate is uncertain, but he most likely died at sea, since it was said of all the seven companions of Ælfwine that eventually "[[Ulmo]] Lord of the Sea afterward took them to himself".<ref name="Elf"/>
+
+== Etymology ==
+The name ''Ælfheah'' is in [[Old English]] and consists of the elements ''ælf'' ("elf") + ''heah'' ("high").<ref>{{webcite|website=Behind the Name|articlename=Ælfheah|articleurl=http://www.behindthename.com/name/ae32lfheah}}</ref>
+
+== Other names ==
+An earlier name for the character was ''Gelimer'', possibly being a latinization of a [[wikipedia:Vandalic language|Vandalic]] name (exemplified by the King of the Vandals and Alans [[wikipedia:Gelimer|Gelimer]]),<ref>{{LT2|VIb}}, note 40, p. 332</ref> deriving from the [[wikipedia:Proto-Germanic language|Proto-Germanic]] ''gailaz'' ("merry") + ''mērijaz '' ("famous, renowned").<ref>{{webcite|website=Wiktionary|articlename=Gelimer|articleurl=http://en.wiktionary.org/wiki/Gelimer}}</ref>
+
+The name ''Gelimer'' was itself a change from an earlier form ''Helgor''.<ref>{{LT2|VIb}}, ''Changes made to names, and differences in names, in the texts of Ælfwine of England'', p. 334</ref>
+
+{{references}}
+{{DEFAULTSORT:Aelfheah}}
+[[Category:Anglo-Saxons]]
+[[Category:Characters in The Book of Lost Tales]]
+[[Category:Mariners]]
+[[Category:Old English names]]

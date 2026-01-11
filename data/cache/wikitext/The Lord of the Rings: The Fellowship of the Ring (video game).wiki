@@ -1,0 +1,174 @@
+{{expansion}}{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{disambig-more|The Fellowship of the Ring|[[The Fellowship of the Ring (disambiguation)]]}}
+{{video game infobox
+| image = Vivendi's The Lord of the Rings- The Fellowship of the Ring box.png
+| name=The Lord of the Rings: The Fellowship of the Ring
+| developer=[[Surreal Software]] (PS2, Windows)<br />[[The Whole Experience]] (Xbox)<br />[[Pocket Studios]] (GBA)
+| publisher='''Xbox, PlayStation 2'''<br/>[[Black Label Games]]
+
+'''PC'''<br/>[[wikipedia:North America|NA]]: [[Black Label Games]]<br/>[[wikipedia:Europe|EU]]: [[Vivendi Universal]]
+
+'''Game Boy Advance'''<br/>[[wikipedia:North America|NA]]: [[Sierra Entertainment]]<br/>[[wikipedia:Europe|EU]]: [[Vivendi Universal]]
+| platform=[[wikipedia:Game Boy Advance|Game Boy Advance]]<br/>[[wikipedia:Microsoft Windows|Microsoft Windows]]<br/>[[wikipedia:PlayStation 2|PlayStation 2]]<br/>[[wikipedia:Xbox|Xbox]]
+| releasedate=
+'''Game Boy Advance'''<br/>[[wikipedia:North America|NA]]: [[24 September]] [[2002]]<br/>[[wikipedia:Europe|EU]]: [[8 November]] [[2002]]
+
+'''Xbox'''<br/>[[wikipedia:North America|NA]]: [[26 September]] [[2002]]<br/>[[wikipedia:Europe|EU]]: [[8 November]] [[2002]]
+
+'''PlayStation 2'''<br/>[[wikipedia:North America|NA]]: [[16 October]] [[2002]]<br/>[[wikipedia:Europe|EU]]: [[6 December]] [[2002]]
+
+'''Microsoft Windows'''<br/>[[wikipedia:North America|NA]]: [[22 October]] [[2002]]<br/>[[wikipedia:Europe|EU]]: [[8 November]] [[2002]]
+| genre=Action-Adventure
+|}}'''The Lord of the Rings: The Fellowship of the Ring''' is the title for a set of similar [[2002]] video games published by [[Vivendi Universal]], produced for four platforms by three developers. Though its title is similar to that of [[The Lord of the Rings: The Fellowship of the Ring|Peter Jackson's movie]], it is based on the book rather than the movie. 
+
+==Synopsis==
+===Introduction===
+The game opens with a voice-over from Galadriel, who provides background of the events leading up to the War of the Ring. 
+
+The introduction ends with a cutscene showing Gandalf the Grey arriving at Bag End to discuss the One Ring with Frodo Baggins.
+
+===The Shire===
+;Hobbiton
+Frodo decides he must leave the Shire, and sell [[Bag End]] to [[Lobelia Sackville-Baggins]]. He performs various tasks around the village; such as repairing Hal Hornblower's weather-vane, and fixing [[Ted Sandyman]]'s mill.
+;Bywater
+Frodo offers the deed of Bag End to Lobelia. However, she initially refuses to speak to Frodo until he rings the town bell to inform Robin Smallburrow that wolves are in the Shire. After he does so, he manages to sell her the deed.
+;Green Hill Country
+Though optional, Frodo may choose to find medicinal herbs for [[Old Noakes]], that were scattered by the mischievous [[Sancho Proudfoot]]. However, some of these herbs are found on the Maggot family's farm, and Frodo must avoid being detected by Farmer Maggot's dogs.
+;Night Hobbiton<ref name="save">So called in the game's [[wikipedia:Saved game|.rsg]]-files.</ref>
+After Frodo returns to Bag End and takes the One Ring from its hiding place, he goes down to the Gaffer's home the following night to give him the key. He overhears a conversation between him and a mysterious Black Rider, who is searching for Baggins. Frodo, after giving the Gaffer the key, must sneak out of Hobbiton without being detected by the Black Riders that patrol the streets. 
+;Night Bywater<ref name="save"/>
+Frodo rescues a terrified Robin Smallburrow from a white wolf, before proceeding with haste to Green Hill Country.
+;Night Green Hill<ref name="save"/>
+Frodo must sneak past the Black Riders in order to reach Merry, Pippin and Sam at Bamfurlong. Upon arriving, the four are confronted by Farmer Maggot who offers them safe passage to the Old Forest.
+
+===The Old Forest===
+;Forest Labyrinth
+Frodo must find [[Meriadoc Brandybuck|Merry]], [[Samwise Gamgee|Sam]] and [[Peregrin Took|Pippin]] who have lost themselves among the moving trees of the Old Forest, while battling [[spiders]].
+;Withywindle Path
+Frodo finds Merry and Pippin taken by [[Old Man Willow]]. After [[Tom Bombadil]] arrives on the scene to rescue them, he asks Frodo to help him gather lilies for [[Goldberry]]. Along the way, more spiders emerge. As a reward, he takes the Hobbits to his house, where they can recuperate.
+;The Barrow-downs
+Frodo's companions are again lost and Frodo has to find them in the fog of the wight-haunted downs. In the final barrow Frodo finds his new weapon, one of the [[Daggers of Westernesse]]. Though the quest log tells the player this knife is necessary to defeat the Barrow-wight that serves as a [[wikipedia:Boss (video games)|boss]], throwing many rocks at him from the safety of an elevated part does the trick too. After "defeating" the wight, Frodo decides to sing a song taught to him by Tom Bombadil, who emerges and sings the wight away. He gives them more daggers, and tells them to stay the night at ''[[The Prancing Pony]]''.
+===Bree===
+;The Prancing Pony
+Frodo and the others enter the Prancing Pony Inn, and check in with [[Barliman Butterbur]]. During this time, Frodo is free to interact with [[Aragorn|Strider]], [[Bill Ferny]], and other patrons of the inn. After an "accident" where Frodo accidentally puts on the One Ring in front of the patrons, Strider reveals his identity as Aragorn to the Hobbits, and tells them they are in danger.
+;Town of Bree
+It is apparent that Merry is missing and gameplay switches to Aragorn. After searching for Merry on the moonlit streets of Bree, he then hunts for objects to construct Hobbit decoys to fool the Nazgûl who are still on their trail, battling wolves and ruffians along the way.
+
+===Weathertop===
+;Weathertop Hill
+After spotting lightning at the pinnacle of [[Weathertop]], Aragorn escorts Frodo and Sam to the summit. On the way [[Wargs]] and [[Orcs]] are first introduced into the game. At the summit of the hill, Aragorn discovers signs of a struggle, and a rune bearing the letter "G" and a "3". Soon after he is attacked by a [[troll]]. After defeating the troll, Frodo notices [[Nazgûl|Black Riders]] on the [[East Road]], and they head back to the encampment.
+;A Knife in the Dark
+In a cut-scene, Frodo is stabbed by the [[Witch-king]], and Aragorn must prevent the Nazgûl from stabbing Frodo even more, fighting them off with a fire-brand. 
+;Troll Shaws
+Aragorn must clear the area of enemies including orcs, wargs and several trolls. Once all enemies are defeated [[Glorfindel]] appears; he sends Frodo away on [[Asfaloth]]. After his stance at the [[Ford of Bruinen]], Frodo collapses.
+
+===Rivendell===
+;House of Elrond
+Frodo wakes in Rivendell, and meets Gandalf. After the [[Council of Elrond]], [[Bilbo Baggins]] gives Frodo [[Sting]] and the ''[[mithril]]'' shirt; [[Arwen]] gives Aragorn [[Andúril]]. Both merely serve as weapon upgrade.
+===Moria===
+;Hollin Ridge
+The Fellowship take refuge on the Hollin Ridge before making their way to the doors of Moria. Taking control of [[Gandalf]], the player must defeat Wargs and Orcs to clear the way in order to progress. The player then takes control of Aragorn, who protects Gandalf from the [[Watcher in the Water]]. 
+;Labyrinth
+The player once again takes control of Gandalf, who journeys through the dark passageways of Moria with the aid of [[Gimli]]. Along the way, they battle Orcs and cave-trolls. During the journey, Gollum briefly spies on them from the shadows.
+;3 Passages
+Still playing as Gandalf, the player must manipulate a beam of light by moving mirrors around a chamber, while the rest of the Fellowship fends off an attack by two large cave-trolls. The beam of light opens a number of doors; behind which awaits the Chamber of Mazarbul and Balin's Tomb. Once they enter the chamber, a cutscene triggers, and Orcs swarm into the room.
+;2nd Hall
+Frodo and Gimli find themselves separated from the rest of the Fellowship, and must fight their way through the [[Second Hall]]. The player controls Frodo, who has to pull several levers to connect bridges and open the main door. Though most of the fighting can be left to Gimli, some foes - several archers, some orcs - are outside his reach, and have to be avoided or killed by Frodo. 
+;Abyss Fight
+Gandalf fights the Balrog. The Balrog can only be stunned by the spell of lightning, after which Gandalf has to hit him with Glamdring. One hit from the Balrog's sword, however, is lethal.
+
+===Lothlórien===
+;Lothlórien Forest
+The Fellowship arrive in Lothlórien and receive gifts from Lady Galadriel. Frodo foresees the Scouring of the Shire in Galadriel's mirror.
+
+===River Anduin===
+;Orc Dam
+After leaving Lothlórien, the Fellowship finds the river [[Anduin]] blocked by a dam. They seek the shore, and Aragorn, Legolas, Gimli and Boromir have to clear it before they can portage the boats. They have to beat two trolls, several archer orcs, and [[Uruk-Hai]], who are first seen in this level.
+;Amon Hen
+The player again takes control of Aragorn and has to defeat a Nazgûl riding a Fell Beast, who has mistakenly abducted Sam instead of Frodo. Aragorn, aided by Legolas and Frodo, then has to fight through brigades of Uruks, Wargs, and Trolls, before battling the Winged Nazgûl at the ruins of [[Amon Hen]]. There is also a secret area in this stage, where Gollum will appear and offer Aragorn a "present": a swordfish, which is also the most powerful weapon in the game.
+;Final Cut Scene
+The Fell Beast is shot out of the sky by Legolas, and then the game ends with narration by [[Galadriel]], who talks about how Frodo and Sam leave the Fellowship to journey to Mordor, closely followed by Gollum.
+
+==GBA version==
+In contrast to the PC and console versions, the GBA version is an RPG with turn-based combat. One thing unique about this version is that all nine members of the Fellowship are playable once they join the party, and are all present during combat mode (unlike certain other RPGs, where available party members are limited to a certain number at any given time).
+
+All encounters that would serve as viable boss battles (the Ringwraiths, the Watcher in the Water, the Balrog) are reduced to, and resolved in, short slideshows with no interactivity. Much like the SNES title ''[[J.R.R. Tolkien's The Lord of the Rings, Vol. I]]'', much emphasis is put into exploration and side-quests. There are also several puzzles that are required to complete in order to progress ahead.
+
+The gameplay, unfortunately, suffers from many bugs and glitches ranging from beneficial ones such as duplicating items to game-breaking ones such as important items not spawning when they should or rooms that were accidentally left incomplete and inescapable by the programmers.
+
+==Cancelled Sequel==
+A sequel was planned for this game, and was to be titled ''[[The Lord of the Rings: The Treason of Isengard]]''. The game was in development, but was cancelled before its release.<ref>''[http://www.theonering.net/torwp/2003/09/12/8480-gaming-treason-of-isengard-axed/ GAMING: Treason of Isengard axed]'', [http://www.theonering.net/torwp/ TheOneRing.net], [[12 September|September 12]], [[2003]]</ref>
+
+==Cast of characters==
+===Credited===
+{{scroll box
+|content=
+<gallery>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Frodo Baggins and the One Ring.JPG|<center>[[Frodo Baggins]] <br> [[Steve Staley]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Gandalf.JPG|<center>[[Gandalf]] <br> [[Tom Kane]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Aragorn.JPG|<center>[[Aragorn]] <br> [[Daran Norris]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Samwise Gamgee.JPG|<center>[[Samwise Gamgee]] <br><small>[[Scott Menville]]/[[Cliff Broadway]]</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Peregrin Took.JPG|<center>[[Peregrin Took]] <br> [[James Arnold Taylor]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Meriadoc Brandybuck.JPG|<center>[[Meriadoc Brandybuck]]<br>[[Quinton Flynn]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Boromir.jpg|<center>[[Boromir]]<br>[[James Horan]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Gimli.JPG|<center>[[Gimli]]<br>[[James Horan]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Legolas.JPG|<center>[[Legolas]]<br>[[Michael Reisz]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Gollum.JPG|<center>[[Gollum]]<br>[[Quinton Flynn]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Galadriel.JPG|<center>[[Galadriel]]<br>[[Jennifer Hale]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Tom Bombadil.JPG|<center>[[Tom Bombadil]]<br>[[Daran Norris]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Goldberry.jpg|<center>[[Goldberry]]<br>[[Kath Soucie]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Celeborn.jpg|<center>[[Celeborn]]<br>[[Steve Staley]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Elrond.JPG|<center>[[Elrond]]<br>[[Jim Piddock]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Bilbo Baggins.JPG|<center>[[Bilbo Baggins]]<br>[[Jim Piddock]]</center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Lobelia Sackville-Baggins.JPG|<center>[[Lobelia Sackville-Baggins]]<br>[[Jennifer Hale]]</center>
+</gallery>
+}}
+
+===Uncredited===
+{{scroll box
+|content=
+<gallery>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Arwen.JPG|<center>[[Arwen]]<br>[[Kath Soucie]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Angelica Baggins.png|<center>[[Angelica Baggins|Angelica]]<br>[[Kath Soucie]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Rosie Cotton.JPG|<center>[[Rose Cotton]]<br>[[Jennifer Hale]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Robin Smallburrow.JPG|<center>[[Robin Smallburrow]]<br>[[James Arnold Taylor]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Minto Burrows.png|<center>[[Minto Burrows]]<br>[[James Arnold Taylor]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Nali.png|<center>[[Nali (video game character)|Nali]]<br>[[Tom Kane]] <small>''(uncredited)''</small></center>
+File:Image-missing.svg|<center>[[Harry Goatleaf]]<br>[[Tom Kane]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Milo Burrows.png|<center>[[Milo Burrows]]<br>[[Michael Reisz]] <small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Gaffer Gamgee.JPG|<center>[[Gaffer Gamgee|Hamfast Gamgee]]<br>[[Jim Piddock]]<small> ''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Daddy Twofoot.png|<center>[[Daddy Twofoot]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Nob.JPG|<center>[[Nob]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Sancho Proudfoot.png|<center>[[Sancho Proudfoot]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Glorfindel.JPG|<center>[[Glorfindel]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Barliman Butterbur.JPG|<center>[[Barliman Butterbur]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Bill Ferny.JPG|<center>[[Bill Ferny]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Lotho Sackville-Baggins.JPG|<center>[[Lotho Sackville-Baggins]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Ted Sandyman.JPG|<center>[[Ted Sandyman]]<br>[[Quinton Flynn]]<small>''(uncredited)''</small></center>
+File:Image-missing.svg|<center>Hal Hornblower<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Mugwort.JPG|<center>[[Mugwort]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Old Noakes.png|<center>[[Old Noakes]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Farmer Maggot.JPG|<center>[[Farmer Maggot]]<br><small>''(uncredited)''</small></center>
+File:Image-missing.svg|<center>[[Haldir]]<br><small>''(uncredited)''</small></center>
+File:The Lord of the Rings - The Fellowship of the Ring (video game) - Nazgul.JPG|<center>[[Nazgûl|Black Rider]]<br><small>''(uncredited)''</small></center>
+</gallery>
+}}
+
+==See also==
+* [[:Category:Images from The Lord of the Rings: The Fellowship of the Ring (video game)|Images from The Lord of the Rings: The Fellowship of the Ring (video game)]]
+
+== External links ==
+* [http://www.mobygames.com/game/lord-of-the-rings-the-fellowship-of-the-ring The Lord of the Rings: The Fellowship of the Ring (video game)] at [http://www.mobygames.com/home MobyGames.com]
+* [[wikipedia:The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring (video game)]] at [[Wikipedia:Main Page|Wikipedia]]
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Fellowship of the Ring}}
+[[Category:Action games]]	
+[[Category:Adventure games]]
+[[Category:Game Boy Advance games]]
+[[Category:Microsoft Windows games]]
+[[Category:PlayStation 2 games]]
+[[Category:Vivendi games]]
+[[Category:Xbox games]]
+
+{{references}}
+{{Videogames}}

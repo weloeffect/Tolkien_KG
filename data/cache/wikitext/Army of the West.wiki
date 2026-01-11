@@ -1,0 +1,48 @@
+{{Disambig-more|Host of the West|[[Host of the West (disambiguation)]]}}
+{{Organization infobox
+|name=Army of the West
+| image = Ted Nasmith - The Shadow of Sauron.jpg
+|caption=The Army of the West at the Battle of the Morannon by Ted Nasmith
+|othernames=Host of the West
+|founded=[[16 March]] {{TA|3019}}
+|disbanded=[[8 May]] {{TA|3019}}<ref>{{Cite DTP|LR 6.05.106}}</ref>
+|purpose=March on the Black Gate
+|notablefor=Fighting the [[Battle of the Morannon]]
+|members=[[Aragorn]], [[Gandalf]], [[Gimli]], [[Legolas]], [[Pippin]], [[Elladan]], [[Elrohir]], [[Éomer]], Knights of [[Dol Amroth]], [[Rohirrim]], [[Rangers of the North]]
+}}
+
+The '''army of the West''', also called the '''Host of the West''', was the great host prepared by the Lords of [[Gondor]] and [[Rohan]] to march on the [[Black Gate]] after the [[Battle of the Pelennor Fields]].  
+
+==History==
+===Formation===
+Creating the Host of the West was first suggested by [[Gandalf]] in the [[Last Debate]]. The rationale behind this suggestion was that, although [[Sauron]] could not be defeated with arms, they could draw out the army of [[Mordor]], making it easier for [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] to reach [[Mount Doom]] undetected.<ref name=":0">{{RK|V9}}, pp. 878-82</ref> Whether or not they should attempt to assail [[Minas Morgul]] was a subject of debate, but Gandalf argued strongly against this, as the minds of men turned to madness and horror at Minas Morgul and would risk drawing the [[Eye of Sauron]] near Frodo and Sam.<ref>{{RK|V10}}, pp. 884-5</ref> It was decided that a host of 7,000 men, if that many could be found, would depart in two days.<ref name=":0" />  
+
+===Journey from Minas Tirith to Morannon===
+On [[18 March]] of {{TA|3019|}}, a force of 7,000 men gathered on the Pelennor Fields and left [[Minas Tirith]], beginning the six-day journey. Under [[Aragorn]] there were 2,000 of those who sailed with him up the [[Anduin]]; under [[Imrahil]] were 3,500 (probably from among the original defenders of the city); under [[Éomer]] were 500 [[Rohirrim]] unhorsed, and another 500 horsed; and lastly another 500 horsed Knights of [[Dol Amroth]], [[Rangers of the North]], and the two sons of [[Elrond]], [[Elladan]] and [[Elrohir]]: in total, 6,000 on foot and 1,000 on horse.<ref name=":0" /> Gandalf, [[Legolas]] and Aragorn were part of the host, as well as [[Gimli]] and [[Peregrin Took|Pippin]], representing the races of [[Dwarves]] and [[Hobbits]]. Much to his disappointment, [[Meriadoc Brandybuck|Merry]] was disallowed from going.<ref>{{RK|Gate}}, p. 883</ref>
+
+By noon the army had reached [[Osgiliath]], which was in the process of being rebuilt. The vanguard continued for five miles further before stopping for the day, while the horsemen pressed on and reached the [[Cross-roads]]. At the Cross-roads, the captains stationed a strong force of archers there to guard against any attack from the East or South.<ref>{{RK|V10}}, p. 884</ref> The next day, Aragorn and Gandalf, along with the vanguard, rode ahead and reached [[Morgul Vale]].<ref>{{RK|Gate}} p. 885</ref>
+
+On the third day, the host left the Cross-roads, leaving behind the force of archers to defend the Cross-roads. They encountered a force of [[Orcs]] and [[Easterlings]] attempting to ambush them. Having been warned by their scouts, they were able to easily defeat the force, though Aragorn felt that the purpose of the army had been to give the host a false impression of the enemy's weakness rather than hurt them. From the evening onward, the host was followed by the eight remaining [[Nazgûl]].<ref>{{RK|V10}}, pp. 887-8</ref> 
+
+On [[23 March]], the Army exited [[Ithilien]], and along the way some faint-hearted men who would not approach the Black Gate were dismissed and commanded to liberate [[Cair Andros]]. Between these men and the men left at the Cross-roads, over 1,000 were lost, leaving the army less than 6,000 strong. The [[24 March|next day]], the same day that Sam and Frodo reached the foot of Mount Doom,<ref>{{app|B3}}</ref> they finally reached the [[Desolation of the Morannon]], camping there as they waited for an answer to their challenge.<ref>{{RK|Gate}}, p. 887</ref>
+
+===Battle of the Morannon===
+On [[25 March]], with no response from Mordor, the host assembled and marched to the Black Gate, demanding that the Lord of the Black Land come forth so that justice could be done upon him. The Black Gate was thrown open and an embassy from the [[Barad-dûr|Dark Tower]] rode out, led by the [[Mouth of Sauron]]. The Mouth of Sauron showed them items belonging to Sam and Frodo and relayed to them his lord's terms. After rejecting these terms, a great host came through the Black Gate, thus beginning the [[Battle of the Morannon]].<ref name=":1">{{RK|Gate}}, pp. 891-2</ref>
+
+The host was quickly trapped as the army of Mordor<ref group="note">The forces of Mordor, [[Rhûn]], and [[Harad]] together had "ten times and more than ten times" the number of the Western host, which consisted of less than 6,000. Therefore, there were little over 60,000 forces of evil deployed by [[Sauron]].</ref> swarmed them from all sides of the Slag-hills. They fought Orcs, hill-trolls, [[Easterlings]], [[Haradrim|Southrons]], and the Nazgûl. Despite being vastly outnumbered and surrounded, the host fought well and was able to hold their own long enough.<ref name=":1" /> When Frodo put on the One Ring, Sauron's attention was drawn away from the battle and the Nazgûl left the battle. The army of Mordor was left without the direction of the Nazgûl and the host was able to repel their attackers. The battle ended when the One Ring was destroyed by Frodo. The Orcs and other creatures of Sauron were completely directionless with the Dark Lord's demise and fled mindlessly; some falling into pits, others outright killing themselves, and many fleeing. The Host of the West was able to achieve a very decisive victory.<ref>{{RK|Cormallen}}, p. 949</ref> It is not told how many casualties the army suffered.
+
+===Disbandment===
+After the victory at the Battle of the Morannon the host headed south, and set up camp on the [[Field of Cormallen]]. There Aragorn healed the exhausted Frodo and Sam following their rescue from the wreck of [[Mount Doom]] and put them in a long sleep. On [[8 April]] after waking up from their long rest the Ringbearers were received and praised before the Host of the West in a celebration of the victory in the [[War of the Ring]].<ref>{{Cite DTP|LR 6.04.034}} p. 952</ref>
+
+The host then rested there for many days, though some of their forces continued battling remnants of the Easterlings and Southrons until they were fully defeated. Some of the host even passed into Mordor to destroy fortresses in the north of the land.<ref>{{Cite DTP|LR 6.04.075}} p. 957</ref> By the end of April all forces had returned to camp and they begun their journey back toward Minas Tirith. They arrived at the city on last day of April, and the next morning on [[1 May]] Aragorn was crowned King before the gates of the city and the great host.<ref>{{Cite DTP|LR 6.05.090}} p. 968</ref>
+
+On [[8 May]] [[Éomer]] departed with the [[Riders of Rohan|his forces]] to return to [[Rohan]], whilst at the same time all others that dwelt far from the city returned to their homes, effectively disbanding the Host of the West.<ref>{{Cite DTP|LR 6.05.106}} p. 969</ref>
+
+== Portrayal in adaptations ==
+'''2003: ''[[The Lord of the Rings: The Return of the King]]'':'''
+:The last debate includes King [[Théoden]], Legolas and Gimli with Imrahil, Elladan, and Elrohir absent. Aragorn suggests the creation of the Army of the West and Gandalf is initially doubtful that it will be successful. Before the Army leaves Aragorn looks into the [[Orthanc-stone|palantír.]] The journey from Minas Tirith to the black gate is not shown. When the Ring is destroyed the ground beneath the enemy's army crumbles and Sauron's army is no more.
+
+{{references|notes}}
+[[Category:Armies]]
+[[de:Heer des Westens]]
+[[fr:encyclo/personnages/armee de l ouest]]

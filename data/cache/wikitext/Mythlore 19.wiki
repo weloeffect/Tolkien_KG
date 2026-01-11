@@ -1,0 +1,64 @@
+{{mythlore
+|title=Mythlore 19
+| image = Mythlore_19.gif
+|editor=Gracia Fay Ellwood
+|publisher=[[Mythopoeic Society]]
+|date=Winter [[1979]]
+|format=Paperback
+|pages=47
+}}
+
+'''''Mythlore'' 19''' ([https://dc.swosu.edu/mythlore/vol6/iss1/ Volume 6, Issue 1]) is an issue of the ''[[Mythlore]]'' journal, published by the [[Mythopoeic Society]].
+
+==Contents==
+====Articles====
+* McGillis, Roderick F. “George Macdonald and the Lilith Legend in the Nineteenth Century.” 3-11.
+* Bisenicks, Dainis. “Children, Magic, and Choices.” 13-16.
+* Lee, George. “And the Darkness Grasped It Not: The Struggle of Good and Evil in Charles Williams.” 18-20.
+* Thorson, Stephen. “A Brief Introduction to the History and Origin of the Holy Grail Motif.” 23-24.
+* Christopher, Joe R. “Sir Gawain’s Missing Day.” 39-41.
+* Lindskoog, Kathryn. “Getting It Together: Lewis and the Two Hemispheres of Knowing.” 43-45.
+
+====Features====
+
+* Speth, Lee. Cavalier Treatment: “A Quest for a King.” Review of ''The King of Alsander'' by James Elroy Flecker. 17.
+* Letters. 25.
+* Colvin, George. “Miscellany.” Review of “Forgotten Fantasy” series from Newcastle Publishing; Fantasy and SF criticism series from Borgo Press; ''Land of Heroes: A Retelling of the Kalevala'' by Ursula Synge; ''Quag Kep'' by Andre Norton; ''A Field Guide to the Little People'' by Nancy Arrowsmith and George Moore; ''Cloudy With a Chance of Meatballs'' by Judy Barrett. 30.
+* Christopher, Joe R. “Sayers and Ousby on Wilkie Collins.” Review of ''Wilkie Collins: A Critical and Biographical Study'' by Dorothy L. Sayers; ''Bloodhounds of Heaven: The Detective in English Fiction from Godwin to Doyle'' by Ian Ousby. 31-32.
+* Patterson, Nancy-Lou. “How Thin Is the Crust.” Review of ''The Dark Tower and Other Stories'' by C.S. Lewis. 32-33.
+* Patterson, Nancy-Lou. “Themes, Places, Beings, Things.” Review of ''The Mythology of Middle-earth'' by Ruth S. Noel. 33-35.
+* Ellwood, Robert S., Jr. “Of Pictures and Words.” Review of ''Faeries'' by Brian Froud and Alan Lee; ''Eschatus'' by Bruce Pennington. 35.
+* Walker, Steven C. “Tolkien According to Bakshi.” Review of ''The Lord of the Rings'', directed by Ralph Bakshi. 36.
+* Ziegler, Dale. “Ring-Wrath: Or Therein Bakshi Again.” Review of ''The Lord of the Rings'', directed by Ralph Bakshi. 37-38.
+* Ellwood, Gracia Fay. Editorial. 38.
+* Christopher, Joe R. “An Inklings Bibliography (8).” 46-47.
+
+====Poetry====
+
+* Christopher, Joe R. “Eowyn.” 20.
+* Christopher, Joe R. “The Piping Song.” 22.
+* Christopher, Saralinda. “Unicorns.” 42.
+
+====Art====
+
+* Elizabeth Best: 12, back cover
+* Tim Callahan: 25
+* Bonnie GoodKnight: 19, 28, 29, 34, 36, 40, 44*, 45
+* Annette Harper: 21
+* Michael Logan: Calligraphy: 20, 22, 42
+* Victoria de Nevyen: 14, 15, 16
+* Thadara Ottobris: cover, 4, 5, 8, 9, 47
+* Nancy-Lou Patterson: 32
+* John Pivovarnick: 11, 33
+* Christine Smith: 44*
+* Karl Whittenberg: 27
+* Cover: Thadara Ottobris, “Lilith.”
+* Back Cover: Elizabeth Best, “Minas Morgul.”
+* Page 12: Elizabeth Best, “Goldberry.”
+* Page ##: Victoria de Nevyen. “Menolly and the Fire Lizards.”
+* Page 32: Nancy-Lou Pattersom. “Wedding Island.”
+{{mythlorenav|18|20}}
+{{title|journal}}
+{{DEFAULTSORT:Mythlore 019}}
+
+[[Category:Mythlore]]
