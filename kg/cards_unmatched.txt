@@ -1,0 +1,1250 @@
+AS-1	Bûrat
+AS-3	Mîonid
+AS-4	Perchen
+AS-5	Tûma
+AS-6	Wûluag
+AS-7	Alatar the Hunter
+AS-8	Durin’s Folk
+AS-9	Dwarven Travelers
+AS-11	Gandalf the White Rider
+AS-12	Knights of the Prince
+AS-14	Lord of the Carrock
+AS-15	Lord of the Haven
+AS-16	Master of the House
+AS-17	Pallando the Soul-keeper
+AS-18	Radagast the Tamer
+AS-19	Saruman the Wise
+AS-20	Steward’s Guard
+AS-21	Stout Men of Gondor
+AS-22	Trolls from the Mountains
+AS-23	A Lie in Your Eyes
+AS-24	Alone and Unadvised
+AS-25	Come at Need
+AS-26	Early Harvest
+AS-28	Fealty Under Trial
+AS-29	FEAR! FIRE! FOES!
+AS-30	Full of Froth and Rage
+AS-31	Near to Hear a Whisper
+AS-32	One Foe to Breed a War
+AS-33	Pilfer Anything Unwatched
+AS-34	Power Built by Waiting
+AS-35	Returned Beyond All Hope
+AS-36	Ride Against the Enemy
+AS-37	Short Legs Are Slow
+AS-38	Slip Treacherously
+AS-39	Summons from Long Sleep
+AS-40	Trouble on All Borders
+AS-41	Turning Hope to Despair
+AS-42	Unhappy Blows
+AS-43	Will Shaken
+AS-44	All the Bells Ringing
+AS-45	Alliance of Free Peoples
+AS-46	Biter and Beater!
+AS-49	Glamour of Surpassing Excellance
+AS-50	Mount Slain
+AS-51	No Strangers at this Time
+AS-52	Orc-mail
+AS-53	Power Against the Shadow
+AS-54	Safe from the Shadow
+AS-55	Spies Feared
+AS-56	The Sun Unveiled
+AS-57	Tower Raided
+AS-58	Angmarim
+AS-60	Wain-easterlings
+AS-62	Angmarim
+AS-64	Nûrniags
+AS-66	Wain-easterlings
+AS-67	Woses of the Eryn Vorn
+AS-69	The Ithil-stone
+AS-70	Jewel of Beleriand
+AS-72	Black Horse
+AS-73	Creature of an Older World
+AS-74	Great Bats
+AS-75	Great Lord of Goblin-gate
+AS-76	Regiment of Black Crows
+AS-77	Above the Abyss
+AS-78	The Ash Mountain Deeps
+AS-79	The Dark Power
+AS-80	Dark Tryst
+AS-81	Driven as by a Madness
+AS-82	Eye Never Sleeping
+AS-83	Faithless Steward
+AS-84	Far Below the Deepest Delvings
+AS-86	Hail of Darts
+AS-87	Hoard Well-searched
+AS-88	Hold Rebuilt and Repaired
+AS-89	Hounds of Sauron
+AS-90	Join With That Power
+AS-91	Legendary Stair
+AS-92	The Misty Mountain Deeps
+AS-93	The Mountains of Shadow Deeps
+AS-94	Orders from Lugbúrz
+AS-95	Our Own Wolves
+AS-96	Padding Feet
+AS-97	Powers Too Dark and Terrible
+AS-98	Riven Gate
+AS-99	Sack Over the Head
+AS-100	Steeds
+AS-101	Tokens to Show
+AS-102	The Tormented Earth
+AS-103	Treason the Greatest Foe
+AS-104	Tribute Garnered
+AS-105	The Undeeps of Anduin
+AS-106	The Under-roads
+AS-107	Use Your Legs
+AS-108	Well-preserved
+AS-109	The White Mountain Cavern-ways
+AS-110	World Gnawed by the Nameless
+AS-111	Asdriags
+AS-112	Bairanax Roused
+AS-114	Corsairs of Rhûn
+AS-115	Daelomin Roused
+AS-116	Eärcaraxë Roused
+AS-117	Itangast Roused
+AS-118	Leucaruth Roused
+AS-119	Morgul-orcs
+AS-120	Nûriags
+AS-121	Orcs of Dol Guldur
+AS-122	Ancient Black Axe
+AS-123	Dwarven Ring of Thélor’s Tribe
+AS-124	Dwarven Ring of Thrár’s Tribe
+AS-125	Goblin Earth-plumb
+AS-126	Helm of Fear
+AS-127	Iron Shield of Old
+AS-129	Old Treasure
+AS-130	Records Unread
+AS-131	Secret Book
+AS-132	Thong of Fire
+AS-133	Thrall-ring
+AS-134	Thrór’s Map
+AS-135	Troth-ring
+AS-136	Usriev of Treachery
+AS-138	Geann a-Lisch
+AS-139	Gobel Mírlond
+AS-140	Nûrniag Camp
+AS-141	Raider-hold
+AS-142	The Worthy Hills
+AS-143	Dancing Spire
+AS-144	Eagles’ Eyrie
+AS-147	The Gem-deeps
+AS-148	Gold Hill
+AS-151	Irerock
+AS-152	The Iron-deeps
+AS-153	Isle of the Ulond
+AS-154	Isles of the Dead That Live
+AS-157	Ovir Hollow
+AS-158	The Pûkel-deeps
+AS-161	The Sulfur-deeps
+AS-163	The Under-courts
+AS-164	The Under-galleries
+AS-165	The Under-gates
+AS-166	The Under-grottos
+AS-167	The Under-leas
+AS-168	The Under-vaults
+BA-5	Bûthrakaur
+BA-6	Crook-legged Orc
+BA-8	Mountain-maggot
+BA-9	Umagaur
+BA-10	Beorning Skin-changers
+BA-11	Carrion Feeders
+BA-12	Olog Warlords
+BA-13	Shelob’s Brood
+BA-14	Black Vapour
+BA-15	Darkness Made by Malice
+BA-16	Desire All for Thy Belly
+BA-17	Diminish and Depart
+BA-18	Fled into Darkness
+BA-19	Glance of Arien
+BA-20	Imprisoned and Mocked
+BA-21	Monstrosity of Diverse Shape
+BA-22	Press-gang
+BA-23	The Reek
+BA-24	Spawn of Ungoliant
+BA-25	The Sun Shone Fiercely
+BA-26	Unabated in Malice
+BA-27	Ungoliant’s Progeny
+BA-28	Ungoliant’s Foul Issue
+BA-29	Crept Along Carefully
+BA-31	Rumours of Rings
+BA-32	Show Things Unbidden
+BA-33	To Fealty Sworn
+BA-35	Cave Troll
+BA-36	Ancient Secrets
+BA-37	Going Ever Under Dark
+BA-38	Great Army of the North
+BA-40	Long Grievous Siege
+BA-41	No Better Use
+BA-42	Prone to Violence
+BA-44	Whispers of Rings
+BA-45	Evil Things Lingering
+BA-46	Great Troll
+BA-47	Nasty Slimy Thing
+BA-48	A More Evil Hour
+BA-49	Angband Revisited
+BA-50	Breach the Hold
+BA-51	Caverns Unchoked
+BA-52	Challenge the Power
+BA-53	Cloaked by Darkness
+BA-54	Crowned with Storm
+BA-55	Darkness Wielded
+BA-56	Descent through Fire
+BA-57	Eddy in Fate’s Tide
+BA-59	Foe Dismayed
+BA-60	Gangways over the Fire
+BA-61	Great Fissure
+BA-62	Great Shadow
+BA-63	Heart of Dark Fire
+BA-64	Invade Their Domain
+BA-65	Lord and Usurper
+BA-66	Maker’s Map
+BA-67	Memories of Old Torture
+BA-68	Mine or No One’s
+BA-69	Obey Him or Die
+BA-70	Orders from the Great Demon
+BA-71	Out He Sprang
+BA-72	People Diminished
+BA-73	Roam the Waste
+BA-74	Roots of the Earth
+BA-75	Scourge of Fire
+BA-76	Strangling Coils
+BA-77	Tempest of Fire
+BA-78	Terror Heralds Doom
+BA-79	Vanguard of Might
+BA-80	A Few Recruits
+BA-81	Stabbing Tongue of Fire
+BA-82	Whip of Many Thongs
+BA-83	Ancient Deep-hold
+BA-89	The Drowning-deeps
+BA-90	The Gem-deeps
+BA-91	The Iron-deeps
+BA-94	The Pûkel-deeps
+BA-95	Remains of Thangorodrim
+BA-96	The Rusted-deeps
+BA-97	The Sulfur-deeps
+BA-98	The Under-courts
+BA-99	The Under-galleries
+BA-100	The Under-gates
+BA-101	The Under-grottos
+BA-102	The Under-leas
+BA-103	The Under-vaults
+BA-104	The Wind-deeps
+DM-1	Anarin
+DM-2	Baduila
+DM-4	Dâsakûn
+DM-5	Deallus
+DM-6	Drór
+DM-8	Elwen
+DM-9	Eun
+DM-11	Fori the Beardless
+DM-12	Gergeli
+DM-13	Gisulf
+DM-14	Golodhros
+DM-15	The Grimburgoth
+DM-17	Ivic
+DM-18	Jûoma
+DM-19	Leamon
+DM-21	Ôm-buri-Ôm
+DM-22	Pôn-ora-Pôn
+DM-23	Râisha
+DM-25	Taladhan
+DM-26	Woffung
+DM-30	The Gem-deeps
+DM-32	Hermit’s Hill
+DM-33	The Iron-deeps
+DM-34	The Pûkel-deeps
+DM-35	The Sulfur-deeps
+DM-36	The Under-courts
+DM-37	The Under-galleries
+DM-38	The Under-gates
+DM-39	The Under-grottos
+DM-40	The Under-leas
+DM-41	The Under-vaults
+DM-42	Urlurtsu Nurn
+DM-43	An Article Missing
+DM-44	Angmar Arises
+DM-45	An Unexpected Outpost
+DM-46	Aware of their Ways
+DM-47	The Black Enemy’s Wrath
+DM-48	Bring Our Curses Home
+DM-49	Chance of Being Lost
+DM-50	Cunning Foes
+DM-51	Doubled Vigilance
+DM-52	Drums
+DM-53	Earth-tremors
+DM-54	Endless Whispers
+DM-55	Exhalation of Decay
+DM-56	Eyes of the Shadow
+DM-57	Faces of the Dead
+DM-59	Foes Shall Fall
+DM-60	Gnaw with Words
+DM-61	Good Sense Revolts
+DM-62	Great Need or Purpose
+DM-63	Great Secrets Buried There
+DM-64	Helms of Iron
+DM-65	In Darkness Bind Them
+DM-66	In Great Wrath
+DM-67	In the Heart of his Realm
+DM-68	Inner Cunning
+DM-69	Like the Crash of Battering-rams
+DM-70	Long Dark Reach
+DM-71	The Moon Is Dead
+DM-72	Mordor in Arms
+DM-73	Neither so Ancient Nor so Potent
+DM-74	Never Seen Him
+DM-75	No Way Forward
+DM-76	Nobody’s Friend
+DM-77	Out of the Black Sky
+DM-78	Pale Dream-maker
+DM-79	Pierced by Many Wounds
+DM-80	Rank upon Rank
+DM-81	Reaching Shadow
+DM-82	The Reach of Ulmo
+DM-83	Redoubled Force
+DM-84	Reluctant Final Parting
+DM-85	Revealed to all Watchers
+DM-86	Scimitars of Steel
+DM-87	Seek without Success
+DM-88	Seized by Terror
+DM-89	Shadow out of the Dark
+DM-90	Spells of the Barrow-wights
+DM-91	Sudden Fury
+DM-92	To Get You Away
+DM-93	Tribal Banner
+DM-94	Tribal Totem
+DM-95	Troll-purse
+DM-96	Twisted Tales
+DM-97	Two or Three Tribes Present
+DM-98	The Way is Shut
+DM-99	Waylaid, Wounded, and Orc-dragged
+DM-100	Which Might Be Lies
+DM-101	Will not Come Down
+DM-102	Wound of Long Burden
+DM-103	Wraith-lord
+DM-104	Your Welcome Is Doubtful
+DM-105	Bûthrakaur the Green
+DM-106	Chill Douser
+DM-108	Little Snuffler
+DM-109	Nameless Thing
+DM-110	Spider of the Môrlat
+DM-111	Stirring Bones
+DM-112	Umagaur the Pale
+DM-113	Wisp of Pale Sheen
+DM-115	Ancient Stair
+DM-116	Armory
+DM-117	Await the Advent of Allies
+DM-118	Balance Between Powers
+DM-120	Choice of Lúthien
+DM-121	Crown of Flowers
+DM-122	Cup of Farewell
+DM-123	Dark Numbers
+DM-124	The Dwarves Are upon You!
+DM-125	Enduring Tales
+DM-126	Eyes of Mandos
+DM-127	Face Out of Sight
+DM-128	Fate of the Ithil-stone
+DM-129	Fifteen Birds in Five Firtrees
+DM-130	Fireworks
+DM-131	First of the Order
+DM-132	Forewarned Is Forearmed
+DM-133	Free to Choose
+DM-135	Healing of Nimrodel
+DM-136	Herb-lore
+DM-137	Here Is a Snake!
+DM-138	Hidden Knife
+DM-139	Hobbit-lore
+DM-140	Horns, Horns, Horns
+DM-141	Hour of Need
+DM-142	Hundreds of Butterflies
+DM-143	The Hunt
+DM-144	I Know Much about You
+DM-145	Into Dark Tunnels
+DM-146	Into the Smoking Cone
+DM-147	Knowledge of the Enemy
+DM-149	Memories Recalled
+DM-150	More Alert than Most
+DM-151	No Waiting to Wonder
+DM-152	Ordered to Kill
+DM-153	Palm to Palm
+DM-154	Pass the Doors of Dol Guldur
+DM-155	Rebuild the Town
+DM-156	Saw Further and Deeper
+DM-157	Secret Ways
+DM-158	Sentinels of Númenor
+DM-159	Smoke Rings
+DM-160	Token of Goodwill
+DM-161	To the Uttermost Foundations
+DM-162	Vein of Arda
+DM-163	When You Know More
+DM-164	The Windlord Found Me
+DM-165	Withdrawn to Mordor
+DM-168	Dwarven Light-stone
+DM-169	Forgotten Scrolls
+DM-170	Gems of Arda
+DM-171	Leaf Brooch
+DM-172	Lost Tome
+DM-175	Noldo-lantern
+DM-177	Lindion the Oronín
+DM-178	Mistress Lobelia
+DM-179	Noble Hound
+DM-181	Baugúr
+LE-1	Asternak
+LE-3	Bróin
+LE-4	Calendal
+LE-5	Carambor
+LE-7	Dôgrib
+LE-8	Dorelas
+LE-9	Dunlending Spy
+LE-13	Gulla
+LE-15	Hendolen
+LE-16	Horseman in the Night
+LE-17	Jerrek
+LE-19	Layos
+LE-20	Lieutenant of Angmar
+LE-21	Lieutenant of Dol Guldur
+LE-22	Lieutenant of Morgul
+LE-23	Luitprand
+LE-24	The Mouth
+LE-27	Nevido Smôd
+LE-28	Odoacer
+LE-29	Old Troll
+LE-30	Orc Brawler
+LE-31	Orc Captain
+LE-32	Orc Chieftain
+LE-33	Orc Sniffler
+LE-34	Orc Tracker
+LE-35	Orc Veteran
+LE-36	Ostisen
+LE-37	Pon Opar
+LE-40	Shámas
+LE-43	Threlin
+LE-44	Troll Lout
+LE-45	Troll-chief
+LE-46	Tros Hesnef
+LE-47	Uchel
+LE-49	Ulkaur the Tongueless
+LE-50	Adûnaphel the Ringwraith
+LE-51	Akhôrahil the Ringwraith
+LE-52	Dwar the Ringwraith
+LE-53	Hoarmûrath the Ringwraith
+LE-54	Indûr the Ringwraith
+LE-55	Khamûl the Ringwraith
+LE-56	Ren the Ringwraith
+LE-57	Ûvatha the Ringwraith
+LE-58	The Witch-king
+LE-59	Ambusher
+LE-60	Arthadan Rangers
+LE-62	Beorning Toll
+LE-63	The Border-watch
+LE-64	Brigands
+LE-65	Cave Worm
+LE-66	Cave-drake
+LE-68	Dire Wolves
+LE-69	Elf-lord Revealed in Wrath
+LE-70	Elves upon Errantry
+LE-71	Ent in Search of the Entwives
+LE-73	Ghouls
+LE-76	Gondorian Rangers
+LE-80	Land-drake
+LE-82	Lawless Men
+LE-83	Lesser Spiders
+LE-84	Marsh-drake
+LE-85	Orc-raiders
+LE-86	Orc-warband
+LE-87	Orc-watch
+LE-88	Pirates
+LE-89	Sellswords Between Charters
+LE-90	Slayer
+LE-91	Sons of Kings
+LE-92	Stirring Bones
+LE-93	Thranduil’s Folk
+LE-94	Thunder’s Companion
+LE-95	True Fire-drake
+LE-96	Uruk-lieutenant
+LE-97	Wandering Eldar
+LE-100	Wild Trolls
+LE-101	Arouse Defenders
+LE-102	Arouse Denizens
+LE-103	Awaken Defenders
+LE-104	Awaken Denizens
+LE-105	Call of Home
+LE-106	Chill Them with Fear
+LE-107	Covetous Thoughts
+LE-108	Darkness Under Tree
+LE-109	Despair of the Heart
+LE-112	Foolish Words
+LE-113	Greed
+LE-114	Heedless Revelry
+LE-115	Incite Defenders
+LE-116	Incite Denizens
+LE-118	Lost in Border-lands
+LE-119	Lost in Free-domains
+LE-120	Lost in Shadow-lands
+LE-121	Lost in the Wilderness
+LE-122	Lure of Expedience
+LE-123	Lure of Nature
+LE-124	Lure of the Senses
+LE-125	Minions Stir
+LE-126	Muster Disperses
+LE-127	News of Doom
+LE-128	Nothing to Eat or Drink
+LE-130	Plague of Wights
+LE-131	Rats!
+LE-132	Rebel-talk
+LE-133	The Ring Will Have But One Master
+LE-135	The Roving Eye
+LE-136	Searching Eye
+LE-137	Shut Yer Mouth
+LE-138	So You’ve Come Back
+LE-139	Something Has Slipped
+LE-140	Stay Her Appetite
+LE-141	Stench of Mordor
+LE-142	Thrice Outnumbered
+LE-143	Tidings of Bold Spies
+LE-144	Tidings of Doubt and Danger
+LE-146	Veils Flung Away
+LE-147	Waiting Shadow
+LE-148	Wake of War
+LE-149	Weariness of the Heart
+LE-150	Webs of Fear & Treachery
+LE-151	Wrath of the West
+LE-152	Blackbole
+LE-153	Last Child of Ungoliant
+LE-155	“Two-headed” Troll
+LE-156	War-warg
+LE-157	War-wolf
+LE-158	The Warg-king
+LE-159	A Malady Without Healing
+LE-160	A Nice Place to Hide
+LE-161	Adûnaphel Unleashed
+LE-162	Akhôrahil Unleashed
+LE-163	All Thought Bent upon It
+LE-164	An Untimely Whisper
+LE-165	Awaiting the Call
+LE-166	Back to the Fray
+LE-167	Bade to Rule
+LE-168	Bitter Cold
+LE-169	Black Rain
+LE-171	Blow Turned
+LE-172	Bold Thrust
+LE-173	Burning Rick, Cot, and Tree
+LE-174	By the Ringwraith’s Word
+LE-175	Catch an Elusive Scent
+LE-176	Come By Night Upon Them
+LE-177	Crack in the Wall
+LE-178	Crooked Promptings
+LE-179	Deeper Shadow
+LE-180	Diversion
+LE-181	Down Down to Goblin-town
+LE-182	Dwar Unleashed
+LE-183	Fell Rider
+LE-184	Focus Palantír
+LE-185	Forced March
+LE-186	Foul Trophies
+LE-187	Freeze the Flesh
+LE-188	Gifts as Given of Old
+LE-189	Gold Chains in the Wind
+LE-190	Heralded Lord
+LE-191	Hidden Ways
+LE-192	Hide in Dark Places
+LE-193	Hoarmûrath Unleashed
+LE-194	Honey on the Tongue
+LE-195	I’ll Be At Your Heels
+LE-196	I’ll Report You
+LE-197	In the Name of Mordor
+LE-198	Indûr Unleashed
+LE-199	Iron-road
+LE-200	Khamûl Unleashed
+LE-201	Kill All But NOT the Halflings
+LE-202	Leg It Double Quick
+LE-203	The Lidless Eye
+LE-204	Messenger of Mordor
+LE-206	Motionless Among the Slain
+LE-207	The Names Among Them
+LE-208	News Must Get Trough
+LE-209	News of the Shire
+LE-210	No More Nonsense
+LE-211	No News of Our Riding
+LE-212	Not Slay Needlessly
+LE-213	Old Cache
+LE-214	Old Prejudice
+LE-215	One Dear to You
+LE-216	Orc Quarrels
+LE-217	Orc Stealth
+LE-218	Orc-mounts
+LE-219	Poisonous Despair
+LE-220	Ready to His Will
+LE-221	Remnants of Old Robberies
+LE-222	Ren Unleashed
+LE-223	The Ring Leaves Its Mark
+LE-224	Rumor of the One
+LE-225	Ruse
+LE-226	Secrets of Their Forging
+LE-227	Seize Prisoners
+LE-228	Skies of Fire
+LE-229	Smart and Secret
+LE-230	Smoke on the Wind
+LE-231	Sneakin’
+LE-232	Some Secret Art of Flame
+LE-233	Spying out the Land
+LE-234	Stabbed Him in His Sleep
+LE-235	Sudden Call
+LE-236	Swag
+LE-237	Swarm of Bats
+LE-238	Swift Strokes
+LE-239	Test of Fire
+LE-240	That Ain’t No Secret
+LE-241	That’s Been Heard Before Tonight
+LE-242	They Ride Together
+LE-243	Thing Stolen
+LE-244	Threats
+LE-245	Tidings of Death
+LE-246	To Satisfy the Questioner
+LE-247	Under His Blow
+LE-248	Ûvatha Unleashed
+LE-249	Veils of Shadow
+LE-250	Voices of Malice
+LE-251	The Water’s Tithe
+LE-252	We Have Come to Kill
+LE-253	Weigh All Things to a Nicety
+LE-254	Where There’s a Whip
+LE-255	While the Yellow Face Sleeps
+LE-256	Wisdom to Wield
+LE-257	The Witch-king Unleashed
+LE-258	Words of Menace and Deceit
+LE-259	Agburanar Roused
+LE-262	Black Trolls
+LE-265	Goblins of Goblin-gate
+LE-266	Grey Mountain Goblins
+LE-270	Ice-orcs
+LE-271	Men of Dorwinion
+LE-272	Misty Mountain Wargs
+LE-273	Nûrniags
+LE-274	Orcs of Angmar
+LE-275	Orcs of Gorgoroth
+LE-276	Orcs of Gundabad
+LE-277	Orcs of Mirkwood
+LE-278	Orcs of Moria
+LE-279	Orcs of the Ash Mountains
+LE-280	Orcs of the Ephel Dúath
+LE-281	Orcs of the Red Eye
+LE-282	Orcs of Udûn
+LE-283	Scatha Roused
+LE-284	Scorba Roused
+LE-285	Smaug Roused
+LE-286	Snaga-hai
+LE-289	Umbarean Corsairs
+LE-290	Ungol-orcs
+LE-292	Variags of Khand
+LE-293	Wargs of the Forochel
+LE-294	White Mountain Wolves
+LE-296	Woses of the Eryn Vorn
+LE-297	A Little Gold Ring
+LE-298	Binding-ring
+LE-299	Black Mace
+LE-300	Black-hide Shield
+LE-301	Black-mail Coat
+LE-302	Blazon of the Eye
+LE-303	Bright Gold Ring
+LE-304	Broad-headed Spear
+LE-305	Dwarven Ring of Barin’s Tribe
+LE-306	Dwarven Ring of Bávor’s Tribe
+LE-307	Dwarven Ring of Drúin’s Tribe
+LE-308	Dwarven Ring of Durin’s Tribe
+LE-309	Dwarven Ring of Dwálin’s Tribe
+LE-310	Foul-smelling Paste
+LE-311	Gleaming Gold Ring
+LE-312	Gold Ring that Sauron Fancies
+LE-313	High Helm
+LE-314	The Iron Crown
+LE-315	The Least of Gold Rings
+LE-316	Magic Ring of Delusion
+LE-317	Magic Ring of Enigma
+LE-318	Magic Ring of Fury
+LE-319	Magic Ring of Guile
+LE-320	Magic Ring of Lies
+LE-321	Magic Ring of Savagery
+LE-322	Magic Ring of Shadows
+LE-323	Magic Ring of Weals
+LE-324	Minor Ring
+LE-325	The Mithril-coat
+LE-327	The Oracle’s Ring
+LE-328	Orc-draughts
+LE-329	Orc-liquor
+LE-331	Palantír of Annúminas
+LE-332	Palantír of Elostirion
+LE-333	Palantír of Minas Tirith
+LE-335	Palantír of Osgiliath
+LE-336	Paltry Ring
+LE-337	Perfect Gold Ring
+LE-338	Poison
+LE-340	The Reviled Ring
+LE-341	Sable Shield
+LE-342	Saw-toothed Blade
+LE-344	Shadow-cloak
+LE-345	Strange Rations
+LE-346	Trifling Ring
+LE-347	The Warding Ring
+LE-348	Whip
+LE-351	Bandit Lair
+LE-354	Beorn’s House
+LE-355	Blue Mountain Dwarf-hold
+LE-357	Buhr Widu
+LE-358	Cameth Brin
+LE-360	Caves of Ûlund
+LE-370	Dunnish Clan-hold
+LE-371	Easterling Camp
+LE-374	Geann a-Lisch
+LE-377	Gobel Mírlond
+LE-379	Gondmaeglom
+LE-382	Hermit’s Hill
+LE-383	Iron Hill Dwarf-hold
+LE-386	Lond Galen
+LE-388	Lossadan Cairn
+LE-389	Lossadan Camp
+LE-396	Nûrniag Camp
+LE-399	Raider-hold
+LE-400	Ruined Signal Tower
+LE-401	Sarn Goriwing
+LE-402	Shelob’s Lair
+LE-403	Shrel-Kain
+LE-404	Southron Oasis
+LE-405	Stone-circle
+LE-406	The Stones
+LE-408	Thranduil’s Halls
+LE-409	Urlurtsu Nurn
+LE-410	Vale of Erech
+LE-411	Variag Camp
+LE-412	The White Towers
+LE-413	The Wind Throne
+LE-414	Woodmen-town
+LE-415	The Worthy Hills
+LE-416	Wose Passage-hold
+LE-417	Zarak Dûm
+LE-418	The Arkenstone
+LE-419	Deadly Dart
+TD-1	Agburanar Ahunt
+TD-2	Agburanar at Home
+TD-4	Bairanax Ahunt
+TD-5	Bairanax at Home
+TD-7	Carrion Birds
+TD-8	Cave Worm
+TD-9	Cruel Caradhras
+TD-10	Daelomin Ahunt
+TD-11	Daelomin at Home
+TD-12	Deftness of Agility
+TD-13	Dire Wolves
+TD-14	Dragon’s Blood
+TD-15	Dragon’s Breath
+TD-16	Dragon’s Curse
+TD-17	Dragon’s Terror
+TD-18	Dragon-sickness
+TD-19	Dunlending Raiders
+TD-20	Eärcaraxë
+TD-21	Eärcaraxë Ahunt
+TD-22	Eärcaraxë at Home
+TD-23	Exile of Solitude
+TD-24	Fever of Unrest
+TD-25	Foolish Words
+TD-26	Frenzy of Madness
+TD-27	From the Pits of Angband
+TD-29	Half an Eye Open
+TD-31	Host of Bats
+TD-32	Ice-drake
+TD-33	Icy Touch
+TD-34	Incite Denizens
+TD-35	Incite Minions
+TD-37	Itangast Ahunt
+TD-38	Itangast at Home
+TD-39	Known to an Ounce
+TD-40	Land-drake
+TD-41	Left Behind
+TD-42	Lesser Spiders
+TD-43	Leucaruth Ahunt
+TD-44	Leucaruth at Home
+TD-45	Light-drake
+TD-46	Many Sorrows Befall
+TD-47	Marsh-drake
+TD-48	Memories Stolen
+TD-49	Morgul-rats
+TD-50	No Escape from My Magic
+TD-51	Noose of the Sea
+TD-52	Parsimony of Seclusion
+TD-53	Passion of Wrath
+TD-54	Peril Returned
+TD-55	Prowess of Age
+TD-56	Prowess of Might
+TD-57	Rain-drake
+TD-58	Rumor of Wealth
+TD-59	Sand-drake
+TD-61	Scatha Ahunt
+TD-62	Scatha at Home
+TD-63	Scorba
+TD-64	Scorba Ahunt
+TD-65	Scorba at Home
+TD-66	Sea Serpent
+TD-67	Searching Eye
+TD-69	Sleepless Malice
+TD-70	Smaug Ahunt
+TD-71	Smaug at Home
+TD-72	Song of the Lady
+TD-74	Subtlety of Guile
+TD-75	Thunder’s Companion
+TD-76	Times Are Evil
+TD-77	True Cold-drake
+TD-78	True Fire-drake
+TD-79	Velocity of Haste
+TD-81	Wild Fell Beast
+TD-82	Winds of Wrath
+TD-83	Winged Cold-drake
+TD-84	Winged Fire-drake
+TD-85	Withered Lands
+TD-88	Worm’s Stench
+TD-89	Worn and Famished
+TD-91	Fram Framson
+TD-96	Adamant Helmet
+TD-97	Alert the Folk
+TD-98	And Forth He Hastened
+TD-99	Arrows Shorn of Ebony
+TD-101	Bounty of the Hoard
+TD-102	Bow of Dragon-horn
+TD-103	Burglary
+TD-104	Cloudless Day
+TD-106	Dragon’s Hunger
+TD-107	Dragon-feuds
+TD-108	Dragon-lore
+TD-109	Dwarven Hoard
+TD-110	Echo of all Joy
+TD-112	Emerald of Doriath
+TD-113	Emerald of the Mariner
+TD-114	Enruned Shield
+TD-115	Fast Asleep
+TD-116	Flatter a Foe
+TD-118	Gift of Comprehension
+TD-119	Gold Belt of Lórien
+TD-120	Habergeon of Silver
+TD-122	Helm of Her Secrecy
+TD-123	Here, There, or Yonder
+TD-124	Hey! come merry dol!
+TD-127	Legendary Hoard
+TD-128	Look More Closely Later
+TD-129	Lore of the Ages
+TD-130	Magical Harp
+TD-131	Many Foes He Fought
+TD-132	Many Turns and Doublings
+TD-133	Map to Mithril
+TD-134	Marvels Told
+TD-135	Master of Esgaroth
+TD-136	Master of Wood, Water, or Hill
+TD-137	Mathom Lore
+TD-139	Men of Lake-town
+TD-140	More Sense than You
+TD-141	Necklace of Silver and Pearls
+TD-142	Nenseldë the Wingild
+TD-144	Pledge of Conduct
+TD-145	Refuge
+TD-146	Returned Exiles
+TD-148	Riddling Talk
+TD-149	Sated Beast
+TD-150	Scabbard of Chalcedony
+TD-151	Secret News
+TD-153	Staff Asunder
+TD-154	Star of High Hope
+TD-155	Tales of the Hunt
+TD-156	The Riddle Game
+TD-157	Three Golden Hairs
+TD-158	Thrór’s Map
+TD-159	Trickery
+TD-160	Twice-baked Cakes
+TD-161	Valiant Sword
+TD-162	Vanish in Sunlight!
+TD-163	Warm Now Be Heart and Limb
+TD-164	Washed and Refreshed
+TD-166	When I Know Anything
+TD-167	Wielded Twice
+TD-168	Wit
+TD-169	Wizard Uncloaked
+TD-170	Wizard’s Staff
+TD-171	Wondrous Maps
+TD-172	Wormsbane
+TD-173	Buhr Widu
+TD-176	Gold Hill
+TD-177	Gondmaeglom
+TD-178	Isle of the Ulond
+TD-179	Ovir Hollow
+TD-181	Zarak Dûm
+TD-182	Ireful Flames
+TD-183	Horn of Defiance
+TD-185	Belegennon
+TW-1	Abductor
+TW-3	Agburanar
+TW-5	Ambusher
+TW-6	Arouse Denizens
+TW-7	Arouse Minions
+TW-8	Assassin
+TW-9	Awaken Denizens
+TW-10	Awaken Minions
+TW-11	Awaken the Earth’s Fire
+TW-13	Bane of the Ithil-stone
+TW-16	“Bert” (Bûrat)
+TW-17	Brigands
+TW-18	Call of Home
+TW-19	Call of the Sea
+TW-20	Cave-drake
+TW-21	Choking Shadows
+TW-22	Clouds
+TW-26	Daelomin
+TW-27	Despair of the Heart
+TW-29	Dragon’s Desolation
+TW-30	Drowning Seas
+TW-34	Fell Turtle
+TW-36	Foul Fumes
+TW-38	Ghouls
+TW-41	Gloom
+TW-42	Greed
+TW-43	Half-trolls of Far Harad
+TW-46	Indûr Dawndeath
+TW-47	Khamûl the Easterling
+TW-48	Leucaruth
+TW-50	Lost at Sea
+TW-51	Lost in Border-lands
+TW-52	Lost in Dark-domains
+TW-53	Lost in Free-domains
+TW-54	Lost in Shadow-lands
+TW-55	Lost in the Wilderness
+TW-56	Lure of Creation
+TW-57	Lure of Expedience
+TW-58	Lure of Nature
+TW-59	Lure of Power
+TW-60	Lure of the Senses
+TW-61	Minions Stir
+TW-62	Morgul Night
+TW-63	Morgul-horse
+TW-66	Mûmak (Oliphant)
+TW-67	Muster Disperses
+TW-68	New Moon
+TW-69	Night
+TW-71	Olog-hai (Trolls)
+TW-72	Orc-guard
+TW-73	Orc-lieutenant
+TW-74	Orc-patrol
+TW-75	Orc-raiders
+TW-76	Orc-warband
+TW-77	Orc-warriors
+TW-78	Orc-watch
+TW-79	Pick-pocket
+TW-80	Pick-pocket
+TW-81	Plague of Wights
+TW-82	Pûkel-men
+TW-83	Ren the Unclean
+TW-85	Rogrog
+TW-87	Siege
+TW-88	Silent Watcher
+TW-89	Slayer
+TW-91	Snowstorm
+TW-92	Storms of Ossë
+TW-93	The Balance of Things
+TW-94	The Burden of Time
+TW-95	The Great Goblin
+TW-96	The Nazgûl are Abroad
+TW-97	The Pale Sword
+TW-99	The Ring’s Betrayal
+TW-100	The Will of Sauron
+TW-101	The Will of the Ring
+TW-103	“Tom” (Tûma)
+TW-104	Tookish Blood
+TW-105	Traitor
+TW-107	Ûvatha the Horseman
+TW-108	Wake of War
+TW-111	Weariness of the Heart
+TW-112	“William” (Wûluag)
+TW-115	Words of Power and Terror
+TW-116	Adrazar
+TW-119	Annalena
+TW-121	Arinmîr
+TW-124	Bard Bowman
+TW-128	Beretar
+TW-154	Galva
+TW-161	Glorfindel II
+TW-163	Haldalam
+TW-176	Peath
+TW-185	Vôteli
+TW-186	Vygavril
+TW-187	Wacho
+TW-188	A Chance Meeting
+TW-189	A Friend or Three
+TW-190	Align Palantír
+TW-191	Anduin River
+TW-192	Andúril, the Flame of the West
+TW-196	Beautiful Gold Ring
+TW-199	Block
+TW-200	Blue Mountain Dwarves
+TW-202	Bridge
+TW-203	Clear Skies
+TW-204	Concealment
+TW-207	Dark Quarrels
+TW-208	Dark Quarrels
+TW-209	Dodge
+TW-210	Dreams of Lore
+TW-212	Durin’s Axe
+TW-213	Dwarven Ring of Barin’s Tribe
+TW-214	Dwarven Ring of Bávor’s Tribe
+TW-215	Dwarven Ring of Drúin’s Tribe
+TW-216	Dwarven Ring of Durin’s Tribe
+TW-217	Dwarven Ring of Dwálin’s Tribe
+TW-218	Dwarven Ring of Thélor’s Tribe
+TW-219	Dwarven Ring of Thrár’s Tribe
+TW-220	Eagle-mounts
+TW-221	Earth of Galadriel’s Orchard
+TW-223	Elf-song
+TW-224	Elf-stone
+TW-225	Elven Cloak
+TW-229	Escape
+TW-230	Escape
+TW-231	Fair Gold Ring
+TW-232	Fair Sailing
+TW-233	Fair Travels in Border-lands
+TW-234	Fair Travels in Dark-domains
+TW-235	Fair Travels in Free-domains
+TW-236	Fair Travels in Shadow-lands
+TW-237	Fair Travels in Wilderness
+TW-238	Far-sight
+TW-239	Favor of the Valar
+TW-241	Fog
+TW-242	Ford
+TW-247	Gollum’s Fate
+TW-248	Great Ship
+TW-249	Great-road
+TW-250	Great-shield of Rohan
+TW-252	Halfling Stealth
+TW-253	Halfling Strength
+TW-254	Hauberk of Bright Mail
+TW-255	Healing Herbs
+TW-256	Hiding
+TW-259	Horn of Anor
+TW-261	Iron Hill Dwarves
+TW-262	Kindling of the Spirit
+TW-263	Knights of Dol Amroth
+TW-264	Lapse of Will
+TW-266	Lesser Ring
+TW-267	Lordly Presence
+TW-269	Lucky Search
+TW-270	Lucky Strike
+TW-271	Magic Ring of Courage
+TW-272	Magic Ring of Lore
+TW-273	Magic Ring of Nature
+TW-274	Magic Ring of Stealth
+TW-275	Magic Ring of Words
+TW-276	Men of Anfalas
+TW-277	Men of Anórien
+TW-278	Men of Dorwinion
+TW-279	Men of Lamedon
+TW-280	Men of Lebennin
+TW-281	Men of Northern Rhovanion
+TW-288	Muster
+TW-292	New Friendship
+TW-293	Old Friendship
+TW-297	Palantír of Annúminas
+TW-298	Palantír of Elostirion
+TW-299	Palantír of Minas Tirith
+TW-301	Palantír of Osgiliath
+TW-303	Persuasive Words
+TW-304	Potion of Prowess
+TW-305	Praise to Elbereth
+TW-306	Precious Gold Ring
+TW-309	Quiet Lands
+TW-314	Reforging
+TW-315	Rescue Prisoners
+TW-318	Ringlore
+TW-319	Risky Blow
+TW-320	Roäc the Raven
+TW-321	Sacrifice of Form
+TW-322	Sapling of the White Tree
+TW-324	Secret Entrance
+TW-325	Secret Passage
+TW-327	Shield of Iron-bound Ash
+TW-332	Stealth
+TW-336	Sword of Gondolin
+TW-337	Tempering Friendship
+TW-338	Test of Form
+TW-339	Test of Form
+TW-340	Test of Lore
+TW-341	The Arkenstone
+TW-342	The Cock Crows
+TW-344	The Great Eagles
+TW-345	The Mithril-coat
+TW-346	The Old Thrush
+TW-349	Thorough Search
+TW-351	Torque of Hues
+TW-352	Tower Guard of Minas Tirith
+TW-354	True Fána
+TW-355	Use Palantír
+TW-356	Vanishment
+TW-357	Variags of Khand
+TW-360	Wizard’s Fire
+TW-361	Wizard’s Flame
+TW-362	Wizard’s Laughter
+TW-363	Wizard’s Ring
+TW-364	Wizard’s River-horses
+TW-365	Wizard’s Test
+TW-366	Wizard’s Voice
+TW-369	Woses of Old Pûkel-land
+TW-370	Woses of the Drúadan Forest
+TW-373	Bandit Lair
+TW-376	Beorn’s House
+TW-377	Blue Mountain Dwarf-hold
+TW-379	Cameth Brin
+TW-381	Caves of Ûlund
+TW-383	Dancing Spire
+TW-390	Dunnish Clan-hold
+TW-391	Eagles’ Eyrie
+TW-392	Easterling Camp
+TW-402	Irerock
+TW-403	Iron Hill Dwarf-hold
+TW-405	Isles of the Dead that Live
+TW-407	Lond Galen
+TW-409	Lossadan Cairn
+TW-410	Lossadan Camp
+TW-422	Ruined Signal Tower
+TW-423	Sarn Goriwing
+TW-424	Shelob’s Lair
+TW-425	Shrel-Kain
+TW-426	Southron Oasis
+TW-427	Stone-circle
+TW-429	The Stones
+TW-430	The White Towers
+TW-431	The Wind Throne
+TW-432	Thranduil’s Halls
+TW-434	Vale of Erech
+TW-435	Variag Camp
+TW-438	Woodmen-town
+TW-439	Wose Passage-hold
+TW-441	Andrast Coast
+TW-454	Elven Shores
+TW-456	Eriadoran Coast
+TW-459	Gap of Isen
+TW-461	Grey Mountain Narrows
+TW-464	Heart of Mirkwood
+TW-467	Horse Plains
+TW-475	Mouths of the Anduin
+TW-476	Northern Rhovanion
+TW-477	Númeriador
+TW-479	Old Pûkel Gap
+TW-480	Old Pûkel-land
+TW-485	Southern Rhovanion
+TW-488	Western Mirkwood
+TW-490	Wold & Foothills
+TW-492	Fury of the Iron Crown
+TW-493	Neeker-breekers
+TW-496	The Iron Crown
+TW-497	A Pack at the Door
+TW-498	Swordmaster
+TW-500	Lure of MECCG
+WH-2	Doeth (Durthak)
+WH-3	Euog (Ulzog)
+WH-5	Ill-favoured Fellow
+WH-10	Sly Southerner
+WH-11	Squint-eyed Brute
+WH-13	Goblin-faces
+WH-14	Blind to the West
+WH-15	Cast from the Order
+WH-16	Cruel Claw Perceived
+WH-17	Echoes of the Song
+WH-19	Fool’s Bane
+WH-20	Foul Tooth Unsheathed
+WH-21	Heart Grown Cold
+WH-22	In the Grip of Ambition
+WH-23	Inner Rot
+WH-24	Ire of the East
+WH-25	Longing for the West
+WH-26	Mask Torn
+WH-27	Nature’s Revenge
+WH-28	Power Relinquished to Artifice
+WH-29	Rolled down to the Sea
+WH-30	Something Else at Work
+WH-31	Whole Villages Roused
+WH-32	Will You Not Come Down?
+WH-33	Noble Steed
+WH-34	Promptings of Wisdom
+WH-36	The White Wizard
+WH-37	A Panoply of Wings
+WH-38	Beasts of the Wood
+WH-39	Wild Horses
+WH-40	Wild Hounds
+WH-41	The Black Council
+WH-42	Counterfeit
+WH-43	Crept Along Cleverly
+WH-44	The Fiery Blade
+WH-45	Govern the Storms
+WH-46	Open to the Summons
+WH-47	Piercing All Shadows
+WH-48	Poison of his Voice
+WH-49	Sojourn in Shadows
+WH-50	White Light Broken
+WH-51	Blasting Fire
+WH-52	Liquid Fire
+WH-53	Mechanical Bow
+WH-54	Vile Fumes
+WH-55	Deep Mines
+WH-58	The White Towers
+WH-59	A Merrier World
+WH-60	A New Ringlord
+WH-61	A Strident Spawn
+WH-62	An Untimely Brood
+WH-63	Bad Company
+WH-64	Blind to All Else
+WH-65	Delver’s Harvest
+WH-66	Double-dealing
+WH-67	Earth-eater
+WH-68	The Fortress of Isen
+WH-69	Fortress of the Towers
+WH-70	Gatherer of Loyalties
+WH-71	Gnawed Ways
+WH-72	Great Patron
+WH-73	Great Ruse
+WH-74	Guarded Haven
+WH-75	Hidden Haven
+WH-76	Legacy of Smiths
+WH-77	Mischief in a Mean Way
+WH-78	Never Refuse
+WH-79	Plotting Ruin
+WH-80	Shameful Deeds
+WH-81	Spells Born of Discord
+WH-82	Thrall of the Voice
+WH-83	War-forges
+WH-84	Wizard’s Myrmidon
+WH-85	Wizard’s Trove
+WH-86	Greater Half-orcs
+WH-88	Keys of Orthanc
+WH-89	Keys to the White Towers
+WH-90	Bow of Alatar
+WH-91	The Great Hunt
+WH-92	Huntsman’s Garb
+WH-93	Join the Hunt
+WH-94	Oromë’s Warders
+WH-95	Squire of the Hunt
+WH-96	Await the Onset
+WH-97	Chambers in the Royal Court
+WH-98	Gandalf’s Friend
+WH-99	Give Welcome to the Unexpected
+WH-100	Grey Embassy
+WH-101	The Grey Hat
+WH-103	Arcane School
+WH-104	Pallando’s Apprentice
+WH-105	Pallando’s Hood
+WH-106	Prophet of Doom
+WH-107	Stave of Pallando
+WH-108	Truths of Doom
+WH-109	Friend of Secret Things
+WH-110	Girdle of Radagast
+WH-111	Glove of Radagast
+WH-112	Master of Shapes
+WH-113	Pocketed Robes
+WH-114	Radagast’s Black Bird
+WH-115	Shifter of Hues
+WH-116	Winged Change-master
+WH-117	The Forge-master
+WH-118	Many-coloured Robes
+WH-119	Man of Skill
+WH-120	Saruman’s Machinery
+WH-121	Saruman’s Ring
+WH-122	The White Hand
