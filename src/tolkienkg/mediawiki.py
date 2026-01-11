@@ -112,6 +112,48 @@ class MediaWikiClient:
                 break
 
         return titles
+    
+
+    def list_all_pages(self, namespace: int = 0, limit: int | None = None) -> list[str]:
+        """
+        Exhaustively list page titles using action=query&list=allpages.
+        Handles pagination via apcontinue.
+
+        namespace=0 -> main namespace.
+        limit=None -> no limit (true exhaustive crawl).
+        """
+        titles: list[str] = []
+        apcontinue: str | None = None
+
+        while True:
+            # how many we can still fetch in this loop
+            if limit is None:
+                batch_size = 500
+            else:
+                remaining = limit - len(titles)
+                if remaining <= 0:
+                    break
+                batch_size = min(500, remaining)
+
+            params: dict[str, Any] = {
+                "action": "query",
+                "list": "allpages",
+                "apnamespace": str(namespace),
+                "aplimit": str(batch_size),
+                "format": "json",
+            }
+            if apcontinue:
+                params["apcontinue"] = apcontinue
+
+            data = self.get(params)
+            pages = data.get("query", {}).get("allpages", [])
+            titles.extend([p["title"] for p in pages if "title" in p])
+
+            apcontinue = data.get("continue", {}).get("apcontinue")
+            if not apcontinue:
+                break
+
+        return titles
 
 class WikitextCache:
     def __init__(self, cache_dir: str = "data/cache/wikitext") -> None:
