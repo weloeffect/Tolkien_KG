@@ -1,0 +1,136 @@
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tg:     <http://localhost:8000/vocab/> .
+
+############
+# Entity (missing before!)
+############
+
+tg:EntityShape a sh:NodeShape ;
+  sh:targetClass tg:Entity ;
+  sh:property [
+    sh:path rdfs:label ;
+    sh:datatype rdf:langString ;
+    sh:minCount 1 ;
+  ] .
+
+############
+# Character
+############
+
+tg:CharacterShape a sh:NodeShape ;
+  sh:targetClass tg:Character ;
+  sh:property [
+    sh:path rdfs:label ;
+    sh:datatype rdf:langString ;
+    sh:minCount 1 ;
+  ] ;
+  sh:property [
+    sh:path tg:gender ;
+    sh:datatype rdf:langString ;
+    sh:maxCount 1 ;
+  ] ;
+  sh:property [
+    sh:path tg:affiliation ;
+    sh:nodeKind sh:IRI ;
+  ] ;
+  sh:property [
+    sh:path tg:affiliation_raw ;
+    sh:datatype rdf:langString ;
+  ] ;
+  sh:property [
+    sh:path tg:othernames ;
+    sh:datatype rdf:langString ;
+  ] ;
+  sh:property [
+    sh:path tg:othernames_raw ;
+    sh:datatype rdf:langString ;
+  ] .
+
+############
+# Location
+############
+
+tg:LocationShape a sh:NodeShape ;
+  sh:targetClass tg:Location ;
+  sh:property [
+    sh:path rdfs:label ;
+    sh:datatype rdf:langString ;
+    sh:minCount 1 ;
+  ] ;
+  sh:property [
+    sh:path tg:location ;
+    sh:or ( [ sh:nodeKind sh:IRI ] [ sh:datatype rdf:langString ] ) ;
+  ] .
+
+############
+# Group/Organization
+############
+
+tg:GroupShape a sh:NodeShape ;
+  sh:targetClass tg:Group ;
+  sh:property [
+    sh:path rdfs:label ;
+    sh:datatype rdf:langString ;
+    sh:minCount 1 ;
+  ] ;
+  sh:property [
+    sh:path tg:members ;
+    sh:nodeKind sh:IRI ;
+  ] .
+
+############
+# Work
+############
+
+tg:WorkShape a sh:NodeShape ;
+  sh:targetClass tg:Work ;
+  sh:property [
+    sh:path rdfs:label ;
+    sh:datatype rdf:langString ;
+    sh:minCount 1 ;
+  ] ;
+  sh:property [
+    sh:path tg:language ;
+    sh:datatype rdf:langString ;
+  ] .
+
+############
+# Event
+############
+
+tg:EventShape a sh:NodeShape ;
+  sh:targetClass tg:Event ;
+  sh:property [
+    sh:path rdfs:label ;
+    sh:datatype rdf:langString ;
+    sh:minCount 1 ;
+  ] ;
+  sh:property [
+    sh:path tg:location ;
+    sh:or ( [ sh:nodeKind sh:IRI ] [ sh:datatype rdf:langString ] ) ;
+  ] .
+
+############
+# Page-level shape
+############
+
+tg:PageShape a sh:NodeShape ;
+  sh:targetClass schema:WebPage ;
+  sh:property [
+    sh:path schema:about ;
+    sh:nodeKind sh:IRI ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+  ] ;
+  sh:property [
+    sh:path schema:mentions ;
+    sh:nodeKind sh:IRI ;
+  ] ;
+  sh:property [
+    sh:path tg:template ;
+    sh:datatype rdf:langString ;
+  ] .

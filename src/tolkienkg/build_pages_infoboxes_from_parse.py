@@ -177,6 +177,22 @@ def _extract_wikilinks(value: str) -> list[str]:
     return titles
 
 
+def _class_from_infobox_name(tpl_name_lc: str) -> URIRef:
+    """
+    Decide which TG class to use based on infobox template name.
+    Adjust the class local names here if your tg_vocab.ttl uses different ones.
+    """
+    # Default to TG:Thing-like class (still aligned via tg_vocab)
+    # If you don't have tg:Entity, switch to TG["thing"] or TG["Thing"] etc.
+    if "character" in tpl_name_lc or "person" in tpl_name_lc:
+        return URIRef(str(TG["Character"]))
+    if "location" in tpl_name_lc or "place" in tpl_name_lc:
+        return URIRef(str(TG["Location"]))
+    if "battle" in tpl_name_lc or "war" in tpl_name_lc:
+        return URIRef(str(TG["Event"]))
+    return URIRef(str(TG["Entity"]))
+
+
 def build_generic_infobox_graph(page_title: str, wikitext: str) -> Graph:
     g = Graph()
 
@@ -193,15 +209,8 @@ def build_generic_infobox_graph(page_title: str, wikitext: str) -> Graph:
     if infobox_tpl is None:
         return g
 
-    tpl_name = str(infobox_tpl.name).strip().lower()
-    if "character" in tpl_name or "person" in tpl_name:
-        g.add((subj, RDF.type, SCHEMA.Person))
-    elif "location" in tpl_name or "place" in tpl_name:
-        g.add((subj, RDF.type, SCHEMA.Place))
-    elif "battle" in tpl_name or "war" in tpl_name:
-        g.add((subj, RDF.type, SCHEMA.Event))
-    else:
-        g.add((subj, RDF.type, SCHEMA.Thing))
+    tpl_name_lc = str(infobox_tpl.name).strip().lower()
+    g.add((subj, RDF.type, _class_from_infobox_name(tpl_name_lc)))
 
     for p in infobox_tpl.params:
         key = str(p.name).strip()
@@ -273,6 +282,7 @@ def main(
             else:
                 g = build_generic_infobox_graph(title, wikitext)
 
+            # se só tem label + type (ou só label), não conta
             if len(g) <= 2:
                 skipped += 1
                 continue
@@ -287,14 +297,17 @@ def main(
             page_graph.add((p, RDF.type, SCHEMA.WebPage))
             page_graph.add((p, SCHEMA.about, r))
 
+            # links -> schema:mentions
             for lk in extract_links(data):
                 lk_title = lk.replace("_", " ").strip()
                 if lk_title:
                     page_graph.add((p, SCHEMA.mentions, URIRef(str(resource_iri(lk_title)))))
 
+            # images -> schema:image (deixando pra “depois” a URL final, por enquanto literal do filename)
             for img in extract_images(data):
                 page_graph.add((p, SCHEMA.image, Literal(img, lang="en")))
-                
+
+            # templates -> tg:template
             for tpl in extract_templates(data):
                 tpl_name = tpl.replace("_", " ").strip()
                 if tpl_name:
