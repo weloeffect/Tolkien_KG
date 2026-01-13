@@ -1,0 +1,1 @@
+{"parse": {"title": "Module:HelloWorld", "pageid": 67407, "redirects": [], "links": [{"ns": 828, "*": "Module:HelloWorld/doc"}], "templates": [{"ns": 828, "*": "Module:HelloWorld/doc"}], "images": [], "wikitext": {"*": "local p = {} --p stands for package\n\nfunction p.hello( frame )\n    return \"Hello, world!\"\nend\n\nreturn p"}}}
