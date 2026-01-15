@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any, Iterable, Optional
 
 import requests
-from flask import Flask, Response, redirect, request
+from flask import Flask, Response, redirect, request, url_for
 
 from rdflib import Graph, URIRef, Literal
 from rdflib.namespace import RDF, RDFS, OWL, XSD, Namespace
@@ -34,6 +34,7 @@ SCHEMA = Namespace("https://schema.org/")
 TG = Namespace(f"{BASE}/vocab/")
 RES = Namespace(f"{BASE}/resource/")
 VOC = Namespace(f"{BASE}/vocab/")
+CARD = Namespace(f"{BASE}/card/")
 
 # Pra “pretty print” de URIs (estilo DBpedia)
 PREFIXES = {
@@ -45,6 +46,7 @@ PREFIXES = {
     str(TG): "tg",
     str(RES): "res",
     str(VOC): "tg",  # também tg (vocab)
+    str(CARD): "card",
 }
 
 app = Flask(__name__)
@@ -54,13 +56,22 @@ app = Flask(__name__)
 # Helpers: SPARQL
 # -----------------------------
 def sparql_query(query: str, accept: str = "text/turtle", timeout: int = 60) -> bytes:
-    r = requests.get(
+    """
+    Usa POST (mais robusto que GET) para evitar 400 por URL grande/limites do Jetty/Fuseki.
+    """
+    q = (query or "").strip()
+
+    r = requests.post(
         FUSEKI_SPARQL,
-        params={"query": query},
+        data={"query": q},
         headers={"Accept": accept},
         timeout=timeout,
     )
-    r.raise_for_status()
+
+    if not r.ok:
+        snippet = (r.text or "")[:800]
+        raise RuntimeError(f"Fuseki SPARQL error {r.status_code}: {snippet}")
+
     return r.content
 
 
@@ -261,7 +272,7 @@ def object_to_html(o: Any) -> str:
     if isinstance(o, URIRef):
         u = str(o)
         # se for do nosso domínio, linka para nossa interface
-        if u.startswith(f"{BASE}/resource/") or u.startswith(f"{BASE}/vocab/"):
+        if u.startswith(f"{BASE}/resource/") or u.startswith(f"{BASE}/vocab/") or u.startswith(f"{BASE}/card/"):
             return f'<a href="{escape(u)}">{escape(qname_or_uri(u))}</a>'
         # externo
         return f'<a href="{escape(u)}" target="_blank" rel="noopener">{escape(qname_or_uri(u))}</a>'
@@ -382,7 +393,7 @@ def html_page(title: str, iri: str, ttl_bytes: bytes) -> str:
     <div style="display:flex; justify-content:space-between; gap:14px; align-items:center;">
       <div><strong>Tolkien KG</strong> <span style="opacity:.85">/ Linked Data interface</span></div>
       <div>
-        <a href="{escape(FUSEKI_SPARQL.replace('/sparql',''))}" target="_blank" rel="noopener">Fuseki</a>
+        <a href="{escape('http://localhost:3030/#/dataset/tolkien/query')}" target="_blank" rel="noopener">Fuseki</a>
         <span style="opacity:.6"> • </span>
         <a href="{escape(BASE)}">Home</a>
       </div>
@@ -454,22 +465,46 @@ def vocab_iri_from_path(path: str) -> str:
     encoded = encoded.replace("%2F", "/")
     return f"{BASE}/vocab/{encoded}"
 
+def card_iri_from_path(path: str) -> str:
+    encoded = urllib.parse.quote(path, safe=":/()%#?&=+,-._~")
+    encoded = encoded.replace("%2F", "/")
+    return f"{BASE}/card/{encoded}"
+
 
 @app.route("/")
 def home() -> Response:
-    # Home simples, estilo DBpedia “mini”
     html_home = f"""<!doctype html>
-<html><head><meta charset="utf-8"/><title>Tolkien KG</title></head>
-<body style="font-family:system-ui; padding:18px;">
-<h2>Tolkien KG — Linked Data</h2>
-<ul>
-  <li>SPARQL endpoint: <code>{html.escape(FUSEKI_SPARQL)}</code></li>
-  <li>Example resource: <a href="{BASE}/resource/Elrond">{BASE}/resource/Elrond</a></li>
-  <li>Vocabulary: <a href="{BASE}/vocab/Character">{BASE}/vocab/Character</a></li>
-</ul>
-</body></html>"""
-    return Response(html_home, content_type="text/html; charset=utf-8")
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Tolkien KG</title>
+  <style>
+    body {{ font-family:system-ui; padding:18px; max-width: 900px; margin: 0 auto; }}
+    input[type=text] {{ width: 100%; padding: 10px; font-size: 16px; }}
+    button {{ padding: 10px 14px; font-size: 16px; margin-top: 10px; }}
+    .hint {{ color:#666; font-size: 13px; margin-top: 6px; }}
+  </style>
+</head>
+<body>
+  <h2>Tolkien KG — Linked Data</h2>
 
+  <form action="/search" method="get">
+    <input type="text" name="q" placeholder="Search by label (e.g., Elrond, Gandalf, Rivendell)"/>
+    <button type="submit">Search</button>
+    <div class="hint">Tip: add &lang=en (or fr, pt-BR...) to prioritize a language.</div>
+  </form>
+
+  <hr/>
+
+  <ul>
+    <li>SPARQL endpoint: <code>{html.escape(FUSEKI_SPARQL)}</code></li>
+    <li>Example resource: <a href="{BASE}/resource/Elrond">{BASE}/resource/Elrond</a></li>
+    <li>Example card: <a href="{BASE}/card/WH-4">{BASE}/card/WH-4</a></li>
+    <li>Vocabulary: <a href="{BASE}/vocab/Character">{BASE}/vocab/Character</a></li>
+  </ul>
+</body>
+</html>"""
+    return Response(html_home, content_type="text/html; charset=utf-8")
 
 @app.route("/resource/<path:rid>")
 def resource(rid: str) -> Response:
@@ -502,10 +537,122 @@ def vocab(term: str) -> Response:
 
 @app.route("/sparql")
 def sparql_redirect() -> Response:
-    # só redireciona pra interface do Fuseki
     return redirect(FUSEKI_SPARQL.replace("/sparql", ""), code=302)
 
 
+@app.get("/card/<path:cid>")
+def card(cid: str) -> Response:
+    iri = card_iri_from_path(cid)
+
+    if wants_html():
+        ttl = describe_ttl(iri)
+        return Response(html_page("card", iri, ttl), content_type="text/html; charset=utf-8")
+
+    mime = negotiated_rdf_mimetype()
+    q = f"DESCRIBE <{iri}>"
+    data = sparql_query(q, accept=mime)
+    return Response(data, content_type=f"{mime}; charset=utf-8")
+
+@app.route("/search")
+def search() -> Response:
+    q = (request.args.get("q") or "").strip()
+    lang = (request.args.get("lang") or preferred_lang() or "en").strip()
+    if not q:
+        return redirect("/", code=302)
+
+    # lang base p/ LANGMATCHES: "pt-BR" -> "pt"
+    lang_base = lang.split(",", 1)[0].split(";", 1)[0].strip()
+    lang_base = lang_base.split("-", 1)[0].strip().lower() or "en"
+
+    # escape simples de aspas
+    q_esc = q.replace("\\", "\\\\").replace('"', '\\"')
+
+    # restringe aos teus grafos principais (evita “buscar em tudo” e reduz ruído)
+    # ajuste a lista se quiser incluir/remover grafos
+    graphs = [
+        f"{BASE}/graph/pages_infoboxes",
+        f"{BASE}/graph/backbone",
+        f"{BASE}/graph/vocab",
+        f"{BASE}/graph/cards",
+        f"{BASE}/graph/main",
+        f"{BASE}/graph/lotrwiki",
+    ]
+    values_graphs = " ".join(f"<{g}>" for g in graphs)
+
+    sparql = f"""
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?s (SAMPLE(?label) AS ?labelPick) (MAX(?score0) AS ?score)
+WHERE {{
+  VALUES ?g {{ {values_graphs} }}
+  GRAPH ?g {{
+    ?s rdfs:label ?label .
+    FILTER(isLiteral(?label))
+    FILTER(CONTAINS(LCASE(STR(?label)), LCASE("{q_esc}")))
+
+    BIND(
+      IF(LANGMATCHES(LANG(?label), "{lang_base}"), 3,
+        IF(LANGMATCHES(LANG(?label), "en"), 2,
+          IF(LANG(?label) = "", 1, 0)
+        )
+      ) AS ?score0
+    )
+  }}
+}}
+GROUP BY ?s
+ORDER BY DESC(?score) LCASE(STR(?labelPick))
+LIMIT 80
+"""
+
+    data = sparql_query(sparql, accept="application/sparql-results+json")
+    js = json.loads(data.decode("utf-8", errors="replace"))
+
+    rows = []
+    for b in js.get("results", {}).get("bindings", []):
+        s = b["s"]["value"]
+        label = b.get("labelPick", {}).get("value", s.rsplit("/", 1)[-1])
+        rows.append((s, label))
+
+    items_html = "".join(
+        f'<li><a href="{escape(s)}">{escape(label)}</a> '
+        f'<span style="color:#666;font-size:12px;">({escape(s)})</span></li>'
+        for s, label in rows
+    ) or "<li><em>No results.</em></li>"
+
+    html_out = f"""<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Search — Tolkien KG</title>
+  <style>
+    body {{ font-family:system-ui; padding:18px; max-width: 1100px; margin:0 auto; }}
+    input[type=text] {{ width: 100%; padding: 10px; font-size: 16px; }}
+    button {{ padding: 10px 14px; font-size: 16px; margin-top: 10px; }}
+    .meta {{ color:#666; font-size: 13px; margin-top:6px; }}
+    ul {{ line-height: 1.45; }}
+  </style>
+</head>
+<body>
+  <h2>Search</h2>
+  <form action="/search" method="get">
+    <input type="text" name="q" value="{escape(q)}" />
+    <input type="hidden" name="lang" value="{escape(lang)}"/>
+    <button type="submit">Search</button>
+    <div class="meta">Language priority: <code>{escape(lang_base)}</code> → <code>en</code> → any</div>
+  </form>
+
+  <hr/>
+  <p><strong>Results</strong> for <code>{escape(q)}</code>:</p>
+  <ul>
+    {items_html}
+  </ul>
+
+  <p><a href="/">Back to home</a></p>
+</body>
+</html>"""
+
+    return Response(html_out, content_type="text/html; charset=utf-8")
+
 if __name__ == "__main__":
-    # roda em http://localhost:8000 por padrão
+    # http://localhost:8000
     app.run(host="0.0.0.0", port=8000, debug=True)
