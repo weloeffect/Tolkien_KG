@@ -134,3 +134,14 @@ tg:PageShape a sh:NodeShape ;
     sh:path tg:template ;
     sh:datatype rdf:langString ;
   ] .
+
+############
+# Wikipedia
+############
+
+tg:wikipediaPage a rdf:Property ;
+  rdfs:label "Wikipedia page"@en ;
+  rdfs:comment "Wikipedia page link extracted from Tolkien Gateway externallinks; aligned with schema:sameAs."@en ;
+  rdfs:subPropertyOf schema:sameAs ;
+  rdfs:domain tg:Entity ;
+  rdfs:range schema:URL .
