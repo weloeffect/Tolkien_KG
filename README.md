@@ -227,8 +227,8 @@ This will:
 **Manual test via browser:**
 1. Visit: `http://localhost:3030/#/dataset/tolkien/query`
 2. Try this query:
-`# Count triples per graph`
 ```sparql
+# Count triples per graph
 PREFIX tg: <http://localhost:8000/vocab/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -244,8 +244,9 @@ ORDER BY DESC(?count)
 ```
 
 **Test via command line:**
-`# Count all triples across all graphs`
+
 ```bash
+# Count all triples across all graphs
 curl -G \
   --data-urlencode 'query=SELECT (COUNT(*) AS ?count) WHERE { GRAPH ?g { ?s ?p ?o } }' \
   'http://localhost:3030/tolkien/sparql' \
